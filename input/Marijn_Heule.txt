@@ -1,0 +1,937 @@
+Professor: Marijn Heule
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~mheule
+Description: MARIJN J.H. HEULE
+ASSOCIATE PROFESSOR AT CARNEGIE MELLON UNIVERSITY
+SHORT BIO
+
+I am an Associate Professor in the Computer Science Department at Carnegie Mellon University and received my PhD at Delft University of Technology in the Netherlands. My research focuses on solving hard-combinatorial problems in areas such as formal verification, number theory, and extremal combinatorics. Most of my contributions are related to theory and practice of satisfiability (SAT) solving. I have developed award-winning SAT solvers, and my preprocessing techniques are used in state-of-the-art SAT solvers.
+
+My current research focusses on two major challenges for SAT solving: 1) exploiting the potential of high-performance computing; and 2) validating the results of SAT solvers and related tools. I have been developing a novel parallel SAT solving paradigm, called cube-and-conquer, which enables linear time speedups on many hard problems. The first publication on cube-and-conquer won the best paper award at HVC 2011.
+
+The increasing complexity of SAT solvers and related tools makes it more likely that these tools contain bugs. I designed a new proof format and implemented a fast, corresponding proof checker for SAT and QBF solvers. Proof-logging in this format has been mandatory for the SAT Competitions since 2013, thereby increasing the confidence that tools produce correct results. By constructing and validating a proof for the Boolean Pythagorean Triples problem (200 TB in size), I showed that proof logging and verification is even possible for the hardest problems.
+
+I am one of the editors of the Handbook of Satisfiability. This 900+ page handbook has become a standard for the SAT community, and it is a tremendous resource for future scientists. I am an Associate Editor of the Journal on Satisfiability, Boolean Modeling and Computation and was a co-chair of the SAT 2015 conference in Austin. My research statement and resume offer more details.
+
+CONTACT INFORMATION
+
+Gates-Hillman Complex 9107
+School of Computer Science
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213-3891
+
+email (work): marijn@cmu.edu
+email (personal): marijn@heule.nl
+homepage: http://www.cs.cmu.edu/~mheule
+
+CITATIONS
+
+
+source: Google Scholar Citations
+
+TEAM
+Emre Yolcu (PhD)
+Joseph Reeves (PhD, together with Randy Bryant)
+Bernardo Subercaseaux (PhD)
+Cayden Codel (PhD, together with Jeremy Avigad)
+Md Solimul Chowdhury (Post-doc)
+James Gallicchio (PhD, together with Jeremy Avigad)
+TEACHING
+
+Spring 2024: 15-311 Logic and Mechanized Reasoning
+
+Fall 2023: 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability
+
+Fall 2022: 15-217 Logic and Mechanized Reasoning
+
+Fall 2022: 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability
+
+Spring 2022: 15-210 Parallel and Sequential Datastructures and Algorithms
+
+Fall 2021: 15-217 Logic and Mechanized Reasoning
+
+Fall 2021: 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability
+
+Spring 2021: 15-210 Parallel and Sequential Datastructures and Algorithms
+
+Fall 2020: 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability
+
+Spring 2020: 15-210 Parallel and Sequential Datastructures and Algorithms
+
+Fall 2019: 15-816 Advanced Topics in Logic: Automated Reasoning and Satisfiability
+
+
+
+IN THE MEDIA
+
+Recent articles on automated reasoning and mathematics
+
+New York Times
+July 2, 2023
+A.I. Is Coming for Mathematics, Too [online]
+Quanta Magazine
+April 20, 2023
+The Number 15 Describes the Secret Limit of an Infinite Grid [online]
+Quanta Magazine
+August 26, 2020
+Computer Scientists Attempt to Corner the Collatz Conjecture [online]
+Quanta Magazine
+August 19, 2020
+Computer Search Settles 90-Year-Old Math Problem [online]
+
+Selected articles on the "largest math proof ever", check out Everything's Bigger in Texas for a complete list.
+
+Nature
+Volume 543: 17-18
+Maths proof smashes size record [pdf, url]
+Reddit offers a discussion on this article with 250+ comments
+I Programmer
+May 10, 2016
+A Mathematical Proof Takes 200 Terabytes To State
+This is the first article on the Pythagorean Triples proof
+Azimuth
+May 27/28, 2016
+The world's most long-winded proof and Very Long Proofs
+The first article has 75+ comments including messages by Timothy Gowers
+Der Spiegel
+May 30, 2016
+Zahlenrätsel: Der längste Mathe-Beweis der Welt
+The article includes 60+ comments
+Phys.org
+May 30, 2016
+Computer generated math proof is largest ever at 200 terabytes
+Slashdot offers a discussion on this article with 140+ comments
+
+Appearences in Dutch media:
+
+EenVandaag
+June 8, 2016
+Nederlandse wetenschapper lost wiskundig probleem op
+Dutch news show item on the Pythagorean triples proof including a Skype interview with Ronald Graham.
+Volkskrant
+June 6, 2016
+Bewijs dat nét op 200 laptops past
+Interview in a Dutch newspaper on the "largest math proof ever".
+NRC Handelsblad
+September 5, 2015
+Op vleugels van vervulbaarheid
+Article in a Dutch newspaper on computer-generated proofs for math problems.
+
+Appearence on YouTube:
+
+Numberphile
+May 17, 2018
+The Problem with 7825
+Viewed 1,050,626 times (August 15, 2020).
+
+
+PUBLICATIONS
+2024
+
+Bernardo Subercaseaux and Marijn J. H. Heule (2024).
+A proof long enough to stump Leonhard Euler.
+Nieuw Archief voor Wiskunde 5/25(1): 11-17. [pdf]
+
+Joseph E. Reeves, Marijn Heule and Randal E. Bryant (2024).
+From Clauses to Klauses.
+To appear in Computer Aided Verification - CAV 2024. [preprint]
+
+Marijn J.H. Heule and Manfred Scheucher (2024).
+Happy Ending: An Empty Hexagon in Every Set of 30 Points.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2024, pp. 61-80.
+Lecture Notes in Computer Science 14570, Springer. [arXiv, doi, slides]
+
+Md Solimul Chowdhury, Cayden Codel, and Marijn J.H. Heule (2024).
+TaSSAT: Transfer and Share SAT.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2024, pp. 34-42.
+Lecture Notes in Computer Science 14570, Springer. [preprint, code, doi, slides]
+
+Thomas Garrison, Marijn J.H. Heule, and Bernardo Subercaseaux (2024).
+PackIt! Gamified Rectangle Packing.
+To appear in International Conference on Fun with Algorithms - FUN 2024. [arXiv]
+
+Bernardo Subercaseaux, Wojciech Nawrocki, James Gallicchio, Cayden Codel, Mario Carneiro, and Marijn J. H. Heule (2024).
+Formal Verification of the Empty Hexagon Number.
+To appear in Interactive Theorem Proving - ITP 2024. [preprint, arXiv]
+
+Bernardo Subercaseaux, John Mackey, Marijn J. H. Heule, and Ruben Martins (2024).
+Automated Mathematical Discovery and Verification: Minimizing Pentagons in the Plane.
+To appear in Conference on Intelligent Computer Mathematics - CICM 2024. [preprint, arXiv]
+
+2023
+
+Emre Yocu, Scott Aaronson, and Marijn J. H. Heule (2023).
+An Automated Approach to the Collatz Conjecture.
+Journal of Automated Reasoning 67, Article 15. [arXiv, doi]
+
+Yong Kiam Tan, Marijn J. H. Heule, and Magnus O. Myreen (2023).
+Verified Propagation Redundancy and Compositional UNSAT Checking in CakeML.
+International Journal on Software Tools for Technology Transfer 25: 167-184. [doi]
+
+Petar Vukmirovic, Jasmin Blanchette, and Marijn J.H. Heule (2023).
+SAT-Inspired Eliminations for Superposition.
+ACM Transactions on Computational Logic 24(1), Article 7. [doi]
+
+Randal E. Bryant and Marijn J. H. Heule (2023).
+Generating Extended Resolution Proofs with a BDD-Based SAT Solver.
+ACM Transactions on Computational Logic 24(4), Article 31. [arXiv, doi]
+
+Randal E. Bryant, Wojciech Nawrocki, Jeremy Avigad, and Marijn J. H. Heule (2023).
+Certified Knowledge Compilation with Application to Verified Model Counting.
+In Theory and Practice of Satisfiability Testing - SAT 2023, pp. 6:1-6:20.
+Leibniz International Proceedings in Informatics (LIPIcs) 271, Dagstuhl. [preprint, slides, doi]
+
+Andrew Haberlandt, Harrison Green, and Marijn J. H. Heule (2023).
+Effective Auxiliary Variables via Structured Reencoding.
+In Theory and Practice of Satisfiability Testing - SAT 2023, pp. 11:1-11:19.
+Leibniz International Proceedings in Informatics (LIPIcs) 271, Dagstuhl. [preprint, slides, doi]
+
+Cayden Codel, Jeremy Avigad, and Marijn J. H. Heule (2023).
+Verified Encodings for SAT Solvers.
+In Formal Methods in Computer-Aided Design - FMCAD 2023, pp. 141-151. [pdf, doi]
+
+Yi Zhou, Jay Bosamiya, Yoshi Takashi, Jessica Li, Marijn J. H. Heule, and Bryan Parno (2023).
+Mariposa: Measuring SMT Instability in Automated Program Verification.
+In Formal Methods in Computer-Aided Design - FMCAD 2023, pp. 178-188. [pdf, doi]
+
+Jeremy Avigad, Seulkee Baek, Alexander Bentkamp, Marijn J.H. Heule, and Wojciech Nawrocki (2023).
+An Impossible Asylum.
+The American Mathematical Monthly 130(5): 446-453. [arXiv, doi]
+
+Emre Yocu and Marijn J. H. Heule (2023).
+Exponential Separations Using Guarded Extension Variables.
+In Innovations in Theoretical Computer Science - ITCS 2023, pp. 101:1-101:22.
+Leibniz International Proceedings in Informatics (LIPIcs) 251, Dagstuhl. [arXiv, doi, YouTube]
+
+Bernardo Subercaseaux and Marijn J. H. Heule (2023).
+The Packing Chromatic Number of the Infinite Square Grid is 15.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2023, pp. 389-406.
+Lecture Notes in Computer Science 13993, Springer. Best paper nomination [arXiv, doi]
+
+Bernardo Subercaseaux and Marijn J. H. Heule (2023).
+Toward Optimal Radio Colorings of Hypercubes via SAT-solving.
+In International Conference on Logic for Programming, Artificial Intelligence and Reasoning - LPAR 2023, pp. 386-404.
+EPiC Series in Computing 94, EasyChair. Best paper award [preprint, doi]
+
+
+Joseph E. Reeves, Benjamin Kiesl-Reiter, and Marijn J.H. Heule (2023).
+Propositional Proof Skeletons.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2023, pp. 329-347.
+Lecture Notes in Computer Science 13993, Springer. [preprint, doi]
+
+Dawn Michaelson, Dominik Schreiber, Marijn J.H. Heule, Benjamin Kiesl-Reiter, and Mike Whalen (2023).
+Unsatisfiability Proofs for Distributed SAT Solvers.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2023, pp. 348-366.
+Lecture Notes in Computer Science 13993, Springer. Best paper nomination [preprint, doi]
+
+Md Solimul Chowdhury, Cayden Codel, and Marijn J.H. Heule (2023).
+A Linear Weight Transfer Rule for Local Search.
+In NASA Formal Methods - NFM 2023, pp. 447–463. [preprint, doi]
+
+Runming Li, Keerthana Gurushankar, Marijn J.H. Heule, and Kristin Y. Rozier (2023).
+What’s in a Name? Linear Temporal Logic Literally Represents Time Lines.
+To appear in Working Conference on Software Visualization - VISSOFT 2023. [preprint]
+
+Armin Biere, Mathias Fleury, Nils Froleyks, and Marijn J.H. Heule (2023).
+The SAT Museum.
+In Pragmatics of SAT - PoS 2023, pp. 72-87.
+CEUR Workshop Proceedings 3545. [link]
+
+2022
+
+Joshua Brakensiek, Marijn J. H. Heule, John Mackey, and David E. Narvaez (2022).
+The Resolution of Keller's Conjecture.
+Journal of Automated Reasoning 66: 277–300. [homepage, doi]
+
+Seulkee Baek, Mario Carneiro, and Marijn J.H. Heule (2022).
+A Flexible Proof Format for SAT Solver-Elaborator Communication.
+In Logical Methods in Computer Science 18 (2), 3:1–3:21. [pdf (open access)]
+
+David Neiman, John Mackey, and Marijn J. H. Heule (2022).
+Tighter Bounds on Directed Ramsey Number R(7).
+Graphs and Combinatorics 38, Article number: 156. [arXiv, doi]
+
+Armin Biere, Md Solimul Chowdhury, Marijn J. H. Heule, Benjamin Kiesl, and Michael W. Whalen (2022).
+Migrating Solver State.
+In Theory and Practice of Satisfiability Testing - SAT 2022: 27:1–27:24.
+Leibniz International Proceedings in Informatics (LIPIcs) 236, Dagstuhl. Best paper nomination [preprint, doi (open access)]
+
+Joseph E. Reeves, Randal E. Bryant, and Marijn J. H. Heule (2022).
+Preprocessing of Propagation Redundant Clauses.
+In International Joint Conference on Automated Reasoning - IJCAR 2022, pp. 106–124.
+Lecture Notes in Computer Science 13385, Springer. Best student paper nomination [preprint, doi (open access)]
+
+Graham Gobieski, Souradip Ghosh, Marijn J. H. Heule, Todd Mowry, Tony Nowatzki, Nathan Beckmann, and Brandon Lucia (2022).
+RipTide: A programmable, energy-minimal dataflow compiler and architecture.
+In International Symposium on Microarchitecture - MICRO 2022. [preprint]
+
+Marijn J. H. Heule, Anthony Karahalios, and Willem-Jan van Hoeve (2022).
+From Cliques to Colorings and Back Again.
+In Principles and Practice of Constraint Programming - CP 2022: 26:1–26:10.
+Leibniz International Proceedings in Informatics (LIPIcs) 235, Dagstuhl. [preprint, doi (open access)]
+
+Bernardo Subercaseaux and Marijn J. H. Heule (2022).
+The packing chromatic number of the infinite square grid is at least 14.
+In Theory and Practice of Satisfiability Testing - SAT 2022: 21:1–21:16.
+Leibniz International Proceedings in Informatics (LIPIcs) 236, Dagstuhl. [preprint, doi (open access)]
+
+Leroy Chew and Marijn J. H. Heule (2022).
+Relating existing powerful proof systems for QBF.
+In Theory and Practice of Satisfiability Testing - SAT 2022: 10:1–10:22.
+Leibniz International Proceedings in Informatics (LIPIcs) 236, Dagstuhl. [preprint, doi (open access)]
+
+Randal E. Bryant, Armin Biere, and Marijn J. H. Heule (2022).
+Clausal Proofs for Pseudo-Boolean Reasoning.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2022, 443–461.
+Lecture Notes in Computer Science 13243, Springer. [preprint, doi (open access)]
+
+Joseph E. Reeves, Marijn J. H. Heule, and Randal E. Bryant (2022).
+Moving Definition Variables in Quantified Boolean Formulas.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2022, 462–479.
+Lecture Notes in Computer Science 13243, Springer. [preprint, doi (open access)]
+
+Isaac Grosof, Naifeng Zhang, and Marijn J.H. Heule (2022).
+Towards the shortest DRAT proof of the Pigeonhole Principle.
+To appear in Pragmatics of Satisfiability - PoS 2022. [preprint]
+
+Evan Lohn, Chris Lambert, and Marijn J.H. Heule (2022).
+Compact Symmetry Breaking for Tournaments.
+To appear in Conference on Formal Methods in Computer-Aided Design – FMCAD 2022. [preprint]
+
+2021
+
+Marijn J. H. Heule, Manuel Kauers, and Martina Seidl (2021).
+New ways to multiply 3 x 3-matrices.
+Journal of Symbolic Computation 104: 899-916. [arXiv, doi]
+
+Randal E. Bryant and Marijn J. H. Heule (2021).
+Dual Proof Generation for Quantified Boolean Formulas with a BDD-Based Solver.
+In Conference on Automated Deduction - CADE-28, 433-449.
+Lecture Notes in Computer Science 12699, Springer. [preprint, doi]
+
+Nils Froleyks, Marijn j.H. Heule Markus Iser, Matti Järvisalo, and Martin Suda (2021).
+SAT Competition 2020.
+Artificial Intelligence Journal, volume 301. Elsevier. [doi (open access)]
+
+Armin Biere, Marijn J.H. Heule, Hans van Maaren, and Toby Walsh (2021).
+Handbook of Satisfiability, Second Edition.
+Frontiers in Artificial Intelligence and Applications, volume 336. IOS Press. [link]
+
+Marijn J. H. Heule and Hans van Maaren (2021).
+Look-Ahead Based SAT Solvers.
+Chapter 5 in Handbook of Satisfiability -- second edition, 183-212.
+Frontiers in Artificial Intelligence and Applicaitons, IOS Press. [manuscript version, version of record]
+
+Marijn J. H. Heule (2021).
+Proofs of Unsatisfiability.
+Chapter 15 in Handbook of Satisfiability -- second edition, 635-668.
+Frontiers in Artificial Intelligence and Applicaitons, IOS Press. [manuscript version, version of record]
+
+Emre Yocu, Scott Aaronson, and Marijn J. H. Heule (2021).
+An Automated Approach to the Collatz Conjecture.
+In Conference on Automated Deduction - CADE-28, 468-484.
+Lecture Notes in Computer Science 12699, Springer. [preprint, doi]
+
+Emre Yolcu, Scott Aaronson, and Marijn J. H. Heule (2021).
+Mixed Base Rewriting for the Collatz Conjecture.
+In 17th International Workshop on Termination (WST'21), 57-62. [pdf]
+
+Randal E. Bryant and Marijn J. H. Heule (2021).
+Generating Extended Resolution Proofs with a BDD-Based SAT Solver.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2021, pp. 76-93.
+Lecture Notes in Computer Science 12651, Springer. Best paper nomination [pdf, doi]
+
+Petar Vukmirovic, Jasmin Blanchette, and Marijn J.H. Heule (2021).
+SAT-Inspired Eliminations for Superposition.
+In Conference on Formal Methods in Computer-Aided Design – FMCAD 2021, pp. 231–240. [pdf, doi]
+
+Marijn J. H. Heule (2021).
+Easier variants of notorious math problems.
+Nieuw Archief voor Wiskunde 5/22(3): 153-157. [pdf]
+
+Marijn J. H. Heule (2021).
+Chinese Remainder Encoding for Hamiltonian Cycles.
+In Theory and Practice of Satisfiability Testing - SAT 2021, pp. 216-224.
+Lecture Notes in Computer Science 12831, Springer. [pdf, slides, recording, doi]
+
+Wojciech Nawrocki, Zhenjun Liu, Andreas Fröhlich, Marijn J.H. Heule, and Armin Biere (2021).
+XOR Local Search for Boolean Brent Equations.
+In Theory and Practice of Satisfiability Testing - SAT 2021, 417-435.
+Lecture Notes in Computer Science 12831, Springer. [pdf, slides, recording, doi]
+
+Cayden Codel, Joseph Reeves, Marijn J. H. Heule and Randal E. Bryant (2021).
+Bipartite Perfect Matching Benchmarks.
+Accepted for Pragmatics of SAT (PoS'21). [pdf, slides]
+
+Joseph Reeves and Marijn J. H. Heule (2021).
+The Impact of Bounded Variable Elimination on Pigeonhole Formulas.
+Accepted for Pragmatics of SAT (PoS'21). [pdf, slides]
+
+Cayden Codel and Marijn J. H. Heule (2021).
+A Study of Divide and Distribute Fixed Weights and its Variants.
+Accepted for Pragmatics of SAT (PoS'21). [pdf, slides]
+
+Yong Kiam Tan, Marijn J. H. Heule, and Magnus O. Myreen (2021).
+cake_lpr: Verified Propagation Redundancy Checking in CakeML.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2021, pp. 223-241.
+Lecture Notes in Computer Science 12651, Springer. [pdf, doi]
+
+Seulkee Baek, Mario Carneiro, and Marijn J. H. Heule (2021).
+A Flexible Proof Format for SAT Solver-Elaborator Communication.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2021, pp. 59-75.
+Lecture Notes in Computer Science 12651, Springer. [pdf, doi]
+
+Travis Hance, Marijn J. H. Heule, Ruben Martins, Bryan Parno (2021).
+Finding Invariants of Distributed Systems: It’s a Small (Enough) World After All.
+In Symposium on Networked Systems Design and Implementation - NSDI 2021. [pdf]
+
+Zhenjun Liu, Leroy Chew, Marijn J. H. Heule (2021).
+Avoiding Monochromatic Rectangles Using Shift Patterns.
+In International Symposium on Combinatorial Search SoCS-2021, pp. 225-227. [arXiv (extended version), pdf]
+
+2020
+
+Marijn J. H. Heule, Benjamin Kiesl, and Armin Biere (2020).
+Strong Extension-Free Proof Systems.
+Journal of Automated Reasoning 64: 533-554. [pdf (recommended), doi]
+
+Benjamin Kiesl, Adrian Rebola-Pardo, Marijn J.H. Heule, and Armin Biere (2020).
+Simulating Strong Practical Proof Systems with Extended Resolution.
+Accepted for the Journal of Automated Reasoning. [pdf, doi]
+
+Joshua Brakensiek, Marijn J. H. Heule, John Mackey, and David E. Narvaez (2020).
+The Resolution of Keller's Conjecture.
+In International Joint Conference on Automated Reasoning - IJCAR 2020, pp. 48-65.
+Lecture Notes in Artificial Intelligence 12166, Springer. Best paper award [homepage, pdf, doi, slides]
+
+Sean A. Weaver and Marijn J. H. Heule (2020).
+Constructing Minimal Perfect Hash Functions Using SAT Technology.
+Association for the Advancement of Artificial Intelligence - AAAI 2020, pp. 1668-1675. [arXiv, pdf, doi]
+
+Emre Yolcu, Xinyu Wu, and Marijn J. H. Heule (2020).
+Mycielski graphs and PR proofs.
+In Theory and Practice of Satisfiability Testing - SAT 2020, pp. 201-217.
+Lecture Notes in Computer Science 12178, Spinger. Best student paper award [pdf, doi]
+
+Peter Oostema, Ruben Martins, and Marijn J. H. Heule (2020).
+Coloring Unit-Distance Strips using SAT.
+In Logic for Programming, Artificial Intelligence and Reasoning - LPAR-23, pp. 373-389.
+EPiC Series in Computing 73, EasyChair. [pdf, doi]
+
+Joseph Sweeney, Marijn J. H. Heule, and Lawrence Pileggi (2020).
+Sensitivity Analysis of Locked Circuits.
+In Logic for Programming, Artificial Intelligence and Reasoning - LPAR-23, pp. 483-497.
+EPiC Series in Computing 73, EasyChair. [pdf, doi]
+
+Joseph Sweeney, Marijn J. H. Heule, and Lawrence Pileggi (2020).
+Modeling Techniques for Logic Locking.
+International Conference On Computer Aided Design - ICCAD 2020. [arXiv]
+
+Leroy Chew and Marijn J. H. Heule (2020).
+Sorting Parity Encodings by Reusing Variables.
+In Theory and Practice of Satisfiability Testing - SAT 2020, pp. 1-10.
+Lecture Notes in Computer Science 12178, Spinger. [pdf, doi]
+
+Leroy Chew and Marijn J. H. Heule (2020).
+Relating existing powerful proof systems for QBF.
+Electronic Colloquium on Computational Complexity, Report No. 159 [link]
+
+2019
+
+Marijn J. H. Heule (2019).
+Trimming Graphs Using Clausal Proof Optimization.
+In Constraint Programming - CP 2019, pp. 251-267.
+Lecture Notes in Computer Science 11802, Springer. [arXiv, link, slides]
+
+Benjamin Kiesl, Marijn J. H. Heule, and Armin Biere (2019).
+Truth Assignments as Conditional Autarkies.
+Automated Technology for Verification and Analysis - ATVA 2019, pp. 48-64.
+Lecture Notes in Computer Science 11781, Springer. [pdf (preprint), doi]
+
+Marijn J. H. Heule, Manuel Kauers, and Martina Seidl (2019).
+Local Search for Fast Matrix Multiplication.
+In Theory and Applications of Satisfiability Testing – SAT 2019, pp. 155-163.
+Lecture Notes in Computer Science 11628, Springer. [arXiv, doi, slides]
+
+Marijn J. H. Heule, Manuel Kauers, and Martina Seidl (2019).
+A family of schemes for multiplying 3 × 3 matrices with 23 coefficient multiplications.
+ACM Communications in Computer Algebra 53(3). [pdf, doi, poster]
+
+Marijn J. H. Heule, Benjamin Kiesl, and Armin Biere (2019).
+Encoding Redundancy for Satisfaction-Driven Clause Learning.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2019, pp. 41-58.
+Lecture Notes in Computer Science 11427, Springer. Best paper nomination [pdf, link, slides]
+
+Marijn J. H. Heule, Benjamin Kiesl, and Armin Biere (2019).
+Clausal Proofs of Mutilated Chessboards.
+In NASA Formal Methods (NFM), pp. 204-210.
+Lecture Notes in Computer Science 11460, Springer. [pdf (preprint), doi, slides]
+
+Marijn J. H. Heule, Matti Järvisalo, and Martin Suda (2019).
+SAT Competition 2018.
+Journal on Satisfiability, Boolean Modeling and Computation (JSAT) 11(1): 133-154. [link (open access)]
+
+Armin Biere and Marijn J. H. Heule (2019).
+The Effect of Scrambling CNFs.
+Proceedings of Pragmatics of SAT 2015 and 2018, pp. 111-126. EPiC Series in Computing 59, EasyChair. [pdf, doi]
+
+Marijn J. H. Heule (2019).
+Optimal Symmetry Breaking for Graph Problems.
+Mathematics in Computer Science 13(4), 533-548. [pdf, doi]
+
+Keenan Breik, Chris Thachuk, Marijn J. H. Heule, and David Soloveichik (2019).
+Computing properties of stable configurations of thermodynamic binding networks.
+Theoretical Computer Science 785: 17-29. [doi]
+
+2018
+
+Marijn J. H. Heule (2018).
+Schur Number Five.
+Proceedings of AAAI-18, pp. 6598-6606. [link, arXiv]
+
+Marijn J. H. Heule, Oliver Kullmann, and Armin Biere (2018).
+Cube and Conquer for Satisfiability.
+Handbook of Parallel Constraint Reasoning, Chapter 2, pp. 31-59. [link]
+
+Marijn J. H. Heule and Oliver Kullmann (2018).
+The Science of Brute Force.
+Best Writing on Mathematics 2018, pp. 46-66. [link]
+
+Marijn J. H. Heule and Armin Biere (2018).
+What a Difference a Variable Makes.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2018, pp. 75-92.
+Lecture Notes in Computer Science 10806, Springer. [pdf, doi]
+
+Benjamin Kiesl, Adrian Rebola-Pardo, and Marijn J.H. Heule (2018).
+Extended Resolution Simulates DRAT.
+In International Joint Conference on Automated Reasoning - IJCAR 2018, pp. 516-531.
+Lecture Notes in Computer Science 10900, Springer. Best paper award. [pdf]
+
+Marijn J. H. Heule (2018).
+Brute Trust.
+Nieuw Archief voor Wiskunde, 5th series, 19 (3): 226-227. [pdf]
+
+Marijn J. H. Heule (2018).
+Computing Small Unit-Distance Graphs with Chromatic Number 5.
+Geombinatorics XXVIII(1): 32-50. [arXiv]
+
+2017
+
+Marijn J.H. Heule and Oliver Kullmann (2017).
+The Science of Brute Force.
+Communications of the ACM 60(8), 70-79. [link]
+
+Marijn J. H. Heule (2017).
+Avoiding Triples in Arithmetic Progression.
+Journal of Combinatorics 8(3): 391-422. [pdf]
+
+Marijn J.H. Heule, Benjamin Kiesl, and Armin Biere (2017).
+Short Proofs Without New Variables.
+In Automated Deduction - CADE-26, pp. 130-147. Lecture Notes in Computer Science 10395, Springer. Best paper award. [pdf, doi, slides]
+
+Luís Cruz-Filipe, Marijn J.H. Heule, Warren A. Hunt Jr., Matt Kaufmann, and Peter Schneider-Kamp (2017).
+Efficient Certified RAT Verification.
+In Automated Deduction - CADE-26, pp. 220-236. Lecture Notes in Computer Science 10395, Springer. [pdf, doi]
+
+Marijn J.H. Heule, Oliver Kullmann, and Victor W. Marek (2017).
+Solving very hard problems: Cube-and-Conquer, a hybrid SAT solving method.
+Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17), pp. 4864-4868. [pdf, slides]
+
+Benjamin Kiesl, Marijn J.H. Heule, and Armin Biere (2017).
+A Little Blocked Literal Goes a Long Way.
+In Theory and Applications of Satisfiability Testing - SAT-2017, pp. 281-297.
+Lecture Notes in Computer Science 10491, Springer. [pdf, doi, slides]
+
+Marijn J.H. Heule, Benjamin Kiesl, Martina Seidl, and Armin Biere (2017).
+PRuning Through Satisfaction.
+In Haifa Verification Conference - HVC 2017, pp. 179-194. Lecture Notes in Computer Science 10629, Springer. Best paper award [pdf, doi, slides]
+
+Katalin Fazekas, Marijn J.H. Heule, Martina Seidl, and Armin Biere (2017).
+Skolem Function Composition for Quantified Boolean Formulas.
+In Tests and Proofs - TAP 2017, pp. 129-138. Lecture Notes in Computer Science 10375, Springer. [pdf, doi]
+
+Marijn J.H. Heule, Warren A. Hunt Jr., Matt Kaufmann, and Nathan D. Wetzler (2017).
+Efficient, Verified Checking of Propositional Proofs.
+In Interactive Theorem Proving - ITP 2017, pp. 269-284.
+Lecture Notes in Computer Science 10499, Springer. [pdf, doi]
+
+Valentin Wüstholz, Oswaldo Olivo, Marijn J.H. Heule, and Işıl Dillig (2017).
+Static Detection of DoS Vulnerabilities in Programs that use Regular Expressions.
+In Tools and Algorithms for the Construction and Analysis of Systems - TACAS 2017, pp. 3-20.
+Lecture Notes in Computer Science 10206, Springer. Best paper award. [pdf, arXiv]
+
+Marijn J.H. Heule and Benjamin Kiesl (2017).
+The Potential of Interference-Based Proof Systems.
+In ARCADE 2017, pp. 51-54. EPiC Series in Computing 51. [pdf, slides]
+
+J S. Moore and Marijn J.H. Heule (2017).
+Industrial Use of ACL2: Applications, Achievements, Challenges, and Directions.
+In ARCADE 2017, pp. 42-45. EPiC Series in Computing 51. [pdf, slides]
+
+Marijn J.H. Heule (2017).
+Everything's Bigger in Texas: "The Largest Math Proof Ever".
+3rd Global Conference on Artificial Intelligence, pp. 1-5. EPiC Series in Computing 50. [pdf]
+
+Tomas Balyo, Marijn J.H. Heule, and Matti Järvisalo (2017).
+SAT Competition 2016: Recent Developments.
+Proceedings of AAAI 2017, pp. 5061-5063. [pdf]
+
+Keenan Breik, Lakshmi Prakash, Chris Thachuk, Marijn J.H. Heule, and David Soloveichik (2017).
+Computing properties of stable configurations of thermodynamic binding networks. [arXiv]
+
+2016
+
+Marijn J.H. Heule, Oliver Kullmann, and Victor W. Marek (2016).
+Solving and Verifying the boolean Pythagorean Triples problem via Cube-and-Conquer.
+In Theory and Applications of Satisfiability Testing – SAT 2016, pp. 228-245.
+Lecture Notes in Computer Science 9710, Springer. Best paper award. [pdf, doi, slides]
+Files and tools of the "largest math proof ever" are available at Everything's Bigger in Texas.
+
+Cuong Kim Chau and Marijn J.H. Heule (2016).
+Computing Maximum Unavoidable Subgraphs Using SAT Solvers.
+In Theory and Applications of Satisfiability Testing – SAT 2016, pp. 196-211. Lecture Notes in Computer Science 9710, Springer. [pdf, doi]
+
+Marijn J.H. Heule, Martina Seidl, and Armin Biere (2016).
+Solution Validation and Extraction for QBF Preprocessing
+Journal of Automated Reasoning 58(1), 97-125. [pdf, doi]
+
+Marijn J.H. Heule (2016).
+The Quest for Perfect and Compact Symmetry Breaking for Graph Problems.
+Accepted for SYNASC 2016. [pdf, slides]
+
+Marijn J.H. Heule, Rezwana Reaz, H. B. Acharya, and Mohamed G. Gouda (2016).
+Analysis of Computing Policies Using SAT Solvers (Short Paper).
+In 18th International Symposium on Stabilization, Safety, and Security of Distributed Systems – SSS 2016 pp. 1-5. Lecture Notes in Computer Science 10083, Springer. [pdf]
+
+2015
+
+Marijn J.H. Heule and Sean Weaver (2015).
+Proceedings of Theory and Applications of Satisfiability Testing - SAT 2015 - 18th International Conference, Austin, TX, USA, September 24-27, 2015.
+Lecture Notes in Computer Science 9340, Springer. ISBN 978-3-319-24317-7. [link]
+
+Marijn J.H. Heule, Matti Järvisalo, Florian Lonsing, Martina Seidl, and Armin Biere (2015).
+Clause Elimination for SAT and QSAT.
+Journal of Artificial Intelligence Research (JAIR) 53: 127-168. [pdf]
+
+Marijn J.H. Heule and Stefan Szeider (2015).
+A SAT Approach to Clique-Width.
+ACM Transactions on Computational Logic (TOCL) 16(3): 24 [pdf]
+
+Marijn J.H. Heule, Warren Hunt, Jr., and Nathan Wetzler (2015).
+Expressing Symmetry Breaking in DRAT Proofs.
+In Automated Deduction - CADE-25, pp. 591-606. Lecture Notes in Computer Science 9195, Springer. [pdf, slides]
+
+Marijn J.H. Heule and Armin Biere (2015).
+Compositional Propositional Proofs.
+In LPAR-20, pp. 444-459. Lecture Notes in Computer Science 9450, Springer. [pdf, slides]
+
+Marijn J.H. Heule, Martina Seidl, and Armin Biere (2015).
+Blocked Literals are Universal.
+In NASA Formal Methods - NFM 2015, pp. 436-442. Lecture Notes in Computer Science 9058, Springer. [pdf, slides]
+
+Marijn J.H. Heule and Torsten Schaub (2015).
+What's Hot in the SAT and ASP Competitions.
+In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI 2015), pp. 4322-4323. AAAI Press. [pdf]
+
+Marijn J.H. Heule and Armin Biere (2015).
+Proofs for Satisfiability Problems.
+Chapter 1 of All about Proofs, Proofs for all. [pdf, slides]
+
+Marijn J.H. Heule and Armin Biere (2015).
+Clausal Proof Compression.
+Accepted for the 11th International Workshop on the Implementation of Logics. [link, pdf]
+
+Rezwana Reaz, Muqeet Ali, Mohamed G. Gouda, Marijn J.H. Heule, and Ehab S. Elmallah (2015).
+The Implication Problem of Computing Policies.
+In Stabilization, Safety, and Security of Distributed Systems, pp. 109-123. Lecture Notes in Computer Science 9212, Springer. [pdf]
+
+2014
+
+Marijn J.H. Heule, Matina Seidl and Armin Biere (2014).
+Efficient Extraction of Skolem Functions from QRAT Proofs.
+In Formal Methods in Computer-Aided Design 2014, pp. 107-114. [pdf]
+
+Marijn J.H. Heule, Matina Seidl and Armin Biere (2014).
+A Unified Proof System for QBF Preprocessing.
+In 7th International Joint Conference on Artifical Reasoning, IJCAR 2014, pp. 91-106. Lecture Notes in Computer Science Volume 8562, Springer. [pdf]
+
+Anton Belov, Marijn J.H. Heule and Joao Marques-Silva (2014).
+MUS Extraction Using Clausal Proofs.
+In Theory and Applications of Satisfiability Testing – SAT 2014, pp. 48-57. Lecture Notes in Computer Science 8561, Springer. [pdf]
+
+Marijn J.H. Heule, Warren A. Hunt and Nathan Wetzler (2014).
+Bridging the gap between easy generation and efficient verification of unsatisfiability proofs.
+Software Testing, Verification and Reliability 24(8):593-607. [pdf]
+
+Tomas Balyo, Andreas Fröhlich, Marijn J.H. Heule and Armin Biere (2014).
+Everything You Always Wanted to Know about Blocked Sets (But Were Afraid to Ask).
+In Theory and Applications of Satisfiability Testing – SAT 2014, pp. 317-332. Lecture Notes in Computer Science 8561, Springer. [pdf]
+
+Nathan Wetzler, Marijn J.H. Heule and Warren A. Hunt (2014).
+DRAT-trim: Efficient Checking and Trimming Using Expressive Clausal Proofs.
+In Theory and Applications of Satisfiability Testing – SAT 2014, pp. 422-429. Lecture Notes in Computer Science 8561, Springer. [pdf]
+
+2013
+
+Marijn J.H. Heule and Sicco Verwer (2013).
+Software model synthesis using satisfiability solvers.
+Empirical Software Engineering 18(4): 825-856. [doi]
+
+Marijn J.H. Heule, Warren A. Hunt, Jr. and Nathan Wetzler (2013).
+Trimming while checking clausal proofs.
+In Formal Methods in Computer-Aided Design 2013, pp. 181-188. [pdf]
+
+Marijn J.H. Heule, Warren Hunt, Jr., and Nathan Wetzler (2013).
+Verifying Refutations with Extended Resolution.
+In Automated Deduction - CADE-24, pp. 345-359. Lecture Notes in Computer Science 7898, Springer. [pdf]
+
+Nathan Wetzler, Marijn J.H. Heule and Warren A. Hunt, Jr. (2013).
+Mechanical Verification of SAT Refutations with Extended Resolution.
+In Interactive Theorem Proving 2013, pp. 229–244. Lecture Notes in Computer Science 7998, Springer. [pdf]
+
+Marijn J.H. Heule, Matti Järvisalo and Armin Biere (2013).
+Revisiting Hyper Binary Resolution.
+In CPAIOR 2013, pp. 77-93. Lecture Notes in Computer Science 7874, Springer. [pdf]
+
+Marijn J.H. Heule and Armin Biere (2013).
+Blocked Clause Decomposition.
+In Logic for Programming, Artificial Intelligence, and Reasoning 2013, pp. 423-438. Lecture Notes in Computer Science 8312, Springer. [pdf]
+
+Christiaan Hartman, Marijn J. H. Heule, Kees Kwekkeboom, and Alain Noels (2013).
+Symmetry in Gardens of Eden.
+In The Electronic Journal of Combinatorics 20: P16. [link]
+
+Marijn J.H. Heule and Stefan Szeider (2013).
+A SAT Approach to Clique-Width.
+In Theory and Applications of Satisfiability Testing – SAT 2013, pp. 318-334. Lecture Notes in Computer Science 7962, Springer. [pdf]
+
+Magdalena Widl, Armin Biere, Petra Brosch, Uwe Egly, Marijn J.H. Heule, Gerti Kappel, Martina Seidl and Hans Tompits (2013).
+Guided merging of sequence diagrams.
+In Software Language Engineering, pp. 164-183. Lecture Notes in Computer Science 7745, Springer. [doi]
+
+2012
+
+Norbert Manthey, Marijn J.H. Heule, and Armin Biere (2012).
+Automated Reencoding of Boolean Formulas.
+In Haifa Verification Conference 2012, pp. 102-117. Lecture Notes in Computer Science 7857, Springer. Best paper award. [doi]
+
+Peter van der Tak, Marijn J.H. Heule, and Armin Biere (2012).
+Concurrent Cube-and-Conquer.
+In Pragmatics of SAT.
+
+Peter van der Tak, Marijn J.H. Heule, and Armin Biere (2012).
+Concurrent Cube-and-Conquer: Poster Presentation.
+In Theory and Applications of Satisfiability Testing – SAT 2012, pp. 475-476. Lecture Notes in Computer Science 7317, Springer. [doi]
+
+Matti Järvisalo, Marijn J.H. Heule, and Armin Biere (2012).
+Inprocessing Rules.
+In 6th International Joint Conference, IJCAR, pp. 355-370. Lecture Notes in Computer Science 7364, Springer. [pdf, doi]
+
+Matti Järvisalo, Armin Biere, and Marijn J.H. Heule (2012).
+Simulating Circuit-Level Simplifications on CNF.
+Journal of Automated Reasoning 49(4):583-619. [doi]
+
+Marijn J.H. Heule, Oliver Kullmann, Siert Wieringa, and Armin Biere (2012).
+Cube and Conquer: Guiding CDCL SAT Solvers by Lookaheads.
+In Haifa Verification Conference 2011, pp. 50-65. Lecture Notes in Computer Science 7261, Springer. [pdf]
+
+2011
+
+Peter van der Tak, Antonio Ramos, and Marijn J.H. Heule (2011).
+Reusing the Assignment Trail in CDCL Solvers.
+Journal on Satisfiability, Boolean Modeling and Computation 7:133-138. [pdf]
+
+Oliver Gableske and Marijn J.H. Heule (2011).
+EagleUP: Solving Random 3-SAT using SLS with Unit Propagation.
+In Pragmatics of SAT 2011. [pdf]
+
+Oliver Gableske and Marijn J.H. Heule (2011).
+EagleUP: Solving Random 3-SAT using SLS with Unit Propagation.
+In SAT 2011, pp. 367-368. Lecture Notes in Computer Science 6695, Springer. [pdf]
+
+Antonio Ramos, Peter van der Tak, and Marijn J.H. Heule (2011).
+Between Restarts and Backjumps.
+In K.A. Sakallah and L. Simon (Eds.), SAT 2011, pp. 216-229. Lecture Notes in Computer Science, Springer. [pdf]
+
+Marijn J.H. Heule, Matti Järvisalo, and Armin Biere (2011).
+Efficient CNF Simplification based on Binary Implication Graphs.
+In K.A. Sakallah and L. Simon (Eds.), SAT 2011, pp. 201-215. Lecture Notes in Computer Science 6695, Springer. [pdf]
+
+2010
+
+Shai Haim and Marijn Heule (2010).
+Towards Ultra Rapid Restarts.
+Technical Report, UNSW and TU Delft. [pdf]
+
+Marijn J.H. Heule, Matti Järvisalo, and Armin Biere (2010).
+Covered Clause Elimination.
+In Short paper proceedings of LPAR-17, 17th International Conference on Logic for Programming, Artificial Intelligence and Reasoning, Yogyakarta, Indonesia, October 10th - 15th, 2010. EasyChair Proceedings. [pdf]
+
+Marijn J.H. Heule, Matti Jarvisalo, and Armin Biere (2010).
+Blocked Clause Elimination and its Extentions.
+Technical Report, Proceedings of Guangzhou Symposium on Satisfiability In Logic-Based Modeling. [pdf]
+
+Sid Mijnders, Boris de Wilde, and Marijn J.H. Heule (2010).
+Symbiosis of Search and Heuristics for Random 3-SAT.
+In David Mitchell and Eugenia Ternovska (Eds.), Proceedings of the Third International Workshop on Logic and Search (LaSh 2010). [pdf]
+
+Marijn J.H. Heule and Toby Walsh (2010).
+Internal Symmetry. In Pierre Flener and Justin Pearson (Eds.), The 10th International Workshop on Symmetry in Constraint Satisfaction Problems (SymCon'10), pp. 19-33. [pdf]
+
+Marijn J.H. Heule, Matti Järvisalo, and Armin Biere (2010).
+Clause Elimination Procedures for CNF Formula. [pdf]
+
+Marijn J.H. Heule and Sicco Verwer (2010).
+Exact DFA Identification Using SAT Solvers.
+In José M. Sempere and Pedro García (Eds.), Grammatical Inference: Theoretical Results and Applications 10th International Colloquium, ICGI 2010, pp. 66-79. Lecture Notes in Computer Science 6339, Springer. [pdf]
+
+Marijn J.H. Heule and Toby Walsh (2010).
+Symmetry within Solutions.
+In Proceedings of the Twenty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2010), pp. 77-82. AAAI Press. [pdf]
+
+Matti Järvisalo, Armin Biere, and Marijn J.H. Heule (2010).
+Blocked Clause Elimination.
+In J. Esparza and R. Majumdar (Eds.), TACAS 2010, pp. 129-144. Lecture Notes in Computer Science 6015, Springer. [pdf]
+
+2009
+
+Marijn J.H. Heule and Sicco Verwer (2009).
+Using a satisfiability solver to identify deterministic finite state automata.
+In Toon Calders and Karl Tuyls and Mykola Pechenizkiy (Eds.), BNAIC 2009, pp. 91-98. Best paper award. [pdf]
+
+Bas Schaafsma, Marijn J.H. Heule, and Hans van Maaren (2009).
+Dynamic Symmetry Breaking by Simulating Zykov Contraction.
+In Oliver Kullmann (Eds.), Theory and Applications of Satisfiability Testing -- SAT 2009, pp. 223-236, June 30 - July 3, 2009, Swansea. LNCS 5584, Springer. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2009).
+Look-Ahead Based SAT Solvers.
+In Armin Biere and Marijn J.H. Heule and Hans van Maaren and Toby Walsh (Eds.), Chapter 5 of Handbook os Satisfiability, pp. 155-184. IOS Press. [pdf, doi]
+
+Armin Biere, Marijn J.H. Heule, Hans van Maaren, and Toby Walsh (2009).
+Handbook of Satisfiability.
+Frontiers in Artificial Intelligence and Applications, volume 85. IOS Press. [link]
+
+2008
+
+Marijn J.H. Heule (2008).
+SmArT solving: Tools and techniques for satisfiability solvers.
+PhD Thesis, TU Delft. [pdf]
+
+Marijn J.H. Heule (2008).
+Solving edge-matching problems with satisfiability solvers.
+In Proceedings of the Second International Workshop on Logic and Search (LaSh 2008), pp. 88-102. University of Leuven. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2008).
+Whose side are you on? Finding solutions in a biased search-tree.
+Journal on Satisfiability, Boolean Modeling and Computation 4:117-148. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2008).
+Parallel SAT Solving using Bit-level Operations.
+Journal on Satisfiability, Boolean Modeling and Computation 4:99-116. [pdf]
+
+Henriette Bier, Adriaan de Jong, Gijs van der Hoorn, Niels Brouwers, Marijn J.H. Heule, and Hans van Maaren (2007).
+Prototypes for Automated Architectural 3D-Layout.
+In T.G. Wyeld and S. Kenderdine and M. Docherty (Eds.), Proceedings of the 13th International Conference on Virtual Systems and Multimedia, pp. 203-214. Lecture Notes in Computer Science 4820, Springer. [pdf]
+
+Hans van Maaren, Linda van Norden, and Marijn J.H. Heule (2008).
+Sums of squares based approximation algorithms for MAX-SAT.
+Discrete Applied Mathematics 156(10):1754-1779. [doi]
+
+2007
+
+Marijn J.H. Heule and Hans van Maaren (2007).
+From Idempotent Generalized Boolean Assignments to Multi-bit Search.
+In Joao Marques-Silva and Karem A. Sakallah (Eds.), Theory and Applications of Satisfiability Testing - SAT 2007, pp. 134-147. Lecture Notes in Computer Science 4501, Springer. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2007).
+Effective Incorporation of Double Look-Ahead Procedures.
+In Joao Marques-Silva and Karem A. Sakallah (Eds.), Theory and Applications of Satisfiability Testing - SAT 2007, pp. 258-271. Lecture Notes in Computer Science 4501, Springer. [pdf]
+
+Marijn J.H. Heule and Leon J.M. Rothkrantz (2007).
+Solving Games: Dependance of applicable solving procedures.
+Science of Computer Programming 67(1):105-124. [pdf]
+
+Paul R. Herwig, Marijn J.H. Heule, Martijn van Lambalgen, and Hand van Maaren (2007).
+A New Method to Construct Lower Bounds for Van der Waerden Numbers.
+The Electronic Journal of Combinatorics 14:1-18. [pdf]
+
+2006
+
+Marijn J.H. Heule and Hans van Maaren (2006).
+Whose side are you on? Finding solutions in a biased search-tree.
+Technical Report, Proceedings of Guangzhou Symposium on Satisfiability In Logic-Based Modeling. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2006).
+March_dl: Adding Adaptive Heuristics and a New Branching Strategy.
+Journal on Satisfiability, Boolean Modeling and Computation 2:47-59. [pdf]
+
+2005
+
+Marijn J.H. Heule, Joris E. van Zwieten, Mark Dufour and Hans van Maaren (2005).
+March_eq: Implementing Additional Reasoning into an Efficient Lookahead Sat Solver.
+In Holger H. Hoos and David G. Mitchell (Eds.), SAT 2004, pp. 345-359. Lecture Notes in Computer Science 3542, Springer. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2005).
+Aligning CNF- and Equivalence- Reasoning.
+In Holger H. Hoos and David G. Mitchell (Eds.), SAT 2004, pp. 145-156. Lecture Notes in Computer Science 3542, Springer. [pdf]
+
+Marijn J.H. Heule and Hans van Maaren (2005).
+Observed Lower Bounds for Random 3-Sat Phase Transition Density using Linear Programming.
+In Fahiem Bacchus and Toby Walsh (Eds.), SAT 2005, pp. 122-134. Lecture Notes in Computer Science 3569, Springer. [pdf]
+
+TALKS
+
+Selected invited talks and tutorials. Slides of conference talks can be found under publications.
+
+2016
+
+Invisted talk at the Logic and Search Workshop in New York on October 17, 2016.
+Everything's Bigger in Texas - The Largest Math Proof Ever. [slides]
+
+Dagstuhl talk in Wadern, Germany on September 20, 2016.
+Practical Proof Systems for SAT and QBF. [slides]
+
+Talk during research visit to Rice University on August 24, 2016.
+Everything's Bigger in Texas - The Largest Math Proof Ever. [slides]
+
+Talk at the Fields Institute in Toronto, Canada on August 18, 2016.
+Applications of SAT solving to Mathematics: Proofs and Heuristics. [slides]
+
+Talk during research visit to the Max Planck Institute in Saarbruecken, Germany on July 27, 2016.
+Everything's Bigger in Texas - The Largest Math Proof Ever. [slides]
+
+Tutorial at the Industry Day of SAT 2016 in Bordeaux, France on July 9, 2016.
+Proofs of Unsatisfiability. [slides]
+
+Talk during research visit to Johannes Kepler University in Linz, Austria on June 22, 2016.
+Everything's Bigger in Texas - The Largest Math Proof Ever. [slides]
+
+An invited talk at the 50 Years of the Hales-Jewett Theorem conference in Bellingham, Washington on May 6, 2016.
+Solving and Verifying the Boolean Pythagorean Triples Problem via Cube-and-Conquer. [slides]
+
+SOFTWARE
+DRAT-trim
+website, GitHub
+DRAT-trim is a satisfiability proof checking and trimming utility designed to validate proofs for all known satisfiability solving and preprocessing techniques. DRAT-trim can also emit trimmed formulas, optimized proofs, and TraceCheck+ dependency graphs.
+QRAT-trim
+website
+QRAT-trim is a proof checking utility for quantified Boolean formulas and is based on the QRAT proof system. The tool also supports the conversion of QRAT proofs into Skolem functions.
+Cube-and-Conquer
+sources
+The cube-and-conquer parallel SAT solving paradigm combines look-ahead techniques for splitting with conflict-driven clause-learning techniques.
+March
+sources
+The March SAT solver (latest version march_br) is based on the lookahead architecture. It is the latest version in the march family of solvers, which won many medals at various SAT competitions. See the SAT 2004 paper for details.
+DRUP-trim
+website
+DRUP-trim is a proof checking utility based on the reverse unit propagation redundancy property. The tool was used to validate the results of SAT Competition 2013.
+
+Design adapted from KamSolutions and uses Bootstrap.
+
+
+
+
+
+
+

@@ -1,0 +1,102 @@
+Professor: Christo Wilson
+University: Northeastern University
+URL: http://www.ccs.neu.edu/home/cbw
+Description: Christo Wilson
+Research 
+Publications
+Press
+Teaching 
+FAQs 
+
+I am a Professor in the Khoury College of Computer Sciences at Northeastern University. I am a member of the Cybersecurity and Privacy Institute and the Associate Dean of Undergraduate Programs in Khoury College.
+
+I am a faculty associate at the Berkman Klein Center for Internet & Society at Harvard University, and an affiliate member of the Center for Law, Innovation and Creativity at Northeastern University School of Law.
+
+My research seeks to investigate the sociotechnical systems that shape our lives using a multi-disciplinary approach. I believe that by increasing transparency we can also improve accountability of these systems. If you're interested in my research, here is a brief video about algorithm auditing, here is a longer video about our investigation of bias in hiring algorithms, and here is a video discussing the role of algorithm auditing in AI regulation.
+
+Along with my co-PIs, I am currently working to launch the National Internet Observatory. This NSF-funded project seeks to gather data about the online habits of a large, representative panel of US residents and then make it available to qualified researchers around the world.
+
+News
+June 2024: I am honored to report that I have been promoted to Full Professor! Thank you to all my students, collaborates, and colleagues who have helped me reach this milestone.
+May 2024: Congrats to Desheng, Jeffrey, and Aziz: their paper examining the market for online search received an Honorable Mention Award at ICWSM 2024 (one of three total awards given at the conference)! Our group has received paper awards at ICWSM for two year running!
+November 2023: We have two papers accepted to appear at ICWSM 2024: one focusing on different conceptualizations of Google's power in the market for search engines, and one focused on offensive and defensive brand advertising on search engines. Camera ready copies will be posted soon. Congrats to all the authors! These papers represent the culmination of collaborations stretching across computer science, law, and business.
+June 2023: Congrats to Jeffrey Gleason, whose ICWSM paper "Google the Gatekeeper" received a Best Paper award!
+Contact and Links
+
+cbw@ccs.neu.edu
+
+Twitter: @bowlinearl
+Mastodon: Mastodon
+
+Office: 408, 177 Huntington Avenue
++1 617 373 8802
+
+PGP D95955E703474D7F0CC01FD0BDE2B89DD18E214A
+SSH hEVw0Q4tH270d2qAAwXQHjxiTiEVZqUosnkzzY4N2EU
+
+CV
+Google Scholar
+
+Research
+Algorithmic Auditing
+
+There is growing concern about the impact of powerful, opaque algorithms on our daily lives. In our work, we are focused on auditing algorithms: we use carefully controlled experiments to understand the data and algorithms used by companies, and assess the impact of these algorithms on normal people. Examples of our work include:
+
+Examining whether personalization and ranking algorithms on Google Search create partisan "filter bubbles"
+Understanding the role that ranking algorithms play in reinforcing gender and racial bias within gig-economy and traditional labor marketplaces
+Critically examining online price discrimination and algorithmic manipulation in Amazon marketplace
+Examining ridesharing platforms to understand surge price algorithms and accessibility
+Investigating localization and the geopolitics of online maps
+Our ultimate goals are to make algorithmic systems more transparent to the public, and to develop tools that help users avoid unwanted or harmful systems. We are actively collaborating with regulators to turn our research findings into practical policy outcomes.
+
+This work has appeared in IMC, CSCW, CHI, and WWW. More information, including source code and data, can be found on the project website.
+
+Tracking and Privacy
+
+Tracking is ubiquitous on the Web today, and yet we have only the most basic understanding of who collects data about us, and how this data is shared with third-parties. We are currently delving inside the tracking ecosystem to answer these questions, including:
+
+Investigating whether Android apps are surreptitiously taking audio and video recordings of users
+Developing causal methods to uncover the data sharing relationships between trackers and advertisers
+Building models of the tracking ecosystem to understand user's privacy footprint, and the efficacy of tracker-blocking strategies
+Using surveys to determine whether the inferences drawn by trackers about users are correct or valuable
+Investigating techniques used by trackers to circumvent ad blockers
+Based on our findings, we plan to empower users with tools to help protect their privacy. Our work on this topic has appeared at Usenix Security, NDSS, IMC, and PETS.
+
+PKI and TLS
+
+Public Key Infrastructure is the root of trust and security on the internet.Prominent examples include the SSL/TLS and DNSSEC PKIs. However, recent events like the Heartbleed vulnerability have demonstrated that critical PKIs are vulnerable to both software and human-induced failures. We are working to understand the threats to modern PKIs, and develop novel systems to address these challenges. Examples of our research include:
+
+Measuring whether website administrators followed best practices (i.e. patching, reissuing, and revoking certificates) in the wake of Heartbleed
+Analyzing certificate revocation practices on the web from the perspective of website owners and browser vendors
+Understanding how private keys for TLS certificates are shared with and aggregated by hosting providers
+Building new systems to efficiently and proactively push certificate revocation information to web browsers
+Measuring DNSSEC adoption and investigating the root causes behind its low adoption rate
+Investigating whether the web is ready to deploy improved security measures like OCSP Must-Staple
+
+This work has appeared at IEEE S&P, CCS, Usenix Security, and IMC. More information about our SSL/TLS research, including source code and data, can be found on the project website.
+
+Teaching
+
+I am not teaching in Fall 2023. In the past I have taught:
+
+CS 2500: Fundamentals of Computer Science 1
+CY 2550 - Foundations of Cybersecurity
+CS 3700 - Networks and Distributed Systems
+CS 4700/5700: Network Fundamentals
+CS 5600: Computer Systems
+CS 4740/6740: Network Security
+CS 5740: Social Computing
+I spend an inordinate amount of time animating and tuning my slide decks.
+
+Funding
+
+I am grateful for support from the National Science Foundation, Northwestern University and Underwriters Laboratories, the Sloan Foundation, the Mozilla Foundation, the Russell Sage Foundation, Google, Pymetrics the Democracy Fund, the Anti Defamation League, the Knight Foundation, the Data Transparency Lab, the European Commission, Verisign Labs, and Northeastern University under the TIER 1 grants program.
+
+Service
+
+I recently served as co-General Chair of the Privacy Law Scholars Conference (PLSC) '22. I served as co-Program Committee Chair of the inaugural Fairness, Accountability, and Transparency Conference (FAT*) 2018 (subsequently renamed to ACM FAccT) and I continue to serve on the Steering Committee for FAccT.
+
+Recently, I served on the PETS '22, IEEE S&P '20, and IMC '18 Program Committees. I also regularly present our work to audiences outside academia.
+
+© 2024 Christo Wilson, Associate Professor, Khoury College of Computer Sciences, Northeastern University. Compiled on Tue, 23 Jul 2024 14:42:07 +0000.
+

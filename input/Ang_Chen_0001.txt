@@ -1,0 +1,67 @@
+Professor: Ang Chen 0001
+University: University of Michigan
+URL: https://web.eecs.umich.edu/~chenang
+Description: 	Ang Chen
+Associate Professor
+Computer Science and Engineering
+University of Michigan
+Office: 4753 Beyster building
+E-mail: chenang (at) umich (dot) edu
+
+
+I'm looking for PhD students and postdocs!
+
+Research | Teaching | Group | Publications | Service | Grants
+Research
+My work focuses on systems, networking, and security. I'm particularly drawn to research problems that require a cross-disciplinary approach and produce a practical impact.
+Runtime programmable networks: We envision that the end-to-end network infrastructure, vertically from the host kernels to the NICs, and horizontally extending across switches to the other end of the network, can be reprogrammed on-the-fly without packet loss, and with strong consistency guarantees. See our vision paper, joint talk, the runtime programmable switch project which implements runtime reconfiguration for a commercially available switch ASIC, a program synthesis tool that generates runtime update plans, and our $3M NSF Large project and Nvidia's HotChips'23 talk.
+Programmable in-network security: Our vision is to transform a programmable network into a "programmable defense infrastructure," which supports security as naturally as it does routing. In this design, a switch not only forwards traffic, but also applies to it a wide range of defenses. The network not only routes traffic end-to-end, but also swaps defenses along the paths in and out as needed to mitigate attacks. Recent projects include: Poise, NetWarden, Ripple, P4wn, Bedrock.
+ML for systems software: Systems software (e.g., OS kernels) needs to support different applications and multiplex different types of hardware platforms; no one-size-fits-all optimizations exist. Neural networks are effective at generalizing to unseen scenarios, but their blackbox nature is a poor fit for low-level systems software, which must make safety-critical decisions. In this project, we are pursuing two approaches: a) creating systems-level mechanisms that are constrained by symbolic logic while making them reconfigurable with learning-derived policies, and b) applying learning to analyze systems-level code to identify optimization opportunities. See examples at this paper and the Clara project.
+Causality in distributed systems: Diagnosing problems in large systems has always been a challenging problem due to their complexity. Our project uses data provenance to track causal relationships between system states and their changes. It further uses them to enable automated reasoning for fault diagnosis, repair, and prevention, e.g., using a Datalog-like logical model. See the individual projects: Spidermon, CloudCanary, Zeno, DiffProv, SPP, MetaProv.
+Infrastructure optimizations for data-intensive systems: This project aims at a tighter vertical integration between data-intensive systems and the cloud infrastructure to improve their performance, by whole-stack optimizations from the network layer to the OS, and to distributed frameworks and the applications themselves. One overarching theme for these optimizations is to reconfigure or rearchitect various parts of the infrastructure for data-intensive workloads, as further informed by modern hardware technologies available in the cloud. Projects include: DDCs, GraphRex, Contra, Lightning, TELEPORT, RDC.
+Group
+Current PhD students:
+Jiarong Xing (2018-) On the academic job market 2023-2024!
+
+Yiming Qiu (2020-)
+
+Patrick Kon (2021-)
+
+Hari Sezhiyan (2022-) w/ Eugene Ng
+
+Current postdoc:
+Yibo Huang
+
+Postdoc+ PhD Alumni:
+
+Diogo Barradas (Postdoc), now Assistant Professor at University of Waterloo
+
+Kuo-Feng Hsu (PhD), now Research Scientist at Meta/Facebook
+
+MS+BS Alumni:
+
+Wenqing Arthur Wu (BS), now at UChicago
+
+Qiao Kang (MS)
+
+Adam Morrison (BS+MS), now at Arista Networks
+
+Mitch Belmer (BS), now at Accenture
+
+Yujian Ou (BS)
+
+Service
+Program Committee: Oakland 2024, EuroSys 2024, PoPETS 2024, APNet 2024, CCS 2023, NSDI 2023, Oakland 2023, SIGCOMM 2022, CCS 2022, APSys 2022, NSDI 2021, CoNEXT 2021, SOSR 2021, ICNP 2021, ICDCS 2018, NDSS 2018, CIKM 2017
+Program Co-chair: NeTS Early Investigator Workshop 2021, SIGCOMM SPIN'20
+
+Grants
+CNS-2214272, CNS-2106751, CNS-2106388, CCRI-2016727, CAREER, CNS-1801884
+
+Teaching
+I teach the following courses on a regular basis:
+Introduction to Computer Systems: 2022 Fall
+Secure and Cloud Computing: 2018-2021 Fall, 2023 Spring
+Advanced Topics in Distributed Systems: 2018-2022 Spring
+
+
+

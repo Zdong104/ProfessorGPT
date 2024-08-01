@@ -1,0 +1,329 @@
+Professor: Soumya Ray
+University: Case Western Reserve University
+URL: http://engr.case.edu/ray_soumya
+Description: Soumya Ray
+(Ph. D., University of Wisconsin-Madison, 2005)
+Associate Professor
+Department of Electrical Engineering and Computer Science
+Case Western Reserve University
+Office: Olin 516
+Office hours: F 9:30am-11:00am
+Email: sray AT case
+Mailing Address: Department of EECS, Glennan 320, 10900 Euclid Ave, Cleveland OH 44106-7071
+Research Areas: Artificial Intelligence, Machine Learning, Reinforcement Learning and Planning
+Slack group
+Github
+Teaching
+
+I teach undergraduate AI (EECS 391) in the spring and graduate machine learning (EECS 440) in the fall. I also teach two other graduate level courses: EECS 496 (Sequential Decision Making) and EECS 497 (Statistical Natural Language Processing). Currently, these last two are offered once every two years. You can visit this page to learn more about these courses.
+
+I am the current AI minor advisor. This minor provides a broad foundation in Intelligent Systems. CS majors interested in this minor should take the "Cognitive Science" track. All other majors can take either track.
+
+SEPIA (Strategy Engine for Programming Intelligent Agents) is a real-time strategy game environment my students and I have built for AI teaching and research (see EAAI paper below). I use it in classes for assignments. It is open source and free to use. Please let me know if you are using/would like to use it.
+
+Current teaching: Spring 2019: Introduction to Artificial Intelligence (EECS 391), Senior Project (EECS 395)
+
+Advising
+
+If you are an undergraduate student interested in AI, please stop by my office (Olin 516) during office hours (or send email for an appointment) to discuss your undergraduate career. The primary requirements are strong programming and mathematics skills. In particular, the following courses will be useful foundational courses: MATH 201, MATH 380, EECS 416. You should aim to take EECS 391 as early as you can (no later than junior year), and follow up with some of the advanced, graduate level courses: EECS 440 (Machine Learning), 442 (Causal Inference), 491 (Probabilistic Graphical Models), 496 (Sequential Decision Making), 497 (Statistical Natural Language Processing), 499 (Algorithmic Robotics), 531 (Computer Vision), 600 (Computational Perception). For a minor, consider Cognitive Science, Math or Statistics. Please note that the AI minor will generally not add anything useful if you are already specializing in AI, unless you take the "Cognitive Science" track (but then you should consider a minor in Cognitive Science).
+
+If you are a CWRU graduate student interested in AI/machine learning research, and have a solid background in probability and statistics, programming and optimization, you should first take one of my classes. If you like the material and do well, please send me an email for an initial discussion. You can also send me email to be added to my reading group's mailing list (for notifications about papers we will read next). Please note that you will need to have taken EECS 440 or 491 or have a good background in AI to contribute effectively.
+
+Please note that I do not generally respond to email from students who have not been admitted to CWRU. If you are interested in AI and have applied to the PhD program in CS, you can send me a note if you want me to review your application. Please make sure to mark "PhD in CIS (Computer and Information Science)" in your application, or it may not be considered by the CS program.
+
+A note on the distinction between the Computer Science (CS) and Computer Engineering (CE) programs at CWRU: CS deals with the process and theory of computation and its platform-independent implementation. If you are interested in designing algorithms to solve problems, analyzing them and implementing them (using high level languages), CS will suit you. CE deals with the low-level specifics of platforms that implement computational processes. If you are interested in designing VLSI circuits, testing circuit specifications, or novel hardware architectures such as GPU-based computing, CE will suit you.
+
+Current Students
+Arielle Bloostein (MS)
+Anneliese Braunegg (undergraduate)
+Caitlin Campbell
+Yufan Chen
+David Epstein
+David Fan (undergraduate)
+Zicheng Gao (undergraduate)
+Kristen Hauser
+Yi Hou (Ph.D.)
+I-Kung Hsu
+Zhengkai Jiang
+Mingxuan Ju
+Sai Saradha K. L. (MS)
+Kha-Dinh Luong
+Ted Timbrell
+Swetha Srikanthan (MS)
+Helen Zhao
+Graduated Students
+Nikil Pancha (undergraduate, graduated Fall 2018, first job: Pinterest)
+Sibi Sengottuvel (undergraduate, graduated Fall 2018, first job: Google)
+William Barbaro (MS, graduated Spring 2018, first job: Yelp inc)
+Gabriel Ewing (MS, graduated Fall 2017, first job: Google inc )
+Sergiy Turchyn (MS, graduated Summer 2017, first job: Google inc)
+Thesis: A Visual Search Engine for Gesture Annotation
+Galen Caldwell (undergraduate, graduated Spring 2017, first job: Amazon inc.)
+Andrew Hamm (undergraduate, graduated Spring 2017, first job: Yelp inc)
+Julie Kaplan (undergraduate, graduated Spring 2017, first job: Google inc)
+Nicholas Stevens (undergraduate, graduated Spring 2017, first job: MIM Software)
+Rui Liu (MS, graduated Fall 2016, currently Ph.D. candidate at University of Michigan)
+Jon Pfeil (MS, graduated Summer 2016, first job: Google inc)
+Thesis: Algorithms and Resources for Scalable Natural Language Generation
+Jeffrey Copeland (undergraduate, graduated Spring 2016)
+Scott Sosnowski (MS, graduated Spring 2016, first job: Explorys/IBM)
+Devin Schwab (MS, NDSEG 2015 Fellow, graduated Fall 2015, first position: PhD candidate at Carnegie Mellon University)
+Thesis: Hierarchical Sampling for Least Squares Policy Iteration
+Andrew Latham (MS, graduated Summer 2015,first job: Google inc)
+Gary Doran (Ph. D., graduated Fall 2014, first job: Jet Propulsion Laboratory, Caltech/NASA)
+Thesis: Distribution-based Multiple-Instance Learning
+Larry Muhlstein (undergrad, graduated Fall 2014, first position: PhD candidate at University of California San Diego)
+Kai Liang (MS, graduated Spring 2014, first job: Amazon inc.)
+Thesis: Fault Localization in Embedded Control System Software
+Nathan McKinley (MS, graduated Fall 2013, first job: Google inc)
+Thesis: A Decision-Theoretic Approach to Natural Language Generation
+Tyler Goeringer (MS, graduated Summer 2013, first job: nVidia inc)
+Thesis: Massively Parallel Reinforcement Learning with an Application to Video Games
+Feng Cao (MS, graduated Spring 2012, first job: Amazon inc.)
+Thesis: Classification, Detection and Prediction of Adverse and Anomalous Events in Medical Robots
+Tim Ernsberger (MS, graduated Fall 2012, first job: Amazon inc.)
+Thesis: Integrating Deterministic Planning and Reinforcement Learning for Complex Decision Making
+Howie Richmond (MS, graduated Fall 2011, first job: MIM Software, co-supervised with Andy Podgurski)
+Thesis: Bayesian Logistic Regression Models for Software Fault Localization
+Current Research
+What are the fundamental aspects of building an intelligent autonomous system? In my opinion, they are:
+Representation: How does the system represent the world? How does it understand what is relevant? How does it understand what is relevant to its current situation from its previous experience?
+Decomposition: How does the system learn to break down large problems into efficiently solvable chunks, and compose useful solutions?
+Coordination and Communication: How does the system work with other such systems to solve large problems?
+
+In my research, I am attempting to make progress in understanding these very challenging questions. As well as addressing these fundamental issues, I work with several collaborators to apply AI and machine learning techniques to various application domains, including medicine, cognitive science and business.
+
+My reading group web page is here.
+Machine Learning/Artificial Intelligence Theory and Methods
+Natural Language Generation
+Humans are able to generate complex and nearly error-free language in most contexts. How can we enable similar capabilities in artificial systems? Given a communicative goal, a grammar and a world description, this research seeks to derive practical algorithms for fast language generation. (Students: Nathan McKinley, Jon Pfeil, Yi Hou)
+Hierarchical Reinforcement Learning
+Humans manage complex tasks by decomposition and also using prior information collected by solving other tasks. How can we integrate these ideas into autonomous agents? This research seeks ways to answer this question. (Students: Kai Liang, Feng Cao, Devin Schwab, Gabriel Ewing)
+Distribution-based Multiple-Instance Learning
+The traditional view of multiple-instance learning is that an example is a set of feature vectors. But in many real applications, such as 3D-QSAR, it makes more sense to think of an example as a distribution over feature vectors. This view leads to new theoretical insights into multiple-instance learning, and new ways to explain the observed behavior of algorithms on these problems. (Students: Gary Doran, Andrew Latham, Jeffrey Copeland, Rui Liu)
+Applied Machine Learning and Artificial Intelligence
+Machine Learning for Gesture Annotation in Video
+Understanding when people employ gestures or similar nonverbal communication cues is important for developing automated systems that can communicate with people in a natural manner. We are studying machine learning methods that can learn to recognize and eventually deploy gestures in communication. With the Red Hen Lab, Mark Turner and Francis Steen. (Students: Sergiy Turchyn)
+Machine Learning for Automated Plaque Classification in OCT images
+Millions of people die of heart disease every year. A key cause is the development of certain types of "bad" plaque in blood vessels, which when ruptured, can interfere with blood flow, leading to thrombosis. Blood vessels can be imaged using intravascular optical coherence tomography (IV-OCT). This technique, however, creates lots of images which have to be manually analyzed to identify problematic plaque types. We are developing automated techniques that aid in the analysis along with visualization tools to display the affected regions, with the goal of (i) reducing the manual effort needed to analyze these images so that more timely diagnoses can be made and (ii) enabling accurate targeting of the affected regions through detailed visualization. With David Wilson. (Students: Ronny Shalev, CWRU Electrical Engineering)
+Determining Influence Strategies in Contract Negotiations
+Why do some contract negotiations succeed where others fail? What cues do the best negotiators observe and what strategies do they use in response? This project is using machine learning techniques to answer such questions. With Jagdip Singh and Detelina Marinova.
+Previous Research
+Machine Learning/Artificial Intelligence Theory and Methods
+Kernel Methods for Multiple-Instance Learning
+Kernels are powerful and flexible representation transformations of feature vectors which enable nonlinear classifiers to be learned efficiently in a supervised setting. How do these behave when applied to multiple-instance data, where sets of feature vectors are mapped? A variety of surprising behaviors emerge in this case. This research seeks to characterize this behavior and understand the strengths and weaknesses of this technique for MI data. (Students: Gary Doran)
+Knowledge Transfer in Reinforcement Learning
+"Transfer Learning" focuses on methods that can effectively transfer knowledge acquired about one task to help in solving another, different task. We are developing techniques that transfer knowledge between different sequential decision processes, using real-time strategy games as our testbeds. With Alan Fern, Prasad Tadepalli, Tom Dietterich. (Students: Neville Mehta and Aaron Wilson)
+
+Efficient learning for hard Boolean functions
+Certain Boolean functions, such as parity, are known to be hard to learn efficiently. In this work, we demonstrated that the hardness of learning these functions is linked to the input distribution of the data; if the input distribution is "significantly different" from the uniform distribution, these functions may be efficiently learnable. Based on this observation, we developed a method called Skewing that is often able to learn such functions efficiently, given enough observations. With David Page, Lisa Hellerstein, Bard Rosell, Eric Lantz and Eric Bach.
+Learning from Multiple-Instance Data
+In standard supervised learning, examples are described by a tuple of attribute-value pairs. In some problems, such as predicting the binding affinities of small molecules to a target protein, examples are described by sets of such tuples. We have developed new algorithms for classification and regression from such "multiple-instance" data, and shown that the straightforward extension of linear regression to this setting is NP-complete. With Mark Craven, David Page and Burr Settles.
+Information Extraction from Free Text
+Information extraction is the task of creating structured relations out of free text. In our work, we have developed statistical methods for doing this that also incorporate grammatical information about sentences obtained using an automated parser, Sundance. With Mark Craven and Marios Skounakis.
+Applied Machine Learning and Artificial Intelligence
+Machine Learning for Software Engineering
+The scale and complexity of modern software makes it prone to bugs. Automated techniques using machine learning can assist developers during testing and debugging to quickly locate and remove faults. This research seeks to develop automated and collaborative methods to detect software defects and improve software reliability. With Andy Podgurski. (Students: Boya Sun, Gang Shu, Zhuofu Bai, Howie Richmond)
+Preventing Adverse and Anomalous Events in Cyber-physical systems
+Many modern robotic systems are used in situations where reliability is critical, but how to estimate reliability of these complex systems under various circumstances is not well understood. In this project, we designed processes to improve the reliability of these systems, in particular to detect and prevent adverse and anomalous (A&A) events in medical robots during their operation. With Andy Podgurski and Cenk Cavusoglu. Supported by NSF. (Students: Kai Liang, Feng Cao, Zhuofu Bai, Mark Renfrew)
+Automated Stent Detection in OCT images
+Millions of people receive stent implants as treatment for coronary artery disease. Subsequently, these are imaged to see if further intervention is needed if complications arise. These images are currently manually processed by radiologists and take 6-16 hours per stent in intravascular Optical Coherence Tomography (IV-OCT) images. We developed automated techniques using machine learning that can effectively help radiologists process these images in an hour or less, reducing cost and lowering errors. With David Wilson. (Students: Hong Lu, CWRU Biomedical Engineering)
+Machine Learning for Spam Filtering
+In this project, we investigated adaptive methods for spam detection. We developed a filtering pipeline that can detect these messages as early as possible in network traffic, thereby saving bandwidth, reducing storage costs and decreasing congestion. With Michael Rabinovich and Mark Allman. (Students: Tu Ouyang)
+Machine Learning for Understanding Functional Brain Networks
+In this project, we used machine learning methods to analyze fMRI data from the brain at rest versus various task conditions. We found that these networks appear to be quite distinct. In particular, coactivation patterns based on task data seem to be statistically different from coactivation patterns from rest data. With Anthony Jack. (Students: Ching-Yi Wu)
+Machine Learning for Question Answering
+Question answering systems are designed to provide accurate responses to short factual questions asked in natural language. In our work, we have developed a method that the system can use to learn from past questions to improve accuracy on future questions. With Eric Brill. (This work is not publicly available)
+Publications
+Francis F. Steen, A. Hougaard, J. Joo, I. Olza, C. C�novas, A. Pleshakova, S. Ray, P. Uhrig, J. Valenzuela, J. Wozny, M. Turner.
+Toward an infrastructure for data-driven multimodal communication research. Available online.
+Linguistics Vanguard, vol 4 no. 1.
+S. Turchyn, I. Moreno, C. C�novas, F. Steen, M. Turner, J. Valenzuela, S. Ray (2018).
+Gesture Annotation with a Visual Search Engine for Multimodal Communication Research.
+Appears in the Proceedings of the Thirtieth Conference on Innovative Applications of Artificial Intelligence (IAAI-18).
+R. Liu and S. Ray (2017).
+An Analysis of Boosted Linear Classifiers on Noisy Data with Applications to Multiple-Instance Learning.
+Appears in the Proceedings of the IEEE International Conference on Data Mining.
+D. Schwab and S. Ray (2017).
+Offline Reinforcement Learning with Task Hierarchies.
+Machine Learning, also presented at the European Conference on Machine Learning 2017. Available online.
+R. Shalev, D. Nakamura, S. Nishino, A. M. Rollins, H. G. Bezerra, D. L. Wilson and S. Ray (2017).
+Automated Volumetric Intravascular Plaque Classification Using Optical Coherence Tomography.
+Appears in AI Magazine vol 38, no 1 (invited, peer reviewed article). Available online.
+J. Pfeil and S. Ray (2016).
+Scaling a Natural Language Generation System. pdf
+To appear in the Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL-16), Berlin, Germany.
+Y. Zhang, S. Ray and W. Guo (2016).
+On the Consistency of Feature Selection with Lasso for Non-Linear Targets. pdf
+To appear in the Proceedings of the 33rd International Conference on Machine Learning (ICML-16), New York City, New York, USA.
+G. Doran and S. Ray (2016).
+Multiple-Instance Learning from Distributions.
+Appears in the Journal of Machine Learning Research, vol 17 no 128 pp 1--50. Available online.
+G. Doran, A. Latham and S. Ray (2016).
+A Unifying Framework for Learning Bag Labels from Generalized Multiple-Instance Data. pdf Supplementary materials
+To appear in the Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-16), New York City, New York, USA.
+R. Shalev, D. Nakamura, S. Nishino, A. M. Rollins, H. G. Bezerra, D. L. Wilson and S. Ray (2016).
+Automated Volumetric Intravascular Plaque Classification Using Optical Coherence Tomography (OCT). pdf
+Appears in the Proceedings of the 28th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-16), Phoenix, Arizona, USA.
+R. Shalev, M. Gargesha, D. Prabhu, K. Tanaka, A. M. Rollins, G. Lamouche, C.-E. Bisaillon, H.G. Bezerra, S. Ray, D. L. Wilson (2016).
+Processing to determine optical parameters of atherosclerotic disease from phantom and clinical intravascular optical coherence tomography three-dimensional pullbacks.
+Journal of Medical Imaging, vol 3 no 2. Available online.
+R. Shalev, H.G. Bezerra, S. Ray, D. Prabhu, D. L. Wilson (2016).
+Classification of calcium in intravascular OCT images for the purpose of intervention planning.
+SPIE Medical Imaging vol 9786.
+G. Doran and S. Ray (2014).
+Learning Instance Concepts from Multiple-Instance Data with Bags as Distributions. pdf
+Appears in Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-14), Quebec City, Canada.
+N. McKinley and S. Ray (2014).
+A Decision-Theoretic Approach to Natural Language Generation. pdf
+Appears in Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, Baltimore, Maryland, USA.
+T. Ouyang, S. Ray, M. Allman and M. Rabinovich (2014).
+A Large-Scale Empirical Analysis of Email Spam Detection Through Network Characteristics in a Stand-Alone Enterprise. Online version.
+Computer Networks, vol 59, pp 101-121.
+G. Doran and S. Ray (2014).
+A theoretical and empirical analysis of support vector machine methods for multiple-instance classification. Online version.
+Appears in Machine Learning, vol 97, issue 1-2. Also presented at the European Conference on Machine Learning 2014.
+G. Doran and S. Ray (2013).
+SMILe: Shuffled Multiple-Instance Learning. (Outstanding Paper award) pdf
+Appears in the Proceedings of the 27th AAAI Conference on Artificial Intelligence, Bellevue, Washington, USA.
+K. Liang, F. Cao, Z. Bai, M. Renfrew, M. Cenk Cavusoglu, A. Podgurski and S. Ray (2013).
+Detection and Prediction of Adverse and Anomalous Events in Medical Robots. pdf
+Appears in the Proceedings of the 25th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI), Bellevue, Washington, USA.
+S. Sosnowski, T. Ernsberger, F. Cao and S. Ray (2013).
+SEPIA: A Scalable Game Environment for Artificial Intelligence Teaching and Research. pdf
+Appears in the Proceedings of the Fourth Symposium on Educational Advances in Artificial Intelligence (EAAI), Bellevue, Washington, USA.
+H. Lu, M. Gargesha, Z. Wang, D. Chamie, G. F. Attizzani, T. Kanaya, S. Ray, M. A. Costa, A. M. Rollins, H. G. Bezerra and D. L. Wilson (2013).
+Automatic stent strut detection in intravascular OCT images using image processing and classification technique.
+Appears in the Proceedings of SPIE Medical Imaging: Computer-Aided Diagnosis, vol 8670, eds. Carol Novak, Stephen Aylward.
+F. Cao and S. Ray (2012).
+Bayesian Hierarchical Reinforcement Learning. pdf
+Appears in the Proceedings of the 26th Annual Conference on Neural Information Processing Systems (NIPS), Lake Tahoe, Nevada, USA.
+H. Lu, M. Gargesha, Z. Wang, D. Chamie, G. F. Attizzani, T. Kanaya, S. Ray, M. A. Costa, A. M. Rollins, H. G. Bezerra and D. L. Wilson (2012).
+Automatic stent detection in intravascular OCT images using bagged decision trees.
+Biomedical Optics Express, vol 3 no. 11(Nov):2809--2824.
+M. Ruffalo, M. Koyuturk, S. Ray and T. LaFramboise (2012).
+Accurate Estimation of Short Read Mapping Quality for Next Generation Genome Sequencing. (also published in Bioinformatics (2012) 28 (18): i349-i355.)
+Appears in the Proceedings of the 11th European Conference on Computational Biology, Basel, Switzerland.
+B. Sun, G. Shu, A. Podgurski and S. Ray (2012).
+CARIAL: Cost-Aware Software Reliability Improvement with Active Learning. pdf
+In Proceedings of the Fifth IEEE International Conference on Software Testing, Verification and Validation (ICST), Montreal, CA.
+N. Mehta, S. Ray, P. Tadepalli and T. Dietterich (2011).
+Automatic Discovery and Transfer of Task Hierarchies in Reinforcement Learning.
+Appears in AI Magazine, special issue on Transfer of Structured Knowledge. (reviewed article)
+T. Ouyang, S. Ray, M. Rabinovich and M. Allman (2011).
+Can Network Characteristics Detect Spam Effectively in a Stand-Alone Enterprise? pdf
+In Proceedings of the 12th Passive and Active Measurement Conference, Atlanta, GA, USA.
+B. Sun, A. Podgurski and S. Ray (2010).
+Improving the Precision of Dependence-Based Defect Mining by Supervised Learning of Rule and Violation Graphs.
+In Proceedings of the 21st IEEE International Symposium on Software Reliability Engineering, San Jose, CA, USA.
+L. Hellerstein, B. Rosell, E. Bach, S. Ray and D. Page (2009).
+Exploiting Product Distributions to Identify Relevant Variables of Correlation Immune Functions. Journal of Machine Learning Research, vol 10(Oct):2374--2411. pdf
+Eric Bach's paper on improved bounds for the number of correlation-immune functions.
+N. Mehta, S. Ray, P. Tadepalli and T. Dietterich (2008).
+Automatic Discovery and Transfer of MAXQ Hierarchies.   pdf
+Appears in the Proceedings of the 25th International Conference on Machine Learning, Helsinki, Finland.
+B. Settles, M. Craven and S. Ray (2007).
+Multiple-Instance Active Learning.   pdf
+Appears in the Proceedings of the 21st Conference on Neural Information Processing Systems, Vancouver, BC, Canada.
+H. Chan, A. Fern, S. Ray, N. Wilson and C. Ventura (2007).
+Online Planning for Resource Production in Real-Time Strategy Games.   pdf
+Appears in the Proceedings of the 17th International Conference on Automated Planning & Scheduling, Providence, RI, USA.
+E. Lantz, S. Ray and D. Page (2007).
+Learning Bayesian Network Structure from Correlation-Immune Data.   pdf
+Appears in the Proceedings of the 23rd Conference on Uncertainty in Artificial Intelligence, Vancouver, BC, Canada.
+A. Wilson, A. Fern, S. Ray and P. Tadepalli (2007).
+Multi-task Reinforcement Learning: A Hierarchical Bayesian Approach.  pdf  ps.gz
+Appears in the Proceedings of the 24th International Conference on Machine Learning, Corvallis, OR, USA.
+J. Davis, V. S. Costa, S. Ray and D. Page (2007).
+An Integrated Approach to Feature Invention and Model Construction for Drug Activity Prediction.  pdf  ps.gz
+Appears in the Proceedings of the 24th International Conference on Machine Learning, Corvallis, OR, USA.
+S. Ray (2005).
+Learning from Data with Complex Interactions and Ambiguous Labels.  ps  pdf  ps.gz
+PhD thesis, Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI, USA.
+
+S. Ray & M. Craven (2005).
+Supervised versus Multiple-Instance Learning: An Empirical Comparison.  ps  pdf  ps.gz
+Appears in the Proceedings of the 22nd International Conference on Machine Learning, Bonn, Germany.
+B. Rosell, L. Hellerstein, S. Ray & D. Page (2005).
+Why Skewing works: Learning Difficult Boolean Functions with Greedy Tree Learners.  ps  pdf  ps.gz
+Appears in the Proceedings of the 22nd International Conference on Machine Learning, Bonn, Germany.
+S. Ray & D. Page (2005).
+Generalized Skewing for Functions with Continuous and Nominal Attributes. ps  pdf  ps.gz
+Appears in the Proceedings of the 22nd International Conference on Machine Learning, Bonn, Germany.
+S. Ray & M. Craven (2005).
+Learning Statistical Models for Annotating Proteins with Function Information using Biomedical Text.
+Appears in BMC Bioinformatics, Vol 6(Suppl 1). online  ps  pdf  ps.gz
+
+S. Ray & D. Page (2004).
+Sequential Skewing:  An Improved Skewing Algorithm. ps  pdf  ps.gz
+Appears in the Proceedings of the 21st International Conference on Machine Learning, Banff, Canada.
+D. Page & S. Ray (2003).
+Skewing:  An Efficient Alternative to Lookahead for Decision Tree Induction. ps  pdf  ps.gz
+Appears in the Proceedings of the 18th International Joint Conference on Artificial Intelligence, Acapulco, Mexico.
+M. Skounakis, M. Craven & S. Ray (2003).
+Hierarchical Hidden Markov Models for Information Extraction. pdf
+Appears in the Proceedings of the 18th International Joint Conference on Artificial Intelligence, Acapulco, Mexico.
+
+S. Ray & M. Craven (2001).
+Representing Sentence Structure in Hidden Markov Models for Information Extraction. ps  pdf  ps.gz
+Appears in the Proceedings of the 17th International Joint Conference on Artificial Intelligence, Seattle, WA, USA.
+
+S. Ray & D. Page (2001).
+Multiple Instance Regression.  ps pdf  ps.gz
+Appears in the Proceedings of the 18th International Conference on Machine Learning, Williamstown, MA, USA.
+
+Workshop Publications
+M. Xu, Z. Jiang, Y. Chen, S. Ray (2018).
+A Multi-Representation Ensemble Approach to Detecting Vocal Diseases.
+Appears in the IEEE BigData Workshop on BigData Cup Challenges: FEMH Voice Data Challenge (3rd place award out of 109 teams participating).
+K. Liang, Z. Bai, M. C. Cavusoglu, A. Podgurski and S. Ray (2015).
+Fault Localization in Embedded Control System Software. pdf
+International Workshop on Software Engineering for Smart Cyber-Physical Systems, International Conference on Software Engineering (ICSE), Firenze, Italy.
+A. Wilson, A. Fern, S. Ray, P. Tadepalli (2008).
+Learning and Transferring Roles in Multi-Agent MDPs.   pdf
+Transfer Learning for Complex Tasks Workshop, 23rd AAAI Conference on Artificial Intelligence, Chicago, USA.
+N. Mehta, M. Wynkoop, S. Ray, P. Tadepalli and T. Dietterich (2007).
+Automatic Induction of MAXQ Hierarchies.   pdf
+Hierarchical Organization of Behavior Workshop, 21st Conference on Neural Information Processing Systems, Vancouver, BC, Canada.
+H. Chan, A. Fern, S. Ray, N. Wilson and C. Ventura (2007).
+Extending Online Planning for Resource Production in Real-Time Strategy Games with Search.   pdf
+Workshop on Planning in Games, ICAPS 2007, Providence, RI, USA.
+Contributed Chapters
+S. Ray, S. Scott and H. Blockeel (2009). Multiple Instance Learning.
+Encyclopedia of Machine Learning, eds C. Sammut and G. Webb. Springer. ISBN: 978-0-387-30768-8, Springer.
+S. Ray and P. Tadepalli (2009). Model-based Reinforcement Learning.
+Encyclopedia of Machine Learning,eds C. Sammut and G. Webb. Springer. ISBN: 978-0-387-30768-8, Springer.
+Posters, Abstracts, Technical Reports and Other Publications
+M. Mehlman, J. W. Berg and S. Ray (2017). Robot Law. Case Legal Studies Research Paper No. 2017-1. Available at SSRN.
+Hong Lu, Martin Jakl, Zhao Wang, Kentaro Tanaka, Soumya Ray, Pavel Cervinka, Marco Costa, Andrew M. Rollins, Hiram G. Bezerra, and David L. Wilson (2014). Evaluation of Highly Automated Software for Analyzing Intravascular Optical Coherence Tomography Pullbacks of Stents. Poster at Transcatheter Cardiovascular Therapeutics, Washington DC, USA; to appear in the Journal of the American College of Cardiology (JACC) TCT Abstract Supplement.
+G. Doran and S. Ray (2012). Kernel methods for Multiple-Instance Learning. Poster at the 29th International Conference on Machine Learning, Edinburgh, Scotland.
+C-Y. Wu, S. Ray, K. P. Barry and A. I. Jack (2010). On Functional Annotation of the Human Brain by Combining Resting State Connectivity and Activation Foci. In the 40th Annual Meeting of the Society for Neuroscience, San Diego, CA, USA (poster).
+T. Ouyang, S. Ray, M. Allman and M. Rabinovich (2009). A Large Scale Empirical Analysis of Email Spam Detection Through Transport Level Characteristics. Technical Report TR 10-001, International Computer Science Institute, CA, USA.
+
+
+Miscellaneous Activities
+Profs. Ken Loparo and I designed the new undergraduate Data Science major at CWRU.
+I am serving on the Program Committees of AAAI 2018, AISTATS 2018 and IJCAI 2018.
+I am currently serving on the editorial board of Machine Learning journal.
+I am a current co-owner for the ML-news Google group.
+
+
+
+Code and Datasets
+Spam Filtering Datasets
+
+Information Extraction Datasets
+
+Gary's multiple-instance support vector machine code
+Strategy Engine for Programming Intelligent Agents (SEPIA)
+
+                             
+
+Machine Learning News
+Visit this group
+
+ Home      IIT Kharagpur      UW-Computer Sciences      Oregon State EECS      Case Western EECS     
+
+Last update 3/15/2017 by Soumya Ray
+
+

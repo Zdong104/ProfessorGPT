@@ -1,0 +1,81 @@
+Professor: Qiang Liu 0001
+University: University of Texas at Austin
+URL: https://www.cs.utexas.edu/~lqiang
+Description: 	
+Qiang Liu
+ 	
+
+Qiang Liu
+Associate Professor
+Computer Science
+University of Texas at Austin
+lqiang(at)cs.utexas.edu
+Office: GDC 4.806
+Phone: 512-232-7866
+
+("Qiang" sounds like "Chee-ah-ng", and "Liu" as "l-yo")
+
+Research
+
+I am interested in mathematical and computational techniques for statistical learning, inference and making decision out of data and knowledge. I am interested in both investigating algorithmic foundations and cutting-edge applications.
+
+<My Google scholar>
+
+Selected Works
+
+Lion, a machine-discovered optimization program, admits an intriguing Lyapunov function [Lion-K, slides].
+
+Flow and Diffusion models for Generative Modeling, Domain Transfer, Optimal Transport
+
+[ rectified flow (intro, for generative and transfer modeling, for optimal transport), diffusion bridges and Doob's h-transform (let us build bridges, first hitting diffusion, diffusion w/ informative bridges) ]
+
+Dynamic Barrier Descent for Optimization/Sampling in the Wild: Constrained, Lexicographic, Multi-objective, Multi-level
+
+[ slides, constrained, lexicographic optimization, optimization within Pareto set, finding diverse local modes, bi-level optimization, multi-task learning, sampling on Pareto set, sampling with constrained moments, orthonal-space variational gradient ]
+
+Steepest Descent Methods for Neural Architecture Optimization: Going Beyond Black Boxes
+
+[ splitting steepest descent (intro, paper, slides), firefly neural architecture descent (paper, slides ) ]
+
+Off-Policy Evaluation
+
+[ slides, non-asymptotic confidence intervals, breaking the curse of horizon ]
+
+Certifiable Robustness and Other Properties
+
+[ a functional optimization framework, certified robustness in language models, certified monotonicity ]
+
+Stein Variational Inference: Approximate Learning and Inference With Stein's Method
+
+[ intro, kernel Stein discrepancy (KSD) (intro, paper), Stein variational gradient descent (SVGD) (intro, basic algorithm, SVGD as gradient flow, SVGD as moment matching, gradient free SVGD, matrix kernel), slides, slides, slides, slides, code ]
+
+Distributed Learning, Information Loss and Curved Exponential Families [paper, slides]
+
+Reasoning and Decisions in Probabilistic Graphical Models [ thesis, slides, marginal MAP ]
+
+Variational Inference for Crowdsourcing [paper, slides]
+
+Teaching
+
+Undergraduate intro to machine learning [here].
+
+Undergraduate intro to optimization [here]
+
+Lecture notes on probabilistic learning and inference [here]
+
+Learning theory (graduate level, scribed notes, not proofreaded!) [here]
+
+Advanced ML for undergraduates (scribed notes, not proofreaded!) [here]
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,74 @@
+Professor: Taylor T. Johnson
+University: Vanderbilt University
+URL: http://www.taylortjohnson.com/
+Description: About
+Research
+Teaching
+People
+Contact
+
+
+News and About
+News
+
+Tweets by @taylorjohnson
+
+About
+
+Brief Bio: Taylor T. Johnson, PhD, PE (TN), is A. James and Alice B. Clark Foundation Chancellor Faculty Fellow, Director of Graduate Studies (CS PhD), and Associate Professor of Computer Science (CS), Computer Engineering (CmpE), and Electrical Engineering (EE) in the Departments of Computer Science and Electrical & Computer Engineering (ECE) (previously the Department of Electrical Engineering and Computer Science (EECS)) in the School of Engineering (VUSE) at Vanderbilt University (since August 2021, Assistant Professor 2016-2021), where he directs the Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory (VeriVITAL) and is a Senior Research Scientist in the Institute for Software Integrated Systems (ISIS) and a Faculty Affiliate of the Data Science Institute (DSI). Taylor was previously an Assistant Professor of Computer Science and Engineering (CSE) at the University of Texas at Arlington (September 2013 to August 2016). Taylor earned a PhD in Electrical and Computer Engineering (ECE) from the University of Illinois at Urbana-Champaign in 2013, where he worked in the Coordinated Science Laboratory with Prof. Sayan Mitra, and earlier earned an MSc in ECE at Illinois in 2010 and a BSEE from Rice University in 2008. Taylor's research focus is developing formal verification techniques and software tools for cyber-physical systems (CPS), with a focus most recently on autonomous CPS that incorporate artificial intelligence (AI) and machine learning (ML) components, such as neural networks, for tasks ranging from sensing/perception through planning/control. Taylor has published around a hundred papers on these methods and their applications across CPS domains, such as power and energy systems, aerospace and avionics systems, automotive systems, transportation systems, and robotics, three of which were recognized with best/outstanding paper awards, from the IEEE and IFIP, and two of which were awarded Best Software Repeatability/Artifact Awards. Taylor's research aims to develop reliable embedded and cyber-physical systems by advancing and applying techniques and tools from formal methods, control theory, embedded systems, and software engineering. Taylor received the AFOSR Summer Faculty Fellowship Program (SFFP) award to visit the Air Force Research Laboratory (AFRL)'s Information Directorate in 2015, was a Visiting Faculty Research Program (VFRP) award fellow at AFRL's Information Directorate in 2014, and was a visiting graduate research assistant through an SFFP award at AFRL's Space Vehicles Directorate at Kirtland Air Force Base in 2011. Taylor is a 2018 and 2016 recipient of the AFOSR Young Investigator Program (YIP) award, a 2015 recipient of the NSF Computer and Information Science and Engineering (CISE) Research Initiation Initiative (CRII), and his research is / has been supported by AFRL, AFOSR, ARO, DARPA, NSA, NSF (CISE CCF/SHF, CNS/CPS; ENG ECCS/EPCN), NVIDIA, ONR, Toyota, and USDOT. Taylor has served on program committees and in different organizational roles for venues such as AAAI, CAV, CVPR, EMSOFT, FORMATS, HSCC, ICCV, NFM, SAIV, SPIN, RTSS, UAI, among many others, and is an Associate Editor of Software Tools for Technology Transfer (STTT). Taylor is co-founder of the Verification of Neural Networks Competition (VNN-COMP) and the International Competition on Verifying Continuous and Hybrid Systems (ARCH-COMP) category on Artificial Intelligence and Neural Network Control Systems (AINNCS).
+
+Physical Location (Lab):
+VeriVITAL - The Verification and Validation for Intelligent and Trustworthy Autonomy Laboratory
+Room 300
+1025 16th Ave S, Nashville, TN 37212
+Institute for Software Integrated Systems
+Department of Electrical Engineering and Computer Science (EECS)
+School of Engineering (VUSE)
+Vanderbilt University
+
+Physical Location (Prof. Johnson):
+Taylor T. Johnson
+A. James and Alice B. Clark Foundation Chancellor Faculty Fellow, Associate Professor of Computer Science (CS), Computer Engineering (CmpE), and Electrical Engineering (EE), and Director of Graduate Studies (CS PhD)
+Room 401D
+1025 16th Ave S, Nashville, TN 37212
+Institute for Software Integrated Systems
+Department of Computer Science (Primary); Department of Electrical and Computer Engineering (ECE); Data Science Institute (DSI)
+(Previously) Department of Electrical Engineering and Computer Science (EECS)
+School of Engineering (VUSE)
+Vanderbilt University
+
+Email: taylor.johnson@gmail.com
+Email (School): taylor.johnson@vanderbilt.edu
+Spam/Email Notice: I am receiving a large volume of email these days, and please be aware that my spam filters are set to very high sensitivity given the volume of mail received. If you do not hear back from me in a reasonable timeframe, please resend your message, or if it is urgent, please call.
+Phone (Office): 615-875-9057
+Fax: 615-343-7440
+
+Mailing Address:
+Taylor T. Johnson
+VUSE-ISIS Building
+1025 16th Ave S, Suite 102
+Nashville, TN 37212
+
+Campus Mail Address (Not for Postal Mail):
+Taylor T. Johnson
+PMB351829
+Nashville, TN 37235
+
+
+
+
+
+high resolution; talk bio
+
+
+
+Research Synopsis: Defects stemming from the interaction of software and physical processes in embedded and cyber-physical systems (CPS) are rampant and are becoming more prevalent as exemplified by frequent product recalls in industries such as automotive (PDF), medical devices, and consumer products. These issues are exacerbated by the introduction of data-driven machine learning methods into such safety-critical systems. To address this challenge to ensure CPS meet the strictest safety, security, and reliability requirements, our research agenda is to develop formal verification techniques and tools for CPS, building on and advancing foundational results in formal methods, control theory, distributed systems, and real-time/embedded systems. For example, one technique we've developed is for verifying safety properties of distributed CPS where arbitrarily many agents participate in a protocol, such as in air traffic control protocols, network protocols, networked control systems, and swarm robotics. This uniform verification technique for parameterized systems verifies systems with arbitrarily many participants, and relies on a small model theorem we developed, which allows for reasoning about arbitrarily large instances using finite instances. Our implementation of this technique in an SMT-based verification software tool (called Passel) allowed us to prove automatically, that in one of NASA's conceptual air traffic control protocols in NextGen, all aircraft maintain a safe separation, regardless of the number of aircraft involved in the protocol. Other techniques we have developed include automated abstractions implemented in our Hyst tool, mixtures of static and dynamic analysis for Simulink/Stateflow models to infer cyber-physical specifications as implemented in our Hynger tool, the first reachability algorithm for hybrid automata that may be implemented with real-time guarantees, the NNV and Veritex tools for verification of neural networks and their usage in closed-loop neural networks control systems (NNCS), the HAutLearn tool for learning hybrid automata models from time-series data, among others. Our verification methods have been applied across numerous CPS domains, including automotive, aerospace, power/energy systems, and robotics.
+
+CV / Resume
+
+My detailed curriculum vitae is available for viewing as a PDF file. (Please note, I have removed some information from the files posted here for privacy concerns. If you would like a complete copy, please contact me.)
+
+Prospective Students: I am looking for ambitious and motivated graduate and undergraduate students. Research Assistantships (RAs) are available for competitive candidates. If you are a Vanderbilt student looking for an advisor, or if you are interested in applying to Vanderbilt for graduate studies in Electrical Engineering or Computer Science (EECS), please email me with your resume/CV (and your transcript if at Vanderbilt) if you are interested to do research in formal methods and theory (especially), verification and validation (V&V), hybrid systems, embedded systems / cyber-physical systems (CPS), the Internet of Things (IoT), software engineering, distributed systems, real-time systems, security/privacy, and related areas. I also need strong programmers at all levels, especially in Python, Rust, Java, C/C++, and Matlab. If you do not include your resume/CV (and transcript if at Vanderbilt), I will not respond. As I receive many such requests, I cannot reply to every email, but do my best to reply to competitive applicants.
+
+© 2024 Taylor Johnson, All Rights Reserved.
+

@@ -1,0 +1,195 @@
+Professor: Sicun Gao
+University: Univ. of California - San Diego
+URL: https://scungao.github.io/
+Description: Sean/Sicun Gao
+Associate Professor [cv]
+Computer Science and Engineering
+University of California, San Diego
+Office: CSE 2126
+Email: sicung at ucsd dot edu
+
+
+Research
+
+I work on practical algorithms for NP-hard search and optimization problems that arise in the decision, control, and design aspects of computational systems.
+The end goal is to build useful forms of automation and autonomy that are fundamentally reliable yet aggressively optimized.
+Colloquially, I spend much time dealing with the curse of dimensionality and finding needles in haystacks.
+
+Teaching
+
+UCSD CSE150: Introduction to AI: Search and Reasoning (Spring 2024, Spring 2023, Spring 2022, Fall 2020, Spring 2020, Winter 2019, Winter 2018)
+UCSD CSE257: Search and Optimization (Winter 2024, Winter 2023, Fall 2021, Spring 2021)
+UCSD CSE191: Undergraduate Thesis Research Seminar (Fall 2021)
+UCSD CSE291: Topics in Search and Optimization (Winter 2020, Spring 2019, Fall 2017)
+Group
+PhD Students: Ya-Chien Chang, Chiaki Hirayama, Zhizhen Qin, Tao Wang (with Sylvia Herbert), Chenning Yu, Hongzhan Yu, Ruipeng Zhang
+Alumni: Yongsoo Song (Postdoc '18-'19, now Assistant Professor at Seoul National University), Jacek Cyranka (Postdoc '17-'19, now Assistant Professor at University of Warsaw), Armaiti Ardeshiricham (PhD '20, now Researcher at Apple), Nima Roohi (Postdoc '18-'20, now Applied Scientist at Amazon), Yaoguang Zhai (PhD '24, now Applied Scientist at Amazon), Yuda Song (BS '20, now PhD student at CMU), Milan Ganai (BS/MS '24, now PhD student at Stanford), Eric Yu (BS/MS '24, now PhD student at MIT)
+Our work is funded by the following sources: Air Force Young Investigator Award, Amazon Research Award, DARPA Assured Autonomy, Department of Energy, NSF AI Institute, NSF Career Award, NSF DASS, NSF National Robotics Initiative, NSF Cyber-Physical Systems.
+Software
+dReal [tool page]: Automated reasoning in nonlinear theories over the reals
+Papers
+
+Activation-Descent Regularization for Input Optimization of ReLU Networks [arXiv]
+Hongzhan Yu and Sicun Gao
+ICML (International Conference on Machine Learning) 2024
+Mollification Effects of Policy Gradient Methods [arXiv]
+Tao Wang, Sylvia Herbert, and Sicun Gao
+ICML (International Conference on Machine Learning) 2024
+Breaking the Barrier: Enhanced Utility and Robustness in Smoothed DRL Agents
+Chung-En Sun, Sicun Gao, and Tsui-Wei Weng
+ICML (International Conference on Machine Learning) 2024
+Extremum-Seeking Action Selection for Accelerating Policy Optimization [project page]
+Ya-Chien Chang and Sicun Gao
+ICRA (International Conference on Robotics and Automation) 2024
+Efficient Motion Planning for Manipulators with Barrier-Induced Neural Controller
+Mingxin Yu, Chenning Yu, Mohammad Mahdi Naddaf Shargh, Devesh Upadhyay, Sicun Gao, and Chuchu Fan
+ICRA (International Conference on Robotics and Automation) 2024
+Sample-and-Bound for Non-Convex Optimization [arXiv]
+Yaoguang Zhai, Zhizhen Qin, and Sicun Gao
+AAAI (AAAI Conference on Artificial Intelligence) 2024
+Iterative Reachability Estimation for Safe Reinforcement Learning [project page]
+Milan Ganai, Zheng Gong, Chenning Yu, Sylvia Herbert, and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2023
+Fractal Landscapes in Policy Optimization [arXiv]
+Tao Wang, Sylvia Herbert, and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2023
+Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance [project page]
+Hongzhan Yu, Chiaki Hirayama, Chenning Yu, Sylvia Herbert, and Sicun Gao
+IROS (International Conference on Intelligent Robots and Systems) 2023 [IROS RoboCup Best Paper Award]
+
+Learning Stabilization Control from Observations by Learning Lyapunov-like Proxy Models [project page]
+Milan Ganai, Chiaki Hirayama, Ya-Chien Chang, and Sicun Gao
+ICRA (International Conference on Robotics and Automation) 2023
+Accelerating Multi-Agent Planning Using Graph Transformers with Bounded Suboptimality [project page]
+Chenning Yu, Qingbiao Li, Sicun Gao, and Amanda Prorok
+ICRA (International Conference on Robotics and Automation) 2023
+Everyone's Preference Changes Differently: A Weighted Multi-Interest Model For Retrieval
+Hui Shi, Yupeng Gu, Yitong Zhou, Bo Zhao, Sicun Gao, and Jishen Zhao
+ICML (International Conference on Machine Learning) 2023
+Safe Control with Learned Certificates: A Survey of Neural Lyapunov, Barrier, and Contraction Methods [arXiv]
+Charles Dawson, Sicun Gao, and Chuchu Fan
+IEEE Transactions on Robotics (T-RO) 2023
+Monte Carlo Tree Descent for Black-Box Optimization [arXiv]
+Yaoguang Zhai and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2022
+Learning-based Motion Planning in Dynamic Environments Using GNNs and Temporal Encoding [arXiv]
+Ruipeng Zhang, Chenning Yu, Jingkai Chen, Chuchu Fan, and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2022
+Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [arXiv]
+Eric Yang Yu, Zhizhen Qin, Min Kyung Lee, and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2022
+Learning Control Admissibility Models with Graph Neural Networks for Multi-Agent Navigation [project page]
+Chenning Yu, Hongzhan Yu, and Sicun Gao
+CoRL (Conference on Robot Learning) 2022
+Quantifying Safety of Learning-based Self-Driving Control Using Almost-Barrier Functions [arXiv]
+Zhizhen Qin, Tsui-Wei Weng, and Sicun Gao
+IROS (International Conference on Intelligent Robots and Systems) 2022
+Learning Bounded Context-Free Grammar via LSTM and Transformers: Differences and Explanations [arXiv]
+Hui Shi, Sicun Gao, Yuandong Tian, Xinyun Chen, and Jishen Zhao
+AAAI (AAAI Conference on Artificial Intelligence) 2022
+Reducing Collision Checking for Sampling-Based Motion Planning Using Graph Neural Networks [project page]
+Chenning Yu and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2021
+A Neural Lyapunov Approach to Transient Stability Assessment of Power Electronics-interfaced Networked Microgrids [pdf]
+Tong Huang, Sicun Gao, and Le Xie
+IEEE Transactions on Smart Grid 2021 [IEEE Power & Enery Society Technical Committee Prize Paper Award]
+Safe Nonlinear Control Using Robust Neural Lyapunov-Barrier Functions [arXiv]
+Charles Dawson, Zengyi Qin, Sicun Gao, and Chuchu Fan
+CoRL (Conference on Robot Learning) 2021
+Stabilizing Neural Control Using Self-Learned Almost Lyapunov Critics [project page]
+Ya-Chien Chang and Sicun Gao
+ICRA (International Conference on Robotics and Automation) 2021
+Provably Efficient Model-based Policy Adaptation [project page]
+Yuda Song, Aditi Mavalankar, Wen Sun, and Sicun Gao
+ICML (International Conference on Machine Learning) 2020
+Active Learning of Many-body Configuration Space: Application to the Cs+-water MB-nrg Potential Energy [chemArxiv]
+Yaoguang Zhai, Alessandro Caruso, Sicun Gao, and Francesco Paesani
+JCP (Journal of Chemical Physics) 2020
+Neural Lyapunov Control [project page]
+Ya-Chien Chang, Nima Roohi, and Sicun Gao
+NeurIPS (Conference on Neural Information Processing Systems) 2019
+VeriSketch: Synthesizing Secure Hardware Designs with Timing-Sensitive Information Flow Properties [pdf]
+Armaiti Ardeshiricham, Yoshiki Takashima, Sicun Gao, and Ryan Kastner
+CCS (ACM Conference on Computer and Communications Security) 2019
+Numerically-Robust Inductive Proof Rules for Continuous Dynamical Systems [pdf]
+Sicun Gao, James Kapinski, Jyotirmoy Deshmukh, Nima Roohi, Armando Solar-Lezama, Nikos Arechiga, and Soonho Kong
+CAV (International Conference on Computer Aided Verification) 2019
+Inverse Abstraction of Neural Networks Using Symbolic Interpolation [pdf]
+Sumanth Dathathri, Sicun Gao, and Richard M. Murray
+AAAI (AAAI Conference on Artificial Intelligence) 2019
+Tight Continuous-Time Reachtubes for Lagrangian Reachability [pdf]
+Jacek Cyranka, Md. Ariful Islam, Scott Smolka, Sicun Gao, and Radu Grosu
+CDC (IEEE Conference on Decision and Control) 2018
+Delta-Decision Procedures for Exists-Forall Problems over the Reals [pdf]
+Soonho Kong, Armando Solar-Lezama, and Sicun Gao
+CAV (International Conference on Computer Aided Verification) 2018
+LEMAX: Learning-based Energy Consumption Minimization in Approximate Computing with Quality Guarantee
+Vahideh Akhlaghi, Sicun Gao, and Rajesh Gupta
+DAC (Design Automation Conference) 2018
+Modular SMT-Based Analysis of Nonlinear Hybrid Systems [pdf]
+Kyungmin Bae and Sicun Gao
+FMCAD (Formal Methods in Computer-Aided Design) 2017
+Learning-Based Abstractions for Nonlinear Constraint Solving [pdf]
+Sumanth Dathathri, Nikos Arechiga, Sicun Gao, and Richard M. Murray
+IJCAI (International Joint Conference on Artificial Intelligence) 2017
+Interpolants in Nonlinear Theories over the Reals [pdf]
+Sicun Gao and Damien Zufferey
+TACAS (International Conference on Tools and Algorithms for the Construction and Analysis of Systems) 2016
+APEX: A Tool for Autonomous Vehicle Plan Verification and Execution [pdf]
+Matthew O'Kelly, Houssam Abbas, Sicun Gao, Shin'ichi Shiraishi, Shinpei Kato, and Rahul Mangharam
+SAE (Society of Automotive Engineers) World Congress and Exhibition 2016
+
+SMT-Based Analysis of Virtually Synchronous Distributed Hybrid Systems [pdf]
+Kyungmin Bae, Peter Olveczky, Soonho Kong, and Sicun Gao
+HSCC (ACM International Conference on Hybrid Systems: Computation and Control) 2016
+Automated Vulnerability Analysis of AC State Estimation under Constrained False Data Injection in Electric Power Systems [pdf]
+Sicun Gao, Le Xie, Armando Solar-Lezama, Dimitrios Serpanos, and Howard Shrobe
+CDC (IEEE Conference on Decision and Control) 2015
+dReach: Delta-Reachability Analysis for Hybrid Systems [pdf]
+Soonho Kong, Sicun Gao, Wei Chen, and Edmund Clarke
+TACAS (International Conference on Tools and Algorithms for the Construction and Analysis of Systems) 2015
+SMT-Based Nonlinear PDDL+ Planning [pdf]
+Daniel Bryce, Sicun Gao, David Musliner, and Robert P. Goldman
+AAAI (AAAI Conference on Artificial Intelligence) 2015
+Towards Personalized Prostate Cancer Therapy Using Delta-Reachability Analysis [pdf]
+Bing Liu, Soonho Kong, Sicun Gao, Paolo Zuliani, and Edmund Clarke
+HSCC (ACM International Conference on Hybrid Systems: Computation and Control) 2015
+Parameter Synthesis for Cardiac Cell Hybrid Models Using Delta-Decisions [arXiv]
+Bing Liu, Soonho Kong, Sicun Gao, Paolo Zuliani, and Edmund Clarke
+CMSB (Computational Methods in Systems Biology) 2014
+Proof Generation from Delta-Decisions [arXiv]
+Sicun Gao, Soonho Kong, and Edmund Clarke
+SYNASC (International Conference on Symbolic and Numerical Algorithms for Scientific Computing) 2014
+Satisfiability Modulo ODEs [pdf]
+Sicun Gao, Soonho Kong, and Edmund Clarke
+FMCAD (Formal Methods in Computer-Aided Design) 2013
+Floating-point Bugs in the Embedded GNU C Library [pdf]
+Soonho Kong, Sicun Gao, and Edmund Clarke
+CMU SCS Technical Report CMU-CS-13-130 2013
+dReal: An SMT Solver for Nonlinear Theories of Reals [pdf] [tool]
+Sicun Gao, Soonho Kong, and Edmund Clarke
+CADE (International Conference on Automated Deduction) 2013
+Computable Analysis, Hybrid Automata, and Decision Procedures: A New Framework for the Formal Verification of Cyber-Physical Systems [extended abstract]
+PhD Thesis in Logic, Carnegie Mellon University 2012
+Committee: Edmund Clarke (co-chair), Jeremy Avigad (co-chair), Lenore Blum, Randy Bryant, and Jeannette Wing
+
+Delta-Complete Decision Procedures for Satisfiability over the Reals [pdf]
+Sicun Gao, Jeremy Avigad, and Edmund Clarke
+IJCAR (International Joint Conference on Automated Reasoning) 2012
+Delta-Decidability over the Reals [arXiv]
+Sicun Gao, Jeremy Avigad, and Edmund Clarke
+LICS (Logic in Computer Science) 2012
+Quantifier Elimination over Finite Fields with Groebner Bases [arXiv]
+Sicun Gao, Andre Platzer, and Edmund Clarke
+CAI (International Conference on Algebraic Informatics) 2011
+Integrating ICP and LRA Solvers for Deciding Nonlinear Real Arithmetic [pdf]
+Sicun Gao, Malay Ganai, Franjo Ivancic, Aarti Gupta, Sriram Sankaranarayanan, and Edmund Clarke
+FMCAD (Formal Methods in Computer Aided Design) 2010
+A Non-Prenex DPLL-Based QBF Solver with Game-State Learning [pdf]
+William Klieber, Samir Sapra, Sicun Gao, and Edmund Clarke
+SAT (Theory and Applications of Satisfiability Testing) 2010
+Counting Zeros over Finite Fields with Groebner Bases [pdf]
+MS Thesis in Logic, Carnegie Mellon University 2009
+
+The infinite we shall do right away. The finite may take a little longer. -- Stanislaw Ulam
+

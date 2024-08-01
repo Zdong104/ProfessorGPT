@@ -1,0 +1,82 @@
+Professor: Daniel S. Brown
+University: University of Utah
+URL: https://www.cs.utah.edu/~dsbrown/index.html
+Description: Daniel S. Brown
+Assistant Professor, University of Utah
+Hi, I’m Daniel
+RESEARCH OVERVIEW
+I am an Assistant Professor in the Robotics Center and School of Computing at the University of Utah. Previously, I was a postdoc at UC Berkeley working with Anca Dragan and Ken Goldberg on human-in-the-loop robot learning. I received my PhD in 2020 from the CS department at UT Austin where I was advised by Scott Niekum. My research focuses on robot learning under uncertainty, reward inference from human input, and AI safety. In particular, I've worked on methods that give a robots and other autonomous agents the ability to provide high-confidence bounds on performance when learning a policy from a limited number of demonstrations, ask risk-aware queries to better resolve ambiguities and perform robust policy optimization from demonstrations, learn more efficiently from informative demonstrations, learn from ranked suboptimal demonstrations, even when rankings are unavailable, and perform fast Bayesian reward inference for visual control tasks.
+
+PUBLICATIONS CV
+News
+1/24 — I received an NIH Trailblazer award in collaboration with Prof. Haohan Zhang to develop intelligent and adaptive control of a powered neck exoskeleton!
+12/23 — Our paper Autonomous Assessment of Demonstration Sufficiency via Bayesian Inverse Reinforcement Learning was accepted to HRI 2024!
+9/23 — Our paper Exploring Behavior Discovery Methods for Heterogeneous Swarms of Limited-Capability Robots was accepted to MRS 2023!
+9/23 — Our paper Player-Centric Procedural Content Generation: Enhancing Runtime Customization by Integrating Real-Time Player Feedback was accepted as a work-in-progress to CHI PLAY 2023!
+8/23 — Our paper Quantifying Assistive Robustness Via the Natural-Adversarial Frontier was accepted to CoRL 2023!
+3/23 — Our paper Leveraging Human Feedback to Evolve and Discover Novel Emergent Behaviors in Robot Swarms was accepted to GECCO 2023!
+11/25/22 — Our paper The Effect of Modeling Human Rationality Level on Learning Rewards from Multiple Feedback Types was accepted to AAAI 2023!
+11/14/22 — Our paper Interpretable Reward Learning via Differentiable Decision Trees has been accepted to the NeurIPS 2022 ML Safety Workshop!
+11/14/22 — Our paper "Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models" has been accepted to the NeurIPS 2022 Workshop on Human in the Loop Learning!
+9/14/22 — Our paper Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations has been accepted to NeurIPS 2022!
+9/10/22 — Our paper Learning Representations that Enable Generalization in Assistive Tasks has been accepted to CoRL 2022!
+8/13/22 — Initial course website is up for my Fall 2022 class: Human-AI Alignment.
+8/2/22 — Our paper Teaching Robots to Span the Space of Functional Expressive Motion was accepted to IROS 2022.
+7/1/22 — I started as an assistant professor at the University of Utah's Robotics Center and School of Computing.
+5/25/22 — Our paper Study of Causal Confusion in Preference-Based Reward Learning has been accepted to the RSS 2022 Workshop Overlooked Aspects of Imitation Learning: Systems, Data, Tasks, and Beyond.
+5/25/22 — Our paper Learning Switching Criteria for Sim2Real Transfer of Robotic Fabric Manipulation Policies was accepted to CASE 2022.
+5/6/22 — I gave at talk at the Stanford Robotics Seminar on "Leveraging Human Input to Enable Robust AI Systems".
+3/30/22 — I accepted a position as an assistant professor at the School of Computing and Robotics Center at the University of Utah starting all 2022!
+1/31/21 — Our paper LEGS: Learning Efficient Grasp Sets for Exploratory Grasping was accepted at ICRA 2022!
+10/15/21 — I gave an AI Seminar on "Efficient and Robust Learning of Human Intent" at U. Alberta. Video here.
+10/1/21 — I was an invited speaker on the Talking Robotics virtual seminar series. Video here.
+9/15/21 — Our paper ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning was accepted to CoRL 2021.
+8/10/21 — Our workshop on Safe and Robust Control of Uncertain Systems was accepted to NeurIPS 2021.
+6/14/21 — Our paper on Offline Preference-Based Apprenticeship Learning was accepted at the ICML Workshop on Human-AI Collaboration in Sequential Decision-Making.
+6/10/21 — I was selected as a 2021 RSS Pioneer.
+6/4/21 — Two papers accepted to IEEE CASE 2021: LazyDAgger: Reducing Context Switching in Interactive Imitation Learning and Kit-Net: Self-Supervised Learning to Kit Novel 3D Objects into Novel 3D Cavities.
+5/29/21 — Two papers accepted to ICML 2021: Value Alignment Verification and Policy Gradient Bayesian Robust Optimization for Imitation Learning.
+5/20/21 — I gave a talk at UC Berkeley's Midday Science Cafe on "Harnessing Machine Learning for Science," with a focus on how robots can learn from, model, and better assist humans. Video recording here.
+3/15/21 — Our paper Optimal Cost Design for Model Predictive Control was accepted at the 3rd Annual Learning for Dynamics & Control Conference (L4DC).
+2/28/21 — Two papers accepted at ICRA 2021: Dynamically Switching Human Prediction Models for Efficient Planning and Situational Confidence Assistance for Lifelong Shared Autonomy.
+10/31/20 — Our paper Value Alignment Verification was accepted at the NeurIPS 2020 HAMLETS Workshop!
+10/14/20 — Our paper Exploratory Grasping: Asymptotically Optimal Algorithms for Grasping Challenging Polyhedral Objects was accepted at CoRL 2020!
+9/25/20 — Our paper on Bayesian Robust Optimization for Imitation Learning was accepted at NeurIPS 2020!
+8/31/20 — I started a postdoc at UC Berkeley working with Anca Dragan and Ken Goldberg.
+7/20/20 — I successfully defended my PhD dissertation! Video of presentation here.
+5/31/20 — Our paper Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences was accepted to ICML 2020.
+2/01/20 — My research with Prof. Scott Niekum was featured in a recent Quanta magazine article.
+11/18/19 — I passed my PhD dissertation proposal and advanced to candidacy!
+10/10/19 — Our paper Deep Bayesian Reward Learning from Preferences was accepted to the 2019 NeurIPS Workshop on Safety and Robustness in Decision Making.
+9/7/19 — Our paper Better-than-Demonstrator Imitation Learning via Automatically-Ranked Demonstrations was accepted to the 2019 Conference on Robot Learning (CoRL).
+6/1/19 — Code for our paper Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations is available on github: T-REX code. We also have a project page with videos: T-REX Project Page.
+4/21/19 — Our paper on Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations was accepted to ICML 2019.
+4/12/19 — Our paper on Learning from Suboptimal Demonstrations through Inverse Reinforcement Learning from Ranked Observations was accepted to RLDM 2019.
+10/31/18 — Our paper on Machine Teaching for Inverse Reinforcement Learning accepted to AAAI 2019.
+9/1/18 — Our paper on Risk-Aware Active Inverse Reinforcement Learning accepted to the 2018 Conference on Robot Learning.
+8/17/18 — Our paper on our UT Austin Villa Robocup@Home Robot Architecture accepted to the AAAI 2018 Fall Symposium on Reasoning and Learning in Real-World Systems for Long-Term Autonomy.
+11/10/17 — Code for our AAAI 2018 paper is now available on github: aaai-2018-code
+11/10/17 — I presented our paper at AAAI 2018 in New Orleans. We develop a practical method for bounding policy loss and performing risk-aware policy improvement when learning from demonstration. Presentation slides available as PowerPoint or PDF.
+11/10/17 — I presented our paper on Probabilistic Safety Bounds for Robot Learning from Demonstration at the AAAI Fall Symposium on AI for HRI.
+11/9/17 — Our paper on Efficient Probabilistic Performance Bounds for Inverse Reinforcement Learning was accepted to AAAI 2018.
+7/30/17 — Our team UT Austin Villa won third place in the 2017 Robocup@Home Domestic Standard Platform League in Nagoya, Japan.
+Menu
+HOME
+RECENT NEWS
+PUBLICATIONS
+TEACHING
+ABOUT ME
+CV
+Contact
+daniel.s.brown@utah.edu
+
+
+Daniel_S_Brown
+
+
+
+© Daniel Brown.
+Design: HTML5 UP and Daniel Brown.
+
+Toggle
+

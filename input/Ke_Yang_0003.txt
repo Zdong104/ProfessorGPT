@@ -1,0 +1,69 @@
+Professor: Ke Yang 0003
+University: University of Texas at San Antonio
+URL: https://keyang0923.github.io/
+Description: about vitae
+Ke Yang
+
+San Pedro I 410 F
+
+506 Dolorosa St
+
+San Antonio, TX
+
+78204
+
+I am an Assistant Professor in the Department of Computer Science, College of Sciences, University of Texas at San Antonio. I am the founder and lead faculty of the Cohort for AI REsponsibility (CARE) at UTSA. I am also a core faculty in School of Data Science at UTSA.
+
+Prior to joining UTSA, I was a postdoctoral researcher at College of Information and Computer Science, University of Massachusetts, Amherst, as a member of the Data systems Research for Exploration, Analytics, and Modeling (DREAM) lab and of the Center for Data Science. I had received a postdoctoral fellowship from the CDS at UMass.
+
+I obtained my Ph.D. from New York University, under the supervision of Prof. Julia Stoyanovich. I have received a Pearl Brownstein Doctoral Research Award from the Tandon School of Engineering at NYU. Details of my Ph.D. research can be found at DataResponsibly.
+
+Research Interests
+
+My work is broadly in the areas of AI responsibility, data management, machine learning, and human- centered data science. In particular, I have focused on topics such as algorithmic fairness, diversity, transparency, and algorithmic accountability. Other areas of focus include AI and machine learning education and public engagement.
+
+Professional Experience
+Assistant Professor, Computer Science, College of Sciences, University of Texas at San Antonio, 2023.08 ~ current
+Postdoctoral Research Associate, College of Information and Computer Sciences, University of Massachusetts, Amherst, 2021.09 ~ 2023.08
+Supervisor: Alexandra Meliou
+Fully funded by CDS Postdoctoral Fellowship
+Selected publication: Non-Invasive Fairness in Learning through the Lens of Data Drift, 2023
+Graduate Research Assistant, Tandon School of Engineering, New York University, 2019 ~ 2021
+Supervisor: Julia Stoyanovich
+Fully funded by a graduate research assistantship
+Selected publication: Fairness in Ranking: A Survey, 2021(received 138 citations until Aug, 2023)
+More projects at dataresponsibly.github.io.
+Research intern, AT&T Labs, New York, 2019 Summer
+Supervisors: Emily Dodwell, Ritwik Mitra, and Balachander Krishnamurthy
+Project: Fairness and transparency in machine learning
+Graduate Research Assistant, College of Computing & Informatics, Drexel University, 2015 ~ 2018
+Supervisor: Julia Stoyanovich
+Fully funded by a graduate research assistantship
+Selected publication 1: Measuring Fairness in Ranked Outputs, 2017 (received 338 citations until Aug, 2023)
+Selected publication 2: A Nutritional Label for Rankings, 2018 (received 112 citations until Aug, 2023)
+Research engineer, Elite & Resource (start-up company), Beijing, 2014 ~ 2015
+Supervisor: Peng Sun
+Project: Preventing flood disaster using machine learning
+Results have been integrated as a core component of a national floor disaster data management system.
+Graduate Research Assistant, Beijing Technology and Business University, 2012 ~ 2015
+Advisor: Zhongming Han and Qian Mo
+Fully funded by a graduate research assistantship
+Selected publication 1: Overview of Web Spammer Detection, 2013 (published in a top-tier computer science journal in Chinese)
+Selected publication 2: Analyzing Spectrum Features of Weight User Relation Graph to Identify Large Spammer Groups in Online Shopping Websites, 2015 (published in a top-tier computer science journal in Chinese)
+Open Source Tools
+Mirror Data Generator
+A python script generates synthetic data to mirror issues, such as sampling and societal bias. The issues are described by the correlation between features.
+Ranking Facts
+A web-based tool generates a ``nutritional label’’ for rankings. Each label shows a fact about the ranking. For example, a fact about fairness explains whether the ranking shows statistical parity between groups that are defined by a user-specified feature.
+FairDAGs
+A web-based tool extracts directed acyclic graph (DAG) representation of data science pipelines and tracks the changes of the distributions of targets and groups due to each operation. The groups are often defined by a user-specified feature in the dataset.
+
+Last Updated on 09/01/2023
+
+news
+July 1, 2023	I’m joining Computer Science Department at UTSA this Fall!
+Sep 1, 2021	I’m joining CICS at UMass this Fall!
+Jul 1, 2021	Check out our latest survey of Fairness in Ranking.
+Reach me through email!
+© Copyright 2023. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages.
+

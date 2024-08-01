@@ -1,0 +1,174 @@
+Professor: Roya Ensafi
+University: University of Michigan
+URL: https://ensa.fi/
+Description: Home |Publications |Press |Teaching |CV |Join My Lab
+
+Roya Ensafi
+
+Associate Professor, Computer Science & Engineering , University of Michigan
+
+
+OTF Advisory Council
+Founder and Director of Censored Planet Lab
+Dissonance Organizing Committee
+
+
+
+
+
+Email:  ensafi [@] umich.edu
+Twitter:  @royaensafi
+● Bio ● CV ● Google Scholar
+● More about me: [1], [2]
+
+
+
+
+Recent Awards:
+Sloan Research Fellowship
+NSF CAREER (2023)
+IRTF Applied Networking (2016,2023)
+USENIX Security Internet Defense Prize (2022)
+
+
+
+
+
+My research broadly lies at the intersection of networking, security and privacy, and Internet measurement. I build scalable techniques and systems to protect users’ Internet experiences from disruption, surveillance, and digital inequity. My work takes a data-driven approach to detecting and defending against powerful network intermediaries, government threat actors, and technologies and practices that impact users’ freedom of expression online.
+
+Members of my lab
+
+Armin Huremagic (lead engineer), Piyush Kumar Sharma (postdoc), Hieu Li (postdoc), Ram Sundara Raman (phd student), Diwen Xue (phd student), Anna Ablove (phd student), Aaron Ortwein (phd student), Wayne Wang (phd student), Robert Stanley (undergrad) , Brennen Daudlin (undergrad), Joshua Hannah (undergrad)), Therron Montgomery , Ye Shu(Summer Intern).
+
+Alumni include: Name (Postdoc/PhD/Master/Undergrad--> immdidate position after graduating)
+Reethika Ramesh (PhD student → Senior Staff Researcher at Palo Alto Networks.),Renuka Kumar (PhD student → Software Engineer IV at Cisco),Muhammad Ikram (Postdoc→ Lecturer, Macquarie University), Gavin Li(Undergrad→ Graduate Student, Standford), Apurva Virkud (Undergrad→ PhD Student, UIUC), <, Kevin Wang(Undergrad), Elisa Tsai(→ PhD Student, Michigan), Arham Jain (Undergrad→ Software Engineer, Google), Yael Eiger(Software engineer→ PhD Student, Washington University), Kyle Astroth(Masters student→), Anjali Vyas (Undergrad→ Masters Student, Cornell Tech), Rose Ceccio (Undergrad→ PhD Student, Wisconsin - Madison), Victor Ongkowijaya (Undergrad→ PhD Student, Princeton), Adrian Stoll (Undergrad→ Software Engineer, Google), Prerana Shenoy (Undergrad→ Product Security Engineer, Atlassian), Leonid Evdokimov, Elio Qoshi (→ Ura Design).
+
+
+
+
+I have multiple openings for PhD students and a postdoctoral fellow. Join me to protect users' Internet experiences from censorship, surveillance, and digital inequity!
+
+
+
+
+Flagship Projects
+
+Censored Planet: Censored Planet is a platform that provides continuous, global data about Internet censorship practices in countries around the world. It builds on my long line of work developing remote censorship measurement techniques. My group operates several of these systems, curates the data, and publishes continuous datasets about the reachability of thousands of sensitive websites from more than 221 countries. In partnership with Google Jigsaw, we recently launched a cloud-based data analysis pipeline and a visualization dashboard, facilitating use of our data by more than 100 organizations spanning research and human rights advocacy. Some of our high profile rapid response investigations include Kazakhstan HTTPS interception and Russia’s throttling of Twitter. Read more about this project at https://censoredplanet.org.
+
+VPNalyzer: VPNalyzer aims to analyze the commercial VPN ecosystem through three parallel efforts: a cross-platform user- facing tool that facilitates rigorous, efficient, and continuous checks of VPNs’ security and privacy; large-scale user studies to understand the needs of VPN users; and qualitative studies surveying VPN providers to understand their technical and operational challenges and to uncover dark patterns in their operations, pricing, and marketing. VPNalyzer was awarded the Consumer Reports Digital Lab fellowship, read more about this project at https://vpnalyzer.org.
+
+Splintering Net: The Internet is becoming increasingly regionalized due to sanctions, financial regulations, copyright and licensing rights, perceived abuse, or a perceived lack of customers. We conduct measurement studies to understand how these issues affect user’s experience from different geolocation (geo-equity). Read more about this project at https://splintering.net.
+
+
+These are just my lab flagship projects. Please refer to my publication page or contact me for more information about my lab projects.
+
+
+
+
+Selected Publications   ⇒ All Publications
+
+Fingerprinting Obfuscated Proxy Traffic with Encapsulated TLS Handshakes
+D. Xue, M. Kallitsis, A. Houmansadr, and R. Ensafi
+In: USENIX Security Symposium 2024 (USENIX Security)
+
+“All of them claim to be the best”: A multi-perspective study of VPN users and VPN providers
+R. Ramesh, A. Vyas, R. Ensafi
+In: USENIX Security, August 2023
+
+Network Measurement Methods for Locating and Examining Censorship Devices
+R. Sundara Raman, M. Wang, J. Dalek, J. Mayer, R. Ensafi
+In: ACM Conference on emerging Networking EXperiments & Technologies (CoNEXT), December 2022
+🏆 IRTF Applied Networking Research Prize winner
+OpenVPN is Open to VPN Fingerprinting
+D. Xue, R. Ramesh, A. Jain, M. Kallitsis, A. Halderman, J. R. Crandall, R. Ensafi
+In: USENIX Security, August 2022
+🏆 Distinguished paper award
+🏆 Won First Prize 🏆 in the 2022 Internet Defense Prize
+
+VPNalyzer: Systematic Investigation of the VPN Ecosystem
+R. Ramesh, L. Evdokimov, D. Xue, R. Ensafi
+In: NDSS, April 2022
+🏆 Won First Place at the CSAW '22 Applied Research Competition.
+
+Throttling Twitter: An Emerging Censorship Technique in Russia
+D. Xue, R. Ramesh, ValdikSS, L. Evdokimov, A. Viktorov, A. Jain, E. Wustrow, S. Basso, R. Ensafi
+In: ACM IMC, November 2021
+🏆 Recognized as the Highest Scoring Short Paper
+Examining How the Great Firewall Discovers Hidden Circumvention Servers
+R. Ensafi, D. Fifield, P. Winter, N. Feamster, N. Weaver, V. Paxson
+In: ACM Internet Measurement Conference (IMC), October 2015
+🏆 IRTF Applied Networking Research Prize winner
+
+
+
+Teaching   ⇒ All Teaching
+
+EECS 388 Introduction to Security
+
+University of Michigan [Winter 2020, Fall 2022, Fall 2023]
+
+Course Description: This course teaches the security mindset and introduces the principles and practices of computer security as applied to software, host systems, and networks. I hope any interested CS undergraduate students take this course.
+
+Prerequisites: EECS 281 required; EECS 201 and EECS 370 recommended.
+
+
+
+
+
+Talks   ⇒ Additional Talks
+
+
+
+MADWeb 2023 Keynote (2023)
+	
+CensoredPlanet
+
+
+
+Sloan-Supported Digital Lab
+Fellow Talk on VPNalzyer (2022)
+
+	
+
+
+Summit for Democracy (2021)
+
+
+
+
+
+
+
+
+Research in the news   ⇒ All Press
+
+Governments are finding new ways to squash free expression online The Economist, 2021.
+Russia is Censoring the Internet, With Coercion and Block Boxes. New York Times, 2021.
+Russia’s Twitter throttling may give censors never-before-seen capabilities. Ars Technica, 2021.
+Academics: Russia deployed new technology to throttle Twitter’s traffic. The Record, 2021.
+Kazakhstan's HTTPS interception efforts target Facebook, Google, Twitter, others ZDNet, 2019.
+Google and Mozilla move to stop Kazakhstan 'snooping' BBC, 2019.
+Google and Mozilla release statements [1, 2] and take action based on our Kazakhstan report. 2019.
+Study: Russia’s web-censoring tool sets pace for imitators Associated Press, 2019.
+US blocks Hong Kong users from some government websites Financial Times, 2020.
+
+
+
+
+Updates   ⇒ All Updates
+
+October 2022: I served as Publicity Chair for IMC'22.
+September 2022: I served as Chair for EGS'22.
+August 2022: Our paper, A Large-scale Investigation into Geodifferences in Mobile Apps, appeared in USENIX Security Symposium.
+August 2022: I am the program co-chair for FOCI'22.
+August 2022 I served on the PC for Sec'22.
+June 2022: I served as Co-Technical-Chair for TMA'22.
+May 2022: I was a finalist for the ACUM Outstanding Advisor Award.
+April 2022: I was a panelist on The Feeling of Being Watched, sponsored by Dissonance, ITS, and Wallace House.
+February 2022: I was invited to talk at Brave about The Story of Censored Planet
+January 2022: I was an invited Panelist and consultant for White House officials on existing projects for The Alliance for the Future of the Internet.
+December 2021: Invited by the President of the United States, I participated on Democracy–Affirming Technology panel at The Summit for Democracy..
+November 2021: We uploaded a recorded version of our Censored Planet Webinar.
+
+
+

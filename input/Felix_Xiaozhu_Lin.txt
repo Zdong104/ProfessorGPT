@@ -1,0 +1,65 @@
+Professor: Felix Xiaozhu Lin
+University: University of Virginia
+URL: https://fxlin.github.io/
+Description: Felix Xiaozhu Lin
+
+View My GitHub Profile
+
+Felix Xiaozhu Lin 林 小竹
+Associate Prof.	William Wulf Faculty Fellow	UVA Computer Science	CV	Contact
+
+PhD (Rice ‘14); MS/BS (‘08/’06 Tsinghua). Grew up in a small midwestern town in China. Before UVA, six great years at Purdue.
+
+Fall 2024: We are recruiting! (Recent projects) algo x sys x hw for:
+
+LLMs: on-device execution, private data selection & training
+Speech: execution of deep models on $35 hardware
+Stable diffusion: fast sampling on consumer CPU/GPU
+Geometric deep learning: 3D vision, graph neural networks, etc.
+Various old-fashioned, hardcore OS stuffs (see pubs below)
+
+I led a group of graduate/undergraduate students who are execited by building cool software stuffs.
+
+See our group page for current students and projects.
+
+Virginia is for lovers!
+
+ The UVA campus at sunset, with Blue Ridge mountains in the back. Credit: UVA.
+
+Efforts on refreshing OS education (UVA CS4414/CS6456). Principles: experience-based, with modern contents, and fun. Summary: four projects including an Arm64 baremetal kernel, multicore, trusted execution, and filesystem forensics.
+
+The first offering in Fall’20 as CS6456. Well received! Materials; student feedbacks; schedule
+
+Research (Publications)
+
+I care about systems software. I work with a group of students with enthusiasm in systems software. See XSEL.
+
+Our current work bases on two premises:
+
+1. Old kernels (e.g. Linux) are firmware
+Reuse via Replay: GPU replay [ASPLOS’22, Eurosys’23]; Driverlet [Eurosys’22].
+Transkernel: unmodified Linux drivers on microcontroller-like cores (ATC’19 and HotMobile’17).
+Overwatch: safeguarding unmodified file systems for IoT devices (preprint)
+Power sandbox: power awareness redefined (Eurosys’18).
+2. New OSes are defined by scenarios
+STI: turbocharged NLP inference [ASPLOS’23]
+Elf: autonomous AI cameras (Mobisys’20, 3-min video, website, slides)
+VStore: managing large archival videos for analytics (Eurosys’19).
+StreamBox: stream analytics with manycores (ATC’17), with 3D-stacked memory (ASPLOS’19), and with Arm TrustZone (ATC’19).
+
+My PhD work was on OS kernels for smartphones, e.g. the K2 project which won an award in ASPLOS’14. I continue to care about mobile/wearables, e.g. deep learning on them (WWW’19 & MobiCom’18).
+
+Doc, code, talks
+Notes on hacking mobile GPUs
+GPUReplay
+Driverlet
+Jun 2020: “OS frontiers in the AI era” For UVA graduate students. slides video
+Mar 2019: Overview slides
+Useful
+
+Need a reference letter from me? | How do I determine final grades for undergrad classes? | How do we work with undergrads in research? | To signature requesters | Name in Chinese
+
+ We are one-hour from the gorgeous Shenandoah national park. Unlimited outdoor fun. Photo: http://virginia.org
+
+Hosted on GitHub Pages — Theme by orderedlist
+

@@ -1,0 +1,322 @@
+Professor: Bruno Ribeiro 0001
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/ribeirob
+Description: Bruno Ribeiro
+Associate Professor of Computer Science
+Purdue University
+Visiting Associate Professor of Computer Science
+Stanford University
+	WANG 4089 / Gates 452
+Department of Computer Science
+Purdue University / Stanford University
+West Lafayette, IN / Palo Alto, CA
+ribeirob@purdue.edu / ribeirob@stanford.edu
+C.V. [pdf]
+
+News:
+Excited to give a plenary talk "GNNs and Robust Out-of-Distribution Predictions in Physical Sciences" at the Workshop GNNs for the Sciences: from Theory to Practice, Institute for Mathematical and Statistical Innovation, Chicago, IL, link January 26th, 2024.
+Excited to give an invited talk at Stanford GSB RAIN Seminar Series November 13th, 2023
+Excited to give an invited talk "Insights into Causal Link Prediction through Causal Lifting" at the NSF TRIPODS GraPFiCs Foundations of Fairness, Privacy and Causality in Graphs Workshop (October 2023). Presentation slides here
+Happy to have been awarded an Amazon Research Award (2022) that will help support our lab's efforts in building practical tools for counterfactual ML.
+Excited to finally see the Graph ML folks in person at Dagstuhl in March (2022)!
+Invited talk at the Graphs and More Complex Structures for Learning and Reasoning, Relationships Between Higher-order Structures and Graph Representation Learning, Workshop AAAI, February 28th, 2022
+Current Students:
+PhD
+Beatrice Bevilacqua
+Jincheng Zhou
+Yucheng Zhang
+Undegraduate
+Bruna Jasinowodolinski
+Former Students:
+PhD
+S Chandra Mouli (Ph.D. 2024, Applied Scientist @ Amazon)
+Yangze Zhou< (Ph.D. 2024, Applied Scientist @ Spotify)
+Leonardo Cotta (Ph.D. 2022, Postodoctoral Fellow @ Vector Institute)
+Jianfei Gao (Ph.D. 2023, Applied Scientist @ Amazon)
+Mayank Kakodkar (Ph.D. 2022, Applied Scientist @ Amazon)
+Bala Srinivasan (Ph.D. 2022, Applied Scientist @ Amazon)
+Ryan Murphy (Ph.D. 2021, Financial Industry Regulatory Authority)
+Undergraduate
+Kevin Xia (now PhD at Columbia)
+Jack Good (now PhD at CMU)
+`
+Select Publications (see complete list at Google Scholar):
+2024
+Jiacheng Li, Ninghui Li, Bruno Ribeiro, MIST: Defending Against Membership Inference Attacks Through Membership-Invariant Subspace Training, USENIX Security, 2024 [link].
+
+Abstract	[+]
+S Chandra Mouli, Muhammad Alam, Bruno Ribeiro, MetaPhysiCa: Improving OOD Robustness in Physics-informed Machine Learning, ICLR 2024 (spotlight) [link].
+
+Abstract	[+]
+Beatrice Bevilacqua, Moshe Eliasof, Eli Meirom, Bruno Ribeiro, Haggai Maron, Efficient Subgraph GNNs by Learning Effective Selection Policies, ICLR 2024 [link].
+
+Abstract	[+]
+2023
+Jianfei Gao, Yangze Zhou, Jincheng Zhou, Bruno Ribeiro, Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types , arXiv:2302.01313 [link].
+
+Abstract	[+]
+Leonardo Cotta, Beatrice Bevilacqua, Nesreen Ahmed, Bruno Ribeiro, Causal Lifting and Link Prediction , Proceedings of the Royal Society A, 2023 [link].
+
+Abstract	[+]
+Chandan Botha, Jianfei Gao, Sanjay Rao, Bruno Ribeiro, Veritas: Answering Causal Queries from Video Streaming Traces , ACM SIGCOMM, 2023 [pdf].
+
+Abstract	[+]
+Jiacheng Li, Ninghui Li, Bruno Ribeiro, Effective passive membership inference attacks in federated learning against overparameterized models , ICLR, 2023 [pdf].
+
+Abstract	[+]
+2022
+Yun Seong Nam, Jianfei Gao, Chandan Bothra, Ehab Ghabashneh, Sanjay Rao, Bruno Ribeiro, Jibin Zhan, Hui Zhang, Xatu: Richer Neural Network Based Prediction for Video Streaming , SIGMETRICS, 2022 [pdf].
+
+Abstract	[+]
+Yangze Zhou, Gitta Kutyniok, Bruno Ribeiro, OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs, NeurIPS, 2022 [pdf].
+
+Abstract	[+]
+S Chandra Mouli, Yangze Zhou, Bruno Ribeiro Bias Challenges in Counterfactual Data Augmentation, UAI 2022 Workshop on Causal Representation Learning, 2022 [pdf].
+
+Abstract	[+]
+Jianfei Gao, Bruno Ribeiro, On the Equivalence Between Temporal and Static Equivariant Graph Representations, ICML, 2022 [pdf].
+
+Abstract	[+]
+S. Chandra Mouli, Bruno Ribeiro, Asymmetry Learning for Counterfactually-invariant Classification in OOD Tasks , ICLR, 2022 (Oral) [pdf].
+
+Abstract	[+]
+Carlos HC Teixeira, Mayank Kakodkar, Vinícius Dias, Wagner Meira, Bruno Ribeiro Sequential stratified regeneration: MCMC for large state spaces with an application to subgraph count estimation, Data Mining and Knowledge Discovery, 2022 [pdf].
+
+Abstract	[+]
+Lisette Espín-Noboa, Fariba Karimi, Bruno Ribeiro, Kristina Lerman, Claudia Wagner, Explaining classification performance and bias via network structure and sampling technique, Applied Network Science, 2022 [pdf].
+
+Abstract	[+]
+2021
+Leonardo Cotta, Christopher Morris, Bruno Ribeiro, Reconstruction for Powerful Graph Representations , NeurIPS 2021 [pdf] [code].
+
+Abstract	[+]
+Beatrice Bevilacqua, Yangze Zhou, Bruno Ribeiro, Size-Invariant Graph Representations for Graph Classification Extrapolations , ICML 2021 (long talk) [pdf] [code].
+
+Abstract	[+]
+Mengyue Hang, Jennifer Neville, Bruno Ribeiro, A Collective Learning Framework to Boost GNN Expressiveness , ICML 2021 [pdf].
+
+Abstract	[+]
+S Chandra Mouli and Bruno Ribeiro, Neural Networks for Learning Counterfactual G-Invariances from Single Environments , ICLR 2021 [pdf].
+
+Abstract	[+]
+Mohsen Minaei, S Chandra Mouli, Mainack Mondal, Bruno Ribeiro, Aniket Kate, Deceptive Deletions for Protecting Withdrawn Posts on Social Media Platform, NDSS 2021 [pdf].
+
+Abstract	[+]
+2020
+Leonardo Cotta, Carlos H. C. Teixeira, Ananthram Swami, Bruno Ribeiro, Unsupervised Joint k-node Graph Representations with Compositional Energy-Based Models, NeurIPS 2020 [pdf].
+
+Abstract	[+]
+Amit Sheoran, Sonia Fahmy, Matthew Osinski, Chunyi Peng, Bruno Ribeiro, Jia Wang, Experience: towards automated customer issue resolution in cellular networks, MOBICOM 2020 [link].
+
+Abstract	[+]
+P. C. Sruthi, Sanjay Rao, Bruno Ribeiro, Pitfalls of data-driven networking: A case study of latent causal confounders in video streaming, ACM SIGCOMM 2020 Workshop on Network Meets AI & ML (NetAI 2020) [pdf].
+
+Abstract	[+]
+Balasubramaniam Srinivasan, Bruno Ribeiro, On the Equivalence between Positional Node Embeddings and Structural Graph Representations, ICLR 2020 [pdf].
+
+Abstract	[+]
+Errata	[+]
+Jianfei Gao, Mohamed A. Zahran, Amit Sheoran, Sonia Fahmy, Bruno Ribeiro, Infinity Learning: Learning Markov Chains from Aggregate Steady-State Observations, AAAI 2020 [pdf].
+
+Abstract	[+]
+2019
+Changping Meng, Jiasen Yang, Bruno Ribeiro, Jennifer Neville, HATS: A Hierarchical Sequence-Attention Framework for Inductive Set-of-Sets Embeddings, KDD, 2019 [pdf].
+
+Abstract	[+]
+Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro, Relational Pooling for Graph Representations, ICML, 2019 [pdf].
+
+Abstract	[+]
+Ryan L. Murphy, Balasubramaniam Srinivasan, Vinayak Rao, Bruno Ribeiro, Janossy Pooling: Learning Deep Permutation-Invariant Functions for Variable-Size Inputs, ICLR, 2019 [pdf].
+
+Abstract	[+]
+Leonardo Teixeira, Brian Jalaian, Bruno Ribeiro, Are Graph Neural Networks Miscalibrated?, Learning and Reasoning with Graph-Structured Representations Workshop @ ICML (Spotlight), 2019 [pdf].
+
+Abstract	[+]
+Guangyu Li, Yong Liu, Bruno Ribeiro, Hao Ding, On group popularity prediction in event-based social networks, IEEE Transactions on Network Science and Engineering, 2019 [link].
+
+Abstract	[+]
+Fabricio Murai, Bruno Ribeiro, Don Towlsey, Pinghui Wang, Characterizing directed and undirected networks via multidimensional walks with jumps, ACM Transactions on Knowledge Discovery from Data (TKDD), 2019 [pdf].
+
+Abstract	[+]
+S Chandra Mouli, Leonardo Teixeira, Jennifer Neville, Bruno Ribeiro, Deep Lifetime Clustering, arXiv:1910.00547, 2019 [pdf].
+
+Abstract	[+]
+2018
+Pedro Savarese, Mayank Kakodar, Bruno Ribeiro, From Monte Carlo to Las Vegas: Improving Restricted Boltzmann Machine Training through Stopping Sets, AAAI, 2018 [arXiv:1711.08442] [pdf].
+
+Abstract	[+]
+Jason Meng, Chandra S. Mouli, Bruno Ribeiro, Jennifer Neville, Subgraph Pattern Neural Networks for High-Order Graph Evolution Prediction, AAAI, 2018 [src + data][pdf].
+
+Abstract	[+]
+Carlos Teixeira, Leonardo Cotta, Bruno Ribeiro, and Wagner Meira Jr., Graph Pattern Mining and Learning through User-defined Relations, ICDM, 2018 [pdf].
+
+Abstract	[+]
+Zahaib Akhtar, Yun Seong Nam, Ramesh Govindan, Sanjay Rao, Jessica Chen, Ethan Katz-Bassett, Bruno Ribeiro, Jibin Zhan, and Hui Zhang, Oboe: auto-tuning video ABR algorithms to network conditions, SIGCOMM, 2018 [link].
+
+Abstract	[+]
+Guangyu Li, Yong Liu, Bruno Ribeiro and Hao Ding, On Group Popularity Prediction in Event-Based Social Networks, ICWSM, 2018 [link].
+
+Abstract	[+]
+Mohamed S Hassan, Bruno Ribeiro, Walid G Aref, SBG-sketch: a self-balanced sketch for labeled-graph stream summarization, ICSSDM, 2018 [arXiv:1711.08442] [pdf].
+
+Pinghui Wang, Junzhou Zhao, Bruno Ribeiro, John C.S. Lui, Don Towsley, and Xiaohong Guan, Practical Characterization of Large Networks Using Neighborhood Information, Knowledge and Information Systems 2018 (accepted).
+Abstract	[+]
+2017
+Fabricio Murai, Diogo Rennó, Bruno Ribeiro, Gisele L. Pappa, Don Towsley, Krista Gile, Selective Harvesting over Networks, Data Mining and Knowledge Discovery, 2017 [arXiv:1703.05082].
+
+Abstract	[+]
+Jiasen Yang, Bruno Ribeiro, Jennifer Neville, Stochastic Gradient Descent for Relational Logistic Regression via Partial Network Crawls, UAI Seventh International Workshop on Statistical Relational AI, 2017 [arXiv:1703.07716].
+
+Abstract	[+]
+Jiasen Yang, Bruno Ribeiro, Jennifer Neville, Should We Be Confident in Peer Effects Estimated from Partial Crawls of Social Networks?, ICWSM (poster), 2017 [pdf].
+
+Abstract	[+]
+Kun Tu, Bruno Ribeiro, Ananthram Swami and Don Towsley, Temporal Clustering in time-varying Networks with Time Series Analysis, NIPS 2017 Time Series Workshop.
+
+Abstract	[+]
+Mohamed S. Hassan, Bruno Ribeiro, Walid G. Aref, SBG-Sketch: A Self-Balanced Sketch for Labeled-Graph Stream Summarization, (preprint) [arXiv:1709.06723].
+
+Abstract	[+]
+2016
+Flavio Figueiredo, Bruno Ribeiro, Jussara Almeida, Christos Faloutsos, TribeFlow: Mining & Predicting User Trajectories, ACM International Conference on World Wide Web (WWW'16), 2016
+Version with corrected eq. (1): [pdf] [src + data].
+Earlier technical report at [arXiv:1511.01032].
+
+Abstract	[+]
+Bo Jiang, Daniel R. Figueiredo, Bruno Ribeiro, Don Towsley, On the Duration and Intensity of Competitions in Nonlinear Polya Urn Processes with Fitness, ACM SIGMETRICS, 2016 [pdf] Best Paper Award.
+
+Abstract	[+]
+Konstantin Avrachenkov, Bruno Ribeiro, Jithin K. Sreedharan, Inference in OSNs via Lightweight Partial Crawls, ACM SIGMETRICS, 2016.
+Final version [pdf]
+Earlier version arXiv:1510.05407, 2015 [pdf].
+
+Abstract	[+]
+Flavio Figueiredo, Bruno Ribeiro, Jussara M. Almeida, Christos Faloutsos, A Summary of the TribeFlow Model for Music Discovery Applications, ICML 2016 @ Machine Learning for Music Discovery Workshop (invited).
+
+Flavio Figueiredo, Bruno Ribeiro, Christos Faloutsos, Nazareno Andrade, Jussara M. Almeida, Mining Online Music Listening Trajectories, ISMIR: 17th International Symposium/Conference on Music Information Retrieval, 2016 (accepted).
+Final version [pdf]
+
+Abstract	[+]
+2015
+Bruno Ribeiro, Minh Hoang, Ambuj Singh, Beyond Models: Forecasting Complex Network Processes Directly from Data, ACM International Conference on World Wide Web (WWW'15), 2015 [pdf] [Tech Report] [code + data] [pptx].
+
+Abstract	[+]
+Bruno Ribeiro, Christos Faloutsos, Modeling Website Popularity Competition in the Attention-Activity Marketplace, ACM International Conference on Web Search and Data (WSDM'15), 2015 [arXiv:1403.0600] [pptx].
+
+Abstract	[+]
+Bo Jiang, Liyuan Sun, Daniel R Figueiredo, Bruno Ribeiro and Don Towsley, On the duration and intensity of cumulative advantage competitions, J. Stat., 2015 (accepted) [pdf].
+
+Abstract	[+]
+2014
+Pinghui Wang, John C.S. Lui, Bruno Ribeiro, Don Towsley, Junzhou Zhao, Xiaohong Guan, Efficiently Estimating Motif Statistics of Large Networks, ACM Transactions on Knowledge Discovery from Data (TKDD), Sept. 2014 [pdf].
+Older ArXiv version arXiv:1306.5288.
+Abstract	[+]
+Ting-Kai Huang, Bruno Ribeiro, Harsha V. Madhyastha, Michalis Faloutsos, The Socio-monetary Incentives of Online Social Network Malware Campaigns, ACM Conference on Online Social Networks (COSN'14), 2014 [pdf] [slides.pdf] [slides.pptx].
+Abstract	[+]
+Flavio Figueiredo, Jussara M Almeida, Yasuko Matsubara, Bruno Ribeiro, Christos Faloutsos, Revisit Behavior in Social Media: The Phoenix-R Model and Discoveries, (ECML/PKDD 2014) [arXiv:1405.1459].
+
+Abstract	[+]
+Bruno Ribeiro, Modeling and Predicting the Growth and Death of Membership-based Websites, WWW 2014 [pdf] [arXiv:1307.1354] [slides.pptx].
+
+
+Carnegie Mellon University Press Release: In Age of Information Overload, Ability To Sustain Attention Determines Success | CMU SCS Press Release
+
+How the Model Works commentary (last updated Feb 6 2014)
+
+In the news: CNET | The Times of India | Pittsburgh Post Gazette | ACM TechNews | Phys.org news | Futurity.org | The Connectivist | The Tartan | Business Standard | Pittsburgh Business Times | Business Insider (I never said that "website audiences that grew via word-of-mouth are much better off in the long-run for retaining and engaging users", in fact my work has a number of counter-examples to this claim) | e! Science News | Network World | Science Daily News | TechAdvisor | MIT Technology Review: A roundup of the most interesting innovations coming out of research centers and universities | NSF's Facebook Page
+
+Abstract	[+]
+(alphabetical) K. Avrachenkov, P. Basu, G. Neglia, B. Ribeiro*, and D. Towsley, Pay Few, Influence Most: Online Myopic Network Covering, IEEE NetSciCom Workshop 2014 Best Paper Award [pdf] [slides.pptx].
+*Corresponding author.
+Older version as Technical Report arXiv.
+Abstract	[+]
+Bo Jiang, Liyuan Sun, Daniel R. Figueiredo, Bruno Ribeiro, Don Towsley, On the duration and intensity of cumulative advantage competitions and the struggle of the fittest, [arXiv:1402.4536].
+
+Abstract	[+]
+Peng Xia, Kun Tu, Bruno Ribeiro, Hua Jiang, Xiaodong Wang, Cindy Chen, Benyuan Liu, Don Towsley, Who is Dating Whom: Characterizing User Behaviors of a Large Online Dating Site in Social Network Analysis – Community Detection and Evolution , Springer [arXiv:1401.5710].
+
+MIT Technology Review (Emerging Technology From the arXiv): Data Mining Reveals the Surprising Behavior of Users of Dating Websites
+
+Abstract	[+]
+Kun Tu, Bruno Ribeiro, H. Jiang, X. Wang, David Jensen, Benyuan Liu, Don Towsley, Online Dating Recommendations: Matching Markets and Learning Preferences, 5th International Workshop on Social Recommender Systems (SRS 2014) with WWW 2014 [arXiv:1401.8042].
+Abstract	[+]
+Yeon-sup Lim, Bruno Ribeiro, Don Towsley, Classifying Latent Infection States in Complex Networks, SIMPLEX Workshop 2014 (@ WWW'14) [arXiv:1402.0013 ].
+Abstract	[+]
+James Atwood, Bruno Ribeiro, Don Towsley, Efficient Network Generation Under General Preferential Attachment, SIMPLEX Workshop 2014 (@ WWW'14) [arXiv:1403.4521].
+James's source code.
+Abstract	[+]
+2013
+Bruno Ribeiro, Nicola Perra, and Andrea Baronchelli, Quantifying the Effect of Temporal Resolution on Time-varying Networks, Scientific Reports, 2013 [pdf]. arXiv:1211.7052.
+Abstract	[+]
+Peng Xia, Bruno Ribeiro, Cindy Chen, Benyuan Liu, Don Towsley, A Study of User Behavior on an Online Dating Site (short paper), ASONAM 2013.
+Abstract	[+]
+Ting-Kai Huang, Md Sazzadur Rahman, Harsha V. Madhyastha, Michalis Faloutsos, and Bruno Ribeiro An Analysis of Socware Cascades in Online Social Networks, WWW 2013 [pdf].
+Abstract	[+]
+Fabricio Murai, Bruno Ribeiro, Don Towsley, and Krista Gile, Characterizing Branching Processes from Sampled Data, SIMPLEX Workshop 2013 (@ WWW'13). arXiv:1302.5847.
+Abstract	[+]
+F. Murai, B. Ribeiro, D. Towsley, P. Wang, On Set Size Distribution Estimation and the Characterization of Large Networks via Sampling, IEEE JSAC special issue on Network Science, 2013. [arXiv:1209.0736].
+Abstract	[+]
+2012
+D. Figueiredo, P. Nain, B. Ribeiro*, E. de Souza e Silva, and D. Towsley, Characterizing Continuous Time Random Walks on Time-varying Graphs, SIGMETRICS 2012. *Corresponding author. [pdf]. Technical Report arXiv:1112.5762.
+Abstract	[+]
+Bruno Ribeiro, Prithwish Basu, Don Towsley, Multiple Random Walks to Uncover Short Paths in Power Law Networks, IEEE INFOCOM NetSciCom 2012. [pdf].
+Abstract	[+]
+Bruno Ribeiro, Don Towsley On the Estimation Accuracy of Degree Distributions from Graph Sampling, IEEE Conference on Decision and Control (invited),2012.[pdf].
+This is a new version of the old TechReport UM-CS-2011-036. [pdf].
+Abstract	[+]
+Bruno Ribeiro, Pinghui Wang, Fabricio Murai, and Don Towsley, Sampling Directed Graphs with Random Walks, INFOCOM 2012 [pdf].
+A version is available as UMass CMPSCI Technical Report UMCS-2011-031 [pdf].
+Errata	[+]
+Abstract	[+]
+2011
+Y. Lim, D. S. Menasche, B. Ribeiro, D. Towsley, and P. Basu, Online estimating the k central nodes of a network. IEEE Network Science Workshop (NSW), 2011 [pdf].
+Abstract	[+]
+Bruno Ribeiro, Daniel Figueiredo, Edmundo de Souza e Silva, and Don Towsley, Characterizing Dynamic Graphs with Continuous-time Random Walks, SIGMETRICS 2011 (Generalized to more general graph processes in our SIGMETRICS 2012 paper) [pdf].
+Abstract	[+]
+2010
+Konstantin Avrachenkov, Bruno Ribeiro, and Don Towsley, Improving Random Walk Estimation Accuracy with Uniform Restarts, 7th Workshop on Algorithms and Models for the Web Graph (WAW 2010), Sept 2010.
+A version is available as INRIA Technical Report no 7394 [pdf].
+
+Abstract	[+]
+William Gauvin, Bruno Ribeiro, Benyuan Liu, Don Towsley, Jie Wang, Measurement and Gender-Specific Analysis of User Publishing Characteristics on MySpace, IEEE Network special issue on Online Social Networks, vol 24, number 5, Oct 2010.
+
+Abstract	[+]
+Bruno Ribeiro and Don Towsley, Estimating and Sampling Graphs with Multidimensional Random Walks, ACM SIGCOMM Internet Measurement Conference, Nov, 2010. [src] [pdf]. IMC 2010 slides [pptx].
+
+Abstract	[+]
+Errata	[+]
+Bruno Ribeiro, William Gauvin, Benyuan Liu, and Don Towsley, On MySpace Account Spans and Double Pareto-Like Distribution of Friends, IEEE Infocom 2010 Network Science Workshop, March, 2010. [pdf]
+An older version is available as UMass CMPSCI Technical Report UM-CS-2010-001 [pdf].
+
+Abstract	[+]
+2009 & ealier work
+Bruno Ribeiro, Daniel Figueiredo, and Don Towsley, Herding BitTorrent Traffic away from Expensive ISP Links, Jan, 2009. A version is available as UMass CMPSCI Technical Report UM-CS-2008-029 [pdf].
+
+Abstract	[+]
+Bruno Ribeiro, Tao Ye, and Don Towsley, A Resource-minimalist Flow Size Histogram Estimator, ACM SIGCOMM Internet Measurement Conference, Oct, 2008. A version is available as UMass CMPSCI Technical Report 29-08 [pdf].
+The IMC 2008 slides: [ppt]
+
+Description	[+]
+Errata	[+]
+Bruno Ribeiro, Weifeng Chen, Gerome Miklau, and Don Towsley Analyzing Privacy in Enterprise Packet Trace Anonymization, Proceedings of the 15th Annual Network & Distributed System Security Symposium (NDSS), Feb, 2008 [pdf] and [ppt]
+An extended version is currently available as UMass CMPSCI Technical Report TR 48-07. (BibTeX) [pdf].
+The source code of the software used in this work is available at [src].
+Abstract	[+]
+Bruno Ribeiro, Don Towsley, Tao Ye, and Jean Bolot, Fisher Information of Sampled Packets: an Application to Flow Size Estimation, ACM SIGCOMM Internet Measurement Conference (IMC 2006), Rio de Janeiro, Brazil, October 2006. (BibTeX)
+The camera-ready version and the IMC'06 slides are available (also an errata) here [pdf][ppt] (recommended).
+An older version is also available as UMass CMPSCI Technical Report 06-37 [pdf]
+Also available is a tar.gz file with the source code that computes the Cramer-Rao bounds found in the paper. It needs R 2.4 or newer: [src].
+The source code to numerically obtain the MLE can be found at [src]. It contains the version of wnlib that I used. Wnlib needs csh to compile.
+Description	[+]
+Bruno Ribeiro, Edmundo de Souza e Silva, and Don Towsley, On the Efficiency of Path Diversity for Continuous Media Applications, A version is currently available as UMass CMPSCI Technical Report 05-19 [pdf].
+Description	[+]
+Weifeng Chen, Yong Huang, Bruno Ribeiro, Kyoungwon Suh, Honggang Zhang, Edmundo de Souza e Silva, Jim Kurose, and Don Towsley, Exploiting the IPID field to infer network path and end-system characteristics, Passive and Active Measurement Workshop (PAM'05), Boston, March 2005. [pdf] (BibTeX)
+Description	[+]
+S. C. Coutinho, Bruno Ribeiro, On Holomorphic Foliations without Algebraic Solutions, Experimental Mathematics, v.10, n.4, p.529 - 536, 2001. [pdf]
+Description	[+]
+
+
+
+
+
+

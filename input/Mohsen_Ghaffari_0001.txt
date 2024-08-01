@@ -1,0 +1,648 @@
+Professor: Mohsen Ghaffari 0001
+University: Massachusetts Institute of Technology
+URL: http://people.csail.mit.edu/ghaffari
+Description: Mohsen Ghaffari
+
+
+
+
+
+
+I am an Associate Professor in the EECS Department of MIT, where I hold the Steven and Renee Finn Chair. My research is in theoretical computer science, with a focus on distributed and parallel algorithms. Before joining MIT's faculty, I was fortunate to be on the CS faculty of ETH Zurich (tenured in 2022), and I received my PhD from MIT in 2016.
+
+I am grateful for the generous support of the European Research Council (starting grant DistMaP, 2019—2024), the Swiss National Science Foundation (project grant 200021_184735, 2019—2023), and Google (Faculty Research Award, 2019).
+
+
+
+PhD positions: If you're interested in working with me and my team and have a strong algorithmic background, please submit an application to our PhD program and mention my name. Unfortunately, I am not able to answer individual emails.
+
+
+
+
+
+
+
+Group      PCs      Teaching      Publications      Contact     
+
+
+
+
+
+
+	
+
+ 
+
+
+
+Research Group
+
+
+
+
+
+	
+
+
+Current members:
+
+Christoph Grunau, PhD student @ ETH and MIT, 2020--2024
+
+Vaclav Rozhon, PhD student @ ETH and MIT, 2020--2024
+
+Jaehyun Koo, PhD student @ MIT, 2023--
+
+Anton Trygub, Master's student @ MIT, 2023--
+
+UROPs: Jiangqi Dai, Brandon Wang, and Zi Song Yeoh.
+
+
+Past members:
+Manuela Fischer, PhD student @ ETH, 2017—2021, Best Dissertation Award of ETH & ACM PODC Dissertation Award → Lecturer at ETH Zurich
+
+Saeed Ilchi, PhD student @ ETH, 2019—2023 → joined a fintech startup
+
+Julian Portmann, PhD student at ETH, 2019—2023 → joined a tech startup
+
+Sebastian Brandt, postdoc @ ETH, 2018—2021 → Assistant Professor at CISPA, Germany
+
+Yi-Jun Chang, postdoc @ ETH, 2019—2021 → Assistant Professor at National University of Singapore
+
+Michal Dory, postdoc @ ETH, 2021—2022 → Assistant Professor at Haifa University, Israel
+
+Jara Uitto, postdoc @ ETH, 2017—2019 → Assistant Professor at Aalto University, Finland
+
+Goran Zuzic, postdoc @ ETH, 2020—2022 → Google Research in Zurich, Switzerland
+
+Bernhard Haeupler, scientist @ ETH, 2020—2022
+
+
+
+
+
+
+Professional
+Activities
+	
+
+
+Program Committees:
+SODA'24,
+
+FOCS'23, SPAA'23,
+
+PODC'22,
+
+STOC'21, PODC'21, SPAA'21,
+
+PODC'20, WOLA'20,
+
+STOC'19, ICALP'19, WOLA'19, ADGA'19 (workshop chair), SSS'19 (track chair),
+
+PODC'18, SODA'18, DISC'18, HALG'18, WOLA'18, SOSA'18,
+
+DISC'17, ICALP'17, SPAA'17
+
+
+
+Steering Committees: Highlights of Algorithms (HALG), Workshop on Local Algorithms (WOLA)
+
+
+Journal Editorial Board: TheoretiCS
+
+
+Local Organizer: Highlights of Algorithms (HALG) 2020, Workshop on Local Algorithms (WOLA) 2019
+
+
+
+
+
+
+Teaching
+	
+
+
+Current and Future courses:
+Introduction to Algorithms @ MIT (Spring 2024)
+
+Past courses:
+Introduction to Algorithms @ MIT (Spring 2023)
+
+Distributed Algorithms @ MIT (Fall 2022)
+
+Advanced Algorithms @ ETH Zurich (Fall 2021, Fall 2020, Fall 2019, Fall 2018, Fall 2017)
+
+Massively Parallel Algorithms @ ETH Zurich (Spring 2019)
+
+Principles of Distributed Computing @ ETH Zurich (Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017)
+
+Algorithms, Probability, and Computing @ ETH Zurich (Fall 2021, Fall 2020, Fall 2019, Fall 2018, Fall 2017, Fall 2016)
+Graduate Seminar — Algorithms for Large-Scale Graph Processing @ ETH Zurich (Fall 2019, Fall 2018)
+
+Undergraduate Seminar — A Taste of Research: Algorithms and Combinatorics @ ETH Zurich (Spring 2018, Spring 2017)
+
+Distributed Graph Algorithms @ MIT (Fall 2014)
+
+
+
+
+Publications
+
+(DBLP)
+
+(Google
+Scholar)
+	
+
+
+Mohsen Ghaffari and Christoph Grunau
+Work-Efficient Parallel Derandomization II: Optimal Concentrations via Bootstrapping
+ACM Symposium on Theory of Computing (STOC) 2024.
+[arXiv]
+
+Mohsen Ghaffari and Brandon Wang
+Lenzen's Distributed Routing Generalized: A Full Characterization of Constant-Time Routability
+ACM Symposium on Theory of Computing (STOC) 2024.
+
+Mohsen Ghaffari and Christoph Grunau
+Dynamic O(arboricity) coloring in polylogarithmic worst-case time
+ACM Symposium on Theory of Computing (STOC) 2024.
+
+Maxime Flin, Mohsen Ghaffari, Fabian Kuhn, Magnus Halldorsson, and Alexandre Nolin
+A Distributed Palette Sparsification Theorem
+ACM Symposium on Discrete Algorithms (SODA) 2024.
+[arXiv]
+
+Mohsen Ghaffari, Christoph Grunau, and Vaclav Rozhon
+Work-Efficient Parallel Derandomization I: Chernoff-like Concentrations via Pairwise Independence
+IEEE Symposium on Foundations of Computer Science (FOCS) 2023.
+[arXiv]
+
+Mohsen Ghaffari and Anton Trygub
+A Near-Optimal Deterministic Distributed Synchronizer
+ACM Symposium on Principles of Distributed Computing (PODC) 2023.
+Best Student Paper Award at PODC'23.
+[arXiv]
+
+Mohsen Ghaffari and Julian Portmann
+Distributed MIS with Low Energy and Time Complexities
+ACM Symposium on Principles of Distributed Computing (PODC) 2023.
+[arXiv]
+Mohsen Ghaffari, Christoph Grunau, and Jiahao Qu
+Nearly Work-Efficient Parallel DFS in Undirected Graphs
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2023.
+Best Paper Award at SPAA'23.
+[arXiv]
+
+Maxime Flin, Mohsen Ghaffari, Magnus Halldorsson, Fabian Kuhn, and Alexandre Nolin
+Coloring Fast with Broadcasts
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2023.
+[arXiv]
+Mohsen Ghaffari and Christoph Grunau
+Faster Deterministic Distributed MIS and Approximate Matching
+ACM Symposium on Theory of Computing (STOC) 2023.
+[arXiv]
+
+Salwa Faour, Mohsen Ghaffari, Christoph Grunau, Fabian Kuhn, and Vaclav Rozhon
+Local Distributed Rounding: Generalized to MIS, Matching, Set Cover, and Beyond
+ACM Symposium on Discrete Algorithms (SODA) 2023.
+Invited to the special issue of SODA'23
+[arXiv]
+Michal Dory and Mohsen Ghaffari
+A Nearly Time-Optimal Distributed Approximation of Minimum Cost k-Edge-Connected Spanning Subgraph
+ACM Symposium on Discrete Algorithms (SODA) 2023.
+[arXiv]
+Mohsen Ghaffari, Christoph Grunau, Bernhard Haeupler, Saeed Ilchi, and Vaclav Rozhon
+Improved Distributed Network Decomposition, Hitting Sets, and Spanners, via Derandomization
+ACM Symposium on Discrete Algorithms (SODA) 2023.
+[arXiv]
+Mohsen Ghaffari
+Local Computation of Maximal Independent Set
+IEEE Symposium on Foundations of Computer Science (FOCS) 2022.
+Invited to the special issue of FOCS'22
+Invited talk at Highlights of Algorithms (HALG) 2023
+[arXiv]
+Michal Dory, Mohsen Ghaffari, and Saeed Ilchi
+Near-Optimal Distributed Dominating Set in Bounded Arboricity Graphs
+ACM Symposium on Principles of Distributed Computing (PODC) 2022.
+Invited to the special issue of PODC'22
+[arXiv]
+Alkida Balliu, Mohsen Ghaffari, Fabian Kuhn, and Dennis Olivetti
+Node and Edge Averaged Complexities of Local Graph Problems
+ACM Symposium on Principles of Distributed Computing (PODC) 2022.
+Invited to the special issue of PODC'22
+[arXiv]
+Mohsen Ghaffari and Goran Zuzic
+Universally-Optimal Distributed Exact Min-Cut
+ACM Symposium on Principles of Distributed Computing (PODC) 2022.
+[arXiv]
+Mohsen Ghaffari and Julian Portmann
+­ Awake Complexity of MIS and Matching
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2022.
+[arXiv]
+Mohsen Ghaffari, Christoph Grunau, and Slobodan Mitrovic
+Massively Parallel Algorithms for b-Matching
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2022.
+[arXiv]
+Marcel Bezdrighin, Michael Elkin, Mohsen Ghaffari, Christoph Grunau, Bernhard Haeupler, Saeed Ilchi, and Vaclav Rozhon
+Deterministic Distributed Sparse and Ultra-Sparse Spanners and Connectivity Certificates
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2022.
+[arXiv]
+Bernhard Haeupler ® Harald Raecke ® Mohsen Ghaffari
+Hop-Constrained Expander Decompositions, Oblivious Routing, and Distributed Universal Optimality
+ACM Symposium on Theory of Computing (STOC) 2022.
+
+Mohsen Ghaffari and Fabian Kuhn
+Deterministic Distributed Vertex Coloring: Simpler, Faster, and without Network Decomposition
+IEEE Symposium on Foundations of Computer Science (FOCS) 2021.
+[arXiv]
+Yi-Jun Chang and Mohsen Ghaffari
+Strong-Diameter Network Decomposition
+ACM Symposium on Principles of Distributed Computing (PODC) 2021.
+[arXiv]
+Mohsen Ghaffari and Bernhard Haeupler
+Low-Congestion Shortcuts for Graphs Excluding Dense Minors
+ACM Symposium on Principles of Distributed Computing (PODC) 2021.
+[arXiv]
+Amartya Shankha Biswas, Michal Dory, Mohsen Ghaffari, Slobodan Mitrovic, and Yasamin Nazari
+Massively Parallel Algorithms for Distance Approximation and Spanners
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2021.
+[arXiv]
+Mohsen Ghaffari, Bernhard Haeupler, and Goran Zuzic
+Hop-constrained Oblivious Routing
+ACM Symposium on Theory of Computing (STOC) 2021.
+Invited to the special issue of STOC'21
+[arXiv]
+Mohsen Ghaffari, Christoph Grunau, and Vaclav Rozhon
+Improved Deterministic Network Decomposition
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2021.
+[arXiv]
+Mohsen Ghaffari and Bernhard Haeupler
+A Time-Optimal Randomized Parallel Algorithm for MIS
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2021.
+
+Vaclav Rozhon and Mohsen Ghaffari
+Polylogarithmic-Time Deterministic Network Decomposition and Distributed Derandomization
+ACM Symposium on Theory of Computing (STOC) 2020.
+[arXiv] [Vaclav's STOC Talk] [Vaclav's Longer Talk] [SIROCCO'20 keynote] [ICDCN'21 keynote] [HALG'21 Invited Talk]
+Mohsen Ghaffari and Krzysztof Nowicki
+Massively Parallel Algorithms for Minimum Cut
+ACM Symposium on Principles of Distributed Computing (PODC) 2020.
+
+Mohsen Ghaffari, Ce Jin, and Daan Nilis
+A Massively Parallel Algorithm for Minimum Weight Vertex Cover
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2020.
+[arXiv]
+Mohsen Ghaffari, Christoph Grunau, and Ce Jin
+Improved MPC Algorithms for MIS, Matching, and Coloring on Trees and Beyond
+International Symposium on DIStributed Computing (DISC) 2020.
+[arXiv]
+Mohsen Ghaffari, Krzysztof Nowicki, and Mikkel Thorup
+Faster Algorithms for Edge Connectivity via Random 2-Out Contractions
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2020.
+[arXiv]
+Mohsen Ghaffari, Fabian Kuhn, and Jara Uitto
+Conditional Hardness Results for Massively Parallel Computation from Distributed Lower Bounds
+IEEE Symposium on Foundations of Computer Science (FOCS) 2019.
+
+Mohsen Ghaffari and Julian Portmann
+Improved Network Decompositions using Small Messages with Applications on MIS, Neighborhood Covers, and Beyond
+International Symposium on DIStributed Computing (DISC) 2019.
+
+Ruben Becker, Yuval Emek, Mohsen Ghaffari, and Christoph Lenzen
+Distributed Algorithms for Low Stretch Spanning Trees
+International Symposium on DIStributed Computing (DISC) 2019.
+
+Yi-Jun Chang, Manuela Fischer, Mohsen Ghaffari, Jara Uitto, and Yufan Zheng
+The Complexity of (Delta + 1) Coloring in Congested Clique, Massively Parallel Computation, and Centralized Local Computation
+ACM Symposium on Principles of Distributed Computing (PODC) 2019.
+Best Student Paper Award at PODC'19.
+[arXiv]
+Mohsen Ghaffari and Fabian Kuhn
+On the Use of Randomness in Local Distributed Graph Algorithms
+ACM Symposium on Principles of Distributed Computing (PODC) 2019.
+
+Michal Dory and Mohsen Ghaffari
+Improved Distributed Approximations for Minimum-Weight Two-Edge-Connected Spanning Subgraph
+ACM Symposium on Principles of Distributed Computing (PODC) 2019.
+
+Philipp Bamberger, Mohsen Ghaffari, Fabian Kuhn, Yannic Maus, and Jara Uitto
+On the Complexity of Distributed Splitting Problems
+ACM Symposium on Principles of Distributed Computing (PODC) 2019.
+
+Mohsen Ghaffari, Silvio Lattanzi, and Slobodan Mitrovic
+Improved Parallel Algorithms for Density-Based Network Clustering
+International Conference on Machine Learning (ICML) 2019.
+
+Mohsen Ghaffari and Ali Sayyadi
+Distributed Arboricity-Dependent Graph Coloring via All-to-All Communication
+International Colloquium on Automata, Languages and Programming (ICALP) 2019.
+
+John Augustine, Mohsen Ghaffari, Robert Gmyr, Kristian Hinnenthal, Fabian Kuhn, Jason Li, Christian Scheideler
+Distributed Computation in Node-Capacitated Networks
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2019.
+
+Mohsen Ghaffari and Jara Uitto
+Sparsifying Distributed Algorithms with Ramifications in Massively Parallel Computation and Centralized Local Computation
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2019.
+[arXiv]
+Mohsen Ghaffari
+Distributed Maximal Independent Set using Small Messages
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2019.
+
+Mohsen Ghaffari and David Wajc
+Simplified and Space-Optimal Semi-Streaming for (2+epsilon)-Approximate Matching
+Symposium on Simplicity in Algorithms (SOSA) 2019.
+[arXiv]
+Mohsen Ghaffari, David Harris, and Fabian Kuhn
+On Derandomizing Local Distributed Algorithms
+IEEE Symposium on Foundations of Computer Science (FOCS) 2018.
+[arXiv]
+Mohsen Ghaffari and Fabian Kuhn
+Derandomizing Distributed Algorithms with Small Messages: Spanners and Dominating Set
+International Symposium on DIStributed Computing (DISC) 2018.
+
+Mohsen Ghaffari and Fabian Kuhn
+Distributed MST and Broadcast with Fewer Messages, and Faster Gossiping
+International Symposium on DIStributed Computing (DISC) 2018.
+
+Manuela Fischer and Mohsen Ghaffari
+A Simple Parallel and Distributed Sampling Technique: Local Glauber Dynamics
+International Symposium on DIStributed Computing (DISC) 2018.
+
+Mohsen Ghaffari and Jason Li
+New Distributed Algorithms in Almost Mixing Time via Transformations from Parallel Algorithms
+International Symposium on DIStributed Computing (DISC) 2018.
+[arXiv]
+Guy Even, Mohsen Ghaffari, and Moti Medina
+Distributed Set Cover Approximation: Primal-Dual with Optimal Locality
+International Symposium on DIStributed Computing (DISC) 2018.
+
+Andrea Clementi, Mohsen Ghaffari, Luciano Guala, Emanuele Natale, Francesco Pasquale, and Giacomo Scornavacca
+A Tight Analysis of the Parallel Undecided-State Dynamics with Two Colors
+Mathematical Foundations of Computer Science (MFCS) 2018.
+
+Mohsen Ghaffari, Themis Gouleakis, Christian Konrad, Slobodan Mitrovic, and Ronitt Rubinfeld
+Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover
+ACM Symposium on Principles of Distributed Computing (PODC) 2018.
+[arXiv]
+Mohsen Ghaffari and Johannes Lengler
+Nearly-Tight Analysis for 2-Choice and 3-Majority Consensus Dynamics
+ACM Symposium on Principles of Distributed Computing (PODC) 2018.
+
+Mohsen Ghaffari and Krzysztof Nowicki
+Congested Clique Algorithms for the Minimum Cut Problem
+ACM Symposium on Principles of Distributed Computing (PODC) 2018.
+
+Mohsen Ghaffari, Juho Hirvonen, Fabian Kuhn, and Yannic Maus
+Improved Distributed Delta-Coloring
+ACM Symposium on Principles of Distributed Computing (PODC) 2018.
+
+Mohsen Ghaffari, Fabian Kuhn, Yannic Maus, and Jara Uitto
+Deterministic Distributed Edge-Coloring with Fewer Colors
+ACM Symposium on Theory of Computing (STOC) 2018.
+[arXiv]
+Mohsen Ghaffari, and Jason Li
+Improved Distributed Algorithms for Exact Shortest Paths
+ACM Symposium on Theory of Computing (STOC) 2018.
+[arXiv]
+Manuela Fischer, Mohsen Ghaffari, and Fabian Kuhn
+Deterministic Distributed Edge Coloring via Hypergraph Maximal Matching
+IEEE Symposium on Foundations of Computer Science (FOCS) 2017.
+Invited to the SIAM Journal of Computing (SICOMP) Special Issue for FOCS'17.
+[arXiv]
+Manuela Fischer and Mohsen Ghaffari
+Sublogarithmic Distributed Algorithms for Lovász Local Lemma, and the Complexity Hierarchy
+International Symposium on DIStributed Computing (DISC) 2017.
+[arXiv]
+Mohsen Ghaffari and Christiana Lymouri
+Simple and Near-Optimal Distributed Coloring for Sparse Graphs
+International Symposium on DIStributed Computing (DISC) 2017.
+[arXiv]
+Mohsen Ghaffari and Merav Parter
+Near-Optimal Distributed DFS in Planar Graphs
+International Symposium on DIStributed Computing (DISC) 2017.
+
+Mohsen Ghaffari, Juho Hirvonen, Fabian Kuhn, Yannic Maus, Jukka Suomela, and Jara Uitto
+Improved Distributed Degree Splitting and Edge Coloring
+International Symposium on DIStributed Computing (DISC) 2017.
+Best Paper Award at DISC'17.
+[arXiv]
+Mohsen Ghaffari,
+Distributed MIS via All-to-All Communication
+ACM Symposium on Principles of Distributed Computing (PODC) 2017.
+
+Mohsen Ghaffari, Fabian Kuhn, and Hsin-Hao Su,
+Distributed MST and Routing in Almost Mixing Time
+ACM Symposium on Principles of Distributed Computing (PODC) 2017.
+
+Reuven Bar-Yehuda, Keren Censor Hillel, Mohsen Ghaffari, and Gregory Schwartzman
+Distributed Approximation of Maximum Independent Set and Maximum Matching
+ACM Symposium on Principles of Distributed Computing (PODC) 2017.
+[arXiv]
+Mohsen Ghaffari, Fabian Kuhn, and Yannic Maus,
+On the Complexity of Local Distributed Graph Problems
+ACM Symposium on Theory of Computing (STOC) 2017.
+[arXiv] [A TCS+ talk on youtube]
+Mohsen Ghaffari and Hsin-Hao Su,
+Distributed Degree Splitting, Edge Coloring, and Orientations
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2017.
+[arXiv]
+Mohsen Ghaffari, David Karger, and Debmalya Panigrahi,
+Random Contractions and Sampling for Hypergraph and Hedge Connectivity.
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2017.
+
+Mohsen Ghaffari,
+Improved Distributed Algorithms for Fundamental Graph Problems
+PhD thesis at the EECS department of MIT, October 2016.
+ACM Doctoral Dissertation Award, Honorable Mention, 2017.
+ACM-EATCS Principles of Distributed Computing Doctoral Dissertation Award, 2017.
+George M. Srowls Award of Best Computer Science PhD Thesis at MIT, 2017.
+[PDF]
+Mohsen Ghaffari and Calvin Newport,
+How to Discreetly Spread a Rumor in a Crowd
+International Symposium on DIStributed Computing (DISC) 2016.
+Mohsen Ghaffari and Merav Parter,
+MST in Log-Star Rounds of Congested Clique
+ACM Symposium on Principles of Distributed Computing (PODC) 2016.
+Invited Talk at Highlights of Algorithms (HALG) 2017.
+
+Mohsen Ghaffari and Bernhard Haeupler,
+Distributed Algorithms for Planar Networks I: Planar Embedding
+ACM Symposium on Principles of Distributed Computing (PODC) 2016.
+
+Mohsen Ghaffari and Merav Parter,
+A Polylogarithmic Gossip Algorithm for Plurality Consensus
+ACM Symposium on Principles of Distributed Computing (PODC) 2016.
+
+Mohsen Ghaffari and Merav Parter,
+Near-Optimal Distributed Algorithms for Fault-Tolerant Tree Structures
+ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2016.
+
+Mohsen Ghaffari and Calvin Newport,
+Leader Election in Unreliable Radio Networks
+International Colloquium on Automata, Languages, and Programming (ICALP) 2016.
+Mohsen Ghaffari,
+An Improved Distributed Algorithm for Maximal Independent Set
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2016.
+Best Paper Award and Best Student Paper Award at SODA'16.
+Invited Talk at Highlights of Algorithms (HALG) 2017.
+Invited Talk at Symposium on Theory of Computing (STOC) 2017.
+
+Mohsen Ghaffari and Bernhard Haeupler,
+Distributed Algorithms for Planar Networks II: Low-Congestion Shortcuts, MST, and Min-Cut
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2016.
+
+Mohsen Ghaffari,
+Near-Optimal Scheduling of Distributed Algorithms
+ACM Symposium on Principles of Distributed Computing (PODC) 2015.
+Best Student Paper Award at PODC'15.
+Invited to the Journal of ACM (JACM) Special Issue for PODC'15.
+
+Mohsen Ghaffari, Andreas Karrenbauer, Fabian Kuhn, Christoph Lenzen, and Boaz Patt-Shamir,
+Near-Optimal Distributed Maximum Flow
+ACM Symposium on Principles of Distributed Computing (PODC) 2015.
+Mohsen Ghaffari, Cameron Musco, Tsvetomira Radeva, and Nancy Lynch,
+Distributed House-Hunting in Ant Colonies
+ACM Symposium on Principles of Distributed Computing (PODC) 2015.
+Mohsen Ghaffari,
+Distributed Broadcast Revisited: Towards Universal Optimality
+International Colloquium on Automata, Languages, and Programming (ICALP) 2015.
+Keren Censor Hillel, Mohsen Ghaffari, George Giakkoupis, Bernhard Haeupler, and Fabian Kuhn,
+Tight Bounds on Vertex Connectivity under Vertex Sampling
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2015.
+Invited to the Transactions of Algorithms Special Issue for SODA 2015
+[Abstract]
+Mohsen Ghaffari and Christoph Lenzen,
+Near-Optimal Distributed Tree Embedding
+International Symposium on DIStributed Computing (DISC) 2014.
+[Abstract] [PDF]
+Rati Gelashvili, Mohsen Ghaffari, Jerry Li and Nir Shavit,
+On the Importance of Registers for Computability
+International Conference on Principles of Distributed Systems (OPODIS) 2014.
+[Abstract]
+Mohsen Ghaffari and Bernhard Haeupler,
+Optimal Error Rates for Interactive Coding II: Efficiency and List Decoding
+IEEE Symposium on Foundations of Computer Science (FOCS) 2014.
+[Abstract] [PDF] [arXiv] [Press Coverage: MIT News]
+
+Mohsen Ghaffari, Erez Kantor, Nancy Lynch, and Calvin Newport,
+Multi-Message Broadcast with Abstract MAC Layers and Unreliable Links
+ACM Symposium on Principles of Distributed Computing (PODC) 2014.
+[Abstract]
+
+Keren Censor Hillel, Mohsen Ghaffari, and Fabian Kuhn,
+Distributed Connectivity Decomposition
+ACM Symposium on Principles of Distributed Computing (PODC) 2014.
+Best Student Paper Award at PODC'14.
+Invited to the Journal of ACM (JACM) Special Issue for PODC'14.
+
+[Abstract] [PDF] [arXiv]
+Mohsen Ghaffari,
+Near-Optimal Distributed Approximation of Minimum-Weight Connected Dominating Set
+International Colloquium on Automata, Languages, and Programming (ICALP) 2014.
+Best Student Paper Award at ICALP'14.
+[Abstract] [PDF] [arXiv]
+
+Mohsen Ghaffari and Bernhard Haeupler, and Madhu Sudan,
+Optimal Error Rates for Interactive Coding I: Adaptivity and Other Settings
+ACM Symposium on Theory of Computing (STOC) 2014.
+[Abstract] [PDF] [arXiv]
+
+Keren Censor Hillel, Mohsen Ghaffari, and Fabian Kuhn,
+A New Perspective on Vertex Connectivity
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2014.
+[Abstract] [PDF] [arXiv] [Press Coverage: MIT News]
+
+Noga Alon, Mohsen Ghaffari, Bernhard Haeupler, and Majid Khabbazian,
+Broadcast Throughput in Radio Networks: Routing vs. Network Coding
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2014.
+[Abstract] [PDF]
+
+Mohsen Ghaffari and Fabian Kuhn,
+Distributed Minimum Cut Approximation
+International Symposium on DIStributed Computing (DISC) 2013.
+Best Paper Award at DISC'13.
+[Abstract] [PDF] [arXiv]
+
+Mohsen Ghaffari and Bernhard Haeupler,
+Fast Structuring of Radio Networks for Multi-Message Communications
+International Symposium on DIStributed Computing (DISC) 2013.
+[Abstract] [PDF] [arXiv]
+
+Mohsen Ghaffari, Bernhard Haeupler, and Majid Khabbazian,
+Randomized Broadcast in Radio Networks with Collision Detection
+ACM Symposium on Principles of Distributed Computing (PODC) 2013.
+[Abstract] [PDF] [arXiv]
+
+Mohsen Ghaffari, Nancy Lynch, and Calvin Newport,
+The Cost of Radio Network Broadcast for Different Models of Unreliable Links
+ACM Symposium on Principles of Distributed Computing (PODC) 2013.
+[Abstract] [PDF] [Press Coverage: MIT News]
+Sebastian Daum, Mohsen Ghaffari, Seth Gilbert, Fabian Kuhn, and Calvin Newport,
+Maximal Independent Sets in Multichannel Radio Networks
+ACM Symposium on Principles of Distributed Computing (PODC) 2013.
+[Abstract] [PDF]
+
+Mohsen Ghaffari and Bernhard Haeupler,
+Near-Optimal Leader Election in Multi-Hop Radio Networks
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2013.
+[Abstract] [PDF] [arXiv]
+
+Mohsen Ghaffari, Seth Gilbert, Calvin Newport, and Henry Tan,
+Optimal Broadcast in Shared Spectrum Radio Networks
+International Conference Principles of Distributed Systems (OPODIS) 2012.
+
+Mohsen Ghaffari, Bernhard Haeupler, Nancy Lynch, and Calvin Newport,
+Bounds on Contention Management in Radio Networks
+International Symposium on DIStributed Computing (DISC) 2012.
+[Abstract] [PDF]
+Mohsen Ghaffari, Nancy Lynch, and Srikanth Sastry,
+Leader Election Using Loneliness Detection
+International Symposium on DIStributed Computing (DISC) 2011 + Distributed Computing Journal 2012.
+[Abstract] [PDF]
+
+
+
+Undergrad. Research
+	
+Mohsen Ghaffari, Behnoosh Hariri, and Shervin Shirmohammadi,
+On the Necessity of Using Delaunay Triangulation Substrate in Greedy Routing Based Networks
+IEEE Communication Letters 2010.
+[Abstract] [PDF]
+
+Mohsen Ghaffari, Behnoosh Hariri, and Shervin Shirmohammadi,
+A Delaunay Triangulation Architecture Supporting Churn and User Mobility in MMVEs
+ACM workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV) 2009.
+[Abstract] [PDF]
+
+Mohsen Ghaffari and Farid Ashtiani,
+A New Routing Algorithm for Sparse Vehicular Ad-Hoc Networks with Moving Destinations
+IEEE Wireless Communications and Networking Conference (WCNC) 2009.
+[Abstract]
+
+
+Contact Information:
+
+Computer Science and Artificial Intelligence Lab (CSAIL)
+Massachusetts Institute of Technology (MIT)
+32 Vassar Street, Room 32-G618
+Cambridge, MA, USA 02139
+
+Phone: 001-617-715-4018
+Email: my-last-name at mit.edu
+
+Assistant: Nathan Higgins  
+
+
+
+
+For matters related to ETH Zurich, please contact my assistant Andrea Salow.
+
+
+
+Accessibility
+
+
+
+

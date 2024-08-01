@@ -1,0 +1,205 @@
+Professor: Matei Zaharia
+University: Univ. of California - Berkeley
+URL: https://people.eecs.berkeley.edu/~matei
+Description: Interests
+Teaching
+Publications
+Awards
+Matei Zaharia
+
+Associate Professor, Computer Science
+matei@berkeley.edu
+Google Scholar | LinkedIn | Twitter
+
+
+I’m an associate professor at UC Berkeley (previously Stanford), where I work on computer systems and AI in the Sky Lab. I’m also co-founder and CTO of Databricks.
+
+Interests: I’m interested in computer systems for large-scale workloads such as AI, data analytics and cloud computing. In 2016, I co-started the Stanford DAWN lab to work on infrastructure for usable machine learning. My recent projects include programming models for LLM applications, efficient runtimes for ML and analytics, quality assurance tools and AI-based data analytics systems. I am also interested in data privacy, and have worked on systems that can provide scalable privacy for communication, Internet queries and SaaS applications.
+
+Open Source: Most of my research work is open source. During my PhD, I started the Apache Spark project, which is now one of the most widely used frameworks for distributed data processing, and co-started other datacenter software such as Apache Mesos and Spark Streaming. At Stanford, we developed DAWNBench, a machine learning performance competition that drew submissions from the top industry groups and influenced the industry-standard MLPerf, and we are developing a wide range of open source software including Weld, NoScope, FlexFlow, ColBERT and DSPy. I was also involved in Databricks’ work to release open source LLMs like DBRX and Dolly.
+
+Some of my group’s past work has been featured in Wired (1/2/3), Fortune, TechCrunch, The Wall Street Journal, The Register, Ars Technica, Motherboard, ZDNet, The Economist, and Forbes.
+
+Teaching
+CS 294-162: AI Systems LLM Edition, Fall 2023.
+CS 194/294-196: Responsible GenAI and Decentralized Intelligence, Fall 2023.
+PhD Students
+Gina Yuan (with David Mazieres)
+Jared Quincy Davis (with Jure Leskovec)
+Keshav Santhanam
+Liana Patel (with Carlos Guestrin)
+Lingjiao Chen (with James Zou)
+Omar Khattab (with Chris Potts)
+Trevor Gale
+Past PhD Students and Postdocs
+Firas Abuzaid (with Peter Bailis)
+Cody Coleman (coadvised with Peter Bailis)
+Zhihao Jia (coadvised with Alex Aiken)
+Daniel Kang (with Peter Bailis)
+Fiodar Kazhamiaka (with Peter Bailis)
+Peter Kraft (with Peter Bailis)
+Deepak Narayanan
+Shoumik Palkar
+Deepti Raghavan (with Phil Levis)
+Pratiksha Thaker
+James Thomas (with Pat Hanrahan)
+Publications
+
+Recent Preprints
+
+2024
+DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines. O. Khattab, A. Singhvi, P. Maheshwari, Z. Zhang, K. Santhanam, S. Vardhamanan, S. Haq, A. Sharma, T. Joshi, H. Moazam, H. Miller, M. Zaharia and C Potts. ICLR 2024. Spotlight. (preprint)
+Ring Attention with Blockwise Transformers for Near-Infinite Context. H. Liu, M. Zaharia and P. Abbeel. ICLR 2024. (preprint)
+Data Management for ML-based Analytics and Beyond. D. Kang, J. Guibas, P. Bailis, T. Hashimoto, Y. Sun and M. Zaharia. ACM/JMS Journal of Data Science, 2024.
+2023
+Analyzing ChatGPT’s Behavior Shifts Over Time. L. Chen, M. Zaharia and J. Zou. NeurIPS 2023 R0-FoMo Workshop. (longer preprint)
+Cornflakes: Zero-Copy Serialization for Microsecond-Scale Networking. D. Raghavan, S. Ravi, G. Yuan, P. Thaker, S. Srivatsava, M. Murray, P.H. Penna, A. Ousterhout, P. Levis, M. Zaharia and I. Zhang. SOSP 2023.
+Implementing Block-sparse Matrix Multiplication Kernels Using Triton. P. Mishra, T. Gale, M. Zaharia, C. Young and D. Narayanan. ICML 2023 Workshop on Efficient Systems for Foundation Models.
+MegaBlocks: Efficient Sparse Training with Mixture-of-Experts. T. Gale, D. Narayanan, C. Young and M. Zaharia. MLSys 2023. (preprint)
+Epoxy: ACID Transactions Across Diverse Data Stores. P. Kraft, Q. Li, X. Zhou, P. Bailis, M. Stonebraker, M. Zaharia and X. Yu. VLDB 2023.
+Optimizing Video Analytics with Declarative Model Relationships. F. Romero, J. Hauswald, A. Partap, D. Kang, M. Zaharia and C. Kozyrakis. VLDB 2023.
+R3: Record-Replay-Retroaction for Database-Backed Applications. Q. Li, P. Kraft, M. Cafarella, C. Demiralp, G. Graefe, C. Kozyrakis, M. Stonebraker, L. Suresh, X. Yu, and M. Zaharia. VLDB 2023.
+Parallelism-Optimizing Data Placement for Faster Data-Parallel Computations. N. Baruah, P. Kraft, F. Kazhamiaka, P. Bailis and M. Zaharia. VLDB 2023.
+HAPI Explorer: Comprehension, Discovery, and Explanation on History of ML APIs (demo). L. Chen, Z. Jin, S. Eyuboglu, H. Qu, C. Ré, M. Zaharia, and J. Zou. AAAI 2023.
+Moving Beyond Downstream Task Accuracy for Information Retrieval Benchmarking. K. Santhanam, J. Saad-Falcon, M. Franz, O. Khattab, A. Sil, R. Florian, M.A. Sultan, S. Roukos, M. Zaharia and C. Potts. ACL Findings 2023. (preprint)
+Transactions Make Debugging Easy. Q. Li, P. Kraft, M. Cafarella, C. Demiralp, G. Graefe, C. Kozyrakis, M. Stonebraker, L. Suresh and M. Zaharia. CIDR 2023.
+Analyzing and Comparing Lakehouse Storage Systems. P. Jain, P. Kraft, C. Power, T. Das, I. Stoica and M. Zaharia. CIDR 2023.
+2022
+HAPI: A Large-scale Longitudinal Dataset of Commercial ML API Predictions. L. Chen, Z. Jin, S. Eyuboglu, C. Re, M. Zaharia and J. Zou. NeurIPS 2022.
+Estimating and Explaining Model Performance When Both Covariates and Labels Shift. L. Chen, M. Zaharia and J. Zou. NeurIPS 2022.
+Advances, Challenges and Opportunities in Creating Data for Trustworthy AI. W. Liang, G.A. Tadesse, D. Ho, L. Fei-Fei, M. Zaharia, C. Zhang, J. Zou. Nature Machine Intelligence, 2022.
+PLAID: an Efficient Engine for Late Interaction Retrieval. K. Santhanam, O. Khattab, C. Potts and M. Zaharia. CIKM 2022.
+ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction. K. Santhanam, O. Khattab, J. Saad-Falcon, C. Potts and M. Zaharia. NAACL 2022.
+Overlook: Differentially Private Exploratory Visualization. M. Budiu, P. Thanker, P. Gopalan, U. Wieder and M. Zaharia. Journal of Privacy and Confidentiality, 2022.
+DBOS: A DBMS-oriented Operating System. A. Skiadopoulos, Q. Li, P. Kraft, K. Kaffes, D. Hong, S. Mathew, D. Bestor, M. Cafarella, V. Gadepally, G. Graefe, J. Kepner, C. Kozyrakis, T. Kraska, M. Stonebraker, L. Suresh and M. Zaharia. VLDB 2022.
+Efficient Online ML API Selection for Multi-Label Classification Tasks. L. Chen, M. Zaharia and J. Zou. ICML 2022. (preprint)
+Finding Label and Model Errors in Perception Data With Learned Observation Assertions. D. Kang, N. Arechiga, S. Pillai, P. Bailis and M. Zaharia. SIGMOD 2022. (preprint)
+TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data. D. Kang, J. Guibas, P. Bailis, T. Hashimoto and M. Zaharia. SIGMOD 2022. (preprint)
+Photon: A Fast Query Engine for Lakehouse Systems. A. Behm, S. Palkar, U. Agarwal, T. Armstrong, D. Cashman, A. Dave, T. Greenstein, S. Hovsepian, R. Johnson, A.S. Krishnan, P. Leventis, A. Luszczak, P. Menon, M. Mokhtar, G. Pang, S. Paranjpye, G. Rahn, B. Samwel, T. van Bussel, H. van Hovell, M. Xue, R. Xin, and M. Zaharia. SIGMOD 2022. Best Industry Paper.
+Allocation of Fungible Resources via a Fast, Scalable Price Discovery Method. A. Agrawal, S. Boyd, D. Narayanan, F. Kazhamiaka and M. Zaharia. Mathematical Programming Computation, 2022.
+How Did the Model Change? Efficiently Assessing Machine Learning API Shifts. L. Chen, M. Zaharia and J. Zou. ICLR 2022. (preprint)
+Hindsight: Posterior-guided Training of Retrievers for Improved Open-ended Generation. A. Paranjape, O. Khattab, C. Potts, M. Zaharia and C. Manning. ICLR 2022. (preprint)
+Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems. P. Kraft, F. Kazhamiaka, P. Bailis and M. Zaharia. NSDI 2022.
+Similarity Search for Efficient Active Learning and Search of Rare Concepts. C. Coleman, E. Chou, J. Katz-Samuels, S. Culatana, P. Bailis, A.C. Berg, R. Nowak, R. Sumbaly, M. Zaharia and I.ZZ. Yalniz. AAAI 2022. (preprint)
+VIVA: An End-to-End System for Interactive Video Analytics. D. Kang, F. Romero, P. Bailis, C. Kozyrakis and M. Zaharia. CIDR 2022.
+A Progress Report on DBOS: A Database-oriented Operating System. Q. Li, P. Kraft, K. Kaffes, A. Skiadopoulos, D. Kumar, J. Li, M. Cafarella, G. Graefe, J. Kepner, C. Kozyrakis, M. Stonebraker, L. Suresh and M. Zaharia. CIDR 2022.
+2021
+Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval. O. Khattab, C. Potts and M. Zaharia. NeurIPS 2021. Spotlight. (preprint)
+What can Data-Centric AI Learn from Data and ML Engineering?. N. Polyzotis and M. Zaharia. NeurIPS Data-Centric AI Workshop 2021.
+Finding Label Errors in Autonomous Vehicle Data With Learned Observation Assertions. D. Kang, N. Arechiga, S. Pillai, P. Bailis and M. Zaharia. NeurIPS Data-Centric AI Workshop 2021.
+Exploiting Proximity Search and Easy Examples to Select Rare Events. D. Kang, A. Derhacobian, K. Tsuji, T. Hebert, P. Bailis, T. Fukami, T. Hashimoto, Y. Sun and M. Zaharia. NeurIPS Data-Centric AI Workshop 2021.
+Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. D. Narayanan, M. Shoeybi, J. Casper, P. LeGresley, M. Patwary, V.A. Korthikanti, D. Vainbrand, P. Kashinkunti, J. Bernauer, B. Catanzaro, A. Phanishayee, and M. Zaharia. Supercomputing 2021. Best Student Paper. (preprint)
+Don’t Hate the Player, Hate the Game: Safety and Utility in Multi-Agent Congestion Control. P. Thaker, M. Zaharia and T. Hashimoto. HotNets 2021.
+Clamor: Extending Functional Cluster Computing Frameworks with Fine-Grained Remote Memory Access. P. Thaker, H. Ayers, D. Raghavan, N. Niu, P. Levis, and M. Zaharia. SoCC 2021.
+Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP. D. Narayanan, F. Kazhamiaka, F. Abuzaid, P. Kraft, A. Agrawal, S. Kandula, S. Boyd and M. Zaharia. SOSP 2021.
+Relevance-guided Supervision for OpenQA with ColBERT. O. Khattab, C. Potts and M. Zaharia. TACL 2021. (preprint)
+Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics. D. Kang, A. Mathur, T. Veeramacheneni, P. Bailis and M. Zaharia. VLDB 2021. (preprint)
+Accelerating Approximate Aggregation Queries with Expensive Predicates. D. Kang, J. Guibas, P. Bailis, T. Hashimoto, Y. Sun and M. Zaharia. VLDB 2021.
+Finding Label and Model Errors in Perception Data With Learned Observation Assertions (Extended Abstract). D. Kang, N. Arechiga, S. Pillai, P. Bailis and M. Zaharia. VLDB AIDB Workshop 2021.
+Memory-Efficient Pipeline-Parallel DNN Training. D. Narayanan, A. Phanishayee, K. Shi, X. Chen and M. Zaharia. ICML 2021.
+Breakfast of Champions: Towards Zero-Copy Serialization with NIC Scatter-Gather. D. Raghavan, P. Levis, M. Zaharia and I. Zhang. HotOS 2021.
+Express: Lowering the Cost of Metadata-hiding Communication with Cryptographic Privacy. S. Eskandarian, H. Corrigan-Gibbs, M. Zaharia and D. Boneh. USENIX Security 2021. (preprint)
+Contracting Wide-area Network Topologies to Solve Flow Problems Quickly. F. Abuzaid, S. Kandula, B. Arzani, I. Menache, M. Zaharia. and P. Bailis. NSDI 2021.
+Machine Learned Cellular Phenotypes in Cardiomyopathy Predict Sudden Death. A. Rogers, A. Selvalingam, M. Alhusseini , D. Krummen, C. Corrado, F. Abuzaid, T. Baykaner, C. Meyer, P. Clopton, W. Giles, P. Bailis, S. Niederer, P. Wang , W-J. Rappel, M. Zaharia and S. Narayan. Circulation Research, 2021.
+Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. M. Armbrust, A. Ghodsi, R. Xin and M. Zaharia. CIDR 2021.
+Challenges and Opportunities for Autonomous Vehicle Query Systems. F. Kazhamiaka, M. Zaharia and P. Bailis. CIDR 2021.
+2020
+FrugalML: How to Use ML Prediction APIs More Accurately and Cheaply. L. Chen, M. Zaharia and J. Zou. NeurIPS 2020. Oral. (preprint)
+Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads. D. Narayanan, K. Santhanam, F. Kazhamiaka, A. Phanishayee and M. Zaharia. OSDI 2020. (preprint)
+Sparse GPU Kernels for Deep Learning. T. Gale, M. Zaharia, C. Young and E. Elsen. Supercomputing 2020. (preprint)
+DIFF: A Relational Interface for Large-Scale Data Explanation (extended version). F. Abuzaid, P. Kraft, S. Suri, E. Gan, E. Xu, A. Shenoy, A. Ananthanarayan, J. Sheu, E. Meijer, X. Wu, J. Naughton, P. Bailis, and M. Zaharia. VLDB Journal Special Issue.
+Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores. M. Armbrust, T. Das, L. Sun, B. Yavuz, S. Zhu, M. Murthy, J. Torres, H. van Hovell, A. Ionescu, A. Luszczak, M. Switakowski, M. Szafranski, X. Li, T. Ueshin, M. Mokhtar, P. Boncz, A. Ghodsi, S. Paranjpye, P. Senster, R. Xin, M. Zaharia. VLDB 2020.
+Approximate Selection with Guarantees using Proxies. D. Kang, E. Gan, P. Bailis, T. Hashimoto and M. Zaharia. VLDB 2020. (preprint)
+BlazeIt: Optimizing Declarative Aggregation and Limit Queries for Neural Network-Based Video Analytics. D. Kang, P. Bailis and M. Zaharia. VLDB 2020. (preprint)
+A Polystore Based Database Operating System (DBOS). M. Cafarella, D. DeWitt, V. Gadepally, J. Kepner, C. Kozyrakis, T. Kraska, M. Stonebraker and M. Zaharia. VLDB Poly Workshop 2020.
+ObliDB: Oblivious Query Processing for Secure Databases. S. Eskandarian and M. Zaharia. VLDB 2020. (preprint)
+Analysis and Exploitation of Dynamic Pricing in the Public Cloud for ML Training. D. Narayanan, K. Santhanam, F. Kazhamiaka, A. Phanishayee and M. Zaharia. VLDB DISPA Workshop 2020.
+To Call or not to Call? Using ML Prediction APIs more Accurately and Economically. L. Chen, M. Zaharia and J. Zou. ICML EcoPaDL Workshop 2020. (video)
+Machine Learning to Classify Intracardiac Electrical Patterns During Atrial Fibrillation. M. Alhusseini, F. Abuzaid, A. Rogers, J. Zaman, T. Baykaner, P. Clopton, P. Bailis, M. Zaharia, P. Wang, W-J. Rappel, and S. Narayan. Circulation: Arrhythmia and Electrophysiology, 2020.
+Developments in MLflow: A System to Accelerate the Machine Learning Lifecycle. A. Chen, A. Chow, A. Davidson, A. DCuncha, A. Ghodsi, S.A. Hong, A. Konwinski, C. Mewald, S. Murching, T. Nykodym, P. Ogilvie, M. Parkhe, A. Singh, F. Xie, M. Zaharia, R. Zang, J. Zheng and C. Zumar. SIGMOD DEEM Workshop 2020. (video)
+ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT. O. Khattab and M. Zaharia. SIGIR 2020. (preprint)
+POSH: A Data-Aware Shell. D. Raghavan, S. Fouladi, P. Levis and M. Zaharia. USENIX ATC 2020.
+Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads. G. Yuan, S. Palkar, D. Narayanan and M. Zaharia. USENIX ATC 2020.
+Spectral Lower Bounds on the I/O Complexity of Computation Graphs. S. Jain and M. Zaharia. SPAA 2020. (preprint)
+Selection via Proxy: Efficient Data Selection for Deep Learning. C. Coleman, C. Yeh, S. Mussmann, B. Mirzasoleiman, P. Bailis, P. Liang, J. Leskovec and M. Zaharia. ICLR 2020. (preprint) (blog)
+Fleet: A Framework for Massively Parallel Streaming on FPGAs. J. Thomas, P. Hanrahan and M. Zaharia. ASPLOS 2020.
+Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. P. Kraft, D. Kang, D. Narayanan, S. Palkar, P. Bailis and M. Zaharia. MLSys 2020. (preprint)
+Model Assertions for Monitoring and Improving ML Models. D. Kang, D. Raghavan, P. Bailis and M. Zaharia. MLSys 2020.
+Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc. Z. Jia, S. Lin, M. Gao, M. Zaharia and A. Aiken. MLSys 2020.
+MLPerf Training Benchmark. P. Mattson, C. Cheng, C. Coleman, G. Diamos, P. Micikevicius, D. Patterson, H. Tang, G-Y. Wei, P. Bailis, V. Bittorf, D. Brooks, D. Chen, D. Dutta, U. Gupta, K. Hazelwood, A. Hock, X. Huang, B. Jia, D. Kang, D. Kanter, N. Kumar, J. Liao, D. Narayanan, T. Oguntebi, G. Pekhimenko, L. Pentecost, V. J. Reddi, T. Robie, T. St. John, C-J. Wu, L. Xu, C. Young, and M. Zaharia. MLSys 2020. (preprint)
+2019
+Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations. S. Palkar and M. Zaharia. SOSP 2019. (blog)
+TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Z. Jia, O. Padon, J. Thomas, T. Warszawski, M. Zaharia, and A. Aiken. SOSP 2019.
+PipeDream: Generalized Pipeline Parallelism for DNN Training. D. Narayanan, A. Harlap, A. Phanishayee, V. Seshadri, N. Devanur, G. Ganger, P. Gibbons, and M. Zaharia. SOSP 2019.
+Outsourcing Everyday Jobs to Thousands of Cloud Functions with gg. S. Fouladi, F. Romero, D. Iter, Q. Li, S. Chatterjee, C. Kozyrakis, M. Zaharia, and K. Winstein. USENIX ;login:, 44(3), September 2019.
+DIFF: A Relational Interface for Large-Scale Data Explanation. F. Abuzaid, P. Kraft, S. Suri, E. Gan, E. Xu, A. Shenoy, A. Ananthanarayan, J. Sheu, E. Meijer, X. Wu, J. Naughton, P. Bailis, and M. Zaharia. VLDB 2019.
+Analysis of DAWNBench, a Time-to-Accuracy Machine Learning Performance Benchmark. C. Coleman, D. Kang, D. Narayanan, L. Nardi, T. Zhao, J. Zhang, P. Bailis, C. Olukotun, C. Re and M. Zaharia. SIGOPS Operating Systems Review, 53(1):14-25, July 2019.
+From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers. S. Fouladi, F. Romero, D. Iter, Q. Li, S. Chatterjee, C. Kozyrakis, M. Zaharia, and K. Winstein. USENIX ATC 2019.
+LIT: Learned Intermediate Representation Training for Model Compression. A. Koratana, D. Kang, P. Bailis and M. Zaharia. ICML 2019. (blog)
+Debugging Machine Learning via Model Assertions. D. Kang, D. Raghavan, P. Bailis and M. Zaharia. ICLR DebugML Workshop 2019. Best Student Paper. (blog)
+To Index or Not to Index: Optimizing Exact Maximum Inner Product Search. F. Abuzaid, G. Sethi, P. Bailis and M. Zaharia. ICDE 2019.
+Beyond Data and Model Parallelism for Deep Neural Networks. Z. Jia, M. Zaharia and A. Aiken. SysML 2019.
+Optimizing DNN Computation with Relaxed Graph Substitutions. Z. Jia, J. Thomas, T. Warszawski, M. Gao, M. Zaharia and A. Aiken. SysML 2019.
+Challenges and Opportunities in DNN-Based Video Analytics: A Demonstration of the BlazeIt Video Query Engine (demo). D. Kang, P. Bailis and M. Zaharia. CIDR 2019.
+2018
+Accelerating the Machine Learning Lifecycle with MLflow. M. Zaharia, A. Chen, A. Davidson, A. Ghodsi, S.A. Hong, A. Konwinski, S. Murching, T. Nykodym, P. Ogilvie, M. Parkhe, F. Xie, and C. Zumar. IEEE Data Engineering Bulletin, 41(4), December 2018.
+Model Assertions for Debugging Machine Learning. D. Kang, D. Raghavan, P. Bailis and M. Zaharia. NeurIPS Systems for ML Workshop 2018.
+Analysis of the Time-To-Accuracy Metric and Entries in the DAWNBench Deep Learning Benchmark. C. Coleman, D. Kang, D. Narayanan, L. Nardi, T. Zhao, J. Zhang, P. Bailis, K. Olukotun, C. Re and M. Zaharia. NeurIPS Systems for ML Workshop 2018. (blog)
+Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. NeurIPS Systems for ML Workshop 2018.
+Exploring the Use of Learning Algorithms for Efficient Performance Profiling. S. Palkar, S. Suri, P. Bailis and M. Zaharia. NeurIPS ML for Systems Workshop 2018.
+Block-wise Intermediate Representation Training for Model Compression. A. Koratana, D. Kang, P. Bailis and M. Zaharia. NeurIPS CDNNRIA Workshop 2018.
+Filter Before You Parse: Faster Analytics on Raw Data with Sparser. S. Palkar, F. Abuzaid, P. Bailis and M. Zaharia. VLDB 2018. (blog)
+Evaluating End-to-End Optimization for Data Analytics Applications in Weld. S. Palkar, J. Thomas, D. Narayanan, P. Thaker, R. Palamuttam, P. Negi, A. Shanbhag, M. Schwarzkopf, H. Pirk, S. Amarasinghe, S. Madden and M. Zaharia. VLDB 2018. (blog)
+MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis. M. Vartak, J. da Trindade, S. Madden and M. Zaharia. SIGMOD 2018.
+Structured Streaming: A Declarative API for Real-Time Applications in Apache Spark. M. Armbrust, T. Das, J. Torres, B. Yavuz, S. Zhu, R. Xin, A. Ghodsi, I. Stoica and M. Zaharia. SIGMOD 2018.
+Accelerating Model Search with Model Batching (poster). D. Narayanan, K. Santhanam and M. Zaharia. SysML 2018.
+BlazeIt: An Optimizing Query Engine for Video at Scale (poster). D. Kang, P. Bailis and M. Zaharia. SysML 2018.
+DAWNBench: An End-to-End Deep Learning Benchmark and Competition (poster). C. Coleman, D. Narayanan, D. Kang, T. Zhao, J. Zhang, L. Nardi, P. Bailis, K. Olukotun, C. Re and M. Zaharia. SysML 2018.
+2017
+Making Caches Work for Graph Analytics. Y. Zhang, V. Kiriansky, C. Mendis, M. Zaharia and S. Amarasinghe. IEEE BigData 2017. Best Student Paper.
+DAWNBench: An End-to-End Deep Learning Benchmark and Competition. C. Coleman, D. Narayanan, D. Kang, T. Zhao, J. Zhang, L. Nardi, P. Bailis, K. Olukotun, C. Re and M. Zaharia. NIPS SysML 2017 (blog)
+DIY Hosting for Online Privacy. S. Palkar and M. Zaharia. HotNets 2017.
+Stadium: A Distributed Metadata-Private Messaging System. N. Tyagi, Y. Gilad, D. Leung, M. Zaharia and N. Zeldovich. SOSP 2017.
+NoScope: Optimizing Neural Network Queries over Video at Scale. D. Kang, J. Emmons, F. Abuzaid, P. Bailis and M. Zaharia. VLDB 2017 (blog)
+Splinter: Practical Private Queries on Public Data. F. Wang, C. Yun, S. Goldwasser, V. Vaikuntanathan and M. Zaharia. NSDI 2017.
+Weld: A Common Runtime for High Performance Data Analytics. S. Palkar, J. Thomas, A. Shanbhag, D. Narayanan, H. Pirk, M. Schwarzkopf, S. Amarasinghe and M. Zaharia. CIDR 2017.
+2016
+Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale. F. Abuzaid, J. Bradley, F. Liang, A. Feng, L. Yang, M. Zaharia and A. Talwalkar. NIPS 2016.
+Apache Spark: A Unified Engine for Big Data Processing. M. Zaharia, R. Xin, P. Wendell, T. Das, M. Armbrust, A. Dave, X. Meng, J. Rosen, S. Venkataraman, M. Franklin, A. Ghodsi, J. Gonzalez, S. Shenker, I. Stoica. Communications of the ACM, 59(11):56-65, November 2016.
+Voodoo – A Vector Algebra for Portable Database Performance on Modern Hardware. H. Pirk, O. Moll, M. Zaharia and S. Madden. VLDB 2016.
+Matrix Computations and Optimizations in Apache Spark. R.B. Zadeh, X. Meng, A. Staple, B. Yavuz, L. Pu, S. Venkataraman, E. Sparks, A. Ulanov and M. Zaharia. KDD 2016. Best Paper Award Runner-Up.
+GraphFrames: An Integrated API for Mixing Graph and Relational Queries. A. Dave, A. Jindal, L.E. Li, R. Xin, J. Gonzalez and M. Zaharia. GRADES 2016.
+ModelDB: A System for Machine Learning Model Management. M. Vartak, H. Subramanyam, W.E. Lee, S. Viswanathan, S. Husnoo, S. Madden and M. Zaharia. HILDA 2016.
+SparkR: Scaling R Programs with Spark. S. Venkataraman, Z. Yang, D. Liu, E. Liang, X. Meng, R. Xin, A. Ghodsi, M. Franklin, I. Stoica and M. Zaharia. SIGMOD 2016.
+MLlib: Machine Learning in Apache Spark. X. Meng, J. Bradley, B. Yuvaz, E. Sparks, S. Venkataraman, D. Liu, J. Freeman, D. Tsai, M. Amde, S. Owen, D. Xin, R. Xin, M. Franklin, R. Zadeh, M. Zaharia, and A. Talwalkar. JMLR, 17(34):1–7, 2016.
+FairRide: Near-Optimal, Fair Cache Sharing. Q. Pu, H. Li, M. Zaharia, A. Ghodsi, and I. Stoica. NSDI 2016.
+2015
+Vuvuzela: Scalable Private Messaging Resistant to Traffic Analysis. J. van den Hooff, D. Lazar, M. Zaharia and N. Zeldovich. SOSP 2015.
+Scaling Spark in the Real World: Performance and Usability. M. Armbrust, T. Das, A. Davidson, A. Ghodsi, A. Or, J. Rosen, I. Stoica, P. Wendell, R. Xin and M. Zaharia. VLDB 2015.
+Spark SQL: Relational Data Processing in Spark. M. Armbrust, R. Xin, C. Lian, Y. Huai, D. Liu, J. Bradley, X. Meng, T. Kaftan, M. Franklin, A. Ghodsi and M. Zaharia. SIGMOD 2015.
+
+Full Publication List
+
+Awards
+Mark Weiser Award, 2023
+SIGMOD Systems Award, 2022 (for Apache Spark)
+Sloan Research Fellowship, 2022
+NSDI Test of Time Paper Award (for Mesos), 2021
+EuroSys Test of Time Paper Award (for Delay Scheduling), 2020
+Presidential Early Career Award for Scientists and Engineers (PECASE), 2019
+NSF CAREER Award, 2017
+VMware Systems Research Award, 2016
+Google Faculty Research Award, 2015
+ACM Doctoral Dissertation Award, 2014 (for my dissertation)
+U. Waterloo Faculty of Mathematics Young Alumni Achievement Medal, 2014
+Daytona GraySort World Record, 2014
+David J. Sakrison Prize for Research, UC Berkeley, 2013
+Best Paper Awards at SIGCOMM 2012 and NSDI 2012
+Service
+Board Member: MLSys Conference, 2019-2022.
+Program Co-Chair: DISPA Workshop at VLDB 2020, MLOps Workshop at MLSys 2020, SysML 2019.
+Program Committee Member: SOSP 2021, NSDI 2021, VLDB 2021, NeurIPS 2020, ICML 2020, HotCloud 2020, NeurIPS 2019, SIGMOD 2019, OSDI 2018, SIGMOD 2018, NSDI 2018, SoCC 2017, SIGMOD 2016, SIGCOMM 2016, NSDI 2015.
+Invited Reviewer: CACM, TPDS, VLDB.
+
+Adapted from a template by Andreas Viklund. Photo by Hector Garcia-Molina.
+

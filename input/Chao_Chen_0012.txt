@@ -1,0 +1,131 @@
+Professor: Chao Chen 0012
+University: Stony Brook University
+URL: http://chaochen.github.io/
+Description: Home
+Research
+Publications
+Group
+Teaching
+	
+Chao Chen
+
+
+Associate Professor
+Department of Biomedical Informatics
+Also affiliated with Computer Science
+and Applied Mathematics & Statistics
+Stony Brook University
+Stony Brook, NY 11794-8322
+Contact
+Office: Computer Science Building, 2313C
+Tel: +1-631-632-2593
+Email: chao.chen.1 (@) stonybrook.edu
+Research Interests
+
+I explore geometric and topological properties of data. These global and robust information can provide insight for modern data and image analytics. My research draws from the following different domains.
+
+Biomedical imaging informatics: topology-informed image segmentation, generation and analysis.
+
+Machine learning: robustness of deep neural networks, label noise, graph neural networks.
+
+Topological data analysis: persistent homology, computation and learning with topological features.
+
+Past Experience
+
+Assistant Professor of Computer Science, City University of New York (CUNY), United States
+
+Postdoc at Rutgers University, United States (advised by Prof. Dimitris Metaxas)
+
+Postdoc at Institute of Science and Technology, Austria (advised by Prof. Herbert Edelsbrunner)
+
+Ph.D. at Rensselaer Polytechnic Institute, United States (advised by Prof. Daniel Freedman)
+
+B.S. at Peking University, China
+
+Awards
+
+2022, NSF CAREER Award Topology-Driven Learning for Biomedical Imaging Informatics
+
+More details can be found at the department news!
+
+2023, Stony Brook Trustees Faculty Awards (Story)
+
+Recent Services
+
+Associate Editor, Pattern Recognition
+
+Area Chair, ICCV 2023
+
+Area Chair, ICML 2023
+
+Area Chair, CVPR 2022
+
+Area Chair, NeurIPS 2021, 2022, 2023
+
+Area Chair, MICCAI 2020, 2021
+
+Senior PC, AAAI 2022, 2021
+
+News and Annoucement
+New!! One paper on Trojan Attacks against BERT models was accepted by EMNLP Findings 2023. Congratulations to Weimin for his second major NLP paper!
+New!! One paper on topology-aware uncertainty was accepted by NeurIPS'23. Congratulations to Saumya for her second major CV/ML paper!
+New!! Dr. Chao Chen Wins the Stony Brook Foundation Trustees Faculty Award for his exceptional research, creative activities, and scholarly achievements.
+New!! Two paper accepted by ICCV 2023!
+
+Congratulations to Chen Li and Aishik for getting their papers accepted by ICCV'23.
+
+New!! One paper accepted by MIDL 2023!
+
+Congratulations to Shahira for getting her paper accepted by MIDL.
+
+Shahira's paper presents a novel unsupervised method to unmix different biomarkers in multiplex IHC images. This will enable scalable spatial analysis of multiple cell types in tumor microenvironment.
+
+New!! Two papers accepted by CVPR 2023!
+
+Congratulations to Shahira and Lu for getting their papers accepted by the top CV conference CVPR.
+
+Shahira's paper present the first generative model for digital pathology focusing on cell spatial layout: topology and colocalization. Lu Pang's paper proposes a novel mitigation method for backdoor attacked models. The method uses knowledge distillation and does not even require in-distribution data.
+
+New!! Three papers accepted by ICLR 2023!
+
+Congratulations to Michael (Jiachen), Chen Li, and Xiaoling for getting their papers accepted by the top ML conference ICLR.
+
+Michael's paper addresses the modeling of segmentation annotation noise. Chen Li's paper tackles confidence estimation problem in semi-supervised setting. Xiaoling's paper (accepted as a spotlight) proposes the first structural representation of an image. This will have a big impact in image segmentation and analysis especially for structure-rich data in biomedicine.
+
+New!! One paper accepted by NeurIPS 2022!
+
+We develop a learning-based algorithm to estimate persistent homology feartures for efficient topology-informed graph learning.
+
+New!! One paper accepted to ECCV as an oral presentation (only 2.7% of the submissions were selected as an oral)!
+
+We propose a novel method to model topological interactions between different semantic labels. The method is designed to be computationally efficient especially for deep learning.
+
+Congratulations to first year student, Saumya, and senior student, Xiaoling!
+
+New!! Two papers accepted by ICIBM and AMIA!
+
+Two papers on health informatics and on spatio-transcriptomics have been accepted by ICIBM and AMIA.
+
+New!! One paper accepted by ICML 2022!
+
+We develop a cycle-centric graph neural network which learns representations of cycles instead of nodes. The method is applied to knowledge graph completion task.
+
+New!! One paper accepted by NAACL 2022!
+
+We provide an insightful analysis of backdoor-attacked BERT models focusing on the attention focus drifting phenomenon. This provides an explanation of how backdoors are injected and inspires better backdoor detection algorithms.
+
+New!! One paper accepted by CVPR 2022!
+
+We improve predictions on snapshot medical images using temporal sequences. We design a model that use temporal representation to re-calibrate snapshot representation.
+
+New!! Just won the NSF CAREER award.
+
+Project: Topology-Driven Learning for Biomedical Imaging Informatics
+
+This 5 year project will support us in developing topology-informed image analysis methods for different tasks such as segmentation, generation and analysis. The key is to combine theory from topological data analysis with deep learning techniques to develop trasparent, trustworthy and powerful tools. These tools will be validated in various biomedical problems.
+
+
+
+
+Page generated by jemdoc.
+

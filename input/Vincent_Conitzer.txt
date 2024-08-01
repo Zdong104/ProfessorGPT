@@ -1,0 +1,826 @@
+Professor: Vincent Conitzer
+University: Carnegie Mellon University
+URL: https://users.cs.duke.edu/~conitzer
+Description: I recently moved to CMU; in a few seconds you will be automatically redirected to my new page there.
+
+	Vincent Conitzer
+Kimberly J. Jenkins Distinguished University Professor of New Technologies
+Professor of Computer Science, Professor of Economics, and Professor of Philosophy
+Levine Science Research Center, office D207
+Box 90129, Duke University
+Durham, NC 27708, USA
+email:  (I try to reply to as much as I reasonably can; my apologies if I am unresponsive or brief)
+
+and
+
+Head of Technical AI Engagement, Institute for Ethics in AI
+Professor of Computer Science and Philosophy
+Visiting Fellow at Pembroke College
+University of Oxford
+email:  (if you have no particular reason to use this address, better to use the above one)
+
+You can follow me on Twitter (@conitzer) (or Facebook or Linkedin).
+
+Note: after 15+ wonderful years at Duke, I will move to Carnegie Mellon University (Computer Science Department). If you are a prospective student interested in working with me specifically, please apply there. (But do check out my amazing Duke colleagues as well!) Note also this call for postdoc applications. I will still be at Oxford in summers. I will eventually set up my new website here.
+
+Jump to: ANNOUNCEMENTS | BRIEF BIO | RESEARCH GROUP | PUBLICATIONS by date | PUBLICATIONS by topic | TEACHING | MISCELLANEOUS | HUMOR
+
+
+ANNOUNCEMENTS
+RESEARCH GROUP:
+Check out our new Foundations of Cooperative AI Lab (FOCAL)!
+I am one of the organizers of a Fall 2023 MSRI program on Algorithms, Fairness, and Equity.
+Caspar Oesterheld's paper with me, Extracting Money from Causal Decision Theorists, was listed under Oxford University Press' "Best of Philosophy" for 2021.
+Our (with Tuomas Sandholm) EC 2006 paper, Computing the Optimal Strategy to Commit To, is receiving the 2022 IFAAMAS Influential Paper Award!
+I will serve as a conference chair for the AAAI/ACM AI, Ethics, and Society (AIES'22) conference.
+I am the chair-elect of the standing committee of the One Hundred Year Study on Artificial Intelligence (AI100).
+Hanrui Zhang was named a finalist for the 2021 Economics and Computation Facebook Fellowship.
+Yuan Deng received an honorable mention for the 2020 IFAAMAS Victor Lesser Distinguished Dissertation Award and an honorable mention for the SIGecom Dissertation Award.
+I received the 2021 ACM/SIGAI Autonomous Agents Research Award.
+Using Human Cognitive Limitations to Enable New Systems was awarded Best Blue Sky Idea at the HCOMP 2020 conference.
+Hanrui Zhang received the best student paper award at the ESA 2020 conference.
+Rupert Freeman started a faculty position at the University of Virginia (Darden School of Business) in 2020.
+Yuan Deng started as a Research Scientist in the Market Algorithms Group at Google Research NYC in 2020.
+Our entry Theory of Conscious Experience received the Meritorious Prize in the NSF 2026 Idea Machine.
+Yu Cheng started a faculty position at the University of Illinois at Chicago (Department of Mathematics, Statistics, and Computer Science) in 2019.
+Michael Albert started a faculty position at the University of Virginia (Darden School of Business + SEAS) in 2018.
+Rupert Freeman started a postdoc at Microsoft Research NYC in 2018.
+Catherine Moon started as an Economist at Keystone Strategy in 2018.
+Seyed Majid Zahedi (whose primary advisor is Ben Lee) started a faculty position at the University of Waterloo (ECE) in 2018.
+Yuan Deng was named one of the 2018 Google PhD Fellows.
+Fei Sha and I served as program chairs of AAAI 2020.
+Rachel Freedman received the Outstanding Student Paper Honorable Mention at AAAI 2018 for our paper Adapting a Kidney Exchange Algorithm to Align with Human Values.
+We received a CCC Blue Sky Award for our paper Moral Decision Making Frameworks for Artificial Intelligence at AAAI 2017.
+Rupert Freeman was named one of the 2017 Facebook PhD Fellows.
+csrankings.org ranks Duke sixth in the US for artificial intelligence and fourth in the US for economics & computation (June 9, 2018; with all the necessary caveats about such rankings).
+USEFUL LINKS (LOCAL):
+Check out our Bass Connections project on moral AI!
+
+Current teaching: COMPSCI 323 / 590.08 (Spring 2022): Computational Microeconomics.
+
+Recent teaching:
+COMPSCI 570 (Fall 2021): Artificial Intelligence.
+COMPSCI 590.7 (Fall 2020): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 323 (Spring 2020): Computational Microeconomics.
+COMPSCI 270 (Spring 2019): Introduction to Artificial Intelligence.
+COMPSCI 590.2 (Fall 2018): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+Moral Artificial Intelligence (Fall 2018).
+COMPSCI 570 (Fall 2017): Artificial Intelligence.
+Philosophy 590.3 (Fall 2017) / 590.1 (Spring 2018): Ethics and AI.
+COMPSCI 590.2 (Spring 2017): Computation, Information, and Learning in Market Design.
+
+Less recent teaching:
+COMPSCI 290.4/590.4 (Spring 2015): Crowdsourcing Societal Tradeoffs.
+
+
+
+Please subscribe to the moral_ai mailing list if you are at Duke (or in the vicinity) and interested in topics in moral artificial intelligence. (The list is mostly used for local talk announcements.)
+Please subscribe to the cs-econ mailing list if you are at Duke (or in the vicinity) and interested in topics in the intersection between computer science and economics. (The list is mostly used for local talk announcements.) Also see our cs-econ website.
+We now have an MS in Economics and Computation at Duke.
+Other local activities at Duke: DRIV (Duke Robotics Intelligence and Vision), Machine Learning, Algorithms seminar, Microeconomic Theory, Decision Sciences, DNAC (Duke Network Analysis Center), Duke CTMS (Center for Theoretical and Mathematical Sciences).
+USEFUL LINKS (GLOBAL):
+I am giving a tutorial on Designing Agents' Preferences, Beliefs, and Identities at AAAI'21, AAMAS'21, EC'21, and IJCAI-ECAI'22.
+We completed the Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (freely available!).
+Here is our moral AI website.
+I gave a tutorial on Computational Social Choice and Moral Artificial Intelligence at AAMAS/ICML/IJCAI'18.
+Please subscribe to the computational social choice mailing list if you are interested in computational aspects of social choice (voting, mechanism design, ...).
+Preston McAfee and I completed our two terms as editors-in-chief of ACM TEAC (Transactions on Economics and Computation). The journal is now in the capable hands of Dave Pennock and Ilya Segal.
+SIGecom Exchanges is now in Yiling's Ariel's Shaddin's Hu's capable hands.
+BRIEF BIO
+Professional (for talk anouncements etc.):
+Vincent Conitzer is the Kimberly J. Jenkins Distinguished University Professor of New Technologies and Professor of Computer Science, Professor of Economics, and Professor of Philosophy at Duke University. He is also Head of Technical AI Engagement at the Institute for Ethics in AI, and Professor of Computer Science and Philosophy, at the University of Oxford. He received Ph.D. (2006) and M.S. (2003) degrees in Computer Science from Carnegie Mellon University, and an A.B. (2001) degree in Applied Mathematics from Harvard University. Conitzer works on artificial intelligence (AI). Much of his work has focused on AI and game theory, for example designing algorithms for the optimal strategic placement of defensive resources. More recently, he has started to work on AI and ethics: how should we determine the objectives that AI systems pursue, when these objectives have complex effects on various stakeholders?
+
+Conitzer has received the 2021 ACM/SIGAI Autonomous Agents Research Award, the Social Choice and Welfare Prize, a Presidential Early Career Award for Scientists and Engineers (PECASE), the IJCAI Computers and Thought Award, an NSF CAREER award, the inaugural Victor Lesser dissertation award, an honorable mention for the ACM dissertation award, and several awards for papers and service at the AAAI and AAMAS conferences. He has also been named a Guggenheim Fellow, a Sloan Fellow, a Kavli Fellow, a Bass Fellow, an ACM Fellow, a AAAI Fellow, and one of AI's Ten to Watch. He has served as program and/or general chair of the AAAI, AAMAS, AIES, COMSOC, and EC conferences. Conitzer and Preston McAfee were the founding Editors-in-Chief of the ACM Transactions on Economics and Computation (TEAC).
+
+Personal: I grew up in Amsterdam, the Netherlands. Besides working and spending time with my wife and kids, I enjoy sports, in the past mostly tennis and judo, and more recently mostly soccer and running, all very much at a recreational level...
+
+For more information: please see my CV.
+RESEARCH GROUP
+(More people can be found on the cs-econ website.)
+Information for students applying to my group.
+Advice/opinions for students in my group.
+
+I consider myself very fortunate to work and have worked with some extremely talented individuals.
+Current Ph.D. students: Caspar Oesterheld (Computer Science), Hanrui Zhang (Computer Science).
+Alumni:
+Anilesh K. Krishnaswamy (postdoc 2019-2021, now at Google)
+Yuan Deng (Computer Science Ph.D. 2020, now a Research Scientist at Google Research New York City)
+Yu Cheng (postdoc 2017-2019, now an Assistant Professor of Computer Science at Brown University)
+Rupert Freeman (Computer Science Ph.D. 2018, now an Assistant Professor at the University of Virginia - Darden School of Business)
+Michael Albert (postdoc 2016-2018, now an Assistant Professor at the University of Virginia - Darden School of Business and SEAS)
+Catherine Moon (Economics PhD. 2018, now an Economist at Keystone)
+Aaron Kolb (Economics Ph.D. 2016, briefly a postdoc in CS in 2016, now an Assistant Professor of Business Economics and Public Policy (BEPP) at Indiana University Kelley School of Business)
+Yuqian Li (Computer Science Ph.D. 2016, now at Google)
+Markus Brill (postdoc 2013-2015, now an Assistant Professor and Emmy Noether Research Group Leader at the Institute of Software Engineering and Theoretical Computer Science at TU Berlin)
+Angelina Vidali (postdoc 2012-2014, now Academic Fellow at De Montfort University)
+Troels Bjerre Lund (formerly Sørensen) (postdoc 2012-2013, now an Assistant Professor in the Theoretical Computer Science section at the IT-University of Copenhagen)
+Dmytro Korzhyk (Computer Science Ph.D. 2013, now at Two Sigma)
+Joshua (Josh) Letchford (Computer Science Ph.D. 2013, now at Sandia National Laboratories)
+Taiki Todo (postdoc 2012-2013, now an Assistant Professor in the Department of Informatics, Kyushu University)
+Lirong Xia (Computer Science Ph.D. 2011, now an Assistant Professor in RPI's Computer Science Department)
+Mingyu Guo (Computer Science Ph.D. 2010, now a Lecturer (in the Australian sense) in the School of Computer Science, University of Adelaide)
+Liad (Leo) Wagman (Economics Ph.D. 2009, now an Assistant Professor at the Illinois Institute of Technology Stuart School of Business)
+Haoming Li (Economics and Computation M.S. 2020, now a Ph.D. student at USC CS)
+Andrew Kephart (Computer Science M.S. 2017, now at Instacart)
+Kenzie Doyle (post-bac in Moral AI group 2016-2020, now a Ph.D. student in Psychology at University of Oregon)
+Rachel Freedman (interdepartmental B.A. in Artificial Intelligence Systems, 2017, now a Ph.D. student in AI at UC Berkeley)
+Jeremy Fox (Bachelor's in CS, 2017, now at Google)
+Max Kramer (B.A. in Philosophy and Psychology 2017, now a Ph.D. student in Philosophy at U. Arizona)
+Melissa Dalis (CS+Math+minor in Econ B.S. 2014, now a Data Scientist at Uber on the econ research team)
+Peter Franklin (Econ+CS B.S. 2008, CS M.S. 2010, now at Zynga)
+Joseph (Joe) Farfel (Computer Science M.S. 2007, now at Google)
+Bo Waggoner (Math+CS B.S. 2011, now a CS Ph.D. student at Harvard)
+Siyang Chen (Math B.S., CS B.S. 2012, now at Facebook)
+Matthew Rognlie (Econ+Math B.S. 2010, now an Assistant Professor of Economics at Northwestern)
+Peng Shi (Math B.S. + CS B.A. + Econ minor 2010, now an Assistant Professor at USC Marshall School of Business' Data Science and Operations group)
+Maggie Bashford (CS+Econ B.S. 2010, now at Deloitte)
+
+PUBLICATIONS
+By date; you can also see them by topic (automatically generated from this page, please let me know if you would like the code for this).
+
+
+2022+
+Scott Emmons, Caspar Oesterheld, Andrew Critch, Vincent Conitzer, and Stuart Russell. For Learning in Symmetric Teams, Local Optima are Global Nash Equilibria. In Proceedings of the 39th International Conference on Machine Learning (ICML-22), Baltimore, MD, USA, 2022. An earlier working version had the title "Symmetry, Equilibria, and Robustness in Common-Payoff Games" and was Presented at the 3rd Games, Agents, and Incentives Workshop. Keywords: noncooperative game theory, Nash equilibrium, machine learning, cooperative AI.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. Efficient Algorithms for Planning with Participation Constraints. In Proceedings of the 23rd ACM Conference on Economics and Computation (EC-22), Boulder, CO, USA, 2022. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Caspar Oesterheld and Vincent Conitzer. Can de se choice be ex ante reasonable in games of imperfect recall? Working paper. Keywords: philosophy, Sleeping Beauty, causal and evidential decision theory, Dutch books, self-locating beliefs.
+
+Caspar Oesterheld, Abram Demski, and Vincent Conitzer. A theory of bounded inductive rationality. To be presented at the Fourteenth Conference on Logic and the Foundations of Game and Decision Theory (LOFT-22), Groningen, the Netherlands, 2022. Keywords: philosophy, causal and evidential decision theory, Dutch books, machine learning.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. Planning with Participation Constraints. In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), 2022. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Vincent Conitzer, Debmalya Panigrahi, and Hanrui Zhang. Learning Influence Adoption in Heterogeneous Networks. In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22), 2022. Keywords: social networks, machine learning.
+
+Steven Jecmen, Nihar Shah, Fei Fang, and Vincent Conitzer. Tradeoffs in Preventing Manipulation in Paper Bidding for Reviewer Assignment. Workshop on ML Evaluation Standards at ICLR 2022. Outstanding paper award. Keywords: matching, mechanism design, machine learning.
+
+Edmond Awad, Sydney Levine, Michael Anderson, Susan Leigh Anderson, Vincent Conitzer, M.J. Crockett, Jim A.C. Everett, Theodoros Evgeniou, Alison Gopnik, Julian C. Jamison, Tae Wan Kim, S. Matthew Liao, Michelle N. Meyer, John Mikhail, Kweku Opoku-Agyemang, Jana Schaich Borg, Juliana Schroeder, Walter Sinnott-Armstrong, Marija Slavkovik, Josh B. Tenenbaum. Computational Ethics. Trends in Cognitive Sciences, Volume 26, Issue 5, May 2022, Pages 388-405. Keywords: moral AI.
+
+Lok Chan, Jana Schaich Borg, Vincent Conitzer, Dominic Wilkinson, Julian Savulescu, Hazem Zohny, and Walter Sinnott-Armstrong. Which features of patients are morally relevant in ventilator triage? A survey of the UK public. BMC Medical Ethics, Volume 23, Article Number 33, 2022. Keywords: moral AI.
+
+Masoud Afnan, Michael Anis Mihdi Afnan, Yanhe Liu, Julian Savulescu, Abhishek Mishra, Vincent Conitzer, Cynthia Rudin. Data solidarity for machine learning for embryo selection: a call for the creation of an open access repository of embryo data. Reproductive BioMedicine Online, DOI: 10.1016/j.rbmo.2022.03.015. Keywords: moral AI, machine learning.
+
+Vincent Conitzer. Puzzle: Communicating to Plan Noam Nisan's 60th Birthday Workshop. (Puzzle in honor of Noam Nisan's 60th birthday.) SIGecom Exchanges, Vol. 20.1, July 2022. Keywords: puzzles.
+
+Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES'22). Co-edited with John Tasioulas, Matthias Scheutz, Ryan Calo, Martina Mara, and Annette Zimmermann. Keywords: edited volumes.
+
+
+2021
+Hanrui Zhang and Vincent Conitzer. Automated Dynamic Mechanism Design. In Proceedings of the Thirty-Fifth Conference on Neural Information Processing Systems (NeurIPS-21), 2021. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Vincent Conitzer. Automated Mechanism Design for Strategic Classification: Abstract for KDD'21 Keynote Talk. In KDD'21: Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2021. Keywords: mechanism design, PAC learning, automated mechanism design, signaling, machine learning.
+
+Vincent Conitzer, Zhe Feng, David Parkes, and Eric Sodomka. Welfare-Preserving ε-BIC to BIC Transformation with Negligible Revenue Loss. In the 17th Conference on Web and Internet Economics (WINE-21), 2021. Keywords: mechanism design, automated mechanism design, combinatorial auctions and exchanges, machine learning.
+
+Michael Anis Mihdi Afnan, Yanhe Liu, Vincent Conitzer, Cynthia Rudin, Abhishek Mishra, Julian Savulescu, and Masoud Afnan. Interpretable, not black-box, artificial intelligence should be used for embryo selection. Human Reproduction Open, Volume 2021, Issue 4, 2021, hoab040. Keywords: moral AI, machine learning.
+
+Michael Anis Mihdi Afnan, Cynthia Rudin, Vincent Conitzer, Julian Savulescu, Abhishek Mishra, Yanhe Liu and Masoud Afnan. Ethical Implementation of Artificial Intelligence to Select Embryos in In Vitro Fertilization. Fourth AAAI/ACM Conference on AI, Ethics, and Society (AIES-21), 2021. Keywords: moral AI, machine learning.
+
+Caspar Oesterheld and Vincent Conitzer. Safe Pareto improvements for delegated game playing. In Proceedings of the Twentieth International Conference on Autonomous Agents and Multiagent Systems (AAMAS-21), 2021. Keywords: noncooperative game theory, commitment, dominance and iterated dominance, alternative solution concepts, program equilibrium, cooperative AI.
+
+Duncan McElfresh, Lok Chan, Kenzie Doyle, Walter Sinnott-Armstrong, Vincent Conitzer, Jana Schaich Borg, and John Dickerson. Indecision Modeling. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. Keywords: moral AI, kidney exchanges, preference elicitation, machine learning.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. Automated Mechanism Design for Classification with Partial Verification. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Hanrui Zhang and Vincent Conitzer. Incentive-Aware PAC Learning. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. Keywords: mechanism design, PAC learning, automated mechanism design, signaling, machine learning.
+
+Anilesh Krishnaswamy, Haoming Li, David Rein, Hanrui Zhang, and Vincent Conitzer. Classification with Strategically Withheld Data. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. Classification with Few Tests through Self-Selection. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Walter Sinnott-Armstrong and Vincent Conitzer. How Much Moral Status Could Artificial Intelligence Ever Achieve? Chapter 16 (pages 269-289) in Rethinking Moral Status, Clarke, S., Zohny, H. and Savulescu, J. (eds.), Oxford University Press, 2021. Keywords: moral AI.
+
+Caspar Oesterheld and Vincent Conitzer. Extracting Money from Causal Decision Theorists. In Philosophical Quarterly, Volume 71, Issue 4, October 2021, DOI: 10.1093/pq/pqaa086. Also presented at GAMES 2020 and the IJCAI-PRICAI 2020 AI Safety workshop. Listed under Oxford University Press' "Best of Philosophy" for 2021. Keywords: philosophy, causal and evidential decision theory, Dutch books, cooperative AI, self-locating beliefs.
+
+Vincent Conitzer, Christian Kroer, Debmalya Panigrahi, Okke Schrijvers, Eric Sodomka, Nicolas E. Stier-Moses, and Chris Wilkens. Pacing Equilibrium in First-Price Auction Markets. To appear in Management Science. Keywords: combinatorial auctions and exchanges, expressive markets, learning in markets, mechanism design, noncooperative game theory.
+
+Vincent Conitzer, Christian Kroer, Eric Sodomka, and Nicolas E. Stier-Moses. Multiplicative Pacing Equilibria in Auction Markets. To appear in Operations Research. Keywords: combinatorial auctions and exchanges, expressive markets, learning in markets, mechanism design, noncooperative game theory.
+
+Michael Albert, Vincent Conitzer, Giuseppe Lopomo, and Peter Stone. Mechanism Design for Correlated Valuations: Efficient Methods for Revenue Maximization. Operations Research, DOI: 10.1287/opre.2020.2092. Keywords: mechanism design, automated mechanism design, Cremer-McLean.
+
+Andrew Kephart and Vincent Conitzer. The Revelation Principle for Mechanism Design with Signaling Costs. ACM Transactions on Economics and Computation (TEAC), Volume 9, Issue 1, March 2021, Article Number 6, pages 1-35, DOI: 10.1145/3434408. (If all you are interested in is the case where the signal space and the type space are equal, the EC conference version will suffice.) Keywords: mechanism design, automated mechanism design, signaling, revelation principle.
+
+Yuan Deng and Vincent Conitzer. Establishing Nearly Universal Cooperation in Finitely Repeated Games via Limited-Altruism Types. Keywords: noncooperative game theory, Nash equilibrium, repeated games, cooperative AI.
+
+
+2020
+Vincent Conitzer. The Personalized A-Theory of Time and Perspective. Dialectica, Volume 74, Number 1, pages 1-29, 2020. Official version (open access). Also available as arXiv:1802.2008.13207. Keywords: philosophy, metaphysics, philosophy of mind, consciousness, epistemology, self-locating beliefs.
+
+Lok Chan, Kenzie Doyle, Duncan McElfresh, Vincent Conitzer, John Dickerson, Jana Schaich Borg, and Walter Sinnott-Armstrong. Artificial Artificial Intelligence: Measuring Influence of AI "Assessments" on Moral Decision-Making. In Proceedings of the Third AAAI/ACM Conference on AI, Ethics, and Society (AIES-20), New York, NY, USA, 2020. Keywords: moral AI, kidney exchanges.
+
+Rachel Freedman, Jana Schaich Borg, Walter Sinnott-Armstrong, John Dickerson, and Vincent Conitzer. Adapting a Kidney Exchange Algorithm to Align with Human Values. Artificial Intelligence, Volume 283, Article 103261, 2020. DOI:10.1016/j.artint.2020.103261. See coverage in Quartz. Keywords: moral AI, kidney exchanges, machine learning.
+
+Joshua August Skorburg, Walter Sinnott-Armstrong, and Vincent Conitzer. AI Methods in Bioethics. American Journal of Bioethics: Empirical Bioethics, Volume 11, Issue 1, pages 37-39, 2020. DOI:10.1080/23294515.2019.1706206. Keywords: moral AI, kidney exchanges, machine learning.
+
+Hanrui Zhang and Vincent Conitzer. Combinatorial Ski Rental and Online Bipartite Matching. In Proceedings of the 21st ACM Conference on Economics and Computation (EC-20), 2020. Keywords: combinatorial auctions and exchanges, matching.
+
+Caspar Oesterheld and Vincent Conitzer. Decision Scoring Rules. In the 16th Conference on Web and Internet Economics (WINE-20), Beijing, China / virtual, 2020. Keywords: prediction markets.
+
+Caspar Oesterheld and Vincent Conitzer. Minimum-regret contracts for principal-expert problems. In the 16th Conference on Web and Internet Economics (WINE-20), Beijing, China / virtual, 2020. Keywords: prediction markets.
+
+Vincent Conitzer, Yuan Deng, and Shaddin Dughmi. Bayesian Repeated Zero-Sum Games with Persistent State, with Application to Security Games. In the 16th Conference on Web and Internet Economics (WINE-20), Beijing, China / virtual, 2020. Keywords: security games, signaling, zero-sum games, repeated games, stochastic games.
+
+Hanrui Zhang and Vincent Conitzer. Learning the Valuations of a k-demand Agent. In Proceedings of the 37th International Conference on Machine Learning (ICML-20), 2020. Keywords: combinatorial auctions and exchanges, preference elicitation, machine learning.
+
+Vincent Conitzer, Debmalya Panigrahi, and Hanrui Zhang. Learning Opinions in Social Networks. In Proceedings of the 37th International Conference on Machine Learning (ICML-20), 2020. Keywords: social networks, machine learning.
+
+Vincent Conitzer. Using Human Cognitive Limitations to Enable New Systems. In the Eighth AAAI Conference on Human Computation and Crowdsourcing (HCOMP-20), Blue Sky Ideas track, Hilversum, the Netherlands (virtually), 2020. Awarded Best Blue Sky Idea. Keywords: anonymity-proofness.
+
+Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar Shah, Vincent Conitzer, and Fei Fang. Mitigating Manipulation in Peer Review via Randomized Reviewer Assignments. In Proceedings of the Thirty-Fourth Conference on Neural Information Processing Systems (NeurIPS-20), 2020. Keywords: matching, mechanism design.
+
+Aaron Kolb and Vincent Conitzer. Crying about a strategic wolf: A theory of crime and warning. Journal of Economic Theory, Volume 189, September 2020, 105094. Keywords: noncooperative game theory, security games, repeated games, stochastic games, commitment, signaling.
+
+Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI'20). Co-edited with Fei Sha and Francesca Rossi. Keywords: edited volumes.
+
+
+2019
+Vincent Conitzer. A Puzzle about Further Facts. Erkenntnis, June 2019, Volume 84, Issue 3, pp. 727-739. Official version (open access, incl. HTML version). Also available as arXiv:1802.01161 and PhilSci 14739. Keywords: philosophy, metaphysics, philosophy of mind, consciousness, epistemology, self-locating beliefs.
+
+Vincent Conitzer. Designing Preferences, Beliefs, and Identities for Artificial Intelligence. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19) Senior Member / Blue Sky Track, pp. 9755-9759, Honolulu, HI, USA, 2019. Keywords: voting, judgment aggregation, philosophy, Sleeping Beauty, causal and evidential decision theory, cooperative AI, self-locating beliefs.
+
+Hanrui Zhang and Vincent Conitzer. A PAC Framework for Aggregating Agents' Judgments. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 2237-2244, Honolulu, HI, USA, 2019. Keywords: voting, judgment aggregation, PAC learning, machine learning.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. A Better Algorithm for Societal Tradeoffs. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 2229-2236, Honolulu, HI, USA, 2019. Keywords: voting, single-peaked preferences, optimal voting rules, voting in combinatorial domains, judgment aggregation.
+
+Vincent Conitzer, Rupert Freeman, Nisarg Shah, and Jennifer Wortman Vaughan. Group Fairness for the Allocation of Indivisible Goods. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), pp. 1853-1860, Honolulu, HI, USA, 2019. Full version. Keywords: fair decision making.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. When Samples Are Strategically Selected. In Proceedings of the 36th International Conference on Machine Learning (ICML-19), pp. 7345-7353, Long Beach, CA, USA, 2019. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Hanrui Zhang, Yu Cheng, and Vincent Conitzer. Distinguishing Distributions When Samples Are Strategically Transformed. In Proceedings of the Thirty-Third Conference on Neural Information Processing Systems (NeurIPS-19), Vancouver, Canada, 2019. Keywords: mechanism design, automated mechanism design, signaling, machine learning.
+
+Vincent Conitzer, Christian Kroer, Debmalya Panigrahi, Okke Schrijvers, Eric Sodomka, Nicolas E. Stier-Moses, and Chris Wilkens. Pacing Equilibrium in First-Price Auction Markets. In Proceedings of the 20th ACM Conference on Economics and Computation (EC-19), Phoenix, AZ, USA, 2019. See journal version above. Keywords: combinatorial auctions and exchanges, expressive markets, learning in markets, mechanism design, noncooperative game theory.
+
+Vincent Conitzer. Theory of Conscious Experience (NSF 2026 Idea Machine competition entry). Meritorious Prize Winner (announcement). Keywords: consciousness.
+
+Vincent Conitzer and Rupert Freeman. Algorithmically Driven Shared Ownership Economies. Chapter in Future of Economic Design, pp. 275-285, Springer, 2019. Keywords: expressive markets, mechanism design, fair decision making.
+
+Vincent Conitzer. The Exact Computational Complexity of Evolutionarily Stable Strategies. Mathematics of Operations Research, 44(3): 783-792, 2019. Keywords: noncooperative game theory, Nash equilibrium, evolutionarily stable strategies.
+
+Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society (AIES'19). Co-edited with Gillian Hadfield and Shannon Vallor. Keywords: edited volumes.
+
+Vincent Conitzer. Puzzle: The AI Circus. (Puzzle in honor of Tuomas Sandholm's 50th birthday.) SIGecom Exchanges, Vol. 17.2, October 2019. Keywords: puzzles.
+
+
+2018
+Vincent Conitzer. Natural Intelligence Still Has Its Advantages. The Wall Street Journal, August 28, 2018. Local version without paywall, also available under the title arXiv:1812.02560 as "Can Artificial Intelligence Do Everything That We Can?" Keywords: overviews.
+
+Mathijs de Weerdt, Michael Albert, Vincent Conitzer, and Koos van der Linden. Complexity of Scheduling Charging in the Smart Grid. In Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI-18), pp. 4736-4742, Stockholm, Sweden, 2018. Keywords: scheduling.
+
+Max Kramer, Jana Schaich Borg, Vincent Conitzer, and Walter Sinnott-Armstrong. When Do People Want AI to Make Decisions? (submitted version) In Proceedings of the First AAAI/ACM Conference on AI, Ethics, and Society (AIES-18), pp. 204-209, New Orleans, LA, USA, 2018. Keywords: moral AI, kidney exchanges.
+
+Vincent Conitzer. Technical Perspective: Designing Algorithms and the Fairness Criteria They Should Satisfy. Communications of the ACM, Volume 61, Issue 2, February 2018, pp. 92. Keywords: fair decision making, overviews.
+
+Rupert Freeman*, Seyed Majid Zahedi*, Vincent Conitzer, and Benjamin Lee (* co-first authors). Dynamic Proportional Sharing: A Game-Theoretic Approach. In Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, POMACS 2(1): 3:1-3:36, Irvine, CA, USA, 2018. Keywords: fair decision making, mechanism design.
+
+Rachel Freedman, Jana Schaich Borg, Walter Sinnott-Armstrong, John Dickerson, and Vincent Conitzer. Adapting a Kidney Exchange Algorithm to Align with Human Values. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), pp. 1636-1643, New Orleans, LA, USA, 2018. Outstanding Student Paper Honorable Mention. See journal version above. Keywords: moral AI, kidney exchanges, machine learning.
+
+Yuan Deng and Vincent Conitzer. Disarmament Games with Resources. In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18), pp. 981-988, New Orleans, LA, USA, 2018. Keywords: noncooperative game theory, commitment, Nash equilibrium, cooperative AI.
+
+Vincent Conitzer, Christian Kroer, Eric Sodomka, and Nicolas E. Stier-Moses. Multiplicative Pacing Equilibria in Auction Markets. Fourteenth Conference on Web and Internet Economics (WINE-18), Oxford, United Kingdom, 2018. See journal version above. arXiv:1706.07151. Keywords: combinatorial auctions and exchanges, expressive markets, learning in markets, mechanism design, noncooperative game theory.
+
+Suguru Ueda, Atsushi Iwasaki, Vincent Conitzer, Naoki Ohta, Yuko Sakurai, and Makoto Yokoo. Coalition structure generation in cooperative games with compact representations. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), 32(4): 503-533, 2018. Keywords: cooperative game theory.
+
+
+2017
+Vincent Conitzer, Jana Schaich Borg, and Walter Sinnott-Armstrong. Using Human Subjects' Judgments for Automated Moral Decision Making. Whitepaper for the Workshop on Trustworthy Algorithmic Decision-Making, Arlington, VA, USA, 2017. Keywords: moral AI, kidney exchanges, machine learning.
+
+Rupert Freeman, Seyed Majid Zahedi, and Vincent Conitzer. Fair Social Choice in Dynamic Settings. In Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17), pp. 4580-4587, Melbourne, Australia, 2017. Full version. Keywords: fair decision making.
+
+Vincent Conitzer, Rupert Freeman, and Nisarg Shah. Fair Public Decision Making. In Proceedings of the 18th ACM Conference on Economics and Computation (EC-17), pp. 629-646, Cambridge, MA, USA, 2017. Keywords: fair decision making.
+
+Vincent Conitzer. The AI debate must stay grounded in reality. Prospect (in association with the British Academy), March 6, 2017. See also coverage in ACM TechNews. Keywords: philosophy, philosophy of mind, consciousness, overviews.
+
+Michael Albert, Vincent Conitzer, and Peter Stone. Mechanism Design with Unknown Correlated Distributions: Can We Learn Optimal Mechanisms? In Proceedings of the Sixteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-17), pp. 69-77, Sao Paulo, Brazil, 2017. See also journal version that builds on this. Keywords: mechanism design, automated mechanism design, Cremer-McLean.
+
+Vincent Conitzer, Walter Sinnott-Armstrong, Jana Schaich Borg, Yuan Deng, and Max Kramer. Moral Decision Making Frameworks for Artificial Intelligence. In Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17) Senior Member / Blue Sky Track, pp. 4831-4835, San Francisco, CA, USA, 2017. Received a CCC Blue Sky Award. Keywords: moral AI, noncooperative game theory, alternative solution concepts, machine learning.
+
+Yuan Deng and Vincent Conitzer. Disarmament Games. In Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), pp. 473-479, San Francisco, CA, USA, 2017. Full version. Keywords: noncooperative game theory, commitment, Nash equilibrium, cooperative AI.
+
+Michael Albert, Vincent Conitzer, and Peter Stone. Automated Design of Robust Mechanisms. In Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), pp. 298-304, San Francisco, CA, USA, 2017. See also journal version that builds on this. Keywords: mechanism design, automated mechanism design, Cremer-McLean.
+
+Haris Aziz, Markus Brill, Vincent Conitzer, Edith Elkind, Rupert Freeman, and Toby Walsh. Justified Representation in Approval-Based Committee Voting. In Social Choice and Welfare, Volume 48, Issue 2, pp. 461-485, February 2017. Keywords: voting, voting in combinatorial domains, winner determination, fair decision making.
+
+Yuqian Li and Vincent Conitzer. Game-Theoretic Question Selection for Tests. Journal of Artificial Intelligence Research (JAIR), Volume 59, pp. 437-462, 2017. Keywords: noncooperative game theory, commitment, Nash equilibrium, zero-sum games.
+
+Vincent Conitzer and Preston McAfee. Farewell Editorial: Looking Back on Our Terms Editing ACM TEAC and into the Future. ACM Transactions on Economics and Computation (TEAC), Article 9e, Volume 5, Issue 2, March 2017. Keywords: overviews.
+
+Proceedings of the Twelfth Workshop on the Economics of Networks, Systems and Computation (NetEcon'17). Co-edited with Roch Guérin. Keywords: edited volumes.
+
+
+2016
+Vincent Conitzer. Computing Equilibria with Partial Commitment. In Proceedings of the Twelfth Conference on Web and Internet Economics (WINE-16), pp. 1-14, Montreal, Canada, 2016. Full version. Also available as arXiv:1610.04312. Keywords: noncooperative game theory, commitment, Nash equilibrium, correlated strategies.
+
+Vincent Conitzer. Today's Artificial Intelligence Does Not Justify Basic Income. MIT Technology Review, October 31, 2016. Spanish version. Keywords: overviews.
+
+Andrew Kephart and Vincent Conitzer. The Revelation Principle for Mechanism Design with Reporting Costs. In Proceedings of the 17th ACM Conference on Economics and Computation (EC-16), pp. 85-102, Maastricht, the Netherlands, 2016. See also the journal version above which deals with the more general case where signals may be different from types. Keywords: mechanism design, automated mechanism design, signaling, revelation principle.
+
+Vincent Conitzer. Artificial intelligence: where's the philosophical scrutiny? Prospect, May 4, 2016. An unedited version of the article titled Philosophy in the Face of Artificial Intelligence is also available as arXiv:1605.06048. See also coverage in ACM TechNews (though see here for a correction of that announcement), AITopics, and Leiter Reports (philosophy). Keywords: philosophy, philosophy of mind, consciousness, overviews.
+
+Felix Brandt, Vincent Conitzer, Ulle Endriss, Jérôme Lang, and Ariel D. Procaccia (editors). Handbook of Computational Social Choice. Cambridge University Press, April 2016. The pdf is now freely available. Check out this review of the book (Mathematical Association of America), this one (SIGACT News Book Review Column), this one (Oeconomia), or this one (JASSS). Keywords: voting, overviews.
+
+Felix Brandt, Vincent Conitzer, Ulle Endriss, Jérôme Lang, and Ariel D. Procaccia. Introduction to Computational Social Choice. Chapter 1 in Handbook of Computational Social Choice, F. Brandt, V. Conitzer, U. Endriss, J. Lang, and A. Procaccia (eds.), Cambridge University Press, April 2016. Keywords: voting, overviews.
+
+Vincent Conitzer and Toby Walsh. Barriers to Manipulation in Voting. Chapter 6 in Handbook of Computational Social Choice, F. Brandt, V. Conitzer, U. Endriss, J. Lang, and A. Procaccia (eds.), Cambridge University Press, April 2016. Keywords: voting, hardness of manipulation, mechanism design, single-peaked preferences, overviews.
+
+Vincent Conitzer. On Stackelberg Mixed Strategies. Synthese (special issue on Logic and the Foundations of Decision and Game Theory), March 2016, Volume 193, Issue 3, pp. 689-703. Also available as arXiv:1705.07476. Keywords: noncooperative game theory, commitment, philosophy.
+
+Catherine Moon and Vincent Conitzer. Role Assignment for Game-Theoretic Cooperation. In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-16), pp. 416-423, New York City, NY, USA, 2016. Keywords: noncooperative game theory, Nash equilibrium, repeated games, cooperative AI.
+
+Yuqian Li, Vincent Conitzer, and Dmytro Korzhyk. Catcher-Evader Games. In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-16), pp. 329-337, New York City, NY, USA, 2016. Full version. Keywords: noncooperative game theory, security games, commitment, Nash equilibrium.
+
+Garrett Andersen and Vincent Conitzer. ATUCAPTS: Automated Tests That a User Cannot Pass Twice Simultaneously. In Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-16), pp. 3662-3669, New York City, NY, USA, 2016. Keywords: anonymity-proofness.
+
+Haifeng Xu, Rupert Freeman, Vincent Conitzer, Shaddin Dughmi, and Milind Tambe. Signaling in Bayesian Stackelberg Games. In Proceedings of the Fifteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-16), pp. 150-158, Singapore, 2016. Keywords: noncooperative game theory, commitment, security games, signaling, correlated strategies.
+
+Markus Brill, Vincent Conitzer, Rupert Freeman, and Nisarg Shah. False-Name-Proof Recommendations in Social Networks. In Proceedings of the Fifteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-16), pp. 332-340, Singapore, 2016. Full version. Keywords: voting, social networks, anonymity-proofness, mechanism design, single-peaked preferences, recommender systems, optimal voting rules.
+
+Vincent Conitzer, Rupert Freeman, Markus Brill, and Yuqian Li. Rules for Choosing Societal Tradeoffs. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16), pp. 460-467, Phoenix, AZ, USA, 2016. Keywords: voting, single-peaked preferences, optimal voting rules, voting in combinatorial domains, judgment aggregation.
+
+Markus Brill, Rupert Freeman, and Vincent Conitzer. Computing Possible and Necessary Equilibrium Actions (and Bipartisan Set Winners). In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16), pp. 369-375, Phoenix, AZ, USA, 2016. An earlier working version had the title "Computing the Optimal Game." Keywords: noncooperative game theory, zero-sum games, Nash equilibrium, commitment, mechanism design, automated mechanism design, voting.
+
+Michael Albert, Vincent Conitzer, and Giuseppe Lopomo. Maximizing Revenue with Limited Correlation: The Cost of Ex-Post Incentive Compatibility. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16), pp. 383-389, Phoenix, AZ, USA, 2016. Keywords: mechanism design, automated mechanism design, Cremer-McLean.
+
+Sune Kristian Jakobsen, Troels Bjerre Sørensen, and Vincent Conitzer. Timeability of Extensive-Form Games. In Proceedings of the Seventh Innovations in Theoretical Computer Science Conference (ITCS-16), pp. 191-199, Cambridge, MA, USA, 2016. Keywords: noncooperative game theory, extensive-form games.
+
+Proceedings of the Seventeenth ACM Conference on Economics and Computation (EC'16). Co-edited with Dirk Bergemann and Yiling Chen. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 5, Issue 1, November 2016. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC) - Special Issue on EC'14, Volume 4, Issue 4, August 2016. Co-edited with Preston McAfee. Guest editors for this issue: Vincent Conitzer and David Easley. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC) - Special Issue on EC'13, Volume 4, Issue 3, June 2016. Co-edited with Preston McAfee. Guest editors for this issue: Preston McAfee and Éva Tardos. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 4, Issue 2, February 2016. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+
+2015
+Vincent Conitzer. Can rational choice guide us to correct de se beliefs? Synthese, December 2015, Volume 192, Issue 12, pp. 4107-4119. Also available as arXiv:1705.06332. Keywords: philosophy, Sleeping Beauty, causal and evidential decision theory, Dutch books, self-locating beliefs.
+
+Catherine Moon and Vincent Conitzer. Maximal Cooperation in Repeated Games on Social Networks. In Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-15), pp. 216-223, Buenos Aires, Argentina, 2015. Keywords: noncooperative game theory, Nash equilibrium, repeated games, social networks, cooperative AI.
+
+Vincent Conitzer, Markus Brill, and Rupert Freeman. Crowdsourcing Societal Tradeoffs. In Proceedings of the Fourteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-15) Blue Sky Ideas track, pp. 1213-1217, Istanbul, Turkey, 2015. Keywords: voting, single-peaked preferences, optimal voting rules, voting in combinatorial domains, judgment aggregation, expressive markets, public goods, mechanism design, preference elicitation, anonymity-proofness, prediction markets, social networks.
+
+Andrew Kephart and Vincent Conitzer. Complexity of Mechanism Design with Signaling Costs. In Proceedings of the Fourteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-15), pp. 357-365, Istanbul, Turkey, 2015. Keywords: mechanism design, automated mechanism design, signaling.
+
+Rupert Freeman, Markus Brill, and Vincent Conitzer. General Tiebreaking Schemes for Computational Social Choice. In Proceedings of the Fourteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-15), pp. 1401-1409, Istanbul, Turkey, 2015. Keywords: voting, tiebreaking.
+
+Markus Brill and Vincent Conitzer. Strategic Voting and Strategic Candidacy. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15), pp. 819-826, Austin, TX, USA, 2015. Keywords: voting, single-peaked preferences, noncooperative game theory, Nash equilibrium.
+
+Michael Albert, Vincent Conitzer, and Giuseppe Lopomo. Assessing the Robustness of Cremer-McLean with Automated Mechanism Design. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15), pp. 763-769, Austin, TX, USA, 2015. Keywords: mechanism design, automated mechanism design, Cremer-McLean.
+
+Yuqian Li and Vincent Conitzer. Cooperative Game Solution Concepts that Maximize Stability under Noise. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15), pp. 979-985, Austin, TX, USA, 2015. Keywords: cooperative game theory, core, nucleolus, cooperative AI.
+
+Haris Aziz, Markus Brill, Vincent Conitzer, Edith Elkind, Rupert Freeman, and Toby Walsh. Justified Representation in Approval-Based Committee Voting. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI-15), pp. 784-790, Austin, TX, USA, 2015. See journal version above. Keywords: voting, voting in combinatorial domains, winner determination, fair decision making.
+
+Vincent Conitzer. A Dutch Book against Sleeping Beauties Who Are Evidential Decision Theorists. Synthese, Volume 192, Issue 9, pp. 2887-2899, October 2015. Also available as arXiv:1705.03560. Keywords: philosophy, Sleeping Beauty, causal and evidential decision theory, Dutch books, self-locating beliefs.
+
+Vincent Conitzer. A Devastating Example for the Halfer Rule. Philosophical Studies, Volume 172, Issue 8, pp, 1985-1992, August 2015. Also available as arXiv:1610.05733. Keywords: philosophy, Sleeping Beauty, self-locating beliefs.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 4, Issue 1, December 2015. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 3, Issue 4, July 2015. Co-edited with Preston McAfee. Contains special section on WINE'13 guest-edited by Yiling Chen and Nicole Immorlica. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 3, Issue 3, June 2015. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC) - Special Issue on EC'12, Part 2; Volume 3, Issue 2, April 2015. Co-edited with Preston McAfee. Guest editors for this issue: Kevin Leyton-Brown and Panos Ipeirotis. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC) - Special Issue on EC'12, Part 1; Volume 3, Issue 1, March 2015. Co-edited with Preston McAfee. Guest editors for this issue: Kevin Leyton-Brown and Panos Ipeirotis. Keywords: edited volumes.
+
+
+2014
+Vincent Conitzer. Should Stackelberg Mixed Strategies Be Considered a Separate Solution Concept? Presented at the Eleventh Conference on Logic and the Foundations of Game and Decision Theory (LOFT-14), Bergen, Norway, 2014. See journal version above. Keywords: noncooperative game theory, commitment.
+
+Vincent Conitzer. Computational Social Choice: A Journey from Basic Complexity Results to a Brave New World for Social Choice. Abstract for 2014 Social Choice and Welfare Prize talk at the 12th meeting of the Society for Social Choice and Welfare, Boston, MA, USA, 2014. Keywords: voting, voting in combinatorial domains, winner determination, hardness of manipulation, hardness of control, communication complexity, optimal voting rules, anonymity-proofness, social networks, overviews.
+
+Rupert Freeman, Markus Brill, and Vincent Conitzer. On the Axiomatic Characterization of Runoff Voting Rules. In Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-14), pp. 675-681, Quebec City, Canada, 2014. Keywords: voting.
+
+Troels Bjerre Sørensen, Melissa Dalis, Joshua Letchford, Dmytro Korzhyk, and Vincent Conitzer. Beat the Cheater: Computing Game-Theoretic Strategies for When to Kick a Gambler out of a Casino. In Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-14), pp. 798-804, Quebec City, Canada, 2014. Keywords: noncooperative game theory, commitment, security games.
+
+Vincent Conitzer and Angelina Vidali. Mechanism Design for Scheduling with Uncertain Execution Time. In Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-14), pp. 623-629, Quebec City, Canada, 2014. Keywords: expressive markets, mechanism design.
+
+Haifeng Xu, Fei Fang, Albert Jiang, Vincent Conitzer, Shaddin Dughmi, and Milind Tambe. Solving Zero-Sum Security Games in Discretized Spatio-Temporal Domains. In Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence (AAAI-14), pp. 1500-1506, Quebec City, Canada, 2014. Appendix. Keywords: noncooperative game theory, security games, zero-sum games.
+
+Yuqian Li and Vincent Conitzer. Complexity of Stability-based Solution Concepts in Multi-issue and MC-net Cooperative Games. In Proceedings of the Thirteenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-14), pp. 581-588, Paris, France, 2014. Keywords: cooperative game theory, core, nucleolus.
+
+Joshua Letchford, Dmytro Korzhyk, and Vincent Conitzer. On the Value of Commitment. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), Volume 28, Issue 6, pp. 986-1016, November 2014. Keywords: noncooperative game theory, commitment.
+
+Mingyu Guo and Vincent Conitzer. Better Redistribution with Inefficient Allocation in Multi-Unit Auctions. Artificial Intelligence (AIJ), Volume 216, pp. 287-308, November 2014. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Mathijs M. de Weerdt, B. Paul Harrenstein, and Vincent Conitzer. Strategy-Proof Contract Auctions and the Role of Ties. Games and Economic Behavior, Special Issue on EC'08/'09, Volume 86, July 2014, pp. 405-420. Keywords: combinatorial auctions and exchanges, expressive markets, mechanism design.
+
+Liad Wagman and Vincent Conitzer. False-Name-Proof Voting with Costs over Two Alternatives. International Journal of Game Theory (IJGT), Volume 43, Issue 3, pp. 599-618, August 2014. Keywords: anonymity-proofness, voting, mechanism design.
+
+Vincent Conitzer and David Easley. Notes from the EC'14 Program Chairs. SIGecom Exchanges, Vol. 13, No. 1, June 2014, pp. 2-4. Keywords: overviews.
+
+Proceedings of the Fifteenth ACM Conference on Economics and Computation (EC'14). Co-edited with Moshe Babaioff and David Easley. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 2, Issue 4, October 2014. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 2, Issue 3, July 2014. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 2, Issue 2, June 2014. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 2, Issue 1, March 2014. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+
+2013
+Vincent Conitzer. The Maximum Likelihood Approach to Voting on Social Networks. In Proceedings of the 51st Annual Allerton Conference on Communication, Control, and Computing (Allerton-13), pp. 1482-1487, Allerton Retreat Center, Monticello, IL, USA, 2013. Keywords: voting, optimal voting rules, social networks.
+
+Vincent Conitzer. The Exact Computational Complexity of Evolutionarily Stable Strategies. In Proceedings of the Ninth Conference on Web and Internet Economics (WINE-13), pp. 96-108, Cambridge, MA, USA, 2013. See journal version above. Keywords: noncooperative game theory, Nash equilibrium, evolutionarily stable strategies.
+
+Yuqian Li and Vincent Conitzer. Game-Theoretic Question Selection for Tests. In Proceedings of the Twenty-Third International Joint Conference on Artificial Intelligence (IJCAI-13), pp. 254-262, Beijing, China, 2013. See journal version above. Keywords: noncooperative game theory, commitment, Nash equilibrium, zero-sum games.
+
+Garrett Andersen and Vincent Conitzer. Fast Equilibrium Computation for Infinitely Repeated Games. In Proceedings of the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13), pp. 53-59, Bellevue, WA, USA, 2013. Keywords: noncooperative game theory, repeated games, Nash equilibrium, cooperative AI.
+
+Joshua Letchford and Vincent Conitzer. Solving Security Games on Graphs via Marginal Probabilities. In Proceedings of the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13), pp. 591-597, Bellevue, WA, USA, 2013. Keywords: noncooperative game theory, security games, commitment.
+
+Yuqian Li and Vincent Conitzer. Optimal Internet Auctions with Costly Communication. In Proceedings of the Twelfth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-13), pp. 683-690, St. Paul, MN, USA, 2013. Full version. Keywords: mechanism design, preference elicitation.
+
+Taiki Todo and Vincent Conitzer. False-name-proof Matching. In Proceedings of the Twelfth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-13), pp. 311-318, St. Paul, MN, USA, 2013. Keywords: anonymity-proofness, mechanism design, matching.
+
+Manish Jain, Vincent Conitzer, and Milind Tambe. Security Scheduling for Real-world Networks. In Proceedings of the Twelfth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-13), pp. 215-222, St. Paul, MN, USA, 2013. Keywords: noncooperative game theory, security games, zero-sum games.
+
+Mingyu Guo, Evangelos Markakis, Krzysztof R. Apt, and Vincent Conitzer. Undominated Groves Mechanisms. Journal of Artificial Intelligence Research (JAIR), Volume 46, 2013, pp. 129-163. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Felix Brandt, Vincent Conitzer, and Ulle Endriss. Computational Social Choice. Chapter in G.~Weiss (Ed.), Multiagent Systems, pp. 213-283, MIT Press, March 2013. Keywords: voting, voting in combinatorial domains, winner determination, hardness of manipulation, hardness of control, preference elicitation, communication complexity, compilation complexity, optimal voting rules, mechanism design, single-peaked preferences, anonymity-proofness, overviews.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 1, Issue 4, December 2013. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 1, Issue 3, September 2013. Co-edited with Preston McAfee. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC) - Special Issue on Algorithmic Game Theory, Volume 1, Issue 2, May 2013. Co-edited with Preston McAfee. Guest editors for this issue: Michal Feldman and Noam Nisan. Keywords: edited volumes.
+
+ACM Transactions on Economics and Computation (TEAC), Volume 1, Issue 1, January 2013. Co-edited with Preston McAfee. Co-contributed The ACM Transactions on Economics and Computation: An Introduction. Keywords: edited volumes.
+
+
+2012
+Joshua Letchford, Liam MacDermed, Vincent Conitzer, Ronald Parr, and Charles Isbell. Computing Stackelberg Strategies in Stochastic Games. SIGecom Exchanges, Vol. 11, No. 2, December 2012, pp. 36-40. Keywords: noncooperative game theory, commitment, stochastic games, correlated strategies.
+
+Sayan Bhattacharya, Dmytro Korzhyk, and Vincent Conitzer. Computing a Profit-Maximizing Sequence of Offers to Agents in a Social Network. Short (7-page) paper in Proceedings of the Eighth Workshop on Internet and Network Economics (WINE-12), pp. 482-488, Liverpool, UK, 2012. Keywords: social networks, externalities.
+
+Vincent Conitzer. Computing Game-Theoretic Solutions and Applications to Security. In Proceedings of the 26th National Conference on Artificial Intelligence (AAAI-12), pp. 2106-2112, Toronto, ON, Canada, 2012. (Invited as a "What's Hot" paper to the AAAI-12 Sub-Area Spotlights track. The material is also closely to related to my IJCAI Computers and Thought Award lecture at IJCAI 2011.) Keywords: noncooperative game theory, commitment, dominance and iterated dominance, extensive-form games, Nash equilibrium, security games, stochastic games, zero-sum games, overviews.
+
+Bo Waggoner, Lirong Xia, and Vincent Conitzer. Evaluating Resistance to False-Name Manipulations in Elections. In Proceedings of the 26th National Conference on Artificial Intelligence (AAAI-12), pp. 1485-1491, Toronto, ON, Canada, 2012. Keywords: anonymity-proofness, voting.
+
+Joshua Letchford, Liam MacDermed, Vincent Conitzer, Ronald Parr, and Charles Isbell. Computing Optimal Strategies to Commit to in Stochastic Games. In Proceedings of the 26th National Conference on Artificial Intelligence (AAAI-12), pp. 1380-1386, Toronto, ON, Canada, 2012. Keywords: noncooperative game theory, commitment, stochastic games, correlated strategies.
+
+Vincent Conitzer. An Undergraduate Course in the Intersection of Computer Science and Economics. In Proceedings of the Third AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-12), pp. 2357-2362, Toronto, ON, Canada, 2012. Keywords: education.
+
+Vincent Conitzer and Lirong Xia. Paradoxes of Multiple Elections: An Approximation Approach. In Proceedings of the 13th International Conference on Principles of Knowledge Representation and Reasoning (KR-12), pp. 179-187, Rome, Italy, 2012. Keywords: voting, voting in combinatorial domains.
+
+Vincent Conitzer, Curtis Taylor, and Liad Wagman. Hide and Seek: Costly Consumer Privacy in a Market with Repeat Purchases. Marketing Science, Volume 31, Number 2, 2012, pp. 277-292. Keywords: anonymity, price discrimination.
+
+Vincent Conitzer. Should Social Network Structure Be Taken into Account in Elections? Short communication in Mathematical Social Sciences (MSS), Special Issue on Computational Foundations of Social Choice, Volume 64, Issue 1, 2012, pp. 100-102. Keywords: voting, optimal voting rules, social networks.
+
+Liad Wagman and Vincent Conitzer. Choosing Fair Lotteries to Defeat the Competition. International Journal of Game Theory (IJGT), Volume 41, Issue 1, 2012, pp. 91-129. Keywords: noncooperative game theory, Nash equilibrium.
+
+Vincent Conitzer and Tuomas Sandholm. Computing Optimal Outcomes under an Expressive Representation of Settings with Externalities. Journal of Computer and System Sciences (JCSS), Special Issue devoted to Knowledge Representation and Reasoning, Volume 78, Issue 1, 2012, pp. 2-14. Keywords: expressive markets, public goods, externalities, winner determination.
+
+Proceedings of the Eleventh International Conference on Autonomous Agents and Multi Agent Systems (AAMAS 2012). Co-edited with Michael Winikoff, Wiebe van der Hoek, and Lin Padgham. Keywords: edited volumes.
+
+
+2011
+Sayan Bhattacharya, Vincent Conitzer, and Kamesh Munagala. Approximation Algorithm for Security Games with Costly Resources. In Proceedings of the Seventh Workshop on Internet and Network Economics (WINE-11), pp. 13-24, Singapore, 2011. Keywords: noncooperative game theory, security games, commitment.
+
+Mingyu Guo, Victor Naroditskiy, Vincent Conitzer, Amy Greenwald, and Nicholas R. Jennings. Budget-Balanced and Nearly Efficient Randomized Mechanisms: Public Goods and Beyond. In Proceedings of the Seventh Workshop on Internet and Network Economics (WINE-11), pp. 158-169, Singapore, 2011. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution.
+
+Michael Zuckerman, Piotr Faliszewski, Vincent Conitzer, and Jeffrey S. Rosenschein. An NTU Cooperative Game Theoretic View of Manipulating Elections. In Proceedings of the Seventh Workshop on Internet and Network Economics (WINE-11), pp. 363-374, Singapore, 2011. Keywords: cooperative game theory, core, voting, hardness of manipulation.
+
+Vincent Conitzer and Dmytro Korzhyk. Commitment to Correlated Strategies. In Proceedings of the 25th National Conference on Artificial Intelligence (AAAI-11), pp. 632-637, San Francisco, CA, USA, 2011. Keywords: noncooperative game theory, commitment, signaling, correlated strategies, cooperative AI.
+
+Vincent Conitzer, Toby Walsh, and Lirong Xia. Dominating Manipulations in Voting with Partial Information. In Proceedings of the 25th National Conference on Artificial Intelligence (AAAI-11), pp. 638-643, San Francisco, CA, USA, 2011. Keywords: voting, hardness of manipulation.
+
+Dmytro Korzhyk, Zhengyu Yin, Christopher Kiekintveld, Vincent Conitzer, and Milind Tambe. Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness. Journal of Artificial Intelligence Research (JAIR), Volume 41, 2011, pp. 297-327. Keywords: noncooperative game theory, security games, commitment, Nash equilibrium.
+
+Dmytro Korzhyk, Vincent Conitzer, and Ronald Parr. Security Games with Multiple Attacker Resources. In Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI-11), pp. 273-279, Barcelona, Catalonia, Spain, 2011. Keywords: noncooperative game theory, security games, commitment, Nash equilibrium.
+
+Lirong Xia and Vincent Conitzer. A Maximum Likelihood Approach towards Aggregating Partial Orders. In Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI-11), pp. 446-451, Barcelona, Catalonia, Spain, 2011. Keywords: voting, optimal voting rules.
+
+Vincent Conitzer, Jérôme Lang, and Lirong Xia. Hypercubewise Preference Aggregation in Multi-issue Domains. In Proceedings of the 22nd International Joint Conference on Artificial Intelligence (IJCAI-11), pp. 158-163, Barcelona, Catalonia, Spain, 2011. Keywords: voting, voting in combinatorial domains.
+
+Lirong Xia, Vincent Conitzer, and Jérôme Lang. Strategic Sequential Voting in Multi-Issue Domains and Multiple-Election Paradoxes. In Proceedings of the Twelfth ACM Conference on Electronic Commerce (EC-11), pp. 179-188, San Jose, CA, USA, 2010. Keywords: voting, voting in combinatorial domains, noncooperative game theory.
+
+Dmytro Korzhyk, Vincent Conitzer, and Ronald Parr. Solving Stackelberg Games with Uncertain Observability. In Proceedings of the Tenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-11), pp. 1013-1020, Taipei, Taiwan, 2011. Keywords: noncooperative game theory, security games, commitment, Nash equilibrium.
+
+Manish Jain, Dmytro Korzhyk, Ondrej Vanek, Vincent Conitzer, Michal Pechoucek, and Milind Tambe. A Double Oracle Algorithm for Zero-Sum Security Games on Graphs. In Proceedings of the Tenth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-11), pp. 327-334, Taipei, Taiwan, 2011. Keywords: noncooperative game theory, security games, zero-sum games.
+
+Lirong Xia and Vincent Conitzer. Determining Possible and Necessary Winners under Common Voting Rules Given Partial Orders. Journal of Artificial Intelligence Research (JAIR), Volume 41, 2011, pp. 25-67. Keywords: voting, winner determination, preference elicitation, hardness of manipulation.
+
+Vincent Conitzer and Tuomas Sandholm. Expressive Markets for Donating to Charities. Artificial Intelligence (AIJ), Special Issue on Representing, Processing, and Learning Preferences: Theoretical and Practical Challenges, Volume 175, Issues 7-8, May 2011, pp. 1251-1271. Keywords: expressive markets, public goods, externalities, winner determination.
+
+Joseph Farfel and Vincent Conitzer. Aggregating Value Ranges: Preference Elicitation and Truthfulness. Journal of Autonomous Agents and Multi-Agent Systems (JAAMAS), Special Issue on Computational Social Choice, Volume 22, Number 1, January 2011, pp. 127-150. Keywords: voting, preference elicitation, single-peaked preferences, mechanism design.
+
+Vincent Conitzer. Discussion of "A conditional game for comparing approximations." Discussion paper in Proceedings of the 14th International Conference on Artificial Intelligence and Statistics (AISTATS-11), Ft. Lauderdale, FL, USA, 2011. Keywords: discussion papers.
+
+Vincent Conitzer. Metareasoning as a Formal Computational Problem. Appears as Chapter 8 in Metareasoning: Thinking about Thinking, Michael Cox and Anita Raja (editors), MIT Press, 2011. Keywords: resource-bounded reasoning.
+
+SIGecom Exchanges Volume 10.1. Co-edited with Yiling Chen. Co-contributed Introduction. Keywords: edited volumes.
+
+
+2010
+Vincent Conitzer, Nicole Immorlica, Joshua Letchford, Kamesh Munagala, and Liad Wagman. False-Name-Proofness in Social Networks. In Proceedings of the Sixth Workshop on Internet and Network Economics (WINE-10), pp. 209-221, Stanford, CA, 2010. Keywords: anonymity-proofness, mechanism design, social networks, voting.
+
+Lirong Xia and Vincent Conitzer. Strategy-proof Voting Rules over Multi-issue Domains with Restricted Preferences. In Proceedings of the Sixth Workshop on Internet and Network Economics (WINE-10), pp. 402-414, Stanford, CA, 2010. Keywords: mechanism design, voting, voting in combinatorial domains.
+
+Vincent Conitzer and Makoto Yokoo. Using Mechanism Design to Prevent False-Name Manipulations. AI Magazine, Special Issue on Algorithmic Game Theory, Volume 31, Issue 4, December 2010, pp. 65-77. Keywords: anonymity-proofness, voting, combinatorial auctions and exchanges, mechanism design.
+
+Mingyu Guo and Vincent Conitzer. Computationally Feasible Automated Mechanism Design: General Approach and Case Studies. In Proceedings of the 24th National Conference on Artificial Intelligence (AAAI-10) -- NECTAR track, pp. 1676-1679, Atlanta, GA, USA, 2010. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Dmytro Korzhyk, Vincent Conitzer, and Ronald Parr. Complexity of Computing Optimal Stackelberg Strategies in Security Resource Allocation Games. In Proceedings of the 24th National Conference on Artificial Intelligence (AAAI-10), pp. 805-810, Atlanta, GA, USA, 2010. Keywords: noncooperative game theory, security games, commitment.
+
+Lirong Xia and Vincent Conitzer. Stackelberg Voting Games: Computational Aspects and Paradoxes. In Proceedings of the 24th National Conference on Artificial Intelligence (AAAI-10), pp. 921-926, Atlanta, GA, USA, 2010. Keywords: voting, noncooperative game theory, commitment.
+
+Lirong Xia and Vincent Conitzer. Compilation Complexity of Common Voting Rules. In Proceedings of the 24th National Conference on Artificial Intelligence (AAAI-10), pp. 915-920, Atlanta, GA, USA, 2010. Keywords: voting, compilation complexity.
+
+Joshua Letchford and Vincent Conitzer. Computing Optimal Strategies to Commit to in Extensive-Form Games. In Proceedings of the Eleventh ACM Conference on Electronic Commerce (EC-10), pp. 83-92, Cambridge, MA, USA, 2010. Keywords: noncooperative game theory, extensive-form games, commitment.
+
+Lirong Xia, Vincent Conitzer, and Ariel D. Procaccia. A Scheduling Approach to Coalitional Manipulation. In Proceedings of the Eleventh ACM Conference on Electronic Commerce (EC-10), pp. 275-284, Cambridge, MA, USA, 2010. Keywords: voting, hardness of manipulation.
+
+Mingyu Guo and Vincent Conitzer. Optimal-in-Expectation Redistribution Mechanisms. Artificial Intelligence, Volume 174, Issues 5-6, April 2010, pp. 363-381. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Mingyu Guo and Vincent Conitzer. Strategy-proof Allocation of Multiple Items between Two Agents without Payments or Priors. In Proceedings of the Ninth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-10), pp. 881-888, Toronto, ON, Canada, 2010. Keywords: mechanism design, automated mechanism design.
+
+Atsushi Iwasaki, Vincent Conitzer, Yoshifusa Omori, Yuko Sakurai, Taiki Todo, Mingyu Guo, and Makoto Yokoo. Worst-case efficiency ratio in false-name-proof combinatorial auction mechanisms. In Proceedings of the Ninth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-10), pp. 633-640, Toronto, ON, Canada, 2010. Keywords: anonymity-proofness, combinatorial auctions and exchanges, mechanism design.
+
+Lirong Xia, Vincent Conitzer, and Jérôme Lang. Aggregating Preferences in Multi-Issue Domains by Using Maximum Likelihood Estimators. In Proceedings of the Ninth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-10), pp. 399-406, Toronto, ON, Canada, 2010. Keywords: voting, voting in combinatorial domains, optimal voting rules.
+
+Zhengyu Yin, Dmytro Korzhyk, Christopher Kiekintveld, Vincent Conitzer, and Milind Tambe. Stackelberg vs. Nash in Security Games: Interchangeability, Equivalence, and Uniqueness. In Proceedings of the Ninth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-10), pp. 1139-1146, Toronto, ON, Canada, 2010. See journal version above. Keywords: noncooperative game theory, security games, commitment, Nash equilibrium.
+
+Mingyu Guo and Vincent Conitzer. False-Name-Proofness with Bid Withdrawal. arXiv:1208.6501; a two-page version appeared as a short paper in Proceedings of the Ninth International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-10), pp. 1475-1476, Toronto, ON, Canada, 2010. Keywords: anonymity-proofness, combinatorial auctions and exchanges, mechanism design, automated mechanism design.
+
+Vincent Conitzer. Comparing Multiagent Systems Research in Combinatorial Auctions and Voting. Annals of Mathematics and Artificial Intelligence (AMAI), Volume 58, Issue 3, 2010, pp. 239-259. Keywords: combinatorial auctions and exchanges, voting, overviews.
+
+Vincent Conitzer. Making Decisions Based on the Preferences of Multiple Agents. Communications of the ACM (CACM), Volume 53, Number 3, March 2010, pp. 84-94. Keywords: voting, combinatorial auctions and exchanges, expressive markets, prediction markets, mechanism design, overviews.
+
+Sayan Bhattacharya, Vincent Conitzer, Kamesh Munagala, and Lirong Xia. Incentive Compatible Budget Elicitation in Multi-unit Auctions. In the Proceedings of the Twenty-First Annual ACM-SIAM Symposium on Discrete Algorithms (SODA-10), pp. 554-572, Austin, TX, USA, 2010. Keywords: combinatorial auctions and exchanges, mechanism design.
+
+Vincent Conitzer. Auction Protocols. Appears as Chapter 16 in the CRC Algorithms and Theory of Computation Handbook, Second Edition, Volume 2: Special Topics and Techniques, Mikhail Atallah and Marina Blanton (editors), 2010. Keywords: combinatorial auctions and exchanges, overviews.
+
+Proceedings of the Third International Workshop on Computational Social Choice (COMSOC 2010). Co-edited with Jörg Rothe. Keywords: edited volumes.
+
+SIGecom Exchanges Volume 9.1. Contributed Introduction and Editor's Puzzle: Borrowing as Cheaply as Possible. Keywords: edited volumes, puzzles.
+
+
+2009
+Peng Shi, Vincent Conitzer, and Mingyu Guo. Prediction Mechanisms That Do Not Incentivize Undesirable Actions. In Proceedings of the Fifth Workshop on Internet and Network Economics (WINE-09), pp. 89-100, Rome, Italy, 2009. Keywords: prediction markets.
+
+Mingyu Guo, Vincent Conitzer, and Daniel Reeves. Competitive Repeated Allocation Without Payments. In Proceedings of the Fifth Workshop on Internet and Network Economics (WINE-09), pp. 244-255, Rome, Italy, 2009. Keywords: mechanism design, automated mechanism design.
+
+Joshua Letchford, Vincent Conitzer, and Kamesh Munagala. Learning and Approximating the Optimal Strategy to Commit To. In the Second International Symposium on Algorithmic Game Theory (SAGT-09), pp. 250-262, Paphos, Cyprus, 2009. Full version with appendices. Keywords: noncooperative game theory, commitment, machine learning, learning in games.
+
+Vincent Conitzer. Approximation Guarantees for Fictitious Play. In the Proceedings of the 47th Annual Allerton Conference on Communication, Control, and Computing (Allerton-09), pp. 636-643, Allerton Retreat Center, Monticello, IL, USA, 2009. Keywords: noncooperative game theory, machine learning, learning in games, Nash equilibrium.
+
+Naoki Ohta, Vincent Conitzer, Ryo Ichimura, Yuko Sakurai, Atsushi Iwasaki, and Makoto Yokoo. Coalition Structure Generation Utilizing Compact Characteristic Function Representations. In the Fifteenth International Conference on Principles and Practice of Constraint Programming (CP-09), pp. 623-638, Lisbon, Portugal, 2009. Also see journal version above. Keywords: cooperative game theory.
+
+Vincent Conitzer. Prediction Markets, Mechanism Design, and Cooperative Game Theory. In Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (UAI-09), pp. 101-108, Montreal, Canada, 2009. Keywords: prediction markets, mechanism design, cooperative game theory.
+
+B. Paul Harrenstein, Mathijs M. de Weerdt, and Vincent Conitzer. A Qualitative Vickrey Auction. In Proceedings of the Tenth ACM Conference on Electronic Commerce (EC-09), pp. 197-206, Stanford, CA, USA, 2009. See a (very much rewritten) journal version above. Keywords: combinatorial auctions and exchanges, expressive markets, mechanism design.
+
+Vincent Conitzer, Matthew Rognlie, and Lirong Xia. Preference Functions That Score Rankings and Maximum Likelihood Estimation. In the Twenty-First International Joint Conference on Artificial Intelligence (IJCAI-09), pp. 109-115, Pasadena, CA, USA, 2009. Keywords: voting, optimal voting rules.
+
+Vincent Conitzer, Jérôme Lang, and Lirong Xia. How hard is it to control sequential elections via the agenda? In the Twenty-First International Joint Conference on Artificial Intelligence (IJCAI-09), pp. 103-108, Pasadena, CA, USA, 2009. Keywords: voting, voting in combinatorial domains, hardness of control.
+
+Erik Halvorson, Vincent Conitzer, and Ronald Parr. Multi-step Multi-sensor Hider-Seeker Games. In the Twenty-First International Joint Conference on Artificial Intelligence (IJCAI-09), pp. 159-166, Pasadena, CA, USA, 2009. Keywords: noncooperative game theory, zero-sum games.
+
+Lirong Xia and Vincent Conitzer. Finite Local Consistency Characterizes Generalized Scoring Rules. In the Twenty-First International Joint Conference on Artificial Intelligence (IJCAI-09), pp. 336-341, Pasadena, CA, USA, 2009. Keywords: voting.
+
+Lirong Xia, Michael Zuckerman, Ariel D. Procaccia, Vincent Conitzer, and Jeffrey Rosenschein. Complexity of Unweighted Coalitional Manipulation Under Some Common Voting Rules. In the Twenty-First International Joint Conference on Artificial Intelligence (IJCAI-09), pp. 348-353, Pasadena, CA, USA, 2009. Keywords: voting, hardness of manipulation.
+
+Joseph Farfel and Vincent Conitzer. Turing Trade: A hybrid of a Turing test and a prediction market. In Proceedings of The First Conference on Auctions, Market Mechanisms, and Their Applications (AMMA-09), pp. 61-73, Boston, MA, USA, 2009. A demo version at AAMAS 2009 appears as A Multiagent Turing Test Based on a Prediction Market (Extended Abstract), pp. 1407-1408. Keywords: prediction markets, Turing tests, games with a purpose.
+
+Vincent Conitzer. Eliciting Single-Peaked Preferences Using Comparison Queries. Journal of Artificial Intelligence Research (JAIR), Volume 35, 2009, pp. 161-191. Earlier version appeared in Proceedings of the 6th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-07), pp. 408-415, Honolulu, HI, USA, 2007. Keywords: voting, preference elicitation, single-peaked preferences.
+
+Mingyu Guo and Vincent Conitzer. Worst-Case Optimal Redistribution of VCG Payments in Multi-Unit Auctions. Games and Economic Behavior, Special Section Dedicated to the 8th ACM Conference on Electronic Commerce, Volume 67, Issue 1, 2009, pp. 69-98. Earlier version appeared in Proceedings of the 8th ACM Conference on Electronic Commerce (EC-07), pp. 30-39, San Diego, CA, USA. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+SIGecom Exchanges Volume 8.2. Contributed Introduction and Editor's Puzzle: A Dutch Dutch Auction Clock Auction. Keywords: edited volumes, puzzles.
+
+SIGecom Exchanges Volume 8.1. Contributed Introduction and Editor's Puzzle: Identifying the Champion. Keywords: edited volumes, puzzles.
+
+
+2008
+Vincent Conitzer. Anonymity-Proof Voting Rules. In Proceedings of the Fourth Workshop on Internet and Network Economics (WINE-08), pp. 295-306, Shanghai, China, 2008. Keywords: anonymity-proofness, voting, mechanism design.
+
+Krzysztof Apt, Vincent Conitzer, Mingyu Guo, and Evangelos Markakis. Welfare Undominated Groves Mechanisms. In Proceedings of the Fourth Workshop on Internet and Network Economics (WINE-08), pp. 426-437, Shanghai, China, 2008. See journal version above. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Joshua Letchford, Vincent Conitzer, and Kamal Jain. An "Ethical" Game-Theoretic Solution Concept for Two-Player Perfect-Information Games. In Proceedings of the Fourth Workshop on Internet and Network Economics (WINE-08), pp. 696-707, Shanghai, China, 2008. Full version with appendices. Keywords: noncooperative game theory, alternative solution concepts, moral AI, cooperative AI.
+
+Mingyu Guo and Vincent Conitzer. Better Redistribution with Inefficient Allocation in Multi-Unit Auctions with Unit Demand. In Proceedings of the 9th ACM Conference on Electronic Commerce (EC-08), pp. 210-219, Chicago, IL, USA, 2008. See journal version above. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Lirong Xia and Vincent Conitzer. A Sufficient Condition for Voting Rules to Be Frequently Manipulable. In Proceedings of the 9th ACM Conference on Electronic Commerce (EC-08), pp. 99-108, Chicago, IL, USA, 2008. Keywords: voting, hardness of manipulation.
+
+Lirong Xia and Vincent Conitzer. Generalized Scoring Rules and the Frequency of Coalitional Manipulability. In Proceedings of the 9th ACM Conference on Electronic Commerce (EC-08), pp. 109-118, Chicago, IL, USA, 2008. Keywords: voting, hardness of manipulation.
+
+Liad Wagman and Vincent Conitzer. Optimal False-Name-Proof Voting Rules with Costly Voting. In Proceedings of the 23rd National Conference on Artificial Intelligence (AAAI-08), pp. 190-195, Chicago, IL, USA, 2008. Received one of two Outstanding Paper Awards. Also see journal version above. Keywords: anonymity-proofness, voting, mechanism design.
+
+Lirong Xia and Vincent Conitzer. Determining Possible and Necessary Winners under Common Voting Rules Given Partial Orders. In Proceedings of the 23rd National Conference on Artificial Intelligence (AAAI-08), pp. 196-201, Chicago, IL, USA, 2008. See journal version above. Keywords: voting, winner determination, preference elicitation, hardness of manipulation.
+
+Lirong Xia, Vincent Conitzer, and Jérôme Lang. Voting on Multiattribute Domains with Cyclic Preferential Dependencies. In Proceedings of the 23rd National Conference on Artificial Intelligence (AAAI-08), pp. 202-207, Chicago, IL, USA, 2008. Keywords: voting, voting in combinatorial domains.
+
+Vincent Conitzer and Tuomas Sandholm. New Complexity Results about Nash Equilibria. Games and Economic Behavior, Special Issue on the Second World Congress of the Game Theory Society, Volume 63, Issue 2, 2008, pp. 621-641. Earlier version appeared in Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 765-771, Acapulco, Mexico, 2003. Keywords: noncooperative game theory, Nash equilibrium.
+
+Mingyu Guo and Vincent Conitzer. Optimal-in-Expectation Redistribution Mechanisms. In Proceedings of the 7th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-08), pp. 1047-1054, Estoril, Portugal, 2008. See journal version above. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Mingyu Guo and Vincent Conitzer. Undominated VCG Redistribution Mechanisms. In Proceedings of the 7th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-08), pp. 1039-1046, Estoril, Portugal, 2008. Also see journal version above. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Liad Wagman and Vincent Conitzer. Strategic Betting for Competitive Agents. In Proceedings of the 7th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-08), pp. 847-854, Estoril, Portugal, 2008. See journal version above. Keywords: noncooperative game theory, Nash equilibrium.
+
+Naoki Ohta, Vincent Conitzer, Yasufumi Satoh, Atsushi Iwasaki, and Makoto Yokoo. Anonymity-Proof Shapley Value: Extending Shapley Value for Coalitional Games in Open Environments. In Proceedings of the 7th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-08), pp. 927-934, Estoril, Portugal, 2008. Received the Pragnesh Jay Modi Best Student Paper Award. Keywords: cooperative game theory, anonymity-proofness, collusion, Shapley value.
+
+Vincent Conitzer. Comparing Multiagent Systems Research in Combinatorial Auctions and Voting. The 10th International Symposium on Artificial Intelligence and Mathematics (ISAIM-08), Fort Lauderdale, FL, USA. (Paper corresponding to an invited talk.) See journal version above. Keywords: combinatorial auctions and exchanges, voting, overviews.
+
+Vincent Conitzer. Using a Memory Test to Limit a User to One Account. The 10th International Workshop on Agent Mediated Electronic Commerce (AMEC-08), Estoril, Portugal. Appears in LNBIP 44, Agent-Mediated Electronic Commerce and Trading Agent Design and Analysis, pp. 60-72. Keywords: anonymity-proofness.
+
+Mehmet Serkan Apaydin, Vincent Conitzer, and Bruce Randall Donald. Structure-based protein NMR assignments using native structural ensembles. Journal of Biomolecular NMR, 2008; 40(4):263-276. PMID: 18365752. Keywords: computational biology, voting, optimal voting rules.
+
+SIGecom Exchanges Volume 7.3. Contributed Introduction and Editor's Puzzle: Product Adoption in a Social Network. Keywords: edited volumes, puzzles.
+
+SIGecom Exchanges Volume 7.2. Contributed Introduction and Editor's Puzzle: Strategically Choosing Products to Release. Keywords: edited volumes, puzzles.
+
+
+2007
+Vincent Conitzer. Limited Verification of Identities to Induce False-Name-Proofness. In Proceedings of the 11th Conference on Theoretical Aspects of Rationality and Knowledge (TARK-07), pp. 102-111, Brussels, Belgium. Keywords: anonymity-proofness, mechanism design, combinatorial auctions and exchanges, voting.
+
+Vincent Conitzer, Tuomas Sandholm, and Jérôme Lang. When Are Elections with Few Candidates Hard to Manipulate? Journal of the ACM (JACM), Volume 54, Issue 3, June 2007, Article 14 (33 pages). Supersedes "How Many Candidates Are Needed to Make Elections Hard to Manipulate?" (TARK-03, pp. 201-214) and "Complexity of Manipulating Elections with Few Candidates" (AAAI-02, pp. 314-319). Keywords: voting, hardness of manipulation.
+
+Mingyu Guo and Vincent Conitzer. Worst-Case Optimal Redistribution of VCG Payments. In Proceedings of the 8th ACM Conference on Electronic Commerce (EC-07), pp. 30-39, San Diego, CA, USA. See journal version above. Keywords: mechanism design, automated mechanism design, VCG mechanism, revenue redistribution, combinatorial auctions and exchanges.
+
+Vincent Conitzer. Eliciting Single-Peaked Preferences Using Comparison Queries. In Proceedings of the 6th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-07), pp. 408-415, Honolulu, HI, USA, 2007. See journal version above. Keywords: voting, preference elicitation, single-peaked preferences.
+
+Vincent Conitzer and Tuomas Sandholm. Incremental Mechanism Design. In Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI-07), pp. 1251-1256, Hyderabad, India, 2007. Keywords: mechanism design, automated mechanism design, VCG mechanism, voting, hardness of manipulation.
+
+Tuomas Sandholm, Vincent Conitzer, and Craig Boutilier. Automated Design of Multistage Mechanisms. In Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI-07), pp. 1500-1506, Hyderabad, India, 2007. Keywords: mechanism design, automated mechanism design, preference elicitation.
+
+Vincent Conitzer and Tuomas Sandholm. AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents. Machine Learning, Special Issue on Learning and Computational Game Theory, Volume 67, Numbers 1-2, May 2007, pp. 23-43. Earlier version appeared in Proceedings of the 20th International Conference on Machine Learning (ICML-03), pp. 83-90, Washington, DC, USA, 2003. Keywords: noncooperative game theory, machine learning, learning in games, Nash equilibrium.
+
+SIGecom Exchanges Volume 7.1. Contributed Introduction and Editor's Puzzle: Combinatorial Auction Winner Determination. Keywords: edited volumes, puzzles.
+
+
+2006
+Vincent Conitzer. Computational Aspects of Preference Aggregation. Ph.D. Dissertation. Computer Science Department, Carnegie Mellon University, Pittsburgh, PA, July 2006. Available as technical report CMU-CS-06-145. Received the 2006 IFAAMAS Victor Lesser Distinguished Dissertation Award and an Honorable Mention for the 2007 ACM Doctoral Dissertation Award. Abstract, acknowledgements, contents. Chapter 1: Introduction. Chapter 2: Expressive Preference Aggregation Settings (review of voting, task and resource allocation, and other settings). Chapter 3: Outcome Optimization (winner determination in voting, combinatorial auctions, and other settings). Chapter 4: Mechanism Design (review). Chapter 5: Difficulties for Classical Mechanism Design (limitations of VCG and other impossibilities). Chapter 6: Automated Mechanism Design. Chapter 7: Game-Theoretic Foundations of Mechanism Design (review of game theory and the revelation principle). Chapter 8: Mechanism Design for Bounded Agents (revelation principle failure and hardness of manipulation in voting). Chapter 9: Computing Game-Theoretic Solutions (Nash equilibrium, dominance, and others). Chapter 10: Automated Mechanism Design for Bounded Agents (incremental mechanism design). Chapter 11: Conclusions and Future Research. Bibliography. Keywords: overviews.
+
+Vincent Conitzer and Tuomas Sandholm. Complexity of Constructing Solutions in the Core Based on Synergies Among Coalitions. Artificial Intelligence, Volume 170, Issues 6-7, May 2006, pp. 607-619. Earlier version appeared as "Complexity of Determining Nonemptiness of the Core" in Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 613-618, Acapulco, Mexico, 2003. Keywords: cooperative game theory, core.
+
+Vincent Conitzer and Tuomas Sandholm. Computing the Optimal Strategy to Commit To. In Proceedings of the 7th ACM Conference on Electronic Commerce (EC-06), pp. 82-90, Ann Arbor, MI, USA, 2006. Received the 2022 IFAAMAS Influential Paper Award. Keywords: noncooperative game theory, commitment.
+
+Vincent Conitzer. Computing Slater Rankings Using Similarities Among Candidates. In Proceedings of the 21st National Conference on Artificial Intelligence (AAAI-06), pp. 613-619, Boston, MA, USA, 2006. Early version: IBM Research Report RC23748. Keywords: voting, winner determination.
+
+Vincent Conitzer, Andrew Davenport, and Jayant Kalagnanam. Improved Bounds for Computing Kemeny Rankings. In Proceedings of the 21st National Conference on Artificial Intelligence (AAAI-06), pp. 620-626, Boston, MA, USA, 2006. Keywords: voting, winner determination.
+
+Vincent Conitzer and Tuomas Sandholm. Nonexistence of Voting Rules That Are Usually Hard to Manipulate. In Proceedings of the 21st National Conference on Artificial Intelligence (AAAI-06), pp. 627-634, Boston, MA, USA, 2006. Keywords: voting, hardness of manipulation.
+
+Naoki Ohta, Atsushi Iwasaki, Makoto Yokoo, Kohki Maruono, Vincent Conitzer, and Tuomas Sandholm. A Compact Representation Scheme for Coalitional Games in Open Anonymous Environments. In Proceedings of the 21st National Conference on Artificial Intelligence (AAAI-06), pp. 697-702, Boston, MA, USA, 2006. Keywords: cooperative game theory, anonymity-proofness, collusion, core, nucleolus.
+
+Vincent Conitzer and Nikesh Garera. Learning Algorithms for Online Principal-Agent Problems (and Selling Goods Online). In Proceedings of the 23rd International Conference on Machine Learning (ICML-06), pp. 209-216, Pittsburgh, Pennsylvania, USA, 2006. Keywords: machine learning, learning in markets.
+
+Vincent Conitzer and Tuomas Sandholm. A Technique for Reducing Normal-Form Games to Compute a Nash Equilibrium. In Proceedings of the 5th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-06), pp. 537-544, Hakodate, Japan, 2006. One of four runners-up for the Best Student Paper Award. Keywords: noncooperative game theory, Nash equilibrium.
+
+Vincent Conitzer and Tuomas Sandholm. Failures of the VCG Mechanism in Combinatorial Auctions and Exchanges. In Proceedings of the 5th International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-06), pp. 521-528, Hakodate, Japan, 2006. Keywords: combinatorial auctions and exchanges, mechanism design, collusion, VCG mechanism.
+
+
+2005
+Vincent Conitzer and Tuomas Sandholm. Communication Complexity of Common Voting Rules. In Proceedings of the 6th ACM Conference on Electronic Commerce (EC-05), pp. 78-87, Vancouver, Canada, 2005. Keywords: voting, preference elicitation, communication complexity.
+
+Vincent Conitzer and Tuomas Sandholm. Complexity of (Iterated) Dominance. In Proceedings of the 6th ACM Conference on Electronic Commerce (EC-05), pp. 88-97, Vancouver, Canada, 2005. Keywords: noncooperative game theory, dominance and iterated dominance.
+
+Vincent Conitzer and Tuomas Sandholm. Common Voting Rules as Maximum Likelihood Estimators. In Proceedings of the 21st Annual Conference on Uncertainty in Artificial Intelligence (UAI-05), pp. 145-152, Edinburgh, Scotland, UK, 2005. Keywords: voting, optimal voting rules.
+
+Vincent Conitzer and Tuomas Sandholm. A Generalized Strategy Eliminability Criterion and Computational Methods for Applying It. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05), pp. 483-488, Pittsburgh, Pennsylvania, USA, 2005. Keywords: noncooperative game theory, Nash equilibrium, dominance and iterated dominance, alternative solution concepts.
+
+Vincent Conitzer and Tuomas Sandholm. Expressive Negotiation in Settings with Externalities. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05), pp. 255-260, Pittsburgh, Pennsylvania, USA, 2005. See journal version above. Keywords: expressive markets, public goods, externalities, winner determination.
+
+Vincent Conitzer, Tuomas Sandholm, and Paolo Santi. Combinatorial Auctions with k-wise Dependent Valuations. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05), pp. 248-254, Pittsburgh, Pennsylvania, USA, 2005. Keywords: combinatorial auctions and exchanges, winner determination, preference elicitation.
+
+Makoto Yokoo, Vincent Conitzer, Tuomas Sandholm, Naoki Ohta, and Atsushi Iwasaki. Coalitional Games in Open Anonymous Environments. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05), pp. 509-514, Pittsburgh, Pennsylvania, USA, 2005. This paper was also presented at the 19th Annual Conference of the Japan Society for Artificial Intelligence (JSAI-05) where it was one of five Awarded Papers. Keywords: cooperative game theory, anonymity-proofness, collusion, core, nucleolus, Shapley value.
+
+Tuomas Sandholm, Andrew Gilpin, and Vincent Conitzer. Mixed-Integer Programming Methods for Finding Nash Equilibria. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05), pp. 495-501, Pittsburgh, Pennsylvania, USA, 2005. Keywords: noncooperative game theory, Nash equilibrium.
+
+Vincent Conitzer. Computational Aspects of Mechanism Design. In Proceedings of the 20th National Conference on Artificial Intelligence (AAAI-05) (Doctoral Consortium), pp. 1642-1643, Pittsburgh, PA, USA, 2005. Keywords: overviews.
+
+
+2004
+Vincent Conitzer and Tuomas Sandholm. Expressive Negotiation over Donations to Charities. In Proceedings of the 5th ACM Conference on Electronic Commerce (EC-04), pp. 51-60, New York, NY, USA, 2004. See journal version above. Keywords: expressive markets, public goods, externalities, winner determination.
+
+Vincent Conitzer and Tuomas Sandholm. Self-Interested Automated Mechanism Design and Implications for Optimal Combinatorial Auctions. In Proceedings of the 5th ACM Conference on Electronic Commerce (EC-04), pp. 132-141, New York, NY, USA, 2004. Keywords: mechanism design, automated mechanism design, combinatorial auctions and exchanges.
+
+Vincent Conitzer and Tuomas Sandholm. Computing Shapley Values, Manipulating Value Division Schemes, and Checking Core Membership in Multi-Issue Domains. In Proceedings of the 19th National Conference on Artificial Intelligence (AAAI-04), pp. 219-225, San Jose, California, USA, 2004. Keywords: cooperative game theory, core, Shapley value.
+
+Vincent Conitzer, Jonathan Derryberry, and Tuomas Sandholm. Combinatorial Auctions with Structured Item Graphs. In Proceedings of the 19th National Conference on Artificial Intelligence (AAAI-04), pp. 212-218, San Jose, California, USA, 2004. Keywords: combinatorial auctions and exchanges, winner determination.
+
+Vincent Conitzer and Tuomas Sandholm. Communication Complexity as a Lower Bound for Learning in Games. In Proceedings of the 21st International Conference on Machine Learning (ICML-04), pp. 185-192, Banff, Alberta, Canada, 2004. Keywords: noncooperative game theory, machine learning, learning in games, communication complexity, Nash equilibrium, dominance and iterated dominance, backward induction.
+
+Vincent Conitzer and Tuomas Sandholm. An Algorithm for Automatically Designing Deterministic Mechanisms without Payments. In Proceedings of the 3rd International Joint Conference on Autonomous Agents and Multi Agent Systems (AAMAS-04), pp. 128-135, New York, NY, USA, 2004. Keywords: mechanism design, automated mechanism design.
+
+Paolo Santi, Vincent Conitzer, and Tuomas Sandholm. Towards a Characterization of Polynomial Preference Elicitation with Value Queries in Combinatorial Auctions. In Proceedings of the 17th Annual Conference on Learning Theory (COLT-04), pp. 1-16, Banff, Alberta, Canada, 2004. Keywords: combinatorial auctions and exchanges, preference elicitation, machine learning.
+
+Vincent Conitzer and Tuomas Sandholm. Computational Criticisms of the Revelation Principle. Short paper in Proceedings of the 5th ACM Conference on Electronic Commerce (EC-04), pp. 262-263, New York, NY, USA, 2004. Also presented orally at the Conference on Logic and the Foundations of Game and Decision Theory (LOFT-04), Leipzig, Germany, 2004. Keywords: mechanism design, hardness of manipulation, revelation principle.
+
+
+2003
+Vincent Conitzer and Tuomas Sandholm. Complexity Results about Nash Equilibria. In Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 765-771, Acapulco, Mexico, 2003. See journal version above. Keywords: noncooperative game theory, Nash equilibrium.
+
+Vincent Conitzer and Tuomas Sandholm. Universal Voting Protocol Tweaks to Make Manipulation Hard. In Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 781-788, Acapulco, Mexico, 2003. Keywords: voting, hardness of manipulation.
+
+Vincent Conitzer and Tuomas Sandholm. Definition and Complexity of Some Basic Metareasoning Problems. In Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 1099-1106, Acapulco, Mexico, 2003. Keywords: resource-bounded reasoning.
+
+Vincent Conitzer and Tuomas Sandholm. Complexity of Determining Nonemptiness of the Core. In Proceedings of the 18th International Joint Conference on Artificial Intelligence (IJCAI-03), pp. 613-618, Acapulco, Mexico, 2003. See journal version above. Keywords: cooperative game theory, core.
+
+Vincent Conitzer and Tuomas Sandholm. AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents. In Proceedings of the 20th International Conference on Machine Learning (ICML-03), pp. 83-90, Washington, DC, USA, 2003. See journal version above. Keywords: noncooperative game theory, machine learning, learning in games, Nash equilibrium.
+
+Vincent Conitzer and Tuomas Sandholm. BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games. In Proceedings of the 20th International Conference on Machine Learning (ICML-03), pp. 91-98, Washington, DC, USA, 2003. Keywords: noncooperative game theory, machine learning, learning in games, zero-sum games.
+
+Vincent Conitzer, Jérôme Lang, and Tuomas Sandholm. How Many Candidates Are Needed to Make Elections Hard to Manipulate? In Proceedings of the 9th Conference on Theoretical Aspects of Rationality and Knowledge (TARK-03), pp. 201-214, Bloomington, Indiana, USA, 2003. See journal version above. Keywords: voting, hardness of manipulation.
+
+Vincent Conitzer and Tuomas Sandholm. Automated Mechanism Design: Complexity Results Stemming from the Single-Agent Setting. In Proceedings of the 5th International Conference on Electronic Commerce (ICEC-03), pp. 17-24, Pittsburgh, PA, USA, 2003. Keywords: mechanism design, automated mechanism design.
+
+Vincent Conitzer and Tuomas Sandholm. Applications of Automated Mechanism Design. Early version: the UAI-03 Bayesian Modeling Applications Workshop, Acapulco, Mexico, 2003. Keywords: mechanism design, automated mechanism design.
+
+Vincent Conitzer and Tuomas Sandholm. Automated Mechanism Design with a Structured Outcome Space. Draft, 2003. Keywords: mechanism design, automated mechanism design.
+
+
+2002
+Vincent Conitzer and Tuomas Sandholm. Complexity of Mechanism Design. In Proceedings of the 18th Annual Conference on Uncertainty in Artificial Intelligence (UAI-02), pp. 103-110, Edmonton, Canada, 2002. Keywords: mechanism design, automated mechanism design.
+
+Vincent Conitzer and Tuomas Sandholm. Complexity of Manipulating Elections with Few Candidates. In Proceedings of the 18th National Conference on Artificial Intelligence (AAAI-02), pp. 314-319, Edmonton, Canada, 2002. See journal version above. Keywords: voting, hardness of manipulation.
+
+Vincent Conitzer and Tuomas Sandholm. Vote Elicitation: Complexity and Strategy-Proofness. In Proceedings of the 18th National Conference on Artificial Intelligence (AAAI-02), pp. 392-397, Edmonton, Canada, 2002. Keywords: voting, preference elicitation.
+
+TEACHING
+COMPSCI 323 / 590.08 (Spring 2022): Computational Microeconomics.
+COMPSCI 570 (Fall 2021): Artificial Intelligence.
+COMPSCI 590.7 (Fall 2020): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 323 (Spring 2020): Computational Microeconomics.
+COMPSCI 270 (Spring 2019): Introduction to Artificial Intelligence.
+COMPSCI 590.2 (Fall 2018): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 223 (Spring 2018): Computational Microeconomics.
+COMPSCI 570 (Fall 2017): Artificial Intelligence.
+Philosophy 590.3 (Fall 2017) / 590.1 (Spring 2018): Ethics and AI.
+COMPSCI 590.2 (Spring 2017): Computation, Information, and Learning in Market Design.
+COMPSCI 590.4 (Spring 2016): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 290.4/590.4 (Spring 2015): Crowdsourcing Societal Tradeoffs.
+COMPSCI 570 (Fall 2014): Artificial Intelligence.
+COMPSCI 590.4 (Spring 2014): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 590.1 (Fall 2012): Linear and Integer Programming.
+COMPSCI 173 (Spring 2012): Computational Microeconomics.
+COMPSCI 296.1 (Fall 2011): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 296.1 (Fall 2010): Linear and Integer Programming.
+COMPSCI 173 (Spring 2010): Computational Microeconomics.
+COMPSCI 196.1/296.1 (Fall 2009): Computational Microeconomics: Game Theory, Social Choice, and Mechanism Design.
+COMPSCI 170 (Spring 2009): Introduction to Artificial Intelligence.
+COMPSCI 270 (Fall 2008): Artificial Intelligence.
+COMPSCI 196/296.2 (Spring 2008): Linear and Integer Programming.
+COMPSCI 196.2 (Fall 2007): Introduction to Computational Economics.
+COMPSCI 296.3 (Spring 2007): Topics in Computational Economics.
+COMPSCI 296.2 (Fall 2006): Computational Game Theory and Mechanism Design.
+
+MISCELLANEOUS
+GameSec 2021 keynote talk AI Agents May Cooperate Better If They Don't Resemble Us. A short version from the Cooperative AI Seminar Series is here on YouTube.
+
+KDD 2021 keynote talk Automated Mechanism Design for Strategic Classification (pptx, pdf). Also available here on YouTube.
+
+Tutorial on Designing Agents' Preferences, Beliefs, and Identities at AAAI 2021, AAMAS 2021, EC 2021, and IJCAI-ECAI 2022 (earlier version was at AAMAS 2019): tutorial webpage. The EC version is available here on YouTube (link is to part 1 of the tutorial only, from which you should be able to find the other parts).
+
+SIGecom Winter Meeting 2020 talk, Automated Mechanism Design for Correlated Valuations.
+
+CHAI 2020 plenary talk on New Directions in Belief Formation and Decision Theory for AI: pdf. A related talk at the Simons Institute is here on YouTube.
+
+Invited talk at the 2019 STOC workshop on New Frontiers of Automated Mechanism Design for Pricing and Auctions (also at the 2019 TTIC Workshop on Automated Algorithm Design): pptx, pdf (and Michael's Beamer slides).
+
+Tutorial on Computational Social Choice and Moral Artificial Intelligence at AAMAS/ICML/IJCAI 2018: tutorial webpage (including slides).
+
+EC 2018 Crash Course on Computational Social Choice and Fair Division: ppt, pdf.
+
+Video of panel on AI in the administrative state (2018).
+
+AMMCS 2017 plenary talk "Moral Artificial Intelligence and the Societal Tradeoffs Problem": pptx, pdf.
+
+WINE 2015 tutorial on game-theoretic models of voting: main slides (ppt, pdf); additional slides (pdf).
+
+NIPS 2014 tutorial on Computing Game-Theoretic Solutions: pptx, pdf. Another version of the tutorial for AAAI 2015 is here.
+
+2014 Social Choice and Welfare Prize talk: ppt, pdf.
+
+IJCAI 2011 Computers and Thought talk: slides without animation, slides with animation. The paper for my AAAI 2012 "What's Hot" talk covers similar material as the talk (but is more up to date). For an overview of some other work, maybe see my 2010 CACM article.
+
+Computational Social Choice tutorial from the 2012 Summer School on Algorithmic Economics at CMU: ppt, pdf. (Earlier versions at COMSOC-10 (ppt, pdf) and with Ariel Procaccia at EC-10 and AAMAS-10 (my slides (ppt, pdf), Ariel's slides).)
+
+My (outdated) intellectual development statement for Duke.
+
+Tutorial: Automated Mechanism Design: Approaches and Applications (ppt (my slides only), pdf (also including Eugene's slides)). Given at EC-08, AAMAS-09, IJCAI-09 with Yevgeniy (Eugene) Vorobeychik.
+
+Attracting Students to Computer Science Using Artificial Intelligence, Economics, and Linear Programming (.ppt, .pdf). (Invited talk at the 2008 AAAI Spring Symposium on Using AI to Motivate Greater Participation in Computer Science, and a 2010 ARTSI faculty workshop.)
+
+Tutorial: Mechanism Design for Multiagent Systems (.ppt, .pdf). Given at the Dubai Agents & Multi-Agent Systems School 2008, and an earlier version at NESCAI 2006.
+
+A game-theoretically optimal computer player for a class of Liar's Dice games (source code). Let me know if you find bugs/have comments. (Apologies for the archaic text-based interface...)
+
+A puzzle - let me know if you solve it. Here are some hints, as well as the first few steps of the solution, and even a translation into French by Dany Bergeron. (For more puzzles, see SIGecom Exchanges.)
+
+A 5-line integer program formulation for Sudoku in GMPL, the modeling language for GLPK (GNU Linear Programming Kit). (I'm certainly not the first to come up with such a formulation, e.g. here.) The example puzzle is from Wikipedia's Sudoku page (and solves in 0.0 seconds).
+
+"Contizer" is the most common misspelling of my family's name; I wonder what causes this particular typo (rather than others with the same edit distance)? Of course, this is nothing compared to the misspellings of "Atila Abdulkadiroglu".
+
+HUMOR
+Sergiu Hart's humor page.
+Love Two Point Oh.
+
+

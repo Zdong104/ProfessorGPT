@@ -1,0 +1,183 @@
+Professor: Adam M. Smith 0001
+University: Univ. of California - Santa Cruz
+URL: https://adamsmith.as/
+Description: Adam M. Smith, Ph.D.
+
+
+Associate Professor of Computational Media
+UC Santa Cruz
+
+
+adam@adamsmith.as
+amsmith@ucsc.edu
++1 (831) 295-2624
+@rndmcnlly
+@rndmcnlly@mastodon.social
+Biosketch
+Research
+Teaching
+Publications
+Affiliations
+Biosketch
+
+I'm Adam M. Smith, computer scientist, design researcher, and software artist. A few people have read my dissertation, many have listened to my music, and many many many have played with my software toys. The hand-typed the HTML of this page has been in low-effort maintenance mode since in 2015-ish. Someday I'll reboot the whole thing.
+
+I do technical games research for enriching the way we create, distribute, consume, and reflect on interactive media like apps and games. My dissertation, Mechanizing Exploratory Game Design, built a design automation practice in the interdisciplinary space between game design, design studies, computational creativity, and symbolic AI. I often employ answer set programming in the service of exploratorily posing and automatically solving high-complexity analysis and synthesis problems arising in creative design domains. As as a grad student and postdoc, I applied these ideas to deep design automation for educational games played by millions of students around the world. As a consultant and a random internet person, I've advised applications of ASP in several industries (from playlist generation for DJs to software package management tooling). Now (writing in 2021), as an academic, I'm experimentally integrating design automation into my teaching while I train my own graduate students to develop new uses for artificial intelligence in the design of interactive media. We still use ASP once and while, but we often use that deep learning stuff too.
+
+In 2014, I had a vision for a way of making the kind of search-intensive automation I was doing with ASP available to programmers invested in domains outside of artificial intelligence. By implementing support of a kind of nondeterministic programming at the level of machine instructions, programmers could use familiar tools for familiar languages like C to define and solve interesting search problems. A snapshot of the behavior of my prototype is archived on the long-abandoned website for my consulting company: Quasilinear Research. In the modern day, this is mostly replaced by the KLEE Symbolic Execution Engine. The particular efficiency hack referenced in the company name (a quasilinear-space encoding of the state reachabilty problem for sequential boolean circuits) has been mostly superceded by recent work on the formulation of Planning as Quantified Boolean Formula (QBF), but there's still a key optimization for the case of modeling machines with large memories that I haven't seen covered in the open literature yet. Meanwhile, no one has yet mashed up QBF solving with symbolic virtual machines, so maybe you'll run with the idea?
+
+Getting my head out of the clouds, I took a research engineer position at Microsoft in 2015. In an attempt to synthesize the "20-percent time" from Google's culture with Microsoft's legitimate customer obsession, I stayed late at work exactly one time to prototype something that might have been a direct solution to a problems that I had discovered during a weeks-long customer development training problem. Upon sharing the prototype one step beyond my immediate team, I was told that I need to control my communication with other teams so that they don't get the wrong idea about what we were working on. It turns out that I really value autonomy in project selection and the ability to freely communicate with project stakeholders. I made some contributions to programming by examples (learning a ranking functions from examples of expert solutions) while I was there, but it was quite easy to leave Microsoft for a lesser-paid, higher-stress academic job less than a year later. A lot of challenging family stuff was happening that year as well.
+
+In 2021, I was diagnosed with attention deficit hyperactivity disorder (ADHD). Treatment has helped me immensely, but just understanding the condition better has had impacts too. What's the experience like? It's like, depending on diet/exercise/weather/whatever, sometimes I can only do high-intensity learning activities (and any attempt to do something not like that painfully falls apart). I can sometimes cover long distances in personally and professionally important directions in very short periods of time, but I can't quite control it. I'm lucky to have a job that only checks on my performance every few years because I can go pretty far off the rails when viewed on shorter timescales.
+
+In addition to the serious stuff above, I like to explore generative visual art and music, recreational programming all the way down to the hardware/RF level, and infinitesimal-thrust spacecraft design and orbital dynamics. Hyperfocus on certain hobbies leads to lots of tasty food from around the world for my wife and daughter. I'd like to be able to speak many different languages, but it is difficult to balance this with other priorities.
+
+
+
+
+Laughably out of date professional overview: Curriculum Vitae (pdf) (2015) | Artistic Portfolio (pdf, 7.3MB) (2013)
+
+
+Research
+Significant Contributions
+"Playable Quotes" notion of excerpts from interactive media (which are themselves interactive in a way that screenshots or videos of games are not).
+"Moment Vector" representations of the individual experiential moments in a game, forming an explorable manifold.
+"Design Space Modeling" approach to procedural content generation: write down what you think you want, not how to generate it.
+"Quantification over Play" formulation of interactive design: explicitly sculpt the space of interaction your design affords.
+"Answer Set Programming for Design Automation" approaches and tooling (e.g. test automation and domain-specific metaprogramming) for industrial-strength application for ASP to applied design projects.
+"Rational Curiosity" conception of game design: don't design to optimize player fun; design to learn how to design (cf. reflective practice).
+"Transient Rendering Equation" formulation of light transport for time-resolved graphics and vision applications: light moves at a finite speed; simulate it accordingly.
+"Learning Rotations" problem in online machine learning were the true model lives on a differentiable manifold: search on the circle, not on the line.
+Interests
+Game Design: player modeling, procedural content generation, quality assurance, formal models (or at least computational caricatures) of the design process
+Artificial Intelligence: (design) knowledge representation, constraint logic programming, AI education (as in teaching AI, the topic)
+Machine Learning: structured prediction, prediction on manifolds (Lie groups specifically), Bayesian methods
+Programming Languages: probabilistic programming, domain-specific languages, metaprogramming, program synthesis
+
+Ultimate goal: (according to 2012-me) Dramatically increase the creative resources available to our civilizations by using machines to amplify the creativity of those facing complex design problems (particularly those involving the self-improvement of civilization, e.g. education and research). Ten years later, I want to replace this this with something rooted in decolonization.
+
+Teaching
+
+I am deeply passionate about teaching technical topics, particularly where I can steer them to overlap with creative and aesthetic endeavors. I regularly volunteer to give guest lectures, design new projects, and consult on the curriculum for new classes. I provide lifetime support to my students on selected topics and delight in hearing the challenges they encounter in industry and grad school elsewhere. Where possible, I work to legitimize self-teaching outside of established institutions.
+
+as a Professor: (before I stopped updating the list two years into the job) Game Platforms (UCSC CMPM164 Winter 2017); Applied ASP (UCSC CMPM 290A Spring 2017); Procedural Content Generation (CMPM 179); AI in Games (UCSC CMPM 244); Game Design Studio III (UCSC CMPM 172)
+
+as Lecturer: AI in Games (UCSC CMPM146 Spring 2015); Android Tablet Programming.
+
+as a Teaching Assistant: introduction to computer graphics; scientific visualization and computer animation; game engine architecture; fundamentals of game design; game design studio; advanced analysis of algorithms; computer literacy.
+
+as a Guest Lecturer: game programming with python; the spectrum of game engine architectures; designing a simple game framework; image compositing; non-photorealistic rendering; programmer-oriented tools for creativity in graphics; livecoding for music, sculpture, and poetry; overlapping notions of time in programming languages and software engineering.
+
+Awards: 2006 Outstanding Teaching Award (School of Engineering); 2007 Excellence in Teaching Award for Teaching Assistants (UCSC Grad Division)
+
+Publications
+Journals
+2021
+Isaac Karth, Adam M. Smith, "WaveFunctionCollapse: Content Generation via Constraint Solving and Machine Learning," In IEEE Transactions on Games, 2021.
+2019
+Dominik Moritz, Chenglong Wang, Greg L. Nelson, Halden Lin, Adam M. Smith, Bill Howe, Jeffrey Heer, "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco," IEEE Transactions on Visualization and Computer Graphics, 2019.
+2011
+Adam M. Smith, Michael Mateas, "Answer Set Programming for Procedural Content Generation: A Design Space Approach," IEEE Transactions on Computational Intelligence and AI in Games, 2011.
+Conferences
+2021
+Isaac Karth, Batu Aytemiz, Ross Mawhorter, Adam M. Smith, "Neurosymbolic Map Generation with VQ-VAE and WFC," Proceedings of the 16th International Conference on the Foundations of Digital Games (FDG’21), 2021.
+Ross Mawhorter, Adam M. Smith, "Softlock Detection for Super Metroid with Computation Tree Logic," In Proceedings of the 16th International Conference on the Foundations of Digital Games (FDG’21), 2021.
+Kenneth Chang, Adam M. Smith, "Boosting Exploration of Low-Dimensional Game Spaces with Stale Human Demonstrations," In Proceedings of the IEEE Conference on Games (COG), 2021.
+Tamara Duplantis, Isaac Karth, Max Kreminski, Adam M. Smith, Michael Mateas, "A Genre-Specific Game Description Language for Game Boy RPGs," In Proceedings of the IEEE Conference on Games (COG), 2021.
+Barrett R. Anderson, Adam M. Smith, "The Undergraduate Games Corpus: A Dataset for Machine Perception of Interactive Media," In Proceedings of the AAAI Conference on Artificial Intelligence, 2021.
+Ross Mawhorter, Batu Aytemiz, Isaac Karth, and Adam M. Smith, "The Challenge of Content Reinjection for Super Metroid," In Proceedings of the Seventeenth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-21), 2021.
+2020
+Adam M. Smith, Daniel Shapiro, "Teaching Game AI as an Undergraduate Course in Computational Media," In Proceedings of the Tenth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-20), 2020.
+Batu Aytemiz, Xueer Shu, Eric Hu, Adam M. Smith, "Your Buddy, The Grandmaster: Repurposing the Game-Playing AI Surplus for Inclusivity," in Proceedings of the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE), 2020.
+Kenneth Chang, Adam M. Smith, "Differentia: Visualizing Incremental Design Changes," in Proceedings of the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE), 2020.
+Adam M. Smith, Daniel Shapiro, "Teaching Game AI as an Undergraduate Course in Computational Media," in Proceedings of The 10th Symposium on Educational Advances in Artificial Intelligence (EAAI), 2020.
+2019
+Kenneth Chang, Batu Aytemiz, Adam M. Smith, "Reveal-More: Amplifying Human Effort in Quality Assurance Testing Using Automated Exploration," In Proceedings of the IEEE Conference on Games (COG 2019).
+Oleksandra Keehl, Adam M. Smith, "Monster Carlo 2: Integrating Learning and Tree Search for Machine Playtesting," in Proceedings of the IEEE Conference on Games (COG 2019).
+Barrett R. Anderson, Adam M. Smith, "Understanding User Needs in Videogame Moment Retrieval," in Proceedings of the International Conference on Digital Games (FDG), 2019.
+2018
+Batu Aytemiz, Isaac Karth, Jesse Harder, Adam M. Smith, Jim Whitehead, "Talin: A Framework For Dynamic Tutorials Based on the Skill Atoms Theory," in Proceedings of the Fourteenth Artificial Intelligence in Interactive Digital Entertainment Confernce (AIIDE), 2018.
+Xiaoxuan Zhang, Zeping Zhan, Misha Holtz, Adam M. Smith, "Crawling, Indexing, and Retrieving Moments in Videogames" in Proceedings of Conference on the Foundations of Digital Games (FDG), 2018.
+Dominik Moritz, Chenglong Wang, Greg L. Nelson, Halden Lin, Adam M. Smith, Bill Howe, Jeffrey Heer, "Formalizing Visualization Design Knowledge as Constraints: Actional and Extensible Models in Draco," in Proceedings of the IEEE Information Visualization Conference (InfoVis), 2018. [Best Paper Award!]
+Oleksandra Keehl, Adam M. Smith, "Monster Carlo: an MCTS-based Framework for Machine Playtesting Unity Games," in Proceedings of the IEEE Conference on Computational Intelligence in Games (CIG'18), 2018.
+Vanessa Volz, Jacob Schrum, Jialin Liu, Simon M. Lucas, Adam M. Smith, Sebastian Risi, "Evolving Mario Levels in the Latent Space of a Deep Convolutional Generative Adversarial Network," In Proceedings of The Genetic and Evolutionary Computation Conference (GECCO 2018), 2018. [Best Paper Award in DETA (Digital Entertainment Technologies and Arts) track!]
+2015
+Oleksander Polozov, Eleanor O'Rourke, Adam M. Smith, Luke Zettlemoyer, Sumit Gulwani, Zoran Popović, "Personalized Mathematical Word Problem Generation," In Proceedings International Joint Conference on Artificial Intelligence (IJCAI-15), 2015.
+Mike Treanor, Alex Zook, Mirjam P. Eladhari, Julian Togelius, Gillian Smith, Michael Cook, Tommy Thompson, Brian Magerko, John Levine, Adam M. Smith, "AI-Based Game Design Patterns," In Proceedings of the 10th International Conference on the Foundations of Digital Games (FDG 2015), 2015.
+Eric Butler, Erik Andersen, Adam M. Smith, Sumit Gulwani, Zoran Popović, "Automatic Game Progression Design through Analysis of Solution Features," In Proceedings of the SIGCHI Conference on Human Factors in Computing (CHI'2015), 2015.
+2013
+Eric Butler, Adam M. Smith, Zoran Popović, "A Mixed-Initiative Tool for Designing Level Progressions in Games," In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST 2013), 2013.
+Adam M. Smith, Eric Butler, Zoran Popović, "Quantifying over Play: Constraining Undesirable Solutions in Puzzle Design," In Proceedings of the 8th International Conference on the Foundations of Digital Games (FDG 2013), 2013.
+2012
+Adam M. Smith, Erik Andersen, Michael Mateas, Zoran Popović, "A Case Study of Expressively Constrainable Level Design Automation Tools for a Puzzle Game," In Proceedings of the 7th International Conference on the Foundations of Digital Games (FDG 2012), 2012.
+Adam M. Smith "Strange Loops in cfml, A Livecoder's Riddle" In Proceedings of the International Conference on Computer Music (ICMC 2012), 2012.
+2011
+Adam M. Smith, Michael Mateas, "Knowledge-Level Creativity in Game Design," In Proceedings of the Second International Conference on Computational Creativity (ICCC 11), 2011.
+Adam M. Smith, Michael Mateas, "Towards Knowledge-Oriented Creativity Support in Game Design," In Proceedings of the Second International Conference on Computational Creativity (ICCC 11), 2011.
+2010
+Adam M. Smith, Mark J. Nelson, Michael Mateas, "Ludocore: A Logical Game Engine For Modeling Videogames," In Proceedings of the IEEE Conference on Computational Intelligence and Games, 2010.
+Adam M. Smith, Michael Mateas, "Variations Forever: Flexibly Generating Rulesets from a Sculptable Design Space of Mini-Games," In Proceedings of the IEEE Conference on Computational Intelligence and Games, 2010.
+Kathleen Tuite, Noah Snavely, Dun-Yu Hsiao, Adam M. Smith, Zoran Popović, "Reconstructing the World in 3D: Bringing Games with a Purpose Outdoors, In Proceedings of the 5th International Conference on the Foundations of Digital Games (FDG 2010), 2010.
+2009
+Adam M. Smith, Mark J. Nelson, Michael Mateas, "Computational Support for Play Testing Game Sketches," In Proceedings of the 5th Artificial Intelligence for Interactive Digital Entertainment Conference (AIIDE 2009), 2009.
+2008
+Zachary Pousman, Mario Romero, Adam M. Smith, Michael Mateas, "Living with Tableau Machine: A Longitudinal Investigation of a Curious Domestic Intelligence," In Proceedings of the 10th International Conference on Ubiquitous Computing (UbiComp 08), 2008.
+Adam M. Smith, Manfred K. Warmuth, "Learning Rotations," In Proceedings of the 12th Annual Conference on Learning Theory (COLT 08), 2008.
+Workshops, Symposia, and Seminars
+2020
+Batu Aytemiz, Hunter Lynch, Carl Erez, Adam M. Smith, "SMES: Adapting Dexterity-based Games for Deliberative Play," In Proceedings of the AIIDE 2020 Workshop on Experimental Artificial Intelligence in Games (EXAG), 2021
+2019
+Xiaoxuan Zhang, Adam M. Smith, "Retrieving Videogame Moments with Natural Language Queries," In Proceedings of the Games and NLP Workshop (GAMNLP-19), 2019.
+Isaac Karth, Adam M. Smith, "Addressing the Fundamental Tension of PCGML with Discriminative Learning," In Proceedings of 10th Workshop on Procedural Content Generation (PCG-2019), 2019.
+Zeping Zhan, Batu Aytemiz, Adam M. Smith, "Taking the Scenic Route: Automatic Exploration in Games," In Proceedings of the Second Workshop on Knowledge Extraction from Games (KEG-19), 2019.
+2018
+Zeping Zhan, Adam M. Smith, "Retrieving Game States with Moment Vectors," In Proceedings of the Workshop on Knowledge Extraction from Games (KEG-18), 2018.
+2017
+Dan Ashlock, Cameron Browne, Simon Colton, Amy K. Hoover, Jialin Liu, Simon M. Lucas, Mark J. Nelson, Diego Perez Liebana, Sebastian Risi, Jacob Schrum, Adam M. Smith, Julian Togelius, and Vanessa Volz, "Game Search Space Design and Representation," In Report from Dagstuhl Seminar 17471, Artificial and Computational Intelligence in Games: AI-Driven Game Design, 2017.
+Peter I. Cowling, Sander C.J. Bakkes, Pier Luca Lanzi, Adam M. Smith, Pieter Spronck, and Shoshannah Tekofsky, "Some Industry Interests in AI-driven Game Design," In Report from Dagstuhl Seminar 17471, Artificial and Computational Intelligence in Games: AI-Driven Game Design, 2017.
+Gillian Smith, Mirjam P. Eladhari, Matthew J. Guzdial, Emily Short, Adam M. Smith, Anne Sullivan, Tommy Thompson, and R. Michael Young, "AI as Reflective Practice," In Report from Dagstuhl Seminar 17471, Artificial and Computational Intelligence in Games: AI-Driven Game Design, 2017.
+Adam M. Smith, "Answer Set Programming in Proofdoku,", In Proceedings of the Fourth Workshop on Experimental AI in Games (EXAG 4), 2017.
+Isaac Karth, Adam M. Smith, "WaveFunctionCollapse is Constraint Solving in the Wild," In Proceedings of the Eighth Workshop on Procedural Content Generation (PCG2017), 2017.
+2015
+Adam M. Smith, "ASP versus EAs: What Are We Really Searching for in PCG?," In Report from Dagstuhl Seminar 15051, Artificial and Computational Intelligence in Games: Integration, 2015.
+Adam M. Smith, "MCTS for PCG," In Report from Dagstuhl Seminar 15051, Artificial and Computational Intelligence in Games: Integration, 2015.
+2013
+Adam M. Smith, "Open Problem: Reusable Gameplay Trace Samplers," In Proceedings of the Second Workshop on Artificial Intelligence in the Game Design Process (IDPv2), 2013.
+2012
+Kathleen Tuite, Adam M. Smith, "Emergent Remix Culture in an Anonymous Collaborative Art System," In Proceedings of the First International Workshop on Human Computation in Digital Entertainment (HCIDE12), 2012.
+Kate Compton, Adam M. Smith, Jim Whitehead, "Anza Island: Novel Gameplay Using ASP," In Proceedings of the Third International Workshop of Procedural Content Generation in Games (PCGames 2012), 2012.
+2011
+Adam M. Smith, Michael Mateas "Computational Caricatures: Probing the Game Design Process with AI," In Proceedings of the First International Workshop on Artificial Intelligence in the Game Design Process (IDP11), 2011.
+Adam M. Smith, "Two Methods for Voxel Detail Enhancement," In Proceedings of the Second International Workshop of Procedural Content Generation in Games (PCGames 2011), 2011.
+2010
+Sherol Chen, Adam M. Smith, Michael Mateas, Noah Wardrip-Fruin, Arnav Jhala, "RoleModel: Towards a Formal Model of Dramatic Roles for Story Generation," In Proceedings of the Intelligent Narrative Technologies III Workshop (INT3), 2010.
+2008
+Adam M. Smith, Mario Romero, Zachary Pousman, Michael Mateas, "Tableau Machine: A Creative Alien Presence," in Proceedings of the 2008 AAAI Spring Symposium on Creative Intelligent Systems, 2008.
+Technical Reports
+2011
+Adam M. Smith, Chris Lewis, Kenneth Hullet, Gillian Smith, Anne Sullivan, "An Inclusive Taxonomy of Player Modeling," Technical Report UCSC-SOE-11-13, 2011.
+2010
+Adam M. Smith, Manfred K. Warmuth, "Learning Rotations Online," Technical Report UCSC-SOE-10-08, 2010.
+2008
+Adam M. Smith, James Skorupski, James Davis "Transient Rendering," Technical Report UCSC-SOE-08-26, 2008.
+Demos and Posters
+2017
+Mike Treanor, Nicholas Warren, Mason Reed, Adam M. Smith, Pablo Ortiz, Laurel Carney, Loren Sherman, Elizabeth Carré, Nadya Vivatvisha, D. Fox Harrel, Paola Mardo, Andrew Gordon, Joris Dormans, Barrie Robison, Spencer Gomez, Samantha Heck, Landon Wright, Terence Soule, "Playable Experiences at AIIDE 2017," In Proceedings of the Thirteenth AAAI Conference on Artificial Intelligence in Interactive Digital Entertainment (AIIDE-17), 2017.
+2015
+Adam M. Smith, "Towards Probabilistic Programming at the Machine Code Level," First RISC-V Workshop, 2015.
+2011
+Adam M. Smith, Chris Lewis, Kenneth Hullett, Gillian Smith, Anne Sullivan, "An Inclusive View of Player Modeling," In Proceedings of the 6th International Conference on the Foundations of Digital Games (FDG 2011), 2011.
+2010
+Adam M. Smith, Michael Mateas, "Variations Forever: A Game of Exploring Game Design Spaces," Demonstration at the Fourth International Conference on the Foundations of Digital Games (FDG 2009), 2009.
+2009
+Adam M. Smith, Mark J. Nelson, Michael Mateas, "Prototyping Games with BIPED," in Proceedings of the Fifth Artificial Intelligence for Interactive Digital Games Conference (AIIDE'09), 2009.
+Adam M. Smith, James Skorupski, James Davis, "Understanding Video at 30 Billion Frames Per Second with Transient Rendering," Poster at Bay Area Vision Meetup (BAVM 2009), 2009.
+Affiliations
+
+Some of these don't exist anymore:
+
+Academic: Design Reasoning Laboratory (UCSC), Expressive Intelligence Studio (UCSC) and Center for Games and Playable Media (UCSC); Center for Game Science (UW)
+Professional: AAAI; ACM and ACM SIGCSE; IEEE and IEEE CIS; IGDA and Game Education SIG.
+Artistic: TOPLAP
+Social: Hacker Dojo; SuperHappyDevHouse.
+

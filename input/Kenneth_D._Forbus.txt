@@ -1,0 +1,80 @@
+Professor: Kenneth D. Forbus
+University: Northwestern University
+URL: http://www.cs.northwestern.edu/~forbus
+Description: Kenneth D. Forbus
+Walter P. Murphy Professor of Computer Science and Professor of Education
+Northwestern University
+Contact Information
+
+Email: forbus <the at sign> northwestern <the usual> edu
+Voice: (847) 491-7699
+
+
+I strongly prefer email. Voicemail gets checked at best infrequently
+
+Physical mail:
+Computer Science, Northwestern University
+Mudd 3113
+2233 Tech Drive
+Evanston, IL, 60208
+
+Visitors, please note: The Computer Science Department is now here.
+
+Research Interests
+In artificial intelligence, specifically qualitative reasoning, spatial reasoning, analogical reasoning and learning, learning from natural language, sketch understanding, and inference engine design.
+In cognitive science, understanding how analogy and similarity work, including the roles they play in cognitive and perceptual processes. We are developing the Companion cognitive architecture to explore the hypothesis that analogical processing is at the core of human cognition.
+In education, using AI techniques to create new types of educational software and activities.
+In human-computer interaction, the use of sketching as an interface modality to knowledge-rich systems, and the use of natural language processing with simplified English to interact with intelligent systems and reduce tailorability in cognitive simulation.
+In computer game design, the roles AI, and especially articulate software, can play in creating better game engines and synthetic characters.
+
+For more information, including descriptions of ongoing projects, please see our group's web page, and also the CogSketch page. You may also find this recent book from MIT Press to be of interest:
+
+Teaching
+
+My normal teaching schedule looks like this:
+
+Fall: Cognitive Science 207: Introduction to Cognitive Modeling.
+This is part of the introductory sequence in Cognitive Science, and a science distribution course in WCAS. It does not require programming at all. Instead, you'll be using some off-the-shelf AI systems as a way to get experience with cognitive modeling. Ultimately, I think it useful for every cognitive scientist to have some programming experience, but not for the reason you might think. It's not about writing code per se, but about understanding how to think procedurally. One of the insights that the field of Cognitive Science is founded on is the idea that minds are a kind of computation. So computation is actually one of the languages for expressing theories, not just a means of simulation. It's hard to get certain intuitions about computation without programming, but that can come later, if you decide that you're deeply interested in the field.
+
+Winter: I alternate between two advanced AI courses:
+
+CS 344: Design of Problem Solvers
+CS 371: Knowledge Representation & Reasoning
+
+If you are interested in Artificial Intelligence, you really should take both of these courses. There is a lot of programming in 344, in Common Lisp, so taking CS 325 before is a good idea. 371 uses the Companion cognitive architeture for reasoning and learning, along with a large knowledge base.
+
+The textbook for 344:
+
+Spring:I alternate between two courses:
+
+Conversational AI This course concerns AI systems that interact with people via natural modallities, including natural language, speech, vision, and sketching. It involves considerable amount of reading of the literature in both cognitive science, about the nature of human conversation, and in artificial intelligence, on how to build dialogue systems. It includes substantial project work, including hands-on experience in building knowledge-rich systems that can participate in conversations. For example, the prototype of this course, which ran in Spring Quarter 2018, led to the development of the Kiosk that was installed in September 2018 in Seely Mudd to provide visitors and residents with information about the Computer Science department.
+A seminar course, which varies. For Spring 2010, it was Human-level AI
+For Spring 2014, it was Qualitative Representation. For Spring 2016, it was a Companions Cognitive Systems Studio course.
+
+Please check the department web site to see which course(s) are being offered for any specific quarter
+
+Teaching this year (2022-2023):
+
+Fall:CogSci 207
+Winter:CS 344
+Spring:Qualitative Reasoning seminar
+Advising
+
+If you are one of my undergraduate advisees, please look here.
+
+Miscellaneous
+I received a Humbold Research Award in 2011. The laudation is here.
+I am a fellow of the Association for the Advancement of Artificial Intelligence, the Cognitive Science Society, and the Association for Computing Machinery.
+Dedre and I were fellows at the Hanse-Wissenschaftskolleg (HWK). We had very productive stays there in 2012 and 2013.
+In 1996 I argued that building computer models would become a popular hobby. That has happened, as illustrated by the the widespread growth of modding and open-ended hobbyist software. However, there are a number of technical problems that, if overcome, could make things even more interesting.
+My old web page provides an ancient capsule summary of my research interests.
+A friend from Belize
+On DARPA duty
+A course I used to teach: CS 370-0: Computer Game Design
+Fundamentals of computer game design. Topics include: Plot, narrative and character, simulation for creating game worlds, AI for synthetic characters, tuning gameplay. Substantial programming and project work.
+Prerequisites: CS 311, plus at least one of CS 322, CS 343, CS 348, or CS 351.
+An interesting feature of this course is that, instead of a final exam, we throw a party where everyone in the department is invited to play the games students have built. Feedback from partygoers is a factor in grading. This combination of a hard ship date and real performance requirement tends to make the course a very interesting experience. To the best of my knowledge, this course, which started in 1998, was the first computer game design (not development) course in the US
+One focal area of the Cognitive Systems Area is interactive entertaiment. A course which I taught once, and may teach again, pushes on some frontiers in that area: CS 392-22: Artificial Intelligence for Interactive Entertainment. This was an experimental course, which covered both the kinds of AI techniques used in strategy games and the application of advanced natural language and reasoning technology to building new kinds of conversation-oriented entertainment systems. The poster for the course is here.
+
+Last edited 8/19/22, by KDF.
+

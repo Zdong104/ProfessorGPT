@@ -1,0 +1,361 @@
+Professor: Daniel Khashabi
+University: Johns Hopkins University
+URL: https://danielkhashabi.com/
+Description: Research Themes
+Talks/Slides
+Teaching
+Publication
+
+
+
+
+ 	
+
+Daniel Khashabi
+Assistant Professor
+Center for Language and Speech Processing
+Data Science and AI Institute
+Department of Computer Science
+Whiting School of Engineering
+Johns Hopkins University
+
+Office: Hackerman Hall 316B | Email: danielk ¯\_(ツ)_/¯ jhu.edu
+
+
+Research Themes
+
+My research is motivated by understanding the computational foundations of intelligent behavior, often through the lens of natural language. I am excited about intelligence amplification — building computational models that would augment human experience in a mutually interdependent fashion. The dominant majority of my research is aligned with natural language processing (ACL, NAACL, EMNLP), machine learning (ICLR, NeurIPS, ICML) and artificial intelligence (AAAI, IJCAI).
+
+Here are several themes I am interested in:
+
+General-purpose models: AlphaGo may be the world champion at Go, although it can't solve any other problem! How can we build models that generalize a broader scope of tasks, abilities, modalities, or environments?
+
+Self-supervised representation learning: The AI literature has found powerful ways to build rich representations of the world by utilizing cheap signals available in the wild (web data, physical environment, etc.). How can we make these algorithms more effective and efficient (in terms of data or computation cost)? How can we make them robust to distributional drifts in data, e.g., low-data regimes or adversarial settings? How can we scale them up to various modalities or forms of communication/interaction?
+
+Reasoning and problem-solving: I view “reasoning” as the process of using “reasons” to explain or justify decisions. How can we enable machines to communicate via reasons, for a broad-ranging spectrum of tasks? How can we make this process “verifiable” or “explainable” to humans? Can we build systems that can recourse upon a mistake?
+
+Interaction, communication, and coordination: Can we engineer AI systems to effectively engage, interact, and communicate with humans and other AI systems for the purpose of, for example, coordination?
+
+AI ↔ humans: The ultimate goal of our work is to benefit humans! How should we engineer the interface between AI and machines? What forms of interaction are most effective and meaningful for humans? How can we make AI systems more transparent and accountable to humans? Can we turn such transparency into a truly democratic oversight of systems, their algorithmic biases and mistakes? How should we think about personalizing AI systems to their users?
+
+If you are an undergraduate or masters student and would like to work on research with my group, please fill out this form.
+
+Select Talks
+
+New York University, Large Language Models: Revisiting Few Mysteries, 2023.
+
+University of Maryland, Ailments of Alignment: Hurdles in Adapting Large Language Models to Follow Human Demands, 2023.
+
+Johns Hopkins University CLSP, The Quest Toward Generality in Natural Language Understanding, 2022.
+
+Google AI, Broadening the Scope of Machine Comprehension, 2021.
+
+Carnegie Mellon University, Natural Language Understanding with Indirect Supervision, 2019.
+
+Mid-Atlantic Student Colloquium on Speech, Language and Learning, Abductive Reasoning on Natural Language Questions as Global Reasoning over Semantic Abstractions, 2018.
+
+Teaching
+
+CS 601.471/671, NLP: Self-supervised Models: Spring 2023, Spring 2024
+
+CS 601.771, Advances in Self-supervised Models: Fall 2022, Fall 2024
+
+Publication
+
+Disclaimer: This material is presented to ensure the timely dissemination of scholarly works. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms invoked by each author's copyright.
+
+
+Benchmarking Language Model Creativity: A Case Study on Code Generation.
+Yining Lu, Dixuan Wang, Tianjian Li, Dongwei Jiang and Daniel Khashabi.
+arXiv preprint arXiv:2407.09007, 2024. [code]
+
+Core: Robust Factual Precision Scoring with Informative Sub-Claim Identification.
+Zhengping Jiang, Jingyu Zhang, Nathaniel Weir, Seth Ebner, Miriam Wanner, Kate Sanders, Daniel Khashabi, Anqi Liu and Benjamin Van Durme.
+arXiv preprint arXiv:2407.03572, 2024. [code] [tweet]
+
+LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression.
+Jieneng Chen, Luoxin Ye, Ju He, Zhao-Yang Wang, Daniel Khashabi and Alan Yuille.
+arXiv preprint arXiv:2406.20092, 2024. [code] [project]
+
+Insights into LLM Long-Context Failures: When Transformers Know but Don't Tell.
+Taiming Lu, Muhan Gao, Kuai Yu, Adam Byerly and Daniel Khashabi.
+arXiv preprint arXiv:2406.14673, 2024. [code] [tweet]
+
+DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation.
+Weiting Tan, Jingyu Zhang, Lingfeng Shen, Daniel Khashabi and Philipp Koehn.
+arXiv preprint arXiv:2405.13274, 2024. [code] [tweet]
+
+Self-(In)Correct: LLMs Struggle with Refining Self-Generated Responses.
+Dongwei Jiang, Jingyu Zhang, Orion Weller, Nathaniel Weir, Benjamin Van Durme and Daniel Khashabi.
+arXiv preprint arXiv:2404.04298, 2024. [tweet]
+
+Verifiable by Design: Aligning Language Models to Quote from Pre-Training Data.
+Jingyu Zhang, Marc Marone, Tianjian Li, Benjamin Van Durme and Daniel Khashabi.
+arXiv preprint arXiv:2404.03862, 2024. [slides] [tweet]
+
+TurkingBench: A Challenge Benchmark for Web Agents.
+Kevin Xu, Yeganeh Kordi, Kate Sanders, Yizhong Wang, Adam Byerly, Jack Zhang, Benjamin Van Durme and Daniel Khashabi.
+arXiv preprint arXiv:2403.11905, 2024. [data] [demo] [tweet]
+
+AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies.
+Xiao Ye, Andrew Wang, Jacob Choi, Yining Lu, Shreya Sharma, Lingfeng Shen, Vijay Tiyyala, Nicholas Andrews and Daniel Khashabi.
+arXiv preprint arXiv:2402.12370, 2024. [data] [code] [tweet]
+
+Dated Data: Tracing Knowledge Cutoffs in Large Language Models.
+Jeffrey Cheng, Marc Marone, Orion Weller, Dawn Lawrie, Daniel Khashabi and Benjamin Van Durme.
+Conference on Language Modeling (COLM), 2024. [poster] [tweet]
+
+WorldAPIs: The World Is Worth How Many APIs? A Thought Experiment.
+Jiefu Ou, Arda Uzunoglu, Benjamin Van Durme and Daniel Khashabi.
+Natural Language Reasoning and Structured Explanations Workshop at ACL 2024, 2024.
+
+The Language Barrier: Dissecting Safety Challenges of LLMs in Multilingual Context.
+Lingfeng Shen, Weiting Tan, Sihao Chen, Yunmo Chen, Jingyu Zhang, Haoran Xu, Boyuan Zheng, Philipp Koehn and Daniel Khashabi.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Findings, 2024.
+
+k-SemStamp: A Clustering-Based Semantic Watermark for Detection of Machine-Generated Text.
+Abe Bohan Hou, Jingyu Zhang, Yichen Wang, Daniel Khashabi and Tianxing He.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Findings, 2024. [code]
+
+RORA: Robust Free-Text Rationale Evaluation.
+Zhengping Jiang, Yining Lu, Hanjie Chen, Daniel Khashabi, Benjamin Van Durme and Anqi Liu.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2024. [tweet]
+
+SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation.
+Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi and Yulia Tsvetkov.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024. [code]
+
+Revisiting the Hypothesis: Do Pretrained Transformers Learn In-Context by Gradient Descent?
+Lingfeng Shen, Aayush Mishra and Daniel Khashabi.
+International Conference on Machine Learning (ICML), 2024.
+
+The Trickle-down Impact of Reward (In-) consistency on RLHF.
+Lingfeng Shen, Sihao Chen, Linfeng Song, Lifeng Jin, Baolin Peng, Haitao Mi, Daniel Khashabi and Dong Yu.
+International Conference on Learning Representations (ICLR), 2024. [code]
+
+Error Norm Truncation: Robust Training in the Presence of Data Noise for Text Generation Models.
+Tianjian Li, Haoran Xu, Philipp Koehn, Daniel Khashabi and Kenton Murray.
+International Conference on Learning Representations (ICLR), 2024. Spotlight presentation. [talk] [code]
+
+GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution.
+Yining Lu, Haoping Yu and Daniel Khashabi.
+Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024. [code]
+
+‘‘According to …’’: Prompting Language Models Improves Quoting from Pre-Training Data.
+Orion Weller, Marc Marone, Nathaniel Weir, Dawn Lawrie, Daniel Khashabi and Benjamin Van Durme.
+Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2024. [talk] [code]
+
+Representation Projection Invariance Mitigates Representation Collapse.
+Anastasia Razdaibiedina, Ashish Khetan, Zohar Karnin, Daniel Khashabi, Vishaal Kapoor and Vivek Madan.
+Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings, 2023.
+
+Flatness-Aware Prompt Selection Improves Accuracy and Sample Efficiency.
+Lingfeng Shen, Weiting Tan, Boyuan Zheng and Daniel Khashabi.
+Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings, 2023. [code]
+
+When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories.
+Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi and Hannaneh Hajishirzi.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2023. Best video award. [slides] [talk] [code]
+
+The Tail Wagging the Dog: Dataset Construction Biases of Social Bias Benchmarks.
+Nikil Roashan Selvam, Sunipa Dev, Daniel Khashabi, Tushar Khot and Kai-Wei Chang.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2023. Outstanding paper award. [slides] [talk] [poster] [code]
+
+Self-Instruct: Aligning Language Model with Self Generated Instructions.
+Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi and Hannaneh Hajishirzi.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2023. [code]
+
+Generating Sequences by Learning to Self-Correct.
+Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi and Yejin Choi.
+International Conference on Learning Representations (ICLR), 2023.
+
+UnifiedQA-v2: Stronger Generalization via Broader Cross-Format Training.
+Daniel Khashabi, Yeganeh Kordi and Hannaneh Hajishirzi.
+arXiv preprint arXiv:2202.12359, 2022. [code] [demo]
+
+ProsocialDialog: A Prosocial Backbone for Conversational Agents.
+Hyunwoo Kim, Youngjae Yu, Liwei Jiang, Ximing Lu, Daniel Khashabi, Gunhee Kim, Yejin Choi and Maarten Sap.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. [data]
+
+Super-NaturalInstructions: Generalization via Declarative Instructions on 1600+ Tasks.
+Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Anjana Arunkumar, Arjun Ashok, Arut Selvan Dhanasekaran, Atharva Naik, David Stap, Eshaan Pathak, Giannis Karamanolakis, Haizhi Gary Lai, Ishan Purohit, Ishani Mondal, Jacob Anderson, Kirby Kuznia, Krima Doshi, Maitreya Patel, Kuntal Kumar Pal, Mehrad Moradshahi, Mihir Parmar, Mirali Purohit, Neeraj Varshney, Phani Rohitha Kaza, Pulkit Verma, Ravsehaj Singh Puri, Rushang Karia, Shailaja Keyur Sampat, Savan Doshi, Siddhartha Mishra, Sujan Reddy, Sumanta Patro, Tanay Dixit, Xudong Shen, Chitta Baral, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi and Daniel Khashabi.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. [data] [slides] [slides2] [poster] [project] [blog]
+
+GENIE: Toward Reproducible and Standardized Human Evaluation for Text Generation.
+Daniel Khashabi, Gabriel Stanovsky, Jonathan Bragg, Nicholas Lourie, Jungo Kasai, Yejin Choi, Noah A Smith and Daniel S Weld.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022. [project] [coverage]
+
+COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics.
+Lianhui Qin, Sean Welleck, Daniel Khashabi and Yejin Choi.
+Advances in Neural Information Processing Systems (NeurIPS), 2022. [slides] [poster] [code]
+
+Reframing Instructional Prompts to GPTk's Language.
+Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi and Hannaneh Hajishirzi.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Findings, 2022. [talk] [code]
+
+Hey AI, Can You Solve Complex Tasks by Talking to Agents?
+Tushar Khot, Kyle Richardson, Daniel Khashabi and Ashish Sabharwal.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Findings, 2022. [slides] [talk] [poster]
+
+Cross-Task Generalization via Natural Language Crowdsourcing Instructions.
+Swaroop Mishra, Daniel Khashabi, Chitta Baral and Hannaneh Hajishirzi.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2022. [slides] [talk] [code] [project] [blog]
+
+Time Waits for No One! Analysis and Challenges of Temporal Misalignment.
+Kelvin Luu, Daniel Khashabi, Suchin Gururangan, Karishma Mandyam and Noah A Smith.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022. [data] [talk]
+
+NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics.
+Ximing Lu, Sean Welleck, Peter West, Liwei Jiang, Jungo Kasai, Daniel Khashabi, Ronan Le Bras, Lianhui Qin, Youngjae Yu, Rowan Zellers, Noah A. Smith and Yejin Choi.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022. Best paper award. [code]
+
+Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts.
+Daniel Khashabi, Xinxi Lyu, Sewon Min, Lianhui Qin, Kyle Richardson, Sean Welleck, Hannaneh Hajishirzi, Tushar Khot, Ashish Sabharwal, Sameer Singh and Yejin Choi.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022. [slides] [slides2] [talk] [code]
+
+Toward Automatic Discovery of Diverse Perspectives.
+Sihao Chen, Daniel Khashabi and Dan Roth.
+Creating a More Transparent Internet: The Perspective Web - Cambridge University Press, 2022.
+
+Think you have solved direct-answer question answering? Try ARC-DA, the direct-answer AI2 reasoning challenge.
+Sumithra Bhakthavatsalam, Daniel Khashabi, Tushar Khot, Bhavana Dalvi Mishra, Kyle Richardson, Ashish Sabharwal, Carissa Schoenick, Oyvind Tafjord and Peter Clark.
+arXiv preprint arXiv:2102.03315, 2021. [data]
+
+GooAQ: Open Question Answering with Diverse Answer Types.
+Daniel Khashabi, Amos Ng, Tushar Khot, Ashish Sabharwal, Hannaneh Hajishirzi and Chris Callison-Burch.
+Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings, 2021. [slides] [talk] [code]
+
+Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?
+Jieyu Zhao, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Kai-Wei Chang.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Findings, 2021. [code]
+
+Text Modular Networks: Learning to Decompose Tasks in the Language of Existing Models.
+Tushar Khot, Daniel Khashabi, Kyle Richardson, Peter Clark and Ashish Sabharwal.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021. [slides] [talk] [code] [demo]
+
+Findings of the 2021 Conference on Machine Translation (WMT21).
+Farhad Akhbardeh, Arkady Arkhangorodsky, Magdalena Biesialska, Ond{v{r}}ej Bojar, Rajen Chatterjee, Vishrav Chaudhary, Marta R. Costa-jussa, Cristina Espa{~n}a-Bonet, Angela Fan, Christian Federmann, Markus Freitag, Yvette Graham, Roman Grundkiewicz, Barry Haddow, Leonie Harter, Kenneth Heafield, Christopher Homan, Matthias Huck, Kwabena Amponsah-Kaakyire, Jungo Kasai, Daniel Khashabi, Kevin Knight, Tom Kocmi, Philipp Koehn, Nicholas Lourie, Christof Monz, Makoto Morishita, Masaaki Nagata, Ajay Nagesh, Toshiaki Nakazawa, Matteo Negri, Santanu Pal, Allahsera Auguste Tapo, Marco Turchi, Valentin Vydrin and Marcos Zampieri.
+Conference on Machine Translation (WMT), 2021.
+
+ParsiNLU: A Suite of Language Understanding Challenges for Persian.
+Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, Marzieh Bitaab, Faeze Brahman, Sarik Ghazarian and others.
+Transactions of the Association for Computational Linguistics (TACL), 2021. [slides] [code]
+
+Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies.
+Mor Geva, Daniel Khashabi, Elad Segal, Tushar Khot, Dan Roth and Jonathan Berant.
+Transactions of the Association for Computational Linguistics (TACL), 2021. [data] [slides] [leaderboard]
+
+UnQovering Stereotypical Biases via Underspecified Questions.
+Tao Li, Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Vivek Srikumar.
+Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings, 2020. [code] [demo]
+
+UnifiedQA: Crossing Format Boundaries With a Single QA System.
+Daniel Khashabi, Sewon Min, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Clark and Hannaneh Hajishirzi.
+Conference on Empirical Methods in Natural Language Processing (EMNLP) - Findings, 2020. [slides] [code] [demo]
+
+More Bang for Your Buck: Natural Perturbation for Robust Question Answering.
+Daniel Khashabi, Tushar Khot and Ashish Sabharwal.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020. [data] [slides] [talk]
+
+Temporal Common Sense Acquisition with Minimal Supervision.
+Ben Zhou, Qiang Ning, Daniel Khashabi and Dan Roth.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [slides] [code]
+
+Not All Claims are Created Equal: Choosing the Right Approach to Assess Your Hypotheses.
+Erfan Sadeqi Azer, Daniel Khashabi, Ashish Sabhwawal and Dan Roth.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2020. [slides] [slides2] [slides3] [talk] [code]
+
+TransOMCS: From Linguistic Graphs to Commonsense Knowledge.
+Hongming Zhang, Daniel Khashabi, Yangqiu Song and Dan Roth.
+International Joint Conferences on Artificial Intelligence (IJCAI), 2020. [code]
+
+From ‘F’ to ‘A’ on the NY Regents Science Exams: An Overview of the Aristo Project.
+Peter Clark, Oren Etzioni, Daniel Khashabi, Tushar Khot, Bhavana Dalvi Mishra, Kyle Richardson, Ashish Sabharwal, Carissa Schoenick, Oyvind Tafjord, Niket Tandon, Sumithra Bhakthavatsalam, Dirk Groeneveld, Michal Guerquin and Michael Schmitz.
+AI Magazine, 2020. [talk] [coverage]
+
+‘‘Going on a vacation’’ takes longer than ‘‘Going for a walk’’: A Study of Temporal Commonsense Understanding.
+Ben Zhou, Daniel Khashabi, Qiang Ning and Dan Roth.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019. [slides] [talk] [code] [leaderboard]
+
+PerspectroScope: A Window to the World of Diverse Perspectives.
+Sihao Chen, Daniel Khashabi, Chris Callison-Burch and Dan Roth.
+Annual Meeting of the Association for Computational Linguistics (ACL) - Demonstrations, 2019. [poster] [code] [demo]
+
+Seeing Things from a Different Angle: Discovering Diverse Perspectives about Claims.
+Sihao Chen, Daniel Khashabi, Wenpeng Yin, Chris Callison-Burch and Dan Roth.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019. [poster] [code] [demo] [visualization]
+
+On the Possibilities and Limitations of Multi-hop Reasoning Under Linguistic Imperfections.
+Daniel Khashabi, Erfan Sadeqi Azer, Tushar Khot, Ashish Sabharwal and Dan Roth.
+arXiv, 2019.
+
+Reasoning-Driven Question-Answering for Natural Language Understanding.
+and Daniel Khashabi.
+PhD thesis at University of Pennsylvania, 2019.
+
+Zero-Shot Open Entity Typing as Type-Compatible Grounding.
+Ben Zhou, Daniel Khashabi, Chen-Tse Tsai and Dan Roth.
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2018. [poster] [code]
+
+Looking beyond the surface: A challenge set for reading comprehension over multiple sentences.
+Daniel Khashabi, Snigdha Chaturvedi, Michael Roth, Shyam Upadhyay and Dan Roth.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2018. [data] [poster]
+
+CogCompNLP: Your swiss army knife for nlp.
+Daniel “Khashabi, Mark Sammons, Ben Zhou, Tom Redman, Christos Christodoulopoulos, Vivek Srikumar, Nicholas Rizzolo, Lev Ratinov, Guanheng Luo, Quang Do, Chen-Tse Tsai, Subhro Roy, Stephen Mayhew, Zhili Feng, John Wieting, Xiaodong Yu, Yangqiu Song, Shashank Gupta, Shyam Upadhyay, Naveen Arivazhagan, Qiang Ning, Shaoshi Ling and Dan” Roth.
+International Conference on Language Resources and Evaluation (LREC), 2018. [poster] [code]
+
+Question Answering as Global Reasoning over Semantic Abstractions.
+Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Dan Roth.
+Conference on Artificial Intelligence (AAAI), 2018. [slides] [code]
+
+Learning what is essential in questions.
+Daniel Khashabi, Tushar Khot, Ashish Sabharwal and Dan Roth.
+SIGNLL Conference on Natural Language Learning (CoNLL), 2017. [poster] [code]
+
+Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks.
+Parisa Kordjamshidi, Sameer Singh, Daniel Khashabi, Christos Christodoulopoulos, Mark Summons, Saurabh Sinha and Dan Roth.
+Seventh International Workshop on Statistical Relational AI (StarAI), 2017. [poster] [code]
+
+EDISON: Feature Extraction for NLP, Simplified.
+Mark Sammons, Christos Christodoulopoulos, Parisa Kordjamshidi, Daniel Khashabi, Vivek Srikumar and Dan Roth.
+International Conference on Language Resources and Evaluation (LREC), 2016. [poster]
+
+Question Answering via Integer Programming over Semi-Structured Knowledge.
+Daniel Khashabi, Tushar Khot, Ashish Sabharwal, Peter Clark, Oren Etzioni and Dan Roth.
+International Joint Conferences on Artificial Intelligence (IJCAI), 2016. [slides] [talk] [poster] [code] [demo]
+
+Better call saul: Flexible programming for learning and inference in NLP.
+Parisa Kordjamshidi, Daniel Khashabi, Christos Christodoulopoulos, Bhargav Mangipudi, Sameer Singh and Dan Roth.
+International Conference on Computational Linguistics (COLING), 2016. [slides] [code]
+
+Combining Retrieval, Statistics, and Inference to Answer Elementary Science Questions.
+Peter Clark, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Turney and Daniel Khashabi.
+Conference on Artificial Intelligence (AAAI), 2016.
+
+Image demosaicing.
+Reinhard Sebastian Bernhard Nowozin, Danyal Khashabi, Jeremy Martin Jancsary, Bruce Justin Lindbloom and Andrew William Fitzgibbon.
+US Patent 9,344,690 - Google Patents, 2016.
+
+Clustering With Side Information: From a Probabilistic Model to a Deterministic Algorithm.
+Daniel Khashabi, Jeffrey Yufei Liu, John Wieting and Feng Liang.
+arXiv preprint arXiv:1508.06235, 2015. [code]
+
+Online Learning with Adversarial Delays.
+Kent Quanrud and Daniel Khashabi.
+Advances in Neural Information Processing Systems (NeurIPS), 2015. [poster]
+
+Solving Hard Coreference Problems.
+Haoruo Peng, Daniel Khashabi and Dan Roth.
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2015. [slides]
+
+Illinois-Profiler: Knowledge Schemas at Scale.
+Zhiye Fei, Daniel Khashabi, Haoruo Peng, Hao Wu and Dan Roth.
+Workshop on Cognitive Knowledge Acquisition and Applications (Cognitum), 2015. [slides] [poster]
+
+Joint Demosaicing and Denoising via Learned Nonparametric Random Fields.
+Daniel Khashabi, Sebastian Nowozin, Jeremy Jancsary and Andrew W Fitzgibbon.
+IEEE Transactions on Image Processing (TIP), 2014. [slides]
+
+Page generated 2024-07-22 16:40:05 EDT, by jemdoc.
+

@@ -1,0 +1,292 @@
+Professor: Pan Li 0005
+University: Georgia Institute of Technology
+URL: https://sites.google.com/view/panli-purdue/home
+Description: Skip to main content
+Skip to navigation
+Pan Li's webpage	
+HomeGroupPublicationsTeachingDatasets
+	
+Welcome to my site!
+Pan Li     (李 攀 in Chinese)
+Email:  
+panli at gatech.edu 
+panli at purdue.edu
+Google Scholar 
+
+I keep looking for students who are passionate about computational and machine-learning methods over graphs & networks. If you plan to apply for a Ph.D. position in my group, you may apply through the machine learning program, and the ECE program.  To work with me, please select ECE as your home unit. The home unit is not much related to the program/the degree but related to where the advisor is. For prospective students/postdocs, please read this page carefully.
+
+Recently, I have received a few queries from students regarding whether the background from either ECE or CS fits. Actually, it really does not matter in my group. My group has students with ECE, CS, or Math backgrounds. I myself have backgrounds in ECE, CS, and Physics. The first thing, you may want to pay attention to, is the research direction of the team. For this, please check the publications from the group. The second thing is about the curriculum. Please check the three programs to get some feelings. 
+
+
+
+
+Our team also provides some short-term research opportunities (approximately half a year to a year) for undergraduates and master's students, mainly focusing on applying graph machine learning methods to specific scientific problems in the fields of particle physics, material science, and astronomy. Excellent students can receive remuneration! 
+
+We also have a one-year program for funded post-bachelor students (only for US citizens and permanent residency due to the funding restriction) in the area of graph computation and machine learning.
+
+
+My dear wife, Dr. Cong Hao, is also at the school of ECE at Georgia Tech. She is looking for excellent students who would like to work in the joint area of hardware design and machine learning. 
+
+SHORT BIO 
+
+(To introduce Pan before the talk, one may use this short bio for convenience.) 
+
+Pan Li joined ECE at Georgia Tech as an assistant professor in 2023 Spring and an on-leave position at Purdue CS. I've had a lovely time at Purdue: I have been so grateful to learn how to be a professor and greatly appreciate the Purdue CS department for supporting me over the past two years. I have super enjoyed working with my colleagues at Purdue. Of course, in the future, I'm looking forward to new collaborations and adventures at Georgia Tech! 
+
+Pan Li joined the Purdue CS department as an assistant professor in  2020 Fall.  Before joining Purdue, Pan worked as a postdoc in the SNAP group at Stanford for one year, where he worked in the SNAP group led by  Prof. Jure Leskovec.  Before joining the SNAP group, Pan did his Ph.D. in Electrical and Computer Engineering at the University of Illinois Urbana - Champaign (2015 - 2019). His PhD advisor at UIUC was Prof. Olgica Milenkovic. At UIUC, he also worked with several wonderful collaborators including Prof. Niao He, Prof. Arya Mazumdar, Prof. Jiawei Han, Prof. David Gleich, etc. 
+
+Before coming to UIUC, Pan Li received his M.S. degree in Electronic Engineering from Tsinghua University where his advisor was Prof. Xiqin Wang and he also worked with Prof. Huadong Meng and Prof. Yuan Shen. Before that, he got my B.S. degrees in both Physics and Electrical Engineering from Beijing Jiaotong University. 
+
+Pan Li has got the NSF CAREER award, the Best Paper award from Learning on Graph (LoG) 2022, Sony Faculty Innovation Award, JPMorgan Faculty Award, Ross-Lynn Faculty Award
+
+Research Interests
+
+
+
+My research focuses on computational and machine learning methods for solving practical problems using graph or network structured data. I am particularly interested in a fundamental understanding of learning and computation problems on graphs, as well as in resolving real-world application problems through learning and computation on graphs. This combines my interest in graph theory, machine learning, computational science, and statistics.
+
+Our group of research is mainly supported by National Science Foundation, Department of Energy, JP Morgan award and Sony award. 
+
+Recently, my research projects have mainly revolved around trustworthy graph learning and computational methods:
+
+1) We apply graph learning methods to solve significant application problems in science (AI for Science) and engineering (AI for Engineering). Here, we target the common problems regarding model generalization and interpretability.
+
+2) We care about the applications of graph learning and computational methods in information-sensitive scenarios, such as social multimedia, financial networks, etc. Here, we mainly address the issues regarding graph data privacy in modern algorithms and learning models. 
+
+Some selected recent works from my team include:
+
+Build math foundations (theory and performance analysis) for graph machine-learning algorithms 
+
+Expressive power analysis [NeurIPS 2020][NeurIPS 2021][NeurIPS 2021]; 
+
+Generalization and transferability analysis [ICLR 2022][NeurIPS 2022][ICML2023];  
+
+Build joint solutions based on machine learning techniques and graphs & networks computation
+
+Learnable graph optimization algorithms;  [NeurIPS 2022] [ICLR 2023]
+
+Scalable graph analysis algorithms; [WWW 2021][NeurIPS 2021][VLDB 2022][LoG 2022]
+
+Develop graph machine learning tools for scientific discovery 
+
+Dedicated graph learning models for physical problems  [EJPC 2023]; 
+
+Interpretable graph learning models for physics [ICML 2022][ICLR 2023]; 
+
+News
+
+2024/06 Our survey paper "Exploring the Opportunities and Challenges of Graph Neural Networks in Electrical Engineering" got accepted by Nature Reviews Electrical Engineering. Big congrats to Eli and Mufei, and the whole team!
+
+2024/06 Give a talk at SES AI  on Model Generalization and Foundation Models for Graphs.  
+
+2024/06 The paper on privacy-preserving structured data generation collaborated with JPMC got accepted by TMLR. Big congrats to Rongzhe and my collaborators.  
+
+2024/05 Three papers got accepted by ICML'24. Big congrats to the leading students Siqi, Shikun, Xiyuan, and other collaborators. 
+
+Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics (codes, oral)
+
+Pairwise Alignment Improves Graph Domain Adaptation (codes, spotlight)
+
+Graph As Point Set (codes)
+
+2024/04 Invited talk at UIUC CS Colloquium on "Challenges and Opportunities on Graph Machine Learning: A Study on Graph Data Distribution Shifts", many thanks for my great collaborator Han Zhao's invitation! I miss UIUC so much.
+
+2024/04 Big congrats to Haoteng, who has won the Purdue Teaching Academy Graduate Teaching Award for his GTA effort in 2023! 
+
+2024/03 Our project "Privacy-preserving Machine Learning on Graphs" got funded! Many thanks for NSF! I feel excited to work with Prof. Olgica Milenkovic and Prof. Kamarlika Chaudhuri on this project. Also, many thanks to Eli for assisting the team with the proposal writing. 
+
+2024/02 Give an invited talk at the Applied and Computational Math Seminar at GT.
+
+2024/02 Invited to give a talk "Machine Learning on Graphs --- Design System-friendly Algorithms" at CRNCH Summit 2024. 
+
+2024/01 One paper got accepted by WWW'24. Big congrats to Haoteng, Tianyi, and other collaborators. 
+
+Learning Scalable Structural Representations for Link Prediction with Bloom Signatures (codes)
+
+2024/01 Three papers got accepted by ICLR'24. Big congrats to Peihao, Yinan and Tianci and other collaborators. 
+
+Polynomial Width is Sufficient for Set Representation with High-dimensional Features
+
+On the Stability of Expressive Positional Encodings for Graphs (codes)
+
+Towards Poisoning Fair Representations 
+
+2023/11 Give an invited talk on "The Stability of Positional Encodings for Graphs" at Mathematical Machine Learning Seminar MPI + UCLA.
+
+2023/10 Our new work on graph anomaly detection (code) by leveraging our previous neighborhood reconstruction (code) gets accepted by WSDM'24. Big congrats to Amit and other collaborators! 
+
+2023/09 Our work on differentially private GNN (code) gets accepted by NeurIPS' 23. Big congrats to Eli and other collaborators!
+
+2023/08 The work HDE on distance encoding over heterogeneous networks got accepted by TKDE! Thanks for Prof. Chuan Shi leading this project.  
+
+2023/08 Received JP Morgan faculty research award!  Received Azure credits from GT IDEaS! Many thanks for the support!
+
+2023/06 The paper on SUREL+, which is an upgraded version of SUREL for subgraph representation learning gets accepted by VLDB'23 (codes). Congrats to Haoteng!
+
+2023/05 Give a talk on "Unsupervised learning for combinatorial optimization" at SIAM OP23.
+
+2023/04 One paper gets accepted by ICML'23 (submitted/accepted = 1/1)!  Big congrats to the leading student Shikun Liu and other collaborators!
+
+"Structural-reweighting Improves Graph Domain Adaptation" (codes): The project aims to address the generalization issue when we apply graph machine learning methods in science. We observe conditional structural distribution shifts in graph data including social networks and physics data. We give a formal mathematical definition of it and propose an algorithm based on graph structure bootstrapping to address the problem.
+
+2023/02 Give a keynote talk at AAAI DLG'23 workshop on "interpretable and trustworthy graph/geometric learning" (slides). 
+
+2023/01 Really excited to get the NSF CAREER award on the research project "Modern Machine Learning on Graphs: From Theory to Practice"!
+
+2023/01 One paper gets accepted by WWW'23 (submitted/accepted = 1/1)!  Big congrats to the leading students Susheel Suresh and other collaborators!
+
+Expressive and Efficient Representation Learning for Ranking Links in Temporal Graphs (codes)
+
+2023/01 Three papers get accepted by ICLR'23 (submitted/accepted = 3/3)!  Big congrats to the leading students Siqi Miao, Haoyu Wang, Peihao Wang, and other collaborators!
+
+"Interpretable Geometric Deep Learning via Learnable Randomness Injection, " (codes)
+
+"Equivariant Hypergraph Diffusion Neural Operators," (codes)
+
+"Unsupervised Learning for Combinatorial Optimization Needs Meta-Learning," (codes)
+
+2022/12 Invited to give a keynote talk on temporal graph representation learning at TGL Workshop (google.com) (my talk starts from 7:29:20) and to present at the panels of New Frontiers in Graph Learning (GLFrontiers) and TGL Workshop (google.com) [NeurIPS'22 activities]. 
+
+2022/12 Our paper on GNNs for pileup mitigation in high energy physics gets accepted by the European Physical Journal C. Big congrats to Shikun Liu, Tianchun Li and my great collaborators in physics, Yongbin Liu, Mia Liu, and Nhan Tran!
+
+2022/11 One paper gets accepted by LoG'22 with oral presentation and best paper award (only 2 papers)! Big congrats to Yuhong!
+
+"Neighborhood-aware Scalable Temporal Network Representation Learning," (codes). This work proposes a new framework to perform temporal network representation learning. Instead of tracking a long vector representation for each node, we propose to use a dictionary-type node representation that allows for online construction of structural features in temporal networks. We also propose a hash-type operation that allows fast manipulation of multiple dictionaries in parallel.   
+
+2022/11 Give a talk on our recent work on interpretable geometric deep learning for science at "AI + Math" Colloquia (SJTU) & Cross-Disciplinary AI Colloquia (PKU). You may find the recorded video here (in Chinese). 
+
+2022/11 Invited to present at the panel of ICAIF-22 Synthetic Data Workshop.
+
+2022/10 Give a keynote talk on Graph Machine Learning for Science at the FastML workshop slides. 
+
+2022/09 Two papers got accepted by NeurIPS'22 (submitted/accepted = 3/2)! Big congrats to Haoyu, Rongzhe, Haoteng, and Other Collaborators!
+
+"Unsupervised Learning for Combinatorial Optimization with Principled Objective Relaxation" (codes). This work shows that, how to relax a combinatorial optimization objective via neural networks, one may obtain a performance guarantee of the final integral solution by rounding the output of neural networks. We evaluate this idea over several graph optimization problems and circuit design problems. 
+
+"Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective"(codes) This work tries to establish the connection between Bayesian inference over a graphical model and Graph neural networks. With such a connection, we are able to measure the values of nonlinear operations in GNNs for the node classification task.  We obtain a “negative” result: When node attributes are not very informative, non-linear operations during the message are kind of useless, which matches many previous empirically successful architectures such as APPNP, GPRGNN and spectral GNNs such as JacobiConv...   
+
+2022/06 Welcome to submitting your papers to Learning on Graphs (LoG) conference! I serve as an area chair here.  
+
+2022/06: One paper got accepted by VLDB'22 (submitted/accepted = 1/1)! Big congrats to Haoteng and Other Collaborators!
+
+"Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning" (codes). This is our first work that tries to design a fast graph representation learning computation framework. We abandon the current pipeline of GNNs while adopting subgraph representation learning. Subgraph representation learning has several advantages over node-feature refinement adopted by traditional GNNs due to its stronger expressive power, better robustness, etc. This work can be viewed as a system acceleration of our previous algorithm/theory works on distance encoding, labeling tricks, etc..
+
+2022/05: One paper got accepted by KDD'22 (submitted/accepted = 2/1)! Big congrats to Yanchao, Carl and Others!
+
+"4SDrug: Symptom-based Set-to-set Small and Safe Drug Recommendation" (to be released)
+
+2022/05: One paper got accepted by ICML'22 (submitted/accepted =1/1)! Big congrats to Siqi and Miaoyuan!
+
+(Stochasticity makes GNNs more interpretable and generalizable) "Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism."  In this work, we showed the issues of posthoc model interpretation approaches. We also introduce a novel graph attention mechanism so that the model once trained can provide self-interpretation. The key idea is to inject stochasticity into the attention. (codes) 
+
+2022/03: Get the 2021 Sony Faculty Innovation Award! Big congrats! Thank Sony so much!
+
+2022/03: Give an invited talk on "Distance Features, Labeling Tricks? Towards More Powerful Graph Neural Networks" in the seminar on Learning on Graph and Geometry. Here are the slides.
+
+2022/03: One paper got accepted by CVPR'22 oral! My contributions are limited but big congrats to collaborators! I felt extremely happy to learn about this interesting application.
+
+ "Better Trigger Inversion Optimization in Backdoor Scanning, " Big congrats to Prof. Xiangyu Zhang and the team!![codes]
+
+2022/02: Give a keynote talk on "Foundations on  Deep Learning on Graphs" in AAAI, DLG workshop. Here are the slides.
+
+2022/02: Prof. Shandian Zhe, Prof. Nate Veldt and I are co-editing a special session on Machine Learning and Analysis on Multiway, Multi-relational Data and Higher-order Graphs  in the series of journal Frontiers in Big Data. We are looking forward to your contributions. 
+
+2022/02: One paper got accepted by DAC'22! Big congrats!
+
+(Benchmarking GNNs for Hardware Design Evaluation) "High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing," with Nan, Hang, Cellie and Prof. Xie. Recently, there has been a trend in the community of hardware design to use GNN models to fast evaluate the performance of a hardware design (such as latency, resource cost, etc). In this work, we benchmark different GNN models on hardware performance prediction tasks.  
+
+2022/01: Two papers got accepted by ICLR'22 (submitted/accepted =2/2)! Big congrats!
+
+(Theory for Positional Encoding) "Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks," with Haorui, Haoteng and Muhan. We explain the risk of being unstable (thus bad generalization) when naively using positional encoding as the node features. We propose provable techniques to address the problem,(codes)
+
+(Optimal Transport for Graph Encoding) "Graph Auto-Encoder via Neighborhood Wasserstein Reconstruction," with Mingyue and Carl. We study using optimal transport to perform graph autoencoding. (codes)   
+
+2022/01: Two paper got accepted by WWW'22  (submitted/accepted =2/2)! Big congrats! 
+
+(Higher-order structure prediction) "Neural Predicting Higher-order Patterns in Temporal Networks", with Yunyu and Jianzhu. This is Yunyu's first first-authored paper in my team. Big congrats! (codes)
+
+(Frequent Subgraph Mining) "SATMargin: Practical Maximal Frequent Subgraph Mining via Margin Space Sampling", with Muyi. This is a paper that comes from my course "Learning and Computation on Graphs".
+
+2021/11: I am invited to give a talk in Georgia Tech ECE on "Deep Learning on Graphs: Feature Augmentation for More Powerful Graph Models"
+
+2021/10: I am serving as a TPC for WWW'22
+
+2021/10: One paper gets accepted by NeurIPS'21 AI4Science 
+
+"Semi-supervised Graph Neural Network for Particle-level Noise Removal", with Tianchun, Shikun, Yongbin, Nhan, Mia. 
+
+In this project,  computer scientists and physicists from Purdue and  Fermi's lab are collaborated to use graph learning approaches to perform signal denoising in particle physics experiments. 
+
+2021/09: Five papers got accepted by NeurIPS'21  (submitted/accepted =8/5)! Big congrats! Many thanks for the big effort of my great collaborators!
+
+(Higher-order graph computation) "Local Hyper-Flow Diffusion", with Kimon and Shenghao (code) 
+
+(NAS foundation) "Generic Neural Architecture Search via Regression," with  Yuhong, Callie, Jinjun, Deming . (code) (Spotlight acceptance rate < 3%） 
+
+(GNN algorithm) "Adversarial Graph Augmentation to Improve Graph Contrastive Learning", with Susheel, Callie, Jennifer (code)
+
+(GNN foundation) "Labeling Trick: A Theory of Using Graph Neural Networks for Multi-Node Representation Learning," with Muhan, Yinglong, Kai, Long (code)
+
+(GNN algorithm) "Nested Graph Neural Networks,"  with Muhan (code)
+
+2021/09: I am serving as a TPC for SDM'22
+
+2021/09: Receive an HDR institute grant on "Accelerated AI Algorithms for Data-Driven Discovery". Thanks, NSF! 
+
+19 PIs on board come from different scientific domains including high-energy physics, astronomy, neuroscience, and engineering domains on machine learning and hardware design. 
+
+I am thrilled to work on the following related projects on pushing graph machine learning techniques for scientific discovery. 
+
+2021/09: I am serving as a TPC for WSDM'22, a senior PC for AAAI'22, a PC for ICLR'22. 
+
+2021/08: One paper gets accepted by ICDM'21!
+
+We generalize distance encoding by incorporating node types, which can be applied to heterogeneous networks! Joint work with Houye, Chuan,  Cheng!
+
+2021/06: Received JP Morgan faculty research award! Many thanks for the support! 
+
+2021/05: Invited talk on "Laplacian Operators for Hypergraphs with Applications in Spectral Clustering", in SIAM Applied Linear Algebra (LA21)
+
+2021/05: Two papers get accepted by KDD'21! Many thanks for the great effort from collaborators!
+
+We show how to adaptively combine proximity similarity and structure similarity to improve GNN's performance on networks that are agnostic to their associativity.  Joint work with Susheel, Vinith, Jennifer and Jianzhu.
+
+We apply GNNs to perform anomaly detection in large-scale industrial datasets from Amazon.   Joint work with Andrew, Rex, Nikhil , Karthik and Jure.
+
+2021/04: Invited talk on "Representation Learning on Temporal Networks", Amazon, DGL USER group. 
+
+2021/04: Invited talk on "Rethinking Graph Representation Learning --- Power and Robustness", UT-Austin,  Dr. Atlas Wang's group. 
+
+2021/04: Invited talk on "Graph Neural Networks: Motivations and Some Recent Progress", MIT, Dr. Gregory W Wornell's group. 
+
+2021/03: Invited talk on "Graph Neural Networks: Motivations and Some Recent Progress", Emory University, Dr. Carl Yang's group.  
+
+2021/02: One paper on "SW/HW co-design for memory-efficient low-latency personalized PageRank computation" got accepted by DAC'21. Thanks to the collaborators, Dr. Yao Cheng and Dr. Callie Hao. 
+
+2021/01: Three papers got accepted by WWW'21  (submitted/accepted =4/3)! 
+
+Strongly local algorithms for hypergraph clustering (cardinality-based hyperedge cut cost) with Meng, Nate, Haoyu and Dr. David Gleich
+
+Neural modeling of human interaction in offline games with Yanbang, Chongyang and Dr. Jure Leskovec
+
+Anomaly detection in data stream with multi-dim features with Siddharth, Arjit, Ritesh, Dr. Bryam Hooi
+
+2021/01: Two papers got accepted by ICLR' 21 (submitted/accepted =2/2)! 
+
+Neural modeling of network motifs: we proposed a novel neural encoding tool of network motifs, called  causal anonymous walk, to inductively represent network dynamics.  Casual anonymous walks automatically model and learn the impact of temporal network motifs on the evolvement of  network structures. For example, casual anonymous walks can be used to model the triadic closure in social network evolving. 
+
+Power of Generalized PageRank in GNNs: Generalized PageRank solves every issue known till now in GNNs for node classification, including the over-smoothing issue, the overfitting issue, and the inapplicability to heterophilic networks, etc. Our results show that for node classification, GNNs do not need to add any non-linearity during message passing procedure. Different hops of message passing being associated with scalar learnable weights is good enough to capture the potentially complex structural relation in node classification tasks. This observation also demonstrates our previous theory by analyzing random-walk-type message passing over networks.  
+
+2020/10: Anomaly detection in dynamic network paper F-FADE got accepted by WSDM'21!
+
+2020/09: Our graph information bottleneck paper got accepted by NeurIPS'20! 
+
+2020/09: Our distance encoding paper got accepted by NeurIPS'20 and is online! The paper is theoretical and rigorous. More illustrative examples can be found in the slides! 
+
+Distance encoding improves the power of GNNs from a novel angle rather than mimic WL tests! This method is extremely helpful in more-structural-related tasks: structural-role prediction, link prediction, triangle prediction! It can be be easily applied in any GNN models. 
+
+2020/08: Joined Purdue University! I start organizing my team and teaching!
+
+Google Sites
+Report abuse
+

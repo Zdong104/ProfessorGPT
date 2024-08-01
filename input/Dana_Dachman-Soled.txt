@@ -1,0 +1,343 @@
+Professor: Dana Dachman-Soled
+University: University of Maryland - College Park
+URL: https://ece.umd.edu/~danadach
+Description: 	
+
+Dana (Glasner) Dachman-Soled
+Associate Professor
+Department of Electrical and Computer Engineering and UMIACS
+Department of Computer Science (affiliate)
+Institute for Systems Research (ISR) (affiliate)
+University of Maryland
+Iribe 5238
+Iribe Center for Computer Science and Engineering
+8125 Paint Branch Dr.
+College Park, MD 20742
+
+
+Phone: (301) 405-9927
+Email: danadach at umd dot edu
+
+
+Research | Students | Publications | Teaching | Professional Activities
+
+About Me
+I am an associate professor in the Department of Electrical and Computer Engineering at the University of Maryland, College Park and a core faculty member of the Maryland Cybersecurity Center. I am supported in part by NSF, including an NSF CAREER award, and a Ralph E. Powe Junior Faculty Enhancement award. I am, or have been, supported in part by NIST, Cisco, Intel, JP Morgan, and Amazon. I am also the recipient of a Summer 2016 Research and Scholarship (RASA) award.
+Prior to joining University of Maryland, I spent two years as a postdoc at Microsoft Research New England. Before that, I completed my PhD at Columbia University under the supervision of Prof. Tal Malkin.
+Here is my CV (August 2022).
+
+Research Interests
+My research interests are in cryptography, complexity theory and security. I have broad interests in cryptography including security against physical attacks, post-quantum cryptography, secure multiparty computation, and black-box complexity. I am also interested in property testing of Boolean functions and cryptographic hardness of learning.
+Students and Postdocs
+
+Current PhD Students:
+Hunter Kippen
+Yvonne Zhou
+Rui Tang
+Russell Chiu
+
+Graduated PhD Students:
+Aishwarya Thiruvengadam (co-advised with Jonathan Katz). First position--postdoc at UCSB.
+Mukul Kulkarni. First position--postdoc at UMass Amherst.
+Huijing Gong. First position--Intel Labs.
+Aria Shahverdi. First position--Google.
+
+Postdocs (Current and Past):
+Mingyu Liang, Jan 2023-June 2024 (co-advised with Arkady Yerukhimovich)
+Jacob Alperin-Sherriff, Sep 2015-June 2016 (co-advised with Jonathan Katz).
+Feng-Hao Liu, Sep 2014-June 2015 (co-advised with Jonathan Katz and Elaine Shi).
+
+Visiting Researchers (Current and Past):
+Hai Huang, Fall 2015-Spring 2016.
+Vanishree Rao, Summer 2014.
+Publications
+
+
+
+Breaking RSA Generically is Equivalent to Factoring, with Preprocessing.
+D. Dachman-Soled, J. Loss, A. O'Neill
+ITC 2024, to appear. ePrint version
+
+Bounding the Excess Risk for Linear Models Trained on Marginal-Preserving, Differentially-Private, Synthetic Data.
+Y. Zhou, M. Liang, I. Brugere, D. Dachman-Soled, D. Dervovic, A. Polychroniadou, M. Wu.
+ICML 2024, to appear. arXiv version
+
+Extracting Randomness from Samplable Distributions, Revisited.
+M. Ball, D. Dachman-Soled, E. Goldin, S. Mutreja.
+FOCS 2023. ECCC version
+
+Revisiting Security Estimation for LWE with Hints from a Geometric Perspective.
+D. Dachman-Soled, H. Gong, T. Hanson, H. Kippen.
+CRYPTO 2023. ePrint version
+
+Secure Sampling with Sublinear Communication.
+S.G. Choi, D. Dachman-Soled, S.D. Gordon, L. Liu, A. Yerukhimovich.
+TCC 2022. ePrint version
+
+When Frodo Flips: End-to-End Key Recovery on FrodoKEM via Rowhammer.
+M. Fahr Jr., H. Kippen, A. Kwong, T. Dang, J. Lichtinger, D. Dachman-Soled, D. Genkin, A. Nelson, R. Perlner, A. Yerukhimovich, D. Apon.
+CCS 2022, RWC 2023. ePrint version
+
+(Nondeterministic) Hardness vs. Non-Malleability.
+M. Ball, D. Dachman-Soled, J. Loss.
+CRYPTO 2022. ePrint version
+
+BKW Meets Fourier: New Algorithms for LPN with Sparse Parities.
+D. Dachman-Soled, H. Gong, H. Kippen, A. Shahverdi.
+TCC 2021. ePrint version
+
+Compressed Oblivious Encoding for Homomorphically Encrypted Search.
+S. G. Choi, D. Dachman-Soled, D. Gordon, L. Liu, A. Yerukhimovich.
+CCS 2021. ePrint version
+
+Non-Malleable Codes for Bounded Parallel-Time Tampering.
+D. Dachman-Soled, I. Komargodski, R. Pass.
+CRYPTO 2021. ePrint version
+
+Database Reconstruction from Noisy Volumes: A Cache Side-Channel Attack on SQLite.
+A. Shahverdi, M. Shirinov, D. Dachman-Soled.
+USENIX 2021. arXiv version
+
+Revisiting Fairness in MPC: Polynomial Number of Parties and General Adversarial Structures.
+D. Dachman-Soled.
+TCC 2020. eprint version
+
+LWE with Side Information: Attacks and Concrete Security Estimation.
+D. Dachman-Soled, L. Ducas, H. Gong, M. Rossi.
+CRYPTO 2020. eprint version
+
+New Techniques for Zero-Knowledge: Leveraging Inefficient Provers to Reduce Assumptions, Interaction, and Trust.
+M. Ball, D. Dachman-Soled, M. Kulkarni.
+CRYPTO 2020. eprint version
+
+Differentially-Private Multi-Party Sketching for Large-Scale Statistics.
+S.G. Choi, D. Dachman-Soled, M. Kulkarni, A. Yerukhimovich.
+PETS 2020. eprint version
+
+How to Own the NAS in Your Spare Time.
+S. Hong, M. Davinroy, Y. Kaya, D. Dachman-Soled, T. Dumitras.
+ICLR 2020. arXiv version
+
+TMPS: Ticket-Mediated Password Strengthening.
+J. Kelsey, D. Dachman-Soled, S. Mishra, M.S. Turan.
+CT-RSA 2020. eprint version
+
+Limits to Non-Malleability.
+M. Ball, D. Dachman-Soled, M. Kulkarni, T. Malkin.
+ITCS 2020. eprint version
+
+(In)Security of Ring-LWE Under Partial Key Exposure.
+D. Dachman-Soled, H. Gong, M. Kulkarni, A. Shahverdi.
+Mathcrypt 2019.
+Proceedings will appear as a Special Issue of the Journal of Mathematical Cryptology.
+
+Towards a Ring Analogue of the Leftover Hash Lemma.
+D. Dachman-Soled, H. Gong, M. Kulkarni, A. Shahverdi.
+Mathcrypt 2019.
+Proceedings will appear as a Special Issue of the Journal of Mathematical Cryptology.
+
+Mitigating Reverse Engineering Attacks on Deep Neural Networks.
+Y. Liu, D. Dachman-Soled, A. Srivastava.
+ISVLSI 2019. pdf
+
+Non-Malleable Codes Against Bounded Polynomial Time Tampering.
+M. Ball, D. Dachman-Soled, M. Kulkarni, H. Lin, T. Malkin.
+Eurocrypt 2019. eprint version
+
+Constant-Round Group Key-Exchange from the Ring-LWE Assumption.
+D. Apon, D. Dachman-Soled, H. Gong, J. Katz.
+PQCrypto 2019. eprint version
+
+Upper and Lower Bounds for Continuous Non-Malleable Codes.
+D. Dachman-Soled, M. Kulkarni.
+PKC 2019. eprint version
+
+Non-Malleable Codes for Small-Depth circuits.
+M. Ball, D. Dachman-Soled, S. Guo, T. Malkin, L.Y. Tan.
+FOCS 2018. eprint version
+
+Non-Malleable Codes from Average-Case Hardness: AC0, Decision Trees, and Streaming Space-Bounded Tampering
+M. Ball, D. Dachman-Soled, M. Kulkarni, T. Malkin.
+Eurocrypt 2018. eprint version
+
+Local Non-Malleable Codes in the Bounded Retrieval Model
+D. Dachman-Soled, M. Kulkarni, A. Shahverdi.
+PKC 2018. eprint version
+
+On the Leakage Resilience of Ideal-Lattice Based Public Key Encryption
+D. Dachman-Soled, H. Gong, M. Kulkarni, A. Shahverdi.
+Manuscript. Can be found here.
+
+Improved, Black-Box, Non-Malleable Encryption from Semantic Security
+S. G. Choi, D. Dachman-Soled, T. Malkin, H. Wee.
+Designs, Codes and Cryptography. eprint version
+
+Tight Upper and Lower Bounds for Leakage-Resilient, Locally Decodable and Updatable Non-Malleable Codes
+D. Dachman-Soled, M. Kulkarni, A. Shahverdi
+PKC 2017; Information & Computation. eprint version
+
+
+Towards Non-Black-Box Separations of Public Key Encryption and One Way Functions
+D. Dachman-Soled
+TCC B-2016. eprint version
+
+Non-Malleable Codes for Bounded Depth, Bounded Fan-in Circuits
+M. Ball, D. Dachman-Soled, M. Kulkarni, T. Malkin
+Eurocrypt 2016. eprint version
+
+10-Round Feistel is Indifferentiable from an Ideal Cipher
+D. Dachman-Soled, J. Katz, A. Thiruvengadam
+Eurocrypt 2016. eprint version
+
+Leakage-Resilient Public-Key Encryption from Obfuscation
+D. Dachman-Soled, S.D. Gordon, F.H. Liu, A. O'Neill, H.S. Zhou
+PKC 2016; Journal of Cryptology 2019. eprint version
+
+
+Efficient Concurrent Covert Computation of String Equality and Set Intersection
+C. Cho, D. Dachman-Soled, S. Jarecki
+CT-RSA 2016. pdf
+
+Oblivious Network RAM and Leveraging Parallelism to Achieve Obliviousness
+D. Dachman-Soled, C. Liu, C. Papamanthou, E. Shi, U. Vishkin
+Asiacrypt 2015; Journal of Cryptology 2019. eprint version
+
+Leakage-Resilient Circuits Revisited -- Optimal Number of Computing Components without Leak-free Hardware
+D. Dachman-Soled, F. H. Liu, H. S. Zhou
+Eurocrypt 2015. eprint version
+
+Locally Decodable and Updatable Non-Malleable Codes and Their Applications
+D. Dachman-Soled, F. H. Liu, E. Shi, H. S. Zhou
+TCC 2015; Journal of Cryptology, to appear. eprint version
+
+Adaptively Secure, Universally Composable, Multi-Party Computation in Constant Rounds
+D. Dachman-Soled, J. Katz, V. Rao
+TCC 2015. eprint version
+
+Approximate resilience, monotonicity, and the complexity of agnostic learning
+D. Dachman-Soled, V. Feldman, L.Y. Tan, A. Wan, K. Wimmer
+SODA 2015. arXiv version
+
+Feasibility and Infeasibility of Secure Computation with Malicious PUFs
+D. Dachman-Soled, N. Fleischhacker, J. Katz, A. Lysyanskaya, D. Schröder
+Crypto 2014; Journal of Cryptology, to appear. eprint version
+
+Leakage-Tolerant Computation with Input-Independent Preprocessing
+N. Bitansky, D. Dachman-Soled, H. Lin
+Crypto 2014. pdf
+
+A Black-Box Construction of a CCA2 Encryption Scheme from a Plaintext Aware Encryption Scheme
+D. Dachman-Soled
+PKC 2014. eprint version
+
+On Minimal Assumptions for Sender-Deniable Public Key Encryption
+D. Dachman-Soled
+PKC 2014. eprint version
+
+Enhanced Chosen-Ciphertext Security and Applications
+D. Dachman-Soled, G. Fuchsbauer, P. Mohassel; A. O'Neill
+PKC 2014. eprint version
+
+Securing Circuits and Protocols Against 1/poly(k) Tampering Rate
+D. Dachman-Soled, Y. T. Kalai
+TCC 2014. eprint version
+
+Can Optimally-Fair Coin Tossing be Based on One-Way Functions?
+D. Dachman-Soled, M. Mahmoody, T. Malkin
+TCC 2014. pdf
+
+Adaptive and Concurrent Secure Computation from New Adaptive, Non-Malleable Commitments
+D. Dachman-Soled, T. Malkin, M. Raykova and M. Venkitasubramaniam
+Asiacrypt 2013. eprint version
+
+Why "Fiat-Shamir for Proofs" Lacks a Proof
+N. Bitansky, D. Dachman-Soled, S. Garg, A. Jain, Y. T. Kalai, A. Lopez-Alt, D. Wichs
+TCC 2013.
+Merge of this and this.
+
+On The Centrality of Off-Line E-Cash to Concrete Partial Information Games
+S. G. Choi, D. Dachman-Soled, M. Yung
+SCN 2012. pdf
+
+Securing Circuits Against Constant-Rate Tampering
+D. Dachman-Soled, Y. T. Kalai
+CRYPTO 2012. eprint version
+
+Efficient Password Authenticated Key Exchange via Oblivious Transfer
+R. Canetti, D. Dachman-Soled, V. Vaikuntanathan, H. Wee
+PKC 2012. pdf
+
+Computational Extractors and Pseudorandomness
+D. Dachman-Soled, R. Gennaro, H. Krawczyk, T. Malkin
+TCC 2012. eprint version
+
+A canonical form for testing Boolean function properties
+D. Dachman-Soled and R. Servedio
+RANDOM 2011. pdf
+
+Secure Efficient Multiparty Computing of Multivariate Polynomials and Applications
+D. Dachman-Soled, T. Malkin, M. Raykova and M. Yung
+ACNS 2011. pdf
+
+On the Black-Box Complexity of Optimally-Fair Coin Tossing
+D. Dachman-Soled, Y. Lindell, M. Mahmoody, T. Malkin
+TCC 2011. pdf
+
+Improved Non-Committing Encryption with Applications to Adaptively Secure Protocols
+S. G. Choi, D. Dachman-Soled, T. Malkin and H. Wee
+Asiacrypt 2009. pdf
+
+Efficient Robust Private Set Intersection
+D. Dachman-Soled, T. Malkin, M. Raykova and M. Yung
+ACNS 2009; International Journal of Applied Cryptography 2012. pdf
+
+Simple, Black-Box Constructions of Adaptively Secure Protocols
+S.G. Choi, D. Dachman-Soled, T. Malkin and H. Wee
+TCC 2009. pdf
+
+Optimal Cryptographic Hardness of Learning Monotone Functions
+D. Dachman-Soled, H. Lee, T. Malkin, R. Servedio, A. Wan and H. Wee
+ICALP 2008; Theory of Computing 2009. pdf
+
+Black-Box Construction a Non-Malleable Encryption Scheme from Any Semantically Secure One
+S.G. Choi, D. Dachman-Soled, T. Malkin and H. Wee
+TCC 2008; Journal of Cryptology 2018. pdf
+
+Distribution-Free Testing Lower Bounds for Basic Boolean Functions
+D. Glasner and R. Servedio
+RANDOM 2007; Theory of Computing 2009. pdf
+
+Configuration Reasoning and Ontology For Web
+D. Glasner and V. C. Sreedhar
+SCC, 2007. pdf
+
+Geometrical characteristics of regular polyhedra: Application to EXAFS studies of nanoclusters
+D. Glasner and A. I. Frenkel
+AIP Conf. Proc., 2007. pdf
+
+Geometry and Charge State of Mixed-Ligand Au13 Nanoclusters
+A. I. Frenkel, L. D. Menard, P. Northrup, J. A. Rodriquez, F. Zypman, D. Glasner, S.P. Gao, H. Xu, J.C. Yang and R.G. Nuzzo
+AIP Conf. Proc., 2007. pdf
+Teaching
+Spring 2024: Cryptography (ENEE/CMSC/MATH456).
+Spring 2023: Cryptography (ENEE/CMSC/MATH456).
+Fall 2022: Computer Systems Security ( ENEE457).
+Spring 2022: Cryptography (ENEE/CMSC/MATH456).
+Fall 2021: Computer Systems Security ( ENEE457).
+Fall 2020: Computer Systems Security ( ENEE457).
+Spring 2020: Cryptography (ENEE/CMSC/MATH456).
+Fall 2019: Computer Systems Security (ENEE457).
+Spring 2019: Cryptography (ENEE/CMSC/MATH456).
+Spring 2018: Introduction to Cryptology (ENEE459E/CMSC498R).
+Fall 2017: Computer Systems Security (ENEE457/CMSC498E).
+Spring 2017: Introduction to Cryptology (ENEE459E/CMSC498R).
+Spring 2016: Introduction to Cryptology (ENEE459E/CMSC498R).
+Fall 2015: Digital Logic (ENEE 244).
+Spring 2015: Introduction to Cryptology (ENEE459E/CMSC498R).
+Fall 2014: Digital Logic (ENEE 244).
+Spring 2014: Introduction to Cryptology (ENEE459E/CMSC498R).
+Fall 2013: Cryptography Against Physical Attacks (ENEE759O/CMSC858T).
+Professional Activities
+Program Committee member: SCN 2012, CRYPTO 2013, PKC 2016, TCC 2016A, CCS 2016, NDSS 2017, PKC 2017, CRYPTO 2017, TCC 2017, PKC 2018, CRYPTO 2018, EUROCRYPT 2019, TCC 2019, ASIACRYPT 2021, EUROCRYPT 2021.
+Program Chair: ITC 2022.
+

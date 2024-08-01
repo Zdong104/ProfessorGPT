@@ -1,0 +1,262 @@
+Professor: Brendan T. O'Connor 0001
+University: University of Massachusetts Amherst
+URL: http://brenocon.com/
+Description: 	
+Brendan T. O'Connor
+Associate Professor, College of Information and Computer Sciences
+Associate Director, Computational Social Science Institute
+University of Massachusetts Amherst
+brenocon@cs.umass.edu, @brendan642, orcid
+Room 238, Computer Science Building, 140 Governors Drive, Amherst, MA 01003
+
+I am an associate professor in the College of Information and Computer Sciences at UMass Amherst. My group is the SLANG Lab, part of UMass NLP. I am also an associate director of the Computational Social Science Institute, and affiliated with the UMass CogSci and the Centers for Data Science and Intelligent Information Retrieval.
+
+Links: CV, Bio, Teaching, Talks, Notes, Misc.
+
+Some current things:
+
+Spring 2024: I'm teaching CS 485, Applications of Natural Language Processing. (See also previous teaching.)
+I co-organized TADA 2023, the New Directions in Text as Data conference, on November 9-10, 2023, held here at UMass.
+
+Some current collaborative projects:
+
+Co-Insights: Fostering community collaboration to combat misinformation. We are part of the UMass team, in a multi-site project with several other institutions.
+Understanding variation in African American Language: Corpus and prosodic fieldwork perspectives; see also our earlier work in disparities in natural language processing.
+Analyzing Cross-country Bias in News Coverage of International Conflicts and Disasters, 2023 Interdisciplinary Research Grant Project.
+I recently co-organized a workshop, Bridging fieldwork, corpus, and experimental methods to study sociolectal variation, at the LSA Institute, July 8-9, 2023 at UMass! Tessa Masis and I are teaching a tutorial session there: Neural natural language processing methods for linguistic feature detection in sociolinguistic corpora.
+
+Research:
+What can statistical text analysis tell us about society? I develop text analysis methods that can help answer social science questions. I'm interested in statistical machine learning and natural language processing, especially when informed by or applied to areas like political science or sociolinguistics. My work often uses text data from news and social media.
+
+There is a rich set of other faculty at UMass interested in areas from computational social science to natural language processing. See the Computational Social Science Institute (CSSI) website, and UMass NLP affiliates.
+
+Background:
+I joined UMass after receiving my PhD from Carnegie Mellon University's Machine Learning Department. I have also been a Visiting Fellow at Harvard IQSS, and interned with the Facebook Data Science team. Before grad school, I worked on crowdsourced annotations at CrowdFlower / Dolores Labs, and natural language search at Powerset. I started studying the intersection of AI and social science as an undergrad and masters student in Stanford Symbolic Systems (cognitive science).
+
+Link: Full bio.
+
+Papers/Publications
+(For others, see Google Scholar or my CV.)
+Harnessing Toulmin's theory for zero-shot argument explication.
+Ankita Gupta, Ethan Zuckerman, and Brendan O'Connor.
+Forthcoming, Proceedings of ACL 2024.
+Abstract also to be presented at IC2S2 2024.
+The State of Relation Extraction Data Quality: Is Bigger Always Better?
+Erica Cai and Brendan O'Connor.
+Forthcoming, Findings of ACL 2024.
+Where on Earth Do Users Say They Are?: Geo-Entity Linking for Noisy Multilingual User Input.
+Tessa Masis and Brendan O'Connor.
+NLP+CSS Workshop at NAACL 2024.
+Abstract also to be presented at IC2S2 2024.
+Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations.
+Erica Cai and Brendan O'Connor.
+Proceedings of ACL 2023.
+"Let Me Just Interrupt You": Estimating Gender Effects in Supreme Court Oral Arguments.
+Erica Cai, Ankita Gupta, Katherine A. Keith, Brendan O'Connor, and Douglas Rice.
+SocArXiv preprint, Feb. 2023.
+Preliminary version presented at New Directions in Analyzing Text as Data (TADA 2022), titled Quantifying the Causal Effect of Gender on Interruptions in Supreme Court Oral Arguments.
+Press coverage: Axios
+Examining Political Rhetoric with Epistemic Stance Detection.
+Ankita Gupta, Su Lin Blodgett, Justin H. Gross, and Brendan O'Connor.
+NLP+CSS workshop at EMNLP 2022 (Proceedings of the Fifth Workshop on Natural Language Processing and Computational Social Science)
+ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution.
+Ankita Gupta, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.
+Findings of ACL: EACL 2023. Also earlier arxiv version (2022)
+A large-scale Twitter-based exploration of morphosyntactic geographic variation in African American English.
+Tessa Masis, Chloe Eggleston, Anissa Neal, Lisa Green, and Brendan O'Connor.
+Abstract presented at New Ways of Analyzing Variation (NWAV50), 2022.
+Cross-Dialect Social Media Dependency Parsing for Social Scientific Entity Attribute Analysis.
+Chloe Eggleston and Brendan O'Connor.
+Proceedings of the Workshop on Noisy User-generated Text (W-NUT) at COLING 2022.
+Link: Code repository, including paper erratum.
+Corpus-Guided Contrast Sets for Morphosyntactic Feature Detection in Low-Resource English Varieties.
+Tessa Masis, Anissa Neal, Lisa Green, and Brendan O'Connor.
+Proceedings of the 1st Field Matters Workshop on NLP Applications to Field Linguistics, at COLING 2022.
+Link: Code repository
+Paying Attention to the Algorithm Behind the Curtain.
+Arun Dunna, Katherine A. Keith, Ethan Zuckerman, Narseo Vallina-Rodriguez, Brendan O'Connor, and Rishab Nithyanand.
+Proceedings of the 2022 ACM Conference on Computer Supported Cooperative Work (ACM CSCW 2022).
+ClioQuery: Interactive Query-Oriented Text Analytics for Comprehensive Investigation of Historical News Archives.
+Abram Handler, Narges Mahyar, and Brendan O'Connor.
+ACM Transactions on Interactive Intelligent Systems, 2022.
+Runner-up for the ACM TiiS 2022 Best Paper Award.
+Links: ACM, arxiv
+Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects.
+Katherine A. Keith, Douglas Rice, and Brendan O'Connor.
+First Workshop on Causal Inference & NLP (CI-NLP) at EMNLP 2021.
+Abstract presented at 11th Annual Conference on New Directions in Analyzing Text as Data (TADA 2021).
+Challenges in Detecting Null Relativizers in African American Language for Sociolinguistic and Psycholinguistic Applications.
+Anissa Neal, Brendan O'Connor, and Lisa Green.
+Abstract presented at the UnImplicit workshop at ACL-IJCNLP 2021.
+Corpus-Level Evaluation for Event QA: The IndiaPoliceEvents Corpus Covering the 2002 Gujarat Violence.
+Andrew Halterman, Katherine A. Keith, Sheikh Muhammad Sarwar, and Brendan O'Connor.
+Findings of ACL 2021. Also presented at the CASE workshop at ACL-IJCNLP 2021
+Data and code, arxiv version (obsolete)
+How white is the global elite? An analysis of race, gender and network structure.
+Kevin L. Young, Seth K. Goldman, Brendan O'Connor, and Tuugi Chuluun.
+Global Networks. 2021.
+Honorable Mention, Political Ties Award for Best Published Article in 2021, APSA Political Networks section.
+See Kevin and Tuugi's article about this work at The Conversation.
+Links: Journal, PDF
+Uncertainty over Uncertainty: Investigating the Assumptions, Annotations, and Text Measurements of Economic Policy Uncertainty.
+Katherine A. Keith, Christoph Teichmann, Brendan O'Connor, and Edgar Meij.
+NLP+CSS workshop at EMNLP 2020 (Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science).
+Analyzing Gender Bias within Narrative Tropes.
+Dhruvil Gala, Mohammad Omar Khursheed, Hannah Lerner, Brendan O'Connor, and Mohit Iyyer.
+NLP+CSS workshop at EMNLP 2020 (Proceedings of the Fourth Workshop on Natural Language Processing and Computational Social Science).
+Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates.
+Katherine A. Keith, David Jensen, and Brendan O'Connor.
+Proceedings of ACL 2020.
+Investigating Sports Commentator Bias within a Large Corpus of American Football Broadcasts.
+Jack Merullo, Luke Yeh, Abram Handler, Alvin Grissom II, Brendan O'Connor, and Mohit Iyyer.
+Proceedings of EMNLP 2019.
+Data
+Press coverage: The Undefeated website, Twitter thread
+Query-focused Sentence Compression in Linear Time.
+Abram Handler and Brendan O'Connor.
+Proceedings of EMNLP 2019.
+Human acceptability judgements for extractive sentence compression.
+Abram Handler, Brian Dillon, and Brendan O'Connor.
+arxiv preprint, 2019.
+Uncertainty-aware generative models for inferring document class prevalence.
+Katherine A. Keith and Brendan O'Connor.
+Proceedings of EMNLP 2018.
+Website
+Twitter Universal Dependency Parsing for African-American and Mainstream American English.
+Su Lin Blodgett, Johnny Tian-Zheng Wei, and Brendan O'Connor.
+Proceedings of ACL 2018.
+Monte Carlo Syntax Marginals for Exploring and Using Dependency Parses.
+Katherine A. Keith, Su Lin Blodgett, and Brendan O'Connor
+Proceedings of NAACL 2018.
+Relational Summarization for Corpus Analysis.
+Abram Handler and Brendan O'Connor
+Proceedings of NAACL 2018.
+Understanding the Representational Power of Neural Retrieval Models Using NLP Tasks.
+Daniel Cohen, Brendan O'Connor, and W. Bruce Croft.
+Proceedings of ICTIR 2018.
+Evaluating Syntactic Properties of Seq2seq Output with a Broad Coverage HPSG: A Case Study on Machine Translation.
+Johnny Tian-Zheng Wei, Khiem Pham, Brian Dillon, and Brendan O'Connor,
+BlackboxNLP workshop at EMNLP 2018 (Analyzing and interpreting neural networks for NLP).
+A Probabilistic Approach for Learning with Label Proportions Applied to the US Presidential Election.
+Tao Sun, Daniel Sheldon, and Brendan O'Connor.
+Proceedings of ICDM 2017.
+Identifying civilians killed by police with distantly supervised entity-event extraction.
+Katherine A. Keith, Abram Handler, Michael Pinkham, Cara Magliozzi, Joshua McDuffie, and Brendan O'Connor.
+Proceedings of EMNLP 2017.
+Website
+Video presentation by Katherine A. Keith.
+ACL Anthology page
+Rookie: A unique approach for exploring news archives.
+Abram Handler and Brendan O'Connor.
+Workshop on Data Science + Journalism at KDD 2017.
+Website
+Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.
+Su Lin Blodgett and Brendan O'Connor.
+Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) workshop at KDD 2017.
+A Dataset and Classifier for Recognizing Social Media English.
+Su Lin Blodgett, Johnny Tian-Zheng Wei, and Brendan O'Connor.
+3rd Workshop on Noisy User-generated Text (W-NUT) at EMNLP 2017.
+Best paper award.
+Learning to Extract Events from Knowledge Base Revisions.
+Alexander Konovalov, Benjamin Strauss, Alan Ritter and Brendan O'Connor.
+Proceedings of WWW 2017.
+Bag of What? Simple Noun Phrase Extraction for Text Analysis.
+Abram Handler, Matthew J. Denny, Hanna Wallach, and Brendan O'Connor.
+NLP+CSS Workshop at EMNLP 2016.
+phrasemachine software
+Slides (presenation at Text as Data conference (TADA), October 2016)
+Demographic Dialectal Variation in Social Media: A Case Study of African-American English.
+Su Lin Blodgett, Lisa Green, and Brendan O'Connor.
+Proceedings of EMNLP 2016.
+Improving Entity Ranking for Keyword Queries.
+John Foley, Brendan O'Connor, and James Allan.
+Proceedings of CIKM 2016.
+Data
+Visualizing textual models with in-text and word-as-pixel highlighting.
+Abram Handler, Su Lin Blodgett, and Brendan O'Connor.
+At WHI 2016 - Workshop on Human Interpretability in Machine Learning (workshop at ICML 2016).
+Challenges of Visualizing Differentially Private Data.
+Dan Zhang, Michael Hay, Gerome Miklau and Brendan O'Connor.
+At TPDP 2016 - Theory and Practice of Differential Privacy (workshop at ICML 2016).
+Posterior calibration and exploratory analysis for natural language processing models.
+Khanh Nguyen and Brendan O'Connor.
+Proceedings of EMNLP 2015.
+Diffusion of lexical variation in online social media.
+Jacob Eisenstein, Brendan O'Connor, Noah A. Smith, and Eric P. Xing.
+PLOS-ONE, November 2014.
+Also arXiv:1210.5268; an earlier version was from Oct. 2012 and poster at NIPS 2012 Workshop on Social Network and Social Media Analysis.
+Thesis: Statistical Text Analysis for Social Science.
+Brendan O'Connor.
+PhD Thesis, Carnegie Mellon University, 2014.
+MiTextExplorer: Linked brushing and mutual information for exploratory text data analysis.
+Brendan O'Connor.
+ACL Workshop on Interactive Language Learning, Visualization, and Interfaces, June 2014. (Proceedings of ACL 2014.)
+Software website
+CMU: Arc-Factored, Discriminative Semantic Dependency Parsing.
+Sam Thomson, Brendan O'Connor, Jeffrey Flanigan, David Bamman, Jesse Dodge, Swabha Swayamdipta, Nathan Schneider, Chris Dyer, and Noah A. Smith.
+In SemEval-2014 (Proceedings of the International (COLING) Workshop on Semantic Evaluations, Dublin, Ireland, August 2014).
+Learning to Extract International Relations from Political Context.
+Brendan O'Connor, Brandon M. Stewart, and Noah A. Smith.
+Proceedings of ACL 2013.
+Poster, slides, appendix, software
+Learning Latent Personae of Film Characters.
+David Bamman, Brendan O'Connor, and Noah A. Smith.
+Proceedings of ACL 2013.
+Data
+Improved Part-of-Speech Tagging for Online Conversational Text with Word Clusters
+Olutobi Owoputi, Brendan O’Connor, Chris Dyer, Kevin Gimpel, Nathan Schneider and Noah A. Smith.
+Proceedings of NAACL 2013
+Software and data
+ARKref: a rule-based coreference resolution system.
+Brendan O'Connor and Michael Heilman.
+arXiv:1310.1975, Oct 2013.
+Learning Frames from Text with an Unsupervised Latent Variable Model.
+Brendan O'Connor.
+arXiv:1307.7382, Data Analysis Project report, Machine Learning Department, CMU. July 2013.
+A framework for (under)specifying dependency syntax without overloading annotators.
+Nathan Schneider, Brendan O’Connor, Naomi Saphra, David Bamman, Manaal Faruqui, Noah A. Smith, Chris Dyer, and Jason Baldridge.
+In Linguistic Annotation Workshop, 2013.
+[extended version arXiv:1306:2091]
+Censorship and Deletion Practices in Chinese Social Media.
+David Bamman, Brendan O'Connor, and Noah A. Smith.
+In First Monday 17.3, March 2012.
+[web] [pdf]
+Press coverage: BBC, New Scientist, etc.
+Computational Text Analysis for Social Science: Model Assumptions and Complexity.
+Brendan O'Connor, David Bamman, and Noah A. Smith.
+In NIPS Workshop on Comptuational Social Science and the Wisdom of Crowds, Sierra Nevada, Spain, December 2011.
+Predicting a Scientific Community's Response to an Article.
+Dani Yogatama, Michael Heilman, Brendan O'Connor, Chris Dyer, Bryan R. Routledge, and Noah A. Smith.
+In Proceedings of EMNLP 2011.
+Part-of-speech tagging for Twitter: Annotation, Features, and Experiments.
+Kevin Gimpel, Nathan Schneider, Brendan O'Connor, Dipanjan Das, Daniel Mills, Jacob Eisenstein, Michael Heilman, Dani Yogatama, Jeffrey Flanigan and Noah A. Smith.
+In ACL-2011 (short paper).
+Data and software
+A Mixture Model of Demographic Lexical Variation.
+Brendan O'Connor, Jacob Eisenstein, Eric P. Xing, and Noah A. Smith.
+In NIPS-2010 Workshop on Machine Learning and Social Computing.
+A Latent Variable Model for Geographic Lexical Variation.
+Jacob Eisenstein, Brendan O'Connor, Noah A. Smith, and Eric P. Xing.
+In Proceedings of EMNLP 2010 (presentation).
+Appendix
+Data
+Press coverage: New York Times, All Things Considered, BBC, Washington Post, Wall Street Journal, Associated Press, New Scientist, San Francisco Chronicle, Ars Technica, LA Weekly, MSNBC, etc.
+From Tweets to Polls: Linking Text Sentiment to Public Opinion Time Series.
+Brendan O'Connor, Ramnath Balasubramanyan, Bryan R. Routledge, and Noah A. Smith.
+In ICWSM-2010 (presentation).
+Video, Slides
+Press coverage: Pittsburgh Tribune-Review, Mashable, Ars Technica, New Scientist, CNN Tech, Fast Company, Science Now, Economic Times, BBC Radio 5 (at 13:00) and others.
+TweetMotif: Exploratory Search and Topic Summarization for Twitter.
+Brendan O'Connor, Michel Krieger, and David Ahn.
+In ICWSM-2010 (demo track).
+Demo
+Superficial Data Analysis: Exploring Millions of Social Stereotypes.
+Brendan O'Connor and Lukas Biewald.
+In Beautiful Data, ed. Toby Segaran and Jeff Hammerbacher. O'Reilly Media. 2009.
+Blog post, Data, Draft (with color)
+Cheap and Fast — But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks.
+Rion Snow, Brendan O’Connor, Daniel Jurafsky, and Andrew Y. Ng.
+In EMNLP-2008 (presentation).
+Blog post, Slides, Data
+@brenocon@masto.ai
+

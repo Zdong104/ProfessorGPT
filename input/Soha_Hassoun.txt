@@ -1,0 +1,136 @@
+Professor: Soha Hassoun
+University: Tufts University
+URL: http://www.cs.tufts.edu/~soha
+Description: soha hassoun
+Professor
+Computer Science (primary)
+Chemical & Biological Engineering
+Electrical & Computer Engineering
+Tufts University
+Info
+bio
+vita
+
+Teaching
+COMP166
+Computational Systems
+Biology
+
+EN1
+Computational
+Modeling and Design
+
+
+
+Contact Info
+177 College Ave
+Medford, MA 02155
+soha (at) cs.tufts.edu
+Follow @sohahassoun
+
+Office Hours
+See class-specific office hours
+
+
+Hassoun Lab
+MACHINE LEARNING + SYSTEMS BIOLOGY
+about     publications     members     collaborating labs     service
+The mission of my research lab is to develop ANALYSIS + DESIGN tools to advance (RE-)DESIGNING BIOLOGY. Our tools provide insight into complex biological systems. They also enable building novel biological components to produce useful chemicals and therapeutics. My lab now focuses on developing MACHINE LEARNING models that are custom-tailored for biological data to build such tools. My industrial and academic experiences in design automation for electronic systems informs how I approach re-designing biology.
+
+RESEARCH HIGHLIGHTS
+
+
+	
+Separate normalization of normal and [CLS] tokens in self-supervised transformers. Transformer models typically utilize a single normalization layer for both the class token [CLS] and normal tokens. We show a 2.7% performance improvement in image, natural, and graph tasks when utilizing separate normalization layers.
+Paper: On Separate Normalization in Self-supervised Transformers, NeurIPS, 2023
+
+
+
+	
+Enzyme-substrate interaction prediction using contrastive multiview coding (CMC).
+Two enzymes and a molecule; two molecules and an enzyme.
+These are two different views of an interaction. We stratify data and use CMC to outperform all known interaction prediction methods.
+Paper: CSI: Contrastive data Stratification for Interaction prediction and its application to compound–protein interaction prediction, Bioinformatics, 2023
+Software: CSI
+
+
+
+
+
+	
+What's new in computational methods for Metabolomics?
+Review article on novel methods for mass spec analysis with colleauges from the 2022 Dagstuhl seminar, “Computational Metabolomics: From Spectra to Knowledge”.
+Paper: Recent advances in mass spectrometry-based computational metabolomics, Current Opinion in Chemical Biology, 2023
+
+	
+Predicting site-of-metabolism for enzymatic reactions. Molecules are graphs. We can use GNNs to build SOM predictors for all classes of enzymes! Results demonstrate benefits to enhancing rule-based biotransformation prediction methods.
+Paper: Using Graph Neural Networks for Site-of-Metabolism Prediction and its Applications to Ranking Promiscuous Enzymatic Products. Bioinformatics, 2023
+Software: GNN-SOM
+
+
+	
+Learning to rank for metabolite annotation for metabolomics. Ensemble Spectral Prediction (ESP) impelments a novel pipleine that includes: molecular representation learning, spectral prediction with peak co-dependency analysis, and rank-based learning. Performance is improved up to 41% over MLPs.
+Paper: Ensemble Spectral Prediction (ESP) model for metabolite annotation, arxiv, 2022
+
+
+	
+Recommender Systems to recommend enzymes to molecules and vice versa. Boost-RS is a general recommender system that utilizes relational and group auxiliary data to boost learned representations. Boost-RS's versatility is demonstrated for matching molecules and enzymes.
+Paper: Boost-RS: Boosted Embeddings for Recommender Systems and its Application to Enzyme-Substrate Interaction Prediction, Bioinformatics, 2022
+Software: Boost-RS
+
+
+	
+Graph Matching and molecular alignment. A novel deep learning method for aligning two graphs, with application to molecular matching. Useful for knowing where two molecules match and differ.
+Paper: Stochastic Iterative Graph Matching, ICML, 2021
+Software: SIGMA
+
+	
+Enzyme Classification on Molecules. A new method for training enzyme-specific predictors that take as input a given query substrate molecule and return whether the enzyme would act on that substrate or not.
+Paper: Enzyme promiscuity prediction using hierarchy-informed multi-label classification, Bioinformatics, 2021
+Software: EPP-HMCNF
+
+	
+Metabolic Disruption analysis in engineered hosts. Engineering cellular hosts may result in unexpected and undesirable byproducts due to promiscuous interactions of native/heterelogous enzymes and molecules. These effects are not only disruptive to the host metabolism but also to the intended end-objective of high yield. How do you analyze such disruptions? MDFlow is the answer!
+Paper: Analysis of Metabolic Network Disruption in Engineered Microbial Hosts due to Enzyme PromiscuityMetabolic Engineering Communications, 2021
+
+
+	
+Enzymatic Link Prediction. Learning graph representations of biochemical networks and its application to predicting enzymatic links between two molecules.
+Paper: Learning graph representations of biochemical networks and its application to enzymatic link prediction, Bioinformatics, 2020
+Software: ELP
+
+	
+Probabilistic Analysis of Pathway Activities and Metabolite Annotations. Using inference, we learn the likelihood of metabolic pathways being responsible for presence of metabolomics measurements, and the likelihood of annotations.
+Paper: Pathway-Activity Likelihood Analysis and Metabolite annotation for Untargeted Metabolomics using Probabilistic Modeling, Metabolites 2020, 10(5)
+Software: PUMA
+Video (ISMB 2020, COMP MS track)
+
+	
+Extended Metabolic Models (EMMs). This workflow utilizes our tool PROXIMAL to create Extended Metabolic Models (EMMs) that contain not only canonical substrates and products of enzymes already cataloged for an organism, but also metabolites that can form due to substrate promiscuity. We created an EMM for E. coli and to analyze metabolomics data for CHO and murine cecal microbiota.
+Papers: Biological Filtering and Substrate Promiscuity Prediction for Annotating Untargeted Metabolomics, Metabolites, April 2020
+Towards creating an extended metabolic model (EMM) for E. coli using enzyme promiscuity prediction and metabolomics data, Microbial Cell Factories, 2019
+
+
+	
+Machine learning analysis pipeline for antibody sequences. Important features in antibody sequences are identified relative to a reference set using machine learning and statistical analysis.
+Paper: ASAP-SML: An Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning, PLOS Comp Bio, 2020
+Software: ASAP-SML
+
+	
+ProPASS. A workflow that links synthesis pathway construction with the exploration of available enzyme sequences that are predicted soluble in the host. ProSol DB is a database cataloging the predicted solubility of over 250,000 reviewed enzyme sequences from UNIPROT.
+Paper: Establishing synthesis pathway‐host compatibility via enzyme solubility, Biotechnology and Bioengineering 2019
+Software: ProSol DB
+
+	
+gEFM. A method for computing elementary flux modes.
+Paper: gEFM: An Algorithm for Computing Elementary Flux Modes Using Graph Traversal, IEEE Transactions on Computational Biology and Bioinformatics 2016
+Software: gEFM: graphical Elementary Flux Modes
+
+
+	
+PROXIMAL. A method to derive biotransformation operators from a reaction and to apply them to a target molecule. Operators can be applied to predict xenobiotic products (as suggested in the paper), or applied more generically to identify derivative metabolites for a specific query molecule and a specified enzyme.
+Paper: PROXIMAL: A Method for Prediction of Xenobiotic Metabolism, BMC Systems Biology 2015
+Software: PROXIMAL https://hassounlab.cs.tufts.edu/proximal/
+
+Interested in applying to work in my group through CS or the Bioengineering Track? Please read more! >>
+

@@ -1,0 +1,1127 @@
+Professor: David P. Woodruff
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~dwoodruf
+Description: 	
+David P. Woodruff
+
+Professor
+
+Theory Group, Department of Computer Science, Carnegie Mellon University
+
+Research interests : algorithms, data streams, machine learning, numerical linear algebra, sketching, and sparse recovery
+
+Contact: dwoodruf (at) cs (dot) cmu (dot) edu    or dpwoodru (at) gmail (dot) com
+
+
+I am currently the chair of CATCS . Please check it out - we welcome any suggestions.
+I was the PC chair of SODA, 2024 . The accepted papers are here. An alternative talk schedule format is here. A news article is here.
+I was the PC chair of ICALP, 2022 . The accepted papers are here.
+
+Copyright: Persons copying the material below should adhere to the terms of each author's copyright.
+
+
+Book
+Sketching as a Tool for Numerical Linear Algebra, Foundations and Trends in Theoretical Computer Science, vol 10, issue 1-2, pp. 1-157, 2014. You can download a free copy (for personal use only) here
+Simons Institute Foundations of Data Science: program page
+
+Teaching at CMU:
+
+I am honored to receive the Herbert Simon Award for teaching in computer science
+
+Fall 2017: 15859 - Algorithms for Big Data
+Spring 2018: 15451/651 - Algorithms
+Spring 2019: 15451/651 - Algorithms
+Fall 2019: 15859 - Algorithms for Big Data
+Spring 2020: 15451/651 - Algorithms
+Fall 2020: 15859 - Algorithms for Big Data
+Spring 2021: 15451/651 - Algorithms
+School of Computer Science, Executive Education, Online Course Algorithms and Data Structures
+Fall 2021: 15451/651 - Algorithms
+Fall 2021: 15859 - Algorithms for Big Data
+Fall 2022: 15451/651 - Algorithms
+Fall 2022: 15859 - Algorithms for Big Data
+Spring 2024: 15451/651 - Algorithms
+Spring 2024: 15851 - Algorithms for Big Data
+
+My Amazing Students and Postdocs
+Students:
+Ainesh Bakshi, co-advised with Pravesh Kothari, Ainesh graduated and is a postdoc at MIT
+Rajesh Jayaram , Raj has graduated, and has joined Google Research NYC as a Research Scientist
+Praneeth Kacham , Praneeth has graduated, and will join Google Research NYC as a Resesarch Scientist
+Honghao Lin
+Hoai-An Nguyen co-advised with Richard Peng
+Hai Pham co-advised with Barnabas Poczos. Hai has graduated and joined Reka AI
+Taisuke Yasuda , Tai has graduated, and will join the Voleon Group as a Member of the Research Staff
+Hongyang Zhang, co-advised with Nina Balcan. Hongyang has graduated, was a postdoc at TTIC, and is an assistant professor at the University of Waterloo
+
+
+Postdocs:
+William Swartworth
+Samson Zhou Samson was a postdoc at UC Berkeley/Rice and will join Texas A & M
+
+Teaching outside of CMU:
+
+
+CIS Algorithms/Learning/Optimization courses for high school and early undergraduates
+winter 2023 algorithms
+late fall 2022 algorithms
+fall 2022 algorithms (B class)
+fall 2022 algorithms
+summer 2022 algorithms
+late spring 2022 algorithms (2)
+late spring 2022 algorithms
+spring 2022 algorithms
+fall 2021 algorithms B
+fall 2021 algorithms
+summer 2021
+april 2021
+winter 2021
+winter 2020
+fall 2020
+summer 2020
+summer 2020 (long class)
+late spring 2020
+spring 2020
+winter 2020
+summer 2019 (long class)
+2017 Course on Sketching as a Tool for Numerical Linear Algebra
+All slides for 12 1-hour lectures slides l1LowRankSlides  weightedLowRankSlides
+2016 Summer School Course Slides (Sketching as a Tool for Numerical Linear Algebra)
+allLectures.pptx allLectures.pdf. The other slides for day 4 are regressionM and lowRankM and weighted
+Lecture Notes (MADALGO and BASICS)
+
+Here are three lectures, slight variants of which were given at the MADALGO summer school on streaming 2015 as well as the BASICS summer school on communication complexity 2015. The first lecture is an introduction to information theory for data streams, the second contains direct sum theorems for data streams, and the third covers multiplayer communication complexity.
+
+Lecture 1 Lecture 2 Lecture 3
+Publications
+2024
+RANDOM, Faster Algorithms for Schatten-p Low Rank Approximation (to appear)
+with Praneeth Kacham
+
+FOCS, A Strong Separation for Adversarially Robust $\ell_0$ Estimation for Linear Sketches (to appear)
+with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Zhou
+
+ICML, Sensitivity Sampling for Coreset-Based Data Selection (to appear)
+with Kyriakos Axiotis, Vincent Cohen-Addad, Monika Henzinger, Sammy Jerome, Vahab Mirrokni, David Saulpic, and Michael Wunder
+
+ICML, High-Dimensional Geometric Streaming for Nearly Low Rank Data (to appear)
+with Hossein Esfandiari, Praneeth Kacham, Vahab Mirrokni, and Peilin Zhong
+
+ICML, Fast White-Box Adversarial Streaming Without a Random Oracle (to appear)
+with Ying Feng and Aayush Jain
+
+ICML, Learning Multiple Secrets in Mastermind (to appear)
+with Milind Prabhu
+
+ICML, Fast Sampling-Based Sketches for Tensors (to appear)
+with William Swartworth
+Selected for Spotlight Presentation
+
+ICML, Dimension-Free Coresets for Multiple $\ell_p$ Regression (to appear)
+with Taisuke Yasuda
+
+ICML, Reweighted Solutions for Weighted Low Rank Approximation (to appear)
+with Taisuke Yasuda
+
+STOC, A New Information Complexity Measure for Multi-Pass Streaming with Applications (to appear)
+with Mark Braverman, Sumegha Garg, Qian Li, Shuo Wang, and Jiapeng Zhang
+
+STOC, Optimal Communication Bounds for Classic Functions in the Coordinator Model and Beyond (to appear)
+with Hossein Esfandiari, Praneeth Kacham, Vahab Mirrokni, and Peilin Zhong
+
+STOC, Improving the Bit Complexity of Communication for Distributed Convex Optimization (to appear)
+with Mehrdad Ghadiri, Yin Tat Lee, Swati Padmanabhan, William Swartworth, and Guanghao Ye
+
+ICLR, HyperAttention: Long-context Attention in Near-Linear Time
+Full version on arXiv
+with Insu Han, Rajesh Jayaram, Amin Karbasi, Vahab Mirrokni, and Amir Zandieh
+
+ICLR, Optimal Sketching for Residual Error Estimation for Matrix and Vector Norms
+Available here
+with Yi Li and Honghao Lin
+ICLR, Adaptive Regret for Bandits Made Possible: Two Queries Suffice
+Available here
+with Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, and Elad Hazan
+
+ITCS, Universal Matrix Sparsifiers and Fast Deterministic Algorithms and Fast Deterministic Algorithms for Linear Algebra
+Full version on arXiv
+with Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and Sushant Sachdeva
+
+ITCS, Space-Optimal Profile Estimation in Data Streams with Applications to Symmetric Functions
+Full version on arXiv
+with Justin Y. Chen and Piotr Indyk
+
+ITCS, Near-Linear Time and Fixed-Parameter Tractable Algorithms for Tensor Decompositions
+Full version on arXiv
+with Arvind V. Mahankali and Ziyu Zhang
+
+PODS, Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut (to appear)
+with Yu Cheng, Max Li, Honghao Lin, Zi-Yi Tai, and Jason Zhang
+
+PODS, Streaming Algorithms with Few State Changes (to appear)
+with Rajesh Jayaram and Samson Zhou
+
+2023
+NeurIPS, Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming
+Full version on arXiv
+with Gregory Dexter, Petros Drineas, and Taisuke Yasuda
+
+NeurIPS, Lower Bounds on Adaptive Sensing for Matrix Recovery
+Full version on arXiv
+with Praneeth Kacham
+
+NeurIPS, Computing Approximate Sensitivities
+Full version on arXiv
+with Swati Padmanabhan and Qiuyi Zhang
+
+NeurIPS, Hardness of Low Rank Approximation of Entrywise Transformed Matrix Products
+Full version on arXiv
+with Tamas Sarlos, Xingyou Song, and Qiuyi Zhang
+
+NeurIPS, On Robust Streaming for Learning with Experts: Algorithms and Lower Bounds
+Full version on arXiv
+with Fred Zhang and Samson Zhou
+
+NeurIPS, Near-Optimal k-Clustering in the Sliding Window Model
+Full version on arXiv
+with Peilin Zhong and Samson Zhou
+
+FOCS, Streaming Euclidean $k$-median and $k$-means with $o(\log n)$ Space
+Full version on arXiv
+with Vincent Cohen-Addad and Samson Zhou
+
+FOCS, Pseudorandom Hashing for Space-bounded Computation with Applications in Streaming
+Full version on arXiv
+with Praneeth Kacham, Rasmus Pagh, and Mikkel Thorup
+
+COLT, $\ell_p$-Regression in the Arbitrary Partition Model of Communication
+Full version on arXiv
+with Yi Li and Honghao Lin
+
+ICML, Improved Algorithms for White-Box Adversarial Streams
+Full version on arXiv
+with Ying Feng
+
+ICML, Fast $(1+\varepsilon)$-Approximation Algorithms for Binary Matrix Factorization
+Full version on arXiv
+with Ameya Velingker, Maximilian Votsch, and Samson Zhou
+
+ICML, Sharper Bounds for $\ell_p$ Sensitivity Sampling
+with Taisuke Yasuda
+Full version on arXiv
+Selected for short live presentation
+
+STOC, Optimal Eigenvalue Approximation via Sketching
+Full version on arXiv
+with William Swartworth
+
+STOC, New Subset Selection Algorithms for Low Rank Approximation: Offline and Online
+Full version on arXiv
+with Taisuke Yasuda
+
+Eurocrypt, On Differential Privacy and Adaptive Data Analysis with Bounded Space
+Full version on arXiv
+with Itai Dinur, Uri Stemmer, and Samson Zhou
+
+ICLR, Learning the Positions in CountSketch
+Full version on arXiv
+with Yi Li, Honghao Lin, Simin Liu, and Ali Vakilian
+Selected as a Notable-top-25% paper
+
+ICLR, Robust Algorithms on Adaptive Inputs from Bounded Adversaries
+Full version on arXiv
+with Yeshwanth Cherapanamjeri, Sandeep Silwal, Fred Zhang, Qiuyi Zhang, and Samson Zhou
+
+ICLR, Almost Linear Constant-Factor Sketching for l1 and Logistic Regression
+Full version on arXiv
+with Alexander Munteanu and Simon Omlor
+
+AISTATS, Optimal Sketching Bounds for Sparse Linear Regression
+Full version on arXiv
+with Tung Mai, Alexander Munteanu, Cameron Musco, Anup Rao, and Chris Schwiegelshohn
+
+ITCS, Recovery from Non-Decomposable Distance Oracles
+Full version on arXiv
+with Zhuangfei Hu, Xinda Li, Hongyang Zhang, and Shufan Zhang
+
+SODA, Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time
+Full version on arXiv
+with Yeshwanth Cherapanamjeri, Sandeep Silwal, and Samson Zhou
+
+SODA, The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines
+Full version on arXiv
+with Yi Li and Honghao Lin
+
+SODA, Near-Linear Sample Complexity for $L_p$ Polynomial Regression
+Full version on arXiv
+with Raphael A. Meyer, Cameron Musco, Christopher Musco, and Samson Zhou
+
+SODA, Online Lewis Weight Sampling
+Full version on arXiv
+with Taisuke Yasuda
+Invited to the special issue for SODA, 2023
+2022
+NeurIPS, Optimal Query Complexities for Dynamic Trace Estimation
+Full version on arXiv
+with Fred Zhang and Qiuyi Zhang
+
+FOCS, Active Linear Regression for lp Norms and Beyond
+Full version on arXiv
+with Cameron Musco, Christopher Musco, and Taisuke Yasuda
+
+FOCS, Testing Positive Semidefiniteness Using Linear Measurements
+Full version on arXiv
+with Deanna Needell and William Swartworth
+
+FOCS, High-Dimensional Geometric Streaming in Polynomial Space
+Full version on arXiv
+with Taisuke Yasuda
+
+RANDOM, Streaming Algorithms with Large Approximation Factors
+Full version on arXiv
+with Yi Li, Honghao Lin, and Yuheng Zhang
+
+RANDOM, Adaptive Sketches for Robust Regression with Importance Sampling
+Full version on arXiv
+with Sepideh Mahabadi and Samson Zhou
+
+ICML, Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra (to appear)
+Full version on arXiv
+with Nadiia Chepurko, Ken Clarkson, Lior Horesh, and Honghao Lin
+
+ICML, Sketching Algorithms and Lower Bounds for Ridge Regression (to appear)
+Full version on arXiv
+with Praneeth Kacham
+
+ICML, Learning Augmented Binary Search Trees (to appear)
+Full version on arXiv
+with Honghao Lin and Tian Luo
+
+ICML, Bounding the Width of Neural Networks via Coupled Initialization - A Worst Case Analysis (to appear)
+Full version on arXiv
+with Alexander Munteanu, Simon Omlor, and Zhao Song
+
+ICML, Leverage Score Sampling for Tensor Product Matrices in Input Sparsity Time (to appear)
+Full version on arXiv
+with Amir Zandieh
+
+PODS, The White-Box Adversarial Data Stream Model
+Full version on arXiv
+with Miklos Ajtai, Vladimir Braverman, T.S. Jayram, Sandeep Silwal, Alec Sun, and Samson Zhou
+STOC, Low-Rank Approximation with $1/\epsilon^{1/3}$ Matrix-Vector Products
+Full version on arXiv
+with Ainesh Bakshi and Ken Clarkson
+
+STOC, Memory Bounds for the Experts Problem
+with Vaidehi Srinivas, Ziyu Xu, and Samson Zhou
+Full version on arXiv
+
+ICLR, Triangle and Four Cycle Counting with Predictions in Graph Streams
+Full version on arXiv
+with Justin Y Chen, Talya Eden, Piotr Indyk, Honghao Lin, Shyam Narayanan, Ronitt Rubinfeld, Sandeep Silwal, Tal Wagner, and Michael Zhang
+
+ICLR, Learning-Augmented $k$-Means Clustering
+Full version on arXiv
+with Jon Ergun, Zhili Feng, Sandeep Silwal, and Samson Zhou
+Selected for Spotlight Presentation
+
+ICLR, Fast Regression for Structured Inputs
+Full version on arXiv
+with Raphael A. Meyer, Cameron Musco, Christopher Musco, and Samson Zhou
+
+RECOMB, A Fast, Provably Accurate Approximation Algorithm for Sparse Principal Component Analysis Reveals Human Genetic Variation Across the World
+Full version on bioRxiv
+with Agniva Chowdhury, Aritra Bose, Samson Zhou, and Petros Drineas
+
+ITCS, An Efficient Semi-Streaming PTAS for Tournament Feedback Arc Set with Few Passes
+Full version on arXiv
+with Anubhav Baweja and Justin Jia
+
+ITCS, Noisy Boolean Hidden Matching with Applications
+Full version on arXiv
+with Michael Kapralov, Amulya Musiplata, Jakab Tardos, and Samson Zhou
+
+SODA, Near-Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time
+Full version on arXiv
+with Nadiia Chepurko, Ken Clarkson, and Praneeth Kacham
+
+SODA, Frequency Estimation with One-Sided Error
+Full version on arXiv
+with Piotr Indyk and Shyam Narayanan
+
+SODA, Improved Algorithms for Low Rank Approximation from Sparsity
+Full version on arXiv
+with Taisuke Yasuda
+
+PODS, Truly Perfect Samplers for Data Streams and Sliding Windows
+Full version on arXiv
+with Rajesh Jayaram and Samson Zhou
+
+2021
+NeurIPS, Few-Shot Data-Driven Algorithms for Low Rank Approximation
+with Piotr Indyk and Tal Wagner
+Full version on OpenReview
+
+NeurIPS, Optimal Sketching for Trace Estimation
+Full version on arXiv
+with Shuli Jiang, Hai Pham, and Qiuyi Zhang
+Selected for Spotlight presentation
+
+NeurIPS, Linear and Kernel Classification in the Streaming Model: Improved Bounds for Heavy Hitters
+Full version on OpenReview
+with Arvind Mahankali
+
+FOCS, Tight Bounds for Adversarially Robust Streams and Sliding Windows via Difference Estimators
+Full version on arXiv
+with Samson Zhou
+
+IEEE Transactions on Information Theory, How to reduce dimension with PCA and random projections?
+Full version on arXiv
+with Fan Yang, Sifan Liu, and Edgar Dobriban
+
+Computing Community Consortium Research Horizons report, Visions in Theoretical Computer Science: A Report on the TCS Visioning Workshop, 2020
+Full version on arXiv
+with Shuchi Chawla, Jelani Nelson, and Chris Umans
+
+RANDOM, The Product of Gaussian Matrices is Close to Gaussian
+Available here
+with Yi Li
+
+COLT, Reduced-Rank Regression with Operator Norm Error
+with Praneeth Kacham
+Full version on arXiv
+
+COLT, Exponentially Improved Dimensionality Reduction for l1: Subspace Embeddings and Independence Testing
+Full version on arXiv
+with Yi Li and Taisuke Yasuda
+
+COLT, Average-Case Communication Complexity of Statistical Problems
+Full version on arXiv
+with Cyrus Rashtchian, Peng Ye, and Hanlin Zhu
+
+UAI, Non-PSD Matrix Sketching with Applications to Regression and Optimization
+Full version on arXiv
+with Zhili Feng and Fred Roosta-Khorasani
+
+ICML, Dimensionality Reduction for the Sum-of-Distances Metric
+Full version on arXiv
+with Zhili Feng and Praneeth Kacham
+Selected for long talk
+
+ICML, In-Database Regression in Input Sparsity Time
+Full version on arXiv
+with Rajesh Jayaram, Alireza Samadian, and Peng Ye
+
+ICML, Streaming and Distributed Algorithms for Robust Column Subset Selection
+Available here
+with Shuli Jiang, Dennis Li, Irene Mengze Li, and Arvind Mahankali
+
+ICML, Single Pass Entrywise-Transformed Low Rank Approximation
+Available here
+with Yifei Jiang, Yi Li, Yiming Sun, and Jiaxin Wang
+
+ICML, Oblivious Sketching for Logistic Regression
+Full version on arXiv
+with Alexander Munteanu and Simon Omlor
+
+ICML, Fast Sketching of Polynomial Kernels of Polynomial Degree
+Available here
+with Zhao Song, Zheng Yu, and Lichen Zhang
+
+CCC, A Simple Proof of a New Set Disjointness with Applications to Data Streams
+Full version: pdf
+with Akshay Kamath and Eric Price
+
+ICALP, Separations for Estimating Large Frequency Moments on Data Streams
+with Samson Zhou
+Full version on arXiv
+
+ICALP (invited paper), A Very Sketchy Talk
+pdf
+
+ICLR, Learning a Latent Simplex in Input Sparsity Time
+with Ainesh Bakshi, Chiranjib Bhattacharyya, Ravi Kannan, and Samson Zhou
+Version on OpenReview
+Selected for Spotlight presentation.
+ITCS, Simple Heuristics Yield Provable Algorithms for Masked Low Rank Approximation
+with Cameron Musco and Christopher Musco
+Earlier version on arXiv
+
+SOSA, Hutch++: Optimal Stochastic Trace Estimation
+with Raphael Meyer, Cameron Musco, and Christopher Musco
+Full version on arXiv
+
+SODA, Optimal $\ell_1$ Column Subset Selection and a Fast PTAS for Low Rank Approximation
+with Arvind Mahankali
+Full version on arXiv
+
+PODS, Subspace exploration: Bounds on Projected Frequency Estimation
+with Graham Cormode and Charlie Dickens
+Full version on arXiv
+
+2020
+NeurIPS, WOR and $p$'s: Sketches for $\ell_p$-Sampling Without Replacement
+with Edith Cohen and Rasmus Pagh
+Full version on arXiv
+
+NeurIPS, Revisiting the Sample Complexity of Sparse Spectrum Approximation of Gaussian Processes
+with Minh Hoang, Nghia Hoang, and Hai Pham
+Full version on arXiv
+
+FOCS, Robust and Sample Optimal Algorithms for PSD Low-Rank Approximation
+with Ainesh Bakshi and Nadiia Chepurko
+Full version on arXiv
+
+FOCS, The Coin Problem with Applications to Data Streams
+with Mark Braverman and Sumegha Garg
+Full version here
+
+FOCS, Near Optimal Linear Algebra in the Online and Sliding Window Models
+with Vladimir Braverman, Petros Drineas, Cameron Musco, Christopher Musco, Jalaj Upadhyay, and Samson Zhou
+Full version on arXiv
+
+APPROX, Streaming Complexity of SVMs
+with Alexandr Andoni, Collin Burns, Yi Li, and Sepideh Mahabadi
+Full version on arXiv
+
+APPROX, Weighted Maximum Independent Set of Geometric Objects in Turnstile Streams
+with Ainesh Bakshi and Nadiia Chepurko
+Full version on arXiv
+
+RANDOM, Vector-Matrix-Vector Queries for Solving Linear Algebra, Statistics, and Graph Problems
+with Cyrus Rashtchian and Hanlin Zhu
+Full version on arXiv
+
+ICML, Input-Sparsity Low Rank Approximation in Schatten Norm
+with Yi Li
+Full version on arXiv
+
+ICML, Near Input Sparsity Time Kernel Embeddings via Adaptive Sampling
+with Amir Zandieh
+Full version on arXiv
+
+EC, Optimal Communication-Distortion Tradeoff in Voting
+with Debmalya Mandal and Nisarg Shah
+Full version here
+
+PODS, A Framework for Adversarially Robust Streaming Algorithms
+with Omri Ben-Eliezer, Rajesh Jayaram, and Eylon Yogev
+Full version on arXiv
+PODS Best Paper Award, 2020
+Invited to the Journal of the ACM
+2021 ACM SIGMOD Research Highlight Award
+Invited to Highlights of Algorithms (HALG) 2021
+
+STOC, Non-Adaptive Adaptive Sampling on Turnstile Streams
+with Sepideh Mahabadi, Ilya Razenshteyn, and Samson Zhou
+Full version on arXiv
+
+WWW (The Web Conference), LSF-Join: Locality Sensitive Filtering for Distributed All-Pairs Similarity Under Skew
+with Cyrus Rashtchian and Aneesh Sharma
+Full version on arXiv
+
+AISTATS, Optimal Deterministic Coresets for Ridge Regression
+with Praneeth Kacham
+Main, Supplementary
+
+AISTATS, Automatic Differentiation of Sketched Regression
+with Hang Liao, Barak A. Pearlmutter, and Vamsi k. Potluru
+Main, Supplementary
+
+ICLR, Span Recovery for Deep Neural Networks with Applications to Input Obfuscation
+with Rajesh Jayaram and Richard Zhang
+Version on OpenReview
+
+ICLR, Learning-Augmented Data Stream Algorithms
+with Tanqiu Jiang, Yi Li, Honghao Lin, and Yisong Ruan
+Version on OpenReview
+
+ITCS, Graph Spanners in the Message-Passing Model
+with Manuel Fernandez and Taisuke Yasuda
+Full version on arXiv
+
+ITCS, Pseudo-deterministic Streaming
+with Shafi Goldwasser, Ofer Grossman, and Sidhanth Mohanty
+Full version on arXiv
+
+SODA, Oblivious Sketching of High-Degree Polynomial Kernels
+with Thomas D. Ahle, Michael Kapralov, Jakob B. T. Knudsen, Rasmus Pagh, Ameya Velingker, and Amir Zandieh
+Initial version on arXiv
+Merged conference version here
+
+SODA, Tight Bounds for the Subspace Sketch Problem
+with Yi Li and Ruosong Wang
+Full version on arXiv
+
+SODA, The Communication Complexity of Optimization
+with Santosh Vempala and Ruosong Wang
+Full version on arXiv
+Invited to Highlights of Algorithms (HALG), 2020
+2019
+NeurIPS, Efficient and Thrifty Voting by Any Means Necessary
+with Debmalya Mandal, Ariel Procaccia, and Nisarg Shah
+Selected for Oral Presentation (36 out of 1428 accepted papers)
+here
+
+NeurIPS, Regularized Weighted Low Rank Approximation
+with Frank Ban and Richard Zhang
+here
+Full version on arXiv
+
+NeurIPS, Optimal Sketching for Kronecker Product Regression and Low Rank Approximation
+with Huaian Diao, Rajesh Jayaram, Zhao Song, and Wen Sun
+Full version on arXiv
+
+NeurIPS, Total Least Squares Regression in Input Sparsity Time
+with Huaian Diao, Zhao Song, and Xin Yang
+Full version on arXiv
+
+NeurIPS, Tight Dimensionality Reduction for Sketching Low Degree Polynomials
+with Michela Meister and Tamas Sarlos
+here
+
+NeurIPS, Average Case Column Subset Selection for Entrywise $\ell_1$-Norm Loss
+with Zhao Song and Peilin Zhong
+Full version is second half of this on arXiv
+
+NeurIPS, Towards a Zero-One Law for Column Subset Selection
+with Zhao Song and Peilin Zhong
+Full version is first half of this on arXiv
+
+APPROX, The Query Complexity of Mastermind with Lp Distances
+with Manuel Fernandez and Taisuke Yasuda
+Full version on arXiv
+
+APPROX, Towards Optimal Moment Estimation in Streaming and Distributed Models
+with Rajesh Jayaram
+Full version on arXiv
+
+ICML, Dimensionality Reduction for Tukey Regresion
+with Ken Clarkson and Ruosong Wang
+Full version on arXiv
+
+ICML, Tight Kernel Query Complexity of Kernel Ridge Regression and Kernel $k$-Means Clustering
+with Manuel Fernandez and Taisuke Yasuda
+Full version on arXiv
+Selected for a long talk
+
+ICML, Faster Algorithms for Boolean Matrix Factorization
+with Ravi Kumar, Rina Panigrahy, and Ali Rahimi
+Full version here
+slides
+Selected for a long talk
+
+ICALP, Robust Communication-Optimal Distributed Clustering
+with Pranjal Awasthi, Ainesh Bakshi, Nina Balcan, and Colin White
+Full version on arXiv
+
+ICALP, Querying a Matrix through Matrix-Vector Products
+with Xiaoming Sun, Guang Yang, and Jialin Zhang
+Full version on arXiv
+
+ICALP, Separating k-Player from t-Player One-Way Communication
+with Guang Yang
+Full version on arXiv
+
+COLT, Learning Two Layer Rectified Neural Networks in Polynomial Time
+with Ainesh Bakshi and Rajesh Jayaram
+Full version on arXiv
+
+COLT, Faster Algorithms for High Dimensional Robust Covariance Estimation
+with Yu Cheng, Ilias Diakonikolas, and Rong Ge
+Full version on arXiv
+
+COLT, Sample-Optimal Low-Rank Approximation of Distance Matrices
+with Piotr Indyk, Ali Vakilian, and Tal Wagner
+Full version on arXiv
+
+PODS, Weighted Reservoir Sampling from Distributed Streams
+with Rajesh Jayaram, Gokarna Sharma, and Srikanta Tirthapura
+Full version on arXiv
+
+SOCG, The One-Way Communication Complexity of Dynamic Time Warping Distance
+with Vladimir Braverman, Moses Charikar, William Kuszmaul, and Lin F. Yang
+Full version on arXiv
+Invited to the special issue for SOCG, 2019
+AISTATS, Conditional Sparse L_p-norm Regression with Optimal Probability
+with John Hainline, Brendan Juba, and Hai S. Le
+Full version on arXiv
+
+RECOMB, Sketching Algorithms for Genomic Data Analysis and Querying in a Secure Enclave
+Preliminary full version on biorXiv
+with Can Kockan, Kaiyuan Zhu, Natnatee Dokmai, Nikolai Karpov, M. Oguzhan Kulekci, and S. Cenk Sahinalp
+
+AAAI, Sublinear Time Numerical Linear Algebra for Structured Matrices
+with Xiaofei Shi
+Full version on arXiv
+
+SODA, Testing Matrix Rank, Optimally
+with Nina Balcan, Yi Li, and Hongyang Zhang
+Full version on arXiv
+
+SODA, A PTAS for $\ell_p$ Low Rank Approximation
+with Frank Ban, Vijay Bhattiprolu, Karl Bringmann, Pavel Kolev, and Euiwoong Lee
+Full version on arXiv
+
+SODA, Relative Error Tensor Low Rank Approximation
+with Zhao Song and Peilin Zhong
+Full version on arXiv
+
+SODA, Tight Bounds for $\ell_p$ Oblivious Subspace Embeddings
+with Ruosong Wang
+Full version on arXiv
+slides
+Invited to the special issue for SODA, 2019
+
+ 
+
+2018
+NeurIPS, Sublinear Time Low-Rank Approximation of Distance Matrices
+with Ainesh Bakshi
+Full version on arXiv
+Selected for Spotlight presentation.
+NeurIPS, On Coresets for Logistic Regression
+with Alexander Munteanu, Chris Schwiegelshohn, and Christian Sohler
+Full version on arXiv
+Selected for Spotlight presentation.
+NeurIPS, Robust Subspace Approximation in a Stream
+with Roie Levin and Anish Sevekari
+pdf
+Full version pdf
+Selected for Spotlight presentation.
+FOCS, Strong Coresets for k-Median and Subspace Approximation, Goodbye Dimension
+with Christian Sohler
+pdf
+long slides
+
+FOCS, Perfect $L_p$ Sampling in a Data Stream
+with Rajesh Jayaram
+Full version on arXiv
+
+APPROX, On Sketching the q to p Norms pdf
+with Aditya Krishnan and Sidhanth Mohanty
+
+APPROX, On Low-Risk Heavy Hitters and Sparse Recovery Schemes
+Full version on arXiv
+with Yi Li and Vasileios Nakos
+
+APPROX, Nearly Optimal Distinct Elements and Heavy Hitters on Sliding Windows pdf
+with Vladimir Braverman, Elena Grigorescu, Harry Lang, and Samson Zhou
+
+ICML, Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski $p$-Norms pdf and supplementary pdf
+with Graham Cormode and Charlie Dickens
+Selected for a long talk
+
+ICML, Matrix Norms in Data Streams: Faster, Multi-Pass and Row-Order
+Full version on arXiv
+with Vladimir Braverman, Stephen R. Chestnut, Robert Krauthgamer, Yi Li, and Lin Yang
+
+KDD, An Empirical Evaluation of Sketching for Numerical Linear Algebra pdf
+with Yogesh Dahiya and Dimitris Konomis
+
+ICALP, Revisiting Frequency Moment Estimation in Random Order Streams
+Full version on arXiv
+with Vladimir Braverman, Emanuele Viola, and Lin Yang
+
+ICALP, High Probability Frequency Moment Sketches
+Full version on arXiv
+with Sumit Ganguly
+ICALP, Improved Algorithms for Adaptive Compressed Sensing
+Full version on arXiv
+with Vasileios Nakos, Xiaofei Shi, and Hongyang Zhang
+PODS, Data Streams with Bounded Deletions
+Full version on arXiv
+with Rajesh Jayaram
+PODS, Distributed Statistical Estimation of Matrix Products with Appliations pdf
+with Qin Zhang
+AISTATS, Sketching for Kronecker Product Regression and P-splines
+Full version on arXiv
+with Huaian Diao, Zhao Song, and Wen Sun
+Selected for oral presentation
+ITCS, Spectrum Approximation Beyond Fast Matrix Multiplication: Algorithms and Hardness
+Full version on arXiv
+with Cameron Musco, Praneeth Netrapalli, Aaron Sidford, and Shashanka Ubaru
+ITCS, Matrix Completion and Related Problems via Strong Duality
+Full version on arXiv
+with Nina Balcan, Yingyu Liang, and Hongyang Zhang
+
+ 
+
+2017
+NIPS, Approximation Algorithms for $\ell_0$-Low Rank Approximation
+Full version on arXiv
+with Karl Bringmann and Pavel Kolev
+NIPS, Near Optimal Sketching of Low-Rank Tensor Regression
+Full version on arXiv
+with Jarvis Haupt and Xingguo Li
+NIPS, Is Input Sparsity Time Possible for Kernel Low-Rank Approximation? pdf
+with Cameron Musco
+FOCS, Sublinear Time Low-Rank Approximation of Positive Semidefinite Matrices
+Full version on arXiv
+with Cameron Musco
+Long talk Short talk
+FOCS, Optimal Lower Bounds for Universal Relation, and for Samplers and Finding Duplicates in Streams
+Full version on arXiv
+with Michael Kapralov, Jelani Nelson, Jakub Pachocki, Zhengyu Wang and Mobin Yahyazadeh
+RANDOM, Sharper Bounds for Regularized Data Fitting
+Full version on arXiv
+with Haim Avron and Ken Clarkson
+ICML, Algorithms for $\ell_p$ Low-Rank Approximation pdf
+Full version on arXiv
+with Flavio Chierichetti, Sreenivas Gollapudi, Ravi Kumar, Silvio Lattanzi, and Rina Panigrahy
+ICALP, Embeddings of Schatten Norms with Applications to Data Streams
+Full version on arXiv
+with Yi Li
+ICALP, Fast Regression with an $\ell_\infty$ Guarantee pdf
+with Eric Price and Zhao Song
+STOC, Low Rank Approximation with Entrywise $\ell_1$-Norm Error
+Full version on arXiv
+with Zhao Song and Peilin Zhong
+talk
+PODS, BPTree: an L2 Heavy Hitters Algorithm Using Constant Memory
+Full version on arXiv
+with Vladimir Braverman, Stephen R. Chestnut, Nikita Ivkin, Jelani Nelson, and Zhengyu Wang
+SODA, Low-Rank PSD Approximation in Input-Sparsity Time pdf
+with Ken Clarkson
+talk
+SODA, Adaptive Matrix Vector Product pdf
+with Santosh Vempala
+talk
+
+ 
+
+2016
+Scientific Reports, True Randomness from Big Data
+with Periklis Papakonstantinou and Guang Yang
+Full version here
+NIPS, Communication-Optimal Distributed Clustering pdf
+with Jiecao Chen, He Sun, and Qin Zhang
+NIPS, Sublinear Time Orthogonal Tensor Decomposition pdf
+with Zhao Song and Huan Zhang
+SPAA, Brief Announcement: Applications of Uniform Sampling: Densest Subgraph and Beyond pdf
+with Hossein Esfandiari and Mohammad Taghi Hajiaghayi
+Full version on arXiv
+RANDOM, Tight Bounds for Sketching the Operator Norm, Schatten Norms, and Subspace Embeddings pdf
+with Yi Li
+See Sicomp version for improved bounds
+ESA, Stochastic Streams: Sample Complexity vs. Space Complexity pdf
+with Michael Crouch, Andrew McGregor, and Gregory Valiant
+Talk
+KDD, Communication Efficient Distributed Kernel Principal Component Analysis pdf
+with Maria-Florina Balcan, Yingyu Liang, Le Song, and Bo Xie
+Full version on arXiv
+ICML, How to Fake Multiply by a Gaussian Matrix
+Full version on arXiv
+with Michael Kapralov and Vamsi k. Potluru
+Note: the original version claimed a stronger upper bound, which was incorrect - we have shown tight matching bounds in the corrected version
+
+ICALP, Optimal Approximate Matrix Product in Terms of Stable Rank pdf
+with Michael B. Cohen and Jelani Nelson
+Full version on arXiv
+ICDT (invited paper), New Algorithms for Heavy Hitters in Data Streams
+Full version on arXiv
+Talk
+PODS, An Optimal Algorithm for l1-Heavy Hitters in Insertion Streams and Related Problems pdf
+Full version on arXiv
+with Arnab Bhattacharyya and Palash Dey
+PODS, Streaming Space Complexity of Nearly All Functions of One Variable on Frequency Vectors pdf
+Full version on arXiv
+with Vladimir Braverman, Stephen R. Chestnut, and Lin F. Yang
+CCC, New Characterizations in Turnstile Streams with Applications pdf
+with Yuqing Ai, Wei Hu, and Yi Li
+STOC, Beating CountSketch for Heavy Hitters in Insertion Streams pdf 
+with Vladimir Braverman, Stephen R. Chestnut, and Nikita Ivkin
+Full version on arXiv
+Talk
+STOC, On Approximating Functions of the Singular Values in a Stream pdf
+with Yi Li
+Full version on arXiv
+Talk
+STOC, Communication Lower Bounds for Statistical Estimation Problems via a Distributed Data Processing Inequality pdf
+Full version on arXiv
+with Mark Braverman, Ankit Garg, Tengyu Ma, and Huy L. Nguyen
+STOC, Optimal Principal Component Analysis in Distributed and Streaming Models pdf
+Full version on arXiv
+with Christos Boutsidis and Peilin Zhong
+Talk
+STOC, Weighted Low Rank Approximations with Provable Guarantees pdf
+with Ilya Razenshteyn and Zhao Song
+Talk
+ICDE, Distributed Low Rank Approximation of Implicit Functions of a Matrix pdf
+with Peilin Zhong
+SODA, Nearly-optimal bounds for sparse recovery in generic norms, with applications to k-median sketching pdf
+with Arturs Backurs, Piotr Indyk and Ilya Razenshteyn
+ITCS, On Sketching Quadratic Forms pdf
+Merging of full versions of papers arXiv and arXiv
+with Alexandr Andoni, Jiecao Chen, Bo Qin, Robert Krauthgamer, Qin Zhang
+
+ 
+
+2015
+
+FOCS, Input Sparsity and Hardness for Robust Subspace Approximation pdf
+with Ken Clarkson
+talk
+APPROX, Tight Bounds for Graph Problems in Insertion Streams pdf
+with Xiaoming Sun
+talk
+ICALP, The Simultaneous Communication of Disjointness with Applications to Data Streams pdf
+with Omri Weinstein
+ICALP, Amplification of One-Way Information Complexity via Codes and Noise Sensitivity
+Full version on ECCC
+with Marco Molinaro and Grigory Yaroslavtsev
+PODS, The Communication Complexity of Distributed Set-Joins with Applications to Matrix Multiplication pdf
+with Dirk Van Gucht, Ryan Williams, and Qin Zhang
+talk
+SODA, Sketching for M-Estimators: A Unified Approach to Robust Regression pdf
+with Ken Clarkson
+talk
+2014
+Bulletin of EATCS, Data Streams and Applications pdf
+NIPS, Subspace Embeddings for the Polynomial Kernel pdf
+with Haim Avron and Huy L. Nguyen
+NIPS, Low Rank Approximation Lower Bounds in Row-Update Streams pdf
+NIPS, Improved Distributed Principal Component Analysis pdf
+with Nina Balcan, Vandana Kanchanapally, and Yingyu Liang
+DISC, On the Communication Complexity of Linear Algebraic Problems in the Message Passing Model
+Full version on arXiv
+with Yi Li, Xiaoming Sun, and Chengu Wang
+RANDOM, Certifying Equality with Limited Interaction pdf
+with Joshua Brody, Amit Chakrabarti, Ranganath Kondapally, and Grigory Yaroslavtsev
+KDD, Improved Testing of Low Rank Matrices pdf
+Invited to the special issue for KDD, 2014 in Transactions on Knowledge Discovery from Data
+with Yi Li and Zhengyu Wang
+One of nine best papers in KDD.
+COLT, Principal Component Analysis and Higher Correlations for Distributed Data
+Full version: pdf
+with Ravi Kannan and Santosh Vempala
+PODC, Spanners and Sparsifiers for Dynamic Streams pdf
+Invited to the special issue for PODC, 2014 in Distributed Computing
+with Michael Kapralov
+PODC, Beyond Set Disjointness: The Communication Complexity of Finding the Intersection pdf
+with Joshua Brody, Amit Chakrabarti, Ranganath Kondapally, and Grigory Yaroslavtsev
+PODS, Is Min-Wise Hashing Optimal for Summarizing Set Intersection? pdf
+with Rasmus Pagh and Morten Stockel
+STOC, Optimal CUR Matrix Decompositions
+Full version on arXiv
+with Christos Boutsidis
+Talk
+STOC, Turnstile Streaming Algorithms Might as Well Be Linear Sketches pdf
+with Yi Li and Huy L. Nguyen
+Talk
+SODA, On Sketching Matrix Norms and the Top Singular Vector
+pdf
+with Yi Li and Huy L. Nguyen
+See Sicomp version for improved bounds
+SODA, An Optimal Lower Bound for Distinct Elements in the Message Passing Model
+pdf
+with Qin Zhang
+VLDB, Multi-Tuple Deletion Propagation: Approximations and Complexity (in PVLDB 2013 proceedings, presented in VLDB 2014)
+pdf
+with Benny Kimelfeld and Jan Vondrak
+2013
+NIPS, Sketching Structured Matrices for Faster Nonlinear Regression
+pdf
+with Haim Avron and Vikas Sindhwani
+DISC, When Distributed Computation is Communication Expensive
+Full version on arXiv
+Invited to the special issue for DISC, 2013, in Distributed Computing.
+with Qin Zhang
+RANDOM, A Tight Lower Bound for High Frequency Moment Estimation with Small Error (draft of full version)
+pdf
+with Yi Li
+COLT, Subspace Embeddings and L_p Regression Using Exponential Random Variables
+Full version on arXiv
+with Qin Zhang
+STOC, Low Rank Approximation and Regression in Input Sparsity Time
+Full version on arXiv
+Co-Winner of STOC Best Paper Award
+STOC 2023 Test of Time Award
+Pat Goldberg Best Paper Award, 2013
+Invited to the Journal of the ACM
+with Ken Clarkson
+Talk
+STOC, How Robust Are Linear Sketches to Adaptive Inputs?
+Full version on arXiv
+with Moritz Hardt
+Talk
+SODA, Beating the Direct Sum Theorem in Communication Complexity with Implications for Sketching pdf
+with Marco Molinaro and Grigory Yaroslavtsev
+SODA, Lower Bounds for Adaptive Sparse Recovery pdf
+Full version on arXiv
+with Eric Price
+SODA, Faster Robust Linear Regression pdf
+Full version on arXiv
+with K.L. Clarkson, P. Drineas, M. Magdon-Ismail, M.W. Mahoney, and X. Meng
+2012
+RANDOM, On Deterministic Sketching and Streaming for Sparse Recovery and Norm Estimation pdf
+with Jelani Nelson and Huy L. Nguyen
+ICML, Fast approximation of matrix coherence and statistical leverage. pdf . Full version on arXiv
+with Petros Drineas, Malik Magdon-Ismail, and Michael Mahoney
+SSP, Reusable Low-Error Compressive Sampling Schemes Through Privacy pdf
+with Anna Gilbert, Brett Hemenway, Martin Strauss, and Mary Wootters
+ISIT, Applications of the Shannon-Hartley Theorem to Data Streams and Sparse Recovery pdf
+with Eric Price
+PODS, Rectangle-Efficient Aggregation in Spatial Data Streams pdf
+with Srikanta Tirthapura
+Talk: ppt
+Note: some of the claimed time bounds should be exponential in d, that is,
+the O*() notation should suppress bounds exponential in d rather than polynomial as claimed.
+The space bounds in the paper are not affected. This will be updated on arxiv shortly.
+PODS, Space-Efficient Estimation of Statistics over Sub-Sampled Streams pdf
+with Andrew McGregor, A. Pavan, and Srikanta Tirthapura
+Talk: pptx
+STOC, Tight Bounds for Distributed Functional Monitoring pdf . Earlier full version on arXiv
+with Qin Zhang
+Talk: .ppt
+More recent talk: .ppt
+ICDE, A General Method for Estimating Correlated Aggregates over a Data Stream pdf
+with Srikanta Tirthapura
+2011
+FOCS, (1+eps)-Approximate Sparse Recovery pdf
+with Eric Price
+Talk: .ppt
+FOCS, On the Power of Adaptivity in Sparse Recovery pdf
+with Piotr Indyk and Eric Price
+DISC, Optimal Random Sampling from Distributed Streams Revisited. Full version on arXiv
+with Srikanta Tirthapura
+ESA, Tolerant Algorithms pdf
+with Rolf Klein, Rainer Penninger, and Christian Sohler
+RANDOM, Streaming Algorithms with One-Sided Estimation pdf
+with Joshua Brody
+ICALP, Linear Programming and Combinatorial Bounds on Steiner Transitive-Closure Spanners pdf . Full version on arXiv
+with Piotr Berman, Arnab Bhattacharyya, Elena Grigorescu, Sofya Raskhodnikova, and Grigory Yaroslavtsev
+STOC, Near-Optimal Private Approximation Protocols via a Black Box Transformation pdf
+Talk: .ppt
+STOC, Subspace Embeddings for the L_1-norm with Applications pdf
+with Christian Sohler
+Talk: .ppt
+STOC, Fast Moment Estimation in Data Streams in Optimal Space pdf , Full version on ArXiv
+with Daniel M. Kane, Jelani Nelson, and Ely Porat
+Talk: .ppt
+ICS, The Complexity of Linear Dependence Problems in Vector Spaces pdf
+with Arnab Bhattacharyya, Piotr Indyk, and Ning Xie
+Talk: .ppt
+SODA, Optimal Bounds for Johnson-Lindenstrauss Transforms and Streaming Problems with Low Error pdf
+Full version in the special issue for Soda, 2011 in Transactions on Algorithms pdf
+with T.S. Jayram
+Talk: .ppt
+2010
+FOCS, Sublinear Optimization for Machine Learning. Short version: pdf , Full version on ArXiv
+Full version in Journal of the ACM, 2012.
+Pat Goldberg Best Paper Award, 2012
+with Ken Clarkson and Elad Hazan
+Talk: .ppt
+RANDOM, A Quadratic Lower Bound for Three-Query Linear Locally Decodable Codes over Any Field pdf
+Talk: .ppt
+RANDOM, Lower Bounds for Local Monotonicity Reconstruction from Transitive-Closure Spanners Conference version: pdf
+Draft of Full version: pdf
+with Arnab Bhattacharyya, Elena Grigorescu, Madhav Jha, Kyomin Jung, and Sofya Raskhodnikova
+ICALP, Additive Spanners in Nearly Quadratic Time pdf
+Talk: .ppt
+PODS, An Optimal Algorithm for the Distinct Elements Problem pdf
+PODS Best Paper Award, 2010
+Pat Goldberg Best Paper Award, 2010
+Invited to Journal of the ACM, preliminary full version: pdf
+with Daniel M. Kane and Jelani Nelson
+Long Talk: .ppt Short Talk: .ppt
+PODS, Fast Manhattan Sketches in Data Streams pdf
+with Jelani Nelson
+SODA, Coresets and Sketches for High Dimensional Subspace Approximation Problems pdf
+with Dan Feldman, Morteza Monemizadeh, and Christian Sohler
+SODA, Lower Bounds for Sparse Recovery pdf
+with Khanh Do Ba, Piotr Indyk, and Eric Price
+SODA, On the Exact Space Complexity of Sketching and Streaming Small Norms pdf
+with Daniel M. Kane and Jelani Nelson
+SODA, 1-pass Relative-Error L_p-Sampling with Applications pdf
+with Morteza Monemizadeh
+Talk: .ppt
+2009
+FOCS, The Data Stream Space Complexity of Cascaded Norms pdf
+with T.S. Jayram
+Talk: .ppt
+FOCS, Efficient Sketches for Earth-Mover Distances, with Applications pdf
+with Alexandr Andoni, Khanh Do Ba, and Piotr Indyk
+Talk: .ppt
+STOC, Numerical Linear Algebra in the Streaming Model (full version) pdf
+with Ken Clarkson
+Talk: .ppt Longer .ppt
+ICDT, The Average Case Complexity of Counting Distinct Elements pdf
+Talk .ppt
+SODA, Transitive-Closure Spanners. Full version on ArXiv
+with Arnab Bhattacharyya, Elena Grigorescu, Kyomin Jung, and Sofya Raskhodnikova
+Talk: .ppt
+2008
+PODS, Epistemic Privacy ps, pdf ,
+Full version in the special issue for PODS, 2010 in Journal of the ACM: pdf
+with Alexandre Evfimievski and Ron Fagin
+RANDOM, Corruption and Recovery-Efficient Locally Decodable Codes (extended abstract) pdf
+Talk: .ppt
+2007
+Ph.D. Thesis, Efficient and Private Distance Approximation in the Communication and Streaming Models pdf
+This thesis contains results from the papers "Optimal Approximations of the Frequency Moments", "Private Polylogarithmic Approximations and Efficient Matching", "Optimal Space Lower Bounds for all Frequency Moments", and "Tight Lower Bounds for the Distinct Elements Problem". It serves as a better and more thorough exposition of these papers.
+New Lower Bounds for General Locally Decodable Codes ECCC link
+Invited article in the Encyclopedia of Database Systems, Frequency Moments pdf
+Eurocrypt, Revisiting the Efficiency of Malicious Two-Party Computation eprint link
+Talk: .ppt
+SODA, The Communication and Streaming Complexity of Computing the Longest Common and Increasing Subsequences ps, pdf
+with Xiaoming Sun
+Talk: .ppt
+2006
+FOCS, Lower Bounds for Additive Spanners, Emulators, and More ps, pdf
+Long talk: .ppt , FOCS talk: ppt
+FOCS, Explicit Exclusive Set Systems with Applications to Broadcast Encryption ps, pdf
+with Craig Gentry, Zulfikar Ramzan
+Long Talk: .ppt Crypto rump session Talk: .ppt , FOCS talk: ppt
+Crypto, Fast Algorithms for the Free Riders Problem in Broadcast Encryption ps, pdf Full version on eprint eprint
+with Zulfikar Ramzan
+Talk: .ppt
+APPROX, Better Approximations for the Minimum Common Integer Partition Problem ps, pdf
+Talk: .ppt
+TCC, Private Polylogarithmic Approximations and Efficient Matching. Also, ECCC ps, pdf Conference version (with some edits) ps, pdf
+with Piotr Indyk
+Talk: long .ppt and short .ppt
+Also see my Ph.D. thesis.
+2005
+STOC, Optimal Approximations of the Frequency Moments of Data Streams (some typos fixed) ps, pdf
+with Piotr Indyk
+Talk: .ppt
+Also see my Ph.D. thesis.
+Eurocrypt, Practical Cryptography in High Dimensional Tori. Available: eprint
+with Marten van Dijk, Robert Granger, Dan Page, Karl Rubin, Alice Silverberg, Martijn Stam
+Talk: .ppt
+CCC, also in SICOMP, A Geometric Approach to Information-theoretic Private Information Retrieval. Also, ECCC ps, pdf
+Conference version: pdf
+with Sergey Yekhanin
+2004
+SODA, Optimal Space Lower Bounds for all Frequency Moments, revised ps, conf pdf
+Talk: short .ppt and long .ppt
+Also see my Ph.D. thesis.
+PODS, Clustering via Matrix Powering, ps, pdf
+Also, a note clarifying the algorithm txt
+Thanks to Ding Bolin for pointing this out.
+with Hanson Zhou
+Crypto, Asymptotically Optimal Communication for Torus-Based Cryptography, ps, pdf
+with Marten van Dijk
+Talk: .ppt
+CCS, Private Inference Control. Conference version: ps, Long version available: IACR eprint
+with Jessica Staddon
+Talk: Dimacs/Portia Privacy-Preserving workshop: .ppt, conf: .ppt
+2003
+FOCS, Tight Lower Bounds for the Distinct Elements Problem, revised ps, conf pdf
+with Piotr Indyk
+Talk: (Also DIMACS Embeddings workshop) .ppt
+Also see my Ph.D. thesis.
+2002
+Eurocrypt, Cryptography in an Unbounded Computational Model, ps, pdf
+with Marten van Dijk
+Talk: .pdf
+DBLP
+
+DBLP
+
+Miscellaneous Papers
+Master's thesis (based on Eurocrypt 2002) ps, pdf
+Survey on stream-computing F_0 ps, pdf
+with Johnny Chen, Naveen Sunkavalley
+

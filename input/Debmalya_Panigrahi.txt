@@ -1,0 +1,140 @@
+Professor: Debmalya Panigrahi
+University: Duke University
+URL: https://users.cs.duke.edu/~debmalya
+Description: Skip to main content
+Skip to navigation
+Debmalya Panigrahi's Webpage	
+HomeStudents & AlumniPublicationsResearchTeachingFunding
+	
+DEBMALYA PANIGRAHI
+Professor 
+Department of Computer Science
+Duke University
+NEWS
+
+September '22: Neurips 2022 papers
+
+Online Algorithms with ε-Accurate Predictions: We give online algorithms that are substantially better than worst-case even when given a very weak ML predictor, say one that gives good advice only 1% of the time.
+
+Online Algorithms for the Santa Claus Problem: We give algorithms to allocate a set of items that arrive over time among agents that value them differently in a way that seeks to maximize the minimum cumulative value derived by any agent from the allocation.
+
+June '22: FOCS 2022 paper
+
+All-pairs min-cuts (Gomory-Hu tree) in Õ(n2) time (breaks Gomory and Hu's 60-year-old bound for the problem!)
+
+May '22: ICML 2022 paper
+
+Online Algorithms with Multiple Predictions: If a diverse set of ML models (and human experts) give different suggestions to a learning-augmented online algorithm, how should the algorithm choose the best advice? We answer this question for a wide range of online optimization problems that can be formulated as covering problems (and some further extensions).
+
+February '22: STOC 2022 paper
+
+Connectivity Augmentation and Splitting Off: We bypass the maxflow bottleneck from our SODA 22 paper by designing a new algorithm for finding the extreme sets using a series of reductions that go all the way from finding arbitrary extreme sets to those that 2-respect a path. These reductions also apply to the minimum cut problem and offer an (arguably simpler) alternative for Karger's near-linear time mincut algorithm.
+
+December '21: SIGMOD 2022 paper
+
+Learning Selectivity Functions (with applications to query processing): We show that selectivity queries that are represented by range spaces with finite VC dimension can be PAC-learned by deriving a bound on the fat shattering dimension of the selectivity functions.
+
+December '21: AAAI 2022 paper
+
+Learning Influence Adoption in Heterogeneous Networks: We give a PAC-learning framework for understanding how a label (e.g., whether a person is infected by a transmissible disease) propagates through a network where each individual node reacts differently to exposure (e.g., depending on their age, co-morbidities, etc.)
+
+October '21: SODA 2022 papers
+
+Connectivity Augmentation and Splitting-Off: We give new algorithms for the edge connectivity augmentation and edge splitting-off problems using the isolating cuts framework that we introduced in a FOCS 2020 paper. This is the first improvement for these problems since the work of Benczur and Karger in 2000.
+
+Online Graph Algorithms with ML Predictions: We give an algorithmic framework for network design problems like Steiner tree, Steiner forest, and facility location in the online algorithms with predictions model. One of the main contributions is a new model for measuring the error of a prediction for metric/graph problems that takes into account both the possibility of inaccurate predictions and complete mispredictions.
+
+September '21: Neurips 2021 paper
+
+Regression for Learning-Augmented Online Algorithms: We bring a regression approach to the area of learning-augmented online algorithms. Our mian contribution is a regression framework and the design of a new loss function that helps make predictions using a PAC learning model for a broad class of online algorithms.
+
+August '21: FOCS 2021 papers
+
+Minimum Cut in Directed Graphs: We give an algorithm to find a minimum cut in a directed graph using (roughly) \tilde{O}(\sqrt{m}) max-flow calls. This is the first improvement for the problem since the work of Hao and Orlin in 1992.
+
+All-Pairs Minimum Cuts: We give an algorithm that finds the edge connectivity between all pairs of vertices in \tilde{O}(n^2) time for simple graphs. This is optimal if the edge connectivity of every pair is represented explicitly.
+
+Online Algorithm for k-Server and Extensions: We give an algorithm for the k-server problem and its extension to time windows that has a poly-logarithmic competitive ratio. Our main technical contribution is a new "hitting set" LP formulation of the k-server problem that could be useful in resolving the randomized k-server conjecture. (Our competitive ratio currently depends on the size and aspect ratio of the metric space in addition to the number of servers k.)
+
+February '21: STOC 2021 papers 
+
+Approximate Gomory-Hu trees: We give an algorithm that uses only polylog(n) maxflow calls instead of n-1 and finds the edge connectivity between all pairs of vertices up to an arbitrarily small constant approximation. Previously, the best known was n-1 max-flows to find exact all-pairs connectivities from the work of Gomory and Hu in 1961.
+
+Vertex connectivity: We give an algorithm for computing the vertex connectivity of a graph by running polylog(n) maxflow algorithms. This is the first improvement in the running time of the vertex connectivity problem since the work of Henzinger, Rao, and Gabow in 1996.
+
+ABOUT ME
+
+I am a Professor of Computer Science at Duke University. Before coming to Duke in 2013, I spent one year as a postdoctoral researcher in the theory group at Microsoft Research Redmond, where I did research in algorithms. In 2012, I obtained my PhD in theoretical computer science at MIT under the supervision of Prof. David Karger by defending this. Before coming to MIT, I worked at Bell Labs in Bangalore for a year, where I did research on algorithms and networks. I obtained my bachelor's and master's degrees in Computer Science and Engineering at Jadavpur University, Kolkata in 2004 and IISc, Bangalore in 2006 respectively. At IISc, I did research in algorithms under the supervision of Prof. Ramesh Hariharan. A long time ago, I grew up in the industrial town of Durgapur where I went to St. Xavier's School.
+
+My CV is available here.
+
+RESEARCH 
+Research Interests
+
+I am broadly interested in theoretical computer science, particularly in the design and analysis of algorithms. My two main research thrusts are graph algorithms and algorithms under uncertainty. In graph algorithms, I am interested in the study of network flows, graph cuts, and connectivity. Some recent highlights include the fastest deterministic algorithm to find a minimum cut of an undirected graph, the fastest (randomized) algorithms for finding a minimum vertex cut and a minimum cut of a directed graph, and the fastest algorithm for finding the connectivity of all pairs of vertices in an undirected graph. In algorithms under uncertainty, I am interested in both classical online algorithms, and also the design of algorithms that leverage machine learning to overcome worst-case performance barriers. Some recent highlights include new LP relaxations and algorithms for $k$-server and caching problems, and learning-augmented algorithms for fundamental online problems such as weighted caching and ski rental. I also work in approximation algorithms, combinatorial optimization, and algorithmic game theory. 
+
+In addition to theoretical research, I am also interested in the design of algorithms for practical problems. This includes algorithms for online search, advertising, social networks, and e-commerce, the design and management of computer networks, database management and query processing algorithms, and algorithms with applications in artificial intelligence. I have collaborated with researchers in these areas to design algorithms that are practical, implementable, and scalable. Most of this work has been published in peer-reviewed venues in the application areas, and some of it has led to patents and deployment in prototypes or products.
+
+For a sample of my current research directions, see here.
+
+I am part of the theory group and am also affiliated/collaborate with the CS-econ, AI/ML, and database groups at Duke.
+
+Publications
+
+A complete list of my publications (along with download links to papers) is available here (arranged chronologically) and here (arranged by topic). You can also download my PhD thesis here.
+
+RESEARCH GROUP
+Openings
+
+I currently have openings for graduate students and undergraduates. I also occasionally have opening for postdocs. Please see here for details.
+
+Current Students
+
+Keerti Anand (5th year PhD student, jointly advised with Prof. Rong Ge)
+
+Ruoxu Cen (2nd year PhD student)
+
+William He (undergraduate student)
+
+Kevin Sun (5th year PhD student)
+
+Lu Wang (1st year PhD student)
+
+I also often work with Hanrui Zhang.
+
+To see the list of former students and postdocs, please click here.
+
+Funding
+
+My research has been funded by the National Science Foundation, the Army Research Office, Google, Yahoo!, the Indo-US Science and Technology Forum, and Duke University. I gratefully acknowledge their support.
+
+For more information about my funding, including current grants, please click here.
+
+TEACHING
+Current Course
+
+Spring 2023. COMPSCI 638 Graph Algorithms  
+
+For a complete list of the courses that I have taught (including links to course material), please click here.
+
+CONTACT INFORMATION
+Mailing Address
+
+Duke University, Campus Box 90129
+
+308 Research Drive (LSRC Building), Room D203
+
+Durham, NC 27708 USA
+
+Tel: +1 (919) 660-6545
+
+Fax: +1 (919) 660-6519
+
+E-Mail
+
+The fastest and preferred way to reach me is by email. My username is my first name and the domain is cs.duke.edu
+
+Page updated
+Google Sites
+Report abuse
+

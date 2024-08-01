@@ -1,0 +1,520 @@
+Professor: Danai Koutra
+University: University of Michigan
+URL: http://web.eecs.umich.edu/~dkoutra
+Description: Bio	CV-Dec'20	Publications	Teaching	Lab
+
+
+
+Danai Koutra pronounced: dah-NYE
+
+
+Assoc. Director, Michigan Institute for Data Science (MIDAS)
+Morris Wellman Associate Professor (eff. Sep 1, 2021)
+Computer Science & Engineering
+Computational Medicine and Bioinformatics (affiliated)
+University of Michigan, Ann Arbor
+3633 Bob and Betty Beyster bldg
+E-mail: dkoutra@umich.edu
+Work: (+1) 734-764-4237
+
+
+My research in large-scale data mining and machine learning (ML) focuses on principled, interpretable, and scalable methods for discovering and summarizing the unknown unknowns in the world's data by leveraging the inherent connections within them. These connections are naturally modeled in networks or graphs, which in turn span every facet of our lives: email communication networks, knowledge graphs for web search, social networks, coauthorship graphs, brain networks, artificial neural networks, and more. My work harnesses the massive scale, heterogeneity, and complexity of these data by providing concise and interpretable network summaries as a way to: (a) speed up follow-up analysis and methods that only need to apply on smaller, representative data; (b) gain understanding into the underlying processes, and inform our decisions by removing the burden of manually sifting through mountains of data; and (c) provide insights into scientific data, generate new hypotheses, and lead to novel scientific discoveries.
+
+Research Interests: data science, large-scale graph mining, data mining, graph neural networks, network representation learning, network neuroscience, summarization, network similarity, network alignment, mining time-evolving and streaming data, graph anomaly and event detection, applied machine learning
+
+For recent projects, visit the GEMS Lab webpage and our github repository!
+
+Advising: The GEMS Lab is recruiting motivated and hard-working students interested in graph mining, and large-scale data analytics. If you are interested in joining the group as a PhD student and you are not already at the University of Michigan, please apply to CSE (deadline in December). If you are an undergrad or grad student at UM, and you are interested in any of the papers or projects listed on this page, send an email with your interests and CV to gemslab-opportunities@umich.edu. Responses may be slow (please do not take it personally!), depending on availability of positions.
+
+
+
+
+News
+	
+[top]
+
+September 2022: Honored to give a keynote at ECML/PKDD. Many thanks to the organizers for giving me this opportunity!
+Sep 2021-Sep 2022: News overdue -- for my group's latest publications, please check out DBLP and/or Arxiv!
+Jan 2022-Dec 2022: On sabbatical at Amazon (working with researchers and engineers in Karthik Subbian's group).
+Dec 2021: Became an Amazon Scholar.
+July-August 2021: Giving keynote talks at the ACM KDD Applied Data Science track, the VLDB Scalable Data Science Research series, the KDD Outlier Detection and Description (ODD) workshop, and the ICML Workshop on Representation Learning for Finance and E-Commerce Applications. Thanks to all the track chairs and organizers for inviting me to present my group's work!
+May 2021: Received tenure and promoted to (Morris Wellman) Associate Professor! Many thanks to my students, postdocs, mentors, and collaborators for making this possible.
+December 2020: Giving an invited talk on knowledge graph completion with embeddings (and beyond) at the 14th Workshop on Graph-Based Natural Language Processing (TextGraphs-14), COLING. Many thanks to the organizers for the invitation!
+November 2020: Our paper A Hidden Challenge of Link Prediction: Which Pairs to Check?" was among the best paper candidates at IEEE ICDM'20 and invited for publication at KAIS! Congratulations to the lead student author, Caleb!
+October 2020: Honored to be included in the list of '10 women leading the way in data science’<> by Silicon Republic.
+September 2020: Our paper SpecGreedy: Unified Dense Subgraph Detection. received the Best Student Data Mining Award at ECML-PKDD'20. Congratulations to all the co-authors!
+September 2020: Two papers on knowledge graph completion accepted at EMNLP'20, one paper on link prediction accepted at IEEE ICDM'20 and two papers on extending graph neural networks beyond the traditional homophily assumption and neural execution engines accepted at NeurIPS'20. Congratulations to the lead studen authors Tara, Jiong and Yujun!
+September 2020: Gave an invited talk on "Representation Learning Beyond Homophily and Proximity" at the NetSci’20 Satellite: Statistical Inference for Network Models. Thanks to the organizers for the invitation!
+September 2020: Participated as a lecturer in the 5th International Summer School on Data Science (SSDS), where I talked about large-scale graph mining and network summarization.
+August 2020: Honored to receive a SIGKDD Rising Star Award, which is based on an individual's whole body of work in the first five years after the PhD.
+August 2020: Gave an invited talk on "The Power of Summarization in Network Analysis" (video), including knowledge graph analysis at the 16th International Workshop on Mining and Learning with Graphs (MLG) at KDD. : Statistical Inference for Network Models. Thanks to the organizers for the invitation!
+July 2020: Giving an invited talk at the ICML workshop Graph Representation Learning and Beyond. Many thanks to the organizers for the invitation!
+June 2020: Giving an invited talk on graph summarization in representation learning at the SIAM MDS minisymposium on Learning from Data on Networks. Many thanks to the organizers for the invitation!
+June 2020: Our paper "Democratizing EHR Analyses with FIDDLE - A Flexible Preprocessing Pipeline for Structured Clinical Data" is accepted at JAMIA! Congratulations to the students Shengpu Tang, Parmida Davarmanesh, Yanmeng Song, and the wonderful collaborators Jenna Wiens and Michael Sjoding.
+May 2020: One paper on measuring the persistence of activity in evolving networks is accepted at KDD '20. Congratulations to Caleb and Carol!
+April 2020: I founded the M-DICE team ("Data-Informed Cities for Everyone) along with MIDAS fellow Arya Farahi and PhD student Caleb. This is an interdisciplinary team of students that focuses on urban mobility in collaboration with the City of Detroit (Mayor's office) and the World Economic Forum (WEF). We described the partnership in a recent WEF report.
+February 2020: Recognized as a WSDM'20 outstanding senior PC member!
+January 2020: One paper on unifying different refinement tasks in knowledge graphs via summarization is accepted at The Web Conference 2020. Congratulations to Caleb and Carol!
+January 2020: Honored to be named Morris Wellman Faculty Development Professor.
+January 2020: Research fellow Fatemeh Vahedian joins the GEMS Lab!
+December 2019: Congratulations to undergraduate researcher Carol Zheng for winning an honorable mention in CRA's outstanding undergraduate research award program!
+November 2019: Honored to receive a Precision Health Investigator award to gain a better understanding into the time-varying functional connectivity states via network science and deep neural networks.
+November 2019: Giving an invited talk at Tsinghua University. Thanks to Jie Tang for the invitation!
+November 2019: Giving an invited talk at the Institute of Computing Technology, Chinese Academy of Sciences. Thanks to Shenghua Liu for the invitation!
+November 2019: Arya Farahi comes back to Michigan as a MIDAS Data Science Fellow !
+October 2019: Our paper on Distribution of Node Embeddings as Multiresolution Features for Graphs received the best student paper award at IEEE ICDM'19. Congratulations to my students Mark and Tara, and thanks to the reviewers and the award committee!
+October 2019: Joint paper with MSR on Activity Discovery in the Personal Web accepted at WSDM'20. Congratulations to Tara for leading this effort!
+October 2019: Successfully ran the Explore Graduate Studies in CSE workshop for the second year! We had about 50 undergraduate and MS participants from around the country. Many thanks to all the faculty and student volunteers, staff, and sponsors, without whom this event would not have been possible.
+September 2019: Giving an invited talk on The Power of Summarization in Representation Learning at the Great Lakes Workshop on Data Science. Thanks to the organizers for the invitation!
+September 2019: Giving an invited talk at Advances in managing and mining large evolving graphs (LEG) workshop at PKDD. Thanks to the organizers for the invitation!
+August 2019: Two papers accepted at ICDM'19! The first paper, GLIMPSE introduces the problem of personalized KG summarization, which is motivated by the disparity between individuals’ limited information needs and the massive scale of KGs; the inferred summaries can be stored and utilized on-device, allowing individuals private, anytime access to the information that interests them most. The second paper, RGM, tackles the graph classification problem; it introduces a fast-to-compute feature map that represents a graph via the distribution of its node embeddings in feature space, which has connections to kernel methods. Congratulations to Tara, Mark, Caleb, and our collaborators!
+July 2019: Invited to serve as a tutorial co-chair for ACM KDD'20.
+June 2019: Gave an invited talk at PNNL. Many thanks to Marco Minutoli and Mahantesh Halappanavar for hosting me!
+June 2019: One paper on node representations in higher-order networks (HONs) was accepted at ASONAM'19. Congratulations to Caleb for his first first-author publication!
+June 2019: Our paper, node2bits, is accepted at PKDD'19! It aims to find compact (binary) time- and attribute-aware node representations, which can be used for user stitching or entity resolution. Congratulations to Di and Mark, and our Adobe collaborator, Ryan Rossi!
+June 2019: Our clinical abstract "Democratizing EHR Analyses - A Comprehensive, Generalizable Pipeline for Learning from Clinical Data" is accepted at MLHC'19! Congratulations to the students Shengpu Tang, Parmida Davarmanesh, Yanmeng Song, and the wonderful collaborators Jenna Wiens and Michael Sjoding.
+May 2019: Honored to be selected for IJCAI Early Career Spotlight! Unfortunately though I had to decline due to scheduling conflict.
+May 2019: Slides from my talk on "(Pocket-size) Structural Embeddings in Large-scale Networks" at the "DOOCN-XII: Network Representation Learning" workshop at NetSci'19. Thanks to the organizers for the invitation!
+May 2019: Slides from my talk on "Inference, summarization and interpretation of noisy network data" at the Machine Learning in Network Science satellite at NetSci'19. Many thanks to the organizers for the invitation!
+April 2019: Three papers accepted at KDD'19! They span neural networks for brain data to latent network summarization and representation learning for professional role inference from email networks. Congratulations to Yujun, Jiong, Di, Mark, Tara, Marlena, and all the collaborators who have contributed to these projects!
+April 2019: I'm looking for a postdoc (for 1-2 years) to work on large-scale graph mining in the GEMS Lab. The topic is flexible and will be decided collaboratively based on prior experience and future goals. To apply, please send your CV and cover letter to dkoutra@umich.edu.
+March 2019: Received a gift from Adobe. Thanks Adobe!
+March 2019: I'm thrilled to receive an NSF CAREER award to support my work on multi-scale summarization of networks over time, with applications to knowledge graphs, neuroscience, deep neural networks & social sciences! [Project Website]
+March 2019: Received a gift from Adobe. Thanks Adobe!
+February 2019: Recognized as a WSDM'19 outstanding PC member! Thanks to the SPC members who nominated me!
+January 2019: Project on "Analyzing the Relation between Product Features and Consumer Preferences" was awarded by P&G! This project is in collaboration with co-PIs Rada Mihalcea and David Fouhey.
+January 2019: Received an Amazon research award for "Adaptive Personalized Knowledge Graph Summarization". The project is in collaboration with Davide Mottin. Thanks Amazon!
+December 2018: Our paper on coupled clustering of time-series and networks, which is motivated by the problem of human-trafficking, is accepted at SDM!
+December 2018: Received an MCubed award for "Crowdsourcing Adaptive Video Analysis" with Walter Lasecki and Srinivasaraghavan Sriram!
+December 2018: Invited to serve as a demo co-chair for ACM CIKM'19.
+December 2018: Yujun and Marlena are selected to attend CRA-W Grad Cohort '19!
+November 2018: Invited to serve as a tutorial co-chair for ACM KDD'19.
+November 2018: I am a guest editor for the "Applied Network Science Special Issue on Machine Learning with Graphs", along with Austin Benson, Ciro Cattuto, Shobeir Fakhraei, Vagelis Papalexakis, and Jiliang Tang. Looking forward to receiving your submissions!
+September 2018: Organizing the 4th Explore Graduate Studies in CSE. One hundred students from around the country will get a chance to learn more about the graduate application process and receive 1-1 feedback. Thank you to all the faculty and student volunteers, alumni and amazing UM staff, without whom organizing this event would not have been possible! Also, special thanks to Rackham Graduate School, the College of Engineering and CSE for funding the event!
+August 2018: Our paper on graph alignment based on representation learning is accepted at CIKM! Congratulations to Mark, Haoming, and Tara!
+August 2018: Along with Jilles Vreeken and Francesco Bonchi, I will be presenting our tutorial on "Summarizing Graphs at Multiple Scales: New Trends" at ICDM 2018 (Singapore)!
+July 2018: Received an Army Research Office Young Investigator Award! The project focuses on speeding up the computation of linear-system-based graph methods in distributed and multiquery settings.
+June 2018: Gave talks at Amazon and Google AI, and visited Facebook in the Bay Area. Thanks to my hosts, Christos Faloutsos, Dana Movshovitz-Attias, and Aude Hofleitner!
+June 2018: Gave a talk on multi-source analysis and had fun participating in working groups at Dagstuhl Seminar,"High-Performance Graph Algorithms"! Thanks for the invitation!
+June 2018: Gave a talk on multi-source analysis and had fun participating in working groups at Dagstuhl Seminar,"High-Performance Graph Algorithms"! Thanks for the invitation!
+May 2018: Our paper on career transitions in computing research is accepted at KDD! Congratulations to Tara and Maryam!
+Apr 2018: Received an Adobe Digital Experience Research award. Thanks Adobe!
+Apr 2018: Tara was selected for a prestigious NSF graduate research fellowship. Congratulations! Go GEMS, go blue!
+Apr 2018: Tara was selected to attend CRA-W Grad Cohort '18!
+Apr 2018: Our paper "Biogeography and environmental conditions shape bacteriophage-bacteria networks across the human microbiome" was accepted in PLOS Computational Biology.
+Mar 2018: Co-organizing the 14th MLG workshop (Mining and Learning with Graphs), which is held in conjunction with KDD on August 20th. The deadline for paper submissions is May 8th. Looking forward to receiving your papers!
+Mar 2018: Our paper "GeoAlign: Interpolating Aggregates over Unaligned Partitions" received the best paper runner-up award at EDBT. Congratulations Jie!
+Feb 2018: Our survey on graph summarization was accepted at ACM Computing Surveys! Congratulations to Yike, Tara and Abhilash!
+Feb 2018: Our paper on a unifying approach towards summarizing large graphs was accepted at the Social Networks Analysis and Mining (SNAM) journal. Congratulations to Yike and Tara!
+Jan 2018: Our paper on Hash-based Multiple Graph Alignment was accepted at the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD). Congratulations to Mark, Wei, Shengjie and Kuan-Yu!
+Dec 2017: Our paper on Flow-based Random Walk with Restart in a Multi-query Setting was accepted at SIAM International Conference on Data Mining (SDM). Congratulations to Yujun for her first-author paper, and Mark and Di for contributing to this work!
+Dec 2017: Elected as the Program Director of the SIAG on Data Mining and Analytics.
+Dec 2017: Invited to serve as a demo co-chair for ICDM 2018.
+Nov 2017: One paper on fusion of multiple geographic data sources accepted at EDBT. Congratulations Jie!
+Nov 2017: Invited to serve as an Associate Editor of ACM Transactions on Knowledge Discovery from Data (TKDD).
+Nov 2017: Our paper on hashing-based network discovery was selected as one of the best papers of ICDM'17 (invited for potential publication at the KAIS Journal, Springer)! Congratulations to my student Tara!
+Nov 2017: I'm on Amazon.com! Well, my work is. My book on Individual and Collective Graph Mining: Principles, Algorithms, and Applications is published!
+Nov 2017: Attending ICDM! I'm co-organizing and running the ICDM PhD Forum. I'm also a keynote speaker at the ICDM workshop on High Performance Graph Data Mining and Machine Learning (HPGDML)", New Orleans, LA.
+October 2017: Talk at NSF- FAST Workshop 2017: Machine Learning for Discovery Sciences, Yerevan, Armenia.
+August 2017: NSF EAGER with Hanghang Tong on Correspondence Discovery in Disparate Networks. Thank you NSF!
+August 2017: Trove.AI grant for Making Sense of Communication-based Social Graphs. Thank you Trove.AI!
+August 2017: Two regular papers accepted at ICDM (one on domain-specific exploratory analysis of graphs and one on hashing-based network discovery)! Congratulations to my students Di and Tara for their first-author papers!
+July 2017: Microsoft Azure Research Award to work on "Interactive and Collective Exploration of Large-scale Graphs". Thanks Microsoft!
+July 2017: Attended the Microsoft Research Faculty Summit -- The Edge of AI!
+June 2017: Invited to serve as an ICDM PhD Forum 2017 co-chair. Encourage your students to submit part of their dissertation work by August 18!
+May 2017: Congratulations to Tara Safavi for winning a Women Techmakers Scholarship (formerly Google Anita Borg Memorial Scholarship)! Tara will be joining GEMS Lab as a PhD students in Fall '17.
+April 2017: Slides on graph summarization available here! Learn about this space and consider contributing! Thanks to everyone who stayed until the very end of SDM to attend the tutorial! =)
+April 2017: Talk on efficient inference of networks from time series data at NetInf '17!.
+Nov 2016: Tutorial on ``Summarizing Large-Scale Graph Data: Algorithms, Applications and Open Challenges'' accepted at SDM 2017!
+Nov 2016: We are accepting proposals for the KDD CUP 2017! The deadline is on December 9.
+Nov 2016: Giving a talk on summarizing networks at the the Hasso Plattner Institute in Berlin.
+Oct 2016: Thank you Intel for the server donation!
+Aug 2016: Won the 2016 ACM SIGKDD Dissertation Award! My dissertation (and the full abstract) is available here.
+Aug 2016: Invited panelist for the workshop Explore Graduate Studies in Computer Science and Engineering, University of Michigan, Ann Arbor (October 8). Apply by September 9!
+Aug 2016: Two papers accepted at the 12th MLG workshop (at KDD)!
+Apr 2016: Invited to serve as KDD Cup 2017 co-chair. We are looking for cool and innovative proposals! :)
+Apr 2016: Invited to serve as SIAM SDM 2017 publicity co-chair. Consider submitting papers, and workshop / tutorial proposals!
+Mar 2016: Co-organizing the 12th MLG workshop (Mining and Learning with Graphs), which is held in conjunction with KDD on August 14th. The deadline for paper submissions is May 27th.
+Mar 2016: Invited talk at the Origins and Future of Pattern Processing and Intelligence: From Brains to Machines Workshop, which is part of the ASU Origins Project.
+----------------------------------------
+Dec 2015: Elected as secretary of the SIAM Activity Group on Data Mining and Analytics!
+Oct 2015: Received an honorable mention for the SCS Doctoral Dissertation Award, and nominated to ACM for the Doctoral Dissertation Award!
+Aug 2015: Talk at the University of Michigan for visitors from the Qatar Computing Research Institute.
+May 2015: Presenting our paper on controversies and information seeking at WWW!
+May 2015: Our paper on temporal graph summarization was accepted at KDD!
+Feb - May 2015: Invited talks.
+Jan 2015: Visiting the Saarland University and giving a talk on understan-ding large graphs.
+----------------------------------------
+Dec 2014: Uploaded the slides for our ICDM tutorial here.
+Dec 2014: Giving a tutorial on node and graph similarity at ICDM'14 @ Shenzen, China (with Tina Eliassi-Rad and Christos Faloutsos).
+Nov 2014: Invited to attend the Rising Stars in EECS Workshop @ UC Berkeley.
+Oct 2014: In Hawaii, to advertize Glance and explore UIST'14.
+Sept 2014: Selected to attend the 2nd Heidelberg Laureate Forum in Germany.
+Sept 2014: Invited talk at MLconf, in Atlanta.
+Aug 2014: at KDD, New York.
+May 2014: Events and Controversies in the news (MIT Technology Review, Technology.org)!
+
+
+Publications
+	
+[top]
+
+Preprints
+
+
+Marlena Duda, Danai Koutra, Chandra Sripada. Validating Dynamicity in Resting State fMRI with Activation-Informed Temporal Segmentation. biorxiv
+
+Books
+
+
+Danai Koutra, Christos Faloutsos. Individual and Collective Graph Mining: Principles, Algorithms, and Applications. Synthesis Lectures on Data Mining and Knowledge Discovery, October 2017, 206 pages. Morgan & Claypool publishers.
+ [code + slides]
+
+Conferences and Journals
+
+[DBLP] [Google Scholar] [  Code by the GEMS Lab]
+
+Jiong Zhu, Ryan A. Rossi, Anup Rao, Tung Mai, Nedim Lipka, Nesreen K. Ahmed, Danai Koutra. Graph Neural Networks with Heterophily. AAAI Conference on Artificial Intelligence (AAAI'21), February 2021.
+Jiong Zhu, Yujun Yan, Lingxiao Zhao, Mark Heimann, Leman Akoglu, Danai Koutra. Generalizing Graph Neural Networks Beyond Homophily. International Conference on Neural Information Processing Systems (NeurIPS'20), December 2020.
+ [code]
+Yujun Yan, Kevin Swersky, Danai Koutra, Parthasarathy Ranganathan, Milad Hashemi. Neural Execution Engines: Learning to Execute Subroutines. International Conference on Neural Information Processing Systems (NeurIPS'20), December 2020. [deepai.org]
+Tara Safavi, Danai Koutra, Edgar Meij. Improving the Utility of Knowledge Graph Embeddings with Calibration. Conference on Empirical Methods in Natural Language Processing (EMNLP'20), November 2020. (long paper)
+Tara Safavi, Danai Koutra. CoDEx: A Comprehensive Knowledge Graph Completion Benchmark. Conference on Empirical Methods in Natural Language Processing (EMNLP'20), November 2020. (long paper)
+ [data & code]
+Caleb Belth, Alican Büyükcakir, Danai Koutra. A Hidden Challenge of Link Prediction: Which Pairs to Check? IEEE International Conference on Data Mining (ICDM'20), November 2020. (long paper, acceptance rate 9.8%)
+Best paper candidate
+ [code]
+Josh Gardner, Jawad Mroueh, Natalia Jenuwine, Noah Weaverdyck, Samuel Krassenstein, Arya Farahi, Danai Koutra. Modeling and Predicting Multidimensional Patterns in Fleet Maintenance Data Towards Better Municipal Vehicle Management. Data Science and Advanced Analytics (DSAA'20), October 2020.
+ [code]
+Kyle K. Qin, Flora D. Salim, Yongli Ren, Wei Shao, Mark Heimann, Danai Koutra. G-CREWE: Graph CompREssion With Embedding for Network Alignment. ACM International Conference on Information and Knowledge Management (CIKM'20), October 2020.
+Xiyuan Chen, Mark Heimann, Fatemeh Vahedian, Danai Koutra. Consistent Network Alignment with Node Embedding. ACM International Conference on Information and Knowledge Management (CIKM'20), October 2020.
+ [code]
+Wenjie Feng, Shenghua Liu, Danai Koutra, Huawei Shen, Xueqi Cheng. SpecGreedy: Unified Dense Subgraph Detection. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD'20), September 2020 (acceptance rate 19%)
+Best student data mining award
+ [code]
+Caleb Belth, Xinyi (Carol) Zheng, Danai Koutra. Mining Persistent Activity in Continually Evolving Networks. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), August 2020 (acceptance rate 17%)
+ [code]
+Shengpu Tang, Parmida Davarmanesh, Yanmeng Song, Danai Koutra, Michael Sjoding, Jenna Wiens. Democratizing EHR Analyses with FIDDLE - A Flexible Preprocessing Pipeline for Structured Clinical Data. Journal of the American Medical Informatics Association (JAMIA), June 2020.
+ [code] Served as the the basis for analyzing hundreds of health records for COVID-19 patients and will be incorporated into the Michigan Medicine system.
+Ryan A. Rossi, Di Jin, Sungchul Kim, Nesreen K. Ahmed, Danai Koutra, John Boaz Lee. On Proximity and Structural Role-based Embeddings in Networks: Misconceptions, Techniques, and Applications. Transactions on Knowledge Discovery from Data (TKDD), April 2020.
+
+Caleb Belth, Xinyi (Carol) Zheng, Jilles Vreeken, Danai Koutra. What is normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization. The Web Copenminernference (WWW), April 2020 (oral presentation, acceptance rate 19%)
+ [code]
+
+Tara Safavi, Adam Fourney, Robert Sim, Marcin Juraszek, Shane Williams, Ned Friend, Danai Koutra, Paul Bennett. Toward Activity Discovery in the Personal Web. ACM International Conference on Web Search and Data Mining (WSDM), 2020. (oral presentation)
+Saba A. Al-Sayouri, Danai Koutra, Evangelos E. Papalexakis, Sarah S. Lam. SURREAL: Subgraph Robust Representation Learning. Applied Network Science 4(1): 88:1-88:20, December 2019.
+Tara Safavi, Caleb Belth, Lukas Faber, Davide Mottin, Emmanuel Müller, Danai Koutra. Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket. IEEE International Conference on Data Mining (ICDM), 10 pages, November 2019. (long paper, acceptance rate: 9%)
+ [code]
+Mark Heimann, Tara Safavi, Danai Koutra. Distribution of Node Embeddings as Multiresolution Features for Graphs. IEEE International Conference on Data Mining (ICDM), 10 pages, November 2019. (long paper, acceptance rate: 9%)
+Best student paper award
+ [code]
+Caleb Belth, Fahad Kamran, Donna Tjandra, Danai Koutra. When to Remember Where You Came from: Node Representation Learning in Higher-order Networks. IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM), 4 pages, August 2019. (acceptance rate: 15%)
+Also accepted for presentation at the 15th SIGKDD International Workshop on Mining and Learning with Graphs.
+
+Di Jin, Mark Heimann, Ryan Rossi, Danai Koutra. node2bits: Compact Time- and Attribute-aware Node Representations. ECML/PKDD European Conference on Principles and Practice of Knowledge Discovery in Databases, 16 pages, September 2019. (acceptance rate 18%)
+ [code]
+Michael Sjoding, Shengpu Tang, Parmida Davarmanesh, Yanmeng Song, Danai Koutra, and Jenna Wiens. Democratizing EHR Analyses - A Comprehensive, Generalizable Pipeline for Learning from Clinical Data. Machine Learning for Healthcare (MLHC), 1 page (clinical abstract), August 2019.
+Yujun Yan, Jiong Zhu, Marlena Duda, Eric Solarz, Chandra Sripada, Danai Koutra. GroupINN: Grouping-based Interpretable Neural Network-based Classification of Limited, Noisy Brain Data. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 9 pages + 1 page reproducibility appendix, August 2019. (oral presentation, acceptance rate 9%)
+ [code] Also accepted for presentation at the 15th SIGKDD International Workshop on Mining and Learning with Graphs.
+
+
+Di Jin, Ryan A. Rossi, Eunyee Koh, Sungchul Kim, Anup Rao, Danai Koutra. Latent Network Summarization: Bridging Network Embedding and Summarization. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 9 pages + 2 pages reproducibility appendix, August 2019. (acceptance rate 14%)
+ [code] Also accepted for presentation at the 15th SIGKDD International Workshop on Mining and Learning with Graphs.
+
+
+Di Jin*, Mark Heimann*, Tara Safavi, Mengdi Wang, Wei Lee, Lindsay Snider, Danai Koutra. Smart Roles: Inferring Professional Roles in Email Networks. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 9 pages + 1 page reproducibility appendix, August 2019. (acceptance rate 20.7%)
+ [code]
+
+Sang Won Lee, Aaron Willette, Danai Koutra, Walter Lasecki. The Effect of Social Interaction on Facilitating Audience Participation in a Live Music Performance. ACM Creativity and Cognition (C& C), 12 pages, June 2019. (acceptance rate 29.7%)
+Yike Liu, Linhong Zhu, Pedro Szekely, Aram Galstyan, Danai Koutra. Coupled Clustering of Time-Series and Networks. SIAM International Conference on Data Mining (SDM), 9 pages (+4 pages supplementary material), May 2019. (acceptance rate 22.7%)
+ [code]
+Asso Hamzehei, Raymond K. Wong, Danai Koutra, Fang Chen. Collaborative topic regression for predicting topic-based social influence. Machine Learning Journal, Springer, January 2019.
+Mark Heimann, Haoming Shen, Tara Safavi, Danai Koutra. REGAL: Representation Learning-based Graph Alignment. ACM International Conference on Information and Knowledge Management (CIKM), October 2018 (acceptance rate 17%).
+ [code]
+Tara Safavi, Chandra Sripada, Danai Koutra. Fast Network Discovery on Sequence Data via Time-Aware Hashing. Knowledge and Information Systems (KAIS), December 2018.
+ [code]  [slides]
+Oshini Goonetilleke, Kewen Liao, Danai Koutra, and Timos Sellis. On effective and efficient graph edge labeling. Distributed and Parallel Databases, 1-34 (to appear), 2018.
+Pin-Yu Chen, Chun-Chen Tu, Pai-Shun Ting, Ya-Yun Lo, Danai Koutra, Alfred O. Hero III. Identifying Influential Links for Event Propagation on Twitter: A Network of Networks Approach. IEEE Transactions on Signal and Information Processing over Networks (T-SIPN), July 2018.
+Saba Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos Papalexakis, Sarah Liam. t-PNE: Tensor-based Predictable Node Embeddings. ACM/IEEE ASONAM, August 2018 (acceptance rate 16%).
+Tara Safavi, Maryam Davoodi, Danai Koutra. Career Transitions and Trajectories: A Case Study in Computing. ACM SIGKDD, August 2018 (acceptance rate 22.5%).
+[data] Also accepted for oral presentation at the 5th SIGKDD Workshop on Big Scholarly Data.
+
+
+Geoffrey D. Hannigan, Melissa B. Duhaime, Danai Koutra, Patrick D. Schloss. Biogeography & environmental conditions shape bacteriophage-bacteria networks across the human microbiome. PLOS Computational Biology, April 2018.
+Yike Liu, Tara Safavi, Abhilash Dighe, Danai Koutra. Graph Summarization Methods and Applications: A Survey. ACM Computing Surveys, July 2018.
+Yike Liu, Tara Safavi, Neil Shah, Danai Koutra. Reducing Large Graphs to Small Supergraphs: A Unified Approach. Social Network Analysis and Mining Journal, Springer, Februay 2018.
+ [code] [demo]
+Mark Heimann, Wei Lee, Shengjie Pan, Kuan-Yu Chen, Danai Koutra. HashAlign: Hash-based Alignment of Multiple Graphs. PAKDD, 2018 (acceptance rate 18%).
+ [code]
+Yujun Yan, Mark Heimann, Di Jin, Danai Koutra. Fast Flow-based Random Walk with Restart in a Multi-query Setting. SIAM SDM, 2018.
+Jie Song, Danai Koutra, Murali Mani, H.V. Jagadish. GeoAlign: Interpolating Aggregates over Unaligned Partitions. EDBT/ICDT, 2018 (regular paper).
+Best paper runner-up award Covered in the Michigan Engineer magazine: Built by humans, ruled by computers.
+Tara Safavi, Chandra Sripada and Danai Koutra. Scalable Hashing-Based Network Discovery. IEEE ICDM, 2017 (long paper, acceptance rate 9%).
+ [code]  [slides] Selected as one of the best papers of ICDM'17. Invited for potential publication at the KAIS Journal, Springer. ** Integrated into production systems to guide Google's network planning by identifying correlated anomalies.
+Di Jin and Danai Koutra. Exploratory Analysis of Graph Data by Leveraging Domain Knowledge. IEEE ICDM, 2017 (long paper, acceptance rate 9%).
+ [code]
+Neil Shah, Danai Koutra, Lisa Jin, Tianmin Zou, Brian Gallagher, Christos Faloutsos. On Summarizing Large-Scale Dynamic Graphs. Data Engineering Bulletin, September 2017, 40 (3).
+Josh Gardner, Danai Koutra, Jawad Mroueh, Victor Pang, Arya Farahi, Sam Krassenstein, and Jared Webb. Driving with Data: Modeling and Forecasting Vehicle Fleet Maintenance in Detroit. Data for Exchange Conference (D4XG'17), September 2017.
+ [code]
+Allie Cell, Bhavika Reddy Jalli, Adam Rauh, Xinyu Tan, Jared Webb, Joshua Bochu, Arya Farahi, Danai Koutra, Jonathan Stroud, Colin Tan. Understanding Blight Ticket Compliance in Detroit. Data Science for Social Good Conference (DSSG’17), September 2017.
+Di Jin, Aristotelis Leventidis, Haoming Shen, Ruowang Zhang, Junyue Wu and Danai Koutra. PERSEUS-HUB: Interactive and Collective Exploration of Large-Scale Graphs. Informatics 2017, 4 (22).
+Danai Koutra, Abhilash Dighe, Smriti Bhagat, Udi Weinsberg, Stratis Ioannidis, Christos Faloutsos and Jean Bolot. PNP: Fast Path Ensemble Method for Movie Design. ACM SIGKDD, August 2017. (oral presentation, acceptance rate 9%)
+bibtex]  [slides]
+
+Amanda Minnich, Nikan Chavoshi, Danai Koutra and Abdullah Mueen. BotWalk: Efficient Adaptive Exploration of Twitter Bot Networks IEEE/ACM ASONAM, July 2017 (full paper, acceptance rate 19%).
+[bibtex]
+Pravallika Devineni, Evangelos Papalexakis, Danai Koutra, Michalis Faloutsos. One Size Does Not Fit All: Profiling Personalized Time-Evolving User Behaviors. IEEE/ACM ASONAM, July 2017 (full paper, acceptance rate 19%).
+[bibtex]
+Oshini Goonetilleke, Kewen Liao, Danai Koutra, and Timos Sellis. Edge Labeling Schemes for Graph Data. Statistical and Scientific Database Management (SSDBM), June 2017 (full paper, acceptance rate 23%).
+[bibtex]
+Pravallika Devineni, Danai Koutra, Michalis Faloutsos, Christos Faloutsos. Facebook Wall Posts: A Model for User Behaviors. Social Network Analysis and Mining (SNAM), Springer, January 2017.
+[bibtex]
+Asso Hamzehei, Jiang Qiang, Raymond Wong, Danai Koutra and Fang Chen. TSIM: Topic-based Social Influence Measurement for Social Networks. AusDM, December 2016.
+Selected as one of the best papers of AusDM'16. Invited to Australasian Journal of Information Systems.
+[bibtex]
+Venkata Krishna Pillutla, Zhanpeng Fang, Pravallika Devineni, Danai Koutra, Christos Faloutsos, Jie Tang. On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries. SIAM SDM 2016, May 2016.
+[bibtex]
+Danai Koutra, Neil Shah, Joshua T. Vogelstein, Brian Gallagher, Christos Faloutsos. DeltaCon: A Principled Massive-Graph Similarity Function with Attribution. Transactions on Knowledge Discovery from Data (TKDD), February 2016.
+[bibtex]  [slides]  [code in Matlab]  [code in R] Taught in graduate courses: Rutgers University (CS 16:198:672).
+Neil Shah, Danai Koutra, Tianmin Zou, Brian Gallagher, Christos Faloutsos. TimeCrunch: Interpretable Dynamic Graph Summarization. Conference on Knowledge Discovery and Data Mining (KDD), August 2015.
+bibtex]  [code]
+Pravallika Devineni, Danai Koutra, Michalis Faloutsos, Christos Faloutsos. If walls could talk: Patterns and anomalies in Facebook wallposts. IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), August 2015.
+[bibtex]
+Danai Koutra, Paul N. Bennett, Eric Horvitz. Events and Controversies: Influences of a Shocking News Event on Information Seeking. WWW 2015, Florence, Italy. May 2015. [acceptance 14.1%]
+A short version of this paper appeared at the TAIA workshop of SIGIR'14. Arxiv version.
+[bibtex (WWW)] [bibtex (TAIA)] News coverage (MIT Review, Technology.org).
+
+Stephen Ranshous, Shitian Shen, Danai Koutra, Steven Harenberg, Christos Faloutsos, and Nagiza F. Samatova. Anomaly Detection in Dynamic Networks: A Survey. WIREs Computational Statistics, Wiley, January 2015.
+[bibtex]
+Miguel Araujo, Stephan Guennemann, Spiros Papadimitriou, Christos Faloutsos, Prithwish Basu, Ananthram Swami, Evangelos Papalexakis, Danai Koutra. Discovery of `comet' communities in temporal and labeled graphs (Com2). Knowledge and Information Systems (KAIS, Springer), 2015.
+[bibtex]
+Danai Koutra, U Kang, Jilles Vreeken, Christos Faloutsos. Summarizing and Understanding Large Graphs. Special Issue of Statistical Analysis and Data Mining, "Best of SDM 2014". October 2014.
+[bibtex]
+Wolfgang Gatterbauer, Stephan Guennemann, Danai Koutra, Christos Faloutsos. Linearized and Single-Pass Belief Propagation. Proceedings of the VLDB Endowment, Volume 8(4) (VLDB'15), August 2015.
+[bibtex]  [code] [Python Library]
+Walter S. Lasecki, Mitchell Gordon, Danai Koutra, Malte Jung, Steven P. Dow and Jeff P. Bigham. Glance: Rapidly Coding Behavioral Video with the Crowd. ACM Symposium on User Interface Science and Technology (UIST'14), October 2014.
+[bibtex]
+U Kang, Jay-Yoon Lee, Danai Koutra, Christos Faloutsos. Net-Ray: Visualizing and Mining Web-Scale Graphs. PAKDD 2014, Tainan, Taiwan, May 2014.
+[bibtex] Recipient of a travel award.
+
+Yibin Lin, Agha Ali Raza, Jay-Yoon Lee, Danai Koutra, Roni Rosenfeld, Christos Faloutsos. Influence Propagation: Patterns, Model and Case Study. PAKDD 2014, Tainan, Taiwan, May 2014.
+[bibtex]  [slides]
+Miguel Araujo, Spiros Papadimitriou, Stephan Guennemann, Christos Faloutsos, Prithwish Basu, Ananthram Swami, Evangelos E. Papalexakis, Danai Koutra. Com2: Fast Automatic Discovery of Temporal (Comet) Communities. PAKDD 2014, Tainan, Taiwan, May 2014.
+[bibtex] Best student paper award (runner up).
+
+Leman Akoglu, Hanghang Tong, Danai Koutra. Graph-based Anomaly Detection and Description: A Survey. Data Mining and Knowledge Discovery (DAMI), April 2014.
+[bibtex]
+Danai Koutra, U Kang, Jilles Vreeken, Christos Faloutsos. VoG:Summarizing and Understanding Large Graphs. SDM 2014, Philadelphia, PA, April 2014.
+[bibtex]  [slides]  [code] Updated! Selected as one of the best papers of SDM'14. Taught in graduate courses: Saarland University at the Dept. of Databases and Information Systems (TADA). Recipient of a travel award.
+
+Danai Koutra, Hanghang Tong, David Lubensky. BIG-ALIGN: Fast Bipartite Graph Alignment. IEEE ICDM 2013, Dallas, TX, December 2013.
+[bibtex]  [slides] Recipient of a travel award.
+
+Michele Berlingerio, Danai Koutra, Tina Elliasi-Rad, Christos Faloutsos.Network Similarity via Multiple Social Theories. Proceedings of the 5th IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2013), Niagara Falls, Canada, August 2013.
+ [code] [bibtex]
+Ted Senator, Danai Koutra et al. Detecting Insider Threats in a Real Corporate Database of Computer Usage Activities. KDD 2013, Chicago, IL, August 2013.
+[bibtex]
+Danai Koutra, Yu Gong, Sephira Ryman, Rex Jung, Joshua Vogelstein, Christos Faloutsos. Are all brains wired equally? OHBM 2013, Seattle, WA, June 2013.
+[bibtex]
+Jay-Yoon Lee, U Kang, Danai Koutra, Christos Faloutsos. Fast anomaly detection despite the duplicates. WWW 2013, Rio de Janeiro, Brazil, May 2013. (poster)
+[bibtex]
+Danai Koutra, Joshua Vogelstein, Christos Faloutsos. DeltaCon: A Principled Massive-Graph Similarity Function.SDM 2013, Austin, Texas, May 2013.
+[bibtex]  [slides]  [code] Taught in graduate courses: Rutgers University (CS 16:198:672). Recipient of a travel award.
+
+Danai Koutra, Vasileios Koutras, B. Aditya Prakash, Christos Faloutsos. Patterns amongst Competing Task Frequencies: Super-Linearities, and the Almond-DG model. PAKDD 2013, Gold Coast, Queensland, Australia, April 2013.
+[bibtex]  [slides] Taught in graduate courses: Virginia Tech (CS 6604).
+Danai Koutra, Evangelos Papalexakis, Christos Faloutsos. TENSORSPLAT: Spotting Latent Anomalies in Time. PCI (16th Panhellenic Conference on Informatics w/ international participation), Piraeus, Greece, Oct. 2012.
+[bibtex]  [slides]
+Keith Henderson, Brian Gallagher, Tina Eliassi-Rad, Hanghang Tong, Sugato Basu, Leman Akoglu, Danai Koutra, Lei Li, Christos Faloutsos. RolX: Structural Role Extraction & Mining in Large Graphs. ACM SIGKDD, Beijing, China, Aug. 2012.
+[bibtex]  [code - implementation 1] [code - implementation 2] [code - implementation 3]
+Implemented in US gov software systems (e.g., IBM System G Graph Analytics) and in the Stanford Network Analysis Platform (SNAP).
+Danai Koutra, Tai-You Ke, U Kang, Duen Horng (Polo) Chau, Hsing-Kuo Kenneth Pao, and Christos Faloutsos. Unifying Guilt-by-Association Approaches: Theorems and Fast Algorithms. ECML PKDD, Athens, Greece, Sep. 2011.
+[bibtex] [slides]  [code] [poster] Taught in graduate courses: CMU at Tepper School of Business (47-953), Rutgers University (CS 16:198:672).
+
+Other Publications
+Tara Safavi, Danai Koutra. Generating Negative Commonsense Knowledge. Knowledge Representation & Reasoning Meets Machine Learning Workshop (NeurIPS KR22ML'20), poster, December 2020.
+Junchen Jin, Mark Heimann, Di Jin, Danai Koutra. Understanding and Evaluating Structural Node Embeddings. ACM SIGKDD Workshop on Mining and Learning with Graphs (SIGKDD MLG'20), August 2020. [video]
+Puja Trivedi, Alican Büyükcakir, Yin Lin, Yinlong Qian, Di Jin , Danai Koutra. On Structural vs. Proximity-based Temporal Node Embeddings. ACM SIGKDD Workshop on Mining and Learning with Graphs (SIGKDD MLG'20). August 2020. [video]
+Marlena Duda, Chandra Sripada, Danai Koutra. Data-Driven Approaches for Investigating Functional Connectivity Dynamics in Resting State fMRI. Advanced Computational Neuroscience Network (ACNN'19) Big Data Neuroscience Workshop, poster, September 2019. Best poster award.
+Lukas Faber, Tara Safavi, Davide Mottin, Emmanuel Muller, Danai Koutra. Adaptive Personalized Knowledge Graph Summarization. KDD Workshop on Mining and Learning with Graphs (MLG), August 2018.
+
+Saba Al-Sayouri, Ekta Gujral, Danai Koutra, Evangelos Papalexakis, Sarah Lam. t-PINE: Tensor-based Predictable and Interpretable Node Embeddings. KDD Workshop on Mining and Learning with Graphs (MLG), August 2018.
+
+Jie Song, Danai Koutra, Murali Mani, H.V. Jagadish. GeoFlux: Hands-Off Data Integration Leveraging Join Key Knowledge. ACM SIGMOD, 2018 (demo).
+Mark Heimann, Danai Koutra. On Generalizing Neural Node Embedding Methods to Multi-Network Problems. ACM SIGKDD Workshop on Mining and Learning with Graphs (MLG), 2017.
+Saba A Syouri, Pravallika Devineni, Sarah Lam, Vagelis Papalexakis and Danai Koutra. GECS: Graph Embedding Using Connection Subgraphs. ACM SIGKDD Workshop on Mining and Learning with Graphs (MLG), 2017.
+Lisa Jin, Danai Koutra. ECOviz: Comparative Visualization of Time-Evolving Network Summaries. ACM SIGKDD IDEA workshop 2017.
+ [code] [poster]
+Yike Liu, Tara Safavi, Neil Shah, Danai Koutra. Reducing Million-Node Graphs to a Few Structural Patterns: A Unified Approach. KDD Workshop on Mining and Learning with Graphs (MLG), August 2016.
+
+Di Jin, Christos Faloutsos, Danai Koutra, Ticha Sethapakdi. PERSEUS3: Visualizing and Interactively Mining Large-Scale Graphs. KDD Workshop on Mining and Learning with Graphs (MLG), August 2016.
+
+Sai Gouravajhala, Danai Koutra, Walter S. Lasecki. Towards Crowd-Assisted Data Mining. CHI Workshop on Human Centred Machine Learning (HCML), May 2016.
+
+Sai Gouravajhala, Danai Koutra, Walter S. Lasecki. Towards Crowd-Assisted Data Mining. CHI Workshop on Human Centred Machine Learning (HCML), May 2016.
+
+Yike Liu, Neil Shah, Danai Koutra. An Empirical Comparison of the Summarization Power of Graph Clustering Methods. NIPS Networks in the Social and Information Sciences Workshop, December 2015.
+
+Danai Koutra. Exploring and Making Sense of Large Graphs. Dissertation, CMU, August 2015.
+Winner of the 2016 ACM SIGKDD Dissertation Award.
+Honorable Mention for the SCS Doctoral Dissertation Award.
+Nominated to ACM for the Doctoral Dissertation Award.
+Danai Koutra, Di Jin, Yuanchi Ning, Christos Faloutsos. Perseus: An Interactive Large-Scale Graph Mining and Visualization Tool.Proceedings of the VLDB Endowment (VLDB'15 Demo), August 2015
+
+Danai Koutra, Paul N. Bennett, Eric Horvitz. Influences of a Shocking News Event on Web Browsing. SIGIR 2014 Workshop on Temporal, Social and Spatially-aware Information Access (TAIA'14), July 2014.
+[bibtex]  [slides]
+Danai Koutra. Large Graph Mining and Sense-making. Thesis proposal, CMU, March 2014.
+[bibtex]
+Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos. NetSimile: A Scalable Approach to Size-Independent Network Similarity. WIN 2012, Workshop on Information in Networks, New York, NY, Sept. 2012. (presentation and panel discussion)
+ [code] [bibtex]
+Leman Akoglu*, Duen Horng Chau*, U Kang*, Danai Koutra*, and Christos Faloutsos. Large Graph Mining System for Patterns, Anomalies & Visualization. 16th Pacific-Asia Conference, PAKDD 2012, Kuala Lumpur, Malaysia, May 2012. (demo, *: authors in alphabetical order)
+[bibtex]
+Leman Akoglu*, Duen Horng Chau*, U Kang*, Danai Koutra*, and Christos Faloutsos. OPAvion: Mining and visualization in large graphs. ACM SIGMOD Conference 2012, Scottsdale, Arizona, USA, May 2012. (demo paper, *: authors in alphabetical order)
+[bibtex]
+Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos. A Scalable Approach to Size-Independent Network Similarity.NIPS 2012, Workshop on Social Network and Social Media Analysis, Methods, Models, and Applications, Lake Tahoe, NV, Dec. 2012.
+[bibtex] [poster]
+Danai Koutra. Approximate sequence matching with MapReduce. Diploma Thesis, NTUA, Jul. 2010.
+[bibtex] [slides]
+
+
+
+Teaching
+	
+[top]
+
+EECS 476 - Data Mining (~60 students), Winter 2020, University of Michigan, Ann Arbor.
+
+EECS 576: Advanced Data Mining, Fall 2019, University of Michigan, Ann Arbor.
+
+EECS 598-008: Advanced Data Mining, Winter 2019, University of Michigan, Ann Arbor.
+
+EECS 498-001 - Data Mining (~60 students), Fall 2018, University of Michigan, Ann Arbor.
+
+EECS 598-008: Mining Large-Scale Graph Data (65 students), Winter 2018, University of Michigan, Ann Arbor.
+
+EECS 498-001 - Data Mining (new course!) (63 students), Fall 2017, University of Michigan, Ann Arbor.
+
+Summarizing Large-Scale Graph Data: Algorithms, Applications and Open Challenges. SIAM SDM 2017, Houston, TX, April 2017.
+
+EECS 484 - Database Management Systems (283 students), Winter 2017, University of Michigan, Ann Arbor.
+
+EECS 598-004: Mining Large-Scale Graph Data (34 students), Fall 2016, University of Michigan, Ann Arbor.
+
+EECS 484 - Database Management Systems (120 students), Winter 2016, University of Michigan, Ann Arbor.
+
+EECS 598 - Graph Mining and Exploration at Scale: Methods and Applications (23 students), Fall 2015, University of Michigan, Ann Arbor.
+
+Node and graph similarity: Theory and Applications. With Tina Eliassi-Rad and Christos Faloutsos. IEEE ICDM 2014, Shenzen, China, December 2014. (acceptance ratio: 22%)
+
+Node similarity, graph similarity and matching: Theory and Applications. With Tina Eliassi-Rad and Christos Faloutsos. SDM 2014, Philadelphia, PA, April 2014. (over 100 researchers attended!)
+
+15-415 Database Applications: TA, Spring 2013 -- Instructor: Christos Faloutsos.
+
+15-381 Artificial Intelligence: Representation and Problem Solving: TA, Fall 2012 -- Instructors: Ariel Procaccia and Emma Brunskill.
+
+
+Scripts
+	
+[top]
+Code by the GEMS Lab
+
+Our code and other resources can be found on our github repository. If what you're looking for is not there, feel free to email us directly.
+
+Scatter Heatmap
+
+Input: csv file with (x,y,value) triplets
+Output: heatmap for scatter data in log-log scale
+
+
+
+
+Code: heatmap.rar
+
+1D and 2D distributions for a given set of features
+
+Input: tab-separated file with one observation
+          per line (each column corresponds to a feature)
+Output: the 1D distribution for each feature
+            all the pairwise 2D distributions
+
+Code: distributionPlots.zip
+
+Setup hadoop and pegasus
+
+Code: setEnv.sh
+
+
+
+Bio
+	
+[top]
+
+Danai Koutra is an Associate Director of the Michigan Institute for Data Science (MIDAS) and an Associate Professor in Computer Science and Engineering at the University of Michigan, where she leads the Graph Exploration and Mining at Scale (GEMS) Lab. She is also an Amazon Scholar. Her research focuses on principled, practical, and scalable methods for large-scale real networks, and her interests include graph summarization, graph representation learning, graph neural networks, knowledge graph mining, similarity and alignment, temporal graph mining, and anomaly detection. She has won an NSF CAREER award, an ARO Young Investigator award, the 2020 SIGKDD Rising Star Award, research faculty awards from Google, Amazon, Facebook and Adobe, a Precision Health Investigator award, the 2016 ACM SIGKDD Dissertation award, and  an honorable mention for the SCS Doctoral Dissertation Award (CMU). She holds a patent on bipartite graph alignment, and has 8 award-winning papers in top data mining conferences. Over time, she has held a variety of service roles: She is an Associate Editor of  ACM  Transactions  on  Knowledge  Discovery  from  Data  (TKDD) and a program co-chair for ECML/PKDD 2023. She was a track co-chair for The Web Conference 2022, a co-chair of the Deep Learning Day at KDD 2022, the Secretary of the new SIAG on Data Science in 2021, and has routinely served in the organizing committees of all the major data mining conferences.  She has worked at IBM, Microsoft Research, and Technicolor Research. She earned her Ph.D. and M.S. in Computer Science from CMU, and her diploma in Electrical and Computer Engineering at the National Technical University of Athens.
+
+	
+Upcoming Travel
+* Upcoming Travel
+
+March--?? 2020: All travel canceled due to the pandemic (which makes it easy to keep this list up-to-date :) ).
+June 2020: SIAM Conference on Discrete Mathematics (invited talk) in Portland, Oregon.
+May 2020: SIAM Mathematics of Data Science Conference (MDS) (invited talk) in Cincinnati, Ohio.
+November 2019: Tsinghua University in Beijing, China.
+November 2019: ICDM in Beijing, China.
+September 2019: Great Lakes Workshop on Data Science, Notre Dame.
+September 2019: PKDD in Wurzburg, Germany.
+August 2019: KDD in Anchorage, Alaska.
+June 2019: Midwest Machine Learning Symposium (MMLS) in Madison.
+May 2019: NetSci 2019 in Vermont.
+May 2019: SIAM SDM 2019 in Calgary.
+November 2018: IEEE ICDM 2018 in Singapore.
+October 2018: Allerton Conference and UIUC.
+August 2018: ACM SIGKDD in London (organizing MLG and presenting our paper on career transitions with Tara).
+June 2018: Amazon and Google, in CA.
+June 2018: Dagstuhl Seminar,"High-Performance Graph Algorithms", Schloss Dagstuhl in Germany
+May 2018: SIAM SDM, San Diego, CA.
+April 2018: Graph Exploitation Symposium, Dedham, MA
+Nov 2017: ICDM", New Orleans, LA
+Oct 2017: NSF- FAST Workshop 2017: Machine Learning for Discovery Sciences, Yerevan, Armenia
+August 2017: Attending KDD in Halifax, CA! I'm involved with the KDD Cup, the MLG workshop and I am presenting our paper on MovieDesign.
+July 2017: Attending the MSR Faculty Summit in Seattle!
+April 2017: Giving a tutorial on graph summarization at SDM in Houston.
+Nov 2016: Giving a talk on summarizing networks at the the Hasso Plattner Institute in Berlin.
+August 28-Sept 2, 2016: BIRS Workshop on Models and Algorithms for Crowds and Networks, Oaxaca, Mexico
+August 13-17, 2016: KDD, San Fransisco, CA
+May 4-7, 2016: SDM, Miami, FL
+April 4-5, 2016: NSF Career Workshop, Virginia
+March 24-25, 2016: Big Ten Women's Workshop, Milwaukee, WI
+March 11-13, 2016: Origins of Pattern Processing, Arizona
+
+
+
+
+Outreach for diversity in computing (2018-2020):
+
+MIDAS Data Science Summer Camp for High School Students (2019-2020):
+
+
+
+
+Affiliations:
+
+
+
+
+Funding Sources:
+
+      
+
+Past:
+
+ 
+
+
+
+
+
+
+Copyright © Danai Koutra
+
+Last Modified on 08/06/2015.
+

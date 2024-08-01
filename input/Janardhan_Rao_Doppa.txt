@@ -1,0 +1,1061 @@
+Professor: Janardhan Rao Doppa
+University: Washington State University
+URL: http://eecs.wsu.edu/~jana
+Description: 	    Janardhan Rao ( Jana ) Doppa
+    Huie-Rogers Endowed Chair in Computer Science
+    Berry Distinguished Professor in Engineering
+    Chair, EECS Graduate Studies
+    Associate Professor
+    School of EECS, Washington State University
+    Office: EME 133
+    Office Hours: Mon 4-5pm for only UG mentoring meetings
+    Voice: 1-509-335-1846 (Email is the preferred option)
+    Email: jana.doppa [AT] wsu.edu 
+
+		                           LATEST UPDATES
+PhD Student Aryan Deshwal will start as a Tenure-Track Assistant Professor with University of Minnesota and won Outstanding PhD Disseration from the College of Engineering
+
+PhD Student Syrine Belakaria started as a Postdoctoral Fellow @ Stanford University (2023) and won Harriet B. Rigas Award (2023) from WSU
+WSU Faculty Mid-Career Award (2024)
+Best Paper Award, ACM/IEEE International Symposium on Low Power Electronic Design (2023) and ACM/IEEE Embedded Systems Week Conference (2023)
+Best Paper Award, ACM/IEEE Embedded Systems Week Conference (2022); Best Paper Award, ACM Transactions on Design Automation of Electronic Systems (2021)
+PhD Student Biresh Joardar started as a Tenure-Track Assistant Professor with University of Houston and won NSF Computing Innovation Fellowiship (2020)
+Excited to be part of the newly funded NSF-USDA AI Institute for Agriculture Decision Support and lead the AI Thrust on modeling systems of knowns and unknowns.
+PhD Student Syrine Belakaria won IBM PhD Research Fellowship (2021) and was a finalist for Microsoft Research Fellowship (2021)! I'm super proud of her!
+Outstanding Junior Faculty in Research Award (2020) and Reid Miller Teaching Excellence Award (2018) from the Voliland College of Engineering and Architecture
+NSF CAREER Award (2019) Thanks NSF!  Outstanding Paper Award at AAAI Conference (2013)
+My general research interests are in the broad field of artificial intelligence (AI), where I mainly focus on sub-fields of machine learning, and data-driven science and engineering. Current focus of my work is:
+
+AI-driven Adaptive Experiment Design with applications to engineering and scientific domains
+Sequential Decision-making under Uncertainty problems motivated by real-world applications including agriculture and optimization of cyber-physical systems such as smart grid and smart health
+Robust Machine learning and Decision-making for high-stakes applications
+Use-inspired AI research to enable high-impact applications in domains including agriculture, 3D printing, and healthcare
+
+Machine Learning to improve Electronic Design Automation for designing high-performance, energy-efficient, and reliable hardware for large-scale data analysis applications
+Optimized Computer Architectures for Big Data Computing using Emerging Technologies (e.g., Through-Silicon-Via / Monolithic 3D integration, Heterogeneous systems, and Processing-in-Memory cores)
+Machine Learning for Sustainable Computing and Computational Sustainability
+
+I did my PhD with the Artificial Intelligence group at Oregon State University, where I was wisely advised by Prof. Prasad Tadepalli and Prof. Alan Fern . I'm fortunate to work with the inimitable Prof. Alan Fern and I enjoy working with him a lot!
+
+Note for Prospective Students: I'm always looking for strong, self-motivated, and ambitious PhD students. You can find more details here.
+For undergrad students at WSU: If you are interested in working with me for research experience and/or honors thesis, please take my data mining class (CptS 315) and we can discuss the details along the way. Please read this article for some useful advice.
+
+Undergrad / MS Non-Thesis Advising Meetings: Please drop by my office hours. If my office hours don't work for you, please send me an email for appointment.
+
+Quick Links:   [  Research  ]   [  Publications  ]   [  Teaching  ]   [ Students ]  [  Awards and Honors  ]   [  Professional Service  ]   [  Reading Groups  ]   [  Personal  ]
+Education
+Ph.D., Computer Science, Oregon State University, 2014
+M.Tech., Computer Science, Indian Institute of Technology, Kanpur, India, 2006
+
+Research
+I like to work on artificial intelligence and machine learning problems motivated from important real-world applications.  A sample of my current and recent research projects include:
+
+AI to Accelerate Science and Engineering
+How can we develop AI methods by combining valuable domain knowledge and data to accelerate scientific discovery and engineering design?
+
+We are exploring novel adaptive experiment design algorithms to provide computing and planning support for scientists and engineers in selecting experiments under resource constraints. We have developed novel Bayesian optimization (BO) algorithms to optimize combinatorial spaces (see AAAI-2020, AAAI-2021, NeurIPS-2021, AAAI-2022 , and AISTATS-2023 papers); BO for hybrid spaces (ICML-2021 paper); BO for optimizing multiple objectives (see NeurIPS-2019 , AAAI-2020 , and AAAI-2024 papers); BO for multi-fidelity optimization (see AAAI-2020 , NeurIPS-2020 workshop, and JAIR-2021 papers); BO for handling black-box constraints (see NeurIPS-2020 workshop , JAIR-2021 , and CODS-COMAD-2024 papers); and grey-box BO for Auto ML tasks (see AISTATS-2023 paper). See my IJCAI-2021 Early Career Spotlight paper for a short summary of this research. 
+AI for electronic design automation and manycore systems design with our collaborators Partha Pande @ WSU, Krish Chakrabarty @ Duke, Helen Li @ Duke, and Deuk Heo @ WSU.  See papers in the below section.
+AI for electric transportation systems with our power systems collaborator Yue Cao @ Oregon State. See our ECCE-2020 conference paper and TTE-2021 journal paper. 
+AI for nanoporous materials (NPMs) design and chemical sciences with our chemistry collaborator Cory Simon @ Oregon State. We are looking at sustainability applications of NPMs such as (gas storage) densifying hydrogen - a clean fuel - for compact storage onboard vehicles; (gas separation) capturing carbon dioxide from flue gas of coalfired power plants; subsequently sequester it to prevent global warming; and (gas sensing) detecting toxic compounds and explosives. See our MSDE-2021 and Digital Discovery-2023 papers for some initial results.
+AI for agricultural decision support to improve water management, farm management, and harvest management by overcoming labor shortage. Excited to be part of the newly funded NSF-USDA AI Institute for Agriculture Decision Support and lead the AI Thrust on modeling systems of knowns and unknowns.
+Machine Learning meets Computing Systems Design: ML for Systems and Systems for ML
+How can we exploit the synergies between machine learning and computing systems to enable the design of high-performance, energy-efficient, and reliable computing systems spanning from edge devices to servers to cloud, which will empower further advances in ML?
+
+Machine learning methodologies for design space exploration and optimization of manycore systems to significantly reduce the overall engineering cost and design time of application-specific hardware. We developed a theory-guided ML framework by combining the domain knowledge from manycore designers and training data from hardware simulations (see IEEE TCAD 2017, IEEE TC 2019, and ACM TECS 2019 papers)
+Machine learning for runtime resource management to save power by maintaining performance and temperature constraints in system-on-chips (SoCs) ranging from mobile to large-scale manycore systems.  We developed a theory-guided ML framework by using the learned models of design objectives (e.g., power, performance, and temperature) as a function of the system state to provide strong supervised training data to continuously improve the resource management policy (see IEEE TVLSI 2017, IEEE TVLSI 2019, ACM TODAES 2020 , and DAC-2021 papers)
+How can we leverage emerging technologies and machine learning to design high-performance and energy-efficient manycore systems for Big-Data workloads? For example, 3D integration is a breakthrough technology to achieve ``More Moore and More Than Moore,'' and provides numerous benefits (better performance, lower power consumption, and higher bandwidth) by utilizing vertical interconnects and 3D stacking; Processing-in-memory cores enabled by ReRAM will reduce the data movement; and  integrating heterogeneous processing cores of different types and functional granularity allows us to bridge the energy efficiency of application-specific hardware with the programmability of general-purpose processors. See IEEE TCAD 2017 for TSV-based 3D manycore systems; ICCD-2017 for benefits of M3D in homogeneous manycore systems; ACM TODAES 2018 for improved thermal and performance trade-offs in M3D based manycore systems; ACM TODAES 2019 for overcoming the challenges due to electrostatic coupling in M3D based manycore systems;  IEEE TC 2018 for integrating heterogeneous cores including CPUs and GPUs with conflicting QoS requirements on the same 2D SoC; IEEE TC 2019 for benefits of 3D heterogenous manycore systems ACM JETC 2020 for the benefits of partially connected 3D manycore systems using near-field inductive coupling based interconnect; and ACM TODAES 2021 for benefits of M3D based heterogeneous manycore systems including GPU cores.
+How can we design and optimize high-performance, energy-efficient, and reliable manycore systems for training a large class of deep neural networks. See ACM JETC 2018 for 3D manycore architecture with ReRAM based processing-in-memory cores,  IEEE TCAD 2021 for training CNNs by synergistically combining the benefits of M3D integration, ReRAM, and GPUs; IEEE TCAD 2021 to improve the 3D ReRAM/GPU architecture by optimising the normalization layers using BO, ACM TECS 2021 for reliable training of CNNs on unreliable ReRAM based manycore accelerators, and DATE-2021, IEEE TVLSI 2021, and ICCAD-2021 papers on processing-in-memory based manycore architectures for high-performance training graph neural networks.
+How can we create energy-efficient and secure edge AI? We have developed a general hardware and software co-design framework that is applicable for problems ranging from simple classification to structured output prediction (e.g., 3D object shapes from 2D images in AR/VR applications). See IEEE TCAD 2018, ACM TECS 2019, DAC 2020, ICCAD 2020, and ICCAD 2021 papers for different instantiations. See IEEE TCAD 2020 paper for analyzing and improving the security of Edge AI applications such as smart homes, mobile health, and smart grid.
+Collaborators: Partha Pande @ WSU, Krish Chakrabarty @ Duke, Helen Li @ Duke, Deuk Heo @ WSU, Ganapati Bhat @ WSU, Umit Ogras @ UW Madison, Paul Bogdan @ USC, Mike Kishinevsky @ Intel Research, Radu Marculescu @ CMU, and Diana Marculescu @ CMU
+
+Structured Prediction: Algorithms and Applications
+How can we learn to predict structured outputs (e.g., sequences, trees, and graphs)? Structured prediction tasks arise in a variety of domains including natural language processing (e.g., POS tagging, dependency parsing, coreference resolution) and computer vision (e.g., object detection, semantic segmentation).
+
+HC-Search framework (see JAIR-2014 paper) unifies the cost function and control knowledge learning frameworks for structured prediction. The effectiveness of this framework depends on the quality of the search space (the depth at which target outputs can be located). We have designed the limited discrepancy search (LDS) space, which is parameterized by a greedy recurrent classifier or policy, and also its sparse variant to improve efficiency (see JMLR-2014 paper).  We have also designed the randomized segmentation space for computer vision tasks, where we probabilistically sample likely object configurations in the image from a hierarchical segmentation tree (see Michael's CVPR-2015 paper).
+Easy-first framework learns to make easy prediction decisions first to constrain the harder decisions akin to constraint satisfaction algorithms. We have developed a principled optimization-based learning approach for easy-first framework (see Jun's AAAI-2015 paper). 
+We have solved a variety of structured prediction applications including multi-label prediction (see AAAI-2014 paper); coreference resolution within document (see ChaoMa's EMNLP-2014 paper); joint entity and even coreference across documents (see Jun's AAAI-2015 paper); object detection in challenging biological images, semantic segmentation of images, and monocular depth estimation from images (see Michael's ICCV-2013 workshop paper and CVPR-2015 paper); and activity prediction from sensor data (see Bryan's KDD-2015 paper)
+Other researchers' have employed HC-Search to solve various structured prediction applications: dependency parsing (see IJCAI-2016 and ACL-2016 papers); predicting DDoS attacks (see MLJ-2016 paper)
+Deep Language Understanding (with Chao Ma, Jun Xie, Shahed Sorower, Walker Orr, Prashanth Mannem, Tom Dietterich, Xiaoli Fern and Prasad Tadepalli)
+How can we build intelligent computer systems that can achieve deep language understanding? In the Deep Reading and Learning project, we are trying to learn a high-level representation called event graphs (a form of Abstract Meaning Representation) from raw text. Towards this goal, we are working on several sub-problems: 1) Entity co-reference resolution within a document; 2) Joint entity and event co-reference resolution across documents; 3) Joint models for entity linking and discovery; and 4) Learning general scripts of events. See our AAAI2014 paper on script learning, EMNLP2014 paper on co-reference resolution, and AAAI2015 paper on learning for Easy-first framework. [Funded by DARPA as part of the DEFT program]
+Machine Reading (with Shahed Sorower, Mohammad NasrEsfahani, Tom Dietterich, Xiaoli Fern and Prasad Tadepalli)
+How can we learn relational world knowledge rules (e.g., Horn clauses) from natural texts to support textual inference? Natural texts are radically incomplete (writers don't mention redundant information) and systematically biased (writers mention exceptions to avoid the readers from making incorrect inferences), which makes the rule learning very hard. We solve this problem by modeling the pragmatic relationship between what rules exist and what things will be mentioned (e.g., Gricean maxims).  We worked with BBN and other researchers from CMU, University of Washington and ISI. See our NIPS2011 and ACML2011 papers for details. [Funded by DARPA as part of the Machine Reading program]
+Integrated Learning (with Tom Dietterich and Prasad Tadepalli)
+How can we integrate information from multiple sources to learn better ? In the past, we worked on DARPA's Integrated learning project, where the goal was to learn a complex problem solving task from a single demonstration of the expert. We learned the cost function that the expert is minimizing while producing the demonstration by formulating it as an inverse optimization problem. Our component's name was DTLR (Decision Theoretic Learner and Reasoner). We worked with other researchers from Lockheed-Martin, ASU, RPI, UMD, UMASS, UIUC and Georgia Tech. See our TIST2012 paper for details. [Funded by DARPA]
+Publications 
+Effectiveness of Tree-based Ensembles for Anomaly Discovery: Insights, Batch and Streaming Active Learning
+Shubhomoy Das, Rakibul Islam, Nitthilan Kannappan Jayakodi, and Janardhan Rao Doppa
+To appear in Journal of Artificial Intelligence Research (JAIR), 2024
+PDF [Code] 
+Offline Model-based Black-Box Optimization via Policy-guided Gradient Search
+Yassine Chemingui, Aryan Deshwal, Nghia Hoang, Janardhan Rao Doppa
+Proceedings of Thirty-eighth AAAI Conference on Artificial Intelligence (AAAI), 2024
+PDF [Code]
+Pareto front Diverse Batch Multi-Objective Bayesian Optimization
+Alaleh Ahmadianshalchi*, Syrine Belakaria*, Janardhan Rao Doppa (* denotes equal contribution)
+Proceedings of Thirty-eighth AAAI Conference on Artificial Intelligence (AAAI), 2024
+PDF [Code]
+Streamflow Prediction with Uncertainty Quantification for Water Management: A Constrained Reasoning and Learning Approach
+Mohammed Amine Gharsallaoui, Bhupinderjeet Singh, Supriya Savalkar, Aryan Deshwal, Yan Yan, Ananth Kalyanaraman, Kirti Rajagopalan, Janardhan Rao Doppa
+ Proceedings of Thirty-third International Joint Conference on Artificial Intelligence (IJCAI), 2024
+PDF [Code]
+Energy-Efficient Missing Data Imputation in Wearable Health Applications: A Classifier-aware Statistical Approach
+Dina Hussein*, Taha Belkhouja*, Ganapati Bhat, Janardhan Rao Doppa (* denotes equal contribution)
+ Proceedings of Thirty-third International Joint Conference on Artificial Intelligence (IJCAI), 2024
+PDF [Code]
+AgAID Institute—AI for agricultural labor and decision support
+Alan Fern, Margaret Burnett, Joseph Davidson, Janardhan Rao Doppa, Paola Pesantez‐Cabrera, Ananth Kalyanaraman
+ AI Magazine, volume 45, issue 1, pages 99-104, 2024
+PDF
+Bayesian Optimization over High-Dimensional Combinatorial Spaces via Dictionary-based Embeddings 
+Aryan Deshwal, Sebastian Ament, Maximilian Balandat, Eytan Bakshy, Janardhan Rao Doppa, David Eriksson
+Proceedings of Twenty-sixth International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+PDF [Code]
+Bayesian Optimization Over Iterative Learners with Structured Responses: A Budget-aware Planning Approach
+Syrine Belakaria, Janardhan Rao Doppa, Nicolo Fusi, and Rishit Sheth
+Proceedings of Twenty-sixth International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+[arXiv 2206.12708] [Code]
+Multi-fidelity Bayesian Optimization of Covalent Organic Frameworks for Xenon/Krypton Separations
+Nickolas Gantzler, Aryan Deshwal, Janardhan Rao Doppa, Cory Simon
+Digital Discovery Journal, Royal Society of Chemistry, 2023
+PDF [Code]
+Out-of-Distribution Detection in Time-Series Domain: A Novel Seasonal Ratio Scoring Approach
+Taha Belkhouja, Yan Yan, and Janardhan Rao Doppa
+To appear in ACM Transactions on Intelligent Systems and Technology (TIST), 2023
+[arXiv 2207.04306] [Code]
+Probabilistically Robust Conformal Prediction
+Subhankar Ghosh*, Yuanjie Shi*, Taha Belkhouja, Yan Yan, and Janardhan Rao Doppa (* denotes equal contribution)
+Proceedings of Thirty-ninth Conference on Uncertainty in Artificial Intelligence (UAI), 2023
+PDF
+Improving Uncertainty Quantification of Deep Classifiers via Neighborhood Conformal Prediction: Novel Algortihm and Theoretical Analysis
+Subhankar Ghosh*, Taha Belkhouja*, Yan Yan, and Janardhan Rao Doppa (* denotes equal contribution)
+Proceedings of Thirty-seventh AAAI Conference on Artificial Intelligence (AAAI), 2023
+PDF [Code]
+CALDA: Improving Multi-Source Time Series Domain Adaptation with Contrastive Adversarial Learning
+Garrett Wilson, Janardhan Rao Doppa, and Diane Cook
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45(12): 14208-14221, 2023
+PDF  [Code]
+Dynamic Time Warping based Adversarial Framework for Time-Series Domain
+Taha Belkhouja, Yan Yan, and Janardhan Rao Doppa
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 45(6): 7353-7366, 2023
+[arXiv 2207.04308] [Code]
+Florets for Chiplets: Data Flow-aware High-Performance and Energy-efficient Network-on-Interposer for CNN Inference Tasks
+Harsh Sharma, Lukas Pfromm, Rasit Onur Topaloglu, Janardhan Rao Doppa, Umit Y Ogras, Ananth Kalyanraman, Partha Pratim Pande
+ACM Transactions on Embedded Computing Systems (TECS), 22(5s): 132:1-132:21, 2023.  Best Paper Award @ ACM/IEEE Embedded Systems Week Conference
+PDF
+Uncertainty-Aware Online Learning for Dynamic Power Management in Large Manycore Systems
+Gaurav Narang, Raid Ayoub, Michael Kishinevsky, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 28th IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED), 2023. Best Paper Award
+PDF
+Dynamic Power Management in Large Manycore Systems: A Learning-to-Search Framework
+ Gaurav Narang, Aryan Deshwal, Raid Ayoub, Michael Kishinevsky, Janardhan Rao Doppa, and Partha Pratim Pande
+ACM Transactions on Design Automation of Electronics Systems (TODAES) 28(5): 84:1-84:21, 2023
+PDF
+Accelerating Graph Neural Network Training on ReRAM-Based PIM Architectures via Graph and Model Pruning
+Chukwufumnanya Ogbogu, Aqeeb Iqbal Arka, Lukas Pfromm, Biresh Kumar Joardar, Janardhan Rao Doppa, Krishnendu Chakrabarty, Partha Pratim Pande
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 42(8): 2703-2716, 2023
+PDF
+ESSENCE: Exploiting Structured Stochastic Gradient Pruning for Endurance-Aware ReRAM-Based In-Memory Training Systems
+Xiaoxuan Yang, Huanrui Yang, Janardhan Rao Doppa, Partha Pratim Pande, Krishnendu Chakrabarty, Hai Li
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 42(7): 2187-2199, 2023
+PDF
+ReaLPrune: ReRAM Crossbar-Aware Lottery Ticket Pruning for CNNs
+Biresh Kumar Joardar, Janardhan Rao Doppa, Hai (Helen) Li, Krishnendu Chakrabarty, Partha Pratim Pande
+IEEE Transactions on Emerging Topics in Computing, 11(2): 303-317, 2023
+PDF
+
+Achieving Datacenter-scale Performance through Chiplet-based Manycore Architectures
+Harsh Sharma, Sumit Mandal, Janardhan Rao Doppa, Umit Ogras, and Partha Pratim Pande
+To appear in Proceedings of 24th IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2023
+PDF
+Adversarial Framework with Certified Robustness for Time-Series Domain via Statistical Features
+Taha Belkhouja and Janardhan Rao Doppa
+Journal of Artificial Intelligence Research (JAIR),  vol 73, pp 1435-1471, 2022
+PDF [Code] 
+Domain Adaptation Under Behavioral and Temporal Shifts for Natural Time Series Mobile Activity Recognition
+Garrett Wilson, Janardhan Rao Doppa, and Diane Cook
+8th SIGKDD International Workshop on Mining and Learning from Time Series, 2022
+PDF [Dataset]
+Recent Advances in Bayesian Optimization
+Jana Doppa, Jake Gardner, and Virginia Aglietti
+Tutorial at Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
+Tutorial website and Slides
+
+Bayesian Optimization over Permutation Spaces
+Aryan Deshwal, Syrine Belakaria, and Janardhan Rao Doppa
+Proceedings of Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022
+PDF [Code]
+Training Robust Deep Models for Time-Series Domain: Novel Algorithms and Theoretical Analysis
+Taha Belkhouja, Yan Yan, and Janardhan Rao Doppa
+Proceedings of Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022
+PDF [Code]
+Adaptive Energy Management for Self-Sustainable Wearables in Mobile Health
+Dina Hussein, Ganapati Bhat, and Janardhan Rao Doppa
+Proceedings of Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022
+PDF [Code]
+Bayesian Optimization: From Foundations to Advanced Topics
+Jana Doppa, Aryan Deshwal, and Syrine Belakaria
+Half-day Tutorial at Thirty-sixth AAAI Conference on Artificial Intelligence (AAAI), 2022 
+Tutorial website and Slides
+Reliable Machine Learning for Wearable Activity Monitoring: Novel Algorithms and Theoretical Guarantees
+Dina Hussein*, Taha Belkhouja*, Ganapati Bhat, and Janardhan Rao Doppa (* denotes equal contribution)
+To appear in Proceedings of 41st IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2022
+PDF
+Fault-tolerant Deep Learning on ReRAM-based Computing Systems using Regularization
+Biresh Kumar Joardar, Aqeeb Iqbal Arka, Janardhan Rao Doppa, and Partha Pratim Pande (* denotes equal contribution)
+To appear in Proceedings of 41st IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2022
+PDF
+DIET: A Dynamic Energy Management Approach for Wearable Health Monitoring Devices
+Nuzhat Yamin, Ganapati Bhat, and Janardhan Rao Doppa
+Proceedings of 24th IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2022
+PDF
+SWAP: A Server-scale Communication-aware Chiplet-based Manycore PIM Accelerator
+Harsh Sharma, Sumit Mandal, Janardhan Rao Doppa, Umit Ogras, Partha Pratim Pande
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022  Best Paper Award @ ACM/IEEE Embedded Systems Week Conference
+PDF
+Accelerating Large-Scale Graph Neural Network Training on Crossbar Diet
+Chux Ogbogu, Aqeeb Iqbal Arka, Biresh Kumar Joardar, Janardhan Rao Doppa, Hai Li, Krishnendu Chakrabarty, and Partha Pratim Pande
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022  
+PDF
+Combining Latent Space and Structured Kernels for Bayesian Optimization over Combinatorial Spaces
+Aryan Deshwal and Janardhan Rao Doppa
+To appear in Proceedings of Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), 2021
+PDF [Code]
+Bayesian Optimization over Hybrid Spaces
+Aryan Deshwal, Syrine Belakaria, and Janardhan Rao Doppa
+To appear in Proceedings of 38th Internal Conference on Machine Learning (ICML), 2021
+PDF [Code]
+Mercer Features for Efficient Combinatorial Bayesian Optimization
+Aryan Deshwal, Syrine Belakaria, and Janardhan Rao Doppa
+Proceedings of 35th AAAI Conference on Artificial Intelligence (AAAI), 2021
+PDF  [Code]
+Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+Journal of Artificial Intelligence Research (JAIR), vol 72, pp 667-715, 2021
+PDF [Code]
+Adaptive Experimental Design for Optimizing Combinatorial Strutures
+Janardhan Rao Doppa
+To appear in Proceedings of 30th International Joint Conference on Artificial Intelligence (IJCAI), Early Career Spotlight Track, 2021
+PDF
+Bayesian Optimization of Nanoporous Materials
+Aryan Deshwal, Cory Simon, and Janardhan Rao Doppa
+Molecular Systems Design and Engineering Journal, Royal Society of Chemistry, 2021
+PDF  [Code]
+Machine Learning Enabled Design Automation and Multi-Objective Optimization for Electric Transportation Power Systems
+Syrine Belakaria*, Derek Jackson*, Yue Cao, Janardhan Rao Doppa, and Xiaonan Lu (* denotes equal contribution)
+To appear in IEEE Transactions on Transportation Electrification (TTE), 2021
+PDF
+DARe: DropLayer-Aware Manycore ReRAM architecture for Training Graph Neural Networks
+Aqeeb Iqbal Arka, Biresh Kumar Joardar, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+To appear in Proceedings of 40th IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021
+PDF
+Multi-Objective Optimization of ReRAM Crossbars for Robust DNN Inferencing under Stochastic Noise
+Xiaoxuan Yang, Syrine Belakari, Biresh Kumar Joardar, Huanrui Yang, Janardhan Rao Doppa, Partha Pratim Pande, Krishnendu Chakrabarty, and Hai (Helen) Li 
+To appear in Proceedings of 40th IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021
+PDF
+Processing-in-Memory Enabled Heterogeneous Manycore Architectures for Deep Learning: From CNNs to GNNs
+Biresh Kumar Joardar, Aqeeb Iqbal Arka, Janardhan Rao Doppa, Partha Pratim Pande, Krishnendu Chakrabarty, and Hai (Helen) Li 
+To appear in Proceedings of 40th IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021
+PDF
+A General Hardware and Software Co-Design Framework for Energy-Efficient Edge AI
+Nitthilan Kannappan Jayakodi, Janardhan Rao Doppa, and Partha Pratim Pande 
+To appear in Proceedings of 40th IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021
+PDF
+Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs: An Information-Theoretic Approach
+Aryan Deshwal, Syrine Belakaria, Ganapati Bhat, Janardhan Rao Doppa, and Partha Pratim Pande
+To appear in Proceedings of 58th IEEE/ACM Design Automation Conference (DAC), 2021
+PDF
+Functional Criticality Classification of Structural Faults in AI Accelerators
+Arjun Chaudhuri, Biresh Kumar Joardar, Jonti Talukdar, Krishnendu Chakrabarty, Janardhan Rao Doppa, and Partha Pratim Pande
+To appear in Proceedings of 58th IEEE/ACM Design Automation Conference (DAC), 2021
+PDF
+ReGraphX: NoC-enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks
+Aqeeb Iqbal Arka, Biresh Kumar Joardar, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+To appear in Proceedings of 23rd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2021  Best Paper Award Finalist
+PDF
+
+3D++: Unlocking the Next Generation of High-Performance and Energy-Efficient Architectures Using M3D Integration
+Biresh Kumar Joardar, Aqeeb Iqbal Arka, Janardhan Rao Doppa, and Partha Pratim Pande
+To appear in Proceedings of 23rd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2021
+PDF
+Learning to Train CNNs on Faulty ReRAM based Manycore Accelerators
+Biresh Kumar Joardar, Janardhan Rao Doppa, Hai (Helen) Li, Krishnendu Chakrabarty, and Partha Pratim Pande
+To appear in ACM Transactions on Embedded Computing Systems (TECS), 2021
+PDF
+Performance and Accuracy Trade-offs for Training Graph Neural Networks on ReRAM-based Architectures
+
+Aqeeb Iqbal Arka, Biresh Kumar Joardar, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+To appear in IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2021
+PDF
+High-Throughput Training of Deep CNNs on ReRAM-based Heterogeneous Architectures via Optimized Normalization Layers
+Biresh Kumar Joardar, Aryan Deshwal, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+To appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2021
+PDF
+Information-Theoretic Multi-Objective Bayesian Optimization with Continuous Approximations
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+NeurIPS Workshop on Engineering Modeling, Simulation, and Design, 2020
+PDF [Code coming soon]
+Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+NeurIPS Workshop on Machine Learning and the Physical Sciences, 2020
+PDF [Code]
+
+Uncertainty-Aware Search  Framework for Multi-Objective Bayesian Optimization with Constraints
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+7th ICML Workshop on Automated Machine Learning, 2020
+PDF  [Code]
+
+GLAD: GLocalized Anomaly Detection via Human-in-the-Loop Learning
+Md Rakibul Islam, Shubhomoy Das, Janardhan Rao Doppa, and Sriraam Natarajan
+2nd ICML Workshop on Human in the Loop Learning, 2020 
+PDF [Code]
+
+Few-Shot Induction of Generalized Logical Concepts via Human Guidance
+Mayukh Das, Nandini Ramanan, Janardhan Rao Doppa, and Sriraam Natarajan
+To appear in Frontiers in Robotics and AI, 2020
+PDF
+
+Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data
+Garrett Wilson, Janardhan Rao Doppa, and Diane Cook
+Proceedings of 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020
+PDF [Code]
+
+Scalable Combinatorial Bayesian Optimization with Tractable Statistical Models
+Aryan Deshwal, Syrine Belakaria, and Janardhan Rao Doppa
+Proceedings of NeurIPS Workshop on Engineering Modeling, Simulation, and Design, 2020
+PDF [Code]
+Optimizing Discrete Spaces via Expensive Evaluations: A Learning to Search Framework
+Aryan Deshwal, Syrine Belakaria, Janardhan Rao Doppa, and Alan Fern
+Proceedings of 34th AAAI Conference on Artificial Intelligence (AAAI), 2020
+PDF
+
+Multi-Fidelity Multi-Objective Bayesian Optimization: An Output Space Entropy Search Approach
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+Proceedings of 34th AAAI Conference on Artificial Intelligence (AAAI), 2020
+PDF  [Code coming soon]
+Uncertainty-Aware Search  Framework for Multi-Objective Bayesian Optimization
+Syrine Belakaria, Aryan Deshwal, Nitthilan Kannappan Jayakodi, and Janardhan Rao Doppa
+Proceedings of 34th AAAI Conference on Artificial Intelligence (AAAI), 2020
+PDF [Code]
+Machine Learning Enabled Fast Multi-Objective Optimization for Electrified Aviation Power System Design
+Syrine Belakaria*, Derek Jackson*, Yue Cao, Janardhan Rao Doppa, and Xiaonan Lu (* denotes equal contribution)
+Proceedings of IEEE Energy Conversion Congress and Exposition  (ECCE), 2020
+PDF
+
+HeM3D: Heterogeneous Manycore Architecture Based on Monolithic 3D Vertical Integration
+Aqeeb Iqbal Arka, Biresh Kumar Joardar, Ryan Kim, Daehyun Kim, Janardhan Rao Doppa, and Partha Pratim Pande
+To appear in ACM Transactions on Design Automation of Electronic Systems (TODAES), 2020
+PDF
+An Energy-Aware Online Learning Framework for Resource Management in Heterogeneous Platforms
+Sumit Mandal, Ganapati Bhatt, Janardhan Rao Doppa, Partha Pratim Pande, and Umit Ogras
+ACM Transactions on Design Automation of Electronic Systems (TODAES), 25(3): 28:1-28:26, 2020  Best Paper Award
+PDF
+AccuReD: High Accuracy Training of CNNs on ReRAM/GPU Heterogeneous 3D Architecture
+Biresh Kumar Joardar, Janardhan Rao Doppa, Partha Pratim Pande, Hai (Helen) Li, Krishnendu Chakrabarty
+To appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020
+PDF
+3D-ReG: A 3D ReRAM-based Heterogeneous Architecture for Training Deep Neural Networks
+Bing Li, Janardhan Rao Doppa, Partha Pratim Pande, Krishnendu Chakrabarty, Joe Qiu, Hai (Helen) Li
+ACM Journal on Emerging Technologies in Computing Systems (JETC), 16(2): 20:1-20:24, 2020
+PDF
+Power Management of Monolithic 3D Manycore Chips with Inter-Tier Process Variations
+Anwesha Chatterjee, Shouvik Musavvir, Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande
+To appear in ACM Journal on Emerging Technologies in Computing Systems (JETC), 2020
+PDF
+Making a Case for Partially Connected 3D NoC: NFIC versus TSV
+Aqeeb Iqbal Arka, Srinivasan Gopal, Janardhan Rao Doppa, Deuk Heo, and Partha Pratim Pande
+ACM Journal on Emerging Technologies in Computing Systems (JETC), 2020
+PDF
+Design and Optimization of Energy-Accuracy Trade-off Networks for Mobile platforms via Pretrained Deep Models
+Nitthilan Kannappan Jayakodi, Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+ACM Transactions on Embedded Computing Systems (TECS), 19(1): 4:1-4:24, 2020
+PDF
+SETGAN: Scale and Energy Trade-off GANs for Image Applications on Mobile Platforms
+Nitthilan Kannappan Jayakodi, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 39th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2020
+PDF
+PETNet: Polycount and Energy Trade-off Deep Networks for Producing 3D Objects from Images
+Nitthilan Kannappan Jayakodi, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 57th IEEE/ACM Design Automation Conference (DAC), 2020
+PDF
+Online Adaptive Learning for Runtime Resource Management of Heterogeneous SoCs
+Sumit Mandal, Umit Ogras, Janardhan Rao Doppa, Raid Ayoub, Mike Kishinivesky, and Partha Pratim Pande
+To appear in Proceedings of 57th IEEE/ACM Design Automation Conference (DAC), 2020
+PDF
+Power, Performance, and Thermal Trade-offs in M3D-enabled Manycore Chips
+Shouvik Musavvir, Anwesha Chatterjee, Ryan Kim, Daehyun Kim, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 23rd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2020
+PDF
+GRAMARCH: A GPU-ReRAM based Heterogeneous Architecture for Neural Image Segmentation
+Biresh Kumar Joardar, Nitthilan Kannappan Jayakodi, Janardhan Rao Doppa, Partha Pratim Pande, Helen Li, and Krishnendu Chakrabarty
+Proceedings of 23rd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2020  Best Paper Award Finalist
+PDF
+
+Design of Multi-Output Switched-Capacitor Voltage Regulator via Machine Learning
+Syrine Belakaria*, Zhiyuan Zhou*, Aryan Deshwal, Wookpyo Hong, Janardhan Rao Doppa, Partha Pratim Pande, and  Deukhyoun Heo (* denotes equal contribution)
+Proceedings of 23rd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2020
+PDF
+
+Max-value Entropy Search for Multi-Objective Bayesian Optimization
+Syrine Belakaria, Aryan Deshwal, and Janardhan Rao Doppa
+Proceedings of 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019
+PDF  Appendix [Code]
+
+Randomized Greedy Search for Structured Prediction: Amortized Inference and Learning
+Chao Ma*, F A Rezaur Rahman Chowdhury*, Aryan Deshwal, Md Rakibul Islam, Janardhan Rao Doppa, and Dan Roth (* denotes equal contribution)
+Proceedings of 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019
+PDF  Appendix [Code]
+
+Learning and Inference for Structured Prediction: A Unifying Perspective
+Aryan Deshwal, Janardhan Rao Doppa, and Dan Roth
+Proceedings of 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019
+PDF
+
+Taming Extreme Heterogeneity via Machine Learning based Design of Autonomous Manycore Systems
+Paul Bogdan, Fan Chen, Aryan Deshwal, Janardhan Rao Doppa, Biresh Kumar Joardar, Hai (Helen) Li, Shahin Nazarian, Linghao Song, and Yao Xiao
+Proceedings of International Conference on Hardware/Software Codesign and System Synthesis (CODES), 2019
+PDF
+
+Autonomous Design Space Exploration of Computing Systems for Sustainability: Opportunities and Challenges
+Janardhan Rao Doppa, Paul Bogdan, and Justinian Rosca
+IEEE Design and Test of Computers, 36(5): 35-43, 2019
+PDF
+
+Dynamic Resource Management of Heterogeneous Mobile Platforms via Imitation Learning
+Sumit Mandal, Ganapati Bhatt, Chetan Arvid Patel, Janardhan Rao Doppa, Partha Pratim Pande, and Umit Ogras
+IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 27(12): 2842-2854, 2019
+PDF
+
+MOOS: A Multi-Objective Design Space Exploration and Optimization Framework for NoC Enabled Manycore Systems
+Aryan Deshwal, Nitthilan Kannappan Jayakodi, Biresh Kumar Joardar, Janardhan Rao Doppa, and Partha Pratim Pande
+ACM Transactions on Embedded Computing Systems (TECS), 18(5s): 77:1-77:23, 2019
+PDF
+
+Impact of Electrostatic Coupling on Monolithic 3D-enabled Network on Chip
+Dongjin Lee, Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+ACM Transactions on Design Automation of Electronic Systems (TODAES), 24(6): 62:1-62:22, 2019
+PDF
+Learning-based Application-Agnostic 3D NoC Design for Heterogeneous Manycore Systems
+Biresh Kumar Joardar, Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande, Radu Marculescu, and Diana Marculescu
+IEEE Transactions on Computers (TC), 68(6): 852-866, 2019 
+PDF
+Design and Optimization of Heterogeneous Manycore Systems enabled by Emerging Interconnect Technologies: Promises and Challenges
+Biresh Kumar Joardar, Ryan Kim, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 22nd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2019
+PDF
+REGENT: A Heterogeneous ReRAM/GPU-based Architecture Enabled by NoC for Training CNNs
+Biresh Kumar Joardar, Bing Li, Janardhan Rao Doppa, Partha Pratim Pande,  Helen Li, Krishnendu Chakrabarty
+Proceedings of 22nd IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2019
+PDF
+Recent Advances in Structured Prediction
+Janardhan Rao Doppa, Liping Liu, and Chao Ma
+Tutorial at AAAI Conference on Artificial Intelligence (AAAI), 2018
+Tutorial website and Slides
+Machine Learning and Manycore Systems Design: A Serendipitous Symbiosis
+Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande, Diana Marculescu, and Radu Marculescu
+IEEE Computer, 51(7): 66-77, 2018
+PDF
+Machine Learning for Design Space Exploration and Optimization of Manycore Systems
+Ryan Kim, Janardhan Rao Doppa, and Partha Pratim Pande
+Proceedings of 37th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2018
+PDF
+Hybrid On-Chip Communication Architectures for Heterogeneous Manycore Systems
+Biresh Kumar Joardar, Janardhan Rao Doppa, Partha Pratim Pande, Radu Marculescu, and Diana Marculescu
+Proceedings of 37th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2018
+PDF
+On-Chip Communication Network for Efficient Training of Deep Convolutional Networks on Heterogeneous Manycore Systems
+Wonje Choi, Karthi Duraisamy, Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande, Radu Marculescu, and Diana Marculescu
+IEEE Transactions on Computers (TC), 67(5): 672-686, 2018  Spotlight Paper for May Issue
+PDF
+Trading-Off Accuracy and Energy of Deep Inference on Embedded Systems: A Co-Design Approach
+Nitthilan Kannappan Jayakodi, Anwesha Chatterjee, Wonje Choi, Janardhan  Rao Doppa, and Partha Pratim Pande
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 37(11): 2881-2893, 2018
+PDF
+
+Performance and Thermal Trade-Offs for Energy Efficient Monolithic 3D Network-on-Chip
+Dongjin Lee, Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+ACM Transactions on Design Automation of Electronic Systems (TODAES), 23(5): 60:1-60:25, 2018
+PDF
+Abetting Planned Obsolescence by Aging 3D Networks-on-Chip
+Sourav Das, Kanad Basu, Janardhan Rao Doppa, Partha Pratim Pande, Ramesh Karri, and Krishnendu Chakrabarti
+Proceedings of IEEE/ACM International Symposium on Networks-on-Chip (NOCS), Embedded Systems Week, 2018
+PDF
+
+Design Space Exploration of 3D Network-on-Chip: A Sensitivity-based Optimization Approach
+Dongjin Lee, Sourav Das, DaeHyun Kim, Janardhan Rao Doppa, and Partha Pratim Pande
+ACM Journal on Emerging Technologies in Computing Systems (JETC), 14(3): 32:1-32:26, 2018
+PDF
+Scalable Network-on-Chip Architectures for Brain-Machine-Interface Applications
+Xian Li, Karthi Duraisamy, Paul Bogdan, Janardhan Rao Doppa, and Partha Pratim Pande
+IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 26(10): 1895-1907, 2018
+PDF
+Towards Problem Solving Agents that Communicate and Learn
+Anjali Narayan-Chen, Colin Graber, Mayukh Das, Md Rakibul Islam, Soham Dan, Sriraam Natarajan, Janardhan Rao Doppa, Julia Hockenmaier, Martha Palmer, Dan Roth
+To appear in Proceedings of ACL Workshop on Language Grounding for Robotics, 2017
+PDF
+Multi-Task Structured Prediction for Entity Analysis: Search-based Learning Algorithms
+Chao Ma, Janardhan Rao Doppa, Prasad Tadepalli, Hamed Shahbazh, and Xiaoli Fern
+
+Proceedings of Machine Learning Research (PMLR), Vol 77, pp 514-529, 2017
+PDF
+Learning to Speed Up Query Planning in Graph Databases 
+Mohammad Hossein Namaki*, F A Rezaur Rahman Chowdhury*, Md Rakibul Islam, Janardhan Rao Doppa, and Yinghui Wu (* denotes equal contribution)
+
+Proceedings of 27th International Conference on Automated Planning and Scheduling (ICAPS-2017)  Best Student Paper Award Finalist
+PDF
+Select-and-Evaluate: A Learning Framework for Large-Scale Knowledge Graph Search
+F A Rezaur Rahman Chowdhury*, Chao Ma*, Md Rakibul Islam, Mohammad Hossein Namaki, Mohammad Omar Faruk, and Janardhan Rao Doppa (* denotes equal contribution)
+
+Proceedings of Machine Learning Research (PMLR), Vol 77,  pp 129-144, 2017
+PDF
+Learning Activity Predictors from Sensor Data: Algorithms, Evaluation, and Applications 
+Bryan Minor, Janardhan Rao Doppa, and Diane Cook
+
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 29(12), pp 2744-2757, 2017 
+PDF
+Data Analytics Enables Energy-Efficiency and Robustness: From Mobile to Manycores, Datacenters, and Networks
+Sudeep Pasricha, Janardhan Rao Doppa, Krishnendu Chakrabarty, Saideep Tiku, Daniel Dauwe, Shi Jin, Partha Pratim Pande
+Proceedings of International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS), Embedded Systems Week, 2017
+PDF
+Adaptive Manycore Architectures for Big Data Computing
+Janardhan Rao Doppa, Ryan Kim, Mihailo Isakov, Michel Kinsy, HyoukJun Kwon, and Tushar Krishna
+Proceedings of IEEE/ACM International Symposium on Networks-on-Chip (NOCS), Embedded Systems Week, 2017
+PDF
+Imitation Learning for Dynamic VFI Control in Large-Scale Manycore Systems
+Ryan Kim, Wonje Choi, Zhou Chen, Janardhan Rao Doppa, Partha Pratim Pande, Diana Marculescu, and Radu Marculescu.
+IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 25(9), pp 2458-2471, 2017
+PDF
+Monolithic 3D-enabled High-Performance and Energy Efficient Network-on-Chip 
+Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+Proceedings of  35th IEEE International Conference on Computer Design (ICCD), 2017
+PDF
+3D Heterogeneous NoC-enabled Manycore Architectures for Accelerating CNN Training: Performance and Thermal Trade-offs
+Biresh Kumar Joardar, Wonje Choi, Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande, Radu Marculescu, and Diana Marculescu
+Proceedings of IEEE/ACM International Symposium on Networks-on-Chip (NOCS), Embedded Systems Week, 2017
+PDF
+VFI-based Power Management to Enhance the Lifetime of High-Performance 3D NoCs 
+Sourav Das, Dongjin Lee, Wonje Choi, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+ACM Transactions on Design Automation of Electronic Systems (TODAES), 23(1), pp 7:1-7:26, 2017
+PDF
+Design-Space Exploration and Optimization of an Energy-Efficient and Reliable 3D Small-world Network-on-Chip
+Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 36(5), pp 719-732, 2017
+online link and Longer ArXiv version
+Robust TSV-based 3D NoC Design to Counteract Electromigration and Crosstalk Noise
+Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+Proceedings of 20th IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2017
+PDF
+Hybrid Network-on-Chip Architectures for Accelerating Deep Learning Kernels on Heterogeneous Manycore Platforms
+Wonje Choi, Karthi Duraisamy, Ryan Kim, Janardhan Rao Doppa, Partha Pratim Pande, Radu Marculescu, and Diana Marculescu
+Proceedings of IEEE International Conference on Compilers, Architectures and Synthesis for Embedded Systems, Embedded Systems Week, 2016
+PDF 
+Energy-Efficient and Reliable 3D Network-on-Chip (NoC): Architectures and Optimization Algorithms
+Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+Proceedings of 35th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2016
+PDF 
+Reliability and Performance Trade-offs for 3D NoC-Enabled Multicore Chips
+Sourav Das, Janardhan Rao Doppa, Partha Pratim Pande, and Krishnendu Chakrabarty
+Proceedings of 19th IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2016
+PDF
+Integrating Learning and Search for Structured Prediction
+Janardhan Rao Doppa
+Half-day Tutorial at  International Joint Conference on Artificial Intelligence (IJCAI), 2016
+Tutorial website and Slides
+Optimizing 3D NoC Design for Energy Efficiency: A Machine Learning Approach
+Sourav Das, Janardhan Rao Doppa, Dae Hyun Kim, Partha Pratim Pande, and Krishnendu Chakrabarty
+Proceedings of 34th IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2015
+PDF 
+Data-Driven Activity Prediction: Algorithms, Evaluation Methodology, and Applications
+Bryan Minor, Janardhan Rao Doppa, and Diane Cook
+
+Proceedingss of 21st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2015
+PDF
+HC-Search for Structured Prediction in Computer Vision
+Michael Lam, Janardhan Rao Doppa, Sinisa Todorovic, and Tom Dietterich
+
+Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2015
+PDF
+Learning Greedy Policies for the Easy-First Framework
+Jun Xie, Chao Ma, Janardhan Rao Doppa, Prashanth Mannem, Xiaoli Fern, Tom Dietterich, and Prasad Tadepalli
+
+Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2015
+PDF
+Prune-and-Score: Learning for Greedy Coreference Resolution
+Chao Ma, Janardhan Rao Doppa, Walker Orr, Prashanth Mannem, Xiaoli Fern, Tom Dietterich, and Prasad Tadepalli
+
+Proceedings of International Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014
+PDF
+Integrating Learning and Search for Structured Prediction
+Janardhan Rao Doppa
+Ph.D. Thesis, Oregon State University, 2014  Nominated for ACM Doctoral Dissertation Award
+PDF
+
+HC-Search: A Learning Framework for Search-based Structured Prediction
+Janardhan Rao Doppa, Alan Fern, and Prasad Tadepalli
+Journal of Artificial Intelligence Research (JAIR), vol 50, pages 369-407, 2014 
+jair link
+
+Structured Prediction via Output Space Search
+Janardhan Rao Doppa, Alan Fern, and Prasad Tadepalli
+Journal of Machine Learning Research (JMLR), 15(Apr):1317−1350, 2014
+
+jmlr link
+
+
+
+HC-Search for Multi-Label Prediction: An Empirical Study
+Janardhan Rao Doppa, Jun Yu, Chao Ma, Alan Fern, and Prasad Tadepalli
+Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2014
+PDF
+
+Learning Scripts as Hidden Markov Models 
+
+J. Walker Orr, Prasad Tadepalli, Janardhan Rao Doppa, Xiaoli Fern, and Thomas Dietterich
+
+Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2014
+PDF
+
+Learning to  Detect Basal Tubules of Nematocysts in SEM Images
+Michael Lam, Janardhan Rao Doppa, Xu Hu, Sinisa Todorovic, Thomas Dietterich, Abigail Reft, and Marymegan Daly
+
+Proceedings of ICCV 2013 Workshop on Computer Vision for Accelerated Biosciences. 
+PDF
+HC-Search: Learning Heuristics and Cost Functions for Structured Prediction
+Janardhan Rao Doppa, Alan Fern, and Prasad Tadepalli
+Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2013  Outstanding Paper Award
+PDF 
+Output Space Search for Structured Prediction
+Janardhan Rao Doppa, Alan Fern, and Prasad Tadepalli
+Proceedings of International Conference on Machine Learning (ICML), 2012
+PDF
+An Ensemble Architecture for Learning Complex Problem Solving Techniques from Demonstration
+Xiaoqin Zhang, Bhavesh Shrestha, Sung Wook Yoon, Subbarao Kambhampati, Phillip DiBona, Jinhong K. Guo, Daniel McFarlane, Martin O. Hofmann, Kenneth R. Whitebread, Darren Scott Appling, Elizabeth T. Whitaker, Ethan Trewhitt, Li Ding, James Michaelis, Deborah L. McGuinness, James A. Hendler, Janardhan Rao Doppa, Charles Parker, Thomas G. Dietterich, Prasad Tadepalli, Weng-Keen Wong, Derek T. Green, Antons Rebguns, Diana F. Spears, Ugur Kuter, Geoffrey Levine, Gerald DeJong, Reid MacTavish, Santiago Ontanon, Jainarayan Radhakrishnan, Ashwin Ram, Hala Mostafa, Huzaifa Zafar, Chongjie Zhang, Daniel D. Corkill, Victor R. Lesser, and Zhexuan Song
+ACM Transactions on Intelligent Systems and Technology , vol 3, issue 4, article 75, pp 1-38 (TIST-2012)
+
+PDF
+Learning Rules from Incomplete Examples via Implicit Mention Models
+Janardhan Rao Doppa, Shahed Sorower, Mohammad Nasresfahani, Jed Irvine, Walker Orr, Thomas G. Dietterich, Xiaoli Fern, and Prasad Tadepalli
+Journal of Machine Learning Research (JMLR) Proceedings Track, vol 20, pages 197-212, 2011
+
+PDF
+
+
+Inverting Grice's Maxims to Learn Rules from Natural Language Extractions 
+Shahed Sorower, Thomas G. Dietterich, Janardhan Rao Doppa, Walker Orr, Xiaoli Fern, and Prasad Tadepalli
+Proceedings of Advances in Neural Information Processing Systems (NIPS), 2011
+PDF 
+
+Learning Rules from Incomplete Examples via Observation Models
+Janardhan Rao Doppa, Mohammad Nasresfahani, Shahed Sorower, Jed Irvine, Thomas G. Dietterich, Xiaoli Fern, and Prasad Tadepalli
+Proceedings of IJCAI 2011 Workshop on Learning by Reading and its Applications in Intelligent Question-Answering.
+
+PDF
+A Structured Prediction Approach for Entity Coreference Resolution
+Janardhan Rao Doppa, Walker J. Orr, Mohammad Nasresfahani, Thomas G. Dietterich, Xiaoli Fern, and Prasad Tadepalli
+Machine Reading Symposium, DARPA's Machine Reading Program, 2011.
+PDF
+Learning Rules from Incomplete Examples via a Probabilistic Mention Model
+Shahed Sorower, Thomas G. Dietterich, Janardhan Rao Doppa, Xiaoli Fern, and Prasad Tadepalli
+Proceedings of IJCAI 2011 Workshop on Learning by Reading and its Applications in Intelligent Question-Answering.
+PDF
+
+ Learning Algorithms for Link Prediction based on Chance-Constraints
+Janardhan Rao Doppa, Jun Yu, Prasad Tadepalli, and Lise Getoor
+Proceedings of European Conference on Machine Learning (ECML), 2010
+PDF
+ Towards Learning Rules from Natural Texts
+Janardhan Rao Doppa, Mohammad Nasresfahani, Mohammad S. Sorower, Thomas G. Dietterich, Xiaoli Fern, and Prasad Tadepalli
+Proceedings of NAACL 2010 Workshop on Formalisms and Methodologies in Learning by Reading.
+
+PDF
+ 
+Chance-Constrained Programs for Link Prediction
+Janardhan Rao Doppa, Jun Yu, Prasad Tadepalli, and Lise Getoor
+Proceedings of NIPS 2009 Workshop on Analyzing Networks and Learning with Graphs.
+
+PDF
+  
+An Ensemble Learning and Problem Solving Architecture for Airspace Management
+Xiaoqin Zhang, Sung Wook Yoon, Phillip DiBona, Darren Scott Appling, Li Ding, Janardhan Rao Doppa, Derek T. Green, Jinhong K. Guo, Ugur Kuter, Geoffrey Levine, Reid MacTavish, Daniel McFarlane, James Michaelis, Hala Mostafa, Santiago Ontanon, Charles Parker, Jainarayan Radhakrishnan, Antons Rebguns, Bhavesh Shrestha, Zhexuan Song, Ethan Trewhitt, Huzaifa Zafar, Chongjie Zhang, Daniel D. Corkill, Gerald DeJong, Thomas G. Dietterich, Subbarao Kambhampati, Victor R. Lesser, Deborah L. McGuinness, Ashwin Ram, Diana F. Spears, Prasad Tadepalli, Elizabeth T. Whitaker, Weng-Keen Wong, James A. Hendler, Martin O. Hofmann, and Kenneth R. Whitebread
+Proceedings of AAAI Conference on Innovative Applications of Artificial Intelligence (IAAI), 2009
+PDF
+Teaching
+Courses at WSU:
+
+CptS 570 Machine Learning (Fall 2014; Fall 2015; Fall 2016; Fall 2017; Fall 2018; Fall 2019; Fall 2020; Fall 2021; Fall 2022; Fall 2023)
+CptS 577 Structured Prediction and Intelligent Decision-Making (Spring 2015; Spring 2016; Spring 2017; Spring 2018; Spring 2019) -- strong focus on Electronic Design Automation domain in addition to NLP and Vision
+CptS 315 Introduction to Data Mining (Spring 2018; Spring 2019; Spring 2020; Spring 2021; Spring 2022; Spring 2023)
+
+In the past, I was Instructor for the following courses:
+
+
+CS/ECE 507: Introduction to Graduate School (aka Research Methods in Computer Science, partly based on Prof. Tom Dietterich's Fall 1996 course), Oregon State University. (Fall 2010, Fall 2011, Fall 2012, Fall 2013)
+CS 261: Data Structures, Oregon State University. (Summer 2007)
+Summer School on Data structures and Algorithms, IIT Kanpur. (Summer 2006)
+Object Oriented Programming with C++,  IIT Kanpur. (Winter 2006)
+C101: Introduction to Computing, IIT Kanpur. (Fall 2005)
+Current Research Group
+I'm fortunate to work with the below group of students.
+
+Alaleh Ahmadian, Computer Science, PhD Student (Fall 2019-)
+Outstanding Graduate Teaching Assistant Award, Voiland College of Engineering, 2022
+Mohamad Alizade, Computer Science, PhD Student (Fall 2024-)
+Hui-Rogers Graduate Fellowship, 2024
+Yassine Chemngui, Computer Science, PhD Student (Fall 2022-)
+Alfred Suksdorf Fellowship, 2022
+Mahmoud Dillsi Graduate Fellowship, 2023
+Chibuike Ugwu, Computer Science, PhD Student (Fall 2022-)
+Outstanding Graduate Teaching Assistant in EECS Award, Voiland College of Engineering, 2024
+Azza Fadhel, Computer Science, PhD Student (Fall 2022-)
+Nakhara Scholarship, 2022
+Mohammed Amine Gharsallaoui, Computer Science, PhD Student (Spring 2022-)
+Alfred Suksdorf Fellowship, 2022
+Outstanding Graduate Teaching Assistant Award  from EECS, Voiland College of Engineering, 2023
+Subhankar Ghosh, Computer Science (co-advised w/ Yan Yan), PhD Student (Spring 2022-)
+Mahmoud Dillsi Graduate Fellowship, 2023
+Gaurav Narang, Computer Engineering (co-advised w/ Partha Pratim Pande), PhD Student (Fall 2021-)
+Alfred Suksdorf Fellowship, 2021
+Richard Newton Young Fellow, ACM Special Interest Group on Design Automation, 2022
+Best Paper Award, ACM/IEEE International Symposium on Low Power Electronics and Design, 2023
+Seyed Hooman Shahrokhi:, Computer Science (Fall 2022-)
+Alfred Suksdorf Fellowship, 2022
+Harsh Sharma, Computer Engineering (co-advised w/ Partha Pratim Pande), PhD Student (Fall 2021-)
+Richard Newton Young Fellow, ACM Special Interest Group on Design Automation, 2022
+Best Paper Award, ACM/IEEE Embedded Systems Week Conference, 2022
+Best Paper Award, ACM/IEEE Embedded Systems Week Conference, 2023
+Outstanding Graduate Research Assistant in EECS Award, Voiland College of Engineering, 2024
+Vibhanshu Sharma, Computer Engineering (co-advised  w/ Partha Pratim Pande), PhD Student (Fall 2024-)
+Chukwufumnanya Ogbogu, Computer Engineering (co-advised w/ Partha Pratim Pande), PhD Student (Spring 2021-)
+Richard Newton Young Fellow, ACM Special Interest Group on Design Automation, 2021
+Outstanding Graduate Student Researcher in ECE, 2023
+Harold and Dianna Frank Electrical Engineering Fellowship, 2023
+Shlok Tomar, Computer Science, MS Thesis Student (Fall 2023-)
+Dheeraj Vurukuti, Computer Science, MS Thesis Student (Fall 2022-)
+Ethan Villalovoz, Undergraduate Researcher (Fall 2023-)
+Selected for CMU Robotics Institute Summer Research Scholars Program, 2024
+Voiland College of Engineering, Outstanding Junior Award, 2024
+Selected for Motivating Innovation and Research Achievement (MIRA) program
+Former Students and Postdocs
+Aryan Deshwal, Computer Science, PhD 2024, First position: Tenure-Track Assistant Professor @ University of Minnesota, Twin Cities
+Outstanding Teaching Assistant in Computer Science Award, Voiland College of Engineering, 2020
+
+GPSA Graduate Research Assistant Excellence Award, 2020
+Outstanding Innovation in Technology Award (for his MS dissertation), Washington State University, 2020
+Outstanding Reviewer Award, ICML (2020, 2021) and ICLR (2021)
+Outstanding Research Assistant Award, Voiland College of Engineering, 2022
+Selected for Heidelberg Laureate Forum, 2022
+Selected for Rising Stars in AI, KAUST AI Initiative, 2023
+Outstanding Dissertation Award, Voiland College of Engineering, 2023
+Taha Belkhouja, Computer Science, PhD 2024, First position: Researcher @ Accenture Generative AI Labs, Palo Alto 
+PhD Thesis: New Directions in Robust Time-Series Machine Learning: Theory, Algorithms, and Applications PDF
+Alfred Suksdorf Fellowship, 2019
+Mahmoud Dillsi Graduate Fellowship, 2020
+Outstanding Graduate Teaching Assistant Award  from EECS, Voiland College of Engineering, 2021
+Outstanding Research Assistant Award, Voiland College of Engineering 2023
+Outstanding Dissertation in EECS Award, Voiland College of Engineering, 2024
+Finalist for Stanford Data Science Postdoctoral Fellowship, 2024
+Syrine Belakaria, Computer Science, PhD 2023, First position: Postdoctoral Fellow @ Stanford University w/ Stefano Ermon and Barbara Engelhardt
+PhD Thesis: New Frontiers in Adaptive Experimental Design for Multi-Objective Optimization PDF
+Outstanding Teaching Assistant in Computer Science Award, Voiland College of Engineering, 2019
+Top Reviewer Award, ICML Conference (2020, 2022)
+
+Finalist for Open Philanthropy AI  Fellowship, 2020
+Finalist for Microsoft Research  Fellowship, 2021
+IBM PhD Research Fellowship, 2021-2023
+
+Outstanding Graduate Research Assistant Award  from School of EECS, Voiland College of Engineering, 2021
+Selected for EECS Rising Stars @ MIT, 2021
+Harriet B. Rigas Outstanding Woman in Doctoral Studies Award, Washington State University, 2023
+Data Science Postdoctoral Fellowship from Stanford University, 2023
+Nitthilan Kannappan Jayakodi, Computer Engineering, PhD 2022, First position: Research Scientist @ Amazon AI
+PhD Thesis: An Adaptive Framework for Energy-Efficient Edge AI: From Classification to Synthesis of Images and 3D Shapes
+Alfred Suksdorf Fellowship, 2017
+Harold and Dianna Frank Electrical Engineering Fellowship, 2019
+Harold and Dianna Frank Electrical Engineering Fellowship, 2020
+Richard Newton Young Fellow, ACM Special Interest Group on Design Automation, 2020
+Garrett Wilson, Computer Science, PhD 2021 (Co-advised w/ Diane Cook), First position: Research Scientist @ Meta
+PhD Thesis: Multi-Source Unsupervised Domain Adaptation for Time-Series Sensor Data
+Md Rakibul Islam, Computer Science, PhD 2021, First position: Research Scientist @ Meta => Research Scientist @ The University of Texas, MD Anderson Cancer Center
+PhD Thesis: Human-in-the-Loop Learning for Anomaly Detection: Novel Insights, Algorithms, and Applications
+Biresh Kumar Joardar, Computer Engineering, PhD 2020 (co-advised w/ Partha Pratim Pande), First position: NSF Computing Innovation Postdoc Fellow @ Duke University => Assistant Professor @ University of Houston
+PhD Thesis: Machine Learning enabled Vertically Integrated Heterogeneous Manycore Systems for Big-Data Analytics
+Harold and Dianna Frank Electrical Engineering Fellowship, 2018
+Outstanding Graduate Student Researcher in Electrical and Computer Engineering Award, 2019
+NSF Computing Innovation Fellow, 2020
+F A Rezaur Rahman Chowdhury, Computer Science, PhD 2020, First position: Research Scientist @ Meta
+PhD Thesis: Machine Learning to Scale Up Combinatorial Applications
+Alfred Suksdorf Fellowship, 2015
+Chao Ma, Computer Science, PhD 2019 (co-advised w/ Prasad Tadepalli),  First position: Machine Learning Engineer @ Uber AI Labs
+PhD Thesis: New Directions in Search-based Structured Prediction: Multi-Task Learning and Integration of Deep Models
+Sourav Das, Computer Engineering, PhD 2018 (co-advised w/ Partha Pratim Pande),  First position: Researcher @ Intel Research Labs, Santa Clara
+PhD Thesis: Towards High-Performance, Energy-Efficient, and Reliable 3D Manycore Chips Enabled by Machine Learning 
+Outstanding Graduate Student Researcher in Electrical and Computer Engineering Award, 2017
+Shubhomoy Das, Postdoctoral Researcher  2017-2019, First position: Senior Machine Learning Scientist @ Astound.AI
+Subhankar Ghosh, Computer Science, MS Thesis 2024 (Co-advised w/ Yan Yan), First position: Continuing PhD Student
+MS Thesis: Improving Uncertainty Quantification of Deep Classifiers: A Neighborhood Conformal Prediction Approach
+Sriyandass Adidass, Computer Science, MS Thesis 2020, First position: Data Scientist @ IBM
+MS Thesis: Time-Series Anomaly Detection via Representation Learning: A Latent Space Approach
+Aryan Deshwal, Computer Science, MS Thesis 2020, First position: Continuing PhD Student
+MS Thesis: MOOS: A Learning to Search Framework for Multi-Objective Optimization of Manycore Systems Design
+Kalvin Hallesy, Computer Engineering, MS Thesis 2018-2019, First position: Micro-architecture Engineer @ Apple
+Mohammad Omar Faruk, Computer Science, MS Thesis 2018, First position: Dell EMC
+MS Thesis: Multi-Fidelity Blackbox Optimization of Continuous Spaces: An Empirical Study
+Marisa Mendoza, Undergraduate Team Mentoring Program (2023)
+Lukas Pfromm, Undergraduate Researcher (2022-2023) First position: Graduate Student in Computer Engineering @ Univ. of Wisconsin-Madison
+William Foster, Undergraduate Researcher (2022-2023)
+McNair Scholar, 2022
+Stephany Lamas, Team Mentoring Program / Undergraduate Researcher (2020-2022)
+Boeing Research Scholar, 2020
+McNair Scholar, 2019
+Tyler Cleveland, Undergraduate Researcher (2020-2021), First position: Microsoft
+Marcus Blaisdell, Undergraduate Researcher (2019), First position: N/A
+Albert Wu, Undergraduate Researcher (2019), First position: N/A
+Maddy Brockmeyer, Undergraduate Researcher (2018), First position: Nordstrom
+Srikar Murali, Undergraduate Researcher (2018), First position: Graduate Student @ University of Washington
+Shusanta Bhattarai, Undergraduate Researcher (2017), First position: Microsoft
+Boeing Research Scholar, 2017
+Shrunga Malavalli, Undergraduate Researcher (2017), First position: Microsoft
+Ellis Hoag, Undergraduate Researcher (2017-18), First position: Graduate Student in CS @ Stanford University
+Best Student Abstract Award, AAAI Conference, 2018
+
+Luke Weber, Undergraduate Researcher (2016-17), First position: Co-founder of AI-based startup company BreatheFIT → Allen Institute of Brain Science 
+Vanessa Putnam, Undergraduate Researcher (2016), First position: Graduent Student in CS @ Univeristy of British Columbia 
+CRA-W Grace Hopper Conference (GHC) Research Scholar, 2016
+Xinheng Gong, Undergraduate Researcher (2016), First position: LinkedIn
+Nicholaus Jackson, Undergraduate Researcher (2015), First position: Google
+Professional Service
+   Tutorials, Invited Talks, and Special Sessions:
+
+Recent Advances in Robust Time-Series ML: From Theory to Practice Tutorial at AAAI Conference, 2024 (w/ Taha Belkhouja, Ganapati Bhat, Nghia Hoang, Yan Yan)
+Invited Talk, AI-driven Multi-Objective Design Optimization, Bridge Program on AI for Design Problems, AAAI Conference, 2024
+Keynote Talk, Exploiting Synergies between AI and Computing Systems for Sustainable Computing, International Conference on Distributed Computing and Intelligent Technology, 2024
+Invited Talk, Research Methods in Data Science, ACM CODS-COMAD Conference, 2024
+Bayesian Optimization over Combinatorial Spaces: Progress and Outstanding Challenges, Amazon Science Seminar 2023 (w/ Aryan Deshwal)
+Bayesian Optimization over Combinatorial Spaces: Progress and Outstanding Challenges, INFORMS Annual Meeting 2023 (w/ Aryan Deshwal)
+Hardware and Software Co-Design for Edge AI Tutorial at DAC 2023 (w/ Umit Ogras and Priya Panda)
+Hardware-aware AI Algorithms to Improve Resource-Efficiency at DAC 2023
+Bayesian Optimization over Combinatorial Spaces: Progress and Outstanding Challenges, Invited Talk at Meta Research
+Advances in Bayesian Optimization Tutorial at AAAI 2023 (w/ Aryan Deshwal, Syrine Belakaria)
+Recent Advances in Bayesian Optimization Tutorial at NeurIPS 2022 (w/ Virginia Aglietti and Jake Gardner)
+Processing-in-Memory enabled Heterogeneous Manycore Systems for Deep Learning Workloads Tutorial at Embedded Systems Week 2022 (w/ Biresh Kumar Joardar)
+Bayesian Optimization: From Foundations to Advanced Topics Tutorial at AAAI 2022 (w/ Aryan Deshwal, Syrine Belakaria)
+Data science for physical sciences: Data Science driven approaches to advance catalysis, separations and materials, Energy Sciences Center, PNNL
+Plenary Talk, Harnessing Machine Learning to Accelerate Electronic Design Automation @ MLCAD 2021
+Overcoming Moore's Law via Technology and Machine Learning-driven Manycore Systems Tutorial at Embedded Systems Week Conference 2021 (w/ Biresh Kumar Joardar)
+Cross Layer Design Solutions for Energy-Efficient and Secure Edge AI at ICCAD Conference 2021 (w/ Mohammad Shafique, Aviv Barkai, Evgeni Gousev, and Partha Pande)
+Harnessing the Power of Machine Learning: EDA to Accelerator Design ICCAD Conference 2021 (w/  Partha Pande, Krishnendu Chakrabarty, Sachin Sapatnekar, Haoxing (Mark) Ren, and Helen Li)
+Data Analytics for Scalable Computing Systems Design: Challenges, Opportunities, and Solutions at DATE Conference 2020, Grenoble, France (w/ Partha Pratim Pande, Helen Li, Krishnendu Chakrabarty, and Rob Aitken)
+Machine Learning for Embedded Systems Design at Embedded Systems Week Conference 2019, New York (w/ Philip Brisk)
+Taming Extreme Heterogeneity: Novel Design Methodologies for Autonomous Heterogeneous Computing Architectures at Embedded Systems Week Conference 2019, New York (w/ Paul Bogdan and Helen Li)
+Machine Learning for Electronic Design Automation: Modeling, Optimization, and Resiliency at ICCAD 2018, San Diego. (w/ Joseph Greathouse, Gabriel Loh, and Krishnendu Chakrabarty)
+Recent Advances in Structured Prediction at AAAI 2018, New Orleans. (w/ Liping Liu and Chao Ma)
+Design of Energy-Efficient and Reliable VLSI Systems: A Data-Driven Perspective at Embedded and VLSI Design Conference 2018, Pune, India. (w/ Sudeep Pasricha, Partha Pratim Pande, and Krishnendu Chakrabarty)
+Adaptive Manycore Architectures for Big Data Computing at Embedded Systems Week 2017, Seoul, South Korea. (w/ Tushar Krishna and Michel Kinsy)
+Data Analytics Enables Energy-Efficiency and Robustness: From Mobile to Manycores, Datacenters, and Networks at Embedded Systems Week Conference 2017, Seoul, South Korea. (w/ Sudeep Pasricha and Krishnendu Chakrabarty)
+Integrating Learning and Search for Structured Prediction at IJCAI 2016, New York City.
+Energy-Efficient and Reliable 3D Network-on-Chip: Architectures and Optimization Algorithms at ICCAD 2016, Austin, TX. (w/ Partha Pratim Pande and Krishnendu Chakrabarty)
+    Conference Organization:
+
+Chair, New Faculty Highlights Track, AAAI Conference, 2025
+Program Chair, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES), Embedded Systems Week, 2024
+Program Co-Chair, International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES), Embedded Systems Week, 2023
+Co-Chair, 3rd Annual Workshop on AI to Accelerate Science and Engineering (this year's theme is AI for Materials and Manufacturing), AAAI 2024 (w/ Aryan Deshwal, Syrine Belakaria, Kaiyan Qiu, and Yolanda Gil)
+Chair, Young Research Symposium @ 11th IKDD CODS and 29th COMAD Conference, 2024
+Co-Chair, 2nd Annual Workshop on AI to Accelerate Science and Engineering (this year's theme is AI for Earth and Environmental Sciences), AAAI 2023 (w/ Aryan Deshwal, Syrine Belakaria, Mrinal Sen, and Yolanda Gil)
+Co-Chair, Panels, International Conference on AI-ML Systems 2022.
+Co-Chair, 1st Annual Workshop on AI to Accelerate Science and Engineering (this year's theme is AI for Chemistry), AAAI 2022, Vacouver, Canada (w/ Aryan Deshwal, Syrine Belakaria, Cory Simon, and Yolanda Gil)
+Co-Chair, AAAI Student Abstracts Program, AAAI 2021, Vancouver, Canada
+Co-Chair, Workshop on BeyondLabeller -- Human is More than a Labeller at IJCAI 2016, New York City.
+Co-Chair, Workshop on Interactions between Inference and Learning (Inferning 2013) at ICML 2013, Atlanta, GA.
+    Journal Editorial Service:
+
+Editorial Board Member (Elected), Machine Learning Journal (2021 - present)
+Editorial Board Member (Elected), Journal of Artificial Intelligence Research (2016 - present)
+Associate Editor, Frontiers in AI and Machine Learning (2023 - present)
+Associate Editor (Elected), IEEE Design and Test of Computers (2022 - present)
+Guest Editor, IEEE Design and Test of Computers, Special issue on Smart and Autonomous Systems for Sustainability: Sustainable Computing and Computing for Sustainability (2018 - 2019)
+    Track Chair, Area Chair, and Senior Program Committee Member:
+
+Area Chair: Annual Conference on Neural Information Processing Systems (NeurIPS), 2024
+Area Chair: International Conference on Machine Learning (ICML), 2024
+Area Chair: International Conference on Learning Representations (ICLR), 2024
+Area Chair: Main Track, AAAI National Conference on Artificial Intelligence (AAAI), 2024
+Area Chair: Annual Conference on Neural Information Processing Systems (NeurIPS), 2023
+Area Chair: International Conference on Machine Learning (ICML), 2023
+Area Chair: International Conference on Learning Representations (ICLR), 2023
+Area Chair: Main Track, AAAI National Conference on Artificial Intelligence (AAAI), 2023
+Area Chair: Asian Conference on Machine Learning (ACML), 2023
+Area Chair: International Conference on Machine Learning (ICML), 2022
+Area Chair: Annual Conference on Neural Information Processing Systems (NeurIPS), 2022
+Area Chair: Asian Conference on Machine Learning (ACML), 2022
+Track Chair for AI Systems and Applications of AI at Edge: International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (CASES), 2022
+Track Chair for AI and ML Systems: Design Automation Conference (DAC), 2022
+Area Chair: International Conference on Learning Representations (ICLR), 2021
+Area Chair: International Conference on Machine Learning (ICML), 2020
+SPC: AI for Social Impact Track, AAAI National Conference on Artificial Intelligence (AAAI), 2024
+SPC: International Joint Conference on Artificial Intelligence (IJCAI), 2023
+SPC: AI for Social Impact Track, AAAI National Conference on Artificial Intelligence (AAAI), 2023
+SPC: Main Track, AAAI National Conference on Artificial Intelligence (AAAI), 2022
+SPC: AI for Social Impact Track, AAAI National Conference on Artificial Intelligence (AAAI), 2022
+SPC: International Joint Conference on Artificial Intelligence (IJCAI), 2022
+SPC: International Joint Conference on Artificial Intelligence (IJCAI), 2021
+SPC: AAAI National Conference on Artificial Intelligence (AAAI), 2021
+SPC: International Joint Conference on Artificial Intelligence (IJCAI), 2020
+SPC: AAAI National Conference on Artificial Intelligence (AAAI), 2019
+SPC: AAAI National Conference on Artificial Intelligence (AAAI), 2018
+SPC: International Joint Conference on Artificial Intelligence (IJCAI), 2016
+    Program Committee Member:
+
+ACM/IEEE Design Automation Conference (DAC), 2024
+IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2024
+ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2023
+ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES), 2023
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2022
+International Conference on Machine Learning (ICML), 2021
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2021
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2021
+International Conference on Uncertainty in Artificial Intelligence (UAI), 2021
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2021
+International Conference on Automated Planning and Scheduling (ICAPS), 2021
+58th Design Automation Conference (DAC), 2021
+24th IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2021
+ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2021
+IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS), 2021
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2020
+AAAI National Conference on Artificial Intelligence (AAAI), 2020
+International Conference on Uncertainty in Artificial Intelligence (UAI), 2020
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2020
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020
+International Conference on Automated Planning and Scheduling (ICAPS), 2020
+SIAM International Conference on Data Mining (SDM), 2020
+57th Design Automation Conference (DAC), 2020
+ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2020
+ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES), 2020
+International Conference on Machine Learning (ICML), 2019
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2019
+International Joint Conference on Artificial Intelligence (IJCAI), 2019
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2019
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2019
+International Conference on Uncertainty in Artificial Intelligence (UAI), 2019
+International Conference on Automated Planning and Scheduling (ICAPS), 2019
+ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), 2019
+ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES), 2019
+ACM/IEEE International Network-on-Chip Symposium (NOCS), 2019
+International Workshop on Graphs, Architectures, Programming, and Learning (GrAPL), held in conjunction with IPDPS Conference, 2019
+International Conference on Machine Learning (ICML), 2018
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2018
+International Joint Conference on Artificial Intelligence (IJCAI), 2018
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2018
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2018
+International Conference on Automated Planning and Scheduling (ICAPS), 2018
+ACM/IEEE International Network-on-Chip Symposium (NOCS), 2018
+AAAI Student Abstract Program, 2018
+International Conference on Machine Learning (ICML), 2017
+Annual Conference on Neural Information Processing Systems (NIPS), 2017
+AAAI National Conference on Artificial Intelligence (AAAI), 2017
+International Conference on Uncertainty in Artificial Intelligence (UAI), 2017
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2017
+International Conference on Automated Planning and Scheduling (ICAPS), 2017
+EMNLP Workshop on Structured Prediction for Natural Language Processing, 2017
+AAAI Student Abstract Program, 2017
+International Conference on Machine Learning (ICML), 2016
+Annual Conference on Neural Information Processing Systems (NIPS), 2016
+AAAI National Conference on Artificial Intelligence (AAAI), 2016
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2016
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2016
+International Conference on Automated Planning and Scheduling (ICAPS), 2016
+International Conference on Computational Linguistics (COLING), 2016
+EMNLP Workshop on Structured Prediction for Natural Language Processing, 2016
+AAAI Doctoral Consortium, 2016
+AAAI Student Abstract Program, 2016
+Annual Conference on Neural Information Processing Systems (NIPS), 2015
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2015
+International Joint Conference on Artificial Intelligence (IJCAI), 2015
+AAAI National Conference on Artificial Intelligence (AAAI), 2015
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2015
+AAAI Student Abstract Program, 2015
+International Conference on Machine Learning (ICML), 2014
+European Conference on Machine Learning (ECML), 2014
+ECML Workshop on Multi-Target Prediction, 2014
+CVPR Workshop on Computational Models of Social Interactions and Behavior: Scientific Grounding, Sensing, and Applications, 2014
+International Conference on Machine Learning (ICML), 2013
+International Joint Conference on Artificial Intelligence (IJCAI), 2013
+AAAI National Conference on Artificial Intelligence (AAAI), 2013
+European Conference on Machine Learning (ECML), 2013
+ICCV Workshop on Understanding Human Activities: Context and Interactions, 2013
+
+AAAI National Conference on Artificial Intelligence (AAAI), 2012
+ECML Workshop on Collective Learning and Inference on Structured Data (CoLISD), 2012
+International Joint Conference on Artificial Intelligence (IJCAI), 2011
+AAAI National Conference on Artificial Intelligence (AAAI), 2011
+ECML Workshop on Collective Learning and Inference on Structured Data (CoLISD), 2011
+    Reviewer:
+Conferences
+ ICML 2008, IJCAI 2009, KDD 2010, AISTATS 2010, KDD 2012, ECML 2012, ACML 2012, AAAI 2014, ICDM 2015, DAC 2016, DAC 2018
+
+Journals
+Machine Learning Journal (MLJ)
+Journal of Artificial Intelligence Research (JAIR)
+Journal of Machine Learning Research (JMLR)
+
+ACM Transacations on KDD (TKDD)
+ACM Transactions on Intelligent Systems and Technology (TIST)
+IEEE Transactions on Knowledge and Data Engineering  (TKDE)
+IEEE Transactions on Computers (TC)
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+IEEE Transactions on Very Large-Scale Integrated Circuits and Systems (TVLSI)
+ACM Transactions on Design Automation of Electronic Systems (TODAES)
+ACM Transactions on Embedded Computing Systems (TECS)
+IEEE Computer Architecture Letters (CAL)
+IEEE Transactions on Multi-Scale Computing Systems (TMCS)
+
+IEEE Transactions on Mobile Computing (TMC)
+Machine Learning Reading Group (MLRG)
+At WSU, I often run focused reading groups on topics related to my current projects.
+
+Machine Learning meets System-on-Chip Design, Control, and Test (Fall 2016)
+Large-Scale Planning under Uncertainty (Spring 2017)
+Bandit Algorithms (Fall 2017)
+Anomaly Detection (Spring 2018)
+Deep Learning (Fall 2018)
+At OSU, I organized and led several reading groups on a wide variety of topics (2009-2014). Some of them include:
+Integrating Learning and Search (2009, 2010)
+Machine Reading: Rule learning, Coreference Resolution, and Learning from Incomplete Examples (Fall 2010, Winter 2011)
+Knowledge-Guided Structure Learning (Winter 2012, Spring 2012)
+Generic MLRG (Fall 2010, Fall 2011, Fall 2012)
+Awards and Honors
+WSU Faculty Mid-Career Award , 2024 (Video)
+Best Paper Award, ACM/IEEE Embedded Systems Week Conference, 2023
+Best Paper Award, 28th ACM/IEEE International Symposium on Low Power Electronic Design (ISLPED), 2023
+Elected Senior Member, Americal Association for Advancement of Artificial Intelligence (AAAI), 2023
+Elected Senior Member, Association for Computing Machinery (ACM), 2023
+Outstanding Researcher Award, School of EECS, Washington State University, 2023
+Huie-Rogers Endowed Chair in Computer Science, 2022
+Best Paper Award, ACM/IEEE Embedded Systems Week Conference, 2022
+Outstanding Reviewer Award, ACM/IEEE Embedded Systems Week Conference, 2022
+Best Paper Award, ACM Transactions on Design Automation of Electronic Systems (TODAES), 2021
+Selected for International Joint Conference on Artificial Intelligence (IJCAI) Early Career Spotlight, 2021
+Outstanding Reviewer Award, NeurIPS Conference, 2021
+Best Paper Award Finalist, IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2021
+Best Paper Award Finalist, IEEE/ACM International Conference on Design Automation and Test in Europe (DATE), 2020
+Outstanding Junior Faculty in Research Award, Voiland College of Engineering and Architecture, Washington State University, 2020
+NSF CAREER Award, 2019
+George and Joan Berry Distinguished Professor in Engineering, 2019
+Early Career Research Excellence Award, School of EECS, Washington State University, 2019
+Outstanding Reviewer Award, NeurIPS Conference, 2018
+Reid Miller Teaching Excellence Award, Voiland College of Engineering and Architecture, Washington State University, 2018
+Outstanding Teacher Award, School of EECS, Washington State University, 2018
+Best Student Paper Award Finalist, International Conference on Automated Planning and Scheduling (ICAPS), 2017
+Oregon State University, Outstanding Innovation in Technology Award, 2015
+Google Faculty Research Award, 2015
+Nominee for ACM Doctoral Dissertation Award, 2014
+
+Outstanding Paper Award, AAAI Conference, 2013
+Oregon State University, College of Engineering Outstanding Graduate Research Assistant Award , 2013
+All India Rank 75 (99.8 percentile) in Graduate Aptitude Test for Engineers (GATE) Exam conducted by IITs, 2004
+Sir. C.V. Raman Educational Award, awarded by the State Govt. of Andhra Pradesh, India, 1998
+Personal
+
+I'm passionate about cricket. Playing cricket helps me remain sane amidst the hectic research life. I try to play in the nearby cricket leagues during the summers. I played for OSU Cricket club in 2007, 2008 and 2009. Our team Chak De Oregon won the 2009 NWCL cricket championship.  In 2010, I played for Chak De Oregon in NWCL (Div I) and for Portland club in OCL. We won the 2010 OCL T20 championship. In 2011, I played for only Portland club in OCL as part of the budget cut on cricket. After 2011 season I became very busy and could not justify my time spent on cricket, so I stopped playing. I used to maintain my cricket scores here. 
+
+I like to cook, but I don't like to spend too much time on it. So I follow an engineering methodology for cooking, which provides a good trade off between  preparation time and quality of the food! Does this remind you of my research work on trading off computation time and quality of the predictions? :)
+

@@ -1,0 +1,350 @@
+Professor: Armando Solar-Lezama
+University: Massachusetts Institute of Technology
+URL: https://people.csail.mit.edu/asolar
+Description: Armando Solar-Lezama
+
+Distinguished Professor of Computing
+MIT Schwarzman College of Computing
+Associate Director and COO of CSAIL
+e-mail: 
+phone: (617) 258-9727
+ 
+
+You can find here our statement on the paper "Exploring the MIT Mathematics and EECS Curriculum Using Large Language Models" or click here for my own statement on that paper.
+
+Research Agenda:
+I lead the Computer Assisted Programming Group . The focus of our research is program synthesis, an exciting research area that lies at the intersection of Programming Systems and Artificial Intelligence. On the one hand, program synthesis is about the use of automated reasoning and learning to help bring more automation to the programming process. On the other hand, we believe code provides a uniquely versatile modeling mechanism, so program synthesis can play a powerful role in helping to build learning systems that are more predictable and robust.
+
+Sketch Version 1.7.6 Released (Feb, 2020) :
+Sketch has now moved to github and is split between two repositories: the sketch-backend and the sketch-frontend. You can download an easy-to-install (relatively speaking)  source distribution from here: sketch-1.7.6.tar.gz
+
+Working version of Sketch Manual
+If you want to be notified about new releases or major bug-fixes, you can subscribe to the sketch users mailing list
+Teaching:
+Over the last few years, I have helped with the development of a few courses:
+Program Synthesis: Everything you wanted to know about the state of the art in program synthesis, especially the techniques developed by the programming languages and formal methods communities. Here are some lecture notes I put together while on sabbatical in Mexico City in 2018.
+6.820--Foundations of Program Analysis: This is an introduction to many of the core techniques that one can use to reason about programs, including different forms of semantics, type systems, program logics, abstract interpretation and model checking. And you also learn Haskell along the way! The course is offered every 2 years. The class was last offered in 2021.
+6.s081-- Dynamic Computer Language Engineering: Michael Carbin has been mostly leading this class, but I helped with the initial version of it. In this class, students get to build a just-in-time compiler for a non-trivial dynamic language completely from scratch. See here for a recent version of this class.
+In recent years, I have also been involved in teaching 6.031 (Software Construction), 6.009 (Fundamentals of Programming) and 6.01 (Introduction to EECS via Robotics).
+PlaySkript:
+In my free time, I created PlaySkript, an online platform that I use for creating presentations and visualizations. It's based on a JavaScript-like domain specific language for describing diagrams and animations, and supports both direct manipulation and automated refactoring in order to help create complex presentations more easily. Try it out!
+Phd Thesis:
+Program Synthesis by Sketching, U.C. Berkeley, December 2008, Advisor: Rastislav Bodik
+Conference Papers
+	
+Journal and Journal/Conferences
+	
+Technical Reports
+ 	Karl D. D. Willis, Pradeep Kumar Jayaraman, Hang Chu, Yunsheng Tian, Yifei Li, Daniele Grandi, Aditya Sanghi, Linh Tran, Joseph G. Lambourne, Armando Solar-Lezama, Wojciech Matusik, JoinABLe: Learning Bottom-up Assembly of Parametric CAD Joints, IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, June 18-24, 2022
+
+original bib
+	CVPR 2022
+ 	Ivan Kuraj, Armando Solar-Lezama, Nadia Polikarpova, Optimizing consistency for partially replicated data stores, PPoPP '22: 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Seoul, Republic of Korea, April 2 - 6, 2022
+
+original bib
+	PPoPP poster 2022
+ 	Nate F. F. Bragg, Jeffrey S. Foster, Cody Roux, Armando Solar-Lezama, Program Sketching by Automatically Generating Mocks from Tests, Computer Aided Verification - 33rd International Conference, CAV 2021, Virtual Event, July 20-23, 2021, Proceedings, Part I
+
+original bib
+	CAV 2021
+ 	Nathan Hunt, Nathan Fulton, Sara Magliacane, Trong Nghia Hoang, Subhro Das, Armando Solar-Lezama, Verifiably safe exploration for end-to-end reinforcement learning, HSCC '21: 24th ACM International Conference on Hybrid Systems: Computation and Control, Nashville, Tennessee, May 19-21, 2021
+
+original bib
+	HSCC 2021
+ 	Maxwell I. Nye, Yewen Pu, Matthew Bowers, Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama, Representing Partial Programs with Blended Abstract Semantics, 9th International Conference on Learning Representations, ICLR 2021, Virtual Event, Austria, May 3-7, 2021
+
+original bib
+	ICLR 2021
+ 	Ferran Alet, Javier Lopez-Contreras, James Koppel, Maxwell I. Nye, Armando Solar-Lezama, Tom\'as Lozano-Pérez, Leslie Pack Kaelbling, Joshua B. Tenenbaum, A large-scale benchmark for few-shot program induction and synthesis, Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event
+
+original bib
+	ICML 2021
+ 	Zenna Tavares, James Koppel, Xin Zhang, Ria Das, Armando Solar-Lezama, A Language for Counterfactual Generative Models, Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event
+
+original bib
+	ICML 2021
+ 	Yichen Yang, Jeevana Priya Inala, Osbert Bastani, Yewen Pu, Armando Solar-Lezama, Martin C. Rinard, Program Synthesis Guided Reinforcement Learning for Partially Observed Environments, Advances in Neural Information Processing Systems 34: Annual Conference on Neural Information Processing Systems 2021, NeurIPS 2021, December 6-14, 2021, virtual
+
+original bib
+	NeurIPS 2021
+ 	Kevin Ellis, Catherine Wong, Maxwell I. Nye, Mathias Sablé-Meyer, Lucas Morales, Luke B. Hewitt, Luc Cary, Armando Solar-Lezama, Joshua B. Tenenbaum, DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning, PLDI '21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021
+
+original bib
+	PLDI 2021
+ 	Jeevana Priya Inala, Yichen Yang, James Paulos, Yewen Pu, Osbert Bastani, Vijay Kumar, Martin Rinard, Armando Solar-Lezama, Neurosymbolic Transformers for Multi-Agent Communication, Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual
+
+original bib
+	NeurIPS 2020
+ 	Maxwell I. Nye, Armando Solar-Lezama, Josh Tenenbaum, Brenden M. Lake, Learning Compositional Rules via Neural Program Synthesis, Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual
+
+original bib
+	NeurIPS 2020
+ 	Yewen Pu, Kevin Ellis, Marta Kryven, Josh Tenenbaum, Armando Solar-Lezama, Program Synthesis with Pragmatic Communication, Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual
+
+original bib
+	NeurIPS 2020
+ 	Ivan Kuraj, Armando Solar-Lezama, Aspect-oriented language for reactive distributed applications at the edge,
+
+original bib
+	EUROSYS
+ 	Jeevana Priya Inala, Osbert Bastani, Zenna Tavares, Armando Solar-Lezama, Synthesizing Programmatic Policies that Inductively Generalize, 8th International Conference on Learning Representations, ICLR 2020, Addis Ababa, Ethiopia, April 26-30, 2020
+
+original bib
+	ICLR 2020
+ 	Varot Premtoon, James Koppel, Armando Solar-Lezama, Semantic code search via equational reasoning, Proceedings of the 41st ACM SIGPLAN International Conference on Programming Language Design and Implementation, PLDI 2020, London, UK, June 15-20, 2020
+
+original bib
+	PLDI 2020
+ 	Sicun Gao, James Kapinski, Jyotirmoy V. Deshmukh, Nima Roohi, Armando Solar-Lezama, Nikos Aréchiga, Soonho Kong, Numerically-Robust Inductive Proof Rules for Continuous Dynamical Systems, Computer Aided Verification - 31st International Conference, CAV 2019, New York City, NY, USA, July 15-18, 2019, Proceedings, Part II
+
+original bib
+	CAV 2019
+ 	Thais Campos, Jeevana Priya Inala, Armando Solar-Lezama, Hadas Kress-Gazit, Task-Based Design of Ad-hoc Modular Manipulators, International Conference on Robotics and Automation, ICRA 2019, Montreal, QC, Canada, May 20-24, 2019
+
+original bib
+	ICRA 2019
+ 	Maxwell I. Nye, Luke B. Hewitt, Joshua B. Tenenbaum, Armando Solar-Lezama, Learning to Infer Program Sketches, Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA
+
+original bib
+	ICML 2019
+ 	Zenna Tavares, Javier Burroni, Edgar Minasyan, Armando Solar-Lezama, Rajesh Ranganath, Predicate Exchange: Inference with Declarative Knowledge, Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA
+
+original bib
+	ICML 2019
+ 	Soonho Kong, Armando Solar-Lezama, Sicun Gao, Delta-Decision Procedures for Exists-Forall Problems over the Reals, Computer Aided Verification - 30th International Conference, CAV 2018, Held as Part of the Federated Logic Conference, FloC 2018, Oxford, UK, July 14-17, 2018, Proceedings, Part II
+
+original bib
+	CAV 2018
+ 	Yewen Pu, Zachery Miranda, Armando Solar-Lezama, Leslie Pack Kaelbling, Selecting Representative Examples for Program Synthesis, Proceedings of the 35th International Conference on Machine Learning, ICML 2018, Stockholmsm\"assan, Stockholm, Sweden, July 10-15, 2018
+
+original bib
+	ICML 2018
+ 	Osbert Bastani, Yewen Pu, Armando Solar-Lezama, Verifiable Reinforcement Learning via Policy Extraction, Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montréal, Canada.
+
+original bib
+	NIPS 2018
+ 	Xin Zhang, Armando Solar-Lezama, Rishabh Singh, Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections, Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montréal, Canada.
+
+original bib
+	NIPS 2018
+ 	Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, Josh Tenenbaum, Learning to Infer Graphics Programs from Hand-Drawn Images, Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montréal, Canada.
+
+original bib
+	NIPS 2018
+ 	Kevin Ellis, Lucas Morales, Mathias Sablé-Meyer, Armando Solar-Lezama, Josh Tenenbaum, Learning Libraries of Subroutines for Neurally-Guided Bayesian Program Induction, Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montréal, Canada.
+
+original bib
+	NIPS 2018
+ 	Justin Gottschlich, Armando Solar-Lezama, Nesime Tatbul, Michael Carbin, Martin Rinard, Regina Barzilay, Saman P. Amarasinghe, Joshua B. Tenenbaum, Tim Mattson, The three pillars of machine programming, MAPL 2018
+
+original bib
+	MAPL 2018
+ 	Zenna Tavares, Armando Solar-Lezama, Mental Representations as Distribution-Sensitive Data Structures, 2017 AAAI Spring Symposia, Stanford University, Palo Alto, California, USA, March 27-29, 2017
+
+original bib
+	AAAISS 2017
+ 	James Koppel, Armando Solar-Lezama, Incremental parametric syntax for multi-language transformation, Proceedings Companion of the 2017 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity, SPLASH 2017, Vancouver, BC, Canada, October 23 - 27, 2017
+
+original bib
+	OOPSLA 2017
+ 	Derrick Lin, James Koppel, Angela Chen, Armando Solar-Lezama, QuixBugs: a multi-lingual program repair benchmark set based on the quixey challenge, Proceedings Companion of the 2017 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity, SPLASH 2017, Vancouver, BC, Canada, October 23 - 27, 2017
+
+original bib
+	OOPSLA 2017
+ 	Kuat Yessenov, Ivan Kuraj, Armando Solar-Lezama, DemoMatch: API discovery from demonstrations, Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2017, Barcelona, Spain, June 18-23, 2017
+
+original bib
+	PLDI 2017
+ 	Rohit Singh, Venkata Vamsikrishna Meduri, Ahmed K. Elmagarmid, Samuel Madden, Paolo Papotti, Jorge-Arnulfo Quiané-Ruiz, Armando Solar-Lezama, Nan Tang, Generating Concise Entity Matching Rules, Proceedings of the 2017 ACM International Conference on Management of Data, SIGMOD Conference 2017, Chicago, IL, USA, May 14-19, 2017
+
+original bib
+	SIGMOD 2017
+ 	Ivan Kuraj, Armando Solar-Lezama, Leveraging Sequential Computation for Programming Efficient and Reliable Distributed Systems, 2nd Summit on Advances in Programming Languages, SNAPL 2017, May 7-10, 2017, Asilomar, CA, USA
+
+original bib
+	SNAPL 2017
+ 	Jeevana Priya Inala, Nadia Polikarpova, Xiaokang Qiu, Benjamin S. Lerner, Armando Solar-Lezama, Synthesis of Recursive ADT Transformations from Reusable Templates, Tools and Algorithms for the Construction and Analysis of Systems - 23rd International Conference, TACAS 2017, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2017, Uppsala, Sweden, April 22-29, 2017, Proceedings, Part I
+
+original bib
+	TACAS 2017
+ 	Yewen Pu, Leslie Pack Kaelbling, Armando Solar-Lezama, Learning to Acquire Information, Proceedings of the Thirty-Third Conference on Uncertainty in Artificial Intelligence, UAI 2017, Sydney, Australia, August 11-15, 2017
+
+original bib
+	UAI 2017
+ 	Rohit Singh, Armando Solar-Lezama, SWAPPER: A framework for automatic generation of formula simplifiers based on conditional rewrite rules, 2016 Formal Methods in Computer-Aided Design, FMCAD 2016, Mountain View, CA, USA, October 3-6, 2016
+
+original bib
+	FMCAD 2016
+ 	Jinseong Jeon, Xiaokang Qiu, Jonathan Fetter-Degges, Jeffrey S. Foster, Armando Solar-Lezama, Synthesizing framework models for symbolic execution, Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016
+
+original bib
+	ICSE 2016
+ 	Kevin Ellis, Armando Solar-Lezama, Josh Tenenbaum, Sampling for Bayesian Program Learning, Advances in Neural Information Processing Systems 29: Annual Conference on Neural Information Processing Systems 2016, December 5-10, 2016, Barcelona, Spain
+
+original bib
+	NIPS 2016
+ 	Yewen Pu, Karthik Narasimhan, Armando Solar-Lezama, Regina Barzilay, sk_p: a neural program corrector for MOOCs, Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity, SPLASH 2016, Amsterdam, Netherlands, October 30 - November 4, 2016
+
+original bib
+	OOPSLA 2016
+ 	Shachar Itzhaky, Rohit Singh, Armando Solar-Lezama, Kuat Yessenov, Yongquan Lu, Charles E. Leiserson, Rezaul Alam Chowdhury, Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations, Proceedings of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2016, part of SPLASH 2016, Amsterdam, The Netherlands, October 30 - November 4, 2016
+
+original bib
+	OOPSLA 2016
+ 	Nadia Polikarpova, Ivan Kuraj, Armando Solar-Lezama, Program synthesis from polymorphic refinement types, Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016
+
+original bib
+	PLDI 2016
+ 	Jean Yang, Travis Hance, Thomas H. Austin, Armando Solar-Lezama, Cormac Flanagan, Stephen Chong, Precise, dynamic information flow for database-backed applications, Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016
+
+original bib
+	PLDI 2016
+ 	Shoaib Kamil, Alvin Cheung, Shachar Itzhaky, Armando Solar-Lezama, Verified lifting of stencil computations, Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016
+
+original bib
+	PLDI 2016
+ 	Rezaul Alam Chowdhury, Pramod Ganapathi, Jesmin Jahan Tithi, Charles Bachmeier, Bradley C. Kuszmaul, Charles E. Leiserson, Armando Solar-Lezama, Yuan Tang, AUTOGEN: automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs, Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2016, Barcelona, Spain, March 12-16, 2016
+
+original bib
+	PPOPP 2016
+ 	Jeevana Priya Inala, Rohit Singh, Armando Solar-Lezama, Synthesis of Domain Specific CNF Encoders for Bit-Vector Solvers, Theory and Applications of Satisfiability Testing - SAT 2016 - 19th International Conference, Bordeaux, France, July 5-8, 2016, Proceedings
+
+original bib
+	SAT 2016
+ 	Jinseong Jeon, Xiaokang Qiu, Armando Solar-Lezama, Jeffrey S. Foster, Adaptive Concretization for Parallel Program Synthesis, Computer Aided Verification - 27th International Conference, CAV 2015, San Francisco, CA, USA, July 18-24, 2015, Proceedings, Part II
+
+original bib
+	CAV 2015
+ 	Sicun Gao, Le Xie, Armando Solar-Lezama, Dimitrios N. Serpanos, Howard E. Shrobe, Automated vulnerability analysis of AC state estimation under constrained false data injection in electric power systems, 54th IEEE Conference on Decision and Control, CDC 2015, Osaka, Japan, December 15-18, 2015
+
+original bib
+	CDC 2015
+ 	Kevin Ellis, Armando Solar-Lezama, Joshua B. Tenenbaum, Unsupervised Learning by Program Synthesis, Advances in Neural Information Processing Systems 28: Annual Conference on Neural Information Processing Systems 2015, December 7-12, 2015, Montreal, Quebec, Canada
+
+original bib
+	NIPS 2015
+ 	Jinseong Jeon, Xiaokang Qiu, Jeffrey S. Foster, Armando Solar-Lezama, JSketch: sketching for Java, Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering, ESEC/FSE 2015, Bergamo, Italy, August 30 - September 4, 2015
+
+original bib
+	SIGSOFT 2015
+ 	Alvin Cheung, Shoaib Kamil, Armando Solar-Lezama, Bridging the Gap Between General-Purpose and Domain-Specific Compilers with Synthesis, 1st Summit on Advances in Programming Languages, SNAPL 2015, May 3-6, 2015, Asilomar, California, USA
+
+original bib
+	SNAPL 2015
+ 	Swarat Chaudhuri, Martin Clochard, Armando Solar-Lezama, Bridging boolean and quantitative synthesis using smoothed proof search, The 41st Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL '14, San Diego, CA, USA, January 20-21, 2014
+
+original bib
+	POPL 2014
+ 	Krzysztof Krawiec, Armando Solar-Lezama, Improving Genetic Programming with Behavioral Consistency Measure, Parallel Problem Solving from Nature - PPSN XIII - 13th International Conference, Ljubljana, Slovenia, September 13-17, 2014. Proceedings
+
+original bib
+	PPSN 2014
+ 	Zhilei Xu, Shoaib Kamil, Armando Solar-Lezama, MSL: A Synthesis Enabled Language for Distributed Implementations, International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2014, New Orleans, LA, USA, November 16-21, 2014
+
+original bib
+	SC 2014
+ 	Alvin Cheung, Samuel Madden, Armando Solar-Lezama, Sloth: being lazy is a virtue (when issuing database queries), International Conference on Management of Data, SIGMOD 2014, Snowbird, UT, USA, June 22-27, 2014
+
+original bib
+	SIGMOD 2014
+ 	Rohit Singh, Rishabh Singh, Zhilei Xu, Rebecca Krosnick, Armando Solar-Lezama, Modular Synthesis of Sketches Using Models, Verification, Model Checking, and Abstract Interpretation - 15th International Conference, VMCAI 2014, San Diego, CA, USA, January 19-21, 2014, Proceedings
+
+original bib
+	VMCAI 2014
+ 	Alvin Cheung, Owen Arden, Samuel Madden, Armando Solar-Lezama, Andrew C. Myers, StatusQuo: Making Familiar Abstractions Perform Using Program Analysis, CIDR 2013, Sixth Biennial Conference on Innovative Data Systems Research, Asilomar, CA, USA, January 6-9, 2013, Online Proceedings
+
+original bib
+	CIDR 2013
+ 	Rajeev Alur, Rastislav Bodík, Garvit Juniwal, Milo M. K. Martin, Mukund Raghothaman, Sanjit A. Seshia, Rishabh Singh, Armando Solar-Lezama, Emina Torlak, Abhishek Udupa, Syntax-guided synthesis, Formal Methods in Computer-Aided Design, FMCAD 2013, Portland, OR, USA, October 20-23, 2013
+
+original bib
+	FMCAD 2013
+ 	Alvin Cheung, Armando Solar-Lezama, Samuel Madden, Optimizing database-backed applications with query synthesis, ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI '13, Seattle, WA, USA, June 16-19, 2013
+
+original bib
+	PLDI 2013
+ 	Thomas H. Austin, Jean Yang, Cormac Flanagan, Armando Solar-Lezama, Faceted execution of policy-agnostic programs, Proceedings of the 2013 ACM SIGPLAN Workshop on Programming Languages and Analysis for Security, PLAS 2013, Seattle, WA, USA, June 20, 2013
+
+original bib preprint
+	PLAS 2013
+ 	Rishabh Singh, Sumit Gulwani, Armando Solar-Lezama, Automated feedback generation for introductory programming assignments, ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI '13, Seattle, WA, USA, June 16-19, 2013
+
+original bib
+	PLDI 2013
+ 	Xi Wang, Nickolai Zeldovich, M. Frans Kaashoek, Armando Solar-Lezama, Towards optimization-safe systems: analyzing the impact of undefined behavior, ACM SIGOPS 24th Symposium on Operating Systems Principles, SOSP '13, Farmington, PA, USA, November 3-6, 2013
+
+original bib
+	SOSP 2013
+ 	Swarat Chaudhuri, Armando Solar-Lezama, Euler: A System for Numerical Optimization of Programs, Computer Aided Verification - 24th International Conference, CAV 2012, Berkeley, CA, USA, July 7-13, 2012 Proceedings
+
+original bib
+	CAV 2012
+ 	Rishabh Singh, Armando Solar-Lezama, SPT: Storyboard Programming Tool, Computer Aided Verification - 24th International Conference, CAV 2012, Berkeley, CA, USA, July 7-13, 2012 Proceedings
+
+original bib
+	CAV 2012
+ 	Alvin Cheung, Armando Solar-Lezama, Samuel Madden, Using program synthesis for social recommendations, 21st ACM International Conference on Information and Knowledge Management, CIKM'12, Maui, HI, USA, October 29 - November 02, 2012
+
+original bib
+	CIKM 2012
+ 	Vijay Ganesh, Mia Minnes, Armando Solar-Lezama, Martin C. Rinard, Word Equations with Length Constraints: What's Decidable?, Hardware and Software: Verification and Testing - 8th International Haifa Verification Conference, HVC 2012, Haifa, Israel, November 6-8, 2012. Revised Selected Papers
+
+original bib
+	HVC 2012
+ 	Jean Yang, Kuat Yessenov, Armando Solar-Lezama, A language for automatically enforcing privacy policies, Proceedings of the 39th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2012, Philadelphia, Pennsylvania, USA, January 22-28, 2012
+
+original bib
+	POPL 2012
+ 	Vijay Ganesh, Charles W. O'Donnell, Mate Soos, Srinivas Devadas, Martin C. Rinard, Armando Solar-Lezama, Lynx: A Programmatic SAT Solver for the RNA-Folding Problem, Theory and Applications of Satisfiability Testing - SAT 2012 - 15th International Conference, Trento, Italy, June 17-20, 2012. Proceedings
+
+original bib
+	SAT 2012
+ 	Swarat Chaudhuri, Armando Solar-Lezama, Smoothing a Program Soundly and Robustly, Computer Aided Verification - 23rd International Conference, CAV 2011, Snowbird, UT, USA, July 14-20, 2011. Proceedings
+
+original bib
+	CAV 2011
+ 	Kuat Yessenov, Zhilei Xu, Armando Solar-Lezama, Data-driven synthesis for object-oriented frameworks, Proceedings of the 26th Annual ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2011, part of SPLASH 2011, Portland, OR, USA, October 22 - 27, 2011
+
+original bib preprint
+	OOPSLA 2011
+ 	Alvin Cheung, Armando Solar-Lezama, Samuel Madden, Partial replay of long-running applications, SIGSOFT/FSE'11 19th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-19) and ESEC'11: 13th European Software Engineering Conference (ESEC-13), Szeged, Hungary, September 5-9, 2011
+
+original bib preprint
+	SIGSOFT 2011
+ 	Rishabh Singh, Armando Solar-Lezama, Synthesizing data structure manipulations from storyboards, SIGSOFT/FSE'11 19th ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE-19) and ESEC'11: 13th European Software Engineering Conference (ESEC-13), Szeged, Hungary, September 5-9, 2011
+
+original bib
+	SIGSOFT 2011
+ 	Swarat Chaudhuri, Armando Solar-Lezama, Smooth interpretation, Proceedings of the 2010 ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2010, Toronto, Ontario, Canada, June 5-10, 2010
+
+original bib
+	PLDI 2010
+ 	Armando Solar-Lezama, The Sketching Approach to Program Synthesis, Programming Languages and Systems, 7th Asian Symposium, APLAS 2009, Seoul, Korea, December 14-16, 2009. Proceedings
+
+original bib
+	APLAS 2009
+ 	Armando Solar-Lezama, Christopher Grant Jones, Rastislav Bodík, Sketching concurrent data structures, Proceedings of the ACM SIGPLAN 2008 Conference on Programming Language Design and Implementation, Tucson, AZ, USA, June 7-13, 2008
+
+original bib
+	PLDI 2008
+ 	Armando Solar-Lezama, Gilad Arnold, Liviu Tancau, Rastislav Bodík, Vijay A. Saraswat, Sanjit A. Seshia, Sketching stencils, Proceedings of the ACM SIGPLAN 2007 Conference on Programming Language Design and Implementation, San Diego, California, USA, June 10-13, 2007
+
+original bib
+	PLDI 2007
+ 	Armando Solar-Lezama, Liviu Tancau, Rastislav Bodík, Sanjit A. Seshia, Vijay A. Saraswat, Combinatorial sketching for finite programs, Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2006, San Jose, CA, USA, October 21-25, 2006
+
+original bib
+	ASPLOS 2006
+ 	Armando Solar-Lezama, Rodric M. Rabbah, Rastislav Bodík, Kemal Ebcioglu, Programming by sketching for bit-streaming programs, Proceedings of the ACM SIGPLAN 2005 Conference on Programming Language Design and Implementation, Chicago, IL, USA, June 12-15, 2005
+
+original bib
+	PLDI 2005
+Contact:
+MIT Computer Science and Artificial Intelligence Laboratory
+The Stata Center, Building 32-G742
+32 Vassar Street
+Cambridge, MA 02139
+Assistant: Amanda Abrams ( acabrams@ mit.edu )
+
+Accessibility
+

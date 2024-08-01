@@ -1,0 +1,185 @@
+Professor: Siddharth Srivastava 0001
+University: Arizona State University
+URL: http://siddharthsrivastava.net/
+Description: Homepage of Siddharth Srivastava
+Research and Teaching
+Service
+Bio
+
+
+Siddharth Srivastava
+Associate Professor
+School of Computing and Augmented Intelligence
+Arizona State University
+siddharths/at/asu/dot/edu
+#592, 699 S Mill Ave.
+Tempe, AZ 85282
+
+
+
+
+
+Research areas:     Generalizable planning and learning in AI and Robotics, AI assessment
+
+My research focuses on principles and algorithms for reliable AI systems that can carry out generalizable planning and learning to solve complex, user-desired tasks. My group is currently working on topics such as learning abstraction hierachies, transfer learning, learning representations for sequential decision-making and on new paradigms for third-party safety and capability assessment of AI systems that can learn and plan. We are particularly interested in developing principles for AI systems that can reliably (and safely) learn, generalize and transfer knowledge to solve new, user-desired tasks not encountered during training.
+
+
+Check out my group's webpage to learn more about our research!
+
+
+Student opportunities: If you are interested in joining my group, please send me an email with your CV, a copy of your transcript, and a note on how you might contribute to some of our projects. If you have done well in technically rigorous classes in AI, or mathematics, or CS theory, you are already off to a great start!
+
+Press Coverage: The BBC | Motherboard | AAAS Eureka Alert! Science News | NBC News | IEEE Spectrum
+
+
+Recent Events and Highlights
+
+3/24: Congratulations to Dr. Pulkit Verma and Dr. Naman Shah for successfully defending their PhD dissertations!
+
+
+
+3/24: We organized a symposium on autonomous assessment of adaptive AI systems as part of the AAAI Spring 2024 Symposia Series.
+
+
+
+1/24: I was honored to receive the Top 5% Faculty Award for my graduate-level class on Artificial Intelligence.
+
+
+Thanks to all the participants and co-organizers who helped make the seventh edition of the GenPlan Workshop at NeurIPS a great success. We had 200+ attendees with an enriching diversity of research approaches on the topic.
+
+11/23: It was a pleasure talking to Sean Leahy about AI Safety and Assessment at the Learning Futures podcast! Check out the episode here or here.
+
+9/23: PhD students Pulkit Verma and Rushang Karia will be presenting our research on capability assessment of AI systems in stochastic settings at NeurIPS in December.
+
+8/23: PhD student Naman Shah and I presented a tutorial on Integrated Task and Motion Planning at IJCAI 2023. [Slides]
+
+8/23: I presented an invited talk at the IJCAI 2023 Workshop on Bridging the Gap Between Planning and Learning.
+
+7/23: I presented an invited talk at the RSS 2023 Workshop on Learning for Task and Motion Planning.
+
+Learning abstractions for RL in non-image-based tasks is hard.
+
+We were surprised to find that learning a conditional abstraction tree (CAT) while doing RL can improve sample efficiency to the point where vanilla Q-learning can outperform SOTA RL methods. #UAI2023
+🧵.../1 pic.twitter.com/v1RroUtPZy
+
+— Siddharth Srivastava (@sidsrivast) June 15, 2023
+
+Happy to share a new class of algorithms for generalized planning: https://t.co/wOLOj2F8sH
+The paper addresses a key problem in computing general plans/policies: will a given generalized plan terminate/reach good states? This is unsolvable in general due to the halting problem. pic.twitter.com/aUXn2MfBNi
+
+— Siddharth Srivastava (@sidsrivast) December 8, 2022
+
+Our #NeurIPS2022 paper develops a new approach for few-shot learning of generalized policy automata (GPA) for relational stochastic shortest path planning problems.
+
+The learned GPAs can be used to transfer learning and accelerate SSP solvers on much larger problem instances! pic.twitter.com/dRp5sZNeps
+
+— Siddharth Srivastava (@sidsrivast) November 23, 2022
+
+We’d like AI systems to continually learn and adapt, but how would a user figure out what their black-box AI (BBAI) system can safely do at any point?
+This is difficult especially when the user and the BBAI use different representations. Our #KR2022 work addresses this problem. pic.twitter.com/0hzhk7QNZ0
+
+— Siddharth Srivastava (@sidsrivast) July 31, 2022
+
+Reliable planning and learning in problems without image-based state representations remains challenging. In our #IJCAI2022 work we found that doing an abstraction before learning results in generalized Q functions and zero-shot transfer to much larger problems!
+w/ @KariaRushang pic.twitter.com/ksFt7FWksv
+
+— Siddharth Srivastava (@sidsrivast) July 20, 2022
+
+Consider submitting your recent work on generalization/transfer in all forms of planning and sequential decision making! Due ~today, May 20th in NeurIPS or IJCAI format https://t.co/1DHcFEcFIt
+
+— Siddharth Srivastava (@sidsrivast) May 20, 2022
+
+Congratulations to @shah_naman, @pulkit_verma, Trevor Angle and the entire dev team for creating JEDAI and winning the Best Demo Award @aamas2022! 🎉
+JEDAI (JEDAI explains decision-making AI) is an interactive learning tool for AI+robotics that provides explanations autonomously.
+
+— Siddharth Srivastava (@sidsrivast) May 14, 2022
+
+Task and motion planning (TAMP) captures the essence of what we want robots to be able to do in a range of settings. But cobots need to communicate with humans to avoid potential conflicts. Our #ICRA2022 work develops a unified framework for integrating communication with TAMP. pic.twitter.com/ObVDkWSZtZ
+
+— Siddharth Srivastava (@sidsrivast) April 21, 2022
+
+Consider submitting a piece about your work on representations for generalization and transfer in all forms of AI planning/sdm! Links below. https://t.co/ogoNFMzvQo
+
+— Siddharth Srivastava (@sidsrivast) April 19, 2022
+
+We use hand-coded state and action abstractions extensively in AI planning. Where do these abstractions come from? Our #aamas2022 paper develops methods for learning such abstractions from scratch and for using them to solve robot planning problems efficiently and reliably.🗝️🥡👇 pic.twitter.com/lp3U8rpK6R
+
+— Siddharth Srivastava (@sidsrivast) March 5, 2022
+
+Can we assess what Black-Box #AI systems can and can’t do reliably as they change/adapt to changing situations?
+
+In our #AAAI2022 paper, @pulkit_verma and @rashmeet_nayyar (= contributors) address this with the foundations for efficient /differential/ assessment of AI systems. pic.twitter.com/5xmOmSS8XL
+
+— Siddharth Srivastava (@sidsrivast) December 3, 2021
+
+Excited to be a part of the workshop on Generalization in Planning (GenPlan) at IJCAI '21!
+
+We welcome current/recent work on the synthesis or learning of plans and policies with an emphasis on generalizability and transfer.
+
+Submission deadline: May 9.https://t.co/bfwxUGXXqm
+
+— Siddharth Srivastava (@sidsrivast) April 19, 2021
+
+Congratulations to @pulkit_verma and Rushang Karia for their first first-authored papers! Pulkit’s work investigates how users may assess the limits and capabilities of their AI systems while Rushang’s develops self-training algorithms for speeding up AI planning. #aaai2021 (1/2)
+
+— Siddharth Srivastava (@sidsrivast) December 16, 2020
+
+Imagine a robot doing your laundry or making a cup of tea for you. #ASUEngineering @CIDSEASU assistant professor @sidsrivast is working to equip #artificialintelligence with the capability to do real-world tasks. #AI https://t.co/RrcfGUP0wr
+
+— ASU Ira A. Fulton Schools of Engineering (@ASUEngineering) August 11, 2020
+
+Can we use #DeepLearning to speed up robot planning while maintaining theoretical guarantees (correctness, probabilistic completeness)? Dan and Kislay's work indicates YES, but with a few changes to planning algorithms. Check it out at https://t.co/tu7TSRcwBT and @icra20 online! pic.twitter.com/fQQ13qyzwJ
+
+— Siddharth Srivastava (@sidsrivast) May 31, 2020
+
+Congratulations to Rashmeet for winning the Chambliss Medal for her research project on using #AI for reliable inference about intergalactic space! @asunow article featuring this interdisciplinary #ASUEngineering work: https://t.co/bkMLSxT5Wo
+
+— Siddharth Srivastava (@sidsrivast) May 27, 2020
+
+Our new “anytime” algorithm for stochastic task and motion planning computes better robot policies as it gets more time. Our YuMi uses this to autonomously build Keva structures! @icra2020
+Personal favorite: https://t.co/BPti3sJp1E
+Paper + videos: https://t.co/lsDf7So4gl pic.twitter.com/zWLCZlL71h
+
+— Siddharth Srivastava (@sidsrivast) March 20, 2020
+
+Congrats to Daniel, Naman, Kislay, Deepak & Pranav for their first papers, accepted at #ICRA2020! Their #NSF_CISE funded #AI research shows how to compute reliable robot plans more efficiently using (1)abstractions & (2)#DeepLearning. Camera-readies coming soon! #ICRA #NSFfunded
+
+— Siddharth Srivastava (@sidsrivast) January 23, 2020
+
+How can we train people to use adaptive #AI systems, whose behavior and functionality is expected to change from day to day? Our approach: make the AI system self-explaining! #ASUFoW https://t.co/VwFs30sJU2
+
+— Siddharth Srivastava (@sidsrivast) September 14, 2019
+
+Had a great conversation about #AI with Rami Kalla @pointintimes!
+
+Audio podcast: https://t.co/xYeMtJHhzd
+
+Video linked in the original post. https://t.co/swC01xIhii
+
+— Siddharth Srivastava (@sidsrivast) August 7, 2019
+
+As anyone who has talked to a 3yo knows, explaining why something can’t be done can be much harder than explaining a solution. Can #AI systems explain why they failed to solve a given problem? Sarath's new work takes first steps in explaining unsolvability https://t.co/lQuRSeKc4b
+
+— Siddharth Srivastava (@sidsrivast) March 27, 2019
+
+Dan and Kislay's new work on motion planning tries to get the best of both worlds: the learn and link planner (LLP) learns and improves with experience. It is also sound and probabilistically complete. Check out the results here: https://t.co/v21OfXJgtB
+
+— Siddharth Srivastava (@sidsrivast) March 11, 2019
+
+Our new work aims at allowing designers and users to choose whether their AI systems clarify, or protect information.
+
+A Unified Framework for Planning in Adversarial and Cooperative Environments. Kulkarni et al. https://t.co/7ibzWE7KwC#AAAI2019 https://t.co/BQZW0umryL
+
+— AAIR Lab (@AAIRLabASU) February 5, 2019
+
+Alfred says Hello!! https://t.co/08H96AoUMq
+
+— AAIR Lab (@AAIRLabASU) January 29, 2019
+Our work with Michael James McDonald, Mitch Lin, Dylan Hadfield-Menell, Pieter Abbeel and Stuart Russell was featured by the BBC (pdf).
+
+I served as conference chair of ICAPS 2019.
+
+
+
+
+

@@ -1,0 +1,179 @@
+Professor: Sarah Ita Levitan
+University: CUNY
+URL: http://www.cs.columbia.edu/~sarahita
+Description: ABOUT
+RESEARCH
+PUBLICATIONS
+TEACHING
+SARAH ITA LEVITAN
+SARAH.LEVITAN [AT] HUNTER [DOT] CUNY [DOT] EDU
+
+I am an Assistant Professor in the Department of Computer Science at Hunter College.
+I was previously a Postdoctoral Research Scientist in the Department of Computer Science at Columbia University. My research interests are in spoken language processing, which aims to teach computers to understand human speech. I am especially interested in paralinguistics, the study of non-verbal aspects of speech. I use computational approaches to learn information about a speaker’s state (e.g. emotion, deception) and traits (e.g. personality, native language) from their speech.
+
+I obtained my PhD in Computer Science at Columbia University in 2019, advised by Dr. Julia Hirschberg. My PhD was funded through an NSF-GRFP fellowship and an NSF IGERT fellowship.
+
+
+
+RESEARCH
+TRUST AND MISTRUST IN SPOKEN AND WRITTEN LANGUAGE
+POSTDOCTORAL RESEARCH
+
+Our goal in this work is to discover what kind of language is likely to be trusted by others by examining acoustic and lexical cues in speech. This work can help advance human-computer interaction, where trust of computer agents is essential for successful interactions. To address this problem, we are conducting a large-scale study of trusted speech, analyzed prosodic and lexical cues to trust, and building predictive models of trusted language.  We are using a web-based lie detection game, LieCatcher, to collect judgments of deceptive speech.
+
+We are also studying trusted language in the context of written news articles.  Americans’ trust in the media has been decreasing in recent years, and we are interested in studying how people perceive news, and whether we can identify linguistic characteristics that influence that perception. Further, can we identify differences in perception of trust based on user demographics, such as gender, age, and political affiliation? Using both article and user features, can we predict whether users will trust or mistrust news articles? This work advances our understanding of trust in media and provides a useful model for predicting how different readers will perceive news content.
+
+Collaborators: Julia Hirschberg, Xi Chen, Marko Mandic, Michelle Levine
+
+February 2019 - present
+IDENTIFYING DECEPTIVE SPEECH ACROSS CULTURES
+DISSERTATION RESEARCH
+
+Deception detection is a major goal of law enforcement, military, and intelligence agencies, as well as commercial organizations. Despite much effort to develop automated language-based deception detection technologies, there have been few objective successes. Obstacles to this work include the lack of large, cleanly recorded corpora; the difficulty of acquiring ground truth truth/lie labels; and major differences in incentives for lying in the laboratory vs. lying in real life situations. Another well-recognized issue is the strong belief that there are individual and cultural differences in deception production and detection. This research addresses these issues and develops techniques to identify deceptive communication in spoken dialogue.
+
+The main contributions of this work include: creation of the largest cleanly recorded corpus of deceptive speech, with over 122 hours of subject speech; detailed empirical studies of acoustic-prosodic, lexical, syntactic, and psycholinguistic indicators of deception; machine learning approaches, including the first use of deep learning methods for deception detection, that result in high performance at deception detection with over 70% accuracy; and detailed analysis of individual differences (e.g. culture, personality, gender) in deceptive behavior, and how these can be employed to improve automatic deception detection. 
+
+Collaborators: Julia Hirschberg, Andrew Rosenberg, Michelle Levine, Guozhen An
+
+September 2013 - January 2019
+AUTOMATIC GENDER IDENTIFICATION FROM SPEECH
+INTERACTIONS LLC
+
+Automatic identification of speaker traits such as gender, age and emotional state from speech is an important problem for personalized speech-driven services. In this work, we present a novel approach that leverages pitch feature trajectories with the goal of identifying the speaker’s gender with as little speech as possible.
+
+We use the f0 (fundamental frequency) trajectory, the most discriminative feature between male and female speech, but instead of computing summary statistics of the f0 trajectory, we use the entire trajectory as input to the classifier. We model these trajectories as “text” input with each token corresponding to the binned f0 value. Our results show that the trajectory approach can be useful for obtaining fairly accurate gender predictions with as little as one second of speech.
+
+Collaborators: Taniya Mishra, Srinivas Bangalore
+
+May 2015 - August 2015
+ENTRAINMENT IN SUPREME COURT ORAL ARGUMENTS
+CRA-W DISTRIBUTED REU, COLUMBIA UNIVERSITY
+
+In conversation, people tend to become similar to their dialogue partner by adopting lexical, acoustic, prosodic, and syntactic characteristics of the interlocutor’s speech. Research shows that this phenomenon, known as entrainment, is associated with task success and dialogue quality. We studied entrainment patterns in the Supreme Court corpus, and examined relationships between trial success and entrainment between lawyers and justices. We used Amazon Mechanical Turk to preprocess the data and excise noisy areas in the audio files that skew the analysis process. We found that lawyers entrain more than justices, supporting the theory that the less dominant interlocutor is more likely to entrain to the more dominant speaker.
+
+Collaborators: Julia Hirschberg, Rivka Levitan
+
+May 2013 - August 2013
+PUBLICATIONS
+Acoustic-Prosodic and Lexical Cues to Deception and Trust: Deciphering How People Detect Lies
+Xi (Leslie) Chen, Sarah Ita Levitan, Michelle Levine, Marko Mandic, and Julia Hirschberg
+Transactions of the ACL (TACL), Vol. 8, pp. 199-214, 2020
+
+
+Individual Differences in Acoustic-Prosodic Entrainment in Spoken Dialogue
+Andreas Weise, Sarah Ita Levitan, Julia Hirschberg and Rivka Levitan
+Speech Communication, Vol. 115, December 2019
+
+
+Linguistic Analysis of Schizophrenia in Reddit Posts
+Jonathan Zomick, Sarah Ita Levitan, and Mark Serper
+CLPsych 2019
+
+
+Acoustic-Prosodic Indicators of Deception and Trust in Interview Dialogues
+Sarah Ita Levitan, Angel Maredia and Julia Hirschberg
+Interspeech 2018
+
+
+Deep Personality Recognition for Deception Detection
+Guozhen An, Sarah Ita Levitan, Julia Hirschberg, and Rivka Levitan
+Interspeech 2018
+
+
+Acoustic-Prosodic and Lexical Entrainment in Deceptive Dialogue
+Sarah Ita Levitan, Jessica Xiang and Julia Hirschberg
+Speech Prosody 2018
+
+
+Linguistic Cues to Deception and Perceived Deception in Interview Dialogues
+Sarah Ita Levitan, Angel Maredia and Julia Hirschberg
+NAACL 2018
+
+
+LieCatcher: Game Framework for Collecting Human Judgments of Deceptive Speech
+Sarah Ita Levitan, James Shin, Ivy Chen and Julia Hirschberg
+Games4NLP: Games and Gamification for Natural Language Processing 2018
+
+
+Comparing Approaches for Automatic Question Identification
+Angel Maredia, Kara Schechtman, Sarah Ita Levitan, and Julia Hirschberg
+*SEM 2017: The Sixth Joint Conference on Lexical and Computational Semantics
+
+
+Hybrid Acoustic-Lexical Deep Learning Approach for Deception Detection
+Gideon Mendels, Sarah Ita Levitan, Kai-Zhan Lee and Julia Hirschberg
+Interspeech 2017
+
+
+Combining Acoustic-Prosodic, Lexical, and Phonotactic Features for Automatic Deception Detection
+Sarah Ita Levitan, Guozhen An, Min Ma, Rivka Levitan, Andrew Rosenberg and Julia Hirschberg
+Interspeech 2016
+
+
+Automatically Classifying Self-Rated Personality Scores from Speech
+Guozhen An, Sarah Ita Levitan, Rivka Levitan, Andrew Rosenberg, Michelle Levine, and Julia Hirschberg
+Interspeech 2016
+
+
+Identifying Individual Differences in Gender, Ethnicity, and Personality from Dialogue for Deception Detection
+Sarah Ita Levitan, Yocheved Levitan, Guozhen An, Michelle Levine, Rivka Levitan, Andrew Rosenberg and Julia Hirschberg
+NAACL Workshop on Computational Approaches to Deception Detection 2016
+
+
+Automatic Identification of Gender from Speech
+Sarah Ita Levitan, Taniya Mishra and Srinivas Bangalore
+Speech Prosody 2016
+
+
+Cross-Cultural Production and Detection of Deception from Speech
+Sarah Ita Levitan, Guozhen An, Mandi Wang, Gideon Mendels, Julia Hirschberg, Michelle Levine and Andrew Rosenberg
+ICMI Workshop on Multimodal Deception Detection (WMDD) 2015
+
+
+Individual Differences in Deception and Deception Detection
+Sarah Ita Levitan, Michelle Levine, Julia Hirschberg, Nishi Cestero, Guozhen An and Andrew Rosenberg
+Cognitive 2015
+Best paper award
+
+
+Entrainment, Dominance and Alliance in Supreme Court Hearings
+Stefan Benus, Agustin Gravano, Rivka Levitan, Sarah Ita Levitan, Laura Willson and Julia Hirschberg
+Knowledge Based Systems 2014
+
+
+PRESENTATIONS
+Individual Differences in Deception and Deception Detection in Spoken Dialogue
+Sarah Ita Levitan and Julia Hirschberg
+Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL) 2016
+
+
+Novel Feature Representation for Automatic Gender Identification from Speech
+Sarah Ita Levitan, Taniya Mishra and Srinivas Bangalore
+10th Annual Machine Learning Symposium, 2016
+
+
+Entrainment in Supreme Court Oral Arguments
+Sarah Ita Levitan, Rivka Levitan and Julia Hirschberg
+Grace Hopper Conference 2012
+
+
+TEACHING
+INSTRUCTOR
+Advanced Topics in Spoken Language Processing
+Fall 2019
+
+
+Advanced Topics in Spoken Language Processing
+Spring 2019
+
+
+Computational Models of Speech and Language
+Spring 2017
+
+
+TEACHING ASSISTANT
+Information Processing: From Data to Solutions
+Spring 2016
+
+
+

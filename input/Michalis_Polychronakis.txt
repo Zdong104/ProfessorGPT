@@ -1,0 +1,384 @@
+Professor: Michalis Polychronakis
+University: Stony Brook University
+URL: https://www3.cs.stonybrook.edu/~mikepo
+Description: Michalis Polychronakis
+
+About
+Teaching
+Publications
+CV
+
+Associate Professor
+Computer Science Department
+Stony Brook University
+
+mikepo[at]cs.[domain]
+355 Computer Science
+Stony Brook University
+Stony Brook, NY 11794-2424
+
+About
+
+I am an associate professor in the Computer Science Department at Stony Brook University. My research aims to improve the security of computer systems and networks, build defenses against malicious software and online threats, reinforce the privacy of our online interactions, and enhance our understanding of the internet and its darker sides.
+
+I received the BSc ('03), MSc ('05), and PhD ('09) degrees in Computer Science from the University of Crete, Greece, while working as a research assistant in the Distributed Computing Systems Lab at FORTH-ICS. Before joining Stony Brook, I was an associate research scientist at Columbia University. More information is available in my CV.
+
+@polychronakis | @mikepo@infosec.exchange | Google Scholar
+
+
+
+Teaching
+
+Current
+CSE508: Network Security - Spring 2024
+CSE523/524: MS Project
+
+
+Past
+CSE509: System Security - Spring 2023
+CSE508: Network Security - Spring 2021
+CSE363: Offensive Security - Spring 2020
+CSE363: Offensive Security - Spring 2019
+CSE508: Network Security - Fall 2017
+CSE331: Computer Security Fundamentals - Fall 2017
+CSE590: Offensive Security - Fall 2016
+CSE508: Network Security - Spring 2016
+CSE508: Network Security (PhD Section) - Spring 2015
+
+
+
+Conference Publications
+
+Safeslab: Mitigating Use-After-Free Vulnerabilities via Memory Protection Keys
+Marius Momeu, Simon Schnückel, Kai Angnis, Michalis Polychronakis, and Vasileios P. Kemerlis. In Proceedings of the 31st ACM Conference on Computer and Communications Security (CCS). October 2024, Salt Lake City, UT.
+
+GFWeb: Measuring the Great Firewall’s Web censorship at scale
+Nguyen Phong Hoang, Jakub Dalek, Masashi Crete-Nishihata, Nicolas Christin, Vinod Yegneswaran, Michalis Polychronakis, and Nick Feamster. In Proceedings of the 33rd USENIX Security Symposium. August 2024, Philadelphia, PA. [data set]
+
+Immutable Memory Management Metadata for Commodity Operating System Kernels
+Marius Momeu, Fabian Kilger, Christopher Roemheld, Simon Schnückel, Sergej Proskurin, Michalis Polychronakis, and Vasileios P. Kemerlis. In Proceedings of the 19th ACM ASIA Conference on Computer and Communications Security (AsiaCCS). July 2024, Singapore. [source code]
+
+C2C: Fine-grained Configuration-driven System Call Filtering
+Seyedhamed Ghavamnia, Tapti Palit, and Michalis Polychronakis. In Proceedings of the 29th ACM Conference on Computer and Communications Security (CCS), pp. 1243–1257. November 2022, Los Angeles, LA. [source code]
+
+Decap: Deprivileging Programs by Reducing Their Capabilities
+Md Mehedi Hasan, Seyedhamed Ghavamnia, and Michalis Polychronakis. In Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 395–408. October 2022, Limassol, Cyprus. [source code]
+
+Measuring the Accessibility of Domain Name Encryption and Its Impact on Internet Filtering
+Nguyen Phong Hoang, Michalis Polychronakis, and Phillipa Gill. In Proceedings of the 23rd Passive and Active Measurement Conference (PAM), pp. 518–536. March 2022. [data set]
+
+How Great is the Great Firewall? Measuring China’s DNS Censorship
+Nguyen Phong Hoang, Arian Akhavan Niaki, Jakub Dalek, Jeffrey Knockel, Pellaeon Lin, Bill Marczak, Masashi Crete-Nishihata, Phillipa Gill, and Michalis Polychronakis. In Proceedings of the 30th USENIX Security Symposium, pp. 3381–3398. August 2021.
+
+Domain Name Encryption Is Not Enough: Privacy Leakage via IP-based Website Fingerprinting
+Nguyen Phong Hoang, Arian Akhavan Niaki, Phillipa Gill, and Michalis Polychronakis. In Proceedings of the 21st Privacy Enhancing Technologies Symposium (PoPETs), pp. 420–440. July 2021. [data set]
+
+DynPTA: Combining Static and Dynamic Analysis for Practical Selective Data Protection
+Tapti Palit, Jarin Firose Moon, Fabian Monrose, and Michalis Polychronakis. In Proceedings of the 42nd IEEE Symposium on Security & Privacy (S&P), pp. 1919–1937. May 2021, San Francisco, CA. [source code]
+
+Cookie Swap Party: Abusing First-Party Cookies for Web Tracking
+Quan Chen, Panagiotis Ilia, Michalis Polychronakis, and Alexandros Kapravelos. In Proceedings of the 30th Web Conference (WWW), pp. 2117–2129. April 2021, Ljubljana, Slovenia.
+
+Understanding the Growth and Security Considerations of ECS
+Athanasios Kountouras, Panagiotis Kintis, Athanasios Avgetidis, Thomas Papastergiou, Chaz Lever, Michalis Polychronakis, and Manos Antonakakis. In Proceedings of the Network and Distributed System Security Symposium (NDSS). February 2021.
+
+A Flexible Framework for Expediting Bug Finding by Leveraging Past (Mis-)Behavior to Discover New Bugs
+Sanjeev Das, Kedrian James, Jan Werner, Manos Antonakakis, Michalis Polychronakis, and Fabian Monrose. In Proceedings of the 36th Annual Computer Security Applications Conference (ACSAC), pp. 345–359. December 2020.
+
+Confine: Automated System Call Policy Generation for Container Attack Surface Reduction
+Seyedhamed Ghavamnia, Tapti Palit, Azzedine Benameur, and Michalis Polychronakis. In Proceedings of the 23rd International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 443–458. October 2020. [source code]
+
+Temporal System Call Specialization for Attack Surface Reduction
+Seyedhamed Ghavamnia, Tapti Palit, Shachee Mishra, and Michalis Polychronakis. In Proceedings of the 29th USENIX Security Symposium, pp. 1749–1766. August 2020. [source code]
+
+Saffire: Context-sensitive Function Specialization and Hardening against Code Reuse Attacks
+Shachee Mishra and Michalis Polychronakis. In Proceedings of the 5th IEEE European Symposium on Security & Privacy (EuroS&P), pp. 17–33. June September 2020, Genova, Italy.
+
+Assessing the Privacy Benefits of Domain Name Encryption
+Nguyen Phong Hoang, Arian Akhavan Niaki, Nikita Borisov, Phillipa Gill, and Michalis Polychronakis. In Proceedings of the 15th ACM Asia Conference on Computer and Communications Security (ASIACCS), pp. 290–304. June October 2020, Taipei, Taiwan. [data set]
+
+xMP: Selective Memory Protection for Kernel and User Space
+Sergej Proskurin, Marius Momeu, Seyedhamed Ghavamnia, Vasileios P. Kemerlis, and Michalis Polychronakis. In Proceedings of the 41st IEEE Symposium on Security & Privacy (S&P), pp. 603–617. May 2020, San Francisco, CA. [source code]
+
+Mitigating Data Leakage by Protecting Memory-resident Sensitive Data
+Tapti Palit, Fabian Monrose, and Michalis Polychronakis. In Proceedings of the 35th Annual Computer Security Applications Conference (ACSAC), pp. 598–611. December 2019, San Juan, Puerto Rico. [source code]
+
+The SEVerESt Of Them All: Inference Attacks Against Secure Virtual Enclaves
+Jan Werner, Joshua Mason, Manos Antonakakis, Michalis Polychronakis, and Fabian Monrose. In Proceedings of the 14th ACM Asia Conference on Computer and Communications Security (ASIACCS), pp. 73–85. July 2019, Auckland, New Zealand.
+
+SoK: The Challenges, Pitfalls, and Perils of Using Hardware Performance Counters for Security
+Sanjeev Das, Jan Werner, Manos Antonakakis, Michalis Polychronakis, and Fabian Monrose. In Proceedings of the 40th IEEE Symposium on Security & Privacy (S&P), pp. 362–380. May 2019, San Francisco, CA.
+
+Master of Web Puppets: Abusing Web Browsers for Persistent and Stealthy Computation
+Panagiotis Papadopoulos, Panagiotis Ilia, Michalis Polychronakis, Evangelos P. Markatos, Sotiris Ioannidis and Giorgos Vasiliadis. In Proceedings of the Network and Distributed System Security Symposium (NDSS). February 2019, San Diego, CA.
+
+Shredder: Breaking Exploits through API Specialization
+Shachee Mishra and Michalis Polychronakis. In Proceedings of the 34th Annual Computer Security Applications Conference (ACSAC), pp. 1–16. December 2018, San Juan, Puerto Rico.
+
+An Empirical Study of the I2P Anonymity Network and its Censorship Resistance
+Nguyen Phong Hoang, Panagiotis Kintis, Manos Antonakakis, and Michalis Polychronakis. In Proceedings of the 18th Internet Measurement Conference (IMC), pp. 379–392. October 2018, Boston, MA.
+
+Compiler-assisted Code Randomization
+Hyungjoon Koo, Yaohui Chen, Long Lu, Vasileios P. Kemerlis and Michalis Polychronakis. In Proceedings of the 39th IEEE Symposium on Security & Privacy (S&P), pp. 472–488. May 2018, San Francisco, CA. [source code]
+
+Security Risks in Asynchronous Web Servers: When Performance Optimizations Amplify the Impact of Data-oriented Attacks
+Micah Morton, Jan Werner, Panagiotis Kintis, Kevin Z. Snow, Manos Antonakakis, Michalis Polychronakis, and Fabian Monrose. In Proceedings of the 3rd IEEE European Symposium on Security & Privacy (EuroS&P), pp. 167–182. April 2018, London, UK.
+
+A Large-scale Analysis of Content Modification by Open HTTP Proxies
+Georgios Tsirantonakis, Panagiotis Ilia, Sotiris Ioannidis, Elias Athanasopoulos, and Michalis Polychronakis. In Proceedings of the Network and Distributed System Security Symposium (NDSS). February 2018, San Diego, CA.
+
+Protecting COTS Binaries from Disclosure-guided Code Reuse Attacks
+Mingwei Zhang, Michalis Polychronakis, and R. Sekar. In Proceedings of the 33rd Annual Computer Security Applications Conference (ACSAC), pp. 128–140. December 2017, Orlando, FL.
+
+Defeating Zombie Gadgets by Re-randomizing Code Upon Disclosure
+Micah Morton, Hyungjoon Koo, Forrest Li, Kevin Z. Snow, Michalis Polychronakis, and Fabian Monrose. In Proceedings of the 9th International Symposium on Engineering Secure Software and Systems (ESSoS), pp. 143–160. July 2017, Bonn, Germany.
+
+Spotless Sandboxes: Evading Malware Analysis Systems using Wear-and-Tear Artifacts
+Najmeh Miramirkhani, Mahathi Priya Appini, Nick Nikiforakis and Michalis Polychronakis. In Proceedings of the 38th IEEE Symposium on Security & Privacy (S&P), pp. 1009–1024. May 2017, San Jose, CA.
+
+kR^X: Comprehensive Kernel Protection against Just-In-Time Code Reuse
+Marios Pomonis, Theofilos Petsios, Angelos D. Keromytis, Michalis Polychronakis, and Vasileios P. Kemerlis. In Proceedings of the 12th European Conference on Computer Systems (EuroSys), pp. 420–436. April 2017, Belgrade, Serbia. [source code]
+
+Revisiting Browser Security in the Modern Era: New Data-only Attacks and Defenses
+Roman Rogowski, Micah Morton, Forrest Li, Kevin Z. Snow, Fabian Monrose, and Michalis Polychronakis. In Proceedings of the 2nd IEEE European Symposium on Security & Privacy (EuroS&P). April 2017, Paris, France.
+
+Return to the Zombie Gadgets: Undermining Destructive Code Reads via Code Inference Attacks
+Kevin Z. Snow, Roman Rogowski, Jan Werner, Hyungjoon Koo, Fabian Monrose, and Michalis Polychronakis. In Proceedings of the 37th IEEE Symposium on Security & Privacy (S&P), pp. 954–968. May 2016, San Jose, CA.
+
+Juggling the Gadgets: Binary-level Code Randomization using Instruction Displacement
+Hyungjoon Koo and Michalis Polychronakis. In Proceedings of the 11th ACM Asia Conference on Computer and Communications Security (ASIACCS), pp. 23–34. May 2016, Xi'an, China. [source code]
+
+No-Execute-After-Read: Preventing Code Disclosure in Commodity Software
+Jan Werner, George Baltas, Rob Dallara, Nathan Otternes, Kevin Snow, Fabian Monrose, and Michalis Polychronakis. In Proceedings of the 11th ACM Asia Conference on Computer and Communications Security (ASIACCS), pp. 35–46. May 2016, Xi'an, China.
+
+Using Diversity to Harden Multithreaded Programs Against Exploitation
+David M. Tagatac, Salvatore J. Stolfo, and Michalis Polychronakis. In Proceedings of the 2nd IEEE International Conference on High Performance and Smart Computing (HPSC). April 2016, New York, NY.
+
+DynaGuard: Armoring Canary-based Protections against Brute-force Attacks
+Theofilos Petsios, Vasileios P. Kemerlis, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 31st Annual Computer Security Applications Conference (ACSAC), pp. 351–360. December 2015, Los Angeles, CA. [source code]
+
+GPU-Disasm: A GPU-based x86 Disassembler
+Evangelos Ladakis, Giorgos Vasiliadis, Michalis Polychronakis, Sotiris Ioannidis, and Georgios Portokalidis. In Proceedings of the 18th Information Security Conference (ISC), pp. 472–489. September 2015, Trondheim, Norway.
+
+The Devil is in the Constants: Bypassing Defenses in Browser JIT Engines
+Michalis Athanasakis, Elias Athanasopoulos, Michalis Polychronakis, Georgios Portokalidis, and Sotiris Ioannidis. In Proceedings of the Network and Distributed System Security Symposium (NDSS). February 2015, San Diego, CA.
+
+IntFlow: Improving the Accuracy of Arithmetic Error Detection Using Information Flow Tracking
+Kangkook Jee, Theofilos Petsios, Marios Pomonis, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 30th Annual Computer Security Applications Conference (ACSAC), pp. 416–425. December 2014, New Orleans, LA. [source code]
+
+PixelVault: Using GPUs for securing cryptographic operations
+Giorgos Vasiliadis, Elias Athanasopoulos, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS), pp. 1131–1142. November 2014, Scottsdale, AZ.
+
+Dynamic Reconstruction of Relocation Information for Stripped Binaries
+Vasilis Pappas, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 17th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 68–87. September 2014, Gothenburg, Sweden.
+
+ret2dir: Rethinking Kernel Isolation
+Vasileios P. Kemerlis, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 23rd USENIX Security Symposium, pp. 957–972. August 2014, San Diego, CA. (1st place winner, NYU CSAW 2014 Applied Research Competition) [source code]
+
+Size Does Matter - Why Using Gadget-Chain Length to Prevent Code-reuse Attacks is Hard
+Enes Göktaş, Elias Athanasopoulos, Herbert Bos, Michalis Polychronakis, and Georgios Portokalidis. In Proceedings of the 23rd USENIX Security Symposium, pp. 417–432. August 2014, San Diego, CA.
+
+GASPP: A GPU-Accelerated Stateful Packet Processing Framework
+Giorgos Vasiliadis, Lazaros Koromilas, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the USENIX Annual Technical Conference (ATC), pp. 321–332. June 2014, Philadelphia, PA.
+
+On the Effectiveness of Traffic Analysis Against Anonymity Networks Using Flow Records
+Sambuddho Chakravarty, Marco V. Barbera, Georgios Portokalidis, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 15th Passive and Active Measurement Conference (PAM), pp. 247–257. March 2014, Los Angeles, CA.
+
+K-Subscription: Privacy-preserving Microblogging Browsing through Obfuscation
+Panagiotis Papadopoulos, Antonis Papadogiannakis, Michalis Polychronakis, Apostolis Zarras, Thorsten Holz, and Evangelos P. Markatos. In Proceedings of the 29th Annual Computer Security Applications Conference (ACSAC), pp. 49–58. December 2013, New Orleans, LA.
+
+PRIDE: Practical Intrusion Detection in Resource Constrained Wireless Mesh Networks
+Amin Hassanzadeh, Zhaoyan Xu, Radu Stoleru, Guofei Gu, and Michalis Polychronakis. In Proceedings of the 15th International Conference on Information & Communications Security (ICICS), pp. 213–228. November 2013, Beijing, China.
+
+Scap: Stream-Oriented Network Traffic Capture and Analysis for High-Speed Networks
+Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 13th Internet Measurement Conference (IMC), pp. 441–454. October 2013, Barcelona, Spain.
+
+Rise of the Planet of the Apps: A Systematic Study of the Mobile App Ecosystem
+Thanasis Petsas, Antonis Papadogiannakis, Michalis Polychronakis, Evangelos P. Markatos, and Thomas Karagiannis. In Proceedings of the 13th Internet Measurement Conference (IMC), pp. 227–290. October 2013, Barcelona, Spain.
+
+Server-side Code Injection Attacks: A Historical Perspective
+Jakob Fritz, Corrado Leita, and Michalis Polychronakis. In Proceedings of the 16th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 41–61. October 2013, Saint Lucia.
+
+CloudFence: Data Flow Tracking as a Cloud Service
+Vasilis Pappas, Vasileios P. Kemerlis, Angeliki Zavou, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 16th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), pp. 411–431. October 2013, Saint Lucia.
+
+Transparent ROP Exploit Mitigation using Indirect Branch Tracing
+Vasilis Pappas, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 22nd USENIX Security Symposium, pp. 447–462. August 2013, Washington, DC. (1st place winner, NYU CSAW 2013 Applied Research Competition)
+
+Cloudopsy: an Autopsy of Data Flows in the Cloud
+Angeliki Zavou, Vasilis Pappas, Vasileios P. Kemerlis, Michalis Polychronakis, Georgios Portokalidis, and Angelos D. Keromytis. In Proceedings of the 15th International Conference on Human-Computer Interaction (HCI), pp. 366–375. July 2013, Las Vegas, NV.
+
+Privacy-Preserving Social Plugins
+Georgios Kontaxis, Michalis Polychronakis, Angelos D. Keromytis and Evangelos P. Markatos. In Proceedings of the 21st USENIX Security Symposium, pp. 631–646. August 2012, Bellevue, WA. [source code]
+
+ARC: Protecting against HTTP Parameter Pollution Attacks Using Application Request Caches
+Elias Athanasopoulos, Vasileios P. Kemerlis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 10th International Conference on Applied Cryptography and Network Security (ACNS), pp. 400–417. June 2012, Singapore.
+
+Tolerating Overload Attacks Against Packet Capturing Systems (Short Paper)
+Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the USENIX Annual Technical Conference (ATC), pp. 197–202. June 2012, Boston, MA.
+
+Smashing the Gadgets: Hindering Return-Oriented Programming Using In-Place Code Randomization
+Vasilis Pappas, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 33rd IEEE Symposium on Security & Privacy (S&P), pp. 601–615. May 2012, San Francisco, CA. [source code]
+
+Parallelization and Characterization of Pattern Matching using GPUs
+Giorgos Vasiliadis, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the IEEE International Symposium on Workload Characterization (IISWC), pp. 216–225. November 2011, Austin, TX.
+
+ROP Payload Detection Using Speculative Code Execution
+Michalis Polychronakis and Angelos D. Keromytis. In Proceedings of the 6th International Conference on Malicious and Unwanted Software (MALWARE), pp. 58–65. October 2011, Fajardo, Puerto Rico. (Best Paper Award)
+
+MIDeA: A Multi-Parallel Intrusion Detection Architecture
+Giorgos Vasiliadis, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the 18th ACM Conference on Computer and Communications Security (CCS), pp. 297–308. October 2011, Chicago, IL.
+
+SudoWeb: Minimizing Information Disclosure to Third Parties in Single Sign-On Platforms
+Georgios Kontaxis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 14th Information Security Conference (ISC), pp. 197–212. October 2011, Xi'an, China. (Best Student Paper Award) [source code]
+
+Detecting Traffic Snooping in Tor Using Decoys
+Sambuddho Chakravarty, Georgios Portokalidis, Michalis Polychronakis, and Angelos D. Keromytis. In Proceedings of the 14th International Symposium On Recent Advances in Intrusion Detection (RAID), pp. 222–241. September 2011, Menlo Park, CA.
+
+Comprehensive Shellcode Detection using Runtime Heuristics
+Michalis Polychronakis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Proceedings of the 26th Annual Computer Security Applications Conference (ACSAC), pp. 287–296. December 2010, Austin, TX.
+
+GPU-assisted Malware
+Giorgos Vasiliadis, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the 5th IEEE International Conference on Malicious and Unwanted Software (MALWARE), pp. 1–6. October 2010, Nancy, France.
+
+RRDtrace: Long-term Raw Network Traffic Recording using Fixed-size Storage
+Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 18th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp. 101–110. August 2010, Miami, FL.
+
+Regular Expression Matching on Graphics Hardware for Intrusion Detection
+Giorgos Vasiliadis, Michalis Polychronakis, Spiros Antonatos, Evangelos P. Markatos, and Sotiris Ioannidis. In Proceedings of the 12th International Symposium On Recent Advances in Intrusion Detection (RAID), pp. 265–283. September 2009, Saint-Malo, France.
+
+Topnet: A Network-aware top(1)
+Antonis Theocharides, Demetres Antoniades, Michalis Polychronakis, Elias Athanasopoulos, and Evangelos P. Markatos. In Proceedings of the 22nd USENIX Large Installation System Administration Conference (LISA), pp. 145–157. November 2008, San Diego, CA.
+
+Gnort: High Performance Network Intrusion Detection Using Graphics Processors
+Giorgos Vasiliadis, Spiros Antonatos, Michalis Polychronakis, Evangelos P. Markatos and Sotiris Ioannidis. In Proceedings of the 11th International Symposium On Recent Advances in Intrusion Detection (RAID), pp. 116–134. September 2008, Boston, MA.
+
+LOBSTER: A European Platform for Passive Network Traffic Monitoring
+Demetres Antoniades, Michalis Polychronakis, Antonis Papadogiannakis, Panos Trimintzios, Sven Ubik, Vladimir Smotlacha, Arne Øslebø, and Evangelos P. Markatos. In proceedings of the 4th International Conference on Testbeds and Research Infrastructures for the Development of Networks & Communities (TRIDENTCOM). March 2008, Innsbruck, Austria.
+
+Improving the Performance of Passive Network Monitoring Applications using Locality Buffering
+Antonis Papadogiannakis, Demetres Antoniades, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 15th IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), pp. 151–157. October 2007, Istanbul, Turkey.
+
+Emulation-based Detection of Non-self-contained Polymorphic Shellcode
+Michalis Polychronakis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Proceedings of the 10th International Symposium on Recent Advances in Intrusion Detection (RAID), pp. 87–106. September 2007, Queensland, Australia.
+
+Network-level Polymorphic Shellcode Detection using Emulation
+Michalis Polychronakis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Proceedings of the Third Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), pp. 57–73. July 2006, Berlin, Germany. (Most Influential DIMVA Paper 2004-2008 Award)
+
+DiMAPI: An Application Programming Interface for Distributed Network Monitoring
+Panos Trimintzios, Michalis Polychronakis, Antonis Papadogiannakis, Michalis Foukarakis, Evangelos P. Markatos, and Arne Øslebø. In Proceedings of the 10th IEEE/IFIP Network Operations and Management Symposium (NOMS), pp. 382–393. April 2006, Vancouver, Canada.
+
+STRIDE: Polymorphic Sled Detection through Instruction Sequence Analysis
+Periklis Akritidis, Evangelos P. Markatos, Michalis Polychronakis, and Kostas G. Anagnostakis. In Proceedings of the 20th IFIP International Information Security Conference (IFIP/SEC), pp. 375–392. May/June 2005, Makuhari-Messe, Chiba, Japan.
+
+Piranha: Fast and memory-efficient Pattern Matching for Intrusion Detection
+Spiros Antonatos, Michalis Polychronakis, Periklis Akritidis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Proceedings of the 20th IFIP International Information Security Conference (IFIP/SEC), pp. 393–408. May/June 2005, Makuhari-Messe, Chiba, Japan.
+
+Design of an Application Programming Interface for IP Network Monitoring
+Michalis Polychronakis, Kostas G. Anagnostakis, Evangelos P. Markatos, and Arne Øslebø. In Proceedings of the 9th IEEE/IFIP Network Operations and Management Symposium (NOMS), pp. 483–496. April 2004, Seoul, Korea.
+
+Performance Analysis of Content Matching Intrusion Detection Systems
+Spiros Antonatos, Kostas G. Anagnostakis, Evangelos P. Markatos, and Michalis Polychronakis. In Proceedings of the IEEE/IPSJ Symposium on Applications and the Internet (SAINT), pp. 208–215. January 2004, Tokyo, Japan.
+
+E2xB: A Domain-specific String Matching Algorithm for Intrusion Detection
+Kostas G. Anagnostakis, Evangelos P. Markatos, Spiros Antonatos, and Michalis Polychronakis. In Proceedings of the 18th IFIP International Information Security Conference (IFIP/SEC), pp. 217–228. May 2003, Athens, Greece.
+
+ExB: Exclusion-based Signature Matching for Intrusion Detection
+Evangelos P. Markatos, Spiros Antonatos, Michalis Polychronakis, and Kostas G. Anagnostakis. In Proceedings of the IASTED International Conference on Communications and Computer Networks (CCN), pp. 146–152. November 2002, Cambridge, MA.
+
+Workshop Publications
+
+SGXPecial: Specializing SGX Interfaces against Code Reuse Attacks
+Shachee Mishra and Michalis Polychronakis. In Proceedings of the 14th European Workshop on System Security (EuroSec). April 2021, Edinburgh, Scotland, UK.
+
+K-resolver: Towards Decentralizing Encrypted DNS Resolution
+Nguyen Phong Hoang, Ivan Lin, Seyedhamed Ghavamnia, and Michalis Polychronakis. In Proceedings of the 2nd Workshop on Measurements, Attacks, and Defenses for the Web (MADWeb). February 2020, San Diego, CA.
+
+Measuring I2P Censorship at a Global Scale
+Nguyen Phong Hoang, Sadie Doreen, and Michalis Polychronakis. Proceedings of the 9th USENIX Workshop on Free and Open Communications on the Internet (FOCI). August 2019, Santa Clara, CA.
+
+Configuration-Driven Software Debloating
+Hyungjoon Koo, Seyedhamed Ghavamnia, and Michalis Polychronakis. In Proceedings of the 12th European Workshop on System Security (EuroSec). March 2019, Dresden, Germany.
+
+Is Privacy Possible Without Anonymity? The Case for Microblogging Services
+Panagiotis Papadopoulos, Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 12th European Workshop on System Security (EuroSec). March 2019, Dresden, Germany.
+
+Rage Against the Virtual Machine: Hindering Dynamic Analysis of Mobile Malware
+Thanasis Petsas, Giannis Voyatzis, Elias Athanasopoulos, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the 7th European Workshop on System Security (EuroSec). April 2014, Amsterdam, The Netherlands.
+
+You Can Type, but You Can’t Hide: A Stealthy GPU-based Keylogger
+Evangelos Ladakis, Lazaros Koromilas, Giorgos Vasiliadis, Michalis Polychronakis, and Sotiris Ioannidis. In Proceedings of the 6th European Workshop on System Security (EuroSec). April 2013, Prague, Czech Republic.
+
+Combining Static and Dynamic Analysis for the Detection of Malicious Documents
+Zacharias Tzermias, Giorgos Sykiotakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 4th European Workshop on System Security (EuroSec). April 2011, Salzburg, Austria.
+
+Improving the Accuracy of Network Intrusion Detection Systems Under Load Using Selective Packet Discarding
+Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 3rd European Workshop on System Security (EuroSec), pp. 15–21. April 2010, Paris, France.
+
+Realistic Passive Packet Loss Measurement for High-Speed Networks
+Ales Friedl, Sven Ubik, Alexandros Kapravelos, Michalis Polychronakis, and Evangelos P. Markatos. In Proceedings of the 1st International Workshop on Traffic Monitoring and Analysis (TMA). May 2009, Aachen, Germany.
+
+An Empirical Study of Real-World Polymorphic Code Injection Attacks
+Michalis Polychronakis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Proceedings of the 2nd USENIX Workshop on Large-scale Exploits and Emergent Threats (LEET). April 2009, Boston, MA.
+
+Deep Packet Anonymization
+Michael Foukarakis, Demetres Antoniades, and Michalis Polychronakis. In Proceedings of the European Workshop on System Security (EuroSec). March 2009, Nuremberg, Germany.
+
+Ghost Turns Zombie: Exploring the Life Cycle of Web-based Malware
+Michalis Polychronakis, Panayiotis Mavrommatis, and Niels Provos. In Proceedings of the 1st USENIX Workshop on Large-Scale Exploits and Emergent Threats (LEET). April 2008, San Francisco, CA.
+
+Monitoring three national research networks for eight weeks: Observations and implications
+Demetris Antoniades, Michalis Polychronakis, Nick Nikiforakis, Evangelos P. Markatos, and Yiannis Mitsos. In Proceedings of the 6th IEEE Workshop on End-to-End Monitoring Techniques and Services (E2EMON), pp. 153–156. April 2008, Salvador, Bahia, Brazil.
+
+Journal Publications
+
+Confine: Fine-grained System Call Filtering for Container Attack Surface Reduction
+Maryam Rostamipoor, Seyedhamed Ghavamnia, and Michalis Polychronakis. In Computers & Security, vol. 132, September 2023.
+
+Mitigating Data Leakage by Protecting Memory-resident Sensitive Data
+Tapti Palit, Fabian Monrose, and Michalis Polychronakis. In Digital Threats: Research and Practice, vol. 1, no. 4, December 2020.
+
+Defending Against Web Application Attacks: Approaches, Challenges and Implications
+Dimitris Mitropoulos and Angelos D. Keromytis and Panagiotis Louridas and Michalis Polychronakis. In IEEE Transactions on Dependable and Secure Computing (TDSC), vol. 16, no. 2, pp 188–203, March 2019.
+
+Kernel Protection against Just-in-Time Code Reuse
+Marios Pomonis, Theofilos Petsios, Angelos D. Keromytis, Michalis Polychronakis, and Vasileios P. Kemerlis. In ACM Transactions on Privacy and Security (TOPS), vol. 22, no. 1, pp. 5:1–5:28, January 2019.
+
+Measurement, Modeling, and Analysis of the Mobile App Ecosystem
+Thanasis Petsas, Antonis Papadogiannakis, Michalis Polychronakis, Thomas Karagiannis and Evangelos P. Markatos. In ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), vol. 2, no. 2, pp. 7:1–7:33, March 2017.
+
+Design and Implementation of a Stateful Network Packet Processing Framework for GPUs
+Giorgos Vasiliadis and Lazaros Koromilas and Michalis Polychronakis and Sotiris Ioannidis. In IEEE/ACM Transactions on Networking (ToN), vol. 25, no. 1, pp. 610–623, February 2017.
+
+PRIDE: A Practical Intrusion Detection System for Resource Constrained Wireless Mesh Networks
+Amin Hassanzadeh and Zhaoyan Xu and Radu Stoleru and Guofei Gu and Michalis Polychronakis. In Computers & Security, vol. 62, pp. 114–132, September 2016.
+
+Detection and analysis of eavesdropping in anonymous communication networks
+Sambuddho Chakravarty, Georgios Portokalidis, Michalis Polychronakis, and Angelos D. Keromytis. In International Journal of Information Security (IJIS), vol. 14, no. 3, pp. 205–220, June 2015.
+
+GPU-assisted Malware
+Giorgos Vasiliadis, Michalis Polychronakis, and Sotiris Ioannidis. In International Journal of Information Security (IJIS), vol. 14, no. 3, pp. 289–297, June 2015.
+
+Stream-Oriented Network Traffic Capture and Analysis for High-Speed Networks
+Antonis Papadogiannakis, Michalis Polychronakis, and Evangelos P. Markatos. In IEEE Journal on Selected Areas in Communications, vol. 32, no. 10, pp. 1849–1863, October 2014.
+
+RAPID: Traffic-agnostic intrusion detection for resource-constrained wireless mesh networks
+Amin Hassanzadeh, Radu Stoleru, Michalis Polychronakis, and Geoffrey Xie. In Computers & Security, vol. 46, pp. 1–17, July 2014.
+
+Minimizing Information Disclosure to Third Parties in Social Login Platforms
+Georgios Kontaxis, Michalis Polychronakis, and Evangelos P. Markatos. In Internationa Journal of Information Security (IJIS), vol. 11, no. 5, pp. 321–332, October 2012.
+
+Improving the Performance of Passive Network Monitoring Applications with Memory Locality Enhancements
+Antonis Papadogiannakis, Giorgos Vasiliadis, Demetres Antoniades, Michalis Polychronakis, and Evangelos P. Markatos. In Computer Communications, vol. 35, no. 1, pp. 129–140, January 2012.
+
+Shadow Honeypots
+Kostas G. Anagnostakis, Stelios Sidiroglou, Periklis Akritidis, Michalis Polychronakis, Angelos D. Keromytis, and Evangelos P. Markatos. In International Journal of Computer and Network Security (IJCNS), vol. 2, no. 9, pp. 1–16, September 2010.
+
+Network-level Polymorphic Shellcode Detection using Emulation
+Michalis Polychronakis, Kostas G. Anagnostakis, and Evangelos P. Markatos. In Journal in Computer Virology, vol. 2, no. 4, pp. 257–274, February 2007.
+
+PhD Thesis
+
+Generic Detection of Code Injection Attacks using Network-level Emulation
+Computer Science Department, University of Crete. October 2009.
+

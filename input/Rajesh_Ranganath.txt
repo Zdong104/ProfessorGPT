@@ -1,0 +1,165 @@
+Professor: Rajesh Ranganath
+University: New York University
+URL: https://cims.nyu.edu/~rajeshr
+Description: Rajesh Ranganath
+About Papers People Teaching Contact Github
+About
+
+I am an Assistant Professor at the Courant Institute at NYU in Computer Science and at the Center for Data Science. I am also part of the CILVR group. My research interests include causal, statistical, and probabilistic inference, out-of-distribution detection and generalization, deep generative modeling, interpretability, and machine learning for healthcare. Before joining NYU, I earned degrees in computer science; my PhD was completed at Princeton University working with Dave Blei and my undergraduate was done at Stanford University. I have also spent time as a research affiliate at MIT’s Institute for Medical Engineering and Science.
+
+Papers
+
+Survival Mixture Density Networks
+Xintian Han, Mark Goldstein, and Rajesh Ranganath. MLHC 2022.
+[pdf]
+
+Set Norm and Equivariant Skip Connections: Putting the Deep in Deep Sets
+Lily Zhang, Veronica Tozzo, John Higgins, Rajesh Ranganath. ICML 2022.
+[pdf]
+
+Out-of-distribution Generalization in the Presence of Nuisance-Induced Spurious Correlations
+Aahlad Puli, Lily Zhang, Eric Oermann, Rajesh Ranganath. ICLR 2022.
+[pdf]
+
+FastSHAP: Real-Time Shapley Value Estimation
+Neil Jethani, Mukund Sudarshan, Ian C Covert, Su-In Lee, R Ranganath. ICLR 2022.
+[pdf]
+
+Learning invariant representations with missing data
+Mark Goldstein, Jörn Jacobsen, Olina Chau, Adriel Saporta, Aahlad Puli, Rajesh Ranganath, Andy Miller. CLeaR 2022.
+[pdf]
+
+Individual treatment effect estimation in the presence of unobserved confounding using proxies: a cohort study in stage III non-small cell lung cancer
+Wouter AC van Amsterdam, Joost Verhoeff, Netanja I Harlianto, Gijs A Bartholomeus, Aahlad Manas Puli, Pim A de Jong, Tim Leiner, Anne SR van Lindert, Marinus JC Eijkemans, and Rajesh Ranganath. Scientific reports 12 (1), 2022.
+[pdf]
+
+Inverse-Weighted Survival Games
+Xintian Han, Mark Goldstein, Aahlad Puli, Thomas Wies, Adler Perotte, and Rajesh Ranganath. NeurIPS 2021.
+[pdf]
+
+Offline rl without off-policy evaluation
+David Brandfonbrener, Will Whitney, Rajesh Ranganath, and Joan Bruna. NeurIPS, 2021.
+[pdf]
+
+Probabilistic machine learning for healthcare
+Irene Y Chen, Shalmali Joshi, Marzyeh Ghassemi, Rajesh Ranganath. Annual Review of Biomedical Data Science 4, 2021.
+[pdf]
+
+RankFromSets: Scalable set recommendation with optimal recall
+Jaan Altosaar, Rajesh Ranganath, Wesley Tansey. Stat 10 (1), 2021.
+[pdf]
+
+Understanding failures in out-of-distribution detection with deep generative models
+Lily Zhang, Mark Goldstein, Rajesh Ranganath. ICML 2021.
+[pdf]
+
+Offline contextual bandits with overparameterized models
+David Brandfonbrener, William Whitney, Rajesh Ranganath, Joan Bruna. ICML 2021.
+[pdf]
+
+Reproducibility in machine learning for health research: Still a ways to go
+Matthew BA McDermott, Shirly Wang, Nikki Marinsek, Rajesh Ranganath, Luca Foschini, Marzyeh Ghassemi. Science Translational Medicine 13 (586), 2021.
+[html]
+
+Contra: Contrarian statistics for controlled variable selection
+Mukund Sudarshan, Aahlad Puli, Lakshmi Subramanian, Sriram Sankararaman, and Rajesh Ranganath. AISTATS, 2021.
+[pdf]
+
+Have We Learned to Explain?: How Interpretability Methods Can Learn to Encode Predictions in their Interpretations
+Neil Jethani, Mukund Sudarshan, Yindalon Aphinyanaphongs, Rajesh Ranganath. AISTATS, 2021.
+[pdf]
+
+A validated, real-time prediction model for favorable outcomes in hospitalized COVID-19 patients
+Narges Razavian, Vincent J Major, Mukund Sudarshan, … Rajesh Ranganath, Jonathan Austrian, Yindalon Aphinyanaphongs. NPJ digital medicine 3 (1), 1-13 44, 2020.
+[pdf]
+
+The Counterfactual χ-GAN: Finding comparable cohorts in observational health data
+Amelia J Averitt, Natnicha Vanitchanant, Rajesh Ranganath, Adler J Perotte. Journal of Biomedical Informatics 109, 2020.
+[pdf]
+
+Data-driven physiologic thresholds for iron deficiency associated with hematologic decline
+Brody H Foy, Aodong Li, James P McClung, Rajesh Ranganath, John M Higgins. American Journal of Hematology 95 (3), 2020.
+[pdf]
+
+Deep learning models for electrocardiograms are susceptible to adversarial attack
+Xintian Han, Yuxuan Hu, Luca Foschini, Larry Chinitz, Lior Jankelson, Rajesh Ranganath. Nature medicine 26 (3), 2020.
+[html]
+
+General Control Functions for Causal Effect Estimation from IVs
+Aahlad Puli, Rajesh Ranganath. NeurIPS 2020.
+[pdf]
+
+Causal Estimation with Functional Confounders
+Aahlad Puli, Adler Perotte, Rajesh Ranganath. NeurIPS 2020.
+[pdf]
+
+X-CAL: Explicit Calibration for Survival Analysis
+Mark Goldstein, Xintian Han, Aahlad Puli, Adler Perotte, Rajesh Ranganath. NeurIPS 2020.
+[pdf]
+
+Deep Direct Likelihood Knockoffs
+Mukund Sudarshan, Wesley Tansey, Rajesh Ranganath. NeurIPS 2020.
+[pdf]
+
+A Review of Challenges and Opportunities in Machine Learning for Health
+Marzyeh Ghassemi, Tristan Naumann, Peter Schulam, Andrew L Beam, Irene Y Chen, Rajesh Ranganath. AMIA Summits on Translational Science Proceedings 2020.
+[html]
+
+Practical Guidance on Artificial Intelligence for Healthcare Data
+Marzyeh Ghassemi, Tristan Naumann, Peter Schulam, Andrew L Beam, Irene Y Chen, and Rajesh Ranganath. The Lancet Digital Health 1 (4), 2019.
+[pdf]
+
+ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
+Kexin Huang, Jaan Altosaar, Rajesh Ranganath. CHIL workshop 2020.
+[pdf]
+
+Kernelized complete conditional Stein discrepancy
+Raghav Singhal, Xintian Han, Saad Lahlou, Rajesh Ranganath. arXiv 2019.
+[pdf]
+
+Energy-Inspired Models: Learning with Sampler-Induced Distributions
+Dieterich Lawson, George Tucker, Bo Dai, Rajesh Ranganath. Neurips 2019.
+[pdf]
+
+Predicate Exchange: Inference with Declarative Knowledge
+Zenna Tavares, Javier Burroni, Edgar Minasyan, Amando Solar-Lezama, Rajesh Ranganath. ICML 2019.
+[pdf]
+
+The Variational Predictive Natural Gradient
+Da Tang, Rajesh Ranganath. ICML 2019.
+[pdf]
+
+Support and Invertibility in Domain-Invariant Representations
+Fredrik Johansson, David Sontag, Rajesh Ranganath. AISTATS 2019.
+[pdf]
+
+Deep Survival Analysis: Missingness and Nonparametrics
+Xenia Miscouridou, Adler Perotte, Noemie Elhadad, Rajesh Ranganath. MLHC 2018.
+[pdf]
+
+⌄ Expand ⌄
+People
+PhD Students
+Mark Goldstein
+Neil Jethani
+Aahlad Puli
+Adriel Saporta
+Raghav Singhal
+Wanqian Yang
+Boyang Yu
+Lily Zhang
+Alumni
+Xintian Han
+Mukund Sudarshan
+Teaching
+Machine Learning
+Machine Learning for Healthcare
+Deep Generative Models
+Contact
+
+NYU Courant Institute of Mathematical Science
+Computer Science
+60 Fifth Ave
+New York, NY 10011
+rajeshr at cims dot nyu dot edu
+

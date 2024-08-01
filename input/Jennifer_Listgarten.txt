@@ -1,0 +1,514 @@
+Professor: Jennifer Listgarten
+University: Univ. of California - Berkeley
+URL: http://www.jennifer.listgarten.com/
+Description: Jennifer Listgarten
+
+
+Mailing address:
+University of California, Berkeley
+Electrical Engineering and Computer Science
+387 Soda Hall, MC 1776
+Berkeley, CA, 94720
+
+
+
+Before contacting me, students please read this.
+jennl [at] berkeley.edu
+About me
+
+I am a Professor in UC Berkeley's EECS department , Center for Computational Biology, Bioengineering, and a member of the steering committee for the Berkeley AI Research (BAIR) Lab. From 2007 to 2017 I was at Microsoft Research, through Cambridge, MA, Los Angeles and Redmond, WA. Before that I did my PhD in the machine learning group at the University of Toronto. (Feel free to use this short bio and picture for announcements.)
+
+My expertise is in machine learning, applied statistics, computational biology. I'm interested in both methods development as well as application of methods to enable new insight into basic biology and medicine. Recently I have also started to work on computational chemistry. A recent print interview focused on my CRISPR work can be found here. If you're interested more generally in how machine learning and biology go together, check out this Talking Machines interview with me instead. Finally, if you want to hear about my random walk in education & career space, take a look at this Berkeley Science Review profile.
+
+Current areas of interest include: computational methods for protein design/optimization/engineering for properties such as expression, flurorescence, binding, stability, etc.; related methods for molecule design and chemical reactions; drug repositioning and discovery; machine learning methods development, and in particular at the intersection of graphical models, neural networks and variational inference, as well as optimizing black box probablistic functions with pathological regions that can't be trusted; genetic association studies with complex, high-dimensional traits such as image volumes over time.
+
+Previous focus areas include: machine learning methods for time series alignment and normalization; LC-MS proteomics; statistical genetics methods to correct for confounding factors in GWAS, epigenome-WAS and eQTL studies; problems in immunoinformatics such as HLA class I epitope prediction and HLA allele imputation. If you're interested in my statistical genetics work (FaST-LMM or EWASher), please go to this landing page.
+
+Industry engagements: I also spend some of my time with companies. At the moment, these:
+
+Dayzero Diagnostics (Scientific Advisory Board).
+Deep Apple Therapeutics (Scientific Advisory Board).
+Inscripta (Scientific Advisory Board).
+Fable Therapeutics (Academic co-founder).
+
+Research group
+
+You can find us here.
+
+If you are looking to do your PhD, applications go through academic entities such as EECS the Center for Computational Biology, or the Bioengineering program, for which you should list me as a faculty of interest. For EECS applicants, please choose as your primary area, CS:AI-SCIENCE.
+
+Announcements
+New and upcoming papers
+
+
+Generative models for protein structures and sequences
+
+Chloe Hsu, Clara Fannjiang, Jennifer Listgarten
+Nature Biotechnology 2024 (link) and a freely available copy here.
+
+
+The perpetual motion machine of AI-generated data and the distraction of "ChatGPT as scientist"
+
+Jennifer Listgarten
+Nature Biotechnology 2024 (link) and a freely available version here
+
+
+Coherent Blending of Biophysics-Based Knowledge with Bayesian Neural Networks for Robust Protein Property Prediction
+
+Hunter Nisonoff, Yixin Wang, Jennifer Listgarten
+ACS Synth. Biol. 2023 (Editor's Choice)   (paper link)
+
+
+Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy
+
+D Zhu*, DH Brookes*, A Busia*, A Carneiro, C Fannjiang, G Popova, D Shin, KC Donohue,, LF Lin, ZM Miller, ER Williams, EF Chang, TJ Nowakowski, J Listgarten*, DV Schaffer* (*equal contributions, corresponding)
+Science Advances 2024 (paper link)
+
+
+Is novelty predictable?
+
+Clara Fannjiang and Jennifer Listgarten
+Cold Spring Harbor Perspectives in Biology 2023 (paper link), similar version also available on arXiv).
+
+
+MBE: model-based enrichment estimation and prediction for differential sequencing data
+
+Akosua Busia and Jennifer Listgarten
+Genome Research 2023   (paper link)
+Do you estimate/predict log enrichment scores from sequencing data? Do you want greater statistical power? Or do you want an easy way to combine all kinds of short and long reads? Check out our pre-print.
+
+CS 294-150 Machine Learning and Statistics Meet Biology (Spring 2023)
+
+If you have questions about enrolling in this class, or otherwise, please read the bcourses web page, noting the year in case it's out of date. This site also contains a link for those unable to automatically enroll to fill out an application to enroll---please make sure only to fill out for the correct year (and please email me if the semester is about to start and it hasn't been updated).
+
+
+Undergraduate, graduate and post-doc opportunities
+
+Please see "Joining the group" here.
+
+Selected
+Publications
+The perpetual motion machine of AI-generated data and the distraction of "ChatGPT as scientist"
+Jennifer Listgarten
+Nature Biotechnology 2024 (link) and a freely available version here
+
+
+Is novelty predictable?
+Clara Fannjiang and Jennifer Listgarten
+Cold Spring Harbor Perspectives in Biology 2023 (paper link), similar version also available on arXiv).
+
+
+MBE: model-based enrichment estimation and prediction for differential sequencing data
+Akosua Busia and Jennifer Listgarten
+Genome Research 2023   (paper link)
+
+
+Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy
+D Zhu*, DH Brookes*, A Busia*, A Carneiro, C Fannjiang, G Popova, D Shin, KC Donohue,, LF Lin, ZM Miller, ER Williams, EF Chang, TJ Nowakowski, J Listgarten*, DV Schaffer* (*equal contributions, corresponding)
+Science Advances 2024 (paper link)
+
+
+Learning protein fitness models from evolutionary and assay-labeled data
+Chloe Hsu, Hunter Nisonoff, Clara Fannjiang, Jennifer Listgarten
+Nature Biotechnology 2022   (paper)
+
+
+Rethinking drug design in the artificial intelligence era
+P Schneider, WP Walters, AT Plowright, N Sieroka, J Listgarten, RA Goodnow Jr., J Fisher, JM Jansen, JS Duca, TS Rush, M Zentgraf, JE Hill, E Krutoholow, M Kohler, J Blaney, K Funatsu, C Luebkemann and G Schneider
+in Nature Reviews Drug Discovery  2019 (paper link)
+
+
+Conditioning by adaptive sampling for robust design
+David H. Brookes, Hahnbeom Park and Jennifer Listgarten
+accepted at ICML  2019 (paper link, arXiv version is most up-to-date)
+(5% acceptance rate for 20 min. oral presentation)
+
+
+Predicting off-target effects for end-to-end CRISPR guide design
+J Listgarten, M Weinstein, B Kleinstiver, AA Sousa, JK Joung, J Crawford, K Gao, M Elibol, L Hoang, J Doench, N Fusi (equal contributions and corresponding)
+Nature Biomedical Engineering  (2018) (paper link)
+Associated tools and resources available here.
+
+Orthologous CRISPR-Cas9 for Combinatorial Genetic Screens
+F Najm*, C Strand*, K Donovan*, M Hegde*, KR. Sanson*, EW Vaimberg, ME Sullender, E Hartenian, N Fusi, J. Listgarten, ST Younger*, BE Bernstein**, DE Root**, JG Doench**
+Nature Biotechnology  (2018) (paper link) (*equal contributions, **corresponding)
+
+
+Optimized sgRNA design to maximize activity and minimize off-target effects for genetic screens with CRISPR-Cas9
+JG Doench*, N Fusi*, M Sullender*, M Hegde*, EW Vaimberg*, KF Donovan, I Smith, Z Tothova, C Wilen , R Orchard , HW Virgin, J Listgarten*, DE Root
+Nature Biotechnology   2016 doi:10.1038/nbt.3437
+(*equal contributions, corresponding)
+A pre-print of just the computational aspects of this paper is available on bioRxiv
+Source code and prediction server available from here: here.
+[Microsoft Research blog post]
+[Broad Institute blog post]
+
+Epigenome-wide association studies without the need for cell-type composition
+James Zou, C. Lippert, D. Heckerman, Martin Aryee, Jennifer Listgarten
+Nature Methods   2014 (journal link)
+Python software available from here, and R software available from here.
+Corrigendum: Supp. Figure 1 was not run with filters as described in the paper, but without any filters. We have contacted the journal to post this correction.
+
+FaST-LMM-Select for addressing confounding from spatial structure and rare variants
+Jennifer Listgarten, Christoph Lippert, David Heckerman (equal contributions and corresponding)
+Nature Genetics   2013 (journal link)
+
+Improved linear mixed models for genome-wide association studies
+Jennifer Listgarten, C. Lippert, C. Kadie, R. Davidson, E. Eskin and D. Heckerman
+(equal contributions and corresponding)
+Nature Methods   2012, doi:10.1038/nmeth.2037
+Source and executables available here.
+
+FaST Linear Mixed Models for Genome-Wide Association Studies
+C. Lippert, Jennifer Listgarten, Y. Liu, C.Kadie, R. Davidson and D. Heckerman
+(equal contributions and corresponding)
+Nature Methods   Aug. 2011, doi:10.1038/nmeth.1681 ,
+freely available author copy including SI, Source and executables available here.
+
+Correction for Hidden Confounders in the Genetic Analysis of Gene Expression
+Jennifer Listgarten, Carl Kadie, Eric Schadt, David Heckerman
+PNAS   2010, doi: 10.1073/pnas.1002425107
+(paper, Supplementary Information, software, GenomeWeb coverage)
+
+Statistical resolution of ambiguous HLA typing data
+Jennifer Listgarten, Z. Brumme, C. Kadie, G. Xiaojiang, B. Walker, M. Carrington, P. Goulder, D. Heckerman,
+in PLoS Computational Biology   2008, 4(2):e1000016
+(abstract, paper, coverage in the magazine BioInform, press release) For the public web server tool based on this work, go here ; for .exe and source code (training code not included), go here.
+
+Bayesian detection of infrequent differences in sets of time series with shared structure.
+Jennifer Listgarten, Radford M. Neal, Sam T. Roweis, Rachel Puckrin and Sean Cutler,
+NIPS   2006
+Best Student Paper, Honorable Mention. (abstract, paper)
+
+Statistical and computational methods for comparative proteomic profiling using liquid chromatography-tandem mass spectrometry.
+Jennifer Listgarten and Andrew Emili,
+Molecular and Cellular Proteomics   2005 4:419-434. (abstract) (paper)
+
+Multiple alignment of continuous time series.
+Jennifer Listgarten, Radford M. Neal, Sam T. Roweis and Andrew Emili,
+NIPS   2004
+(abstract, paper, slides, and audio demo)
+
+
+All Publications
+
+Generative models for protein structures and sequences
+Chloe Hsu, Clara Fannjiang, Jennifer Listgarten
+Nature Biotechnology 2024 (link) and a freely available copy here.
+
+
+The perpetual motion machine of AI-generated data and the distraction of "ChatGPT as scientist"
+Jennifer Listgarten
+Nature Biotechnology 2024 (link) and a freely available version here
+
+
+Is novelty predictable?
+Clara Fannjiang and Jennifer Listgarten
+Cold Spring Harbor Perspectives in Biology 2023 (paper link), similar version also available on arXiv).
+
+
+MBE: model-based enrichment estimation and prediction for differential sequencing data
+Akosua Busia and Jennifer Listgarten
+Genome Research 2023,   (paper link)
+
+
+Coherent Blending of Biophysics-Based Knowledge with Bayesian Neural Networks for Robust Protein Property Prediction
+Hunter Nisonoff, Yixin Wang, Jennifer Listgarten
+ACS Synth. Biol. 2023 (Editor's Choice)   (paper link)
+
+
+Conformal Prediction under Feedback Covariate Shift for Biomolecular Design
+Clara Fannjiang, Stephen Bates, Anastasios Angelopoulos, Jennifer Listgarten, and Michael I. Jordan
+PNAS 2022,   (paper link)
+
+
+Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy
+D Zhu*, DH Brookes*, A Busia*, A Carneiro, C Fannjiang, G Popova, D Shin, KC Donohue,, LF Lin, ZM Miller, ER Williams, EF Chang, TJ Nowakowski, J Listgarten*, DV Schaffer* (*equal contributions, corresponding)
+Science Advances 2024 (paper link)
+
+
+Effective training of nanopore callers for epigenetic marks with limited labelled data
+Brian Yao, Chloe Hsu, Gal Goldner, Yael Michaeli, Yuval Ebenstein, Jennifer Listgarten
+Open Biology 2024,   (paper link)
+
+
+On the sparsity of fitness functions and implications for learning
+David H Brookes, Amirali Aghazadeh, Jennifer Listgarten
+PNAS 2022,   (paper link)
+
+
+Combining evolutionary and assay-labelled data for protein fitness prediction
+Chloe Hsu, Hunter Nisonoff, Clara Fannjiang, Jennifer Listgarten
+Nature Biotechnology 2022   (paper)
+
+
+Epistatic Net allows the sparse spectral regularization of deep neural networks for inferring fitness functions
+Amirali Aghazadeh, Hunter Nisonoff, Ocal, Yijie Huang, O. Ozan Koyluoglu, Jennifer Listgarten, Kannan Ramchandran
+Nature Communications 2021,   (paper link)
+
+
+Autofocused oracles for model-based design
+Clara Fannjiang and Jennifer Listgarten
+NeurIPS 2020,   (paper link)
+
+
+Rethinking drug design in the artificial intelligence era
+P Schneider, WP Walters, AT Plowright, N Sieroka, J Listgarten, RA Goodnow Jr., J Fisher, JM Jansen, JS Duca, TS Rush, M Zentgraf, JE Hill, E Krutoholow, M Kohler, J Blaney, K Funatsu, C Luebkemann and G Schneider
+in Nature Reviews Drug Discovery  2019 (paper link)
+
+
+A view of Estimation of Distribution Algorithms through the lens of Expectation-Maximization
+David H. Brookes, Akosua Busia, Clara Fannjiang, Kevin Murphy and Jennifer Listgarten
+in Proceedings of GECCO 2020   (here , extended version here)
+
+
+Conditioning by adaptive sampling for robust design
+David H. Brookes, Hahnbeom Park and Jennifer Listgarten
+accepted at ICML  2019 (paper link, arXiv version is most up-to-date)
+(5% acceptance rate for 20 min. oral presentation)
+
+
+Design by adaptive sampling
+David Brookes and Jennifer Listgarten
+NeurIPS Workshop on Machine Learning for Molecules and Materials  2018 (paper link)
+
+
+Gaussian Process Prior Variational Autoencoders
+Francesco Paolo Casale, Adrian V Dalca, Luca Saglietti, Jennifer Listgarten, Nicolo Fusi
+in NeurIPS  2018 (paper link)
+
+Predicting off-target effects for end-to-end CRISPR guide design
+J Listgarten, M Weinstein, B Kleinstiver, AA Sousa, JK Joung, J Crawford, K Gao, M Elibol, L Hoang, J Doench, N Fusi (equal contributions and corresponding)
+Nature Biomedical Engineering  (2018) (paper link)
+Associated tools and resources available here.
+
+Orthologous CRISPR-Cas9 for Combinatorial Genetic Screens
+F Najm*, C Strand*, K Donovan*, M Hegde*, KR. Sanson*, EW Vaimberg, ME Sullender, E Hartenian, N Fusi, J. Listgarten, ST Younger*, BE Bernstein**, DE Root**, JG Doench**
+Nature Biotechnology  (2018) (paper link) (*equal contributions, **corresponding)
+
+
+Identifying gene expression modules that define human cell fates
+I Germanguz, J Listgarten, A Solomon, X Gaeta, WE Lowry  (equal contributions)
+Stem Cell Research  (2016,, in press)
+
+Leveraging Non-Linear Genetic Effects on Functional Traits for GWAS
+Nicolo Fusi and Jennifer Listgarten
+RECOMB Proceedings (in Lecture Notes in Computer Science)  2016 (pdf)
+
+Optimized sgRNA design to maximize activity and minimize off-target effects for genetic screens with CRISPR-Cas9
+JG Doench*, N Fusi*, M Sullender*, M Hegde*, EW Vaimberg*, KF Donovan, I Smith, Z Tothova, C Wilen , R Orchard , HW Virgin, J Listgarten*, DE Root
+Nature Biotechnology Jan 2016 doi:10.1038/nbt.3437
+(*equal contributions, corresponding)
+A pre-print of just the computational aspects of this paper is available on bioRxiv
+Source code and prediction server available from here: here.
+[Microsoft Research blog post]
+[Broad Institute blog post]
+
+In Silico Predictive Modeling of CRISPR/Cas9 guide efficiency
+Nicolo Fusi, Ian Smith, John Doench, Jennifer Listgarten
+bioRxiv, dx.doi.org/10.1101/021568 2015 ( preprint )
+This pre-print has been largely (though not entirely) absorbed into the Nature Biotechnology paper above.
+
+Further Improvements to Linear Mixed Models for Genome-Wide Association Studies
+Chris Widmer, Christoph. Lippert, Omer Weissbrod, Nicolo Fusi, Carl Kadie, Bob Davidson, Jennifer Listgarten and D. Heckerman
+Scientific Reports, Nov. 2014 (open access)
+
+let-7 miRNAs Can Act through Notch to Regulate Human Gliogenesis
+Patterson M, Gaeta X, Loo K, Edwards M, Smale S, Cinkornpumin J, Xie Y, Listgarten J, Azghadi S, Douglass SM, Pellegrini M, Lowry WE.
+Stem Cell Reports 2014, doi: 10.1016/j.stemcr.2014.08.015 (open access)
+
+Personalized Medicine: From Genotypes, Molecular Phenotypes and the Quantified Self, Toward Improved Medicine
+Joel Dudley, Jennifer Listgarten, Oliver Stegle, Steven Brenner, Leopold Parts
+Proceedings of the Pacific Symposium on Biocomputing 2015 (pdf)
+
+Greater power and computational efficiency for kernel-based association testing of sets of genetic variants
+C. Lippert, J. Xiang, D. Horta, C. Widmer, C. Kadie, D. Heckerman, Jennifer Listgarten
+Bioinformatics 2014, doi: 10.1093/bioinformatics/btu504 (open access)
+
+Epigenome-wide association studies without the need for cell-type composition
+James Zou, Christoph Lippert, David Heckerman, Martin Aryee, Jennifer Listgarten
+Nature Methods, 309-311 (2014) (journal link)
+Python software available from here, and R software available from here.
+Corrigendum: Supp. Figure 1 was not run with filters as described in the paper, but without any filters. We have contacted the journal to post this correction.
+
+Personalized Medicine: from genotypes and molecular phenotypes toward therapy
+Jennifer Listgarten, Oliver Stegle, Quaid Morris, Steven Brenner, Leo Parts
+Proceedings of the Pacific Symposium on Biocomputing 2014
+
+A genome-to-genome analysis of associations between human genetic variation, HIV-1 sequence diversity, and viral control.
+I. Bartha, J. Carlson, C. Brumme, P. McLaren, Z. Brumme, M. John, D. Haas, J. Martinez-Picado, J. Dalmau, C. LÃ³pez-GalÃ­ndez, C. Casado, A. Rauch, H. GÃ¼nthard, E. Bernasconi, P. Vernazza, T. Klimkait, S. Yerly, S. Oâ€™Brien, Jennifer Listgarten, N. Pfeifer, C. Lippert, N. Fusi, Z. Kutalik, T. Allen, Viktor MÃ¼ller, R. Harrigan, D. Heckerman, A. Telenti, J. Fellay
+eLife (2013) 2:e01123 (journal link)
+
+The benefits of selecting phenotype-specific variants for applications of mixed models in genomics.
+C. Lippert, G. Quon, EY Kang, C. Kadie, Jennifer Listgarten, D. Heckerman
+(equal contributions)
+Scientific Reports (2013) doi:10.1038/srep01815 (journal link)
+
+FaST-LMM-Select for addressing confounding from spatial structure and rare variants
+Jennifer Listgarten, Christoph Lippert, David Heckerman (equal contributions and corresponding)
+Nature Genetics, 45, 470-471 (2013) doi:10.1038/ng.2620 (journal link)
+
+A powerful and efficient set test for genetic markers that handles confounders
+Jennifer Listgarten, C. Lippert, EY Kang, J. Xiang, C. Kadie, D. Heckerman
+(equal contributions and corresponding)
+Bioinformatics 2013, doi: 10.1093/bioinformatics/btt177 (open access)
+Source and executables available here.
+
+An Exhaustive Epistatic SNP Association Analysis on Expanded Wellcome Trust Data
+C. Lippert, Jennifer Listgarten, R. Davidson, S. Baxter, H. Poon, C. Kadie, D. Heckerman,
+(equal contributions)
+Scientific Reports, 2013, doi:10.1038/srep01099
+
+Patterns of methylation heritability in a genome-wide analysis of four brain regions
+Gerald Quon, Christoph Lippert, David Heckerman, Jennifer Listgarten
+Nucleic Acids Research, 2013, doi: 10.1093/nar/gks1449
+
+
+The future of genome-based medicine.
+Quaid Morris, Steven Brenner, Jennifer Listgarten, Oliver Stegle
+Proceedings of the Pacific Symposium on Biocomputing 2013, 16:456-458. doi:10.1142/9789814447973_0046
+
+Correlates of Protective Cellular Immunity Revealed by Analysis of Population-Level Immune Escape Pathways in HIV-1
+J. Carlson, C. Brumme, E. Martin, Jennifer Listgarten, M. Brockman, AQ. Le, C. Chui, L. Cotton, D. Knapp, SA. Riddler, R. Haubrich, G. Nelson, N. Pfeifer, C. DeZiel, D. Heckerman, R. Apps, M. Carrington, S. Mallal, R. Harrigan, M. John, Z. Brumme and the International HIV Adaptation Collaborative
+Journal of Virology, Dec. 2012, 86(4)
+
+
+Co-Operative Additive Effects between HLA Alleles in Control of HIV-1
+P. Matthews, Jennifer Listgarten, J. Carlson, R. Payne, KH Huang, J Frater, D Goedhals, D Steyn, D van Vuuren, P Paioni, P Jooste, A Ogwu, R Shapiro, Z Mncube, T Ndung'u, B Walker, D Heckerman, P Goulder
+(equal contributions)
+PLoS One, 2012, 7(10): e47799. doi:10.1371/journal.pone.0047799
+
+
+Improved linear mixed models for genome-wide association studies
+Jennifer Listgarten, C Lippert, CM Kadie, RI Davidson, E Eskin and D Heckerman
+(equal contributions and corresponding)
+Nature Methods, 2012, doi:10.1038/nmeth.2037
+Source and executables available here.
+
+Learning Transcriptional Regulatory Relationships Using Sparse Graphical Models
+X Zhang, W Cheng, Jennifer Listgarten, C Kadie, S Huang, W Wang, D Heckerman
+PLoS One, 2012, doi:10.1371/journal.pone.0035762
+
+Widespread Impact of HLA Restriction on Immune Control and Escape Pathways in HIV-1
+J. Carlson, Jennifer Listgarten, N Pfeifer, V Tan, Carl Kadie, B Walker, T Ndung'u, R Shapiro, J Frater, Z Brumme, P Goulder and D Heckerman
+Journal of Virology, February 2012, doi:10.1128/?JVI.06728-11 (abstract,paper)
+
+Personalized Medicine: From Genotype and Molecular Phenotypes Towards Computed Therapy
+Oliver Stegle, Frederick P. Roth, Quaid Morris, Jennifer Listgarten
+Proceedings of the Pacific Symposium on Biocomputing 2012
+
+FaST Linear Mixed Models for Genome-Wide Association Studies
+C Lippert, Jennifer Listgarten, Y Liu, CM Kadie, RI Davidson and D Heckerman
+(equal contributions and corresponding)
+Nature Methods, Aug. 2011, doi:10.1038/nmeth.1681 ,
+freely available author copy including SI, Source and executables available here.
+
+HLA-A*7401-mediated control of HIV viremia is independent of its linkage disequilibrium with HLA-B*5703.
+P. Matthews, E. Adland, J. Listgarten, A. Leslie, N. Mkhwanazi, J. Carlson, M. Harndahl, A. Stryhn, R. Payne, A. Ogwu, K. Huang, J. Frater, P. Paioni, H. Kloverpris, P.Jooste, D. Goedhals, C. van Vuuren, D. Steyn, L. Riddell, F. Chen, G. Luzzi, T. Balachandran, T. Ndung'u, S. Buus, M. Carrington, R. Shapiro, D. Heckerman, and P. Goulder
+Journal of Immunology April 2011, doi: 10.4049
+
+Correction for Hidden Confounders in the Genetic Analysis of Gene Expression
+Jennifer Listgarten, Carl Kadie, Eric Schadt, David Heckerman
+Proceedings of the National Academy of Sciences, September 1, 2010, doi: 10.1073/pnas.1002425107
+(paper, Supplementary Information, software, GenomeWeb coverage)
+
+Additive contribution of HLA class I alleles in the immune control of HIV-1 infection
+Leslie A, Matthews PC, Listgarten J, Carlson JM, Kadie C, Ndung'u T, Brander C, Coovadia H, Walker BD, Heckerman D, Goulder PJ
+Journal of Virology , 2010
+
+Rare HLA Drive Additional HIV Evolution Compared to More Frequent Alleles
+CM Rousseau, DW Lockhart, Jennifer Listgarten, C Kadie, GH Learn, DC Nickle, D Heckerman, W Deng, C Brander, T Ndung'u, H Coovadia, P Goulder, B. Korber, B Walker, J Mullins
+AIDS Research and Human Retroviruses , 2009; 25(3):297-303
+
+In silico resolution of ambiguous HLA typing data
+J Listgarten, Z Brumme, C Kadie, G Xiaojiang, B Walker, M Carrington, P Goulder, D Heckerman,
+in ASHI Quarterly, Volume 32, Number 2, 2008
+For the public web server tool based on this work, go here ; for .exe and source code (training code not included), go here. (pdf)
+
+Statistical resolution of ambiguous HLA typing data.
+Jennifer Listgarten, Z Brumme, C Kadie, G Xiaojiang, B Walker, M Carrington, P Goulder, D Heckerman,
+in PLoS Computational Biology, 2008, 4(2):e1000016
+For the public web server tool based on this work, go here ; for .exe and source code (training code not included), go here.
+(abstract, paper, coverage in the magazine BioInform, press release)
+
+A statistical framework for modeling HLA-dependent T-cell response data.
+Jennifer Listgarten, Nicole Frahm, Carl Kadie, Christian Brander and David Heckerman,
+PLoS Computational Biology, 2007, 3(10):e188
+Web tool, executable and source code available here, under "HLA Assignment"
+(abstract, paper, press release)
+
+Extensive HLA class I allele promiscuity among viral CTL epitopes.
+N. Frahm, K. Yusim, T. Suscovich, S. Adams, J. Sidney, P. Hraber, H. Hewitt, CH. Linde, D. Kavanagh, T. Woodberry, L. Henry, K. Faircloth, J. Listgarten, C. Kadie, N. Jojic, K. Sango, N. Brown, E. Pae, M. Zaman, F. Bihl, A. Khatri, M. John, S. Mallal, F. Marincola, B. Walker, A. Sette, D. Heckerman, B. Korber, C. Brander
+European Journal of Immunology, 2007 37(9):2419-2433.
+See paper above for code/tools used in this paper. (abstract)
+
+Evidence that dysregulated DNA mismatch repair characterizes human non-melanoma skin cancer
+Leah C. Young, Jennifer Listgarten, Martin J. Trotter, Susan E. Andrew, Victor A. Tron
+British Journal of Dermatology, 2008 158(1):59-69. (abstract)
+
+Determining the number of non-spurious arcs in a learned DAG model: Investigation of a Bayesian and a frequentist approach.
+Jennifer Listgarten and David Heckerman
+Proceedings of Twenty-Third Conference on Uncertainty in Artificial Intelligence, UAI Press, July 2007 ( paper)
+
+Analysis of sibling time series data: alignment and difference detection
+Jennifer Listgarten,
+Ph.D. Thesis, Department of Computer Science, University of Toronto 2007.
+(abstract, thesis and code)
+
+Bayesian detection of infrequent differences in sets of time series with shared structure.
+Jennifer Listgarten, Radford M. Neal, Sam T. Roweis, Rachel Puckrin and Sean Cutler,
+Advances in Neural Information Processing Systems 19, MIT Press, Cambridge, MA, 2007 ( NIPS 2006).
+Best Student Paper, Honorable Mention. (abstract, paper)
+
+Difference detection in LC-MS data for protein biomarker discovery.
+Jennifer Listgarten, Radford M. Neal, Sam T. Roweis, Peter Wong and Andrew Emili,
+Bioinformatics, 2007 23:e198-e204 (by way of ECCB 2006)
+Best Student Paper, 3rd prize
+(abstract, paper and data set)
+
+Leveraging information across HLA alleles/supertypes improves epitope prediction.
+David Heckerman, Carl Kadie, Jennifer Listgarten,
+Journal of Computational Biology, 2007 14: 736-746
+(shorter version also appears Proceedings of Research in Computational Molecular Biology. Lecture Notes in Computer Science, Volume 3909, Mar 2006, 296-308.)
+(abstract, paper)
+Web tool, executable and source code available here, under "Epitope Prediction"
+
+Practical proteomic biomarker discovery: taking a step back to leap forward.
+Jennifer Listgarten and Andrew Emili,
+Drug Discovery Today, 2005 10:1697-1702.
+(abstract) (paper)
+
+Statistical and computational methods for comparative proteomic profiling using liquid chromatography-tandem mass spectrometry.
+Jennifer Listgarten and Andrew Emili,
+Molecular and Cellular Proteomics, 2005 4:419-434.
+(abstract) (paper)
+
+Multiple alignment of continuous time series.
+Jennifer Listgarten, Radford M. Neal, Sam T. Roweis and Andrew Emili,
+Advances in Neural Information Processing Systems 17, MIT Press, Cambridge, MA, 2005 (NIPS 2004).
+The Continuous Profile Models (CPM) Matlab Toolbox is available here.
+(abstract, paper, slides, and audio demo)
+
+Predictive models for breast cancer susceptibility from multiple, single nucleotide polymorphisms.
+(abstract) (paper)
+Jennifer Listgarten, S Damaraju, B Poulin, L Cook, J Dufour, A Driga, J Mackey, D Wishart, R Greiner and B Zanke,
+Clinical Cancer Research 2004:10(8):2725-37.
+
+
+Clinically validated benchmarking of normalization techniques for two-colour oligonucleotide spotted microarray slides.
+(abstract) (paper)
+Jennifer Listgarten, K Graham, S Damaraju, C Cass, J Mackey and B Zanke, Applied Bioinformatics 2003:2(4)219-228.
+
+
+Lymphovascular invasion is associated with poor survival in gastric cancer: an application of gene-expression and tissue array techniques.
+BJ Dicken, K Graham, SM Hamilton, S Andrews, R Lai, Jennifer Listgarten, GS Jhangri, LD Saunders, S Damaraju and CE Cass,
+Annals of Surgery 2006: 243(1):64-73.
+
+
+Exploring qualitative probabilities for image understanding
+Jennifer Listgarten,
+M.Sc. Thesis, Department of Computer Science, University of Toronto, October 2000.
+(pdf 1.2MB) (ps.gz 0.6MB)
+
+--->
+

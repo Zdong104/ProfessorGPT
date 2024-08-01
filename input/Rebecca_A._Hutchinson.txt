@@ -1,0 +1,138 @@
+Professor: Rebecca A. Hutchinson
+University: Oregon State University
+URL: http://web.engr.oregonstate.edu/~rah
+Description: 	
+Rebecca A. Hutchinson (she/her)	
+Associate Professor
+2071 Kelley Engineering Center 
+School of Electrical Engineering and Computer Science
+Department of Fisheries, Wildlife, and Conservation Sciences
+Oregon State University
+Corvallis, OR 97331
+
+	
+rah AT oregonstate DOT edu
+
+CV (pdf)
+Google Scholar page
+@Hut_chin_son
+	
+
+
+
+
+Research Interests
+My research is at the intersection of machine learning and ecology. I am part of the computational sustainability community, trying to find ways that computer science can contribute to promoting the health of the Earth’s ecosystems and bringing interesting new problems back to computer science. Much of my work is on computational methods for species distribution modeling, a problem in which data describing sightings of a species are combined with environmental variables to produce habitat models. I work with hierarchical latent variable models that represent both ecological and observation processes; for example, occupancy models and their variants fall within this paradigm.  My current research is on robust parameter estimation methods for these models and techniques for incorporating semi-parametric techniques into probabilistic models.  I am also interested in methods for analyzing species interaction networks and strategies for evaluating species distribution models. 
+
+Selected Publications
+
+
+"A comparison of remotely sensed environmental predictors for avian distributions"
+L.M. Hopkins, T.A. Hallman, J. Kilbride, W.D. Robinson, and R.A. Hutchinson
+Landscape Ecology, 2022.
+
+"Integrating multi-method surveys and recovery trajectories into occupancy models"
+B.R. Barry, K. Moriarty, D. Green, R.A. Hutchinson, and T. Levi
+Ecosphere, 2021.
+
+"On the Role of Spatial Clustering Algorithms in Building Species Distribution Models from Community Science Data"
+M. Roth, T.A. Hallman, W.D. Robinson, and R.A. Hutchinson,
+ICML workshop on Tackling Climate Change with Machine Learning, 2021. * Best Paper (proposals track) *
+
+"Benchmark Bird Surveys Help Quantify Counting Accuracy in a Citizen-Science Database" (arxiv)
+W.D. Robinson, T.A. Hallman, and R.A. Hutchinson,
+Frontiers in Ecology and Evolution, 2021.
+
+"Climate change and local host availability drive the northern range boundary in the rapid expansion of a specialist insect herbivore, Papilio cresphontes"
+J.K. Wilson, N. Casajus, and R.A. Hutchinson, K.P. McFarland, J.T. Kerr, D. Berteaux, M. Larrivee, and K.L. Prudic
+Frontiers in Ecology and Evolution, 2021.
+
+"StatEcoNet: Statistical Ecology Neural Network for Species Distribution Modeling" (supplement)
+E. Seo, R.A. Hutchinson, X. Fu, C. Li, T. Hallman, J. Kilbride, and W.D. Robinson
+Proceedings of the Thirty-Fifth Conference on Artificial Intelligence (AAAI), 2021.
+
+"Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks" (arxiv)
+X. Fu, E. Seo, J. Clarke, and R.A. Hutchinson,
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019.
+
+"Predicting Links in Plant-Pollinator Interaction Networks using Latent Factor Models with Implicit Feedback" (supplement)
+E. Seo and R.A. Hutchinson,
+Proceedings of the Thirty-Second Conference on Artificial Intelligence (AAAI), 2018.
+
+"Landscape patterns and diversity of meadow plants and flower-visitors in a mountain landscape"
+J.A. Jones, R.A. Hutchinson, A.R. Moldenke, V.W. Pfeiffer, E. Helderop, E. Thomas, J. Griffin, and A. Reinholtz,
+Landscape Ecology, 2018.
+
+"eButterfly: Leveraging Massive Online Citizen Science for Butterfly Conservation"
+K.L. Prudic, K.P. McFarland, J.C. Oliver, R.A. Hutchinson, E.C. Long, J.T. Kerr, and M. Larrivee,
+Insects, 2017.
+
+"Distinguishing distribution dynamics from temporary emigration using dynamic occupancy models"
+J.J. Valente, R.A. Hutchinson, and M.G. Betts,
+Methods in Ecology and Evolution, 2017.
+
+"Species Distribution Modeling of Citizen Science Data as a Classification Problem with Class-conditional Noise" (supplement)
+R.A. Hutchinson, L. He, and S.C. Emerson,
+Proceedings of the Thirty-First Conference on Artificial Intelligence (AAAI), 2017.
+
+"The macroecology of infectious diseases: a new perspective on global-scale drivers of pathogen distributions and impacts"
+P.R. Stephens, S. Altizer, K.F. Smith, A.A. Aguirre, J.H. Brown, S.A. Budischak, J.E. Byers, T.A. Dallas, T.J. Davies, J.M. Drake, V.O. Ezenwa, M.J. Farrell, J.L. Gittleman, B.A. Han, S. Huang, R.A. Hutchinson, P. Johnson, C.L. Nunn, D. Onstad, A. Park, G.M. Vazquez-Prokopec, J.P. Schmidt, and R. Poulin,
+Ecology Letters, 2016.
+
+"Penalized Likelihood Methods Improve Parameter Estimates in Occupancy Models"
+R.A. Hutchinson, J.J. Valente, S.C. Emerson, M.G. Betts, and T.G. Dietterich,
+Methods in Ecology and Evolution, 2015.
+**Code implementing the methods from this paper is available in the unmarked R package.**
+
+"A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists,"
+J. Yu, R.A. Hutchinson, W-K.Wong,
+Proceedings of the Twenty-Eighth Conference on Artificial Intelligence (AAAI), 2014.
+
+"Species distribution modeling for the people: Unclassified landsat TM imagery predicts bird distributions at fine resolutions in forested landscapes,"
+S. Shirley, Z. Yang, R.A. Hutchinson, J. Alexander, K. McGarigal, and M.G. Betts,
+Diversity and Distributions, Vol. 19, Issue 7, pp. 855-866.  2013.
+
+"Project and Analysis Design for Broad-Scale Citizen Science,"
+W. Hochachka, D. Fink, R.A. Hutchinson, D. Sheldon, W-K. Wong, and S. Kelling,
+Trends in Ecology and Evolution, Vol. 27, Issue 2, pp. 130-137.  2012.
+
+"Incorporating Boosted Regression Trees into Ecological Latent Variable Models,"
+R.A. Hutchinson, L-P. Liu, and T.G. Dietterich,
+Proceedings of the Twenty-fifth Conference on Artificial Intelligence (AAAI), 2011.  
+
+"Modeling Experts and Novices in Citizen Science data for Species Distribution Modeling,"
+J. Yu, W-K. Wong, and R.A. Hutchinson,
+International Conference on Data Mining (ICDM), 2010. 
+
+"Modeling fMRI data generated by overlapping cognitive processes with unknown onsets using Hidden Process Models,"
+R.A. Hutchinson, R.S. Niculescu, T.A. Keller, I. Rustandi, and T.M. Mitchell,
+Neuroimage (2009), doi:10.1016/j.neuroimage.2009.01.025.  (preprint version)
+
+"Hidden Process Models,"
+R.A. Hutchinson, T.M. Mitchell, and I. Rustandi,
+International Conference on Machine Learning (ICML), 2006.  
+
+"Learning to Decode Cognitive States from Brain Images," 
+T.M. Mitchell, R.A. Hutchinson, R.S. Niculescu, F.Pereira, X. Wang, M. Just, and S. Newman,
+Machine Learning, Vol. 57, Issue 1-2, pp. 145-175.  2004.
+
+"Training fMRI Classifiers to Detect Cognitive States across Multiple Human Subjects ," 
+X. Wang, R.A. Hutchinson, and T.M. Mitchell,
+Neural Information Processing Systems (NIPS), 2003.
+
+"Classifying Instantaneous Cognitive States from fMRI Data," 
+T.M. Mitchell, R.A. Hutchinson, M. Just, R.S. Niculescu, F. Pereira, and X. Wang,
+American Medical Informatics Association Symposium (AMIA), 2003. (received Best Foundational Paper Award)
+
+"Reducing Boundary Friction Using Translation-Fragment Overlap," 
+R. Brown, R.A. Hutchinson, P. Bennett, J.G. Carbonell, and P. Jansen.  
+Machine Translation Summit IX.  2003. 
+
+
+
+
+
+
+
+
+

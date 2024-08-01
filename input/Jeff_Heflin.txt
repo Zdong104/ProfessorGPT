@@ -1,0 +1,125 @@
+Professor: Jeff Heflin
+University: Lehigh University
+URL: http://www.cse.lehigh.edu/~heflin
+Description: Jeff Heflin
+Professor
+Department of Computer Science and Engineering,
+Lehigh University
+
+
+
+Contact Info:
+
+Address:
+Dept. of Computer Science and Engineering
+Lehigh University
+113 Research Drive
+Bethlehem, PA 18015
+
+
+Office: Mountaintop Building C, Room 232
+Office Hours:
+
+by appointment only during the summer
+	
+
+E-Mail: heflin@cse.lehigh.edu
+
+Phone: (610) 758-6533
+
+
+Courses:
+
+Here are the courses I am currently teaching or have taught recently. For a complete list of the courses I have taught, click here
+
+Spring 2024
+CSE 127: Survey of Artificial Intelligence
+Fall 2023
+CSE 406: Research Methods
+Spring 2023
+CSE 127: Survey of Artificial Intelligence
+CSE 431: Intelligent Agents
+Fall 2022
+CSE 406: Research Methods
+Spring 2022
+CSE 127: Survey of Artificial Intelligence
+CSE 498-021: Knowledge Representation
+Recent Projects:
+Elements: CRISPS: Cell-Centric Recursive Image Similarity Projection Searching (NSF 2209135)
+Materials scientists use microscopy modalities to determine the structure, order, and periodicitiy that affect properties. The core challenge is that only a fraction of microscopy data is published. CRISPS will develop tools for schema-free metadata exploration, and will allow microscopy images to be searched and compared based on similarity of physics-aware features.
+III: Small: Domain-Agnositic Dataset Search (NSF III-1816325)
+The goal of this interdisciplinary project is to develop methods, algorithms, and tools to support the retrieval of datasets by users who are not domain experts. For our purpose, users could be scientists, data journalists or community members. The project will engage with users to determine their needs, develop novel methods for indexing and querying datasets, and augment datasets with additional information to help users who lack the approrpriate vocabulary to effectively search for datasets. More here...
+Selected Publications:
+Also see my Google Scholar page and DBLP Page. Additional information on publications prior to 2016 can be found in the list of SWAT publications and the list of my publications prior to directing the SWAT Lab at Lehigh.
+Yue-Bo Jia, Gavin Johnson, Alex Arnold, and Jeff Heflin. An Evaluation of Strategies to Train More Efficient Backward-Chaining Reasoners. Proceedings of The Twelfth International Conference in Knowledge Capture (K-CAP 2023). ACM, New York, NY, USA.
+This paper conducts a series of experiments in using neural nets to learn heuristics to guide a backward-chaining reasoner. It divides the problem into three subproblems: representation, training mechanism, and control strategy. Itshows that such an approach can have a several magnitude order of improvement on median number of nodes searched, and that a representation strategy that learns unification-based embeddings tends to have the fewest outliers, usually resulting in an improvment of mean number of nodes as well.
+M. Trabelsi, J. Heflin, and J. Cao. DAME: Domain Adaptation for Matching Entities. Proceedings of 15th ACM International WSDM Conference, Feb., 2022.
+This paper demonstrates how zero-shot learning can be applied to the entity matching (aka entity/instance linking) problem. Depending on the target domain, our zero-shot learning is better than a SOTA algorithm trained on between 20% and 80% of the domain data. Furthermore, if we fine-tune our algorithm with target data, we are always superior to the SOTA algorithm on the same quantity of training data.
+M. Trabelsi, Z. Chen, S. Zhang, B.D. Davison, and J. Heflin. StruBERT: Structure-aware BERT for Table Search and Matching. In the Proceedings of the 31st edition of the Web Conference, pp. 442-451, online, April, 2022.
+This paper fully considers the structure of tables when creating neural representations of them by incorporating both vertical self-attention and a novel concept of horizontal self-attention. The resulting representations can be effectively used in table matcin table matching tasks and keyword-based retrieval tasks.
+Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian D. Davison. Generating Schema Labels through Dataset Content Analysis. In Companion Proceedings of the The Web Conference (WWW '18), pages 1515-1522. Presented at the International Workshop on Profiling and Searching Data on the Web (Profiles & Data:Search'18, co-located with The Web Conference), Lyon, France, April, 2018. Best workshop paper award.
+Many datasets have opaque attribute/column names and some are missing such name altogether. This paper presents an approach to automatically augment datasets with more informative schema labels that could later be used to match queries to tables or to determine similarity between tables. We identify a set of curated features, many of which considers the cell values in a column, and train a random forest model.
+Dezhao Song and Jeff Heflin. Automatically Generating Data Linkages Using a Domain-Independent Candidate Selection Approach. 10th International Semantic Web Conference. Bonn, Germany. LNCS 7031. Springer. November 2011.
+This paper describes how to improve the speed of determining mappings between objects described in RDF (although it can be easily applied to any graph data). The process requires no domain-specific information other than what classes and properties are comparable, which can be found in existing ontologies or by ontology-alignment techniques. We show that mappings between 1 million instance can be performed in under one hour on a Sun workstation. Surprisingly, this high recall, low precision filtering mechanism frequently leads to higher F-scores in the overall system.
+Yang Yu and and Jeff Heflin. Extending Functional Dependency to Detect Abnormal Data in RDF Graphs. The 10th International Semantic Web Conference. Bonn, Germany. Springer. November 2011.
+This paper describes a domain-independent approach to determining the data quality of graph data. The approach first learns probable functional dependencies in the graph, considering a fuzzy matching of values to account for some variation in the data. These functional dependencies are then used to test for data that does not fit the pattern. Experimental tests identified over 2800 anomalous triples in DBPedia, and investigation of a random sample found that 86.5% of these were actual errors.
+Y. Li, and J. Heflin. Using Reformulation Trees to Optimize Queries over Distributed Heterogeneous Sources. Ninth International Semantic Web Conference (ISWC 2010). 2010.
+This paper describes an algorithm that uses the structure of a rule-goal tree expressing the rewrites of a given query to efficiently locate the relevant sources. It starts with the most selective query nodes, and incrementally loads sources, using the information to refine queries of subsequent sources. Our experiments show that this algorithm can answer many randomly-generated complex queries against 20 million heterogeneous data sources in less than 30 seconds.
+Z. Pan, A. Qasem, J. Heflin. An Investigation into the Feasibility of the Semantic Web. In Proc. of the Twenty First National Conference on Artificial Intelligence (AAAI 2006), Boston, USA, 2006. pp. 1394-1399.
+This is the first paper to discuss our attempts to realize the vision of the Semantic Web as a Web-scale query-answering system. We loaded nearly 350,000 real-world semantic web documents that committed to 41,000 ontologies into our DLDB system and then used additional "mapping ontologies" to integrate them. This experiment yielded promising results in that query times ranged from a few milliseconds to 5 seconds.
+Y. Guo, Z. Pan, and J. Heflin. LUBM: A Benchmark for OWL Knowledge Base Systems. Journal of Web Semantics 3(2), 2005, pp158-182.
+This is the definitive reference on the Lehigh University Benchmark (LUBM) and on empirical evaluation of Semantic Web knowledge base systems in general. This journal article coalesces the results from the ISWC 2003 and ISWC 2004 papers, the latter of which won the best paper award at the conference. In addition, it includes a discussion of preliminary tests on Jena and SPARQL versions of the benchmark queries.
+Research:
+
+My research has three themes:
+
+AI for Data Management
+Scalable Reasoning
+Data Exploration
+
+Details of much of my Semantic Web research prior to 2016 can be found at the following site:
+
+The Semantic Web and Agent Technologies (SWAT) Lab
+The Semantic Web is a vision for extending the Web so that machines can more intelligently integrate and process the wealth of information that is available. Unlike HTML and ordinary XML, Semantic Web languages such as SHOE, DAML+OIL, and OWL (a W3C Recommendation), allow semantics (i.e., meaning) to be explicitly associated with the content. The semantics are formally specified in ontologies, which can be shared via the Internet and extended for local needs. The SWAT lab is at the forefront of Semantic Web research by studying issues such as interoperability of distributed ontologies, ontology evolution, and system architectures and tools for the Semantic Web. See the group's homepage for details.
+
+Selected Service Activities:
+Semantic Web Science Association (SWSA), Vice-president, 2017-present
+Artificial Intelligence Journal, Editorial Board
+29th International Conference on Computational Linguistics (COLING 2022), Area Chair
+29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Senior Program Committee
+28th International Joint Conference on Artificial Intelligence (IJCAI 2019), Senior Program Committee
+16th International Semantic Web Conference (ISWC 2017), General Chair
+The First International Workshop on Biomedical Data Integration and Discovery (BMDID 2016), Organizing Committee
+AAAI-13, Special Track on AI and the Web, Track Chair
+11th International Semantic Web Conference (ISWC 2012), Co-Program Chair
+Journal of Web Semantics, Special Issue on Web-scale Semantic Information Processing, Guest Editor
+Journal of Web Semantics, Special Issue on Evaluation of Semantic Technologies, Guest Editor
+Awards:
+Winner of the Billion Triple Challenge, ISWC 2012 for Exploring the Linked Data Cloud via Contextual Tag Cloud by X. Zhang, D. Song, S.Priya, Z. Daniels, K. Reynolds and J. Heflin.
+Best paper award, ISWC 2004 for An Evaluation of Knowledge Base Systems for Large OWL Datasets by Yuanbo Guo, Zhengxiang Pan and Jeff Heflin.
+Ruth and Joel Spira Award for Excellence in Teaching (2017)
+Education:
+Ph.D. in Computer Science, University of Maryland, 2001.
+M.S. in Computer Science, University of Maryland, 1999.
+B.S. in Computer Science, The College of William and Mary, 1992.
+Memberships:
+American Association for Artificial Intelligence (1998 - present), Senior Member since 2014
+Phi Beta Kappa, Alpha of Virginia Chapter (inducted 1992)
+Information for Prospective Graduate Students:
+I am actively recruiting Ph.D. students with an interest in neuro-symbolic reasoning, especially applying neural nets to accelerate reasoning with formal logics and knowledge representation languages. If you would like to join my team, please e-mail me with a description of your background in the topic and relevant interests.
+I do not reply to generic e-mails. If your e-mail does not show that you have a clear idea of the kind of research I do, then expect me to ignore it. You are encouraged to read several of the paper above before contacting me.
+Semantic Web / Knowledge Graph Resources:
+The Semantic Web by Tim Berners-Lee, James Hendler, and Ora Lassila
+The Scientific American article that presents the vision of the Semantic Web.
+State of the LOD Cloud
+Statistics about the Linked Open Data cloud provided by Freie Universitat Berlin. Linked Open Data is real data in Semantic Web form and is growing daily. Thesestatistics are typically updated once a year.
+Semantic Web Case Studies and Use Cases
+A continually growing list of applications of Semantic Web technology collected by the W3C. Case studies are actually deployed systems, while use cases are prototype systems.
+SemanticWeb.org
+A Semantic Wiki for the Semantic Web community. Includes information on tools, ontologies, people, and events.
+Semantic Web Activity at W3C
+The World Wide Web Consortium's collection of specifications, working groups, and resources related to the Semantic Web.
+SemWebCentral
+A web site for non-developers to learn about the Semantic Web and for developers to share Semantic Web tools.
+[OWL Markup]
+

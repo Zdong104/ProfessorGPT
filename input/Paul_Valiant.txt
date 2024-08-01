@@ -1,0 +1,32 @@
+Professor: Paul Valiant
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/pvaliant
+Description: Paul Valiant
+>main >paper links >contact
+About Me
+
+My research interests are in algorithms and complexity, machine learning, fluid dynamics, and the brain.
+
+My algorithmic research focuses on sublinear algorithms on big data and related statistics. One branch of this research aims at illuminating the "unseen" portion of a probability distribution - what does the data about customers that visited a website this month enable us to say about the set of customers that did not visit the website? While this entire line of research aims to glean as much value from limited or expensive data as possible, in some cases the algorithms have achieved an unusually high bar: "instance optimal" algorithms, general-purpose algorithms that are competitive on each instance even compared to an algorithm custom-designed for that particular instance. Complementing and reinforcing all this work is a focus on developing matching lower bounds; algorithmic lower bounds typically rely on rather different techniques than the algorithms themselves, yet provide an invaluable source of illumination for future algorithmic work in the area.
+
+My work in machine learning is driven by the common goal of reaching accurate conclusions from automated algorithmic data-processing systems. From classical statistical settings to new settings such as deep learning, the challenge is to improve speed, improve accuracy, and reduce the amount of data needed for successful inference. I work to develop new theoretical models in these areas of statistics and learning, both to add insight to important phenomena, as well as to open the door to unexpected new learning domains.
+
+My fluid dynamics work is focused on discovering structures, regularities, and invariants, using a mixture of computer-aided proof techniques, multi-scale simulations and visualizations, and mathematical analysis.
+
+I am also investigating the complementary perspectives provided by machine learning and human cognition: the brain and its evolutionary development provide tantalizing hints of new possibilities in machine learning, while scientific efforts to understand the power and limitations of machine learning and deep learning provide powerful new guidance to understand how the brain accomplishes analogous tasks. I am particularly interested in understanding the cerebellum's algorithmic role in the brain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

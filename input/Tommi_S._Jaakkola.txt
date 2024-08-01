@@ -1,0 +1,747 @@
+Professor: Tommi S. Jaakkola
+University: Massachusetts Institute of Technology
+URL: https://people.csail.mit.edu/tommi
+Description: 	Tommi S. Jaakkola, Ph.D.
+Thomas Siebel Professor of Electrical Engineering and Computer Science and the Institute for Data, Systems, and Society
+
+MIT Computer Science and Artificial Intelligence Laboratory
+Stata Center, Bldg 32-G470
+Cambridge, MA 02139
+
+tommi at csail dot mit dot edu
+
+[home]   [papers]   [research]   [people]  
+
+Accessibility
+Research synopsis (projects)
+
+Our research advances how machines can learn, predict or control, and do so at scale in an efficient, principled, and interpretable manner. Our research in machine learning extends from foundational theory to modern applications, focusing especially on statistical inference and estimation tasks that lie at the heart of complex learning problems. We design new methods, theory and algorithms so as to automate the use and generation of semi-structured data such as natural language text, images, molecules, or strategies. We apply and develop our algorithms to solve multi-faceted recommender, retrieval, or inferential tasks (e.g., biomedical), design and optimize molecules or reactions for the purpose of drug design, and to model strategic, game theoretic interactions.
+
+People (more people)
+
+Julia Balla(c), MinGyu Choi(c), Gabriele Corso (c), Cameron Diao (c), Xiang Fu, Felix Faltings (c), Timur Garipov, Peter Holderrieth(c), Bowen Jing (c), Jeet Mohapatra (c), Amit Schechter, Hannes Stärk (c), Shangyuan Tong, Chenyu Wang (c), Yilun Xu, Jason Yim(c)
+
+(* = postdoc, c = co-advised, v = visiting)
+
+Recent papers ( more papers,  Google scholar,   preprints on arXiv )
+
+B. Jing, B. Berger, and T. Jaakkola.
+Alphafold meets flow matching for generating protein ensembles.
+In International Conference on Machine Learning (ICML), 2024.
+[link]
+
+A. Campbell, J. Yim, R. Barzilay, T. Rainforth, and T. Jaakkola.
+Generative flows on discrete state-spaces: Enabling multimodal flows with applications to protein co-design.
+In International Conference on Machine Learning (ICML), 2024.
+[link]
+
+Y. Xu, G. Corso, T. Jaakkola, A. Vahdat, and K. Kreis.
+Disco-diff: Enhancing continuous diffusion models with discrete latents.
+In International Conference on Machine Learning (ICML), 2024.
+
+
+H. Stärk, B. Jing, R. Barzilay, and T. Jaakkola.
+Harmonic self-conditioned flow matching for joint multi-ligand docking and binding site design.
+In International Conference on Machine Learning (ICML), 2024.
+
+
+H. Stärk, B. Jing, C. Wang, G. Corso, B. Berger, R. Barzilay, and T. Jaakkola.
+Dirichlet flow matching with applications to dna sequence design.
+In International Conference on Machine Learning (ICML), 2024.
+[link]
+
+J. Yim, H. Stärk, G. Corso, B. Jing, R. Barzilay, and T. Jaakkola.
+Diffusion models in protein structure and docking.
+WIREs Computational Molecular Science, 14(2):e1711, 2024.
+[link]
+
+Y. Liu, Y. Zhang, T. Jaakkola, and S. Chang.
+Correcting diffusion generation through resampling.
+In Computer Vision and Pattern Recognition (CVPR), 2024.
+[link]
+
+X. Fu, T. Xie, A. S. Rosen, T. Jaakkola, and J. A. Smith.
+Mofdiff: Coarse-grained diffusion for metal-organic framework design.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+[link]
+
+G. Corso, Y. Xu, V. De Bortoli, R. Barzilay, and T. Jaakkola.
+Particle guidance: non-i.i.d. diverse sampling with diffusion models.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+[link]
+
+G. Corso, A. Deng, N. Polizzi, R. Barzilay, and T. Jaakkola.
+The discovery of binding modes requires rethinking docking generalization.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+
+
+C. Wang, S. Gupta, C. Uhler, and T. Jaakkola.
+Removing biases from molecular representations via information maximization.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+[link]
+
+B. Jing, T. Jaakkola, and B. Berger.
+Learning scalar fields for molecular docking with fast fourier transforms.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+[link]
+
+A. Kirjner, J. Yim, R. Samusevich, S. Bracha, T. Jaakkola, R. Barzilay, and I. R. Fiete.
+Improving protein optimization with smoothed fitness landscapes.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+
+
+V. Quach, A. Fisch, T. Schuster, A. Yala, J. H. Sohn, T. Jaakkola, and R. Barzilay.
+Conformal language modeling.
+In The 12th International Conference on Learning Representations (ICLR), 2024.
+
+
+B. A. Koscher, R. B. Canty, M. A. McDonald, K. P. Greenman, C. J. McGill, C. L. Bilodeau, W. Jin, H. Wu, F. H. Vermeire, B. Jin, T. Hart, T. Kulesza, S-C. Li, T. S. Jaakkola, R. Barzilay, R. Gomez-Bombarelli, W. H. Green, and K. F. Jensen.
+Autonomous, multiproperty-driven molecular discovery: From predictions to measurements and back.
+Science, 382, 2023.
+[link]
+
+T. Garipov, S. De Peuter, G. Yang, V. Garg, S. Kaski, and T. Jaakkola.
+Compositional sculpting of iterative generative processes.
+In Neural Information Processing Systems (NeurIPS), 2023.
+[link]
+
+Y. Xu, M. Deng, X. Cheng, Y. Tian, Z. Liu, and T. Jaakkola.
+Restart sampling for improving generative processes.
+In Neural Information Processing Systems (NeurIPS), 2023.
+[link]
+
+A. Ajay, S. Han, Y. Du, S. Li, A. Gupta, T. Jaakkola, J. Tenenbaum, L. Pack Kaelbling, A. Srivastava, and P. Agrawal.
+Hierarchical planning with foundation models.
+In Neural Information Processing Systems (NeurIPS), 2023.
+[link]
+
+X. Fu, T. Xie, N. J. Rebello, B. Olsen, and T. Jaakkola.
+Simulate time-integrated coarse-grained molecular dynamics with multi-scale graph networks.
+Transactions on Machine Learning Research (TMLR), 2023.
+[link]
+
+J. L. Watson, D. Juergens, N. R. Bennett, B. L. Trippe, J. Yim, H. E. Eisenach, W. Ahern, A. J. Borst, R. J. Ragotte, L. F. Milles, B. I. M. Wicky, N. Hanikel, S. J. Pellock, A. Courbet, W. Sheffler, J. Wang, P. Venkatesh, I. Sappington, S. Vazquez Torres, A. Lauko, V. De Bortoli, E. Mathieu, S. Ovchinnikov, R. Barzilay, T. S. Jaakkola, F. DiMaio, M. Baek, and D. Baker.
+De novo design of protein structure and function with rfdiffusion.
+Nature, 620:1089â€“1100, 2023.
+[link]
+
+G. Liu, D. Catacutan, K. Rathod, K. Swanson, W. Jin, J. Mohammed, A. Chiappino-Pepe, S. Syed, M. Fragis, K. Rachwalski, J. Magolan, M. Surette, B. Coombes, T. Jaakkola, R. Barzilay, J. J. Collins, and J. M. Stokes.
+Deep learning-guided discovery of an antibiotic targeting acinetobacter baumannii.
+Nature Chemical Biology, 2023.
+[link] [pdf]
+
+Y. Xu, Z. Liu, Y. Tian, S. Tong, M. Tegmark, and T. Jaakkola.
+Pfgm++: Unlocking the potential of physics-inspired generative models.
+In International Conference on Machine Learning (ICML), 2023.
+[link]
+
+J. Yim, B. Trippe, V. De Bortoli, E. Mathieu, A. Doucet, R. Barzilay, and T. Jaakkola.
+Se(3) diffusion model with application to protein backbone generation.
+In International Conference on Machine Learning (ICML), 2023.
+[link]
+
+G. Zhang, J. Ji, Y. Zhang, M. Yu, T. Jaakkola, and S. Chang.
+Towards coherent image inpainting using denoising diffusion implicit models.
+In International Conference on Machine Learning (ICML), 2023.
+[link]
+
+X. Fu, Z. Wu, W. Wang, T. Xie, S. Keten, R. Gomez-Bombarelli, and T. Jaakkola.
+Forces are not enough: Benchmark and critical evaluation for machine learning force fields with molecular simulations.
+Transactions on Machine Learning Research (TMLR), 2023.
+[link]
+
+M. Amine Ketata, C. Laue, R. Mammadov, H. Stärk, M. Wu, G. Corso, C. Marquet, R. Barzilay, and T. Jaakkola.
+Diffdock-pp: Rigid protein-protein docking with diffusion models.
+In Machine Learning for Drug Discovery (ICLR workshop), 2023.
+[link]
+
+B. Jing, E. Erives, P. Pao-Huang, G. Corso, B. Berger, and T. Jaakkola.
+Eigenfold: Generative protein structure prediction with diffusion models.
+In Machine Learning for Drug Discovery Workshop (ICLR workshop), 2023.
+[link]
+
+B. Trippe, J. Yim, D. Tischer, D. Baker, T. Broderick, R. Barzilay, and T. Jaakkola.
+Diffusion probabilistic modeling of protein backbones in 3d for the motif-scaffolding problem.
+In The 11th International Conference on Learning Representations (ICLR), 2023.
+[link]
+
+G. Corso, H. St\ärk, B. Jing, R. Barzilay, and T. Jaakkola.
+Diffdock: Diffusion steps, twists, and turns for molecular docking.
+In The 11th International Conference on Learning Representations (ICLR), 2023.
+[link]
+
+Y. Xu, S. Tong, and T. Jaakkola.
+Stable target field for reduced variance score estimation.
+In The 11th International Conference on Learning Representations (ICLR), 2023.
+[link]
+
+A. Ajay, Y. Du, A. Gupta, J. Tenenbaum, T. Jaakkola, and P. Agrawal.
+Is conditional generative modeling all you need for decision making?
+In The 11th International Conference on Learning Representations (ICLR), 2023.
+[link]
+
+B. Laufer-Goldshtein, A. Fisch, R. Barzilay, and T. Jaakkola.
+Efficiently controlling multiple risks with pareto testing.
+In The 11th International Conference on Learning Representations (ICLR), 2023.
+[link]
+
+H. Zhao, C. Dan, B. Aragam, T. Jaakkola, G. Gordon, and P. Ravikumar.
+Fundamental limits and tradeoffs in invariant representation learning.
+Journal of Machine Learning Research, 23(340):1--49, 2022.
+[link]
+
+A. Fisch, T. Jaakkola, and R. Barzilay.
+Calibrated selective classification.
+Transactions on Machine Learning Research, 2022.
+[link]
+
+B. Jing, G. Corso, J. Chang, R. Barzilay, and T. Jaakkola.
+Torsional diffusion for molecular conformer generation.
+In Neural Information Processing Systems (NeurIPS), 2022.
+[link]
+
+Y. Xu, Z. Liu, M. Tegmark, and T. Jaakkola.
+Poisson flow generative models.
+In Neural Information Processing Systems (NeurIPS), 2022.
+[link]
+
+F. Wong, A. Krishnan, E. Zheng, H. St\ärk, A. Manson, A. Earl, T. Jaakkola, and J. Collins.
+Benchmarking alphafold-enabled molecular docking predictions for antibiotic discovery in molecular systems biology.
+Molecular Systems Biology, 18(9), 2022.
+[link]
+
+B. Jing, G. Corso, R. Berlinghieri, and T. Jaakkola.
+Subspace diffusion generative models.
+In European Conference on Computer Vision (ECCV), 2022.
+[link]
+
+H. St\ärk, O. Ganea, L. Pattanaik, R. Barzilay, and T. Jaakkola.
+Equibind: Geometric deep learning for drug binding structure prediction.
+In International Conference on Machine Learning (ICML), 2022.
+[link]
+
+W. Jin, R. Barzilay, and T. Jaakkola.
+Antibody-antigen interface design via hierarchical structure refinement.
+In International Conference on Machine Learning (ICML), 2022.
+[link]
+
+A. Fisch, T. Schuster, T. Jaakkola, and R. Barzilay.
+Conformal prediction sets with limited false positives.
+In International Conference on Machine Learning (ICML), 2022.
+[link]
+
+C. Bilodeau, W. Jin, T. Jaakkola, R. Barzilay, and K. F. Jensen.
+Generative models for molecular discovery: Recent advances and challenges.
+WIREs Computational Molecular Science, 2022.
+[link]
+
+T. Xie, X. Fu, O. Ganea, R. Barzilay, and T. Jaakkola.
+Crystal diffusion variational autoencoder for periodic material generation.
+In The Tenth International Conference on Learning Representations (ICLR), 2022.
+[pdf]
+
+W. Jin, J. Wohlwend, R. Barzilay, and T. Jaakkola.
+Iterative refinement graph neural network for antibody sequence-structure co-design.
+In The Tenth International Conference on Learning Representations (ICLR), 2022.
+[pdf]
+
+Y. Xu, H. He, T. Shen, and T. Jaakkola.
+Controlling directions orthogonal to a classifier.
+In The Tenth International Conference on Learning Representations (ICLR), 2022.
+[pdf]
+
+S. Tong, T. Garipov, Y. Zhang, S. Chang, and T. Jaakkola.
+Adversarial support alignment.
+In The Tenth International Conference on Learning Representations (ICLR), 2022.
+[pdf]
+
+O. Ganea, X. Huang, C. Bunne, Y. Bian, R. Barzilay, T. Jaakkola, and A. Krause.
+Independent se(3)-equivariant models for end-to-end rigid protein docking.
+In The Tenth International Conference on Learning Representations (ICLR), 2022.
+[pdf]
+
+O. Ganea, L. Pattanaik, C.W. Coley, R. Barzilay, K. Jensen, W. Green, and T. Jaakkola.
+Geomol: Torsional geometric generation of molecular 3d conformer ensembles.
+In Neural Information Processing Systems (NeurIPS), 2021.
+[link]
+
+M. Yu, Y. Zhang, S. Chang, and T. Jaakkola.
+Understanding interlocking dynamics of cooperative rationalization.
+In Neural Information Processing Systems (NeurIPS), 2021.
+[link]
+
+W. Jin, J. Stokes, T. Eastman, Z. Itkin, A. V. Zakharov, J. J. Collins, T. Jaakkola, and R. Barzilay.
+Deep learning identifies synergistic drug combinations for treating covid-19.
+Proceedings of the National Academy of Sciences of the USA (PNAS), 118(39), 2021.
+[link]
+
+T. Schuster, A. Fisch, T. Jaakkola, and R. Barzilay.
+Consistent accelerated inference via confident adaptive transformers.
+In Empirical Methods in Natural Language Processing (EMNLP), 2021.
+[link]
+
+X. Fu, G. Yang, P. Agrawal, and T. Jaakkola.
+Learning task informed abstractions.
+In International Conference on Machine Learning (ICML), 2021.
+[link]
+
+A. Fisch, T. Schuster, T. Jaakkola, and R. Barzilay.
+Few-shot conformal prediction with auxiliary tasks.
+In International Conference on Machine Learning (ICML), 2021.
+[link]
+
+A. Liao, H. Zhao, K. Xu, T. Jaakkola, G. Gordon, S. Jegelka, and R. Salakhutdinov.
+Information obfuscation of graph neural networks.
+In International Conference on Machine Learning (ICML), 2021.
+[link]
+
+K. Yang, S. Goldman, W. Jin, A. Lu, R. Barzilay, T. Jaakkola, and C. Uhler.
+Improved conditional flow models for molecule to image synthesis.
+In Computer Vision and Pattern Recognition (CVPR), 2021.
+[link]
+
+A. Fisch, T. Schuster, T. Jaakkola, and R. Barzilay.
+Efficient conformal prediction via cascaded inference with expanded admission.
+In The Ninth International Conference on Learning Representations (ICLR), 2021.
+[link]
+
+W. Jin, R. Barzilay, and T. Jaakkola.
+Discovering synergistic drug combinations for covid with biological bottleneck models.
+In NeurIPS Machine Learning for Molecules Workshop, 2020.
+[link]
+
+T. Shen, V. Quach, R. Barzilay, and T. Jaakkola.
+Blank language models.
+In Empirical Methods in Natural Language Processing (EMNLP), 2020.
+
+
+V. Garg and T. Jaakkola.
+Predicting deliberative outcomes.
+In International Conference on Machine Learning (ICML), 2020.
+[pdf]
+
+S. Chang, Y. Zhang, M. Yu, and T. Jaakkola.
+Invariant rationalization.
+In International Conference on Machine Learning (ICML), 2020.
+[link]
+
+T. Shen, J. Mueller, R. Barzilay, and T. Jaakkola.
+Educating text autoencoders: Latent representation guidance via denoising.
+In International Conference on Machine Learning (ICML), 2020.
+[link]
+
+W. Jin, R. Barzilay, and T. Jaakkola.
+Hierarchical generation of molecular graphs using structural motifs.
+In International Conference on Machine Learning (ICML), 2020.
+[pdf]
+
+W. Jin, R. Barzilay, and T. Jaakkola.
+Multi-objective molecule generation using interpretable substructures.
+In International Conference on Machine Learning (ICML), 2020.
+[pdf]
+
+V. Garg, S. Jegelka, and T. Jaakkola.
+Generalization and representational limits of graph neural networks.
+In International Conference on Machine Learning (ICML), 2020.
+[pdf]
+
+K. Yang, K. Swanson, W. Jin, R. Barzilay, and T. Jaakkola.
+Improving molecular design by stochastic iterative target augmentation.
+In International Conference on Machine Learning (ICML), 2020.
+[link]
+
+J. Stokes, K. Yang, K. Swanson, W. Jin, A. Cubillos-Ruiz, N. Donghia, C. MacNair, S. French, L. Carfrae, Z. Bloom-Ackerman, V. Tran, A. Chiappino-Pepe, A. Badran, I. Andrews, E. Chory, G. Church, E. Brown, T. Jaakkola, R. Barzilay, and J. Collins.
+A deep learning approach to antibiotic discovery.
+Cell, 180(4), 2020.
+[pdf]
+
+D. Alvarez Melis, Y. Mroueh, and T. Jaakkola.
+Unsupervised hierarchy matching with optimal transport over hyperbolic spaces.
+In Artificial Intelligence and Statistics, 2020.
+[link]
+
+C-Y Hsu, A. Zeitoun, G-H Lee, D. Katabi, and T. Jaakkola.
+Self-supervised learning of appliance usage.
+In International Conference on Learning Representations (ICLR), 2020.
+[pdf]
+
+G-H Lee and T. Jaakkola.
+Oblique decision trees from derivatives of relu networks.
+In International Conference on Learning Representations (ICLR), 2020.
+[pdf]
+
+S. Chang, Y. Zhang, M. Yu, and T. Jaakkola.
+A game theoretic approach to class-wise selective rationalization.
+In Neural Information Processing Systems (NeurIPS), 2019.
+[pdf]
+
+V. Garg and T. Jaakkola.
+Solving graph compression via optimal transport.
+In Neural Information Processing Systems (NeurIPS), 2019.
+[pdf]
+
+G-H Lee, Y. Yuan, S. Chang, and T. Jaakkola.
+Tight certificates of adversarial robustness for randomly smoothed classifiers.
+In Neural Information Processing Systems (NeurIPS), 2019.
+[pdf]
+
+J. Ingraham, V. Garg, R. Barzilay, and T. Jaakkola.
+Generative models for graph-based protein design.
+In Neural Information Processing Systems (NeurIPS), 2019.
+[pdf]
+
+G. Loberbom, A. Gane, T. Jaakkola, and T. Hazan.
+Direct optimization through argmax for discrete variational auto-encoder.
+In Neural Information Processing Systems (NeurIPS), 2019.
+[pdf]
+
+D. Alvarez Melis, Y. Mroueh, and T. Jaakkola.
+Unsupervised hierarchy matching with optimal transport over hyperbolic spaces.
+In Optimal Transport and Machine Learning (NeurIPS OTML workshop), 2019.
+[link]
+
+M. Yu, S. Chang, Y. Zhang, and T. Jaakkola.
+Rethinking cooperative rationalization: Introspective extraction and complement control.
+In Empirical Methods in Natural Language Processing (EMNLP), 2019.
+[pdf]
+
+K. Yang, K. Swanson, W. Jin, C. Coley, P. Eiden, H. Gao, A. Guzman-Perez, T. Hopper, B. Kelley, M. Miriam, A. Palmer, V. Settels, T. Jaakkola, K. Jensen, and R. Barzilay.
+Analyzing learned molecular representations for property prediction.
+Journal of Chemical Information and Modeling, 2019.
+[link]
+
+B. Chen, R. Barzilay, and T. Jaakkola.
+Path-augmented graph transformer network.
+In Learning and Reasoning with Graph-Structured Representations (ICML workshop), 2019.
+[link]
+
+G-H Lee, W. Jin, D. Alvarez Melis, and T. Jaakkola.
+Functional transparency for structured data: a game-theoretic approach.
+In International Conference on Machine Learning (ICML), 2019.
+[link]
+
+T. Hazan, F. Orabona, A. Sarwate, S. Maji, and T. Jaakkola.
+High dimensional inference with random maximum a-posteriori perturbations.
+IEEE Transactions on Information Theory, 65(10), 2019.
+[link]
+
+J. Ingraham, V. Garg, R. Barzilay, and T. Jaakkola.
+Generative models for graph-based protein design.
+In Deep Generative Models for Highly Structured Data (ICLR workshop), 2019.
+[pdf]
+
+C. Coley, W. Jin, L. Rogers, T. Jamison, T. Jaakkola, W. Green, R. Barzilay, and K. F. Jensen.
+A graph-convolutional neural network model for the prediction of chemical reactivity.
+Chemical Science, 10(2):370--377, 2019.
+[link]
+
+G-H Lee, D. Alvarez Melis, and T. Jaakkola.
+Towards robust, locally linear deep networks.
+In International Conference on Learning Representations (ICLR), 2019.
+[pdf]
+
+W. Jin, K. Yang, R. Barzilay, and T. Jaakkola.
+Learning multimodal graph-to-graph translation for molecule optimization.
+In International Conference on Learning Representations (ICLR), 2019.
+[link]
+
+P. Malalur and T. Jaakkola.
+Alignment based matching networks for one-shot classification and open-set recognition.
+In arXiv, 2019.
+[link]
+
+D. Alvarez Melis, S. Jegelka, and T. Jaakkola.
+Towards optimal transport with global invariances.
+In Artificial Intelligence and Statistics (AISTATS), 2019.
+[pdf]
+
+K. Narasimhan, R. Barzilay, and T. Jaakkola.
+Grounding language for transfer in deep reinforcement learning.
+Journal of Artificial Intelligence Research, 63:849--874, 2018.
+[pdf]
+
+H. Wang, C. Mao, H. He, M. Zhao, D. Katabi, and T. Jaakkola.
+Bidirectional inference networks with application to health profiling.
+In AAAI Conference on Artificial Intelligence (AAAI-19), 2018.
+[link]
+
+D. Alvarez Melis and T. Jaakkola.
+Towards robust interpretability with self-explaining neural networks.
+In Advances in Neural Information Processing Systems (NeurIPS), 2018.
+[pdf]
+
+D. Alvarez Melis and T. Jaakkola.
+Gromov-wasserstein alignment of word embedding spaces.
+In Empirical Methods in Natural Language Processing (EMNLP), 2018.
+[pdf]
+
+W. Jin, R. Barzilay, and T. Jaakkola.
+Junction tree variational autoencoder for molecular graph generation.
+In International Conference on Machine Learning (ICML), 2018.
+[link]
+
+D. Alvarez Melis, S. Jegelka, and T. Jaakkola.
+Towards optimal transport with global invariances.
+In arXiv:1806.09277, 2018.
+[link]
+
+G-H Lee, D. Alvarez Melis, and T. Jaakkola.
+Game theoretic interpretability for temporal modeling.
+In Fairness, Accountability, and Transparency in Machine Learning (ICML workshop), 2018.
+[link]
+
+D. Alvarez Melis and T. Jaakkola.
+On the robustness of interpretability methods.
+In Human Interpretability in Machine Learning (ICML workshop), 2018.
+[link]
+
+D. Alvarez Melis, T. Jaakkola, and S. Jegelka.
+Structured optimal transport.
+In Artificial Intelligence and Statistics (AISTATS), 2018.
+[pdf]
+
+L. Hewitt, M. Nye, A. Gane, T. Jaakkola, and J. Tenenbaum.
+The variational homoencoder: Learning to learn high capacity generative models from few examples.
+In Uncertainty in Artificial Intelligence (UAI), 2018.
+[link]
+
+V. Garg and T. Jaakkola.
+Local aggregative games.
+In Advances in Neural Information Processing Systems (NIPS), 2017.
+[pdf]
+
+W. Jin, C. W. Coley, R. Barzilay, and T. Jaakkola.
+Predicting organic reaction outcomes with weisfeiler-lehman network.
+In Advances in Neural Information Processing Systems (NIPS), 2017.
+[link]
+
+T. Shen, T., R. Barzilay, and T. Jaakkola.
+Style transfer from non-parallel text by cross-alignment.
+In Advances in Neural Information Processing Systems (NIPS), 2017.
+[link]
+
+Y. Zhang, R. Barzilay, and T. Jaakkola.
+Aspect-augmented adversarial networks for domain adaptation.
+Transactions of the Association for Computational Linguistics (TACL), 2017.
+[pdf]
+
+D. Alvarez Melis and T. Jaakkola.
+A causal framework for explaining the predictions of black-box sequence-to-sequence models.
+In Empirical Methods in Natural Language Processing (EMNLP), 2017.
+[pdf]
+
+T. Lei, W. Jin, R. Barzilay, and T. Jaakkola.
+Deriving neural architectures from sequence and graph kernels.
+In International Conference on Machine Learning (ICML), 2017.
+[pdf]
+
+J. Mueller, D. Gifford, and T. Jaakkola.
+Sequence to better sequence: Continuous revision of combinatorial structures.
+In International Conference on Machine Learning (ICML), 2017.
+[pdf]
+
+M. Zhao, S. Yue, D. Katabi, T. Jaakkola, and M. Bianchi.
+Learning sleep stages from radio signals: A conditional adversarial architecture.
+In International Conference on Machine Learning (ICML), 2017.
+[pdf]
+
+J. Mueller, T. Jaakkola, and D. Gifford.
+Modeling persistent trends in distributions.
+Journal of the American Statistical Association, 2017.
+[pdf]
+
+C. W. Coley, R. Barzilay, T. Jaakkola, W. H. Green, and K. F. Jensen.
+Prediction of organic reaction outcomes using machine learning.
+ACS Central Science, 2017.
+[pdf]
+
+C. W. Coley, R. Barzilay, W. H. Green, T. Jaakkola, and K. F. Jensen.
+Convolutional embedding of attributed molecular graphs for physical property prediction.
+Journal of Chemical Information and Modeling, 57(8):1757--1772, 2017.
+
+
+D. Alvarez-Melis and T. Jaakkola.
+Tree structured decoding with doubly recurrent neural networks.
+In International Conference on Learning Representations (ICLR), 2017.
+[pdf]
+
+J. Mueller, D. Reshef, G. Du, and T. Jaakkola.
+Learning optimal interventions.
+In Artificial Intelligence and Statistics (AISTATS), 2017.
+[pdf]
+
+V. Garg and T. Jaakkola.
+Learning tree structured potential games.
+In Advances in Neural Information Processing Systems (NIPS), 2016.
+[pdf]
+
+T. Lei, R. Barzilay, and T. Jaakkola.
+Rationalizing neural predictions.
+In Empirical Methods in Natural Language Processing (EMNLP), 2016.
+[pdf]
+
+Y. Gu, R. Barzilay, and T. Jaakkola.
+Food adulteration detection using neural networks.
+In Empirical Methods in Natural Language Processing (EMNLP), 2016.
+
+
+J. Honorio and T. Jaakkola.
+Structured prediction: From gaussian perturbations to linear-time principled algorithms.
+In Uncertainty in Artificial Intelligence (UAI), 2016.
+[pdf]
+
+T. Hashimoto, D. Alvarez-Melis, and T. Jaakkola.
+Word embeddings as metric recovery in semantic spaces.
+Transactions of the Association for Computational Linguistics (TACL), 4, 2016.
+[pdf]
+
+T. Hashimoto, T. Jaakkola, and D. Gifford.
+Learning population-level diffusions with generative {RNN}s.
+In International Conference on Machine Learning (ICML), 2016.
+[pdf]
+
+Y. Zhang, D. Gaddy, R. Barzilay, and T. Jaakkola.
+Ten pairs to tag -- multilingual pos tagging via coarse mapping between embeddings.
+In The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2016.
+[pdf]
+
+T. Lei, H. Joshi, R. Barzilay, T. Jaakkola, K. Tymoshenko, A. Moschitti, and L. Marquez.
+Semi-supervised question retrieval with gated convolutions.
+In The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL), 2016.
+[pdf]
+
+V. Garg, C. Rudin, and T. Jaakkola.
+Craft: Cluster-specific assorted feature selection.
+In Artificial Intelligence and Statistics (AISTATS), 2016.
+[pdf]
+
+T. Hashimoto, D. Alvarez-Melis, and T. Jaakkola.
+Word, graph and manifold embedding from markov processes.
+In arXiv:1509.05808, 2015.
+[link]
+
+T. Hashimoto, Y. Sun, and T. Jaakkola.
+From random walks to distances on unweighted graphs.
+In Advances in Neural Information Processing Systems (NIPS), 2015.
+[pdf]
+
+J. Mueller and T. Jaakkola.
+Principal differences analysis: Interpretable characterization of differences between distributions.
+In Advances in Neural Information Processing Systems (NIPS), 2015.
+[pdf]
+
+T. Lei, R. Barzilay, and T. Jaakkola.
+Molding {CNN}s for text: Non-linear, non-consecutive convolutions.
+In Empirical Methods in Natural Language Processing, 2015.
+[pdf] [link]
+
+K. Narasimhan, R. Barzilay, and T. Jaakkola.
+An unsupervised method for uncovering morphological chains.
+Transactions of the Association for Computational Linguistics, 3:157--167, 2015.
+[pdf] [link]
+
+T. Hashimoto, Y. Sun, and T. Jaakkola.
+Metric recovery from directed unweighted graphs.
+In Artificial Intelligence and Statistics, 2015.
+[pdf]
+
+Y. Xin and T. Jaakkola.
+Controlling privacy in recommender systems.
+In Advances in Neural Information Processing Systems, 2014.
+[pdf]
+
+Y. Zhang, T. Lei, R. Barzilay, and T. Jaakkola.
+Greed is good if randomized: New inference for dependency parsing.
+In Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014.
+[pdf]
+
+T. Lei, Y. Xin, Y. Zhang, R. Barzilay, and T. Jaakkola.
+Low-rank tensors for scoring dependency structures.
+In Association for Computational Linguistics, 2014.
+[pdf]
+
+Y. Zhang, T. Lei, R. Barzilay, T. Jaakkola, and A. Globerson.
+Steps to excellence: Simple inference with refined scoring of dependency trees.
+In Association for Computational Linguistics, 2014.
+[pdf]
+
+J. Honorio and T. Jaakkola.
+A unified framework for consistency of regularized loss minimizers.
+In Proceedings of the 31th International Conference on Machine Learning, 2014.
+[pdf]
+
+A. Gane, T. Hazan, and T. Jaakkola.
+Learning with maximum a-posteriori perturbation models.
+In Artificial Intelligence and Statistics, 2014.
+[pdf]
+
+S. Maji, T. Hazan, and T. Jaakkola.
+Active boundary annotation using random map perturbations.
+In Artificial Intelligence and Statistics, 2014.
+[pdf]
+
+J. Honorio and T. Jaakkola.
+Tight bounds for the expected risk of linear classifiers and pac-bayes finite-sample guarantees.
+In Artificial Intelligence and Statistics, 2014.
+[pdf]
+
+F. Orabona, T. Hazan, A. Sarwate, and T. Jaakkola.
+On measure concentration of random maximum a-posteriori perturbations.
+In Proceedings of the 31th International Conference on Machine Learning, 2014.
+
+
+O. Meshi, T. Jaakkola, and A. Globerson.
+Smoothed coordinate descent for map inference.
+In S. Nowozin, P. V. Gehler, J. Jancsary, and C. Lampert, editors, Advanced Structured Prediction. MIT Press, 2014.
+[pdf]
+
+R. Sherwood, T. Hashimoto, C. O'Donnell, S. Lewis, A. Barkal, J.P. van Hoff, V. Karun, T. Jaakkola, and D. Gifford.
+Discovery of directional and nondirectional pioneer transcription factors by modeling dnase profile magnitude and shape.
+Nature Biotechnology, 32(2):171--178, 2014.
+[pdf]
+
+T. Hazan, S. Maji, J. Keshet, and T. Jaakkola.
+Learning efficient random maximum a-posteriori predictors with non-decomposable loss functions.
+In Advances of Neural Information Processing Systems, 2013.
+[pdf]
+
+T. Hazan, S. Maji, and T. Jaakkola.
+On sampling from the gibbs distribution with random maximum a posteriori perturbations.
+In Advances of Neural Information Processing Systems, 2013.
+[pdf]
+
+J. Honorio and T. Jaakkola.
+Two-sided exponential concentration bounds for bayes error rate and shannon entropy.
+In Proceedings of the 30th International Conference on Machine Learning, 2013.
+[pdf]
+
+J. Honorio and T. Jaakkola.
+Inverse covariance estimation for high-dimensional data in linear time and space: Spectral methods for riccati and sparse models.
+In Proceedings of the 29th Conference on Uncertainty in Artificial Intelligence, 2013.
+[pdf]
+
+T. Hazan and T. Jaakkola.
+On the partition function and random maximum a-posteriori perturbations.
+In Proceedings of the 29th International Conference on Machine Learning (ICML), 2012.
+[pdf]
+
+O. Meshi, T. Jaakkola, and A. Globerson.
+Convergence rate analysis of map coordinate minimization algorithms.
+In Advances in Neural Information Processing Systems, 2012.
+
+
+T. Hashimoto, T. Jaakkola, R. Sherwood, E. Mazzoni, H. Witchterle, and D. Gifford.
+Lineage based identification of cellular states and expression programs.
+In Proceedings of the 20th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB), 2012.
+[pdf]
+
+Z. Kolter and T. Jaakkola.
+Approximate inference in additive factorial hmms with application to energy disaggregation.
+Proceedings of the 15th International Conference on Artificial Intelligence and Statistics, JMLR WCP, 22:1472--1482, 2012.
+[pdf]
+
+Y. Xin and T. Jaakkola.
+Primal-dual methods for sparse constrained matrix completion.
+Proceedings of the 15th International Conference on Artificial Intelligence and Statistics, JMLR WCP, 22:1323--1331, 2012.
+[pdf]
+

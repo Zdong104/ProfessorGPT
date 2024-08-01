@@ -1,0 +1,450 @@
+Professor: Mohammad Mahmoody
+University: University of Virginia
+URL: http://www.cs.virginia.edu/~mohammad
+Description: Mohammad Mahmoody
+
+
+
+CV | Teaching | Advising | Publications | Service | Talks
+
+I am an associate professor in the Computer Science Department of the University of Virginia (UVA).
+
+
+I am a theoretical computer scientist. In particular, I am interested in theoretical aspects of cryptography and their interplay with computational assumptions. I am also interested in theoretical aspects of machine learning. In all of these areas, I am mostly interested in understanding the inherent barriers, also known as "lower bounds", "impossibility results", or "separations".
+
+
+⥣ Curriculum Vitae:
+Here is my CV.
+
+
+
+⥣ Teaching:
+
+Spring 2023: Discrete Math and Theory 2 (Theory of Computation) (Undergrad)
+Spring 2022: Algorithms (Grad)
+Fall 2021: Theory of Computation (Grad)
+Spring 2021: Cryptography (Undergrad)
+Spring 2019: Theory of Computation (Grad)
+Fall 2018: Algorithms (Grad)
+Spring 2018: Topics in Cryptography (Grad and Undergrad)
+Fall 2017: Discrete Mathematics (Undergrad)
+Spring 2017: Theory of Computation (Grad)
+Fall 2016: Foundations of Cryptography (Undergrad)
+Fall 2015: Algorithms (Grad)
+Spring 2015: Topics in Cryptography [Seminar] (Grad and Undergrad)
+Fall 2014: Cryptography (Grad)
+Spring 2014: Computational Complexity (Undergrad)
+
+
+
+⥣ Advising:
+Nima (Abtin) Afshar (ongoing).
+Wei Qi (ongoing).
+
+Elahe Sadeghi (visiting 09/2021-09/2022).
+
+Ji Gao, PhD 2019-2022.
+Ameer Mohammed, PhD 2013-2018.
+Saeed Mahloujifar, PhD 2015-2020.
+
+Ahmadreza Rahimi Masters 2017-2020.
+Caleb Smith Masters 2017-2020.
+Saba Eskandarian Masters 2015-2016.
+Soheil Nematihaji Masters 2014-2016.
+
+Dimitris Diochnos Postdoc 2018-2019.
+Mohammad Hajiabadi Postdoc 2018, (jointly advised with Sanjam Garg).
+
+
+
+⥣ Publications: Conference Papers | Journal Papers | Other Manuscripts
+
+Conference Papers:
+
+Fine-Grained Non-Interactive Key-Exchange: Constructions and Lower Bounds
+with Abtin Afshar, Geoffroy Couteau, and Elahe Sadeghi
+Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) 2023.
+
+
+Black-Box Separations for Non-Interactive Commitments in a Quantum World
+with Kai-Min Chung and Yao-Ting Lin
+Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) 2023.
+
+
+On Optimal Learning Under Targeted Data Poisoning
+with Steve Hanneke, Amin Karbasi, Idan Mehalel, and Shay Moran
+Conference on Neural Information Processing Systems (NeurIPS) 2022 (oral talk)
+
+
+Overparameterization from Computational Constraints
+with Sanjam Garg, Somesh Jha, Saeed Mahloujifar, and Mingyuan Wang
+Conference on Neural Information Processing Systems (NeurIPS) 2022
+
+
+Lower Bounds for the Number of Updates in Registration-Based Encryption
+with Wei Qi and Ahmadreza Rahimi
+Theory of Cryptoraphy Conference (TCC) 2022
+
+
+On the Impossibility of Key Agreements from Quantum Random Oracles
+with Per Austrin, Hao Chung, Kai-Min Chung, Shiuan Fu, and Yao-Ting Lin
+International Cryptography Conference (CRYPTO) 2022
+
+
+Deletion Inference, Reconstruction, and Compliance in Machine (Un)Learning
+with Ji Gao, Sanjam Garg, and Prashand Vasudevan
+Privacy Enhancing Technologies Symposium (PETS) 2022
+
+
+A Separation Result Between Data-oblivious and Data-aware Poisoning Attacks
+with Samuel Deng, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, and Abhradeep Thakurta
+Conference on Neural Information Processing Systems (NeurIPS) 2021 [full version]
+A related work presented at the Uncertainty & Robustness in Deep Learning workshop at ICML 2020
+
+Polynomial-time targeted attacks on coin tossing for any number of corruptions
+with Omid Etesami, Ji Gao, and Saeed Mahloujifar
+Theory of Cryptography Conference (TCC) 2021 [recorded video by Ji] [full version]
+
+Learning and certification under instance-targeted poisoning
+with Ji Gao and Amin Karbasi
+The Conference on Uncertainty in Artificial Intelligence (UAI) 2021
+
+Is Private Learning Possible with Instance Encoding?
+with Nicholas Carlini, Samuel Deng, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, Abhradeep Thakurta, and Florian Tramèr
+IEEE Symposium on Security and Privacy (Oakland) 2021 [video by Saeed & Florian] [video by Nicholas]
+A related work presented at the Privacy Preserving Machine Learning workshop at NeurIPS 2020
+
+Black-Box Uselessness: Composable Separations in Cryptography
+with Geoffroy Couteau and Pooya Farshim
+Innovations in Theoretical Computer Science (ITCS) 2021 [recorded video] [live presentation with Q&A]
+
+Lower Bounds for Adversarially Robust PAC Learning under Evasion and Hybrid Attacks
+with Dimitrios I. Diochnos and Saeed Mahloujifar
+IEEE International Conference On Machine Learning And Applications (ICMLA) 2020
+A related work also presented at Security and Privacy of Machine Learning workshop at ICML 2019, Safety and Robustness in Decision Making workshop at NeurIPS 2019, and International Symposium on Artificial Intelligence and Mathematics (ISAIM) 2020
+
+Can Verifiable Delay Functions be Based on Random Oracles?
+with Caleb Smith and David J. Wu
+International Colloquium on Automata, Languages and Programming (ICALP) 2020 [ePrint version] [video]
+Also presented at the VDF Day, Stanford, Feb 2020; see here for the video
+
+Adversarially Robust Learning Could Leverage Computational Hardness
+with Sanjam Garg, Somesh Jha, and Saeed Mahloujifar
+Algorithmic Learning Theory (ALT) 2020
+Also presented at Security and Privacy of Machine Learning workshop at ICML 2019 and Safety and Robustness in Decision Making workshop at NeurIPS 2019
+
+Computational Concentration of Measure: Optimal Bounds, Reductions, and More
+with Omid Etesami and Saeed Mahloujifar
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2020
+
+Empirically Measuring Concentration: Fundamental Limits on Intrinsic Robustness
+with Saeed Mahloujifar, Xiao Zhang, and David Evans
+Conference on Neural Information Processing Systems (NeurIPS) 2019 (spotlight talk) [poster] [slides] [brief presentation]
+Also presented at Safe Machine Learning and Debugging ML Models workshops at ICLR 2019 and Uncertainty & Robustness in Deep Learning workshop at ICML 2019
+
+Universal Multi-Party Poisoning Attacks
+with Saeed Mahloujifar and Ameer Mohammed
+International Conference on Machine Learning (ICML) 2019 [full version] [video of the talk by Saeed, starts at 1:09:00]
+Also presented at Debugging ML Models workshop at ICLR 2019 and the Security and Privacy of Machine Learning workshop at ICML 2019
+
+Registration-Based Encryption from Standard Assumptions
+with Sanjam Garg, Mohammad Hajiabadi, Ahmadreza Rahimi, and Sruthi Sekar
+International Conference on Practice and Theory of Public Key Cryptography (PKC) 2019
+
+Can Adversarially Robust Learning Leverage Computational Hardness?
+with Saeed Mahloujifar
+Algorithmic Learning Theory (ALT) 2019
+
+The Curse of Concentration in Robust Learning: Evasion and Poisoning Attacks from Concentration of Measure
+with Saeed Mahloujifar and Dimitrios I. Diochnos
+AAAI Conference on Artificial Intelligence 2019
+Also presented at Workshop on Security in Machine Learning at NeurIPS 2018
+
+Adversarial Risk and Robustness: General Definitions and Implications for the Uniform Distribution
+with Dimitrios I. Diochnos and Saeed Mahloujifar
+Conference on Neural Information Processing Systems (NeurIPS) 2018 [poster] [brief presentation]
+
+Registration-Based Encryption: Removing Private-Key Generator from IBE
+with Sanjam Garg, Mohammad Hajiabadi and Ahmadreza Rahimi
+Theory of Cryptography Conference (TCC) 2018
+
+Limits on the Power of Garbling Techniques for Public-Key Encryption
+with Sanjam Garg, Mohammad Hajiabadi and Ameer Mohammed
+International Cryptography Conference (CRYPTO) 2018
+
+On the Round Complexity of OT Extension
+with Sanjam Garg, Daniel Masny, and Izaak Meckler
+International Cryptography Conference (CRYPTO) 2018
+
+Learning under p-Tampering Attacks
+with Saeed Mahloujifar and Dimitrios I. Diochnos
+Algorithmic Learning Theory (ALT) 2018
+Also presented at International Symposium on Artificial Intelligence and Mathematics (ISAIM) 2018.
+
+Blockwise p-Tampering Attacks on Cryptographic Primitives, Extractors, and Learners
+with Saeed Mahloujifar
+Theory of Cryptography Conference (TCC) 2017
+
+When Does Functional Encryption Imply Obfuscation?
+with Sanjam Garg and Ameer Mohammed.
+Theory of Cryptography Conference (TCC) 2017
+
+Lower Bounds on Obfuscation from All-or-Nothing Encryption Primitives
+with Sanjam Garg and Ameer Mohammed
+International Cryptography Conference (CRYPTO) 2017 [full version]
+
+On the Power of Hierarchical Identity-Based Encryption
+with Ameer Mohammed
+Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT) 2016
+
+On the Impossibility of Virtual Black-Box Obfuscation in Idealized Models
+with Ameer Mohammed and Soheil Nematihaji
+Theory of Cryptography Conference (TCC) 2016-A
+
+Lower Bounds on Assumptions behind Indistinguishability Obfuscation
+with Ameer Mohammed, Soheil Nematihaji, Rafael Pass, and abhi shelat
+Theory of Cryptography Conference (TCC) 2016-A
+
+On the Impossibility of Cryptography with Tamperable Randomness
+with Per Austrin, Kai-Min Chung, Rafael Pass, and Karn Seth
+International Cryptography Conference (CRYPTO) 2014 [full version]
+Invited to the Journal Algorithmica
+
+On the Power of Public-key Encryption in Secure Computation
+with Hemanta K. Maji and Manoj Prabhakaran.
+Theory of Cryptography Conference (TCC) 2014
+
+Can Optimally Fair Coin Tossing be Based on One-Way Functions?
+with Dana Dachman-Soled and Tal Malkin
+Theory of Cryptography Conference (TCC) 2014
+
+Limits of Random Oracles in Secure Computation
+with Hemanta K. Maji and Manoj Prabhakaran
+Innovations in Theoretical Computer Science (ITCS) 2014
+
+Languages with Efficient Zero-Knowledge PCPs are in SZK
+with David Xiao.
+Theory of Cryptography Conference (TCC) 2013
+Invited to the TCC's 10-year anniversary special issue in Computational Complexity Journal
+
+On the Power of Nonuniformity in Proofs of Security
+with Kai-Min Chung, Huijia Lin, and Rafael Pass
+Innovations in Theoretical Computer Science (ITCS) 2013
+
+Publicly Verifiable Proofs of Sequential Work
+with Tal Moran and Salil Vadhan
+Innovations in Theoretical Computer Science (ITCS) 2013
+
+The Curious Case of Noninteractive Commitments: On the Power of Black-Box vs. Non-Black-Box Use of Primitives
+with Rafael Pass
+International Cryptography Conference (CRYPTO) 2012 [full version] [video]
+
+On Efficient Zero-Knowledge PCPs
+with Yuval Ishai and Amit Sahai
+Theory of Cryptography Conference (TCC) 2012 [full version]
+Invited to the Journal of Cryptology
+
+On Black-Box Reductions between Predicate Encryption Schemes
+with Vipul Goyal, Virendra Kumar, and Satya Lokam
+Theory of Cryptography Conference (TCC) 2012
+
+Time-Lock Puzzles in the Random Oracle Model
+with Tal Moran and Salil Vadhan
+International Cryptography Conference (CRYPTO) 2011 [full version]
+
+On Black-Box Complexity of Optimally-Fair Coin-Tossing
+with Dana Dachman-Soled, Yehuda Lindell, and Tal Malkin
+Theory of Cryptography Conference (TCC) 2011
+
+Interactive Locking, Zero-Knowledge PCPs, and Unconditional Cryptography
+with Vipul Goyal, Yuval Ishai, and Amit Sahai
+International Cryptography Conference (CRYPTO) 2010
+
+On the Power of Randomized Reductions and the Checkability of SAT
+with David Xiao
+Computational Complexity Conference (CCC) 2010
+
+A New Sampling Protocol and Applications to Basing Cryptographic Primitives on the Hardness of NP
+with Iftach Haitner and David Xiao
+Computational Complexity Conference (CCC) 2010
+
+Merkle Puzzles are Optimal — An O(n2)-Query Attack on Any Key Exchange from a Random Oracle
+with Boaz Barak
+International Cryptography Conference (CRYPTO) 2009 [conference video] [full version]
+Invited to the Journal of Cryptology
+
+Lower Bounds on Signatures from Symmetric Primitives
+with Boaz Barak
+Annual Symposium on Foundations of Computer Science (FOCS) 2007
+
+↥ Journal Papers:
+
+Learning under p-Tampering Poisoning Attacks
+with Saeed Mahloujifar and Dimitrios I. Diochnos
+Annals of Mathematics and Artificial Intelligence, Vol. 88, pp. 759--792, 2020
+
+On the Impossibility of Cryptography with Tamperable Randomness
+with Per Austrin, Kai-Min Chung, Rafael Pass, and Karn Seth
+Algorithmica, Vol. 79.4, pp. 1052--1101, 2017 [full version]
+
+Merkle's Key Agreement Protocol is Optimal: An O(n2)-Query Attack on Any Key Exchange from a Random Oracle
+with Boaz Barak
+Journal of Cryptology, Vol. 30.3, pp. 699--734, 2017 [full version]
+
+Load Sensitive Topology Control: Towards Minimum Energy Consumption in Dense Ad Hoc Sensor Networks
+with A. Nayyeri, S. Zarifzadeh, and N. Yazdani
+Computer Networks, Vol. 52, pp. 493--513, 2008
+
+On Rainbow Cycles in Edge Colored Complete Graphs
+with S. Akbari, O. Etesami, and H. Mahini
+Australasian Journal of Combinatorics, Vol. 37, pp. 33--42, 2007
+
+Transversals in Long Rectangular Arrays
+with S. Akbari, O. Etesami, H. Mahini, and A. Sharifi
+Discrete Mathematics, Vol. 306, pp. 3011--3013, 2006
+
+↥ Other Manuscripts:
+
+NeuraCrypt is not private
+with Nicholas Carlini, Sanjam Garg, Somesh Jha, Saeed Mahloujifar, and Florian Tramèr
+Presented at the Privacy Preserving Machine Learning workshop at CRYPTO 2021 and the Privacy Preserving Machine Learning workshop at ACM CCS 2021
+
+A Note on Black-Box Separations for Indistinguishability Obfuscation
+with Ameer Mohammed, Soheil Nematihaji, Rafael Pass, and abhi shelat
+
+Black Boxes, Incorporated (a survey)
+with Avi Wigderson
+
+Unprovable Security of 2-Message Zero Knowledge
+with Kai-Min Chung, Edward Lui, and Rafael Pass
+
+Optimizing Trees for Static Searchable Encryption
+with Mohammad Etemad and David Evans
+
+Studies in the Efficiency and (versus) Security of Cryptographic Tasks
+Ph.D. Thesis, Princeton University, 2010 [local copy]
+
+
+
+⥣ Service:
+
+Program Committees:
+
+International Conference on Machine Learning (ICML) 2023
+Theory of Cryptography Conference (TCC) 2023
+International Conference on Learning Representations (ICLR) 2023
+Conference on Neural Information Processing Systems (NeurIPS) 2022
+Theory of Cryptography Conference (TCC) 2022
+International Cryptology Conference (CRYPTO) 2022
+International Conference on Machine Learning (ICML) 2022
+Conference on Information-Theoretic Cryptography (ITC) 2022
+International Conference on Learning Representations (ICLR) 2022
+Conference on Neural Information Processing Systems (NeurIPS) 2021
+Conference on Information-Theoretic Cryptography (ITC) 2021
+International Conference on Learning Representations (ICLR) 2021(Outstanding reviewer award.)
+Theory of Cryptography Conference (TCC) 2020
+Conference on Neural Information Processing Systems (NeurIPS) 2020
+International Cryptology Conference (CRYPTO) 2020
+Topics in Theoretical Computer Science (TTCS) 2020
+Theory of Cryptography Conference (TCC) 2019
+Theory and Applications of Cryptographic Techniques (EUROCRYPT) 2019
+Theory and Applications of Cryptographic Techniques (EUROCRYPT) 2018
+ACM Conference on Computer and Communications Security (CCS) 2017
+International Cryptology Conference (CRYPTO) 2017
+Topics in Theoretical Computer Science (TTCS) 2017
+Theory of Cryptography Conference (TCC) 2015
+Topics in Theoretical Computer Science (TTCS) 2015
+Theory of Cryptography Conference (TCC) 2014
+Theory of Cryptography Conference (TCC) 2013
+Theory of Cryptography Conference (TCC) 2011
+
+Organized Events/Workshops:
+
+Organizing (together with Pooya Farshim, Iftach Haitner, Yuval Ishai)
+the workshop "Lower Bounds in Cryptography" Bertinoro, Italy, July 2019
+
+
+Helped organize Cyberwars at UVA, A GenCyber Camp, June 2018.
+
+
+Helped organize DC-area crypto days (going on since Sept 2014)
+
+
+⥣ Selected Talks:
+See my CV for a more complete list
+
+On Privacy Implications of Machine Unlearning.
+Invited speaker to Google's virtual seminar on privacy, June 2022 [video]
+
+
+Deletion Inference, Reconstruction, and Compliance in Machine (Un)Learning.
+Invited speaker to the 56th Annual Conference on Information Sciences and Systems (CISS), Princeton (virtual), March 2022
+
+
+Connections between cryptographic coin flipping and adversarially robust learning.
+Privacy-Preserving Machine Learning Workshop at Crypto, August 2020 [video]
+
+
+(Im)possibility of (forms of) VDFs in the Random Oracle Mode.
+VDF Day, Stanford, Feb 2020 [video]
+
+
+Computational concentration of measure.
+Theory Seminar, Computer Science Department, UC Berkeley, Oct 2019
+
+
+Coin-tossing attacks, concentration of products, and robust learning
+Lower Bounds in Cryptography Workshop, Bertinoro, Italy, July 2019 [video]
+
+
+Coin-tossing attacks, computational concentration of products, and limits of robust learning
+Theory Seminar, Computer Science Department, University of Washington, April 2019
+
+
+Registration-Based Encryption
+DC Area Crypto Day, National Institute of Standards and Technology (NIST), April 2019
+
+
+Coin Tossing, Concentration of Products, and Limits of Robust Learning
+Charles River Crypto Day, MIT, March 2019
+
+
+Learning under p-Tampering Attacks.
+DC-Area Anonymity, Privacy, and Security Seminar, George Mason University, February 2018
+
+
+Blockwise p-Tampering Attacks on Cryptographic Primitives, Extractors, and Learners
+Bay Area Crypto Day, Berkeley, November 2017
+
+
+Black-box and Non-black-box Lower Bounds on Assumptions behind IO
+DIMACS Workshop on Complexity of Crypto Primitives and Assumptions, City College of New York, June 2017 [video]
+
+
+Lower bounds on Indistinguishability Obfuscation from All-or-Nothing Encryption
+Theory Seminar, Computer Science Department, Johns Hopkins University, March 2017
+
+
+Lower Bounds on Indistinguishability Obfuscation
+DIMACS/CEF Workshop on Cryptography and Software Obfuscation, Stanford, Nov 2016 [video]
+
+
+Lower Bounds on VBB and Indistinguishability Obfuscations in Idealized Models
+Cryptography Reunion Workshop, Simons Institute, Berkeley, August 2016
+
+
+Assumptions in Cryptography: How Do Cryptographers Sleep Well?
+TEDx UVA, University of Virginia, Feb 2015 [video]
+
+
+On the (Im)Possibility of Cryptography with Tamperable Randomness
+New York Crypto Day, Cornell Tech, Nov 2014
+
+
+Program Checkers for NP and Black-box separations (tutorial)
+Summer School on Black-Box Impossibility Results, Bertinoro Italy, July 2014
+
+
+
+
+

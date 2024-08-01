@@ -1,0 +1,51 @@
+Professor: Sergey Levine
+University: Univ. of California - Berkeley
+URL: https://people.eecs.berkeley.edu/~svlevine
+Description: 	
+Sergey Levine
+
+Associate Professor, UC Berkeley, EECS
+Address:
+Rm 8056, Berkeley Way West
+2121 Berkeley Way
+Berkeley, CA 94704
+Email:
+prospective students: please read this before contacting me.
+
+I am an Associate professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. In my research, I focus on algorithms that can enable autonomous agents to acquire complex behaviors through learning, especially general-purpose methods that could enable any autonomous system to learn to solve any task. Applications of such methods include robotics, as well as a range of other domains that require autonomous decision making. To see a more formal biography, click here.
+
+Research Group: Robotic Artificial Intelligence and Learning Lab
+[RAIL Website][Publications][Lab Members][Getting Involved]
+Recent Talk (2021): The Case for Real-World Reinforcement Learning
+
+This is a talk from December 2021 (NeurIPS Deep RL Workshop) summarizing some perspectives on reinforcement learning in the real world. More talks and course material is linked below.
+Talks
+
+These talks summarize some recent research in RAIL, as well as perspectives on problems in robotics, reinforcement learning, and AI more broadly.
+
+	Ensuring Safety in Online Reinforcement Learning by Leveraging Offline Data
+[YouTube]
+This talk covers recent work that leverages offline data in RL-like frameworks to provide constraints and priors for safe and efficient only learning. The talk includes a discussion of Lyapunov Density Models and the APE-V algorithm.
+	Robotic Learning
+[YouTube]
+This general audience talk covers the challenges in building robotic systems from the perspective of artificial intelligence, discussing Moravec's paradox, why progress in some areas of AI, such as game-playing, has been a lot faster than progress in robotics, and what recent advances in language modeling and image generation can teach us about which AI problems are easy and which are difficult. The talk also discusses why learning-based approaches might enable us to make significantly more rapid progress in the future.
+	Planning with Reinforcement Learning
+[YouTube]
+This talk covers how reinforcement learning algorithms and planning can be brought together so as to solve more complex and temporally extended tasks. I cover hierarchically structured methods that plan over skills, methods that plan for valid trajectories within the support of a data distribution, and applications in robotic navigation.
+	Understanding the World Through Action
+[YouTube]
+This extended lecture covers offline reinforcement learning motivations, algorithms, evaluation, and applications. I discuss the CQL, AWAC, and IQL algorithms, the D4RL benchmark suite, and a few applications in robotic manipulation, followed by a Q&A with the audience.
+	Should I Imitate or Reinforce?
+[YouTube]
+This talk discusses how offline RL methods compare to imitation learning both in theory and practice, including a discussion of recent theoretical results that characterize conditions under which offline RL should be expected to outperform imitation learning, how imitation learning methods can be modified to perform reinforcement learning, and how imitation learning and planning can be combined to yield model-based RL methods.
+Courses
+
+Below I provide links to videos and course material on reinforcement learning and deep learning.
+
+	CS 285: Deep Reinforcement Learning
+[YouTube Playlist] [Course Website]
+This course covers the foundations of reinforcement learning, as well as advanced topics in deep RL, model-based RL, control as inference, inverse reinforcement learning, exploration, and more.
+	CS 182: Deep Learning
+[YouTube Playlist] [Course Website]
+This course provides a comprehensive introduction to deep learning, starting with machine learning fundamentals and covering computer vision, sequence modeling and NLP, generative models, adversarial attacks, reinforcement learning, and other topics.
+

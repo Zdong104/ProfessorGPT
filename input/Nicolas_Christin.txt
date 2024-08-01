@@ -1,0 +1,250 @@
+Professor: Nicolas Christin
+University: Carnegie Mellon University
+URL: http://www.andrew.cmu.edu/user/nicolasc
+Description: Nicolas Christin
+Carnegie Mellon University
+Professor, SCS/S3D and EPP
+Program Director, Societal Computing Ph.D. program
+
+Affiliate faculty appointments in
+CyLab and ECE
+
+Bio sketch
+
+I am a Professor at Carnegie Mellon University, jointly appointed in the School of Computer Science (Software and Societal Systems Department) and in the department of Engineering and Public Policy. I am the director of the Societal Computing Ph.D. program. I am also a core faculty member of CyLab, our university-wide security and privacy institute, and have a courtesy appointment in the Electrical and Computer Engineering department.
+
+With Ariel Zetlin-Jones and Elaine Shi, I co-direct the Secure Blockchain Initiative, a cross-disciplinary, university-wide initiative to try to go beyond the hype and research technical, economic, and regulatory aspects of cryptocurrencies and derived proposals.
+
+I am a 2017 CSIS fellow, and a 2019 Carnegie Institute of Technology Dean Early Career fellow.
+
+I received a Diplôme d’Ingénieur (1999) from École Centrale de Lille, a Master’s (2000) and a Ph.D. (2003) in Computer Science from the University of Virginia. In the final year (2002–2003) of my Ph.D., I was working at Nortel Networks. I then spent two wonderful years (2003–2005) as a postdoctoral fellow in the School of Information at UC Berkeley, before joining Carnegie Mellon in July 2005. I was a faculty-in-residence for three years (2005–2008) at CyLab Japan, the research and education center CMU used to have in Kōbe, which remains one of my favorite cities. After coming back to the US, I served as Associate Director of the Information Networking Institute from 2008 through 2013, as a research faculty (Assistant Research Professor) in Electrical and Computer Engineering from 2013 through 2016, as a research faculty (Associate Research Professor) in my current departments from 2016 through 2019, and subsequently as a tenured Associate Professor from 2019 through 2022.
+
+I am (very sporadically) on Twitter as @nc2y; on Mastodon as ioc.exchange/@nc2y; and on BlueSky as @nc2y.bsky.social.
+
+I have (far too) many interests outside of work, which primarily involve engaging in some sort of outdoor activity, away from any computing device (although a good GPS is always useful, given my legendary sense of direction). I am more than happy to discuss them at great lengths in person.
+
+Research overview
+
+My research interest is in computer and information systems security. Most of my work is at the boundary of systems, networking and policy research. While a good portion of my research activities could be qualified as applied research, I try as much as possible to rely on strong theoretical foundations in my work. In addition, most of my recent work is informed by empirical data measurements (of users, networks, economic transactions, …), so that the term "security analytics" is an appropriate short qualifier.
+
+More specifically, the different inter-related research threads in which I am currently involved are:
+[in brackets, some of the venues where we published on the subject]
+
+Online crime modeling: Current security attacks are more often than not financially motivated. We postulate that, by getting a more precise picture of the economic interactions between the different actors involved, we can better understand how to disrupt or thwart these attacks. This line of work is very applied, and combines economic modeling, network measurements, and public policy research.
+[USENIX Sec'24, USENIX Sec'22, WWW'21, KDD'19, USENIX Sec'18, PETS'18, IMC'17, USENIX Sec'15, CCS'14, ESORICS'14, EC'13, WWW'13, CCS'11, USENIX Sec'11, CCS'10, …]
+
+Cryptocurrencies and (decentralized) finance: For all the hype about “blockchain solutions,” the most successful use case for this technology remains the original use case, popularized by Bitcoin: cryptocurrencies. In a short few years, cryptocurrencies have become an important player in financial markets, and novel platforms (e.g., “decentralized finance,” or DeFi) have emerged. We have been one of the first groups to look at this from a measurement standpoint, trying to make sense of the overall ecosystem, and understand which lessons we can learn from it that would also apply to traditional finance.
+[WWW'24, CHI'24, AFT'23, WWW'23, WWW'21, JEP'15, FC'13, …]
+
+Predictive security analytics: Wouldn’t it be nice if we could foresee security issues before they actually harm users or infrastructure operators? We have shown this might be possible. We have developed systems to proactively detect exposure to attacks, both at the server and at the user levels. This work combines large-scale measurements with machine learning, and is closely related to our work on online crime modeling.
+[CCS'18, USENIX Sec'14]
+
+Continuous worldwide monitoring of online censorship: This line of work aims to continuously understand how governments attempt to control the information their users see, either by blocking access or by injecting specific content to affect public discourse. In particular, on the blocking side, we are very interested in examples of covert censorship, in which the censor silently terminates user connections, as opposed to overt censorship, where the censor explicitly tells users they are attempting to access restricted contents when blocking them. (The latter might be justifiable; the former usually is not, and gives interesting clues on some of the geopolitical dynamics at play.) Measuring interference at scale is incredibly challenging: country policies vary widely, censored pages change all the time, discriminating between random errors and actual malice is hard, and attempting to minimize human involvement to limit actual risk to people is tricky. We partner with ICLab at the University of Massachusetts and the Open Technology Fund in this multi-disciplinary endeavor, that spans computer networking and security, language processing, and even geopolitics.
+[USENIX Sec'24, PETS'24, WWW'21, Oakland'20, IMC'18, PETS'17]
+
+Usability and security: Making systems more secure has generally been at odds with what humans are good at; for instance, longer passwords are near-impossible to memorize, complex security policies are ignored and therefore useless, and so forth. This has resulted in large security meltdowns. Rather than treating human factors as a constraint in secure system design, we try to exploit what people are skilled at to make systems more secure. For instance, humans can very quickly recognize patterns, make inferences from incomplete information, and respond positively to proper messaging. Our work in that space finds applications in authentication applications, smart password meters, mobile payment systems, automated teller machines, to name a few.
+Software highlights include our open-source Carnegie Mellon password meter, and our neural network-based password cracker. For this work, we won the 2020 Allen Newell Award for research excellence, and the 2023 IEEE Symposium on Security and Privacy “test-of-time” award for our Oakland'12 paper.
+[CCS'20, CHI'19, CHI'18, CHI'17, USENIX Sec'16, CHI'16, USENIX Sec'15, PETS'15, CHI'15, CHI'14, CCS'13, USENIX Sec'12, SOUPS'12, Oakland'12, CHI'11, FC'11, SOUPS'08, CHI'08, …]
+
+Security economics: We keep hearing about security attacks and breaches, despite the fact that most security problems have relatively low-cost solutions (e.g., patching, stronger access control, audits). I am interested in 1) understanding why, from an economic standpoint, people and corporations are seemingly either not investing enough in security, or investing in the wrong things, and 2) finding out if there are economic remedies or incentive compatible algorithms, that we, as a society, can use to improve this sad state of affairs. Behavioral economics, game theory as well as system design play a significant role in this cross-disciplinary work.
+[AAAI'15, IJCAI'13, CSF'11, ESORICS'10, FC'10, EC'08, WWW'08, …]
+
+The College of Engineering and the School of Computer Science have both produced slick videos (Engineering, Computer Science) in which I give high-level overviews of what my group is working on.
+
+Cross-cutting several of these projects, I have been one of the co-PIs of the Security Behavior Observatory, a longitudinal, in situ user behavior measurement panel. The project is currently not funded anymore, but we are still extensively using this goldmine of data.
+
+Our lab has been a contributor to the DHS IMPACT Cybersecurity data portal.
+
+Support sources
+
+My current research work is currently partially supported by the Portuguese Science and Technology Foundation via the CMU Portugal program; by the Ripple UBRI initiative and partnership with Carnegie Mellon; by the CyLab Secure Blockchain Initiative, and by Google, through a generous 2024 security and privacy award.
+
+Past support sources include the Department of Homeland Security Science and Technology Directorate, Cyber Security Division (DHS S&T/CSD) (through BAA-11.02, contract number N66001-13-C-0131, in collaboration with the Government of Australia and SPAWAR Systems Center Pacific; through agreement number FA8750-17-2-0188, as part of the DHS IMPACT program); through agreement FA8750-19-0152, via the University of Tulsa; and through agreement FA8750-20-1-1003, through the Air Force Research Laboratory); the National Science Foundation (CCF-0424422, DGE-0903659, CNS-1116776, CNS-1223762, CMMI-1842020, and CNS-1814817); the Singaporean Defence Science and Technology Agency through a cooperative agreement; the NSA Science of Security Lablet at Carnegie Mellon; a series of gifts from KDDI R&D Laboratories; the PwC Risk and Regulatory Services Innovation Center at Carnegie Mellon’s Heinz College; NATO, and Microsoft, through their CyLab memberships; Google, through a 2016 Security, Privacy, and Anti-Abuse applied award; ICANN; the Army Research Office (DAAD19-02-1-0389); Toshiba Corp.; and Booz Allen Hamilton.
+
+I was also one of the original, "founding" co-PIs in the Army Research Lab Cyber-Security Collaborative Research Alliance (in collaboration with Penn State, Indiana University, UC Riverside and UC Davis; formally Cooperative Agreement Number W911NF-13-2-0045).
+
+Research group
+
+I am lucky to advise and work with eight incredible Ph.D. students: Alejandro Cuevas (SCS, Societal Computing), Jin-Dong (Mark) Dong (ECE), Daisuke Kawai (EPP), Taro Tsuchiya (SCS, Societal Computing), Alexandra Nisenoff (SCS, Societal Computing, co-advised with Lorrie Cranor), Jenny Tang (SCS, Societal Computing, co-advised with Lujo Bauer), Carolina Carreira (SCS and CMU|Portugal program, co-advised with João F. Ferreira and Alexandra Mendes), and Diana Fernandes (EPP and CMU|Portugal program, co-advised with Soummya Kar and Carlos Santos Silva); and to very closely collaborate with and with our alumni Kyle Soska and Zachary Weinberg.
+
+I am the proud academic parent of:
+
+Nektarios Leontiadis (Ph.D., EPP, 2014), now at Meta (initially as a Research Scientist, now as a Security Engineering Manager);
+Timothy Vidas (Ph.D., ECE, 2016), now a Principal Engineer at AWS (after being a security researcher at SecureWorks for years);
+Luís Brandão (Ph.D., ECE/U. Lisbon, 2016; co-advised with Alysson Bessani), now a Research Scientist at NIST;
+Zachary Weinberg (Ph.D., ECE, 2018), became a Teaching Postdoc in the Computer Science Department at CMU, and is now an independent researcher;
+Mahmood Sharif (Ph.D., ECE, 2019, co-advised with Lujo Bauer), now an Assistant Prof. of Computer Science at Tel-Aviv University;
+János Szurdi (Ph.D., ECE, 2020), now a Principal Researcher at Palo Alto Networks;
+Kyle Soska (Ph.D., ECE, 2021), now working in a stealth computational finance firm; and
+Kyle Crichton (Ph.D., EPP, 2023, co-advised with Lorrie Cranor), now a Research Fellow at the Center for Security and Emerging Technology.
+
+Alain Forget (now at Google), Benjamin Johnson (subsequently at UC Berkeley and at the Technical University of Munich), and Steve Matsumoto (now an Assistant Prof. at Olin College) did their postdocs in my research group.
+
+Our group hosted some long-term visitors, notably Xiao Hui Tai (at the time a Statistics PhD student at CMU, now an Assistant Prof. at UC Davis); Diogo Barradas (at the time at IST/University of Lisbon, now an Assistant Prof. at U. Waterloo); and Dominic Deuber, now completing his PhD at the Friedrich-Alexander University of Erlangen.
+
+I also have had the pleasure of seeing a few Master’s students graduating under my supervision (listed in reverse chronological order): Léo Alvarez (M. Sc., EPFL, 2023), William Luca (M. Sc., INI, 2022), Aurelia Augusta (M. Sc., Societal Computing, 2021), Xin Huang (M. Sc., INI, 2019), Behtash Banihashemi (M.Sc, EPP, 2019), Eugene Lemuel Garcia (M. Sc., INI, 2017), Qingping Hou (M. Sc., INI, 2014), Ryo Hoshino (M. Sc., INI, 2013), Dong Liu (M. Sc., INI, 2013), Honglin Feng (M. Sc., INI, 2012), Norio Tanaka (M. Sc., INI, 2012), Daniel Votipka (M. Sc., INI, 2012, now a faculty at Tufts), Carlos Lopes Pereira (M.Sc., INI, 2011), Theodoros Messinis (M.Sc., INI, 2011), Qin Chao (M.Sc., INI, 2010), Shinichi Mori (M.Sc., INI, 2010), Sérgio Serrano (M.Sc., INI and University of Lisbon, 2010), Yu-Lo Su (M.Sc., INI, 2010), Chengye Zheng (M.Sc., INI, 2010), Sally Yanagihara (M.Sc., INI, 2009), Madoka Hasegawa (M.Sc., INI, 2008), Komsit Prakobphol (M.Sc., INI, 2008), Wumaierjiang Simayi (M.Sc., INI, 2008), Hirokazu Sasamoto (M.Sc., INI, 2007), Eiji Hayashi (M.Sc., INI, 2006), Kazuhito Maruyama (M.Sc., INI, 2006), Hiroshi Miwa (M.Sc., INI, 2006), Takeshi Niiyama (M.Sc., INI, 2006), Soon Hin Khor (M.Sc., INI, 2006), and Mika Sashikata (M.Sc., INI, 2006).
+
+Places of employment/positions after graduation include Software Engineering positions at Google, Facebook, LinkedIn, Oracle, Riot Games, Ph.D. studies at University of Tokyo, Carnegie Mellon Computer Science, and various engineering positions at Panasonic, Sharp, NTT West, NTT DoCoMo, Portugal Telecom…
+
+Selected publications
+
+Kyle Soska, Jin-Dong Dong, Alex Khodaverdian, Ariel Zetlin-Jones, Bryan Routledge, and Nicolas Christin. Towards understanding cryptocurrency derivatives: A case study of BitMEX. In Proceedings of the 30th Web Conference (WWW'21). Ljubljana, Slovenia (online). April 2021.
+
+Arian Akhavan Niaki, Shinyoung Cho, Zachary Weinberg, Nguyen Phong Hoang,
+Abbas Razaghpanah, Nicolas Christin, and Phillipa Gill. ICLab: A Global, Longitudinal Internet Censorship Measurement Platform. In Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland 2020), pages 135–151. San Francisco, CA. May 2020.
+
+Blase Ur, Felicia Alfieri, Maung Aung, Lujo Bauer, Nicolas Christin, Jessica Colnago, Lorrie Faith Cranor, Harold Dixon, Pardis Emami Naeini, Hana Habib, Noah Johnson, and William Melicher. Design and Evaluation of a Data-Driven Password Meter. In Proceedings of the 2017 ACM Conference on Human Factors in Computing Systems (CHI 2017), pages 3775–3786. Denver, CO. May 2017. Best paper award.
+
+William Melicher, Blase Ur, Sean Segreti, Saranga Komanduri, Lujo Bauer, Nicolas Christin, and Lorrie Faith Cranor. Fast, lean, and accurate: modeling password guessability using neural networks.
+In Proceedings of the 25th USENIX Security Symposium (USENIX Security'16). Austin, TX. August 2016. Best paper award.
+
+Kyle Soska and Nicolas Christin. Automatically Detecting Vulnerable Websites Before They Turn Malicious. In Proceedings of the 23rd USENIX Security Symposium (USENIX Security'14), pages 625–640. San Diego, CA. August 2014. Best student paper award.
+
+Michelle Mazurek, Saranga Komanduri, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Patrick Gage Kelley, Richard Shay, and Blase Ur. Measuring Password Guessability for an Entire University. In Proceedings of the 20th ACM Conference on Computer and Communications Security (CCS 2013). Berlin, Germany. November 2013.
+
+Nicolas Christin. Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace. In Proceedings of the 22nd International World Wide Web Conference (WWW'13), pages 213–224. Rio de Janeiro, Brazil. May 2013.
+
+Nektarios Leontiadis, Tyler Moore, and Nicolas Christin. Measuring and Analyzing Search-Redirection Attacks in the Illicit Online Prescription Drug Trade. In Proceedings of the 20th USENIX Security Symposium (USENIX Security'11). San Francisco, CA. August 2011.
+
+Patrick Gage Kelley, Saranga Komanduri, Michelle Mazurek, Richard Shay, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor and Julio Lopez.
+Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms. In Proceedings of the 33rd IEEE Symposium on Security and Privacy (Oakland 2012), pages 523–537. San Francisco, CA. May 2012. 2023 IEEE Symposium on Security and Privacy test-of-time award.
+
+Nicolas Christin, Andreas S. Weigend, and John Chuang. Content Availability, Pollution and Poisoning in Peer-to-Peer File Sharing Networks. In Proceedings of the Sixth ACM Conference on Electronic Commerce (EC'05), pages 68–77. Vancouver, BC, Canada. June 2005.
+
+Nicolas Christin, Jörg Liebeherr, and Tarek F. Abdelzaher. Enhancing Class-Based Service Architectures with Adaptive Rate Allocation and Dropping Mechanisms. In IEEE/ACM Transactions on Networking 15(3), pages 669–682. June 2007.
+
+[Full list of publications]
+
+Press
+
+I have been sporadically commenting on various security and policy issues in local (WTAE 4, WPXI 11, …), national (Marketplace, National Public Radio (including All Things Considered), Wall Street Journal, …), and international (MIT Technology Review, Canal Plus (France), …) news media.
+
+More generally, my group’s research gets quite a bit of exposure.
+
+Most recently, our work on cryptocurrency derivatives led my student Kyle Soska to be featured in a couple of high-profile articles in The New York Times (July 23, 2021), the Wall Street Journal (July 23, 2021), and The Economist (August 2, 2021).
+
+Earlier, our measurement study of the Silk Road online anonymous marketplace received very extensive press coverage: New Scientist (August 6, 2012), Wired UK (August 6, 2012), Forbes (August 6, 2012), Slashdot (August 7, 2012), Ars Technica (August 7, 2012), US News (August 7, 2012), Gawker (August 8, 2012), The Economist (September 29, 2012), and The New York Times (April 8, 2013) covered it among others, including some international press, e.g., Australia’s Sydney Morning Herald (August 10, 2012), Spain’s ABC (August 13, 2012), or Canada’s The Globe and Mail (August 15, 2012).
+This research was also featured on Marketplace (August 28, 2012) (radio), on NTN24 (August 14, 2012) (television), and extensively discussed in a Surprisingly Free (August 28, 2012) podcast. This piece of research has continued attracting a bit of attention whenever articles appear about the "deep web." For instance, it was quoted in this long article in France’s Le Nouvel Observateur (July 4, 2013). After the trial of the Silk Road founder concluded, CNBC (June 1, 2015) rediscovered it.
+
+Our follow-up work on the anonymous marketplace ecosystem was extensively covered in Wired (August 12, 2015), Motherboard (August 12, 2015), the Washington Post (August 12, 2015), the Daily Beast (August 20, 2015), in French in Le Monde (August 13, 2015), and in German in the Frankfurter Allgemeine Zeitung (August 14, 2015). It is also cited in CoinDesk (August 16, 2015), and the New Zealand Herald (August 14, 2015).
+
+Since then, I have been somewhat regularly asked to comment about developments in dark web online anonymous marketplaces, e.g., in The New York Times (July 6, 2017), or in Wired (Jun 5, 2020).
+
+Our loosely related work on Bitcoin exchanges was discussed in Wired UK (April 26, 2013).
+
+Our 2011 Financial Cryptography paper on figuring out how much it would take to incentivize people to adopt horrible security practices did not garner a lot of attention when it was originally published, but received extensive coverage after I presented the results at the 2014 Security and Human Behavior workshop: on Engadget (June 15, 2014), Business Insider (June 17, 2014), the Register (June 18, 2014), Slashdot (June 19, 2014), and Bruce Schneier’s blog (June 19, 2014), among many others.
+
+Our USENIX Security 2014 paper on predicting impending web server compromises was covered in the Daily Dot (August 21, 2014) and The Register (August 22, 2014).
+
+Earlier in my career, our work on illicit online pharmacies got a bit of coverage: CMU front page (August 11, 2011), Pittsburgh Post-Gazette, Pittsburgh Tribune, National Public Radio (August 12, 2011).
+
+Back when I was a very junior faculty, our Undercover project was featured on the CMU front page (January 14, 2008), in The Tartan (January 21, 2008), Dark Reading (February 5, 2008), Network World (February 8, 2008), PC World (February 10, 2008), and was "slashdotted" (February 8, 2008).
+
+Our research on passwords was the object of a feature article in Forbes (April 21, 2015), and in the Washington Post (September 8, 2017). Along with our work on online crime, it was also prominently featured in a Nature article (May 12, 2016). More recently, CNET (November 12, 2020) reported on what we hope is the final word (for now) on password-composition policies.
+
+The Register (June 22, 2015) wrote on the problems we identified with nation-scale brokered identification schemes; Computing (June 23, 2015) discussed the GDS response.
+
+Courses taught
+
+19-702: Quantitative Methods for Policy Analysis (S'21, S'22, S'23, S'24).
+
+17-994: Societal Computing Practicum (F'20, S'21, F'21, S'22, F'22, S'23, F'23, S'24).
+
+17-303/17-703/19-303/19-733 (formerly 08-303/19-355): Cryptocurrencies, Blockchains, and Applications (S'17, S'18, S'19, S'20, F'21, F'22, F'23).
+
+17-331/17-631 (formerly 08-631/15-421): Information Security, Privacy, and Policy (F'17, F'18, F'19, F'20).
+
+19-304: Basics of Cryptocurrencies, Blockchains, and Applications (S'20). (This is a "micro", or 3-unit version of the semester-long variant above, that I offered at CMU Qatar in January 2020.)
+
+14-741/18-631: Introduction to Information Security (F'05 (as 14-830), F'06, F'07, F'08, F'09, F'10, F'11, F'12, F'13, F'14, F'15, S'16, F'16).
+
+08-734/08-534/05-836/05-436/19-734/19-534: Usable Privacy and Security (S'16).
+
+14-846: Special Topics: Elements of Web Security (M'15, in Silicon Valley).
+
+18-731: Network Security (S'14).
+
+14-742: Security in Networked Systems (S'06 (as 14-831), S'07, S'08, S'10).
+
+14-813: Special Topics: Elements of Security in Networked Systems (M'09, in Japan).
+
+14-709: Information Networking Thesis (Master’s summer practicum, M'06, M'07, M'08, M'09, M'10).
+
+I also taught a short course (MT-114: Introduction to Information Security) at EM Lyon Business School in June 2011.
+
+Recent professional service
+
+I am co-chairing the Security Track at WWW 2024.
+
+With Vyas Sekar and Konstantinos Pelechrinis, I was the general (co-)chair for IMC 2020, which was held in Pittsburgh online due to the Covid situation. I co-chaired the program committees for WEIS 2020, Financial Cryptography 2014, the Security, Privacy, Trust & Abuse Track at WWW 2014, and the BITCOIN 2015 workshop.
+
+I am/have been a program committee member for a number of conferences and workshops, including USENIX Security (2014, 2015, 2016, 2017, 2022, 2023, 2024), IEEE Symposium on Security & Privacy ("Oakland") (2014, 2015, 2016, 2019, 2020, 2021, 2023), Privacy-Enhancing Technologies Symposium (PETS 2023), ACM CCS (2013, 2017, 2018, 2019, 2020), NDSS (2014, 2015, 2016, 2017), ACM IMC (2024), IEEE Euro S&P (2020), AFT (2023), SOUPS (2019), WWW (2014, 2016, 2017, 2024), IEEE ICNP 2017, CoNext 2016, WEIS (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021), APWG eCrime (2012, 2013, 2014, 2016), NETECON 2016, Financial Cryptography (2012, 2013, 2014, 2015, 2017, 2018, 2024), BITCOIN (2014, 2015, 2016, 2017, 2018), WPES 2015, MILCOM 2014, IEEE CNS 2014, WiSec 2014, TrustCol 2012, GameSec 2012, BADGERS 2012, MedCOMM 2012, USENIX FOCI'11, WECSR 2011, ACM EC (2006, 2010), ACM SAC'09 (Information Security Research Track), ICEC'09, IEEE INFOCOM'07, IBC'06, and P2PECON'05, and I also routinely serve as a reviewer for some journals, including IEEE/ACM Transactions on Networking, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing… I apologize if I was your Reviewer B.
+
+I was the web and publicity chair for ACM SIGCOMM 2011.
+
+While not as principled on this matter as some of my colleagues, I generally decline to review manuscripts for conferences or journals that do not offer an opportunity to authors to make their work open access.
+
+Public service
+
+I served a three-year term (Sept. 2017-August 2020) on the Research subcommittee of the Financial Research Advisory Committee, U.S. Department of Treasury Office of Financial Research.
+
+On March 15, 2018, I testified before the Subcommittee on Terrorism & Illicit Finance, Committee on Financial Services, U.S. House of Representatives, 115th Congress, in a hearing entitled After the Breach: The Monetization and Illicit Use of Stolen Data. My written testimony is here, and the video of the entire hearing is here. My oral testimony starts at 35'55".
+
+Miscellanea
+
+The Silk Road paper eventually indirectly led to my silver screen debut: I got a few seconds of screen time in the Deep Web documentary movie by Alex Winter. So, I technically have a Bacon number of 3 or less (me, Keanu Reeves, Miriam Margolyes, Kevin Bacon – I am trying to get Keanu to play in something with Kevin Bacon, but somehow he is not returning my calls despite our shared movie credits) to go along my Erdös number of 3 or less (me, Ariel Procaccia, Noga Alon, Paul Erdös). I am writing "technically," because there is controversy about whether documentaries should count. But still, it is fun to have a plausible claim to being one of the people to have a finite Erdös-Bacon number. (I am actually very likely to have a finite Erdös-Bacon-Sabbath number, but that’s a story for another day, which involves harkening back to my misspent youth.) A more fun/random fact is that Tim Vidas and I are one of the very rare advisor-advisee pairs to both have (independently computable) finite Erdös-Bacon numbers, since Tim appeared in the DEFCON documentary. My own post-doctoral advisor, John Chuang, also has a finite Erdös-Bacon number, through different chains. So, that is (arguably) three academic generations of Erdös-Bacon number holders in a row!
+
+A long, long time ago, I was responsible for getting the ns-2/nam network simulator to compile and work natively under MS Windows/Cygwin. I have, however, transferred maintenance to the ns-2 development team about twenty years ago, so I am really not the right person to ask anymore, especially given that most of this has been made obsolete by ns-3.
+
+HERE
+Main
+Publications (by year)
+Publications (by topic)
+ELSEWHERE
+19-702 (S24)
+17-994 (S24)
+17-303/17-703/19-303/19-733 (F23)
+17-331/17-631 (F20)
+19-304 (S20)
+SCS
+S3D
+EPP
+CyLab
+ECE
+Societal Computing PhD
+Secure Blockchain Initiative
+Google Scholar profile
+DBLP profile
+ORCID profile
+CONTACT
+Nicolas Christin
+Carnegie Mellon University
+Collaborative Innovation Center #2202
+4720 Forbes Avenue
+Pittsburgh, PA 15213
+U.S.A.
+Phone: (+1) 412-268-4432
+Fax: (+1) 412-268-7675
+Twitter: @nc2y
+Email: nicolasc@cmu.edu
+(PGP key)
+
+Administrative assistants:
+Alisha Roudebush (Societal Computing matters only)
+Brittany Frost (everything else)
+
+Email is by far the best way to reach me. I seldom never check voicemail.
+
+This work is licensed under CC BY-NC-SA 4.0.
+
+
+Copyright © Nicolas Christin 1998-2024. All content on this website (including text, photographs, software, and any other original works), unless otherwise noted, is licensed under a Creative Commons License. The layout is derived from MovableStyle's "WinterWonder" theme.
+
+Last modified: 2024-05-10 14:07:04 -0400 -0400
+
+
+"Coffee is for closers only."
+(Glengarry Glen Ross)
+
+ 
+

@@ -1,0 +1,129 @@
+Professor: Aurojit Panda
+University: New York University
+URL: https://cs.nyu.edu/~apanda
+Description: Aurojit Panda
+
+405, 60 Fifth Ave.
+
+apanda@cs.nyu.edu 
+Mail Trackers Verboten
+@apanda 
+apanda 
+
+I am an assistant professor in Computer Science at NYU. Previously, I received my PhD from UC Berkeley where I was advised by Scott Shenker and worked in the NetSys Lab. Even earlier, I received a Sc.B. with honors in Math-CS from Brown.
+
+My research interests lie in finding lightweight mechanisms for achieving correctness in systems (broadly defined). My dissertation looked at how to implement and execute network functions; and how to verify correctness for NFV (network function virtualization) deployments. A selection of past projects and publications can be found on this site.
+
+Before starting at NYU, I spent a year as a software developer at Nefeli Networks, a startup focused on solutions for Network Function orchestration. Between Brown and Berkeley I spent a few years working on the Midori kernel at Microsoft.
+
+Working with me
+
+I am always interested in finding students to work with me. At present (late 2022) my main interests are in (a) checking that distributed systems are executing correctly (see here for a very high-level overview); (b) in programming frameworks that make it easier to offload logic to the operating system and SmartNICs (see Bertha, Kopi and Menshen below); (c) in enforcing richer polices in distributed applications; (d) in developing tools for debugging machine learning models and tooling (see our ICML paper on Enola); and (e) in debugging and reasoning about distributed applications. That said, I tend to work on any problem that seems interesting, and am happy to work outside of these areas.
+
+Note that I cannot respond to most e-mails asking me to evaluate your application, and I suggest that you just apply.
+
+Teaching
+Spring 2024	Distributed Systems
+Fall 2023	CS202: Undergraduate Operating Systems
+Spring 2023	Big Data and Machine Learning
+Fall 2022	Distributed Systems
+Spring 2022	Big Data and Machine Learning
+Fall 2021	Distributed Systems
+Spring 2021	Big Data and Machine Learning
+Fall 2020	Distributed Systems
+Spring 2020	Undergraduate Operating Systems
+Fall 2019	Undergraduate Computer Networks
+Fall 2018	Distributed Systems
+Publications
+2024
+Efficient Auditing of Event-driven Web Applications. Ioanna Tzialla, Jeffery Wang, Jingyi Zhu, Aurojit Panda, Michael Waflish. EuroSys 2024.
+2023
+Of Apples and Oranges: Fair Comparisons in Heterogenous Systems Evaluation Hugo Sadok, Aurojit Panda, Justine Sherry. HotNets 2023.
+Logical memory pools: Flexible and local disaggregated memory. Emmanuel Amaro, Stephanie Wang, Aurojit Panda, Marcos K. Aguilera. HotNets 2023.
+How I Learned to Stop Worrying About CCA Contention. Lloyd Brown, Yash Kothari, Akshay Narayan, Arvind Krishnamurthy, Aurojit Panda, Justine Sherry, Scott Shenker. HotNets 2023.
+Automatic Kernel Offload using BPF. Farbod Shahnifar, Sebastiano Milano, Giuseppe Siracusano, Roberto Bifulco, Aurojit Panda, Gianni Antichi. HotOS 2023.
+Access Control for Database Applications: Beyond Policy Enforcement. Wen Zhang, Aurojit Panda, Scott Shenker. HotOS 2023.
+Enso: A Streaming Interface for NIC-Application Communication. Hugo Sadok, Nirav Atre, Zhipeng Zhao, Daniel S. Berger, James C. Hoe, Aurojit Panda, Justine Sherry, Ren Wang. OSDI 2023.
+Fine-Grained Re-Execution for Efficient Batched Commit of Distributed Transactions. Zhiyuan Dong, Zhaoguo Wang, Zhang Xiaodong, Xu Xian, Changgeng Zhao, Haibo Chen, Aurojit Panda, Jinyang Li. VLDB 2023.
+NNSmith: Generating Diverse and Valid Test Cases for Deep Learning Compilers. Jiawei Liu, Jinkun Lin, Fabian Ruffy, Cheng Tan, Jinyang Li, Aurojit Panda, Lingming Zhang. ASPLOS 2023.
+2022
+The Case for an Internet Primitive for Fault Localization. Will Sussman, Emily Marx, Venkat Arun, Akshay Narayan, Mohammad Alizadeh, Hari Balakrishnan, Aurojit Panda, Scott Shenker. Hotnets 2022.
+Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments. Jinkun Lin, Anqi Zhang, Mathias Lécuyer, Jinyang Li, Aurojit Panda, Siddhartha Sen. ICML 2022.
+Blockaid: Data Access Policy Enforcement for Web Applications. Wen Zhang, Eric Sheng, Michael Chang, Aurojit Panda, Mooly Sagiv, Scott Shenker. OSDI 2022.
+CostCO: An automatic cost modeling framework for secure multi-party computation. Vivian Fang, Lloyd Brown, William Lin, Wenting Zheng, Aurojit Panda, Raluca Popa. Euro S&P 2022.
+Isolation mechanisms for high-speed packet-processing pipelines. Tao Wang, Xiangrui Yang, Gianni Antichi, Anirudh Sivaraman, Aurojit Panda. NSDI 2022.
+2021
+Revitalizing the Public Internet By Making it Extensible. Hari Balakrishnan, Sujata Banerjee, Israel Cidon, David Culler, Deborah Estrin, Ethan Katz-Bassett, Arvind Krishnamurthy, Murphy McCauley, Nick McKeown, Aurojit Panda, Sylvia Ratnasamy, Jennifer Rexford, Michael Schapira, Scott Shenker, Ion Stoica, David Tennenhouse, Amin Vahdat, and Ellen Zegura. CCR Editorial 2021.
+We Need Kernel Interposition over the Network Dataplane Hugo Sadok, Zhipeng Zhao, Valerie Choung, Nirav Atre, Daniel S. Berkger, James C. Hoe, Aurojit Panda, Justine Sherry. HotOS 2021.
+Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning Wenting Zheng, Ryan Deng, Weikeng Chen, Raluca Ada Popa, Aurojit Panda, Ion Stoica. USENIX Security 2021.
+2020
+Bertha: Tunneling through the Network API Akshay Narayan, Aurojit Panda, Mohammad Alizadeh, Hari Balakrishnan, Arvind Krishnamurthy, Scott Shenker. HotNets 2020.
+Remote Memory Calls Emmanuel Amaro, Zhihong Luo, Amy Ousterhout, Arvind Krishnamurthy, Aurojit Panda, Sylvia Ratnasamy, Scott Shenker. HotNets 2020.
+Kappa: A Programming Framework for Serverless Computing Wen Zhang, Vivian Fang, Aurojit Panda, Scott Shenker. SOCC 2020.
+Making Edge-Computing Resilient Yotam Harchol, Aisha Mushtaq, Vivian Fang, James McCauley, Aurojit Panda, Scott Shenker. SOCC 2020.
+A Public Option for the Core Yotam Harchol, Dirk Bergemann, Nick Feamster, Eric Friedman, Arvind Krishnamurthy, Aurojit Panda, Sylvia Ratnasamy, Michael Schapira and Scott Shenker. SIGCOMM 2020.
+EGGS: Sparsity-Specific Code Generation Xuan Tang, Teseo Schneider, Shoaib Kamil, Aurojit Panda, Jinyang Li, Daniele Panozzo. SGP 2020.
+Multitenancy for Fast and Programmable Networks in the Cloud Tao Wang, Hang Zhu, Fabian Ruffy, Xin Jin, Anirudh Sivaraman, Dan R.K. Ports, Aurojit Panda. HotCloud 2020.
+Can Far Memory Improve Job Throughput? Emmanuel Amaro, Christopher Branner-Augmon, Zhihong Luo, Amy Ousterhout, Marcos K. Aguilera, Aurojit Panda, Sylvia Ratnasamy and Scott Shenker. EuroSys 2020.
+Network architecture in the age of programmability Anirudh Sivaraman, Thomas O. Mason, Aurojit Panda, Ravi Netravali, Sai Anirudh Kondaveeti. CCR Editorial. January 2020.
+2019
+Enabling a Permanent Revolution in Internet Architecture James McCauley, Barath Raghavan, Yotam Harchol, Aurojit Panda, Scott Shenker. SIGCOMM 2019.
+Thoughts on Load Distribution and the Role of Programmable Switches James McCauley, Aurojit Panda, Arvind Krishnamurthy, Scott Shenker. CCR Editorial. January 2019.
+2018
+Revisiting Network Support for RDMA Radhika Mittal, Alex Shpiner, Aurojit Panda, Eithan Zahavi, Arvind Krishnamurthy, Sylvia Ratnasamy, Scott Shenker. SIGCOMM 2018.
+Monarch: Gaining Command on Geo-Distributed Graph Analytics Anand Iyer, Aurojit Panda, Mosharaf Chowdhury, Aditya Akella, Scott Shenker, Ion Stoica. HotCloud 2018.
+Bridging the GAP: Towards Approximate Graph Analytics Anand Iyer, Aurojit Panda, Shivaram Venkatraman, Mosharaf Chowdhury, Aditya Akella, Scott Shenker, Ion Stoica. GRADES-NDA 2018.
+Network Evolution for DNNs Michael Chang, Aurojit Panda, Domenic Bottini, Lisa Jian, Pranay Kumar, Scott Shenker. SysML 2018.
+Tasvir: Distributed Shared Memory for Machine Learning Amin Tootoonchian, Aurojit Panda, Aida Nematzadeh, Scott Shenker. SysML 2018.
+ResQ: Enabling SLOs in Network Function Virtualization Amin Tootoonchian, Aurojit Panda, Chang Lan, Melvin Walls, Katerina Argyraki, Sylvia Ratnasamy, Scott Shenker. NSDI 2018.
+2017
+Drizzle: Fast and Adaptable Stream Processing at Scale Shivaram Venkatraman, Aurojit Panda, Kay Ousterhout, Michael Armbrust, Ali Ghodsi, Michael J. Franklin, Benjamin Recht, Ion Stoica. SOSP 2017.
+Verification in the Age of Microservices. Aurojit Panda, Mooly Sagiv, Scott Shenker. HotOS 2017.
+System Programming in Rust: Beyond Safety. Abhiram Balasubramnian, Marek S. Baranowski, Anton Burtsev, Aurojit Panda, Zvonimir Rakamaric, Leonid Ryzhyk. HotOS 2017.
+SCL: Simplfying Distributed SDN Control Planes. Aurojit Panda, Wenting Zheng, Xiaohe Hu, Arvind Krishnamurthy, Scott Shenker. NSDI 2017.
+Verifying Reachability in Networks with Mutable Datapaths. Aurojit Panda, Ori Lahav, Katerina Argyraki, Mooly Sagiv, Scott Shenker. NSDI 2017.
+2016
+NetBricks: Taking the V out of NFV. Aurojit Panda, Sangjin Han, Keon Jang, Melvin Walls, Sylvia Ratnasamy, Scott Shenker. OSDI 2016 Project Page Slides
+Ivy: Interactive Verification of Parameterized Systems via Effectively Propositional Reasoning. Oded Padon, Kenneth McMillan, Aurojit Panda, Mooly Sagiv, Sharon Shoham. PLDI 2016
+The Quest for Resilient (Static) Forwarding Tables. Marco Chiesa, Ilya Nikolavskiy, Slobodan Mirtovic, Aurojit Panda, Andrei Gurtov, Aleksander Madry, Michael Schapira, Scott Shenker. INFOCOMM 2016
+Minimizing Faulty Executions of Distributed Systems. Colin Scott, Aurojit Panda, Vjekoslav Brajkovic, George Necula, Arvind Krishnamurthy, Scott Shenker. NSDI 2016
+Some Complexity Results for Stateful Network Verification. Yaron Velner, Kalev Alpernas, Aurojit Panda, Alexander Rabinovich, Mooly Sagiv, Scott Shenker, Sharon Shoham. TACAS 2016
+Open Network Interfaces for Carrier Networks. Aurojit Panda, James McCauley, Amin Tootoonchian, Justine Sherry, Teemu Koponen, Sylvia Ratnasamy, Scott Shenker. SIGCOMM CCR Jan. 2016
+2015
+E2: A Framework for NFV Applications. Shoumik Palkar, Chang Lan, Sangjin Han, Keon Jang, Aurojit Panda, Sylvia Ratnasamy, Luigi Rizzo, Scott Shenker. SOSP 2015
+Rollback-Recovery for Middleboxes. Justine Sherry, Peter Xiang Gao, Soumya Basu, Aurojit Panda, Arvind Krishnamurthy, Christian Maciocco, Maziar Manesh, João Martins, Sylvia Ratnasamy, Luigi Rizzo, Scott Shenker. SIGCOMM 2015 (Best Student Paper)
+Route Bazaar: Automatic Interdomain Contract Negotiation. Ignacio Castro, Aurojit Panda, Barath Raghavan, Scott Shenker, Sergey Gorinsky. HotOS 2015
+New Directions for Network Verification. Aurojit Panda, Katerina Argyraki, Mooly Sagiv, Michael Schapira, Scott Shenker. SNAPL 2015 Slides: [pdf]
+2014
+PRAN: Programmable Radio Access Networks. Wenfei Wu, Li Erran Li, Aurojit Panda, Scott Shenker. HotNets 2014
+The Power of Choice in Data-Aware Cluster Scheduling. Shivaram Venkatraman, Aurojit Panda, Ganesh Ananthanarayanan, Michael Franklin, Ion Stoica. OSDI 2014
+Troubleshooting Blackbox SDN Control Software with Minimal Causal Sequences. Colin Scott, Andreas Wundsam, Barath Raghavan, Aurojit Panda, Andrew Or, Jefferson Lai, Eugene Huang, Zhi Liu, Ahmed El-Hassany, Sam Whitlock, H.B. Acharya, Kyriakos Zarifis, Scott Shenker. SIGCOMM 2014
+2013
+Network Support for Resource Disaggregation in Next-Generation Data Centers. Sangjin Han, Nobert Egi, Aurojit Panda, Sylvia Ratnasamy, Guangyu Shi, Scott Shenker. HotNets 2013
+CAP for Networks. Aurojit Panda, Colin Scott, Ali Ghodsi, Teemu Koponen, Scott Shenker. HotSDN 2013 Slides: [pdf]
+The Case for Tiny Tasks in Compute Clusters. Kay Ousterhout, Aurojit Panda, Josh Rosen, Shivaram Venkatraman, Reynold Xin, Sylvia Ratnasamy, Scott Shenker, Ion Stoica. HotOS 2013
+HW Databases, Where art Thou?. Sangjin Han, Aurojit Panda, Sylvia Ratnasamy. TinyTOCS 2013
+BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data. Sameer Agarwal, Barzan Mozafari, Aurojit Panda, Henry Milner, Samuel Madden, Ion Stoica. EuroSys 2013 (Best Paper)
+Ensuring Connectivity via Data Plane Mechanisms. Junda Liu, Aurojit Panda, Ankit Singla, P. Brighten Godfrey, Michael Schapira, Scott Shenker. NSDI 2013 Slides: [pdf]
+2012
+A New Approach to Interdomain Routing Based on Secure Multi-Party Computation. Debayan Gupta, Aaron Segal, Aurojit Panda, Gil Sagev, Michael Schapira, Joan Feigenbaum, Jennifer Rexford, Scott Shenker. HotNets 2012
+On the Resilience of Routing Tables. Joan Feigenbaum, P. Brighten Godfrey, Aurojit Panda, Michael Schapira, Scott Shenker, Ankit Singla. PODC 2012
+2008
+Model Restarts for Structural Symmetry Breaking. Daniel Heller, Aurojit Panda, Meinolf Sellmann, Justin Yip. Principles and Practices of Constraint Programming 2008
+Service
+Reviewing
+NSDI: 2019. 2020, 2022
+SIGCOMM: 2019, 2020, 2022.
+OSDI: 2021, 2022.
+SOSP: 2023.
+HotNets: 2018. 2021, 2022, 2023 (PC chair).
+HotOS: 2023.
+Conext: 2018, 2022.
+EuroDW: 2018, 2022.
+SOSR: 2018, 2020.
+ANCS 2018.
+KBNets 2018.
+SecSoN 2018.
+EuroSys Doctoral Workshop 2018.
+MobiSys (Extended Review Committee) 2018.
+

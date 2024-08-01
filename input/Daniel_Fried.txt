@@ -1,0 +1,66 @@
+Professor: Daniel Fried
+University: Carnegie Mellon University
+URL: https://dpfried.github.io/
+Description: Daniel Fried
+
+I'm an assistant professor at the Language Technologies Institute in the School of Computer Science at Carnegie Mellon University, working on natural language processing. I'm also a research scientist at Meta.
+
+My work focuses on enabling people to use language to interact with computers to carry out useful tasks in the world. One recurring theme in my work is pragmatics: viewing language as an action that people take in context to affect their communicative partners (see our survey and position paper). I'm excited about domains where computers can complement human abilities. Recently, I've been focusing on code generation, aiming to make programming more communicative.
+
+Previously, I was a postdoc at FAIR Seattle and the University of Washington. I completed a PhD at UC Berkeley in the NLP Group and the Berkeley AI Research Lab, an M.Phil. at the Cambridge Computer Laboratory and a B.S. at the University of Arizona.
+
+Sponsorship: Our work has been supported by gifts from the Okawa Foundation, Google, Cisco Systems, Autodesk, and Open Philanthropy.
+
+Office: Gates-Hillman Center 6509
+Email: dfried@cs.cmu.edu (note for prospective students)
+If you are a CMU student interested in working with me in the Summer or Fall semester, please fill out this form.
+Unfortunately, I do not have internship openings for students outside CMU at this time.
+
+Links: CV • Google Scholar • Twitter
+
+Research Topics • News • People • Papers • Talks • Teaching
+Overview Slides (2023) • Research Statement (2024)
+
+
+Grounded interaction
+
+
+How can we help people use language to interact with computers to carry out tasks in the world? I'm especially interested in multi-turn, task-oriented settings.
+
+Tree Search for Language Model Agents (preprint)
+VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks (ACL 2024)
+Symbolic Planning and Code Generation for Grounded Dialogue (EMNLP 2023)
+Grounding Language Models to Images for Multimodal Inputs and Outputs (ICML 2023)
+Generating Images with Multimodal Language Models (NeurIPS 2023)
+WebArena: A Realistic Web Environment for Building Autonomous Agents (ICLR 2024)
+Sotopia: Interactive Evaluation for Social Intelligence in Language Agents (ICLR 2024)
+	
+
+Code generation
+
+
+We're aiming to make programming more communicative, by creating models, methods, and datasets for producing code from language.
+
+TroVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks (ICML 2024)
+CodeRAG-Bench: Can Retrieval Augment Code Generation? (preprint)
+CodeBenchGen: Creating Scalable Execution-based Code Generation Benchmarks (preprint)
+InCoder: A Generative Model for Code Infilling and Synthesis (ICLR 2023)
+StarCoder: May the Source Be With You (TMLR 2023)
+DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation (ICML 2023)
+Natural Language to Code Translation with Execution (EMNLP 2022)
+	
+
+Applied pragmatics
+
+
+Much of our work takes a multi-agent system perspective on communication, showing that we can improve NLP agents by modeling the intents and interpretations that people have when they use language.
+
+Pragmatics in Language Grounding: Phenomena, Tasks, and Modeling Approaches (Findings of EMNLP 2023)
+Generating Pragmatic Examples to Train Neural Program Synthesizers (ICLR 2024)
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning (Findings of ACL 2023)
+Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning (Science 2022)
+Inferring Rewards from Language in Context (ACL 2022)
+Speaker-Follower Models for Vision and Language Navigation (NeurIPS 2018)
+Unified Pragmatic Models for Generating and Following Instructions (NAACL 2018)
+	
+

@@ -1,0 +1,414 @@
+Professor: Yingyu Liang
+University: University of Wisconsin - Madison
+URL: http://pages.cs.wisc.edu/~yliang
+Description: Yingyu Liang
+
+
+Home
+Teaching
+Publications
+Links
+About Me
+I am an associate professor of Computer Sciences at the University of Wisconsin-Madison. Before Madison, I was a postdoc at Princeton and had the pleasure to work with Sanjeev Arora. I received my Ph.D. in 2014 from Georgia Tech, where I was fortunate to be advised by Nina Balcan and also work closely with Le Song. I received my M.S. (2010) and B.S. (2008) from Tsinghua University under the great guidance of Jianmin Li and Bo Zhang. I'm a recipient of the NSF CAREER award.
+
+
+Contact
+
+
+yliang at cs dot wisc dot edu
+Office 5387, Department of Computer Sciences, University of Wisconsin-Madison
+
+Research
+
+Machine learning. In particular, providing theoretical foundations for modern machine learning models and designing efficient algorithms for real world applications. Recent focuses include optimization and generalization in deep learning, robust machine learning, and their applications.
+
+Teaching
+
+UW-Madison CS 839: Theoretical Foundations of Deep Learning [Spring 2023][Spring 2022]
+
+
+UW-Madison CS 540: Introduction to Artificial Intelligence [Fall 2023] [Fall 2022] [Fall 2021] [Fall 2020] [Spring 2019] [Spring 2018]
+
+
+UW-Madison CS 760: Machine Learning [Spring 2021] [Spring 2020] [Fall 2018] [Fall 2017]
+
+
+Princeton COS 495: Introduction to Deep Learning [Spring 2016]
+
+
+Advising
+
+Students
+
+Mehmet Furkan Demirel, Yang Guo (Co-advised with Somesh Jha), Zhenmei Shi, Junyi Wei, Zhuoyan Xu, Nils Palumbo
+
+Alumni
+
+Jiefeng Chen (Co-advised with Somesh Jha), Prathusha Sarma (Co-advised with William Sethares), Siddhant Garg, Zhongkai Sun (Co-advised with William Sethares), Shengchao Liu
+Selected Recent Publications
+(authors are listed in alphabetic order, except for those papers with *)
+
+The Trade-off between Universality and Label Efficiency of Representations from Contrastive Learning*
+Zhenmei Shi, Jiefeng Chen, Kunyang Li, Jayaram Raghuram, Xi Wu, Yingyu Liang, Somesh Jha.
+International Conference on Learning Representations (ICLR), 2023.
+[ICLR]
+
+A Theoretical Analysis on Feature Learning in Neural Networks: Emergence from Inputs and Advantage over Fixed Features*
+Zhenmei Shi, Jenny Wei, Yingyu Liang.
+International Conference on Learning Representations (ICLR), 2022.
+[ICLR]
+
+Functional Regularization for Representation Learning: A Unified Theoretical Perspective
+Siddhant Garg, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2020.
+[ARXIV]
+
+Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers
+Zeyuan Allen-Zhu, Yuanzhi Li, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2019.
+[ARXIV]
+
+Publications
+
+Journal Publications
+
+Graph neural network for predicting the effective properties of polycrystalline materials: A comprehensive analysis*
+Minyi Dai, Mehmet F. Demirel, Xuanhan Liu, Yingyu Liang, Jia-Mian Hu.
+Computational Materials Science, Volume 230, October 2023.
+[Computational Materials Science] [ARXIV]
+
+Attentive Walk-Aggregating Graph Neural Network*
+Mehmet F. Demirel, Shengchao Liu, Siddhant Garg, Zhenmei Shi, Yingyu Liang.
+Transaction of Machine Learning Research (TMLR), 2022.
+[OPENREVIEW] [ARXIV] [CODE]
+
+Graph Neural Networks for An Accurate and Interpretable Prediction of the Properties of Polycrystalline Materials*
+Minyi Dai, Mehmet F. Demirel, Yingyu Liang, Jia-Mian Hu.
+NPJ Computational Materials 7: 103 (2021).
+[NPJ CM] [ARXIV]
+
+Non-Convex Matrix Completion and Related Problems via Strong Duality
+Maria-Florina Balcan, Yingyu Liang, Zhao Song, David P. Woodruff, Hongyang Zhang.
+Journal of Machine Learning Research (JMLR), 2019.
+[JMLR] [ARXIV]
+
+Linear Algebraic Structure of Word Senses, with Applications to Polysemy
+Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski.
+Transactions of the Association for Computational Linguistics (TACL), 2018.
+[TACL] [ARXIV] [CODE] [Police Lineup Test bed] [Sanjeev's post]
+
+Mapping Between Natural Movie fMRI Responses and Word-Sequence Representations*
+Kiran Vodrahalli, Po-Hsuan Chen, Yingyu Liang, Janice Chen, Esther Yong, Christopher Honey, Peter Ramadge, Ken Norman, Sanjeev Arora.
+Neuroimage, 2017.
+[Neuroimage] [ARXIV][Appear in NIPS'16 Workshop]
+
+Scalable Influence Maximization for Multiple Products in Continuous-Time Diffusion Networks*
+Nan Du, Yingyu Liang, Maria-Florina Balcan, Manuel Gomez-Rodriguez, Hongyuan Zha, Le Song.
+Journal of Machine Learning Research (JMLR), 2017.
+[JMLR] [ARXIV]
+
+A Latent Variable Model Approach to PMI-based Word Embeddings
+Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski.
+Transactions of the Association for Computational Linguistics (TACL), 2016.
+[TACL] [ARXIV] [CODE] [Sanjeev's post]
+
+Clustering Under Perturbation Resilience
+Maria-Florina Balcan, Yingyu Liang.
+SIAM Journal on Computing (SICOMP), 2016.
+[SICOMP] [ARXIV]
+
+Robust Hierarchical Clustering
+Maria-Florina Balcan, Pramod Gupta, Yingyu Liang.
+Journal of Machine Learning Research (JMLR), 2014.
+[JMLR] [ARXIV] [CODE]
+
+Conference Publications
+
+Provable Guarantees for Neural Networks via Gradient Feature Learning*
+Zhenmei Shi, Jenny Wei, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2023.
+
+
+Dissecting Knowledge Distillation: An Exploration of its Inner Workings and Applications*
+Utkarsh Ojha, Yuheng Li, Anirudh Sundara Rajan, Yingyu Liang, Yong Jae Lee.
+Neural Information Processing Systems (NeurIPS), 2023.
+
+
+Stratified Adversarial Robustness with Rejection*
+Jiefeng Chen, Jayaram Raghuram, Jihye Choi, Xi Wu, Yingyu Liang, Somesh Jha.
+International Conference on Machine Learning (ICML), 2023.
+[ICML] [ARXIV]
+
+When and How Does Known Class Help Discover Unknown Ones? Provable Understandings Through Spectral Analysis*
+Yiyou Sun, Zhenmei Shi, Yingyu Liang, Yixuan Li.
+International Conference on Machine Learning (ICML), 2023.
+[ICML] [ARXIV]
+
+The Trade-off between Universality and Label Efficiency of Representations from Contrastive Learning*
+Zhenmei Shi, Jiefeng Chen, Kunyang Li, Jayaram Raghuram, Xi Wu, Yingyu Liang, Somesh Jha.
+International Conference on Learning Representations (ICLR), 2023. (Spotlight)
+[ICLR]
+
+A Theoretical Analysis on Feature Learning in Neural Networks: Emergence from Inputs and Advantage over Fixed Features*
+Zhenmei Shi, Jenny Wei, Yingyu Liang.
+International Conference on Learning Representations (ICLR), 2022.
+[ICLR]
+
+Towards Evaluating the Robustness of Neural Networks Learned by Transduction*
+Jiefeng Chen, Xi Wu, Yang Guo, Yingyu Liang, Somesh Jha.
+International Conference on Learning Representations (ICLR), 2022.
+[ICLR]
+
+Deep Online Fused Video Stabilization*
+Zhenmei Shi, Fuhao Shi, Wei-Sheng Lai, Chia-Kai Liang, Yingyu Liang.
+Winter Conference on Applications of Computer Vision (WACV), 2022.
+[Project Page]
+
+Detecting Errors and Estimating Accuracy on Unlabeled Data with Self-training Ensembles*
+Jiefeng Chen, Frederick Liu, Besim Avci, Xi Wu, Yingyu Liang, Somesh Jha.
+Neural Information Processing Systems (NeurIPS), 2021.
+[ARXIV]
+
+ATOM: Robustifying Out-of-distribution Detection Using Outlier Mining*
+Jiefeng Chen, Yixuan Li, Xi Wu, Yingyu Liang, Somesh Jha.
+European Conference on Machine Learning (ECML), 2021.
+[ECML] [ARXIV]
+
+A New View of Multi-modal Language Analysis: Audio and Video Features as Text “Styles”*
+Zhongkai Sun, Prathusha Kameswara Sarma,William Sethares, Yingyu Liang.
+The Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2021.
+[EACL]
+
+Functional Regularization for Representation Learning: A Unified Theoretical Perspective
+Siddhant Garg, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2020.
+[ARXIV]
+
+Learning Entangled Single-Sample Gaussians in the Subset-of-Signals Model
+Yingyu Liang, Hui Yuan.
+Annual Conference on Learning Theory (COLT), 2020.
+[ARXIV]
+
+Gradients as Features for Deep Representation Learning*
+Fangzhou Mu, Yin Li, Yingyu Liang.
+International Conference on Learning Representations (ICLR), 2020.
+[OPENREVIEW]
+
+PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding*
+Zhao Jinman, Shawn Zhong, Xiaomin Zhang, Yingyu Liang.
+Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2020.
+[ARXIV]
+
+Learning Entangled Single-Sample Distributions via Iterative Trimming*
+Hui Yuan, Yingyu Liang.
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.
+[ARXIV]
+
+Sketching Transformed Matrices with Applications to Natural Language Processing
+Yingyu Liang, Zhao Song, Mengdi Wang, Lin F. Yang, Xin Yang.
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.
+[ARXIV]
+
+Learning Relationships between Text, Audio, and Video via Deep Canonical Correlation for Multimodal Language Analysis*
+Zhongkai Sun, Prathusha Kameswara Sarma, William Sethares, Yingyu Liang.
+AAAI Conference on Artificial Intelligence (AAAI), 2020.
+[ARXIV]
+
+Beyond Fine-tuning: Few-Sample Sentence Embedding Transfer*
+Sidhhant Garg, Rohit Sharma, Yingyu Liang.
+The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP), 2020.
+[ARXIV]
+
+Can Adversarial Weight Perturbations Inject Neural Backdoors?*
+Siddhant Garg, Adarsh Kumar, Vibhor Goel, Yingyu Liang.
+International Conference on Information and Knowledge Management (CIKM), 2020.
+[ARXIV]
+
+N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules*
+Shengchao Liu, Mehmet Furkan Demirel, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2019. (Spotlight)
+[ARXIV] [slides]
+
+Robust Attribution Regularization*
+Jiefeng Chen, Xi Wu, Vaibhav Rastogi, Yingyu Liang, Somesh Jha.
+Neural Information Processing Systems (NeurIPS), 2019.
+[ARXIV]
+
+Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers
+Zeyuan Allen-Zhu, Yuanzhi Li, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2019.
+[ARXIV]
+
+Shallow Domain Adaptive Embeddings for Sentiment Analysis*
+Prathyusha Sharma, Bill Sethares, Yingyu Liang.
+Empirical Methods in Natural Language Processing (EMNLP), 2019.
+[ARXIV]
+
+Towards Understanding Limitations of Pixel Discretization Against Adversarial Attacks*
+Jiefeng Chen, Xi Wu, Vaibhav Rastogi, Yingyu Liang, Somesh Jha.
+IEEE European Symposium on Security and Privacy 2019 (EuroS&P), 2019.
+[ARXIV]
+
+Recovery Guarantees for Quadratic Tensors with Limited Observations*
+Hongyang Zhang, Vatsal Sharan, Moses Charikar, Yingyu Liang.
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2019.
+[ARXIV]
+
+Loss-Balanced Task Weighting to Reduce Negative Transfer in Multi-Task Learning*
+Shengchao Liu, Yingyu Liang, Anthony Gitter.
+AAAI Conference on Artificial Intelligence (AAAI), 2019, Student Abstract and Poster Program.
+[AAAI] [Appendix]
+
+Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data
+Yuanzhi Li, Yingyu Liang.
+Neural Information Processing Systems (NeurIPS), 2018. (Spotlight)
+[ARXIV]
+
+Generalizing Word Embeddings using Bag of Subwords*
+Jinman Zhao, Sidharth Mudgal, Yingyu Liang.
+Empirical Methods in Natural Language Processing (EMNLP), 2018.
+[ARXIV] [CODE]
+
+Learning Mixtures of Linear Regressions with Nearly Optimal Complexity
+Yuanzhi Li, Yingyu Liang.
+Annual Conference on Learning Theory (COLT), 2018.
+[ARXIV]
+
+A La Carte Embeddings: Cheap but Effective Induction of Semantic Feature Vectors*
+Mikhail Khodak, Nikunj Saunshi, Yingyu Liang, Tengyu Ma, Brandon Stewart, Sanjeev Arora.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2018.
+[PAPER] [ARXIV] [CODE]
+
+Domain Adapted Word Embeddings for Improved Sentiment Classification*
+Prathyusha Sharma, Bill Sethares, Yingyu Liang.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2018.
+[PAPER] [ARXIV]
+
+Matrix Completion and Related Problems via Strong Duality
+Maria-Florina Balcan, Yingyu Liang, David P. Woodruff, and Hongyang Zhang.
+Innovations in Theoretical Computer Science Conference (ITCS), 2018.
+[ARXIV]
+
+Generalization and Equilibrium in Generative Adversarial Nets (GANs)
+Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang.
+International Conference on Machine Learning (ICML), 2017.
+[PAPER] [ARXIV]
+
+Provable Alternating Gradient Descent for Non-negative Matrix Factorization with Strong Correlations
+Yuanzhi Li, Yingyu Liang.
+International Conference on Machine Learning (ICML), 2017.
+[PAPER] [ARXIV] [CODE]
+
+Differentially Private Clustering in High-Dimensional Euclidean Spaces
+Maria-Florina Balcan, Travis Dick, Yingyu Liang, Wenlong Mou, Hongyang Zhang.
+International Conference on Machine Learning (ICML), 2017.
+[PAPER]
+
+A Simple but Tough-to-Beat Baseline for Sentence Embedding
+Sanjeev Arora, Yingyu Liang, Tengyu Ma.
+International Conference on Learning Representations (ICLR), 2017.
+[OPEN REVIEW] [CODE] [minimal example CODE] [Preliminary version appeared in NIPS'16 Workshop]
+
+Diverse Neural Network Learns True Target Functions*
+Bo Xie, Yingyu Liang, Le Song.
+International Conference on Artificial Intelligence and Statistics (AISTAT), 2017.
+[ARXIV][Preliminary version appeared in NIPS'16 Workshop]
+
+Recovery Guarantee of Non-negative Matrix Factorization via Alternating Updates
+Yuanzhi Li, Yingyu Liang, Andrej Risteski.
+Neural Information Processing Systems (NIPS), 2016.
+[ARXIV]
+
+Recovery Guarantee of Weighted Low-Rank Approximation via Alternating Minimization
+Yuanzhi Li, Yingyu Liang, Andrej Risteski.
+International Conference on Machine Learning (ICML), 2016.
+[ARXIV]
+
+Communication Efficient Distributed Kernel Principal Component Analysis
+Maria-Florina Balcan, Yingyu Liang, Le Song, David Woodruff, Bo Xie.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2016.
+[PAPER and VIDEO] [ARXIV]
+
+Learning in Indefinite Proximity Spaces - Recent Trends*
+Frank-Michael Schleif, Peter Tino, Yingyu Liang.
+European Symposium on Artificial Neural Networks (ESANN), 2016.
+[PAPER]
+
+Scale Up Nonlinear Component Analysis with Doubly Stochastic Gradients*
+Bo Xie, Yingyu Liang, Le Song.
+Neural Information Processing Systems (NIPS), 2015.
+[ARXIV]
+
+Distributed Frank-Wolfe Algorithm: A Unified Framework for Communication-Efficient Sparse Learning*
+Aurelien Bellet, Alireza Bagheri Garakani, Yingyu Liang, Maria-Florina Balcan, Fei Sha.
+SIAM International Conference on Data Mining (SDM), 2015.
+[ARXIV] [PRESENTATION] [CODE]
+
+Scalable Kernel Methods via Doubly Stochastic Gradients*
+Bo Dai, Bo Xie, Niao He, Yingyu Liang, Anant Raj, Maria-Florina Balcan, Le Song.
+Neural Information Processing Systems (NIPS), 2014.
+[ARXIV] [POSTER] [CODE]
+
+Learning Time-Varying Coverage Functions*
+Nan Du, Yingyu Liang, Maria-Florina Balcan, Le Song.
+Neural Information Processing Systems (NIPS), 2014.
+[FULL VERSION] [POSTER]
+
+Improved Distributed Principal Component Analysis
+Maria-Florina Balcan, Vandana Kanchanapally, Yingyu Liang, David Woodruff.
+Neural Information Processing Systems (NIPS), 2014.
+[ARXIV] [POSTER] [CODE]
+
+Influence Function Learning in Information Diffusion Networks*
+Nan Du, Yingyu Liang, Maria-Florina Balcan, Le Song.
+The 31th International Conference on Machine Learning (ICML), 2014.
+[PAPER] [FULL VERSION] [POSTER] [CODE]
+
+Distributed k-Means and k-Median Clustering on General Topologies
+Maria-Florina Balcan, Steven Ehrlich, Yingyu Liang.
+Neural Information Processing Systems (NIPS), 2013.
+[PAPER] [FULL VERSION] [SLIDES] [POSTER] [CODE]
+
+Modeling and Detecting Community Hierarchies
+Maria-Florina Balcan, Yingyu Liang.
+The 2nd International Workshop on Similarity-Based Pattern Analysis and Recognition (SIMBAD), 2013.
+[PAPER] [SLIDES]
+
+Efficient Semi-supervised and Active Learning of Disjunctions
+Maria-Florina Balcan, Christopher Berlind, Steven Ehrlich, Yingyu Liang.
+The 30th International Conference on Machine Learning (ICML), 2013.
+[PAPER] [SUPPLEMENTARY MATERIAL] [SPOTLIGHT] [POSTER]
+
+Clustering under Perturbation Resilience
+Maria-Florina Balcan, Yingyu Liang.
+The 39th International Colloquium on Automata, Languages and Programming (ICALP), 2012.
+[PAPER] [SLIDES] [EXTENDED ARXIV VERSION] [POSTER]
+
+Learning Vocabulary-based Hashing with AdaBoost*
+Yingyu Liang, Jianmin Li, Bo Zhang.
+The 16th International Conference of Multimedia Modeling (MMM), 2010.
+[PAPER]
+
+Vocabulary-based Hashing for Image Search*
+Yingyu Liang, Jianmin Li, Bo Zhang.
+The ACM International Conference on Multimedia (MM), 2009.
+[PAPER]
+
+Ph.D. Thesis
+
+Modern Aspects of Unsupervised Learning
+Advisor: Maria-Florina Balcan
+Committee: Maria-Florina Balcan, Avrim Blum, Lance Fortnow, Charles L. Isbell, Jr., Dana Randall, Le Song.
+Georgia Institue of Technology, June 2014.
+[THESIS]
+
+Related Links
+
+Machine Learning
+
+Theoretical CS
+
+Machine Learning@UW-Madison, Statistics and Machine Learning@Princeton, Machine Learning@GaTech
+
+Theory@UW-Madison, Theory@Princeton, Theory@GaTech
+

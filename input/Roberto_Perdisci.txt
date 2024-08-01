@@ -1,0 +1,247 @@
+Professor: Roberto Perdisci
+University: University of Georgia
+URL: http://roberto.perdisci.com/
+Description: about
+(current)
+publications
+service
+teaching
+Roberto Perdisci
+
+Patty and D.R. Grimes Distinguished Professor in Computer Science
+Director, Institute for Cybersecurity and Privacy
+School of Computing, University of Georgia
+
+
+perdisci [at] uga.edu
+
+415 Boyd GSRC
+
+University of Georgia
+
+Athens, GA 30602
+
+I am a Professor in the School of Computing at the University of Georgia, where I hold the Patty and D.R. Grimes Distinguished Professorship in Computer Science and direct the UGA Institute for Cybersecurity and Privacy. I am also an Adjunct Associate Professor in the Georgia Tech School of Computer Science and a faculty member of the UGA Institute for Artificial Intelligence. Before joining UGA I was Post-Doctoral Fellow at the College of Computing of the Georgia Institute of Technology, working under the supervision of Prof. Wenke Lee. Before that, I was Research Scholar at the Georgia Tech Information Security Center and PhD candidate at the University of Cagliari, Italy with the Pattern Recognition and Applications Group.
+
+My research focuses on securing networked systems. I am particularly interested in web security, automating the analysis of security incidents, and defending networks from malware. I often combine systems research with machine learning and large-scale data mining techniques to solve challenging computer and network security problems. I am also interested in broader aspects of networked systems, including Internet-scale measurements, analysis and optimization of systems performance, and the design of networking protocols. In 2012, I received an NSF CAREER award on a project titled “Automatic Learning of Adaptive Network-Centric Malware Detection Models.”
+
+recent pc service
+2023 Annual Computer Security Applications Conference (ACSAC 2023) - Program Chair
+Usenix Security Symposyum, 2023
+ACM Conference on Computer and Communications Security (CCS 2023)
+2022 Annual Computer Security Applications Conference (ACSAC 2022) - Program Co-Chair
+ACM Conference on Computer and Communications Security (CCS 2022) - Best Reviewer Award
+MADWeb@NDSS 2022 - Program Chair
+Usenix Security Symposyum, 2022
+2021 Annual Computer Security Applications Conference (ACSAC 2021) and Artifacts Evaluations
+MADWeb@NDSS 2021 - Program Co-Chair
+Usenix Security Symposium, 2021
+IEEE Symposium on Security and Privacy, 2021
+2020 Annual Computer Security Applications Conference (ACSAC 2020) - Artifacts Evaluation Chair
+ACM Conference on Computer and Communications Security (CCS 2020)
+The Web Conference 2020, Security & Privacy Track (WWW 2020)
+IEEE Symposium on Security and Privacy, 2020
+news
+Feb 3, 2023	Our paper on detecting and mitigating Social Engineering attacks has been accepted to USENIX Security 2023!
+Feb 1, 2023	I’m serving as ACSAC 2023 Program Chair
+Aug 19, 2022	Our paper titled “PhishInPatterns: Measuring Elicited User Interactions at Scale on Phishing Websites” has been accepted to ACM IMC 2022
+Jul 14, 2022	Our paper on combating robocalls with an automated NLP-based phone virtual assistant has been accepted to USENIX Security 2023!
+Jun 9, 2022	I presented our SoK: Workerounds paper at EuroS&P 2022
+selected publications
+EuroSP
+Understanding, Measuring, and Detecting Modern Technical Support Scams (to appear)
+Liu, Jienan, Pun, Pooja, Vadrevu, Phani, and Perdisci, Roberto
+In 8th IEEE European Symposium on Security and Privacy, EuroS&P 2023 2023
+USENIXSec
+TRIDENT: Towards Detecting and Mitigating Web-based Social Engineering Attacks (to appear)
+Yang, Zheng, Allen, Joey, Landen, Matthew,  Perdisci, Roberto, and Lee, Wenke
+In 32nd USENIX Security Symposium, USENIX Security 23, ANAHEIM, CA, USA, August 9-11, 2023 2023
+USENIXSec
+Combating Robocalls with Phone Virtual Assistant Mediated Interaction (to appear)
+Pandit, Sharbani, Sarker, Krishanu,  Perdisci, Roberto, Ahamad, Mustaque, and Yang, Diyi
+In 32nd USENIX Security Symposium, USENIX Security 23, ANAHEIM, CA, USA, August 9-11, 2023 2023
+IMC
+PhishInPatterns: Measuring Elicited User Interactions at Scale on Phishing Websites (to appear)
+Subramani, Karthika, Starov, Oleksii, Melicher, William, Vadrevu, Phani, and Perdisci, Roberto
+In IMC ’22: ACM Internet Measurement Conference 2022
+BIB
+@inproceedings{Subramani2022,
+  author = {Subramani, Karthika and Starov, Oleksii and Melicher, William and Vadrevu, Phani and Perdisci, Roberto},
+  title = {PhishInPatterns: Measuring Elicited User Interactions at Scale on Phishing Websites (to appear)},
+  booktitle = {{IMC} '22: {ACM} Internet Measurement Conference},
+  publisher = {{ACM}},
+  year = {2022},
+}
+EuroSP
+SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations
+Subramani, Karthika, Jueckstock, Jordan, Kapravelos, Alexandros, and Perdisci, Roberto
+In 7th IEEE European Symposium on Security and Privacy, EuroS&P 2022, Genoa, Italy, June 6-10, 2022 2022
+BIB PDF CODE
+@inproceedings{DBLP:conf/eurosp/SubramaniJKP22,
+  author = {Subramani, Karthika and Jueckstock, Jordan and Kapravelos, Alexandros and Perdisci, Roberto},
+  title = {SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations},
+  booktitle = {7th {IEEE} European Symposium on Security and Privacy, EuroS{\&}P
+                 2022, Genoa, Italy, June 6-10, 2022},
+  pages = {555--571},
+  publisher = {{IEEE}},
+  year = {2022},
+  url = {https://doi.org/10.1109/EuroSP53844.2022.00041},
+  doi = {10.1109/EuroSP53844.2022.00041},
+  timestamp = {Wed, 29 Jun 2022 16:03:24 +0200},
+  biburl = {https://dblp.org/rec/conf/eurosp/SubramaniJKP22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+NDSS
+C\^2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis
+Kwon, Yonghwi, Wang, Weihang, Jung, Jinho, Lee, Kyu Hyung, and Perdisci, Roberto
+In 28th Annual Network and Distributed System Security Symposium, NDSS 2021, virtually, February 21-25, 2021 2021
+BIB
+@inproceedings{DBLP:conf/ndss/KwonWJLP21,
+  author = {Kwon, Yonghwi and Wang, Weihang and Jung, Jinho and Lee, Kyu Hyung and Perdisci, Roberto},
+  title = {C{\^{}}2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic
+                 Analysis},
+  booktitle = {28th Annual Network and Distributed System Security Symposium, {NDSS}
+                 2021, virtually, February 21-25, 2021},
+  publisher = {The Internet Society},
+  year = {2021},
+  url = {https://www.ndss-symposium.org/ndss-paper/c2sr-cybercrime-scene-reconstruction-for-post-mortem-forensic-analysis/},
+  timestamp = {Tue, 28 Sep 2021 01:00:00 +0200},
+  biburl = {https://dblp.org/rec/conf/ndss/KwonWJLP21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+ACSAC
+Towards a Practical Differentially Private Collaborative Phone Blacklisting System
+Ucci, Daniele,  Perdisci, Roberto, Lee, Jaewoo, and Ahamad, Mustaque
+In ACSAC ’20: Annual Computer Security Applications Conference, Virtual Event / Austin, TX, USA, 7-11 December, 2020 2020
+BIB
+@inproceedings{DBLP:conf/acsac/UcciPLA20,
+  author = {Ucci, Daniele and Perdisci, Roberto and Lee, Jaewoo and Ahamad, Mustaque},
+  title = {Towards a Practical Differentially Private Collaborative Phone Blacklisting
+                 System},
+  booktitle = {{ACSAC} '20: Annual Computer Security Applications Conference, Virtual
+                 Event / Austin, TX, USA, 7-11 December, 2020},
+  pages = {100--115},
+  publisher = {{ACM}},
+  year = {2020},
+  url = {https://doi.org/10.1145/3427228.3427239},
+  doi = {10.1145/3427228.3427239},
+  timestamp = {Tue, 15 Dec 2020 12:22:00 +0100},
+  biburl = {https://dblp.org/rec/conf/acsac/UcciPLA20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+CCS
+Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System
+Allen, Joey, Yang, Zheng, Landen, Matthew, Bhat, Raghav, Grover, Harsh, Chang, Andrew, Ji, Yang,  Perdisci, Roberto, and Lee, Wenke
+In CCS ’20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020 2020
+BIB
+@inproceedings{DBLP:conf/ccs/AllenYLBGC0PL20,
+  author = {Allen, Joey and Yang, Zheng and Landen, Matthew and Bhat, Raghav and Grover, Harsh and Chang, Andrew and Ji, Yang and Perdisci, Roberto and Lee, Wenke},
+  editor = {Ligatti, Jay and Ou, Xinming and Katz, Jonathan and Vigna, Giovanni},
+  title = {Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack
+                 Investigation System},
+  booktitle = {{CCS} '20: 2020 {ACM} {SIGSAC} Conference on Computer and Communications
+                 Security, Virtual Event, USA, November 9-13, 2020},
+  pages = {787--802},
+  publisher = {{ACM}},
+  year = {2020},
+  url = {https://doi.org/10.1145/3372297.3423355},
+  doi = {10.1145/3372297.3423355},
+  timestamp = {Tue, 10 Nov 2020 19:56:39 +0100},
+  biburl = {https://dblp.org/rec/conf/ccs/AllenYLBGC0PL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+EuroSP
+IoTFinder: Efficient Large-Scale Identification of IoT Devices via Passive DNS Traffic Analysis
+Perdisci, Roberto, Papastergiou, Thomas, Alrawi, Omar, and Antonakakis, Manos
+In IEEE European Symposium on Security and Privacy, EuroS&P 2020, Genoa, Italy, September 7-11, 2020 2020
+BIB
+@inproceedings{DBLP:conf/eurosp/PerdisciPAA20,
+  author = {Perdisci, Roberto and Papastergiou, Thomas and Alrawi, Omar and Antonakakis, Manos},
+  title = {IoTFinder: Efficient Large-Scale Identification of IoT Devices via
+                 Passive {DNS} Traffic Analysis},
+  booktitle = {{IEEE} European Symposium on Security and Privacy, EuroS{\&}P 2020,
+                 Genoa, Italy, September 7-11, 2020},
+  pages = {474--489},
+  publisher = {{IEEE}},
+  year = {2020},
+  url = {https://doi.org/10.1109/EuroSP48549.2020.00037},
+  doi = {10.1109/EuroSP48549.2020.00037},
+  timestamp = {Tue, 10 Nov 2020 11:45:04 +0100},
+  biburl = {https://dblp.org/rec/conf/eurosp/PerdisciPAA20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+IMC
+When Push Comes to Ads: Measuring the Rise of (Malicious) Push Advertising
+Subramani, Karthika, Yuan, Xingzi, Setayeshfar, Omid, Vadrevu, Phani, Lee, Kyu Hyung, and Perdisci, Roberto
+In IMC ’20: ACM Internet Measurement Conference, Virtual Event, USA, October 27-29, 2020 2020
+BIB
+@inproceedings{DBLP:conf/imc/SubramaniYSVLP20,
+  author = {Subramani, Karthika and Yuan, Xingzi and Setayeshfar, Omid and Vadrevu, Phani and Lee, Kyu Hyung and Perdisci, Roberto},
+  title = {When Push Comes to Ads: Measuring the Rise of (Malicious) Push Advertising},
+  booktitle = {{IMC} '20: {ACM} Internet Measurement Conference, Virtual Event, USA,
+                 October 27-29, 2020},
+  pages = {724--737},
+  publisher = {{ACM}},
+  year = {2020},
+  url = {https://doi.org/10.1145/3419394.3423631},
+  doi = {10.1145/3419394.3423631},
+  timestamp = {Thu, 14 Oct 2021 01:00:00 +0200},
+  biburl = {https://dblp.org/rec/conf/imc/SubramaniYSVLP20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+IMC
+What You See is NOT What You Get: Discovering and Tracking Social Engineering Attack Campaigns
+Vadrevu, Phani, and Perdisci, Roberto
+In Proceedings of the Internet Measurement Conference, IMC 2019, Amsterdam, The Netherlands, October 21-23, 2019 2019
+BIB
+@inproceedings{DBLP:conf/imc/VadrevuP19,
+  author = {Vadrevu, Phani and Perdisci, Roberto},
+  title = {What You See is {NOT} What You Get: Discovering and Tracking Social
+                 Engineering Attack Campaigns},
+  booktitle = {Proceedings of the Internet Measurement Conference, {IMC} 2019, Amsterdam,
+                 The Netherlands, October 21-23, 2019},
+  pages = {308--321},
+  publisher = {{ACM}},
+  year = {2019},
+  url = {https://doi.org/10.1145/3355369.3355600},
+  doi = {10.1145/3355369.3355600},
+  timestamp = {Fri, 25 Oct 2019 09:51:53 +0200},
+  biburl = {https://dblp.org/rec/conf/imc/VadrevuP19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+NDSS
+JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions
+Li, Bo, Vadrevu, Phani, Lee, Kyu Hyung, and Perdisci, Roberto
+In 25th Annual Network and Distributed System Security Symposium, NDSS 2018, San Diego, California, USA, February 18-21, 2018 2018
+BIB
+@inproceedings{DBLP:conf/ndss/LiVLP18,
+  author = {Li, Bo and Vadrevu, Phani and Lee, Kyu Hyung and Perdisci, Roberto},
+  title = {JSgraph: Enabling Reconstruction of Web Attacks via Efficient Tracking
+                 of Live In-Browser JavaScript Executions},
+  booktitle = {25th Annual Network and Distributed System Security Symposium, {NDSS}
+                 2018, San Diego, California, USA, February 18-21, 2018},
+  publisher = {The Internet Society},
+  year = {2018},
+  timestamp = {Thu, 17 Jun 2021 16:04:48 +0200},
+  biburl = {https://dblp.org/rec/conf/ndss/LiVLP18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+NDSS
+Towards Measuring the Effectiveness of Telephony Blacklists
+Pandit, Sharbani,  Perdisci, Roberto, Ahamad, Mustaque, and Gupta, Payas
+In 25th Annual Network and Distributed System Security Symposium, NDSS 2018, San Diego, California, USA, February 18-21, 2018 2018
+BIB
+@inproceedings{DBLP:conf/ndss/PanditPAG18,
+  author = {Pandit, Sharbani and Perdisci, Roberto and Ahamad, Mustaque and Gupta, Payas},
+  title = {Towards Measuring the Effectiveness of Telephony Blacklists},
+  booktitle = {25th Annual Network and Distributed System Security Symposium, {NDSS}
+                 2018, San Diego, California, USA, February 18-21, 2018},
+  publisher = {The Internet Society},
+  year = {2018},
+  timestamp = {Thu, 09 Aug 2018 01:00:00 +0200},
+  biburl = {https://dblp.org/rec/conf/ndss/PanditPAG18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+    
+© Copyright 2023 Roberto Perdisci. For information on Cybersecurity at UGA please visit cybersecurity.uga.edu. Last updated: April 17, 2023.
+

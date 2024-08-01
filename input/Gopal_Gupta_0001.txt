@@ -1,0 +1,241 @@
+Professor: Gopal Gupta 0001
+University: University of Texas at Dallas
+URL: http://www.utdallas.edu/~gupta
+Description: Gopal Gupta
+Professor, Department of Computer Science, University of Texas at Dallas
+Co-director, Center for Applied AI and Machine Learning,
+
+
+Contact Information:
+     Email: gupta AT utdallas DOT edu (best way to contact me)
+     Tel: (972) 883 4107
+     Fax: (972) 883 2399
+     Office: ECSS 3.803 (CS Bldg)    (DIRECTIONS)
+
+
+
+
+[Future/Recent Events] [Research Interests] [Education] [Projects] [Service][Current/Past Students] [Courses] [Miscellaneous]
+
+New: ICLP'24 The 2024 Int'l Conf. on Logic Programming will be held in Dallas in Oct'24
+New: ICLP'23 Invited Talk Slides click here
+News: LLMs + s(CASP) == domain-specific Chatbots that can "understand" humans and interactively talk: click here
+News: Tutorial paper on automating commonsense reasoning: click here
+News: Paper on NeSyFOLD System, for symbolically explaining output of CNNs click here
+News: Paper on FOLD-SE, a scalable explainable AI system: click here (FOLD-SE needs no dataset prep, is order of magnitude faster than XGBoost et al, is explainable/interpretable, and produces small no. of rules even for very large datasets).
+News: Prolog celebrates its 50th birthday in 2022: More details here. The Prolog Heritage Association and ALP have instituted the Alain Colmeraruer Prize. Checkout my logic programming course to high-school students to celebrate; Here are two position papers that my group wrote for the 50 year celebration: Prolog: The Next 50 Years and Logic-based Explainable and Incremental Machine Learning
+News: The s(CASP) system is now available from within SWI-Prolog. Try it out through the SWI-Prolog Online Interface. Also available through Ciao playground.
+News: Team of PhD students Kinjal Basu, Sarat Varanasi, Fang Li, and Huaduo Wang selected for Amazon Alexa Socialbot Grand Challenge 4. read the news release
+News: Recent News Releases: (i) AI for Electricity Markets; (ii) Using Drones for Warehouse Inventory; (iii) City of Richardson -- Innovation Quarters
+News: Preprint of paper at AAAI 2021: Knowledge-driven Natural Language Understanding of English Text and its Applications.
+News: Current funded projects: (i) CLARISSA (DARPA through Honeywell); (ii) Explainable AI (NSF); (iii) Automated HF Diagnosis (NSF); and, (iv) Goal-directed ASP (NSF) (v) Applications of Explainable AI (Atos Corp)
+News: Recent papers on explainable AI, inductive learning of default theories, abductive inference, and ASP-based natural language question answering
+News: The paper on Coinductive Logic Programming in ICLP 2006 by Simon, Mallya, Bansal and Gupta earns ICLP 2016 10 years Test-of-Time award
+
+Software: FOLD-R++: An Explainable AI system for learning default rules directly from data for binary classification. Paper describing the system.
+Software: FOLD-RM: An Explainable AI system for learning default rules directly from data for multi-category classification. Paper describing the system.
+Software: SHAP-FOLD: An Explainable AI system for discovering the logic from models learned using statistical methods (includes source-code/documentation; re-implemented in Python)
+Software: The s(CASP) System: The s(ASP) system re-engineered to include constraints. Paper describing the system.
+Software: The s(ASP) System: A predicate answer set programming system (includes source code and documentation.); Paper describing the system.
+Software: GALLIWASP: A goal-directed system for answer set programming (includes source code and documentation.)
+Software: Metainterpreter supporting tabling (DRA) and coinduction with applications to LTL model checking
+Paper on uniform proof-theoretic treatment of various semantics of negation (the basis of s(ASP)/s(CASP)): click here
+Tutorial intro to ASP and summary of s(ASP): click here 
+
+A paper describing the s(ASP) system, plus a position paper appeared in ARCADE 2017, a CADE 2017 workshop.
+A Degree Audit System: First Real Application of s(ASP) (includes source code and documentation.)
+     UTD CS, Math and MechE majors, try an audit now: click here
+
+High School Cell Biology: Represented as an answer set program (runs on the s(ASP) system.)
+
+A medical application of s(ASP): A Physician Advisory System for CHF (appears in Proc. ICLP 2016); automates the guidelines published here using the s(ASP) system.
+HackAR: A hackathon around s(ASP) was organized by the UT Dallas AI Society in Nov 2016. See the 18 projects that were undertaken.
+HackReason: A hackathon around s(CASP) was organized by the UT Dallas AI Society on Jan 14-15, 2022 (World Logic Day). See the details of HackReason 2022 here and the projects here. HackReason 2021 details are here and the projects here.
+XAI Hackathon: FOLD-R++ and FOLD-RM are great XAI tools. A hackathon was organized around them. See the efforts here.
+
+Videos of Talks 
+Talk on Artificial General Intelligence, given to Society on Stat. Computing: click here (slides are here)
+Talk given at Microsoft Research, Bangalore, on Automating Commonsense Reasoning: click here
+General talk on AI: Artifical Intelligence: The Road Forward: click here
+
+Tutorial on common sense reasoning with ASP: click here
+Talk given at Microsoft Research, Redmond, WA, on Logic, Co-induction and Infinite Computation: click here
+
+Laboratory: Applied Logic Programming-Languages and Systems (ALPS) Lab  (you can see the old lab page here)
+Company: Founded (2008) Interoperate, Inc. (funded by the Texas Emerging Technology Fund)   (see recent UTD press release)
+Other Activities: the E-plan system, the QOLT Lab, and the CHAMPS Project (see CHAMPS press release)  
+Past Work: (See a summary of my group's research contributions here)
+G. Gupta, et al. Logic, Coinduction, and Infinite Computation. Slides from CALCO'11 invited talk.
+N. Saeedloei, G. Gupta. Coinductive Constraint Logic Programming.
+K. Marple, A. Bansal, R. Min, G. Gupta. Goal-directed Execution of Answer Set Programs.
+K. Marple, G. Gupta. GALLIWASP: A Goal-directed Answer Set Solver.
+A. Karshmer, G. Gupta, E. Pontelli. Mathematics and Accessibility: A Survey.
+G. Gupta. Reissuing the 5th Generation Challenge: Next Generation of LP Systems. Talk given at DAMP'06.
+FUTURE EVENTS:
+25th Symposium on Practical Aspects of Declarative Languages (PADL).
+RECENT EVENTS:
+Workshop on Goal-directed Execution of Answer Set Programs (GDE'22; 1 day workshop), Haifa, Israel, August 1, 2022.
+38th International Conference on Logic Programming (ICLP'22; part of FLoC 2022), Haifa, Israel, Aug 1-5, 2020.
+24th Symposium on Practical Aspects of Declarative Languages (PADL).
+Enhanced Coinduction Workshop
+
+2019 ALP Autumn School in Logic Programming, Las Cruces, NM, Sep 2019. (I gave a tutorial on co-inductive and abductive logic programming)
+Research Interests:
+Artificial Intelligence: Knowledge Representation, Common Sense Reasoning, Explainable Machine Learning.
+Programming Languages: Implementation, Semantics, Applications, Constraint and Logic Programming, Static Analysis.
+Software Engineering: Software Verification, Real-time Systems, Domain Specific Languages, Interoperability.
+Parallel and Distributed Processing: High Performance AI and Constraint Logic Programming Systems, Automatic Parallelization, Parallel Architectures, Applications.
+Human Computer Interaction: Tools for Visually Impaired; Intelligent Interfaces.
+Education
+Ph.D (Computer Science): UNC at Chapel Hill (1991)
+M.S. (Computer Science): UNC at Chapel Hill (1987)
+B.Tech. (Computer Science): Indian Institute of Technology, Kanpur, India (May 1985)
+
+From 1989 to 1991, I worked as a Research Associate in the research group of David H.D. Warren (of the Warren Abstract Machine fame, now retired) in the CS Department, University of Bristol, UK.
+
+
+From 01/92 to 08/00, I worked as a faculty member in the Computer Science Department at New Mexico State University.
+
+
+Current Projects
+Automated Common Sense Reasoning
+Explainable AI
+Logic-based Software Assurance
+Goal-directed Answer Set Programming
+Coinductive Logic Programming
+Support for my group has been provided by DARPA, NSF, NATO, EPA, DHS, Sandia National Labs, AITEC (Japan), Fullbright Foundation, etc.
+Software Systems developed by my research group
+SHAP-FOLD Explainable AI System for Relational Learning. With Shakerin.
+s(CASP): Predicate Constraint Answer Set Programming System. With Arias (UPM), Carro (UPM), Marple, Salazar
+s(ASP): Predicate Answer Set Programming System. With Marple, Salazar
+Galliwasp: Goal-directed Answer Set Solver. With Marple, Min, Bansal.
+CoLP Metainterpreter: Meta-interpreter for co-LP. With Kluzniak, Simon, Mallya, Bansal.
+NEXUS parser: A parser for NEXUS (NEXUS is a bioinformatics mark-up language).
+ExSched System: An Excel Plug-in for Knowledgesheet (see below). A spreadsheet interface for solving constraint satisfaction problems. With Tiwari, Chitnis, Yennamani. 2006. Used in the past by CS and EE departments to automatically schedule courses.
+VoxBoox System: A system for automatically generating interactive talking books. With Aanchal Jain Click here to see demo.
+DAWN System: A system that allows interactive audio/voice based aural surfing of the WWW over the phone. With Raman, Nichols, Reddy, Annamalai.
+Semantic Web System: Semantically maps RDF documents and RDQL queries to Horn logic. The RDQL queries can then be executed w.r.t. RDF data. With Kunal Patel, 2003.
+The E-plan System: The E-plan system is a Web-based system for helping with emergencies involving hazardous chemicals. Read an article about the system in Firechief magazine (a more recent one here in Industrial Fire World magazine) and how it was used for Hurricane Katrina releif.
+TA Scheduler: Automatically assigns to TAs to courses. Used at UTD since fall 2002 to make assignment for 70+ TAs to about 120 courses. With King, Gupta, Guballa, Mallya. 2003.
+HTML to VoiceXML Transcoder: converts any HTML 4.0 web-page to VoiceXML. Extensible. Developed in Java (initial prototype in Prolog). With Narayan, Gupta, Dr. Prabhakaran.
+Transform: Bioinformatics interoperability tool (available through swbic.org). With Drs Pontelli, Ranjan, Milligan. 2001.
+PALS: Parallel ALS, a distributed logic programming system based on the commercial ALS Prolog system. Implements full Prolog, and runs on Beowulf (ca. 2002). Built on top of Applied Logic System's (ALS) WAM, uses MPI and the novel technique of stack-splitting to realize distributivity. Villaverde, Pontelli, Gupta, Guo.
+TALS: Tabled ALS, a tabled logic programming system based on the commercial ALS Prolog system. Implemented on top of ALS WAM, uses novel technique of dynamic reordering of alternatives. With Hai-Feng Guo.
+NADA: An automatic system for checking undergraduate graduation requirements and providing advise automatically to students (built for NMSU). Implemented using Prolog + Java. Jose-Mendez, Karshmer, and Gupta. 1999.
+ACE: A High Performance Parallel Prolog System implemented on top of SICStus Prolog. Runs on SMMs. Pontelli and Gupta. No longer maintained or available.
+VACE: A tool for visualizing and-or parallel execution of logic programs. Runs on daVinci. Vaupel, Pontelli, Gupta. No longer maintained or available.
+Knowledgesheet: A Spread-sheet based tool for solving constraint satisfaction problems. Akhtar and Gupta.
+Nemeth to Latex Backtranslator: A system for converting Nemeth Math Braille document to Latex. 2001. Try the expression coverter here: Nemeth Math to Latex Backtranslator (alpha).
+An Interpreter for EqL: EqL is an equational language. Gupta and Jayaraman. 1987. No longer maintained or available.
+Professional Organization Service
+President (2010-2014), Association for Logic Programming.
+Area Editor (2005-2020), Theory and Practice of Logic Programming Journal (Cambridge University Press).
+Executive Committee Member (2003-2007), Association for Logic Programming.
+Member of the Board (9/01-8/06 ), European Association for Programming Languages and Systems (EAPLS)
+Conference Coordinator (2003-2009) Association for Logic Programming.
+Past Organized Events
+Program Co-Chair, 21st International Conference on Logic Programming.
+Workshop on Constraint Logic Programming and Software Engineering, LPSE2000.
+Co-founder and director (1992-2000) of the Laboratory for Logic, Databases, and Advanced Programming. The Lab is now directed by Prof. Enrico Pontelli.
+Founder, PADL (Practical Aspects of Declarative Languages) symposium series, 1999 onwards.
+First COMPULOG AMERICAS Summer School on (Constraint) Logic Programming.
+Second COMPULOG AMERICAS Summer School on (Constraint) Logic Programming.
+General Chair, 16th International Conference on Logic Programming.
+Organizer, 1999 NSF PIs' meeting. of NSF's Research Infrastructure Award Holders.
+Students: Past and Present
+Ph.D. Students
+Huaduo Wang, 2022, Explainable AI Algorithms for Classification Tasks with Mixed Data, Meta/Facebook.
+Sarat Chandra Varanasi, 2022 (co-advised with Neeraj Mittal), Automated Synthesis of Concurrent Program, GE Research
+Fang Li, 2022, Graph-based Commonsense Reasoning Engines, Faculty member at Oklahoma Christian University
+Kinjal Basu, 2022, Natural Language Question Answering based on Commonsense Reasoning, IBM TJ Watson Research Center View the thesis
+Farhad Shakerin, 2020, Logic-based Approaches for Explainable AI and Natural Language Understanding. Microsoft Corp. View the thesis
+Elmer Salazar, 2019, Proof-theoretic Foundations of Normal Logic Programs. Assistant Professor of Instruction, UT Dallas, View the thesis
+Mohammad Ali Ghaderi, 2017 (co-advised with Lakshman Tamil), iSono Health, Inc.
+Savio Monteiro, 2018 (co-advised with Lakshman Tamil), Computer Associates.
+Zhuo Chen, 2017, A Physician Advisory System based on ASP: Heart Failure. Postdoc Researcher at UT Dallas. View the thesis
+Stanley Jointer, 2016 (co-advised with Lakshman Tamil), Def-Logix, Inc.
+Kyle Marple, 2014, Goal-directed Answer Set Programming. Walmart Technology Labs. View the thesis
+Neda Saeedloei, 2011, Verification of Complex Real-time Systems. Asst. Professor, Towson State University. View the thesis
+Richard Min, August 2009, Thesis: Predicate Answer Set Programming with Coinduction. Taylor University. View the thesis
+Srividya Kona, Dec. 2007, Thesis: Automatic Discovery and Composition of Web Services, Associate Professor. Arizona State University.
+Ajay Bansal, Dec. 2007, Thesis: Next Generation of LP Systems. Assistant Professor, Arizona State University. (Won best paper award at ECOWS'05). View the thesis
+Qian Wang, Dec. 2007, Thesis: Semantics-based Approaches to Formal Language Processing, Interoperate LLC (best paper SVV'03). View the thesis
+Ajay Mallya, Aug. 2006, Ph.D. Thesis: Deductive Model Checking. Amazon.com, Seattle, WA. (won best student paper award at ICLP'05; best paper award ECOWS'05).
+Luke Simon, July. 2006, Ph.D. Thesis: Coinductive Logic Programming. Twitter, Inc. (Won best paper award at ECOWS'05). View the thesis
+Haifeng Guo, Oct. 2000 , Ph.D. Thesis: Efficient Distributed and Tabled Logic Programming Systems. Ex NSF Post Doc. Fellow, SUNY SB. Professor, CS Dept. University of Nebraska at Omaha. Awarded Nebraska EPSCOR Career grant. Currently at Amazon.com.
+Enrico Pontelli, 1997, Ph.D. Thesis: Design and Implementation of the ACE System. Currently, Dean of A&S, NMSU. Awarded NSF CAREER grant, 1998;
+Current PhD students:
+Huaduo Wang, Scalable Explainable AI with Default Logic
+Parth Padalkar, Neurosymbolic AI
+Abhiramon Rajasekharan, NLP with commonsense reasoning
+Yankai Zeng, PhD Student, NLP with commonsense reasoning
+Sopam Dasgupta, Topic: TBD
+Keegan Kimbrell, Topic: TBD
+Master's Students (with information on first employment)
+Dhruv Pendharker (2018, Uber), Converting Free Text to Knowledge; View the thesis
+Savio Monteiro, (2010, UTD CE PhD student), Mobile Aural Browsing.
+Abhilash Tiwari (2009, NPI), Intelligent Interfaces for Problem Solving
+Shrirang Khisti(2008, VMWare), Automatic Detection of Memory Leaks in Binary Executables
+Parag Doshi(2007, Yahoo), General Strategies for Buffer Overflow Attack Proofing
+Bharathi Boyareddigari, Thesis: Guidance System for Visually Impaired
+Aanchal Jain (2006, Tektronix), Thesis: Automatic Generation of Interactive Talking Books
+Siddharth Chitnis(2006, QualComm), Thesis: Logical Spreadsheets
+Sriram Sunder Raman (2005, QualComm), Thesis: Dynamic Aural Web Navigation.
+Ramya Reguramalingam (2005, Amazon.com) (12/05), Thesis: Buffer Attack-proofing of Binary Code.
+Rekha Ramesh (2005, Metallect), Thesis: Automatic Meeting Scheduling Server
+Madhu Yennamani (2004, Novomatic), Thesis: Constraint-based Timetable Generation
+Ramakrishnan Venkitaraman (2004, QualComm), Thesis: Static Program Analysis of DSP Software Systems
+Kunal Patel (2004, Network Inference, Inc.), Thesis: Semantically Processing the Semantic Web
+Vinay Ahuja (2003, Intelligenxia, Inc.), Thesis: Strategies for Robocup Soccer
+Hemamber Reddy (2004, Metallect Corp), Thesis: Dynamically Navigable VoiceXML
+Narayan Annamalai (2002, Intervoice), Thesis: Extensible Translator from HTML to VoiceXML View the thesis
+Xinhong Zhou (2001, Sabre, Inc.), Project: Transforming DTDs to DCGs.
+Larry King (2000, Honeywell Research Center), Thesis: Course scheduling with Constraint Logic Programming.
+C-C Cheng (2000, Cadence Design, Inc.). Project: Automatic Generation of XML Parsers
+Nayana Datta (2000, Synopsis, Inc.). Thesis: Semantics-based Interoperability.
+Hai-Feng Guo (1999, on to Ph.D.). Thesis: Semantics-based Nemeth to Latex Backtranslation.
+Jose Mendez (1998, Argodata), Thesis: NMSU Advising and Audit System.
+Shameem Akhter (1998, Intel). Thesis: Knowledgesheet: A Spreadsheet Interface for CLP Programs. See Shameem's latest work: the first book on programing multicore architectures.
+Federico Bassetti (1997, Los Alamos National Labs). Thesis: Performance Evaluation of Computer Systems.
+Jung-Wook Bang (1997, on to Ph.D. @ Imperial College, UK). Thesis: Automated Medical Diagnosis of Acid-Base Disorders.
+Rick Vaupel (1996, Lockheed). Thesis: Visualization of And-Or Parallel Execution.
+Haren Babu (1995, IBM.). Thesis: Or-parallelism on Distributed Machines.
+Greg Luce (1994, employment info. n/a). Project: Design/Impl. of a Parallelizing Compiler.
+Teaching
+CS4301; Automated Reasoning
+CS4384; Automata Theory
+CS3306; Discrete Math for Software Engineers
+CS6371; Advanced Programming Lanuages
+CS7301; Programming Langs and S/W Engg
+CS6374; Computational Logic
+CS6389; Formal Methods and Programming Methodology
+
+
+My full CV (pdf format)
+
+
+Miscellaneous
+European Association for Programming Languages and Systems (EAPLS)
+ACM Special Interest Group on Programming Languages (SIGPLAN)
+UTD CS Ph.D. Qualifying Exam policy and other related documents.
+An easy to follow "Crash Course on Theory of Infinite Sets" by Peter Suber (relates to coinduction)
+Partial Evaluation and Futamura Projections
+A great resource for learning about Logic: Stanford Encyclopaedia of Philosophy
+A position paper: Language Based Software Engineering
+Advice on Writing and Research
+Everything you wanted to know about an academic career but were afraid to ask. ( in pdf).
+Talk given to UTD CS Ph.D. students (first delivery in 2004)
+Dijkstra's 3 Golden Rules for Successful Scientific Research
+Some of my favorite quotes
+Bylaws of the Erik Jonsson School of Engineering and Computer Science (I chaired the school committee that wrote these bylaws)
+Math Genealogy Project
+India's contribution to Mathematics:
+             positional number system, and zero
+In Memoriam: Frank Harary
+In Memoriam: Arthur Karshmar
+When I am not doing Computer Science...
+A parody authored by my daughter, Ritika
+Pictures of the beautiful Organ Mountains in Las Cruces, New Mexico, taken by me
+A brief guide to a tour of southern NM that I prepared
+Hits since 05/20/05:
+

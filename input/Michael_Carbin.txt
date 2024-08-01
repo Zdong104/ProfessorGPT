@@ -1,0 +1,347 @@
+Professor: Michael Carbin
+University: Massachusetts Institute of Technology
+URL: http://people.csail.mit.edu/mcarbin
+Description: Michael Carbin
+
+
+Associate Professor
+Massachusetts Institute of Technology
+Electrical Engineering and Computer Science
+Computer Science and Artificial Intelligence Laboratory
+Head, Programming Systems Group
+
+
+CV
+: mcarbin@csail.mit.edu
+
+
+Research Interests
+
+I lead the MIT Programming Systems Group. My group investigates the design, semantics, and implementation of language-driven systems. We have a current focus on systems that operate in the presence of uncertainty in their environment (perception), implementation (neural networks or approximate transformations), or execution (unreliable hardware).
+Students
+
+
+Current Graduate Students and Post-Docs: Eric Atkinson, Ellie Cheng, Yi Ding, Jonathan Frankle, Tian Jin (co-advised with Jonathan Ragan-Kelley), Jesse Michel, Alexander Renda, Logan Weber (co-advised with Saman Amarasinghe), Cambridge Yang, Charles Yuan
+Current Undergraduate Students: Zachary Ankner
+Alumni: Brett Boston (MS, Galois), James Gilles (MEng, Reservoir Labs), Hyunji Kim (MEng, Stripe), Rajiv Movva (UG, Cornell Tech; PhD), Arlene Siswanto (MEng, Google Brain), Benjamin Sherman (PhD, Waymo), Sahil Verma (UG Visitor, University of Washington; PhD)
+Teaching
+
+
+Dynamic Computer Language Engineering (6.S081), Spring 2019
+Dynamic Computer Language Engineering (6.S081), Spring 2018
+Computer Language Engineering (6.035), Fall 2017
+(Dynamic) Computer Language Engineering (6.035), Spring 2017
+Computer Systems Engineering (6.033), Spring 2016
+Service
+
+
+Program Committees: MLSys 2023 (Program Co-Chair), POPL 2022, OOPSLA 2021, ASPLOS 2021, ICLR 2021 (Area Chair), PLDI 2020, ICML 2020, NeurIPS 2020, ASPLOS 2020, SysML 2020, CGO 2019, EuroSys 2019, ECOOP 2018, USENIX ATC 2018, CGO 2018, PLDI 2017 (ERC), CGO 2017, OOPSLA 2016, PLDI 2016, CGO 2015
+Awards
+
+
+MIT Frank E. Perkins Award for Excellence in Graduate Advising, 2020
+Sloan Research Fellowship, 2020
+Facebook Research Award, 2019
+Distinguished Paper Award, ICFP 2019
+Best Paper Award, ICLR 2019
+Google Faculty Research Award, 2018
+NSF CAREER Award, 2018
+CACM Research Highlight, 2016
+Best Paper Award, OOPSLA 2014
+Best Paper Award, OOPSLA 2013
+Best Talk Award, POPL Student Session 2013
+Microsoft Research Graduate Fellowship, 2008
+MIT Lemelson Presidential Fellowship, 2006
+Stanford Wegbreit Best Computer Science Undergraduate Honors Thesis, 2006
+Drafts
+
+Verifying Handcoded Probabilistic Inference Procedures
+Eric Atkinson, Cambridge Yang, and Michael Carbin (arXiv)
+
+
+Publications
+
+2022
+On Neural Network Pruning's Effect on Generalization
+Tian Jin, Daniel M. Roy, Michael Carbin, Jonathan Frankle, Gintare Karolina Dziugaite
+NeurIPS '22 (To Appear) — Neural Information Processing Systems
+
+Semi-symbolic Inference for Efficient Streaming Probabilistic Programming
+Eric Atkinson, Guillaume Baudart, Louis Mandel, Charles Yuan, and Michael Carbin
+OOPSLA '22 (To Appear) — Object-Oriented Programming, Systems, Languages, and Applications
+
+Tower: Data Structures in Quantum Superposition
+Charles Yuan and Michael Carbin
+OOPSLA '22 (To Appear) — Object-Oriented Programming, Systems, Languages, and Applications
+
+On the (In)Tractability of Reinforcement Learning for LTL Objectives
+Cambridge Yang, Michael Littman, and Michael Carbin
+IJCAI '22 (Long Oral) — International Joint Conference on Artificial Intelligence (arXiv)
+
+Twist: sound reasoning for purity and entanglement in quantum programs
+Charles Yuan, Christopher McNally, and Michael Carbin
+POPL '22 — Principles of Programming Languages (ACM)
+
+2021
+Statically Bounded-Memory Delayed Sampling for Probabilistic Streams
+Eric Atkinson, Guillaume Baudart, Louis Mandel, Charles Yuan, and Michael Carbin
+OOPSLA '21 — Object-Oriented Programming, Systems, Languages, and Applications
+
+Programming with Neural Surrogates of Programs
+Alex Renda, Yi Ding, and Michael Carbin
+Onward! '21 — International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software, Onward!
+
+Generalizable and interpretable learning for configuration extrapolation
+Yi Ding, Ahsan Pervaiz, Michael Carbin, and Henry Hoffmann
+FSE '21 — European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ACM)
+
+On the Predictability of Pruning Across Scales
+Jonathan S. Rosenfeld, Jonathan Frankle, Michael Carbin, and Nir Shavit
+ICML '21 — International Conference on Machine Learning (arXiv)
+
+The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models
+Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Michael Carbin, and Zhangyang Wang
+CVPR '21 — Conference on Computer Vision and Pattern Recognition (arXiv)
+
+Pruning Neural Networks at Initialization: Why are We Missing the Mark?
+Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, and Michael Carbin
+ICLR '21 — International Conference on Learning Representations (arXiv)
+
+Vegen: A Vectorizer Generator for SIMD and Beyond
+Yishen Chen, Charith Mendis, Michael Carbin, and Saman Amarasinghe
+ASPLOS '21 — Architectural Support for Programming Languages and Operating Systems (ACM)
+
+λS: Computable semantics for differentiable programming with higher-order functions and datatypes
+Benjamin Sherman, Jesse Michel, and Michael Carbin
+POPL '21 — Principles of Programming Languages (arXiv)
+
+Simplifying Dependent Reductions in the Polyhedral Model
+Cambridge Yang, Eric Atkinson, and Michael Carbin
+POPL '21 — Principles of Programming Languages (arXiv)
+
+2020
+The Lottery Ticket Hypothesis for Pre-trained BERT Networks
+Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin
+NeurIPS '20 — Neural Information Processing Systems (arXiv)
+
+Programming and Reasoning with Partial Observability
+Eric Atkinson and Michael Carbin
+OOPSLA '20 — Object-Oriented Programming, Systems, Languages, and Applications (arXiv)
+
+DiffTune: Optimizing CPU Simulator Parameters with Learned Differentiable Surrogates
+Alex Renda, Yishen Chen, Charith Mendis, and Michael Carbin
+MICRO '20 — International Symposium on Microarchitecture (arXiv)
+
+Linear Mode Connectivity and the Lottery Ticket Hypothesis
+Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, and Michael Carbin
+ICML '20 — International Conference on Machine Learning (arXiv)
+
+Reactive Probabilistic Programming
+Guillaume Baudart, Louis Mandel, Eric Atkinson, Benjamin Sherman, Marc Pouzet, and Michael Carbin
+PLDI '20 — Programming Language Design and Implementation (arXiv)
+
+Comparing Fine-tuning and Rewinding in Neural Network Pruning
+Alex Renda, Jonathan Frankle, and Michael Carbin
+ICLR '20 (Oral) — International Conference on Learning Representations (arXiv)
+
+A Type System and Semantics for Sound Programmable Inference in Probabilistic Languages
+Alexander K. Lew, Marco F. Cusumano Towner, Benjamin Sherman, Michael Carbin, and Vikash K. Mansinghka
+POPL '20 — Principles of Programming Languages
+
+Exploiting Errors for Efficiency: A Survey from Circuits to Algorithms
+Phillip Stanley-Marbell, Armin Alaghi, Michael Carbin, Eva Darulova, Lara Dolecek, Andreas Gerstlauer, Ghayoor Gillani, Djordje Jevdjic, Thierry Moreau, Mattia Cacciotti, Alexandros Daglis, Natalie Enright Jerger, Babak Falsafi, Sasa Misailovic, Adrian Sampson, Damien Zufferey
+ACM CSUR — ACM Computing Surveys Journal, Submitted June 2018, To Appear 2020 (arXiv)
+
+Programming Unreliable Hardware
+Michael Carbin and Sasa Misailovic
+Foundations of Probabilistic Programming (Invited Book Chapter)
+Cambridge University Press, To Appear 2020.
+
+2019
+The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks
+Jonathan Frankle and Michael Carbin
+ICLR '19 (Best Paper Award) — International Conference on Learning Representations (arXiv)
+
+Sound and Robust Solid Modelling via Exact Real Arithmetic and Continuity
+Benjamin Sherman, Jesse Michel, and Michael Carbin
+ICFP '19 (Distinguished Paper Award) — International Conference on Functional Programming
+
+Ithemal: Accurate, Portable, and Fast Basic Block Throughput Estimation using Deep Neural Networks
+Charith Mendis, Alex Renda, Saman Amarasinghe, and Michael Carbin
+MLSys @ ISCA '19 (Best Paper Award) — Workshop on Machine Learning for Systems, co-located with ISCA
+ICML '19 — International Conference on Machine Learning (arXiv)
+
+Compiler Auto-Vectorization using Imitation Learning
+Charith Mendis, Cambridge Yang, Yewen Pu, Saman Amarasinghe, and Michael Carbin
+NeurIPS '19 — Neural Information Processing Systems
+
+BHive: A Benchmark Suite For Validating x86-64 Performance Models
+Yishen Chen, Ajay Brahmakshatriya, Charith Mendis, Alex Renda, Eric Atkinson, Ondrej Sykora, Saman Amarasinghe, and Michael Carbin
+IISWC '19 — International Symposium on Workload Characterization
+
+Tiramisu: A Polyhedral Compiler for Dense and Sparse Deep Learning
+Riyadh Baghdadi, Fatima Zohra Benhamid, Alex Renda, Jonathan Frankle, Michael Carbin, and Saman Amarasinghe
+NeurIPS Workshop on Systems for ML, 2019
+
+Mode Connectivity and Sparse Neural Networks.
+Jonathan Frankle, Gintare Karolina Dziugaite, Daniel M. Roy, Michael Carbin
+SEDL '19 — NeurIPS Workshop on Science meets Engineering of Deep Learning, 2019
+
+Noise-Based Sensitivity Analysis of Programs
+Jesse Michel, Sahil Verma, Benjamin Sherman, and Michael Carbin
+WAX '19 — Workshop on Approximate Computing, co-located with PLDI
+
+Overparameterization: A Connection Between Software 1.0 and Software 2.0
+Michael Carbin
+SNAPL '19 — Summit on Advances in Programming Languages
+
+2018
+Leto: Verifying Application-Specific Fault Tolerance via First-Class Execution Models
+Brett Boston, Zoe Gong, and Michael Carbin
+OOPSLA '18 — Object-Oriented Programming, Systems, Languages, and Applications (draft)
+
+Computable decision-making on the reals and other spaces via partiality and nondeterminism
+Benjamin Sherman, Luke Sciarappa, Adam Chlipala, and Michael Carbin
+LICS '18 — Logic in Computer Science
+
+Constructive probabilistic semantics with non-spatial locales
+Benjamin Sherman, Jared Tramontano, and Michael Carbin
+PPS '18 — Probabilistic Program Semantics (paper)
+
+2017
+Optimizing Convolutional Neural Networks for Multicores for Scalability, Performance, and Goodput
+Samyam Rajbhandari, Yuxiong He, Olatunji Ruwase, Michael Carbin, and Trishul Chilimbi
+ASPLOS '17 — Architectural Support for Programming Languages and Operating Systems
+
+2016
+Towards Correct-by-Construction Probabilistic Inference
+Eric Atkinson and Michael Carbin
+NIPS MLS '16 — NIPS Workshop on Machine Learning Systems.
+
+Verifying Quantitative Reliability for Programs that Execute on Unreliable Hardware
+Michael Carbin, Sasa Misailovic, and Martin C. Rinard
+CACM Research Highlight '16 — Communications of the ACM
+
+2014
+Chisel: Reliability- and Accuracy-Aware Optimization of Approximate Computational Kernels
+Sasa Misailovic, Michael Carbin, Sara Achour, Zichao Qi, and Martin C. Rinard
+OOPSLA '14 (Best Paper Award) — Object-Oriented Programming, Systems, Languages, and Applications.
+
+2013
+Verifying Quantitative Reliability for Programs that Execute on Unreliable Hardware
+Michael Carbin, Sasa Misailovic, and Martin C. Rinard
+OOPSLA '13 (Best Paper Award) — Object-Oriented Programming, Systems, Languages, and Applications.
+Paper Slides
+Press: Slashdot MITNews
+
+Verified Integrity Properties for Safe Approximate Program Transformations
+Michael Carbin, Deokhwan Kim, Sasa Misailovic, and Martin C. Rinard
+PEPM '13 — Partial Evaluation and Program Manipulation, co-located with POPL
+
+2012
+(Relative) Safety Properties for Relaxed Appproximate Programs
+Michael Carbin and Martin C. Rinard
+RACES '12 — Relaxing Synchronization for Multicore and Manycore Scalability,
+co-located with OOPSLA
+
+Cryptographic Path Hardening: Hiding Vulnerabilities in Software using Cryptography
+Vijay Ganesh, Michael Carbin, and Martin C. Rinard
+OBT '12 — Off the Beaten Track, co-located with POPL
+
+Bolt: On-Demand Infinite Loop Escape in Unmodified Binaries
+Michael Kling, Sasa Misailovic, Michael Carbin, and Martin C. Rinard
+OOPSLA '12 — Object-Oriented Programming, Systems, Languages, and Applications
+Paper Slides
+
+Proving Acceptability Properties of Relaxed Nondeterministic Approximate Programs
+Michael Carbin, Deokhwan Kim, Sasa Misailovic, and Martin C. Rinard
+PLDI '12 — Programming Language Design and Implementation
+Paper Slides
+
+Automatic Input Rectification
+Fan Long, Vijay Ganesh, Michael Carbin, Stelios Sidirolgou, and Martin C. Rinard
+ICSE '12 — International Conference on Software Engineering
+
+2011
+Detecting and Escaping Infinite Loops with Jolt
+Michael Carbin, Sasa Misailovic, Michael Kling, and Martin C. Rinard
+ECOOP '11 — European Conference on Object-Oriented Programming
+Paper Appendix Slides
+Press: Slashdot Ars Technica MIT News
+
+Dynamic Knobs for Power-Aware Computing
+Henry Hoffman, Stelios Sidiroglou, Michael Carbin, Sasa Misailovic,
+Anant Agarwal, and Martin Rinard
+ASPLOS '11 — Architectural Support for Programming Languages and Operating Systems
+Paper
+
+Automatically Identifying Critical Input Regions and Code Regions in Applications
+Michael Carbin and Martin C. Rinard
+ISSTA '10 — International Symposium of Software Testing And Analysis
+Paper
+
+Automatically Patching Errors in Deployed Software
+Jeff H. Perkins, Sunghun Kim, Sam Larsen, Saman Amarasinghe, Jonathan Bachrach, Michael Carbin, Carlos Pacheco, Frank Sherwood, Stelios Sidiroglou, Greg Sullivan, Weng-Fai Wong, Yoav Zibin, Michael D. Ernst and Martin C. Rinard
+SOSP '09 — Symposium on Operating Systems Principles
+Press: Slashdot MIT News MIT Technology Review
+
+Transactional Collection Classes
+Brian D. Carlstrom, Austen McDonald, Michael Carbin, Christos Kozyrakis, and Kunle Olukotun
+PPoPP '07 — Principles and Practice of Parallel Computing
+Paper
+
+Reflective Program Generation with Patterns
+Manuel Fähndrich, Michael Carbin, James R. Larus
+GPCE '06 — Generative Programming and Component Engineering
+Paper
+
+Using Datalog with Binary Decision Diagrams for Program Analysis
+John Whaley, Dzintars Avots, Michael Carbin, Monica S. Lam
+APLAS '05 — Asian Symposium Programming Languages and Systems 2005
+Paper
+
+Context-Sensitive Program Analysis as Database Queries
+Monica S. Lam, John Whaley, V, Benjamin Livshits, Michael Martin, Dzintars Avots,
+Michael Carbin, and Christopher Unkel
+PODS '05 — Principles of Database Systems (Invited paper)
+Paper
+
+
+Theses and Technical Reports
+
+Reasoning about Relaxed Programs
+Michael Carbin, Deokwan Kim, Sasa Misailovic, Martin C. Rinard
+Technical Report, MIT-CSAIL-TR-2011-050
+
+Power-Aware Computing with Dynamic Knobs
+Henry Hoffmann, Stelios Sidiroglou, Michael Carbin,
+Sasa Misailovic, Anant Agarwal, and Martin Rinard
+Tehcnical Report, MIT-CSAIL-TR-2010-027
+
+Learning Effective BDD Variable Orders for BDD-Based Program Analysis
+Michael Carbin
+Stanford University Undergraduate Honors Thesis, May 2006
+Paper
+
+
+Patents
+
+Configuration of Isolated Extensions and Device Drivers
+Galen C. Hunt, James R. Larus, Manuel A. Fanndrich, Orion Hodson, David R. Tarditi, Michael Spear, Michael Carbin, Steven P. Levi, Bjarne Steensgaard
+U.S. Patent Number 8,074,231. Filed: June 30, 2006. Issued: December 6, 2011
+
+Bypass Virtualization
+Thomas Joseph Purtell, Won Chun, Michael Carbin
+U.S. Patent Number 8,065,687. Filed: Jan 7, 2008. Issued November 22, 2011
+Contact
+
+ : mcarbin@csail.mit.edu
+ : Facebook
+ : LinkedIn
+
+ : Michael Carbin, MIT CSAIL, 77 Massachusetts Ave, 32-G782 Cambridge, MA 02139
+ : Office : (617) 253-5881
+
+https://accessibility.mit.edu
+© Michael Carbin
+

@@ -1,0 +1,202 @@
+Professor: Sylvia L. Herbert
+University: Univ. of California - San Diego
+URL: http://sylviaherbert.com/
+Description: Home
+Research Overview: Safety and Reachability Analysis
+Safe Learning and Scalable Adaptation
+Safe Learning via Warmstarting
+Reachability Decomposition
+Ensured Stabilizability: Control Lyapunov Value Functions
+Robust Real-Time Planning inspired by CogSci
+FaSTrack: Fast and Safe Tracking
+Robot Safety with Human Pedestrians
+Safety Applications
+People
+Publications
+Resources & Outreach
+Fellowships
+Learning about Life in Academia
+Under-Represented Researchers for Speaking Engagements
+Faculty Application Advice
+Teaching
+Join Us!
+The Safe Autonomous Systems Lab
+Prof. Sylvia Herbert, UC San Diego
+Home
+Research Overview: Safety and Reachability Analysis
+Safe Learning and Scalable Adaptation
+Safe Learning via Warmstarting
+Reachability Decomposition
+Ensured Stabilizability: Control Lyapunov Value Functions
+Robust Real-Time Planning inspired by CogSci
+FaSTrack: Fast and Safe Tracking
+Robot Safety with Human Pedestrians
+Safety Applications
+People
+Publications
+Resources & Outreach
+Fellowships
+Learning about Life in Academia
+Under-Represented Researchers for Speaking Engagements
+Faculty Application Advice
+Teaching
+Join Us!
+The Safe Autonomous Systems Lab
+
+Our lab works to efficiently guarantee safe control based on available models and given information about the environment. 
+
+These techniques must be able to quickly adapt to unexpected changes and new information in the autonomous system or the environment. 
+
+We use tools from optimal control theory and dynamics games, machine learning, and cognitive science to develop new techniques for safety and efficiency in autonomous systems. 
+
+These techniques are backed by both rigorous theory and physical testing on robotic platforms. 
+
+News - Papers and Graduations
+
+[July 2024] - The paper led by Nikhil Shinde on SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enhance Visual Tool Tracking for Robust Surgical Automation was accepted to IROS 2024. This paper provides an algorithm through which a surgical robot can plan trajectories that maximize accurate estimation of its end effectors and tools based on possible perception issues from the endoscopic camera used for sensing. This paper is in collaboration with Professor Michael Yip.
+
+[June 2024] - Congratulations to those who just graduated from our group!
+
+Judy Mohamad (BS, MAE) will be starting her MS/PhD at Tokyo Tech
+
+Sosuke Kojima (BS, MAE) will be starting his MS at ETH Zurich
+
+Zihang (River) He (BS, CSE)  will be continuing in the lab as a BS/MS student
+
+Ethan Foss (MS, MAE) will be starting his PhD at Stanford Aeronautics and Astronautics.
+
+[June 2024] - Congratulations to MS alumnus Rachit Chhabra whose career was highlighted in the UCSD Mechanical and Aerospace Engineering Newsletter!
+
+[June 2024] - Congratulations to Ethan Foss for passing his MS thesis defense! He will be starting his PhD this fall at Stanford Aeronautics and Astronautics working with Simone D'Amico.
+
+[June 2024] - The paper led by Nikhil Shinde on Investigating Low Data, Confidence Aware Image Prediction on Smooth Repetitive Videos using Gaussian Processes was accepted to CASE 2024. This paper provides confidence-aware predictions of flow scenes with minimal data (e.g. pedestrian flows, weather patterns). This paper is in collaboration with Professor Michael Yip.
+
+[May 2024] - The paper led by Zheng Gong and Boyang Li (equal co-authors) on Safe Returning FaSTrack with Robust Control Lyapunov-Value Functions was accepted to IEEE Control Systems Letters (L-CSS). This paper provides an algorithm by which a simple planning model can be used to navigate through a space, and the true system tracks this model using a control Lyapunov value function that ensures the system will stabilize to the tightest possible error bound around the planning model. This makes it robust to sudden disturbances, either real (e.g. wind) or induced by the algorithm (by “jumping” ahead in open environments).
+
+[May 2024] - The paper led by Nikhil Shinde and Xiao Liang on JIGGLE: An Active Sensing Framework for Boundary Parameters Estimation in Deformable Surgical Environments was accepted to RSS 2024. This paper explores the scenario in which a surgical robot must manipulate a tissue (e.g. skin) to determine where it is attached to a substrate (e.g. muscle) in order to perform cutting or suturing tasks. This paper uses an extended Kalman filter (EKF)—based active sensing approach for intelligently and safely “jiggling” the tissue to uncover structural information without damaging the tissue. There are neat experiments using chicken skin sutured to a chicken thigh. This paper is in collaboration with Professor Michael Yip.
+
+[May 2024] - The paper by Tao Wang on the Mollification Effects of Policy Gradient Methods was accepted to ICML 2024. This paper explores how policy gradient methods can be reformulated using the heat equation (yes, from physics), and one can perform useful analysis based on this formulation to identify how policy gradient methods mollify (smooth) the optimization landscape, and how this both helps (in terms of getting nice gradients) and hurts (in terms of deviating from the true optimization landscape).  This paper is in collaboration with Professor Sicun Gao.
+
+[March 2024] - The paper by Hyun Joe Jeong and Zheng Gong on Parameterized Fast and Safe Tracking (FaSTrack) using DeepReach was accepted to L4DC 2024. This paper uses DeepReach to adjust how quickly a planning algorithm should navigate through an environment based on the resulting tracking error accrued by the true system. In open environments the algorithm plans very quickly, and in tight environments it naturally slows down.  It is in collaboration with Professor Somil Bansal.
+
+[January 2024] - The paper led by Mohammad Ramadan on A Control Approach for Nonlinear Stochastic State Uncertain Systems with Probabilistic Safety Guarantees was accepted to ACC 2024. This paper explores how to generalize a deterministic safe control policy (from, for example, a control barrier function) to stochastic systems with partial state observation.
+
+[December 2023] - The paper led by Chong He and Zheng Gong on Efficient and Guaranteed Hamilton-Jacobi Reachability via Self-Contained Subsystem Decomposition and Admissible Control Sets was accepted to Control Systems Letters (L-CSS) and ACC 2024 for an invited session on Set-based Methods.  This paper improves upon our work on decomposition high-dimensional systems into more computationally tractable low-dimensional systems. It is in collaboration with Professor Mo Chen. 
+
+[October 2023] - The paper led by Hongzhan Yu on Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance won the Robocup Best Paper Award at IROS 2023. This paper explores how to implicitly reason about interactions between pedestrians for the purposes of safe navigation in a scalable way. It is in collaboration with Professor Sicun Gao and his students.
+
+[September 2023] - The paper led by by Milan Ganai, Zheng Gong, and Chenning Yu on Iterative Reachability Estimation for Safe Reinforcement Learning was accepted to NeurIPS 2023. This paper explores how the optimization procedure for state of the art safe RL methods can be modified to improve safety, performance, and convergence. It is in collaboration with Professor Sicun Gao and his students.
+
+[September 2023] - The paper led by Tao Wang on Fractal Landscapes in Policy Optimization was accepted to NeurIPS 2023. This paper draws inspiration from chaos theory in controls to explore how certain problem formulations can lead to fractal landscapes in policy optimization (where gradient-based approaches will fail). It is in collaboration with Professor Sicun Gao and his students.
+
+[August 2023] - Congratulations to Nathan Cusson-Nadeau for completing his MS thesis! He will be starting as a GNC/R&D Engineer at Alare Technologies.
+
+[June 2023] - Congratulations to Chong He for finishing her MS! She will be starting as a PhD student in the SFU MARS lab in the fall.
+
+[June 2023] - Congratulations to Rachit Chhabra for finishing his MS! He is starting a position in that autonomous driving group at Qualcomm.
+
+[June 2023] - Congratulations to Daniel Maldonado-Naranjo for finishing his BS! He will be starting as a PhD student at MIT in the fall.
+
+[June 2023] - The paper led by Hongzhan Yu on Sequential Neural Barriers for Scalable Dynamic Obstacle Avoidance was accepted to IROS 2023. This paper explores how to implicitly reason about interactions between pedestrians for the purposes of safe navigation in a scalable way. It is in collaboration with Professor Sicun Gao and his students.
+
+[May 2023] - The paper led by Nikhil Shinde on Object-centric Representations for Interactive Online Learning with Non-Parametric Methods was accepted to CASE 2023. This paper explores how to reason about safety online when interacting with uncertain safety-critical environments (e.g. pushing around debris to reach a goal without knocking the debris over). It is in collaboration with Professor Michael Yip.
+
+[May 2023] - Sander Tonkens and Sophia Sun presented their work on Scalable Safe Long-Horizon Planning in Dynamic Environments Leveraging Conformal Prediction and Temporal Correlations at the 5th Workshop on Long-Term Human Motion Prediction at ICRA 2023. It is in collaboration with Professor Rose Yu.
+
+[March 2023] - Congratulations to Alex Toofanian for completing his MS thesis defense! He is starting a position as a Technical Program Manager at Braincorp
+
+[March 2023] - Professors Sylvia Herbert, Andrea Bajcsy (CMU), David Fridovich-Keil (UT Austin), and Shreyas Kousik (GTech) wrote a SIGBED Blog post on The Next Ten Years of Robotics. 
+
+[January 2023] - The paper led by Zheng Gong and Muhan Zhao on Constructing Control Lyapunov-Value Functions Using Hamilton-Jacobi Reachability Analysis was accepted to Control Systems Letters (L-CSS) and ACC 2023. This paper explores how HJ reachability dynamic programming methods can be used to construct control Lyapunov-like functions with general nonlinear dynamics and input bounds.
+
+[June 2022] - The paper by Sander Tonkens on Refining Control Barrier Functions through Hamilton-Jacobi Reachability was accepted to IROS 2022. This paper explores how approximate control barrier functions can be refined by HJ reachability to improve safety guarantees and reduce conservativeness.
+
+[December 2021] - Our paper on Robust Control Barrier–Value Functions for Safety-Critical Control appeared in the IEEE Conference on Decision and Control (CDC). This paper explores the theoretical and practical connections between Hamilton-Jacobi reachability analysis and control barrier functions. It is in collaboration with Claire Tomlin, Koushil Sreenath, and their students.
+
+[December 2021] - Our paper on FaSTrack: A Modular Framework for Real-Time Motion Planning and Guaranteed Safe Tracking appeared in IEEE Transactions on Automatic Control (TAC). This paper explores how a precomputed pursuit-evader game between the true system dynamics and a simplified planning model can allow for fast and unrestricted motion planning online while maintaining safety with respect to the true nonlinear dynamic system.
+
+[June 2021] - Our paper on Scalable Learning of Safety Guarantees for Autonomous Systems using Hamilton-Jacobi Reachability appeared in the IEEE International Conference on Robotics and Automation (ICRA). This paper explores methods for updating safe sets and controllers online based on new information in the environment.
+
+News - Other
+
+[June 2024] - Professor Herbert spoke at the RoboLaunch Seminar Series at Carnegie Mellon University
+
+[April 2024] - Professor Herbert received the 2024 Hellman Fellowship
+
+[February 2024] - Professor Herbert gave an invited talk at the 2024 Information Theory and Applications (ITA) Workshop
+
+[February 2024] - Professor Herbert gave an invited talk at the UC Irvine Mechanical Engineering Seminar Series
+
+[January 2024] - Professors Herbert and Sicun Gao received the 2024 UCSD Jacobs School of Engineering Early Career Faculty Development Award
+
+[January 2024] - Sander Tonkens received funding through the Naval Innovation Science & Engineering (NISE) Center for his work on contingency planning in environments with agents of unknown intent.
+
+[November 2023] - Professor Herbert gave a Spotlight Talk at the UCSD Contextual Robotics Insitute 2023 Forum
+
+[October 2023] - Professor Herbert gave an invited talk at the Stanford Robotics Seminar Series
+
+[October 2023] - Professor Herbert gave an invited talk at the Berkeley Semiautonomous Seminar Series
+
+[October 2023] - Professor Herbert was highlighted in 50 Women in Robotics you Need to Know About 2023
+
+[September 2023] - Professor Herbert gave an invited talk at the University of Utah’s Robotics Graduate Seminar Series
+
+[September 2023] - Professor Herbert gave an invited talk at the University of Southern California’s Electrical Engineering Research Seminar Series
+
+[June 2023] - Professor Herbert is the Publications Chair for Robotics: Science and Systems (RSS) 2023
+
+[June 2023] - Professor Herbert gave an invited talk at the International Conference on Robotics and Automation (ICRA) Workshop on Bridging the Lab-to-Real Gap
+
+[May 2023] - Professor Herbert gave an invited talk at the American Control Conference (ACC) Workshop on Human Autonomy Interaction and Integration
+
+[May 2023] - The undergraduate and graduate team advised by Professor Herbert won 2nd place in NASA’s Blue Skies Competition!
+
+[January 2023] - Professor Herbert gave an invited talk at Cornell’s Robotics Seminar Series
+
+[November 2022] - Professor Herbert gave an invited talk at the University of California Riverside’s Applied Math Seminar Series
+
+[November 2022] - Professor Herbert gave an invited talk at the Stanford’s AI Seminar Series
+
+[September 2022] - Professor Herbert gave an invited talk at UC Irvine’s Robotics Seminar Series
+
+[February 2022] - Professor Herbert welcomes her son Quinn to the world and begins maternity leave!
+
+[February 2022] - Professor Herbert received the Office of Naval Research Young Investigator Program award
+
+[January 2022] - Professor Herbert gave an invited talk at ETH Zurich’s Autonomy Talks Series
+
+[December 2021] - Professor Herbert gave an invited talk at UCLA’s Institute for Pure & Applied Mathematics (IPAM) Long-form workshop on high-dimensional Hamilton-Jacobi PDEs
+
+[November 2021] - Professor Herbert gave the Early Career Spotlight Talk at the IEEE Symposium on Multi-Robot and Multi-Agent Systems 
+
+[October 2021] - Professor Herbert gave an invited talk at Microsoft Research 
+
+[March 2021] - Professor Herbert gave an invited talk at the University of Michigan’s Control Seminar Series
+
+
+Research Areas
+1) Advancing the theory of optimal control for dynamic games in high dimensions
+
+Introducing new formulations, theorems, and algorithms for scalable high-dimensional safety analysis.
+
+Decomposing coupled and decoupled systems in new ways to allow for high-dimensional Hamilton Jacobi reachability analysis
+
+Tools for higher-dimensional Hamilton Jacobi reachability analysis (Examples: Sum-of-Squares Optimization, Approximate Dynamic Programming with Neural Networks)
+
+2) Forming new connections between cognitive science and scalable safe dynamic systems
+
+Adapting cognitive models of human decision-making to robot algorithms to mimic human strengths in real-time planning and to facilitate better human-robot interaction.
+
+FaSTrack: Fast and Safe Tracking for real-time guaranteed safe motion planning
+
+Planning, Fast and Slow: a method for meta-planning with FaSTrack inspired by Dual-Processing Theory in cognitive science 
+
+Confidence-aware human prediction techniques for probabilistically safe robot planning
+
+
+
+
+3) Developing safe learning techniques for dynamic systems 
+
+Developing online techniques for updating theoretical guarantees based on new information about system dynamics. (ongoing work)
+

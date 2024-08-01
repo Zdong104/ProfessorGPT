@@ -1,0 +1,204 @@
+Professor: Alexandros Kapravelos
+University: North Carolina State University
+URL: https://www.kapravelos.com/
+Description: Home
+Publications
+Teaching
+Advice
+CV
+Contact
+Alexandros
+Kapravelos
+Associate Professor
+NC State University
+akaprav@ncsu.edu
+
+I'm an Associate Professor in the Department of Computer Science at North Carolina State University, a member of the Wolfpack Security and Privacy Research (WSPR) Lab and the faculty mentor of HackPack. Together with The Order of the Overflow team we organized DEF CON CTF during 2018-2021.
+
+I'm looking for excited and motivated students to work with. PhD applications at NCSU are due in December (link). If you are interested to visit our group for an internship, take a look here.
+
+Research Interests
+
+My research interests span the areas of web security & privacy, software supply chain security, and AI security. I am in particular interested in the security and privacy problems that arise from the evolution of the web, the software supply chain and the latest advancements in AI.
+
+News
+May 2024	SecWeb 2024 Keynote
+March 2024	NDSS 2024 Distinguished Paper Award
+August 2022	NSF Frontier proposal funded
+May 2021	IEEE S&P 2021 Best Student Paper Award
+April 2020	HackPack CTF 2020
+February 2019	Paper accepted at WWW'19
+July 2018	Paper accepted at CCS'18
+May 2018	Two new PhD students will join our group
+April 2018	HackPack CTF 2018
+January 2018	We are the Order of the Overflow
+Publications
+
+FV8: A Forced Execution JavaScript Engine for Detecting Evasive Techniques
+Nikolaos Pantelaios, Alexandros Kapravelos
+Proceedings of the USENIX Security Symposium, 2024
+[to appear] [Bibtex]
+On SMS Phishing Tactics and Infrastructure
+Aleksandr Nahapetyan, Sathvik Prasad, Kevin Childs, Adam Oest, Yeganeh Ladwig, Alexandros Kapravelos, Brad Reaves
+Proceedings of the IEEE Symposium on Security and Privacy, 2024
+[PDF] [Bibtex]
+UntrustIDE: Exploiting Weaknesses in VS Code Extensions
+Elizabeth Lin, Igibek Koishybayev, Trevor Dunlap, William Enck, Alexandros Kapravelos
+Proceedings of the Network and Distributed System Security Symposium (NDSS), 2024
+
+Distinguished Paper Award
+[PDF] [Bibtex]
+WRIT: Web Request Integrity and Attestation against Malicious Browser Extensions
+Giorgos Vasiliadis, Apostolis Karampelas, Alexandros Shevtsov, Panagiotis Papadopoulos, Sotiris Ioannidis, Alexandros Kapravelos
+IEEE Transactions on Dependable and Secure Computing, 2023
+[PDF] [Bibtex]
+ARGUS: A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions
+Siddharth Muralee, Igibek Koishybayev, Aleksandr Nahapetyan, Greg Tystahl, Brad Reaves, Antonio Bianchi, William Enck, Alexandros Kapravelos, Aravind Machiry
+Proceedings of the USENIX Security Symposium, 2023
+
+CSAW 2023 Applied Research Finalist
+[PDF] [Bibtex] [website] [code] [news]
+Automatic Discovery of Emerging Browser Fingerprinting Techniques
+Junhua Su, Alexandros Kapravelos
+Proceedings of The Web Conference (WWW), 2023
+[PDF] [Bibtex] [code]
+Characterizing the Security of Github CI Workflows
+Igibek Koishybayev, Aleksandr Nahapetyan, Raima Zachariah, Siddharth Muralee, Brad Reaves, Alexandros Kapravelos, Aravind Machiry
+Proceedings of the USENIX Security Symposium, 2022
+[PDF] [Bibtex] [website] [code]
+yoU aRe a Liar://A Unified Framework for Cross-Testing URL Parsers
+Dashmeet Kaur Ajmani, Igibek Koishybayev, Alexandros Kapravelos
+Proceedings of the IEEE SecWeb Workshop, 2022
+[PDF] [Bibtex]
+SoK: Workerounds - Categorizing Service Worker Attacks and Mitigations
+Karthika Subramani, Jordan Jueckstock, Alexandros Kapravelos, Roberto Perdisci
+Proceedings of the IEEE European Symposium on Security and Privacy (EuroS&P), 2022
+[PDF] [Bibtex]
+Measuring the Privacy vs. Compatibility Trade-off in Preventing Third-Party Stateful Tracking
+Jordan Jueckstock, Peter Snyder, Shaown Sarker, Alexandros Kapravelos, Ben Livshits
+Proceedings of The Web Conference (WWW), 2022
+[PDF] [Bibtex]
+Browserprint: An Analysis of the Impact of Browser Features on Fingerprintability and Web Privacy
+Seyed Ali Akhavani, Jordan Jueckstock, Junhua Su, Alexandros Kapravelos, Engin Kirda, Long Lu
+Proceedings of the Information Security Conference (ISC), 2021
+[PDF] [Bibtex]
+Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets
+Pierre Laperdrix, Oleksii Starov, Quan Chen, Alexandros Kapravelos, Nick Nikiforakis
+Proceedings of the USENIX Security Symposium, 2021
+[PDF] [Bibtex] [code]
+CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing
+Penghui Zhang, Adam Oest, Haehyun Cho, Zhibo Sun, RC Johnson, Brad Wardman, Shaown Sarker, Alexandros Kapravelos, Tiffany Bao, Ruoyu Wang, Yan Shoshitaishvili, Adam Doupe, Gail-Joon Ahn
+Proceedings of the IEEE Symposium on Security and Privacy, 2021
+
+Best Student Paper Award
+[PDF] [Bibtex]
+Detecting Filter List Evasion With Event-Loop-Turn Granularity JavaScript Signatures
+Quan Chen, Peter Snyder, Ben Livshits, Alexandros Kapravelos
+Proceedings of the IEEE Symposium on Security and Privacy, 2021
+[PDF] [Bibtex] [code]
+Cookie Swap Party: Abusing First-Party Cookies for Web Tracking
+Quan Chen, Panagiotis Ilia, Michalis Polychronakis, Alexandros Kapravelos
+Proceedings of The Web Conference (WWW), 2021
+[PDF] [Bibtex]
+Towards Realistic and Reproducible Web Crawl Measurements
+Jordan Jueckstock, Shaown Sarker, Peter Snyder, Aidan Beggs, Panagiotis Papadopoulos, Matteo Varvello, Ben Livshits, Alexandros Kapravelos
+Proceedings of The Web Conference (WWW), 2021
+[PDF] [Bibtex] [code]
+Favocado: Fuzzing Binding Code of JavaScript Engines Using Semantically Correct Test Cases
+Sung Ta Dinh, Haehyun Cho, Kyle Martin, Adam Oest, Yihui Zeng, Alexandros Kapravelos, Tiffany Bao, Ruoyu "Fish" Wang, Yan Shoshitaishvili, Adam Doupe, Gail-Joon Ahn
+Proceedings of the Network and Distributed System Security Symposium (NDSS), 2021
+[PDF] [Bibtex]
+You’ve Changed: Detecting Malicious Browser Extensions through their Update Deltas
+Nikolaos Pantelaios, Nick Nikiforakis, Alexandros Kapravelos
+Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
+[PDF] [Bibtex] [code]
+Mininode: Reducing the Attack Surface of Node.js Applications
+Igibek Koishybayev, Alexandros Kapravelos
+Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020
+[PDF] [Bibtex] [website]
+Hiding in Plain Site: Detecting JavaScript Obfuscation through Concealed Browser API Usage
+Shaown Sarker, Jordan Jueckstock, Alexandros Kapravelos
+Proceedings of the ACM Internet Measurement Conference (IMC), 2020
+[PDF] [Bibtex]
+VisibleV8: In-browser Monitoring of JavaScript in the Wild
+Jordan Jueckstock, Alexandros Kapravelos
+Proceedings of the ACM Internet Measurement Conference (IMC), 2019
+[PDF] [Bibtex] [website] [slides] [talk] [code]
+Everyone is Different: Client-side Diversification for Defending Against Extension Fingerprinting
+Erik Trickel, Oleksii Starov, Alexandros Kapravelos, Nick Nikiforakis, Adam Doupe
+Proceedings of the USENIX Security Symposium, 2019
+[PDF] [Bibtex] [code]
+Wild Extensions: Discovering and Analyzing Unlisted Chrome Extensions
+Aidan Beggs, Alexandros Kapravelos
+Proceedings of the Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), 2019
+[PDF] [Bibtex]
+Unnecessarily Identifiable: Quantifying the fingerprintability of browser extensions due to bloat
+Oleksii Starov, Pierre Laperdrix, Alexandros Kapravelos, Nick Nikiforakis
+Proceedings of the World Wide Web Conference (WWW), 2019
+[PDF] [Bibtex]
+Mystique: Uncovering Information Leakage from Browser Extensions
+Quan Chen, Alexandros Kapravelos
+Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2018
+[PDF] [Bibtex] [website] [code]
+Cloak of Visibility: Detecting When Machines Browse A Different Web
+Luca Invernizzi, Kurt Thomas, Alexandros Kapravelos, Oxana Comanescu, Jean-Michel Picod, Elie Bursztein
+Proceedings of the IEEE Symposium on Security and Privacy, 2016
+[PDF] [Bibtex]
+Ad Injection at Scale: Assessing Deceptive Advertisement Modifications
+Kurt Thomas, Elie Bursztein, Chris Grier, Grant Go, Nav Jagpal, Alexandros Kapravelos, Damon Mccoy, Antonio Nappa, Vern Paxson, Paul Pearce, Niels Provos, Moheeb Abu Rajab
+Proceedings of the IEEE Symposium on Security and Privacy, 2015
+
+Distinguished Practical Paper Award
+[PDF] [Bibtex]
+PExy: The other side of Exploit Kits
+Giancarlo De Maio, Alexandros Kapravelos, Yan Shoshitaishvili, Chris Kruegel, Giovanni Vigna
+Proceedings of the Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), 2014
+[PDF] [Bibtex]
+The Dark Alleys of Madison Avenue: Understanding Malicious Advertisements
+Apostolis Zarras, Alexandros Kapravelos, Gianluca Stringhini, Thorsten Holz, Chris Kruegel, Giovanni Vigna
+Proceedings of the Internet Measurement Conference (IMC), 2014
+[PDF] [Bibtex]
+Hulk: Eliciting Malicious Behavior in Browser Extensions
+Alexandros Kapravelos, Chris Grier, Neha Chachra, Chris Kruegel, Giovanni Vigna, Vern Paxson
+Proceedings of the USENIX Security Symposium, 2014
+[PDF] [Bibtex]
+Revolver: An Automated Approach to the Detection of Evasive Web-based Malware
+Alexandros Kapravelos, Yan Shoshitaishvili, Marco Cova, Chris Kruegel, Giovanni Vigna
+Proceedings of the USENIX Security Symposium, 2013
+[PDF] [Bibtex]
+Cookieless Monster: Exploring the Ecosystem of Web-based Device Fingerprinting
+Nick Nikiforakis, Alexandros Kapravelos, Wouter Joosen, Chris Kruegel, Frank Piessens, Giovanni Vigna
+Proceedings of the IEEE Symposium on Security and Privacy, 2013
+[PDF] [Bibtex]
+You Are What You Include: Large-scale Evaluation of Remote JavaScript Inclusions
+Nick Nikiforakis, Luca Invernizzi, Alexandros Kapravelos, Steven Van Acker, Wouter Joosen, Chris Kruegel, Frank Piessens, Giovanni Vigna
+Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2012
+[PDF] [Bibtex]
+Escape from Monkey Island: Evading High-Interaction Honeyclients
+Alexandros Kapravelos, Marco Cova, Chris Kruegel, Giovanni Vigna
+Proceedings of the Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), 2011
+[PDF] [Bibtex]
+D(e|i)aling with VoIP: Robust Prevention of Dial Attacks
+Alexandros Kapravelos, Jason Polakis, Elias Athanasopoulos, Sotiris Ioannidis, Evangelos P. Markatos
+Proceedings of the European Symposium on Research in Computer Security (ESORICS), 2010
+[PDF] [Bibtex]
+Realistic Passive Packet Loss Measurement for High-Speed Networks
+Ales Friedl, Sven Ubik, Alexandros Kapravelos, Michalis Polychronakis, Evangelos P. Markatos
+Proceedings of the International Workshop on Traffic Monitoring and Analysis (TMA), 2009
+[PDF] [Bibtex]
+FleXConf: A Flexible Conference Assistant Using Context-Aware Notification Services
+Nikos Armenatzoglou, Yannis Marketakis, Lito Kriara, Elias Apostolopoulos, Vicky Papavasiliou, Dimitris Kampas, Alexandros Kapravelos, Eythimis Kartsonakis, Giorgos Linardakis, Sofia Nikitaki, Antonis Bikakis, Grigoris Antoniou
+Proceedings of the IEEE Workshop on Context Aware Mobile Systems (CAMS), 2009
+[PDF] [Bibtex]
+Passive end-to-end packet loss estimation for grid traffic monitoring
+Antonis Papadogiannakis, Alexandros Kapravelos, Michalis Polychronakis, Evangelos P. Markatos, Augusto Ciuffoletti
+Proceedings of the CoreGRID Integration Workshop, 2006
+[PDF] [Bibtex]
+
+Contact
+Alexandros Kapravelos
+Office: 2240K Engineering Building II
+Address: 890 Oval Dr., Raleigh, NC 27695-8206, USA
+Email: akaprav at ncsu.edu
+© 2024 Kapravelos
+

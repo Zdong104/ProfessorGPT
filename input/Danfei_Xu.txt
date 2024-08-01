@@ -1,0 +1,420 @@
+Professor: Danfei Xu
+University: Georgia Institute of Technology
+URL: https://cs.stanford.edu/~danfei
+Description: Danfei Xu
+
+I am an Assistant Professor at the School of Interactive Computing at Georgia Tech and a (part-time) Research Scientist at NVIDIA AI. I work at the intersection of Robotics and Machine Learning.
+
+I received my Ph.D. in CS from Stanford University advised by Fei-Fei Li and Silvio Savarese (2015-2021) and B.S. from Columbia University (SEAS'15). I've spent time at DeepMind UK (2019), ZOOX (2017), Autodesk Research (2016), CMU RI (2014), and Columbia Robotics Lab (2013-2015).
+
+Research opportunities: Please fill out this questionnaire and email me once submitted.
+We especially encourage applications from students of traditionally underrepresented groups in robotics and AI such as BIPOC (black, indigenous, and people of color), women, and LGBTQ+ communities.
+
+Email  /  Google Scholar  /  CV (July 2022)  /  Github  /  Twitter
+
+	
+Research
+
+We aim to build general-purpose and adaptable "brains" for robots in home, factory, healthcare, and search & rescue missions alike. Our work focuses on endowing robots with both flexible high-level planning abilities ("what to do next") and robust low-level sensorimotor control ("how to do it"). The research draws equally from Robotics and Machine Learning, with the following themes:
+
+Compositionality: Inspired by human's ability to "make infinite use of finite means", we aim to enable (good!) combinatorial explosions in robots' ability to solve new tasks. Examples include neural program synthesis for control [a][b], compositional diffusion models for planning [a], and learning neural-symbolic motor skills [a].
+Generative Modeling: Modeling complex, high-dimensional distributions is fundamental to many robotics problems. We aim to advance core generative modeling research and their applications to robotics problems. Examples include modeling human behaviors in human-robot collaboration [a][b], modeling dynamics in manipulation planning [a], and explorative "play" behaviors [a][b].
+Data-centric Robot Learning: While many AI domains have achieved remarkable success with large-scale learning, Robotics is critically limited in data scale and coverage. Our work develop systems and algorithms for data collection [a], generation [a], quality control [a], as well as standard datasets and benchmarks [a].
+Full-stack Robot Learning: Robotics is as much science as system building. We are committed to developing high-quality, open-source robot hardware and software systems to demonstrate and promote "full-stack" progress in learning-based robotics. We actively maintain Robomimic, a general-purpose Robot Learning framework and benchmark.
+
+The Research Group
+
+I direct the Robot Learning and Reasoning Lab (RL2) at Georgia Tech. The current members are:
+
+Shuo Cheng - CS Ph.D. student (2022-)
+Shangjie Xue - CS Ph.D. student (2022-)
+Vaibhav Saxena - ML Ph.D. student (2022-)
+Utkarsh Mishra - ROBO Ph.D. student, co-adivsed with Yongxin Chen (2022-)
+Wenqi Jia - CS Ph.D. student, co-advised with Jim Rehg (2022-)
+Fukang Liu - ROBO Ph.D. student, co advised with Ye Zhao and Yue Chen (2023-)
+Nadun Ranawaka - ROBO Ph.D. (2024-)
+Matthew Bronars - M.S. student
+Jesse Dill - M.S. student
+Pranay Mathur - M.S. student
+Archana Kutumbaka - M.S. student
+Ryan Punamiya - UG student
+Alumni:
+Hongyi Chen - M.S. student > CMU RI Ph.D.
+Sachit Kuhar - M.S. student > Amazon Applied Science
+Pujith Kachana - UG student > CMU MSR
+News
+[July 2024] We are hosting a workshop on Data Generation for Robotics at RSS 2024.
+[June 2024] Invited talk at Toyota Research Institute.
+[May 2024] LEAGUE awarded IEEE RA-L Best Paper Honorable Mention (5/1200).
+[Dec 2023] Received support from Autodesk to work on high-precision robotic manipulation. Thanks Autodesk!
+[Nov 2023] MimicPlay awarded Best Paper and Best Systems Paper Finalist at CoRL 2023 (2/270).
+[Nov 2023] We are presenting 6 papers at CoRL 2023.
+[Nov 2023] Invited talk at CoRL 2023 (workshop link).
+[Mar 2023] We hosted a workshop on Neural Fields for Autonomous Driving and Robotics at ICCV 2023.
+[Mar 2023] We hosted a workshop on Learning for Task and Motion Planning at RSS 2023.
+Teaching
+[Sp 2024] Georgia Tech CS 8803 DLM: Deep Learning for Robotics
+[Fa 2023] Georgia Tech CS 7643/4644: Deep Learning
+[Sp 2023] Georgia Tech CS 8803 DLM: Deep Learning for Robotics
+[Fa 2022] Georgia Tech CS 7643/4644: Deep Learning
+[Sp 2021] Stanford CS 231n
+[Sp 2020] Stanford CS 231n
+Publications and Preprints (representative works are highlighted)
+	Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph
+Utkarsh Mishra, Yongxin Chen, Danfei Xu
+In Submission
+
+
+A compositional generative model that can plan for long-horizon, complex coordinated manipulation tasks.
+
+	Legibility Diffuser: Offline Imitation for Intent Expressive Motion
+Matthew Bronars, Shuo Cheng, Danfei Xu
+IEEE RA-L 2024
+
+
+Learning to generate legible robot motion (motion with expressive intent) with Conditional Diffusion Models.
+
+	Neural Visibility Field for Uncertainty-Driven Active Mapping
+Shangjie Xue, Jesse Dill, Pranay Mathur, Frank Dellaert, Panagiotis Tsiotras, Danfei Xu
+CVPR 2024
+
+
+A principled Bayesian framework to model uncertainty in NeRF for active mapping.
+
+	NOD-TAMP: Multi-Step Manipulation Planning with Neural Object Descriptors
+Shuo Cheng, Caelan Garrett, Ajay Mandlekar, Danfei Xu
+In Submission
+
+
+Solving multi-step manipulation problems with zero-shot generalization.
+
+	Open X-Embodiment: Robotic Learning Datasets and RT-X Models
+Many Author
+ICRA 2024, Best Paper Award
+
+
+	EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
+Jiawei Yang, Boris Ivanovic, Or Litany, Xinshuo Weng, Seung Wook Kim, Boyi Li, Tong Che, Danfei Xu, Sanja Fidler, Marco Pavone, Yue Wang
+ICLR 2024
+
+
+Unsupervised 4D representation learning from videos.
+
+	C3DM: Constrained-Context Conditional Diffusion Models for Imitation Learning
+Vaibhav Saxena, Yotto Koga, Danfei Xu
+In Submission
+
+
+High-precision manipulation with generative action modeling.
+
+	Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models
+Utkarsh Mishra, Shangjie Xue, Yongxin Chen, Danfei Xu
+CoRL 2023
+
+
+[website]
+
+A new algorithm to chain together skill-level diffusion models to solve long-horizon manipulation tasks.
+
+	Neural Field Dynamics Model for Granular Object Piles Manipulation
+Shangjie Xue, Shuo Cheng, Pujith Kachana, Danfei Xu
+CoRL 2023
+ICRA'23 Workshop on Representing and Manipulating Deformable Objects (Best Paper finalist)
+
+
+[website]
+
+A new field-based representation (occupancy density) to model and optimize granular object manipulation.
+
+	Learning to Discern: Imitating Heterogeneous Human Demonstrations with Preference and Representation Learning
+Sachit Kuhar, Shuo Cheng, Shivang Chopra, Matthew Bronars, Danfei Xu
+CoRL 2023
+
+
+An offline imitation learning algorithm to learn from mixed-quality human demonstrations.
+
+	Human-in-the-Loop Task and Motion Planning for Imitation Learning
+Ajay Mandlekar*, Caelan Garret*, Danfei Xu, Dieter Fox
+CoRL 2023
+
+
+[website]
+
+We present HITL-TAMP, a system that merges human teleoperation with automated TAMP to efficiently train robots for complex tasks.
+
+	Language-Guided Traffic Simulation via Scene-Level Diffusion
+Ziyuan Zhong, Davis Rempe, Yuxiao Chen, Boris Ivanovic, Yulong Cao, Danfei Xu, Marco Pavone, Baishakhi Ray
+CoRL 2023 (Oral)
+
+
+GPT4-guided trajectory diffusion model.
+
+	MimicPlay: Long-Horizon Imitation Learning by Watching Human Play
+Chen Wang, Linxi Fan, Jiankai Sun, Ruohan Zhang, Li Fei-Fei, Danfei Xu, Yuke Zhu, Anima Anandkumar
+CoRL 2023 (Best Paper and Best Systems Paper Finalist)
+
+
+We leverage human video data to train a planner to guide robust low-level task execution.
+
+	LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation
+Shuo Cheng, Danfei Xu
+Robotics and Automation Letters (RA-L) 2023 Best Paper Honorable Mention
+
+We use Task and Motion Planning (TAMP) as guidance for learning generalizable and composable sensorimotor skills.
+
+	ProgPrompt: Generating Situated Robot Task Plans using Large Language Models
+Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, Animesh Garg
+ICRA 2023
+
+
+We harness the power of large language model to generate program-like task plans.
+
+	BITS: Bi-level Imitation for Traffic Simulation
+Danfei Xu*, Yuxiao Chen*, Boris Ivanovic, Marco Pavone
+ICRA 2023
+
+
+Hierarchical imitation for generating diverse, realistic, and robust traffic behaviors.
+
+	Guided Conditional Diffusion for Controllable Traffic Simulation
+Ziyuan Zhong, Davis Rempe, Danfei Xu, Yuxiao Chen, Sushant Veer, Tong Che, Baishakhi Ray, Marco Pavone
+ICRA 2023
+
+
+Learn behavior prior through diffusion-based imitation. Sample desired behaviors by conditional diffusion and Signal-Temporal Logic (STL) rules.
+
+	Robust Trajectory Prediction against Adversarial Attacks
+Yulong Cao, Danfei Xu, Xinshuo Weng, Zhuoqing Mao, Anima Anandkumar, Chaowei Xiao, Marco Pavone
+CoRL 2022 (Oral)
+
+
+Defending against attacks that target generative behavior models.
+
+	AdvDO: Realistic Adversarial Attacks for Trajectory Prediction
+Yulong Cao, Chaowei Xiao, Anima Anandkumar, Danfei Xu, Marco Pavone
+ECCV 2022
+
+
+Physically-plausible attack on behavior forecasting models.
+
+	Generalizable Task Planning through Representation Pretraining
+Chen Wang, Danfei Xu, Li Fei-Fei
+Robotics and Automation Letters (RA-L) 2022
+
+
+Building generalizable world models for planning with unseen objects and environments.
+
+	What Matters in Learning from Offline Human Demonstrations for Robot Manipulation
+Ajay Mandlekar, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martin-Martin
+CoRL 2021 (Oral)
+
+
+[code+dataset][website][blogpost]
+
+A large-scale study on learning manipulation skills from human demonstrations.
+
+	Human-in-the-Loop Imitation Learning using Remote Teleoperation
+Ajay Mandlekar, Danfei Xu, Roberto Martin-Martin, Yuke Zhu, Li Fei-Fei, Silvio Savarese
+Arxiv Preprint, 2021
+
+
+Human-in-the-loop learning for complex manipulation tasks.
+
+	Co-GAIL: Learning Diverse Strategies for Human-Robot Collaboration
+Chen Wang, Claudia D'Arpino, Danfei Xu, Li Fei-Fei, Karen Liu, Silvio Savarese
+CoRL 2021
+
+
+Learning human-robot collaboration policies from human-human collaboration demonstrations.
+
+	Generalization Through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control
+Chen Wang*, Rui Wang*, Ajay Mandlekar, Li Fei-Fei, Silvio Savarese, Danfei Xu
+IROS 2021
+
+
+An learnable action space for recovering human's hand-eye coordination behaviors by learning from human demonstrations.
+
+	Deep Affordance Foresight: Planning Through What Can Be Done in the Future
+Danfei Xu, Ajay Mandlekar, Roberto Martin-Martin, Yuke Zhu, Silvio Savarese, Li Fei-Fei
+(Long version) ICRA 2021
+(Short version) Oral Presentation, NeurIPS Workshop on Object Representations for Learning and Reasoning, 2020
+
+
+We extend the classical definition of affordance to enable generalizable long-horizon planning.
+
+	Positive-Unlabeled Reward Learning
+Danfei Xu, Misha Denil
+(Long version) CoRL 2020
+(Short version) Late-Breaking Paper, NeurIPS Deep Reinforcement Learning Workshop 2019
+
+
+[Video]
+
+An algorithm framework that simultaneously addresses the reward delusion problem in supervised reward learning and the overfitting discriminator problem in adversarial imitation learning.
+
+	Procedure Planning in Instructional Videos
+Chien-Yi Chang, De-An Huang, Danfei Xu, Ehsan Adeli, Li Fei-Fei
+Juan Carlos Niebles
+ECCV, 2020
+
+
+Learning to plan from instructional videos.
+
+
+
+	Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations
+Ajay Mandlekar*, Danfei Xu*, Roberto Martin-Martin, Silvio Savarese, Li Fei-Fei
+RSS, 2020
+
+
+[website] [video] [blog post]
+
+Learning visuomotor policies that can generalize across long-horizon tasks by modeling latent compositional structures.
+
+
+
+	6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints
+Chen Wang, Roberto Martin-Martin, Danfei Xu, Jun Lv, Cewu Lu, Li Fei-Fei, Silvio Savarese, Yuke Zhu
+ICRA, 2020
+
+
+[website] [video] [code]
+
+Real-time category-level 6D object tracking from RGB-D data.
+
+
+
+	Regression Planning Networks
+Danfei Xu, Roberto Martin-Martin, De-An Huang, Yuke Zhu, Silvio Savarese, Li Fei-Fei
+NeurIPS, 2019
+
+
+[code] [poster]
+
+A flexible neural network architecture for learning to plan from video demonstrations.
+
+
+
+	Continuous Relaxation of Symbolic Planner for One-Shot Imitation Learning
+De-An Huang, Danfei Xu, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Juan Carlos Niebles
+IROS, 2019
+
+
+[blog post]
+
+One-shot imitation learning via hybrid neural-symbolic planning.
+
+
+
+	Situational Fusion of Visual Representation for Visual Navigation
+William B. Shen, Danfei Xu, Yuke Zhu, Leonidas Guibas, Li Fei-Fei, Silvio Savarese
+ICCV, 2019
+
+
+Learning generalizable navigation policy from mid-level visual representations.
+
+
+
+	DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion
+Chen Wang, Danfei Xu, Yuke Zhu, Roberto Martin-Martin, Cewu Lu, Li Fei-Fei, Silvio Savarese
+CVPR, 2019
+
+
+[website] [video] [code]
+
+Dense RGB-depth sensor fusion for 6D object pose estimation.
+
+
+
+	Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration
+De-An Huang*, Suraj Nair*, Danfei Xu*, Yuke Zhu, Animesh Garg, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles
+CVPR, 2019 (Oral)
+
+
+[blog post]
+
+Generate executable task graphs from video demonstrations.
+
+
+
+	Neural Task Programming: Learning to Generalize Across Hierarchical Tasks
+Danfei Xu*, Suraj Nair*, Yuke Zhu, Julian Gao, Animesh Garg, Li Fei-Fei, Silvio Savarese
+ICRA, 2018
+
+
+[website] [video] [Two Minute Papers] [blog post]
+
+Neural Task Programming (NTP) is a meta-learning framework that learns to generate robot-executable neural programs from task demonstration video.
+
+
+
+	PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation
+Danfei Xu, Ashesh Jain, Dragomir Anguelov
+CVPR, 2018
+
+
+End-to-end 3D Bounding Box Estimation via sensor fusion.
+
+
+
+	Scene Graph Generation by Iterative Message Passing
+Danfei Xu, Yuke Zhu, Christopher B. Choy, Li Fei-Fei
+CVPR, 2017
+
+
+[website] [code]
+
+We propose an end-to-end model that jointly infers object category, location, and relationships. The model learns to iteratively improve its prediction by passing messages on a scene graph.
+
+
+
+	3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction
+Christopher B. Choy, Danfei Xu*, JunYoung Gwak*, Silvio Savarese
+ECCV, 2016
+
+
+[website] [code]
+
+We propose an end-to-end 3D reconstruction model that unifies single- and multi-view reconstruction.
+
+
+
+	Model-Driven Feed-Forward Prediction for Manipulation of Deformable Objects
+Yinxiao Li , Yan Wang , Yonghao Yue , Danfei Xu, Michael Case , Shih-Fu Chang , Eitan Grinspun , Peter K. Allen
+IEEE TASE, 2016
+
+
+[website]
+
+Deformable object manipulation with an application of personal assitive robot.
+
+This is the journal paper of our "laundry robot" series:
+ICRA 2015
+IROS 2015
+ICRA 2016
+
+
+
+	Topometric localization on a road network
+Danfei Xu, Hernan Badino, Daniel Huber
+IROS, 2015
+
+
+Vision-based localization on a probabilistic road network.
+
+
+
+	Tactile identification of objects using Bayesian exploration
+Danfei Xu, Gerald E. Loeb, Jeremy Fishel
+ICRA, 2013
+
+
+Object classification using multi-modal tactile sensing.
+
+Other Services
+Reviewer: CVPR, ICCV, ECCV, IROS, ICRA, RSS, CoRL, T-RO, AAAI, IJRR, TPAMI, RA-L, NeurIPS, ICLR, ICML
+
+
+
+Template source
+

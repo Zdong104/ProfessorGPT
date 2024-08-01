@@ -1,0 +1,226 @@
+Professor: Stefan Lee
+University: Oregon State University
+URL: http://web.engr.oregonstate.edu/~leestef
+Description: Stefan Lee
+About
+Press
+Teaching
+Research
+Talks
+Contact me at
+leestef[at]oregonstate[dot]edu
+Office: KEC 3013
+CV
+About
+
+I'm an Assistant Professor in the School of Electrical Engineering and Computer Science (EECS) at Oregon State University. My research focus is the development of agents that can perceive their environment and communicate about this understanding with humans in order to coordinate their actions to achieve mutual goals -- in short, agents that can see, talk, and act. Consequently, I work on problems in computer vision, natural language processing, and deep learning in general.
+
+
+Lab
+
+
+
+PhD Students
+Zijiao Yang
+  •  
+Xiangxi Shi
+  •  
+Eric Slyman
+   •  
+Skand
+   •  
+Abhinav Jain
+   •  
+Akhil Perincherry
+MS Students
+Joe Nguyen
+
+
+
+
+
+
+Career
+
+
+2019
+Assistant Professor @ Oregon State - School of Electrical Engineering and Computer Science
+2017
+Research Scientist II @ Georgia Tech - School of Interactive Computing
+2016
+Postdoctoral Associate @ Virginia Tech - Bradley Department of Electrical and Computer Engineering
+2016
+Earned PhD @ Indiana University - School of Informatics & Computing
+Teaching
+Oregon State
+AI535 - Deep Learning (Spring 2022-2023)
+(Instructor)
+CS434 - Machine Learning and Data Science (Spring 2021, Fall 2021-2023)
+(Instructor)
+CS539 - Natural Language Processing with Deep Learning (Winter 2021 / 2023)
+(Instructor)
+CS539 - Embodied AI (Fall 2019)
+(Instructor)
+
+Georgia Tech
+CS8903 - Special Problems (Fall 2017 - Spring 2019)
+(Faculty Advisor)
+
+Virginia Tech
+EECE 5424/4425 CS 5824/4824 - Introduction to Machine Learning (Fall 2016)
+(Instructor)
+
+Indiana University
+B659 - Image Processing and Recognition (Fall 2014)
+(Assistant Instructor)
+I399 - Research Methods for Informatics and Computing (Fall 2013)
+(Graduate Mentor)
+C211 - Introduction to Computer Science (Fall 2011 - Summer 2012)
+(Assistant Instructor)
+Research
+
+
+2024
+	
+FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication
+Eric Slyman, Stefan Lee, Scott Cohen, Kushal Kafle
+CVPR 2024
+ @inproceedings{slyman2024fairdedup,
+     author     =  {Eric Slyman and Stefan Lee and Scott Cohen and Kushal Kafle},
+     title      =  {FairDeDup: Detecting and Mitigating Vision-Language Fairness Disparities in Semantic Dataset Deduplication},
+     booktitle  =  {Computer Vision and Pattern Recognition (CVPR)},
+     year       =  {2024}}
+
+	
+Viewpoint-Aware Visual Grounding in 3D Scenes
+Xiangxi Shi, Zhonghua Wu, Stefan Lee
+CVPR 2024
+ @inproceedings{shi2024view3d,
+     author     =  {Xiangxi Shi and Zhonghua Wu and Stefan Lee},
+     title      =  {Viewpoint-Aware Visual Grounding in 3D Scenes},
+     booktitle  =  {Computer Vision and Pattern Recognition (CVPR)},
+     year       =  {2024}}
+
+	
+Point Cloud Models Improve Visual Robustness in Robotic Learners
+Skand Peri, Iain Lee, Chanho Kim, Li Fuxin, Tucker Hermans, Stefan Lee
+ICRA 2024
+ @inproceedings{skand2024pcwm,
+     author     =  {Skand Peri and Iain Lee and Chanho Kim and Li Fuxin and Tucker Hermans and Stefan Lee},
+     title      =  {Point Cloud Models Improve Visual Robustness in Robotic Learners},
+     booktitle  =  {International Conference on Robotics and Automation (ICRA)},
+     year       =  {2024}}
+
+	
+Benchmarking Out-of-Distribution Detection in Visual Question Answering
+Xiangxi Shi, Stefan Lee
+WACV 2024
+ @inproceedings{shi2024vqaood,
+     author     =  {Xiangxi Shi and Stefan Lee},
+     title      =  {Benchmarking Out-of-Distribution Detection in Visual Question Answering},
+     booktitle  =  {Winter Conference on Applications of Computer Vision (WACV)},
+     year       =  {2024}}
+
+
+2023
+	
+VLSlice: Interactive Vision-and-Language Slice Discovery
+Eric Slyman, Minsuk Kahng, Stefan Lee
+ICCV 2023
+ @inproceedings{slyman2023vlslice,
+     author     =  {Eric Slyman and Minsuk Kahng and Stefan Lee},
+     title      =  {VLSlice: Interactive Vision-and-Language Slice Discovery},
+     booktitle  =  {International Conference on Computer Vision (ICCV)},
+     year       =  {2023}}
+
+	
+Navigating to Objects Specified by Images
+Jacob Krantz, Theophile Gervet, Karmesh Yadav, Austin Wang, Chris Paxton, Roozbeh Mottaghi, Dhruv Batra, Jitendra Malik, Stefan Lee, Devendra Singh Chaplot
+ICCV 2023
+ @inproceedings{krantz2023instancenav,
+     author     =  {Jacob Krantz and Theophile Gervet and Karmesh Yadav and Austin Wang and Chris Paxton and Roozbeh Mottaghi and Dhruv Batra and Jitendra Malik and Stefan Lee and Devendra Singh Chaplot},
+     title      =  {Navigating to Objects Specified by Images},
+     booktitle  =  {International Conference on Computer Vision (ICCV)},
+     year       =  {2023}}
+
+	
+Emergence of Maps in the Memories of Blind Navigation Agents
+Erik Wijmans, Manolis Savva, Irfan Essa, Stefan Lee, Ari Morcos, Dhruv Batra
+ICLR 2023 Best Paper Award
+ @inproceedings{wijmans2023eom,
+     author     =  {Erik Wijmans and Manolis Savva and Irfan Essa and Stefan Lee and Ari Morcos and Dhruv Batra},
+     title      =  {Emergence of Maps in the Memories of Blind Navigation Agents},
+     booktitle  =  {International Conference on Learning Representations (ICLR)},
+     year       =  {2023}}
+
+	
+Iterative Vision-and-Language Navigation
+Jacob Krantz, Shurjo Banerjee, Wang Zhu, Jason Corso, Peter Anderson, Stefan Lee, Jesse Thomason
+CVPR 2023
+ @inproceedings{krantz2023ivln,
+     author     =  {Jacob Krantz and Shurjo Banerjee and Wang Zhu and Jason Corso and Peter Anderson and Stefan Lee and Jesse Thomason},
+     title      =  {Iterative Vision-and-Language Navigation},
+     booktitle  =  {Computer Vision and Pattern Recognition (CVPR)},
+     year       =  {2023}}
+
+	
+Behavioral Analysis of Vision-and-Language Navigation Agents
+Zijiao Yang, Arjun Majumdar, Stefan Lee
+CVPR 2023
+ @inproceedings{yang2023vlnbehave,
+     author     =  {Zijiao Yang and Arjun Majumdar and Stefan Lee},
+     title      =  {Behavioral Analysis of Vision-and-Language Navigation Agents},
+     booktitle  =  {Computer Vision and Pattern Recognition (CVPR)},
+     year       =  {2023}}
+
+
+2022
+	
+Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments
+Jacob Krantz, Stefan Lee
+ECCV 2022 Oral
+ @inproceedings{krantz2022sim2sim,
+     author     =  {Jacob Krantz and Stefan Lee},
+     title      =  {Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments},
+     booktitle  =  {European Conference on Computer Vision (ECCV)},
+     year       =  {2022}}
+
+	
+Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances
+Jacob Krantz, Stefan Lee, Jitendra Malik, Dhruv Batra, Devendra Singh Chaplot
+arXiv 2022
+ @inproceedings{krantz2022instanceimagenav,
+     author     =  {Jacob Krantz and Stefan Lee and Jitendra Malik and Dhruv Batra and Devendra Singh Chaplot},
+     title      =  {Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances},
+     booktitle  =  {arXiv},
+     year       =  {2022}}
+More publications
+Recent Talks
+Watch online:
+	
+Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition
+Conference on Robotic Learning (CoRL) 2018
+
+	
+Training Embodied Agents in Semantically and Perceptually Rich Simulations
+DARPA 60th Anniversary (D60) - DARPA Riser 2018
+
+Slides:
+- Visual Curiosity: Learning to Ask Questions to Learn Visual Recognition
+- Training Embodied Agents in Semantically and Perceptually Rich Simulations
+- Towards Goal-Driven, Visually Grounded Dialog Agents
+- Training Diverse Ensembles of Deep Networks
+Press Coverage
+- Coverage of our emergence of maps in blind navigation agents work from New Scientist
+- Coverage of embodied AI work at Facebook including our Semantic MapNet effort - ZDNET MIT Technology Review Digital Trends VentureBeat 2020
+- Coverage of our Vision-and-Language Navigation in Continuous Environments project - ZDNET 2020
+- Facebook, Georgia Tech & OSU ViLBERT Achieves SOTA on Vision-and-Language Tasks - SyncedReview 2019
+- Meet ViLBERT, The Task-Agnostic Model Inspired From BERT for Visual Grounding - Analytics India 2019
+- Facebook helped create an AI scavenger hunt that could lead to the first useful home robots - MIT Technology Review 2018
+- How A Virtual Scavenger Hunt Could Train Robots To Find Things In Your Home - FastCompany 2018
+- Facebook is training AI to answer questions like humans do -- Digital Journal 2018
+- Research Scientist, Assistant Professor Represent IC in DARPA Risers Event - ML@GT Blog 2018
+- What is Graph R-CNN? - ML@GT Blog 2018
+- Choose Your Neuron: Incorporating Domain Knowledge through Neuron-Importance - ML@GT Blog 2018
+- Embodied Question Answering - ML@GT Blog 2018
+

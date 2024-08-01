@@ -1,0 +1,58 @@
+Professor: Volkan Isler
+University: University of Minnesota
+URL: http://www-users.cs.umn.edu/~isler
+Description: Ibrahim Volkan Isler
+
+Computer Science & Engineering
+University of Minnesota
+
+Robotic Sensor Networks Lab
+MN Robotics Institute
+
+Office: Shepherd 239
+Email: lastname@umn.edu
+Phone: +1-612-625-1067 (for spammers only. I don't answer it)
+C.V.
+
+Welcome!
+
+I am a professor in the Computer Science and Engineering Department at the University of Minnesota. This semester I am teaching CSCI 5561: Computer Vision (syllabus)
+
+My general research area is robotics applied to environmental monitoring and agricultural automation (and more recently, home automation.) I am especially interested in perception-action coupling and how it informs planning algorithms and perceptual representations. I've recently revamped this webpage to give a historical summary of our work. Hope you enjoy it! The old webpage is still available here as it contains some useful information.
+
+Algorithmic Foundations
+
+Our lab worked on a number of fundamental algorithmic problems in robotics. Perhaps the most representative problem in this domain is pursuit-evasion: Can a pursuer equipped with a camera locate and capture an evader in an arena represented as a polygon? We showed that a single pursuer can do so in any simply-connected polygon. Later on we also showed that three pursuers are sufficient and sometimes necessary in polygons with holes. This survey and this toolkit provide overviews and accessible introductions to our work in this area.
+
+Many of my lab members continued working on algorithmic foundations: See for example Onur's work on sensor placement, Pratap's work on an art gallery style problem. We also worked on quite a few TSP-style problems. See also Selim and Minghan's webpages for more recent work in this area. Our current work in this domain includes neural representations for motion planning, and reactive motion planners.
+
+Environmental Monitoring
+
+Since its inception, our lab managed to couple foundational work with field robotics -- in particular we worked on using teams of robots for collecting data for environmental monitoring. Our first large grant in this domain was on building a network of autonomous boats to track carp. Here is a feature story and a magazine article. Later on we started using aerial vehicles for tracking bears, deer and moose. See Josh and Narges' papers for some of the algorithmic contributions in this domain. This RAM article is also a good expository resource. A lot fun times and frostbites. Here is a teaser with memories from those days:
+
+Learn more
+Yield Mapping
+
+Around 2010, we started applying our expertise in robotic data collection to agriculture. First we started working on data collection on row crops and worked on innovative problems such as air to ground collaboration . Around this time, we also (re)started working on computer vision problems such as building mosaics . But the real fun began when we started working on apple orchards. Frost bites became mosquito bites. A decade of hard work and fruitful(!) collaborations led to numerous grants, patents and a start-up (Farm-Vision Technologies -- led by our own Patrick Plonski). Along the way, we solved novel calibration and reconstruction problems, developed an onboard UAV navigation module with vision based obstacle avoidance , and created the Minneapple dataset which has been downloaded more than 40K times! Our current work in this domain includes stemrust detection.
+
+Most of these results are documented in the theses and webpages of Pravakar, Wenbo, Cheng, and Nicolai. Here is a teaser for our work during this period.
+
+Learn more
+Agricultural Automation
+
+As we worked closely with growers, it became clear that they need robots for more than data collection. Our first work in this domain, where we seek to manipulate the environment, was on strawberry picking . This was also the beginning of a fun and ongoing collaboration with our friends and colleagues at NMBU. Later on, we took on the task of weeding for cow pastures and started developing the CowBot! Here is a PBS Show about it and a few more expository articles. We are currently working on midseason weeding, which means you have to go under the canopy, navigate a 30 inch wide row and whack the weeds without hurting the corn. Here are: the platform we built for this purpose and some results on the localization module. We have just received renewal funding to continue working on this project!
+
+Learn more
+Perception and Manipulation
+
+I started my Ph.D working on a visionary project (envisioned by the one and only Ruzena Bajcsy) on telepresence. Here is a Scientific American article describing the project. It was the original metaverse! First I worked on stereo reconstruction for a while. Later I also worked on a few other vision problems back then. However, it was becoming clear that vision will be about representations and in those days my heart was in optimization algorithms! So I took about a break from computer vision around 2005.
+
+Over the last decade, I started working on computer vision problems again. First it was mostly applied vision problems related to yield mapping. However in the last five years, we started putting a lot of emphasis on developing neural representations for 3D . Later on, we developed camera frame object representations for object grasping. In our latest work in this domain, we developed a method to reconstruct, estimate the pose and scale of an object along with feasible grasps to manipulate it! Our other work in this domain include event based cameras, pose estimation, and Novel View Synthesis including recent work that uses LLM based inpainting methods. We are also revisiting our earlier work on mobile telepresence and address some of its limitations using drones! We have a lot active work in this domain. Stay tuned for more!
+
+Learn more
+For More Info
+
+Thanks for visiting this page! If you'd like to learn more about our work, this MnRI spotlight is a good place to start. You can also visit our lab page or the team members' pages to learn more about our work. Gotta go now. Cheers!
+
+Learn more
+

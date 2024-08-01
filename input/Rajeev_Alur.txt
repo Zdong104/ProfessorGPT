@@ -1,0 +1,157 @@
+Professor: Rajeev Alur
+University: University of Pennsylvania
+URL: https://www.cis.upenn.edu/~alur
+Description: 	
+Rajeev Alur
+Zisman Family Professor
+Department of Computer and Information Science
+University of Pennsylvania
+609 Levine
+3330 Walnut Street, Philadelphia, PA 19104-6389
+email: alur at cis upenn edu
+phone: +1 (215) 573-7483
+
+Overview
+My research is focused on formal methods for system design, and spans artificial intelligence, cyber-physical systems, distributed systems, logic in computer science, machine learning, and programming languages. I am the Director of ASSET (Center for AI-Enabled Systems: Safe, Explainable, and Trustworthy), and also a member of Penn's PRECISE Center and PL Club.
+
+Online Publications (DBLP, Google Scholar)
+Recent Talks
+Biography
+Curriculum vitae
+Textbook: Principles of Cyber-Physical Systems, MIT Press, 2015
+Research
+My current research is primarily focused on Trustworthy AI and Safe Autonomy. Autonomous systems increasingly rely on machine learning for making decisions. When such systems are used in safety-critical applications such as driverless cars and medical devices, we need guarantees regarding their safety. This motivates research on integrating logical reasoning in learning algorithms. Representative research directions are:
+How to formally verify closed-loop systems that include a neural-network-based controller? Sample publications: Verisig, EMSOFT'21; Talk (Jan 20)
+How to integrate logical specifications in reinforcement learning? Sample publications: Temporal logic in RL: Survey, SPECTRL; AAAI'23 Tutorial slides
+Here are some selected contributions from my past research (complete list of publications):
+Programming abstractions for stream processing systems: Quantitative Regular Expressions, StreamQRE system, and Synchronization schemas, and a talk (April 2018).
+Syntax-guided program synthesis; see original paper and overview talk (April 2021) developed as part of the NSF Expeditions in Computer Augmented Program Engineering (ExCAPE) project.
+All regular transformations in a single pass: Streaming string transducers (see talk), Streaming tree transducers
+Nested Words (aka visibly pushdown languages) for modeling data with linear-hierarchical structure
+Architecture-aware analysis of concurrent software (see PLDI 2007 paper on CheckFence)
+Automata-theoretic approach for compositional scheduling of embedded control software (representative publication)
+CHARON for modeling and verification of hybrid systems
+Multi-agent systems: Reactive Modules (FMSD 1999 paper), Mocha, Alternating-Time Temporal Logic (JACM 2002 paper)
+Specification, Analysis, and Testing of Scenario-based Requirements.
+Hybrid automata (TCS 1995 paper)
+Real-time temporal logics: TPTL (JACM 1994 paper), TCTL (I&C 1993 paper), MITL (JACM 1996 paper)
+Timed automata (TCS 1994 paper); see blogpost and interview when awarded 2016 Alonzo Church award for outstanding contributions to logic and computation.
+Teaching
+Spring 2024: Trustworthy Machine Learning
+At the undergraduate level, I teach CIS 2620: Automata, Computability, and Complexity, usually each Fall semester. To help students learn the basic model of deterministic finite automata, we have developed an interactive tool AutomataTutor with novel features for automatically generated feedback and automatic grading. If you are an instructor teaching a course on this topic, please encourage your students to use this tool, and if you want to set up a homework assignment using our tool, send us an email!
+CIS 6730: Computer-Aided Verification. Next offering: Spring 2023.
+To train Masters students in the cross-disciplinary skills required for the emerging area of embedded and cyber-physical systems, Penn Engineering started a new program EMBS that I directed for many years. For many years, I taught CIS 540: Principles of Embedded Computation for this program. On this topic, I have written the textbook Principles of Cyber-Physical Systems which was published by MIT Press in April 2015. There are lots of teaching resources such as exercises, solutions, slides, and projects, available if you want to teach a similar course.
+Research Group
+Current PhD Students:
+Phillip Hilliard (co-advised with Zack Ives)
+Konstantinos Kallas
+Spyros Pavlatos
+Alaia Solko-Breslin (co-advised with Mayur Naik)
+Chris Watson
+Anton Xue (co-advised with Eric Wong)
+
+
+Former members:
+Aalok Thakkar, PhD Summer 2023 (co-advised with Mayur Naik)
+Thesis: Example-guided synthesis of relational queries.
+Aptos Labs.
+Kishor Jothimurugan, PhD Spring 2023.
+Thesis: Specification-guided reinforcement learning.
+Two Sigma.
+Suguman Bansal, CRA/NSF Computing Innovations Fellow, 2020-22.
+Faculty, Department of Computer Science, Georgia Institute of Technology.
+Caleb Stanford, PhD Summer 2022.
+Thesis: Safe programming over distributed streams.
+Faculty, Department of Computer Science, University of California, Davis.
+Lei Shi (co-advised with Boon Thau Loo), PhD Spring 2022.
+Thesis: Practical network programming automation.
+Huawei Research.
+Radoslav Ivanov Postdoctoral researcher, 2018-21 (co-advised with Insup Lee and George Pappas).
+Faculty, Department of Computer Science, Rensselaer Polytechnic Institute.
+Yuepeng Wang, Postdoctoral researcher, 2020-21 (co-advised with Mayur Naik).
+Faculty, Department of Computer Science, Simon Fraser University, Canada.
+Filip Niksic, Postdoctoral researcher, 2018-20.
+Google.
+Luan Viet Nguyen, Postdoctoral researcher, 2018-19.
+Faculty, Department of Computer Science, University of Dayton.
+Nimit Singhania, PhD Fall 2018 (co-advised with Joe Deviette).
+Thesis: Static analysis for GPU program performance (pdf)
+eBay.
+Konstantinos Mamouras, Postdoctoral researcher, 2015-18.
+Faculty, Department of Computer Science, Rice University.
+Arjun Radhakrishna, Postdoctoral researcher, 2014-17.
+Microsoft.
+Mukund Raghothaman, PhD Fall 2016.
+Thesis: Regular programming over data streams (pdf)
+Faculty, Department of Computer Science, University of Southern California.
+Dana Fisman, ExCAPE Research Scientist, 2013-16.
+Faculty, Dept of Computer Science, Ben Gurion University, Israel.
+Salar Moarref, PhD Summer 2016 (co-advised with Ufuk Topcu).
+Thesis: Compositional reactive synthesis for multi-agent systems (pdf)
+Uber.
+Yifei Yuan, PhD Summer 2016, (co-advised with Boon Thau Loo).
+Thesis: High-level abstractions for programming network policies (pdf)
+Alibaba.
+Abhishek Udupa, PhD, Spring 2016.
+Thesis: Synthesis of distributed protocols from scenarios and specifications (pdf)
+Microsoft.
+Loris D'Antoni, PhD, Summer 2015.
+Thesis: Programming using Automata and Transducers
+Faculty, Dept of Computer Science, University of Wisconsin at Madison.
+Christos Stergiou, ExCAPE Postdoctoral Researcher, 2013-15.
+Google.
+Sela Mador-Haim, All-But-Dissertation.
+Coverity.
+Ashutosh Trivedi, Postdoctoral researcher, 2010-12.
+Faculty, Dept. of Computer Science, University of Colorado at Boulder.
+Jyotirmoy Deshmukh, Postdoctoral researcher (as Computing Innovation Fellow), 2010-2012.
+Faculty, Dept of Computer Science, University of Southern California.
+Pavol Cerny, PhD Summer 2009.
+Thesis: Software model checking for confidentiality
+Faculty, Dept of Computer Science, TU Vienna, Austia.
+Gera Weiss, Postdoctoral researcher, 2006-2009.
+Faculty, Dept of Computer Science, Ben Gurion University, Israel.
+Aditya Kanade, Postdoctoral researcher, 2007-2009.
+Faculty, Dept of Computer Science and Automation, Indian Institute of Science, Bangalore.
+Mikhail Bernadsky, PhD Spring 2008.
+Thesis: Symbolic analysis of stochastic discrete event systems
+Cox Digital Solutions
+Swarat Chaudhuri, PhD Summer 2007.
+Thesis: Logics and algorithms for software analysis
+Faculty, Department of Computer Science, University of Texas at Austin.
+Sebastian Burckhardt, PhD Summer 2007 (co-advised with Milo Martin).
+Thesis: Memory model sensitive analysis of concurrent data types pdf
+Microsoft Research, Redmond.
+Wonhong Nam, PhD Spring 2007.
+Thesis: Synthesis and compositional verification using language learning
+Faculty, Dept of Internet and Multimedia Engineering, Konkuk University, Korea.
+Michael McDougall, PhD Spring 2005 (co-advised with Carl Gunter).
+Thesis: Modeling and analyzing integrated policies pdf
+Amazon Web Services.
+Madhusudan Parthasarathy, Postdoctoral researcher, 2001-2004.
+Faculty, Dept of Computer Science, University of Illinois, Urbana-Champaign.
+Franjo Ivancic, PhD, Fall 2003.
+Thesis: Modeling and Analysis of Hybrid Systems, Abstract
+Google.
+Zijiang Yang, PhD, Fall 2003.
+Thesis: Techniques for Reducing the Computational Requirements of Symbolic Reachability Analysis, Abstract
+Faculty, Dept of Computer Science, Western Michigan University.
+Supratik Mukhopadhyay, Postdoctoral researcher, 2001-02.
+Faculty, Dept of Computer Science, Louisiana State University.
+Thao Dang, Postdoctoral researcher, 2000-2001.
+CNRS, Grenoble, France.
+
+Bow-Yaw Wang, PhD, Summer 2001.
+Thesis: Hierarchical Reduction and Refinement Checking for Asynchronous Processes, Abstract
+Academia Sinica, Taiwan.
+Salvatore La Torre, PhD, Summer 2001.
+Thesis: Verification of Reactive Systems and Decision Problems in Temporal Logic, Abstract
+Faculty, Dept of Computer Science, University of Salerno, Italy
+Radu Grosu, Postdoctoral researcher, 1998--2000.
+Faculty of Informatics, TU Vienna, Austria.
+George Pappas, Postdoctoral researcher, 1999--2000.
+Faculty, Dept of Electrical and Systems Engineering, University of Pennsylvania.
+
+
+Master's Stduents: Himyanshu Anand (MS, 2000), Arnabnil Bhattacharjee (MS, 1999), Arun Chandrashekharapuram (MS, 2005), Gunjan Gupta (MS, 2004), Steve Hsu (MS, 2022), Minsu Kang (MS, 2001), Jason Simas (MS, 2004), Shaan Vaidya (MS, 2021).
+

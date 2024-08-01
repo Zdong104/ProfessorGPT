@@ -1,0 +1,249 @@
+Professor: Ruqi Zhang
+University: Purdue University
+URL: https://ruqizhang.github.io/
+Description: Home News Research Interests Publications Talks Teaching CV Contact
+
+            
+
+Ruqi Zhang
+
+I am an Assistant Professor in the Department of Computer Science at Purdue University. Before that, I was a postdoctoral fellow at Institute for Foundations of Machine Learning, UT Austin. I completed my PhD at Cornell University, where I was advised by Chris De Sa.
+
+
+
+
+A Postdoctoral position is currently open in our lab. For further details, please visit here.
+
+I am looking for highly motivated students (PhD, MS, undergrads, and interns) to join our lab. If you are interested, feel free to reach out.
+
+News
+[07/15/2024] Co-organizing NeurIPS 2024 Workshop on ML with New Compute Paradigms.
+[07/02/2024] Co-organizing 6th Symposium on Advances in Approximate Bayesian Inference
+[07/01/2024] 1 paper was accepted by IROS 2024.
+[05/02/2024] Grateful to receive the Institute for Physical Artificial Intelligence (IPAI) Postdoctoral Research Program Fund.
+[05/02/2024] 1 paper was accepted by ICML 2024.
+[04/16/2024] Area Chair for NeurIPS 2024.
+[04/2024] 2 papers were accepted by TMLR.
+[01/16/2024] 2 papers were accepted by ICLR 2024.
+[01/16/2024] Area Chair for UAI 2024.
+[12/16/2023] Gave an invited talk and attended the panel at NeurIPS 2023 Workshop on ML with New Compute Paradigms. My talk starts at 2:33:25.
+[09/22/2023] 1 paper was accepted by NeurIPS 2023.
+[08/20/2023] Area Chair for AISTATS 2024.
+[07/28/2023] Gave an invited talk at ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling. My talk starts at 5:32:25.
+[06/26/2023] 1 paper was accepted at AIES 2023 as Oral Presentation.
+[05/30/2023] Grateful to receive the Ross-Lynn Research Scholar Fund.
+[04/24/2023] 1 paper was accepted by ICML 2023.
+[03/18/2023] Co-organizing ICML 2023 Workshop on Sampling and Optimization in Discrete Space.
+[02/28/2023] Co-organizing 5th Symposium on Advances in Approximate Bayesian Inference. See you in Hawaii!
+[01/20/2023] 1 paper was accepted by ICLR 2023!
+[01/20/2023] 1 paper was accepted by AISTATS 2023!
+[10/06/2022] Invited talk at Center for Data Science and Machine Learning, National University of Singapore
+[09/14/2022] 1 paper was accepted by NeurIPS 2022!
+[05/15/2022] 2 papers were accepted by ICML 2022!
+[11/04/2021] Gave a talk at Simons Institute, UC Berkeley on Scalable and Reliable Inference for Probabilistic Modeling. Check out the video!
+[10/18/2021] Will be co-organizing 4th Symposium on Advances in Approximate Bayesian Inference.
+Research Interests
+
+I am interested in building scalable, reliable and efficient probabilistic models for machine learning and data science. Currently, I focus on developing fast and robust sampling and probabilistic inference methods with theoretical guarantees and their applications with deep neural networks on real-world big data.
+
+Publications
+Cascade Reward Sampling for Efficient Decoding-Time Alignment
+
+Bolian Li, Yifan Wang, Ananth Grama, Ruqi Zhang
+Preprint, 2024
+[Paper][Code]
+
+Adaptive Planning with Generative Models under Uncertainty
+
+Pascal Jutras-Dube, Ruqi Zhang, Aniket Bera
+International Conference on Intelligent Robots and Systems (IROS), 2024
+[Coming soon]
+
+Position Paper: Bayesian Deep Learning in the Age of Large-Scale AI
+
+Theodore Papamarkou, Maria Skoularidou, [and 20+ authors], Ruqi Zhang
+International Conference on Machine Learning (ICML), 2024
+[Paper]
+
+Enhancing Low-Precision Sampling via Stochastic Gradient Hamiltonian Monte Carlo
+
+Ziyi Wang, Yujie Chen, Qifan Song, Ruqi Zhang
+Transactions on Machine Learning Research (TMLR), 2024
+[Paper]
+
+Embracing Unknown Step by Step: Towards Reliable Sparse Training in Real World
+
+Bowen Lei, Dongkuan Xu, Ruqi Zhang, Bani K Mallick
+Transactions on Machine Learning Research (TMLR), 2024
+[Paper][Code]
+
+Gradient-based Discrete Sampling with Automatic Cyclical Scheduling
+
+Patrick Pynadath, Riddhiman Bhattacharya, Arun Hariharan, Ruqi Zhang
+Preprint, 2024
+[Paper]
+
+Training Bayesian Neural Networks with Sparse Subspace Variational Inference
+
+Junbo Li, Zichen Miao, Qiang Qiu, Ruqi Zhang
+International Conference on Learning Representations (ICLR), 2024
+[Paper][Code]
+
+Entropy-MCMC: Sampling from Flat Basins with Ease
+
+Bolian Li, Ruqi Zhang
+International Conference on Learning Representations (ICLR), 2024
+[Paper][Code]
+
+Balance is Essence: Accelerating Sparse Training via Adaptive Gradient Correction
+
+Bowen Lei, Dongkuan Xu, Ruqi Zhang, Shuren He, Bani K Mallick
+Conference on Parsimony and Learning (CPAL), 2024
+[Paper][Code]
+
+Rethinking Data Distillation: Do Not Overlook Calibration
+
+Dongyao Zhu, Bowen Lei, Jie Zhang, Yanbo Fang, Yiqun Xie, Ruqi Zhang, Dongkuan Xu
+International Conference on Computer Vision (ICCV), 2023
+[Paper][Code]
+
+DISCS: A Benchmark for Discrete Sampling
+
+Katayoon Goshvadi, Haoran Sun, Xingchao Liu, Azade Nova, Ruqi Zhang, Will Grathwohl, Dale Schuurmans, Hanjun Dai
+Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023
+Short Version at ICML Workshop on Sampling and Optimization in Discrete Space, 2023
+[Paper][Code]
+
+Long-tailed Classification from a Bayesian-decision-theory Perspective
+
+Bolian Li, Ruqi Zhang
+Symposium on Advances in Approximate Bayesian Inference (AABI), 2023
+[Paper]
+
+Analysis of Climate Campaigns on Social Media using Bayesian Model Averaging
+
+Tunazzina Islam, Ruqi Zhang, Dan Goldwasser
+AAAI/ACM Conference on AI, Ethics, and Society (AIES), 2023
+Oral Presentation, top 11%
+[Paper]
+
+DP-Fast MH: Private, Fast, and Accurate Metropolis-Hastings for Large-Scale Bayesian Inference
+
+Wanrong Zhang, Ruqi Zhang
+International Conference on Machine Learning (ICML), 2023
+[Paper][Code]
+
+Calibrating the Rigged Lottery: Making All Tickets Reliable
+
+Bowen Lei, Ruqi Zhang, Dongkuan Xu, Bani K Mallick
+International Conference on Learning Representations (ICLR), 2023
+[Paper][Code]
+
+Efficient Informed Proposals for Discrete Distributions via Newton’s Series Approximation
+
+Yue Xiang, Dongyao Zhu, Bowen Lei, Dongkuan Xu, Ruqi Zhang
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2023
+[Paper][Code]
+
+Sampling in Constrained Domains with Orthogonal-Space Variational Gradient Descent
+
+Ruqi Zhang, Qiang Liu, Xin T. Tong
+Neural Information Processing Systems (NeurIPS), 2022
+[Paper][Code]
+
+A Langevin-like Sampler for Discrete Distributions
+
+Ruqi Zhang, Xingchao Liu, Qiang Liu
+International Conference on Machine Learning (ICML), 2022
+[Paper] [Code][Video][Slides]
+
+Low-Precision Stochastic Gradient Langevin Dynamics
+
+Ruqi Zhang, Andrew Gordon Wilson, Christopher De Sa
+International Conference on Machine Learning (ICML), 2022
+[Paper] [Code][Video][Slides]
+
+Meta-Learning Divergences for Variational Inference
+
+Ruqi Zhang, Yingzhen Li, Christopher De Sa, Sam Devlin, Cheng Zhang
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2021
+[Paper]
+
+Asymptotically Optimal Exact Minibatch Metropolis-Hastings
+
+Ruqi Zhang, A. Feder Cooper, Christopher De Sa
+Neural Information Processing Systems (NeurIPS), 2020
+Spotlight Presentation, top 3%
+[Paper][Code][Video][Slides]
+
+AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic Gradient MCMC
+
+Ruqi Zhang, A. Feder Cooper, Christopher De Sa
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020
+[Paper] [Code]
+
+Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning
+
+Ruqi Zhang, Chunyuan Li, Jianyi Zhang, Changyou Chen, Andrew Gordon Wilson
+International Conference on Learning Representations (ICLR), 2020
+Oral Presentation, top 2%
+[Paper] [Code][Video][Slides] [BlackJAX Implementation]
+
+Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees
+
+Ruqi Zhang, Christopher De Sa
+Neural Information Processing Systems (NeurIPS), 2019
+Spotlight Presentation, top 2.5%
+[Paper] [Code] [Poster] [Slides]
+
+Large Scale Sparse Clustering
+
+Ruqi Zhang, Zhiwu Lu
+International Joint Conference on Artificial Intelligence (IJCAI), 2016
+[Paper]
+
+Talks
+Low-precision Sampling for Probabilistic Deep Learning
+
+Invited talk at NeurIPS 2023 Workshop on ML with New Compute Paradigms, December 2023
+[Video (my talk starts at 2:32:25)][Slides]
+
+Sampling in Discrete and Constrained Domains
+
+Invited talk at ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling, July 2023
+[Video (my talk starts at 5:32:25)][Slides]
+
+A Langevin-like Sampler for Discrete Distributions
+
+Spotlight presentation at ICML, July 2022 [Video][Slides]
+
+Low-Precision Stochastic Gradient Langevin Dynamics
+
+Spotlight presentation at ICML, July 2022 [Video][Slides]
+
+Scalable and Reliable Inference for Probabilistic Modeling
+
+Center for Data Science and Machine Learning, National University of Singapore, October 2022
+Invited talk at Simons Institute, UC Berkeley, November 2021 [Video][Slides]
+
+Asymptotically Optimal Exact Minibatch Metropolis-Hastings
+
+Spotlight talk in Rising Stars in Data Science Workshop at University of Chicago, January 2021
+Spotlight presentation at NeurIPS, December 2020 [Video][Slides]
+
+Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning
+
+Oral presentation at ICLR, April 2020 [Video][Slides]
+
+Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees
+
+Spotlight presentation at NeurIPS, December 2019 [Slides]
+
+Teaching
+CS57800 Statistical Machine Learning, Spring 2023, Fall 2023, Fall 2024
+CS37300 Data Mining and Machine Learning, Spring 2024
+CS59200 Probabilistic Machine Learning, Fall 2022
+Contact
+Email: ruqiz@purdue.edu
+Office: LWSN 2142F
+

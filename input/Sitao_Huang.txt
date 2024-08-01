@@ -1,0 +1,206 @@
+Professor: Sitao Huang
+University: Univ. of California - Irvine
+URL: http://sitaohuang.com/
+Description: Sitao Huang
+Education
+Teaching
+Honors
+Projects
+Internships
+Publications
+Sitao Huang (黄思陶)
+
+sitaoh [AT] uci [DOT] edu
+
+Assistant Professor
+Department of Electrical Engineering and Computer Science
+University of California Irvine
+
+I am an assistant professor at University of California Irvine EECS. I got my a Ph.D. degree in Electrical and Computer Engineering at UIUC in August 2021. During my PhD, I worked in IMPACT research group and ES-CAD research group at UIUC. I was fortunate to be advised by Professor Wen-mei W. Hwu and Professor Deming Chen.
+
+My research interests include FPGA/GPU based heterogeneous computing, high level synthesis (HLS), and compiler technologies.
+
+My CV can be found here.
+
+Education
+
+University of Illinois at Urbana-Champaign, Urbana, Illinois, USA (May, 2017 ~ present)
+Ph.D. candidate in Electrical and Computer Engineering
+
+University of Illinois at Urbana-Champaign, Urbana, Illinois, USA (August, 2014 ~ May, 2017)
+M.S. in Electrical and Computer Engineering
+
+Tsinghua University, Beijing, China (09/2010 ~ 06/2014)
+B.Eng. in Electronics Engineering
+
+Teaching
+[Winter 2023] EECS 221: Languages and Compilers for Hardware Accelerators
+[Winter 2022] EECS 221: Languages and Compilers for Hardware Accelerators
+[Spring 2022] EECS 112: Organization of Digital Computers
+Honors
+
+IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC 2021) Best Paper Candidate.
+
+IEEE HPEC Graph Challenge 2019 Honorable Mention.
+
+IEEE/ACM Design Automation Conference 2019 (DAC 2019) System Design Contest First Place.
+
+UIUC ECE 2019 Sundaram Seshu International Student Fellowship.
+
+IEEE HPEC Graph Challenge 2018 Student Innovation Award.
+
+Design Automation Conference 2018 (DAC 2018) System Design Contest Third Place.
+
+UIUC ECE 2018 Rambus Computer Engineering Fellowship.
+
+The 6th International Conference on Learning Representations (ICLR 2018) Travel Award.
+
+Tsinghua University Department of Electronic Engineering 2013 Academic Innovation Scholarship.
+
+The 28th National Competition in Physics for University Students (Non-Major) First Prize.
+
+The 31st “Challenge Cup” Competition of Science and Technology in Tsinghua University Third Prize.
+
+The 26th Chinese Physics Olympiad (CPhO) in Provinces First Prize.
+
+Selected Research Projects
+PyLog: A High-Level Programming and Synthesis Flow for FPGAs
+
+PyLog is a high-level, Python-based algorithm-centric programming and synthesis flow for FPGA. PyLog features a set of compiler optimization passes and a type inference system to generate high-quality design.
+
+[learn more]
+
+
+
+Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators
+(ASP-DAC 2021 Best Paper Candidate)
+
+We propose a mixed precision quantization scheme for ReRAM-based DNN inference accelerators where weight quantization, input quantization, and partial sum quantization (ADC quantization) are jointly applied for each DNN layer. We also propose an automated quantization flow powered by deep reinforcement learning to search for the best quantization configuration in the large design space.
+
+[learn more]
+
+
+
+Chai-FPGA: Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures
+
+We propose the collaborative schemes for CPU-FPGA systems, including data partitioning, coarse-grained task partitioning, and fine-grained task partitioning. We explore and evaluate the potential of collaborative execution between CPUs and FPGAs using OpenCL high level synthesis. We observe that choosing the most suitable partitioning strategy can improve performance by up to 2x.
+
+[learn more]
+
+
+
+Tangram: A High-Level Language for Efficient Performance-Portable Kernel Synthesis
+
+Tangram is a general-purpose high-level language that achieves high performance across architectures, including GPUs and multi-core CPUs. In Tangram, a program is written by synthesizing elemental pieces of code snippets, called codelets. A codelet can have multiple semantic-preserving implementations to enable automated algorithm and implementation selection. An implementation of a codelet can be written with tunable knobs to allow architecture-specific parameterization. The Tangram compiler produces highly optimized code by choosing and composing architecture-friendly codelets, and then tuning the knobs for the target architecture.
+
+[learn more]
+
+
+
+
+
+Internships
+
+Xilinx Research Labs, Research Labs. (June 2020 ~ August 2020)
+San Jose, California, USA (remote)
+
+Microsoft Research, AI Infrastructures. (May 2018 ~ August 2018)
+Sunnyvale, California, USA
+
+Microsoft Research, Deep Learning Group. (May 2017 ~ August 2017)
+Redmond, Washington, USA
+
+Synopsys, ZeBu Team (May 2016 ~ August 2016)
+Mountain View, California, USA
+
+Microsoft Research Asia, System Algorithm Group. (December 2013 ~ May 2014)
+Beijing, China
+
+Publications
+
+Efficient Machine Learning, Compilers, and Optimizations for Embedded Systems.
+Xiaofan Zhang, Yao Chen, Cong Hao, Sitao Huang, Yuhong Li, Deming Chen.
+(book chapter) arXiv preprint arXiv:2206.03326.
+
+Chimera: A Hybrid Machine Learning-Driven Multi-Objective Design Space Exploration Tool for FPGA High-Level Synthesis.
+Mang Yu, Sitao Huang, Deming Chen.
+IDEAL 2021 (Best Paper Award).
+
+A Python-based High-Level Programming Flow for CPU-FPGA Heterogeneous Systems.
+Sitao Huang, Kun Wu, Sai Rahul Chalamalasetti, Izzat El Hajj, Cong Xu, Paolo Faraboschi, Deming Chen.
+PEHC 2021.
+
+PyLog: An Algorithm-Centric Python-based FPGA Programming and Synthesis Flow.
+Sitao Huang, Kun Wu, Hyunmin Jeong, Chengyue Wang, Deming Chen, Wen-Mei Hwu.
+IEEE Transactions on Computers, 2021.
+
+Mind Mappings: Enabling Efficient Algorithm-Accelerator Mapping Space Search.
+Kartik Hegde, Po-An Tsai, Sitao Huang, Vikas Chandra, Angshuman Parashar, Christopher Fletcher.
+ASPLOS 2021.
+
+Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators.
+Sitao Huang, Aayush Ankit, Plinio Silveira, Rodrigo Antunes, Sai Rahul Chalamalasetti, Izzat El Hajj, Dong-Eun Kim, Glaucimar Aguiar, Pedro Bruel, Sergey Serebryakov, Cong Xu, Can Li, Paolo Faraboschi, John Paul Strachan, Deming Chen, Kaushik Roy, Wen-mei Hwu, Dejan Milojicic.
+ASP-DAC 2021 (Best Paper Candidate).
+
+Accelerating Sparse Deep Neural Network on FPGA. [PDF]
+Sitao Huang, Carl Pearson, Rakesh Nagi, Jinjun Xiong, Deming Chen, and Wen-mei Hwu.
+Proceedings of 2019 IEEE High Performance Extreme Computing Conference (HPEC 2019), 2019.
+(Graph Challenge Honorable Mention)
+
+Analysis and Optimization of I/O Cache Coherency Strategies for SoC-FPGA Device. [PDF]
+Seung Won Min, Sitao Huang, Mohamed El-Hadedy, Jinjun Xiong, Deming Chen, and Wen-mei Hwu.
+Proceedings of the 29th International Conference on Field-Programmable Logic and Applications (FPL 2019), 2019.
+
+Near-Memory and In-Storage FPGA Acceleration for Emerging Cognitive Computing Workloads. [PDF]
+Ashutosh Dhar, Sitao Huang, Jinjun Xiong, Damir Jamsek, Bruno Mesnet, Jian Huang, Nam Sung Kim, Wen-mei Hwu, and Deming Chen.
+Proceedings of IEEE Computer Society Annual Symposium on VLSI (ISVLSI 2019), 2019.
+
+FPGA/DNN Co-Design: An Efficient Design Methodology for IoT Intelligence on the Edge. [PDF]
+Cong Hao, Xiaofan Zhang, Yuhong Li, Sitao Huang, Jinjun Xiong, Kyle Rupnow, Wen-mei Hwu, and Deming Chen.
+Proceedings of the 56th Design Automation Conference (DAC 2019), 2019.
+
+Analysis and Modeling of Collaborative Execution Strategies for Heterogeneous CPU-FPGA Architectures. [PDF]
+Sitao Huang, Li-Wen Chang, Izzat El Hajj, Simon Garcia de Gonzalo, Juan Gómez Luna, Sai Rahul Chalamalasetti, Mohamed El-Hadedy, Dejan Milojicic, Onur Mutlu, Deming Chen, and Wen-mei Hwu.
+Proceedings of the 10th ACM/SPEC International Conference on Performance Engineering (ICPE 2019), 2019.
+
+Automatic Generation of Warp-Level Primitives and Atomic Operations for Fast-Portable GPU Reductions. [PDF]
+Simon Garcia De Gonzalo, Sitao Huang, Juan Gomez-Luna, Simon Hammond, Onur Mutlu, and Wen-mei Hwu.
+Proceedings of the International Symposium on Code Generation and Optimization (CGO 2019), 2019.
+
+Triangle Counting and Truss Decomposition using FPGA. [PDF]
+Sitao Huang, Mohamed El-Hadedy, Cong Hao, Qin Li, Vikram S. Mailthody, Ketan Date, Jinjun Xiong, Deming Chen, Rakesh Nagi, and Wen-mei Hwu.
+Proceedings of 2018 IEEE High Performance Extreme Computing Conference (HPEC 2018), 2018.
+(Graph Challenge Student Innovation Award)
+
+Hardware-Software Co-Design for an Analog-Digital Accelerator for Machine Learning. [PDF]
+Joao Ambrosi, Aayush Ankit, Rodrigo Antunes, Sai Rahul Chalamalasetti, Soumitra Chatterjee, Izzat El Hajj, Guilherme Fachini, Paolo Faraboschi, Martin Foltin, Sitao Huang, Wen-mei Hwu, Gustavo Knuppe, Sunil Vishwanathpur Lakshminarasimha, Dejan Milojicic, Mohan Parthasarathy, Filipe Ribeiro, Lucas Rosa, Kaushik Roy, Plinio Silveira, and John Paul Strachan (alphabetical order).
+2018 IEEE International Conference on Rebooting Computing (ICRC 2018), 2018.
+
+Towards Neural Phrase-based Machine Translation. [PDF]
+Po-Sen Huang, Chong Wang, Sitao Huang, Dengyong Zhou, and Li Deng.
+Proceedings of the 6th International Conference on Learning Representations (ICLR 2018), 2018.
+
+Collaborative Computing for Heterogeneous Integrated Systems. [PDF]
+Li-Wen Chang, Juan Gómez Luna, Izzat El Hajj, Sitao Huang, Deming Chen, and Wen-mei Hwu.
+Proceedings of the 8th ACM/SPEC on International Conference on Performance Engineering (ICPE 2017), pp. 385-388, 2017.
+
+Hardware Acceleration of the Pair-HMM Algorithm for DNA Variant Calling. [PDF]
+Sitao Huang, Gowthami Jayashri Manikandan, Anand Ramachandran, Kyle Rupnow, Wen-mei W. Hwu, and Deming Chen.
+Proceedings of the 25th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2017), pp. 275-284, 2017.
+
+Accelerating Frequent Item Counting with FPGA. [PDF]
+Yuliang Sun, Zilong Wang, Sitao Huang, Lanjun Wang, Yu Wang, Rong Luo, and Huazhong Yang.
+Proceedings of the 22nd ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2014), pp. 109-112, 2014.
+
+DTW-Based Subsequence Similarity Search on AMD Heterogeneous Computing Platform. [PDF]
+Sitao Huang, Guohao Dai, Yuliang Sun, Zilong Wang, Yu Wang, and Huazhong Yang.
+Proceedings of the 15th IEEE International Conference on High Performance Computing and Communications (HPCC 2013), pp.1054–1063, 2013.
+
+Accelerating Subsequence Similarity Search Based on Dynamic Time Warping Distance with FPGA. [PDF]
+Zilong Wang, Sitao Huang, Lanjun Wang, Hao Li, Yu Wang, and Huazhong Yang.
+Proceedings of the 21st ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA 2013), pp. 53-62, 2013.
+
+Last updated in January 2021
+
+Free Visitor Counter widget
+

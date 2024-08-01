@@ -1,0 +1,31 @@
+Professor: Daniel J. Fremont
+University: Univ. of California - Santa Cruz
+URL: https://people.ucsc.edu/~dfremont
+Description: Daniel Fremont
+Home
+CV
+Bio
+Research
+Teaching
+Group
+Contact
+
+Welcome to my web site! I am an Assistant Professor of Computer Science and Engineering at UC Santa Cruz.
+
+I'm interested in applications of logic in computer science, particularly using automated reasoning to improve the reliability of software, hardware, and cyber-physical systems (e.g. autonomous vehicles). I work in the area of formal methods, mathematical techniques for design tasks including:
+
+precisely specifying systems, their environments, and their requirements;
+verifying (i.e. mathematically proving) that a system satisfies its specification;
+automatically synthesizing correct implementations for systems from high-level specifications;
+testing systems in a principled way when full verification is intractable.
+
+A major topic of my research is algorithmic improvisation, a new approach to synthesizing systems which use randomness to enhance robustness, variety, or unpredictability while still providing formal correctness guarantees. I work on the core theory of algorithmic improvisation, the underlying constraint solving technology (model counting and uniform generation), as well as applications, particularly to the design, analysis, and testing of autonomous systems. For example, we have used our Scenic probabilistic programming language to find and fix bugs in machine learning-based perception systems for self-driving cars. Take a look at my research page for details.
+
+© 2022 Daniel Fremont. Layout by [i] Website Templates
+
+Home
+Bio
+Research
+Teaching
+Contact
+

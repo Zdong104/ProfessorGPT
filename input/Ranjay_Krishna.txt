@@ -1,0 +1,608 @@
+Professor: Ranjay Krishna
+University: University of Washington
+URL: http://www.ranjaykrishna.com/index.html
+Description: RANJAY KRISHNA
+	
+I teach machines to see like people and interact with people. As modern machines struggle to fully conceptualize the visual world, my research bootstraps machine learning  using frameworks from behavioral and social sciences. 
+
+Ranjay Krishna is an Assistant Professor at the Paul G. Allen School of Computer Science & Engineering. His research lies at the intersection of computer vision and human computer interaction. This research has received best paper, outstanding paper, and orals at CVPR, ACL, CSCW, NeurIPS, UIST, and ECCV, and has been reported by Science, Forbes, the Wall Street Journal, and PBS NOVA. His research has been supported by Google, Amazon, Cisco, Toyota Research Institute, NSF, ONR, and Yahoo. He holds a bachelor's degree in Electrical & Computer Engineering and in Computer Science from Cornell University, a master's degree in Computer Science from Stanford University and a Ph.D. in Computer Science from Stanford University.
+CVPR 2024 @ Seattle, USA
+Most of my research group will be at CVPR. Come say hi to us! We will be presenting:
+- 1 Oral paper [VPD]
+- 6 main conference papers [VPD, Modeling collaborator, Iterated learning, Spoc, Holodeck, Quilt-LLaVA],
+- 9 workshop papers [BLINK, MIMIC, Colosseum, M&Ms, Synthetic data, DreamSync, Cultural diversity, Selective attention, Agile modeling],
+- presenting 2 workshop talks [humans-in-the-loop, evaluation],
+- organizing 1 workshop [synthetic data],
+- presenting in 1 main conference panel [past, present, and future of CVPR],
+- presenting in 2 workshop panels [humans-in-the-loop, evaluation].
+RECENT ​PAPER HIGHLIGHTS
+
+​[June 2024] Our Visual Program Distillation paper will appear as an Oral at CVPR 2024, awarded to top 5% of submissions.
+​[May 2024] Our Selective Visual Representations paper will appear as a Spotlight at ICLR 2024, awarded to top 5% of submissions.
+​[Dec 2023] Our DataComp paper will appear as an Oral at NeurIPS 2023, awarded to top (0.6%) submissions.
+​[Dec 2023] Our Quilt-1M will appear as an Oral at NeurIPS 2023, awarded to top (0.6%) submissions.
+​[Oct 2023] Our paper on Explanations and human-AI decision making got awarded a Best Paper Honorable Mention at CSCW 2023
+​[Mar 2023] Our CREPE paper was recognized as a Highlight at CVPR 2023, awarded to top 2.5% of submissions.
+​[Nov 2022] Our work won the Madrona Prize for the most commercializable research project. 
+​[Nov 2022] Our work at PNAS 2022 has been covered by the press at Science and TechXplore. 
+[Sep 2022] Our large scale AI deployment interacting and learning from real human interactions online appears at PNAS 2022.
+[Oct 2021] Our active learning paper will receive an Outstanding paper at ACL 2021, awarded to top 6 papers at the conference.
+
+RECENT TALKS
+
+[Jun 2024] One of the keynotes at CVPR 2024 workshop on Evaluation of Generative Foundation Models
+[Jun 2024] One of the keynotes at CVPR 2024 workshop on Computer Vision with Humans in the Loop
+[April 2023] Invited DUB seminar talk at the University of Washington
+[Oct 2023] One of the keynotes at ICCV 2023 workshop on Scene Graphs and Graph Representation Learning
+[Oct 2023] One of the keynotes at ICCV 2023 workshop on On Closing The Loop Between vision an language
+[Aug 2023] Distinguished talk on Compositionally at Salesforce AI
+[July 2023] Talk on Embodied Intelligence at the AAAI 2023 Inaugural Summer Symposium on Embodied Intelligence
+​​[Jun 2023] One of the keynotes at CVPR 2023 workshop on New Frontiers in Vision and Language Reasoning.
+[Oct 2021] Talk at ICCV 2021 workshop on Compositionality in Computer Vision.
+[Jul 2021] Talk at ICML 2021 workshop on Humans in the learning loop .
+[Apr 2021] Ph.D. defence talk at Stanford University and graduated with a distinction in teaching for instructing 5 courses.
+
+​RECENT WORKSHOPS
+
+​​[Jun 2024] Synthetic Data for Computer Vision at CVPR 2024
+​​[Oct 2023] International Challenge on Compositional and Multimodal Perception at ICCV 2023 
+​[Jul 2023] Artificial Intelligence and Human-Computer Interaction at ICML 2023 
+​[Oct 2022] Compositionality in Computer Vision workshop  at ECCV 2022. 
+[Oct 2021] Compositionality in Computer Vision workshop at ICCV 2021.
+[Aug 2020] International Challenge on Compositional and Multimodal Perception workshop at ECCV 2020.
+[Jun 2020] Compositionality in Computer Vision workshop at CVPR 2020. Compositionality in Computer Vision workshop at CVPR 2020.
+[Jun 2020] ActivityNet Challenge on Dense Captioning Events in Videos at CVPR 2020.
+[Oct 2019] Scene Graph Representation and Learning.
+[Oct 2019] Co-organizer and a guest editor for an IEEE TPAMI special issue on Graphs in Vision and Pattern Analysis.
+PRE-PRINTS & WORKING PAPERS
+	
+Manipulate-Anything: Automating Real-World Robots using Vision-Language Models
+Jiafei Duan, Wentao Yuan, Wilbert Pumacay, Yi Ru Wang, Kiana Ehsani, Dieter Fox, Ranjay Krishna
+ArXiv 2024
+[pdf] [website]
+	
+Task Me Anything
+Jieyu Zhang, Weikai Huang, Zixian Ma, Oscar Michel, Dong He, Tanmay Gupta, Wei-Chiu Ma, Ali Farhadi, Aniruddha Kembhavi, Ranjay Krishna
+ArXiv 2024
+[pdf] [website] [UI] [code]
+	
+RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics
+Wentao Yuan, Jiafei Duan, Valts Blukis, Wilbert Pumacay, Ranjay Krishna, Adithyavairavan Murali, Arsalan Mousavian, Dieter Fox
+ArXiv 2024
+[pdf]
+	
+Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models
+Yushi Hu*, Weijia Shi*, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith*, Ranjay Krishna*
+ArXiv 2024
+[pdf] [website] [code]
+	
+Multilingual Diversity Improves Vision-Language Representations
+Thao Nguyen, Matthew Wallingford, Sebastin Santy, Wei-Chiu Ma, Sewoong Oh, Ludwig Schmidt, Pang Wei Koh, Ranjay Krishna
+CVPR 2024 workshop on Synthetic Data for Computer Vision
+[pdf]
+	
+Computer Vision Datasets and Models Exhibit Cultural and Linguistic Diversity in Perception
+Andre Ye, Sebastin Santy, Jena D. Hwang, Amy X. Zhang, Ranjay Krishna
+ArXiv 2024
+[pdf]
+	
+The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better
+Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh*, Ranjay Krishna*
+CVPR 2024 workshop on Synthetic Data for Computer Vision
+[pdf]
+	
+ImageInWords: Unlocking Hyper-Detailed Image Descriptions
+Roopal Garg, Andrea Burns, Burcu Karagol Ayan, Yonatan Bitton, Ceslee Montgomery, Yasumasa Onoe, Andrew Bunner, Ranjay Krishna, Jason Baldridge, Radu Soricut
+ArXiv 2024
+[pdf] [website] [code]
+	
+Designing LLM Chains by Adapting Techniques from Crowdsourcing Workflows
+Madeleine Grunde-McLaughlin, Michelle S. Lam, Ranjay Krishna, Daniel S. Weld, Jeffrey Heer
+ArXiv 2024
+[pdf]
+ACADEMIC PUBLICATIONS
+	
+EVE: Enabling Anyone to Train Robots using Augmented Reality
+Jun Wang, Chun-Cheng Chang, Jiafei Duan, Dieter Fox, Ranjay Krishna
+UIST 2024
+[pdf]
+	
+BLINK: Multimodal Large Language Models Can See but Not Perceive
+Xingyu Fu, Yushi Hu, Bangzheng Li, Yu Feng, Haoyu Wang, Xudong Lin, Dan Roth, Noah A. Smith, Wei-Chiu Ma, Ranjay Krishna
+ECCV 2024
+[pdf] [website] [code] [dataset] [eval]
+	
+Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion
+Xiang Fan, Anand Bhattad, Ranjay Krishna
+ECCV 2024
+[pdf] [website] [code]
+	
+m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks
+Zixian Ma, Weikai Huang, Jieyu Zhang, Tanmay Gupta, Ranjay Krishna
+ECCV 2024
+[pdf] [huggingface] [code]
+	
+SPARO: Selective Attention for Robust and Compositional Transformer Encodings for Vision
+Ankit Vani, Bac Nguyen, Samuel Lavoie, Ranjay Krishna, Aaron Courville
+ECCV 2024
+[pdf] [code]
+	
+The Hard Positive Truth about Vision-Language Compositionality
+Amita Kamath, Cheng-Yu Hsieh, Kai-Wei Chang, Ranjay Krishna
+ECCV 2024
+[pdf coming soon] [code coming soon]
+	
+Efficient Inference of Vision Instruction-Following Models with Elastic Cache
+Zuyan Liu, Benlin Liu, Jiahui Wang, Yuhao Dong, Guangyi Chen, Jiwen Lu, Ranjay Krishna, Yongming Rao
+ECCV 2024
+[pdf coming soon] [code coming soon]
+	
+Found in the middle: Calibrating Positional Attention Bias Improves Long Context Utilization
+Cheng-Yu_Hsieh, Yung-Sung Chuang, Chun-Liang Li, Zifeng Wang, Long Le, Abhishek Kumar, James R. Glass, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna*, Tomas Pfister*
+ACL Findings 2024
+[pdf]
+	
+The Colosseum: A Benchmark for Evaluating Generalization for Robotic Manipulation
+Wilbert Pumacay*, Ishika Singh*, Jiafei Duan*, Ranjay Krishna, Jesse Thomason, Dieter Fox
+RSS 2024
+[pdf] [project] [code] [website]
+	
+Training Language Model Agents without Modifying Language Models
+Shaokun Zhang, Jieyu Zhang, Jiale Liu, Linxin Song, Chi Wang, Ranjay Krishna, Qingyun Wu
+ICML 2024
+[pdf] [code] [blog]
+	
+Iterated Learning Improves Compositionality in Large Vision-Language Models
+Chenhao Zheng, Jieyu Zhang, Aniruddha Kembhavi, Ranjay Krishna
+CVPR 2024
+[pdf] [code] [website] [video]
+	
+Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use
+Imad Eddine Toubal, Aditya Avinash, Neil Gordon Alldrin, Jan Dlabal, Wenlei Zhou, Enming Luo, Otilia Stretcu, Hao Xiong, Chun-Ta Lu, Howard Zhou, Ranjay Krishna, Ariel Fuxman, Tom Duerig
+CVPR 2024
+[pdf]
+	
+Holodeck: Language Guided Generation of 3D Embodied AI Environments
+Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark
+CVPR 2024
+[pdf] [code] [website]
+	
+Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos
+Mehmet Saygin Seyfioglu, Wisdom O. Ikezogwo, Fatemeh Ghezloo, Ranjay Krishna, Linda Shapiro
+CVPR 2024
+[pdf] [code] [website] [data]
+	
+Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World
+Kiana Ehsani, Tanmay Gupta, Rose Hendrix, Jordi Salvador, Luca Weihs, Kuo-Hao Zeng, Kunal Pratap Singh, Yejin Kim, Winson Han, Alvaro Herrasti, Ranjay Krishna, Dustin Schwenk, Eli VanderBilt, Aniruddha Kembhavi
+CVPR 2024
+[pdf] [code and data] [website]
+	
+Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models
+Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman
+CVPR 2024 [CVPR Oral awarded to top 0.7% of submissions]
+[pdf] [code coming soon] [website]
+	
+Selective Visual Representations Improve Convergence and Generalization for Embodied AI
+Ainaz Eftekhar, Kuo-Hao Zeng, Jiafei Duan, Ali Farhadi, Ani Kembhavi, Ranjay Krishna
+ICLR 2024 [ICLR Spotlight awarded to top 5% of submissions]
+[pdf] [code] [website] [slides]
+	
+Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-Image Generation
+Jaemin Cho, Yushi Hu, Roopal Garg, Peter Anderson, Ranjay Krishna, Jason Baldridge, Mohit Bansal, Jordi Pont-Tuset, Su Wang
+ICLR 2024
+[pdf] [website] [code]
+	
+VOCALExplore: Pay-as-You-Go Video Data Exploration and Model Building
+Maureem Daum, ​Enhao Zhang, Dong He, Brandon Hayes, Ranjay Krishna, Magdalena Balazinska
+VLDB 2024
+[pdf] [code]
+	
+OBJECT 3DIT: Language-guided 3D-aware Image Editing
+Oscar Michel, Anand Bhattad, Eli VanderBilt, Ranjay Krishna, Aniruddha Kembhavi, Tanmay Gupta
+NeurIPS 2023
+[pdf] [website] [code] [dataset]
+	
+SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality
+Cheng-Yu Hsieh, Jieyu Zhang, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
+NeurIPS 2023
+[pdf] [code]
+	
+Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias
+Yue Yu, Yuchen Zhuang, Jieyu Zhang, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang
+NeurIPS 2023
+[pdf] [code]
+	
+Quilt-1M: One Million Image-Text Pairs for Histopathology
+Wisdom Oluchi Ikezogwo, Mehmet Saygin Seyfioglu, Fatemeh Ghezloo, Dylan Stefan Chan Geva, Fatwir Sheikh Mohammed, Pavan Kumar Anand, Ranjay Krishna, Linda Shapiro
+NeurIPS 2023 [NeurIPS Oral awarded to 0.6% of submissions]
+[pdf] [code]
+	
+Cola: How to adapt vision-language models to Compose Objects Localized with Attributes?
+Arijit Ray, Filip Radenovic, Abhimanyu Dubey, Bryan A. Plummer, Ranjay Krishna, and Kate Saenko
+NeurIPS 2023
+[pdf] [project] [data]
+	
+DataComp: In search of the next generation of multimodal datasets
+Samir Yitzhak Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, Jieyu Zhang, Eyal Orgad, Rahim Entezari, Giannis Daras, Sarah Pratt, Vivek Ramanujan, Yonatan Bitton, Kalyani Marathe, Stephen Mussmann, Richard Vencu, Mehdi Cherti, Ranjay Krishna, Pang Wei Koh, Olga Saukh, Alexander Ratner, Shuran Song, Hannaneh Hajishirzi, Ali Farhadi, Romain Beaumont, Sewoong Oh, Alex Dimakis, Jenia Jitsev, Yair Carmon, Vaishaal Shankar, Ludwig Schmidt
+NeurIPS 2023 [NeurIPS Oral awarded to 0.6% of submissions]
+[pdf] [website] [code]
+	
+AR2-D2:Training a Robot Without a Robot
+Jiafei Duan, Yi Ru Wang, Mohit Shridhar, Dieter Fox, Ranjay Krishna
+CoRL 2023
+[pdf]
+	
+Agile Modeling: From Concept to Classifier in Minutes
+Otilia Stretcu, Edward Vendrow, Kenji Hata, Krishnamurthy Viswanathan, Vittorio Ferrari, Sasan Tavakkol, Wenlei Zhou, Aditya Avinash, Enming Luo, Neil Gordon Alldrin, MohammadHossein Bateni, Gabriel Berger, Andrew Bunner, Chun-Ta Lu, Javier A Rey, Giulia DeSalvo, Ranjay Krishna, Ariel Fuxman
+ICCV 2023
+Also published at NeurIPS 2023 ReALML workshop [Best paper nominee]
+[pdf] [code coming soon]
+	
+TIFA: Text-to-Image Faithfulness Evaluation with Question Answering
+Yushi Hu, Benlin Liu, Jungo Kasai, Yizhong Wang, Mari Ostendorf, Ranjay Krishna, Noah Smith
+ICCV 2023
+[pdf] [website] [code]
+	
+Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
+Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alex Jason Ratner, Ranjay Krishna, Chen-Yu Lee and Tomas Pfister
+ACL 2023 Findings
+[pdf] [code] [video] [blog]
+	
+EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions
+​Enhao Zhang, Maureem Daum, Dong He, Brandon Hayes, Ranjay Krishna, Magdalena Balazinska
+VLDB 2023
+[pdf] [code]
+	
+​CREPE: Can Vision-Language Foundation Models Reason Compositionally?
+Zixian Ma*, Jerry Hong*, Mustafa Omer Gul*, Mona Gandhi, Irena Gao, Ranjay Krishna
+CVPR 2023 [CVPR Highlight awarded to 2.5% of submissions]
+[pdf] [code]
+	
+​Explanations can Reduce Overreliance on AI Systems during Decision-Making
+Helena Vasconcelos, Matthew Jorke, Madeleine Grunde-McLaughlin, Tobias Gerstenberg, Michael Bernstein, Ranjay Krishna
+CSCW 2023 [Best paper honorable mention awarded to the top 23 papers]
+[pdf]
+	
+Alignment as a Multi-Agent Intrinsic Reward
+Zixian Ma, Rose Wang, Li Fei-Fei, Michael Bernstein, Ranjay Krishna
+NeurIPS 2022
+[pdf] [code]
+	
+Socially situated artificial intelligence enables learning from human interaction
+Ranjay Krishna, Donsuk Lee, Li Fei-Fei*, Michael Bernstein*
+​* = equal last authors
+PNAS 2022
+[main paper] [appendix] [science article] [techxplore article]
+	
+Searching for Computer Vision North Stars
+Li Fei-Fei,  Ranjay Krishna
+Book: Daedalus Special issue on "AI & Society"
+​Daedalus Spring 2022
+[book] [pdf] [website]
+	
+Measuring Compositional Consistency for Video Question Answering
+Mona Gandhi*, Mustafa Omer Gul*, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala
+CVPR 2022
+[pdf] [website] [dataset] [code]
+	
+VOCAL: Video Organization and Interactive AnaLytics
+Maureem Daum*, Enhao Zhang*, Dong He, Magdalena Balazinska, Brandon Hayes, Ranjay Krishna, Apryle Craig, Aaron Wirsing
+CIDR 2022
+[pdf] [video]
+	
+Visual Intelligence through Human Interaction
+Ranjay Krishna, Mitchell Gordon, Li Fei-Fei, Michael Bernstein
+Book: Artificial Intelligence for Human Computer Interaction: A Modern Approach
+Springer 2021
+[book] [chapter] [preprint]
+	
+On the Opportunities and Risks of Foundation Models
+Center for Foundation Models @ Stanford
+Report 2021
+[pdf] [website] [workshop]
+	
+Mind Your Outliers! Investigating the Negative Impact of Outliers on
+​Active Learning through the Lens of Visual Question Answering
+Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei, Christopher Manning
+ACL 2021 [Outstanding paper awarded to top 6 papers]
+[pdf] [code] [blog coming soon]
+	
+AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning
+Madeleine Grunde-McLaughlin, Ranjay Krishna, Maneesh Agrawala
+CVPR 2021
+[pdf] [website] [dataset] [blog] [video]
+
+AGQA 2.0: An Updated Benchmark for Compositional Spatio-Temporal Reasoning​ [pdf]
+	
+Determining Question-Answer Plausibility in Crowdsourced Datasets Using Multi-Task Learning
+Rachel Gardner, Maya Varma, Clare Zhu, Ranjay Krishna
+EMNLP 2020 - Workshop on Noisy User-Generated Text [Oral awarded to top 10% of submissions]
+[pdf] [code]
+	
+Conceptual Metaphors Impact Perceptions of Human-AI Collaboration 
+Pranav Khadpe, Ranjay Krishna, Li Fei-Fei, Jeffrey Hancock, Michael Bernstein
+​CSCW 2020 [Best paper honorable mention award]
+[pdf] [blog] [press] [video]
+	
+Deep Bayesian Active Learning for Multiple Correct Outputs
+Khaled Jedoui, Ranjay Krishna, Michael Bernstein, Li Fei-Fei
+ArXiv 2019
+[pdf]
+	
+Action Genome: Actions as Composition of Spatio-temporal Scene Graphs
+Jingwei Ji, Ranjay Krishna, Li Fei-Fei, Juan Carlos Niebles
+CVPR 2020
+[pdf] [website]
+	
+AI-based Request Augmentation to Increase Crowdsourcing Participation
+​Junwon Park, Ranjay Krishna, Pranav Khadpe, Li Fei-Fei,  Michael Bernstein
+HCOMP 2019
+[pdf]
+	
+Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction
+​Apoorva Dornadula, Austin Narcomey, Ranjay Krishna,  Michael Bernstein, Li Fei-Fei
+ICCV 2019 - Scene Graph Representation and Learning workshop
+[website] [pdf]
+	
+Scene Graph Prediction with Limited Labels
+Vincent Chen, Paroma Varma, Ranjay Krishna,  Michael Bernstein, Christopher Re, Li Fei-Fei
+ICCV 2019
+[website] [pdf] [code]
+	
+HYPE: Human eYe Perceptual Evaluation of Generative Models
+Sharon Zhou*, Mitchell Gordon*, Ranjay Krishna,  Austin Narcomey, Li Fei-Fei, Michael Bernstein
+NeurIPS 2019 [Oral awarded to top 0.53% of submissions]
+​[website] [pdf]
+	
+Information Maximizing Visual Question Generation
+Ranjay Krishna, Michael Bernstein, Li Fei-Fei
+​CVPR 2019
+[website] [pdf] [﻿code﻿]
+	
+Referring Relationships
+Ranjay Krishna*, Ines Chami*, Michael Bernstein, Li Fei-Fei
+* = indicates equal contribution
+​CVPR 2018
+[website] [pdf] [code]
+	
+The ActivityNet Large-Scale Activity Recognition Challenge 2018 Summary
+Bernard Ghanem, Juan Carlos Niebles, Cees Snoek, Fabian Caba Heilbron, Humam Alwassel, Victor Escorcia, Ranjay Krishna, Shyamal Buch, Cuong Duc Dao
+CVPR 2018 - The ActivityNet Large-scale Activity Recognition Challenge Workshop
+[website] [pdf] [leaderboard]
+	
+Engagement Learning: Expanding Visual Knowledge by Engaging Online Participants
+Ranjay Krishna, Donsuk Lee, Fei-Fei Li, Michael Bernstein
+UIST 2018 [Poster]
+[pdf]
+	
+Dense-Captioning Events in Videos
+Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles
+ICCV 2017
+[website] [pdf] [dataset] [eval code] [challenge] [poster]
+	
+Crowd Research: Open and Scalable University Laboratories
+Rajan Vaish, Snehalkumar Gaikwad, Geza Kovacs, Andreas Veit, Ranjay Krishna, Imanol Arrieta Ibarra, Camelia Simoiu, Michael Wilber, Serge Belongie, Sharad C. Goel, James Davis, Michael Bernstein
+UIST 2017 [Awarded best paper honorable mention]
+[website] [pdf]
+	
+A Hierarchical Approach for Generating Descriptive Image Paragraphs
+Jonathan Krause, Justin Johnson, Ranjay Krishna, Li Fei-Fei
+CVPR 2017 [Spotlight award to top 6% of papers]
+[website] [pdf] [dataset]
+	
+ActivityNet Challenge 2017 Summary
+Bernard Ghanem, Juan Carlos Niebles, Cees Snoek, Fabian Caba Heilbron, Humam Alwassel, Victor Escorcia, Ranjay Krishna, Shyamal Buch, Cuong Duc Dao
+CVPR 2017 - The ActivityNet Large-scale Activity Recognition Challenge Workshop
+[website] [pdf] [leaderboard]
+	
+A Glimpse Far into the Future: Understanding Long-term Crowd Worker Accuracy
+Kenji Hata, Ranjay Krishna, Li Fei-Fei, Michael Bernstein
+CSCW 2017
+[website] [pdf]
+	
+Visual Genome: Crowdsourced Visual Knowledge Representations
+Ranjay Krishna
+Masters Thesis - Stanford University 2016
+[pdf] [Christofer Stephenson Memorial award for best Stanford CS Thesis]
+	
+Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations
+Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li Jia-Li, David Ayman Shamma, Michael Bernstein, Li Fei-Fei
+IJCV 2016
+[website] [article] [pdf] [download] [api] [twitter] [press]
+	
+Visual Relationship Detection with Language Priors
+Cewu Lu*, Ranjay Krishna*, Michael Bernstein, Li Fei-Fei
+* = indicates equal contribution
+ECCV 2016 [Oral awarded  to top 1% of papers]
+[pdf] [dataset] [images (2GB)] [code] [project] [slides] [poster] [video]
+	
+Embracing Error to Enable Rapid Crowdsourcing
+Ranjay Krishna, Kenji Hata, Stephanie Chen, Joshua Kravitz, David Ayman Shamma, Li Fei-Fei, Michael Bernstein
+CHI 2016
+[pdf] [talk] [slides] [demo] [code]
+	
+DAEMO: A Self-Governed Crowdsourcing Marketplace
+S. Gaikwad, D. Morina, R. Nistala, M. Agarwal, A. Cossette, R. Bhanu, S. Savage, V. Narwal, K. Rajpal, J. Regino, A. Mithal, A. Ginzberg, A. Nath, K. R. Ziulkoski, T. Cossette, D. Gamage, A. Richmond-Fuller, R. Suzuki, J. Herrejon, K. V. Le, C. Flores-Saviaga, H. Thilakarathne, K. Gupta, W. Dai, A. Sastry, S. Goyal, T. Rajapakshe, N. Abolhassani, A. Xie, A. Reyes, S. Ingle, V. Jaramillo, M.D. Godinez, W. Angel, M. Godinez, C. Toxtli, J. Flores, A. Gupta, V. Sethia, D. Padilla, K. Milland, K. Setyadi, N. Wajirasena, M. Batagoda, R. Cruz, J. Damon, D. Nekkanti, T. Sarma, M.H. Saleh, G. Gongora-Svartzman, S. Bateni, G. Toledo-Barrera, A. Pena, R. Compton, D. Aariff, L. Palacios, M. P. Ritter, Nisha K.K., A. Kay, J. Uhrmeister, S. Nistala, M. Esfahani, E. Bakiu, C. Diemert, L. Matsumoto, M. Singh, V. Jaramillo-Lopez, K. Patel, R. Krishna, G. Kovacs, R. Vaish, M. Bernstein
+UIST 2015
+[pdf]
+	
+Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval
+Sebastian Schuster, Ranjay Krishna, Angel Chang, Li Fei-Fei and Christopher D. Manning
+EMNLP - Vision and Language Workshop 2015
+[oral] [pdf]
+
+	
+Image Retrieval using Scene Graphs
+Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David Ayman Shamma, Michael Bernstein, Li Fei-Fei
+CVPR 2015
+[pdf] [bib] [dataset (2GB)]
+NON-ARCHIVAL PAPERS
+	
+DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback
+Jiao Sun, Deqing Fu, Yushi Hu, Su Wang, Royi Rassin, Da-Cheng Juan, Dana Alon, Charles Herrmann, Sjoerd van Steenkiste, Ranjay Krishna, Cyrus Rashtchian
+CVPR 2024 workshop on Synthetic Data for Computer Vision
+[pdf] [code coming soon]
+	
+Lasagna: Layered Score Distillation for Disentangled Object Relighting
+Dina Bashkirova, Arijit Ray, Rupayan Mallick, Sarah Adel Bargal, Jianming Zhang, Ranjay Krishna, Kate Saenko
+ArXiv 2023
+[pdf] [code]
+	
+Improving Interpersonal Communication by Simulating Audiences with Language Models
+Ryan Liu, Howard Yen, Raja Marjieh, Thomas L. Griffiths, Ranjay Krishna
+ArXiv 2023
+[pdf] [code]
+	
+EcoAssistant: Using LLM Assistant More Affordably and Accurately
+Jieyu Zhang, Ranjay Krishna, Ahmed H. Awadallah, Chi Wang
+ArXiv 2023
+[pdf] [code] [blog]
+	
+Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models
+Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister
+ArXiv 2023
+[pdf]
+	
+MIMIC: Masked Image Modeling with Image Correspondences
+Kalyani Marathe*, Mahtab Bigverdi*, Nishat Khan, Tuhin Kundu, Aniruddha Kembhavi, Linda G. Shapiro, Ranjay Krishna
+CVPR 2024 Workshop for Learning 3D with Multi-View Supervision
+[pdf] [code]
+	
+​Assistant Professor
+Computer Science & Engineering
+University of Washington
+Ph.D. @ Stanford University, 2021 
+​Co-advised by ​Fei-Fei Li ​
+​and ​Michael Bernstein.
+
+​Curriculum Vitae [2023]
+Google scholar
+
+Research statement [2021] 
+Teaching statement [2021]
+Diversity statement [2021]
+CONTACT
+
+​ranjay [at] cs [dot] washington [dot] edu
+
+Bill & Melinda Gates Center
+Room 304
+3800 E Stevens Way NE,
+Seattle, WA 98195
+TEACHING
+
+University of Washington:
+CSE 599H: AI vs IA [2023]
+CSE 493G1: Deep learning [2023] [2024]
+CSE 455: Computer Vision [2024]
+
+Stanford University:
+CS231N: Convolutional Neural Networks for Visual Recognition [2020] [2021]
+CS131 Computer Vision: Foundations and Applications [2019] [2018] [2017]
+- [Link to all  assignments]
+- [Link to the crowdsourced class notes book]
+RESEARCH GROUP
+
+Prospective students read this.
+
+PostDocs
+Wei-Chiu Ma
+​PhD students
+Jiafei Duan with Dieter Fox
+(2022-)
+Ainaz Eftekhar with Ali Farhadi
+​(2022-)
+Cheng-Yu Hsieh
+​(2022-)
+Jieyu Zhang
+​(2023-)
+
+Sebastin Santy
+​(2023-)​
+​
+
+Zixian (Sunnie) Ma
+​​(2023-)
+​
+
+Scott K. Geng with Pang Wei Koh
+(2023-)
+Xiang Fan
+(2023-)
+
+Amita Kamath with Kai-Wei Chang
+(2024-)
+
+Chenhao Zheng
+(2024-)
+Masters and undergraduate students
+​Helena Vasconcelos with Michael Bernstein
+Andre Ye with Amy Zhang
+Ayana Bharadwaj 
+
+Long term collaborating PhD students
+Mahtab Bigverdi with Linda Shapiro
+Madeleine Grunde-McLaughlin with Dan Weld and Jeff Heer
+Yushi Hu with Noah Smith
+Benlin Liu
+Kalyani Marathe with Linda Shapiro
+Arijit Ray with Kate Saenko
+Ankit Vani with Aaron Courville
+Enhao Zhang with Magdalena Balazinska
+Former masters students
+- Sho Arora
+- Ines Chami
+- Apoorva Dornadula
+- Oliver Groth
+- Mayank Kumar
+​- Mona Gandhi 
+- Donsuk Lee
+
+Former undergraduate students
+- Stephanie Chen
+- Vincent Chen
+- Shubhang Desai
+- Omer Gul
+- Kenji Hata
+​- Jerry Hong
+​- ﻿Khaled Jedoui﻿
+- Pranav Khadpe
+- Joshua Kravitz
+- Michelle Lam
+- Jihyeon Janel Lee
+- Austin Narcomey
+- Junwon Park
+
+Former PhD mentees
+- Done He
+​- Jingwei Ji
+- Siddharth Karamcheti
+
+
+
+
+SELECTED TALKS
+Venue: CVPR 2020 - Computer Vision and Pattern Recognition
+Title: Compositionally in Computer Vision
+[slides][video][workshop]
+Venue: CVPR 2020 - Computer Vision and Pattern Recognition
+Title: Dense Captioning Events in Videos
+[slides][video][workshop]
+Venue: ECCV 2016 - European Conference on Computer Vision
+Title: Visual Relationship Detection with Language Priors
+​[pdf][project][slides][poster][video]
+Venue: CHI 2016 - Conference on Human Factors in Computer Systems
+Title: Embracing Error to Enable Rapid Crowdsourcing
+[pdf][slides]
+MISCELLANEOUS
+Trailer for a documentary 
+Venue: PBS NOVA
+Title: Can we build a brain?
+Year: 2018
+Complete documentary 
+Venue: PBS NOVA
+Title: Can we build a brain?
+Year: 2018
+	
+Web Hosting by iPage
+

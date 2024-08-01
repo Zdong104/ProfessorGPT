@@ -1,0 +1,97 @@
+Professor: T. S. Eugene Ng
+University: Rice University
+URL: https://www.cs.rice.edu/~eugeneng
+Description: 
+
+	
+T. S. Eugene Ng
+
+Professor of Computer Science
+and Electrical & Computer Engineering
+
+Rice University
+3005 Duncan Hall,
+6100 Main St., MS 132,
+Houston TX 77005-1892
+
+Office: (713) 348-4389
+Fax: (713) 348-5930
+
+
+
+
+
+
+T. S. Eugene Ng is a Professor of Computer Science and Electrical & Computer Engineering at Rice University. He is an IEEE Fellow, an Alfred P. Sloan Research Fellow, and a Kavli Fellow. He received an IBM Faculty Award in 2009 and a National Science Foundation CAREER Award in 2005. He holds a B.S. in Computer Engineering with distinction and magna cum laude from University of Washington, a M.S. and a Ph.D. in Computer Science from Carnegie Mellon University. He is a holder of six U.S. patents. His current research interest lies in developing new network models, network architectures, and holistic networked systems that enable a robust and manageable global networked infrastructure for the future. Eugene grew up in Hong Kong and can never resist good "dim sum" or good soup. When he is not working, you are most likely to find him speeding down the road on his race bike.
+
+Research
+
+
+BOLD (Big data and Optical Lightpaths Driven) networking. Examples of recent advances include RDC for rack topology flexibility, and Shufflecast for low-power multicast.
+Telemetry and congestion control. Examples of recent advances include Augmented Queue for data center network sharing, Pipeleon for SmartNIC performance, SpiderMon for closed-loop performance monitoring, Poseidon (code) for max-min fair congestion control, and ITSY for PFC deadlock management.
+Efficient deep neural network. Examples of recent advances include GEMINI for fast training failure recovery, Cupcake for gradient compression optimization, Espresso (code) for optimal gradient compression/communication strategy, and DRAGONN for efficient gradient compression.
+All publications are avaiable.
+Past projects
+Network Control and Management - Aims to develop the blueprint designs that will guide decision-makers in the construction of a next generation network that is dependable and secure; understandable to users and operators; and both economical and scalable.
+Maestro - An operating platform that oversees a network and orchestrates network operations.
+Maestro version 0.2.1 OpenFlow Controller released under LGPL v2.1. Click this link for source code, tutorial, documentation, technical papers, etc.
+Cloud/Data center - Pacer: virtual machine migration progress management, wide-area virtual machine storage migration, hybrid packet and circuit switched network architecture for accelerating data center traffic, data center network performance analysis, big-data processing application modeling.
+Network Data Plane Bug Detection - Develops network monitoring solutions to detect data-plane-disrupting bugs.
+Tesseract - A 4D network control plane.
+Meta-Management System - BIOS for a network.
+Internet Geometry - Aims to develop geometric models of the Internet's crucial structural properties, much like distances between locations on the Earth can be represented compactly by their geometric longitudes and latitudes. Geometric models are inherently simple and scalable, and thus can enable a wide variety of scalable performance-aware protocols and applications.
+
+Delay Space Synthesizer DS2 - An Internet delay space synthesizer that can be used to synthesize Internet delay data at a large scale compactly while preserving important properties of the real Internet delay space.
+Global Network Positioning (GNP) - Techniques to accurately model the complex Internet distance topology as a simple Euclidean metric space.
+Network Positioning System (NPS) - An Internet-scale service that enables hosts to determine where they are in the Internet and how they relate to each other topologically. Network position information will be a powerful tool for "navigating" the complex Internet and will enable new distributed applications.
+COMPASS - The COMPASS project is developing a new sensor network architecture whose communications hierarchy is aligned with the information flow of its computations.
+End System Multicast - The ESM project is building a peer-to-peer overlay multicast system that aims to support large-scale overlay-based television on the Internet efficiently and robustly.
+100x100 - Clean slate redesign of Internet architecture.
+Address Virtualization Enabling Service (AVES) - A network service to unify the naming and routing of heterogeneous IP, NAT-connected IP, and IPv6 hosts. I'm also interested in research related to IPv6 transition.
+REUNITE multicast routing - A unique multicast protocol in which forwarding is based on traditional unicast forwarding, thus it requires minimal multicast forwarding state in the network.
+Distributed cooperative caching for streaming multimedia - A system designed to handle static caching of streaming object segments and dynamically caching and sharing on-going streams.
+Packet fair queueing algorithms - Channel-condition Independent Fair Queueing (CIF-Q) algorithm for error-prone wireless cellular networks, Hierarchical Fair Service Curve (H-FSC) scheduling algorithm for flexible resource management and sharing.
+Darwin - A system that provides a set of resource management mechanisms to value-added network services. Related projects include VNS, a virtual private network service on CAIRN.
+
+Teaching
+
+COMP 221 Introduction to Computer Systems (Fall 10)
+
+COMP/ELEC 429 and 556 Introduction to Computer Networks (Spring 04, Spring 05, Spring 06, Spring 08, Spring 09, Spring 10, Spring 12, Fall 13, Fall 14, Fall 15, Fall 16, Fall 17, Spring 20, Spring 21, Spring 22, Spring 23, Fall 23 COMP/ELEC 429 COMP/ELEC 556 )
+
+COMP/ELEC 529 Advanced Computer Networks (Fall 04, Fall 05, Fall 06, Fall 07, Fall 08, Fall 09, Spring 11, Fall 12, Spring 14, Spring 15, Spring 16, Spring 17, Spring 18, Fall 19, Fall 20, Fall 21, Fall 22, Spring 24)
+
+COMP 620 Graduate Seminar in Distributed Computing (Spring 05, Fall 06, Fall 07, Spring 08, Fall 08, Spring 09, Fall 09, Spring 10)
+
+COMP 629 Graduate Seminar in Computer Networks (Spring 04)
+
+
+Professional Activities
+
+Chair of the 2018 ACM SIGCOMM Distinguished Dissertation Award Committee
+Associate editor: IEEE Transactions on Big Data 2015-18
+Organizing committee member: National Academy of Sciences Kavli Frontiers of Science Korean-American Symposium 2015, 2017, 2019
+Steering committee: Hot-ICE Workshop, Internet Network Management Workshop 2008-10
+Organization committee: Poster/demo program co-chair for NSDI 2014, Travel grant chair for CoNEXT 2011, Technical program co-chair for PRESTO Workshop 2010, Internet Network Management Workshop 2008, Poster program chair for SIGCOMM 2007
+Technical program committee: USENIX NSDI 2025, ACM SIGCOMM 2023, SIGCOMM 2021, SIGCOMM 2020, IEEE ICNP 2020, ICDCS 2019, APNet 2017, IEEE INFOCOM 2016 and 2017, IEEE ICNP 2013 2012, ACM CoNEXT 2011, USENIX Hot-ICE 2011, ACM CoNEXT 2010, INM/WREN 2010, ANCS 2009, PRESTO 2009, SIGCOMM 2008, PRESTO 2008, NSDI 2008, IWQoS 2007, NSDI 2007, SIGCOMM Workshop on Internet Network Management 2006 and 2007, INFOCOM 2005 and 2008, ICDCS 2005
+
+Recent activities:
+
+"Closed-Loop Designs for Better Application-Network Integration", invited talk presented at Google Networking Research Summit, Virtual event, 2/2022
+"How to BOLD-ly Support Data-Intensive Applications?", invited talk presented at ACM SIGCOMM 2020 Workshop on Optical Systems Design (OptSys), Virtual event, 8/2020
+"Big Data and Optical Lightpaths Driven Data Center Network", keynote talk presented at ACM SIGCOMM 2019 Workshop on Optical Systems Design (OptSys), Beijing, China, 8/2019
+"The Case for Circuit Switching Big Data in Modern Data Center Networks", presented at University of Houston, Clear Lake, Houston, TX, 10/2018
+"Enabling Data Science by Circuit Switching Big Data in Modern Data Center Networks", presented at Kavli Frontiers of Science Korean-American Symposium, National Academy of Sciences, Irvine, CA, 6/2017
+Invited participant: National Academy of Sciences Kavli Frontiers of Science Korean-American Symposium, 8/2013, 6/2015, 6/2017
+"The Case for Circuit Switching Big Data in Modern Data Center Networks", presented at Advances in Big Data Modeling, Computation and Analytics Conference, Texas A&M University, College Station, TX, 9/2016
+
+Publications
+
+Access here
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+Professor: David R. Choffnes
+University: Northeastern University
+URL: http://david.choffnes.com/
+Description:    Home   
+RESEARCH
+TEACHING
+ABOUT
+PRESS
+JOIN
+CONTACT
+
+I am an associate professor in the Khoury College of Computer Sciences at Northeastern University, Executive Director of the Cybersecurity and Privacy Institute, and affiliate faculty at the Center for Law, Innovation and Creativity (CLIC). My research is primarily in the areas of distributed systems and networking, with a recent focus on privacy, security, transparency, and mobile systems.
+
+My research approach is to combine science and engineering to understand and improve the performance, reliability, and security of Internet systems. With respect to science, I empirically measure computer systems that interact over the Internet to understand how well they match existing models and assumptions, then investigate the root causes for violations of those models/assumptions—often then leading to the design of new models. In many cases, our observations also suggest the design of systems that exploit previously unknown information about how our Internet-enabled systems work, and as an engineer I build and evaluate such systems in a way that other researchers, users, and policy makers can benefit from the result. To date, the software artifacts of my research have more than one million users, and my research teams have produced reports and datasets that informed additional research, policy debates, regulators, and legislators.
+
+News
+5/23/24 Along with Cecilia Testart, I co-organized an NSF workshop on Policy-Relevant Internet Measurement.
+5/17/24 Thrilled to share a technology/policy collaborative work on improving privacy protections for consumers. "A Scientific Approach to Tech Accountability" appeared in the Harvard Journal of Law and Technology (JOLT).
+10/24/23 Congrats to Umar and the whole team for winning the Best Paper Award at IMC for our paper, "Tracking, Profiling, and Ad Targeting in the Alexa Echo Smart Speaker Ecosystem"!
+8/30/23 A bit stunned to report that I'm a coauthor on five papers that appeared at IMC'23! Congrats to all my collaborators, for more details see the publications page.
+7/27/23 Our paper on our ethics for data collection and sharing for the National Internet Observatory project was published in Nature CS!
+7/17/23 Congrats to Daniel Dubois, Nicole Holliday, and Kaveh Waddell for our first ICWSM paper, titled "Fair or Fare? Understanding Automated Transcription Error Bias in Social Media and Videoconferencing Platforms". The paper will appear in ... June 2024.
+7/13/23 Congrats to Amogh and Alvaro on being runners up for the Best Student Paper award at PETS '23 for their work on mobile browser privacy and security!
+4/10/23 Thrilled to announce that our paper "Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards" will appear in IEEE S&P 2023! This is joint work lead by Anna Maria Mandalari, along with Daniel Dubois and Hamed Haddadi.
+1/19/23 Yet another long delay between updates. Some highlights from my collaborations:
+Consumer Reports covered work with Daniel Dubois and Nicole Holliday on bias in automatic transcription systems.
+Monica (star undergrad at NU) and Johanna's work on dark patterns for IoT devices will appear at CHI'23.
+Amogh and Alvaro led work on unique privacy violations from mobile web browser apps, to appear at PETS '23.
+Amogh and Talha were co-first-authors on an analysis of TLS key pinning in mobile apps (IMC'22).
+Kevin's work on improving Reverse Traceroute scalability was presented at IMC '22.
+(I was co-chair of the TPC for IMC '22 with Theo Benson)
+Kentrell's work on dark partterns in voice assistants was presented at EuroUSEC'22.
+Narmeen's work on security vulnerabilities in the Zigbee wireless protocol was presented at ANCS'22.
+Amogh's work on anonymous communication during Internet blackouts was presented at PETS'22.
+Congrats to my coauthors on all these projects!
+8/20/21 My team's longitudinal study of TLS usage by IoT devices was accepted for publication at IMC'21! Congrats to my coauthors Talha Paracha, Daniel Dubios, and Narseo Vallina-Rodriguez!
+7/30/21 I've been awarded Senior Member status in the Association for Computing Machinery!
+7/22/21 My team's work on Personal Virtual Networks and IoT privacy and security were mentioned in the UK Telecom Regulator, Ofcom, Internet Futures report.
+7/20/21 I penned an article about how Wehe is enabling crowdsourced detection of net neutrality violations worldwide and adapting to new applications as part of the Arcep 2021 State of the Internet report.
+7/6/21 Another batch of updates:
+As of July 1, I'm the Executive Director of Northeastern's Cybersecurity and Privacy Institute.
+I've been appointed to serve on the State of Massachusetts Special Commission to Study Equity and Access to Telecommunication Services. We will evaluate issues related to the digital divide in the Commonwealth and make recommendations for change.
+Johanna Gunawan's work with me, Christo Wilson, and Woody Hartzog on dark patterns across modalities (presented at the FTC Workshop on Dark Patterns) was accepted to CSCW '21. Congrats, Johanna!
+The Seton Hall Law Review just published "The COVID-19 Pandemic and the Technology Trust Gap," by Johanna Gunawan, Woody Hartzog, Christo Wilson, and me.
+6/29/21 Time for another batch update on things that have happened since... a while ago:
+
+Our paper titled AnyOpt: Predicting and Optimizing IP Anycast Performance, was accepted for publication at SIGCOMM 2021. This was fantastic work led by Shane (Xiao) Zhang at Duke, along with Tanmoy Sen, Zheyuan Zhang, Tim April, Balakrishnan Chandrasekaran, Bruce M. Maggs, Haiying Shen, Ramesh K. Sitaraman, and Xiaowei Yang. We show how you don't have to compromise on latency performance when building an anycast-based service.
+Our paper titled Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic was accepted to appear in PETS 2021. Learn how we can block unnecessary IoT traffic to reduce privacy and security issues. Joint work with Anna Maria Mandalari (Imperial College London), Daniel J. Dubois (Northeastern University), Roman Kolcun (Imperial College London), Muhammad Talha Paracha (Northeastern University), Hamed Haddadi (Imperial College London).
+Our prototype proposal “IoTrimmer: Defending against IoT privacy threats” reached the TOP 10 (among 180 submissions) at the Telekom Challenge by T-Labs. We're planning to make our privacy- and security-enhancing technology into a product for widespread use.
+Theo Benson and I will be the Program Committee co-Chairs for the 2022 Internet Measurement Conference. I can't wait to see everyone's fascinating submissions!
+I am part of a team that has been awarded a $10M NSF SaTC Frontier grant for improving privacy via a multimodal, interdisciplinary approach. Learn more about our project at: https://properdata.eng.uci.edu/
+9/9/20 It's been a busy pandemic, and there quite a few updates since last time:
+
+I spent my sabbatical as a Security Architect at Akamai Technologies. I learned a great deal and worked with extremely talented and welcoming people.
+My team's work on smart speakers inadvertently waking up was published and presented at PETS 2020. You learn more about it here.
+Along with collaborators from the UK, and Germany, my team's work on detecting IoT devices from highly sampled network traffic was accepted to IMC 2020. You can find a preprint here.
+I'm now an affiliate faculty member at Northeastern's Center for Law, Innovation and Creativity (CLIC). I'm thrilled to join such an esteemed group of collegues and work with them at the intersection of empirical neworking research and consumer protection policy.
+2/20/20 Happy to announce that FlowPrint will appear in NDSS 2020! This project focuses on an approach to fingerprinting apps based ono network traffic that works both in semi-supervised and entirely unsuperrvised settings. This is joint work led by Thijs van Ede, along with Riccardo Bortolameotti, Andrea Continella, Jingjing Ren, Daniel Dubois, Martina Lindorfer, Maarten van Steen, Andreas Peter.
+7/19/19 Very excited to report that two papers I coauthored will appear at IMC 2019.
+In Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach, led by my recently graduated PhD student Dr. Jingjing Ren, we conduct a multidimensional analysis of privacy exposure from 81 devices located in labs in the US and UK, using more than 34,000 automated and manual experiments. We characterize privacy exposure in terms of destinations of Internet traffic, whether the contents of communication are protected by encryption, what are the IoT-device interactions that each destination learns about, and whether there are unexpected exposures of sensitive information (eg video surreptitiously transmitted by a recording device). This is joint work with Daniel J. Dubois, Anna Maria Mandalari, Roman Kolcun, and Hamed Haddadi.
+In RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins, led by former NEU postdoc Taejoong Chung, we study the evolution of the RPKI deployment using a unique dataset containing all RPKI Route Origin Authorizations (ROAs) from the moment RPKI was first deployed. We find that the RPKI has seen a rapid increase in adoption over the past two years, and recently misconfigurations are rare, meaning that the deployment is ready for prime time and ready for ISPs to drop RPKI invalid routes. This is joint work with Emile Aben, Tim Bruijnzeels, Balakrishnan Chandrasekaran, Dave Levin, Bruce Maggs, Alan Mislove, Roland van Rijswijk-Deij, John P. Rula, and Nick Sullivan.
+6/7/19 Tenure achievement unlocked! I am beyond excited to report that the President and Board of Trustees of Northeastern University have approved my promotion to Associate Professor with tenure. I have so many people to thank, including all of my outstanding collaborators and colleagues, and of course my family for supporting me along this long and fruitful journey.
+Older news...
+Cetera
+
+Pronouns: He/him.
+
+For those who don't know me, the following passage has become a theme that runs through my life. In short, I "push the rock," just like Sisyphus from Greek mythology. But Camus tells it better:
+
+As for this myth, one sees merely the whole effort of a body straining to raise the huge stone, to roll it and push it up a slope a hundred times over; one sees the face screwed up, the cheek tight against the stone, the shoulder bracing the clay-covered mass, the foot wedging it, the fresh start with arms outstretched, the wholly human security of two earth-clotted hands. At the very end of his long effort measured by skyless space and time without depth, the purpose is achieved. Then Sisyphus watches the stone rush down in a few moments toward that lower world whence he will have to push it up again toward the summit. He goes back down to the plain. It is during that return, that pause, that Sisyphus interests me. A face that toils so close to stones is already stone itself! I see that man going back down with a heavy yet measured step toward the torment of which he will never know the end. That hour like a breathing-space which returns as surely as his suffering, that is the hour of consciousness. At each of those moments when he leaves the heights and gradually sinks toward the lairs of the gods, he is superior to his fate. He is stronger than his rock.
+-- Albert Camus, The Myth of Sisyphus
+
+My wife is a therapist (LICSW) focusing on helping clients with issues that include disordered eating, anxiety and depression, relationships, and self-esteem.
+
+David Choffnes, Associate Professor, Khoury College of Computer Sciences, Northeastern University. © 2024
+Last updated July 06, 2024.
+

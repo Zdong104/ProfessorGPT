@@ -1,0 +1,440 @@
+Professor: Austin R. Benson
+University: Cornell University
+URL: https://www.cs.cornell.edu/~arb
+Description: ARB
+Teaching
+Papers
+Data
+
+
+
+
+
+Austin R. Benson
+Assistant Professor of Computer Science
+Field Member of Applied Math and Data Science
+Cornell University
+
+ arb@cs.cornell.edu
+ 413B Bill & Melinda Gates Hall
+ @austinbenson
+ arbenson
+
+
+Broadly, my research focuses on developing numerical, computational, and algorithmic frameworks for analyzing complex data in an effort to better understand how the world is connected and how people make decisions.
+[Curriculum Vitae]
+
+My research is generously supported by the Army Research Office and the National Science Foundation.
+
+
+
+News and events
+Quanta Magazine covered some of our work on higher-order network analysis in the article How Big Data Carried Graph Theory Into New Dimensions.
+I am very honored to receive an NSF CAREER Award.
+Higher-order Network Analysis Takes Off, Fueled by Old Ideas and New Data (with David Gleich and Des Higham) was published in SIAM News and gives a high-level overview of the emergence, mathematics, and opportunities of the higher-order network analysis research area.
+Upcoming and recent talks
+07.21.2021. Minisymposium on Graph Theory and Machine Learning at SIAM Conference on Discrete Mathematics. [slides]
+07.20.2021. Conference of the International Society for Clinical Biostatistics. [slides]
+07.14.2021. EURO 2021: European Conference on Operational Research. [slides]
+07.02.2021. HONS 2021: Higher-Order Models in Network Science (satellite at NetSci/Networks). [slides]
+06.28.2021. DynaMo: Dynamics and motifs (satellite at NetSci/Networks). [slides]
+05.17.2021. GrAPL 2021: IPDPS Workshop on Graphs, Architectures, Programming, and Learning. [slides]
+05.07.2021. Worcester Polytechnic Institute. [slides]
+03.12.2021. Machine Learning with Graphs at Northeastern. [slides]
+02.23.2021. RelationalAI. [slides]
+01.09.2021. Session on Applied Combinatorial Methods at JMM. [slides]
+
+
+Teaching & Education
+Cornell classes
+SP 2021. CS 4220/Math 4260: Numerical Analysis: Linear and Nonlinear Problems.
+FA 2020. CS 6210: Matrix Computations.
+SP 2020. CS 6241: Numerical Methods for Data Science.
+FA 2019. CS 2850/INFO 2040/ECON 2040/SOC 2090: Networks.
+SP 2019. CS 6241: Numerical Methods for Data Science.
+FA 2018. CS 2850/INFO 2040/ECON 2040/SOC 2090: Networks.
+Expository material
+Cornell SoNIC workshop: research lab notebooks.
+Higher-order Network Analysis Takes Off, Fueled by Old Ideas and New Data article in SIAM News 2021 (with David Gleich and Des Higham).
+SIAM ALA '18 tutorial on Tensor Eigenvectors and Stochastic Processes (with David Gleich).
+[web] [slides] [code]
+Papers
+Preprints
+
+Higher Order Information Identifies Tie Strength.
+Arnab Sarker, Jean-Baptiste Seby, Austin R. Benson, Ali Jadbabaie.
+arXiv:2108.02091, 2021.
+paper pdf
+
+fauci-email: a json digest of Anthony Fauci's released emails.
+Austin R. Benson, Nate Veldt, David F. Gleich.
+arXiv:2108.01239, 2021.
+paper pdf code data
+
+Edge Proposal Sets for Link Prediction.
+Abhay Singh, Qian Huang, Sijia Linda Huang, Omkar Bhalerao, Horace He, Ser-Nam Lim, Austin R. Benson.
+arXiv:2106.15810, 2021.
+paper pdf code
+
+Graph Belief Propagation Networks.
+Junteng Jia, Cenk Baykal, Vamsi K. Potluru, Austin R. Benson.
+arXiv:2106.03033, 2021.
+paper pdf code
+
+A Nonlinear Diffusion Method for Semi-supervised Learning on Hypergraphs.
+Francesco Tudisco, Konstantin Prokopchik, Austin R. Benson.
+arXiv:2103.14867, 2021.
+paper pdf
+
+Higher-order Homophily is Combinatorially Impossible.
+Nate Veldt, Austin R. Benson, Jon Kleinberg.
+arXiv:2103.11818, 2021.
+paper pdf code
+
+Over-parametrized neural networks as under-determined linear systems.
+Austin R. Benson, Anil Damle, Alex Townsend.
+arXiv:2010.15959, 2020.
+paper pdf
+
+A simple bipartite graph projection model for clustering in networks.
+Austin R. Benson, Paul Liu, Hao Yin.
+arXiv:2007.00761, 2020.
+paper pdf code
+
+Augmented Sparsifiers for Generalized Hypergraph Cuts with Applications to Decomposable Submodular Function Minimization.
+Austin R. Benson, Jon Kleinberg, Nate Veldt.
+arXiv:2007.08075, 2020.
+paper pdf
+
+Incrementally Updated Spectral Embeddings.
+Vasileios Charisopoulos, Austin R. Benson, Anil Damle.
+arXiv:1909.01188, 2019.
+paper pdf code poster
+
+
+
+Accepted and published research papers
+
+Diverse and Experienced Group Discovery via Hypergraph Clustering.
+Ilya Amburg, Nate Veldt, Austin R. Benson.
+To appear at SIAM Data Mining (SDM) 2022.
+paper pdf code data
+
+Hypergraph Cuts with General Splitting Functions.
+Nate Veldt, Austin R. Benson, Jon Kleinberg.
+To appear in SIAM Review (SIREV), 2022.
+paper pdf
+
+A Unifying Generative Model for Graph Learning Algorithms: Label Propagation, Graph Convolutions, and Combinations.
+Junteng Jia, Austin R. Benson.
+To appear in SIAM Journal on Mathematics of Data Science (SIMODS), 2021.
+paper pdf code data
+
+Approximate Decomposable Submodular Function Minimization for Cardinality-Based Components.
+Nate Veldt, Austin R. Benson, Jon Kleinberg.
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+paper pdf code
+
+Communication-efficient distributed eigenspace estimation.
+Vasileios Charisopoulos, Austin R. Benson, Anil Damle.
+SIAM Journal on Mathematics of Data Science (SIMODS), 2021.
+paper pdf code
+
+Generative hypergraph clustering: from blockmodels to modularity.
+Philip S. Chodrow, Nate Veldt, Austin R. Benson.
+Science Advances, 2021.
+paper pdf code data
+
+The Generalized Mean Densest Subgraph Problem.
+Nate Veldt, Austin R. Benson, Jon Kleinberg.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2021.
+paper pdf code
+
+Choice Set Confounding in Discrete Choice.
+Kiran Tomlinson, Johan Ugander, Austin R. Benson.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2021.
+paper pdf code
+
+Learning Interpretable Feature Context Effects in Discrete Choice.
+Kiran Tomlinson, Austin R. Benson.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2021.
+paper pdf code data
+
+Expertise and Dynamics within Crowdsourced Musical Knowledge Curation: A Case Study of the Genius Platform.
+Derek Lim, Austin R. Benson.
+Proceedings of International Conference on Web and Social Media (ICWSM), 2021.
+paper pdf code data
+
+Higher-order Network Analysis Takes Off, Fueled by Old Ideas and New Data.
+Austin R. Benson, David F. Gleich, Desmond J. Higham.
+SIAM News, 2021.
+article [expanded arXiv version]
+
+Combining Label Propagation and Simple Models Out-performs Graph Neural Networks.
+Qian Huang, Horace He, Abhay Singh, Ser-Nam Lim, Austin R. Benson.
+Proceedings of the International Conference on Learning Representations (ICLR), 2021.
+paper pdf code
+
+Planted Hitting Set Recovery in Hypergraphs.
+Ilya Amburg, Jon Kleinberg, Austin R. Benson.
+Journal of Physics: Complexity (Special Issue on Higher-Order Structures in Networks and Network Dynamical Systems), 2021.
+paper pdf code data
+
+Nonlinear Higher-Order Label Spreading.
+Francesco Tudisco, Austin R. Benson, Konstantin Prokopchik.
+Proceedings of The Web Conference (WWW), 2021.
+paper pdf code video
+
+Random Graphs with Prescribed K-Core Sequences: A New Null Model for Network Analysis.
+Katherine Van Koevering, Austin R. Benson, Jon Kleinberg.
+Proceedings of The Web Conference (WWW), 2021.
+paper pdf code video
+
+Better Set Representations For Relational Reasoning.
+Qian Huang, Horace He, Abhay Singh, Yan Zhang, Ser-Nam Lim, Austin R. Benson.
+Advances in Neural Information Processing Systems (NeurIPS), 2020.
+paper pdf code
+
+Entrywise Convergence of Iterative Methods for Eigenproblems.
+Vasileios Charisopoulos, Austin R. Benson, Anil Damle.
+Advances in Neural Information Processing Systems (NeurIPS), 2020.
+paper pdf code
+
+Residual Correlation in Graph Neural Network Regression.
+Junteng Jia, Austin R. Benson.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
+paper pdf code data [(G)PyTorch implementation from Junwen Bai and Yucheng Lu.]
+
+Minimizing Localized Ratio Cut Objectives in Hypergraphs.
+Nate Veldt, Austin R. Benson, Jon Kleinberg.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2020.
+paper pdf code data
+
+Choice Set Optimization Under Discrete Choice Models of Group Decisions.
+Kiran Tomlinson, Austin R. Benson.
+Proceedings of the International Conference on Machine Learning (ICML), 2020.
+paper pdf code data slides
+
+Neighborhood and PageRank methods for pairwise link prediction.
+Huda Nassar, Austin Benson, David F. Gleich.
+Social Network Analysis and Mining (SNAM), 2020
+paper pdf code
+
+Network Interpolation.
+Thomas Reeves, Anil Damle, Austin R. Benson.
+SIAM Journal on Mathematics of Data Science (SIMODS), 2020.
+paper pdf code
+
+Measuring Directed Triadic Closure with Closure Coefficients.
+Hao Yin, Austin R. Benson, Johan Ugander.
+Network Science, 2020.
+paper pdf code
+
+Random Walks on Simplicial Complexes and the normalized Hodge 1-Laplacian.
+Michael T. Schaub, Austin R. Benson, Paul Horn, Gabor Lippner, Ali Jadbabaie.
+SIAM Review (SIREV), 2020.
+paper pdf [Editor's overview]
+
+Clustering in graphs and hypergraphs with categorical edge labels.
+Ilya Amburg, Nate Veldt, Austin R. Benson.
+Proceedings of The Web Conference (WWW), 2020.
+paper pdf code data
+
+Frozen Binomials on the Web: Word Ordering and Langauge Conventions in Online Text.
+Katherine Van Koevering, Austin R. Benson, Jon Kleinberg.
+Proceedings of The Web Conference (WWW), 2020.
+paper pdf code
+
+Using cliques with higher-order spectral embeddings improves graph visualizations.
+Huda Nassar, Caitlin Kennedy, Shweta Jain, Caitlin Kennedy, Austin R. Benson, David F. Gleich.
+Proceedings of The Web Conference (WWW), 2020.
+paper pdf code video
+
+Retrieving Top Weighted Triangles in Graphs.
+Raunak Kumar, Paul Liu, Moses Charikar, Austin R. Benson.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2020.
+paper pdf code data
+
+Neural Jump Stochastic Differential Equations.
+Junteng Jia, Austin R. Benson.
+Advances in Neural Information Processing Systems (NeurIPS), 2019.
+paper pdf code poster
+
+Modeling and Analysis of Tagging Networks in Stack Exchange Communities.
+Shangdi Yu, Xiang Fu, Austin R. Benson.
+Journal of Complex Networks, 2019.
+paper pdf code data
+
+Computing tensor Z-eigenvectors with dynamical systems.
+Austin R. Benson, David F. Gleich.
+SIAM Journal on Matrix Analysis and Applications (SIMAX), 2019.
+paper pdf code
+
+Unsupervised learning of dislocation motion.
+Darren C. Pagan, Thien Q. Phan, Jordan S. Weaver, Austin R. Benson, Armand J. Beaudoin.
+Acta Materialia, 2019.
+paper pdf
+
+Automated Grain Yield Behavior Classification.
+Darren C. Pagan, Jakob Kaminsky, Wesley A. Tayon, Kelly E. Nygren, Armand J. Beaudoin, Austin R. Benson.
+The Journal of The Minerals, Metals & Materials Society (JOM), 2019.
+paper pdf
+
+Pairwise Link Prediction.
+Huda Nassar, Austin R. Benson, David F. Gleich.
+Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2019.
+Best Paper Award Runner-up.
+paper pdf code
+
+Graph-based Semi-Supervised & Active Learning for Edge Flows.
+Junteng Jia, Michael T. Schaub, Santiago Segarra, Austin R. Benson.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
+paper pdf code poster video
+
+Network Density of States.
+Kun Dong, Austin R. Benson, David Bindel.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2019.
+Best Paper Award.
+paper pdf code poster video
+
+Three hypergraph eigenvector centralities.
+Austin R. Benson.
+SIAM Journal on Mathematics of Data Science (SIMODS), 2019.
+paper pdf code
+
+Link Prediction in Networks with Core-Fringe Data.
+Austin R. Benson, Jon Kleinberg.
+Proceedings of the World Wide Web Conference (WWW), 2019.
+paper pdf code poster
+
+Choosing to grow a graph: Modeling network formation as discrete choice.
+Jan Overgoor, Austin R. Benson, Johan Ugander.
+Proceedings of the World Wide Web Conference (WWW), 2019.
+paper pdf code poster
+
+Random Spatial Network Models with Core-Periphery Structure.
+Junteng Jia, Austin R. Benson.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2019.
+paper pdf code data poster
+
+Sampling Methods for Counting Temporal Motifs.
+Paul Liu, Austin R. Benson, Moses Charikar.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2019.
+paper pdf code data
+
+The Local Closure Coefficient: A New Perspective On Network Clustering.
+Hao Yin, Austin R. Benson, Jure Leskovec.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2019.
+paper pdf code
+
+Simplicial closure and higher-order link prediction.
+Austin R. Benson, Rediet Abebe, Michael T. Schaub, Ali Jadbabaie, Jon Kleinberg.
+Proceedings of the National Academy of Sciences (PNAS), 2018.
+paper pdf supplement code data
+
+Found Graph Data and Planted Vertex Covers.
+Austin R. Benson, Jon Kleinberg.
+Advances in Neural Information Processing Systems (NeurIPS), 2018.
+paper pdf code data poster
+
+Sequences of Sets.
+Austin R. Benson, Ravi Kumar, Andrew Tomkins.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2018.
+paper pdf code data poster video
+
+Higher-order clustering in networks.
+Hao Yin, Austin R. Benson, Jure Leskovec.
+Physical Review E (PRE), 2018.
+paper pdf code
+
+A Discrete Choice Model for Subset Selection.
+Austin R. Benson, Ravi Kumar, Andrew Tomkins.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2018.
+paper pdf code data poster
+
+Local higher-order graph clustering.
+Hao Yin, Austin R. Benson, Jure Leskovec, David F. Gleich.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2017.
+paper pdf code data video
+
+Motifs in temporal networks.
+Ashwin Paranjape, Austin R. Benson, Jure Leskovec.
+Proceedings of the ACM International Conference on Web Search and Data Mining (WSDM), 2017.
+paper pdf code data poster
+
+The spacey random walk: a stochastic process for higher-order data.
+Austin R. Benson, David F. Gleich, Lek-Heng Lim.
+SIAM Review (SIREV), 2017.
+paper pdf code data
+
+Higher-order organization of complex networks.
+Austin R. Benson, David F. Gleich, Jure Leskovec.
+Science, 2016.
+paper pdf supplement code data
+
+General tensor spectral co-clustering for higher-order data.
+Tao Wu, Austin R. Benson, David F. Gleich.
+Advances in Neural Information Processing Systems (NeurIPS), 2016.
+paper pdf code
+
+On the relevance of irrelevant alternatives.
+Austin R. Benson, Ravi Kumar, Andrew Tomkins.
+Proceedings of the International Conference on World Wide Web (WWW), 2016.
+paper pdf
+
+Modeling user consumption sequences.
+Austin R. Benson, Ravi Kumar, Andrew Tomkins.
+Proceedings of the International Conference on World Wide Web (WWW), 2016.
+paper pdf
+
+Improving the numerical stability of fast matrix multiplication.
+Grey Ballard, Austin R. Benson, Alex Druinksy, Benjamin Lipshitz, Oded Schwartz.
+SIAM Journal on Matrix Analysis and Applications (SIMAX), 2016.
+paper pdf code
+
+Tensor spectral clustering for partitioning higher-order network structures.
+Austin R. Benson, David F. Gleich, Jure Leskovec.
+Proceedings of the SIAM International Conference on Data Mining (SDM), 2015.
+paper pdf code video
+
+A framework for practical parallel fast matrix multiplication.
+Austin R. Benson, Grey Ballard.
+Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2015.
+paper pdf code
+
+Scalable methods for nonnegative matrix factorizations of near-separable tall-and-skinny matrices.
+Austin R. Benson, Jason D. Lee, Bartek Rajwa, David F. Gleich.
+Advances in Neural Information Processing Systems (NeurIPS), 2014.
+Selected for spotlight presentation.
+paper pdf code data poster
+
+Learning multifractal structure in large networks.
+Austin R. Benson, Carlos Riquelme, Sven Schmit.
+Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2014.
+paper pdf supplement video
+
+A parallel directional Fast Multipole Method.
+Austin R. Benson, Jack Poulson, Kenneth Tran, Björn Engquist, Lexing Ying.
+SIAM Journal on Scientific Computing (SISC), 2014.
+paper pdf code
+
+Silent error detection in numerical time-stepping schemes.
+Austin R. Benson, Sven Schmit, Robert Schreiber.
+International Journal of High Performance Computing Applications (IJHPCA), 2014.
+paper pdf supplement code
+
+Direct QR factorizations for tall-and-skinny matrices in MapReduce architectures.
+Austin R. Benson, David F. Gleich, James Demmel.
+Proceedings of the IEEE International Conference on Big Data (IEEE BigData), 2013.
+paper pdf code
+
+
+
+Theses
+
+Tools for higher-order network analysis.
+Austin Reilley Benson.
+Stanford PhD thesis, 2017.
+Stanford ICME Gene Golub Doctoral Dissertation Award winner.
+paper pdf
+

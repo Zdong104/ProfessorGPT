@@ -1,0 +1,346 @@
+Professor: Shuran Song
+University: Columbia University
+URL: http://shurans.github.io/
+Description: HOME    /    LAB
+
+Google Scholar  /  Twitter
+
+Shuran Song
+
+Assistant Professor of Electrical Engineering, by courtesy, of Computer Science at Stanford University
+I lead the Robotics and Embodied AI Lab at Stanford University( REAL@Stanford ). We are interested in developing algorithms that enable intelligent systems to learn from their interactions with the physical world, and autonomously acquire the perception and manipulation skills necessary to execute complex tasks and assist people. To learn more about my group's research please visit our REAL website.
+
+Email: shuran [at] stanford [dot] edu
+Office: RM258, 350 Jane Stanford Way Packard Bldg Stanford, CA 94305.
+
+     
+Recent Talks
+
+Navigating the Upward Spiral for Sensorimotor Learning ( Slides ) Keynote at A Future Roadmap for Sensorimotor Skill Learning for Robot Manipulation @ ICRA’24
+What I wish I had for Robot Learning ( Slides ) Early Career Keynote at Conference on Robot Learning
+Learning Meets Gravity: Robots that Embrace Dynamics and Pixels ( Talk ) at CMU Robotics Institute
+Abstraction as Inductive Bias: Open-World 3D Scene Understanding without Open-World 3D Data ( Slide ) at Inductive Bias in Robot Learning Workshop @ CoRL'22
+The Reasonable Effectiveness of Dynamic Manipulation for Deformable Objects( Talk ) at University of Toronto Robotics Institute
+Show more...
+
+Publications
+Representative   •   See All Publications
+UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers
+
+Huy Ha*, Yihuai Gao*, Zipeng Fu, Jie Tan, Shuran Song
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+ManiWAV: Learning Robot Manipulation from In-the-Wild Audio-Visual Data
+
+Zeyi Liu, Cheng Chi, Eric Cousineau, Naveen Kuppuswamy, Benjamin Burchfiel, Shuran Song
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning
+
+Jingyun Yang*, Zi-ang Cao*, Congyue Deng, Rika Antonova, Shuran Song, Jeannette Bohg
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+Dreamitate: Real-World Visuomotor Policy Learning via Video Generation
+
+Junbang Liang*, Ruoshi Liu*, Ege Ozguroglu, Sruthi Sudhakar, Achal Dave, Pavel Tokmakov, Shuran Song, Carl Vondrick
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+Dynamics-Guided Diffusion Model for Robot Manipulator Design
+
+Xiaomeng Xu, Huy Ha, Shuran Song
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+PaperBot: Learning to Design Real-World Tools Using Paper
+
+Ruoshi Liu, Junbang Liang, Sruthi Sudhakar, Huy Ha, Cheng Chi, Shuran Song, Carl Vondrick
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+Real2Code: Reconstruct Articulated Objects via Code Generation
+
+Zhao Mandi, Yijia Weng, Dominik Bauer, Shuran Song
+arXiv 2024
+Webpage  •   Paper  •   Code
+
+DoughNet: A Visual Predictive Model for Topological Manipulation of Deformable Objects
+
+Dominik Bauer, Zhenjia Xu, Shuran Song
+ECCV 2024
+Webpage  •   Paper  •   Code
+
+Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots
+
+Cheng Chi*, Zhenjia Xu*, Chuer Pan, Eric Cousineau, Ben Burchfiel, Siyuan Feng, Russ Tedrake, Shuran Song
+RSS 2024
+Webpage  •   Paper  •   Code
+
+DROID: A Large-Scale In-the-Wild Robot Manipulation Dataset
+
+Alexander Khazatsky, Karl Pertsch et al
+RSS 2024
+Webpage  •   Paper  •   Code
+
+RoCo: Dialectic Multi-Robot Collaboration with Large Language Models
+
+Zhao Mandi, Shreeya Jain, Shuran Song
+International Conference on Robotics and Automation (ICRA 2023)
+Webpage  •   Paper  •   Code
+
+Open X-Embodiment: Robotic Learning Datasets and RT-X Models
+
+Abhishek Padalkar et al
+International Conference on Robotics and Automation (ICRA 2024)
+Best Paper Award   •   Webpage  •   Paper  •   Code
+
+DataComp: In search of the next generation of multimodal datasets
+
+Samir Yitzhak Gadre*, Gabriel Ilharco*, Alex Fang* et al.
+NeurIPS, 2023 (oral)
+Webpage  •   Paper  •   Code
+
+
+
+
+Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition
+
+Huy Ha, Pete Florence, Shuran Song
+Conference on Robot Learning 2023
+Webpage  •   Paper  •   Code
+
+REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction
+
+Zeyi Liu*, Arpit Bahety*, Shuran Song
+Conference on Robot Learning 2023
+Webpage  •   Paper  •   Code
+
+XSkill: Cross Embodiment Skill Discovery
+
+Mengda Xu, Zhenjia Xu, Cheng Chi, Manuela Veloso, Shuran Song
+Conference on Robot Learning 2023
+Webpage  •   Paper  •   Code
+
+Rearrangement Planning for General Part Assembly
+
+Yulong Li, Andy Zeng, Shuran Song
+Conference on Robot Learning 2023
+Oral Presentation   •   Webpage  •   Paper  •   Code
+
+TidyBot: Personalized Robot Assistance with Large Language Models
+
+Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, Szymon Rusinkiewicz, Thomas Funkhouser
+Autonomous Robots (AuRo) - Special Issue: Large Language Models in Robotics, 2023
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
+Webpage  •   Paper  •   Code  •  
+
+Structure From Action: Learning Interactions for Articulated Object 3D Structure Discovery
+
+Neil Nie, Samir Yitzhak Gadre, Kiana Ehsani, Shuran Song
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
+Webpage  •   Paper
+
+Bag All You Need: Learning a Generalizable Bagging Strategy for Heterogeneous Objects
+
+Arpit Bahety*, Shreeya Jain*, Huy Ha, Nathalie Hager, Benjamin Burchfiel, Eric Cousineau, Siyuan Feng, Shuran Song
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023
+Webpage  •   Paper
+
+Diffusion Policy: Visuomotor Policy Learning via Action Diffusion
+
+Cheng Chi, Siyuan Feng, Yilun Du, Zhenjia Xu, Eric Cousineau, Benjamin Burchfiel, Shuran Song
+Robotics: Science and Systems (RSS) 2023
+Webpage  •   Paper  •   Code  •  
+
+RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects
+
+Zhenjia Xu, Zhou Xian, Xingyu Lin, Cheng Chi, Zhiao Huang, Chuang Gan, Shuran Song
+Robotics: Science and Systems (RSS) 2023
+Webpage  •   Paper  •   Code & Simulation   •  
+
+CoWs on Pasture: Baselines and Benchmarks for Language-Driven Zero-Shot Object Navigation
+(a.k.a Clip on Wheels)
+
+Samir Yitzhak Gadre, Mitchell Wortsman, Gabriel Ilharco, Ludwig Schmidt, Shuran Song
+Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+Webpage  •   Paper
+
+Cloth Funnels: Canonicalized-Alignment for Multi-Purpose Garment Manipulation
+
+Alper Canberk, Cheng Chi, Huy Ha, Benjamin Burchfiel, Eric Cousineau, Siyuan Feng, Shuran Song
+International Conference on Robotics and Automation (ICRA 2023)
+Webpage  •   Paper  •  
+
+TANDEM3D: Active Tactile Exploration for 3D Object Recognition
+
+Jingxi Xu*, Han Lin*, Shuran Song, Matei Ciocarlie
+International Conference on Robotics and Automation (ICRA 2023)
+Webpage  •   Paper  •  
+
+Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models
+
+Huy Ha, Shuran Song
+Conference on Robot Learning (CoRL2022)
+Webpage  •   Paper  •   Code   •   Demo on Huggingface
+
+BusyBot: Learning to Interact, Reason, and Plan in a BusyBoard Environment
+
+Zeyi Liu, Zhenjia Xu, Shuran Song
+Conference on Robot Learning (CoRL2022)
+Webpage  •   Paper  •   Code
+
+ASPiRe: Adaptive Skill Priors for Reinforcement Learning
+
+Mengda Xu, Manuela Veloso, Shuran Song
+Conference on Neural Information Processing Systems (NeurIPS 2022)
+Webpage  •   Paper  •   Code
+
+Patching open-vocabulary models by interpolating weights
+
+Gabriel Ilharco*, Mitchell Wortsman*, Samir Yitzhak Gadre*, Shuran Song, Hannaneh Hajishirzi Simon Kornblith, Ali Farhadi, Ludwig Schmidt
+Conference on Neural Information Processing Systems (NeurIPS 2022)
+Webpage  •   Paper   •   Code
+
+Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects
+
+Cheng Chi, Benjamin Burchfiel, Eric Cousineau, Siyuan Feng, Shuran Song
+Robotics: Science and Systems (RSS) 2022
+Best Paper Award   •   Best Student Paper Finalist  •   Webpage  •   Paper   •   Code
+
+DextAIRity: Deformable Manipulation Can be a Breeze
+
+Zhenjia Xu, Cheng Chi, Benjamin Burchfiel, Eric Cousineau, Siyuan Feng, Shuran Song
+Robotics: Science and Systems (RSS) 2022
+Best System Paper Finalist   •   Webpage  •   Paper   •   Code
+
+Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower
+
+Jimmy Wu, Xingyuan Sun, Andy Zeng, Shuran Song, Szymon Rusinkiewicz, Thomas Funkhouser
+Robotics and Automation Letters (RA-L) 2022
+Intelligent Robots and Systems (IROS) 2022
+Webpage  •   Paper   •   Code
+
+TANDEM: Learning Joint Exploration and Decision Making with Tactile Sensors
+
+Jingxi Xu, Shuran Song, Matei Ciocarlie
+Robotics and Automation Letters (RA-L) 2022
+Intelligent Robots and Systems (IROS) 2022
+Webpage  •   Paper
+
+Scene Editing as Teleoperation: A Case Study in 6DoF Kit Assembly
+
+Shubham Agrawal*, Yulong Li*, Jen-Shuo Liu, Steven K. Feiner, Shuran Song
+Intelligent Robots and Systems (IROS) 2022
+Webpage  •   Paper
+
+Continuous Scene Representations for Embodied AI
+
+Samir Yitzhak Gadre, Kiana Ehsani, Shuran Song, Roozbeh Mottaghi,
+Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+Webpage  •   Paper
+
+UMPNet: Universal Manipulation Policy Network for Articulated Objects
+
+Zhenjia Xu, Zhanpeng He, Shuran Song
+Robotics and Automation Letters (RA-L) and ICRA 2022
+Webpage  •   Paper
+
+FishGym: A High-Performance Physics-based Simulation Framework for Underwater Robot Learning
+
+Wenji Liu, Kai Bai, Xuming He, Shuran Song, Changxi Zheng, and Xiaopei Liu
+International Conference on Robotics and Automation (ICRA 2022)
+Code  •   Paper
+
+Leveraging SE(3) Equivariance for Self-supervised Category-Level Object Pose Estimation from Point Clouds
+
+Xiaolong Li, Yijia Weng, Li Yi, Leonidas Guibas, A. Lynn Abbott, Shuran Song, He Wang
+NeurIPS, 2021
+Webpage  •   Paper  •   Code
+
+FlingBot: The Unreasonable Effectiveness of Dynamic Manipulations for Cloth Unfolding
+
+Huy Ha, Shuran Song
+Conference on Robot Learning (CoRL2021)
+Best System Paper Award   •   Webpage  •   Paper  •   Code
+
+GarmentNets: Category-Level Pose Estimation for Garments via Canonical Space Shape Completion
+
+Cheng Chi, Shuran Song
+IEEE International Conference on Computer Vision (ICCV2021)
+Webpage  •   Paper  •   Code
+
+Act the Part: Learning Interaction Strategies for Articulated Object Part Discovery
+
+Samir Yitzhak Gadre, Kiana Ehsani, Shuran Song
+IEEE International Conference on Computer Vision (ICCV2021)
+Webpage (with online Demo!)  •   Paper  •   Code
+
+Dynamic Grasping with Reachability and Motion Awareness
+
+Iretiayo Akinola*, Jingxi Xu*, Shuran Song, and Peter Allen
+International Conference on Intelligent Robots and Systems (IROS) 2021
+Webpage  •   Paper
+
+AdaGrasp: Learning an Adaptive Gripper-Aware Grasping Policy
+
+Zhenjia Xu, Beichun Qi, Shubham Agrawal, Shuran Song
+International Conference on Robotics and Automation (ICRA 2021)
+Webpage  •   Paper  •   Code
+
+Spatial Intention Maps for Multi-Agent Mobile Manipulation
+
+Jimmy Wu, Xingyuan Sun, Andy Zeng, Shuran Song, Szymon Rusinkiewicz, Thomas Funkhouser
+International Conference on Robotics and Automation (ICRA 2021)
+Webpage  •   Paper  •   Code
+
+Visual Perspective Taking for Opponent Behavior Modeling
+
+Boyuan Chen, Yuhang Hu, Robert Kwiatkowski, Shuran Song, Hod Lipson
+International Conference on Robotics and Automation (ICRA 2021)
+Webpage  •   Paper  •   Code
+
+SSCNav: Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation
+
+Yiqing Liang, Boyuan Chen, Shuran Song
+International Conference on Robotics and Automation (ICRA 2021)
+Webpage  •   Paper  •   Code
+
+Learning 3D Dynamic Scene Representations for Robot Manipulation
+
+Zhenjia Xu*, Zhanpeng He*, Jiajun Wu, Shuran Song
+Conference on Robot Learning (CoRL) 2020
+Webpage  •   Paper  •   Code
+
+Fit2Form: 3D Generative Model for Robot Gripper Form Design
+
+Huy Ha*, Shubham Agrawal*, Shuran Song
+Conference on Robot Learning (CoRL) 2020
+Webpage  •   Paper Code
+
+Learning a Decentralized Multi-arm Motion Planner
+
+Huy Ha, Jingxi Xu, Shuran Song
+Conference on Robot Learning (CoRL) 2020
+Webpage  •   Paper  •   Code
+
+Grasping in the Wild: Learning 6DoF Closed-Loop Grasping from Low-Cost Demonstrations
+
+Shuran Song, Andy Zeng, Johnny Lee, Thomas Funkhouser
+Intelligent Robots and Systems (IROS) 2020
+Robotics and Automation Letters (RA-L) 2020
+Webpage  •   PDF
+
+Show more...
+Teaching
+
+COMS 4733 Computational Aspects of Robotics,2022
+COMS 6998 Topics in Robot Learning, 2021
+COMS 4733 Computational Aspects of Robotics, 2020
+COMS 6998 Topics in Robot Learning
+Teaching Assistant: Princeton COS126 General Computer Science, 2015
+Teaching Assistant: HKUST ELEC1100 Introduction to Electro-Robot Design , 2011,2012
+Teaching Assistant: HKUST ELEC1200A System View of Communications: from Signals to Packets, 2011
+

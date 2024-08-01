@@ -1,0 +1,410 @@
+Professor: Matt Fredrikson
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~mfredrik
+Description: Matt Fredrikson
+
+Associate Professor
+School of Computer Science
+Carnegie Mellon University
+
+ mfredrik@cmu.edu
+ 412/268-3992
+ CIC 2126
+ mfredrik
+Overview
+Recent Highlights
+Publications
+Students & Postdocs
+Teaching
+Overview
+
+I'm an Associate Professor in Carnegie Mellon's School of Computer Science, and am a member of CyLab.
+
+My research aims to enable systems that make secure, fair, and reliable use of machine learning. My group focuses on finding ways to understand the unique risks and vulnerabilities that arise from learned components, and on developing methods to mitigate them, often with provable guarantees.
+
+Recent Highlights
+
+Representation Engineering
+We introduce and characterize the emerging area of representation engineering (RepE), an approach to enhancing the transparency of AI systems that draws on insights from cognitive neuroscience. RepE places population-level representations, rather than neurons or circuits, at the center of analysis, equipping us with novel methods for monitoring and manipulating high-level cognitive phenomena in deep neural networks
+
+Universal Attacks on LLMs
+We demonstrate that it is in fact possible to automatically construct adversarial attacks on LLMs, specifically chosen sequences of characters that, when appended to a user query, will cause the system to obey user commands even if it produces harmful content. Unlike traditional jailbreaks, these are built in an entirely automated fashion, allowing one to create a virtually unlimited number of such attacks. Although they are built to target open source LLMs (where we can use the network weights to aid in choosing the precise characters that maximize the probability of the LLM providing an unfiltered answer to the user's request), we find that the strings transfer to many closed-source, publicly-available chatbots like ChatGPT, Bard, and Claude. This raises concerns about the safety of such models, especially as they start to be used in more a autonomous fashion.
+
+Globally-Robust Neural Networks
+This work integrates an efficient differentiable local-robustness verifier into the forward pass of a network during training, yielding networks that are provably robust on all inputs. Notably, these networks can be verified on new points in deployment with no additional overhead. This work will appear at ICML in July.
+
+Capture: Centeralized Library Management for IoT Devices
+Out-of-date third-party libraries are a huge source of vulnerability in commodity IoT devices. We tackle this challenge by splitting library code onto a secure, centralized hub, thus removing the burden of maintaining critical security patches from vendors. This work will appear at Usenix Security in August.
+
+Fast Geometric Projections spotlight at ICLR'21
+In this paper, we present a fast procedure for checking local robustness on deep networks using only geometric projections. This leads to an efficient, highly-parallel GPU implementation that excels particularly for the L2 norm, where previous approaches that rely on constraints or abstraction have been less effective.
+
+Leave-one-out Unfairness
+Fair decisions are about more than conditional parity. In this work, we explore the effect that small changes in the composition of training data can have on an individual's outcome under a model, and the ramifications that this has for the responsible application of deep learning to sensitive decisions.
+
+AAAI'21 Tutorial: From Explainability to Model Quality and Back Again
+This tutorial explores the ways in which explainability can inform questions about the robustness, privacy, and fairness aspects of model quality, and how methods for improving them emerging out of several communities can in turn lead to better outcomes for explainability. We aim to make these findings accessible to a general AI audience, including not only researchers who want to further engage with this direction, but also practitioners who stand to benefit from the results, and policy-makers who want to deepen their technical understanding of these important issues.
+
+Publications
+See Google Scholar for a full, up-to-date listing
+Is Certifying 𝓁p Robustness Still Worthwhile?
+tech report
+Ravi Mangal, Klas Leino, Zifan Wang, Kai Hu, Weicheng Yu, Corina Pasareanu, Anupam Datta, Matt Fredrikson
+CoRR 2023
+A Recipe for Improved Certifiable Robustness: Capacity and Data.
+tech report
+Kai Hu, Klas Leino, Zifan Wang, Matt Fredrikson
+CoRR 2023
+Representation Engineering: A Top-Down Approach to AI Transparency.
+tech report
+Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Dombrowski, Shashwat Goel, Nathaniel Li, Michael Byun, Zifan Wang, Alex Mallen, Steven Basart, Sanmi Koyejo, Dawn Song, Matt Fredrikson, Zico Kolter, Dan Hendrycks
+CoRR 2023
+Universal and Transferable Adversarial Attacks on Aligned Language Models.
+tech report
+Andy Zou, Zifan Wang, Zico Kolter, Matt Fredrikson
+CoRR 2023
+Scaling in Depth: Unlocking Robustness Certification on ImageNet.
+tech report
+Kai Hu, Andy Zou, Zifan Wang, Klas Leino, Matt Fredrikson
+CoRR 2023
+Learning Modulo Theories.
+tech report
+Matt Fredrikson, Kaiji Lu, Saranya Vijayakumar, Somesh Jha, Vijay Ganesh, Zifan Wang
+CoRR 2023
+On the Perils of Cascading Robust Classifiers.
+conference
+Ravi Mangal, Zifan Wang, Chi Zhang, Klas Leino, Corina Pasareanu, Matt Fredrikson
+ICLR 2023
+Enhancing the insertion of NOP instructions to obfuscate malware via deep reinforcement learning.
+journal
+Daniel Gibert, Matt Fredrikson, Carles Mateu, Jordi Planes, Quan Le
+Comput. Secur. 2022
+Privacy-Preserving Case-Based Explanations: Enabling Visual Interpretability by Protecting Privacy.
+journal
+Helena Montenegro, Wilson Silva, Alex Gaudio, Matt Fredrikson, Asim Smailagic, Jaime Cardoso
+IEEE Access 2022
+Black-Box Audits for Group Distribution Shifts.
+tech report
+Marc Juarez, Samuel Yeom, Matt Fredrikson
+CoRR 2022
+Faithful Explanations for Deep Graph Models.
+tech report
+Zifan Wang, Yuhang Yao, Chaoran Zhang, Han Zhang, Youjie Kang, Carlee, Matt Fredrikson, Anupam Datta
+CoRR 2022
+Protecting user data through ephemeral ownership of IoT devices.
+conference
+Han Zhang, Yuvraj Agarwal, Matt Fredrikson
+MobiSys 2022
+TEO: ephemeral ownership for IoT devices to provide granular data control.
+conference
+Han Zhang, Yuvraj Agarwal, Matt Fredrikson
+MobiSys 2022
+Robust Models Are More Interpretable Because Attributions Look Normal.
+conference
+Zifan Wang, Matt Fredrikson, Anupam Datta
+ICML 2022
+Consistent Counterfactuals for Deep Models.
+conference
+Emily Black, Zifan Wang, Matt Fredrikson
+ICLR 2022
+Selective Ensembles for Consistent Predictions.
+conference
+Emily Black, Klas Leino, Matt Fredrikson
+ICLR 2022
+Self-correcting Neural Networks for Safe Classification.
+conference
+Klas Leino, Aymeric Fromherz, Ravi Mangal, Matt Fredrikson, Bryan Parno, Corina Pasareanu
+NSV/FoMLAS@CAV 2022
+Degradation Attacks on Certifiably Robust Neural Networks.
+journal
+Klas Leino, Chi Zhang, Ravi Mangal, Matt Fredrikson, Bryan Parno, Corina Pasareanu
+Trans. Mach. Learn. Res. 2022
+Enhancing the Insertion of NOP Instructions to Obfuscate Malware via Deep Reinforcement Learning.
+tech report
+Daniel Gibert, Matt Fredrikson, Carles Mateu, Jordi Planes, Quan Le
+CoRR 2021
+Self-Repairing Neural Networks: Provable Safety for Deep Networks via Dynamic Repair.
+tech report
+Klas Leino, Aymeric Fromherz, Ravi Mangal, Matt Fredrikson, Bryan Parno, Corina Pasareanu
+CoRR 2021
+Leave-one-out Unfairness.
+tech report
+Emily Black, Matt Fredrikson
+CoRR 2021
+Relaxing Local Robustness.
+tech report
+Klas Leino, Matt Fredrikson
+CoRR 2021
+The Design of the User Interfaces for Privacy Enhancements for Android.
+tech report
+Jason Hong, Yuvraj Agarwal, Matt Fredrikson, Mike Czapik, Shawn Hanna, Swarup Sahoo, Judy Chun, Chung, Aniruddh Iyer, Ally Liu, Shen Lu, Rituparna Roychoudhury, Qian Wang, Shan Wang, Siqi Wang, Vida Zhang, Jessica Zhao, Yuan Jiang, Haojian Jin, Sam Kim, Evelyn Kuo, Tianshi Li, Jinping Liu, Yile Liu, Robert Zhang
+CoRR 2021
+Boundary Attributions Provide Normal (Vector) Explanations.
+tech report
+Zifan Wang, Matt Fredrikson, Anupam Datta
+CoRR 2021
+Globally-Robust Neural Networks.
+tech report
+Klas Leino, Zifan Wang, Matt Fredrikson
+CoRR 2021
+Netter: Probabilistic, Stateful Network Models.
+conference
+Han Zhang, Chi Zhang, Arthur Azevedo de Amorim, Yuvraj Agarwal, Matt Fredrikson, Limin Jia
+VMCAI 2021
+Capture: Centralized Library Management for Heterogeneous IoT Devices.
+conference
+Han Zhang, Abhijith Anilkumar, Matt Fredrikson, Yuvraj Agarwal
+USENIX Security Symposium 2021
+Exploring Conceptual Soundness with TruLens.
+conference
+Anupam Datta, Matt Fredrikson, Klas Leino, Kaiji Lu, Shayak Sen, Ricardo Shih, Zifan Wang
+NeurIPS 2021
+Machine Learning Explainability and Robustness: Connected at the Hip.
+conference
+Anupam Datta, Matt Fredrikson, Klas Leino, Kaiji Lu, Shayak Sen, Zifan Wang
+KDD 2021
+Fast Geometric Projections for Local Robustness Certification.
+conference
+Aymeric Fromherz, Klas Leino, Matt Fredrikson, Bryan Parno, Corina Pasareanu
+ICLR 2021
+Automating Audit with Policy Inference.
+conference
+Abhishek Bichhawat, Matt Fredrikson, Jean Yang
+CSF 2021
+Smoothed Geometry for Robust Attribution.
+tech report
+Zifan Wang, Haofan Wang, Shakul Ramkumar, Matt Fredrikson, Piotr Mardziel, Anupam Datta
+CoRR 2020
+Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models.
+tech report
+Kaiji Lu, Piotr Mardziel, Klas Leino, Matt Fredrikson, Anupam Datta
+CoRR 2020
+Interpreting Interpretations: Organizing Attribution Methods by Criteria.
+tech report
+Zifan Wang, Piotr Mardziel, Anupam Datta, Matt Fredrikson
+CoRR 2020
+Individual Fairness Revisited: Transferring Techniques from Adversarial Robustness.
+tech report
+Samuel Yeom, Matt Fredrikson
+CoRR 2020
+Stolen Memories: Leveraging Model Memorization for Calibrated White-Box Membership Inference.
+conference
+Klas Leino, Matt Fredrikson
+USENIX Security Symposium 2020
+Reconciling noninterference and gradual typing.
+conference
+Arthur Azevedo de Amorim, Matt Fredrikson, Limin Jia
+LICS 2020
+FlipTest: fairness testing via optimal transport.
+conference
+Emily Black, Samuel Yeom, Matt Fredrikson
+FAT* 2020
+Contextual and Granular Policy Enforcement in Database-backed Applications.
+conference
+Abhishek Bichhawat, Matt Fredrikson, Jean Yang, Akash Trehan
+AsiaCCS 2020
+Learning Fair Representations for Kernel Models.
+conference
+Zilong Tan, Samuel Yeom, Matt Fredrikson, Ameet Talwalkar
+AISTATS 2020
+Overfitting, robustness, and malicious algorithms: A study of potential causes of privacy risk in machine learning.
+journal
+Samuel Yeom, Irene Giacomelli, Alan Menaged, Matt Fredrikson, Somesh Jha
+J. Comput. Secur. 2020
+FlipTest: Fairness Auditing via Optimal Transport.
+tech report
+Emily Black, Samuel Yeom, Matt Fredrikson
+CoRR 2019
+Feature-Wise Bias Amplification.
+conference
+Klas Leino, Emily Black, Matt Fredrikson, Shayak Sen, Anupam Datta
+ICLR 2019
+ESTRELA: Automated Policy Enforcement Across Remote APIs.
+tech report
+Abhishek Bichhawat, Akash Trehan, Jean Yang, Matt Fredrikson
+CoRR 2018
+Hunting for Discriminatory Proxies in Linear Regression Models.
+tech report
+Samuel Yeom, Anupam Datta, Matt Fredrikson
+CoRR 2018
+Supervising Feature Influence.
+tech report
+Shayak Sen, Piotr Mardziel, Anupam Datta, Matthew Fredrikson
+CoRR 2018
+Influence-Directed Explanations for Deep Convolutional Networks.
+tech report
+Klas Leino, Linyi Li, Shayak Sen, Anupam Datta, Matt Fredrikson
+CoRR 2018
+Verifying and Synthesizing Constant-Resource Implementations with Types.
+tech report
+Van Chan Ngo, Mario, Matthew Fredrikson, Jan Hoffmann
+CoRR 2018
+Quantitative underpinnings of secure, graceful degradation: poster.
+conference
+Ryan Wagner, David Garlan, Matt Fredrikson
+HotSoS 2018
+Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting.
+conference
+Samuel Yeom, Irene Giacomelli, Matt Fredrikson, Somesh Jha
+CSF 2018
+Why Are They Collecting My Data?: Inferring the Purposes of Network Traffic in Mobile Apps.
+journal
+Haojian Jin, Minyi Liu, Kevan Dodhia, Yuanchun Li, Gaurav Srivastava, Matthew Fredrikson, Yuvraj Agarwal, Jason Hong
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2018
+The Unintended Consequences of Overfitting: Training Data Inference Attacks.
+tech report
+Samuel Yeom, Matt Fredrikson, Somesh Jha
+CoRR 2017
+PrivacyProxy: Leveraging Crowdsourcing and In Situ Traffic Analysis to Detect and Mitigate Information Leakage.
+tech report
+Gaurav Srivastava, Saksham Chitkara, Kevin Ku, Swarup Kumar Sahoo, Matt Fredrikson, Jason Hong, Yuvraj Agarwal
+CoRR 2017
+Proxy Non-Discrimination in Data-Driven Systems.
+tech report
+Anupam Datta, Matt Fredrikson, Gihyuk Ko, Piotr Mardziel, Shayak Sen
+CoRR 2017
+Use Privacy in Data-Driven Systems: Theory and Experiments with Machine Learnt Programs.
+tech report
+Anupam Datta, Matthew Fredrikson, Gihyuk Ko, Piotr Mardziel, Shayak Sen
+CoRR 2017
+PrivacyStreams: Enabling Transparency in Personal Data Processing for Mobile Apps.
+journal
+Yuanchun Li, Fanglin Chen, Toby Li, Yao Guo, Gang Huang, Matthew Fredrikson, Yuvraj Agarwal, Jason Hong
+Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2017
+The Limitations of Deep Learning in Adversarial Settings.
+conference
+Nicolas Papernot, Patrick McDaniel, Somesh Jha, Matt Fredrikson, Berkay Celik, Ananthram Swami
+EuroS&P 2016
+A Methodology for Formalizing Model-Inversion Attacks.
+conference
+Xi Wu, Matthew Fredrikson, Somesh Jha, Jeffrey Naughton
+CSF 2016
+Surreptitiously Weakening Cryptographic Systems.
+tech report
+Bruce Schneier, Matthew Fredrikson, Tadayoshi Kohno, Thomas Ristenpart
+IACR Cryptol. ePrint Arch. 2015
+Revisiting Differentially Private Regression: Lessons From Learning Theory and their Consequences.
+tech report
+Xi Wu, Matthew Fredrikson, Wentao Wu, Somesh Jha, Jeffrey Naughton
+CoRR 2015
+Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures.
+conference
+Matt Fredrikson, Somesh Jha, Thomas Ristenpart
+CCS 2015
+On the Practical Exploitability of Dual EC in TLS Implementations.
+conference
+Stephen Checkoway, Ruben Niederhagen, Adam Everspaugh, Matthew Green, Tanja Lange, Thomas Ristenpart, Daniel Bernstein, Jake Maskiewicz, Hovav Shacham, Matthew Fredrikson
+USENIX Security Symposium 2014
+Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing.
+conference
+Matthew Fredrikson, Eric Lantz, Somesh Jha, Simon Lin, David Page, Thomas Ristenpart
+USENIX Security Symposium 2014
+ZØ: An Optimizing Distributing Zero-Knowledge Compiler.
+conference
+Matthew Fredrikson, Benjamin Livshits
+USENIX Security Symposium 2014
+Satisfiability modulo counting: a new approach for analyzing privacy properties.
+conference
+Matthew Fredrikson, Somesh Jha
+CSL-LICS 2014
+MoRePriv: mobile OS support for application personalization and privacy.
+conference
+Drew Davidson, Matt Fredrikson, Benjamin Livshits
+ACSAC 2014
+Synthesizing near-optimal malware specifications from suspicious behaviors.
+conference
+Somesh Jha, Matthew Fredrikson, Mihai Christodorescu, Reiner Sailer, Xifeng Yan
+MALWARE 2013
+Efficient Runtime Policy Enforcement Using Counterexample-Guided Abstraction Refinement.
+conference
+Matthew Fredrikson, Richard Joiner, Somesh Jha, Thomas Reps, Phillip Porras, Hassen Saïdi, Vinod Yegneswaran
+CAV 2012
+End-to-End Software Diversification of Internet Services.
+chapter
+Mihai Christodorescu, Matthew Fredrikson, Somesh Jha, Jonathon Giffin
+Moving Target Defense 2011
+Verified Security for Browser Extensions.
+conference
+Arjun Guha, Matthew Fredrikson, Benjamin Livshits, Nikhil Swamy
+IEEE Symposium on Security and Privacy 2011
+RePriv: Re-imagining Content Personalization and In-browser Privacy.
+conference
+Matthew Fredrikson, Benjamin Livshits
+IEEE Symposium on Security and Privacy 2011
+Dynamic Behavior Matching: A Complexity Analysis and New Approximation Algorithms.
+conference
+Matthew Fredrikson, Mihai Christodorescu, Somesh Jha
+CADE 2011
+A Declarative Framework for Intrusion Analysis.
+chapter
+Matt Fredrikson, Mihai Christodorescu, Jonathon Giffin, Somesh Jha
+Cyber Situational Awareness 2010
+Cyber SA: Situational Awareness for Cyber Defense.
+chapter
+Paul Barford, Marc Dacier, Thomas Dietterich, Matt Fredrikson, Jonathon Giffin, Sushil Jajodia, Somesh Jha, Jason Li, Peng Liu, Peng Ning, Xinming Ou, Dawn Song, Laura Strater, Vipin Swarup, George Tadda, Wang, John Yen
+Cyber Situational Awareness 2010
+Mining Large Information Networks by Graph Summarization.
+chapter
+Chen Chen, Cindy Xide Lin, Matt Fredrikson, Mihai Christodorescu, Xifeng Yan, Jiawei Han
+Link Mining 2010
+Automatic Generation of Remediation Procedures for Malware Infections.
+conference
+Roberto Paleari, Lorenzo Martignoni, Emanuele Passerini, Drew Davidson, Matt Fredrikson, Jonathon Giffin, Somesh Jha
+USENIX Security Symposium 2010
+Synthesizing Near-Optimal Malware Specifications from Suspicious Behaviors.
+conference
+Matt Fredrikson, Somesh Jha, Mihai Christodorescu, Reiner Sailer, Xifeng Yan
+IEEE Symposium on Security and Privacy 2010
+Mining Graph Patterns Efficiently via Randomized Summaries.
+journal
+Chen Chen, Cindy Xide Lin, Matt Fredrikson, Mihai Christodorescu, Xifeng Yan, Jiawei Han
+Proc. VLDB Endow. 2009
+A Layered Architecture for Detecting Malicious Behaviors.
+conference
+Lorenzo Martignoni, Elizabeth Stinson, Matt Fredrikson, Somesh Jha, John Mitchell
+RAID 2008
+Students & Postdocs
+Current
+Kai Hu
+PhD Student
+ECE
+Saranya Vijaykumar
+PhD Student
+Computer Science
+Ryan Wagner
+PhD Student
+Computer Science
+Weichen Yu
+PhD Student
+ECE
+Andy Zou
+PhD Student
+Computer Science
+Former
+Emily Black
+PhD Student
+Computer Science Department
+Klas Leino
+PhD Student
+Computer Science Department
+Zifan Wang
+PhD Student
+Electrical and Computer Engineering
+Samuel Yeom
+PhD Student
+Computer Science Department
+Han Zhang
+PhD Student
+Computer Science Department
+Arthur Azevedo de Amorim
+Postdoc
+Abhishek Bichhawat
+Postdoc
+
+Teaching
+15-316 Software Foundations of Security and Privacy
+15-414 Bug Catching: Automated Program Verification and Testing
+
+
+
+

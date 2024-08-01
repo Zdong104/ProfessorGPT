@@ -1,0 +1,250 @@
+Professor: Colin Raffel
+University: University of North Carolina
+URL: https://colinraffel.com/
+Description: Colin Raffel
+   
+
+I'm an associate professor at the University of Toronto and an associate research director at the Vector Institute. My lab does research in the field of machine learning, which is in an era of scale — larger models trained on larger datasets are producing major advances across many applications. This scale comes at significant cost, which in turn prevents most researchers from participating in the development of state-of-the-art models. My lab therefore works on the following problems:
+
+Enabling decentralized collaborative development of models, including modular architectures, cheaply-communicable updates, and merging methods
+Developing more efficient training recipes
+Identifying and mitigating risks associated with large-scale models
+
+Interested in joining our lab? Great! Please fill out this form (there's no need to contact me separately).
+
+Group members (in the lab and in the woods)
+
+Brian Lester, PhD student at the University of Toronto
+Haokun Liu, PhD student at the University of Toronto
+Nikhil Kandpal, PhD student at the University of Toronto
+Derek Tam, PhD student at the University of Toronto
+Michael Matena, PhD student at UNC
+Muqeeth Mohammed, Master's student at UNC
+
+
+Recent publications (full list)
+
+BLOOM: A 176B-Parameter Open-Access Multilingual Language Model
+Teven Le Scao, Angela Fan, Christopher Akiki, Ellie Pavlick, and 386 others including Colin Raffel
+Journal of Machine Learning Research (JMLR), 2024 (to appear).
+
+
+DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows
+Ajay Patel, Colin Raffel, and Chris Callison-Burch
+61st Annual Meeting of the Association for Computational Linguistics (ACL), 2024 (to appear).
+
+
+Learning to Route Among Specialized Experts for Zero-Shot Generalization
+Mohammed Muqeeth, Haokun Liu, Yufan Liu, and Colin Raffel
+41st International Conference on Machine Learning (ICML), 2024 (to appear).
+
+
+Soft Merging of Experts with Adaptive Routing
+Mohammed Muqeeth, Haokun Liu, and Colin Raffel
+Transactions on Machine Learning Research (TMLR), 2024.
+Featured Certification
+
+
+Merging by Matching Models in Task Subspaces
+Derek Tam, Mohit Bansal, and Colin Raffel
+Transactions on Machine Learning Research (TMLR), 2024.
+
+
+A New Alchemy: Language Model Development as a Subfield?
+Colin Raffel
+ICLR 2024 Blog Post Track, 2024.
+
+
+Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models
+Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, and Rameswar Panda
+arXiv preprint arXiv:2404.05567, 2024.
+
+
+Combining Machine Learning and Lifetime-based Resource Management for Memory Allocation and Beyond
+Martin Maas, David G. Andersen, Michael Isard, Mohammad Mahdi Javanmard, Kathryn S. McKinley, and Colin Raffel
+Communications of the Association for Computing Machinery (CACM), 2024.
+CACM Research Highlight
+
+
+A Survey on Data Selection for Language Models
+Alon Albalak, Yanai Elazar, Sang Michael Xie, Shayne Longpre, and 10 others including Colin Raffel
+arXiv preprint arXiv:2402.16827, 2024.
+
+
+Efficient Online Data Mixing For Language Model Pre-Training
+Alon Albalak, Liangming Pan, Colin Raffel, and William Yang Wang
+NeurIPS 2023 Workshop on Robustness of Few-shot and Zero-shot Learning in Large Foundation Models, 2023.
+
+
+Conditional Generation of Antigen Specific T-cell Receptor Sequences
+Dhuvarakesh Karthikeyan, Colin Raffel, Benjamin Vincent, and Alex Rubinsteyn
+NeurIPS 2023 Generative AI and Biology (GenBio) Workshop, 2023.
+
+
+Distributed Inference and Fine-tuning of Large Language Models Over The Internet
+Alexander Borzunov, Dmitry Baranchuk, Tim Dettmers, Max Ryabinin, Younes Belkada, Artem Chumachenko, Pavel Samygin, and Colin Raffel
+Neural Information Processing Systems 37 (NeurIPS), 2023.
+
+
+TIES-Merging: Resolving Interference When Merging Models
+Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel, and Mohit Bansal
+Neural Information Processing Systems 37 (NeurIPS), 2023.
+
+
+Scaling Data-Constrained Language Models
+Niklas Muennighoff, Alexander M. Rush, Boaz Barak, Teven Le Scao, Aleksandra Piktus, Nouamane Tazi, Sampo Pyysalo, Thomas Wolf, and Colin Raffel
+Neural Information Processing Systems 37 (NeurIPS), 2023.
+
+
+Improving Few-Shot Generalization by Exploring and Exploiting Auxiliary Data
+Alon Albalak, Colin Raffel, and William Yang Wang
+Neural Information Processing Systems 37 (NeurIPS), 2023.
+
+
+Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model
+Haikang Deng and Colin Raffel
+2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+
+
+Knowledge is a Region in Weight Space for Fine-tuned Language Models
+Almog Gueta, Elad Venezian, Colin Raffel, Noam Slonim, Yoav Katz, and Leshem Choshen
+Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+
+
+Scaling Up Models and Data with t5x and seqio
+Adam Roberts, Hyung Won Chung, Anselm Levskaya, Gaurav Mishra, and 39 others including Colin Raffel
+Journal of Machine Learning Research (JMLR), 2023.
+
+
+ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization
+Prateek Yadav, Leshem Choshen, Colin Raffel and Mohit Bansal
+arXiv preprint arXiv:2311.13171, 2023.
+
+
+NPEFF: Non-Negative Per-Example Fisher Factorization
+Michael Matena and Colin Raffel
+arXiv preprint arXiv:2310.04649, 2023.
+
+
+Efficient Methods for Natural Language Processing: A Survey
+Marcos Treviso*, Tianchu Ji*, Ji-Ung Lee*, Betty van Aken, and 14 others including Colin Raffel
+Transactions of the Association for Computational Linguistics (TACL), 2023.
+
+
+Git-Theta: A Git Extension for Collaborative Development of Machine Learning Models
+Nikhil Kandpal*, Brian Lester*, Mohammed Muqeeth, Anisha Mascarenhas, Monty Evans, Vishal Baskaran, Tenghao Huang, Haokun Liu, and Colin Raffel
+40th International Conference on Machine Learning, 2023.
+
+
+Large Language Models Struggle to Learn Long-Tail Knowledge
+Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace, and Colin Raffel
+40th International Conference on Machine Learning, 2023.
+
+
+ColD Fusion: Collaborative Descent for Distributed Multitask Finetuning
+Shachar Don-Yehiya, Elad Venezian, Colin Raffel, Noam Slonim, Yoav Katz, and Leshem Choshen
+61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+
+
+Evaluating the Factual Consistency of Large Language Models Through Summarization
+Derek Tam*, Anisha Mascarenhas*, Shiyue Zhang, Sarah Kwan, Mohit Bansal, and Colin Raffel
+Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+
+
+Crosslingual Generalization through Multitask Finetuning
+Niklas Muennighoff, Thomas Wang, Lintang Sutawika, Adam Roberts, and 15 others including Colin Raffel
+61st Annual Meeting of the Association for Computational Linguistics (ACL), 2023.
+
+
+Talks
+
+Build an Ecosystem, Not a Monolith at Simons Institute Workshop on Large Language Models and Transformers, Google Responsible Machine Learning Reading Group, University of Edinburgh ILCC Seminar, Stanford NLP Seminar, UCSD AI Seminar, and Yale CPSC 488/588 Lecture, 2023.
+
+Collaborative, Communal, & Continual Machine Learning at Faculty job talk, 2023.
+
+Building Better Language Models: Insights from BigScience at Stanford Center for Research on Foundation Models, 2022.
+
+Weird Things About Professorship at EMNLP Share Stories and Lessons Learned Workshop, 2022.
+
+Building Better Language Models at Johns Hopkins University CSCI 601.771 Lecture, Mosaic.ml, and Vector Institute Research Symposium, 2022.
+
+Infrastructure and Progress Towards the First Community-Built and Continually-Improved Model at Microsoft Research Efficient Large-Scale AI Workshop, 2022.
+
+Building Machine Learning Models Like Open-Source Software at Microsoft Research Summit, World Artificial Intelligence Conference, Technische Universität Darmstadt, UT Austin Forum for Artificial Intelligence, Korea AI Summit, Stanford CS324 Lecture, Stanford MLSys Seminar Series, and MLsys Symposium on Decentralized and Collaborative Learning, 2022.
+
+How to Be an Academic Machine Learning Researcher in the Era of Scale at CIFAR Deep Learning and Reinforcement Learning Summer School, 2022.
+
+Less Data, More ___? Data Augmentation and Semi-Supervised Learning for Natural Language Processing at 60th Annual Meeting of the Association for Computational Linguistics Tutorials, 2022.
+
+A call to build models like we build open-source software at Cornell University Artificial Intelligence Seminar, Georgia Tech NLP Seminar, UMass Amherst Machine Learning & Friends Lunch, UC Santa Barbara NLP Seminar, 2021.
+
+A few possibly controversial opinions about large language models at Carnegie Mellon University Language Technologies Topical Seminar, 2021.
+
+The Sweet Lesson at SustaiNLP Workshop, 2021.
+
+What do language models learn from language modeling? at Stanford University CS 330 Lecture and Advanced Language Processing Winter School, 2021.
+
+How and why should(n't) we scale machine learning? at IBM AI Hardware Forum Keynote, 2021.
+
+A better way to get language models to do what you ask at AKBC 2021 Unstructured and Structured Knowledge Bases Workshop and Cohere.ai, 2021.
+
+Scaling up Models and Data at CIFAR Deep Learning and Reinforcement Learning Summer School, Nepal Winter School in AI, and Advanced Language Processing Winter School, 2021.
+
+Explicit and Implicit Entropy Minimization in Proxy-Label-Based Semi-Supervised Learning at CVPR Workshop on Learning with Limited and Imperfect Data, 2021.
+
+The benefits of unified frameworks for language understanding at Conceptual Understanding of Deep Learning Workshop, 2021.
+
+T5 and large language models: The good, the bad, and the ugly at Stanford University CS 224n Lecture, CU Boulder Applied Mathematics Colloqium, Twitter Machine Learning Seminar, Google Graduate Symposium & TTIC NLP Seminar, 2020.
+
+Responsible publication: NLP case study at Navigating the Broader Impacts of AI Research Workshop Panel, 2020.
+
+What Can MIR Learn From Transfer Learning in NLP? at NLP for Music and Audio Workshop Keynote, 2020.
+
+Transfer Learning for NLP: T5 and Beyond at Montreal Institute for Learning Algorithms Tea Talk & Spotify Research Seminar, 2020.
+
+Answering Questions by Querying the Implicit Knowledge Base Inside T5 at AKBC 2020 Unstructured and Structured Knowledge Bases Workshop, 2020.
+
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer at Allen Institute for Artificial Intelligence & New York University CILVR Seminar, 2019.
+
+Outskirts of Deep Generative Modeling at Faculty Job Talk, 2019.
+
+Why are GANs Interesting? at New York University CILVR Seminar, 2018.
+
+A Few Unusual Autoencoders at Vector Institute, New York University & San Francisco State University, 2018.
+
+Leveraging MIDI Files for Music Information Retrieval at 18th International Society for Music Information Retrieval Conference Tutorials, 2017.
+
+Doing Strange Things with Attention at AI With The Best & 1st USF Data Institute Conference, 2017.
+
+The Lakh MIDI Dataset: How It Was Made, and How to Use It at BISH Bash Meetup, Centre for Digital Music Seminar & Jukedeck Lunch and Learn, 2016.
+
+Learning-Based Methods for Comparing Sequences, with Applications to Audio-to-MIDI Alignment and Matching at 2nd ICML Machine Learning for Music Discovery Workshop, 2016.
+
+Accelerating Large-Scale Sequence Retrieval with Convolutional Networks at IIT Bombay Electrical Engineering Seminar, 2015.
+
+Learning Efficient Representations for Sequence Retrieval at Boston Data Festival, 2015.
+
+Using Convolutional Networks (with Attention) for Orders-of-Magnitude Speedup of DTW-Based Sequence Retrieval at Spotify Machine Learning Seminar, 2015.
+
+Recurrent Networks in Lasagne at Mount Sinai Hammer Lab Seminar, 2015.
+
+Lasagne Tutorial at Next.ml Boston, 2015.
+
+Theano Tutorial at Next.ml Boston, 2015.
+
+mir_eval at Objective Evaluation in Semantic Audio Analysis and Processing Panel at the 138th Convention of the Audio Engineering Society, 2015.
+
+Large-Scale Content-Based Matching of Audio and MIDI Data at Stanford University DSP Seminar, 2015.
+
+Advances and Challenges in Large-Scale Music Information Retrieval at Digital Music Research Network+8, 2013.
+
+Quantifying Rhythmic Synchrony at Midwestern Music Cognition Symposium, 2013.
+
+A Sequential Approach to Musical Event Detection at Carnegie Mellon University Music and Technology Seminar, 2011.
+
+ROW-mp3: An Enhanced MP3-Compatible Audio Codec at Stanford University DSP Seminar, 2010.
+
+An Effective Model of Bucket-Brigade Device-Based Audio Circuits at Stanford University DSP Seminar, 2010.
+
+Voltage-Controlled Resistance: Modulate Anything at Circuitastrophe Circuit Bending Music Festival, 2008.
+

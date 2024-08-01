@@ -1,0 +1,61 @@
+Professor: Kent Quanrud
+University: Purdue University
+URL: https://www.kentquanrud.com/
+Description: Kent Quanrud
+
+Assistant Professor, Theory Group
+Dept. of Computer Science, Purdue University
+
+krq (at) purdue.edu
+Lawson 1211
+
+My research is about the design and analysis of algorithms in theoretical computer science. I have worked on approximation algorithms, randomized algorithms, combinatorial optimization, continuous optimization, online learning, and discrete geometry. I am particularly interested in highly scalable algorithms for fundamental problems in optimization.
+
+Teaching
+Graduate algorithms: Spring 2024, Spring 2023, Spring 2021, and Spring 2020
+Randomized algorithms: Spring 2024, Fall 2022, Fall 2020, and Fall 2019 (with Petros Drineas)
+Undergraduate algorithms: Spring 2022
+Advanced topics in algorithms: Fall 2021
+
+Course materials available at the links above.
+
+Research
+
+My research is supported in part by NSF. See DBLP for a more up-to-date list.
+
+what	where	with who	slides & more
+Quotient sparsification for submodular functions	Manuscript, Nov. 2022		Dagstuhl, Simons
+Faster exact and approximation algorithms for packing and covering matroids via push-relabel	Manuscript, July 2022		 
+(1-ε)-approximate fully dynamic densest subgraph: linear space and faster update time	Manuscript, July 2022	Chandra Chekuri	 
+Convergence to Lexicographically Optimal Base in a (Contra)Polymatroid and Applications to Densest Subgraph and Tree Packing	ESA (Track S) 2023	Chandra Chekuri and Elfarouk Harb	 
+Independent Sets in Elimination Graphs with a Submodular Objective	APPROX 2023	Chandra Chekuri	 
+Faster and Scalable Algorithms for Densest Subgraph and Decomposition	NeuRIPS 2022	Chandra Chekuri and Elfarouk Harb	 
+Densest Subgraph: Supermodularity, Iterative Peeling, and Flow	SODA 2022	Chandra Chekuri and Manuel Torres	 
+Algorithms for covering multiple submodular constraints and applications	Journal of Combinatorial Optimization, 2022	Chandra Chekuri, Tanmay Inamdar, Kasturi Varadarajan, and Zhao Zhang	 
+Minimum Cuts in Directed Graphs via Partial Sparsification	FOCS 2021	Ruoxu Cen, Jason Li, Danupon Nanongkai, Debmalya Panigrahi, and Thatchaphol Saranurak	 
+Faster Algorithms for Rooted Connectivity in Directed Graphs	ICALP 2021	Chandra Chekuri	 
+Isolating Cuts, (Bi-)Submodularity, and Faster Algorithms for Global Connectivity Problems	ICALP 2021	Chandra Chekuri	 
+Spectral Sparsification for Metrics and Kernels	SODA 2021		SODA
+Fast Approximation Algorithms for Bounded Degree and Crossing Spanning Tree Problems	APPROX 2021	Chandra Chekuri and Manuel Torres	 
+Online Directed Spanners and Steiner Forests	APPROX 2021	Elena Grigorescu and Young-San Lin	 
+Circle Packing of Planar Graphs in Nearly Linear Time	SODA 2020	Sally Dong and Yin Tat Lee	 
+Fast LP-based Approximations for Geometric Packing and Covering Problems	SODA 2020	Chandra Chekuri and Sariel Har-Peled	 
+Nearly linear time approximations for mixed packing and covering problems without data structures or randomization	SOSA@SODA 2020		SOSA
+ℓ1‑Sparsity Approximation Bounds for Packing Integer Programs.	Math Program. 2020, IPCO 2019	Chandra Chekuri and Manuel R. Torres	 
+Fast and Deterministic Approximations for k‑cut	APPROX 2019		APPROX
+Parallelizing Greedy for Submodular Set Function Maximization in Matroids and Beyond	STOC 2019	Chandra Chekuri	Bellairs, MSR, Purdue, NWU
+Approximating Optimal Transport with Linear Programs	SOSA 2019		SOSA
+LP Relaxation and Tree Packings for Minimum k‑cut	SOSA 2019	Chandra Chekuri and Chao Xu	 
+On Approximating (Sparse) Covering Integer Programs	SODA 2019	Chandra Chekuri	SODA
+Submodular Function Maximization in Parallel via the Multilinear Relaxation	SODA 2019	Chandra Chekuri	Bellairs, MSR, Purdue, NWU, SODA, Allerton
+Fast Approximations for Metric‑TSP via Linear Programming	arXiv 2018	Chandra Chekuri	BIRS (video, slides), ISMP, UIUC
+Randomized MWU for Positive LPs	SODA 2018	Chandra Chekuri	SODA
+Approximation Algorithms for Polynomial Expansion and Low‑Density Graphs	SIAM J. Comput. (SICOMP) 2017
+ESA 2015	Sariel Har-Peled	UIUC, add'l notes
+Approximating the Held‑Karp Bound for Metric TSP in Nearly Linear Time	FOCS 2017
+Invited to HALG 2018	Chandra Chekuri	BIRS (video, slides), ISMP, FOCS (video, slides)
+Near‑Linear‑Time Approximation Schemes for some Implicit Fractional Packing Problems	SODA 2017	Chandra Chekuri	SODA, Bellairs
+A Fast Approximation for Maximum Weight Matroid Intersection	SODA 2016	Chandra Chekuri	SODA, UIUC
+Streaming Algorithms for Submodular Function Maximization	ICALP 2015	Chandra Chekuri and Shalmoli Gupta	Bonn (video, slides)
+Online Learning with Adversarial Delays	NIPS 2015	Daniel Khashabi	NIPS
+

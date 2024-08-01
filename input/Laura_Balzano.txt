@@ -1,0 +1,74 @@
+Professor: Laura Balzano
+University: University of Michigan
+URL: https://web.eecs.umich.edu/~girasole
+Description: LAURA BALZANO
+
+home
+bio
+spada lab
+publications
+projects
+»
+videos
+courses
+code
+news
+contact laura
+Home
+
+Professor Laura Balzano
+Associate Professor of Electrical Engineering and Computer Science
+Associate Professor of Statistics, by courtesy
+
+I lead the Signal Processing Algorithm Design and Analysis (SPADA) lab.
+
+You can find my CV here, updated April 2023.
+
+My research projects are in the areas of statistical signal processing, matrix factorization, and optimization, particularly dealing with large and messy data. My interests are theoretical, however, my favorite mathematical problems are motivated by fascinating and important engineering problems.
+
+AutoCAD 2016 – https://abcoemstore.com/product/autodesk-autocad-2016/ supports Windows 7 and Windows 8 and is available in both 32- and 64-bit versions.
+
+
+
+
+Play the Best Online Slots Sites in Canada.
+
+
+RECENT NEWS
+SPADA lab at ICML in Vienna
+
+I am excited to be a part of three papers at the International Conference of Machine Learning this July in Vienna.
+
+Congratulations to Can Yaras for having his work on compression in deep low-rank learning, with co-authors Peng Wang and Qing Qu, accepted as an oral presentation for Tuesday afternoon! This work proves that when training deep linear networks, the gradient descent dynamics are limited to an invariant subspace. This subspace can be leveraged to make training and overparameterization more efficient, and allows us to reap the benefits of deep overparameterization without the computational burden. The code is available on Can’s github site. I talked about this work for the 1W-Minds seminar in April.
+
+Peng Wang and Huikang Liu led our work on symmetric matrix completion with ReLU sampling that will be presented as a poster on Wednesday. We showed that it is possible to recover a low-rank matrix with sampling that is highly dependent on the matrix entries — we focus on ReLU sampling (and variants) where only positive entries are observed.
+
+Finally, Wisconsin-Madison PhD student Yuchen Li will be presenting his work on block Riemannian MM methods, also with a poster on Wednesday. He proved iteration guarantees for convergence to a stationary point for general multi-block MM algorithms where any number of blocks may be constrained to a Riemannian manifold. His complexity results reduce to well-known results in the Euclidean case. This work is broadly applicable to alternating MM algorithms for machine learning problems.
+
+SPADA Lab Research at AI Stats
+
+Congratulations to Davoud Ataee Tarzanagh and Soo Min Kwon, whose research was presented in poster sessions at AI Stats this morning!
+
+Davoud’s work on Online Bilevel Optimization was entirely conceived and driven by him during his postdoc at UM. The paper has novel definitions of bilevel dynamic regret, and he and Parvin proved many fabulous results for regret bounds for online alternating gradient descent in the strictly convex setting (with a matching lower bound) all the way to the nonconvex setting. He demonstrated its usefulness on online hyperparameter tuning, online loss tuning for imbalanced data, and then online meta learning with Bojian’s expertise! Online learning has provided a sea change for so much of ML on massive data, and we believe that OBO is a next crucial step for modern applications that commonly require careful balancing of objectives.
+
+Soo Min and Tsinghua student Zekai Zhang’s work on Efficient Low-Dimensional Compression of Overparameterized Models demonstrates a method for compressing overparameterized deep linear layers in deep networks. Their approach gets consistently improved generalization error in a fraction of the computation time. The work shows that leveraging inherent low-dimensional structure within the model parameter updates, we can reap the benefits of overparameterization without the computational burden.
+
+Research presentations at CPAL 2024
+
+At the inaugural Conference on Parsimony and Learning (CPAL), my group is presenting three works that have come out of a recent exciting collaboration with UM Prof Qing Qu and other colleagues on low-rank learning in deep networks. Prof Qu’s prior work studying neural collapse in deep networks has opened many exciting directions for us to pursue! All three works study deep linear networks (DLNs), i.e. deep matrix factorization. In this setting (which is simplified from deep neural networks that have nonlinear activations), we can prove several interesting fundamental facts about the way DLNs learn from data when trained with gradient descent. Congratulations SPADA members Soo Min Kwon, Can Yaras, and Peng Wang (all co-advised by Prof Qu) for these publications!
+
+
+
+Yaras, C., Wang, P., Hu, W., Zhu, Z., Balzano, L., & Qu, Q. (2023, December 1). Invariant Low-Dimensional Subspaces in Gradient Descent for Learning Deep Linear Networks. Conference on Parsimony and Learning (Recent Spotlight Track). https://openreview.net/forum?id=oSzCKf1I5N
+
+Wang, P., Li, X., Yaras, C., Zhu, Z., Balzano, L., Hu, W., & Qu, Q. (2023, December 1). Understanding Hierarchical Representations in Deep Networks via Feature Compression and Discrimination. Conference on Parsimony and Learning (Recent Spotlight Track). https://openreview.net/forum?id=Ovuu8LpGZu
+
+Kwon, S. M., Zhang, Z., Song, D., Balzano, L., & Qu, Q. (2023, December 1). Efficient Low-Dimensional Compression of Overparameterized Networks. Conference on Parsimony and Learning (Recent Spotlight Track). https://openreview.net/forum?id=1AVb9oEdK7
+
+© COPYRIGHT
+Copyright Notice : This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+
+RETURN TO TOP OF PAGE
+
+COPYRIGHT © 2024 · STREAMLINE CHILD THEME ON GENESIS FRAMEWORK · WORDPRESS · LOG IN
+

@@ -1,0 +1,99 @@
+Professor: Maarten Sap
+University: Carnegie Mellon University
+URL: https://maartensap.com/
+Description: Maarten Sap
+Publications
+Contact
+About Me
+CV
+Notes/Blogposts 
+   
+Maarten Sap
+
+I am an assistant professor at CMU's LTI department, and a part-time research scientist at the Allen Institute for AI (AI2). My research focuses on endowing NLP systems with social intelligence and social commonsense, and understanding social inequality and bias in language.
+
+Before this, I was a Postdoc/Young Investigator at the Allen Institute for AI (AI2), working on project Mosaic. I received my PhD from the University of Washington where I was advised by Noah Smith and Yejin Choi, and have interned at AI2 working on social commonsense reasoning, and at Microsoft Research working on deep learning models for understanding human cognition.
+[bio for talks]
+
+Recent updates:
+
+July 2024 📄🔔: Our paper Particip-AI: A Democratic Surveying Framework for Anticipating Future AI Use Cases, Harms and Benefits was accepted to AIES!!
+
+July 2024 🍁⚖️: We have two workshops accepted to NeurIPS 2024: Socially Responsible Language Modelling Research (SoLaR) and Pluralistic Alignment workshops! Stay tuned for the CFPs!
+
+July 2024 📄🔔: Our paper PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models was accepted to COLM!! We'll see you all in Philly!
+
+June 2024 📚🎤: Really happy to participate and give a talk on Developing Computational Analyses of the Social Aspects of Narratives at the Princeton Workshop for Narrative Possibilities
+
+May 2024 🎻🌺: My students Jimin Mun will be presenting our paper Counterspeakers' Perspectives: Unveiling Barriers and AI Needs in the Fight against Online Hate at CHI 2024, and Xuhui Zhou our paper SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents at ICLR 2024!
+
+May 2024 🤖👨🏼‍🏫: Excited to talk about social agents and Sotopia at the CMU Agent Workshop 2024!
+
+April 2024 🐏👨🏼‍🏫: Honored to be giving a talk at UNC Chapel Hill Symposium on AI and Society, on the Artificial Social Intelligence? On the challenges of Socially Aware and Ethically informed LLMs, and excited about all the interesting discussions around these topics!
+
+[older news]
+
+My research group:
+Joel Mire
+
+LTI MLT student
+
+Karina Halevy
+
+LTI PhD student
+co-advised with Mona Diab
+
+Jimin Mun
+
+LTI PhD student
+
+Jocelyn Shen
+
+MIT PhD student
+co-advised with Cynthia Breazeal
+
+Akhila Yerukola
+
+LTI PhD student
+
+Xuhui Zhou
+
+LTI PhD student
+
+Overarching Research Themes
+Detecting and Mitigating Social Biases in Language
+ 
+
+Language can perpetuate social biases and toxicity against oppressed or marginalized groups. I want to investigate new ways of representing and detecting such harmful content in text (e.g., Social Bias Frames). Additionally, I want to harness NLP systems to combat stereotypical or harmful statements in language, through controllable text generation (e.g., with DExperts) or controllable text debiasing (e.g., with PowerTransformer).
+
+In the future, I want to make this technology more context-aware and human-centric, e.g., by incorporating power differentials between speaker and listener, and studying human-in-the-loop methods for toxicity detection or text debiasing.
+
+Commonsense Reasoning for Socially Aware NLP
+ 
+
+Through theory-of-mind, Humans are trivially able to reason about other people's intents and reactions to everyday situations. I am interested in studying how AI systems can do this type of social commonsense reasoning. For example, this requires giving models knowledge of social commensense (e.g., with Event2Mind or ATOMIC, and methods like CoMET) or social acceptibility (Social Chemistry). Additionally, this requires creating benchmarks for measuring models' social commonsense abilities (e.g., with Social IQa, or Story Commonsense).
+
+In the future, I want to keep investigating this elusive goal of machine social commonsense, which we show is still not present in LLMs like GPT-3. Additionally, I want to explore positive applications of this research, e.g., for therapeutic setting or for helping people with cognitive disabilities.
+
+Analyzing the Ethics and Transparency of AI models
+ 
+
+AI and NLP systems unfortunately encode social biases and stereotypes. I'm passionate about analyzing and diagnosing the potential negative societal impacts of these systems. For example, I've uncovered severe racial bias in hate speech detection datasets and models, and subsequently analyzed whether robustness methods for NLP can mitigate them, as well as understanding the psychological attitudes that cause over- and under-detection of content as toxic. Additionally, I've scrutinized recent pretrained language models and their training data with respect to biases, toxicity, and fake news (e.g., measuring GPT-2 and GPT-3's neural toxic degeneration, and documenting the English C4 Webtext Crawl).
+
+In the future, I plan to keep diagnosing and mitigating the ethical, fairness, and representation issues in AI systems, especially from a human-centric perspective of end-users and other stakeholders.
+
+Socially Aware Conversational AI
+ 
+
+Conversational agents are one of the most important ways that humans will interface with AI systems, whether they are talk with AI systems (e.g., chatbots) or chatting with each others with AI-assisted interfaces (e.g., smart suggestions). I'm interested in studying how we can make conversational agents more socially aware and better respond to toxicity, based on my experience winning the inaugural Alexa Prize in 2017. For example, in our ToxiChat paper, we quantified how chatbots often agree with toxic utterances more than with neutral comments. I've also developed large-scale datasets for developing dialogue agents that are more prosocial (ProSocial Dialogs) and socially competent (with SODA).
+
+In the future, I am interested in understanding how conversational agents can better reason about communicative intent when responding, how communication can be learned in an emergent way, and how we can use reinforcement learning to make dialog agents better.
+
+More about me
+Browse my publications
+Contact me
+More about me
+ CV
+Last updated:
+2024-07-15
+

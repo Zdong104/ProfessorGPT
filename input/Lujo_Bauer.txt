@@ -1,0 +1,142 @@
+Professor: Lujo Bauer
+University: Carnegie Mellon University
+URL: http://www.ece.cmu.edu/~lbauer
+Description: Home
+Teaching
+Research
+Students
+Publications
+		
+
+Lujo Bauer
+[loo'yo]
+
+Professor, Electrical & Computer Engineering + Computer Science (Software and Societal Systems Department)
+Co-director, Future Enterprise Security Initiative (FutureEnterprise@CyLab)
+Coordinator, ECE and SCS undergraduate concentrations in security and privacy
+Director, minor in Information Security, Privacy and Policy
+Affiliated with: CyLab, Societal Computing
+
+Contact info
+Short bio
+
+
+
+Please consider submitting a paper or attending:
+
+IEEE S&P May 2024 USENIX Sec Aug 2024
+Wordle representation of paper titles.
+
+Teaching
+
+Fall 2023: Privacy Policy, Law, and Technology (17-333 / 17-733 / 19-608 / 95-818)
+Spring 2023: Introduction to Computer Security (15-330 / 18-330)
+Fall 2022: Privacy Policy, Law, and Technology (17-333 / 17-733 / 19-608 / 95-818)
+
+
+Previous...
+Research
+
+I do research on many aspects of computer security and privacy. I'm particularly interested in usable security and privacy, adversarial machine learning, the security of smarthomes, the risks of online tracking, and user authentication.
+
+Here are some topics that I currently research:
+
+Adversarial ML: Machine learning (ML) algorithms are becoming ubiquitous; they're used in applications from playing chess and predicting the weather to cancer diagnosis and self-driving cars. Our research attempts to discover how robust ML algorithms are in the face of an adversary. Specifically, we study whether an adversary can fool ML classifiers in practical settings without arousing the suspicion of a human. For instance, we showed that it is possible to 3d print a pair of eyeglasses that, when worn by an adversary, can cause a state-of-the-art face-recognition algorithm to identify the adversary as (a specific) someone else. We leverage what we learn of ML algorithms' weaknesses to design ML algorithms that are more resistant to attack.
+
+Publications
+
+Secure digital home / access control for non-security-experts: This collection of projects explores architectures, mechanisms, and interfaces for helping users manage access control in the digital home of the future and on online social networks. Recent research includes new methods to discover smart-home configurations that may leak information, new ways to specify access-control policies (e.g., reactively, and via metadata-based policy rules), and using machine learning to help users specify security policies and privacy preferences.
+
+Publications
+
+Security and privacy for the Internet of Things (IoT) outside the home: IoT devices are becoming ubiquitous. They enable fantastic new functionality, but also present new security and privacy risks. We try to discover these risks and develop solutions that address them.
+
+Publications
+
+Online tracking: While we browse the web our behavior is observed by online trackers, which construct profiles of users based on the websites we visit. These profiles are used to select ads and show content customized to our interests, but trackers also invade our privacy. We study how much tracking users are subjected to and whether tools like privacy-preserving web browsers and browser extensions like Ghostery can help.
+
+Publications
+
+Passwords: Although they are often insecure and inconvenient, passwords aren't quite about to disappear. This project's goal is to help users create passwords that are easy for them to remember, but hard for attackers to guess. We work towards this goal by trying to deeply understand the password-creation process and the security of the resulting passwords, including by investigating the effects of password-composition policies and password meters on the security and usability of passwords, and by studying metrics for quantifying password strength.
+
+Publications
+Students, Postdocs, and Staff
+
+I'm fortunate to advise and work with many talented students, postdocs, and staff, including:
+
+Omer Akgul (postdoc),
+Clement Fung (CMU Societal Computing PhD),
+Andy Gallardo (CMU Societal Computing PhD, co-advised with Lorrie Cranor),
+Natalie Janosik (CMU ECE PhD, co-advised with Aswin Sankaranarayanan),
+Trevor Kann (CMU ECE PhD, co-advised with Rob Cunningham),
+Weiran Lin (CMU ECE PhD),
+Keane Lucas (CMU ECE PhD),
+McKenna McCall (postdoc),
+Nuno Sabino (CMU-Portugal PhD, co-advised with Limin Jia, Pedro Adão, Rui Maranhão),
+Brian Singer (CMU ECE PhD, co-advised with Vyas Sekar),
+Michael Stroucken (staff programmer),
+Jenny Tang (CMU Societal Computing PhD, co-advised with Nicolas Christin),
+Ben Weinshel (CMU Societal Computing PhD, co-advised with Yuvraj Agarwal),
+Xiaoyuan (Owen) Wu (CMU Societal Computing PhD),
+Eric Zeng (postdoc).
+
+Students and postdocs I advised or worked with closely:
+PhD students: Scott Garriss (CMU ECE, PhD 2008; now at Google), Rob Reeder (CMU CSD, advised by Lorrie Cranor, PhD 2008; now at Google), Kami Vaniea (CMU CSD, PhD 2012, co-advised with Lorrie Cranor; now at Edinburgh University), Michelle Mazurek (CMU ECE, co-advised with Greg Ganger, PhD 2014; now at University of Maryland at College Park), Saranga Komanduri (CMU COS, advised by Lorrie Cranor, PhD 2016), Xiaoxiao Tang (visiting PhD student from SMU, Singapore), Blase Ur (CMU SC, advised by Lorrie Cranor, PhD 2016; now at University of Chicago), Yannis Mallios (CMU ECE, PhD 2017, now at Google Pittsburgh), Jassim Aljuraidan (CMU ECE, PhD 2018, now at Kuwait University), Billy Melicher (CMU ECE, PhD 2019, now at Palo Alto Networks), Mahmood Sharif (CMU ECE, PhD 2019, now at Tel Aviv University), Josh Tan (CMU Societal Computing, PhD 2020, now at Amazon), Sruti Bhagavatula (CMU Societal Computing, PhD 2021, now at Northwestern University).
+Postdocs: Matthias Beckerle (CyLab postdoc 2014–2015, now at Karlstad University), Camille Cobb (CyLab postdoc 2019–2021, now at the University of Illinois Urbana-Champaign), Willard Rafnsson (CyLab postdoc 2015–2017, now at the IT University of Copenhagen).
+Others: Sean Segreti (CMU ECE, MS 2016; now KoreLogic), Shaoying Cai (visiting PhD student from SMU, Singapore, 2014), Tony Felice (CMU ECE ugrad/masters), Elli Fragkaki (CMU ECE, MS 2013), Wataru Hasegawa (CMU INI masters), Philip Seyoung Huh (CMU ECE, MS 2014), Joel Lee (CMU Heinz masters, 2013), Sudeep Modi (CMU INI masters), Sean Segreti (CMU ECE masters, 2015), Brad Miller (CMU ECE, BS 2009), Timothy Passaro (CMU ECE, BS/MS 2014), Ariel Rao (CMU undergraduate),
+
+Recent publications (full list)
+
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+
+new!  Training robust ML-based raw-binary malware detectors in hours, not months.   [BibTeX, ]
+Keane Lucas, Weiran Lin, Lujo Bauer, Michael K. Reiter, and Mahmood Sharif.
+In Proceedings of the 31st ACM SIGSAC Conference on Computer and Communications Security, October 2024. To appear. © authors
+
+new!  The impact of exposed passwords on honeyword efficacy.   [BibTeX, ]
+Zonghao Huang, Lujo Bauer, and Michael K. Reiter.
+In Proceedings of the 33rd USENIX Security Symposium, August 2024. USENIX. To appear. © authors
+
+new!  Approach for the optimization of machine learning models for calculating binary function similarity.   [BibTeX, code and data, ]
+Suguru Horimoto, Keane Lucas, and Lujo Bauer.
+In Proceedings of the 21st Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA '24), July 2024. To appear.
+
+new!  CoCoT: Collaborative contact tracing.   [PDF, BibTeX, talk video, ]
+Trevor Kann, Lujo Bauer, and Robert K. Cunningham.
+In Proceedings of the 14th ACM Conference on Data and Application Security and Privacy (CODASPY), June 2024. ACM. © authors  DOI:10.1145/3626232.3653254
+
+ Interdisciplinary approaches to cybervulnerability impact assessment for energy critical infrastructure.   [PDF, BibTeX, talk video, ]
+Andrea Gallardo, Robert Erbes, Katya Le Blanc, Lujo Bauer, and Lorrie Faith Cranor.
+In CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems, May 2024. ACM. CHI 2024 Honorable Mention © authors  DOI:10.1145/3613904.3642493
+
+Group-based robustness: A general framework for customized robustness in the real world.   [PDF, BibTeX, talk video, ]
+Weiran Lin, Keane Lucas, Neo Eyal, Lujo Bauer, Michael K. Reiter, and Mahmood Sharif.
+In Proceedings of the 31st Network and Distributed System Security Symposium, February 2024. Internet Society. © authors  DOI:10.14722/ndss.2024.24084
+
+Attributions for ML-based ICS anomaly detection: From theory to practice.   [PDF, BibTeX, talk video, code, ]
+Clement Fung, Eric Zeng, and Lujo Bauer.
+In Proceedings of the 31st Network and Distributed System Security Symposium, February 2024. Internet Society. © authors  DOI:10.14722/ndss.2024.23216
+
+RS-Del: Edit distance robustness certificates for sequence classifiers via randomized deletion.   [PDF, BibTeX, ]
+Zhuoqun Huang, Neil G. Marchant, Keane Lucas, Lujo Bauer, Olga Ohrimenko, and Benjamin I. P. Rubinstein.
+In Advances in Neural Information Processing Systems 36 (NeurIPS 2023), 2023.
+
+Adversarial training for raw-binary malware classifiers.   [PDF, BibTeX, talk video and slides, ]
+Keane Lucas, Samruddhi Pai, Weiran Lin, Lujo Bauer, Michael K. Reiter, and Mahmood Sharif.
+In Proceedings of the 32nd USENIX Security Symposium, August 2023. USENIX.
+
+Towards usable security analysis tools for trigger-action programming.   [PDF, BibTeX, talk video and slides, ]
+McKenna McCall, Eric Zeng, Faysal Hossain Shezan, Mitchell Yang, Lujo Bauer, Abhishek Bichhawat, Camille Cobb, Limin Jia, and Yuan Tian.
+In SOUPS '23: Proceedings of the 19th Symposium on Usable Privacy and Security, August 2023. USENIX. © authors
+
+Speculative privacy attitudes and concerns about AR glasses data collection.   [PDF, BibTeX, ]
+Andrea Gallardo, Christopher Choy, Jaideep Juneja, Efe Bozkir, Camille Cobb, Lujo Bauer, and Lorrie Faith Cranor.
+Proceedings on Privacy Enhancing Technologies, 2023 (4). July 2023. © authors  DOI:10.56553/popets-2023-0117
+
+Shedding light on inconcistencies in grid cybersecurity: Disconnects and recommendations.   [PDF, BibTeX, YouTube, talk video, ]
+Brian Singer, Amritanshu Pandey, Shimiao Li, Lujo Bauer, Craig Miller, Lawrence Pileggi, and Vyas Sekar.
+In Proceedings of the 2023 IEEE Symposium on Security and Privacy, May 2023.  DOI:10.1109/SP46215.2023.10179343  
+
+Updated 2024.07.05.
+Copyright © Lujo Bauer
+

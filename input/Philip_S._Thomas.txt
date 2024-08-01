@@ -1,0 +1,160 @@
+Professor: Philip S. Thomas
+University: University of Massachusetts Amherst
+URL: http://psthomas.com/
+Description: Publications
+Logic Puzzles
+Teaching
+Philip S. Thomas
+Associate Professor, Co-Director of the Autonomous Learning Lab, and
+Doctoral Program Director (starting Fall 2024)
+Manning College of Information and Computer Sciences
+University of Massachusetts
+pthomas [at] cs [dot] umass [dot] edu
+
+
+
+I study ways to ensure the safety of artificial intelligence (AI) systems, with emphases on ensuring the safety and fairness of machine learning (ML) algorithms and on creating safe and practical reinforcement learning (RL) algorithms. I am the director of the Autonomous Learning Lab (ALL) at UMass (2017–present).
+
+Previously I worked as a postdoc for Emma Brunskill at CMU. I completed my Ph.D. in computer science at UMass in 2015, where Andrew Barto was my adviser. I completed my B.S. and M.S. in computer science at CWRU in 2008 and 2009, where Michael Branicky was my adviser. Before that, in high school, I was introduced to computer science and mentored by David Kosbie.
+
+Collaborations / Working Together
+
+I may recruit one doctoral student for Fall 2025. If so, I will be looking for students interested in exploring the intersection of reinforcement learning and philosophy of mind. Application instructions to the doctoral program can be found here. I am not working with additional undergraduate or masters students at this time (this includes research projects, independent studies, internships, and volunteerships).
+
+Publications
+
+(Bolded titles indicate papers that I find most interesting.)
+
+2024
+K. Choudhary, D. Gupta, and P. S. Thomas. ICU-Sepsis: A Benchmark MDP Built from Real Medical Data. Reinforcement Learning Journal, vol. 1, no. 1, 2024. pdf, arxiv.
+S. M. Jordan, S. Neumann, J. E. Kostas, A. White, and P. S. Thomas. The Cliff of Overcommitment with Policy Gradient Step Sizes. Reinforcement Learning Journal, vol. 1, no. 1, 2024. To appear.
+S. M. Jordan, B. Castro da Silva, A. White, M. White, and P. S. Thomas. Position: Benchmarking in Reinforcement Learning is limited and Alternatives are Needed. In Proceedings of the International Conference on Machine Learning (ICML), 2024. arxiv.
+S. Yeh, B. Metevier, A. Hoag, and P. S. Thomas. Analyzing the Relationship Between Difference and Ratio-Based Fairness Metrics. In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2024. pdf.
+D. M. Bossens and P. S. Thomas. Low Variance Off-policy Evaluation with State-based Importance Sampling. In Proceedings of the IEEE Conference on Artificial Intelligence (IEEE CAI), 2024. To appear. arxiv.
+D. Gupta, S. M. Jordan, S. Chaudhari, B. Liu, P. S. Thomas, and B. Castro da Silva. From Past to Future: Rethinking Eligibility Traces. In The 38th Annual AAAI Conference on Artificial Intelligence (AAAI), 2024. To appear. pdf, arxiv.
+
+2023
+D. Gupta, Y. Chandak, S. M. Jordan, P. S. Thomas, and B. Castro da Silva. Behavior Alignment via Reward Function Optimization. In Advances in Neural Information Processing Systems (NeurIPS), 2023. pdf, arxiv.
+A. Hoag, J. Kostas, B. da Silva, P. S. Thomas, and Y. Brun. Seldonian Toolkit: Building Software with Safe and Fair Machine Learning. In IEEE/ACM International Conference on Software Engineering (ICSE), 2023. pdf.
+V. Liu, Y. Chandak, P. S. Thomas, and M. White. Asymptotically Unbiased Off-Policy Policy Evaluation when Reusing Old Data in Nonstationary Environments. In International Conference on Artificial Intelligence and Statistics (AISTATS), 2023. pdf.
+S. Chaudhari, P. S. Thomas, and B. Castro da Silva. Learning Models and Evaluating Policies with Offline Off-Policy Data under Partial Observability. In NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World (RealML-2023), 2023. pdf.
+Y. Luo, A. Hoag, and P. S. Thomas. Learning Fair Representations with High-Confidence Guarantees. arXiv:2310.15358, 2023. pdf, arXiv
+J. E. Kostas, S. M. Jordan, Y. Chandak, G. Theocharous, D. Gupta, M. White, B. Castro da Silva, and P. S. Thomas. Coagent Networks: Generalized and Scaled. arXiv:2305.09838, 2023. pdf, arXiv
+
+2022
+Y. Chandak, S. Shankar, N. Bastian, B. Castro da Silva, E. Brunskill, and P. S. Thomas. Off-Policy Evaluation for Action-Dependent Non-stationary Environments. In Advances in Neural Information Processing Systems (NeurIPS), 2022. pdf.
+S. Giguere, B. Metevier, Y. Brun, B. Castro da Silva, P. S. Thomas, and S. Niekum. Fairness Guarantees under Demographic Shift. In International Conference on Learning Representations (ICLR), 2022. pdf.
+J. Yeager, E. Moss, M. Norrish, and P. S. Thomas. Mechanizing Soundness of Off-Policy Evaluation. In Interactive Theorem Proving (ITP), 2022. pdf.
+A. Weber, B. Metevier, Y. Brun, P. S. Thomas, and B. C. da Silva. Enforcing Delayed-Impact Fairness Guarantees. arXiv:2208.11744, 2022. pdf, arXiv
+A. Bhatia, P. S. Thomas, S. Zilberstein. Adaptive Rollout Length for Model-Based RL using Model-Free Deep RL. arXiv:2206.02380, 2022. pdf, arXiv
+D. M. Bossens and P. S. Thomas. Low Variance Off-policy Evaluation with State-based Importance Sampling. arXiv:2212.03932, 2022. pdf, arXiv
+C. Nota, C. Wong, and P. S. Thomas. Auto-Encoding Recurrent Representations. In The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2019. pdf.
+
+2021
+Y. Chandak, S. Niekum, B. Castro da Silva, E. Learned-Miller, E. Brunskill, and P. S. Thomas. Universal Off-Policy Evaluation. In Advances in Neural Information Processing Systems (NeurIPS), 2021. pdf, arxiv.
+C. Yuan, Y. Chandak, S. Giguere, P. S. Thomas, and S. Niekum. SOPE: Spectrum of Off-Policy Estimators. In Advances in Neural Information Processing Systems (NeurIPS), 2021. pdf.
+D. Gupta, G. Mihucz, M. K. Schlegel, J. E. Kostas, P. S. Thomas, and M. White. Structural Credit Assignment in Neural Networks using Reinforcement Learning. In Advances in Neural Information Processing Systems (NeurIPS), 2021. pdf.
+H. Satija, P. S. Thomas, J. Pineau, and R. Laroche. Multi-Objective SPIBB: Seldonian Offline Policy Improvement with Safety Constraints in Finite MDPs. In Advances in Neural Information Processing Systems (NeurIPS), 2021. pdf.
+J. Kostas, Y. Chandak, S. Jordan, G. Theocharous, and P. S. Thomas. High Confidence Generalization for Reinforcement Learning. In Proceedings of the Thirty-Eighth International Conference on Machine Learning (ICML), 2021. pdf.
+C. Nota, B. Castro da Silva, and P. S. Thomas. Posterior Value Functions: Hindsight Baselines for Policy Gradient Methods. In Proceedings of the Thirty-Eighth International Conference on Machine Learning (ICML), 2021. pdf.
+M. Phan, P. S. Thomas, and E. Learned-Miller. Towards Practical Mean Bounds for Small Samples. In Proceedings of the Thirty-Eighth International Conference on Machine Learning (ICML), 2021. pdf, errata.
+Y. Chandak, S. Shankar, and P. S. Thomas. High Confidence Off-Policy (or Counterfactual) Variance Estimation. In Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021. pdf.
+A. Montazeralghaem, J. Allan, and P. S. Thomas. Large-scale Interactive Conversational Recommendation System using Actor-Critic Framework. In RecSys '21: Fifteenth ACM Conference on Recommender Systems (RecSys), 2021. pdf.
+C. Nota, G. Theocharous, M. Saad, and P. S. Thomas. Preventing Contrast Effect Exploitation in Recommendations. In Proceedings of the SIGIR Workshop on eCommerce, 2021. pdf.
+
+2020
+P. Ozisik and P. S. Thomas. Security Analysis of Safe and Seldonian Reinforcement Learning Algorithms. In Advances in Neural Information Processing Systems (NeurIPS), 2020. pdf.
+Y. Chandak, S. Jordan, G. Theocharous, M. White, and P. S. Thomas. Towards Safe Policy Improvement for Non-Stationary MDPs. In Advances in Neural Information Processing Systems (NeurIPS), 2020. pdf.
+S. M. Jordan, Y. Chandak, D. Cohen, M. Zhang, and P. S. Thomas. Evaluating the Performance of Reinforcement Learning Algorithms. In Proceedings of the Thirty-Seventh International Conference on Machine Learning (ICML), 2020. pdf, arxiv, code.
+J. Kostas, C. Nota, and P. S. Thomas. Asynchronous Coagent Networks. In Proceedings of the Thirty-Seventh International Conference on Machine Learning (ICML), 2020. pdf, appendix, arXiv
+Y. Chandak, G. Theocharous, S. Shankar, M. White, S. Mahadevan, P. S. Thomas. Optimizing for the Future in Non-Stationary MDPs. In Proceedings of the Thirty-Seventh International Conference on Machine Learning (ICML), 2020. pdf, arXiv
+C. Nota and P. S. Thomas. Is the Policy Gradient a Gradient? In Proceedings of the 19th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2020. pdf, arXiv
+Y. Chandak, G. Theocharous, C. Nota, and P. S. Thomas. Lifelong Learning with a Changing Action Set. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020. (Outstanding Student Paper Honorable Mention) pdf, arxiv
+Y. Chandak, G. Theocharous, B. Metevier, and P. S. Thomas. Reinforcement Learning When All Actions are Not Always Available. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020. pdf, arxiv
+G. Theocharous, Y. Chandak, P. S. Thomas, and F. de Nijs. Reinforcement Learning for Strategic Recommendations. arXiv:2009.07346, 2020. pdf, arXiv
+
+2019
+P. S. Thomas, B. Castro da Silva, A. G. Barto, S. Giguere, Y. Brun, and E. Brunskill. Preventing undesirable behavior of intelligent machines. Science vol. 366, Issue 6468, pages 999–1004, 2019. link, supplementary materials, free access links.
+B. Metevier, S. Giguere, S. Brockman, A. Kobren, Y. Brun, E. Brunskill, and P. S. Thomas. Offline Contextual Bandits with High Probability Fairness Guarantees. In Advances in Neural Information Processing Systems (NeurIPS), 2019. pdf, appendix
+F. M. Garcia and P. S. Thomas. A Meta-MDP Approach to Exploration for Lifelong Reinforcement Learning. In Advances in Neural Information Processing Systems (NeurIPS), 2019.
+Y. Chandak, G. Theocharous, J. Kostas, S. M. Jordan, and P. S. Thomas. Learning Action Representations for Reinforcement Learning. In Proceedings of the Thirty-Sixth International Conference on Machine Learning (ICML), 2019. pdf
+P. S. Thomas and E. Learned-Miller. Concentration Inequalities for Conditional Value at Risk. In Proceedings of the Thirty-Sixth International Conference on Machine Learning (ICML), 2019. pdf, errata
+S. Tiwari and P. S. Thomas. Natural Option-Critic. In Proceedings of the Thirty-Third Conference on Artificial Intelligence (AAAI), 2019. pdf
+Y. Chandak, G. Theocharous, J. Kostas, S. M. Jordan, and P. S. Thomas. Improving Generalization over Large Action Sets. In The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2019.
+S. M. Jordan, Y. Chandak, M. Zhang, D. Cohen, and P. S. Thomas. Evaluating Reinforcement learning Algorithms Using Cumulative Distributions of Performance. In The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2019.
+P. S. Thomas, S. M. Jordan, Y. Chandak, C. Nota, and J. Kostas. Classical Policy Gradient: Preserving Bellman's Principle of Optimality. arXiv:1906.03063, 2019. pdf, arXiv
+E. Learned-Miller and P.S. Thomas. A New Confidence Interval for the Mean of a Bounded Random Variable. arXiv:1905.06208, 2019. pdf, arXiv
+J. Kostas, C. Nota, and P. S. Thomas. Asynchronous Coagent Networks: Stochastic Networks for Reinforcement Learning without Backpropagation or a Clock. arXiv:1902.05650, 2019. pdf, arXiv
+S. Aenugu, A. Sharma, S. Yelamarthi, H. Hazan, P. S. Thomas, and R. Kozma. Reinforcement learning with a network of spiking agents. Real Neurons and Hidden Units Workshop at NeurIPS 2019. pdf.
+
+2018
+P. S. Thomas, C. Dann, and E. Brunskill. Decoupling Gradient-Like Learning Rules from Representations. In Proceedings of the Thirty-Fifth International Conference on Machine Learning (ICML), 2018. pdf
+Y. Chandak, G. Theocharous, J. Kostas, and P. S. Thomas. Reinforcement Learning with a Dynamic Action Set. In Continual Learning Workshop, NeurIPS 2018.
+S. M. Jordan, D. Cohen, and P. S. Thomas. Using Cumulative Distribution Based Performance Analysis to Benchmark Models. In Critiquing and Correcting Trends in ML workshop, NeurIPS 2018. pdf
+S. Giguere and P. S. Thomas. Classification with Probabilistic Fairness Guarantees. In International Workshop on Software Fairness (ICSE), 2018.
+A. Jagannatha, P. S. Thomas, and H. Yu. Towards High Confidence Off-Policy Reinforcement Learning for Clinical Applications. In Workshop on Machine Learning for Causal Inference, Counterfactual Prediction, and Autonomous Action (CausalML) at ICML, 2018.
+
+2017
+P. S. Thomas, B. Castro da Silva, A. G. Barto, and E. Brunskill. On Ensuring that Intelligent Machines are Well-Behaved. arXiv:1708.05448, 2017. pdf, arXiv
+P. S. Thomas and E. Brunskill. Importance Sampling with Unequal Support. In Proceedings of the Thirty-First Conference on Artificial Intelligence (AAAI), 2017. pdf, body only, supplemental only, ArXiv preprint (pdf)
+P. S. Thomas., G. Theocharous, M. Ghavamzadeh, I. Durugkar, and E. Brunskill. Predictive Off-Policy Policy Evaluation for Nonstationary Decision Problems, with Applications to Digital Marketing. In Conference on Innovative Applications of Artificial Intelligence (IAAI), 2017. pdf
+Related paper with same authors presented at the Workshop on Computational Frameworks for Personalization at ICML 2016.
+S. Doroudi, P. S. Thomas, and E. Brunskill. Importance Sampling for Fair Policy Selection. In 33rd Conference on Uncertainty in Artificial Intelligence (UAI), 2017. pdf
+P. S. Thomas, C. Dann, and E. Brunskill. Decoupling Learning Rules from Representations. arXiv:1706.03100v1, 2017. pdf, arXiv
+J. P. Hanna, P. S. Thomas, P. Stone, and S. Niekum. Data-Efficient Policy Evaluation Through Behavior Policy Search. In Proceedings of the Thirty-Fourth International Conference on Machine Learning (ICML), 2017. pdf, supplemental
+Z. Guo, P. S. Thomas, and E. Brunskill. Using Options and Covariance Testing for Long Horizon Off-Policy Policy Evaluation. In Advances in Neural Information Processing Systems (NeurIPS), 2017. pdf
+Related paper with same authors, titled "Using Options for Long-Horizon Off-Policy Evaluation" was presented at The Third Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2017, as an extended abstract.
+K. M. Jagodnik, P. S. Thomas, A. J. van den Bogert, M. S. Branicky, and R. F. Kirsch. Training an Actor-Critic Reinforcement Learning Controller for Arm Movement Using Human-Generated Rewards. In IEEE Transactions on Neural Systems and Rehabilitation Engineering 25(10) pages 1892–1905, October 2017. pdf
+A. G. Barto, P. S. Thomas, and R. S. Sutton. Some Recent Applications of Reinforcement Learning. In Proceedings of the Eighteenth Yale Workshop on Adaptive and Learning Systems (WALS), 2017. pdf
+P. S. Thomas and E. Brunskill. Policy Gradient Methods for Reinforcement Learning with Function Approximation and Action-Dependent Baselines. arXiv:1706.06643v1, 2017. pdf, arXiv
+S. Doroudi, P. S. Thomas, and E. Brunskill. Importance Sampling for Fair Policy Selection. In The Third Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2017. Extended abstract. pdf
+Y. Liu, P. S. Thomas, and E. Brunskill. Model Selection for Off-Policy Policy Evaluation. In The Third Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2017. Extended abstract. pdf
+
+2016
+P. S. Thomas and E. Brunskill. Data-Efficient Off-Policy Policy Evaluation for Reinforcement Learning. In Proceedings of the Thirty-Third International Conference on Machine Learning (ICML), 2016. complete, body only, appendix, ArXiv preprint (pdf)
+Related extended abstract for Data-Efficient Machine Learning Workshop at ICML 2016. pdf
+P. S. Thomas, B. C. da Silva, C. Dann, and E. Brunskill. Energetic Natural Gradient Descent. In Proceedings of the Thirty-Third International Conference on Machine Learning (ICML), 2016. complete, body only, appendix
+M. G. Bellemare, G. Ostrovski, A. Guez, P. S. Thomas, and R. Munos. Increasing the Action Gap: New Operators for Reinforcement Learning. In Proceedings of the Thirtieth AAAI Conference, 2016. pdf, supplemental, video, code
+K. M. Jagodnik, P. S. Thomas, A. J. van den Bogert, M. S. Branicky, and R. F. Kirsch. Human-Like Rewards to Train a Reinforcement Learning Controller for Planar Arm Movement. In IEEE Transactions on Human-Machine Systems 46(5) pages 723–733, October 2016. pdf
+P. S. Thomas and E. Brunskill. Magical Policy Search: Data Efficient Reinforcement Learning with Guarantees of Global Optimality. In European Workshop On Reinforcement Learning, 2016. pdf
+
+2015
+P. S. Thomas. Safe Reinforcement Learning. PhD Thesis, School of Computer Science, University of Massachusetts, September 2015. pdf
+P. S. Thomas, S. Niekum, G. Theocharous, and G. Konidaris. Policy Evaluation using the Ω-Return. In Advances in Neural Information Processing Systems 29 (NeurIPS), 2015. pdf
+P. S. Thomas, G. Theocharous, and M. Ghavamzadeh. High Confidence Off-Policy Evaluation. In Proceedings of the Twenty-Ninth Conference on Artificial Intelligence (AAAI), 2015. pdf
+P. S. Thomas, G. Theocharous, and M. Ghavamzadeh. High Confidence Policy Improvement. In Proceedings of the Thirty-Second International Conference on Machine Learning (ICML), 2015. pdf, errata
+P. S. Thomas. A Notation for Markov Decision Processes. arXiv:1512.09075v1, 2015. pdf, arXiv
+G. Theocharous, P. S. Thomas, and M. Ghavamzadeh. Personalized ad recommendation systems for life-time value optimization with guarantees. In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2015. pdf
+G. Theocharous, P. S. Thomas, and M. Ghavamzadeh. Ad recommendation systems for life-time value optimization. In TargetAd 2015: Ad Targeting at Scale, at the World Wide Web Conference (WWW), 2015. pdf
+
+2014
+P. S. Thomas. GeNGA: A generalization of natural gradient ascent with positive and negative convergence results. In Proceedings of the Thirty-First International Conference on Machine Learning (ICML), 2014. pdf
+P. S. Thomas. Bias in natural actor-critic algorithms. In Proceedings of the Thirty-First International Conference on Machine Learning (ICML), 2014. pdf
+W. Dabney and P. S. Thomas. Natural temporal difference learning. In Proceedings of the Twenty-Eighth Conference on Artificial Intelligence (AAAI), 2014. pdf
+S. Mahadevan, B. Liu, P. S. Thomas, W. Dabney, S. Giguere, N. Jacek, I. Gemp, J. Liu. Proximal Reinforcement Learning: A New Theory of Sequential Decision Making in Primal-Dual Spaces. arxiv:1405.6757v1, 2014. pdf, arXiv
+
+2013
+P. S. Thomas, W. Dabney, S. Mahadevan, and S. Giguere. Projected natural actor-critic. In Advances in Neural Information Processing Systems 26 (NeurIPS), 2013. pdf
+W. Dabney, P. S. Thomas, and A. G. Barto. Performance Metrics for Reinforcement Learning Algorithms. In The First Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM), 2013. Extended abstract.
+
+2012
+P. S. Thomas. Bias in natural actor-critic algorithms. Technical Report UM-CS-2012-018, Department of Computer Science, University of Massachusetts, 2012. pdf
+P. S. Thomas and A. G. Barto. Motor primitive discovery. In Proceedings of the IEEE Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), 2012. pdf
+
+2011
+P. S. Thomas. Policy gradient coagent networks. In Advances in Neural Information Processing Systems 24 (NeurIPS), pages 1944–1952. 2011. pdf
+G. D. Konidaris, S. Niekum, and P. S. Thomas. TDγ: Re-evaluating complex backups in temporal difference learning. In Advances in Neural Information Processing Systems 24 (NeurIPS), pages 2402–2410. 2011. pdf
+  ↑Author names listed alphabetically. Footnote reads: "All three authors are primary authors on this occasion."
+G. D. Konidaris, S. Osentoski, and P. S. Thomas. Value function approximation in reinforcement learning using the Fourier basis. In Proceedings of the Twenty-Fifth Conference on Artificial Intelligence (AAAI), pages 380–395, 2011. pdf
+P. S. Thomas and A. G. Barto. Conjugate Markov decision processes. In Proceedings of the Twenty-Eighth International Conference on Machine Learning (ICML), pages 137–144, 2011. pdf
+
+2009
+P. S. Thomas. A reinforcement learning controller for functional electrical stimulation of a human arm. Master's thesis, Department of Electrical Engineering and Computer Science, Case Western Reserve University, August 2009. pdf
+P. S. Thomas, M. S. Branicky, A. J. van den Bogert, and K. M. Jagodnik. Application of the actor-critic architecture to functional electrical stimulation control of a human arm. In Proceedings of the Twenty-First Innovative Applications of Artificial Intelligence (IAAI), pages 165–172, 2009. pdf
+P. S. Thomas, M. S. Branicky, A. J. van den Bogert, and K. M. Jagodnik. Creating a reinforcement learning controller for functional electrical stimulation of a human arm. In Proceedings of the Fourteenth Yale Workshop on Adaptive and Learning Systems (WALS), pages 15–20, 2008. pdf
+
+1998
+A. Kandabarow, M. Rafalko, and P. S. Thomas. Penguins with hats, penguins with pants. In 7th Grade English with Mrs. Haiges, Sewickley Academy, PA, c. 1998. pdf
+
+© PSThomas.com
+

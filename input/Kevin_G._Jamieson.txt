@@ -1,0 +1,62 @@
+Professor: Kevin G. Jamieson
+University: University of Washington
+URL: https://homes.cs.washington.edu/~jamieson/about.html
+Description: Home
+Publications
+Group
+Teaching
+Activities
+Projects
+
+
+Kevin Jamieson
+Associate Professor, Allen School of Computer Science & Engineering
+Adjunct Professor, Department of Statistics
+University of Washington
+
+jamieson@cs.washington.edu
+Office: CSE2 340
+Gates Center for Computer Science & Engineering
+University of Washington
+Seattle, WA 98195
+
+
+
+About
+
+Kevin Jamieson is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. He received his B.S. in 2009 from the University of Washington under the advisement of Maya Gupta, his M.S. in 2010 from Columbia University under the advisement of Rui Castro, and his Ph.D. in 2015 from the University of Wisconsin - Madison under the advisement of Robert Nowak, all in electrical engineering. He returned to the University of Washington as faculty in 2017 after a postdoc in the AMP lab at the University of California, Berkeley working with Benjamin Recht. Jamieson's work has been recognized by an NSF CAREER award and Amazon Faculty Research award.
+
+Research focus
+
+Jamieson’s research explores how to leverage already-collected data to inform what future measurements to make next, in a closed loop. Such active learning can extract considerably richer insights than any measurement plan fixed in advance, using the same statistical budget. His work ranges from theory to practical algorithms with guarantees to open-source machine learning systems and has been adopted in a range of applications, including measuring human perception in psychology studies, adaptive A/B/n testing in dynamic web-environments, numerical optimization, and choosing hyperparameters for deep neural networks.
+
+Specifically, Jamieson has made foundational contributions to the characterization of the instance-dependent sample complexity of a variety of closed-loop active learning scenarios. Algorithms that are instance-dependent optimal adapt to the true difficulty of the problem taking fewer samples when it is easy, and more when it is hard. Sometimes known as gap-dependent bounds, these sample complexity bounds are in contrast to minimax bounds which reflect worst-case performance. A primary motivation for studying this regime is the observation that Nature is not adversarial, and we would like our algorithms to take advantage of easy settings. Jamieson's work has shown that popular strategies like UCB/Thompson Sampling for bandits/reinforcement-learning, and disagreement-based methods for classification, while minimax, can behave arbitrarily worse than the instance-optimal algorithms that his group has developed. His group's papers are a mix of information theoretic lower bounds, computational and sample efficient algorithm design, and the statistical analysis of adaptively collected data. Below are some of his group's contributions by area:
+
+Multi-armed bandits, subset selection [KatJai2020], [JamJai2018], [LiJamDesRosTal2018], [SimJamRec2017], [SimJamRec2016], [JamMalNowBub2014]
+Linear and combinatorial bandits, experimental design [CamXioFazJaiJam2021], [CamKatJam2021], [KatJaiKarJam2020], [FieJaiJamRat2019]
+Classification [CheDuJam2022], [CheDuJam2021], [KatZhaJaiJam2021], [JaiJam2019]
+Linear Dynamical Systems [WagSimJam2021], [WagJam2020]
+Reinforcement Learning, Tabular [WagSimJam2022], [CheDuJam2021] [SimJam2019]
+Reinforcement Learning, Linear function approximation [WagCheSimDuJam2022] [WagCheSimDuJam2022]
+Instance-dependent bounds are just among Jamieson's primary interests. See Publications for a more comprehensive list.
+
+Selected Publications
+
+Beyond No Regret: Instance-Dependent PAC Reinforcement Learning, Andrew Wagenmaker, Max Simchowitz, Kevin Jamieson, COLT 2022. PDF
+
+Improved Algorithms for Agnostic Pool-based Active Classification, Julian Katz-Samuels, Jifan Zhang, Lalit Jain, Kevin Jamieson, ICML 2021. PDF
+
+An Empirical Process Approach to the Union Bound: Practical Algorithms for Combinatorial and Linear Bandits, Julian Katz-Samuels, Lalit Jain, Zohar Karnin, Kevin Jamieson, NeurIPS 2020. PDF
+
+Active Learning for Identification of Linear Dynamical Systems, Andrew Wagenmaker, Kevin Jamieson, COLT 2020. PDF
+
+Massively Parallel Hyperparameter Tuning, Liam Li, Kevin Jamieson, Afshin Rostamizadeh, Ekaterina Gonina, Moritz Hardt, Benjamin Recht, Ameet Talwalkar, MLSys 2020. PDF
+
+Sequential Experimental Design for Transductive Linear Bandits, Tanner Fiez, Lalit Jain, Kevin Jamieson, Lillian Ratliff, NeurIPS 2019. PDF
+
+Non-Asymptotic Gap-Dependent Regret Bounds for Tabular MDPs, Max Simchowitz, Kevin Jamieson, NeurIPS 2019. PDF
+
+A Bandit Approach to Multiple Testing with False Discovery Control, Kevin Jamieson, Lalit Jain, NeurIPS, 2018. PDF
+
+Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization, Lisha Li, Kevin Jamieson, Giulia DeSalvo, Afshin Rostamizadeh, Ameet Talwalkar, JMLR, 2018*. PDF
+

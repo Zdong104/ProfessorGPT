@@ -1,0 +1,133 @@
+Professor: Yu Xiang 0001
+University: University of Texas at Dallas
+URL: https://yuxng.github.io/
+Description: 	
+Biography
+
+Yu Xiang is an Assistant Professor in the Department of Computer Science at the University of Texas at Dallas. Before joining UT Dallas, he was a Senior Research Scientist in Robotics at NVIDIA Research from 2018 to 2021. He received his Ph.D. in Electrical and Computer Engineering from the University of Michigan at Ann Arbor in 2016 advised by Prof. Silvio Savarese. He was a postdoctoral researcher with Prof. Dieter Fox in Computer Science & Engineering at the University of Washington from 2016 to 2017, and was a visiting student researcher in the Artificial Intelligence Lab at Stanford University from 2013 to 2016. He received an M.S. degree in Computer Science from Fudan University in 2010 advised by Prof. Xiangdong Zhou, and a B.S. degree in Computer Science from Fudan University in 2007. (CV, Google Scholar)
+
+
+Research Interests
+
+My research interests primarily focus on robotics and computer vision. I am interested in studying how can an intelligent system or a robot understand its 3D environment from sensing and accomplish tasks in the real world, which is a very challenging and unsolved problem. Perception serves as an interface between an intelligent system and the 3D world, which provides useful information for planning and control of the system in conducting different tasks. I am interested in integrating perception, planning and control in a systematic way and deploying robots in the real world which are capable of accomplishing tasks for humans. I apply machine learning, especially deep learning, to tackle the challenges in robot perception. I explore how to introduce domain knowledge such as geometric constraints into a deep neural network architecture to learn a useful representation of the 3D environment for perception. I am also interested in how to learn a joint representation for perception, planning and control with deep neural networks, and how to enable robots to learn skills in a self-supervision way by interacting with the 3D environment.
+
+Intelligent Robotics and Vision Lab (IRVL) at UT Dallas.
+For perspective students, if you are interested in coming to UT Dallas to join my group as a Ph.D. student, please make sure that you have prerequisite or research experience on robotics. Then you can apply to the Ph.D. program in Computer Science and mention my name in your research statement.
+Publications
+Please check my recent publications from my group website here.
+3D Object Representations for Recognition (PDF)
+University of Michigan, PhD thesis, 2016.
+Graphical Models for Semantic Context Modeling in Automatic Image Annotation (PDF)
+Fudan University, Master thesis (in Chinese), Outstanding Master's Thesis Award of Shanghai, 2010.
+Talks
+Building Intelligent Robots in Human Environments (PDF)
+XPeng, Shenzhen, China, 6/6/2024.
+
+
+Do We Need 3D Representations for Robot Manipulation? (PDF)
+1st Workshop on 3D Visual Representations for Robot Manipulation, ICRA, Yokohama, Japan, 5/17/2024.
+
+
+Connecting 6D Object Pose Estimation with Robot Manipulation (PDF, Video)
+8th International Workshop on Recovering 6D Object Pose, ICCV, Paris, France, 10/23/2023.
+
+
+Object-Centric Perception for Robot Manipulation
+Texas Regional Robotics Symposium, Rice University, 4/14/2023 (PDF).
+Fudan University, 7/18/2023 (PDF).
+
+
+Segmenting Unseen Objects for Robotic Grasping (PDF, Video)
+Guest Lecture, University of Minnesota, Twin Cities (Online), 3/16/2023.
+
+
+Closed-loop 6D Robotic Grasping of Unseen Objects (PDF)
+Texas Regional Robotics Symposium, UT Austin, 4/29/2022.
+
+
+6D Robotic Grasping of Unseen Objects (PDF)
+Electronics and Telecommunications Research Institute, South Korea (Online), 8/19/2021.
+
+
+Perceive, Plan, Act and Learn: Towards Intelligent Robots in Human Environments (PDF)
+UNC, 2/24/2021; UT Dallas, 3/16/2021.
+
+
+Learning RGB-D Feature Embeddings for Unseen Object Instance Segmentation (PDF)
+In NVIDIA Research, Seattle, Washington, 10/12/2020.
+
+
+PoseRBPF: A Rao-Blackwellized Particle Filter for 6D Object Pose Tracking (PDF)
+In University of Washington, Seattle, Washington, 9/27/2019.
+
+
+Object Perception for Robot Manipulation (PDF)
+In Toyota Research Institute, Cambridge, Massachusetts, 7/12/2019.
+
+
+PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes (PDF)
+In Robotics: Science and Systems (RSS), CMU, Pittsburgh, Pennsylvania, 6/26/2018.
+
+
+Perceiving the 3D World from Images and Videos (PDF)
+Nvidia Research, Redmond, Washington, 11/07/2017; University of Michigan, 3/15/2018.
+
+
+3D Object Recognition and Scene Understanding from RGB-D Videos (PDF)
+GRASP Lab at Penn, 10/11/2017; Microsoft Research, 10/17/2017; Vision Lab at Stanford, 10/23/2017.
+
+
+3D Object Recognition and Scene Understanding (PDF)
+In Mitsubishi Electric Research Laboratories, Boston, Massachusetts, 7/14/2017.
+
+
+DA-RNN: Semantic Mapping with Data Associated Recurrent Neural Networks (PDF)
+In Robotics: Science and Systems (RSS), MIT, Massachusetts, 7/13/2017.
+
+
+Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection (PDF)
+In IEEE Winter Conference on Applications of Computer Vision, Santa Rosa, California, 3/29/2017.
+
+
+3D Object Recognition (PDF)
+In the International Conference on 3D Vision, Stanford University, 10/28/2016.
+
+
+3D Object Representations for Recognition (PDF)
+VASC Seminar, CMU, 3/28/2016; University of Toronto, 4/4/2016; MIT, 4/12/2016; UC Berkeley, 4/21/2016; UIUC, 5/5/2016; University of Washington, 5/31/2016.
+
+
+3D Object Detection and Pose Estimation (PDF)
+In the 1st International Workshop on Recovering 6D Object Pose in conjunction with ICCV, Santiago, Chile, 12/17/2015.
+
+
+Learning to Track: Online Multi-Object Tracking by Decision Making (PDF)
+In International Conference on Computer Vision, Santiago, Chile, 12/16/2015.
+
+
+Data-Driven 3D Voxel Patterns for Object Category Recognition (PDF)
+In IEEE Conference on Computer Vision and Pattern Recognition, Boston, Massachusetts, 06/08/2015.
+
+
+Monocular Multiview Object Tracking with 3D Aspect Parts (PDF)
+In the 1st Stanford-SNU Workshop on Automated Driving, Stanford University, 02/24/2015.
+
+
+Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild (PDF)
+In IEEE Winter Conference on Applications of Computer Vision, Steamboat Springs, Colorado, 03/24/2014.
+
+
+Object Detection by 3D Aspectlets and Occlusion Reasoning (PDF)
+In the 4th International IEEE Workshop on 3D Representation and Recognition in conjunction with ICCV, Sydney, Australia, 12/08/2013.
+
+
+Estimating the Aspect Layout of Object Categories (PDF)
+In Midwest Vision Workshop, University of Illinois at Urbana-Champaign, 09/21/2012.
+Links
+Intelligent Robotics and Vision Lab at the University of Texas at Dallas
+Robotics and State Estimation Lab at the University of Washington
+Computational Vision and Geometry Lab at Stanford University
+My Google Scholar Citations
+My github
+	
+

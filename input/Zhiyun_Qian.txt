@@ -1,0 +1,57 @@
+Professor: Zhiyun Qian
+University: Univ. of California - Riverside
+URL: http://www.cs.ucr.edu/~zhiyunq
+Description: Zhiyun Qian
+	Email: zhiyunqcs.ucr.edu
+Office: Winston Chung Hall 334
+Phone number: 951-827-6438	
+Home
+Publications
+Teaching
+	Zhiyun Qian is the Everett and Imogene Ross professor in Computer Science and Engineering department at University of California Riverside.
+
+He has a broad interest in system/network security, with the general theme of vulnerability discovery and analysis, system building, and measurement. He has a well-rounded understanding of computer systems including operating systems, software, network protocols, architecture, and their interactions. The techniques he applies include program analysis, reverse engineering, fuzzing, model checking, and AI / machine learning. More recently he is most passionate about building impactful systems and tools.
+Group Github page: https://github.com/seclab-ucr ★ Star 3808
+
+Besides research, he has also successfully competed with his students in various hacking competitions such as Pwn2Own and GeekPwn.
+
+
+To prospective students:  I'm looking for students with a strong interest in security. Experiences in hacking, CTF, program analysis, testing, or machine learning/AI would be advantageous. If you are interested, feel free to drop me an email and introduce yourself!
+
+Selected research threads:
+
+• System security	
+
+Keywords: bridging the gap between the hacking community and academia, automation, applied formal methods
+
+- Automated cyber attacks and defenses: [Exploitability analysis of kernel heap OOB write bugs] [Exploitability analysis of syzbot bugs] [macOS syscall description generation] [Linux/Android syscall description generation]
+
+- Vulnerability discovery: [Cross-entry static analysis] [Bottom-up summary-based whole-kernel static analysis] [Incremental static analysis] [Reinforcement-learning-based kernel fuzzing]
+
+- Systems/Tools for better security analysis: [Automatic patch presence test in binaries] [Dynamic analysis support of Android device drivers]
+
+- Vulnerability discovery and analysis across Android software stack: [Android root] [ION driver] [Permission inconsistency] [Inherited IPC interface from Linux] [Input validation flaws]
+
+
+• Network security	
+
+Keywords: discovering and modeling novel threats, cross-layer analysis, applied formal methods
+
+- TCP side channels, allowing the hijack of arbitrary connections on the Internet: CVE-2016-5696, GeekPwn 2016 most creative idea award, Geekpwn 2017 winner award (unfixable flaw), applied networking research prize
+
+- Multi-Path TCP flaws: [Safer than TCP?] [IETF discussion & patch]
+
+- Firewall Testing and Evasion: [Reverse Engineering Firewall Behaviors] [Automated Evasion Attemp Generation]
+
+- Reviving DNS cache poisoning attacks  [Against DNS forwarders] [Against DNS resolvers and others]
+
+Selected professional activities:
+
+Program Committee, IEEE Security and Privacy (Oakland) 2023, 2021, 2020, 2019
+Program Committee, ACM Conference on Computer and Communications Security (CCS) 2019, 2018, 2017, 2016, 2014
+Program Committee, USENIX Security 2021
+Program Committee, Network & Distributed System Security (NDSS) 2021, 2020, 2019, 2013
+Program Committee, ACM Internet Measurement Conference (IMC) 2018, 2017
+Program Committee, AsiaCCS 2016, 2014
+Program Committee, Mobisys 2014 
+

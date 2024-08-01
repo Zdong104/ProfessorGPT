@@ -1,0 +1,225 @@
+Professor: Y. Charlie Hu
+University: Purdue University
+URL: https://engineering.purdue.edu/~ychu
+Description:  Y. Charlie Hu
+Michael and Katherine Birck Professor of Electrical and Computer Engineering
+Professor of Computer Science (by courtesy)
+Systems and Networking Group
+PurNET Lab
+Purdue University
+(See also the official home page)
+Address: Purdue University, Elmore Family School of ECE, EE Building, 465 Northwestern Ave., West Lafayette, Indiana 47907-2035
+Phone: 765-494-9143
+
+Links: Google Scholar, Press, Awards, Software Release, Talks, 15 Rep. Papers, Ph.D. Graduates, Publications (by date  by type)
+
+News:
+
+Students: I am looking for PhD students with strong system building skills to join our excitig 5G/Edge Computing/ML research. Please email me.
+
+Y. Charlie Hu's research interests are in Mobile Systems, Distributed Systems, Operating Systems, and Computer Networks.
+
+He is an ACM Distinguished Scientist and an IEEE Fellow. He received his Ph.D. in Computer Science from Harvard in 1997. He is a recipient of the Honda Initiation Grant Award, NSF CAREER Award, Purdue University College of Engineering Early Career Research Award, Purdue University Faculty Scholar, Purdue PRF Innovator Hall of Fame, and Purdue Engineering Most Impactful Faculty Inventors of 2019 and 2020. He has served as a General Co-Chair of ACM SIGCOMM 2014, and Program Committee Co-Chair of ACM MobiCom 2016, ACM SIGOPS EuroSys 2018, and IEEE ICNP 2021. Since 2010, his research group has conducted ground-breaking work on energy profiling and energy debugging on smartphones which has been widely covered by over 500 news media such as ABC News, NBC News, BBC, Times of India, MIT Tech Review, and Scientific American. Many of the technologies have been adopted by the mobile industry and are helping to extend the battery life of hundreds of millions of smartphones. His pioneering work on smartphone energy management has been recognized with ACM SIGOPS EuroSys 2012 Best Student Paper Award, ACM MobiCom 2022 Best Community Paper Award, 2022 ACM SIGOPS EuroSys Test-of-Time Papar Award, and 2023 ACM SIGMOBILE Test-of-Time Papar Award, as well as Industry awards including Google Research Award and Qualcomm Faculty Award.
+
+Selected Publications
+Latency-critical Applications (AR/VR, Video Analytics) and 5G Edge Computing
+ARISE: High-Capacity AR Offloading Inference Serving via Proactive Scheduling (MobiSys 2024)
+AccuMO: Accuracy-Centric Multitask Offloading in Edge-Assisted Mobile Augmented Reality (MobiCom 2023)
+BystandAR: Protecting Bystander Visual Data in Augmented Reality Systems (MobiSys 2023)
+Modeling and Generating Control-Plane Traffic for Cellular Networks (IMC 2023, Best Paper Award Runner-up)
+Performance of Cellular Networks on the Wheels (IMC 2023)
+Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning (SenSys 2022)
+Can 5G mmWave Support Multi-user AR? (PAM 2022)
+Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices (ASPLOS 2020)
+How to Evaluate Mobile 360-degree Video Streaming Systems? (HotMobile 2020)
+Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications (IMC 2018)
+Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Devices (MobiCom 2017) (300 cites Google Scholar)
+
+Machine Learning at the Edge
+Why is the video analytics accuracy fluctuating, and what can we do about it? (ECCV AROW 2022)
+Do We Need Sophisticated System Design for Edge-assisted Augmented Reality? (EdgeSys 2022, Best Paper Award)
+Do Larger (More Accurate) DNN Models Help in Edge-Assisted AR? (SIGCOMM NAI 2021)
+AQuA: Analytical Quality Assessment for Optimizing Video Analytics Systems (Symp. Edge Computing 2021)
+
+Energy Profiling, Debugging, and Analytics: The Foundation of AEM (App Energy Management)
+Experience: Developing a Usable Battery Testing and Diagnostic Tool for the Mobile Industry (ACM MobiCom 2021, Best Community Paper Award)
+Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices (USENIX ATC 2021)
+How much battery does dark mode save? An Accurate OLED Display Power Profiler for Modern Smartphones (MobiSys 2021) (press)
+Why is my app draining more battery? Energy Optimization via Diffing Similar Apps (OSDI 2018)
+A Fine-grained Event-based Modem Power Model for Enabling In-depth Modem Energy Drain Analysis (Sigmetrics 2018)
+GfxDoctor: A Holistic Graphics Energy Profiler for Mobile Devices (EuroSys 2017)
+Unsafe Time Handling in Smartphones (USENIX ATC 2016)
+Smartphone Background Activities in the Wild: Origin, Analysis and Optimization (MobiCom 2015) (read BBC and Internet-wide media coverage 100 cites Google Scholar)
+Smartphone Energy Drain in the Wild: Analysis and Implications (Sigmetrics 2015) (Podcast by Scientific American) (150 cites in Google Scholar)
+On Death, Taxes, and Sleep Disorder Bugs in Smartphones (HotPower 2013)
+How Much Energy Can We Save from Prefetching Ads? Energy Drain Analysis of Top 100 Apps (HotPower 2013)
+Hypnos: Understanding and Treating Sleep Conflicts in Smartphones (EuroSys 2013)
+Characterizing and Modeling the Impact of Wireless Signal Strength on Smartphone Battery Drain (Sigmetrics 2013) (270 cites in Google Scholar)
+What is keeping my phone awake? Characterizing and Detecting No-Sleep Energy Bugs in Smartphone Apps (MobiSys 2012) (370 cites in Google Scholar)
+Where is the energy spent inside my app? Fine Grained Energy Accounting on Smartphones with Eprof (EuroSys 2012, Best Student Paper Award, 2022 ACM SIGOPS EuroSys Test-of-Time Paper Award, 2023 ACM SIGMOBILE Test-of-Time Paper Award) (900 cites in Google Scholar)
+Fine-Grained Power Modeling for Smartphones Using System Call Tracing (EuroSys 2011) (500 cites in Google Scholar)
+Bootstrapping Energy Debugging on Smartphones: A First Look at Energy Bugs in Mobile Devices (HotNets 2011) (300 cites in Google Scholar)
+
+Data Center Networking, Cloud Computing
+A Case for Task Sampling based Learning for Cluster Job Scheduling (NSDI 2022)
+Your Coflow has Many Flows: Sampling Them for Fun and Speed (USENIX ATC 2019)
+Cloud-scale Load Balancer - Episode III: Yoda: A Highly Available Layer-7 Load Balancer (EuroSys 2016)
+Cloud-scale Load Balancer - Episode II: Unlocking the Power of Locality and End-point Flexibility in Cloud Scale Load Balancer (USENIX ATC 2015)
+Cloud-scale Load Balancer - Episode I: Duet: Cloud Scale Load Balancing with Hardware and Software (SIGCOMM 2014) (250 cites)
+On the impact of packet spraying in data center networks (INFOCOM 2013) (300 cites)
+The Only Constant is Change: Incorporating Time Varying Network Reservations in Data Centers (SIGCOMM 2012) (350 cites in Google Scholar)
+The TCP Outcast Problem: Exposing Unfairness in Data Center Networks (NSDI 2012) (120 cites)
+On the Efficacy of Fine-Grained Traffic Splitting Protocols in Data Center Networks (Sigmetrics 2012 Ext. Abs.)
+Latency Inflation with MPLS-based Traffic Engineering (IMC 2011)
+Optimizing Cost and Performance in Online Service Provider Networks (NSDI 2010) (150 cites in Google Scholar)
+
+Operating Systems / Buffer Cache Management
+The Performance Impact of Kernel Prefetching on Buffer Cache Replacement Algorithms (SIGMETRICS 2005, IEEE TC 2007, Software Release) (175 cites in Google Scholar)
+Program Counter Based Pattern Classification in Buffer Caching (OSDI 2004) (150 cites in Google Scholar)
+Program Counter Based Prediction Techniques for Dynamic Power Management (HPCA 2004, IEEE TC 2006)
+
+
+Wireless Networking
+Pacifier: High-Throughput, Reliable Multicast without "Crying Babies" in Wireless Mesh Networks. (ToN 2012, Software Release) (130 cites Google Scholar)
+CCACK: Efficient Network Coding Based Opportunistic Routing through Cumulative Coded Acknowledgments (ToN 2011) (240 cites Google Scholar)
+Context Based Routing: Technique, Applications and Experience (NSDI 2008)
+How to evaluate exotic wireless routing protocols? (HotNets 2008)
+
+
+Computer Networks: BGP Hijacking
+iSPY: Detecting IP Prefix Hijacking on My Own (SIGCOMM 2008, ToN 2010) (240 cites in Google Scholar)
+Practical Defenses Against BGP Prefix Hijacking (CoNEXT 2007)
+Understanding Network Delay Changes Caused by Routing Events (SIGMETRICS 2007)
+On the Impact of Research Network Based Testbeds on Wide-area Experiments (IMC 2006)
+
+Exploiting the Synergy between Peer-to-Peer and Mobile Ad Hoc Networks (HotOS 2003) (160 cites in Google Scholar)
+Runtime Support for Distributed Sharing in Safe Languages (ACM TOCS 2003)
+
+Selected Recent Projects:
+"NeTS: Medium: Black-box Optimization of White-box Networks: Online Learning for Autonomous Resource Management in NextG Wireless Networks." NSF, 202302026. Project website.
+NSF-Intel "SPLICE: Secure Predictive Low-Latency Information Centric Edge for Next Generation Wireless Networks." National Science Foundation (NSF) and Intel, 2017-2020. Project website.
+Smartphone Systems and Networking
+Data Center Networking
+Software Releases and Datasets
+TraffGen: 1st Cellular network control-plane traffic generator (see our IMC 2023 paper)
+AccuSim: Accurate Buffer Cache Simulator
+iSPY: Detecting IP Prefix Hijacking on My Own (Zheng's itraceroute)
+Pacifier: High-througput, reliable multicast for Mesh Networks
+
+Cellular dataset under driving from our IMC 2023 paper.
+Uplink 5G mmWave dataset from our SIGCOMM 5G-MeMU 2022 paper.
+Multi-user AR over 5G dataset from our PAM 2022 paper.
+60 GHz throuphput prediction dataset from our PAM 2021 paper. (Best Dataset Award)
+Funding
+Research in our group has been supported by
+National Science Foundation
+Semiconductor Research Corporation
+Purdue Research Foundation
+Honda R&D Americas
+Cisco Systems
+Intel Corp.
+Narus Inc.
+Google Research Award
+Qualcomm Technologies
+Charter Communications
+NEC Labs America
+AT&T Labs
+
+Ph.D Students
+Pranab Dash
+Z. Jonny Kong
+Omar Basit (co-advised with Prof. Shahbaz)
+Zeeshan Hussain
+Shilpa Noushad (MS)
+Note to applicants
+Past Postdoc
+Dimitrios Koutsonikolas
+Ph.D. (21) and M.S. Graduates and Undergraduate Research
+In Academia:
+Chris Gniady (Ph.D 2005, Associate Professor, Computer Science Dept., University of Arizona, NSF CAREER Award 2009)
+Ali R. Butt (Ph.D 2006, Professor, Computer Science Dept., Virginia Tech, NSF CAREER Award 2008)
+Dimitrios Koutsonikolas (Ph.D 2010, Associate Professor, Northeastern University, NSF CAREER Award 2016)
+Abhilash Jindal (Ph.D 2017, Assistant Professor, Computer Science Dept., IIT Delhi)
+Jiayi Meng (Ph.D 2023, Assistant Professor, Computer Science Dept., UT Arlington)
+Startup Entprepreneurs:
+Sunil Patro (M.S. 2003, Founder & CEO, SignEasy)
+Saumitra Das (Ph.D 2007, Qualcomm Research --> CTO and Co-Founder, Blue Hexagon)
+Advait Dixit (with Prof. Ramana Kompella) (Ph.D 2014, Barefoot Networks --> Founding member, Stealth Startup)
+Abhilash Jindal (Ph.D 2017, Co-Founder, Mobile Enerlytics)
+Industry Innovators:
+Shuo Yang (with Prof. Sam Midkiff) (Ph.D 2006, Google --> Huawei USA)
+Rongmei Zhang (Ph.D 2006, Google --> Facebook)
+Himabindu Pucha (Ph.D 2007, CMU postdoc --> IBM Almaden Research --> Google)
+Zheng Zhang (Ph.D 2009, Knight Capital Group Holdings --> Two Sigma)
+Abhinav Pathak (Ph.D 2012, Apple -- World's Most Exciting Company!)
+Di Xie (Ph.D 2013, Google)
+Pawan Prakash (with Prof. Ramana Kompella) (Ph.D 2013, AppFormix --> Salesforce)
+S. M. Iftekharul Alam (with Prof. Sonia Fahmy) (Ph.D 2015, Intel Labs)
+Rohan Gandhi (Ph.D 2016, Microsoft Research)
+Ning Ding (Ph.D 2017, Apple)
+X. Mona Chen (Ph.D 2017, Apple)
+Akshay Jajoo (Ph.D 2020, Cisco Research)
+Sibendu Paul (Ph.D 2022, Amazon Prime Video)
+Qiang Xu (Ph.D 2024, NVIDIA - the new World's most Exciting Company)
+
+Himabindu Pucha (M.S. 2003, Purdue ECE PhD program)
+Sabyasachi Roy (M.S. 2007, VMware --> Facebook)
+Rittvik Saran Jai (M.S. 2024, Qualcomm)
+
+Undergraduate Research
+Will Forman (2022-2023)
+Zeqi Lai (2017, Visiting student, Tsinghua University --> Assistant Professor, Tsinghua University)
+Chengze Fan (2017, Visiting student, Tsinghua University --> Facebook)
+Teaching
+ECE 695 Introduction to Operating Systems (Fall 2024, 2023, 2022, 2021, 2020)
+ECE 673 Distributed Computing Systems (Spring 2022, 2020, 2019, Fall 2016, 2014, 2012, 2011, 2010, 2007-2002)
+ECE 595 Introduction to Operating Systems (Fall 2019, 2018, Spring 2017)
+ECE 469 Operating Systems Engineering (Spring 2023, 2015, 2014, 2013, 2011-2009, 2007-2005, 2003, 2002)
+ECE Wireless Networking Seminar (Spring 2011)
+ECE Wireless Networking Seminar (Fall 2010)
+
+Professional activities
+Steering Committee: ACM SIGOPS EuroSys
+
+Program Committees: (since 2010)
+EuroSys 2025,
+ASPLOS 2024, EuroSys 2024, MobiCom 2024, MobiSys 2024, ICNP 2024 Area Chair,
+SIGCOMM 2023, EuroSys 2023, MobiCom 2023, APNet 2023, ICNP 2023 Area Chair,
+EuroSys 2022, MobiCom 2022, ICNP 2022 Area Chair,
+EuroSys 2021, MobiSys 2021, MobiCom 2021, APNet 2021,
+OSDI 2020, EuroSys 2020, MobiSys 2020, ASPLOS 2020 ext, MobiCom 2020,
+EuroSys 2019, MobiSys 2019 ext, ASPLOS 2019 ext,
+MobiSys 2018, MobiCom 2018, APNet 2017, MobiSys 2017, MobiCom 2017,
+OSDI 2016, EuroSys 2016, MobiSys 2016 ext, ASPLOS 2016 ext,
+MobiSys 2015 ext, ASPLOS 2015 ext, Sigmetrics 2015, MobiCom 2015,
+NeTS Early Career Workshop 2015, EuroSys 2014, MobiSys 2014 ext,
+EuroSys 2013, CoNEXT 2013, Sigmetrics 2013, Hotpower 2013,
+Sigmetrics 2012, CoNEXT 2012, Sigmetrics 2011, IFIP Performance 2011
+
+
+PC Co-Chair, ICNP 2021
+PC Co-Chair, EuroSys 2018
+PC Co-Chair, MobiCom 2016
+PC Co-Chair, HotPower 2015
+General Co-Chair, SIGCOMM 2014
+Publication Chair, SIGCOMM 2013
+Publicity Co-Chair, Sigmetrics 2012
+PC Vice Chair, SBAC PAD 2009
+PC Vice Chair, IEEE ICDCS 2007
+PC Vice Chair, International Conference on Parallel Processing (ICPP) 2004
+Links
+The Arizona Cam -- Purdue Mall Cam -- UCSB Surf Cam
+Computer Science citations
+Networking Conference Statistics
+Distributed Shared Memory Bibliography
+Purdue Campus Map
+The Stanford Phd comic strip
+CS Ranking in China
+             o o O O O O O O O
+            o    _______
+            Y__'_|_|_|_| --++++++--
+           |__|__| GO ||| BOILERS! |
+          (|____|_____|:|__________|
+           //oo-----oo      oo---oo
+
+

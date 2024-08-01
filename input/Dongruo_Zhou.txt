@@ -1,0 +1,429 @@
+Professor: Dongruo Zhou
+University: Indiana University
+URL: https://sites.google.com/view/drzhou
+Description: Skip to main content
+Skip to navigation
+Dongruo Zhou's homepage
+Dongruo Zhou
+Assistant Professor, Department of Computer Science,  
+Indiana University Bloomington.
+
+Email: dz13 at iu dot edu
+
+Address: Luddy Hall RM 3130, 700 North Woodlawn Avenue, Bloomington, IN, 47408-3901
+
+[Google Scholar] [Linkedin] [CV] 
+
+I received my Ph.D. from the University of California, Los Angeles, advised by Prof. Quanquan Gu. Previously I obtained my B.Sc from the Department of Mathematics Science, Tsinghua University. After that, I spent one year at the Department of System and Information Engineering (Engineering Systems and Environment), University of Virginia.
+
+My name is pronounced as DAWN-raw JOH.
+
+Research Interests
+
+My research interests are about foundation of machine learning. Specifically, I am interested in
+
+Foundation of sequential decision-making problems, including bandits and reinforcement learning (RL),
+
+Nearly optimal statistical complexity for RL with function approximation [COLT21] [NeurIPS22] [ICML23] [COLT23], 
+
+Provable contextual bandits with neural networks [ICML20] [ICLR21] [NeurIPS21],
+
+Foundation of optimization algorithms for deep learning,
+
+Nearly optimal sample complexity for stochastic gradient descent-based algorithms [NeurIPS18] [ICML19],
+
+Provable stochastic optimization algorithms escaping from saddle points [JMLR21] [ALT22].
+
+Recently, I have also been interested in decision-making algorithms for problems with complex structures (e.g., RL for large language model, hierarchal RL) from both algorithmic and systemic aspects. 
+
+Education
+
+2018 - 2023 University of California, Los Angeles,
+
+Ph.D. in Computer Science.
+
+2017 - 2018 University of Virginia,
+
+Ph.D. student in System and Information Engineering.
+
+2013 - 2017 Tsinghua University,
+
+Bachelor of Science in Pure and applied Mathematics.
+
+Publication
+(* indicates equal contribution and ** indicates alphabetic author order)
+Conference Publications
+
+Risk Bounds of Accelerated SGD for Overparameterized Linear Regression, 
+
+Xuheng Li, Yihe Deng, Jingfeng Wu, Dongruo Zhou, Quanquan Gu,
+
+International Conference on Learning Representations (ICLR), 2024. 
+
+
+
+
+DPAdapter: Improving differentially private deep learning through noise tolerance pre-training, 
+
+Zihao Wang*, Rui Zhu*, Dongruo Zhou, Zhikun Zhang, John Mitchell, Haixu Tang, and XiaoFeng Wang,
+
+USENIX, 2024.
+
+
+
+
+Provably efficient representation selection in Low-rank Markov Decision Processes: from online to offline RL, 
+
+Weitong Zhang, Jiafan He, Dongruo Zhou, Amy Zhang, Quanquan Gu,
+
+Uncertainty in Artificial Intelligence (UAI), 2023.
+
+
+
+
+Variance-Dependent Regret Bounds for Linear Bandits and Reinforcement Learning: Adaptivity and Computational Efficiency,
+
+Heyang Zhao, Jiafan He, Dongruo Zhou, Tong Zhang, Quanquan Gu,
+
+Conference on Learning Theory (COLT), 2023.
+
+
+
+
+Nearly Minimax Optimal Regret for Learning Linear Mixture Stochastic Shortest Path, 
+
+Qiwei Di, Jiafan He, Dongruo Zhou, Quanquan Gu, 
+
+International Conference on Machine Learning (ICML), 2023.
+
+
+
+
+Nearly Minimax Optimal Reinforcement Learning for Linear Markov Decision Processes, 
+
+Jiafan He, Heyang Zhao, Dongruo Zhou, Quanquan Gu, 
+
+International Conference on Machine Learning (ICML), 2023.
+
+
+
+
+Optimal Online Generalized Linear Regression with Stochastic Noise and Its Application to Heteroscedastic Bandits, 
+
+Heyang Zhao, Dongruo Zhou, Jiafan He, Quanquan Gu, 
+
+International Conference on Machine Learning (ICML), 2023.
+
+
+
+
+Nearly Optimal Algorithms for Linear Contextual Bandits with Adversarial Corruptions, 
+
+Jiafan He, Dongruo Zhou, Tong Zhang, Quanquan Gu, 
+
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+
+
+
+
+Computationally Efficient Horizon-Free Reinforcement Learning for Linear Mixture MDPs,
+
+Dongruo Zhou, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2022; Oral. [code]
+
+
+
+
+Learning Two-Player Markov Games: Neural Function Approximation and Correlated Equilibrium,
+
+Chris Junchi Li*, Dongruo Zhou*, Quanquan Gu, Michael I. Jordan, 
+
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+
+
+
+
+Dimension-free Complexity Bounds for High-order Nonconvex Finite-sum Optimization,
+
+Dongruo Zhou, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2022.
+
+
+
+
+Learning Neural Contextual Bandits through Perturbed Rewards,
+
+Yiling Jia, Weitong Zhang, Dongruo Zhou, Quanquan Gu, Hongning Wang, 
+
+International Conference on Learning Representations (ICLR), 2022. 
+
+
+
+
+Nearly Minimax Optimal Regret for Learning Infinite-horizon Average-reward MDPs with Linear Function Approximation,
+
+Yue Wu, Dongruo Zhou, Quanquan Gu,
+
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
+
+
+
+
+Near-optimal Policy Optimization Algorithms for Learning Adversarial Linear Mixture MDPs,
+
+Jiafan He, Dongruo Zhou, Quanquan Gu,
+
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
+
+
+
+
+Faster Perturbed Stochastic Gradient Methods for Finding Local Minima,
+
+Zixiang Chen*, Dongruo Zhou*, Quanquan Gu,
+
+Algorithmic Learning Theory (ALT), 2022.
+
+
+
+
+Almost Optimal Algorithms for Two-player Markov Games with Linear Function Approximation,
+
+Zixiang Chen, Dongruo Zhou, Quanquan Gu,
+
+Algorithmic Learning Theory (ALT), 2022.
+
+
+
+
+Uniform-PAC Bounds for Reinforcement Learning with Linear Function Approximation,
+
+Jiafan He, Dongruo Zhou, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Pure Exploration in Kernel and Neural Bandits,
+
+Yinglun Zhu*, Dongruo Zhou*, Ruoxi Jiang*, Quanquan Gu, Rebecca Willett, Robert D. Nowak,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021. [code]
+
+
+
+
+Variance-Aware Off-Policy Evaluation with Linear Function Approximation,
+
+Yifei Min*, Tianhao Wang*, Dongruo Zhou, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Provably Efficient Reinforcement Learning with Linear Function Approximation under Adaptivity Constraints,
+
+Tianhao Wang*, Dongruo Zhou*, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Reward-Free Model-Based Reinforcement Learning with Linear Function Approximation,
+
+Weitong Zhang, Dongruo Zhou, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Iterative Teacher-Aware Learning,
+
+Luyao Yuan, Dongruo Zhou, Junhong Shen, Jingdong Gao, Jeffrey L Chen, Quanquan Gu, Ying Nian Wu, Song-Chun Zhu
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Nearly Minimax Optimal Reinforcement Learning for Discounted MDPs,
+
+Jiafan He, Dongruo Zhou, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2021.
+
+
+
+
+Nearly Minimax Optimal Reinforcement Learning for Linear Mixture Markov Decision Processes,
+
+Dongruo Zhou, Quanquan Gu, Csaba Szepesvári, 
+
+Conference on Learning Theory (COLT), 2021.
+
+
+
+
+Logarithmic Regret for Reinforcement Learning with Linear Function Approximation,
+
+Jiafan He, Dongruo Zhou, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2021.
+
+
+
+
+Provably Efficient Reinforcement Learning for Discounted MDPs with Feature Mapping,
+
+Dongruo Zhou, Jiafan He, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2021. 
+
+
+
+
+Neural Thompson Sampling,
+
+Weitong Zhang, Dongruo Zhou, Lihong Li, Quanquan Gu,
+
+International Conference on Learning Representations (ICLR), 2021. [code]
+
+
+
+
+Neural Contextual Bandits with UCB-based Exploration,
+
+Dongruo Zhou, Lihong Li, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2020. [slides] [code]
+
+
+
+
+Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks,
+
+Jinghui Chen, Dongruo Zhou, Yiqi Tang, Ziyan Yang, Yuan Cao, Quanquan Gu,
+
+International Joint Conference on Artificial Intelligence (IJCAI), 2020. [code]
+
+
+
+
+Accelerated Factored Gradient Descent for Low-Rank Matrix Factorization,
+
+Dongruo Zhou, Yuan Cao, Quanquan Gu, 
+
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020. 
+
+
+
+
+Stochastic Recursive Variance-Reduced Cubic Regularization Methods,
+
+Dongruo Zhou, Quanquan Gu, 
+
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020. 
+
+
+
+
+A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks,
+
+Jinghui Chen, Dongruo Zhou, Jinfeng Yi, Quanquan Gu, 
+
+Association for the Advancement of Artificial Intelligence (AAAI), 2020.
+
+
+
+
+Lower Bounds for Smooth Nonconvex Finite-Sum Optimization,
+
+Dongruo Zhou, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2019.
+
+
+
+
+Stochastic Nested Variance Reduction for Nonconvex Optimization,
+
+Dongruo Zhou, Pan Xu, Quanquan Gu,
+
+Advances in Neural Information Processing Systems (NeurIPS), 2018; Spotlight.
+
+
+
+
+Stochastic Variance-Reduced Cubic Regularized Newton Methods,
+
+Dongruo Zhou, Pan Xu, Quanquan Gu,
+
+International Conference on Machine Learning (ICML), 2018.
+
+
+
+Journal Publications
+
+On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization,
+
+Dongruo Zhou*, Jinghui Chen*, Yuan Cao*, Ziyan Yang, Quanquan Gu.
+
+Transactions on Machine Learning Research (TMLR), 2024.
+
+
+
+
+Batched Neural Bandits,
+
+Quanquan Gu**, Amin Karbasi**, Khashayar Khosravi**, Vahab Mirrokni**, Dongruo Zhou**,
+
+ACM/IMS Journal of Data Science, 2024.
+
+
+
+
+Stochastic Nested Variance Reduction for Nonconvex Optimization,
+
+Dongruo Zhou, Pan Xu, Quanquan Gu,
+
+Journal of Machine Learning Research (JMLR), 2020.
+
+
+
+
+Stochastic Variance-Reduced Cubic Regularized Newton Methods,
+
+Dongruo Zhou, Pan Xu, Quanquan Gu,
+
+Journal of Machine Learning Research (JMLR), 2019.
+
+
+
+
+Stochastic Gradient Descent Optimizes Over-parameterized Deep ReLU Networks,
+
+Difan Zou*, Yuan Cao*, Dongruo Zhou, Quanquan Gu.
+
+Machine Learning Journal (MLJ), 2019. 
+
+
+
+Workshop Publications
+
+Provable Multi-Objective Reinforcement Learning with Generative Models,
+
+Dongruo Zhou, Jiahao Chen, Quanquan Gu,
+
+Challenges of Real-World RL (RWRL), NeurIPS, 2020.
+
+
+
+Google Sites
+Report abuse
+

@@ -1,0 +1,239 @@
+Professor: Kevyn Collins-Thompson
+University: University of Michigan
+URL: http://www-personal.umich.edu/~kevynct
+Description: 	
+
+Kevyn Collins-Thompson
+
+	
+
+ 
+
+
+Associate Professor of Information
+Associate Professor of Electrical Engineering and Computer Science
+University of Michigan
+School of Information and College of Engineering (affiliate)
+Phone: +1-734-615-2132
+Fax: +1-734-615-3587
+Email: kevynct AT umich . edu
+
+	
+
+Mailing Address:
+School of Information
+3344 North Quad
+105 S. State Street
+Ann Arbor, MI 48109-1285
+
+	
+
+ 
+
+
+			
+
+I am an associate professor with tenure at the University of Michigan (Ann Arbor), with appointments in the School of Information and College of Engineering, Dept. of Electrical Engineering and Computer Science (affiliate, CSE Division). I am also an affiliate faculty member of the Artificial Intelligence Lab and the Michigan Institute for Data Science (MIDAS).
+
+As of June 1, 2022 I am also the academic director of the Masters of Applied Data Science program, the largest online degree program at the University of Michigan.
+
+Since 2019 I have been a regular visiting researcher at INRIA, France's national research institute for computer science, first in Bordeaux and then also Universite Cote d'Azur, SophiaTech campus
+
+Spanning 20 years of academic and industry research, my work blends information retrieval, machine learning, natural language processing, and large-scale data mining to optimally connect people with information, especially to help them learn and discover.
+
+If you're interested in joining my lab as a graduate student, please apply through the regular admissions process (in either Information or Computer Science) and mention my name and your connection to my lab's research areas in your graduate school application. Unfortunately, I cannot respond to individual emails.
+
+News
+Feb 15 2022: I've been appointed the next academic director for the Master of Applied Data Science program at the University of Michigan, starting June 1, 2022.
+Dec 15 2020: I've been named an ACM Distinguished Member "for outstanding scientific contributions to computing". Thanks to my wonderful students and other collaborators.
+For my sabbatical year 2019-2020 I was a visiting researcher in France at Inria, France's national research institute for computer science.
+Sept 1 2019: Honored to receive the Michael D. Cohen Outstanding Service Award from the University of Michigan School of Information.
+June 30 2019: I'll be a keynote speaker at LILE 2019, Learning and Education with Web Data, collocated with ACM WebSci 2019, Boston.
+Oct 1 2018: Qiaozhu Mei and I received an ACM Recognition of Service Award for our work as General Chairs of ACM SIGIR 2018 in Ann Arbor.
+July-August 2018: Visiting researcher at Microsoft Research AI.
+Mar 15 2018: My PhD student Rohail Syed has won a Best Student Paper award at the ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR).
+Mar 15 2018: I've been named co-winner of Coursera's Outstanding Educator Award.
+Feb 12-13, 2018: Visiting RMIT Computer Science, Melbourne, Australia.
+Feb 5 2018: Participating in the VC/Industry Day panel at WSDM 2018 (Los Angeles) on academic vs industry careers.
+Oct 27 2017: I'll be presenting recent research at Carnegie Mellon's LTI Colloquium on Fri. Oct 27.
+Feb 2017: Here's the homepage for our Dagstuhl Seminar on Searching as Learning, co-organized with Claudia Hauff and Preben Hansen.
+Older news
+
+Major contributions
+Pioneered the use of statistical machine learning to predict text difficulty, with an extensive body of research on varied aspects of this problem.
+My 2008 PhD dissertation introduced risk-aware information retrieval. In my paper published at NeurIPS 2008, I showed how convex optimization problems inspired by portfolio theory and methods from financial risk modeling could be used to create and evaluate robust search and recommender systems. By formulating risky operations like query expansion as robust convex optimization problems, I showed how systems could achieve much better worst-case performance with little or no reduction in strong average-case performance.
+I am fascinated by how people learn language. With cognitive psychology colleagues, we published a series of papers over time on effective strategies for learning new vocabulary from context, and we've applied our research to helping middle-school kids in Atlanta and Pittsburgh improve their literacy skills.
+My group has also helped establish the new field of searching as learning, and we published the first search engine ranking algorithm to incorporate a cognitive model of content difficulty along with general relevance.
+Research directions
+
+My general research approach focuses on human-centered scenarios in machine learning, like systems that can help improve a child's literacy skills. These human-centered problems are often not well-solved by traditional machine learning frameworks whose optimization objectives ignore (for example) human cognitive abilities in processing information. To address this, my collaborators and I formalize new types of learning optimization problems that can also account for important external goals, constraints or sources of difficulty or uncertainty, develop practical algorithms to solve the theoretical problem (approximately) that are tractable and deployable, and then conduct user lab studies or large-scale online experiments to assess the real-world success of the approach (and iterating if necessary, based on what we learned).
+
+Example products of my research have included include search engines that can deliver the right kind of personalized information at the right time, and intelligent tutoring systems that learn when and how to be most helpful in teaching a particular student. Building effective, reliable systems like these will require new theoretical, algorithmic, and methodological advances in multiple research areas, including machine learning, optimization, information retrieval, and human-computer interaction. My current research is centered on education, but I'm also interested in mobile and health-related applications.
+
+Brief bio
+
+Before joining the University of Michigan in Fall 2013, I was a researcher at Microsoft Research, in the Context, Learning, and User Experience for Search (CLUES) Group.
+
+My Ph.D. is from the School of Computer Science at Carnegie Mellon University, where my advisor was Jamie Callan I was a member of the Language Technologies Institute. My undergraduate degree is a B.Math. in Computer Science from the University of Waterloo. Apparently, I'm not the only one who thinks that CMU and Waterloo are a great combination!
+Publications
+2023-24
+ Dima El Zein, Ryan Burton, Arpitha Ghanate, Celia da Costa Pereira and Kevyn Collins-Thompson (2024) A Qualitative Exploration of Conversational LLM Assistance for Technical Reading. Proceedings of Educational Data Mining 2024 Workshop on Writing and Literacy Instruction. Atlanta, USA.
+ T. Arif, S. Asthana, K. Collins-Thompson. (2024) Generation and Assessment of Multiple-Choice Questions from Video Transcripts using Large Language Models. Proceedings of Learning@Scale 2024. Atlanta, USA. (pdf)
+S. Asthana, K. Collins-Thompson. (2024) Towards Educational Theory of Mind for Generative AI: A Review of Related Literature and Future Opportunities. Proceedings of CHI 2024 Workshop on Theory of Mind in Human-AI Interaction. Honolulu, Hawaii. (pdf)
+S. J. Nam, K. Collins-Thompson, D. Jurgens, X. Tong. (2024) Finding Educationally Supportive Contexts for Vocabulary Learning with Attention-Based Models. Proceedings of LREC-COLING 2024. (pdf)
+S. Asthana, T. Arif, K. Collins-Thompson. (2023) Field experiences and reflections on using Large Language Models to generate comprehensive lecture metadata. Proceedings of the NeurIPS'23 Workshop on Generative AI for Education (GAIED). (pdf)
+2022
+S. Nam, D. Jurgens, G. Frishkoff, K. Collins-Thompson. (2022) An Attention-Based Model for Predicting Contextual Informativeness. ArXiv preprint
+R. Burton, K. Collins-Thompson. Visualisation to Aid Decision-Making for Time-Quality Tradeoffs in Search. IQIIR 2022 Workshop, ACM CHIIR 2022. (pdf) (Full paper)
+2021
+McCarthy, K. S., Crossley, S. A., Meyers, K., Boser, U., Allen, L. K., Chaudhri, V. K., Collins-Thompson, K., et al. (2021). Toward more effective and equitable learning: Identifying barriers and solutions for the future of online education. Technology, Mind, & Behavior.
+2020
+Rohail Syed, Kevyn Collins-Thompson, Paul Bennett, Mengqiu Teng, Shane Williams, Wendy Tay and Shamsi Iqbal. Improving Learning Outcomes with Gaze Tracking and Automatic Question Generation. Proceedings of The Web Conference 2020 (WWW 2020). Taipei, Taiwan. (pdf) (Full paper)
+2019
+U.S. Patent 10,579,652. Learning and using contextual content retrieval rules for query disambiguation.
+M. DeJonckheere, L. Nichols, V.G. Vydiswaran, X. Zhao, K. Collins-Thompson, K. Resnicow, T. Chang. Using Text Messaging, Social Media, and Interviews to Understand What Pregnant Youth Think about Weight Gain During Pregnancy. J. Medical Inform. Formative Research. 2019 Apr 1;3(2):e11397. doi: 10.2196/11397
+2018
+Jin Shang, Mingxuan Sun, and Kevyn Collins-Thompson. Demographic Inference via Knowledge Transfer in Cross-Domain Recommender Systems. Proceedings of ICDM 2018. Singapore, 2018, pp. 1218-1223.doi: 10.1109/ICDM.2018.00162
+Nalin Chhibber, Rohail Syed, Mengqiu Teng, Joslin Goh, Kevyn Collins-Thompson and Edith Law. Human Perception of Surprise: A User Study. SIGIR 2018 CompS18 Workshop on Computational Surprise. (pdf) [MIDAS Poster Award]
+Kevyn Collins-Thompson, Qiaozhu Mei, Brian D. Davison, Yiqun Liu, Emine Yilmaz: The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018. ACM 2018
+R. Syed, K. Collins-Thompson. Exploring Document Retrieval Features Associated with Improved Short- and Long-term Vocabulary Learning Outcomes. Proceedings of ACM CHIIR 2018. (Full paper) [Best Student Paper Award]
+2017
+R. Syed and K. Collins-Thompson. 2017. Retrieval Algorithms Optimized for Human Learning. In Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '17). ACM, New York, NY, USA, 555-564. (pdf)(Full paper)
+K. Collins-Thompson, P. Hansen, C. Hauff. Search as Learning: Report from Dagstuhl Seminar 17092, Feb. 2017. (pdf)
+H. Choi, Z. Wang, C. Brooks, K. Collins-Thompson, B.G. Reed, D. Fitch. Social work in the classroom? A tool to evaluate topical relevance in student writing. Proceedings of Educational Data Mining (EDM 2017), Wuhan, China. (pdf) (short paper)
+S. Nam, G. Frishkoff, K. Collins-Thompson. Predicting Students' Disengaged Behaviors in an Online Meaning-Generation Task. IEEE Transactions on Learning Technologies.
+S. Nam, G. Frishkoff, K. Collins-Thompson. Modeling Off-task Behaviors in a Meaning-Generation Task. In Measurement in Digital Environments White Paper Series, SRI. (pdf)
+R. Syed, K. Collins-Thompson. Optimizing Search Results for Human Learning Goals. Information Retrieval Journal (Special Issue on Searching as Learning), 2017.
+S. Nam, G. Frishkoff, K. Collins-Thompson. Predicting Short- and Long-Term Student Learning with a Vocabulary Tutoring System via Semantic Features of Definition Responses Proceedings of Educational Data Mining (EDM 2017), Wuhan, China. pp. 80-87. (Full paper)
+U.S. Patent 9,600,585. Using Reading Levels in Responding to Requests.
+U.S. Patent 9,594,837. Prediction and information retrieval for intrinsically diverse sessions.
+U.S. Patent 9,535,995. Optimizing a ranker for a risk-oriented objective.
+2016
+H. Choi, C. Brooks, K. Collins-Thompson. What does student writing tell us about their thinking on social justice? Proceedings of the 7th Int'l Conf on Learning Analytics and Knowledge (LAK 2017), Vancouver, Canada. (Poster)
+E. Schumacher, M. Eskenazi, G. Frishkoff, K. Collins-Thompson. Predicting the Relative Difficulty of Single Sentences With and Without Surrounding Context. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP 2016), pages 1871-1881.(pdf)
+R. Syed, K. Collins-Thompson. Optimizing Search Results for Educational Goals: Incorporating Keyword Density as a Retrieval Objective. Proceedings of the SIGIR 2016 Workshop on Searching as Learning (SAL 2016). Pisa, Italy. (pdf)
+R. Burton, K. Collins-Thompson. User Behavior in Asynchronous Slow Search. Proceedings of ACM SIGIR 2016. Pisa, Italy. (Full paper) (pdf)
+R. Burton, K. Collins-Thompson. Understanding User Adjustment to Slow Search. Proceedings of the ACM CHIIR 2016 Workshop on System and User-Centered Evaluation Approaches in Interactive Information Retrieval. CEUR-WS Proceedings Series. (pdf)
+T. Chang, B. Varma, T. Shull, M. Moniz, L. Kohatsu, M. Plegue, K. Collins-Thompson. "Crowdsourcing and the Accuracy of Online Information Regarding Weight Gain in Pregnancy". Journal of Medical Internet Research, 18(4):e81, April 2016. (link)
+Frishkoff, G. A., Collins-Thompson, K., Hodges, L., & Crossley, S. (2016). Accuracy feedback improves word learning from context: Evidence from a meaning-generation task. Reading and Writing, 29(4), 609-632. doi:10.1007/s11145-015-9615-7. (link)
+2015
+Y. Kim, K. Collins-Thompson, J. Teevan. "Using the Crowd to Improve Search Result Ranking and the Search Experience". ACM Transactions on Intelligent Systems and Technology. Vol 9, No. 4. 2016. (pdf)
+K. Collins-Thompson, S-Y. Rieh, C. Haynes, R. Syed. Assessing Learning Outcomes in Web Search: A Comparison of Tasks and Query Strategies (Full paper). ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR 2016). Chapel Hill, NC. March 2016. (pdf)
+S.J. Nam, K. Collins-Thompson, G. Frishkoff. (To appear) Modeling Real-time Performance on a Meaning-Generation Task. (Short paper). Annual Meeting of the American Educational Research Association (AERA 2016), Washington DC, April 2016.
+S.Y. Rieh, K. Collins-Thompson, P. Hansen, H-Y Lee. Towards searching as a learning process: a review of current perspectives and future directions. Journal of Information Science, 2015. (link)
+J. Karlgren, J. Callin, K. Collins-Thompson, A.C. Gyllensten, A. Ekgren, D. Jurgens, A. Korhonen, F. Olsson, M. Sahlgren, H. Schütze. Evaluating learning language representations. Proceedings of CLEF 2015. (pdf)
+Wu DT, Hanauer DA, Mei Q, Clark PM, An LC, Proulxe J, Zeng QT, Vydiswaran VGV, Collins-Thompson K, Zheng K. Assessing the readability of ClinicalTrials.gov. J. American Medical Informatics Assoc. 2015. (link)
+Frishkoff, G., Collins-Thompson, K., Nam, S.J., Hodges, L., & Crossley, S. (To appear) Dynamic Support of Contextual Vocabulary Acquisition for Reading (DSCoVAR): An intelligent tutoring system for contextual word learning. In S.A. Crossley & D.S. McNamara (Eds.), Adaptive Educational Technologies for Literacy Instruction. Taylor & Francis, Routledge:NY.
+M. Shokouhi, M. Sloan, P.N. Bennett, K. Collins-Thompson, S. Sarkizova. Contextual Disambiguation for Query Suggestion and Blending. Proceedings of WWW 2015. pg. 971-980. (pdf)
+L. Hodges, G. Frishkoff, K. Collins-Thompson. (Conference abstract) Scaffolding of Support and Individual Differences in Contextual Word Learning. The 22nd Annual Meeting of the Society for the Scientific Study of Reading, 2015. (Oral presentation)(link)
+S. Nam, K. Collins-Thompson, G. Frishkoff, L. Hodges. (Conference abstract) Measuring Real-time Student Engagement in Contextual Word Learning. The 22nd Annual Meeting of the Society for the Scientific Study of Reading, 2015. (Poster presentation)(link)
+2014
+P.N. Bennett, K. Collins-Thompson, D. Kelly, R.W. White, Y. Zhang (eds.). Special Issue of ACM TOIS on Contextual Search and Recommendation (In press.), Vol. 33, Issue 1 (Jan. 2015) (pdf)
+K. Collins-Thompson, C. Macdonald, P. N. Bennett, F. Diaz, E. Voorhees. TREC 2014 Web Track Overview. NIST Special Publication SP 500-308, Nov 2014. (pdf)
+K. Collins-Thompson. Computational assessment of text readability: a survey of current and future research. In: François, Thomas and Delphine Bernhard (eds.), Recent Advances in Automatic Readability Assessment and Text Simplification. Special issue of International Journal of Applied Linguistics 165:2 (2014). (pp. 97-135) (Working paper here)
+K. Raman, P.N. Bennett, K. Collins-Thompson. Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance. ACM Transactions on Information Systems (TOIS), Oct. 2014. (pdf)
+S.Y. Rieh, J. Gwizdka, L. Freund, K. Collins-Thompson. Searching as Learning: Novel Measures for Information Interaction Research. Proceedings of the American Society for Information Science and Technology 51(1): 1-4.
+J. Teevan, K. Collins-Thompson, R. White, S. Dumais. Slow Search. Communications of the ACM 57(8): 36-38 (2014) August 2014. (link)
+U.S. Patent 8,719,249. Query classification. Bennett; Paul N., Chickering; David M., Collins-Thompson; Kevyn B., Dumais; Susan T., Liebling; Daniel J.
+U.S. Patent 8,700,544. Functionality for Personalizing Search Results. Sontag; David A., Collins-Thompson; Kevyn B., Bennett; Paul N., White; Ryen W., Dumais; Susan T.
+2013
+K. Collins-Thompson, P. N. Bennett, F. Diaz, C. Clarke, E. Voorhees. TREC 2013 Web Track Overview. NIST Special Publication, Feb 2014. (pdf)
+Y. Kim, K. Collins-Thompson, J. Teevan. Crowdsourcing for Robustness in Web Search. NIST Special Publication, Nov. 2013. (pdf)
+D. Sontag, K. Collins-Thompson, P. N. Bennett, R. W. White, S. Dumais, B. Billerbeck. Personalization via Probabilistic Adaptation. NIPS 2013 Workshop on Personalization, Dec. 2013. (pdf)
+A. Ali, K. Collins-Thompson. Robust Cost-Sensitive Confidence-Weighted Classification. Proceedings of the 8th Workshop on Optimization-Based Techniques for Emerging Data Mining Problems. (OEDM 2013) Dallas, Dec. 2013. (pdf)
+J. Teevan, K. Collins-Thompson, R. White, S. Dumais, Y. Kim. Slow Search: Information retrieval without time constraints. Proceedings of HCIR 2013. (pdf)
+K. Raman, P.N. Bennett, K. Collins-Thompson. Toward Whole-Session Relevance: Exploring Intrinsic Diversity in Web Search. Proceedings of SIGIR 2013. 463-472. (pdf) [SIGIR Best Student Paper]
+F. Raiber, K. Collins-Thompson, O. Kurland. Shame to be Sham: Addressing Content-Based Grey Hat Search Engine Optimization. (Short paper) Proceedings of SIGIR 2013. 1013-1016.
+C. Eickhoff, A. de Vries, K. Collins-Thompson. Copulas for Information Retrieval. Proceedings of SIGIR 2013. 663-672. (pdf)
+C. Eickhoff, K. Collins-Thompson, P.N. Bennett, S. Dumais. Designing Human-Readable User Profiles for Search Evaluation. Proceedings of ECIR 2013. 701-705. (Short paper) (pdf)
+C. Eickhoff, K. Collins-Thompson, P.N. Bennett, S. Dumais. Personalizing Atypical Web Search Sessions. Proceedings of WSDM 2013. 285-294. (Selected for plenary session.)(pdf)
+X. Chen, P.N. Bennett, K. Collins-Thompson, E. Horvitz. Pairwise Ranking Aggregation in a Crowdsourced Setting. Proceedings of WSDM 2013. 193-202.(pdf)
+2012
+K. Collins-Thompson, G. Frishkoff, S. A. Crossley. Definition Response Scoring with Probabilistic Ordinal Regression. Proceedings of ICCE 2012, Singapore, Nov. 2012.(pdf)
+L. Wang, P.N. Bennett, K. Collins-Thompson. Robust ranking models via risk-sensitive optimization. Proceedings of SIGIR 2012. (pdf) [SIGIR Best Paper Honorable Mention]
+G. Frishkoff, K. Collins-Thompson, C. Perfetti, S. Crossley. Incremental and adaptive word learning from context. SSSR 2012, the Conference of the Society for the Scientific Study of Reading, Montreal, July 2012. Abstract.
+J. Kim, K. Collins-Thompson, P. N. Bennett, S. Dumais. Characterizing Web Content, User Interests, and Search Behavior by Reading Level and Topic. Proceedings of WSDM 2012. (pdf)
+D. Sontag, K. Collins-Thompson, P. N. Bennett, R. W. White, S. Dumais, B. Billerbeck. Probabilistic Models for Personalizing Web Search. Proceedings of WSDM 2012. (pdf)
+2011
+J. Wang, K. Collins-Thompson. CIKM 2011 half-day tutorial on Statistical Retrieval Modeling: from the Probability Ranking Principle to Portfolio Theory and Beyond.. Glasgow, October 2011. (pdf, 8Mb)
+K. Collins-Thompson, P. N. Bennett, R. W. White, S. de la Chica, D. Sontag. Personalizing Web Search Results by Reading Level. Proceedings of the Twentieth ACM International Conference on Information and Knowledge Management (CIKM 2011). Glasgow, Scotland. Oct. 2011. (pdf)
+P. Kidwell, G. Lebanon, K. Collins-Thompson. Statistical Estimation of Word Acquisition with Application to Readability Prediction. Journal of the American Statistical Association. 106(493):21-30, 2011. (pdf)
+K. Collins-Thompson. "Improving information retrieval with reading level prediction." SIGIR 2011 Workshop on Enriching Information Retrieval. Beijing, July 2011. (pdf)
+J. Wang and K. Collins-Thompson. ECIR 2011 half-day tutorial on Risk Management in Information Retrieval. Dublin, April 2011.
+G. Frishkoff, C. Perfetti, and K. Collins-Thompson. "Predicting robust vocabulary growth from measures of incremental learning". Scientific Studies of Reading, 15(1), 71-91. January 2011.
+2010
+J. Dillon and K. Collins-Thompson. A unified optimization framework for robust pseudo-relevance feedback algorithms. Proceedings of the Nineteenth ACM International Conference on Information and Knowledge Management (CIKM 2010), Toronto, Canada. (CIKM Student Travel Award Paper) (pdf)
+M. Heilman, K. Collins-Thompson, M. Eskenazi, A. Juffs, L. Wilson. "Personalization of reading passages improves vocabulary acquisition." International Journal of Artificial Intelligence in Education, 20(1), 2010. (pdf)
+J. Huang, N. Koudas, G. Jones, X. Wu, K. Collins-Thompson, and A. An. (eds.) Proceedings of the Nineteenth ACM International Conference on Information and Knowledge Management (CIKM 2010), ACM Press, New York.
+K. Collins-Thompson and J. Dillon. Controlling the search for expanded query representations by constrained optimization in latent variable space. SIGIR 2010 Workshop on Query Representation and Understanding. (pdf)
+Frishkoff, G. A., Perfetti, C. A., & Collins-Thompson, K. (2010). Lexical quality in the brain: ERP evidence for robust word learning from context. Developmental Neuropsychology, 35(4), 1-28. [details]
+M. Sun, G. Lebanon, and K. Collins-Thompson. "Visualizing Differences in Web Search Algorithms using the Expected Weighted Hoeffding Distance". Proceedings of WWW 2010, Raleigh, NC, U.S.A. pg 931-940. (pdf)  [bibtex]
+Paul Bennett, Misha Bilenko, Kevyn Collins-Thompson. ECIR Tutorial on Machine Learning for Information Retrieval: Recent Successes and New Opportunities.. Milton Keynes, UK, March 28, 2010. (pdf)   (This tutorial is a significantly revised and updated version of our ICML 2009 tutorial, oriented more toward an IR audience.)
+K. Collins-Thompson, P.N. Bennett. "Predicting query performance via classification", Proceedings of ECIR 2010, Milton Keynes, UK. pg 140-152. (pdf)  [bibtex]
+2009
+K. Collins-Thompson. "Reducing the risk of query expansion via robust constrained optimization". Proceedings of the Eighteenth International Conference on Information and Knowledge Management (CIKM 2009). ACM. Hong Kong. pg. 837-846.(pdf)  [bibtex]
+K. Collins-Thompson. "Accounting for stability of retrieval algorithms using risk-reward curves". Proceedings of SIGIR 2009 Workshop on the Future of Evaluation in Information Retrieval, Boston. pg. 27-28.(pdf)
+M. Sun, G. Lebanon, and K. Collins-Thompson. Visualizing Spatial Proximity of Search Algorithms, NIPS Workshop on Learning with Ordering. (Poster abstract), 2009. (pdf)
+K. Collins-Thompson. "Robust word similarity estimation using perturbation kernels". Proceedings of the International Conference on Theoretical Information Retrieval (ICTIR) 2009, Cambridge, U.K. pg. 265-272.(pdf)  [bibtex]
+P. Kidwell, G. Lebanon, K. Collins-Thompson. "Statistical estimation of word acquisition with application to readability prediction". Proceedings of Empirical Methods in Natural Language Processing (EMNLP) 2009, Singapore. (pdf)
+K. Collins-Thompson, P. N. Bennett. "Estimating query performance using class predictions". Proceedings of the Thirty-second Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2009), Boston. pg. 672-673. (Poster description) (pdf)  [bibtex]
+Paul Bennett, Misha Bilenko, Kevyn Collins-Thompson. ICML 2009 Tutorial on Machine Learning in Information Retrieval: Recent Successes and New Opportunities.. Montreal, June 2009. (pdf)  [bibtex]
+2008
+K. Collins-Thompson. "Estimating robust query models with convex optimization". Advances in Neural Information Processing Systems 21 (NeurIPS), 2008. pg. 329-336.(pdf)   [bibtex]
+K. Collins-Thompson. "Robust model estimation methods for information retrieval". Ph.D. thesis (LTI Technical Report CMU-LTI-08-010) Carnegie Mellon University, 2008.
+G. Frishkoff, K. Collins-Thompson, C. Perfetti, J. Callan. Measuring incremental changes in word knowledge: Experimental validation and implications for learning and assessment. Behavior Research Methods, Vol. 40, No. 4. pp. 907-925. (pdf)  [pubmed]
+M. Heilman, K. Collins-Thompson and M. Eskenazi. "An analysis of statistical models and features for reading difficulty prediction." ACL 2008 BEA Workshop on Innovative Use of NLP for Building Educational Applications. Columbus, Ohio. (pdf)
+2007
+K. Collins-Thompson and J. Callan. "Estimation and use of uncertainty in pseudo-relevance feedback." Proceedings of the Thirtieth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2007), Amsterdam. (pdf)  [bibtex]
+K. Collins-Thompson and J. Callan. "Automatic and human scoring of word definition responses." Proceedings of the NAACL-HLT 2007 Conference. Rochester, U.S.A. pp. 476-483. (pdf)  [bibtex]
+K. Collins-Thompson. Optimization methods for query model estimation: applying portfolio theory to mitigate risk in information retrieval. CMU DIR Group Technical Report 2007-09-03. Abstract
+M. Heilman, K. Collins-Thompson, J. Callan and M. Eskenazi. "Combining lexical and grammatical features to improve readability measures for first and second language texts." Proceedings of the NAACL-HLT 2007 Conference. Rochester, U.S.A. pp. 460-467. (pdf)  [bibtex]
+2006
+M. Heilman, K. Collins-Thompson, J. Callan, and M. Eskenazi. Classroom success of an Intelligent Tutoring System for lexical practice and reading comprehension. Proceedings of Interspeech 2006. Pittsburgh, U.S.A. abstract
+A. Juffs, L. Wilson, M. Eskenazi, J. Callan, J. Brown, K. Collins-Thompson, M. Heilman, T. Pelletreau, and J. Sanders. (2006) "Robust learning of vocabulary: investigating the relationship between learner behaviour and the acquisition of vocabulary" (poster). The 40th Annual TESOL Convention and Exhibit (TESOL 2006).
+2005
+K. Collins-Thompson and J. Callan. Query expansion using random walk models. Proceedings of the Fourteenth International Conference on Information and Knowledge Management (CIKM'05). ACM. Bremen, Germany. (CIKM Student Travel Award Paper) (pdf)  [bibtex]
+K. Collins-Thompson, J. Callan. Predicting reading difficulty with statistical language models. Journal of the American Society for Information Science and Technology. Vol. 56, No. 13, 1448-1462.  [bibtex]
+K. Collins-Thompson, P. Ogilvie and J. Callan. Initial results with structured queries and language models on half a terabyte of text. Proceedings of TREC 2004, National Institute of Standards and Technology, special publication. (pdf)
+2004
+K. Collins-Thompson and J. Callan. A language modeling approach to predicting reading difficulty. Proceedings of HLT / NAACL 2004, Boston, USA, May 2004. pp 193-200. (pdf)  [bibtex]
+K. Collins-Thompson and J. Callan. Information retrieval for language tutoring: an overview of the REAP project (poster description), Proceedings of SIGIR 2004, Sheffield, UK. July 2004. (pdf)  [bibtex]
+K. Collins-Thompson, E. Terra, J. Callan, and C. Clarke. The effect of document retrieval quality on factoid question-answering performance (poster description), Proceedings of SIGIR 2004, Sheffield, UK. July 2004. (pdf)  [bibtex]
+J. Zhang, A. Toth, K. Collins-Thompson, and A. Black. Prominence prediction for super-sentential prosodic modeling based on a new database, ISCA Synthesis Workshop, Pittsburgh, USA, June 2004.
+E. Nyberg, T. Mitamura, J. Callan, J. Carbonell, R. Frederking, K. Collins-Thompson, L. Hiyakumoto, Y. Huang, C. Huttenhower, S. Judy, J. Ko, A. Kupsc, L. V. Lita, V. Pedro, D. Svoboda, and B. Van Durme. (2004.) "The JAVELIN question-answering system at TREC 2003: A multi-strategy approach with dynamic planning." Proceedings of the 2003 Text REtrieval Conference (TREC 2003). National Institute of Standards and Technology, special publication. (pdf)
+U.S. Patent 6,735,335. M. Liu, K. Collins-Thompson, D. Lawton. Method and apparatus for discriminating between documents in batch scanned document files. May 2004.
+U.S. Patent 6,687,697. K. Collins-Thompson, C. Schweizer. System and method for improved string matching under noisy channel conditions. Feb. 2004.
+2003
+K. Collins-Thompson, P. Ogilvie, Y. Zhang, and J. Callan. Information filtering, novelty detection, and named-page finding. In Proceedings of the 2002 Text REtrieval Conference (TREC 2002). National Institute of Standards and Technology, special publication. 107 - 118.(pdf)
+E. Nyberg, T. Mitamura, J. Carbonell, J. Callan, K. Collins-Thompson, K. Czuba, M. Duggan, L. Hiyakumoto, N. Hu, Y. Huang, J. Ko, L. Lita, S. Murtagh, V. Pedro, D. Svoboda. The JAVELIN Question-Answering System. In Proceedings of TREC 2002. NIST, special publication. 128 - 137.
+2002
+K. Collins-Thompson, R. Nickolov (2002). A clustering-based algorithm for automatic document separation. Proceedings of the SIGIR 2002 Workshop on Information Retrieval and OCR, Tampere, Finland. (pdf)
+2001
+K. Collins-Thompson, C. Schweizer and S. T. Dumais (2001). Improved string matching under noisy channel conditions. Proceedings of CIKM 2001. Atlanta, USA.  357-364 (pdf)  [bibtex]
+Other Activities
+General Co-Chair, ACM SIGIR 2018 conference.
+Area Chair, SIGIR 2012-2016; Senior PC, WSDM 2016, ICWSM 2014; CIKM 2012
+Doctoral Consortium Co-chair, WSDM 2016; Posters and Demos Chair, SIGIR 2011; Industry Track Chair, CIKM 2010.
+Editorial Service: JASIST Editorial Board, ACM TOIS Associate Editor, Special Issue on Task-based IR.
+Program Committee List (Most recent): WSDM 2015; CHI 2014; IEEE Big Data 2013; IJCNLP 2013; ICTIR 2013; HLT/NAACL 2013; ECIR 2013; AIRS 2012; SIGIR 2012 Doctoral Consortium Mentor; CIKM 2012; ACL 2012; WWW 2012; ECIR 2012; EMNLP 2011; SIGIR 2011; WWW 2011; WIMS 2011; WSDM 2011; COLING 2010; SIGIR 2010; CIKM 2010; ACL 2010; ICML 2010; CIKM 2009; UAI 2009; SIGIR 2009; CIKM 2008; SIGIR 2008
+Adjunct Faculty, University of Washington, Information School, 2006.
+Grant agencies: NSF Panelist, NSERC Reviewer
+Reviewer, ACM Transactions on Information Systems; ACM Transactions on the Web; IEEE Transactions on Knowledge and Data Engineering; Information Processing and Management; Foundations and Trends in Information Retrieval; Transactions on Audio, Speech, and Language Processing; Journal of the American Society for Information Science and Technology.
+Chaired invited panel on Computational Neurolinguistics at the Brain Informatics 2010 conference.
+Datasets
+WWW 2020 reading/QA study factoid question list. Four sets of manual and auto-generated factoid questions corresponding to four topics covered in our reading study. If you use this data, please cite: Rohail Syed, Kevyn Collins-Thompson, Paul Bennett, Mengqiu Teng, Shane Williams, Wendy Tay and Shamsi Iqbal. Improving Learning Outcomes with Gaze Tracking and Automatic Question Generation. Proceedings of The Web Conference 2020 (WWW 2020). Taipei, Taiwan.
+
+
+WSDM 2013 Crowdsourced Pairwise Preferences for Readability (.csv file, 9.1Mb): 13857 judged pairs (trusted and untrusted), ~50-word text passages, grades 1-12. Column descriptions are here.
+If you use this dataset, please cite: X. Chen, P.N. Bennett, K. Collins-Thompson, E. Horvitz. Pairwise Ranking Aggregation in a Crowdsourced Setting. Proceedings of WSDM 2013. 193-202.
+
+
+HLT 2004 Readability: Unigram Language Models. Because a significant part of the corpus used for this paper (Web pages or text passages labeled by grade level) contains licensed copyrighted content, we are unable to redistribute the dataset in its original form. However, this folder contains files with frequency counts computed on the entire dataset for the twelve categories of labeled documents used in the HLT 2004 paper, corresponding to material at each of the U.S. elementary school grades 1 through 12 (indexed as 0 to 11). There is also a background English model file. With these raw unigram counts, plus some smoothing as described in the paper, the grade-level language models used for the classifier can be derived. If you use this data, please cite:
+K. Collins-Thompson and J. Callan. A language modeling approach to predicting reading difficulty. Proceedings of HLT / NAACL 2004, Boston, USA, May 2004. 193-200.
+
+Other Links
+
+Context, Learning, and User Experience for Search Group's home page.
+
+DBLP Bibliography
+

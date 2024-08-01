@@ -1,0 +1,1145 @@
+Professor: Nathan Kallus
+University: Cornell University
+URL: https://nathankallus.com/
+Description:   	
+
+Nathan Kallus    [nah-tahn kah-loosh]
+Associate Professor
+Cornell Tech, Cornell University
+Field member: ORIE, CS, Stats, CAM
+
+Research Director
+Machine Learning & Inference Research, Netflix
+
+        
+
+   kallus@cornell.edu
+
+   GitHub
+
+   Google Scholar
+
+Causal ML Book
+
+Applied Causal Inference Powered by ML and AI
+
+V. Chernozhukov, C. Hansen, N. Kallus, M. Spindler, V. Syrgkanis
+
+Book website.
+
+arXiv.
+
+Abstract: An introduction to the emerging fusion of machine learning and causal inference. The book presents ideas from classical structural equation models (SEMs) and their modern AI equivalent, directed acyclical graphs (DAGs) and structural causal models (SCMs), and covers Double/Debiased Machine Learning methods to do inference in such models using modern predictive tools.
+
+Research group
+
+Current
+
+Antonia (Miruna) Oprescu
+
+Kaiwen Wang
+
+Brian Cho
+
+Su Jia
+
+Alumni (and first position)
+
+Graduated PhD students
+
+Masatoshi Uehara (Assistant Professor at University of Wisconsin-Madison, Computer Science Department)
+
+Yichun Hu (Assistant Professor at Cornell University, Johnson School of Business)
+
+Andrew Bennett (Machine Learning Researcher at Morgan Stanley)
+
+Angela Zhou (Assistant Professor at University of Southern California, Marshall School of Business; Research Fellow at Simons Institute)
+
+Xiaojie Mao (Assistant Professor at Tsinghua University, Management Science and Engineering)
+
+Postdocs
+
+Michele Santacatterina (Assistant Professor at NYU Langone, Biostatistics Division)
+
+Brenton Pennicooke (Assistant Professor at Washington University in St. Louis, School of Medicine)
+
+Always recruiting motivated and talented PhD students for our research group. See here for more information.
+
+Publications and working papers
+
+Filter by type:AllJournalConference
+Filter by venue: All
+Preprint
+NeurIPS
+ICML
+AISTATS
+Management Science
+JRSS:B
+Operations Research
+COLT
+FAccT
+JASA
+JMLR
+WWW
+CODE
+Journal of Causal Inference
+Mathematical Programming
+ICLR
+CVPR
+KDD
+EC
+ALT
+CIKM
+RLC
+Biometrika
+Statistica Sinica
+Statistical Science
+Statistics in Medicine
+Statistics and Public Policy
+Mathematics of Operations Research
+Annual Review of Statistics and Its Application
+IJOO
+Production and Operations Management
+Journal of Clinical Neuroscience
+Diabetes Care
+Academic Radiology
+Filter by topics: All
+Sequential Decision-Making
+Causal Inference
+Optimization and Personalization
+Fairness
+Applied ML
+Showing 119 of 119 records
+
+Switching the Loss Reduces the Cost in Offline Reinforcement Learning, with A. Ayoub, K. Wang, V. Liu, S. Robertson, J. McInerney, D. Liang, and C. Szepesvari.
+
+Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+arXiv March 2024.
+
+Abstract: We propose training fitted Q-iteration with log-loss (FQI-LOG) for offline reinforcement learning (RL). We show that the number of samples needed to learn a near-optimal policy with FQI-LOG scales with the accumulated cost of the optimal policy, which is zero in problems where acting optimally achieves the goal and incurs no cost. In doing so, we provide a general framework for proving small-cost bounds, i.e. bounds that scale with the optimal achievable cost, in offline RL. Moreover, we empirically verify that FQI-LOG uses fewer samples than FQI trained with squared loss on problems where the optimal policy reliably achieves the goal.  Read more ↓
+
+More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning, with K. Wang, O. Oertell, A. Agarwal, and W. Sun.
+
+Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+arXiv February 2024.
+
+Abstract: In this paper, we prove that Distributional Reinforcement Learning (DistRL), which learns the return distribution, can obtain second-order bounds in both online and offline RL in general settings with function approximation. Second-order bounds are instance-dependent bounds that scale with the variance of return, which we prove are tighter than the previously known small-loss bounds of distributional RL. To the best of our knowledge, our results are the first second-order bounds for low-rank MDPs and for offline RL. When specializing to contextual bandits (one-step RL problem), we show that a distributional learning based optimism algorithm achieves a second-order worst-case regret bound, and a second-order gap dependent bound, simultaneously. We also empirically demonstrate the benefit of DistRL in contextual bandits on real-world datasets. We highlight that our analysis with DistRL is relatively simple, follows the general framework of optimism in the face of uncertainty and does not require weighted regression. Our results suggest that DistRL is a promising framework for obtaining second-order bounds in general RL settings, thus further reinforcing the benefits of DistRL.  Read more ↓
+
+Peeking with PEAK: Sequential, Nonparametric Composite Hypothesis Tests for Means of Multiple Data Streams, with B. Cho and K. Gan.
+
+Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+arXiv February 2024.
+
+Abstract: We propose a novel nonparametric sequential test for composite hypotheses for means of multiple data streams. Our proposed method, peeking with expectation-based averaged capital (PEAK), builds upon the testing-as-betting framework and provides a non-asymptotic α-level test across any stopping time. PEAK is computationally tractable and efficiently rejects hypotheses that are incorrect across all potential distributions that satisfy our nonparametric assumption, enabling joint composite hypothesis testing on multiple streams of data. We numerically validate our theoretical findings under the best arm identification and threshold identification in the bandit setting, illustrating the computational efficiency of our method against state-of-the-art testing methods.  Read more ↓
+
+Inferring the Long-Term Causal Effects of Long-Term Treatments from Short-Term Experiments, with A. Tran and A. Bibaut.
+
+Proceedings of the 41th International Conference on Machine Learning (ICML), 2024.
+
+arXiv November 2023.
+
+Abstract: We study inference on the long-term causal effect of a continual exposure to a novel intervention, which we term a long-term treatment, based on an experiment involving only short-term observations. Key examples include the long-term health effects of regularly-taken medicine or of environmental hazards and the long-term effects on users of changes to an online platform. This stands in contrast to short-term treatments or "shocks," whose long-term effect can reasonably be mediated by short-term observations, enabling the use of surrogate methods. Long-term treatments by definition have direct effects on long-term outcomes via continual exposure so surrogacy cannot reasonably hold. Our approach instead learns long-term temporal dynamics directly from short-term experimental data, assuming that the initial dynamics observed persist but avoiding the need for both surrogacy assumptions and auxiliary data with long-term observations. We connect the problem with offline reinforcement learning, leveraging doubly-robust estimators to estimate long-term causal effects for long-term treatments and construct confidence intervals. Finally, we demonstrate the method in simulated experiments.  Read more ↓
+
+Learning the Covariance of Treatment Effects Across Many Weak Experiments, with A. Bibaut, W. Chou, and S. Ejdemyr.
+
+Proceedings of the Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+
+arXiv February 2024.
+
+Abstract: When primary objectives are insensitive or delayed, experimenters may instead focus on proxy metrics derived from secondary outcomes. For example, technology companies often infer long-term impacts of product interventions from their effects on weighted indices of short-term user engagement signals. We consider meta-analysis of many historical experiments to learn the covariance of treatment effects on different outcomes, which can support the construction of such proxies. Even when experiments are plentiful and large, if treatment effects are weak, the sample covariance of estimated treatment effects across experiments can be highly biased and remains inconsistent even as more experiments are considered. We overcome this by using techniques inspired by weak instrumental variable analysis, which we show can reliably estimate parameters of interest, even without a structural model. We show the Limited Information Maximum Likelihood (LIML) estimator learns a parameter that is equivalent to fitting total least squares to a transformation of the scatterplot of estimated treatment effects, and that Jackknife Instrumental Variables Estimation (JIVE) learns another parameter that can be computed from the average of Jackknifed covariance matrices across experiments. We also present a total-covariance-based estimator for the latter estimand under homoskedasticity, which we show is equivalent to a k-class estimator. We show how these parameters relate to causal quantities and can be used to construct unbiased proxy metrics under a structural model with both direct and indirect effects subject to the INstrument Strength Independent of Direct Effect (INSIDE) assumption of Mendelian randomization. Lastly, we discuss the application of our methods at Netflix.  Read more ↓
+
+Demistifying Inference after Adaptive Experiments, with A. Bibaut.
+
+Annual Review of Statistics and Its Application, 2024.
+
+arXiv May 2024.
+
+Abstract: Adaptive experiments such as multi-arm bandits adapt the treatment-allocation policy and/or the decision to stop the experiment to the data observed so far. This has the potential to improve outcomes for study participants within the experiment, to improve the chance of identifying best treatments after the experiment, and to avoid wasting data. Seen as an experiment (rather than just a continually optimizing system) it is still desirable to draw statistical inferences with frequentist guarantees. The concentration inequalities and union bounds that generally underlie adaptive experimentation algorithms can yield overly conservative inferences, but at the same time the asymptotic normality we would usually appeal to in non-adaptive settings can be imperiled by adaptivity. In this article we aim to explain why, how, and when adaptivity is in fact an issue for inference and, when it is, understand the various ways to fix it: reweighting to stabilize variances and recover asymptotic normality, always-valid inference based on joint normality of an asymptotic limiting sequence, and characterizing and inverting the non-normal distributions induced by adaptivity.  Read more ↓
+
+Nonparametric Jackknife Instrumental Variable Estimation and Confounding Robust Surrogate Indices, with A. Bibaut and A. Lal.
+
+arXiv June 2024.
+
+Abstract: Jackknife instrumental variable estimation (JIVE) is a classic method to leverage many weak instrumental variables (IVs) to estimate linear structural models, overcoming the bias of standard methods like two-stage least squares. In this paper, we extend the jackknife approach to nonparametric IV (NPIV) models with many weak IVs. Since NPIV characterizes the structural regression as having residuals projected onto the IV being zero, existing approaches minimize an estimate of the average squared projected residuals, but their estimates are biased under many weak IVs. We introduce an IV splitting device inspired by JIVE to remove this bias, and by carefully studying this split-IV empirical process we establish learning rates that depend on generic complexity measures of the nonparametric hypothesis class. We then turn to leveraging this for semiparametric inference on average treatment effects (ATEs) on unobserved long-term outcomes predicted from short-term surrogates, using historical experiments as IVs to learn this nonparametric predictive relationship even in the presence of confounding between short- and long-term observations. Using split-IV estimates of a debiasing nuisance, we develop asymptotically normal estimates for predicted ATEs, enabling inference.  Read more ↓
+
+Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation, with Z. He, Z. Xie, H. Steck, D. Liang, R. Jha, and J. McAuley.
+
+arXiv May 2024.
+
+Abstract: Large language models (LLMs) are revolutionizing conversational recommender systems by adeptly indexing item content, understanding complex conversational contexts, and generating relevant item titles. However, controlling the distribution of recommended items remains a challenge. This leads to suboptimal performance due to the failure to capture rapidly changing data distributions, such as item popularity, on targeted conversational recommendation platforms. In conversational recommendation, LLMs recommend items by generating the titles (as multiple tokens) autoregressively, making it difficult to obtain and control the recommendations over all items. Thus, we propose a Reindex-Then-Adapt (RTA) framework, which converts multi-token item titles into single tokens within LLMs, and then adjusts the probability distributions over these single-token item titles accordingly. The RTA framework marries the benefits of both LLMs and traditional recommender systems (RecSys): understanding complex queries as LLMs do; while efficiently controlling the recommended item distributions in conversational recommendations as traditional RecSys do. Our framework demonstrates improved accuracy metrics across three different conversational recommendation datasets and two adaptation settings.  Read more ↓
+
+Clustered Switchback Experiments: Near-Optimal Rates Under Spatiotemporal Interference, with S. Jia and C. Lee Yu.
+
+arXiv December 2023.
+
+Abstract: We consider experimentation in the presence of non-stationarity, inter-unit (spatial) interference, and carry-over effects (temporal interference), where we wish to estimate the global average treatment effect (GATE), the difference between average outcomes having exposed all units at all times to treatment or to control. We suppose spatial interference is described by a graph, where a unit's outcome depends on its neighborhood's treatment assignments, and that temporal interference is described by a hidden Markov decision process, where the transition kernel under either treatment (action) satisfies a rapid mixing condition. We propose a clustered switchback design, where units are grouped into clusters and time steps are grouped into blocks and each whole cluster-block combination is assigned a single random treatment. Under this design, we show that for graphs that admit good clustering, a truncated exposure-mapping Horvitz-Thompson estimator achieves Õ(1/√N√T) mean-squared error (MSE), matching an Ω(1/√N√T) lower bound up to logarithmic terms. Our results simultaneously generalize the N=1 setting of Hu, Wager 2022 (and improves on the MSE bound shown therein for difference-in-means estimators) as well as the T=1 settings of Ugander et al 2013 and Leung 2022. Simulation studies validate the favorable performance of our approach.  Read more ↓
+
+Contextual Linear Optimization with Bandit Feedback, with Y. Hu, X. Mao, and Y. Wu.
+
+arXiv May 2024.
+
+Abstract: Contextual linear optimization (CLO) uses predictive observations to reduce uncertainty in random cost coefficients and thereby improve average-cost performance. An example is a stochastic shortest path with random edge costs (e.g., traffic) and predictive features (e.g., lagged traffic, weather). Existing work on CLO assumes the data has fully observed cost coefficient vectors, but in many applications, we can only see the realized cost of a historical decision, that is, just one projection of the random cost coefficient vector, to which we refer as bandit feedback. We study a class of algorithms for CLO with bandit feedback, which we term induced empirical risk minimization (IERM), where we fit a predictive model to directly optimize the downstream performance of the policy it induces. We show a fast-rate regret bound for IERM that allows for misspecified model classes and flexible choices of the optimization estimate, and we develop computationally tractable surrogate losses. A byproduct of our theory of independent interest is fast-rate regret bound for IERM with full feedback and misspecified policy class. We compare the performance of different modeling choices numerically using a stochastic shortest path example and provide practical insights from the empirical results.  Read more ↓
+
+Estimating Heterogeneous Treatment Effects by Combining Weak Instruments and Observational Data, with M. Oprescu.
+
+arXiv June 2024.
+
+Abstract: Accurately predicting conditional average treatment effects (CATEs) is crucial in personalized medicine and digital platform analytics. Since often the treatments of interest cannot be directly randomized, observational data is leveraged to learn CATEs, but this approach can incur significant bias from unobserved confounding. One strategy to overcome these limitations is to seek latent quasi-experiments in instrumental variables (IVs) for the treatment, for example, a randomized intent to treat or a randomized product recommendation. This approach, on the other hand, can suffer from low compliance, i.e., IV weakness. Some subgroups may even exhibit zero compliance meaning we cannot instrument for their CATEs at all. In this paper we develop a novel approach to combine IV and observational data to enable reliable CATE estimation in the presence of unobserved confounding in the observational data and low compliance in the IV data, including no compliance for some subgroups. We propose a two-stage framework that first learns biased CATEs from the observational data, and then applies a compliance-weighted correction using IV data, effectively leveraging IV strength variability across covariates. We characterize the convergence rates of our method and validate its effectiveness through a simulation study. Additionally, we demonstrate its utility with real data by analyzing the heterogeneous effects of 401(k) plan participation on wealth.  Read more ↓
+
+Efficient and Sharp Off-Policy Evaluation in Robust Markov Decision Processes, with A. Bennett, M. Oprescu, W. Sun, and K. Wang.
+
+arXiv April 2024.
+
+Abstract: We study evaluating a policy under best- and worst-case perturbations to a Markov decision process (MDP), given transition observations from the original MDP, whether under the same or different policy. This is an important problem when there is the possibility of a shift between historical and future environments, due to e.g. unmeasured confounding, distributional shift, or an adversarial environment. We propose a perturbation model that can modify transition kernel densities up to a given multiplicative factor or its reciprocal, which extends the classic marginal sensitivity model (MSM) for single time step decision making to infinite-horizon RL. We characterize the sharp bounds on policy value under this model, that is, the tightest possible bounds given by the transition observations from the original MDP, and we study the estimation of these bounds from such transition observations. We develop an estimator with several appealing guarantees: it is semiparametrically efficient, and remains so even when certain necessary nuisance functions such as worst-case Q-functions are estimated at slow nonparametric rates. It is also asymptotically normal, enabling easy statistical inference using Wald confidence intervals. In addition, when certain nuisances are estimated inconsistently we still estimate a valid, albeit possibly not sharp bounds on the policy value. We validate these properties in numeric simulations. The combination of accounting for environment shifts from train to test (robustness), being insensitive to nuisance-function estimation (orthogonality), and accounting for having only finite samples to learn from (inference) together leads to credible and reliable policy evaluation.  Read more ↓
+
+Risk-Sensitive RL with Optimized Certainty Equivalents via Reduction to Standard RL, with K. Wang, D. Liang, and W. Sun.
+
+arXiv March 2024.
+
+Abstract: We study Risk-Sensitive Reinforcement Learning (RSRL) with the Optimized Certainty Equivalent (OCE) risk, which generalizes Conditional Value-at-risk (CVaR), entropic risk and Markowitz's mean-variance. Using an augmented Markov Decision Process (MDP), we propose two general meta-algorithms via reductions to standard RL: one based on optimistic algorithms and another based on policy optimization. Our optimistic meta-algorithm generalizes almost all prior RSRL theory with entropic risk or CVaR. Under discrete rewards, our optimistic theory also certifies the first RSRL regret bounds for MDPs with bounded coverability, e.g., exogenous block MDPs. Under discrete rewards, our policy optimization meta-algorithm enjoys both global convergence and local improvement guarantees in a novel metric that lower bounds the true OCE risk. Finally, we instantiate our framework with PPO, construct an MDP, and show that it learns the optimal risk-sensitive policy while prior algorithms provably fail.  Read more ↓
+
+Hessian-Free Laplace in Bayesian Deep Learning, with J. McInerney.
+
+arXiv March 2024.
+
+Abstract: The Laplace approximation (LA) of the Bayesian posterior is a Gaussian distribution centered at the maximum a posteriori estimate. Its appeal in Bayesian deep learning stems from the ability to quantify uncertainty post-hoc (i.e., after standard network parameter optimization), the ease of sampling from the approximate posterior, and the analytic form of model evidence. However, an important computational bottleneck of LA is the necessary step of calculating and inverting the Hessian matrix of the log posterior. The Hessian may be approximated in a variety of ways, with quality varying with a number of factors including the network, dataset, and inference task. In this paper, we propose an alternative framework that sidesteps Hessian calculation and inversion. The Hessian-free Laplace (HFL) approximation uses curvature of both the log posterior and network prediction to estimate its variance. Only two point estimates are needed: the standard maximum a posteriori parameter and the optimal parameter under a loss regularized by the network prediction. We show that, under standard assumptions of LA in Bayesian deep learning, HFL targets the same variance as LA, and can be efficiently amortized in a pre-trained network. Experiments demonstrate comparable performance to that of exact and approximate Hessians, with excellent coverage for in-between uncertainty.  Read more ↓
+
+Multi-Armed Bandits with Interference, with S. Jia and P. Frazier.
+
+arXiv February 2024.
+
+Abstract: Experimentation with interference poses a significant challenge in contemporary online platforms. Prior research on experimentation with interference has concentrated on the final output of a policy. The cumulative performance, while equally crucial, is less well understood. To address this gap, we introduce the problem of Multi-armed Bandits with Interference (MABI), where the learner assigns an arm to each of N experimental units over a time horizon of T rounds. The reward of each unit in each round depends on the treatments of all units, where the influence of a unit decays in the spatial distance between units. Furthermore, we employ a general setup wherein the reward functions are chosen by an adversary and may vary arbitrarily across rounds and units. We first show that switchback policies achieve an optimal expected regret Õ(√T) against the best fixed-arm policy. Nonetheless, the regret (as a random variable) for any switchback policy suffers a high variance, as it does not account for N . We propose a cluster randomization policy whose regret (i) is optimal in expectation and (ii) admits a high probability bound that vanishes in N.  Read more ↓
+
+Is Cosine-Similarity of Embeddings Really About Similarity?, with H. Steck and C. Ekanadham.
+
+Proceedings of the ACM Web Conference (WWW), 2024.
+
+arXiv March 2024.
+
+Abstract: Cosine-similarity is the cosine of the angle between two vectors, or equivalently the dot product between their normalizations. A popular application is to quantify semantic similarity between high-dimensional objects by applying cosine-similarity to a learned low-dimensional feature embedding. This can work better but sometimes also worse than the unnormalized dot-product between embedded vectors in practice. To gain insight into this empirical observation, we study embeddings derived from regularized linear models, where closed-form solutions facilitate analytical insights. We derive analytically how cosine-similarity can yield arbitrary and therefore meaningless 'similarities.' For some linear models the similarities are not even unique, while for others they are implicitly controlled by the regularization. We discuss implications beyond linear models: a combination of different regularizations are employed when learning deep models; these have implicit and unintended effects when taking cosine-similarities of the resulting embeddings, rendering results opaque and possibly arbitrary. Based on these insights, we caution against blindly using cosine-similarity and outline alternatives.  Read more ↓
+
+Off-Policy Evaluation for Large Action Spaces via Policy Convolution, with N. Sachdeva, L. Wang, D. Liang, and J. McAuley.
+
+Proceedings of the ACM Web Conference (WWW), 2024.
+
+arXiv October 2023.
+
+Abstract: Developing accurate off-policy estimators is crucial for both evaluating and optimizing for new policies. The main challenge in off-policy estimation is the distribution shift between the logging policy that generates data and the target policy that we aim to evaluate. Typically, techniques for correcting distribution shift involve some form of importance sampling. This approach results in unbiased value estimation but often comes with the trade-off of high variance, even in the simpler case of one-step contextual bandits. Furthermore, importance sampling relies on the common support assumption, which becomes impractical when the action space is large. To address these challenges, we introduce the Policy Convolution (PC) family of estimators. These methods leverage latent structure within actions -- made available through action embeddings -- to strategically convolve the logging and target policies. This convolution introduces a unique bias-variance trade-off, which can be controlled by adjusting the amount of convolution. Our experiments on synthetic and benchmark datasets demonstrate remarkable mean squared error (MSE) improvements when using PC, especially when either the action space or policy mismatch becomes large, with gains of up to 5 - 6 orders of magnitude over existing estimators.  Read more ↓
+
+Source Condition Double Robust Inference on Functionals of Inverse Problems, with A. Bennett, X. Mao, W. Newey, V. Syrgkanis, and M. Uehara.
+
+arXiv July 2023.
+
+Abstract: We consider estimation of parameters defined as linear functionals of solutions to linear inverse problems. Any such parameter admits a doubly robust representation that depends on the solution to a dual linear inverse problem, where the dual solution can be thought as a generalization of the inverse propensity function. We provide the first source condition double robust inference method that ensures asymptotic normality around the parameter of interest as long as either the primal or the dual inverse problem is sufficiently well-posed, without knowledge of which inverse problem is the more well-posed one. Our result is enabled by novel guarantees for iterated Tikhonov regularized adversarial estimators for linear inverse problems, over general hypothesis spaces, which are developments of independent interest.  Read more ↓
+
+Low-Rank MDPs with Continuous Action Spaces, with A. Bennett and M. Oprescu.
+
+Proceedings of the 27th International Conference on Artificial Intelligence and Statistics (AISTATS), 2024.
+
+arXiv November 2023.
+
+Abstract: Low-Rank Markov Decision Processes (MDPs) have recently emerged as a promising framework within the domain of reinforcement learning (RL), as they allow for provably approximately correct (PAC) learning guarantees while also incorporating ML algorithms for representation learning. However, current methods for low-rank MDPs are limited in that they only consider finite action spaces, and give vacuous bounds as |A|→∞, which greatly limits their applicability. In this work, we study the problem of extending such methods to settings with continuous actions, and explore multiple concrete approaches for performing this extension. As a case study, we consider the seminal FLAMBE algorithm (Agarwal et al., 2020), which is a reward-agnostic method for PAC RL with low-rank MDPs. We show that, without any modifications to the algorithm, we obtain similar PAC bound when actions are allowed to be continuous. Specifically, when the model for transition functions satisfies a Holder smoothness condition w.r.t. actions, and either the policy class has a uniformly bounded minimum density or the reward function is also Holder smooth, we obtain a polynomial PAC bound that depends on the order of smoothness.  Read more ↓
+
+Provable Offline Reinforcement Learning with Human Feedback, with W. Zhan, M. Uehara, J. D. Lee, and W. Sun.
+
+Proceedings of the 12th International Conference on Learning Representations (ICLR), 2024.
+
+arXiv May 2023.
+
+Spotlight at ICLR
+
+Abstract: In this paper, we investigate the problem of offline reinforcement learning with human feedback where feedback is available in the form of preference between trajectory pairs rather than explicit rewards. Our proposed algorithm consists of two main steps: (1) estimate the implicit reward using Maximum Likelihood Estimation (MLE) with general function approximation from offline data and (2) solve a distributionally robust planning problem over a confidence set around the MLE. We consider the general reward setting where the reward can be defined over the whole trajectory and provide a novel guarantee that allows us to learn any target policy with a polynomial number of samples, as long as the target policy is covered by the offline data. This guarantee is the first of its kind with general function approximation. To measure the coverage of the target policy, we introduce a new single-policy concentrability coefficient, which can be upper bounded by the per-trajectory concentrability coefficient. We also establish lower bounds that highlight the necessity of such concentrability and the difference from standard RL, where state-action-wise rewards are directly observed. We further extend and analyze our algorithm when the feedback is given over action pairs.  Read more ↓
+
+Large Language Models as Zero-Shot Conversational Recommenders, with Z. He, Z. Xie, R. Jha, H. Steck, D. Liang, Y. Feng, B. Majumder, and J. McAuley.
+
+Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.
+
+arXiv August 2023.
+
+GitHub.
+
+Abstract: In this paper, we present empirical studies on conversational recommendation tasks using representative large language models in a zero-shot setting with three primary contributions. (1) Data: To gain insights into model behavior in "in-the-wild" conversational recommendation scenarios, we construct a new dataset of recommendation-related conversations by scraping a popular discussion website. This is the largest public real-world conversational recommendation dataset to date. (2) Evaluation: On the new dataset and two existing conversational recommendation datasets, we observe that even without fine-tuning, large language models can outperform existing fine-tuned conversational recommendation models. (3) Analysis: We propose various probing tasks to investigate the mechanisms behind the remarkable performance of large language models in conversational recommendation. We analyze both the large language models' behaviors and the characteristics of the datasets, providing a holistic understanding of the models' effectiveness, limitations and suggesting directions for the design of future conversational recommenders.  Read more ↓
+
+The Benefits of Being Distributional: Small-Loss Bounds for Reinforcement Learning, with K. Wang, K. Zhou, R. Wu, and W. Sun.
+
+Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+arXiv May 2023.
+
+Abstract: While distributional reinforcement learning (RL) has demonstrated empirical success, the question of when and why it is beneficial has remained unanswered. In this work, we provide one explanation for the benefits of distributional RL through the lens of small-loss bounds, which scale with the instance-dependent optimal cost. If the optimal cost is small, our bounds are stronger than those from non-distributional approaches. As warmup, we show that learning the cost distribution leads to small-loss regret bounds in contextual bandits (CB), and we find that distributional CB empirically outperforms the state-of-the-art on three challenging tasks. For online RL, we propose a distributional version-space algorithm that constructs confidence sets using maximum likelihood estimation, and we prove that it achieves small-loss regret in the tabular MDPs and enjoys small-loss PAC bounds in latent variable models. Building on similar insights, we propose a distributional offline RL algorithm based on the pessimism principle and prove that it enjoys small-loss PAC bounds, which exhibit a novel robustness property. For both online and offline RL, our results provide the first theoretical benefits of learning distributions even when we only need the mean for making decisions.  Read more ↓
+
+Future-Dependent Value-Based Off-Policy Evaluation in POMDPs, with M. Uehara, H. Kiyohara, A. Bennett, V. Chernozhukov, N. Jiang, C. Shi, and W. Sun.
+
+Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+arXiv July 2022.
+
+Spotlight at NeurIPS
+
+Abstract: We study off-policy evaluation (OPE) for partially observable MDPs (POMDPs) with general function approximation. Existing methods such as sequential importance sampling estimators and fitted-Q evaluation suffer from the curse of horizon in POMDPs. To circumvent this problem, we develop a novel model-free OPE method by introducing future-dependent value functions that take future proxies as inputs. Future-dependent value functions play similar roles as classical value functions in fully-observable MDPs. We derive a new Bellman equation for future-dependent value functions as conditional moment equations that use history proxies as instrumental variables. We further propose a minimax learning method to learn future-dependent value functions using the new Bellman equation. We obtain the PAC result, which implies our OPE estimator is consistent as long as futures and histories contain sufficient information about latent states, and the Bellman completeness. Finally, we extend our methods to learning of dynamics and establish the connection between our approach and the well-known spectral learning methods in POMDPs.  Read more ↓
+
+Offline Minimax Soft-Q-learning Under Realizability and Partial Coverage, with M. Uehara, J. D. Lee, and W. Sun.
+
+Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), 2023.
+
+arXiv February 2023.
+
+Abstract: In offline RL, we have no opportunity to explore so we must make assumptions that the data is sufficient to guide picking a good policy, and we want to make these assumptions as harmless as possible. In this work, we propose value-based algorithms for offline RL with PAC guarantees under just partial coverage, specifically, coverage of just a single comparator policy, and realizability of the soft (entropy-regularized) Q-function of the single policy and a related function defined as a saddle point of certain minimax optimization problem. This offers refined and generally more lax conditions for offline RL. We further show an analogous result for vanilla Q-functions under a soft margin condition. To attain these guarantees, we leverage novel minimax learning algorithms and analyses to accurately estimate either soft or vanilla Q-functions with strong L2-convergence guarantees. Our algorithms' loss functions arise from casting the estimation problems as nonlinear convex optimization problems and Lagrangifying. Surprisingly we handle partial coverage even without explicitly enforcing pessimism.  Read more ↓
+
+Long-Term Causal Inference with Imperfect Surrogates using Many Weak Experiments, Proxies, and Cross-Fold Moments, with A. Bibaut, S. Ejdemyr, and M. Zhao.
+
+Conference on Digital Experimentation (CODE), 2023.
+
+arXiv November 2023.
+
+Abstract: Inferring causal effects on long-term outcomes using short-term surrogates is crucial to rapid innovation. However, even when treatments are randomized and surrogates fully mediate their effect on outcomes, it's possible that we get the direction of causal effects wrong due to confounding between surrogates and outcomes -- a situation famously known as the surrogate paradox. The availability of many historical experiments offer the opportunity to instrument for the surrogate and bypass this confounding. However, even as the number of experiments grows, two-stage least squares has non-vanishing bias if each experiment has a bounded size, and this bias is exacerbated when most experiments barely move metrics, as occurs in practice. We show how to eliminate this bias using cross-fold procedures, JIVE being one example, and construct valid confidence intervals for the long-term effect in new experiments where long-term outcome has not yet been observed. Our methodology further allows to proxy for effects not perfectly mediated by the surrogates, allowing us to handle both confounding and effect leakage as violations of standard statistical surrogacy conditions.  Read more ↓
+
+Evaluating the Surrogate Index as a Decision-Making Tool Using 200 A/B Tests at Netflix, with V. Zhang, M. Zhao, and A. Le.
+
+Conference on Digital Experimentation (CODE), 2023.
+
+arXiv November 2023.
+
+Abstract: Surrogate index approaches have recently become a popular method of estimating longer-term impact from shorter-term outcomes. In this paper, we leverage 1098 test arms from 200 A/B tests at Netflix to empirically investigate to what degree would decisions made using a surrogate index utilizing 14 days of data would align with those made using direct measurement of day 63 treatment effects. Focusing specifically on linear "auto-surrogate" models that utilize the shorter-term observations of the long-term outcome of interest, we find that the statistical inferences that we would draw from using the surrogate index are ˜95% consistent with those from directly measuring the long-term treatment effect. Moreover, when we restrict ourselves to the set of tests that would be "launched" (i.e. positive and statistically significant) based on the 63-day directly measured treatment effects, we find that relying instead on the surrogate index achieves 79% and 65% recall.  Read more ↓
+
+JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning, with K. Wang, J. Wang, Y. Li, I. Trummer, and W. Sun.
+
+Proceedings of the 1st Reinforcement Learning Conference (RLC), 2024.
+
+arXiv July 2023.
+
+Abstract: In this paper, we present JoinGym, an efficient and lightweight query optimization environment for reinforcement learning (RL). Join order selection (JOS) is a classic NP-hard combinatorial optimization problem from database query optimization and can serve as a practical testbed for the generalization capabilities of RL algorithms. We describe how to formulate each of the left-deep and bushy variants of the JOS problem as a Markov Decision Process (MDP), and we provide an implementation adhering to the standard Gymnasium API. We highlight that our implementation extsc{JoinGym} is completely based on offline traces of all possible joins, which enables RL practitioners to easily and quickly test their methods on a realistic data management problem without needing to setup any systems. Moreover, we also provide all possible join traces on 3300 novel SQL queries generated from the IMDB dataset. Upon benchmarking popular RL algorithms, we find that at least one method can obtain near-optimal performance on train-set queries but their performance degrades by several orders of magnitude on test-set queries. This gap motivates further research for RL algorithms that generalize well in multi-task combinatorial optimization problems.  Read more ↓
+
+Near-Minimax-Optimal Risk-Sensitive Reinforcement Learning with CVaR, with K. Wang and W. Sun.
+
+Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
+
+arXiv February 2023.
+
+Abstract: In this paper, we study risk-sensitive Reinforcement Learning (RL), focusing on the objective of Conditional Value at Risk (CVaR) with risk tolerance τ. Starting with multi-arm bandits (MABs), we show the minimax CVaR regret rate is Ω(√(AK/τ)), where A is the number of actions and K is the number of episodes, and that it is achieved by an Upper Confidence Bound algorithm with a novel Bernstein bonus. For online RL in tabular Markov Decision Processes (MDPs), we show a minimax regret lower bound of Ω(√(SAK/τ)) (with normalized cumulative rewards), where S is the number of states, and we propose a novel bonus-driven Value Iteration procedure. We show that our algorithm achieves the optimal regret of Ω(√(SAK/τ)) under a continuity assumption and in general attains a near-optimal regret of Ω(√(SAK)/τ), which is minimax-optimal for constant τ. This improves on the best available bounds. By discretizing rewards appropriately, our algorithms are computationally efficient.  Read more ↓
+
+Smooth Non-Stationary Bandits, with S. Jia, Q. Xie, and P. Frazier.
+
+Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
+
+arXiv January 2023.
+
+Abstract: In many applications of online decision making, the environment is non-stationary and it is therefore crucial to use bandit algorithms that handle changes. Most existing approaches are designed to protect against non-smooth changes, constrained only by total variation or Lipschitzness over time, where they guarantee T^(2/3) regret. However, in practice environments are often changing smoothly, so such algorithms may incur higher-than-necessary regret in these settings and do not leverage information on the rate of change. In this paper, we study a non-stationary two-arm bandit problem where we assume an arm's mean reward is a β-Hölder function over (normalized) time, meaning it is (β-1)-times Lipschitz-continuously differentiable. We show the first separation between the smooth and non-smooth regimes by presenting a policy with T^(3/5) regret for β=2. We complement this result by a T^((β+1)/(2β+1)) lower bound for any integer β≥1, which matches our upper bound for β=2.  Read more ↓
+
+B-Learner: Quasi-Oracle Bounds on Heterogeneous Causal Effects Under Hidden Confounding, with M. Oprescu, J. Dorn, M. Ghoummaid, A. Jesson, and U. Shalit.
+
+Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
+
+arXiv April 2023.
+
+Abstract: Estimating heterogeneous treatment effects from observational data is a crucial task across many fields, helping policy and decision-makers take better actions. There has been recent progress on robust and efficient methods for estimating the conditional average treatment effect (CATE) function, but these methods often do not take into account the risk of hidden confounding, which could arbitrarily and unknowingly bias any causal estimate based on observational data. We propose a meta-learner called the B-Learner, which can efficiently learn sharp bounds on the CATE function under limits on the level of hidden confounding. We derive the B-Learner by adapting recent results for sharp and valid bounds of the average treatment effect (Dorn et al., 2021) into the framework given by Kallus & Oprescu (2022) for robust and model-agnostic learning of distributional treatment effects. The B-Learner can use any function estimator such as random forests and deep neural networks, and we prove its estimates are valid, sharp, efficient, and have a quasi-oracle property with respect to the constituent estimators under more general conditions than existing methods. Semi-synthetic experimental comparisons validate the theoretical findings, and we use real-world data demonstrate how the method might be used in practice.  Read more ↓
+
+Computationally Efficient PAC RL in POMDPs with Latent Determinism and Conditional Embeddings, with M. Uehara, A. Sekhari, J. D. Lee, and W. Sun.
+
+Proceedings of the 40th International Conference on Machine Learning (ICML), 2023.
+
+arXiv June 2022.
+
+Abstract: We study reinforcement learning with function approximation for large-scale Partially Observable Markov Decision Processes (POMDPs) where the state space and observation space are large or even continuous. Particularly, we consider Hilbert space embeddings of POMDP where the feature of latent states and the feature of observations admit a conditional Hilbert space embedding of the observation emission process, and the latent state transition is deterministic. Under the function approximation setup where the optimal latent state-action Q-function is linear in the state feature, and the optimal Q-function has a gap in actions, we provide a computationally and statistically efficient algorithm for finding the exact optimal policy. We show our algorithm's computational and statistical complexities scale polynomially with respect to the horizon and the intrinsic dimension of the feature on the observation space. Furthermore, we show both the deterministic latent transitions and gap assumptions are necessary to avoid statistical complexity exponential in horizon or dimension. Since our guarantee does not have an explicit dependence on the size of the state and observation spaces, our algorithm provably scales to large-scale POMDPs.  Read more ↓
+
+Inference on Strongly Identified Functionals of Weakly Identified Functions, with A. Bennett, X. Mao, W. Newey, V. Syrgkanis, and M. Uehara.
+
+Major revision in JRSS:B.
+
+Proceedings of the 34th Conference on Learning Theory (COLT), 2023 (Extended abstract).
+
+arXiv August 2022.
+
+Abstract: In a variety of applications, including nonparametric instrumental variable (NPIV) analysis, proximal causal inference under unmeasured confounding, and missing-not-at-random data with shadow variables, we are interested in inference on a continuous linear functional (e.g., average causal effects) of nuisance function (e.g., NPIV regression) defined by conditional moment restrictions. These nuisance functions are generally weakly identified, in that the conditional moment restrictions can be severely ill-posed as well as admit multiple solutions. This is sometimes resolved by imposing strong conditions that imply the function can be estimated at rates that make inference on the functional possible. In this paper, we study a novel condition for the functional to be strongly identified even when the nuisance function is not; that is, the functional is amenable to asymptotically-normal estimation at √n-rates. The condition implies the existence of debiasing nuisance functions, and we propose penalized minimax estimators for both the primary and debiasing nuisance functions. The proposed nuisance estimators can accommodate flexible function classes, and importantly they can converge to fixed limits determined by the penalization regardless of the identifiability of the nuisances. We use the penalized nuisance estimators to form a debiased estimator for the functional of interest and prove its asymptotic normality under generic high-level conditions, which provide for asymptotically valid confidence intervals. We also illustrate our method in a novel partially linear proximal causal inference problem and a partially linear instrumental variable regression problem.  Read more ↓
+
+Minimax Instrumental Variable Regression and L2 Convergence Guarantees without Identification or Closedness, with A. Bennett, X. Mao, W. Newey, V. Syrgkanis, and M. Uehara.
+
+Proceedings of the 34th Conference on Learning Theory (COLT), 2023.
+
+arXiv February 2023.
+
+Abstract: In this paper, we study nonparametric estimation of instrumental variable (IV) regressions. Recently, many flexible machine learning methods have been developed for instrumental variable estimation. However, these methods have at least one of the following limitations: (1) restricting the IV regression to be uniquely identified; (2) only obtaining estimation error rates in terms of pseudometrics (e.g., projected norm) rather than valid metrics (e.g., L2 norm); or (3) imposing the so-called closedness condition that requires a certain conditional expectation operator to be sufficiently smooth. In this paper, we present the first method and analysis that can avoid all three limitations, while still permitting general function approximation. Specifically, we propose a new penalized minimax estimator that can converge to a fixed IV solution even when there are multiple solutions, and we derive a strong L2 error rate for our estimator under lax conditions. Notably, this guarantee only needs a widely-used source condition and realizability assumptions, but not the so-called closedness condition. We argue that the source condition and the closedness condition are inherently conflicting, so relaxing the latter significantly improves upon the existing literature that requires both conditions. Our estimator can achieve this improvement because it builds on a novel formulation of the IV estimation problem as a constrained optimization problem.  Read more ↓
+
+Near-Optimal Non-Parametric Sequential Tests and Confidence Sequences with Possibly Dependent Observations, with A. Bibaut and M. Lindon.
+
+arXiv December 2022.
+
+Abstract: Sequential testing, always-valid p-values, and confidence sequences promise flexible statistical inference and on-the-fly decision making. However, unlike fixed-n inference based on asymptotic normality, existing sequential tests either make parametric assumptions and end up under-covering/over-rejecting when these fail or use non-parametric but conservative concentration inequalities and end up over-covering/under-rejecting. To circumvent these issues, we sidestep exact at-least-α coverage and focus on asymptotically exact coverage and asymptotic optimality. That is, we seek sequential tests whose probability of ever rejecting a true hypothesis asymptotically approaches α and whose expected time to reject a false hypothesis approaches a lower bound on all tests with asymptotic coverage at least α, both under an appropriate asymptotic regime. We permit observations to be both non-parametric and dependent and focus on testing whether the observations form a martingale difference sequence. We propose the universal sequential probability ratio test (uSPRT), a slight modification to the normal-mixture sequential probability ratio test, where we add a burn-in period and adjust thresholds accordingly. We show that even in this very general setting, the uSPRT is asymptotically optimal under mild generic conditions. We apply the results to stabilized estimating equations to test means, treatment effects, etc. Our results also provide corresponding guarantees for the implied confidence sequences. Numerical simulations verify our guarantees and the benefits of the uSPRT over alternatives.  Read more ↓
+
+Provable Safe Reinforcement Learning with Binary Feedback, with A. Bennett and D. Misra.
+
+Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.
+
+arXiv October 2022.
+
+Abstract: Safety is a crucial necessity in many applications of reinforcement learning (RL), whether robotic, automotive, or medical. Many existing approaches to safe RL rely on receiving numeric safety feedback, but in many cases this feedback can only take binary values; that is, whether an action in a given state is safe or unsafe. This is particularly true when feedback comes from human experts. We therefore consider the problem of provable safe RL when given access to an offline oracle providing binary feedback on the safety of state, action pairs. We provide a novel meta algorithm, SABRE, which can be applied to any MDP setting given access to a blackbox PAC RL algorithm for that setting. SABRE applies concepts from active learning to reinforcement learning to provably control the number of queries to the safety oracle. SABRE works by iteratively exploring the state space to find regions where the agent is currently uncertain about safety. Our main theoretical results shows that, under appropriate technical assumptions, SABRE never takes unsafe actions during training, and is guaranteed to return a near-optimal safe policy with high probability. We provide a discussion of how our meta-algorithm may be applied to various settings studied in both theoretical and empirical frameworks.  Read more ↓
+
+Robust and Agnostic Learning of Conditional Distributional Treatment Effects, with M. Oprescu.
+
+Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS), 2023.
+
+arXiv May 2022.
+
+Abstract: The conditional average treatment effect (CATE) is the best point prediction of individual causal effects given individual baseline covariates and can help personalize treatments. However, as CATE only reflects the (conditional) average, it can wash out potential risks and tail events, which are crucially relevant to treatment choice. In aggregate analyses, this is usually addressed by measuring distributional treatment effect (DTE), such as differences in quantiles or tail expectations between treatment groups. Hypothetically, one can similarly fit covariate-conditional quantile regressions in each treatment group and take their difference, but this would not be robust to misspecification or provide agnostic best-in-class predictions. We provide a new robust and model-agnostic methodology for learning the conditional DTE (CDTE) for a wide class of problems that includes conditional quantile treatment effects, conditional super-quantile treatment effects, and conditional treatment effects on coherent risk measures given by f-divergences. Our method is based on constructing a special pseudo-outcome and regressing it on baseline covariates using any given regression learner. Our method is model-agnostic in the sense that it can provide the best projection of CDTE onto the regression model class. Our method is robust in the sense that even if we learn these nuisances nonparametrically at very slow rates, we can still learn CDTEs at rates that depend on the class complexity and even conduct inferences on linear projections of CDTEs. We investigate the performance of our proposal in simulation studies, and we demonstrate its use in a case study of 401(k) eligibility effects on wealth.  Read more ↓
+
+What's the Harm? Sharp Bounds on the Fraction Negatively Affected by Treatment.
+
+Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), 2022.
+
+arXiv May 2022.
+
+GitHub.
+
+Oral at NeurIPS
+
+Abstract: The fundamental problem of causal inference -- that we never observe counterfactuals -- prevents us from identifying how many might be negatively affected by a proposed intervention. If, in an A/B test, half of users click (or buy, or watch, or renew, etc.), whether exposed to the standard experience A or a new one B, hypothetically it could be because the change affects no one, because the change positively affects half the user population to go from no-click to click while negatively affecting the other half, or something in between. While unknowable, this impact is clearly of material importance to the decision to implement a change or not, whether due to fairness, long-term, systemic, or operational considerations. We therefore derive the tightest-possible (i.e., sharp) bounds on the fraction negatively affected (and other related estimands) given data with only factual observations, whether experimental or observational. Naturally, the more we can stratify individuals by observable covariates, the tighter the sharp bounds. Since these bounds involve unknown functions that must be learned from data, we develop a robust inference algorithm that is efficient almost regardless of how and how fast these functions are learned, remains consistent when some are mislearned, and still gives valid conservative bounds when most are mislearned. Our methodology altogether therefore strongly supports credible conclusions: it avoids spuriously point-identifying this unknowable impact, focusing on the best bounds instead, and it permits exceedingly robust inference on these. We demonstrate our method in simulation studies and in a case study of career counseling for the unemployed.  Read more ↓
+
+Provably Efficient Reinforcement Learning in Partially Observable Dynamical Systems, with M. Uehara, A. Sekhari, J. D. Lee, and W. Sun.
+
+Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), 2022.
+
+arXiv June 2022.
+
+Abstract: We study Reinforcement Learning for partially observable dynamical systems using function approximation. We propose a new Partially Observable Bilinear Actor-Critic framework, that is general enough to include models such as observable tabular Partially Observable Markov Decision Processes (POMDPs), observable Linear-Quadratic-Gaussian (LQG), Predictive State Representations (PSRs), as well as a newly introduced model Hilbert Space Embeddings of POMDPs and observable POMDPs with latent low-rank transition. Under this framework, we propose an actor-critic style algorithm that is capable of performing agnostic policy learning. Given a policy class that consists of memory based policies (that look at a fixed-length window of recent observations), and a value function class that consists of functions taking both memory and future observations as inputs, our algorithm learns to compete against the best memory-based policy in the given policy class. For certain examples such as undercomplete observable tabular POMDPs, observable LQGs and observable POMDPs with latent low-rank transition, by implicitly leveraging their special properties, our algorithm is even capable of competing against the globally optimal policy without paying an exponential dependence on the horizon in its sample complexity.  Read more ↓
+
+The Implicit Delta Method, with J. McInerney.
+
+Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS), 2022.
+
+arXiv November 2022.
+
+Abstract: Epistemic uncertainty quantification is a crucial part of drawing credible conclusions from predictive models, whether concerned about the prediction at a given point or any downstream evaluation that uses the model as input. When the predictive model is simple and its evaluation differentiable, this task is solved by the delta method, where we propagate the asymptotically-normal uncertainty in the predictive model through the evaluation to compute standard errors and Wald confidence intervals. However, this becomes difficult when the model and/or evaluation becomes more complex. Remedies include the bootstrap, but it can be computationally infeasible when training the model even once is costly. In this paper, we propose an alternative, the implicit delta method, which works by infinitesimally regularizing the training loss of the predictive model to automatically assess downstream uncertainty. We show that the change in the evaluation due to regularization is consistent for the asymptotic variance of the evaluation estimator, even when the infinitesimal change is approximated by a finite difference. This provides both a reliable quantification of uncertainty in terms of standard errors as well as permits the construction of calibrated confidence intervals. We discuss connections to other approaches to uncertainty quantification, both Bayesian and frequentist, and demonstrate our approach empirically.  Read more ↓
+
+A Review of Off-Policy Evaluation in Reinforcement Learning, with M. Uehara and C. Shi.
+
+Minor revision in Statistical Science.
+
+arXiv December 2022.
+
+Abstract: Reinforcement learning (RL) is one of the most vibrant research frontiers in machine learning and has been recently applied to solve a number of challenging problems. In this paper, we primarily focus on off-policy evaluation (OPE), one of the most fundamental topics in RL. In recent years, a number of OPE methods have been developed in the statistics and computer science literature. We provide a discussion on the efficiency bound of OPE, some of the existing state-of-the-art OPE methods, their statistical properties and some other related research directions that are currently actively explored.  Read more ↓
+
+Learning Bellman Complete Representations for Offline Policy Evaluation, with J. Chang, K. Wang, and W. Sun.
+
+Proceedings of the 39th International Conference on Machine Learning (ICML), 2022.
+
+arXiv July 2022.
+
+GitHub.
+
+Oral at ICML
+
+Abstract: We study representation learning for Offline Reinforcement Learning (RL), focusing on the important task of Offline Policy Evaluation (OPE). Recent work shows that, in contrast to supervised learning, realizability of the Q-function is not enough for learning it. Two sufficient conditions for sample-efficient OPE are Bellman completeness and coverage. Prior work often assumes that representations satisfying these conditions are given, with results being mostly theoretical in nature. In this work, we propose BCRL, which directly learns from data an approximately linear Bellman complete representation with good coverage. With this learned representation, we perform OPE using Least Square Policy Evaluation (LSPE) with linear functions in our learned representation. We present an end-to-end theoretical analysis, showing that our two-stage algorithm enjoys polynomial sample complexity provided some representation in the rich class considered is linear Bellman complete. Empirically, we extensively evaluate our algorithm on challenging, image-based continuous control tasks from the Deepmind Control Suite. We show our representation enables better OPE compared to previous representation learning methods developed for off-policy RL (e.g., CURL, SPR). BCRL achieves competitive OPE error with the state-of-the-art method Fitted Q-Evaluation (FQE), and beats FQE when evaluating beyond the initial state distribution. Our ablations show that both linear Bellman complete and coverage components of our method are crucial.  Read more ↓
+
+Long-term Causal Inference Under Persistent Confounding via Data Combination, with G. Imbens, X. Mao, and Y. Wang.
+
+Major revision in JRSS:B.
+
+arXiv February 2022.
+
+Abstract: We study the identification and estimation of long-term treatment effects when both experimental and observational data are available. Since the long-term outcome is observed only after a long delay, it is not measured in the experimental data, but only recorded in the observational data. However, both types of data include observations of some short-term outcomes. In this paper, we uniquely tackle the challenge of persistent unmeasured confounders, i.e., some unmeasured confounders that can simultaneously affect the treatment, short-term outcomes and the long-term outcome, noting that they invalidate identification strategies in previous literature. To address this challenge, we exploit the sequential structure of multiple short-term outcomes, and develop three novel identification strategies for the average long-term treatment effect. We further propose three corresponding estimators and prove their asymptotic consistency and asymptotic normality. We finally apply our methods to estimate the effect of a job training program on long-term employment using semi-synthetic data. We numerically show that our proposals outperform existing methods that fail to handle persistent confounders.  Read more ↓
+
+Treatment Effect Risk: Bounds and Inference.
+
+Management Science (Fast Track), 2023.
+
+Proceedings of the 5th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2022 (Extended abstract).
+
+arXiv January 2022.
+
+GitHub.
+
+Accepted to Fast Track in Management Science
+
+Abstract: Since the average treatment effect (ATE) measures the change in social welfare, even if positive, there is a risk of negative effect on, say, some 10% of the population. Assessing such risk is difficult, however, because any one individual treatment effect (ITE) is never observed so the 10% worst-affected cannot be identified, while distributional treatment effects only compare the first deciles within each treatment group, which does not correspond to any 10%-subpopulation. In this paper we consider how to nonetheless assess this important risk measure, formalized as the conditional value at risk (CVaR) of the ITE distribution. We leverage the availability of pre-treatment covariates and characterize the tightest-possible upper and lower bounds on ITE-CVaR given by the covariate-conditional average treatment effect (CATE) function. Some bounds can also be interpreted as summarizing a complex CATE function into a single metric and are of interest independently of being a bound. We then proceed to study how to estimate these bounds efficiently from data and construct confidence intervals. This is challenging even in randomized experiments as it requires understanding the distribution of the unknown CATE function, which can be very complex if we use rich covariates so as to best control for heterogeneity. We develop a debiasing method that overcomes this and prove it enjoys favorable statistical properties even when CATE and other nuisances are estimated by black-box machine learning or even inconsistently. Studying a hypothetical change to French job-search counseling services, our bounds and inference demonstrate a small social benefit entails a negative impact on a substantial subpopulation.  Read more ↓
+
+Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding, with J. Dorn and K. Guo.
+
+Journal of the American Statistical Association (JASA), 2024.
+
+arXiv December 2021.
+
+GitHub.
+
+Abstract: We study the problem of constructing bounds on the average treatment effect in the presence of unobserved confounding under the marginal sensitivity model of Tan (2006). Combining an existing characterization involving adversarial propensity scores with a new distributionally robust characterization of the problem, we propose novel estimators of these bounds that we call "doubly-valid/doubly-sharp" (DVDS) estimators. Double sharpness corresponds to the fact that DVDS estimators consistently estimate the tightest possible (i.e., sharp) bounds implied by the sensitivity model even when one of two nuisance parameters is misspecified and achieve semiparametric efficiency when all nuisance parameters are suitably consistent. Double validity is an entirely new property for partial identification: DVDS estimators still provide valid, though not sharp, bounds even when most nuisance parameters are misspecified. In fact, even in cases when DVDS point estimates fail to be asymptotically normal, standard Wald confidence intervals may remain valid. In the case of binary outcomes, the DVDS estimators are particularly convenient and possesses a closed-form expression in terms of the outcome regression and propensity score. We demonstrate the DVDS estimators in a simulation study as well as a case study of right heart catheterization.  Read more ↓
+
+Controlling for Unmeasured Confounding in Panel Data Using Minimal Bridge Functions: From Two-Way Fixed Effects to Factor Models, with G. Imbens and X. Mao.
+
+arXiv August 2021.
+
+Abstract: We develop a new approach for identifying and estimating average causal effects in panel data under a linear factor model with unmeasured confounders. Compared to other methods tackling factor models such as synthetic controls and matrix completion, our method does not require the number of time periods to grow infinitely. Instead, we draw inspiration from the two-way fixed effect model as a special case of the linear factor model, where a simple difference-in-differences transformation identifies the effect. We show that analogous, albeit more complex, transformations exist in the more general linear factor model, providing a new means to identify the effect in that model. In fact many such transformations exist, called bridge functions, all identifying the same causal effect estimand. This poses a unique challenge for estimation and inference, which we solve by targeting the minimal bridge function using a regularized estimation approach. We prove that our resulting average causal effect estimator is root-N consistent and asymptotically normal, and we provide asymptotically valid confidence intervals. Finally, we provide extensions for the case of a linear factor model with time-varying unmeasured confounders.  Read more ↓
+
+Estimating Structural Disparities for Face Models, with S. Ardeshir and C. Segalin.
+
+Proceedings of the 33rd IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+
+arXiv April 2022.
+
+Abstract: In machine learning, disparity metrics are often defined by measuring the difference in the performance or outcome of a model, across different sub-populations (groups) of datapoints. Thus, the inputs to disparity quantification consist of a model's predictions, the ground-truth labels for the predictions ŷ, and group labels g for the data points. Performance of the model for each group is calculated by comparing ŷ and y for the datapoints within a specific group, and as a result, disparity of performance across the different groups can be calculated. In many real world scenarios however, group labels (g) may not be available at scale during training and validation time, or collecting them might not be feasible or desirable as they could often be sensitive information. As a result, evaluating disparity metrics across categorical groups would not be feasible. On the other hand, in many scenarios noisy groupings may be obtainable using some form of a proxy, which would allow measuring disparity metrics across sub-populations. Here we explore performing such analysis on computer vision models trained on human faces, and on tasks such as face attribute prediction and affect estimation. Our experiments indicate that embeddings resulting from an off-the-shelf face recognition model, could meaningfully serve as a proxy for such estimation.  Read more ↓
+
+Doubly Robust Distributionally Robust Off-Policy Evaluation and Learning, with X. Mao, K. Wang, and Z. Zhou.
+
+Proceedings of the 39th International Conference on Machine Learning (ICML), 2022.
+
+arXiv February 2022.
+
+Spotlight at ICML
+
+Abstract: Off-policy evaluation and learning (OPE/L) use offline observational data to make better decisions, which is crucial in applications where experimentation is necessarily limited. OPE/L is nonetheless sensitive to discrepancies between the data-generating environment and that where policies are deployed. Recent work proposed distributionally robust OPE/L (DROPE/L) to remedy this, but the proposal relies on inverse-propensity weighting, whose regret rates may deteriorate if propensities are estimated and whose variance is suboptimal even if not. For vanilla OPE/L, this is solved by doubly robust (DR) methods, but they do not naturally extend to the more complex DROPE/L, which involves a worst-case expectation. In this paper, we propose the first DR algorithms for DROPE/L with KL-divergence uncertainty sets. For evaluation, we propose Localized Doubly Robust DROPE (LDR²OPE) and prove its semiparametric efficiency under weak product rates conditions. Notably, thanks to a localization technique, LDR²OPE only requires fitting a small number of regressions, just like DR methods for vanilla OPE. For learning, we propose Continuum Doubly Robust DROPL (CDR²OPL) and show that, under a product rate condition involving a continuum of regressions, it enjoys a fast regret rate of O(1/√N) even when unknown propensities are nonparametrically estimated. We further extend our results to general f-divergence uncertainty sets. We illustrate the advantage of our algorithms in simulations.  Read more ↓
+
+An Empirical Evaluation of the Impact of New York's Bail Reform on Crime Using Synthetic Controls, with T. Bergin, A. Koo, S. Koppel, R. Peterson, R. Ropac, and A. Zhou.
+
+Statistics and Public Policy, 2023.
+
+arXiv November 2021.
+
+Abstract: We conduct an empirical evaluation of the impact of New York's bail reform on crime. New York State's Bail Elimination Act went into effect on January 1, 2020, eliminating money bail and pretrial detention for nearly all misdemeanor and nonviolent felony defendants. Our analysis of effects on aggregate crime rates after the reform informs the understanding of bail reform and general deterrence. We conduct a synthetic control analysis for a comparative case study of impact of bail reform. We focus on synthetic control analysis of post-intervention changes in crime for assault, theft, burglary, robbery, and drug crimes, constructing a dataset from publicly reported crime data of 27 large municipalities. Our findings, including placebo checks and other robustness checks, show that for assault, theft, and drug crimes, there is no significant impact of bail reform on crime; for burglary and robbery, we similarly have null findings but the synthetic control is also more variable so these are deemed less conclusive.  Read more ↓
+
+Post-Contextual-Bandit Inference, with A. Bibaut, A. Chambaz, M. Dimakopoulou, and M. van der Laan.
+
+Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021.
+
+arXiv June 2021.
+
+Abstract: Contextual bandit algorithms are increasingly replacing non-adaptive A/B tests in e-commerce, healthcare, and policymaking because they can both improve outcomes for study participants and increase the chance of identifying good or even best policies. To support credible inference on novel interventions at the end of the study, nonetheless, we still want to construct valid confidence intervals on average treatment effects, subgroup effects, or value of new policies. The adaptive nature of the data collected by contextual bandit algorithms, however, makes this difficult: standard estimators are no longer asymptotically normally distributed and classic confidence intervals fail to provide correct coverage. While this has been addressed in non-contextual settings by using stabilized estimators, the contextual setting poses unique challenges that we tackle for the first time in this paper. We propose the Contextual Adaptive Doubly Robust (CADR) estimator, the first estimator for policy value that is asymptotically normal under contextual adaptive data collection. The main technical challenge in constructing CADR is designing adaptive and consistent conditional standard deviation estimators for stabilization. Extensive numerical experiments using 57 OpenML datasets demonstrate that confidence intervals based on CADR uniquely provide correct coverage.  Read more ↓
+
+Risk Minimization from Adaptively Collected Data: Guarantees for Supervised and Policy Learning, with A. Bibaut, A. Chambaz, M. Dimakopoulou, and M. van der Laan.
+
+Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021.
+
+arXiv June 2021.
+
+Abstract: Empirical risk minimization (ERM) is the workhorse of machine learning, whether for classification and regression or for off-policy policy learning, but its model-agnostic guarantees can fail when we use adaptively collected data, such as the result of running a contextual bandit algorithm. We study a generic importance sampling weighted ERM algorithm for using adaptively collected data to minimize the average of a loss function over a hypothesis class and provide first-of-their-kind generalization guarantees and fast convergence rates. Our results are based on a new maximal inequality that carefully leverages the importance sampling structure to obtain rates with the right dependence on the exploration rate in the data. For regression, we provide fast rates that leverage the strong convexity of squared-error loss. For policy learning, we provide rate-optimal regret guarantees that close an open gap in the existing literature whenever exploration decays to zero, as is the case for bandit-collected data. An empirical investigation validates our theory.  Read more ↓
+
+Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes, with A. Bennett.
+
+Operations Research, 2023.
+
+arXiv October 2021.
+
+GitHub.
+
+Abstract: In applications of offline reinforcement learning to observational data, such as in healthcare or education, a general concern is that observed actions might be affected by unobserved factors, inducing confounding and biasing estimates derived under the assumption of a perfect Markov decision process (MDP) model. Here we tackle this by considering off-policy evaluation in a partially observed MDP (POMDP). Specifically, we consider estimating the value of a given target policy in a POMDP given trajectories with only partial state observations generated by a different and unknown policy that may depend on the unobserved state. We tackle two questions: what conditions allow us to identify the target policy value from the observed data and, given identification, how to best estimate it. To answer these, we extend the framework of proximal causal inference to our POMDP setting, providing a variety of settings where identification is made possible by the existence of so-called bridge functions. We then show how to construct semiparametrically efficient estimators in these settings. We term the resulting framework proximal reinforcement learning (PRL). We demonstrate the benefits of PRL in an extensive simulation study.  Read more ↓
+
+Causal Inference Under Unmeasured Confounding With Negative Controls: A Minimax Learning Approach, with X. Mao and M. Uehara.
+
+arXiv March 2021.
+
+Abstract: We study the estimation of causal parameters when not all confounders are observed and instead negative controls are available. Recent work has shown how these can enable identification and efficient estimation via two so-called bridge functions. In this paper, we tackle the primary challenge to causal inference using negative controls: the identification and estimation of these bridge functions. Previous work has relied on uniqueness and completeness assumptions on these functions that may be implausible in practice and also focused on their parametric estimation. Instead, we provide a new identification strategy that avoids both uniqueness and completeness. And, we provide a new estimators for these functions based on minimax learning formulations. These estimators accommodate general function classes such as reproducing Hilbert spaces and neural networks. We study finite-sample convergence results both for estimating bridge function themselves and for the final estimation of the causal parameter. We do this under a variety of combinations of assumptions that include realizability and closedness conditions on the hypothesis and critic classes employed in the minimax estimator. Depending on how much we are willing to assume, we obtain different convergence rates. In some cases, we show the estimate for the causal parameter may converge even when our bridge function estimators do not converge to any valid bridge function. And, in other cases, we show we can obtain semiparametric efficiency.  Read more ↓
+
+Fast Rates for Contextual Linear Optimization, with Y. Hu and X. Mao.
+
+Management Science (Fast Track), 2021.
+
+arXiv November 2020.
+
+GitHub.
+
+Accepted to Fast Track in Management Science
+
+Abstract: Incorporating side observations of predictive features can help reduce uncertainty in operational decision making, but it also requires we tackle a potentially complex predictive relationship. Although one may use a variety of off-the-shelf machine learning methods to learn a predictive model and then plug it into our decision-making problem, a variety of recent work has instead advocated integrating estimation and optimization by taking into consideration downstream decision performance. Surprisingly, in the case of contextual linear optimization, we show that the naive plug-in approach actually achieves regret convergence rates that are significantly faster than the best-possible by methods that directly optimize down-stream decision performance. We show this by leveraging the fact that specific problem instances do not have arbitrarily bad near-degeneracy. While there are other pros and cons to consider as we discuss, our results highlight a very nuanced landscape for the enterprise to integrate estimation and optimization.  Read more ↓
+
+Stochastic Optimization Forests, with X. Mao.
+
+Management Science, 2021.
+
+arXiv August 2020.
+
+GitHub.
+
+Abstract: We study conditional stochastic optimization problems, where we leverage rich auxiliary observations (e.g., customer characteristics) to improve decision-making with uncertain variables (e.g., demand). We show how to train forest decision policies for this problem by growing trees that choose splits to directly optimize the downstream decision quality, rather than splitting to improve prediction accuracy as in the standard random forest algorithm. We realize this seemingly computationally intractable problem by developing approximate splitting criteria that utilize optimization perturbation analysis to eschew burdensome re-optimization for every candidate split, so that our method scales to large-scale problems. Our method can accommodate both deterministic and stochastic constraints. We prove that our splitting criteria consistently approximate the true risk. We extensively validate its efficacy empirically, demonstrating the value of optimization-aware construction of forests and the success of our efficient approximations. We show that our approximate splitting criteria can reduce running time hundredfold, while achieving performance close to forest algorithms that exactly re-optimize for every candidate split.  Read more ↓
+
+Stateful Offline Contextual Policy Evaluation and Learning, with A. Zhou.
+
+Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS), 2022.
+
+arXiv October 2021.
+
+Abstract: We study off-policy evaluation and learning from sequential data in a structured class of Markov decision processes that arise from repeated interactions with an exogenous sequence of arrivals with contexts, which generate unknown individual-level responses to agent actions. This model can be thought of as an offline generalization of contextual bandits with resource constraints. We formalize the relevant causal structure of problems such as dynamic personalized pricing and other operations management problems in the presence of potentially high-dimensional user types. The key insight is that an individual-level response is often not causally affected by the state variable and can therefore easily be generalized across timesteps and states. When this is true, we study implications for (doubly robust) off-policy evaluation and learning by instead leveraging single time-step evaluation, estimating the expectation over a single arrival via data from a population, for fitted-value iteration in a marginal MDP. We study sample complexity and analyze error amplification that leads to the persistence, rather than attenuation, of confounding error over time. In simulations of dynamic and capacitated pricing, we show improved out-of-sample policy performance in this class of relevant problems.  Read more ↓
+
+Control Variates for Slate Off-Policy Evaluation, with F. Amat Gil, A. Chandrashekar, and N. Vlassis.
+
+Proceedings of the 35th Conference on Neural Information Processing Systems (NeurIPS), 2021.
+
+arXiv June 2021.
+
+Abstract: We study the problem of off-policy evaluation from batched contextual bandit data with multidimensional actions, often termed slates. The problem is common to recommender systems and user-interface optimization, and it is particularly challenging because of the combinatorially-sized action space. Swaminathan et al. (2017) have proposed the pseudoinverse (PI) estimator under the assumption that the conditional mean rewards are additive in actions. Using control variates, we consider a large class of unbiased estimators that includes as specific cases the PI estimator and (asymptotically) its self-normalized variant. By optimizing over this class, we obtain new estimators with risk improvement guarantees over both the PI and the self-normalized PI estimators. Experiments with real-world recommender data as well as synthetic data validate these improvements in practice.  Read more ↓
+
+Fast Rates for the Regret of Offline Reinforcement Learning, with Y. Hu and M. Uehara.
+
+Mathematics of Operations Research, 2024.
+
+Proceedings of the 34th Conference on Learning Theory (COLT), 2021 (Extended abstract).
+
+arXiv February 2021.
+
+Abstract: We study the regret of reinforcement learning from offline data generated by a fixed behavior policy in an infinite-horizon discounted Markov decision process (MDP). While existing analyses of common approaches, such as fitted Q-iteration (FQI), suggest a O(1/√n) convergence for regret, empirical behavior exhibits much faster convergence. In this paper, we present a finer regret analysis that exactly characterizes this phenomenon by providing fast rates for the regret convergence. First, we show that given any estimate for the optimal quality function Q*, the regret of the policy it defines converges at a rate given by the exponentiation of the Q*-estimate's pointwise convergence rate, thus speeding it up. The level of exponentiation depends on the level of noise in the decision-making problem, rather than the estimation problem. We establish such noise levels for linear and tabular MDPs as examples. Second, we provide new analyses of FQI and Bellman residual minimization to establish the correct pointwise convergence guarantees. As specific cases, our results imply O(1/n) regret rates in linear cases and exp(-Ω(n)) regret rates in tabular cases.  Read more ↓
+
+The Effect of Patient Age on Discharge Destination and Complications After Lumbar Spinal Fusion, with B. Pennicooke, M. Santacatterina, J. Lee, and E. Elowitz.
+
+Journal of Clinical Neuroscience, 91:319--326, 2021.
+
+Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency, with M. Imaizumi, N. Jiang, W. Sun, M. Uehara, and T. Xie.
+
+arXiv February 2021.
+
+Abstract: We offer a theoretical characterization of off-policy evaluation (OPE) in reinforcement learning using function approximation for marginal importance weights and q-functions when these are estimated using recent minimax methods. Under various combinations of realizability and completeness assumptions, we show that the minimax approach enables us to achieve a fast rate of convergence for weights and quality functions, characterized by the critical inequality (Bartlett et al., 2005). Based on this result, we analyze convergence rates for OPE. In particular, we introduce novel alternative completeness conditions under which OPE is feasible and we present the first finite-sample result with first-order efficiency in non-tabular environments, i.e., having the minimal coefficient in the leading term.  Read more ↓
+
+On the Optimality of Randomization in Experimental Design: How to Randomize for Minimax Variance and Design-Based Inference.
+
+Journal of the Royal Statistical Society: Series B (JRSS:B), 2021.
+
+arXiv May 2020.
+
+Abstract: I study the minimax-optimal design for a two-arm controlled experiment where conditional mean outcomes may vary in a given set. When this set is permutation symmetric, the optimal design is complete randomization, and using a single partition (i.e., the design that only randomizes the treatment labels for each side of the partition) has minimax risk larger by a factor of n-1. More generally, the optimal design is shown to be the mixed-strategy optimal design (MSOD) of Kallus (2018). Notably, even when the set of conditional mean outcomes has structure (i.e., is not permutation symmetric), being minimax-optimal for variance still requires randomization beyond a single partition. Nonetheless, since this targets precision, it may still not ensure sufficient uniformity in randomization to enable randomization (i.e., design-based) inference by Fisher's exact test to appropriately detect violations of null. I therefore propose the inference-constrained MSOD, which is minimax-optimal among all designs subject to such uniformity constraints. On the way, I discuss Johansson et al. (2020) who recently compared rerandomization of Morgan and Rubin (2012) and the pure-strategy optimal design (PSOD) of Kallus (2018). I point out some errors therein and set straight that randomization is minimax-optimal and that the "no free lunch" theorem and example in Kallus (2018) are correct.  Read more ↓
+
+Rejoinder: New Objectives for Policy Learning.
+
+Journal of the American Statistical Association (JASA), 2020, Special Issue on Precision Medicine and Individualized Policy Discovery.
+
+arXiv December 2020.
+
+GitHub.
+
+Abstract: I provide a rejoinder for discussion of "More Efficient Policy Learning via Optimal Retargeting" to appear in the Journal of the American Statistical Association with discussion by Oliver Dukes and Stijn Vansteelandt; Sijia Li, Xiudi Li, and Alex Luedtkeand; and Muxuan Liang and Yingqi Zhao.  Read more ↓
+
+Fairness, Welfare, and Equity in Personalized Pricing, with A. Zhou.
+
+Proceedings of the 4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2021.
+
+arXiv December 2020.
+
+Abstract: We study the interplay of fairness, welfare, and equity considerations in personalized pricing based on customer features. Sellers are increasingly able to conduct price personalization based on predictive modeling of demand conditional on covariates: setting customized interest rates, targeted discounts of consumer goods, and personalized subsidies of scarce resources with positive externalities like vaccines and bed nets. These different application areas may lead to different concerns around fairness, welfare, and equity on different objectives: price burdens on consumers, price envy, firm revenue, access to a good, equal access, and distributional consequences when the good in question further impacts downstream outcomes of interest. We conduct a comprehensive literature review in order to disentangle these different normative considerations and propose a taxonomy of different objectives with mathematical definitions. We focus on observational metrics that do not assume access to an underlying valuation distribution which is either unobserved due to binary feedback or ill-defined due to overriding behavioral concerns regarding interpreting revealed preferences. In the setting of personalized pricing for the provision of goods with positive benefits, we discuss how price optimization may provide unambiguous benefit by achieving a "triple bottom line": personalized pricing enables expanding access, which in turn may lead to gains in welfare due to heterogeneous utility, and improve revenue or budget utilization. We empirically demonstrate the potential benefits of personalized pricing in two settings: pricing subsidies for an elective vaccine, and the effects of personalized interest rates on downstream outcomes in microcredit.  Read more ↓
+
+The Variational Method of Moments, with A. Bennett.
+
+Journal of the Royal Statistical Society: Series B (JRSS:B), 2023.
+
+arXiv December 2020.
+
+Abstract: The conditional moment problem is a powerful formulation for describing structural causal parameters in terms of observables, a prominent example being instrumental variable regression. A standard approach is to reduce the problem to a finite set of marginal moment conditions and apply the optimally weighted generalized method of moments (OWGMM), but this requires we know a finite set of identifying moments, can still be inefficient even if identifying, or can be unwieldy and impractical if we use a growing sieve of moments. Motivated by a variational minimax reformulation of OWGMM, we define a very general class of estimators for the conditional moment problem, which we term the variational method of moments (VMM) and which naturally enables controlling infinitely-many moments. We provide a detailed theoretical analysis of multiple VMM estimators, including based on kernel methods and neural networks, and provide appropriate conditions under which these estimators are consistent, asymptotically normal, and semiparametrically efficient in the full conditional moment model. This is in contrast to other recently proposed methods for solving conditional moment problems based on adversarial machine learning, which do not incorporate optimal weighting, do not establish asymptotic normality, and are not semiparametrically efficient.  Read more ↓
+
+DTR Bandit: Learning to Make Response-Adaptive Decisions With Low Regret, with Y. Hu.
+
+Moderate revision in JASA.
+
+arXiv May 2020.
+
+GitHub.
+
+Abstract: Dynamic treatment regimes (DTRs) are personalized, adaptive, multi-stage treatment plans that adapt treatment decisions both to an individual's initial features and to intermediate outcomes and features at each subsequent stage, which are affected by decisions in prior stages. Examples include personalized first- and second-line treatments of chronic conditions like diabetes, cancer, and depression, which adapt to patient response to first-line treatment, disease progression, and individual characteristics. While existing literature mostly focuses on estimating the optimal DTR from offline data such as from sequentially randomized trials, we study the problem of developing the optimal DTR in an online manner, where the interaction with each individual affect both our cumulative reward and our data collection for future learning. We term this the DTR bandit problem. We propose a novel algorithm that, by carefully balancing exploration and exploitation, is guaranteed to achieve rate-optimal regret when the transition and reward models are linear. We demonstrate our algorithm and its benefits both in synthetic experiments and in a case study of adaptive treatment of major depressive disorder using real-world data.  Read more ↓
+
+Optimal Off-Policy Evaluation from Multiple Logging Policies, with Y. Saito and M. Uehara.
+
+Proceedings of the 38th International Conference on Machine Learning (ICML), 2021.
+
+arXiv October 2020.
+
+GitHub.
+
+Abstract: We study off-policy evaluation (OPE) from multiple logging policies, each generating a dataset of fixed size, i.e., stratified sampling. Previous work noted that in this setting the ordering of the variances of different importance sampling estimators is instance-dependent, which brings up a dilemma as to which importance sampling weights to use. In this paper, we resolve this dilemma by finding the OPE estimator for multiple loggers with minimum variance for any instance, i.e., the efficient one. In particular, we establish the efficiency bound under stratified sampling and propose an estimator achieving this bound when given consistent q-estimates. To guard against misspecification of q-functions, we also provide a way to choose the control variate in a hypothesis class to minimize variance. Extensive experiments demonstrate the benefits of our methods' efficiently leveraging of the stratified sampling of off-policy data from multiple loggers.  Read more ↓
+
+Doubly Robust Off-Policy Value and Gradient Estimation for Deterministic Policies, with M. Uehara.
+
+Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020.
+
+arXiv June 2020.
+
+GitHub.
+
+Abstract: Offline reinforcement learning, wherein one uses off-policy data logged by a fixed behavior policy to evaluate and learn new policies, is crucial in applications where experimentation is limited such as medicine. We study the estimation of policy value and gradient of a deterministic policy from off-policy data when actions are continuous. Targeting deterministic policies, for which action is a deterministic function of state, is crucial since optimal policies are always deterministic (up to ties). In this setting, standard importance sampling and doubly robust estimators for policy value and gradient fail because the density ratio does not exist. To circumvent this issue, we propose several new doubly robust estimators based on different kernelization approaches. We analyze the asymptotic mean-squared error of each of these under mild rate conditions for nuisance estimators. Specifically, we demonstrate how to obtain a rate that is independent of the horizon length.  Read more ↓
+
+Efficient Evaluation of Natural Stochastic Policies in Offline Reinforcement Learning, with M. Uehara.
+
+Biometrika, 2023.
+
+arXiv June 2020.
+
+GitHub.
+
+Abstract: We study the efficient off-policy evaluation of natural stochastic policies, which are defined in terms of deviations from the behavior policy. This is a departure from the literature on off-policy evaluation where most work consider the evaluation of explicitly specified policies. Crucially, offline reinforcement learning with natural stochastic policies can help alleviate issues of weak overlap, lead to policies that build upon current practice, and improve policies' implementability in practice. Compared with the classic case of a pre-specified evaluation policy, when evaluating natural stochastic policies, the efficiency bound, which measures the best-achievable estimation error, is inflated since the evaluation policy itself is unknown. In this paper we derive the efficiency bounds of two major types of natural stochastic policies: tilting policies and modified treatment policies. We then propose efficient nonparametric estimators that attain the efficiency bounds under very lax conditions. These also enjoy a (partial) double robustness property.  Read more ↓
+
+Off-policy Evaluation in Infinite-Horizon Reinforcement Learning with Latent Confounders, with A. Bennett, L. Li, and A. Mousavi.
+
+Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS), 2021.
+
+arXiv July 2020.
+
+Oral at AISTATS (3%)
+
+Abstract: Off-policy evaluation (OPE) in reinforcement learning is an important problem in settings where experimentation is limited, such as education and healthcare. But, in these very same settings, observed actions are often confounded by unobserved variables making OPE even more difficult. We study an OPE problem in an infinite-horizon, ergodic Markov decision process with unobserved confounders, where states and actions can act as proxies for the unobserved confounders. We show how, given only a latent variable model for states and actions, policy value can be identified from off-policy data. Our method involves two stages. In the first, we show how to use proxies to estimate stationary distribution ratios, extending recent work on breaking the curse of horizon to the confounded setting. In the second, we show optimal balancing can be combined with such learned ratios to obtain policy value while avoiding direct modeling of reward functions. We establish theoretical guarantees of consistency, and benchmark our method empirically.  Read more ↓
+
+On the Role of Surrogates in the Efficient Estimation of Treatment Effects With Limited Outcome Data, with X. Mao.
+
+Major revision in JRSS:B.
+
+arXiv March 2020.
+
+Abstract: We study the problem of estimating treatment effects when the outcome of primary interest (e.g., long-term health status) is only seldom observed but abundant surrogate observations (e.g., short-term health outcomes) are available. To investigate the role of surrogates in this setting, we derive the semiparametric efficiency lower bounds of average treatment effect (ATE) both with and without presence of surrogates, as well as several intermediary settings. These bounds characterize the best-possible precision of ATE estimation in each case, and their difference quantifies the efficiency gains from optimally leveraging the surrogates in terms of key problem characteristics when only limited outcome data are available. We show these results apply in two important regimes: when the number of surrogate observations is comparable to primary-outcome observations and when the former dominates the latter. Importantly, we take a missing-data approach that circumvents strong surrogate conditions which are commonly assumed in previous literature but almost always fail in practice. To show how to leverage the efficiency gains of surrogate observations, we propose ATE estimators and inferential methods based on flexible machine learning methods to estimate nuisance parameters that appear in the influence functions. We show our estimators enjoy efficiency and robustness guarantees under weak conditions.  Read more ↓
+
+Confounding-Robust Policy Evaluation in Infinite-Horizon Reinforcement Learning, with A. Zhou.
+
+Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), 2020.
+
+arXiv February 2020.
+
+GitHub.
+
+Abstract: Off-policy evaluation of sequential decision policies from observational data is necessary in applications of batch reinforcement learning such as education and healthcare. In such settings, however, observed actions are often confounded with transitions by unobserved variables, rendering exact evaluation of new policies impossible, i.e., unidentifiable. We develop a robust approach that estimates sharp bounds on the (unidentifiable) value of a given policy in an infinite-horizon problem given data from another policy with unobserved confounding subject to a sensitivity model. We phrase the problem precisely as computing the support function of the set of all stationary state-occupancy ratios that agree with both the data and the sensitivity model. We show how to express this set using a new partially identified estimating equation and prove convergence to the sharp bounds, as we collect more confounded data. We prove that membership in the set can be checked by solving a linear program, while the support function is given by a difficult nonconvex optimization problem. We leverage an analytical solution for the finite-state-space case to develop approximations based on nonconvex projected gradient descent. We demonstrate the resulting bounds empirically.  Read more ↓
+
+Statistically Efficient Off-Policy Policy Gradients, with M. Uehara.
+
+Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.
+
+arXiv February 2020.
+
+Abstract: Policy gradient methods in reinforcement learning update policy parameters by taking steps in the direction of an estimated gradient of policy value. In this paper, we consider the statistically efficient estimation of policy gradients from off-policy data, where the estimation is particularly non-trivial. We derive the asymptotic lower bound on the feasible mean-squared error in both Markov and non-Markov decision processes and show that existing estimators fail to achieve it in general settings. We propose a meta-algorithm that achieves the lower bound without any parametric assumptions and exhibits a unique 3-way double robustness property. We discuss how to estimate nuisances that the algorithm relies on. Finally, we establish guarantees on the rate at which we approach a stationary point when we take steps in the direction of our new estimated policy gradient.  Read more ↓
+
+Efficient Policy Learning from Surrogate-Loss Classification Reductions, with A. Bennett.
+
+Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.
+
+arXiv February 2020.
+
+GitHub.
+
+Abstract: Recent work on policy learning from observational data has highlighted the importance of efficient policy evaluation and has proposed reductions to weighted (cost-sensitive) classification. But, efficient policy evaluation need not yield efficient estimation of policy parameters. We consider the estimation problem given by a weighted surrogate-loss classification reduction of policy learning with any score function, either direct, inverse-propensity weighted, or doubly robust. We show that, under a correct specification assumption, the weighted classification formulation need not be efficient for policy parameters. We draw a contrast to actual (possibly weighted) binary classification, where correct specification implies a parametric model, while for policy learning it only implies a semiparametric model. In light of this, we instead propose an estimation approach based on generalized method of moments, which is efficient for the policy parameters. We propose a particular method based on recent developments on solving moment problems using neural networks and demonstrate the efficiency and regret benefits of this method empirically.  Read more ↓
+
+Localized Debiased Machine Learning: Efficient Inference on Quantile Treatment Effects and Beyond, with X. Mao and M. Uehara.
+
+Journal of Machine Learning Research (JMLR), 2023.
+
+arXiv December 2019.
+
+GitHub.
+
+Abstract: We consider the efficient estimation of a low-dimensional parameter in the presence of very high-dimensional nuisances that may depend on the parameter of interest. An important example is the quantile treatment effect (QTE) in causal inference, where the efficient estimation equation involves as a nuisance the conditional cumulative distribution evaluated at the quantile to be estimated. Debiased machine learning (DML) is a data-splitting approach to address the need to estimate nuisances using flexible machine learning methods that may not satisfy strong metric entropy conditions, but applying it to problems with estimand-dependent nuisances would require estimating too many nuisances to be practical. For the QTE estimation, DML requires we learn the whole conditional cumulative distribution function, which may be challenging in practice and stands in contrast to only needing to estimate just two regression functions as in the efficient estimation of average treatment effects. Instead, we propose localized debiased machine learning (LDML), a new three-way data-splitting approach that avoids this burdensome step and needs only estimate the nuisances at a single initial bad guess for the parameters. In particular, under a Frechet-derivative orthogonality condition, we show the oracle estimation equation is asymptotically equivalent to one where the nuisance is evaluated at the true parameter value and we provide a strategy to target this alternative formulation. In the case of QTE estimation, this involves only learning two binary regression models, for which many standard, time-tested machine learning methods exist. We prove that under certain lax rate conditions, our estimator has the same favorable asymptotic behavior as the infeasible oracle estimator that solves the estimating equation with the true nuisance functions.  Read more ↓
+
+Smooth Contextual Bandits: Bridging the Parametric and Non-differentiable Regret Regimes, with Y. Hu and X. Mao.
+
+Operations Research, 2021.
+
+Proceedings of the 33rd Conference on Learning Theory (COLT), 2020 (Extended abstract).
+
+arXiv September 2019.
+
+Finalist, Applied Probability Society Best Paper Competition
+
+Abstract: We study a nonparametric contextual bandit problem where the expected reward functions belong to a Hölder class with smoothness parameter β. We show how this interpolates between two extremes that were previously studied in isolation: non-differentiable bandits (β≤1), where rate-optimal regret is achieved by running separate non-contextual bandits in different context regions, and parametric-response bandits (β=∞), where rate-optimal regret can be achieved with minimal or no exploration due to infinite extrapolatability. We develop a novel algorithm that carefully adjusts to all smoothness settings and we prove its regret is rate-optimal by establishing matching upper and lower bounds, recovering the existing results at the two extremes. In this sense, our work bridges the gap between the existing literature on parametric and non-differentiable contextual bandit problems and between bandit algorithms that exclusively use global or local information, shedding light on the crucial interplay of complexity and regret in contextual bandits.  Read more ↓
+
+Efficiently Breaking the Curse of Horizon in Off-Policy Evaluation with Double Reinforcement Learning, with M. Uehara.
+
+Operations Research, 2021.
+
+arXiv September 2019.
+
+Abstract: Off-policy evaluation (OPE) in reinforcement learning is notoriously difficult in long- and infinite-horizon settings due to diminishing overlap between behavior and target policies. In this paper, we study the role of Markovian, time-invariant, and ergodic structure in efficient OPE. We first derive the efficiency limits for OPE when one assumes each of these structures. This precisely characterizes the curse of horizon: in time-variant processes, OPE is only feasible in the near-on-policy setting, where behavior and target policies are sufficiently similar. But, in ergodic time-invariant Markov decision processes, our bounds show that truly-off-policy evaluation is feasible, even with only just one dependent trajectory, and provide the limits of how well we could hope to do. We develop a new estimator based on Double Reinforcement Learning (DRL) that leverages this structure for OPE. Our DRL estimator simultaneously uses estimated stationary density ratios and q-functions and remains efficient when both are estimated at slow, nonparametric rates and remains consistent when either is estimated consistently. We investigate these properties and the performance benefits of leveraging the problem structure for more efficient OPE.  Read more ↓
+
+Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes, with M. Uehara.
+
+Journal of Machine Learning Research (JMLR), 21(167):1--63, 2020.
+
+Proceedings of the 37th International Conference on Machine Learning (ICML), 2020 (Preliminary version).
+
+arXiv August 2019.
+
+GitHub.
+
+Abstract: Off-policy evaluation (OPE) in reinforcement learning allows one to evaluate novel decision policies without needing to conduct exploration, which is often costly or otherwise infeasible. We consider for the first time the semiparametric efficiency limits of OPE in Markov decision processes (MDPs), where actions, rewards, and states are memoryless. We show existing OPE estimators may fail to be efficient in this setting. We develop a new estimator based on cross-fold estimation of q-functions and marginalized density ratios, which we term double reinforcement learning (DRL). We show that DRL is efficient when both components are estimated at fourth-root rates and is also doubly robust when only one component is consistent. We investigate these properties empirically and demonstrate the performance benefits due to harnessing memorylessness efficiently.  Read more ↓
+
+Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination, with X. Mao and A. Zhou.
+
+Management Science, 2020.
+
+Proceedings of the 3rd ACM Conference on Fairness, Accountability, and Transparency (FAccT), 110, 2020 (Extended abstract).
+
+arXiv June 2019.
+
+GitHub. MS Blog.
+
+Abstract: The increasing impact of algorithmic decisions on people's lives compels us to scrutinize their fairness and, in particular, the disparate impacts that ostensibly-color-blind algorithms can have on different groups. Examples include credit decisioning, hiring, advertising, criminal justice, personalized medicine, and targeted policymaking, where in some cases legislative or regulatory frameworks for fairness exist and define specific protected classes. In this paper we study a fundamental challenge to assessing disparate impacts in practice: protected class membership is often not observed in the data. This is particularly a problem in lending and healthcare. We consider the use of an auxiliary dataset, such as the US census, that includes class labels but not decisions or outcomes. We show that a variety of common disparity measures are generally unidentifiable aside for some unrealistic cases, providing a new perspective on the documented biases of popular proxy-based methods. We provide exact characterizations of the sharpest-possible partial identification set of disparities either under no assumptions or when we incorporate mild smoothness constraints. We further provide optimization-based algorithms for computing and visualizing these sets, which enables reliable and robust assessments -- an important tool when disparity assessment can have far-reaching policy implications. We demonstrate this in two case studies with real data: mortgage lending and personalized medicine dosing.  Read more ↓
+
+Data Pooling in Stochastic Optimization, with V. Gupta.
+
+Management Science, 2020.
+
+arXiv June 2019.
+
+GitHub.
+
+Abstract: Managing large-scale systems often involves simultaneously solving thousands of unrelated stochastic optimization problems, each with limited data. Intuition suggests one can decouple these unrelated problems and solve them separately without loss of generality. We propose a novel data-pooling algorithm called Shrunken-SAA that disproves this intuition. In particular, we prove that combining data across problems can outperform decoupling, even when there is no a priori structure linking the problems and data are drawn independently. Our approach does not require strong distributional assumptions and applies to constrained, possibly non-convex, non-smooth optimization problems such as vehicle-routing, economic lot-sizing or facility location. We compare and contrast our results to a similar phenomenon in statistics (Stein's Phenomenon), highlighting unique features that arise in the optimization setting that are not present in estimation. We further prove that as the number of problems grows large, Shrunken-SAA learns if pooling can improve upon decoupling and the optimal amount to pool, even if the average amount of data per problem is fixed and bounded. Importantly, we highlight a simple intuition based on stability that highlights when and why data-pooling offers a benefit, elucidating this perhaps surprising phenomenon. This intuition further suggests that data-pooling offers the most benefits when there are many problems, each of which has a small amount of relevant data. Finally, we demonstrate the practical benefits of data-pooling using real data from a chain of retail drug stores in the context of inventory management.  Read more ↓
+
+More Efficient Policy Learning via Optimal Retargeting.
+
+Journal of the American Statistical Association (JASA), 2020, Special Issue on Precision Medicine and Individualized Policy Discovery.
+
+arXiv June 2019.
+
+GitHub.
+
+Selected as JASA Discussion Paper
+
+Abstract: Policy learning can be used to extract individualized treatment regimes from observational data in healthcare, civics, e-commerce, and beyond. One big hurdle to policy learning is a commonplace lack of overlap in the data for different actions, which can lead to unwieldy policy evaluation and poorly performing learned policies. We study a solution to this problem based on retargeting, that is, changing the population on which policies are optimized. We first argue that at the population level, retargeting may induce little to no bias. We then characterize the optimal reference policy centering and retargeting weights in both binary-action and multi-action settings. We do this in terms of the asymptotic efficient estimation variance of the new learning objective. We further consider bias regularization. Extensive empirical results in a simulation study and a case study of targeted job counseling demonstrate that retargeting is a fairly easy way to significantly improve any policy learning procedure.  Read more ↓
+
+Minimax-Optimal Policy Learning Under Unobserved Confounding, with A. Zhou.
+
+Management Science, 2020.
+
+arXiv May 2018.
+
+GitHub.
+
+Winner, INFORMS 2018 Data Mining Best Paper Award
+
+2nd place, INFORMS 2018 Junior Faculty Interest Group (JFIG) Paper Competition
+
+Abstract: We study the problem of learning personalized decision policies from observational data while accounting for possible unobserved confounding. Previous approaches, which assume unconfoundedness, that is, that no unobserved confounders affect both the treatment assignment as well as outcome, can lead to policies that introduce harm rather than benefit when some unobserved confounding is present as is generally the case with observational data. Instead, because policy value and regret may not be point-identifiable, we study a method that minimizes the worst-case estimated regret of a candidate policy against a baseline policy over an uncertainty set for propensity weights that controls the extent of unobserved confounding. We prove generalization guarantees that ensure our policy is safe when applied in practice and in fact obtains the best possible uniform control on the range of all possible population regrets that agree with the possible extent of confounding. We develop efficient algorithmic solutions to compute this minimax-optimal policy. Finally, we assess and compare our methods on synthetic and semisynthetic data. In particular, we consider a case study on personalizing hormone replacement therapy based on observational data, in which we validate our results on a randomized experiment. We demonstrate that hidden confounding can hinder existing policy-learning approaches and lead to unwarranted harm although our robust approach guarantees safety and focuses on well-evidenced improvement, a necessity for making personalized treatment policies learned from observational data reliable in practice.  Read more ↓
+
+Generalization Bounds and Representation Learning for Estimation of Potential Outcomes and Causal Effects, with F. Johansson, U. Shalit, and D. Sontag.
+
+Journal of Machine Learning Research (JMLR), 2022.
+
+arXiv January 2020.
+
+Abstract: Practitioners in diverse fields such as healthcare, economics and education are eager to apply machine learning to improve decision making. The cost and impracticality of performing experiments and a recent monumental increase in electronic record keeping has brought attention to the problem of evaluating decisions based on non-experimental observational data. This is the setting of this work. In particular, we study estimation of individual-level causal effects, such as a single patient's response to alternative medication, from recorded contexts, decisions and outcomes. We give generalization bounds on the error in estimated effects based on distance measures between groups receiving different treatments, allowing for sample re-weighting. We provide conditions under which our bound is tight and show how it relates to results for unsupervised domain adaptation. Led by our theoretical results, we devise representation learning algorithms that minimize our bound, by regularizing the representation's induced treatment group distance, and encourage sharing of information between treatment groups. We extend these algorithms to simultaneously learn a weighted representation to further reduce treatment group distances. Finally, an experimental evaluation on real and synthetic data shows the value of our proposed representation architecture and regularization scheme.  Read more ↓
+
+Intrinsically Efficient, Stable, and Bounded Off-Policy Evaluation for Reinforcement Learning, with M. Uehara.
+
+Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+
+arXiv June 2019.
+
+GitHub.
+
+Abstract: Off-policy evaluation (OPE) in both contextual bandits and reinforcement learning allows one to evaluate novel decision policies without needing to conduct exploration, which is often costly or otherwise infeasible. The problem's importance has attracted many proposed solutions, including importance sampling (IS), self-normalized IS (SNIS), and doubly robust (DR) estimates. DR and its variants ensure semiparametric local efficiency if Q-functions are well-specified, but if they are not they can be worse than both IS and SNIS. It also does not enjoy SNIS's inherent stability and boundedness. We propose new estimators for OPE based on empirical likelihood that are always more efficient than IS, SNIS, and DR and satisfy the same stability and boundedness properties as SNIS. On the way, we categorize various properties and classify existing estimators by them. Besides the theoretical guarantees, empirical studies suggest the new estimators provide advantages.  Read more ↓
+
+The Fairness of Risk Scores Beyond Classification: Bipartite Ranking and the xAUC Metric, with A. Zhou.
+
+Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+
+arXiv February 2019.
+
+Abstract: Where machine-learned predictive risk scores inform high-stakes decisions, such as bail and sentencing in criminal justice, fairness has been a serious concern. Recent work has characterized the disparate impact that such risk scores can have when used for a binary classification task. This may not account, however, for the more diverse downstream uses of risk scores and their non-binary nature. To better account for this, in this paper, we investigate the fairness of predictive risk scores from the point of view of a bipartite ranking task, where one seeks to rank positive examples higher than negative ones. We introduce the xAUC disparity as a metric to assess the disparate impact of risk scores and define it as the difference in the probabilities of ranking a random positive example from one protected group above a negative one from another group and vice versa. We provide a decomposition of bipartite ranking loss into components that involve the discrepancy and components that involve pure predictive ability within each group. We use xAUC analysis to audit predictive risk scores for recidivism prediction, income prediction, and cardiac arrest prediction, where it describes disparities that are not evident from simply comparing within-group predictive performance.  Read more ↓
+
+Deep Generalized Method of Moments for Instrumental Variable Analysis, with A. Bennett and T. Schnabel.
+
+Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+
+arXiv May 2019.
+
+GitHub.
+
+Abstract: Instrumental variable analysis is a powerful tool for estimating causal effects when randomization or full control of confounders is not possible. The application of standard methods such as 2SLS, GMM, and more recent variants are significantly impeded when the causal effects are complex, the instruments are high-dimensional, and/or the treatment is high-dimensional. In this paper, we propose the DeepGMM algorithm to overcome this. Our algorithm is based on a new variational reformulation of GMM with optimal inverse-covariance weighting that allows us to efficiently control very many moment conditions. We further develop practical techniques for optimization and model selection that make it particularly successful in practice. Our algorithm is also computationally tractable and can handle large-scale datasets. Numerical results show our algorithm matches the performance of the best tuned methods in standard settings and continues to work in high-dimensional settings where even recent methods break.  Read more ↓
+
+Assessing Disparate Impacts of Personalized Interventions: Identifiability and Bounds, with A. Zhou.
+
+Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+
+arXiv June 2019.
+
+GitHub.
+
+Abstract: Personalized interventions in social services, education, and healthcare leverage individual-level causal effect predictions in order to give the best treatment to each individual or to prioritize program interventions for the individuals most likely to benefit. While the sensitivity of these domains compels us to evaluate the fairness of such policies, we show that actually auditing their disparate impacts per standard observational metrics, such as true positive rates, is impossible since ground truths are unknown. Whether our data is experimental or observational, an individual's actual outcome under an intervention different than that received can never be known, only predicted based on features. We prove how we can nonetheless point-identify these quantities under the additional assumption of monotone treatment response, which may be reasonable in many applications. We further provide a sensitivity analysis for this assumption by means of sharp partial-identification bounds under violations of monotonicity of varying strengths. We show how to use our results to audit personalized interventions using partially-identified ROC and xROC curves and demonstrate this in a case study of a French job training dataset.  Read more ↓
+
+Policy Evaluation with Latent Confounders via Optimal Balance, with A. Bennett.
+
+Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019.
+
+arXiv August 2019.
+
+GitHub.
+
+Abstract: Evaluating novel contextual bandit policies using logged data is crucial in applications where exploration is costly, such as medicine. But it usually relies on the assumption of no unobserved confounders, which is bound to fail in practice. We study the question of policy evaluation when we instead have proxies for the latent confounders and develop an importance weighting method that avoids fitting a latent outcome regression model. We show that unlike the unconfounded case no single set of weights can give unbiased evaluation for all outcome models, yet we propose a new algorithm that can still provably guarantee consistency by instead minimizing an adversarial balance objective. We further develop tractable algorithms for optimizing this objective and demonstrate empirically the power of our method when confounders are latent.  Read more ↓
+
+Comment: Entropy Learning for Dynamic Treatment Regimes.
+
+Statistica Sinica, 29(4):1697--1705, 2019.
+
+arXiv April 2020.
+
+Abstract: I congratulate Profs. Binyan Jiang, Rui Song, Jialiang Li, and Donglin Zeng (JSLZ) for an exciting development in conducting inferences on optimal dynamic treatment regimes (DTRs) learned via empirical risk minimization using the entropy loss as a surrogate. JSLZ's approach leverages a rejection-and-importance-sampling estimate of the value of a given decision rule based on inverse probability weighting (IPW) and its interpretation as a weighted (or cost-sensitive) classification. Their use of smooth classification surrogates enables their careful approach to analyzing asymptotic distributions. However, even for evaluation purposes, the IPW estimate is problematic as it leads to weights that discard most of the data and are extremely variable on whatever remains. In this comment, I discuss an optimization-based alternative to evaluating DTRs, review several connections, and suggest directions forward. This extends the balanced policy evaluation approach of Kallus (2018a) to the longitudinal setting.  Read more ↓
+
+Kernel Optimal Orthogonality Weighting: A Balancing Approach to Estimating Effects of Continuous Treatments, with M. Santacatterina.
+
+arXiv October 2019.
+
+Abstract: Many scientific questions require estimating the effects of continuous treatments. Outcome modeling and weighted regression based on the generalized propensity score are the most commonly used methods to evaluate continuous effects. However, these techniques may be sensitive to model misspecification, extreme weights or both. In this paper, we propose Kernel Optimal Orthogonality Weighting (KOOW), a convex optimization-based method, for estimating the effects of continuous treatments. KOOW finds weights that minimize the worst-case penalized functional covariance between the continuous treatment and the confounders. By minimizing this quantity, KOOW successfully provides weights that orthogonalize confounders and the continuous treatment, thus providing optimal covariate balance, while controlling for extreme weights. We valuate its comparative performance in a simulation study. Using data from the Women's Health Initiative observational study, we apply KOOW to evaluate the effect of red meat consumption on blood pressure.  Read more ↓
+
+Optimal Weighting for Estimating Generalized Average Treatment Effects, with M. Santacatterina.
+
+Journal of Causal Inference, 2022.
+
+arXiv August 2019.
+
+Abstract: In causal inference, a variety of causal effect estimands have been studied, including the sample, uncensored, target, conditional, optimal subpopulation, and optimal weighted average treatment effects. Ad-hoc methods have been developed for each estimand based on inverse probability weighting (IPW) and on outcome regression modeling, but these may be sensitive to model misspecification, practical violations of positivity, or both. The contribution of this paper is twofold. First, we formulate the generalized average treatment effect (GATE) to unify these causal estimands as well as their IPW estimates. Second, we develop a method based on Kernel Optimal Matching (KOM) to optimally estimate GATE and to find the GATE most easily estimable by KOM, which we term the Kernel Optimal Weighted Average Treatment Effect. KOM provides uniform control on the conditional mean squared error of a weighted estimator over a class of models while simultaneously controlling for precision. We study its theoretical properties and evaluate its comparative performance in a simulation study. We illustrate the use of KOM for GATE estimation in two case studies: comparing spine surgical interventions and studying the effect of peer support on people living with HIV.  Read more ↓
+
+DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training.
+
+Proceedings of the 37th International Conference on Machine Learning (ICML), 2020.
+
+arXiv February 2018.
+
+Abstract: We study optimal covariate balance for causal inferences from observational data when rich covariates and complex relationships necessitate flexible modeling with neural networks. Standard approaches such as propensity weighting and matching/balancing fail in such settings due to miscalibrated propensity nets and inappropriate covariate representations, respectively. We propose a new method based on adversarial training of a weighting and a discriminator network that effectively addresses this methodological gap. This is demonstrated through new theoretical characterizations of the method as well as empirical results using both fully connected architectures to learn complex relationships and convolutional architectures to handle image confounders, showing how this new method can enable strong causal analyses in these challenging settings.  Read more ↓
+
+Classifying Treatment Responders Under Causal Effect Monotonicity.
+
+Proceedings of the 36th International Conference on Machine Learning (ICML), 97:3201--3210, 2019.
+
+arXiv February 2019.
+
+GitHub.
+
+Abstract: In the context of individual-level causal inference, we study the problem of predicting whether someone will respond or not to a treatment based on their features and past examples of features, treatment indicator (e.g., drug/no drug), and a binary outcome (e.g., recovery from disease). As a classification task, the problem is made difficult by not knowing the example outcomes under the opposite treatment indicators. We assume the effect is monotonic, as in advertising's effect on a purchase or bail-setting's effect on reappearance in court: either it would have happened regardless of treatment, not happened regardless, or happened only depending on exposure to treatment. Predicting whether the latter is latently the case is our focus. While previous work focuses on conditional average treatment effect estimation, formulating the problem as a classification task rather than an estimation task allows us to develop new tools more suited to this problem. By leveraging monotonicity, we develop new discriminative and generative algorithms for the responder-classification problem. We explore and discuss connections to corrupted data and policy learning. We provide an empirical study with both synthetic and real datasets to compare these specialized algorithms to standard benchmarks.  Read more ↓
+
+Confounding-Robust Policy Improvement, with A. Zhou.
+
+Proceedings of the 32nd Conference on Neural Information Processing Systems (NeurIPS), 9289--9299, 2018.
+
+arXiv May 2018.
+
+GitHub.
+
+Abstract: We study the problem of learning personalized decision policies from observational data while accounting for possible unobserved confounding in the data-generating process. Unlike previous approaches that assume unconfoundedness, i.e., no unobserved confounders affected both treatment assignment and outcomes, we calibrate policy learning for realistic violations of this unverifiable assumption with uncertainty sets motivated by sensitivity analysis in causal inference. Our framework for confounding-robust policy improvement optimizes the minimax regret of a candidate policy against a baseline or reference "status quo" policy, over an uncertainty set around nominal propensity weights. We prove that if the uncertainty set is well-specified, robust policy learning can do no worse than the baseline, and only improve if the data supports it. We characterize the adversarial subproblem and use efficient algorithmic solutions to optimize over parametrized spaces of decision policies such as logistic treatment assignment. We assess our methods on synthetic data and a large clinical trial, demonstrating that confounded selection can hinder policy learning and lead to unwarranted harm, while our robust approach guarantees safety and focuses on well-evidenced improvement.  Read more ↓
+
+Removing Hidden Confounding by Experimental Grounding, with A. M. Puli and U. Shalit.
+
+Proceedings of the 32nd Conference on Neural Information Processing Systems (NeurIPS), 10911--10920, 2018.
+
+arXiv October 2018.
+
+GitHub.
+
+Spotlight at NeurIPS (3.5%)
+
+Abstract: Observational data is being increasingly used as a means for making individual-level causal predictions and intervention recommendations. The foremost challenge of causal inference from observational data is hidden confounding, whose presence cannot be tested in data and can invalidate any causal conclusion. Experimental data does not stuffer from confounding but is usually limited in both scope and scale. We introduce a novel method of using limited experimental data to correct the hidden confounding in causal effect models trained on larger observational data, even if the observational data does not fully overlap with the experimental data. Our method makes strictly weaker assumptions than existing approaches, and we prove conditions under which our method yields a consistent estimator. We demonstrate our method's efficacy using real-world data from a large educational experiment.  Read more ↓
+
+Balanced Policy Evaluation and Learning.
+
+Proceedings of the 32nd Conference on Neural Information Processing Systems (NeurIPS), 8909--8920, 2018.
+
+arXiv May 2017.
+
+Abstract: We present a new approach to the problems of evaluating and learning personalized decision policies from observational data of past contexts, decisions, and outcomes. Only the outcome of the enacted decision is available and the historical policy is unknown. These problems arise in personalized medicine using electronic health records and in internet advertising. Existing approaches use inverse propensity weighting (or, doubly robust versions) to make historical outcome (or, residual) data look like it were generated by a new policy being evaluated or learned. But this relies on a plug-in approach that rejects data points with a decision that disagrees with the new policy, leading to high variance estimates and ineffective learning. We propose a new, balance-based approach that too makes the data look like the new policy but does so directly by finding weights that optimize for balance between the weighted data and the target policy in the given, finite sample, which is equivalent to minimizing worst-case or posterior conditional mean square error. Our policy learner proceeds as a two-level optimization problem over policies and weights. We demonstrate that this approach markedly outperforms existing ones both in evaluation and learning, which is unsurprising given the wider support of balance-based weights. We establish extensive theoretical consistency guarantees and regret bounds that support this empirical success.  Read more ↓
+
+Causal Inference with Noisy and Missing Covariates via Matrix Factorization, with X. Mao and M. Udell.
+
+Proceedings of the 32nd Conference on Neural Information Processing Systems (NeurIPS), 6921--6932, 2018.
+
+arXiv June 2018.
+
+GitHub.
+
+Abstract: Valid causal inference in observational studies often requires controlling for confounders. However, in practice measurements of confounders may be noisy, and can lead to biased estimates of causal effects. We show that we can reduce the bias caused by measurement noise using a large number of noisy measurements of the underlying confounders. We propose the use of matrix factorization to infer the confounders from noisy covariates, a flexible and principled framework that adapts to missing values, accommodates a wide variety of data types, and can augment many causal inference methods. We bound the error for the induced average treatment effect estimator and show it is consistent in a linear regression setting, using Exponential Family Matrix Completion preprocessing. We demonstrate the effectiveness of the proposed procedure in numerical experiments with both synthetic data and real clinical data.  Read more ↓
+
+Fairness under unawareness: assessing disparity when protected class is unobserved, with J. Chen, X. Mao, G. Svacha, and M. Udell.
+
+Proceedings of the 2nd ACM Conference on Fairness, Accountability, and Transparency (FAccT), 339--348, 2019.
+
+arXiv November 2018.
+
+GitHub.
+
+Abstract: Assessing the fairness of a decision making system with respect to a protected class, such as gender or race, is complicated by not being able to observe class membership labels due to legal or operational reasons. Probabilistic models for predicting the protected class based on observed proxy variables, such as surname and geolocation for race, are sometimes used to impute these missing labels. Such methods are known to be used by government regulators and have been observed to exaggerate disparities. The reason why is unknown, as is whether overestimation is always the case. We decompose the bias of estimating outcome disparity via an existing threshold-based imputation method into multiple interpretable bias sources, which explains when over- or underestimation occurs. We also propose an alternative weighted estimator that uses soft classification rules rather than hard imputation, and show that its bias arises simply from the conditional covariance of the outcome with the true class membership. We illustrate our results with numerical simulations as well as an application to a dataset of mortgage applications, using geolocation as a proxy for race. We confirm that the bias of threshold-based imputation is generally upward; however, its magnitude varies strongly with the threshold chosen due to the complex interplay of multiple sources of bias uncovered by our theoretical analysis. Our new weighted estimator tends to have a negative bias that is much simpler to analyze and reason about.  Read more ↓
+
+Interval Estimation of Individual-Level Causal Effects Under Unobserved Confounding, with X. Mao and A. Zhou.
+
+Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS), 89:2281--2290, 2019.
+
+arXiv October 2018.
+
+Abstract: We study the problem of learning conditional average treatment effects (CATE) from observational data with unobserved confounders. The CATE function maps baseline covariates to individual causal effect predictions and is key for personalized assessments. Recent work has focused on how to learn CATE under unconfoundedness, i.e., when there are no unobserved confounders. Since CATE may not be identified when unconfoundedness is violated, we develop a functional interval estimator that predicts bounds on the individual causal effects under realistic violations of unconfoundedness. Our estimator takes the form of a weighted kernel estimator with weights that vary adversarially. We prove that our estimator is sharp in that it converges exactly to the tightest bounds possible on CATE when there may be unobserved confounders. Further, we study personalized decision rules derived from our estimator and prove that they achieve optimal minimax regret asymptotically. We assess our approach in a simulation study as well as demonstrate its application in the case of hormone replacement therapy by comparing conclusions from a real observational study and clinical trial.  Read more ↓
+
+Residual Unfairness in Fair Machine Learning from Prejudiced Data, with A. Zhou.
+
+Proceedings of the 35th International Conference on Machine Learning (ICML), 80:2439--2448, 2018.
+
+arXiv June 2018.
+
+Abstract: Recent work in fairness in machine learning has proposed adjusting for fairness by equalizing accuracy metrics across groups and has also studied how datasets affected by historical prejudices may lead to unfair decision policies. We connect these lines of work and study the residual unfairness that arises when a fairness-adjusted predictor is not actually fair on the target population due to systematic censoring of training data by existing biased policies. This scenario is particularly common in the same applications where fairness is a concern. We characterize theoretically the impact of such censoring on standard fairness metrics for binary classifiers and provide criteria for when residual unfairness may or may not appear. We prove that, under certain conditions, fairness-adjusted classifiers will in fact induce residual unfairness that perpetuates the same injustices, against the same groups, that biased the data to begin with, thus showing that even state-of-the-art fair machine learning can have a "bias in, bias out" property. When certain benchmark data is available, we show how sample reweighting can estimate and adjust fairness metrics while accounting for censoring. We use this to study the case of Stop, Question, and Frisk (SQF) and demonstrate that attempting to adjust for fairness perpetuates the same injustices that the policy is infamous for.  Read more ↓
+
+Policy Evaluation and Optimization with Continuous Treatments, with A. Zhou.
+
+Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS), 84:1243--1251, 2018.
+
+arXiv February 2018.
+
+GitHub.
+
+Finalist, Best Paper of INFORMS 2017 Data Mining and Decision Analytics Workshop
+
+Abstract: We study the problem of policy evaluation and learning from batched contextual bandit data when treatments are continuous, going beyond previous work on discrete treatments. Previous work for discrete treatment/action spaces focuses on inverse probability weighting (IPW) and doubly robust (DR) methods that use a rejection sampling approach for evaluation and the equivalent weighted classification problem for learning. In the continuous setting, this reduction fails as we would almost surely reject all observations. To tackle the case of continuous treatments, we extend the IPW and DR approaches to the continuous setting using a kernel function that leverages treatment proximity to attenuate discrete rejection. Our policy estimator is consistent and we characterize the optimal bandwidth. The resulting continuous policy optimizer (CPO) approach using our estimator achieves convergent regret and approaches the best-in-class policy for learnable policy classes. We demonstrate that the estimator performs well and, in particular, outperforms a discretization-based benchmark. We further study the performance of our policy optimizer in a case study on personalized dosing based on a dataset of Warfarin patients, their covariates, and final therapeutic doses. Our learned policy outperforms benchmarks and nears the oracle-best linear policy.  Read more ↓
+
+Instrument-Armed Bandits.
+
+Proceedings of the 29th International Conference on Algorithmic Learning Theory (ALT), 2018.
+
+arXiv May 2017.
+
+Abstract: We extend the classic multi-armed bandit (MAB) model to the setting of noncompliance, where the arm pull is a mere instrument and the treatment applied may differ from it, which gives rise to the instrument-armed bandit (IAB) problem. The IAB setting is relevant whenever the experimental units are human since free will, ethics, and the law may prohibit unrestricted or forced application of treatment. In particular, the setting is relevant in bandit models of dynamic clinical trials and other controlled trials on human interventions. Nonetheless, the setting has not been fully investigate in the bandit literature. We show that there are various and divergent notions of regret in this setting, all of which coincide only in the classic MAB setting. We characterize the behavior of these regrets and analyze standard MAB algorithms. We argue for a particular kind of regret that captures the causal effect of treatments but show that standard MAB algorithms cannot achieve sublinear control on this regret. Instead, we develop new algorithms for the IAB problem, prove new regret bounds for them, and compare them to standard MAB algorithms in numerical examples.  Read more ↓
+
+More Robust Estimation of Sample Average Treatment Effects using Kernel Optimal Matching in an Observational Study of Spine Surgical Interventions, with B. Pennicooke and M. Santacatterina.
+
+Statistics in Medicine, 2021.
+
+arXiv November 2018.
+
+GitHub.
+
+Abstract: Inverse probability of treatment weighting (IPTW), which has been used to estimate sample average treatment effects (SATE) using observational data, tenuously relies on the positivity assumption and the correct specification of the treatment assignment model, both of which are problematic assumptions in many observational studies. Various methods have been proposed to overcome these challenges, including truncation, covariate-balancing propensity scores, and stable balancing weights. Motivated by an observational study in spine surgery, in which positivity is violated and the true treatment assignment model is unknown, we present the use of optimal balancing by Kernel Optimal Matching (KOM) to estimate SATE. By uniformly controlling the conditional mean squared error of a weighted estimator over a class of models, KOM simultaneously mitigates issues of possible misspecification of the treatment assignment model and is able to handle practical violations of the positivity assumption, as shown in our simulation study. Using data from a clinical registry, we apply KOM to compare two spine surgical interventions and demonstrate how the result matches the conclusions of clinical trials that IPTW estimates spuriously refute.  Read more ↓
+
+Optimal Balancing of Time-Dependent Confounders for Marginal Structural Models, with M. Santacatterina.
+
+Journal of Causal Inference, 2021.
+
+arXiv June 2018.
+
+GitHub.
+
+Abstract: Marginal structural models (MSMs) estimate the causal effect of a time-varying treatment in the presence of time-dependent confounding via weighted regression. The standard approach of using inverse probability of treatment weighting (IPTW) can lead to high-variance estimates due to extreme weights and be sensitive to model misspecification. Various methods have been proposed to partially address this, including truncation and stabilized-IPTW to temper extreme weights and covariate balancing propensity score (CBPS) to address treatment model misspecification. In this paper, we present Kernel Optimal Weighting (KOW), a convex-optimization-based approach that finds weights for fitting the MSM that optimally balance time-dependent confounders while simultaneously controlling for precision, directly addressing the above limitations. KOW directly minimizes the error in estimation due to time-dependent confounding via a new decomposition as a functional. We further extend KOW to control for informative censoring. We evaluate the performance of KOW in a simulation study, comparing it with IPTW, stabilized-IPTW, and CBPS. We demonstrate the use of KOW in studying the effect of treatment initiation on time-to-death among people living with HIV and the effect of negative advertising on elections in the United States.  Read more ↓
+
+Learning Weighted Representations for Generalization Across Designs, with F. Johansson, U. Shalit, and D. Sontag.
+
+arXiv February 2018.
+
+Abstract: Predictive models that generalize well under distributional shift are often desirable and sometimes crucial to building robust and reliable machine learning applications. We focus on distributional shift that arises in causal inference from observational data and in unsupervised domain adaptation. We pose both of these problems as prediction under a shift in design. Popular methods for overcoming distributional shift make unrealistic assumptions such as having a well-specified model or knowing the policy that gave rise to the observed data. Other methods are hindered by their need for a pre-specified metric for comparing observations, or by poor asymptotic properties. We devise a bound on the generalization error under design shift, incorporating both representation learning and sample re-weighting. Based on the bound, we propose an algorithmic framework that does not require any of the above assumptions and which is asymptotically consistent. We empirically study the new framework using two synthetic datasets, and demonstrate its effectiveness compared to previous methods.  Read more ↓
+
+Recursive Partitioning for Personalization using Observational Data.
+
+Proceedings of the 34th International Conference on Machine Learning (ICML), 70:1789--1798, 2017.
+
+arXiv August 2016.
+
+Winner, Best Paper of INFORMS 2016 Data Mining and Decision Analytics Workshop
+
+Abstract: We study the problem of learning to choose from m discrete treatment options (e.g., news item or medical drug) the one with best causal effect for a particular instance (e.g., user or patient) where the training data consists of passive observations of covariates, treatment, and the outcome of the treatment. The standard approach to this problem is regress and compare: split the training data by treatment, fit a regression model in each split, and, for a new instance, predict all m outcomes and pick the best. By reformulating the problem as a single learning task rather than m separate ones, we propose a new approach based on recursively partitioning the data into regimes where different treatments are optimal. We extend this approach to an optimal partitioning approach that finds a globally optimal partition, achieving a compact, interpretable, and impactful personalization model. We develop new tools for validating and evaluating personalization models on observational data and use these to demonstrate the power of our novel approaches in a personalized medicine and a job training application.  Read more ↓
+
+Generalized Optimal Matching Methods for Causal Inference.
+
+Journal of Machine Learning Research (JMLR), 21(62):1--54, 2020.
+
+arXiv December 2016.
+
+Abstract: We develop an encompassing framework and theory for matching and related methods for causal inference that reveal the connections and motivations behind various existing methods and give rise to new and improved ones. The framework is given by generalizing a new functional analytical characterization of optimal matching as minimizing worst-case conditional mean squared error given the observed data based on specific restrictions and assumptions. By generalizing these, we obtain a new class of generalized optimal matching (GOM) methods, for which we provide a single theory for tractability and consistency that applies generally to GOM. Many commonly used existing methods are included in GOM and using their GOM interpretation we extend these to new methods that judiciously and automatically trade off balance for variance and outperform their standard counterparts. As a subclass of GOM, we develop kernel optimal matching, which, as supported by new theory, is notable for combining the interpretability of matching methods, the non-parametric model-free consistency of optimal matching, the efficiency of well-specified regression, the judicious sample size selection of monotonic imbalance bounding methods, the double robustness of augmented inverse propensity weight estimators, and the model-selection flexibility of Gaussian-process regression. We discuss connections to and non-linear generalizations of equal percent bias reduction and its ramifications.  Read more ↓
+
+Dynamic Assortment Personalization in High Dimensions, with M. Udell.
+
+Operations Research, 68(4):965--1284, 2020.
+
+arXiv October 2016.
+
+Abstract: We demonstrate the importance of structural priors for effective, efficient large-scale dynamic assortment personalization. Assortment personalization is the problem of choosing, for each individual or consumer segment (type), a best assortment of products, ads, or other offerings (items) so as to maximize revenue. This problem is central to revenue management in e-commerce, online advertising, and multi-location brick-and-mortar retail, where both items and types can number in the thousands-to-millions. Data efficiency is paramount in this large-scale setting. A good personalization strategy must dynamically balance the need to learn consumer preferences and to maximize revenue.
+We formulate the dynamic assortment personalization problem as a discrete-contextual bandit with m contexts (customer types) and many arms (assortments of the n items). We assume that each type's preferences follow a simple parametric model with n parameters. In all, there are mn parameters, and existing literature suggests that order optimal regret scales as mn. However, this figure is orders of magnitude larger than the data available in large-scale applications, and imposes unacceptably high regret.
+In this paper, we impose natural structure on the problem — a small latent dimension, or low rank. In the static setting, we show that this model can be efficiently learned from surprisingly few interactions, using a time- and memory-efficient optimization algorithm that converges globally whenever the model is learnable. In the dynamic setting, we show that structure-aware dynamic assortment personalization can have regret that is an order of magnitude smaller than structure-ignorant approaches. We validate our theoretical results empirically.  Read more ↓
+
+Optimal A Priori Balance in the Design of Controlled Experiments.
+
+Journal of the Royal Statistical Society: Series B (JRSS:B), 81(1):85--112, 2018.
+
+arXiv December 2013.
+
+Code.
+
+Abstract: We develop a unified theory of designs for controlled experiments that balance baseline covariates a priori (before treatment and before randomization) using the framework of minimax variance and a new method called kernel allocation. We show that any notion of a priori balance must go hand in hand with a notion of structure, since with no structure on the dependence of outcomes on baseline covariates complete randomization (no special covariate balance) is always minimax optimal. Restricting the structure of dependence, either parametrically or non-parametrically, gives rise to certain covariate imbalance metrics and optimal designs. This recovers many popular imbalance metrics and designs previously developed ad hoc, including randomized block designs, pairwise-matched allocation and rerandomization. We develop a new design method called kernel allocation based on the optimal design when structure is expressed by using kernels, which can be parametric or non-parametric. Relying on modern optimization methods, kernel allocation, which ensures nearly perfect covariate balance without biasing estimates under model misspecification, offers sizable advantages in precision and power as demonstrated in a range of real and synthetic examples. We provide strong theoretical guarantees on variance, consistency and rates of convergence and develop special algorithms for design and hypothesis testing.  Read more ↓
+
+The Power and Limits of Predictive Approaches to Observational-Data-Driven Optimization, with D. Bertsimas.
+
+INFORMS Journal on Optimization (IJOO), 2022.
+
+arXiv May 2016.
+
+Abstract: While data-driven decision-making is transforming modern operations, most large-scale data is of an observational nature, such as transactional records. These data pose unique challenges in a variety of operational problems posed as stochastic optimization problems, including pricing and inventory management, where one must evaluate the effect of a decision, such as price or order quantity, on an uncertain cost/reward variable, such as demand, based on historical data where decision and outcome may be confounded. Often, the data lacks the features necessary to enable sound assessment of causal effects and/or the strong assumptions necessary may be dubious. Nonetheless, common practice is to assign a decision an objective value equal to the best prediction of cost/reward given the observation of the decision in the data. While in general settings this identification is spurious, for optimization purposes it is only the objective value of the final decision that matters, rather than the validity of any model used to arrive at it. In this paper, we formalize this statement in the case of observational-data-driven optimization and study both the power and limits of predictive approaches to observational-data-driven optimization with a particular focus on pricing. We provide rigorous bounds on optimality gaps of such approaches even when optimal decisions cannot be identified from data. To study potential limits of predictive approaches in real datasets, we develop a new hypothesis test for causal-effect objective optimality. Applying it to interest-rate-setting data, we empirically demonstrate that predictive approaches can be powerful in practice but with some critical limitations.  Read more ↓
+
+From Predictive to Prescriptive Analytics, with D. Bertsimas.
+
+Management Science, 66(3):1025--1044, 2020.
+
+arXiv February 2014.
+
+Finalist, POMS Applied Research Challenge 2016
+
+Abstract: In this paper, we combine ideas from machine learning (ML) and operations research and management science (OR/MS) in developing a framework, along with specific methods, for using data to prescribe decisions in OR/MS problems. In a departure from other work on data-driven optimization and reflecting our practical experience with the data available in applications of OR/MS, we consider data consisting, not only of observations of quantities with direct effect on costs/revenues, such as demand or returns, but predominantly of observations of associated auxiliary quantities. The main problem of interest is a conditional stochastic optimization problem, given imperfect observations, where the joint probability distributions that specify the problem are unknown. We demonstrate that our proposed solution methods are generally applicable to a wide range of decision problems. We prove that they are computationally tractable and asymptotically optimal under mild conditions even when data is not independent and identically distributed (iid) and even for censored observations. As an analogue to the coefficient of determination R², we develop a metric P termed the coefficient of prescriptiveness to measure the prescriptive content of data and the efficacy of a policy from an operations perspective. To demonstrate the power of our approach in a real-world setting we study an inventory management problem faced by the distribution arm of an international media conglomerate, which ships an average of 1 billion units per year. We leverage both internal data and public online data harvested from IMDb, Rotten Tomatoes, and Google to prescribe operational decisions that outperform baseline measures. Specifically, the data we collect, leveraged by our methods, accounts for an 88\% improvement as measured by our coefficient of prescriptiveness.  Read more ↓
+
+Robust Sample Average Approximation, with D. Bertsimas and V. Gupta.
+
+Mathematical Programming, 171(1--2):217--282, 2018.
+
+arXiv August 2014.
+
+Winner, Best Student Paper Award, MIT Operations Research Center 2013
+
+Abstract: Sample average approximation (SAA) is a widely popular approach to data-driven decision-making under uncertainty. Under mild assumptions, SAA is both tractable and enjoys strong asymptotic performance guarantees. Similar guarantees, however, do not typically hold in finite samples. In this paper, we propose a modification of SAA, which we term Robust SAA, which retains SAA's tractability and asymptotic properties and, additionally, enjoys strong finite-sample performance guarantees. The key to our method is linking SAA, distributionally robust optimization, and hypothesis testing of goodness-of-fit. Beyond Robust SAA, this connection provides a unified perspective enabling us to characterize the finite sample and asymptotic guarantees of various other data-driven procedures that are based upon distributionally robust optimization. This analysis provides insight into the practical performance of these various methods in real applications. We present examples from inventory management and portfolio allocation, and demonstrate numerically that our approach outperforms other data-driven approaches in these applications.  Read more ↓
+
+Data-Driven Robust Optimization, with D. Bertsimas and V. Gupta.
+
+Mathematical Programming, 167(2):235--292, 2018.
+
+arXiv January 2014.
+
+Finalist, INFORMS Nicholson Paper Competition 2013
+
+Abstract: The last decade has seen an explosion in the availability of data for operations research applications as part of the Big Data revolution. Motivated by this data rich paradigm, we propose a novel schema for utilizing data to design uncertainty sets for robust optimization using statistical hypothesis tests. The approach is flexible and widely applicable, and robust optimization problems built from our new sets are computationally tractable, both theoretically and practically. Furthermore, optimal solutions to these problems enjoy a strong, finite-sample probabilistic guarantee. We also propose concrete guidelines for practitioners and illustrate our approach with applications in portfolio management and queueing. Computational evidence confirms that our data-driven sets significantly outperform conventional robust optimization techniques whenever data is available.  Read more ↓
+
+A Framework for Optimal Matching for Causal Inference.
+
+Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS), 54:372--381, 2017.
+
+arXiv June 2016.
+
+Abstract: We propose a novel framework for matching estimators for causal effect from observational data that is based on minimizing the dual norm of estimation error when expressed as an operator. We show that many popular matching estimators can be expressed as optimal in this framework, including nearest-neighbor matching, coarsened exact matching, and mean-matched sampling. This reveals their motivation and aptness as structural priors formulated by embedding the effect in a particular functional space. This also gives rise to a range of new, kernel-based matching estimators that arise when one embeds the effect in a reproducing kernel Hilbert space. Depending on the case, these estimators can be found using either quadratic optimization or integer optimization. We show that estimators based on universal kernels are universally consistent without model specification. In empirical results using both synthetic and real data, the new, kernel-based estimators outperform all standard causal estimators in estimation error.  Read more ↓
+
+Personalized Diabetes Management Using Electronic Medical Records, with D. Bertsimas, A. Weinstein, and D. Zhuo.
+
+Diabetes Care, 40(2):210--217, 2017.
+
+Abstract: Objective: Current clinical guidelines for managing type 2 diabetes do not differentiate based on patient-specific factors. We present a data-driven algorithm for personalized diabetes management that improves health outcomes relative to the standard of care.
+Research Design and Methods: We modeled outcomes under 13 pharmacological therapies based on electronic medical records from 1999 to 2014 for 10,806 patients with type 2 diabetes from Boston Medical Center. For each patient visit, we analyzed the range of outcomes under alternative care using a k-nearest neighbor approach. The neighbors were chosen to maximize similarity on individual patient characteristics and medical history that were most predictive of health outcomes. The recommendation algorithm prescribes the regimen with best predicted outcome if the expected improvement from switching regimens exceeds a threshold. We evaluated the effect of recommendations on matched patient outcomes from unseen data.
+Results: Among the 48,140 patient visits in the test set, the algorithm's recommendation mirrored the observed standard of care in 68.2\% of visits. For patient visits in which the algorithmic recommendation differed from the standard of care, the mean posttreatment glycated hemoglobin A1c (HbA1c) under the algorithm was lower than standard of care by 0.44 ± 0.03\% (4.8 ± 0.3 mmol/mol) (p < 0.001), from 8.37\% under the standard of care to 7.93\% under our algorithm (68.0 to 63.2 mmol/mol).
+Conclusion: A personalized approach to diabetes management yielded substantial improvements in HbA1c outcomes relative to the standard of care. Our prototyped dashboard visualizing the recommendation algorithm can be used by providers to inform diabetes care and improve outcomes.  Read more ↓
+
+Revealed Preference at Scale: Learning Personalized Preferences from Assortment Choice, with M. Udell.
+
+Proceedings of the 17th ACM Conference on Economics and Computation (EC), 17:821--837, 2016.
+
+arXiv September 2015.
+
+Abstract: We consider the problem of learning the preferences of a heterogeneous population by observing choices from an assortment of products, ads, or other offerings. Our observation model takes a form common in assortment planning applications: each arriving customer is offered an assortment consisting of a subset of all possible offerings; we observe only the assortment and the customer's single choice.
+In this paper we propose a mixture choice model with a natural underlying low-dimensional structure, and show how to estimate its parameters. In our model, the preferences of each customer or segment follow a separate parametric choice model, but the underlying structure of these parameters over all the models has low dimension. We show that a nuclear-norm regularized maximum likelihood estimator can learn the preferences of all customers using a number of observations much smaller than the number of item-customer combinations. This result shows the potential for structural assumptions to speed up learning and improve revenues in assortment planning and customization. We provide a specialized factored gradient descent algorithm and study the success of the approach empirically.  Read more ↓
+
+Inventory Management in the Era of Big Data, with D. Bertsimas and A. Hussain.
+
+Production and Operations Management, 25(12):2006--2009, 2016.
+
+On the Predictive Power of Web Intelligence and Social Media.
+
+Chapter in Big Data Analytics in the Social and Ubiquitous Context, Springer, 2016.
+
+Abstract: With more information becoming widely accessible and new content created shared on today's web, more are turning to harvesting such data and analyzing it to extract insights. But the relevance of such data to see beyond the present is not clear. We present efforts to predict future events based on web intelligence -- data harvested from the web -- with specific emphasis on social media data and on timed event mentions, thereby quantifying the predictive power of such data. We focus on predicting crowd actions such as large protests and coordinated acts of cyber activism -- predicting their occurrence, specific timeframe, and location. Using natural language processing, statements about events are extracted from content collected from hundred of thousands of open content we sources. Attributes extracted include event type, entities involved and their role, sentiment and tone, and -- most crucially -- the reported timeframe for the occurrence of the event discussed -- whether it be in the past, present, or future. Tweets (Twitter posts) that mention an event to occur reportedly in the future prove to be important predictors. These signals are enhanced by cross referencing with the fragility of the situation as inferred from more traditional media, allowing us to sift out the social media trends that fizzle out before materializing as crowds on the ground.  Read more ↓
+
+The Power of Optimization Over Randomization in Designing Experiments Involving Small Samples, with D. Bertsimas and M. Johnson.
+
+Operations Research, 63(4):868--876, 2015.
+
+Code. Editorial in World Bank's Development Impact.
+
+Abstract: Random assignment, typically seen as the standard in controlled trials, aims to make experimental groups statistically equivalent before treatment. However, with a small sample, which is a practical reality in many disciplines, randomized groups are often too dissimilar to be useful. We propose an approach based on discrete linear optimization to create groups whose discrepancy in their means and variances is several orders of magnitude smaller than with randomization. We provide theoretical and computational evidence that groups created by optimization have exponentially lower discrepancy than those created by randomization.  Read more ↓
+
+Predicting Crowd Behavior with Big Public Data.
+
+Proceedings of the 23rd international conference on World Wide Web (WWW) companion, 23:625--630, 2014.
+
+arXiv February 2014.
+
+Slides. Media coverage.
+
+Winner, INFORMS Social Media Analytics Best Paper Competition 2015
+
+Abstract: With public information becoming widely accessible and shared on today's web, greater insights are possible into crowd actions by citizens and non-state actors such as large protests and cyber activism. Turning public data into Big Data, company Recorded Future continually scans over 300,000 open content web sources in 7 languages from all over the world, ranging from mainstream news to government publications to blogs and social media. We study the predictive power of this massive public data in forecasting crowd actions such as large protests and cyber campaigns before they occur. Using natural language processing, event information is extracted from content such as type of event, what entities are involved and in what role, sentiment and tone, and the occurrence time range of the event discussed. The amount of information is staggering and trends can be seen clearly in sheer numbers. In the first half of this paper we show how we use this data to predict large protests in a selection of 19 countries and 37 cities in Asia, Africa, and Europe with high accuracy using standard learning machines. In the second half we delve into predicting the perpetrators and targets of political cyber attacks with a novel application of the naïve Bayes classifier to high-dimensional sequence mining in massive datasets.  Read more ↓
+
+Scheduling, Revenue Management, and Fairness in an Academic-Hospital Division: An Optimization Approach, with D. Bertsimas and R. Baum.
+
+Academic Radiology, 21(10):1322--1330, 2014.
+
+Abstract: Physician staff of academic hospitals today practice in several geographic locations including their main hospital, referred to as the extended campus. With extended campuses expanding, the growing complexity of a single division's schedule means that a naïve approach to scheduling compromises revenue and can fail to consider physician over-exertion. Moreover, it may provide an unfair allocation of individual revenue, desirable or burdensome assignments, and the extent to which the preferences of each individual are met. This has adverse consequences on incentivization and employee satisfaction and is simply against business policy. We identify the daily scheduling of physicians in this context as an operational problem that incorporates scheduling, revenue management, and fairness. Noting previous success of operations management and optimization in each of these disciplines, we propose a simple, unified optimization formulation of this scheduling problem using mixed integer optimization (MIO). Through a study of implementing the approach at the Division of Angiography and Interventional Radiology at the Brigham and Women's Hospital, which is directed by one of the authors, we exemplify the flexibility of the model to adapt to specific applications, the tractability of solving the model in practical settings, and the significant impact of the approach, most notably in increasing revenue significantly while being only more fair and objective.  Read more ↓
+

@@ -1,0 +1,98 @@
+Professor: Jishen Zhao
+University: Univ. of California - San Diego
+URL: https://cseweb.ucsd.edu/~jzhao
+Description: Home
+Research
+Publications
+News
+People
+Teaching
+
+Photo credit: Darrell Long
+Jishen Zhao
+
+Curriculum Vitae
+
+Professor
+Computer Science and Engineering Department
+Jacobs School of Engineering
+University of California, San Diego
+Email: jzhao@ucsd.edu
+Office: CSE 3222
+Telephone: 858-822-2449
+
+
+
+I am a Professor in the Computer Science and Engineering Department at University of California, San Diego. I am affiliated with the Non-Volatile System Laboratory (NVSL), ML Systems Group, and Center for Machine-Integrated Computing and Security (MICS) at UCSD, and Center for Processing with Intelligent Storage and Memory (PRISM). My research spans and stretches the boundary across computer architecture, system software, and machine learning, with an emphasis on memory systems, machine learning and systems codesign, and system support for smart applications.
+
+Recent news
+Dec 2021: Four papers have been accepted.
+"Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems" (HPCA 2022)
+"Learning Bounded Context-Free-Grammar via LSTM and the Transformer: the Difference and the Explanations" (AAAI 2022)
+"ProFlip: Targeted Trojan Attack with Progressive Bit Flips" (ICCV 2021)
+"Suraksha: A Framework to Analyze the Safety Implications of Perception Design Choices in AVs"(ISSRE 2021)
+July 2021: Hengyu Zhao successfully finished his Ph.D thesis defense. Congratulations, Dr. Zhao!
+May 2021: Four papers have been accepted.
+"Learn-to-Share: A Hardware-friendly Transfer Learning Framework Exploiting Computation and Parameter Sharing" (ICML 2021, long presentation)
+"Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming" (USENIX ATC 2021)
+"FPRA: A Fine-grained Parallel RRAM Architecture" (ISLPED 2021)
+"Continuous CNN For Nonuniform Time Series" (ICASSP 2021)
+
+April 2021: Xiao Liu successfully finished his Ph.D thesis defense. Congratulations, Dr. Liu!
+Feb 2021: I will serve as the TPC co-chair of MICRO 2021, please consider submitting your work.
+Jan 2021: Our paper "Characterizing and Modeling Non-Volatile Memory Systems" (MICRO 2020) has been selected as one of the 12 papers in IEEE Micro top picks from computer architecture conferences 2021. Please check out the source code of LENS and VANS.
+
+July 2020: Six papers have been accepted.
+"Characterizing and Modeling Non-Volatile Memory Systems" (MICRO 2020, IEEE Micro top picks from computer architecture conferences 2021)
+"SubZero: Zero-copy IO for Persistent Main Memory FileSystems" (APSys 2020, Best Paper Award)
+"Driving Scenario Perception-Aware Computing System Design in Autonomous Vehicles" (ICCD 2020, Best Paper in Track) "Enhancing Model Parallelism in Neural Architecture Search for Multi-device System" (IEEE Micro SI on ML for Systems)
+"Implementing Binary Neural Networks in Memory with Approximate Accumulation" (ISLPED 2020)
+"Vehicular and Edge Computing for Emerging Connected and Autonomous Vehicle Applications" (DAC 2020)
+April 2020: Our paper "Safety Score: A Quantitative Approach to Guiding Safety-Aware Autonomous Vehicle Computing System Design" has been accepted by IEEE Intelligent Vehicles Symposium (IV 2020).
+Dec 2019: Our paper "Deep symbolic superoptimization without human knowledge" (code) has been accepted by International Conference on Learning Representations (ICLR 2020).
+Oct 2019: I have been inducted to MICRO Hall of Fame.
+Sept 2019: Two new students, Hanxian Huang and Theodoros Michailidis, joined our group. Welcome!
+
+Program committee
+2022: ISCA
+2021: MICRO 2021 (TPC Co-chair), IEEE MICRO Top Picks
+2020: ISCA, MICRO, HPCA, FAST, IISWC, IEEE MICRO Top Picks
+2019: ISCA, MICRO, HPCA, SC, DAC, ICCAD, APSys
+2018: MICRO, HPCA, ISPASS, IISWC, DAC, ICCAD, ISLPED, MEMSYS
+2017: DAC, IPDPS, MEMSYS, MSST, ISLPED
+2016: DAC, MSST, ISLPED, ICS, SC
+
+Selected publications
+Sibyl: Forecasting Time-Evolving Query Workloads [SIGMOD 2024]
+TripLe: Revisiting Pretrained Model Reuse and Progressive Learning for Efficient Vision Transformer Scaling and Searching [ICCV 2023]
+Everyone’s Preference Changes Differently: A Weighted Multi-Interest Model for Retrieval [ICML 2023]
+NVLeak: Off-Chip Side-Channel Attacks via Non-Volatile Memory Systems [USENIX SEC 2023]
+Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems [HPCA 2022]
+Learning Bounded Context-Free-Grammar via LSTM and the Transformer: the Difference and the Explanations [AAAI 2022]
+Learn-to-Share: A Hardware-friendly Transfer Learning Framework Exploiting Computation and Parameter Sharing [ICML 2021, long talk]
+Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming [USENIX ATC 2021]
+Characterizing and Modeling Non-Volatile Memory Systems [MICRO 2020, IEEE Micro top picks from computer architecture conferences 2021]
+Deep symbolic superoptimization without human knowledge [ICLR 2020]
+Coda: An End-to-End Neural Program Decompiler [NeurIPS 2019]
+Binary Star: Coordinated Reliability in Heterogeneous Memory Systems for High Performance and Scalability [MICRO 2019]
+SSP: Eliminating Redundant Writes in Failure-Atomic NVRAMs via Shadow Sub-Paging [MICRO 2019]
+DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks [ISCA 2019]
+String Figure: A Scalable and Elastic Memory Network Architecture [HPCA 2019]
+PMTest: A Fast and Flexible Testing Framework for Persistent Memory Programs [ASPLOS 2019]
+Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach [MICRO 2018]
+Persistence Parallelism Optimization: A holistic approach from memory bus to RDMA network [MICRO 2018]
+Steal but No Force: Efficient Hardware Undo+Redo Logging for Persistent Memory Systems [HPCA 2018]
+Approximate Image Storage with Multi-level Cell STT-MRAM Main Memory [ICCAD 2017]
+Leave the Cache Hierarchy Operation as It Is: A New Persistent Memory Accelerating Approach [DAC 2017]
+A Unified Memory Network Architecture for In-Memory Computing in Commodity Servers [MICRO 2016]
+A Novel Processing-in-memory Architecture for Neural Network Computation in ReRAM-based Main Memory [ISCA 2016]
+LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches [ISCA 2016]
+ThyNVM: Enabling Software-Transparent Crash Consistency in Persistent Memory Systems [MICRO 2015]
+FIRM: Fair and High-Performance Memory Control for Persistent Memory Systems [MICRO 2014]
+Kiln: Closing the Performance Gap Between Systems With and Without Persistence Support [MICRO 2013, Best Paper Honorable Mention Award]
+Optimizing GPU Energy Efficiency with 3D Diestacking Graphics Memory and Reconfigurable Memory Interface [TACO 2013]
+Moguls: a Model to Explore Memory Hierarchy for Throughput Computing [ISCA 2011]
+Cost-Aware Three-Dimensional (3D) Many-Core Multiprocessor Design [DAC 2010]
+
+Last updated on Dec, 2021.	
+

@@ -1,0 +1,156 @@
+Professor: Phillip B. Gibbons
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~gibbons
+Description: 	
+
+		Phillip B. Gibbons
+
+Professor
+Computer Science Department
+Electrical & Computer Engineering Department
+Carnegie Mellon University
+Pittsburgh, PA
+gibbons@cs.cmu.edu
+Office: 7221 Gates-Hillman Center
+Mini-Bio
+
+Phil Gibbons is a Professor in the Computer Science Department and the Electrical & Computer Engineering Department at Carnegie Mellon University. He received his Ph.D. in Computer Science from the University of California at Berkeley in 1989. Gibbons was a researcher in the Mathematical Sciences Research Center at AT&T Bell Laboratories (1990-1996), the Information Sciences Research Center at Lucent Bell Laboratories (1996-2001), and the Intel Research Pittsburgh Lablet (2001-2011). He was Co-PI/Co-Director for the $15M Intel Science and Technology Center for Cloud Computing (2011-2015). Gibbons' research areas include big data, parallel computing, databases, cloud computing, sensor networks, distributed systems and computer architecture. His publications span theory and systems, across a broad range of computer science and engineering (e.g., conference papers in ATC, ESA, EuroSys, HPCA, IPDPS, ISCA, MICRO, NeurIPS, NSDI, OSDI, PACT, SoCC, SODA, SOSP and SPAA since 2015).
+
+My Publication List (from DBLP)
+My Google Scholar page
+News
+Our paper on pipelined parallel deep learning was accepted to SOSP'19. Congrats to lead student authors Aaron Harlap and Deepak Narayanan!
+New Conference:  1st SIAM Symposium on Algorithmic Principles of Computing Systems (APoCS'20)
+I am teaching 18-613 "Introduction to Computer Systems" this Fall. This course is for CIT Masters students.
+I will be teaching 15-712 "Advanced Operating and Distributed Systems" in Spring 2020.
+Past Teaching
+15-745 "Optimizing Compilers for Modern Architectures", Spring 2019, Spring 2018, Spring 2017, Spring 2016.
+18-213 "Introduction to Computer Systems", Fall 2018, Fall 2017, Fall 2016.
+15-829 "Performance Engineering of Software Systems", Fall 2017.
+15-712 "Advanced Operating and Distributed Systems", Fall 2015.
+Current Research Projects
+Write-efficient Algorithms for Emerging Memory Technologies: Write-efficient algorithms and systems, for settings (such as emerging non-volatile memories) where writes are significantly more costly than reads. Funding provided by NSF.
+Big Learning Systems: Mapping out and exploring the space of large-scale machine learning from a systems' perspective. Funding provided by Intel and NSF.
+Intel Science and Technology Center for Visual Cloud Systems: An Intel-funded $4M+ research center at CMU focused on system support for video analytics.
+Selected Prior Research Projects
+Parlay: Algorithms, programmming abstractions, and runtime systems in support of deterministic parallelism. Congrats to Julian Shun for winning the 2015 ACM Dissertation Award as part of this project!
+Intel Science and Technology Center for Cloud Computing: A $15M+ research partnership among Intel, Carnegie Mellon, Georgia Tech, Princeton, UC Berkeley, and U. Washington (2011-2015)
+Hi-Spade: A hierarchy-savvy approach to algorithm design and systems for emerging parallel hierarchies.
+Log Based Architectures: Hardware-supported logging for program monitoring and recovery on CMPs.
+Sybil Defenses: Novel protocols to limit the impact of malicious users in distributed systems.
+IrisNet: A core architecture and software infrastructure for a worldwide sensor web.
+Aqua: Approximate query answering for fast exploratory data analysis of massive data sets (data warehouses).
+Compas: Improved modeling, algorithm design, and performance for networks, parallel disk systems, SMPs, and supercomputers.
+LPWA: Browse the web with greater privacy, convenience, and spam control.
+Claytronics: Programmable matter composed of myriad tiny robots.
+Selected Talks and Surveys (Note: Viewing ppt files in a browser may miss out on the animations.)
+How Emerging Memory Technologies will Have You Rethinking Algorithm Design (pptx, pdf) .
+Keynote Talk at the 35th ACM Symposium on Principles of Distributed Computing (PODC'16), Chicago, IL, July 2016.
+What's So Special About Big Learning?...A Distributed Systems Perspective (pptx, pdf) .
+Keynote Talk at the 36th IEEE International Conference on Distributed Computing Systems (ICDCS'16), Nara, Japan, June 2016.
+Big Data: Scale Down, Scale Up, Scale Out (pptx, pdf).
+Keynote Talk at the 29th IEEE International Parallel and Distributed Processing Symposium (IPDPS'15), Hyderabad, India, May 2015.
+The Intel Science & Technology Center for Cloud Computing (pptx, pdf).
+Distinguished Lecture at EPFL, School of Computer and Communication Sciences (IC), Lausanne, Switzerland, December 2013.
+Multi-core Computing - lecture 1 (pptx, ppt);   Multi-core Computing - lecture 2 (pptx, ppt);   Multi-core Computing - lecture 3 (pptx, ppt).
+Lectures at the MADALGO Summer School on Algorithms for Modern Parallel and Distributed Models, Aarhus University, Denmark, August 2012.
+Trumping the Multicore Memory Hierarchy with Hi-Spade (pptx).
+Distinguished Lecture at Cornell University, Department of Computer Science, Ithaca, NY, September 2011.
+Trumping the Multicore Memory Hierarchy with Hi-Spade (ppt).
+Keynote Talk at the 10th SIAM International Conference on Data Mining (SDM '10), Columbus, OH, April 2010.
+Theory: Asleep at the Switch to Many-core (ppt).
+Invited talk at the NSF-sponsored Workshop on Theory and Many-Cores, College Park, MD, April 2009.
+Hang On for The Ride: The Thrills and Spills of Sensornet Research (ppt).
+Keynote Talk at the 6th ACM International Conference on Embedded Networked Sensor Systems (SenSys '08), Raleigh, NC, November 2008.
+Fun with Networks: Social, Sensor, and Shape-Shifting (ppt).
+Keynote Talk at the 22nd International Symposium on Distributed Computing (DISC '08), Arcachon, France, June 2008.
+Data-Rich Computing: Where It's At (ppt).
+Invited talk at the 2008 Data-Intensive Computing Symposium, Sunnyvale, CA, March 2008.
+Distinct-Values Estimation over Data Streams (pdf).
+Invited book chapter for Data Streams Management: Processing High-Speed Data Streams, January 2007.
+IrisNet: A Planetary Scale Architecture for Multimedia Sensors (ppt).
+Last version of an invited talk on IrisNet given at various venues, including as keynote talks at DCOSS '05 and BaseNets '06, January 2007.
+Approximate Query Processing: Taming the TeraBytes (ppt).
+Tutorial presented at VLDB '01, Rome, Italy, September 2001.
+Synopsis Data Structures for Massive Data Sets (pdf).
+Invited book chapter for External Memory Algorithms, September 1998.
+Conferences
+Conferences I've published in include: ASPLOS, ATC, CCS, CIDR, CVPR, DCOSS, DSAA, ESA, EuroPar, EuroSys, FAST, FC, HiPEAC, HPCA, ICDCS, ICDE, ICDM, ICFP, ICPR, IPDPS, IPSN, ISCA, KDD, MICRO, Multimedia, NDSS, NeurIPS, NSDI, Oakland, OSDI, PACT, PLDI, PODC, PODS, PPoPP, SenSys, SIGCOMM, SIGMETRICS, SIGMOD, SoCC, SODA, SOSP, SPAA, VCIP and VLDB.
+Conferences I've served on the Program Committee for include: APoCS, ASPLOS, ATC, DCOSS, DISC, EuroSys, GreenCom, ICALP, IC2E, ICDCS, ICDE, ICDM, IPDPS, IPPS, IPSN, ISPAN, KDD, Middleware, OSDI, PACT, PODC, PPoPP, RTSS, SenSys, Sigmetrics, Sigmod, SoCC, SPAA, SPDP, SSDBM, STOC, SysML and VLDB.
+Curriculum Vitae (pdf)
+Recent Awards and Honors (2006-present)
+IEEE Fellow (inducted 2014)
+ACM Fellow (inducted 2006)
+More Effective Distributed ML via a Stale Synchronous Parallel Parameter Server, by Q. Ho, J. Cipar, H. Cui, S. Lee, J.K. Kim, P.B. Gibbons, G. Gibson, G. Ganger and E. Xing.
+Selected for Oral Presentation at NIPS '13 (only 20 selected out of 1420 submissions)
+DSybil: Optimal Sybil-Resistence for Recommendation Systems, by H. Yu, C. Shi, M. Kaminsky, P.B. Gibbons and F. Xiao.
+On the short list for the best paper award for Oakland '09
+Flexible Hardware Acceleration for Instruction-Grain Program Monitoring, by S. Chen, M. Kozuch, T. Strigkos, B. Falsafi, P. Gibbons, T. Mowry, V. Ramachandran, M. Ryan, O. Ruwase and E. Vlachos.
+Selected for IEEE Micro's Top Picks from the 2008 Computer Architecture Conferences
+Space Profiling for Parallel Functional Programs, by D. Spoonhower, G.E. Blelloch, R. Harper and P.B. Gibbons.
+Selected for a special journal issue for the best papers in ICFP '08
+Online Maintenance of Very Large Random Samples on Flash Storage, by S. Nath and P.B. Gibbons.
+Selected for a special journal issue for the best papers in VLDB '08
+Optimal Inter-Object Correlation when Replicating for Availability, by H. Yu and P.B. Gibbons.
+Selected for a special journal issue for the best papers in PODC '07
+SybilGuard: Defending Against Sybil Attacks via Social Networks, by H. Yu, M. Kaminsky, P.B. Gibbons and A. Flaxman.
+Selected for a special journal issue for the best papers in SIGCOMM '06
+Availability of Multi-Object Operations, by H. Yu, P.B. Gibbons and S.K. Nath.
+Co-winner of the best paper award for NSDI '06
+Note: Additional (pre-2006) professional awards and honors are listed in my c.v.
+Recent Professional Service (2010-present)
+Editor-in-Chief:  ACM Transactions on Parallel Computing (TOPC) (2012-2018), a new journal launched in January 2013
+Editorial Board:  Journal of the ACM (2001-2018)
+Editorial Board:  IEEE Transactions on Cloud Computing (TCC) (2013-2017)
+Steering Committee Member:  ACM Symposium on Cloud Computing (SoCC)   (2018-present)
+Steering Committee Member:  IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS)   (2004-present)
+Steering Committee Member   ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)   (2000-present).   Conference Chair (head of Steering Committee), 2003-2007.
+Steering Committee Member:  ACM International Conference on Embedded Networked Sensor Systems (SenSys)   (2007-2010)
+Program Committee:  3rd Conference on Systems and Machine Learning (SysML'20)
+Program Committee:  1st SIAM Symposium on Algorithmic Principles of Computing Systems (APoCS'20)
+Program Committee:  2019 USENIX Annual Technical Conference (ATC'19)
+Program Committee:  2nd SysML Conference (SysML'19)
+General Chair:  9th ACM Symposium on Cloud Computing (SoCC'18)
+Program Committee:  1st SysML Conference (SysML'18)
+Program Committee:  23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'18)
+External Review Committee:  50th IEEE/ACM International Symposium on Microarchitecture (MICRO'17)
+Program Committee:  12th Usenix Symposium on Operating Systems Design and Implementation (OSDI'16)
+Program Committee:  28th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'16)
+Program Committee:  16th ACM European Conference on Computer Systems (EuroSys'16)
+Program Committee:  39th ACM International Conference on Measurement and Modeling of Computer Systems (Sigmetrics'15)
+Program Co-Chair: IEEE International Conference on Green Computing and Communications (GreenCom'14)
+Program Committee: 5th ACM Symposium on Cloud Computing (SoCC'14)
+Program Committee: 23rd ACM/IEEE International Conference on Parallel Architectures and Compilation Techniques (PACT'14)
+Program Committee:  41st EATCS International Colloquium on Automata, Languages and Programming (ICALP'14)
+Program Track-Chair:  34th International Conference on Distributed Computing Systems (ICDCS'14), Big Data, Data Management and Analytics track
+Program Committee:  26th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'14)
+External Review Committee:  19th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP'14)
+Program Area-Chair:  2013 ACM SIGMOD International Conference on Management of Data (SIGMOD'13)
+Program Committee:  32nd ACM Symposium on Principles of Distributed Computing (PODC'13)
+Program Committee:  IEEE International Conference on Cloud Engineering (IC2E'13)
+Program Committee:  18th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP'13)
+Program Committee:  13th ACM/IFIP/USENIX International Conference on Middleware (Middleware'12)
+Program Committee:  38th International Conference on Very Large Databases (VLDB'12)
+Program Committee:  39th EATCS International Colloquium on Automata, Languages and Programming (ICALP'12)
+Co-organizer:  NSF Workshop on Research Directions in the Principles of Parallel Computation, June 2012
+Program Committee:  8th ACM International Workshop on Data Management on New Hardware (DaMoN'12)
+Program Committee:  2012 ACM SIGMOD International Conference on Management of Data (SIGMOD'12)
+External Review Committee:  31st ACM Symposium on Principles of Database Systems (PODS'12)
+Program Committee:  11th IEEE International Conference on Data Mining (ICDM'11)
+Program Committee:  30th ACM Symposium on Principles of Distributed Computing (PODC'11)
+Program Committee:  35th ACM International Conference on Measurement and Modeling of Computer Systems (Sigmetrics '11)
+External Review Committee:  16th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'11)
+Program Committee:  8th ACM International Conference on Embedded Networked Sensor Systems (SenSys '10)
+Program Committee:  37th International Colloquium on Automata, Languages and Programming (ICALP '10)
+Program Committee:  2010 ACM SIGMOD International Conference on Management of Data (SIGMOD '10)
+General Co-Chair:  9th International ACM Workshop on Data Engineering for Wireless and Mobile Access (MobiDE '10), held in conjunction with SIGMOD '10
+Program Committee:  9th IEEE/ACM International Conference on Information Processing in Sensor Networks (IPSN '10)
+Program Committee:  12th SIAM Workshop on Algorithm Engineering & Experiments (ALENEX '10)
+Adjunct Professor, Computer Science Department, Carnegie Mellon University (2003-2015), Adjunct Associate Professor (2000-2003)
+Adjunct Professor, Department of Computer Science, University of Pittsburgh (2003-2011)
+Note: Additional (pre-2010) professional service is listed in my c.v.
+Personal
+My wife's home page: Linda Moya
+A few races I've run recently (out of date): 2015 Rock 'n' Roll Arizona Half Marathon, 2014 Columbus Marathon, 2014 Pequot 5 mile, 2014 Petite Track Meet 1 mile, 2013 Steelers 5K, 2013 National Senior Games 800/1500, 2013 Pittsburgh Half Marathon, 2011 Pittsburgh Marathon, 2010 Great Race 10K, 2010 Pretty Good Race, 2010 Fathers Day 5K, 2010 Pittsburgh Half Marathon, 2009 Fathers Day 5K, and 2009 Pittsburgh Half Marathon.
+Page last updated: July 2019
+

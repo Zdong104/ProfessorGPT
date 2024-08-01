@@ -1,0 +1,50 @@
+Professor: N. V. Vinodchandran
+University: University of Nebraska
+URL: http://cse.unl.edu/~vinod
+Description: Vinodchandran Variyam
+Professor
+School of Computing
+University of Nebraska - Lincoln
+
+
+Avery 366
+University of Nebraska - Lincoln
+Lincoln NE, 68588
+
+
+Email : vinod@unl.edu
+Phone : (402)-472-5002  
+
+Curriculum Vitae
+
+Research
+
+Professor Vinodchandran Variyam's research interests are centered around computer science subjects that involve fundamental computational efficiency concerns. His work encompasses various core computer science areas, such as computational complexity theory, machine learning, and large data management. He has made significant contributions to complexity theory, advancing the state-of-the-art in several important topics, including de-randomization, circuit complexity, space-limited computations, and Kolmogorov complexity. Beyond computational complexity, Prof. Vinodchandran is currently engaged in research themes that include reproducible computations, sample efficiency in distribution learning and testing, and algorithms development for streaming data and their applications. His work in these areas has the potential to make substantial advancements in the field and contribute to solving complex challenges related to efficiency and computation. 
+
+Current Research Themes
+Reproducibilty/Replicability in Randomized Computations: Can monte-carlo approximation algorithms be made reproducible (output a unique value on all runs of the algorithm)? Current investigations on this question reveal surprising connections to several other notions in foundations of computation such as circuit complexity, hierarchy theorems, Sperner/KKM Lemma and certain partition problems in geometry. Recent contributions on this topic are available at proceeding of  ITCS 2021 and STOC 2022. This research led us to the discovery of a new Euclidean partition problem reported in arXiv 2022, arXiv 2023, which is of independent mathematical interest. A recent work applies the techniques that we developed to understanding list and certificate complexity of replicable/reproducible learning algorithms. This work appeared in NeurIPS 2023 (spotlight).   
+
+Sample Efficiency in Learning and Testing: Learning distributions from observations is a fundamental problem in machine learning. Establishing optimal bounds on the number of observations needed to learn is a central research question especially for high-dimensional distributions. Our recent research establishes new upper and lower bounds on learning and testing high-dimension distributions including Bayes nets and interventional distributions. Recent publications are available in proceedings of ICML 2020, NeurIPS 2020, ALT 2021, STOC 2021, and AISTATS 2022.
+
+Algorithms for Streaming Data: The data streaming model is one of the well-established models for computation over large data sets. It  is a model for real-time computation that limits storage capacity and processing time. Since the velocity and the volume of the data are expected to be very high, algorithms processing them can not revisit an item or spend too much time on a single item.  Our research on this topic has led to contributions not only in foundations of data analysis but also in applied areas including bioinformatics, databases, and software engineering. Recent publications are available at proceedings of SWAT 2016, ACM BMB 2017, PODS 2021, PODS 2022, ICSE 2022, and ESA 2022. A work, appeared in PODS 2021, made a striking discovery that certain algorithms developed independently in model counting and data streaming are the same. This work won several recognitions including Best of PODS 21, SIGMOD Research Highlight Award, and CACM Research Highlight Award. 
+
+Complete publication list at DBLP
+
+A note on the name on publications: In scientific publications, name appears as N. V. Vinodchandran.
+Awards
+Donald Knuth's praise of the CVM Algorithm
+CACM Research Highlights 2023
+SIGMOD Research Highlights Award 2022
+BEST of PODS 2021
+UNL CSE Department Student Choice Award 2016-2017
+UNL CAS Distinguished Teaching Award 2005
+
+PhD Students
+
+Jason Vander Woude (Graduated in 2023. Joining Sandia National Labs)
+Sutanu Gayen (Graduated in 2019. Currently Faculty at IIT Kanpur)
+Derrick Stolee (Jointly with Prof. Stephen Hartke, Graduated in 2012. Currently Principle Software Engineer at GitHub)
+Raghunath Tewari (Graduated in 2011. Currently Faculty at IIT Kanpur)
+Chris Bourke (Graduated in 2008. Currently Associate Prof. of Practice at UNL)
+
+

@@ -1,0 +1,288 @@
+Professor: Yonghwi Kwon 0001
+University: University of Maryland - College Park
+URL: https://yonghwi-kwon.github.io/
+Description: Yonghwi Kwon
+Univ. of Maryland
+Summary
+Publications
+Team
+Teaching/Services
+Miscellaneous
+Software Security, Reverse Engineering, Forensics
+Yonghwi Kwon  University of Maryland
+
+I am an Assistant Professor at the University of Maryland (Electrical and Computer Engineering, Maryland Cybersecurity Center (MC2), and UMIACS). I direct the SEED Research Group. My research interests include software security, software engineering, and cyber forensics. I have been honored with NSF CAREER Award, NSF CRII Award, ACM SIGPLAN Distinguished Paper Award, Maurice H. Halstead Memorial Award, ASE Best Paper Award, ACM SIGSOFT Distinguished Paper Award, and Microsoft Most Valuable Professional Award.
+
+ CV (Resume)     Research Group Website     Email: 
+  I am looking for motivated students. Please see this page.
+
+ 2024/06: Scavy: Automated Discovery of Memory Corruption Targets in Linux Kernel for Privilege Escalation accepted in USENIX'24!
+ 2023/11: BTFuzzer (ICISC'23) wins the Best Paper Award!
+ 2023/08: A Longitudinal Study of Vulnerable Client-side Resources and Web Developers' Updating Behaviors accepted in IMC'23!
+ 2023/04: FreePart: Hardening Data Processing Software via Framework-based Partitioning accepted in ASPLOS'24!
+ Read more
+Publications
+
+- Top Venues in Security/Systems (S&P (Oakland) [22, 23, 25, 34, 39], CCS [21, 28, 37], NDSS [2, 8, 13, 24, 40], USENIX [45], ASPLOS [3, 4, 44]), in SE/PL (ICSE [18, 35, 41], FSE [6, 29], ASE [ 1, 11, 30], OOPSLA [7,  19]), in Web (WWW [9, 14, 26], IMC [42])
+
+45. USENIX'24 - Scavy: Automated Discovery of Memory Corruption Targets in Linux Kernel for Privilege Escalation, In Proc. of the 33rd USENIX Security Symposium -  BibTex
+Erin Avllazagaj, Yonghwi Kwon, and Tudor Dumitraș
+
+44. ASPLOS'24 - FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation, In Proc. of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems -  BibTex
+Ali Ahad, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon
+
+43. ICISC'23 - BTFuzzer: a profile-based fuzzing framework for Bluetooth protocols, In Proc. of the 26th Annual International Conference on Information Security and Cryptology -  BibTex
+Min Jang, Yuna Hwang, Yonghwi Kwon, and Hyoungshick Kim
+ Best Paper Award
+
+42. IMC'23 - A Longitudinal Study of Vulnerable Client-side Resources and Web Developers' Updating Behaviors, In Proc. of the 23rd ACM Internet Measurement Conference -  BibTex
+Kyungchan Lim, Yonghwi Kwon, and Doowon Kim
+
+41. ICSE'23 - BFTDetector: Automatic Detection of Business Flow Tampering for Digital Content Service, In Proc. of the 45th International Conference on Software Engineering -  BibTex
+I Luk Kim, Weihang Wang, Yonghwi Kwon, and Xiangyu Zhang
+
+40. NDSS'23 - SynthDB: Synthesizing Database via Program Analysis for Security Testing of Web Applications, In Proc. of the 30th Network and Distributed System Security Symposium -  BibTex
+An Chen, JiHo Lee, Basanta Chaulagain, Yonghwi Kwon, and Kyu Hyung Lee
+
+39. S&P'23 - PyFET: Forensically Equivalent Transformation for Python Binary Decompilation, In Proc. of the 44th IEEE Symposium on Security and Privacy -  BibTex
+Ali Ahad, Chijung Jung, Ammar Askar, Doowon Kim, Taesoo Kim, and Yonghwi Kwon
+
+38. CCS'22 (Poster) - Automated Discovery of Sensor Spoofing Attacks on Robotic Vehicles, In Proc. of the 29th ACM Conference on Computer and Communications Security -  BibTex
+Kyeongseok Yang*, Sudharssan Mohan* (*: co-first authors), Yonghwi Kwon, Heejo Lee, and Chung Hwan Kim
+
+37. CCS'22 - DriveFuzz: Discovering Autonomous Driving Bugs through Driving Quality-Guided Fuzzing, In Proc. of the 29th ACM Conference on Computer and Communications Security -  BibTex
+Seulbae Kim, Major Liu, Junghwan Rhee, Yuseok Jeon, Yonghwi Kwon, and Chung Hwan Kim
+
+36. WISA'22 - Dazzle-attack: Anti-Forensic Server-side Attack via Fail-free Dynamic State Machine, In Proc. of the 23rd World Conference on Information Security Applications -  BibTex
+Bora Lee*, Kyungchan Lim* (*: co-first authors), JiHo Lee, Chijung Jung, Doowon Kim, Kyu Hyung Lee, Haehyun Cho, and Yonghwi Kwon
+ Best Student Paper Award
+
+35. ICSE'22 - Hiding Critical Program Components via Ambiguous Translation, In Proc. of the 44th International Conference on Software Engineering -  BibTex
+Chijung Jung, Doowon Kim, An Chen, Weihang Wang, Yunhui Zheng, Kyu Hyung Lee, and Yonghwi Kwon
+
+34. S&P'22 - SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms, In Proc. of the 43rd IEEE Symposium on Security and Privacy -  BibTex
+Chijung Jung, Ali Ahad, Yuseok Jeon, and Yonghwi Kwon
+
+33. ACSAC'21 - Sofware Watermarking via a Binary Function Relocation, In Proc. of 37th Annual Conference on Computer Security Applications -  Slides |  BibTex
+Honggoo Kang, Yonghwi Kwon, Sangjin Lee, and Hyungjoon Koo
+
+32. ASE'21 (NIER) - Defeating Program Analysis Techniques via Ambiguous Translation, In Proc. of 36th IEEE/ACM International Conference on Automated Software Engineering (New Ideas and Emerging Results Track) -  BibTex
+Chijung Jung, Doowon Kim, Weihang Wang, Yunhui Zheng, Kyu Hyung Lee, and Yonghwi Kwon
+
+31. TIFS (Journal, IF: 6.211) - TRACE: Enterprise-Wide Provenance Tracking For Real-Time APT Detection, IEEE Transactions on Information Forensics and Security -  BibTex
+Hassaan Irshad, Gabriela Ciocarlie, Ashish Gehani, Vinod Yegneswaran, Kyu Hyung Lee, Jignesh Patel, Somesh Jha, Yonghwi Kwon, Dongyan Xu, and Xiangyu Zhang
+
+30. ASE'21 - An Empirical Study of Bugs in WebAssembly Compilers, In Proc. of 36th IEEE/ACM International Conference on Automated Software Engineering -  BibTex
+Alan Romano, Xinyue Liu, Yonghwi Kwon, and Weihang Wang
+
+29. FSE'21 - Swarmbug: Debugging Configuration Bugs in Swarm Robotics, In Proc. of 29th ACM SIGSOFT International Symposium on the Foundations of Software Engineering -  Invited Talk at WISA |  BibTex
+Chijung Jung, Ali Ahad, Jinho Jung, Sebastian Elbaum, and Yonghwi Kwon
+
+28. CCS'21 - Spinner: Automated Dynamic Command Subsystem Perturbation, In Proc. of 28th ACM Conference on Computer and Communications Security -  BibTex
+Chijung Jung, Ali Ahad, and Yonghwi Kwon
+
+27. ASIACCS'21 - Security Analysis on Practices of Certificate Authorities in the HTTPS Phishing Ecosystem, In Proc. of 16th ACM ASIA Conference on Computer and Communications Security -  BibTex
+Doowon Kim, Haehyun Cho, Yonghwi Kwon, Adam Doupe, Sooel Son, Gail-Joon Ahn, and Tudor Dumitraș
+
+26. WWW'21 - TLS 1.3 in Practice: How TLS 1.3 Contributes to the Internet, In Proc. of 30th The Web Conference -  Video |  BibTex
+Hyunwoo Lee, Doowon Kim, and Yonghwi Kwon
+
+25. S&P'21 - OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary, In Proc. of the 42nd IEEE Symposium on Security and Privacy -  BibTex
+Zhuo Zhang, Yapeng Ye, Wei You, Guanhong Tao, Wen-chuan Lee, Yonghwi Kwon, Yousra Aafer, and Xiangyu Zhang
+
+24. NDSS'21 - C2SR: Cybercrime Scene Reconstruction for Post-mortem Forensic Analysis, In Proc. of the 28th Network and Distributed System Security Symposium -  Slides |  Video |  BibTex
+Yonghwi Kwon, Weihang Wang, Jinho Jung, Kyu Hyung Lee, and Roberto Perdisci
+
+23. S&P'20 - TARDIS: Rolling Back The Clock On CMS-Targeting Cyber Attacks, In Proc. of the 41st IEEE Symposium on Security and Privacy -  Video |  BibTex
+Ranjita Pai Kasturi, Yiting Sun, Ruian Duian, Omar Alrawi, Ehsan Asdar, Victor Zhu, Yonghwi Kwon, and Brendan Saltaformaggio
+
+22. S&P'20 - PMP: Cost-effective Forced Execution with Probabilistic Memory Pre-planning, In Proc. of the 41st IEEE Symposium on Security and Privacy -  BibTex
+Wei You, Zhuo Zhang, Yonghwi Kwon, Yousra Aafer, Fei Peng, Yu Shi, Carson Makena Harmon, and Xiangyu Zhang
+
+21. CCS'19 - MalMax: Multi-Aspect Execution for Automated Dynamic Web Server Malware Analysis, In Proc. of the 26th ACM Conference on Computer and Communications Security -  Slides |  Code |  BibTex
+Abbas Naderi-Afooshteh, Yonghwi Kwon, Anh Nguyen-Tuong, Ali Razmjoo-Qalaei, Mohammad-Reza Zamiri-Gourabi, and Jack W. Davidson
+
+20. ACSAC'19 - CUBISMO: Decloaking Server-side Malware via Cubist Program Analysis, In Proc. of the 35th Annual Conference on Computer Security Applications -  Slides |  BibTex
+Abbas Naderi-Afooshteh, Yonghwi Kwon, Anh Nguyen-Tuong, Mandana Bagheri-Marzijarani, and Jack W. Davidson
+
+19. OOPSLA'19 - BDA: Practical Dependence Analysis for Binary Executables by Unbiased Whole-program Path Sampling and Per-path Abstract Interpretation, In Proc. of the 2019 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications -  BibTex
+Zhuo Zhang, Wei You, Guanhong Tao, Guannan Wei, Yonghwi Kwon, and Xiangyu Zhang
+ ACM SIGPLAN Distinguished Paper Award
+
+18. ICSE'19 - Probabilistic Disassembly, In Proc. of the 41st International Conference on Software Engineering -  Slides |  BibTex
+Kenneth Adam Miller, Yonghwi Kwon, Yi Sun, Zhuo Zhang, Xiangyu Zhang, and Zhiqiang Lin
+
+17. ACSAC'18 - Lprov: Practical Library-aware Provenance Tracing, In Proc. of the 34th Annual Conference on Computer Security Applications -  BibTex
+Fei Wang, Yonghwi Kwon, Shiqing Ma, Xiangyu Zhang, and Dongyan Xu
+
+16. ATC'18 - Kernel-Supported Cost-Effective Audit Logging for Causality Tracking, In Proc. of the 2018 USENIX Annual Technical Conference -  BibTex
+Shiqing Ma, Juan Zhai, Yonghwi Kwon, Kyu Hyung Lee, Xiangyu Zhang, Gabriela Ciocarlie, Ashish Gehani, Vinod Yegneswaran, Dongyan Xu, and Somesh Jha
+
+15. Ph.D. Thesis - Combatting Advanced Persistent Threat via Causality Inference and Program Analysis -  BibTex
+Yonghwi Kwon
+
+14. WWW'18 - AdBudgetKiller: Online Advertising Budget Draining Attack, In Proc. of the 27th International World Wide Web Conference -  BibTex
+I Luk Kim, Weihang Wang, Yonghwi Kwon, Yunhui Zheng, Yousra Aafer, Weijie Meng, and Xiangyu Zhang
+
+13. NDSS'18 - MCI: Modeling-based Causality Inference in Audit Logging for Attack Investigation, In Proc. of the 25th Network and Distributed System Security Symposium -  Slides |  BibTex
+Yonghwi Kwon, Fei Wang, Weihang Wang, Kyu Hyung Lee, Wen-Chuan Lee, Shiqing Ma, Xiangyu Zhang, Dongyan Xu, Somesh Jha, Gabriela Ciocarlie, Ashish Gehani, and Vinod Yegneswaran
+
+12. ACSAC'17 - RevARM: A Platform-Agnostic ARM Binary Rewriter for Security Applications, In Proc. of the 33rd Annual Conference on Computer Security Applications -  BibTex
+Taegyu Kim, Chung Hwan Kim, Hongjun Choi, Yonghwi Kwon, Brendan Saltaformaggio, Xiangyu Zhang, and Dongyan Xu
+
+11. ASE'17 - PAD: Programming Third-party Web Advertisement Censorship, In Proc. of the 32nd IEEE/ACM International Conference on Automated Software Engineering -  BibTex
+Weihang Wang, Yonghwi Kwon, Yunhui Zheng, Yousra Aafer, I Luk Kim, Wen-Chuan Lee, Yingqi Liu, Weijie Meng, Xiangyu Zhang, and Patrick Eugster
+
+10. ISSTA'17 - CPR: Cross Platform Binary Code Reuse via Platform Independent Trace Program, In Proc. of the 26th ACM SIGSOFT International Symposium on Software Testing and Analysis -  Slides |  BibTex
+Yonghwi Kwon, Weihang Wang, Yunhui Zheng, Xiangyu Zhang, and Dongyan Xu
+
+9. WWW'17 - J-Force: Forced Execution on JavaScript, In Proc. of the 26th International World Wide Web Conference -  BibTex
+Kyungtae Kim, I Luk Kim, Chung Hwan Kim, Yonghwi Kwon, Yunhui Zheng, Xiangyu Zhang, and Dongyan Xu
+
+8. NDSS'17 - A2C: Self Destructing Exploit Executions via Input Perturbation, In Proc. of the 24th Network and Distributed System Security Symposium -  Slides |  BibTex
+Yonghwi Kwon, Brendan Saltaformaggio, I Luk Kim, Kyu Hyung Lee, Xiangyu Zhang, and Dongyan Xu
+
+7. OOPSLA'16 - Apex: Automatic Programming Assignment Error Explanation, In Proc. of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications -  Website |  BibTex
+Dohyeong Kim, Yonghwi Kwon, Peng Liu, I Luk Kim, David Mitchel Perry, Xiangyu Zhang, and Gustavo Rodriguez-Rivera
+
+6. FSE'16 - WebRanz: Web Page Randomization For Better Advertisement Delivery and Web-Bot Prevention, In Proc. of the 24th ACM SIGSOFT International Symposium on the Foundations of Software Engineering -  Website |  BibTex
+Weihang Wang, Yunhui Zheng, Xinyu Xing, Yonghwi Kwon, Xiangyu Zhang, and Patrick Eugster
+
+5. WOOT'16 - Eavesdropping on Fine-Grained User Activities Within Smartphone Apps Over Encrypted Network Traffic, In Proc. of the 10th USENIX Workshop on Offensive Technologies -  BibTex
+Brendan Saltaformaggio, Hongjun Choi, Kristen Johnson, Yonghwi Kwon, Qi Zhang, Xiangyu Zhang, Dongyan Xu, and John Qian
+
+4. ASPLOS'16 - LDX: Causality Inference by Lightweight Dual Execution, In Proc. of the 21st International Conference on Architectural Support for Programming Languages and Operating Systems -  Slides |  Demo Video |  BibTex
+Yonghwi Kwon, Dohyeong Kim, William N. Sumner, Kyungtae Kim, Brendan Saltaformaggio, Xiangyu Zhang, and Dongyan Xu
+
+3. ASPLOS'15 - Dual Execution for On the Fly Fine Grained Execution Comparison, In Proc. of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems -  BibTex
+Dohyeong Kim, Yonghwi Kwon, William N. Sumner, Xiangyu Zhang, and Dongyan Xu
+
+2. NDSS'15 - P2C: Understanding Output Data Files via On-the-Fly Transformation from Producer to Consumer Executions, In Proc. of the 22nd Network and Distributed System Security Symposium -  Slides |  BibTex
+Yonghwi Kwon, Fei Peng, Dohyeong Kim, Kyungtae Kim, Xiangyu Zhang, Dongyan Xu, Vinod Yegneswaran, and John Qian
+
+1. ASE'13 - PIEtrace: Platform Independent Executable Trace, In Proc. of the 28th IEEE/ACM International Conference on Automated Software Engineering -  Slides |  Website |  BibTex
+Yonghwi Kwon, Xiangyu Zhang, and Dongyan Xu
+ Best Paper Award,  ACM SIGSOFT Distinguished Paper Award
+
+Team
+Graduate Students
+
+1. Ali Ahad (UMD, PhD, Fall 2020~), focusing on Software Security [CCS'21, S&P'23, ASPLOS'24], Debugging/Testing [FSE'21, S&P'22]
+2. Erin Avllazagaj (UMD, PhD, Co-advised with Prof. Tudor Dumitraș) [USENIX'24]
+
+
+
+Undergraduate Students
+
+
+Former Students
+
+ Chijung Jung (PhD, UVA, Fall 2024), [FSE'21, S&P'22, CCS'21, WISA'22, S&P'23, ASE'21 (NIER), ICSE'22]
+ JiHo Lee (Master, UVA, 2024) [WISA'22, NDSS'23]
+ Bora Lee (Master, UVA, 2023) [WISA'22]
+ Sungjin Yi (Undergrad, UC Berkeley, Fall 2021~Summer 2022)
+ Abbas Naderi (PhD, UVA), Advisor: Prof. Jack W. Davidson
+ Jiahao Cai (Master, UVA, 2019), Employment: Google
+ Jake Smith (Undergrad, UVA) - NCCDC Winner
+ Jack McDowell (Undergrad, UVA) - NCCDC Winner
+ Calvin Krist (Undergrad/Master, UVA) - NCCDC Winner
+ Rajiv Sarvepalli (Undergrad,UVA) - (Part of JUMP URI (Undergraduate Research Initiative) Program)
+ Haoxiang Zhang (Undergrad, UVA) - Next Step: Columbia University (Master)
+
+
+
+Cyber Defense Competition Team
+
+I am a faculty mentor of the UVA CCDC (Collegiate Cyber Defense Competition) Team.
+      - April 1, 2023:  We win the regional final!
+      - May 24, 2020:  We (UVA CCDC team) win the national!! (Three times in a row, or Three-peat!)
+      - April 25, 2019:  We win the national!
+      - March 30, 2019:  We win the regional final!
+
+
+
+External Collaborators
+
+ In USA:
+Columbia University (with Prof. Suman Jana)
+Georgia Institute of Technology (with Prof. Taesoo Kim, Prof. Brendan Saltaformaggio)
+The Ohio State University (with Prof. Zhiqiang Lin)
+University of California, Irvine (with Prof. Alfred Chen)
+University of Illinois Urbana-Champaign (with Prof. Gang Wang)
+University of Southern California (with Prof. Weihang Wang)
+University of Central Oklahoma (with Prof. Junghwan Rhee)
+University of Georgia (with Prof. Kyu Hyung Lee)
+University of Tennessee (with Prof. Doowon Kim)
+University of Texas at Dallas (with Prof. Chung Hwan Kim and Prof. Wei Yang)
+ International Collaboration:
+Korea Advanced Institute of Science and Technology (KAIST) (with Prof. Sooel Son)
+Sejong University (with Prof. Giwoong Park)
+Soongsil University (with Prof. Haehyun Cho)
+Sungkyunkwan University (with Prof. Hyungjoon Koo, Prof. Hyoungshick Kim)
+Ulsan National Institute of Science and Technology (UNIST) (with Prof. Yuseok Jeon)
+
+
+Teaching/Services
+Teaching
+
+University of Maryland
+ Software Security via Program Analysis (Spring 2024, Graduate)
+ Hardware Security and Reverse Engineering Lab (Fall 2023, Undergraduate)
+
+University of Virginia
+ Software Security via Program Analysis (Spring 2023, Fall 2019/2018, Graduate)
+ Cyber Forensics: Automated Software Approaches (Spring 2022/2021/2020, Undergraduate/Graduate)
+ Operating Systems (Fall 2021/2020, Spring 2019, Undergraduate)
+
+
+
+Services
+
+I have served for the following conferences.
+Program Committee:
+CCS'24, ACSAC'24, ACSAC'23, WISA'23, MADWeb'22, SecWeb'22, ACSAC'22,
+ACSAC'21, ASIACCS'21, CODASPY'21, ESORICS'21, WISA'21, ESORICS'20,
+ACSAC'20, ESORICS'20, OOPSLA'20 (ERC), NDSS'20, NDSS'19, ACSAC'19, ACSAC'18
+
+I have participated in organizing the following events.
+Registration Chair: ICSE'22
+Poster Co-chair: ACSAC'24/23/22/21
+Workshop Chair: MATE'21 (Man-At-The-Middle), Co-located with the ACM CCS'21 (DBLP)
+Communication Co-chair: 2019 KOCSEA Technical Symposium
+
+I have served for the following panelist.
+NSF (National Science Foundation) Panelist
+
+Miscellaneous
+Great Reads
+
+Two excellent suggestions for Ph.D. students by Matt Might:
+1. 10 easy ways to fail a Ph.D.
+2. 3 qualities of successful Ph.D. students: Perseverance, tenacity and cogency
+
+From the Advice for researchers and students compiled by Michael Ernst:
+1. Writing a progress/status report
+2. How to write a technical paper
+
+There are some great and fun (and also educational) TED talks you can watch when you are bored:
+1. Grit: the power of passion and perseverance (Grit is very important for being a good researcher)
+2. Inside the mind of a master procrastinator (Let's not be a procrastinator)
+3. How to speak so that people want to listen
+4. This is what happens when you reply to spam email
+
+There are some ways to systematically generate good ideas:
+1. TRIZ is "theory of the resolution of invention-related tasks"
+
+
+
+
+
+Technical Articles and Books
+
+I authored a book named Effective Windows Programming which covers various advanced techniques and tricks for Windows Programming (Win32 APIs).
+I also enjoy coding and writing technical articles. Here are some of my articles explaining details about coding, debugging, and reverse-engineering.
+
+1. Hooking the Real COM Objects: Intercepting IHTMLDocument3 Functions, Dec 2011
+2. Phishing applications: Security threats regarding the SetParent function, Nov 2011
+
+

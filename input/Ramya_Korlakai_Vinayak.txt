@@ -1,0 +1,284 @@
+Professor: Ramya Korlakai Vinayak
+University: University of Wisconsin - Madison
+URL: https://ramyakv.github.io/
+Description: Ramya Korlakai Vinayak
+Home
+Publications
+Teaching
+Group
+CV
+Contact
+ 
+
+
+About Me
+
+I am the Dugald C. Jackson Assistant Professor in the ECE Department at University of Wisconsin-Madison. I am also affiliated with the Department of Computer Science and the Department of Statistics at UW-Madison.
+
+My research broadly spans the areas of Machine Learning, Statistical Inference, and Crowdsourcing. My research vision is to develop theoretically grounded machine learning tools to make reliable inferences using data that comes from people.
+
+Previously, I worked with Prof. Sham Kakade as a postdoctoral researcher in the Paul G. Allen School of Computer Science and Engineering at University of Washington, Seattle prior to joining UW-Madison. I graduated from the Department of Electrical Engineering, California Institute of Technology (Caltech) where I was adviced by Prof. Babak Hassibi.
+
+I was supported by the Faculty for the Future fellowship from 2013-2015, awarded by the Schlumberger Foundation.
+
+Before Caltech, I obtained my undergraduate degree (B. Tech) from Indian Institute of Technology Madras (IIT Madras) with a major in Electrical Engineering and a minor in Physics.
+
+[Joining the group] I am looking for highly motivated graduate students. If you are already a graduate student at UW-Madison and are interested in working with me, please send me an email describing your research interests and CV. If you are not a graduate student at UW-Madison yet, but are interested in joining my research group, please apply to UW-Madison graduate program. Unfortunately, I am not able to reply to all the email inquiries from students who are in the process of applying to UW-Madison graduate programs.
+
+
+
+News
+
+Work on learning metric from limited pairwise comparisons has been accepted for UAI 2024! Congratulaitons Zhi and Geelon!
+Two papers accepted for AISTATS 2024! Congratulaitons Harit, Lin, Gokcan and Reid!
+Work with my students Harit and Lin on Human-in-the-loop OOD detection with FPR control where we propose a novel mathematically grounded framework that incorporates expert human feedback to safely update the OOD detection threshold, ensuring robustness to variations in OOD data encoun-tered after deployment.
+Work with my students Gokcan and Reid where we study the novel problem of learning the distribution of user preferences over a population via pairwise comparison queries with only one response per individual in the ideal point model and analyze fundamental questions of identifiability and recovery guarantees.
+Work on framework to audit the characteristics of synthetically generated faces , in collaboration with Harrison, Sheema, Guruprasad and Kassem, accepted at AAAI 2024.
+Work on analyzing the performance on auto-labeling systems, in collaboration with Harit, Lin, and Fred, accepted at Neurips 2023 (Spotlight)!
+Work on theoretically grounded practical acitve crowdsourced clustering algorithm, in collaboration with Reid and Babak accepted at AAAI HCOMP 2023.
+Excited to receive NSF CAREER Award!
+Co-organizing the MidWest Machine Learning Symposium (MMLS) 2023 , to be held in Chicago on May 16-17, 2023.
+Co-organizer for Neurips 2022 Tutorial on Theory and Practice of Efficient and Accurate Dataset Construction with Fred Sala.
+Paper on learning unknown metric and preference points simultaneously accepted at Neurips 2022.
+Received NSF research grant for “Uncovering the cognitive and neural fingerprints that make each of us unique” in collaboration with Tim Rogers, Rob Nowak and Brad Postle.
+Presented paper on learning preference distributions from distance measurements at Allerton 2022, in collaboration with Gokcan and Rob.
+Received American Family Funding Initiative Award with Fred Sala for our project on understanding foundations of auto-labeling systems.
+
+
+
+Publications
+
+[Google Scholar Page]
+
+
+
+Pre-prints
+
+Optimal Estimation of Change in a Population of Parameters
+Ramya Korlakai Vinayak, Weihao Kong, Sham Kakade
+Arxiv Pre-print, 2019.
+[pdf] [Abstract]
+Conferences and Journals
+
+Metric Learning from Limited Pairwise Preference Comparisons
+Zhi Wang, Geelon So, Ramya Korlakai Vinayak
+40th Conference on Uncertainty in Artificial, Barcelona, Spain, (UAI), 2024.
+[pdf] [Abstract]
+Taming False Positives in Out-of-Distribution Detection with Human Feedback
+Harit Vishwakarma, Heguang Lin, Ramya Korlakai Vinayak
+27th International Conference on Artificial Intelligence and Statistics, Valencia, Spain, (AISTATS), 2024.
+[pdf] [Abstract]
+Learning Populations of Preferences via Pairwise Comparison Queries
+Gokcan Tatli, Reid (Yi) Chen, Ramya Korlakai Vinayak
+27th International Conference on Artificial Intelligence and Statistics, Valencia, Spain, (AISTATS), 2024.
+[pdf] [Abstract]
+Limitations of Face Image Generation
+Harrison Rosenberg, Shimaa Ahmed, Guruprasad V Ramesh, Ramya Korlakai Vinayak, Kassem Fawaz
+AAAI Conference on Artificial Intelligence (AAAI), 2024.
+[pdf] [Abstract]
+Promises and Pitfalls of Threshold-based Auto-labeling
+Harit Vishwakarma, Heguang Lin, Frederic Sala, Ramya Korlakai Vinayak
+Neural Information Processing Systems (NeurIPS), 2023. (Spotlight).
+[pdf] [Abstract]
+Crowdsourced Clustering via Active Querying: Practical Algorithm with Theoretical Guarantees
+Reid (Yi) Chen, Ramya Korlakai Vinayak, Babak Hassibi
+The 11th AAAI Conference on Human Computation and Crowdsourcing (HCOMP) , 2023.
+[pdf] [Abstract]
+One for All: Simultaneous Metric and Preference Learning over Multiple Users
+Gregory Canal, Blake Mason, Ramya Korlakai Vinayak, Robert Nowak
+Neural Information Processing Systems (NeurIPS), 2022.
+[pdf] [Abstract]
+Learning Preference Distributions From Distance Measurements
+Gokcan Tatli, Rob Nowak, Ramya Korlakai Vinayak
+58th Annual Allerton Conference on Communication, Control, and Computing (Allerton) , 2022.
+[pdf] [Abstract]
+Fisher-Pitman permutation tests based on nonparametric Poisson mixtures with application to single cell genomics
+Zhen Miao, Weihao Kong, Ramya Korlakai Vinayak, Wei Sun, Fang Han
+Journal of the American Statistical Association , 2022.
+[pdf] [Abstract]
+Estimating the number and effect sizes of non-null hypotheses
+Jennifer Brennan, Ramya Korlakai Vinayak, Kevin Jamieson
+International Conference on Machine Learning (ICML), 2020.
+[pdf] [Abstract]
+Maximum Likelihood Estimation for Learning Populations of Parameters
+Ramya Korlakai Vinayak, Weihao Kong, Gregory Valiant, Sham Kakade
+International Conference on Machine Learning (ICML), 2019.
+[pdf] [Abstract]
+The Illusion of Change: Correcting for Bias when Inferring Changes in Sparse, Societal-Scale Data
+Gabriel Cadamuro, Ramya Korlakai Vinayak, Joshua Blumenstock, Sham Kakade, Jacob N. Shapiro
+The Web Conference (WWW), 2019.
+[pdf] [Abstract]
+Also presented at the AI for Social Good ICML 2019 Workshop
+Tensor-based crowdsourced clustering via triangle queries
+Ramya Korlakai Vinayak, Tijana Zrnic, Babak Hassibi.
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2017.
+[pdf] [Abstract]
+Crowdsourced Clustering: Querying Edges vs Triangles
+Ramya Korlakai Vinayak, Babak Hassibi.
+Neural Information Processing Systems (NeurIPS), 2016.
+[pdf] [Abstract]
+Similarity Clustering in the Presence of Outliers: Exact Recovery via Convex Program
+Ramya Korlakai Vinayak, Babak Hassibi.
+International Symposium on Information Theory (ISIT), 2016.
+[pdf] [Abstract] [code]
+Graph Clustering With Missing Data: Convex Algorithms and Analysis
+Ramya Korlakai Vinayak, Samet Oymak, Babak Hassibi.
+Neural Information Processing Systems (NeurIPS), 2014.
+[pdf] [Abstract]
+Sharp Performance Bounds for Graph Clustering via Convex Optimization
+Ramya Korlakai Vinayak, Samet Oymak, Babak Hassibi.
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2014.
+[pdf] [Abstract]
+Workshops
+
+Learning Preference Distributions From Pairwise Comparisons
+Gokcan Tatli, Reid Chen, Ramya Korlakai Vinayak
+International Workshop on Computational Social Choice (COMSOC) , 2023.
+Workshop The Many Facets of Preference-Based Learning (ICML Workshop) , 2023.
+Adaptive Out-of-Distribution Detection with Human-in-the-Loop
+Heguang Lin, Harit Vishwakarma, Ramya Korlakai Vinayak
+Workshop on Human-Machine Collaboration and Teaming, International Conference on Machine Learning (ICML Workshop) , 2022.
+Clustering by Comparison: Stochastic Block Model for Inference in Crowdsourcing
+Ramya Korlakai Vinayak, Babak Hassibi
+Workshop on Machine Learning and Crowdsourcing, ICML Workshop, 2015.
+
+
+Thesis
+
+"Graph Clustering: Algorithms, Analysis and Query Design"
+Ramya Korlakai Vinayak
+California Institute of Technology, 2017
+Advisor: Prof. Babak Hassibi
+
+
+Group
+
+
+Graduate Students
+
+Gokcan Tatli (PhD student, ECE)
+Harit Vishwakarma (PhD student, CS, co-advised with Prof. Fred Sala)
+Reid (Yi) Chen (PhD student, ECE)
+Daiwei Chen (PhD student, ECE)
+Aniket Rege (PhD student, CS)
+
+Postdocs
+
+Zhi Wang
+
+Undergraduate Students
+
+Zennia Nie (CS)
+Khoa Cao (CS)
+
+Past Students
+
+Heguang Lin (CS and Math Undergrad from UW-Madison, now pursuing masters at UPenn)
+
+Teaching
+
+
+Spring 2024, 2023, 2021: ECE/CS 761 Mathematical Foundations of Machine Learning
+Fall 2023, Fall 2022: ECE 331 Introduction to Random Signal Analysis and Statistics
+Fall 2021: ECE 901 Learning from Small Data (Special Topics Course)
+Fall 2020: ECE/CS/ME 532 Matrix Methods in Machine Learning
+Course materials and annoucements will be available on UW-Madison canvas.
+
+
+
+
+Abstracts
+Metric Learning from Limited Pairwise Preference Comparisons
+Zhi Wang, Geelon So, Ramya Korlakai Vinayak
+UAI, 2024.
+We study metric learning from preference comparisons under the ideal point model, in which a user prefers an item over another if it is closer to their latent ideal item. These items are embedded into R^d equipped with an unknown Mahalanobis distance shared across users. While recent work shows that it is possible to simultaneously recover the metric and ideal items given O(d) pairwise comparisons per user, in practice we often have a limited budget of o(d) comparisons. We study whether the metric can still be recovered, even though it is known that learning individual ideal items is now no longer possible. We show that in general, o(d) comparisons reveals no information about the metric, even with infinitely many users. However, when comparisons are made over items that exhibit low-dimensional structure, each user can contribute to learning the metric restricted to a low-dimensional subspace so that the metric can be jointly identified. We present a divide-and-conquer approach that achieves this, and provide theoretical recovery guarantees and empirical validation.
+
+
+Good Data from Bad Models : Foundations of Threshold-based Auto-labeling
+Harit Vishwakarma, Heguang Lin, Frederic Sala, Ramya Korlakai Vinayak
+Arxiv Pre-print, 2022.
+Creating large-scale high-quality labeled datasets is a major bottleneck in supervised machine learning workflows. Auto-labeling systems are a promising way to reduce reliance on manual labeling for dataset construction. Threshold-based auto-labeling, where validation data obtained from humans is used to find a threshold for confidence above which the data is machine-labeled, is emerging as a popular solution used widely in practice. Given the long shelf-life and diverse usage of the resulting datasets, understanding when the data obtained by such auto-labeling systems can be relied on is crucial. In this work, we analyze threshold-based auto-labeling systems and derive sample complexity bounds on the amount of human-labeled validation data required for guaranteeing the quality of machine-labeled data. Our results provide two insights. First, reasonable chunks of the unlabeled data can be automatically and accurately labeled by seemingly bad models. Second, a hidden downside of threshold-based auto-labeling systems is potentially prohibitive validation data usage. Together, these insights describe the promise and pitfalls of using such systems. We validate our theoretical guarantees with simulations and study the efficacy of threshold-based auto-labeling on real datasets.
+
+
+One for All: Simultaneous Metric and Preference Learning over Multiple Users
+Gregory Canal, Blake Mason, Ramya Korlakai Vinayak, Robert Nowak.
+Neural Information Processing Systems (NeurIPS), 2022, New Orleans, USA.
+This paper investigates simultaneous preference and metric learning from a crowd of respondents. A set of items represented by d-dimensional feature vectors and paired comparisons of the form ``item i is preferable to item j'' made by each user is given. Our model jointly learns a distance metric that characterizes the crowd's general measure of item similarities along with a latent ideal point for each user reflecting their individual preferences. This model has the flexibility to capture individual preferences, while enjoying a metric learning sample cost that is amortized over the crowd. We first study this problem in a noiseless, continuous response setting (i.e., responses equal to differences of item distances) to understand the fundamental limits of learning. Next, we establish prediction error guarantees for noisy, binary measurements such as may be collected from human respondents, and show how the sample complexity improves when the underlying metric is low-rank. Finally, we establish recovery guarantees under assumptions on the response distribution. We demonstrate the performance of our model on both simulated data and on a dataset of color preference judgements across a large number of users.
+
+
+Learning Preference Distributions From Distance Measurements
+Gokcan Tatli, Robert Nowak, Ramya Korlakai Vinayak.
+58th Annual Allerton Conference on Communication, Control, and Computing (Allerton) , 2022.
+We introduce the problem of learning a distribution of user preferences over a set of items from noisy responses to distance queries. Rather than aiming to learn the preferences of each user, our goal is only to recover the overall distribution of user preferences. We show that distribution recovery can require just one response from each user. In contrast, learning the preferences of each user would require multiple responses from each user. Thus, learning preference distributions, rather than individual preferences, may be more practical in many applications. The preference distribution problem is formulated on a discrete domain in which items (e.g., products) and users' ideal preference points are located. We study both the noiseless and noisy settings in one dimension and provide sufficient conditions for identifiability of the underlying true distribution as a function of the set of items used for queries. We establish an upper bound on the total variation distance between the true distribution and the distribution learned via constrained least squares optimization problem for both noiseless and noisy settings. While the one-dimensional setting we consider is simple, our simulation results show that our proposed recovery technique extends to multidimensional settings and graph structures.
+
+
+Fisher-Pitman permutation tests based on nonparametric Poisson mixtures with application to single cell genomics
+Zhen Miao, Weihao Kong, Ramya Korlakai Vinayak, Wei Sun, Fang Han.
+Arxiv 2021 (pre-print).
+This paper investigates the theoretical and empirical performance of Fisher-Pitman-type permutation tests for assessing the equality of unknown Poisson mixture distributions. Building on nonparametric maximum likelihood estimators (NPMLEs) of the mixing distribution, these tests are theoretically shown to be able to adapt to complicated unspecified structures of count data and also consistent against their corresponding ANOVA-type alternatives; the latter is a result in parallel to classic claims made by Robinson (Robinson, 1973). The studied methods are then applied to a single-cell RNA-seq data obtained from different cell types from brain samples of autism subjects and healthy controls; empirically, they unveil genes that are differentially expressed between autism and control subjects yet are missed using common tests. For justifying their use, rate optimality of NPMLEs is also established in settings similar to nonparametric Gaussian (Wu and Yang, 2020a) and binomial mixtures (Tian et al., 2017; Vinayak et al., 2019).
+
+
+Optimal Estimation of Change in a Population of Parameters
+Ramya Korlakai Vinayak, Weihao Kong, Sham Kakade.
+Arxiv 2019 (pre-print).
+Paired estimation of change in parameters of interest over a population plays a central role in several application domains including those in the social sciences, epidemiology, medicine and biology. In these domains, the size of the population under study is often very large, however, the number of observations available per individual in the population is very small (\emph{sparse observations}) which makes the problem challenging. Consider the setting with $N$ independent individuals, each with unknown parameters $(p_i, q_i)$ drawn from some unknown distribution on $[0, 1]^2$. We observe $X_i \sim \text{Bin}(t, p_i)$ before an event and $Y_i \sim \text{Bin}(t, q_i)$ after the event. Provided these paired observations, $\{(X_i, Y_i) \}_{i=1}^N$, our goal is to accurately estimate the \emph{distribution of the change in parameters}, $\delta_i := q_i - p_i$, over the population and properties of interest like the \emph{$\ell_1$-magnitude of the change} with sparse observations ($t\ll N$). We provide \emph{information theoretic lower bounds} on the error in estimating the distribution of change and the $\ell_1$-magnitude of change. Furthermore, we show that the following two step procedure achieves the optimal error bounds: first, estimate the full joint distribution of the paired parameters using the maximum likelihood estimator (MLE) and then estimate the distribution of change and the $\ell_1$-magnitude of change using the joint MLE. Notably, and perhaps surprisingly, these error bounds are of the same order as the minimax optimal error bounds for learning the \emph{full} joint distribution itself (in Wasserstein-1 distance); in other words, estimating the magnitude of the change of parameters over the population is, in a minimax sense, as difficult as estimating the full joint distribution itself.
+
+
+Estimating the Number and Effect Sizes of Non-null Hypotheses
+Jennifer Brennan, Ramya Korlakai Vinayak, Kevin Jamieson
+International Conference on Machine Learning (ICML) 2020
+We study the problem of estimating the distribution of effect sizes (the mean of the test statistic under the alternate hypothesis) in a multiple testing setting. Knowing this distribution allows us to calculate the power (type II error) of any experimental design. We show that it is possible to estimate this distribution using an inexpensive pilot experiment, which takes significantly fewer samples than would be required by an experiment that identified the discoveries. Our estimator can be used to guarantee the number of discoveries that will be made using a given experimental design in a future experiment. We prove that this simple and computationally efficient estimator enjoys a number of favorable theoretical properties, and demonstrate its effectiveness on data from a gene knockout experiment on influenza inhibition in Drosophila.
+
+
+Maximum Likelihood Estimation for Learning Populations of Parameters
+Ramya Korlakai Vinayak, Weihao Kong, Gregory Valiant, Sham Kakade.
+International Conference on Machine Learning (ICML) 2019, Long Beach, CA.
+Consider a setting with $N$ independent individuals, each with an unknown parameter, $p_i \in [0, 1]$ drawn from some unknown distribution $P^\star$. After observing the outcomes of $t$ independent Bernoulli trials, i.e., $X_i \sim \text{Binomial}(t, p_i)$ per individual, our objective is to accurately estimate $P^\star$. This problem arises in numerous domains, including the social sciences, psychology, health-care, and biology, where the size of the population under study is usually large while the number of observations per individual is often limited. Our main result shows that, in the regime where $t <<N$, the maximum likelihood estimator (MLE) is both statistically minimax optimal and efficiently computable. Precisely, for sufficiently large $N$, the MLE achieves the information theoretic optimal error bound of $\mathcal{O}(\frac{1}{t})$ for $t < c\log{N}$, with regards to the earth mover's distance (between the estimated and true distributions). More generally, in an exponentially large interval of $t$ beyond $c \log{N}$, the MLE achieves the minimax error bound of $\mathcal{O}(\frac{1}{\sqrt{t\log N}})$. In contrast, regardless of how large $N$ is, the naive "plug-in" estimator for this problem only achieves the sub-optimal error of $\Theta(\frac{1}{\sqrt{t}})$.
+
+
+The Illusion of Change: Correcting for Bias when Inferring Changes in Sparse, Societal-Scale Data
+Gabriel Cadamuro, Ramya Korlakai Vinayak, Joshua Blumenstock, Sham Kakade, Jacob N. Shapiro.
+The Web Conference 2019, San Francisco, CA.
+Societal-scale data is playing an increasingly prominent role in social science research; examples from research on geopolitical events include questions on how emergency events impact the diffusion of information or how new policies change patterns of social interaction. Such research often draws critical inferences from observing how an exogenous event changes meaningful metrics like network degree or network entropy. However, as we show in this work, standard estimation methodologies make systematically incorrect inferences when the event also changes the sparsity of the data. To address this issue, we provide a general framework for inferring changes in social metrics when dealing with non-stationary sparsity. We propose a plug-in correction that can be applied to any estimator, including several recently proposed procedures. Using both simulated and real data, we demonstrate that the correction significantly improves the accuracy of the estimated change under a variety of plausible data generating processes. In particular, using a large dataset of calls from Afghanistan, we show that whereas traditional methods substantially overestimate the impact of a violent event on social diversity, the plug-in correction reveals the true response to be much more modest.
+
+
+Crowdsourced Clustering: Querying Edges vs Triangles
+Ramya Korlakai Vinayak, Babak Hassibi.
+Neural Information Processing Systems (NIPS) 2016, Barcelona, Spain.
+We consider the task of clustering items using answers from non-expert crowd workers. In such cases, the workers are often not able to label the items directly, however, it is reasonable to assume that they can compare items and judge whether they are similar or not. An important question is what queries to make, and we compare two types: random edge queries, where a pair of items is revealed, and random triangles, where a triple is. Since it is far too expensive to query all possible edges and/or triangles, we need to work with partial observations subject to a fixed query budget constraint. When a generative model for the data is available (and we consider a few of these) we determine the cost of a query by its entropy; when such models do not exist we use the average response time per query of the workers as a surrogate for the cost. In addition to theoretical justification, through several simulations and experiments on two real data sets on Amazon Mechanical Turk, we empirically demonstrate that, for a fixed budget, triangle queries uniformly outperform edge queries. Even though, in contrast to edge queries, triangle queries reveal dependent edges, they provide more reliable edges and, for a fixed budget, many more of them. We also provide a sufficient condition on the number of observations, edge densities inside and outside the clusters and the minimum cluster size required for the exact recovery of the true adjacency matrix via triangle queries using a convex optimization-based clustering algorithm.
+
+
+Tensor-based crowdsourced clustering via triangle queries
+Ramya Korlakai Vinayak, Tijana Zrnic, Babak Hassibi.
+42nd International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2017, New Orleans.
+We consider the problem of crowdsourced clustering of a set of items based on queries of the similarity of triple of objects. Such an approach, called triangle queries, where it was shown that, for a fixed query budget, it outperforms clustering based on edge queries (i.e, comparing pairs of objects). In [1] the clustering algorithm for triangle and edge queries was identical and each triangle query response was treated as 3 separate edge query responses. In this paper we directly exploit the triangle structure of the responses by embedding them into a 3-way tensor. Since there are 5 possible responses to each triangle query, it is a priori not clear how best to embed them into the tensor. We give sufficient conditions on non-trivial embedding such that the resulting tensor has a rank equal to the underlying number of clusters (akin to what happens with the rank of the adjacency matrix). We then use an alternating least squares tensor decomposition algorithm to cluster a noisy and partially observed tensor and show, through extensive numerical simulations, that it significantly outperforms methods that make use only of the adjacency matrix.
+
+
+Similarity Clustering in the Presence of Outliers: Exact Recovery via Convex Program
+Ramya Korlakai Vinayak, Babak Hassibi.
+International Symposium on Information Theory (ISIT) 2016, Barcelona, Spain.
+We study the problem of clustering a set of data points based on their similarity matrix, each entry of which represents the similarity between the corresponding pair of points. We propose a convex-optimization-based algorithm for clustering using the similarity matrix, which has provable recovery guarantees. It needs no prior knowledge of the number of clusters and it behaves in a robust way in the presence of outliers and noise. Using a generative stochastic model for the similarity matrix (which can be thought of as a generalization of the classical Stochastic Block Model) we obtain \emph{precise bounds} (not orderwise) on the sizes of the clusters, the number of outliers, the noise variance, separation between the mean similarities inside and outside the clusters and the values of the regularization parameter that guarantee the exact recovery of the clusters with high probability. The theoretical findings are corroborated with extensive evidence from simulations.
+
+
+Graph Clustering With Missing Data: Convex Algorithms and Analysis
+Ramya Korlakai Vinayak, Samet Oymak, Babak Hassibi.
+Neural Information Processing Systems (NIPS) 2014, Montreal, Canada.
+We consider the problem of finding clusters in graphs which are partially observed. We analyze two programs based on regularized nuclear norm minimization, with a goal to recover the low- rank part of the adjacency matrix. For the commonly used Stochastic Block Model, we provide explicit conditions in terms of the size and sparsity of the clusters, amount of observed data, and the regularization parameter of the convex program that guarantees successful recovery of the clusters. We also corroborate our theoretical findings with extensive simulations, and also run our algorithms on a real data set obtained from crowdsourcing an image classification task on Amazon Mechanical Turk.
+
+
+Sharp Performance Bounds for Graph Clustering via Convex Optimization
+Ramya Korlakai Vinayak, Samet Oymak, Babak Hassibi.
+38th International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2014, Florence, Italy.
+We analyze a popular approach towards identifying clusters in graphs, that of a sparse plus low-rank decomposition of the adjacency matrix of a graph via a simple and intuitive convex program. We sharply characterize the conditions for the success and failure of this program in identifying clusters. We also present extensive simulations that corroborate our theoretical findings.
+
+
+Contact
+Ramya Korlakai Vinayak
+Assistant Professor
+Department of ECE
+University of Wisconsin-Madison
+email: ramya[at]ece[dot]wisc[dot]edu
+
+
+
+

@@ -1,0 +1,132 @@
+Professor: Aravindan Vijayaraghavan
+University: Northwestern University
+URL: http://www.eecs.northwestern.edu/~aravindv
+Description: HOME
+CONTACT
+Aravindan Vijayaraghavan
+
+
+
+I am an Associate Professor in the CS department at Northwestern University, and by courtesy, the IEMS department. I'm a member of the Theory CS Group and my research interests are broadly in theoretical computer science. I work on the algorithmic foundations of machine learning, data science, combinatorial optimization, and more recently, quantum information. I am particularly interested in using paradigms that go Beyond Worst-Case Analysis to obtain good algorithmic guarantees.
+
+I serve as the Institute Director (2023-24) and a Site Director (Northwestern) of the Institute for Data, Economics, Algorithms and Learning (IDEAL), a NSF-funded collaborative institute across Northwestern, TTI Chicago, UIC, U of Chicago, and IIT. My research is also supported by an NSF CAREER award, an NSF AITF award CCF-1637585 (with David Sontag), CCF-2154100 (with Julia Gaudio) and the Google Research Scholar program .
+
+Prior to joining Northwestern in Fall 2015, I was at Courant, NYU for a year as a part of the Simons Collaboration on Algorithms and Geometry , and was a Simons Postdoctoral Research Fellow with the Theory Group at Carnegie Mellon University. I obtained my PhD from Princeton University in Computer Science with Prof. Moses Charikar. Prior to that, I finished my bachelor's degree in CS from the Indian Institute of Technology Madras in 2007. I spent the first fifteen years of my life in Pondicherry, a beautiful town in Southern India, where Pi Patel hails from.
+
+Teaching
+CS212: Mathematical Foundations of Computer Science. Fall 2015, 2016, 2017, Spring 2019, Fall 2019, Winter 2021, Fall 2022.
+CS496: Graduate Algorithms. Winter 2016, 2017, Spring 2018, Winter 2019, Winter 2022.
+CS 396/496: Foundations of Quantum Computation & Quantum Information Winter 2022 (co-taught with S. Rao), Winter 2024.
+CS 335: Intro to the Theory of Computation (co-taught with Jason Hartline) Fall 2020, Spring 2022.
+CS 496: Foundations of Reliable Machine Learning Fall 2021, Fall 2023.
+CS 497: Recent Highlights in Theoretical CS Winter 2022.
+CS496: Theoretical Foundations of Data Science Spring 2021.
+CS496/ ECE495: Algorithmic Aspects of Network Inference Spring 2020 (co-taught with R. Berry).
+CS496: Topics in Theoretical Machine Learning. Winter 2018.
+CS 496 : Beyond Worst-Case Analysis. Spring 2017.
+
+
+
+Students
+PhD students: Abhratanu Dutta (defended in 2020; first job: Facebook research), Aidao Chen (defended in 2023; first job: Accutar Biotech. Co-advised with Anindya De) Aravind Reddy (defended in 2023; Broad institute. Co-advised with Konstantin Makarychev), Sanchit Kalhan (co-advised with Konstantin Makarychev), Alex Tang , Vaidehi Srinivas .
+Postdocs (co)-mentored: Xue Chen (first job: Assistant Professor, George Mason University), Shravas Rao (first job: Assistant Professor, Portland State University). Jinshuo Dong (current), Eric Evert (current).
+Prospective Students: If you are a bright and motivated student interested in theoretical computer science, I encourage you to apply to the PhD program at Northwestern University. See here for details.
+
+
+Professional Activities and Theory Events
+Quarterly Theory Workshop (QTW) series: Co-organizer.
+Program Committees/ Area Chairs (or equivalent): COLT 2024, ALT 2024, ICML 2024, FOCS 2023, ICML 2023, COLT 2023, ALT 2023, NeurIPS 2022, COLT 2022, ALT 2022, STOC 2021, COLT 2021, WADS 2021, COLT 2020, ESA 2019, COLT 2019, APPROX 2018, SODA 2015
+See IDEAL for details about IDEAL events and seminars.
+Book Chapters or Surveys
+Efficient Tensor Decomposition. [ArXiv| Book Link | Abstract]
+Book Chapter in Beyond the Worst Case Analysis of Algorithms
+Edited by Tim Roughgarden, Cambridge University Press 2020.
+
+Publications
+New tools for smoothed analysis: least singular values for random matrices with dependent entries STOC 2024. (With Aditya Bhaskara, Eric Evert and Vaidehi Srinivas). [ Abstract]
+A hierarchy of eigencomputations for polynomial optimization on the sphere
+(With Nathaniel Johnston and Benjamin Lovitz). [ArXiv| Abstract]
+Error tolerant e-Discovery protocols CSLAW 2024.
+(With Jinshuo Dong, Jason Hartline and Liren Shan). [ArXiv| Abstract]
+Higher-order Cheeger Inequality for Partitioning with Buffers SODA 2024.
+(With Konstantin Makarychev, Yury Makarychev and Liren Shan). [ ArXiv | Abstract]
+Computing linear sections of varieties: quantum entanglement, tensor decompositions and beyond FOCS 2023. (With Nathaniel Johnston and Benjamin Lovitz). [ArXiv| Abstract]
+A Complete Hierarchy of Linear Systems for Certifying Quantum Entanglement of Subspaces QIP 2023, Physical Review A (journal). (With Nathaniel Johnston and Benjamin Lovitz). [ArXiv| Abstract]
+Agnostic Learning of General ReLU Activation Using Gradient Descent ICLR 2023
+(With Pranjal Awasthi and Alex Tang). [ArXiv| Abstract]
+The Burer-Monteiro SDP method can fail even above the Barvinok-Pataki bound NeurIPS 2022.
+(With Liam O'Carroll and Vaidehi Srinivas). [ArXiv| Abstract]
+Training subset selection for Weak Supervision NeurIPS 2022.
+Hunter Lang, Aravindan Vijayaraghavan and David Sontag (non-alphabetical ordering). [ArXiv| Abstract]
+Classification Protocols with Minimal Disclosure CSLAW 2022.
+(With Jinshuo Dong and Jason Hartline). [ArXiv| Abstract]
+Effective and Inconspicuous Over-the-Air Adversarial Examples with Adaptive Filtering. ICASSP 2022.
+(With Patrick O'Reilly (first author), Pranjal Awasthi and Bryan Pardo). [PDF]
+Learning Mixtures of Linear Classifiers. ALT 2022.
+(With Aidao Chen and Anindya De). [PMLR/PDF]
+Understanding Simultaneous Train and Test Robustness. ALT 2022.
+(With Pranjal Awasthi and Sivaraman Balakrishnan). [JMLR/PDF]
+Efficient Algorithms for Learning Depth-2 Neural Networks with General ReLU Activations. NeurIPS 2021
+(With Pranjal Awasthi and Alex Tang). [ArXiv| Abstract]
+Graph cuts always find a global optimum for Potts models (with a catch) ICML 2021.
+(With Hunter Lang and David Sontag). [ArXiv| Abstract]
+Beyond Perturbation Stability: LP Recovery Guarantees for MAP Inference on Noisy Stable Instances AISTATS 2021. (With Hunter Lang, Aravind Reddy and David Sontag). [ArXiv| Abstract]
+Adversarial robustness via robust low rank representations. NeurIPS 2020.
+(With Pranjal Awasthi, Himanshu Jain and Ankit Singh Rawat). [ArXiv| Abstract]
+Scheduling Precedence-Constrained Jobs on Related Machines with Communication Delay. FOCS 2020.
+(With Biswaroop Maiti, Rajmohan Rajaraman, David Stalfa and Zoya Svitkina). [ArXiv| Abstract]
+
+Estimating Principal Components under Adversarial Perturbations. COLT 2020.
+(With Pranjal Awasthi and Xue Chen). [ArXiv| Abstract]
+Adversarially Robust Low Dimensional Representations. COLT 2021.
+(With Pranjal Awasthi, Vaggos Chatziafratis and Xue Chen). [ArXiv| Abstract]
+On Robustness to Adversarial Examples and Polynomial Optimization. NeurIPS 2019.
+(With Pranjal Awasthi and Abhratanu Dutta). [Arxiv|Slides | Abstract]
+Smoothed Analysis in Unsupervised Learning via Decoupling FOCS 2019.
+(With Aditya Bhaskara, Aidao Chen and Aidan Perreault). [ArXiv| Abstract]
+Block Stability for MAP inference AISTATS 2019.
+(With Hunter Lang and David Sontag). [ArXiv| Abstract]
+Towards Learning Sparsely Used Dictionaries with Arbitrary Supports FOCS 2018.
+(With Pranjal Awasthi). [ArXiv| Abstract]
+Clustering Semi-Random Mixtures of Gaussians ICML 2018.
+(With Pranjal Awasthi). [ArXiv| Abstract]
+Optimality of Approximate Inference Algorithms on Stable Instances AISTATS 2018.
+(With Hunter Lang and David Sontag). [ArXiv| Abstract]
+On Learning Mixtures of Well-Separated Gaussians FOCS 2017.
+(With Oded Regev). [ArXiv|PDF | Abstract]
+Clustering Stable Instances of Euclidean k-means NIPS 2017.
+(With Abhratanu Dutta and Alex Wang). [ArXiv| Abstract]
+Approximation Algorithms for Label Cover and the Log-Density Threshold SODA 2017.
+(With Eden Chlamtac, Pasin Manurangsi and Dana Moshkovitz). [ArXiv|SODA | Abstract]
+Learning Communities in the Presence of Errors COLT 2016.
+(With Konstantin Makarychev and Yury Makarychev). [ ArXiv | Abstract]
+Beating the Random Assignment on Constraint Satisfaction Problems of Bounded Degree APPROX 2015.
+(With Boaz Barak, Ankur Moitra, Ryan O'Donnell, Prasad Raghavendra, Oded Regev, David Steurer, Luca Trevisan, David Witmer and John Wright). [ ArXiv | Abstract]
+Correlation Clustering with Noisy, Partial Information COLT 2015.
+(With Konstantin Makarychev and Yury Makarychev). [ ArXiv | Abstract]
+Learning Mixtures of Ranking Models. NIPS 2014 .
+(With Pranjal Awasthi, Avrim Blum and Or Sheffet). [ ArXiv |Abstract]
+Constant Factor Approximations for Balanced Cut in the random PIE model STOC 2014.
+(With Konstantin Makarychev and Yury Makarychev). [ ArXiv | Abstract]
+Smoothed Analysis of Tensor Decompositions. STOC 2014.
+(With Aditya Bhaskara, Moses Charikar and Ankur Moitra) [ PDF | ArXiv | Abstract ]
+Uniqueness of Tensor Decompositions and Polynomial Identifiability of Latent Variable Models.
+COLT 2014. (With Aditya Bhaskara and Moses Charikar) [PDF | ArXiv | Abstract ]
+Bilu-Linial Stable Instances of Max Cut and Minimum Multiway Cut. SODA 2014.
+(With Konstantin Makarychev and Yury Makarychev) [PDF | ArXiv | Abstract]
+Sorting noisy data with partial information. ITCS 2013.
+(With Konstantin Makarychev and Yury Makarychev) [PDF | Abstract]
+Approximation algorithms for Semi-random Graph Partitioning problems. STOC 2012.
+(With Konstantin Makarychev and Yury Makarychev) [PDF | ArXiv | Abstract]
+Polynomial Integrality gaps for Strong relaxations of Densest k-subgraph. SODA 2012.
+(With Aditya Bhaskara, Moses Charikar, Venkatesan Guruswami and Yuan Zhou) [PDF | ArXiv | Abstract]
+Algorithms and Hardness of the k-route cuts problem. SODA 2012.
+(With Julia Chuzhoy, Yury Makarychev and Yuan Zhou) [PDF | ArXiv | Abstract]
+On Quadratic Programming with a ratio objective. ICALP 2012.
+(With Aditya Bhaskara, Moses Charikar and Rajsekar Manokaran) [PDF | ArXiv ]
+
+Approximating the matrix p-norm. SODA 2011.
+(With Aditya Bhaskara) [PDF | Abstract]
+Detecting High Log-Densities -- an O(n1/4) Approximation for Densest k-Subgraph. STOC 2010.
+(With Aditya Bhaskara, Moses Charikar, Eden Chlamtac and Uri Feige) [PDF | Abstract]
+

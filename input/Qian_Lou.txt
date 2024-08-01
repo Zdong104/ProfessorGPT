@@ -1,0 +1,316 @@
+Professor: Qian Lou
+University: University of Central Florida
+URL: https://qlou.org/
+Description: Qian Lou
+ 	
+
+Assistant Professor
+Computer Science, Cyber Security and Privacy Cluster, University of Central Florida
+Email: qian.lou@ucf.edu, Office: HS2 234
+
+Before joining UCF, I worked as a Senior Research Scientist at Samsung Research AI Center. I obtained my Ph.D. and M.S. degrees from Indiana University Bloomington. I am focused on improving deep learning systems' efficiency, privacy, and security, with the goal of making them more accessible to the public. Furthermore, I am dedicated to advancing interdisciplinary research in computer vision, natural language processing, and various scientific tasks:
+
+Privacy-preserving machine learning with cryptography (fully homomorphic encryption, secure multi-party computation) [NeurIPS'19, NeurIPS'20a, NeurIPS'20b, NeurIPS'20c, ICML'21, ICLR'21, US Patent, EMNLP'21, DAC'22, DAC'23, Arxiv'23 ]
+Private deep learning with algorithm-cryptography-hardware acceleration [DATE'22, DAC'22, NANOARCH'22, ISQED'23 Invitation]
+Trojan attacks, detection, and defense on deep learning (vision Transformers, language models, SSL) [CVPR'23, ICLR'23, NeurIPS'23, NAACL'24 , Arxiv'b]
+Lightweight on-device deep learning and algorithm-hardware acceleration [ICCAD'18, DATE'19, ICLR'20, ASP-DAC'20, DATE'20, PACT'20 (Best Paper Nomination), IJCAI'21, ICLR'22a, CVPR'22, EMNLP'22, US Patent, US Patent, US Patent]
+Publications | Research Group | Teaching | Google Scholar
+
+Prospective Students: We will be recruiting highly motivated Ph.D. students. Please email me at qian.lou@ucf.edu with your CV, research experiences/interests, and English Proficiency Scores (TOEFL/IELTS, GRE). After the interview, please apply through the CS department and include my name as a possible advisor in your application.
+
+Have questions? Check out my answers to the PhD Advisor Guide.
+
+News
+06 / 2024	WBP: Training-time Backdoor Attacks through Weight Bit Poisoning is accepted by ECCV 2024.
+06 / 2024	SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning is accepted by ECCV 2024.
+06 / 2024	BoostCom: Towards Efficient Universal Fully Homomorphic Encryption by Boosting the Word-wise Comparisons is accepted by PACT 2024.
+05 / 2024	Congratulations to Jiaqi Xue and Yancheng Zhang, who started their internships at Samsung Research America.
+05 / 2024	CR-UTP: Certified Robustness against Universal Text Perturbations is accepted by ACL 2024.
+03 / 2024	TrojFSP: Trojan Insertion in Few-shot Prompt Tuning is accepted by NAACL 2024 (Oral in the main conference).
+09 / 2023	TrojLLM: A Black-box Trojan Attack on Large Language Models is accepted by NeurIPS 2023.
+02 / 2023	TrojViT: Trojan Insertion in Vision Transformers is accepted by CVPR 2023.
+02 / 2023	Primer: Privacy-preserving Transformer on Encrypted Data is accepted by DAC 2023.
+01 / 2023	TrojText: Test-time Invisible Textual Trojan Insertion is accepted by ICLR 2023.
+10 / 2022	Weighted value decomposition on language model is accepted by EMNLP 2022.
+03 / 2022	LITE-MDETR is accepted by CVPR 2022.
+02 / 2022	MATCHA is accepted by DAC 2022.
+01 / 2022	Language Model Compression is accepted by ICLR 2022.
+01 / 2022	DictFormer is accepted by ICLR 2022.
+08 / 2021	CryptoGRU is accepted by EMNLP 2021.
+05 / 2021	HEMET is accepted by ICML 2021.
+05 / 2021	Qian received a Luddy Outstanding Research Award.
+09 / 2020	Three papers were accepted by NeurIPS 2020.
+
+
+Research Group
+PhD students
+
+
+			
+Jiaqi Xue
+(2023 Spring-)
+B.S. Chongqing University	Yancheng Zhang
+(2023 Fall-)
+B.S. Sichuan University
+	Rochana Prih Hastuti
+(2023 Fall-)
+Fulbright Fellowship
+		
+Mayank Kumar
+(2024 Fall -)	Mansour Al Ghanim
+(2021 Fall -)	
+
+Undergraduate students
+		
+Nicolas Gonzalez		
+
+Recent Community Services
+
+NSF: Panelist
+
+ISCA 2023: Local Area Chair
+
+Tiny and Fair ML Design Contest Organizer at ESWEEK 2023
+
+IEEE Transactions on Information Forensics and Security: Reviewer
+
+AI for Content Creation (AI4CC) Workshop @ CVPR 2024: Area Chair
+
+AAAI: Senior Program Committee
+
+NeurIPS: Reviewer
+
+ICML:Reviewer
+
+ACL/NAACL:Reviewer
+
+ICLR: Reviewer
+
+CVPR: Reviewer
+
+ECCV: Reviewer
+
+Teaching
+
+2022 Fall: CDA 5106 Advanced Computer Architecture
+
+2023 Spring: CAP 6614 Current Topics in Machine Learning
+
+2023 Fall: CDA 5106 Advanced Computer Architecture
+
+2024 Spring: CAP 6614 Current Topics in Machine Learning
+
+Publications
+Preprints
+ 	
+
+TrojViT: Trojan Insertion in Vision Transformers
+Mengxin Zheng, Qian Lou and Lei Jiang
+arxiv
+[Paper (PDF)] [Code (submitted)]
+
+
+Directly transplanting CNN-specific backdoor attacks to ViTs yields only a low clean data accuracy and a low attack success rate. In this paper, we propose a stealth and practical ViT-specific backdoor attack TrojViT. Rather than an area-wise trigger used by CNN-specific backdoor attacks, TrojViT generates a patch-wise trigger designed to build a Trojan composed of some vulnerable bits on the parameters of a ViT stored in DRAM memory through patch salience ranking and attention-target loss.
+
+ 	
+
+Audit and Improve Robustness of Private Neural Networks on Encrypted Data
+Jiaqi Xue, Lei Xu, Lin Chen, Weidong Shi, kaidi Xu, and Qian Lou
+arxiv (under my supervision)
+[Paper (PDF)] [Code (submitted)]
+
+
+Performing neural network inference on encrypted data without decryption is one popular method to enable privacy-preserving neural networks (PNet) as a service. Compared with regular neural networks deployed for machine-learning-as-a-service, PNet requires additional encoding, e.g., quantized-precision numbers, and polynomial activation. Encrypted input also introduces novel challenges such as adversarial robustness and security. To the best of our knowledge, we are the first to study questions including (i) Whether PNet is more robust against adversarial inputs than regular neural networks? (ii) How to design a robust PNet given the encrypted input without decryption?
+
+Refereed publications
+ 	
+
+Lite-MDETR: A Lightweight Multi-Modal Detector
+Qian Lou, Yen-Chang Hsu, Burak Uzkent, Ting Hua, Yilin Shen, and Hongxia Jin
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2022
+[Paper (PDF)]
+
+
+We present a Lightweight modulated detector, Lite-MDETR, to facilitate efficient end-to-end multi-modal understanding on mobile devices. The key primitive is that Dictionary-Lookup-Transformormations (DLT) is proposed to replace Linear Transformation (LT) in multi-modal detectors where each weight in Linear Transformation (LT) is approximately factorized into a smaller dictionary, index, and coefficient.
+
+ 	
+
+DictFormer: Tiny Transformer with Shared Dictionary
+Qian Lou, Ting Hua, Yen-Chang Hsu, Yilin Shen, and Hongxia Jin
+The International Conference on Learning Representations (ICLR),2022
+[Paper (PDF)]
+
+
+We introduce DictFormer with efficient shared dictionary to provide a compact, fast, and accurate transformer model. DictFormer significantly reduces the redundancy in the transformer's parameters by replacing the prior transformer's parameters with compact, shared dictionary, few unshared coefficients and indices. Also, DictFormer enables faster computations since expensive weights multiplications are converted into cheap shared look-ups on dictionary and few linear projections.
+
+ 	
+
+SAFENET: A SECURE, ACCURATE AND FAST NEURAL NETWORK INFERENCE
+Qian Lou, Yilin Shen, Hongxia Jin, and Lei Jiang
+The International Conference on Learning Representations (ICLR),2021
+[Paper (PDF)]
+
+
+A cryptographic neural network inference service is an efficient way to allow two parties to execute neural network inference without revealing either party's data or model. Nevertheless, existing cryptographic neural network inference services suffer from enormous running latency; in particular, the latency of communication-expensive cryptographic activation function is 3 orders of magnitude higher than plaintextdomain activation function. And activations are the necessary components of the modern neural networks. Therefore, slow cryptographic activation has become the primary obstacle of efficient cryptographic inference. In this paper, we propose a new technique, called SAFENet, to enable a Secure, Accurate and Fast nEural Network inference service. To speedup secure inference and guarantee inference accuracy, SAFENet includes channel-wise activation approximation with multiple-degree options.
+
+ 	
+
+HEMET: A Homomorphic-Encryption-Friendly Privacy-Preserving Mobile Neural Network Architecture
+Qian Lou, and Lei Jiang
+International conference on machine learning (ICML), 2021
+[Paper (PDF)]
+
+
+Recently Homomorphic Encryption (HE) is used to implement Privacy-Preserving Neural Networks (PPNNs) that perform inferences directly on encrypted data without decryption. Prior PPNNs adopt mobile network architectures such as SqueezeNet for smaller computing overhead, but we find naïvely using mobile network architectures for a PPNN does not necessarily achieve shorter inference latency. Despite having less parameters, a mobile network architecture typically introduces more layers and increases the HE multiplicative depth of a PPNN, thereby prolonging its inference latency. In this paper, we propose a HE-friendly privacy-preserving Mobile neural nETwork architecture, HEMET.
+
+ 	
+
+AutoPrivacy: Automated Layer-wise Parameter Selection for Secure Neural Network Inference
+Qian Lou, Song Bian, and Lei Jiang
+Advances in Neural Information Processing Systems(NeurIPS), 2020
+[Paper (PDF)]
+
+
+In this paper, for fast and accurate secure neural network inference, we propose an automated layer-wise parameter selector, AutoPrivacy, that leverages deep reinforcement learning to automatically determine a set of HE parameters for each linear layer in a HPPNN. The learning-based HE parameter selection policy outperforms conventional rule-based HE parameter selection policy.
+
+ 	
+
+Falcon: Fast Spectral Inference on Encrypted Data
+Qian Lou, Wen-jie Lu, Cheng Hong, and Lei Jiang
+Advances in Neural Information Processing Systems(NeurIPS), 2020
+[Paper (PDF)]
+
+
+In this paper, we propose a fast, frequency-domain deep neural network called Falcon, for fast inferences on encrypted data. Falcon includes a fast Homomorphic Discrete Fourier Transform (HDFT) using block-circulant matrices to homomorphically support spectral operations. We also propose several efficient methods to reduce inference latency, including Homomorphic Spectral Convolution and Homomorphic Spectral Fully Connected operations by combining the batched HE and block-circulant matrices.
+
+ 	
+
+Glyph: Fast and accurately training deep neural networks on encrypted data
+Qian Lou, Bo Feng, Geoffrey C. Fox, and Lei Jiang
+Advances in Neural Information Processing Systems(NeurIPS), 2020
+[Paper (PDF)]
+
+
+In this paper, we propose, Glyph, an FHE-based technique to fast and accurately train DNNs on encrypted data by switching between TFHE (Fast Fully Homomorphic Encryption over the Torus) and BGV cryptosystems. Glyph uses logicoperation-friendly TFHE to implement nonlinear activations, while adopts vectorialarithmetic-friendly BGV to perform multiply-accumulations (MACs). Glyph further applies transfer learning on DNN training to improve test accuracy and reduce the number of MACs between ciphertext and ciphertext in convolutional layers.
+
+ 	
+
+AUTOQ: AUTOMATED KERNEL-WISE NEURAL NETWORK QUANTIZATION
+Qian Lou, Feng Guo, Minje Kim , Lantao Liu ,and Lei Jiang
+International Conference on Learning Representations (ICLR), 2020
+[Paper (PDF)]
+
+
+It is difficult for even deep reinforcement learning (DRL) Deep Deterministic Policy Gradient (DDPG)-based agents to find a kernel-wise QBN configuration that can achieve reasonable inference accuracy. In this paper, we propose a hierarchical-DRL-based kernel-wise network quantIzation technique, AutoQ, to automatically search a QBN for each weight kernel, and choose another QBN for each activation layer.
+
+ 	
+
+Helix: Algorithm/Architecture Co-design for Accelerating Nanopore Genome Base-calling
+Qian Lou, Sarath Chandra Janga, and Lei Jiang
+International Conference on Parallel Architectures and Compilation Techniques (PACT), 2020
+[Paper (PDF)] [Best paper candidate]
+
+
+We propose a novel algorithm/architecture codesigned PIM, Helix, to power-efficiently and accurately accelerate nanopore base-calling. From an algorithm perspective, we present systematic error-aware training to minimize the number of systematic errors in a quantized base-caller. From an architectural perspective, we propose a low-power SOT-MRAM-based ADC array to process analog-to-digital conversion operations and improve power the efficiency of prior DNN PIMs. Moreover, we revised a traditional NVM-based dot-product engine to accelerate CTC decoding operations, and create a SOT-MRAM binary comparator array to process read voting.
+
+ 	
+
+SHE: A Fast and Accurate Deep Neural Network for Encrypted Data
+Qian Lou, and Lei Jiang
+Advances in Neural Information Processing Systems(NeurIPS), 2019
+[Paper (PDF)] [ Code ]
+
+
+we propose a Shift-accumulation-based LHE-enabled deep neural network (SHE) for fast and accurate inferences on encrypted data. We use the binary operation-friendly Leveled Fast Homomorphic Encryption over Torus (LTFHE) encryption scheme to implement ReLU activations and max poolings. We also adopt the logarithmic quantization to accelerate inferences by replacing expensive LTFHE multiplications with cheap LTFHE shifts. We propose a mixed bitwidth accumulator to accelerate accumulations. Since the LTFHE ReLU activations, max poolings, shifts and accumulations have small multiplicative depth overhead, SHE can implement much deeper network architectures with more convolutional and activation layers.
+
+ 	
+
+3dict: a reliable and qos capable mobile process-in-memory architecture for lookup-based cnns in 3d xpoint rerams
+Qian Lou, Wujie Wen,and Lei Jiang
+IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2018
+[Paper (PDF)]
+
+
+In this paper, we propose a 3D XPoint ReRAM-based process-in-memory architecture, 3DICT, to provide various test accuracies to applications with different priorities by lookup-based CNN tests that dynamically exploit the trade-off between test accuracy and latency.
+
+Other publications
+ 	
+
+Numerical Optimizations for Weighted Low-rank Estimation on Language Model
+Ting Hua, Yen-Chang Hsu, Felicity Wang,, Qian Lou, Yilin Shen,and Hongxia Jin,
+Empirical Methods in Natural Language Processing (EMNLP), 2022
+[Paper (PDF)]
+
+ 	
+
+coxHE: A software-hardware co-design framework for FPGA acceleration of homomorphic computation
+Mingqin Han, Yilan Zhu, Qian Lou, Zimeng Zhou, Shanqing Guo,and Lei Ju,
+Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022
+[Paper (PDF)]
+
+ 	
+
+MATCHA: A Fast and Energy-Efficient Accelerator for Fully Homomorphic Encryption over the Torus
+Lei Jiang, Qian Lou,and Nrushad Joshi,
+The Design Automation Conference (DAC), 2022
+[Paper (PDF)]
+
+ 	
+
+Language model compression with weighted low-rank factorization
+Yen-Chang Hsu, Ting Hua, Sung-En Chang, Qian Lou, Yilin Shen,and Hongxia Jin,
+International Conference on Learning Representations (ICLR), 2022
+[Paper (PDF)]
+
+ 	
+
+CryptoGRU: Low Latency Privacy-Preserving Text Analysis With GRU
+Bo Feng, Qian Lou, Lei Jiang, and Geoffrey C Fox,
+Empirical Methods in Natural Language Processing (EMNLP), 2021
+[Paper (PDF)]
+
+ 	
+
+Automatic Mixed-Precision Quantization Search of BERT
+Changsheng Zhao, Ting Hua, Yilin Shen, Qian Lou,and Hongxia Jin,
+International Joint Conference on Artificial Intelligence (IJCAI), 2021
+[Paper (PDF)]
+
+ 	
+
+LightBulb: A Photonic-Nonvolatile-Memory-based Accelerator for Binarized Convolutional Neural Networks
+Farzaneh Zokaee, Qian Lou, Nathan Youngblood, Weichen Liu, Yiyuan Xie,and Lei Jiang,
+Design, Automation & Test in Europe Conference & Exhibition (DATE), 2020
+[Paper (PDF)]
+
+ 	
+
+MindReading: An Ultra-Low-Power Photonic Accelerator for EEG-based Human Intention Recognition
+Qian Lou, Wenyang Liu, Weichen Liu, YFeng Guo,and Lei Jiang,
+25th Asia and South Pacific Design Automation Conference (ASP-DAC), 2020
+[Paper (PDF)]
+
+ 	
+
+Holylight: A nanophotonic accelerator for deep learning in data centers
+Weichen Liu, Wenyang Liu, Yichen Ye, Qian Lou, Yiyuan Xie,and Lei Jiang,
+Design, Automation & Test in Europe Conference & Exhibition (DATE), 2019
+[Paper (PDF)]
+
+
+ 	
+
+BRAWL: A Spintronics-Based Portable Basecalling-in-Memory Architecture for Nanopore Genome Sequencing
+Qian Lou,and Lei Jiang,
+IEEE Computer Architecture Letters,2018
+[Paper (PDF)]
+
+
+ 	
+
+Runtime and reconfiguration dual-aware placement for SRAM-NVM hybrid FPGAs
+Qian Lou, Mengying Zhao, Lei Ju, Chun Jason Xue, Jingtong Hu,and Zhiping Jia,
+IEEE 6th Non-Volatile Memory Systems and Applications Symposium (NVMSA),2017
+[Paper (PDF)]
+
+

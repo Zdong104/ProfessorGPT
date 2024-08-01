@@ -1,0 +1,269 @@
+Professor: Geoffrey J. Gordon
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~ggordon
+Description: Geoffrey J. Gordon
+I'm a professor in the Machine Learning Department at Carnegie Mellon.  I am also affiliated with the Robotics Institute.  I'm interested in multi-agent planning, reinforcement learning, decision-theoretic planning, statistical models of difficult data (e.g. maps, video, text), computational learning theory, and game theory.  My group is called the SELECT lab (for SEnse, LEarn, and aCT).  Here is its mailing list.
+
+I spent AY 2003-4 as a visiting professor at the Stanford Robotics Lab.  Before joining CMU I used to work for Burning Glass Technologies, a company that provided intelligent searching and matching software for resumes and job postings.  The company was headquartered in San Diego, but I worked at their Pittsburgh office.
+
+Before that, I was a postdoctoral researcher at the AUTON lab in the Robotics Institute.  Before that, I was a Computer Science PhD student, with advisor Tom Mitchell.  For my RI page, click here.  Here are the CMU machine learning lunch page, CS local page, facilities help page, budgeting system, and facilities costing system.  Here is CMU's finger gateway.
+
+
+
+Contact
+Office: GHC 8213, x8-7399
+(To reach these numbers from outside CMU, first dial 1-412-26.)
+
+Shipping address:
+6105 Gates Hillman Complex
+Machine Learning Department
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+
+You can email me with user_ID@cs.cmu.edu, where user_ID is part of the URL for this page.
+
+
+
+Teaching
+Spring 2023 I am teaching 10-405 and 10-605, Machine Learning with Large Datasets, with Barnabas Poczos.
+
+Spring 2022 I taught 10-606 and 10-607, Mathematical Background for ML and Computational Background for ML. I taught these courses before in Fall 2017. These are the same course as 10-600 from Fall 2016, but renumbered since CMU's registration system prefers different numbers for the two minis.
+
+Spring 2021 I taught 10-701, Intro to ML, with Aarti Singh. I also taught this course in Fall 2014 with Aarti Singh.  I also taught this course in Fall 2013 with Alex Smola.
+
+Fall 2015 I taught 10-601, the masters-level machine learning course, with Aarti Singh.  I also taught this course in Fall 2009 with Miro Dudík.
+
+Spring 2013 I taught the MLD Journal Club.  I also taught this course in Spring 2012, in Fall 2011, with Tom Mitchell in Fall 2010, with Aarti Singh in Spring 2010, with Ann Lee several times before that, and with Steve Fienberg several times before that.
+
+Fall 2012 I taught 10-725, Optimization, with Ryan Tibshirani.  I also taught this course in Spring 2010 and Spring 2008 with Carlos Guestrin.
+
+Spring 2011 I taught 15-780, the graduate AI Star course, with Tuomas Sandholm.  I also taught this course in spring 2009 with Tuomas, and in fall 2007 and Fall 2006 with Ziv Bar-Joseph.
+
+Spring 2004 I taught CS23N, Robotics and Machine Learning, with Andrew Ng at Stanford.
+
+Summer 2003 I organized the CALD summer school with Tom Mitchell.
+
+Fall 2002 I taught 16-899C, Statistical Techniques in Robotics, with Sebastian Thrun.
+
+Students
+Here is a current list of the students I am supervising.
+
+Notes, examples, and tutorials
+These are informal notes rather than polished presentations, so let me know if you find any errors.
+Art
+The New Artist: art created by robots, for robots.  (A collaboration led by Axel Straschnoy, of which I am a small part.)
+Playing games
+Play some one-card poker.
+Compute some correlated equilibria.
+Some slides on what it means to be a reasonable learning algorithm in a repeated game.  I presented these as an invited talk at the AAAI workshop on multiagent learning in 2005.
+Algorithms for statistical inference
+A tutorial on spectral learning that we gave at ICML 2012.
+Some code for spectral learning of dynamical systems.
+Some code for generalized linear PCA using a Poisson error model (and its matching exponential link function)
+Some lecture notes on Monte Carlo algorithms, including Matlab demos.
+Some lecture notes on support vector machines, including a simple Java applet.
+Some lecture notes on variational algorithms, including k-means clustering and mean-field image segmentation.
+Notes on Gaussian distributions as they are used in the Kalman filter.
+An example of how to fit a logistic model using iteratively-reweighted least squares.
+An example of using gradient descent to fit a discrete exponential family.  Matlab code, 2k.
+Notes on the concave-convex procedure (CCCP) and its relationship to variational bounding algorithms, in PostScript (44k, 20 slides).
+Notes on Fisher scoring, in PostScript (42k, 8 slides).
+Notes on boosting, in PostScript (90k, 20 slides).
+Linear programming and optimization
+A very simple implementation of an infeasible interior-point method for linear and convex quadratic programs, as a Matlab M-file, and an example of its use.  I also have a slightly more sophisticated implementation (also in Matlab).  If you have access to Matlab's quadprog, I'd recommend using that instead; when I wrote this, I did not have access to quadprog.
+A tutorial on some geometry behind linear programming, in PostScript (780k, 30 slides) (or try PDF).
+For comparison, here's another short interior point linear programming solver.  This one is due to Yin Zhang and was presented at SIAM 2000; I have basically only reformatted the code so that it's slightly easier to use and read.
+Support vector machines are an interesting use of optimization, and there is some interior point code for learning SVMs on my SVM page.  This is not really a very good way to optimize SVMs, and perhaps not the best interior-point implementation, but it may be an interesting example.
+Reinforcement learning
+A (very partial) annotated bibliography on robot learning via MDPs and related methods.  I made this as an initial cut at readings our multirobot planning group might want to go over.
+Notes on conditioning (the dogs and bells kind), in PostScript (50k, 20 slides) or PDF (80k).
+Lecture notes for an intro to reinforcement learning, in PostScript or PDF (215k, 43 slides).
+Others
+A tutorial on machine learning for educational data that Emma Brunskill and I gave at NIPS 2012 (or, direct link to the video).
+Advice for technical speaking, written for our Journal Club course at CMU.
+Code for path planning via Dijkstra's algorithm and A* search, in Java with a Matlab interface.
+A tutorial on synthetic division and partial fraction expansion, which are useful in working with the rational functions which arise when analyzing a linear, time-invariant system of differential equations.
+Software for tracking dots in images.  This is a useful primitive for some types of computational biology experiments: fluorescently tag something, take pictures of it, and track how it moves.  This software isn't very polished, but we couldn't find anything out there for the purpose; so we wrote this, and some friends of mine used it to help with the data for one of the papers below.
+Notes on edge and corner detectors.
+The iterated prisoner's dilemma (text, 10k).
+Slides on rank-based nonparametric statistical tests, as PostScript (115k) or PDF (253k).
+Matlab code for computing log(exp(a)+exp(b)).
+A simple tutorial on the Common LISP language, written as class material for the AI core course at CMU.
+Some publications
+This list is approximately in reverse chronological order.  Some of my publications are also available from the CMU SCS tech reports archive or from arXiv.
+2018
+Ahmed Hefny, Carlton Downey, Geoffrey Gordon. An Efficient, Expressive and Local Minima-free Method for Learning Controlled Dynamical Systems. In AAAI-18. (sorry, no link yet) (an earlier version of this work was presented at CoRL 2017)
+Siddarth Srinivasan, Geoff Gordon, and Byron Boots. Learning Hidden Quantum Markov Models. In AISTATS 2018. (sorry, no link yet)
+2017
+Carlton Downey, Ahmed Hefny, Byron Boots, Geoffrey Gordon, and Boyue Li. Predictive State Recurrent Neural Networks. In Advances in Neural Information Processing Systems (NIPS), 2017. (an earlier version of this work was presented at CoRL 2017; see also the arXiv version below)
+Han Zhao and Geoffrey Gordon. Linear Time Computation of Moments in Sum-Product Networks. In Advances in Neural Information Processing Systems (NIPS), 2017.
+Wen Sun, Arun Venkatraman, Geoff Gordon, Byron Boots, and Drew Bagnell. Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction. In Intl. Conf. Machine Learning (ICML), 2017. (See also an earlier arXiv version, next bullet.)
+Wen Sun, Arun Venkatraman, Geoff Gordon, Byron Boots, and Drew Bagnell. Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction. Technical report arXiv:1703.01030, 2017.
+Han Zhao and Geoff Gordon. Frank-Wolfe Optimization for Symmetric-NMF under Simplicial Constraint. Technical report arXiv:1706.06348, 2017.
+Carlton Downey, Ahmed Hefny, Boyue Li, Byron Boots, and Geoffrey Gordon. Predictive State Recurrent Neural Networks. Technical report arXiv:1705.09353, 2017.
+Renato Negrinho and Geoff Gordon. DeepArchitect: Automatically Designing and Training Deep Architectures. Technical report arXiv:1704.08792, 2017.
+Carlton Downey, Ahmed Hefny, and Geoffrey Gordon. Practical Learning of Predictive State Representations. Technical report arXiv:1702.04121, 2017.
+Ahmed Hefny, Carlton Downey, and Geoffrey J. Gordon. Supervised Learning for Controlled Dynamical System Learning. Technical report arXiv:1702.03537, 2017.
+Dana Van Aken, Andrew Pavlo, Geoffrey J. Gordon, and Bohan Zhang. Automatic Database Management System Tuning Through Large-scale Machine Learning. In ACM SIGMOD, 2017.
+2016
+H. Zhao, P. Poupart, and G. J. Gordon. A Unified Approach for Learning the Parameters of Sum-Product Networks. In Advances in Neural Informaption Processing Systems (NIPS), 2016.
+H. Zhao, T. Adel, G. Gordon, and B. Amos. Collapsed variational inference for sum-product networks. In Proc. Intl. Conf. on Machine Learning (ICML), 2016.
+Z. Marinho, B. Boots, A. Dragan, A. Byravan, G. J. Gordon, and S. Srinivasa. Functional gradient motion planning in reproducing kernel Hilbert spaces. In Proc. Robotics: Science and Systems XII (RSS), 2016.
+W. Sun, R. Capobianco, J. A. Bagnell, B. Boots, and G. J. Gordon. Learning to smooth with bidirectional predictive state inference machines. In Proc. Conf. on Uncertainty in Artificial Intelligence (UAI), 2016.
+M. Falakmasir, G. J. Gordon, J. P. González-Brenes, and K. E. DiCerbo. A data-driven approach for inferring student proficiency from game activity logs. In Proc. Learning at Scale (L@S), 2016.
+2015
+Ahmed Hefny, Carlton Downey, and Geoffrey J. Gordon. Supervised Learning for Dynamical System Learning. In Advances in Neural Information Processing Systems (NIPS), 2015.
+G. Xia, Y. Wang, R. Dannenberg, and G. Gordon. Spectral learning for expressive interactive ensemble music performance. In Proc. Intl. Soc. Music Information Retrieval (ISMIR), 2015.
+Matteus Tanha, Tse-Han Huang, Geoffrey J. Gordon and David J. Yaron. Imitation Learning for Accelerating Iterative Computation of Fixed Points. European Workshop on Reinforcement Learning (EWRL), 2015. (sorry, no link yet)
+2014
+A. Hefny, R. Kass, S. Khanna, M. Smith, and G. Gordon. Fast and Improved SLEX Analysis of High-dimensional Time Series. NIPS Workshop on Machine Learning and Interpretation in Neuroimaging (MLINI), 2014.
+Khalil Ghorbal, Jean-Baptiste Jeannin, Erik Zawadzki, André Platzer, Geoffrey J. Gordon, and Peter Capell. Hybrid Theorem Proving of Aerospace Systems: Applications and Challenges. Journal of Aerospace Information Systems, 2014.
+John Kowalski, Yanhui Zhang, and Geoffrey J. Gordon.  Statistical Modeling of Student Performance to Improve Chinese Dictation Skills with an Intelligent Tutor.  Journal of Educational Data Mining 6:1, 2014.
+2013
+Matteus Tanha, Shiva Kaul, Alex Cappiello, Geoffrey J. Gordon, David J. Yaron. Embedding parameters in ab initio theory to develop well-controlled approximations based on molecular similarity. Technical report arXiv:1311.3440, 2013.
+A. Hefny, G. Gordon, and K. Sycara. Random walk features for network-aware topic models. In NIPS Workshop on Frontiers of Network Analysis: Methods, Models, and Applications, 2013.
+E. Zawadzki, G. J. Gordon, and A. Platzer. A projection algorithm for strictly monotone linear complementarity problems. In Proc. NIPS OPT Workshop, 2013.
+Geoffrey J. Gordon.  Galerkin Methods for Complementarity Problems and Variational Inequalities.  Technical report arXiv:1306.4753, 2013.
+Byron Boots, Arthur Gretton, Geoffrey Gordon.  Hilbert Space Embeddings of Predictive State Representations.  ICML workshop on Machine Learning and System Identification (MLSYSID), 2013.  (sorry, no link yet)
+B. Boots, A. Gretton, and G. J. Gordon.  Hilbert space embeddings of predictive state representations.  In 29th Intl. Conf. on Uncertainty in Artificial Intelligence (UAI), 2013.
+M. H. Falakmasir, Z. A. Pardos, G. J. Gordon, and P. Brusilovsky.  A spectral learning approach to knowledge tracing.  In 6th Intl. Conf. on Educational Data Mining (EDM), 2013.
+M. V. Yudelson, K. R. Koedinger, and G. J. Gordon.  Individualized Bayesian knowledge tracing models.  In Proc. 16th Intl. Conf. on Artificial Intelligence in Education (AIED), 2013.
+A. Gupta, K. Sycara, G. Gordon, and A. Hefny.  Differences in social influence across cultures in Twitter.  In Proc. IEEE/ACM Intl. Conf. on Advances in Social Networks Analysis and Mining (ASONAM), 2013.  (sorry, no link yet)
+E. Zawadzki, A. Platzer, and G. J. Gordon.  A generalization of SAT and #SAT for policy evaluation.  In Proc. Intl. Joint Conf. on Artificial Intelligence (IJCAI), 2013.
+B. Boots and G. J. Gordon. A spectral learning approach to range-only SLAM.  In 30th Intl. Conf. on Machine Learning (ICML), 2013.  (see also arXiv version below)
+2012
+B. Boots and G. J. Gordon.  A spectral learning approach to range-only SLAM.  In NIPS Workshop on Spectral Algorithms for Latent Variable Models, 2012.
+B. Boots, A. Gretton, and G. J. Gordon.  Hilbert space embeddings of PSRs.  In NIPS Workshop on Spectral Algorithms for Latent Variable Models, 2012.
+G. J. Gordon.  Fast solutions to projective monotone linear complementarity problems.  Technical Report arXiv:1212.6958, 2012.
+G. J. Gordon, P. Varakantham, W. Yeoh, H. C. Lau, A. S. Aravamudhan, and S.-F. Cheng.  Lagrangian relaxation for large-scale multi-agent planning.  In Proc. IEEE/WIC/ACM Intl. Conf. on Intelligent Agent Technology (IAT), 2012.
+B. Boots and G. J. Gordon. A spectral learning approach to range-only SLAM. Technical report arXiv:1207.2491, 2012.
+P. Varakantham, S.-F. Cheng, G. Gordon, and A. Ahmed.  Decision support for agent populations in uncertain and congested environments.  In Proc. 26th Conf. on Artificial Intelligence (AAAI), 2012.
+B. Boots and G. J. Gordon.  Two manifold problems with applications to nonlinear system identification.  In Proc. Intl. Conf. on Machine Learning (ICML), 2012.
+Geoffrey J. Gordon, Pradeep Varakantham, William Yeoh, Hoong Chuin Lau, Ajay S. Aravamudhan, and Shih-Fen Cheng.  Lagrangian Relaxation for Large-Scale Multi-Agent Planning (Extended Abstract).  11th Intl. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2012.
+Brian D. Ziebart, Miro Dudik, Geoff Gordon, Katia Sycara, Wendi Adair, and Jeanne Brett.  Identifying Culture and Leveraging Cultural Differences in Negotiations for Negotiation Agents.  Hawaii International Conference on System Science (HICSS), 2012.
+2011
+Byron Boots and Geoffrey J. Gordon.  Two-Manifold Problems.  Technical report arXiv:1112.6399, 2011.
+Byron Boots and Geoff Gordon.  Online Spectral Identification of Dynamical Systems.  NIPS workshop on Sparse Representation and Low-rank Approximation, 2011.
+Shiva Kaul and Geoffrey Gordon.  Anticoncentration regularizers for stochastic combinatorial problems.  NIPS workshop on Computational Tradeoffs in Statistical Learning (COST), 2011.  (sorry, no link yet)
+Sue Ann Hong and Geoffrey Gordon.  An Accelerated Gradient Method for Distributed Multi-Agent Planning with Factored MDPs.  NIPS workshop on Optimization for Machine Learning (OPT), 2011.
+A. D. Dragan, G. J. Gordon, and S. S. Srinivasa.  Learning from experience in manipulation planning: Setting the right goals.  In Proc. Intl. Symp. on Robotics Reasearch (ISRR), 2011.
+G. Gordon, D. Dunson, and M. Dudík.  Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics (AISTATS).  JMLR W&CP, vol. 15, 2011.
+M. Chi, K. Koedinger, G. Gordon, P. Jordan, and K. VanLehn. Instructional factors analysis: A cognitive model for multiple instructional interventions.  In Proc. 4th Intl. Conf. on Educational Data Mining (EDM), 2011.
+Byron Boots and Geoffrey J. Gordon.  An Online Spectral Learning Algorithm for Partially Observable Nonlinear Dynamical Systems.  AAAI, 2011.
+Stephane Ross, Geoffrey Gordon, and Drew Bagnell.  Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning.  AISTATS, 2011.  (see also the arXiv version, next bullet)
+Stephane Ross, Geoffrey J. Gordon, J. Andrew Bagnell.  A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning.  Technical report arXiv:1011.0686, arXiv, 2011.
+Erik Zawadzki, Geoffrey Gordon, Andre Platzer.  An Instantiation-Based Theorem Prover for First-Order Programming.  AISTATS, 2011.
+Sue Ann Hong and Geoffrey Gordon.  Optimal Distributed Market-Based Planning for Multi-Agent Systems with Shared Resources.  AISTATS, 2011.
+Byron Boots, Sajid Siddiqi, and Geoff Gordon.  Closing the Learning-Planning Loop with Predictive State Representations.  International Journal of Robotics Research (IJRR), 30(7):954-966, 2011.
+N. Turan, M. Dudík, G. Gordon, and L. Weingart.  Modeling group negotiation: Three computational approaches that can inform behavioral sciences.  In E. A. Mannix, M. A. Neale, and J. R. Overbeck, eds., Negotiation and Groups (Research on Managing Groups and Teams), volume 14, pages 189-205, 2011.
+2010
+B. Boots and G. J. Gordon.  Predictive state temporal difference learning.  In Advances in Neural Information Processing Systems (NIPS), vol. 23, 2010.  (see also the arXiv version, next bullet)
+B. Boots and G. J. Gordon.  Predictive state temporal difference learning.  Technical report arXiv:1011.0041, arXiv, 2010.
+A. Singh and G. Gordon.  A Bayesian matrix factorization model for relational data.  In Proc. Intl. Conf. on Uncertainty in Artificial Intelligence (UAI), 2010.
+B. Boots, S. M. Siddiqi, and G. J. Gordon.  Closing the learning-planning loop with predictive state representations. In Proc. Robotics: Science and Systems VI (RSS), 2010.  (see also the extended abstract, tech report, and workshop paper of the same name below)
+L. Song, B. Boots, S. M. Siddiqi, G. J. Gordon, and A. J. Smola.  Hilbert space embeddings of hidden Markov models.  In Proc. 27th Intl. Conf. on Machine Learning (ICML), 2010.  (best paper award)
+S. M. Siddiqi, B. Boots, and G. J. Gordon.  Reduced-rank hidden Markov models. In Proc. 13th Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), 2010.  (see also the tech report version below, and the abstract)
+J. Ramos, S. Siddiqi, A. Dubrawski, G. Gordon, and A. Sharma.  Automatic state discovery for unstructured audio scene classification.  In Proc. 35th Intl. Conf. on Acoustics, Speech, and Signal Processing (ICASSP), 2010.
+B. Boots, S. Siddiqi, and G. Gordon.  Closing the learning-planning loop with predictive state representations (extended abstract).  In 9th Intl. Conf. on Autonomous Agents and Multiagent Systems (AAMAS), 2010.  (see also the next two items)
+2009
+B. Boots, S. M. Siddiqi, and G. J. Gordon.  Closing the learning-planning loop with predictive state representations. Technical Report arXiv:0912.2385, arXiv, 2009.
+B. Boots, S. M. Siddiqi, and G. J. Gordon.  Closing the learning-planning loop with PSRs.  In M. Deisenroth, B. Kappen, E. Todorov, D. Nguyen-Tuong, C. E. Rasmussen, and J. Peters, eds., Proc. NIPS Workshop on Probabilistic Approaches for Robotics and Control, Whistler, BC, 2009.
+S. M. Siddiqi, B. Boots, and G. J. Gordon.  Reduced-rank hidden Markov models.  Technical Report arXiv:0910.0902, arXiv, 2009.
+Ajit P. Singh and Geoffrey J. Gordon.  A Bayesian Matrix Model for Relational Data.  NIPS workshop on Transfer Learning for Structured Data (TLSD-09).
+R. Freeman, P. Yang, G. Gordon, K. M. Lynch, S. Srinivasa, and R. Sukthankar.  Decentralized estimation and control of graph connectivity for mobile sensor networks.  Automatica, 46(2):390-396, 2010. 
+Miroslav Dudík and Geoffrey J. Gordon.  A Game-Theoretic Approach to Modeling Cross-Cultural Negotiation.  Proceedings of the 2009 MICON workshop at IJCAI.  (proceedings)
+Praveen Paruchuri, Nilanjan Chakraborty, Roie Zivan, Katia Sycara, Miroslav Dudík and Geoff Gordon.  POMDP Based Negotiation Modeling.  Proceedings of the 2009 MICON workshop at IJCAI.  (proceedings)
+T. Stepleton, Z. Ghahramani, G. Gordon, and T. S. Lee.  The block diagonal infinite hidden Markov model.  In Proc. 12th Intl. Conf. on Artificial Intelligence and Statistics (AISTATS), 2009.
+Geoffrey J. Gordon, Sue Ann Hong, and Miroslav Dudík.  First-order mixed integer linear programming.  In Proc. 25th Conf. on Uncertainty in Artificial Intelligence (UAI), 2009.
+Miroslav Dudík and Geoffrey Gordon.  A sampling-based approach to computing equilibria in succinct extensive-form games.  In Proc. 25th Conf. on Uncertainty in Artificial Intelligence (UAI), 2009.
+2008
+Geoff Gordon.  Think globally, act locally.  In J. Trinkle and B. H. Krogh, editors, Proc. IROS Special Session on Robotics and Cyber-Physical Systems, 2008.
+Sajid M. Siddiqi, Byron Boots, Geoffrey J. Gordon.  A Constraint Generation Approach to Learning Stable Linear Dynamical Systems.  Tech report CMU-ML-08-101.
+A. P. Singh and G. J. Gordon.  A unified view of matrix factorization models.  In R. Goebel, J. Siekmann, and W. Wahlster, editors, Machine Learning and Knowledge Discovery in Databases (Proc. ECML PKDD), volume 5212/2008 of Lecture Notes in Computer Science, pages 358-373. Springer Berlin / Heidelberg, 2008.  (or, a local link, in case the above link is down)
+Ajit P. Singh and Geoffrey J. Gordon. Relational learning via collective matrix factorization. In Proc. 14th Intl. Conf. on Knowledge Discovery and Data Mining (KDD), 2008.  (see also the code)
+Ajit P. Singh and Geoffrey J. Gordon.  Relational Learning via Collective Matrix Factorization.  Tech report CMU-ML-08-109.
+N. Armstrong-Crews, G. Gordon, and M. Veloso.  Solving POMDPs from both sides: Growing dual parsimonious bounds.  In G. Shani, J. Pineau, P. Poupart, and T. Smith, editors, AAAI workshop for Advancement in POMDP Solvers, 2008.
+Geoffrey J. Gordon, Amy Greenwald, Casey Marks.  No-regret learning in convex games.  ICML, 2008.  There are two related tech reports, one of which is available below (or here).
+I. Rish, G. Grabarnik, G. Cecchi, F. Pereira, and G. Gordon.  Closed-form Supervised Dimensionality Reduction with Generalized Linear Models, in Proceedings of ICML 2008, Helsinki, Finland.  Also available from the IBM tech report archive as number RC24834.
+Michael Freed, Jaime Carbonell, Geoff Gordon, Jordan Hayes, Brad Myers, Daniel Siewiorek, Stephen Smith, Aaron Steinfeld and Anthony Tomasic.  RADAR: A Personal Assistant that Learns to Reduce Email Overload.  AAAI, 2008.
+Jan-Peter Calliess and Geoffrey Gordon.  No-Regret Learning and a Mechanism for Distributed Multi-Agent Planning.  AAMAS-08.
+Shann-Ching Chen, Geoffrey Gordon, and Robert Murphy.  Graphical Models for Structured Classification, with an Application to Interpreting Images of Protein Subcellular Location Patterns.  Journal of Machine Learning Research, v9, 2008.
+Peng Yang, Randy Freeman, Geoffrey J. Gordon, Kevin M. Lynch, Siddhartha Srinivasa, and Rahul Sukthankar.  Decentralized Estimation and Control of Graph Connectivity in Mobile Sensor Networks.  ACC-08.
+2007
+S. Siddiqi, B. Boots, and G. Gordon.  A Constraint Generation Approach to Learning Stable Linear Dynamical Systems.  NIPS, 2007.
+Geoff Gordon, Amy Greenwald, Casey Marks and Martin Zinkevich.  No-Regret Learning in Convex Games.  Brown tech report CS-07-10.
+Ramprasad Ravichandran, Geoffrey J. Gordon, and Seth Goldstein.  A Scalable Distributed Algorithm for Shape Transformation in Multi-robot Systems.  IROS-07.
+Chris Murray and Geoff Gordon.  Finding correlated equilibria in general sum stochastic games.  Technical report CMU-ML-07-113.
+H. Brendan McMahan and Geoffrey Gordon.  A Unification of Extensive-form Games and Markov Decision Processes.  AAAI 2007.
+Automated Image Analysis of Protein Localization in Budding Yeast.  ISMB/ECCB 2007.  With Sam Chen, Ting Zhao, and Bob Murphy.  This paper will also appear in the journal Bioinformatics. (the code from this paper is available here)
+M. Likhachev, D. Ferguson, G. Gordon, A. Stentz, and S. Thrun.  Anytime search in dynamic graphs.  Artificial Intelligence, 172(14):1613-1643, 2008.
+H. Brendan McMahan and Geoffrey J. Gordon.  A Fast Bundle-based Anytime Algorithm for Poker and other Convex Games.  AISTATS-07.  (8 pages, PDF; see also the AISTATS online proceedings)
+Sajid M. Siddiqi, Geoffrey J. Gordon, and Andrew W. Moore.  Fast State Discovery for HMM Model Selection and Learning.  AISTATS-07.  (8 pages, PDF; see also the AISTATS online proceedings)
+Purnamrita Sarkar, Sajid M. Siddiqi, and Geoffrey J. Gordon.  A Latent Space Approach to Dynamic Embedding of Co-occurrence Data.  AISTATS-07.  (8 pages, PDF; see also the AISTATS online proceedings)
+Purnamrita Sarkar, Sajid M. Siddiqi, and Geoffrey J. Gordon.  Approximate Kalman Filters for Embedding Author-Word Co-occurrence Data over Time.  Workshop on Statistical Network Analysis at the 23rd International Conference on Machine Learning (2006), Pittsburgh, PA.  (This is the workshop version of the "Latent Space Approach" paper above; it also appears in the Springer LNCS series.)
+Geoffrey J. Gordon.  Agendas for Multi-Agent Learning.  Artificial Intelligence, special issue on Foundations of Multiagent Learning, 2007.  You may also be interested in the longer tech report version.
+Kian Hsiang Low, Geoffrey J. Gordon, John M. Dolan, and Pradeep Khosla.  Adaptive Sampling for Multi-Robot Wide Area Exploration.  ICRA-07.  (6 pages, PDF)
+Kian Hsiang Low, Geoffrey J. Gordon, John M. Dolan, and Pradeep Khosla.  Adaptive Sampling for Multi-Robot Wide Area Prospecting.  Technical Report CMU-RI-TR-05-51.
+S. Siddiqi, B. Boots, G. J. Gordon, and A. W. Dubrawski.  Learning stable multivariate baseline models for outbreak detection (extended abstract).  Advances in Disease Surveillance, 4:266, 2007.
+2006
+G. J. Gordon. Game-theoretic learning. In S. Haykin, J. Principe, T. Sejnowski, and J. McWhirter, editors, New Directions in Statistical Signal Processing: From Systems to Brain. MIT Press, 2005.
+Geoffrey Gordon.  No-regret algorithms for Online Convex Programs.  NIPS 2006.  You may also be interested in the earlier tech report version listed below. (The TR contains more complete proofs.)
+Chris Murray and Geoffrey Gordon.  Multi-Robot Negotiation: Approximating the Set of Subgame Perfect Equilibria in General-Sum Games.  NIPS 2006.  You may also be interested in the earlier Snowbird abstract, or the earlier and longer tech report.
+Nikos Vlassis, Geoff Gordon and Joelle Pineau, eds.  Special issue on Planning Under Uncertainty in Robotics, Robotics and Autonomous Systems, Volume 54, Issue 11, pp. 885-944, November 2006.
+Jared Glover, Daniela Rus, Nicholas Roy, and Geoff Gordon.  Robust Models of Object Geometry.  IROS-06.  (6 pages, PDF)
+Thakar, R., G. J. Gordon and A. K. Csink.  Movement and anchoring of heterochromatin during cell cycle and developmental progression.  Journal of Cell Science, vol 119, 2006.  You may also be interested in the software mentioned in the paper.
+Joelle Pineau, Geoff Gordon, and Sebastian Thrun.  Anytime Point-Based Approximations for Large POMDPs.  JAIR, vol 27, pages 335-380, 2006.  This is the journal version of our paper about the PBVI algorithm.  See also the arXiv version.
+Shann-Ching Chen, Ting Zhao, Geoffrey Gordon, and Robert F. Murphy.  A Novel Graphical Model Approach to Segmenting Cell Images.  2006 BMES Annual Fall Meeting. (8 pages, PDF)
+Shann-Ching Chen, Ting Zhao, Geoffrey J. Gordon and Robert F. Murphy.  A Novel Graphical Model Approach to Segmenting Cell Images.  IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology, 2006.
+S.-C. Chen, G. Gordon and R.F. Murphy.  A Novel Approximate Inference Approach To Automated Classification Of Protein Subcellular Location Patterns In Multi-Cell Images.  Proceedings of the 2006 International Symposium on Biomedical Imaging (ISBI), pp. 558-561.  See also the code and data used in this paper.
+Francisco Pereira and Geoff Gordon.  The Support Vector Decomposition Machine.  To appear in ICML, 2006.  (PDF, 8 pages) (there is also an extension of the SVDM algorithm to be more SVM-like; it was published and presented at the 2006 workshop on Bioimage Informatics at UCSB, and was also the subject of a talk at the 2006 NIPS workshop on Novel Applications of Dimensionality Reduction, but I don't have a link up yet)
+Brian Gerkey, Sebastian Thrun, and Geoff Gordon.  Visibility-based pursuit-evasion with limited field of view.  IJRR, v25, n4, p299, 2006.  (23 pages, PDF)
+Geoffrey J. Gordon.  No-regret algorithms for structured prediction problems.  Tech report CMU-CALD-05-112.  (45 pages, PDF; or try gzipped postscript.)  This is the tech report version of my paper on Lagrangian Hedging algorithms, which are for online learning in problems with structured hypothesis and/or output spaces.  This file replaces an earlier draft which had been available on this website.
+C. Murray and G. Gordon. Multi-Robot Negotiation: Approximating the Set of Subgame Perfect Equilibria in General-Sum Stochastic Games. Snowbird Learning Workshop, 2006.
+Matthijs T.J. Spaan, Nikos Vlassis, and Geoffrey J. Gordon.  Decentralized planning under uncertainty for teams of communicating agents.  AAMAS-06.  (8 pages PDF)
+2005
+Joelle Pineau and Geoff Gordon.  POMDP Planning for Robust Robot Control.  ISRR-05.  (10 pages, PDF, or try a local copy.) Also appears in Robotics Research (part of the Springer Tracts in Advanced Robotics (STAR) series).
+H. Brendan McMahan, Maxim Likhachev, and Geoffrey Gordon.  Bounded Real-Time Dynamic Programming: RTDP with monotone upper bounds and performance guarantees.  ICML-05.  (8 pages, PDF.)
+H. Brendan McMahan and Geoffrey J. Gordon.  Fast Exact Planning in Markov Decision Processes.  ICAPS-05.  (10 pages, PDF.)  See also the tech report version, CMU-CS-05-127.  (22 pages, PDF.)
+Dave Ferguson, Maxim Likhachev, Geoff Gordon, Anthony Stentz, and Sebastian Thrun.  Anytime Dynamic A*: An Anytime, Replanning Algorithm.  ICAPS-05.  (10 pages, PDF)
+Rosemary Emery-Montemerlo, Geoff Gordon, Jeff Schneider, and Sebastian Thrun.  Game Theoretic Control for Robot Teams.  ICRA 2005.  (7 pages, PDF)
+Brian Gerkey, Sebastian Thrun, and Geoff Gordon.  Parallel Stochastic Hill-Climbing with Small Teams.  3rd International NRL Workshop on Multi-Robot Systems, 2005.  (12 pages, PDF)
+Nicholas Roy, Geoffrey Gordon, and Sebastian Thrun.  Finding Approximate POMDP Solutions Through Belief Compression.  JAIR vol 23 p 1-40 (2005).  Here is a local link, in PDF, in case the above link is down.  Also available through arXiv.
+2004
+Maxim Likhachev, Geoff Gordon, and Sebastian Thrun.  Planning for Markov Decision Processes with Sparse Stochasticity.  NIPS 2004.  Describes a search-based algorithm, MCP, for extracting a purely-stochastic MDP from a larger problem with lots of deterministic transitions.
+Matthew Rosencrantz, Geoff Gordon, and Sebastian Thrun.  Learning Low Dimensional Predictive Representations.  ICML 2004.  (8 pages, PDF)
+Rosemary Emery-Montemerlo, Geoff Gordon, Jeff Schneider, and Sebastian Thrun.  Approximate Solutions For Partially Observable Stochastic Games with Common Payoffs.  AAMAS 2004.  (8 pages postscript, or try PDF)
+Brian P. Gerkey, Sebastian Thrun, and Geoff Gordon.  Visibility-based pursuit-evasion with limited field of view.  AAAI 2004.  (8 pages postscript; or try PDF)
+Allison Bruce and Geoffrey Gordon. Better Motion Prediction for People-tracking.  ICRA-04.  pdf, 6 pages.
+Vandi Verma, Geoff Gordon, Reid Simmons, and Sebastian Thrun.  Particle Filters for Rover Fault Diagnosis.  IEEE Robotics & Automation Magazine special issue on Human Centered Robotics and Dependability, June 2004.  (Or try PDF.)
+2003
+Aaron Courville, Nathaniel Daw, Geoff Gordon, and Dave Touretzky.  Model Uncertainty in Classical Conditioning.  NIPS 2003.  pdf, postscript
+Joelle Pineau, Geoff Gordon, and Sebastian Thrun.  Applying Metric-Trees to Belief-Point POMDPs.  NIPS 2003.  pdf, postscript
+Maxim Likhachev, Geoff Gordon, and Sebastian Thrun.  ARA*: Anytime A* with Provable Bounds on Sub-Optimality.  NIPS 2003.  pdf, postscript
+Curt Bererton, Geoff Gordon, Sebastian Thrun, and Pradeep Khosla.  Auction Mechanism Design for Multi-Robot Coordination.  NIPS 2003.  pdf, postscript
+The tech report version of our paper on ARA* (Anytime Repairing A*), with Maxim Likhachev and Sebastian Thrun.  Describes an anytime modification of A* search which produces a suboptimal solution quickly, then repeatedly repairs the plan until it runs out of search time or proves optimality.  This version contains the full proofs of correctness for the algorithm.  (2.5M PDF, 26 pages, CMU-CS-03-148)
+My ICML-03 paper with Brendan McMahan and Avrim Blum, Planning in the presence of cost functions controlled by an adversary.  Shows how to efficiently solve a class of zero-sum games where one player tries to plan a path through an MDP while the other player tries to block the path (349k gzipped postscript, 8 pages) (or try 301k PDF).  See also the related abstract in the NIPS-03 games workshop.
+My IJCAI-03 paper with Joelle Pineau and Sebastian Thrun, Point-based value iteration: an anytime algorithm for POMDPs.  Describes an approximation to POMDP value iteration which is both fast and provably low-error (142k gzipped postscript, 6 pages) (or try 293k PDF).  See also some slides for a talk about this paper (PDF, 37 pages).
+My IJCAI-03 extended abstract with a host of other authors, A learning algorithm for localizing people based on wireless signal strength that uses labeled and unlabeled data.  (57k gzipped postscript, 2 pages)
+My UAI-03 paper with Joelle Pineau and Sebastian Thrun, Policy-contingent abstraction for robust robot control.  Describes the PolCA algorithm for hierarchical solution of MDPs and POMDPs.  (454k gzipped postscript, 8 pages) (or try 261k PDF)
+My UAI-03 paper with Matt Rosencrantz and Sebastian Thrun, Decentralized Sensor Fusion with Distributed Particle Filters.  Describes a query-response algorithm for deciding which sensor data is interesting enough to send to your neighbors.  (390k gzipped postscript, 8 pages) (or try 223k PDF)
+My FSR-03 paper with Nick Roy and Sebastian Thrun, Planning under uncertainty for reliable health care robotics.  Describes how we used the math from the two NIPS-02 papers below to build a planner for the NurseBot.  (447k gzipped postscript, 6 pages, or try PDF) (also appears in proceedings in Springer Tracts in Advanced Robotics)
+My iSAIRAS-03 paper with Vandi Verma and Reid Simmons, Efficient monitoring for planetary rovers.  (141k gzipped postscript, 8 pages)  (You may also be interested in the following related extended abstract: Vandi Verma and Geoff Gordon.  "Bayesian Methods for Identifying Faults on Robots for Planetary Exploration."  Proceedings of ISBA, Viña del Mar, Chile, May 2004.)
+My AAMAS-03 paper with Matt Rosencrantz and Sebastian Thrun, Locating Moving Entities in Dynamic Indoor Environments with Teams of Mobile Robots.  (Matt was awarded the "Best Student Paper" prize for this paper.)  It describes a technique for factoring multiagent tracking problems so that the interactions we need to consider are simpler, as well as an implemented system which tracks teams of robots as they play laser tag. (793k gzipped postscript, 8 pages, or try 1.1M PDF)
+2002 and earlier
+My NIPS-02 paper, Generalized2 Linear2 Models.  It combines principal components analysis, independent components analysis, and generalized linear models.  The result is a nonlinear component analysis model which can be optimized quickly and which can express a variety of useful relationships between hidden and visible variables.  (222k gzipped postscript, 8 pages) (or try 144k PDF)
+My NIPS-02 paper with Nick Roy, Exponential Family PCA for Belief Compression in POMDPs. It describes a way to find structure in robot belief states and take advantage of that structure for planning.  Belief states are probability distributions over physical states, and therefore high-dimensional.  In order to plan, we must reduce the high-dimensional representation to a lower-dimensional one; so, we applied a nonlinear component analysis algorithm to find the low-dimensional features which allow us to reconstruct our belief most accurately in KL-divergence.  (66k gzipped postscript, 8 pages; or try PDF)
+My UAI-02 paper, Distributed planning in hierarchical factored MDPs (with Carlos Guestrin).  It describes a way to decompose a large MDP with factored dynamics into several smaller MDPs that run in parallel and are coupled by constraints, and provides a principled distributed planning algorithm based on this intuition.  (384k gzipped postscript, 10 pages) (or try 458k PDF)
+My NIPS-00 paper, Reinforcement Learning with Function Approximation Converges to a Region.  It proves that two related algorithms, SARSA(0) and V(0), cannot diverge.  (The latter algorithm was used in the TD-Gammon program, albeit with a nonlinear function approximator that doesn't fit my assumptions.)  (55k gzipped postscript, 7 pages.)  You can also dowload some slides (246k gzipped postscript, 18 pages).
+My ML-00 paper, Learning Filaments (with Andrew Moore).  It describes a modification to k-means that allows cluster centers to be shaped like line segments instead of points.  (500k gzipped postscript, 8 pages)
+Hierarchical Linear Models and Cell Data, a Robotics Institute tech report (82k gzipped postscript, 14 pages). You can also download it from the RI TR archive as gzipped postscript or PDF.
+My thesis, Approximate Solutions to Markov Decision Processes.  Contains results about fitted value iteration, worst case learning, and the relationship between MDPs and convex programming (680k gzipped postscript, 150 pages).  Also available from the CMU CS tech reports archive as postscript (3208k) or PDF (1286k).  Here is the abstract.
+My COLT-99 paper, Regret bounds for prediction problems, which proves worst-case performance bounds for some widely-used learning algorithms (379k, 12 pages).  You can also download some slides (493k, 37 pages).  Chapter 3 of my thesis is a slightly longer and more recent presentation of the material in this paper.
+The online proceedings of the workshop on modelling in reinforcement learning, held at ICML-97, co-organized with Chris Atkeson.
+Stable Function Approximation in Dynamic Programming from ML-95: convergence guarantees for offline Markov decision problem solvers based on function approximators like k-nearest-neighbor.  (84k, 8 pages) (or try PDF)
+Stable Function Approximation in Dynamic Programming, tech report CMU-CS-95-103: an earlier, longer version of the above paper.  Contains proofs and discussion which were left out of the ML-95 paper due to limited space.  Also available from the tech reports archive.  (188k, 23 pages) (or try PDF)
+Online Fitted Reinforcement Learning from the Value Function Approximation workshop at ML-95: an addendum to the above two papers which extends some of their techniques to online Markov decision problems.  (81k, 3 pages) (or try PDF)
+An example of SARSA failing to converge.  (50k, 6 pages)
+My NIPS-95 paper.  The previous two papers (the one from the ML-95 VFA workshop and the SARSA example) are more recent and cover the same topics.  So, this paper is mostly obsolete.  If you want it anyway, you can click here.  (56k, 7 pages)
+

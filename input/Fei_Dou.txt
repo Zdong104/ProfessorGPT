@@ -1,0 +1,238 @@
+Professor: Fei Dou
+University: University of Georgia
+URL: https://fayedou.github.io/
+Description: Fei Dou
+
+Assistant Professor, ML / AI / IoT
+University of Georgia
+
+
+About
+News
+Projects
+Publications
+Teaching
+Talks
+CV & Bio
+  
+About
+
+Fei Dou is an Assistant Professor in the School of Computing at the University of Georgia. She obtained her Ph.D. degree from the Department of Computer Science and Engineering at the University of Connecticut in Laboratory of Machine Learning & Health Informatics, working on Machine Learning (ML) / Artificial Intelligence (AI) in the Internet of Things (IoT) / Cyber-Physical Systems (CPS) supervised by Prof. Jinbo Bi. Previously, she was working on Underwater Acoustic Sensor Networks (UWASN) in Tianjin University supervised by Prof. Zhigang Jin.
+
+Fei's research centers on developing new methodologies in AI/ML to enhance the Efficiency, Privacy, and Scalability of the IoT/CPS. Specifically, Fei is mainly working on Location-based Services (LBS), Edge Computing, and Remote Sensing Imagery Analysis by developing new methods from the perspectives of Reinforcement Learning, Federated Learning, and Contrastive Learning. Fei's investigations encompass various IoT domains, including location-based services, natural disaster damage detection, intelligent agriculture, recommender systems, and wireless sensor networks. Fei’s work has been published in highly-selective and high-impact conferences and journals such as NeurIPS, IJCAI, IEEE IOT-J, and she has served as a reviewer at top-notch conferences and journals including ICLR, AAAI, IJCAI, ECAI, IEEE IOT-J, Neurocomputing, Sensors, etc.
+
+Fei's research lies in analyzing and resolving challenges associated with Machine Intelligence of Ubiquitous Computing in Distributed Systems, including:
+
+inefficiency and low scalability of trained models, especially when the solution space is large;
+security and privacy concerns of user data;
+data heterogeneity across devices and imbalanced data distribution on individual devices;
+communication bottlenecks and high computational costs in distributed systems.
+The goal is to foster interdisciplinary research and offer opportunities for introducing transformative technologies to enable new real-life products and services.
+
+
+
+
+Recruiting: Looking for highly-motivated Ph.D. students to join my group! If you are interested in working on machine learning/deep learning/reinforcement learning/federated learning/contrastive learning, please send me an email with your CV and transcript @ fei dot dou AT uga dot edu.
+
+News
+
+[2024/01] Two papers are accepted in IEEE ICC, one of the two IEEE Communications Society's flagship conferences.
+
+[2023/10] I am thrilled and honored to be recognized as the Collegian Winner for the 2023 Women of Innovation Academic Innovation and Leadership in Connecticut! Please check out the latest news: patch, 8newsnow, UConnToday.
+
+[2023/09] Our paper is submitted to ICLR 2024.
+
+[2023/09] Our papers (two) are accepted by NeurIPS 2023! Congratulations to all!
+
+[2023/09] Please check our new vision paper on AGI in the IOT.
+
+[2023/08] I’m officially joining the School of Computing at the University of Georgia as a Tenure-Track Assistant Professor.
+
+[2023/06] I am honored to be selected as the finalist of 2023 Women of Innovation(WOI) from Connecticut Technology Council!
+
+[2023/05] Our paper is accepted by IEEE IOT-J 2023!
+
+[2023/05] Our papers (two) are submitted to NeurIPS 2023.
+
+[2023/04] Our paper is accepted by IJCAI 2023!
+
+[2023/01] Our papers are submitted to IJCAI 2023.
+
+[2022/11] I am invited to give talks on "Special Topics on Reinforcement Learning and its Applications" at the University of Michigan-Dearborn.
+
+[2022/10] Our paper is submitted to IEEE Internet of Things Journal (IOT-J).
+
+[2022/08] Our paper is submitted to IEEE Internet of Things Journal (IOT-J).
+
+Selected Projects
+
+* 15 projects/papers, as the first author (project leader) or the second author (main contributor)
+
+Remote Sensing, Satellite/Aerial Imagery, Contrastive Learning, Computer Vision
+ 
+
+Latent Orthonormal Contrastive Learning in Disaster Damage Assessment Using Paired Remote Sensing Imagery
+Fei Dou, Cameron Cianci, Jinbo Bi
+Submitted
+A latent orthonormal contrastive learning approach is proposed to handle the high-resolution satellite/aerial imagery.
+
+ 
+
+Bi-Subspace Saliency Detection
+Jin Lu, Fei Dou, Chun-Hsi Huang
+CCWC 2017 [paper]
+A novel bi-subspace data-driven saliency detection model is proposed by consider the problem from subspace analysis to characterize the background and foreground.
+
+Location-based Services (LBS), Reinforcement Learning, Federated Learning
+ 
+
+On-Device Indoor Positioning: A Federated Reinforcement Learning Approach with Heterogeneous Devices
+Fei Dou, Jin Lu, Tan Zhu, Jinbo Bi
+IOT-J 2023 [paper]
+A personalized federated learning (FL) for reinforcement learning (RL) is proposed to automatically learn environmental dynamics by client-environment interactions via RL and cope with the diversity of client devices and their non-identical data distributions via personalized FL.
+
+ 
+
+A Bisection Reinforcement Learning Approach to 3-D Indoor Localization
+Fei Dou, Jin Lu, Tingyang Xu, Chun-Hsi Huang, and Jinbo Bi
+IOT-J 2021 [paper]
+A bisection reinforcement learning method is proposed to bisect the search space in a hierarchy from the entire building down to a prespecified distance scale to the object position, and a unified framework for single-floor, multifloor, and 3-D indoor localization is proposed.
+
+ 
+
+Top-Down Indoor Localization with Wi-Fi Fingerprints using Deep Q-Network
+Fei Dou, Jin Lu, Zigeng Wang, Xia Xiao, Jinbo Bi, Chun-Hsi Huang
+MASS 2018 [paper]
+A top-down searching method using a deep Q-network agent is proposed to tackle environment dynamics in indoor positioning with Wi-Fi fingerprints, by formulating the indoor localization problem as a Markov Decision Process rather than a typical classification or regression problem.
+
+ 
+
+Mobilizing Personalized Federated Learning via Random Walk Stochastic ADMM
+Ziba Parsons, Fei Dou, Houyi Du, Jin Lu
+To Appear in NeurIPS 2023, [paper]
+
+
+ 
+
+A Smart Narrow Down Approach based on Machine Learning for Indoor localization
+Sahibzada Umair, Fei Dou, Tughrul Arslan
+Under Review by IEEE Internet of Things Journal (IOT-J)
+A Narrow down approach has been presented for indoor localization that involves in coarse and accurate positioning phases, where training points selection, area division and overlapping strategies have been presented to reduce the uncertainty.
+
+Crop Yield Prediction, Intelligent Agriculture
+ 
+
+Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction
+Qinqing Liu, Fei Dou, Meijian Yang, Ezana Amdework, Guiling Wang, Jinbo Bi
+IJCAI 2023, [paper]
+
+
+Recommender System, Click-Through Rate, Interaction Effects
+ 
+
+Polyhedron Attention Module: Learning Adaptive-order Interactions
+Tan Zhu, Fei Dou, Xinyu Wang, Jinbo Bi
+To Appear in NeurIPS 2023
+
+
+ 
+
+Identifying Interactions among Categorical Predictors with Monte-Carlo Tree Search
+Tan Zhu, Fei Dou, Chloe Becquey, Jinbo Bi
+In Preparation, [paper]
+
+
+Wireless Rechargeable Sensor Network (WRSN), Mobile Charger, Path Planning
+ 
+
+A Deep Reinforcement Learning-based Path Planning for Wireless Rechargeable Sensor Network with Mobile Charger
+Mainak Mondal, Fei Dou, Jinbo Bi, Song Han
+In Preparation
+
+
+Underwater Acoustic Sensor Networks (UWASN), Medium Access Control (MAC)
+ 
+
+On-demand Pipelined MAC for Multi-hop Underwater Wireless Sensor Networks
+Fei Dou, Zheng Peng
+WuWNet 2015, [paper]
+An on-demand pipeline is established to enable data transmission from the source to the destination over multiple hops in a short time, where a special acknowledgement mechanism is designed to guarantee the reliability of the communication with low overheads.
+
+ 
+
+The Multi-channel MAC Protocol for High Performance Underwater Sensor Networks
+Fei Dou, Zhigang Jin, Yao Zhang, Yishan Su
+Journal of Harbin Engineering University 2015, CWSN 2013, [paper]
+A multi-channel MAC protocol is proposed to tackle the spatial-temporal uncertainty by constructing the reservation model of the control channel using Markov Chain.
+
+ 
+
+Motion Prediction Based MAC for Underwater Wireless Sensor Networks
+Yishan Su, Zhigang Jin, Zixin Liu, Fei Dou*
+Journal of Electronics & Information Technology 2013, [paper]
+The motion model of underwater nodes is established to address the multiple access problem in underwater mobile networks, with the aid of an AutoRegression (AR) mobility prediction algorithm.
+
+ 
+
+WSF-MAC: A Weight-based Spatially Fair MAC Protocol for Underwater Sensor Networks
+Fei Dou, Zhigang Jin, Yishan Su, Jian Liu
+CECNet 2012, [paper]
+A weight-based spatially fair MAC protocol is proposed to address the problem of spatial unfairness in UWSNs.
+
+Publications
+Publications & Patents
+Yishan Su, Pan Pan, Rong Fan, Sidan Yang, Fei Dou, “A Secure Communication Scheme Based on Spatio-temporal Dynamics of Underwater Acoustic Channel.”, IEEE International Conference on Communications (ICC 2024),(IEEE ComSoc's flagship conference)
+Rong Fan, Pan Pan, Zhigang Jin, Yishan Su, Fei Dou, “A Secure Localization Scheme for Underwater Wireless Sensor Networks Based on AUV Formation Cooperative Beamforming.”, IEEE International Conference on Communications (ICC 2024),(IEEE ComSoc's flagship conference)
+Ziba Parsons, Fei Dou, Houyi Du, Zheng Song, Jin Lu, “Mobilizing Personalized Federated Learning via Random Walk Stochastic ADMM.”, NeurIPS 2023, Preprint Version Available Online, (Acceptance Rate: 26.1%)
+Tan Zhu, Fei Dou, Xinyu Wang, Jin Lu, Jinbo Bi, “Polyhedron Attention Module: Learning Adaptive-order Interactions.”, NeurIPS 2023, (Acceptance Rate: 26.1%)
+Qinqing Liu, Fei Dou, Meijian Yang, Ezana Amdework, Guiling Wang, Jinbo Bi, “Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction.”, IJCAI 2023, (Acceptance Rate: 20%)
+Fei Dou, Jin Lu, Tan Zhu, Jinbo Bi, “On-Device Indoor Positioning: A Federated Reinforcement Learning Approach with Heterogeneous Devices.”, IEEE Internet of Things Journal (IOT-J) 2023 (Impact Factor: 10.6)
+Fei Dou, Jin Lu, Tingyang Xu, Chun-Hsi Huang, and Jinbo Bi, “A Bisection Reinforcement Learning Approach to 3-D Indoor Localization.”, IEEE Internet of Things Journal (IOT-J) 8, no. 8 (2021): 6519-6535. (Impact Factor: 10.6)
+Fei Dou, Jin Lu, Zigeng Wang, Xia Xiao, Jinbo Bi, Chun-Hsi Huang, “Top-Down Indoor Localization with Wi-Fi Fingerprints using Deep Q-Network.”, In 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), pp. 166-174. IEEE, 2018. (Acceptance Rate: 28%)
+Jin Lu, Fei Dou, Chun-Hsi Huang, “Bi-Subspace Saliency Detection.”, In 2017 IEEE 7th Annual Computing and Communication Workshop and Conference (CCWC), pp. 1-7. IEEE, 2017.
+Fei Dou, Zheng Peng, “On-demand Pipelined MAC for Multi-hop Underwater Wireless Sensor Networks.”, In Proceedings of the 10th International Conference on Underwater Networks & Systems (WuWNet), pp. 1-5. 2015.
+Martin, Robert, Yibo Zhu, Lina Pu, Fei Dou, Zheng Peng, Jun-Hong Cui, and Sanguthevar Rajasekaran, “Aqua-Sim Next Generation: A NS-3 based Simulator for Underwater Sensor Networks.” In Proceedings of the 10th International Conference on Underwater Networks & Systems (WuWNet), pp. 1-2. 2015.
+Yishan Su, Zhigang Jin, Fei Dou, “The Multi-channel MAC Protocol for High Performance Underwater Sensor Networks.”, Journal of Harbin Engineering University. 36, no. 7 (2015): 987-991.
+Yishan Su, Zhigang Jin, Zixin Liu, Fei Dou*, “Motion Prediction Based MAC for Underwater Wireless Sensor Networks.”, Journal of Electronics & Information Technology. 35, no. 3 (2013): 728-734.
+Fei Dou, Zhigang Jin, Yao Zhang, Yishan Su, “A High Performance Multi-Channel MAC Protocol for Underwater Wireless Sensor Networks.”, In Proceedings of the 7th China Conference on Wireless Sensor Network (CWSN), pp. 1-11, 2013.
+Fei Dou, Zhigang Jin, Yishan Su, Jian Liu, “WSF-MAC: A Weight-based Spatially Fair MAC Protocol for Underwater Sensor Networks.”, In 2012 2nd International Conference on Consumer Electronics, Communications and Networks (CECNet), pp. 3708-3711. IEEE, 2012.
+Zhigang Jin, Zixin Liu, Fei Dou, “Nodes Distribution Method Aiming at Improving the Fairness for Underwater Acoustic 3D Sensor Networks”, Patent, CN103095382B.
+Zhigang Jin, Fei Dou, Yishan Su, “Spatially Fair Media Access Control Method for Underwater Sensor Networks”, Patent, CN102612091B.
+Working Papers
+Fei Dou, Cameron Cianci, Jinbo Bi, “Latent Orthonormal Contrastive Learning in Disaster Damage Assessment Using Paired Remote Sensing Imagery.”, (Under Review)
+Sahibzada Umair, Fei Dou, Tughrul Arslan, “A Smart Narrow Down Approach based on Machine Learning for Indoor localization.”, (Under Review by IEEE Internet of Things Journal (IOT-J), Impact Factor: 10.6)
+Tan Zhu, Fei Dou, Chloe Becquey, Jinbo Bi, “Identifying Interactions among Categorical Predictors with Monte-Carlo Tree Search.”, (In Preparation, Preprint Version Available Online)
+Mainak Mondal, Fei Dou, Jinbo Bi, Song Han, “A Deep Reinforcement Learning-based Path Planning for Wireless Rechargeable Sensor Network with Mobile Charger.”, (In Preparation)
+Jin Lu, Xia Xiao, Fei Dou, Jinbo Bi, “Approximation and Statistical Learning via Kolmogorov Coupled Nets.”, (In Preparation)
+Teaching
+Teaching Assistant and Lab Instructor
+CSE 1010 Introduction to Programming, at UCONN, 4 semesters
+CSE 4300 Operating Systems, at UCONN, 2 semesters
+
+In recognition of her ability to motivate and effectively teach students, Fei was among the only few students who received the "Provost Recognition of Teaching Excellence" award from UCONN in 2017.
+
+Guest Lectures and Tutorials
+Lectures at University of Michigan-Dearborn CIS 579 Artificial Intelligence: Reinforcement Learning and its Applications, 2022
+
+Giving lectures on basics of Markov Decision Process and Reinforcement Learning, including Bellman Equation, Value Iteration, Policy Iteration, Sampling Policy, Exploitation and Exploration, Model-based Learning, Model-free Approach, Monte Carlo Method, Temporal Difference, off-policy Q-Learning, on-policy SARSA, etc. Giving talks on Applications of Reinforcement Learning in real-world scenarios.
+
+Selected Invited Talks
+University of Michigan-Dearborn, Invited Talk, ”Special Topic on Reinforcement Learning and its Applications”, Dearborn, Michigan, 2022
+IEEE International Conference on Mobile Ad Hoc and Sensor Systems (MASS), ”Hierarchical Indoor Localization Using Deep Q-Network”, Chengdu, China, 2018
+Seventh China Conference on Wireless Sensor Network (CWSN), ”Multi-Channel MAC Protocol for Underwater Wireless Sensor Networks”, Qingdao, China, 2013
+Qinghai Normal University, Invited Talk, ”Spatial Fairness in MAC Protocol for Underwater Sensor Network”, Xining, China, 2012
+Second International Conference on Consumer Electronic, Communications and Networks, ”A Weight-based Spatially Fair MAC Protocol for Underwater Sensor Network”, Three Gorges, China, 2012
+CV & Bio
+
+Download my CV here.
+
+Fei Dou's research interests lie in analyzing and resolving challenges associated with Machine Intelligence of Ubiquitous Computing in Distributed Systems, including:
+
+inefficiency and low scalability of trained models, especially when the solution space is large;
+security and privacy concerns of user data;
+data heterogeneity across devices and imbalanced data distribution on individual devices;
+communication bottlenecks and high computational costs in distributed systems.
+
+The goal is to foster interdisciplinary research and offer opportunities for introducing transformative technologies to enable new real-life products and services.
+© Fei Dou. All rights reserved.Design: HTML5 UP
+

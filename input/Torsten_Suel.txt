@@ -1,0 +1,176 @@
+Professor: Torsten Suel
+University: New York University
+URL: http://engineering.nyu.edu/~suel
+Description: Torsten Suel
+Professor
+Computer Science & Engineering
+Tandon School of Engineering
+New York University
+
+I am a faculty member in the Department of Computer Science and Engineering at the Tandon School of Engineering of New York University. I received a Diplom degree from the Technical University of Braunschweig in Germany, and an MS and Ph.D. from the University of Texas at Austin. Before joining the faculty in the Fall of 1998, I held postdoctoral positions at the NEC Research Institute and Bell Labs. I was on leave during 2008, working at Yahoo! Research in Santa Clara, CA.
+
+Current Research Opportunities: I may have an open positions for Ph.D. student in my group for Fall 2025. Applicants should have very strong academic backgrounds, significant research experience, and a passion for pursuing research in information retrieval and closely related areas. I am also looking for strong undergraduate and MS students who are interested in pursuing research -- but note these opportunities are limited to current students at NYU. If interested, contact me -- after reading this.
+
+	
+
+COURSE OFFERINGS:
+CS6083 - Principles of Database Systems   syllabus   (offered in Spring 2024)
+CS6913 - Web Search Engines   syllabus   (next offered in Fall 2024)
+
+RESEARCH:
+
+My research interests are in web search and information retrieval, databases, data compression, and distributed computing. I spend most of my efforts working with the graduate and undergraduate students in my research group, where we explore new techniques and architectures for web search and related problems. In addition, I occasionally do some work in the other areas above, including work on data compression, spatial databases, sequential algorithms, and effcient communication and computation in computer networks.
+
+My main research area is search engine architecture, and particularly how to improve the efficiency of query processing in large engines that have to process billions of queries per day over trillions of documents. This work was recently funded by the National Science Foundation under grants "III-1117829: Efficient Query Processing in Large Search Engines" (project page) and "III-1718680: Index Sharding and Query Routing in Distributed Search Engines" (project page). My current work mostly focuses on the impact of transformers and LLMs on future search architectures.
+
+Student Research Opportunities: I usually have a few research topics available for highly motivated students who want to do research under my supervision, e.g., as part of a senior project or MS thesis. But please read this first before contacting me about research opportunities.
+
+	
+
+TEACHING:
+
+I usually teach CS6083 (Database Systems) and CS6913 (Web Search Engines). Other courses I have taught over the years are Advanced Database Systems, and basic and advanced courses in Operating Systems and in Algorithms.	
+
+CURRENT PHD STUDENTS:
+Jinrui Gou
+	
+PHD GRADUATES:
+Josh Attenberg: "Novel Techniques for Improving Classification Systems by Incorporating Experts", 2013. (Employment: Resonance Companies)
+Yen-Yu Chen: "Geographic Search Engines", 2006. (Employment: Blippar)
+Maria Christoforaki: "Places, Networks, and Crowds: Scalable Data Management and Analysis for Emerging Online Applications", 2015. (Employment: Yelp)
+Konstantinos Dimopoulos: "Efficient Algorithms for Search Engine Query Processing", 2016. (Employment: Audible)
+Shuai Ding: "Index Compression and Efficient Query Processing in Large Web Search Engines", 2013. (Employment: Facebook)
+Qingqing Gan: "Mining the Web to Improve Search Engine Performance", 2008. (Employment: Microsoft)
+Shoshana (Bluma) Gelley: "User Interaction with Community Processes in Online Communities", 2015. (Employment: American Express)
+Jinru He: "Indexing and Querying over Versioned Text", 2013. (Employment: SHAREit Technology)
+Utku Irmak: "Algorithms for Information Extraction and Dissemination on the World-Wide Web", 2006. (Employment: Tibi Health)
+Xiaohui Long: "Efficient Query Processing in Large Web Search Engines", 2006. (Employment: Microsoft)
+Xiang Liu: "Query-Rate Aware Incremental Index Update", 2017. Supervised jointly with Nasir Memon. (Employment: Spotify)
+Antonio Mallia: "Efficient Disjunctive Query Processing for Large Scale Search Architectures", 2022. (Employment: Pinecone)
+Sergey Nepomnyachiy: "Query-Rate Aware Incremental Index Update", 2017. (Employment: Bloomberg)
+Juan Rodriguez: "Optimizing Search Engine Efficiency with Static Index Pruning and Tiering", 2021. (Employment: IBM)
+Michal Siedlaczek: "Efficiency and Scalability of Large Search Architectures", 2021. (Employment: IBM)
+Hao Yan: "Index Compression and Redundancy Elimination in Large Textual Collections", 2010. (Employment: Uber)
+Jiang Yu: "Topics in Interactive Search With Large Language Models", 2024. (Employment: EBay)
+Qi Wang: "Optimizing Search Indexes Using Query Distributions", 2019. (Employment: Amazon)
+Jiangong Zhang: "Indexing and Query Processing in Distributed Search Engines", 2008. (Employment: JD.com)
+	
+
+RECENT PAPERS: (see here for a complete list of paper.
+
+DeeperImpact: Optimizing Sparse Learned Index Structures. S. Basnet, J. Gou, A. Mallia, and T. Suel. May 2024. arXiv
+
+Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits. H. Diwan, J. Gou, C. Musco, C. Musco, and T. Suel. May 2024. arXiv
+
+Faster Learned Sparse Retrieval with Block-Max Pruning. A. Mallia, T. Suel, and N. Tonellotto. 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, July 2024. PDF
+
+Faster Learned Sparse Retrieval with Guided Traversal. A. Mallia, J. Mackenzie, T. Suel, and N. Tonellotto. 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, July 2022. PDF
+
+Using Conjunctions for Faster Disjunctive Top-k Queries. M. Siedlaczek, A. Mallia, and T. Suel. 15th ACM International Conference on Web Search and Data Mining, March 2022. PDF
+
+Optimizing Iterative Algorithms for Social Network Sharding. Z. Deng and T. Suel. IEEE International Conference on Big Data, December 2021. PDF
+
+Report on the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. C. Shah, T. Suel, F. Diaz et al. SIGIR Record, December 2021. PDF
+
+Learning Passage Impacts for Inverted Indexes. A. Mallia, O. Khattab, T. Suel, and N. Tonellotto. 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, July 2021. PDF
+
+Fast Disjunctive Candidate Generation Using Live Block Filtering. A. Mallia, M. Siedlaczek, and T. Suel. 14th ACM International Conference on Web Search and Data Mining, March 2021. PDF
+
+Feature Extraction for Large-Scale Text Collections. L. Gallagher, A. Mallia, S. Culpepper, T. Suel, and B. Cambazoglu. 29th International Conference on Information and Knowledge Engineering, November 2020. PDF
+
+A Comparison of Top-k Threshold Estimation Techniques for Disjunctive Query Processing. S. Siedlaczek, A. Mallia, T. Suel, and M. Sun. 29th International Conference on Information and Knowledge Engineering, November 2020. PDF
+
+To index or not to index: Time-space trade-offs for positional ranking functions in search engines. Diego Arroyuelo, Senén González, Mauricio Marin, Mauricio Oyarzún, Torsten Suel, and Luis Valenzuela. Information Systems, Vol. 89, March 2020. link
+
+Forward Index Compression for Instance Retrieval in an Augmented Reality Application. Qi Wang, Michał Siedlaczek, Yen-Yu Chen, Michael Gormish, and Torsten Suel. IEEE International Conference on Big Data, December 2019. PDF
+
+GPU-Accelerated Decoding of Integer Lists. Antonio Mallia, Michał Siedlaczek, Torsten Suel, and Mohamed Zahran. 28th International Conference on Information and Knowledge Engineering, November 2019. PDF
+
+Document Reordering for Faster Intersection. Q. Wang and T. Suel. 45th International Conference on Very Large Data Bases, August 2019. PDF
+
+PISA: Performant Indexes and Search for Academia. Antonio Mallia, Michał Siedlaczek, Joel Mackenzie, and Torsten Suel. Proceedings of the Open-Source IR Replicability Challenge (OSIRRC 2019), July 2019. PDF
+
+Exploiting Global Impact Ordering for Higher Throughput in Selective Search. S. Siedlaczek, J. Rodriguez, and T. Suel. European Conference on Information Retrieval, April 2019. PDF
+
+Compressing Inverted Indexes with Recursive Graph Bisection: A Reproducibility Study. J. MacKenzie, A. Mallia, M. Petri, S. Culpepper, and T. Suel. European Conference on Information Retrieval (Reproducibility Track), April 2019. PDF
+
+An Experimental Study of Index Compression and DAAT Query Processing Methods. A. Mallia, S. Siedlaczek, and T. Suel. European Conference on Information Retrieval (Reproducibility Track), April 2019. PDF
+
+Exploring Size-Speed Trade-Offs in Static Index Pruning. J. Rodriguez and T. Suel. IEEE International Conference on Big Data, December 2018. PDF Slides
+
+Fast Bag-Of-Words Candidate Selection in Content-Based Instance Retrieval Systems. M. Siedlaczek, Q. Wang, Y. Chen, and T. Suel. IEEE International Conference on Big Data, December 2018. PDF Talk
+
+Delta Compression Techniques. T. Suel. In Encyclopedia of Big Data Technologies, Springer, 2018. PDF
+
+Improved Methods for Static Index Pruning. W. Jiang, J. Rodriguez, and T. Suel. IEEE International Conference on Big Data, December 2016. PDF
+
+Efficient Index Updates for Mixed Update and Query Loads. S. Nepomnyachiy and T. Suel. IEEE International Conference on Big Data, December 2016. PDF
+
+Three-Hop Distance Estimation in Social Graphs. P. Welke, A. Markowetz, T. Suel and M. Christoforaki. IEEE International Conference on Big Data, December 2016. PDF
+
+What Makes A Group Fail: Modeling Social Group Behavior in Event-Based Social Networks. X. Liu and T. Suel. IEEE International Conference on Big Data, December 2016. PDF
+
+Fast First-Phase Candidate Generation for Cascading Rankers. Q. Wang, C. Dimopoulos, and T. Suel. 39th Annual ACM SIGIR Conference, July 2016. PDF
+
+Structural Sentence Similarity Estimation for Short Texts. W. Ma and T. Suel. 29th International FLAIRS Conference, May 2016. PDF
+
+Estimating Pairwise Distances in Large Graphs. M. Christoforaki and T. Suel. IEEE International Conference on Big Data, October 2014. PDF
+
+A Robust Model for Paper-Reviewer Assignment. X. Liu, T. Suel, and N. Memon. Proceedings of the ACM Conference on Recommender Systems (RecSys), October 2014. PDF
+
+Automated Decision Support for Human Tasks in a Collaborative System: The Case of Deletion in Wikipedia. B. Gelley and T. Suel. Proceedings of WikiSym, August 2013. PDF
+
+A Candidate Filtering Mechanism for Fast Top-K Query Processing on Modern CPUs. C. Dimopoulos, S. Nepomnyachiy, and T. Suel. 36th Annual ACM SIGIR Conference, July 2013. PDF
+
+Optimizing Top-k Document Retrieval Strategies for Block-Max Indexes. C. Dimopoulos, S. Nepomnyachiy, and T. Suel. 6th ACM Conference on Web Search and Data Mining, February 2013. PDF
+
+Optimizing Positional Index Structures for Versioned Document Collections. J. He and T. Suel. 35th Annual ACM SIGIR Conference, July 2012. PDF
+
+To Index or not to Index: Time-Space Trade-Offs in Search Engines with Positional Ranking Functions. D. Arroyuelo, S. Gonzalez, M. Marin, M. Oyarzun, and T. Suel. 35th Annual ACM SIGIR Conference, July 2012. PDF
+
+Text vs. Space: Efficient Geo-Search Query Processing. M. Christoforaki, J. He, C. Dimopoulos, A. Markowetz, and T. Suel. 20th ACM Conference on Information and Knowledge Management, October 2011. PDF
+
+Scalable Manipulation of Archival Web Graphs. Y. Avcular and T. Suel. Workshop on Large-Scale and Distributed Systems for Information Retrieval. October 2011. PDF
+
+Faster Temporal Range Queries over Versioned Text. J. He and T. Suel. 34th Annual ACM SIGIR Conference, July 2011. PDF
+
+Faster Top-k Document Retrieval Using Block-Max Indexes. S. Ding and T. Suel. 34th Annual ACM SIGIR Conference, July 2011. PDF
+
+Batch Query Processing for Web Search Engines. S. Ding, J. Attenberg, R. Baeza-Yates, and T. Suel. 4th ACM Conference on Web Search and Data Mining, February 2011. PDF
+
+Improved Index Compression Techniques for Versioned Document Collections. With J. He and J. Zeng. 19th ACM Conference on Information and Knowledge Management, October 2010. PDF
+
+Efficient Term Proximity Search with Term-Pair Indexes. With H. Yan, S. Shi, F. Zhang, and J. Wen. 19th ACM Conference on Information and Knowledge Management, October 2010. PDF
+
+Scalable Techniques for Document Identifier Assignment in Inverted Indexes. With S. Ding and J. Attenberg. 19th International World Wide Web Conference (WWW), April 2010. PDF
+
+Compact Full-Text Indexing of Versioned Document Collections. With J. He and H. Yan. 18th ACM Conference on Information and Knowledge Management, November 2009. PDF
+
+Modeling and Predicting User Behavior in Sponsored Search. With J. Attenberg and S. Pandey. 15th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), June 2009. PDF
+
+Compressing Term Positions in Web Indexes. With H. Yan and S. Ding. 32nd Annual ACM SIGIR Conference, June 2009. PDF
+
+Using Graphics Processors for High-Performance IR Query Processing. With S. Ding, J. He, and H. Yan. 18th International World Wide Web Conference (WWW), April 2009. PDF [An earlier shorter version appeared as a poster at the 17th WWW, April 2008]
+
+Inverted Index Compression and Query Processing with Optimized Document Ordering. With H. Yan and S. Ding. 18th International World Wide Web Conference (WWW), April 2009. PDF
+
+Improved Techniques for Result Caching in Web Search Engines. With Q. Gan. 18th International World Wide Web Conference (WWW), April 2009. PDF
+
+Top-k Aggregation Using Intersection of Ranked Inputs. with R. Kumar, K. Punera, and S. Vassilvitskii. Second ACM International Conference on Web Search and Data Mining (WSDM), February 2009. PDF
+	
+
+CONTACT INFORMATION:
+
+	
+Office:	Room 858, 370 Jay Street
+
+Email:	torsten.suel (at) nyu.edu
+
+		
+US Mail:	CSE Department
+Tandon School of Engineering
+New York University
+370 Jay Street
+Brooklyn, NY 11201
+	
+

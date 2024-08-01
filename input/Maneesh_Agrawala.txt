@@ -1,0 +1,968 @@
+Professor: Maneesh Agrawala
+University: Stanford University
+URL: http://graphics.stanford.edu/~maneesh
+Description: Maneesh Agrawala
+Stanford University
+Computer Science Department
+Brown Institute for Media Innovation
+Graphics | HCI | Visualization
+Contact Information
+Gates Computer Science, Room 364
+Stanford, CA 94305-1248
+Tel: (650) 723-2642
+
+Admin: Andrea Brand-Sanchez
+Tel: (650) 723-1430
+
+Office Hours: Fri 9:30-10:30am (Gates 364)
+
+      
+Teaching
+Fall 2023
+	
+CS 448B: Visualization
+
+
+
+Win 2024
+	
+CS 206: Comp. Journalism
+
+
+
+Spr 2024
+	
+CS 347: HCI Foundations & Frontiers
+
+
+Talks & Travel
+Jul 1-4	2024	SPCOM, IISc. Bangalore, IN
+Jul 28-Aug 1	2024	SIGGRAPH, Denver, CO
+Students, Postdocs & Visitors
+Jean-Peïc Chou, Jiaju Ma, Anyi Rao, Jacob Ritchie, Lvmin Zhang, Sharon Zhang
+Alumni
+Sean Arietta, Adrien Bousseau, Robert Carroll, Lydia Chilton, Will Crichton, Ross Daly, Abe Davis, Ohad Fried, Shiry Ginosar, Ahna Girshick, Madeleine Grunde-McLaughlin, Alex Hall, Jonathan Harper, Jeffrey Heer, Robert Held, Enamul Hoque, Jessica Hullman, Terrell Ibanez, David Jacobs, Jennifer Jacobs, Olga Karpenko, Dae Hyun Kim, Jeongyeon Kim, Juho Kim, Kenrick Kin, Nicholas Kong, Mackenzie Leake, Janel Lee, Jingyi Li, Sean Liu, Anelise Newman, James O'Shea, Amy Pavel, Colorado Reed, Steve Rubin, Jason Sanders, Mira Shalah, Evan Strasnick, Anh Truong, Wesley Willett, Sofia Wyetzner, JiaXian Yao
+In Memoriam
+Floraine Berthouzoz
+Maneesh Agrawala is the Forest Baskett Professor of Computer Science and Director of the Brown Institute for Media Innovation at Stanford University. He works on computer graphics, human computer interaction and visualization. His focus is on investigating how cognitive design principles can be used to improve the effectiveness of audio/visual media. The goals of this work are to discover the design principles and then instantiate them in both interactive and automated design tools. Honors include an Okawa Foundation Research Grant (2006), an Alfred P. Sloan Foundation Fellowship (2007), an NSF CAREER Award (2007), a SIGGRAPH Significant New Researcher Award (2008), a MacArthur Foundation Fellowship (2009), an Allen Distinguished Investigator Award (2014) and induction into the SIGCHI Academy (2021). He was named an ACM Fellow in 2022.
+Announcements
+Jun 21, 2024   
+	
+Layer Diffuse source code released. Jointly generate transparent foreground images with corresponding backgrounds.
+
+
+Feb 18, 2024   
+	
+Use AnimateDiff for text-to-video generation. Code available.
+
+
+Sep 9, 2023   
+	
+ControlNet is out. Adds spatially localized control to Stable Diffusion. Version 1.0, Version 1.1, A1111 WebUI plugin.
+
+
+Aug 28, 2023   
+	
+Released EmphasisChecker. Check if your charts and captions emphasize the same things.
+
+
+Mar 29, 2023   
+	
+Substack post on generative AI. Unpredictable Black Boxes are Terrible Interfaces.
+
+
+Aug 18, 2021   
+	
+Released Flipper with source code. Quilt design tool based on our foundation paper piecing project.
+
+
+Aug 17, 2020   
+	
+Stanford Cable TV News Analyzer released. Examine who and what appears in the last decade of CNN, FOX News and MSNBC.
+
+
+Jan 28, 2020   
+	
+Data and code for visual question answering with explanations for charts and graphs.
+
+
+Dec 13, 2018   
+	
+Source code for dancifying video released, based on our Visual Rhythm and Beat project.
+Publications
+Transparent Image Layer Diffusion using Latent Transparency
+Lvmin Zhang and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 43(4), July 2024. pp. 100:1-100:15.
+PDF | arXiv | Source Code | BibTeX
+
+A Unified Differentiable Boolean Operator With Fuzzy Logic
+Hsueh-Ti Derek Liu, Maneesh Agrawala, Cem Yuksel, Tim Omernick, Vinith Misra, Stefano Corazza, Morgan McGuire and Victor Zordan
+ACM SIGGRAPH, July 2024. pp. 109:1-109:9.
+PDF | Source Code | BibTeX
+
+STIVi: Turning Perspective Sketching Videos into Interactive Tutorials
+Capucine Nghiem, Adrien Bousseau, Mark Sypesteyn, Jan Willem Hoftijzer, Maneesh Agrawala and Theophanis Tsandilas
+Graphics Interface, 2024.
+PDF | BibTeX
+
+Bridging the Gulf of Envisioning: Cognitive Design Challenges in LLM Interfaces
+Hariharan Subramonyam, Roy Pea, Christopher Pondoc, Maneesh Agrawala and Colleen Seifert
+ACM Human Factors in Computing Systems (CHI), 2024. pp. 1039:1-1039:19.
+PDF | BibTeX
+
+AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
+Yuwei Guo, Ceyuan Yang, Anyi Rao, Zhengyang Liang, Yaohui Wang, Yu Qiao, Maneesh Agrawala, Dahua Lin and Bo Dai
+International Conference on Learning Representations (ICLR), May 2024.
+PDF | Code | BibTeX
+Spotlight Paper
+EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis
+Dae Hyun Kim, Seulgi Choi, Juho Kim, Vidya Setlur and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 30(1), Jan 2024. pp. 120-130.
+PDF | MP4 (Usage Scenario) | ZIP (Supplemental) | Code | BibTeX
+
+Editing Motion Graphics Video via Motion Vectorization and Transformation
+Sharon Zhang, Jiaju Ma, Jiajun Wu, Daniel Ritchie and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH Asia), 42(6), Dec 2023. pp. 229:1-229:13.
+PDF | YouTube | Supplemental PDF | BibTeX
+
+Adding Conditional Control to Text-to-Image Diffusion Models
+Lvmin Zhang, Anyi Rao and Maneesh Agrawala
+Proc. of IEEE/CVF Int. Conf. on Computer Vision (ICCV), Oct 2023. pp. 3836-3847.
+PDF | arXiv | Supplemental PDF | Code V1 | Code V1.1 | A1111 WebUI plugin | BibTeX
+Marr Prize (Best Paper Award)
+TaleStream: Supporting Story Ideation with Trope Knowledge
+Jean-Peïc Chou, Alexa Siu, Nedim Lipka, Ryan Rossi, Franck Dernoncourt and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2023. pp. 52:1-52:12.
+PDF | YouTube | BibTeX
+
+Automated Conversion of Music Videos into Lyric Videos
+Jiaju Ma, Anyi Rao, Li-Yi Wei, Rubaiat Habib Kazi, Hijung Valentina Shin and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2023. pp. 13:1-13:11.
+PDF | Vimeo | Supplemental Website | BibTeX
+
+Tree-Structured Shading Decomposition
+Chen Geng, Hong-Xing Yu, Sharon Zhang, Maneesh Agrawala and Jiajun Wu
+Proc. of IEEE/CVF Int. Conf. on Computer Vision (ICCV), Oct 2023. pp. 488-498.
+PDF | YouTube | BibTeX
+
+SlideSpecs: Automatic and Interactive Presentation Feedback Collation
+Jeremy Warner, Amy Pavel, Tonya Nguyen, Maneesh Agrawala and Björn Hartmann
+Intelligent User Interfaces (IUI), Mar 2023. pp. 695-709.
+PDF | YouTube | Demo | Code | BibTeX
+
+Sketch-Based Design of Foundation Paper Pieceable Quilts
+Mackenzie Leake, Gilbert Bernstein and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2022. pp. 21:1-21:11.
+PDF | MP4 | YouTube | Supplemental Results | BibTeX
+
+Measuring Compositional Consistency for Video Question Answering
+Mona Gandhi, Mustafa Omer Gul, Eva Prakash, Madeleine Grunde-McLaughlin, Ranjay Krishna and Maneesh Agrawala
+Computer Vision and Pattern Recognition (CVPR), 2022. pp. 5046-5055.
+PDF | Dataset | BibTeX
+
+Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images
+Ayush Tewari, Mallikarjun B R, Xingang Pan, Ohad Fried, Maneesh Agrawala and Christian Theobalt
+Computer Vision and Pattern Recognition (CVPR), 2022. pp. 1516-1525.
+PDF | Supplemental PDF | MP4 | BibTeX
+
+Modular Information Flow Through Ownership
+Will Crichton, Marco Patrignani, Maneesh Agrawala and Pat Hanrahan
+ACM Conference on Programming Language Design and Implementation (PLDI), 2022. pp. 1-14.
+PDF | BibTeX
+
+Differentiable 3D CAD Programs for Bidirectional Editing
+Dan Cascaval, Mira Shalah, Phillip Quinn, Rastislav Bodik, Maneesh Agrawala and Adriana Schulz
+Computer Graphics Forum (Eurographics), 41(2), 2022. pp. 309-323.
+PDF | arXiv | BibTeX
+
+ZoomShop: Depth-Aware Editing of Photographic Composition
+Sean J. Liu, Maneesh Agrawala, Stephen DiVerdi and Aaron Hertzmann
+Computer Graphics Forum (Eurographics), 41(2), 2022. pp. 57-70.
+PDF | Supplemental PDF | Supplemental Results ZIP | BibTeX
+
+Automated Accessory Rigs for Layered 2D Character Illustrations
+Jingyi Li, Wilmot Li, Sean Follmer and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2021. pp. 1100-1108.
+PDF | MP4 | Supplemental Results | BibTeX
+
+A Mathematical Foundation for Foundation Paper Pieceable Quilts
+Mackenzie Leake, Gilbert Bernstein, Abe Davis and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 40(4), August 2021. pp. 65:1-65:14.
+PDF | YouTube | MP4 | More Designs | Flipper (Web App) | Code | BibTeX
+
+Iterative Text-based Editing of Talking-heads Using Neural Retargeting
+Xinwei Yao, Ohad Fried, Kayvon Fatahalian and Maneesh Agrawala
+ACM Transactions on Graphics, 40(3), August 2021. pp. 20:1-20:14.
+PDF | YouTube | Supplemental Videos | BibTeX
+
+Vid2Player: Controllable Video Sprites that Behave and Appear Like Professional Tennis Players
+Haotian Zhang, Cristóbal Sciutto, Maneesh Agrawala and Kayvon Fatahalian
+ACM Transactions on Graphics, 40(3), August 2021. pp. 24:1-24:16.
+PDF | YouTube | Supplemental Material | BibTeX
+
+Analysis of Faces in a Decade of US Cable TV News
+James Hong, Will Crichton, Haotian Zhang, James Hong, Daniel Y. Fu, Jacob Ritchie, Jeremy Barenholtz, Ben Hannel, Xinwei Yao, Michaela Murray, Geraldine Moriba, Maneesh Agrawala and Kayvon Fatahalian
+ACM Conference on Knowledge Discovery & Data Mining (SIGKDD), Aug 2021. pp. 3011-3021.
+PDF | arXiv version (w/ more analysis) | Stanford Cable TV News Analyzer | BibTeX
+
+Evaluating Facial Recognition Technology: A Protocol for Performance Assessment in New Domains
+Daniel E. Ho, Emily Black, Maneesh Agrawala and Li Fei-Fei
+Denver Law Review, Aug 2021. pp. 753-773.
+PDF | HAI White Paper (PDF) | BibTeX
+
+AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning
+Madeleine Grunde-McLaughlin, Ranjay Krishna and Maneesh Agrawala
+Computer Vision and Pattern Recognition (CVPR), 2021. pp. 11287-11297.
+PDF | Dataset and Code | BibTeX
+
+Towards Understanding How Readers Integrate Charts and Captions: A Case Study with Line Charts
+Dae Hyun Kim, Vidya Setlur and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), 2021. pp. 610:1-610:11.
+PDF | Supplemental Material | BibTeX
+
+Automatic Generation of Two-Level Hierarchical Tutorials from Instructional Makeup Videos
+Anh Truong, Peggy Chi, David Salesin, Irfan Essa and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), 2021. pp. 108:1-108:16.
+PDF | YouTube | MP4 | BibTeX
+
+The Role of Working Memory in Program Tracing
+Will Crichton, Maneesh Agrawala and Pat Hanrahan
+ACM Human Factors in Computing Systems (CHI), 2021. pp. 56:1-56:13.
+PDF | BibTeX
+
+Coupling Simulation and Hardware for Interactive CircuitDebugging
+Evan Strasnick, Maneesh Agrawala and Sean Follmer
+ACM Human Factors in Computing Systems (CHI), 2021. pp. 667:1-667:15.
+PDF | BibTeX
+Best Paper Award
+Crosscast: Adding Visuals to Audio Travel Podcasts
+Haijun Xia, Jennifer Jacobs and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2020. pp. 736-746.
+PDF | YouTube | Example Videos | BibTeX
+
+Analyzing Who and What Appears in a Decade of US Cable TV News
+James Hong, Will Crichton, Haotian Zhang, James Hong, Daniel Y. Fu, Jacob Ritchie, Jeremy Barenholtz, Ben Hannel, Xinwei Yao, Michaela Murray, Geraldine Moriba, Maneesh Agrawala and Kayvon Fatahalian
+arXiv, Aug 2020. pp. 1-29.
+PDF | arXiv | Stanford Cable TV News Analyzer Website | BibTeX
+
+Detecting Deep-Fake Videos from Phoneme-Viseme Mismatches
+Shruti Agarwal, Hany Farid, Ohad Fried and Maneesh Agrawala
+CVPR Workshop on Media Forensics, Jun 2020. pp. 1-9.
+PDF | BibTeX
+
+State of the Art on Neural Rendering
+Ayush Tewari, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman and Michael Zollhöfer
+Computer Graphics Forum (Eurographics STAR Report), May 2020. pp. 1-27.
+PDF | BibTeX
+
+Answering Questions about Charts and Generating Visual Explanations
+Dae Hyun Kim, Enamul Hoque and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2020. pp. 1-13.
+PDF | Supplemental PDF | Code and Data | BibTeX
+
+Generating Audio-Visual Slideshows from Text Articles Using Word Concreteness
+Mackenzie Leake, Hijung Valentina Shin, Joy Kim and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2020. pp. 1-11.
+PDF | YouTube | Supplemental Videos | BibTeX
+
+Supporting Visual Artists in Programming through Direct Inspection and Control of Program Execution
+Jingyi Li, Joel Brandt, Radomir Mech, Maneesh Agrawala and Jennifer Jacobs
+ACM Human Factors in Computing Systems (CHI), Apr 2020. pp. 1-12.
+PDF | Vimeo | BibTeX
+
+Editing Self-Image
+Ohad Fried, Jennifer Jacobs, Adam Finkelstein and Maneesh Agrawala
+Communications of the ACM (CACM), 63(3), Mar 2020. pp. 70-79.
+PDF | BibTeX
+
+Searching the Visual Style and Structure of D3 Visualizations
+Enamul Hoque and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 26(1), Jan 2020. pp. 1236-1245.
+PDF | MP4 | Demo | BibTeX
+
+Optimizing Portrait Lighting at Capture-Time Using a 360 Camera as a Light Probe
+Jane E, Ohad Fried and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2019. pp. 221-232.
+PDF | Hi-Res PDF | YouTube | Supplemental PDF | Interactive Demo | User Study Results | Supplemental ZIP | BibTeX
+
+View-Dependent Video Textures for 360° Video
+Sean J. Liu, Maneesh Agrawala, Stephen DiVerdi and Aaron Hertzmann
+User Interface Software and Technology (UIST), Oct 2019. pp. 249-262.
+PDF | Hi-Res PDF | Supplemental Results ZIP | Gate Examples Metadata | Source Code | BibTeX
+
+Rekall: Specifying Video Events using Compositions of Spatiotemporal Labels
+Daniel Y. Fu, Will Crichton, James Hong, Xinwei Yao, Haotian Zhang, Anh Truong, Avanika Narayan, Maneesh Agrawala, Christopher Ré and Kayvon Fatahalian
+arXiv, Oct 2019. pp. 1-16.
+PDF(98.3MB) | arXiv | Supplemental Videos | Blog | Code | BibTeX
+
+Text-based Editing of Talking-head Video
+Ohad Fried, Ayush Tewari, Michael Zollhöfer, Adam Finkelstein, Eli Shechtman, Dan B Goldman, Kyle Genova, Zeyu Jin, Christian Theobalt and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 38(4), July 2019. pp. 68:1-68:14.
+PDF | YouTube | Supplementary Material | BibTeX
+
+Puppet Dubbing
+Ohad Fried and Maneesh Agrawala
+Proceedings of the Eurographics Symposium on Rendering, July 2019.
+PDF | YouTube | More Results | BibTeX
+
+A Tool for Navigating and Editing 360 Video of Social Conversations into Shareable Highlights
+Anh Truong and Maneesh Agrawala
+Graphics Interface, May 2019.
+PDF | BibTeX
+
+Pinpoint: A PCB Debugging Pipeline Using Interruptible Routing and Instrumentation
+Evan Strasnick, Sean Follmer and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2019. pp. 48:1-48:11.
+PDF | MP4 | BibTeX
+
+Editing Spatial Layouts Through Tactile Templates for People With Visual Impairments
+Jingyi Li, Son Kim, Joshua A. Miele, Maneesh Agrawala and Sean Follmer
+ACM Human Factors in Computing Systems (CHI), May 2019. pp. 206:1-206:11.
+PDF | YouTube | BibTeX
+
+How to Design Voice Based Navigation for How-To Videos
+Minsuk Chang, Anh Truong, Oliver Wang, Maneesh Agrawala and Juho Kim
+ACM Human Factors in Computing Systems (CHI), May 2019. pp. 701:1-701:11.
+PDF | Slides | BibTeX
+
+VisiBlends: A Flexible Workflow for Visual Blends
+Lydia Chilton, Savvas Petridis and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2019. pp. 172:1-172:14.
+PDF | BibTeX
+
+Facilitating Document Reading by Linking Text and Tables
+Dae Hyun Kim, Enamul Hoque, Juho Kim and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2018. pp. 423-434.
+PDF | MP4 | BibTeX
+
+Visual Rhythm and Beat
+Abe Davis and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 37(4), August 2018. pp. 122:1-122:11.
+PDF | YouTube | Tupac | Psy | Pink Floyd | Source Code | BibTeX
+
+Improving Comprehension of Measurements Using Concrete Re-Expression Strategies
+Jessica Hullman, Yea-Seul Kim, Francis Nguyen, Lauren Speers and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), April 2018. pp. 34:1-34:12.
+PDF | MOV | Demo | Data | BibTeX
+
+RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale
+Minsuk Chang, Lenore Guillain, Hyeungshik Jung, Vivan Hare, Juho Kim and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), April 2018. pp. 451:1-451:12.
+PDF | YouTube | Demo | Source Code | BibTeX
+
+Saliency in VR: How Do People Explore Virtual Environments?
+Vincent Sitzmann, Ana Serrano Pacheu, Amy Pavel, Maneesh Agrawala, Diego Guttierez, Belen Masia and Gordon Wetzstein
+IEEE Trans. on Visualization and Computer Graphics (IEEE VR), 24(4), Apr 2018. pp. 1633-1642.
+PDF | YouTube | Supplemental Material | BibTeX
+
+Converting Basic D3 Charts into Reusable Style Templates
+Jonathan Harper and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics, 24(3), March 2018. pp. 1274-1286.
+PDF | BibTeX
+
+Shot Orientation Controls for Interactive Cinematography with 360 Video
+Amy Pavel, Björn Hartmann and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2017. pp. 289-297.
+PDF | Hi-Res PDF | YouTube | Demo | Source Code | BibTeX
+
+Scanalog: Interactive Design and Debugging of Analog Circuits with Programmable Hardware
+Evan Strasnick, Maneesh Agrawala and Sean Follmer
+User Interface Software and Technology (UIST), Oct 2017. pp. 321-330.
+PDF | YouTube | MP4 | Source Code | BibTeX
+Best Paper Honorable Mention
+Computational Video Editing for Dialogue-Driven Scenes
+Mackenzie Leake, Abe Davis, Anh Truong and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 36(4), July 2017. pp. 130:1-130:14.
+PDF (3MB) | PDF (433MB) | MP4 | YouTube | Supplemental Material | BibTeX
+
+Interactive Design and Stability Analysis of Decorative Joinery for Furniture
+JiaXian Yao, Danny M. Kaufman, Yotam Gingold and Maneesh Agrawala
+ACM Transactions on Graphics, 36(2), March 2017. pp. 20:1-20:16.
+PDF | YouTube | MP4 | Joint Gallery | Fabricated Joints | Walkthrough | BibTeX
+
+Mosaic: Designing Online Creative Communities for Sharing Works-in-Progress
+Joy Kim, Maneesh Agrawala and Michael S. Bernstein
+Computer Supported Cooperative Work (CSCW), Feb 2017. pp. 246-258.
+PDF | BibTeX
+Best Paper Honorable Mention
+QuickCut: An Interactive Tool for Editing Narrated Video
+Anh Truong, Floraine Berthouzoz, Wilmot Li and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2016. pp. 497-507.
+PDF | YouTube | Supplemental Results | BibTeX
+
+VidCrit: Video-Based Asynchronous Video Review
+Amy Pavel, Dan B Goldman, Björn Hartmann and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2016. pp. 517-528.
+PDF | YouTube | BibTeX
+
+Generating Personalized Spatial Analogies for Distances and Areas
+Yea-Seul Kim, Jessica Hullman and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2016. pp. 38-48.
+PDF | Chrome Extension | Data Repository | BibTeX
+
+Data-Driven Adaptive History for Image Editing
+Hsiang-Ting Chen, Li-Yi Wei, Björn Hartmann and Maneesh Agrawala
+Symposium on Interactive 3D Graphics (I3D), Feb 2016. pp. 103-111.
+PDF | YouTube | BibTeX
+
+SceneSkim: Searching and Browsing Movies Using Synchronized Captions, Scripts and Plot Summaries
+Amy Pavel, Dan B Goldman, Björn Hartmann and Maneesh Agrawala
+User Interface Software and Technology (UIST), Nov 2015. pp. 181-190.
+PDF | YouTube | BibTeX
+
+Capture-Time Feedback for Recording Scripted Narration
+Steve Rubin, Floraine Berthouzoz, Gautham J. Mysore and Maneesh Agrawala
+User Interface Software and Technology (UIST), Nov 2015. pp. 191-199.
+PDF | MP4 | YouTube | Results | BibTeX
+
+Structuring, Aggregating, and Evaluating Crowdsourced Design Critique
+Kurt Luther, Jari-Lee Tolentino, Wei Wu, Amy Pavel, Brian P. Bailey, Maneesh Agrawala, Björn Hartmann and Steven P. Dow
+Computer Supported Cooperative Work (CSCW), Mar 2015. pp. 473-485.
+PDF | BibTeX
+
+City Forensics: Using Visual Elements to Predict Non-Visual City Attributes
+Sean M. Arietta, Alexei A. Efros, Ravi Ramamoorthi and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (SCIVIS), 20(12), Dec 2014. pp. 2624-2633.
+PDF | Supplemental Material | BibTeX
+Best Paper Honorable Mention
+Creating Works-Like Prototypes of Mechanical Objects
+Bongjin Koo, Wilmot Li, JiaXian Yao, Maneesh Agrawala and Niloy J. Mitra
+ACM Transactions on Graphics (SIGGRAPH Asia), 33(6), Nov 2014. pp. 217:1-217:9.
+PDF | MOV | YouTube | BibTeX
+
+Deconstructing and Restyling D3 Visualizations
+Jonathan Harper and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2014. pp. 253-262.
+PDF | MP4 | Chrome Extension | BibTeX
+
+Generating Emotionally Relevant Musical Scores for Audio Stories
+Steve Rubin and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2014. pp. 439-448.
+PDF | MP4 | YouTube | Results | BibTeX
+
+Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos
+Amy Pavel, Colorado Reed, Björn Hartmann and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2014. pp. 573-582.
+PDF | Results | BibTeX
+
+Vectorising Bitmaps into Semi-Transparent Gradient Layers
+Christian Richardt, Jorge Lopez-Moreno, Adrien Bousseau, Maneesh Agrawala and George Drettakis
+Computer Graphics Forum (EGSR), 33(4), Jul 2014. pp. 11-19.
+PDF | MP4 | Vimeo | BibTeX
+
+User-Assisted Video Stabilization
+Jiamin Bai, Aseem Agarwala, Maneesh Agrawala and Ravi Ramamoorthi
+Computer Graphics Forum (EGSR), 33(4), Jul 2014. pp. 61-70.
+PDF | MP4 | BibTeX
+
+Extracting References Between Text and Charts Via Crowdsourcing
+Nicholas Kong, Marti A. Hearst and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2014. pp. 31-40.
+PDF | MP4 | Interactive Document Viewer | BibTeX
+
+MotionMontage: A System to Annotate and Combine Motion Takes for 3D Animations
+Ankit Gupta, Maneesh Agrawala, Brian Curless and Michael F. Cohen
+ACM Human Factors in Computing Systems (CHI), Apr 2014. pp. 2017-2026.
+PDF | MP4 | YouTube | Teaser MP4 | Motion Graphs Comparison MP4 | BibTeX
+
+History Assisted View Authoring for 3D Models
+Hsiang-Ting Chen, Tovi Grossman, Li-Yi Wei, Ryan M. Schmidt, Björn Hartmann, George Fitzmaurice and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2014. pp. 2027-2036.
+PDF | MOV | BibTeX
+
+Identifying Redundancy and Exposing Provenance in Crowdsourced Data Analysis
+Wesley Willett, Shiry Ginosar, Avital Steinitz, Björn Hartmann and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (VAST), 19(12), Dec 2013. pp. 2198-2206.
+PDF | BibTeX
+
+Designing and Fabricating Mechanical Automata from Mocap Sequences
+Duygu Ceylan, Wilmot Li, Niloy J. Mitra, Maneesh Agrawala and Mark Pauly
+ACM Transactions on Graphics (SIGGRAPH Asia), 32(6), Nov 2013. pp. 186:1-186:11.
+PDF | MP4 | YouTube | BibTeX
+
+Content-Based Tools for Editing Audio Stories
+Steve Rubin, Floraine Berthouzoz, Gautham J. Mysore, Wilmot Li and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2013. pp. 113-122.
+PDF | MOV | YouTube | Results | Source Code | BibTeX
+
+Authoring Multi-Stage Code Examples with Editable Code Histories
+Shiry Ginosar, Luis Fernando De Pombo, Maneesh Agrawala and Björn Hartmann
+User Interface Software and Technology (UIST), Oct 2013. pp. 485-494.
+PDF | MP4 | YouTube | BibTeX
+
+Parsing Sewing Patterns into 3D Garments
+Floraine Berthouzoz, Akash Garg, Danny M. Kaufman, Eitan Grinspun and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 32(4), Jul 2013. pp. 85:1-85:12.
+PDF | MP4 | YouTube | Supplemental Materials | BibTeX
+
+Depicting Stylized Materials with Vector Shade Trees
+Jorge Lopez-Moreno, Stefan Popov, Adrien Bousseau, Maneesh Agrawala and George Drettakis
+ACM Transactions on Graphics (SIGGRAPH), 32(4), Jul 2013. pp. 118:1-118:10.
+PDF | MP4 | YouTube | BibTeX
+
+Automatic Cinemagraph Portraits
+Jiamin Bai, Aseem Agarwala, Maneesh Agrawala and Ravi Ramamoorthi
+Proceedings of the Eurographics Symposium on Rendering, Jun 2013. pp. 17-25.
+PDF | MP4 | YouTube | BibTeX
+
+Gloss Perception in Painterly and Cartoon Rendering
+Adrien Bousseau, James P. O'Shea, Frédo Durand, Ravi Ramamoorthi and Maneesh Agrawala
+ACM Transactions on Graphics, 32(2), Apr 2013. pp. 18:1-18:13.
+PDF | BibTeX
+
+Illustrating How Mechanical Assemblies Work
+Niloy J. Mitra, Yong-Liang Yang, Dong-Ming Yan, Wilmot Li and Maneesh Agrawala
+Communications of the ACM (CACM), 56(1), Jan 2013. pp. 106-114.
+PDF | Technical Perspective PDF | MOV | YouTube | BibTeX
+
+Graphical Overlays: Using Layered Elements to Aid Chart Reading
+Nicholas Kong and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 18(12), Dec 2012. pp. 2631-2638.
+PDF | Interactive Gallery | BibTeX
+
+3D Puppetry: A Kinect-Based Interface for 3D Animation
+Robert Held, Ankit Gupta, Brian Curless and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2012. pp. 423-434.
+PDF | Hi-Res PDF | MP4 | Hi Quality MOV | YouTube | Source Code | BibTeX
+
+Underscore: Musical Underlays for Audio Stories
+Steve Rubin, Floraine Berthouzoz, Gautham J. Mysore, Wilmot Li and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2012. pp. 359-366.
+PDF | MP4 | YouTube | Demo | BibTeX
+
+Proton++: A Customizable Declarative Multitouch Framework
+Kenrick Kin, Björn Hartmann, Tony DeRose and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2012. pp. 477-486.
+PDF | MP4 | YouTube | Source Code | BibTeX
+
+Tools for Placing Cuts and Transitions in Interview Video
+Floraine Berthouzoz, Wilmot Li and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 31(4), Jul 2012. pp. 67:1-67:8.
+PDF | MOV | YouTube | BibTeX
+
+Selectively De-Animating Video
+Jiamin Bai, Aseem Agarwala, Maneesh Agrawala and Ravi Ramamoorthi
+ACM Transactions on Graphics (SIGGRAPH), 31(4), Jul 2012. pp. 66:1-66:10.
+PDF | Hi-Res PDF | MP4 | Teaser MP4 | BibTeX
+
+Proton: Multitouch Gestures as Regular Expressions
+Kenrick Kin, Björn Hartmann, Tony DeRose and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2012. pp. 2885-2894.
+PDF | MP4 | YouTube | Source Code | BibTeX
+
+Strategies for Crowdsourcing Social Data Analysis
+Wesley Willett, Jeffrey Heer and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2012. pp. 227-236.
+PDF | MOV | YouTube | BibTeX
+
+Delta: A Tool for Representing and Comparing Workflows
+Nicholas Kong, Tovi Grossman, Björn Hartmann, Maneesh Agrawala and George Fitzmaurice
+ACM Human Factors in Computing Systems (CHI), May 2012. pp. 1027-1036.
+PDF | MP4 | YouTube | BibTeX
+
+ReVision: Automated Classification, Analysis and Redesign of Chart Images
+Manolis Savva, Nicholas Kong, Arti Chhajta, Li Fei-Fei, Maneesh Agrawala and Jeffrey Heer
+User Interface Software and Technology (UIST), Oct 2011. pp. 393-402.
+PDF | BibTeX
+Notable Paper Award
+ShowMeHow: Translating User Interface Instructions Between Applications
+Vidya Ramesh, Charlie Hsu, Maneesh Agrawala and Björn Hartmann
+User Interface Software and Technology (UIST), Oct 2011. pp. 127-134.
+PDF | YouTube | BibTeX
+
+A Framework for Content-Adaptive Photo Manipulation Macros: Application to Face, Landscape, and Global Manipulations
+Floraine Berthouzoz, Wilmot Li, Mira Dontcheva and Maneesh Agrawala
+ACM Transactions on Graphics, 30(5), Oct 2011. pp. 120:1-120:14.
+PDF | MOV | Vimeo | BibTeX
+
+Two-Handed Marking Menus for Multitouch Devices
+Kenrick Kin, Björn Hartmann and Maneesh Agrawala
+ACM Trans. on Computer-Human Interaction, 18(3), Aug 2011. pp. 16:1-16:23.
+PDF | MP4 | YouTube | BibTeX
+
+Illumination Decomposition for Material Recoloring with Consistent Interreflections
+Robert Carroll, Ravi Ramamoorthi and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 30(4), Jul 2011. pp. 43:1-43:10.
+PDF | Hi-Res Results | BibTeX
+
+Interactive Furniture Layout Using Interior Design Guidelines
+Paul Merrell, Eric Schkufza, Zeyang Li, Maneesh Agrawala and Vladlen Koltun
+ACM Transactions on Graphics (SIGGRAPH), 30(4), Jul 2011. pp. 87:1-87:10.
+PDF | AVI | YouTube | BibTeX
+
+Optimizing Environment Maps for Material Depiction
+Adrien Bousseau, Emmanuelle Chapoulie, Ravi Ramamoorthi and Maneesh Agrawala
+Proceedings of the Twenty-second Eurographics Conference on Rendering, Jun 2011. pp. 1171-1180.
+PDF | Hi-Res PDF | DIVX | Additional Results | BibTeX
+
+Commentspace: Structured Support for Collaborative Visual Analysis
+Wesley Willett, Jeffrey Heer, Joseph Hellerstein and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2011. pp. 3131-3140.
+PDF | YouTube | BibTeX
+Best Paper Honorable Mention
+Eden: A Professional Multitouch Tool for Constructing Virtual Organic Environments
+Kenrick Kin, Tom Miller, Björn Bollensdorff, Tony DeRose, Björn Hartmann and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), May 2011. pp. 1343-1352.
+PDF | MP4 | YouTube | BibTeX
+Best Paper Honorable Mention
+Fingerglass: Efficient Multiscale Interaction on Multitouch Screens
+Dominik P. Käser, Maneesh Agrawala and Mark Pauly
+ACM Human Factors in Computing Systems (CHI), May 2011. pp. 1601-1610.
+PDF | Hi-Res PDF | BibTeX
+
+Design Principles for Visual Communication
+Maneesh Agrawala, Wilmot Li and Floraine Berthouzoz
+Communications of the ACM (CACM), 54(4), Apr 2011. pp. 60-69.
+PDF | Supplementary PDF | HTML | SciVee Video | BibTeX
+
+Automatic Generation of Destination Maps
+Johannes Kopf, Maneesh Agrawala, David Bargeron, David Salesin and Michael F. Cohen
+ACM Transactions on Graphics (SIGGRAPH Asia), 29(6), Dec 2010. pp. 158:1-158:12.
+PDF | BibTeX
+
+Perceptual Guidelines for Creating Rectangular Treemaps
+Nicholas Kong, Jeffrey Heer and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 16(6), Nov 2010. pp. 990-998.
+PDF | BibTeX
+Best Paper Honorable Mention
+Exploded View Diagrams of Mathematical Surfaces
+Olga Karpenko, Wilmot Li, Niloy J. Mitra and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (SCIVIS), 16(6), Nov 2010. pp. 1311-1318.
+PDF | BibTeX
+
+Illustrating How Mechanical Assemblies Work
+Niloy J. Mitra, Yong-Liang Yang, Dong-Ming Yan, Wilmot Li and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 29(4), Jul 2010. pp. 58:1-58:12.
+PDF | MOV | YouTube | BibTeX
+
+Image Warps for Artistic Perspective Manipulation
+Robert Carroll, Aseem Agarwala and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH), 29(4), Jul 2010. pp. 127:1-127:9.
+PDF | MOV | YouTube | BibTeX
+
+Edge-Based Image Coarsening
+Raanan Fattal, Robert Carroll and Maneesh Agrawala
+ACM Transactions on Graphics, 29(1), Dec 2009. pp. 6:1-6:11.
+PDF | BibTeX
+
+Perceptual Interpretation of Ink Annotations on Line Charts
+Nicholas Kong and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2009. pp. 233-236.
+PDF | MOV | YouTube | BibTeX
+
+Optimizing Content-Preserving Projections for Wide-Angle Images
+Robert Carroll, Maneesh Agrawala and Aseem Agarwala
+ACM Transactions on Graphics (SIGGRAPH), 28(3), Aug 2009. pp. 43:1-43:9.
+PDF | MOV | YouTube | BibTeX
+
+Generating Photo Manipulation Tutorials by Demonstration
+Floraine Grabler, Maneesh Agrawala, Wilmot Li, Mira Dontcheva and Takeo Igarashi
+ACM Transactions on Graphics (SIGGRAPH), 28(3), Aug 2009. pp. 66:1-66:9.
+PDF | MOV | WMV | YouTube | BibTeX
+
+Determining the Benefits of Direct-Touch, Bimanual, and Multifinger Input on a Multitouch Workstation
+Kenrick Kin, Maneesh Agrawala and Tony DeRose
+Graphics Interface, May 2009. pp. 119-124.
+PDF | BibTeX
+Michael AJ Sweeney Best Student Paper Award
+Parallax Photography: Creating 3D Cinematic Effects from Stills
+Ke Colin Zheng, Alex Colburn, Aseem Agarwala, Maneesh Agrawala, David Salesin, Brian Curless and Michael F. Cohen
+Graphics Interface, May 2009. pp. 111-118.
+PDF | BibTeX
+Michael AJ Sweeney Best Student Paper Award
+Sizing the Horizon: the Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations
+Jeffrey Heer, Nicholas Kong and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2009. pp. 1303-1312.
+PDF | BibTeX
+Best Paper Award
+Video Puppetry: A Performative Interface for Cutout Animation
+Connelly Barnes, David E. Jacobs, Jason Sanders, Dan B Goldman, Szymon Rusinkiewicz, Adam Finkelstein and Maneesh Agrawala
+ACM Transactions on Graphics (SIGGRAPH Asia), 27(5), Dec 2008. pp. 124:1-124:9.
+PDF | MOV | YouTube | BibTeX
+
+Interactive 3D Architectural Modeling from Unordered Photo Collections
+Sudipta N. Sinha, Drew Steedly, Richard Szeliski, Maneesh Agrawala and Marc Pollefeys
+ACM Transactions on Graphics (SIGGRAPH Asia), 27(5), Dec 2008. pp. 159:1-159:10.
+PDF | AVI | Supplementary AVI | YouTube | BibTeX
+
+Graphical Histories for Visualization: Supporting Analysis, Communication, and Evaluation
+Jeffrey Heer, Jock Mackinlay, Chris Stolte and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 14(6), Nov 2008. pp. 1189-1196.
+PDF | BibTeX
+
+Automatic Generation of Tourist Maps
+Floraine Grabler, Maneesh Agrawala, Robert W. Sumner and Mark Pauly
+ACM Transactions on Graphics (SIGGRAPH), 27(3), Aug 2008. pp. 100:1-100:11.
+PDF | BibTeX
+
+Automated Generation of Interactive 3D Exploded View Diagrams
+Wilmot Li, Maneesh Agrawala, Brian Curless and David Salesin
+ACM Transactions on Graphics (SIGGRAPH), 27(3), Aug 2008. pp. 101:1-101:7.
+PDF | MOV | YouTube | BibTeX
+
+The Assumed Light Direction for Perceiving Shape from Shading
+James P. O'Shea, Martin S. Banks and Maneesh Agrawala
+Applied Perception in Graphics and Visualization (APGV), Aug 2008. pp. 135-142.
+PDF | BibTeX
+
+Generalized Selection Via Interactive Query Relaxation
+Jeffrey Heer, Maneesh Agrawala and Wesley Willett
+ACM Human Factors in Computing Systems (CHI), Apr 2008. pp. 959-968.
+PDF | MOV | YouTube | BibTeX
+
+Navigation Techniques for Dual-Display E-Book Readers
+Nicholas Chen, François Guimbretière, Morgan Dixon, Cassandra Lewis and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2008. pp. 1779-1788.
+PDF | MOV | YouTube | BibTeX
+
+Design Considerations for Collaborative Visual Analytics
+Jeffrey Heer and Maneesh Agrawala
+Information Visualization, 7(1), Mar 2008. pp. 49-62.
+PDF | BibTeX
+
+Scented Widgets: Improving Navigation Cues with Embedded Visualizations
+Wesley Willett, Jeffrey Heer and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 13(6), Nov 2007. pp. 1129-1136.
+PDF | BibTeX
+
+Design Considerations for Collaborative Visual Analytics
+Jeffrey Heer and Maneesh Agrawala
+Visual Analytics Science and Technology (VAST), Nov 2007. pp. 171-178.
+PDF | BibTeX
+
+Specifying Label Layout Style by Example
+Ian Vollick, Daniel Vogel, Maneesh Agrawala and Aaron Hertzmann
+User Interface Software and Technology (UIST), Oct 2007. pp. 221-230.
+PDF | BibTeX
+
+Interactive Cutaway Illustrations of Complex 3D Models
+Wilmot Li, Lincoln Ritter, Maneesh Agrawala, Brian Curless and David Salesin
+ACM Transactions on Graphics (SIGGRAPH), 26(3), Jul 2007. pp. 31:1-31:11.
+PDF | MOV | YouTube | BibTeX
+
+Multiscale Shape and Detail Enhancement from Multi-Light Image Collections
+Raanan Fattal, Maneesh Agrawala and Szymon Rusinkiewicz
+ACM Transactions on Graphics (SIGGRAPH), 26(3), Jul 2007. pp. 51:1-51:9.
+PDF | Supplemental Materials | BibTeX
+
+Soft Scissors: An Interactive Tool for Realtime High Quality Matting
+Jue Wang, Maneesh Agrawala and Michael F. Cohen
+ACM Transactions on Graphics (SIGGRAPH), 26(3), Jul 2007. pp. 9:1-9:6.
+PDF | MP4 | YouTube | BibTeX
+
+Using Photographs to Enhance Videos of a Static Scene
+Pravin Bhat, C. Lawrence Zitnick, Noah Snavely, Aseem Agarwala, Maneesh Agrawala, Michael F. Cohen, Brian Curless and Sing Bing Kang
+Eurographics Conference on Rendering Techniques (EGSR), Jun 2007. pp. 327-338.
+PDF | MOV | YouTube | BibTeX
+
+Comparing and Managing Multiple Versions of Slide Presentations
+Steven M. Drucker, Georg Petschnigg and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2006. pp. 47-56.
+PDF | WMV | YouTube | BibTeX
+
+Phosphor: Explaining Transitions in the User Interface Using Afterglow Effects
+Patrick Baudisch, Desney Tan, Maxime Collomb, Dan Robbins, Ken Hinckley, Maneesh Agrawala, Shengdong Zhao and Gonzalo Ramos
+User Interface Software and Technology (UIST), Oct 2006. pp. 169-178.
+PDF | AVI | YouTube | BibTeX
+
+Multi-Scale Banking to 45 Degrees
+Jeffrey Heer and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 12(5), Sep 2006. pp. 701-708.
+PDF | BibTeX
+
+Software Design Patterns for Information Visualization
+Jeffrey Heer and Maneesh Agrawala
+IEEE Trans. on Visualization and Computer Graphics (INFOVIS), 12(5), Sep 2006. pp. 853-860.
+PDF | BibTeX
+
+Photographing Long Scenes with Multi-Viewpoint Panoramas
+Aseem Agarwala, Maneesh Agrawala, Michael F. Cohen, David Salesin and Richard Szeliski
+ACM Transactions on Graphics (SIGGRAPH), 25(3), Jul 2006. pp. 853-861.
+PDF | Hi-Res Results | BibTeX
+
+The Cartoon Animation Filter
+Jue Wang, Steven M. Drucker, Maneesh Agrawala and Michael F. Cohen
+ACM Transactions on Graphics (SIGGRAPH), 25(3), Jul 2006. pp. 1169-1173.
+PDF | MP4 | AVI | YouTube | BibTeX
+
+Painting with Texture
+Lincoln Ritter, Wilmot Li, Brian Curless, Maneesh Agrawala and David Salesin
+Eurographics Conference on Rendering Techniques (EGSR), June 2006. pp. 371-376.
+PDF | MOV | YouTube | BibTeX
+
+Piecewise Image Registration in the Presence of Multiple Large Motions
+Pravin Bhat, Ke Colin Zheng, Noah Snavely, Aseem Agarwala, Maneesh Agrawala, Michael F. Cohen and Brian Curless
+Computer Vision and Pattern Recognition (CVPR), Jun 2006. pp. 2491-2497.
+PDF | AVI | YouTube | BibTeX
+
+Phrasing Techniques for Multi-Stroke Selection Gestures
+Ken Hinckley, François Guimbretière, Maneesh Agrawala, Georg Apitz and Nicholas Chen
+Graphics Interface, Jun 2006. pp. 147-154.
+PDF | WMV | YouTube | BibTeX
+
+Tumble! Splat! Helping Users Access and Manipulate Occluded Content in 2d Drawings
+Gonzalo Ramos, George Robertson, Mary Czerwinski, Desney Tan, Patrick Baudisch, Ken Hinckley and Maneesh Agrawala
+Advanced Visual Interfaces (AVI), May 2006. pp. 428-435.
+PDF | BibTeX
+
+The Springboard: Multiple Modes in One Spring-Loaded Control
+Ken Hinckley, François Guimbretière, Patrick Baudisch, Raman Sarin, Maneesh Agrawala and Ed Cutrell
+ACM Human Factors in Computing Systems (CHI), Apr 2006. pp. 181-190.
+PDF | MOV | YouTube | BibTeX
+
+Hover Widgets: Using the Tracking State to Extend the Capabilities of Pen-Operated Devices
+Tovi Grossman, Ken Hinckley, Patrick Baudisch, Maneesh Agrawala and Ravin Balakrishnan
+ACM Human Factors in Computing Systems (CHI), Apr 2006. pp. 861-870.
+PDF | MOV | YouTube | BibTeX
+
+Text Entry Using a Dual Joystick Game Controller
+Andrew D. Wilson and Maneesh Agrawala
+ACM Human Factors in Computing Systems (CHI), Apr 2006. pp. 475-478.
+PDF | BibTeX
+
+Gaze-Based Interaction for Semi-Automatic Photo Cropping
+Anthony Santella, Maneesh Agrawala, Doug DeCarlo, David Salesin and Michael F. Cohen
+ACM Human Factors in Computing Systems (CHI), Apr 2006. pp. 771-780.
+PDF | BibTeX
+
+Zone and Polygon Menus: Using Relative Position to Increase the Breadth of Multi-Stroke Marking Menus
+Shengdong Zhao, Maneesh Agrawala and Ken Hinckley
+ACM Human Factors in Computing Systems (CHI), Apr 2006. pp. 1077-1086.
+PDF | WMV | YouTube | BibTeX
+
+Efficient Shadows for Sampled Environment Maps
+Aner Ben-Artzi, Ravi Ramamoorthi and Maneesh Agrawala
+Journal of Graphics, GPU, and Game Tools, 11(1), 2006. pp. 13-36.
+PDF | BibTeX
+
+De-Emphasis of Distracting Image Regions Using Texture Power Maps
+Sara L. Su, Frédo Durand and Maneesh Agrawala
+Proc. of Texture (at ICCV), Oct 2005. pp. 119-124.
+PDF | BibTeX
+
+DIZI: A Digital Ink Zooming Interface for Document Annotation
+Maneesh Agrawala and Michael Shilman
+International Conference on Human-Computer Interaction (INTERACT), Sep 2005. pp. 69-79.
+PDF | AVI | YouTube | BibTeX
+
+Audio Analogies: Creating New Music from an Existing Performance by Concatenative Synthesis
+Ian Simon, Sumit Basu, David Salesin and Maneesh Agrawala
+Proc. of International Computer Music Conference (ICMC), Sep 2005. pp. 65-72.
+PDF | Results | BibTeX
+
+Ink Normalization and Beautification
+Patrice Y. Simard, Dave Steinkraus and Maneesh Agrawala
+International Conference on Document Analysis and Recognition (ICDAR), Sep 2005. pp. 1182-1187.
+PDF | BibTeX
+
+Panoramic Video Textures
+Aseem Agarwala, Ke Colin Zheng, Chris Pal, Maneesh Agrawala, Michael F. Cohen, Brian Curless, David Salesin and Richard Szeliski
+ACM Transactions on Graphics (SIGGRAPH), 24(3), Jul 2005. pp. 821-827.
+PDF | WMV | YouTube | BibTeX
+
+Interactive Video Cutout
+Jue Wang, Pravin Bhat, Alex Colburn, Maneesh Agrawala and Michael F. Cohen
+ACM Transactions on Graphics (SIGGRAPH), 24(3), Jul 2005. pp. 585-594.
+PDF | AVI | YouTube | BibTeX
+
+Toward Universal Mobile Interaction for Shared Displays
+Tim Paek, Maneesh Agrawala, Sumit Basu, Steve Drucker, Trausti Kristjansson, Ron Logan, Kentaro Toyama and Andy Wilson
+Computer Supported Cooperative Work (CSCW), Nov 2004. pp. 266-269.
+PDF | BibTeX
+
+Video-Based Document Tracking: Unifying Your Physical and Electronic Desktops
+Jiwon Kim, Steven M. Seitz and Maneesh Agrawala
+User Interface Software and Technology (UIST), Oct 2004. pp. 99-107.
+PDF | AVI | YouTube | PPT | BibTeX
+
+Visualizing Competitive Behaviors in Multi-User Virtual Environments
+Nate Hoobler, Greg Humphreys and Maneesh Agrawala
+IEEE Visualization, Oct 2004. pp. 163-170.
+PDF | AVI | YouTube | BibTeX
+
+Interactive Digital Photomontage
+Aseem Agarwala, Mira Dontcheva, Maneesh Agrawala, Steven Drucker, Alex Colburn, Brian Curless, David Salesin and Michael F. Cohen
+ACM Transactions on Graphics (SIGGRAPH), 23(3), Aug 2004. pp. 294-302.
+PDF | AVI | YouTube | Source Code | BibTeX
+
+Digital Photography with Flash and No-Flash Image Pairs
+Georg Petschnigg, Maneesh Agrawala, Hugues Hoppe, Richard Szeliski, Michael F. Cohen and Kentaro Toyama
+ACM Transactions on Graphics (SIGGRAPH), 23(3), Aug 2004. pp. 664-672.
+PDF | Hi-Res PDF | BibTeX
+
+Identification and Validation of Cognitive Design Principles for Automated Generation of Assembly Instructions
+Julie Heiser, Doantam Phan, Maneesh Agrawala, Barbara Tversky and Pat Hanrahan
+Advanced Visual Interfaces (AVI), May 2004. pp. 311-319.
+PDF | Hi-Res PDF | PPT | BibTeX
+
+Interactive Image-Based Exploded View Diagrams
+Wilmot Li, Maneesh Agrawala and David Salesin
+Graphics Interface, May 2004. pp. 203-212.
+PDF | MOV | AVI | YouTube | BibTeX
+Michael AJ Sweeney Best Student Paper Award
+Conveying Shape and Features with Image-Based Relighting
+David Akers, Frank Losasso, Jeff Klingner, Maneesh Agrawala, John Rick and Pat Hanrahan
+Proc. of IEEE Visualization (VIS), Oct 2003. pp. 349-354.
+PDF | MOV | YouTube | BibTeX
+
+Designing Effective Step-By-Step Assembly Instructions
+Maneesh Agrawala, Doantam Phan, Julie Heiser, John Haymaker, Jeff Klingner, Pat Hanrahan and Barbara Tversky
+ACM Transactions on Graphics (SIGGRAPH), 22(3), Jul 2003. pp. 828-837.
+PDF | AVI | YouTube | PPT | BibTeX
+
+A Sketching Interface for Articulated Figure Animation
+James Davis, Maneesh Agrawala, Erika Chuang, Zoran Popović and David Salesin
+Symposium on Computer Animation (SCA), Jul 2003. pp. 320-328.
+PDF | AVI | YouTube | BibTeX
+
+Non-Invasive Interactive Visualization of Dynamic Architectural Environments
+Christopher Niederauer, Mike Houston, Maneesh Agrawala and Greg Humphreys
+ACM Symposium on Interactive 3D Graphics (I3D), Apr 2003. pp. 55-58.
+PDF | MOV | YouTube | PPT | CACM Version | BibTeX
+
+Rendering Effective Route Maps: Improving Usability Through Generalization
+Maneesh Agrawala and Chris Stolte
+Proc. of SIGGRAPH, Aug 2001. pp. 241-249.
+PDF | MOV | YouTube | BibTeX
+
+Efficient Image-Based Methods for Rendering Soft Shadows
+Maneesh Agrawala, Ravi Ramamoorthi, Alan Heirich and Laurent Moll
+Proc. of SIGGRAPH, Jul 2000. pp. 375-384.
+PDF | PPT | BibTeX
+
+Artistic Multiprojection Rendering
+Maneesh Agrawala, Denis Zorin and Tamara Munzner
+Proc. of Eurographics Workshop on Rendering Techniques, Jun 2000. pp. 125-136.
+PDF | PPT | BibTeX
+
+Physically-Based Manipulation on the Responsive Workbench
+Bernd Fröhlich, Henrik Tramberend, Andrew Beers, Maneesh Agrawala and David Baraff
+Proc, of IEEE Virtual Reality, Mar 2000. pp. 5-11.
+PDF | MOV | BibTeX
+
+A Design and Implementation for Effective Computer-Generated Route Maps
+Maneesh Agrawala and Chris Stolte
+AAAI symposium on smart graphics, Mar 2000. pp. 61-65.
+PDF | BibTeX
+
+The Two-User Responsive Workbench: Support for Collaboration Through Individual Views of a Shared Space
+Maneesh Agrawala, Andrew C. Beers, Ian McDowall, Bernd Fröhlich, Mark Bolas and Pat Hanrahan
+Proc. of SIGGRAPH, Jul 1997. pp. 327-332.
+PDF | BibTeX
+
+Rendering from Compressed Textures
+Andrew C. Beers, Maneesh Agrawala and Navin Chaddha
+Proc. of SIGGRAPH, Jul 1996. pp. 373-378.
+PDF | Color Plate 1 TIF | Color Plate 2 TIF | BibTeX
+
+Model-Based Motion Estimation for Synthetic Animations
+Maneesh Agrawala, Andrew C. Beers and Navin Chaddha
+Proc. ACM Multimedia, Nov 1995. pp. 477-488.
+PDF | BibTeX
+
+3D Painting on Scanned Surfaces
+Maneesh Agrawala, Andrew C. Beers and Marc Levoy
+ACM Symposium on Interactive 3D Graphics (I3D), Apr 1995. pp. 145-150.
+PDF | BibTeX
+
+

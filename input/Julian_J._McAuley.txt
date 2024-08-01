@@ -1,0 +1,2528 @@
+Professor: Julian J. McAuley
+University: Univ. of California - San Diego
+URL: http://cseweb.ucsd.edu/~jmcauley
+Description: Teaching
+Autumn 2023:
+
+
+CSE 258	(evaluations)
+CSE 158	(evaluations)
+DSC 256	(evaluations)
+MGTA 461	(evaluations)
+Click for older...
+CSE 258 fa22	(evaluations)
+CSE 158 fa22	(evaluations)
+MGTA 461 fa22	(evaluations)
+CSE 258 fa21	(evaluations)
+CSE 158 fa21	(evaluations)
+MGTA 461 fa21	(evaluations)
+CSE 258 fa20	(evaluations)
+CSE 158 fa20	(evaluations)
+CSE 258 fa19	(evaluations)
+CSE 158 fa19	(evaluations)
+MGTA 495 fa19	(evaluations)
+CSE 258 fa18	(evaluations)
+CSE 158 fa18	(evaluations)
+MGTA 495 fa18	(evaluations)
+CSE 258 fa17	(evaluations)
+CSE 158 fa17	(evaluations)
+CSE 291 fa17	(evaluations)
+CSE 258 wi17	(evaluations)
+CSE 158 wi17	(evaluations)
+CSE 190 fa15	(evaluations)
+CSE 255 fa15	(evaluations)
+CSE 190 sp15	(evaluations)
+CSE 255 wi15	(evaluations)
+
+
+Current PhD Students
+	
+Junda Wu, 2023-
+Machine Learning
+	
+Sean O'Brien, 2023-
+Large Language Models
+	
+Ahmad Bin Rabiah, 2023-
+Machine Learning
+	
+Yupeng Hou, 2023-
+Large Language Models
+	
+Yu Wang, 2022-
+Machine Learning
+	
+Zachary Novack, 2022-
+Computer Music
+	
+Parsa Assadi, 2021-
+Privacy
+	
+Zhouhang Xie, 2021-
+Natural Language Processing
+	
+Nafis Sadeq, 2021-
+Speech Recognition
+	
+Se-eun Yoon, 2021-
+Graphs
+	
+Zexue He, 2020-
+Algorithmic Debiasing
+	
+Jessica Echterhoff, 2019-
+Algorithmic Debiasing
+Postdocs
+	
+Hyunsik Jeon, 2023-
+Lab - Graduates
+	
+Noveen Sachdeva, 2024
+Google Deepmind
+	
+Hao-Wen Dong, 2024
+Asst. Professor, University of Michigan
+	
+Erik Delanois, 2024
+	
+Zhankui He, 2024
+Google Deepmind
+	
+An Yan, 2024
+Salesforce
+	
+Canwen Xu, 2024
+Snowflake
+	
+Brendan Duncan, 2023
+Feeling Great
+	
+Jiacheng Li, 2023
+Meta
+	
+Paarth Neekhara, 2023
+Nvidia
+	
+Bodhisattwa Prasad Majumder, 2023
+AI2
+	
+Shuyang Li, 2022
+Meta
+	
+Wang-Cheng Kang, 2020
+Google Deepmind
+	
+Jianmo Ni, 2020
+Google Deepmind
+	
+Mengting Wan, 2019
+Microsoft Research
+	
+Chris Donahue, 2019
+Asst. Professor, CMU
+	
+Zachary Lipton, 2017
+Asst. Professor, CMU
+	
+Ruining He, 2017
+Google Deepmind
+
+
+Sponsors
+	Snap Inc
+	Wellcome Leap
+	Lowe's
+	Cisco
+	Sony
+	Netflix
+	Google
+	The Home Depot
+	Toyota
+	MeetElise
+	Hyundai
+	ShareChat
+	Salesforce
+	Facebook
+	Qualcomm
+	Department of Defense
+	Intuit
+	Adobe
+	Samsung
+	Flipkart
+	National Science Foundation
+	Amazon
+	Symantec
+	Australian Research Council
+	Nvidia
+Julian McAuley
+
+Professor
+
+
+Room 4102 Computer Science Department @ UCSD
+
+
+e-mail: ude.dscu.gne@yeluacmj
+
+Personalized Machine Learning
+My new book, Personalized Machine Learning, published by Cambridge University Press, is now available. See the book's website, as well as a freely-available pdf draft.	
+Links and Resources
+Advice to Prospective Students
+
+If you are considering internships, PhD applications, or project work, please read this advice first before contacting me about joining my lab
+
+Advice to Students Requesting Reference Letters
+Repository of Recommender Systems Datasets
+
+A collection of datasets for recommender systems research is available on our lab's dataset webpage
+
+Publications
+2024
+Multi-behavior generative recommendation
+Zihan Liu, Yupeng Hou, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{liu24generative,
+  title = "Multi-behavior generative recommendation",
+  author = "Zihan Liu and Yupeng Hou and Julian McAuley",
+  year = "2024",
+  booktitle = "CIKM"
+}
+Calibration-disentangled learning and relevance-prioritized reranking for calibrated sequential recommendation
+Hyunsik Jeon, Se-eun Yoon, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+reviews | bibtex
+@inproceedings{jeon24calibration,
+  title = "Calibration-disentangled learning and relevance-prioritized reranking for calibrated sequential recommendation",
+  author = "Hyunsik Jeon and Se-eun Yoon and Julian McAuley",
+  year = "2024",
+  booktitle = "CIKM"
+}
+Forecasting live chat intent from browsing history
+Se-eun Yoon, Ahmad Bin Rabiah, Zaid Alibadi, Surya Kallumadi, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+reviews | bibtex
+@inproceedings{yoon24forecasting,
+  title = "Forecasting live chat intent from browsing history",
+  author = "Se-eun Yoon and Ahmad Bin Rabiah and Zaid Alibadi and Surya Kallumadi and Julian McAuley",
+  year = "2024",
+  booktitle = "CIKM"
+}
+	
+List items one by one: A new data source and learning paradigm for multimodal LLMs
+An Yan, Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
+Conference on Language Modeling (COLM)
+pdf | reviews | bibtex
+@inproceedings{yan24list,
+  title = "List items one by one: A new data source and learning paradigm for multimodal LLMs",
+  author = "An Yan, Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang",
+  year = "2024",
+  booktitle = "COLM"
+}
+	
+DITTO-2: Distilled diffusion inference-time T-optimization for music generation
+Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas Bryan
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | bibtex
+@inproceedings{novack24ditto2,
+  title = "DITTO-2: Distilled diffusion inference-time T-optimization for music generation",
+  author = "Zachary Novack and Julian McAuley and Taylor Berg-Kirkpatrick and Nicholas Bryan",
+  year = "2024",
+  booktitle = "ISMIR"
+}
+	
+CoRAL: Collaborative retrieval-augmented large language models improve long-tail recommendation
+Junda Wu, Eric Chang, Tong Yu, Zhankui He, Jianing Wang, Yupeng Hou, Julian McAuley
+Knowledge Discovery and Data Mining (KDD)
+pdf | reviews | bibtex
+@inproceedings{wu24collaborative,
+  title = "CoRAL: Collaborative retrieval-augmented large language models improve long-tail recommendation",
+  author = "Junda Wu, Eric Chang, Tong Yu, Zhankui He, Jianing Wang, Yupeng Hou, Julian McAuley",
+  year = "2024",
+  booktitle = "KDD"
+}
+	
+A review of modern recommender systems using generative models
+Yashar Deldjoo, Zhankui He, Julian McAuley, Anton Korikov, Scott Sanner, Arnau Ramisa, René Vidal, Maheswaran Sathiamoorthy, Atoosa Kasirzadeh, Silvia Milano
+Knowledge Discovery and Data Mining (KDD, tutorial track)
+pdf | bibtex
+@inproceedings{deldjoo24review,
+  title = "A review of modern recommender systems using generative models",
+  author = "Yashar Deldjoo and Zhankui He and Julian McAuley and Anton Korikov and Scott Sanner and Arnau Ramisa and René Vidal and Maheswaran Sathiamoorthy and Atoosa Kasirzadeh and Silvia Milano",
+  year = "2024",
+  booktitle = "KDD"
+}
+DeCoT: Debiasing chain-of-thought for knowledge-intensive tasks in large language models via causal intervention
+Junda Wu, Tong Yu, Xiang Chen, Haoliang Wang, Ryan Rossi, Sungchul Kim, Anup Rao, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+reviews | bibtex
+@inproceedings{wu24debiasing,
+  title = "DeCoT: Debiasing chain-of-thought for knowledge-intensive tasks in large language models via causal intervention",
+  author = "Junda Wu and Tong Yu and Xiang Chen and Haoliang Wang and Ryan Rossi and Sungchul Kim and Anup Rao and Julian McAuley",
+  year = "2024",
+  booktitle = "ACL"
+}
+	
+Small models are valuable plug-ins for large language models
+Canwen Xu, Yichong Xu, Shuohang Wang, Yang Liu, Chenguang Zhu, Julian McAuley
+Findings of ACL
+pdf | reviews | bibtex
+@inproceedings{xu24small,
+  title = "Small models are valuable plug-ins for large language models",
+  author = "Canwen Xu and Yichong Xu and Shuohang Wang and Yang Liu and Chenguang Zhu and Julian McAuley",
+  year = "2024",
+  booktitle = "Findings of ACL"
+}
+	
+Few-shot dialogue strategy learning for motivational interviewing via inductive reasoning
+Zhouhang Xie, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley
+Findings of ACL
+pdf | reviews | bibtex
+@inproceedings{xie24dialogue,
+  title = "Few-shot dialogue strategy learning for motivational interviewing via inductive reasoning",
+  author = "Zhouhang Xie, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley",
+  year = "2024",
+  booktitle = "Findings of ACL"
+}
+	
+InstructGraph: Boosting large language models via graph-centric instruction tuning and preference alignment
+Jianing Wang, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian McAuley
+Findings of ACL
+pdf | reviews | bibtex
+@inproceedings{wang24instruct,
+  title = "InstructGraph: Boosting large language models via graph-centric instruction tuning and preference alignment",
+  author = "Jianing Wang and Junda Wu and Yupeng Hou and Yao Liu and Ming Gao and Julian McAuley",
+  year = "2024",
+  booktitle = "Findings of ACL"
+}
+DITTO: Diffusion inference-time T-optimization for music generation
+Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas Bryan
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{novack24ditto,
+  title = "DITTO: Diffusion inference-time T-optimization for music generation",
+  author = "Zachary Novack and Julian McAuley and Taylor Berg-Kirkpatrick and Nicholas Bryan",
+  year = "2024",
+  booktitle = "ICML"
+}
+	
+SelfVC: Voice conversion with iterative refinement using self transformations
+Paarth Neekhara, Shehzeen Hussain, Rafael Valle, Boris Ginsburg, Rishabh Ranjan, Shlomo Dubnov, Farinaz Koushanfar, Julian McAuley
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{neekhara24voice,
+  title = "SelfVC: Voice conversion with iterative refinement using self transformations",
+  author = "Paarth Neekhara and Shehzeen Hussain and Rafael Valle and Boris Ginsburg and Rishabh Ranjan and Shlomo Dubnov and Farinaz Koushanfar and Julian McAuley",
+  year = "2024",
+  booktitle = "ICML"
+}
+	
+MEMORYLLM: Toward self-updating large language models
+Yu Wang, Yifan Gao, Xiusi Chen, Haoming Jiang, Shiyang Li, Jingfeng Yang, Qingyu Yin, Zheng Li, Xian Li, Bing Yin, Jingbo Shang, Julian McAuley
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{wang24memoryllm,
+  title = "MEMORYLLM: Toward self-updating large language models",
+  author = "Yu Wang and Yifan Gao and Xiusi Chen and Haoming Jiang and Shiyang Li and Jingfeng Yang and Qingyu Yin and Zheng Li and Xian Li and Bing Yin and Jingbo Shang and Julian McAuley",
+  year = "2024",
+  booktitle = "ICML"
+}
+Generating, reconstructing, and representing discrete and continuous data: generalized diffusion with learnable encoding-decoding
+Guangyi Liu, Yu Wang, Zeyu Feng, Qiyu Wu, Liping Tang, Yuan Gao, Zhen Li, Shuguang Cui, Julian McAuley, Eric Xing, Zichao Yang, Zhiting Hu
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{liu24generating,
+  title = "Generating, reconstructing, and representing discrete and continuous data: generalized diffusion with learnable encoding-decoding",
+  author = "Guangyi Liu and Yu Wang and Zeyu Feng and Qiyu Wu and Liping Tang and Yuan Gao and Zhen Li and Shuguang Cui and Julian McAuley and Eric Xing and Zichao Yang and Zhiting Hu",
+  year = "2024",
+  booktitle = "ICML"
+}
+Fair sequential recommendation without user demographics
+Huimin Zeng, Zhankui He, Zhenrui Yue, Julian McAuley, Dong Wang
+SIGIR
+pdf | reviews | bibtex
+@inproceedings{zeng24fair,
+  title = "Fair sequential recommendation without user demographics",
+  author = "Huimin Zeng and Zhankui He and Zhenrui Yue and Julian McAuley and Dong Wang",
+  year = "2024",
+  booktitle = "SIGIR"
+}
+Avoiding decision fatigue with AI-assisted decision-making
+Jessica Echterhoff, Aditya Melkote, Sujen Kancherla, Julian McAuley
+User Modeling, Adaptation and Personalization (UMAP)
+reviews | bibtex
+@inproceedings{echterhoff24user,
+  title = "Avoiding decision fatigue with AI-assisted decision-making",
+  author = "Jessica Echterhoff and Aditya Melkote and Sujen Kancherla and Julian McAuley",
+  year = "2024",
+  booktitle = "UMAP"
+}
+Evaluating large language models as generative user simulators for conversational recommendation
+Se-eun Yoon, Zhankui He, Jessica Echterhoff, Julian McAuley
+North American Chapter of the Association for Computational Linguistics (NAACL)
+reviews | bibtex
+@inproceedings{yoon24evaluating,
+  title = "Evaluating large language models as generative user simulators for conversational recommendation",
+  author = "Se-eun Yoon and Zhankui He and Jessica Echterhoff and Julian McAuley",
+  year = "2024",
+  booktitle = "NAACL"
+}
+Aligning as debiasing: Causality-aware alignment via reinforcement learning with interventional feedback
+Yu Xia, Tong Yu, Zhankui He, Handong Zhao, Julian McAuley, Shuai Li
+North American Chapter of the Association for Computational Linguistics (NAACL)
+reviews | bibtex
+@inproceedings{xia24aligning,
+  title = "Aligning as debiasing: Causality-aware alignment via reinforcement learning with interventional feedback",
+  author = "Yu Xia and Tong Yu and Zhankui He and Handong Zhao and Julian McAuley and Shuai Li",
+  year = "2024",
+  booktitle = "NAACL"
+}
+	
+Automatic pair construction for contrastive post-training
+Canwen Xu, Corby Rosset, Ethan Chau, Luciano Del Corro, Shweti Mahajan, Julian McAuley, Jennifer Neville, Ahmed Hassan Awadallah, Nikhil Rao
+Findings of NAACL
+reviews | bibtex
+@inproceedings{xu24automatic,
+  title = "Automatic pair construction for contrastive post-training",
+  author = "Canwen Xu and Corby Rosset and Ethan Chau and Luciano Del Corro and Shweti Mahajan and Julian McAuley and Jennifer Neville and Ahmed Hassan Awadallah and Nikhil Rao",
+  year = "2024",
+  booktitle = "Findings of NAACL"
+}
+	
+Extending input contexts of language models through training on segmented sequences
+Petros Karypis, Julian McAuley, George Karypis
+Findings of NAACL
+pdf | reviews | bibtex
+@inproceedings{karypis24extending,
+  title = "Extending input contexts of language models through training on segmented sequences",
+  author = "Petros Karypis and Julian McAuley and George Karypis",
+  year = "2024",
+  booktitle = "Findings of NAACL"
+}
+Off-policy evaluation for large action spaces via policy convolution
+Noveen Sachdeva, Lequn Wang, Dawen Liang, Nathan Kallus, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | bibtex
+@inproceedings{sachdeva24policy,
+  title = "Off-policy evaluation for large action spaces via policy convolution",
+  author = "Noveen Sachdeva and Lequn Wang and Dawen Liang and Nathan Kallus and Julian McAuley",
+  year = "2024",
+  booktitle = "WWW"
+}
+	
+AgentCF: Collaborative learning with autonomous language agents for recommender systems
+Junjie Zhang, Yupeng Hou, Ruobing Xie, Wenqi Sun, Julian McAuley, Wayne Xin Zhao, Leyu Lin, Ji-Rong Wen
+World Wide Web (WWW)
+pdf | reviews | bibtex
+@inproceedings{zhang24agentcf,
+  title = "AgentCF: Collaborative learning with autonomous language agents for recommender systems",
+  author = "Junjie Zhang and Yupeng Hou and Ruobing Xie and Wenqi Sun and Julian McAuley and Wayne Xin Zhao and Leyu Lin and Ji-Rong Wen",
+  year = "2024",
+  booktitle = "WWW"
+}
+InfoRank: Unbiased learning-to-rank via conditional mutual information minimization
+Jiarui Jin, Zexue He, Mengyue Yang, Weinan Zhang, Yong Yu, Jun Wang, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | bibtex
+@inproceedings{jin24inforank,
+  title = "InfoRank: Unbiased learning-to-rank via conditional mutual information minimization",
+  author = "Jiarui Jin and Zexue He and Mengyue Yang and Weinan Zhang and Yong Yu and Jun Wang and Julian McAuley",
+  year = "2024",
+  booktitle = "WWW"
+}
+RepoBench: Benchmarking repository-level code auto-completion systems
+Tianyang Liu, Canwen Xu, Julian McAuley
+International Conference on Learning Representations (ICLR)
+reviews | bibtex
+@inproceedings{iclr24repobench,
+  title = "RepoBench: Benchmarking repository-level code auto-completion systems",
+  author = "Tianyang Liu and Canwen Xu and Julian McAuley",
+  year = "2024",
+  booktitle = "ICLR"
+}
+Large language models are zero-shot rankers for recommender systems
+Yupeng Hou, Junjie Zhang, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, Wayne Xin Zhao
+European Conference on Information Retrieval (ECIR)
+reviews | bibtex
+@inproceedings{hou24large,
+  title = "Large language models are zero-shot rankers for recommender systems",
+  author = "Yupeng Hou and Junjie Zhang and Zihan Lin and Hongyu Lu and Ruobing Xie and Julian McAuley and Wayne Xin Zhao",
+  year = "2024",
+  booktitle = "ECIR"
+}
+Deciphering compatibility relationships with textual descriptions via extraction and explanation
+Yu Wang, Zexue He, Zhankui He, Hao Xu, Julian McAuley
+AAAI Conference on Artificial Intelligence (AAAI)
+reviews | bibtex
+@inproceedings{wang24deciphering,
+  title = "Deciphering compatibility relationships with textual descriptions via extraction and explanation",
+  author = "Yu Wang and Zexue He and Zhankui He and Hao Xu and Julian McAuley",
+  year = "2024",
+  booktitle = "AAAI"
+}
+RecWizard: A toolkit for conversational recommendation with modular, portable models and an interactive user interface
+Zeyuan Zhang, Tanmay Laud, Zihang He, Xiaojie Chen, Xinshuang Liu, Zhouhang Xie, Julian McAuley, Zhankui He
+AAAI Conference on Artificial Intelligence (AAAI, demo track)
+reviews | bibtex
+@inproceedings{zhang24recwizard,
+  title = "RecWizard: A toolkit for conversational recommendation with modular, portable models and an interactive user interface",
+  author = "Zeyuan Zhang and Tanmay Laud and Zihang He and Xiaojie Chen and Xinshuang Liu and Zhouhang Xie and Julian McAuley and Zhankui He",
+  year = "2024",
+  booktitle = "AAAI"
+}
+Driving through the concept gridlock: Unraveling explainability bottlenecks in automated driving
+Jessica Echterhoff, An Yan, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
+Winter Conference on Applications of Computer Vision (WACV)
+reviews | bibtex
+@inproceedings{echterhoff24driving,
+  title = "Driving through the concept gridlock: Unraveling explainability bottlenecks in automated driving",
+  author = "Jessica Echterhoff and An Yan and Kyungtae Han and Amr Abdelraouf and Rohit Gupta and Julian McAuley",
+  year = "2024",
+  booktitle = "Winter Conference on Applications of Computer Vision"
+}
+	
+Linear recurrent units for sequential recommendation
+Zhenrui Yue, Yueqi Wang, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang
+Web Search and Data Mining (WSDM)
+pdf | reviews | bibtex
+@inproceedings{yue24linear,
+  title = "Linear recurrent units for sequential recommendation",
+  author = "Zhenrui Yue and Yueqi Wang and Zhankui He and Huimin Zeng and Julian McAuley and Dong Wang",
+  year = "2024",
+  booktitle = "WSDM"
+}
+Self-supervised bot play for transcript-free conversational critiquing with rationales
+Shuyang Li, Bodhisattwa Prasad Majumder, Julian McAuley
+ACM Transactions on Recommender Systems
+reviews | bibtex
+@article{li24bot,
+  title = "Self-supervised bot play for transcript-free conversational critiquing with rationales",
+  author = "Shuyang Li and Bodhisattwa Prasad Majumder and Julian McAuley",
+  year = "2024",
+  journal = "ACM Transactions on Recommender Systems"
+}
+On the opportunities and challenges of offline reinforcement learning for recommender systems
+Xiaocong Chen, Siyu Wang, Julian McAuley, Dietmar Jannach, Lina Yao
+ACM Transactions on Information Systems
+pdf | reviews | bibtex
+@article{chen24opportunities,
+  title = "On the opportunities and challenges of offline reinforcement learning for recommender systems",
+  author = "Xiaocong Chen and Siyu Wang and Julian McAuley and Dietmar Jannach and Lina Yao",
+  year = "2024",
+  journal = "ACM Transactions on Information Systems"
+}
+FaceSigns: Semi-fragile watermarks for media authentication
+Paarth Neekhara, Shehzeen Hussain, Xinqiao Zhang, Farinaz Koushanfar, Julian McAuley
+IEEE Transactions on Multimedia Computing Communications and Applications
+reviews | bibtex
+@article{neekhara25facesigns,
+  title = "FaceSigns: Semi-fragile watermarks for media authentication",
+  author = "Paarth Neekhara and Shehzeen Hussain and Xinqiao Zhang and Farinaz Koushanfar and Julian McAuley",
+  year = "2024",
+  journal = "IEEE Transactions on Multimedia Computing Communications and Applications"
+}
+2023
+Baize: An open-source chat model with parameter-efficient tuning on self-chat data
+Canwen Xu, Daya Guo, Nan Duan, Julian McAuley
+EMNLP
+pdf | reviews | bibtex
+@inproceedings{xu23baize,
+  title = "Baize: An open-source chat model with parameter-efficient tuning on self-chat data",
+  author = "Canwen Xu and Daya Guo and Nan Duan and Julian McAuley",
+  year = "2023",
+  booktitle = "EMNLP"
+}
+Spoiler detection as semantic text matching
+Ryan Tran, Canwen Xu, Julian McAuley
+EMNLP
+reviews | bibtex
+@inproceedings{tran23spoiler,
+  title = "Spoiler detection as semantic text matching",
+  author = "Ryan Tran and Canwen Xu and Julian McAuley",
+  year = "2023",
+  booktitle = "EMNLP"
+}
+M4: A Multi-level, Multi-task, and Multi-domain Medical benchmark for language model evaluation
+Zexue He, Yu Wang, An Yan, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
+EMNLP
+reviews | bibtex
+@inproceedings{he23m4,
+  title = "M4: A Multi-level, Multi-task, and Multi-domain Medical benchmark for language model evaluation",
+  author = "Zexue He and Yu Wang and An Yan and Yao Liu and Eric Y Chang and Amilcare Gentili and Julian McAuley and Chun-Nan Hsu",
+  year = "2023",
+  booktitle = "EMNLP"
+}
+Debiasing with natural language feedback for fair interpretable predictions
+Bodhisattwa Prasad Majumder, Zexue He, Julian McAuley
+EMNLP
+pdf | reviews | bibtex
+@inproceedings{majumder23interfair,
+  title = "Debiasing with natural language feedback for fair interpretable predictions",
+  author = "Bodhisattwa Prasad Majumder and Zexue He and Julian McAuley",
+  year = "2023",
+  booktitle = "EMNLP"
+}
+Improving robustness of convolutional networks through sleep-like replay
+Erik Delanois, Maxim Bazhenov, Julian McAuley, Giri Krishnan, Aditya Ahuja, Timothy Tadros
+International Conference on Machine Learning and Applications (ICMLA)
+reviews | bibtex
+@inproceedings{delanois23improving,
+  title = "Improving robustness of convolutional networks through sleep-like replay",
+  author = "Erik Delanois and Maxim Bazhenov and Julian McAuley and Giri Krishnan and Aditya Ahuja and Timothy Tadros",
+  year = "2023",
+  booktitle = "ICMLA"
+}
+Large language models as zero-shot conversational recommenders
+Zhankui He, Zhouhang Xie, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+reviews | bibtex
+@inproceedings{he23large,
+  title = "Large language models as zero-shot conversational recommenders",
+  author = "Zhankui He and Zhouhang Xie and Rahul Jha and Harald Steck and Dawen Liang and Yesu Feng and Bodhisattwa Majumder and Nathan Kallus and Julian McAuley",
+  year = "2023",
+  booktitle = "CIKM"
+}
+	
+Learning concise and descriptive attributes for visual recognition
+An Yan, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley
+International Conference on Computer Vision (ICCV)
+reviews | bibtex
+@inproceedings{yan23learning,
+  title = "Learning concise and descriptive attributes for visual recognition",
+  author = "An Yan and Yu Wang and Yiwu Zhong and Chengyu Dong and Zexue He and Yujie Lu and William Wang and Jingbo Shang and Julian McAuley",
+  year = "2023",
+  booktitle = "ICCV"
+}
+CLIPSonic: Text-to-audio synthesis with unlabeled videos and pretrained language-vision models
+Hao-Wen Dong, Xiaoyu Liu, Jordi Pons, Gautam Bhattacharya, Santiago Pascual, Joan Serra, Taylor Berg-Kirkpatrick, Julian McAuley
+IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)
+pdf | reviews | bibtex
+@inproceedings{dong23clipsonic,
+  title = "CLIPSonic: Text-to-audio synthesis with unlabeled videos and pretrained language-vision models",
+  author = "Hao-Wen Dong and Xiaoyu Liu and Jordi Pons and Gautam Bhattacharya and Santiago Pascual and Joan Serra and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2023",
+  booktitle = "WASPAA"
+}
+	
+Unifying aspect planning and lexical constraints for generating explanations in recommendation
+Jiacheng Li, Zhankui He, Jingbo Shang, Julian McAuley
+Knowledge Discovery and Data Mining (KDD)
+pdf | reviews | code | bibtex
+@inproceedings{li23unifying,
+  title = "Unifying aspect planning and lexical constraints for generating explanations in recommendation",
+  author = "Jiacheng Li and Zhankui He and Jingbo Shang and Julian McAuley",
+  year = "2023",
+  booktitle = "KDD"
+}
+Text is all you need: Learning language representations for sequential recommendation
+Jiacheng Li, Ming Wang, Jin Li, Jinmiao Fu, Xin Shen, Jingbo Shang, Julian McAuley
+Knowledge Discovery and Data Mining (KDD)
+pdf | reviews | code | bibtex
+@inproceedings{li23text,
+  title = "Text is all you need: Learning language representations for sequential recommendation",
+  author = "Jiacheng Li and Ming Wang and Jin Li and Jinmiao Fu and Xin Shen and Jingbo Shang and Julian McAuley",
+  year = "2023",
+  booktitle = "KDD"
+}
+	
+Generative flow networks for listwise recommendation
+Shuchang Liu, Qingpeng Cai, Zhankui He, Bowen Sun, Julian McAuley, Dong Zheng, Peng Jiang, Kun Gai
+Knowledge Discovery and Data Mining (KDD)
+pdf | reviews | bibtex
+@inproceedings{liu23generative,
+  title = "Generative flow networks for listwise recommendation",
+  author = "Shuchang Liu and Qingpeng Cai and Zhankui He and Bowen Sun and Julian McAuley and Dong Zheng and Peng Jiang and Kun Gai",
+  year = "2023",
+  booktitle = "KDD"
+}
+	
+Adversarially detecting and remedying inconsistencies in natural language explanations
+Myeongjun Jang, Bodhisattwa Prasad Majumder, Julian McAuley, Thomas Lukasiewicz, Oana-Maria Camburu
+Annual Meeting of the Association for Computational Linguistics (ACL)
+reviews | bibtex
+@inproceedings{jang23adversarially,
+  title = "Adversarially detecting and remedying inconsistencies in natural language explanations",
+  author = "Myeongjun Jang and Bodhisattwa Prasad Majumder and Julian McAuley and Thomas Lukasiewicz and Oana-Maria Camburu",
+  year = "2023",
+  booktitle = "ACL"
+}
+Synthetic pre-training tasks for neural machine translation
+Zexue He, Graeme Blackwood, Rameswar Panda, Julian McAuley, Rogerio Feris
+Findings of ACL
+pdf | reviews | bibtex
+@inproceedings{he23synthetic,
+  title = "Synthetic pre-training tasks for neural machine translation",
+  author = "Zexue He and Graeme Blackwood and Rameswar Panda and Julian McAuley and Rogerio Feris",
+  year = "2023",
+  booktitle = "Findings of ACL"
+}
+	
+LongCoder: A long-range pre-trained language model for code completion
+Daya Guo, Canwen Xu, Nan Duan, Jian Yin, Julian McAuley
+International Conference on Machine Learning (ICML)
+reviews | bibtex
+@inproceedings{guo23longcoder,
+  title = "LongCoder: A long-range pre-trained language model for code completion",
+  author = "Daya Guo and Canwen Xu and Nan Duan and Jian Yin and Julian McAuley",
+  year = "2023",
+  booktitle = "ICML"
+}
+	
+CHiLS: Zero-shot image classification with hierarchical label sets
+Zachary Novack, Saurabh Garg, Julian McAuley, Zachary Chase Lipton
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{novack23chils,
+  title = "Zero-shot image classification with hierarchical label sets",
+  author = "Zachary Novack and Saurabh Garg and Julian McAuley and Zachary Chase Lipton",
+  year = "2023",
+  booktitle = "ICML"
+}
+Personalized Showcases: Generating multi-modal explanations for recommendations
+An Yan, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian McAuley
+SIGIR
+pdf | reviews | bibtex
+@inproceedings{yan23showcases,
+  title = "Personalized Showcases: Generating multi-modal explanations for recommendations",
+  author = "An Yan and Zhankui He and Jiacheng Li and Tianyang Zhang and Julian McAuley",
+  year = "2023",
+  booktitle = "SIGIR"
+}
+Multitrack music transformer
+Hao-Wen Dong, Ke Chen, Shlomo Dubnov, Julian McAuley, Taylor Berg-Kirkpatrick
+International Conference on Acoustics Speech and Signal Processing (ICASSP)
+pdf | reviews | bibtex
+@inproceedings{dong23multitrack,
+  title = "Multitrack music transformer",
+  author = "Hao-Wen Dong and Ke Chen and Shlomo Dubnov and Julian McAuley and Taylor Berg-Kirkpatrick",
+  year = "2023",
+  booktitle = "ICASSP"
+}
+Mirror: A natural language interface for data querying, summarization, and visualization
+Canwen Xu, Julian McAuley, Penghan Wang
+World Wide Web (WWW, demo track)
+reviews | bibtex
+@inproceedings{xu23mirror,
+  title = "Mirror: A natural language interface for data querying, summarization, and visualization",
+  author = "Canwen Xu, Julian McAuley, Penghan Wang",
+  year = "2023",
+  booktitle = "WWW"
+}
+	
+Jointly modeling products and resource pages for task-oriented recommendation
+Brendan Duncan, Surya Kallumadi, Taylor Berg-Kirkpatrick, Julian McAuley
+World Wide Web (WWW, industry track)
+reviews | bibtex
+@inproceedings{duncan23jointly,
+  title = "Jointly modeling products and resource pages for task-oriented recommendation",
+  author = "Brendan Duncan and Surya Kallumadi and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2023",
+  booktitle = "WWW"
+}
+	
+Learning vector-quantized item representation for transferable sequential recommenders
+Yupeng Hou, Zhankui He, Julian McAuley, Wayne Xin Zhao
+World Wide Web (WWW)
+pdf | reviews | code | bibtex
+@inproceedings{hou23vector,
+  title = "Learning vector-quantized item representation for transferable sequential recommenders",
+  author = "Yupeng Hou and Zhankui He and Julian McAuley and Wayne Xin Zhao",
+  year = "2023",
+  booktitle = "WWW"
+}
+Unsupervised improvement of factual knowledge in language models
+Nafis Sadeq, Byungkyu Kang, Prarit Lamba, Julian McAuley
+European Chapter of the Association for Computational Linguistics (EACL)
+reviews | bibtex
+@inproceedings{sadeq23unsupervised,
+  title = "Unsupervised improvement of factual knowledge in language models",
+  author = "Nafis Sadeq and Byungkyu Kang and Prarit Lamba and Julian McAuley",
+  year = "2023",
+  booktitle = "EACL"
+}
+	
+Assistive recipe editing through critiquing
+Diego Antognini, Shuyang Li, Boi Faltings, Julian McAuley
+European Chapter of the Association for Computational Linguistics (EACL)
+pdf | reviews | bibtex
+@inproceedings{antognini23assistive,
+  title = "Assistive recipe editing through critiquing",
+  author = "Diego Antognini and Shuyang Li and Boi Faltings and Julian McAuley",
+  year = "2023",
+  booktitle = "EACL"
+}
+A survey on dynamic neural networks for natural language processing
+Canwen Xu, Julian McAuley
+Findings of EACL
+pdf | reviews | bibtex
+@inproceedings{xu23surveyDNN,
+  title = "A survey on dynamic neural networks for natural language processing",
+  author = "Canwen Xu and Julian McAuley",
+  year = "2023",
+  booktitle = "Findings of EACL"
+}
+CLIPSep: Learning text-queried sound separation with noisy unlabeled videos
+Hao-Wen Dong, Naoya Takahashi, Yuki Mitsufuji, Julian McAuley, Taylor Berg-Kirkpatrick
+International Conference on Learning Representations (ICLR)
+pdf | reviews | bibtex
+@inproceedings{dong23clip,
+  title = "CLIPSep: Learning text-queried sound separation with noisy unlabeled videos",
+  author = "Hao-Wen Dong and Naoya Takahashi and Yuki Mitsufuji and Julian McAuley and Taylor Berg-Kirkpatrick",
+  year = "2023",
+  booktitle = "ICLR"
+}
+	
+A survey on model compression and acceleration for pretrained language models
+Canwen Xu, Julian McAuley
+AAAI Conference on Artificial Intelligence (AAAI)
+pdf | reviews | bibtex
+@inproceedings{xu23survey,
+  title = "A survey on model compression and acceleration for pretrained language models",
+  author = "Canwen Xu and Julian McAuley",
+  year = "2023",
+  booktitle = "AAAI"
+}
+Factual and informative review generation for explainable recommendation
+Zhouhang Xie, Sameer Singh, Julian McAuley, Bodhisattwa Majumder
+AAAI Conference on Artificial Intelligence (AAAI)
+pdf | reviews | bibtex
+@inproceedings{xie23factual,
+  title = "Factual and informative review generation for explainable recommendation",
+  author = "Zhouhang Xie and Sameer Singh and Julian McAuley and Bodhisattwa Majumder",
+  year = "2023",
+  booktitle = "AAAI"
+}
+Disambiguating medical reports via contrastive knowledge infusion
+Zexue He, An Yan, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
+AAAI Conference on Artificial Intelligence (AAAI, AI for Social Impact Track)
+pdf | reviews | bibtex
+@inproceedings{he23disambiguating,
+  title = "Disambiguating medical reports via contrastive knowledge infusion",
+  author = "Zexue He and An Yan and Amilcare Gentili and Julian McAuley and Chun-Nan Hsu",
+  year = "2023",
+  booktitle = "AAAI"
+}
+Exploiting explicit and implicit item relationships for session-based recommendation
+Zihao Li, Xianzhi Wang, Chao Yang, Lina Yao, Julian McAuley, Guandong Xu
+Web Search and Data Mining (WSDM)
+reviews | bibtex
+@inproceedings{li23exploiting,
+  title = "Exploiting explicit and implicit item relationships for session-based recommendation",
+  author = "Zihao Li and Xianzhi Wang and Chao Yang and Lina Yao and Julian McAuley and Guandong Xu",
+  year = "2023",
+  booktitle = "WSDM"
+}
+Violence against women on Twitter in India: testing a taxonomy for online misogyny and measuring its prevalence during COVID-19
+Nabamallika Dehingia, Julian McAuley, Lotus McDougal, Elizabeth Reed, Jay Silverman, Lianne Urada, Anita Raj
+PLOS One
+bibtex
+@article{dehingia23violence,
+  title = "Violence against women on Twitter in India: testing a taxonomy for online misogyny and measuring its prevalence during COVID-19",
+  author = "Nabamallika Dehingia and Julian McAuley and Lotus McDougal and Elizabeth Reed and Jay Silverman and Lianne Urada and Anita Raj",
+  year = "2023",
+  journal = "PLOS One"
+}
+Diversity-boosted generalization-specialization balancing for zero-shot learning
+Yun Li, Zhe Liu, Xiaojun Chang, Julian McAuley, Lina Yao
+IEEE Transactions on Multimedia
+pdf | reviews | bibtex
+@article{li23diversity,
+  title = "Diversity-boosted generalization-specialization balancing for zero-shot learning",
+  author = "Yun Li and Zhe Liu and Xiaojun Chang and Julian McAuley and Lina Yao",
+  year = "2023",
+  journal = "IEEE Transactions on Multimedia"
+}
+Climate and gender: Association between droughts and intimate partner violence in India
+Nabamallika Dehingia, Lotus McDougal, Jay Silverman, Elizabeth Reed, Lianne Urada, Julian McAuley, Abhishek Singh, Anita Raj
+American Journal of Epidemiology
+reviews | bibtex
+@article{dehingia23climate,
+  title = "Climate and gender: Association between droughts and intimate partner violence in India",
+  author = "Nabamallika Dehingia and Lotus McDougal and Jay Silverman and Elizabeth Reed and Lianne Urada and Julian McAuley and Abhishek Singh and Anita Raj",
+  year = "2023",
+  journal = "American Journal of Epidemiology"
+}
+A review of modern fashion recommender systems
+Yashar Deldjoo, Fatemeh Nazary, Arnau Ramisa, Julian McAuley, Giovanni Pellegrini, Alejandro Bellogin, Tommaso Di Noia
+ACM Computing Surveys (CSUR)
+pdf | reviews | bibtex
+@article{deldjoo23review,
+  title = "A review of modern fashion recommender systems",
+  author = "Yashar Deldjoo and Fatemeh Nazary and Arnau Ramisa and Julian McAuley and Giovanni Pellegrini and Alejandro Bellogin and Tommaso Di Noia",
+  year = "2023",
+  journal = "ACM Computing Surveys"
+}
+Deep reinforcement learning in recommender systems: A survey and new perspectives
+Xiaocong Chen, Lina Yao, Julian McAuley, Guanglin Zhou, Xianzhi Wang
+Knowledge-Based Systems
+pdf | reviews | bibtex
+@article{chen23reinforcement,
+  title = "Deep reinforcement learning in recommender systems: A survey and new perspectives",
+  author = "Xiaocong Chen and Lina Yao and Julian McAuley and Guanglin Zhou and Xianzhi Wang",
+  year = "2023",
+  journal = "Knowledge-Based Systems"
+}
+How large language models can augment perioperative medicine
+Rodney Gabriel, Edward Mariano, Julian McAuley, Christopher Wu
+Regional Anesthesia & Pain Medicine
+reviews | bibtex
+@article{chen23reinforcement,
+  title = "How large language models can augment perioperative medicine",
+  author = "Rodney Gabriel and Edward Mariano and Julian McAuley and Christopher Wu",
+  year = "2023",
+  journal = "Regional Anesthesia and Pain Medicine"
+}
+Robust multi-view fracture detection in the presence of other abnormalities using HAMIL-Net
+Xing Lu, Eric Chang, Jiang Du, An Yan, Julian McAuley, Amilcare Gentili, Chun-Nan Hsu
+Military Medicine
+reviews | bibtex
+@article{lu23robust,
+  title = "Robust multi-view fracture detection in the presence of other abnormalities using HAMIL-Net",
+  author = "Xing Lu and Eric Chang and Jiang Du and An Yan and Julian McAuley and Amilcare Gentili and Chun-Nan Hsu",
+  year = "2023",
+  journal = "Military Medicine"
+}
+Data distillation: A survey
+Noveen Sachdeva, Julian McAuley
+Transactions on Machine Learning Research (TMLR)
+pdf | reviews | bibtex
+@article{sachdeva23data,
+  title = "Data distillation: A survey",
+  author = "Noveen Sachdeva and Julian McAuley",
+  year = "2023",
+  journal = "TMLR"
+}
+Plug-and-play model-agnostic counterfactual policy synthesis for deep reinforcement learning based recommendation
+Siyu Wang, Xiaocong Chen, Julian McAuley, Sally Cripps, Lina Yao
+IEEE Transactions on Neural Networks and Learning Systems
+reviews | bibtex
+@article{wang23plug,
+  title = "Plug-and-play model-agnostic counterfactual policy synthesis for deep reinforcement learning based recommendation",
+  author = "Siyu Wang and Xiaocong Chen and Julian McAuley and Sally Cripps and Lina Yao",
+  year = "2023",
+  journal = "IEEE Transactions on Neural Networks and Learning Systems"
+}
+2022
+SHARE: A system for hierarchical assistive recipe editing
+Shuyang Li, Yufei Li, Jianmo Ni, Julian McAuley
+EMNLP
+pdf | reviews | bibtex
+@inproceedings{li22share,
+  title = "SHARE: A system for hierarchical assistive recipe editing",
+  author = "Shuyang Li and Yufei Li and Jianmo Ni and Julian McAuley",
+  year = "2022",
+  booktitle = "EMNLP"
+}
+Efficiently tuned parameters are task embeddings
+Wangchunshu Zhou, Canwen Xu, Julian McAuley
+EMNLP
+pdf | reviews | bibtex
+@inproceedings{zhou22efficiently,
+  title = "Efficiently tuned parameters are task embeddings",
+  author = "Wangchunshu Zhou and Canwen Xu and Julian McAuley",
+  year = "2022",
+  booktitle = "EMNLP"
+}
+InforMask: Unsupervised informative masking for language model pretraining
+Nafis Sadeq, Canwen Xu, Julian McAuley
+EMNLP
+pdf | reviews | bibtex
+@inproceedings{sadeq22informask,
+  title = "InforMask: Unsupervised informative masking for language model pretraining",
+  author = "Nafis Sadeq and Canwen Xu and Julian McAuley",
+  year = "2022",
+  booktitle = "EMNLP"
+}
+Controlling bias exposure for fair interpretable predictions
+Zexue He, Yu Wang, Bodhisattwa Prasad Majumder, Julian McAuley
+Findings of EMNLP
+pdf | reviews | bibtex
+@inproceedings{he22controlling,
+  title = "Controlling bias exposure for fair interpretable predictions",
+  author = "Zexue He and Yu Wang and Bodhisattwa Prasad Majumdera and Julian McAuley",
+  year = "2022",
+  booktitle = "Findings of EMNLP"
+}
+Infinite recommendation networks: A data-centric approach
+Noveen Sachdeva, Mehak Preet Dhaliwal, Carole-Jean Wu, Julian McAuley
+Neural Information Processing Systems (NeurIPS)
+pdf | reviews | bibtex
+@inproceedings{sachdeva22infinite,
+  title = "Infinite recommendation networks: A data-centric approach",
+  author = "Noveen Sachdeva and Mehak Preet Dhaliwal and Carole-Jean Wu and Julian McAuley",
+  year = "2022",
+  booktitle = "NeurIPS"
+}
+	
+Rank list sensitivity of recommender systems to interaction perturbations
+Sejoon Oh, Berk Ustun, Julian McAuley, Srijan Kumar
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{oh22rank,
+  title = "Rank list sensitivity of recommender systems to interaction perturbations",
+  author = "Sejoon Oh and Berk Ustun and Julian McAuley and Srijan Kumar",
+  year = "2022",
+  booktitle = "CIKM"
+}
+SPOT: Knowledge-enhanced language representations for information extraction
+Jiacheng Li, Yannis Katsis, Tyler Baldwin, Ho-Cheol Kim, Andrew Bartko, Julian McAuley, Chun-Nan Hsu
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{li22spot,
+  title = "Knowledge-enhanced language representations for information extraction",
+  author = "Jiacheng Li and Yannis Katsis and Tyler Baldwin and Ho-Cheol Kim and Andrew Bartko and Julian McAuley and Chun-Nan Hsu",
+  year = "2022",
+  booktitle = "CIKM"
+}
+Query-aware sequential recommendation
+Zhankui He, Handong Zhao, Zhaowen Wang, Zhe Lin, Ajinkya Kale, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{he22query,
+  title = "Query-aware sequential recommendation",
+  author = "Zhankui He and Handong Zhao and Zhaowen Wang and Zhe Lin and Ajinkya Kale and Julian McAuley",
+  year = "2022",
+  booktitle = "CIKM"
+}
+	
+Improving choral music separation through expressive synthesized data from sampled instruments
+Ke Chen, Hao-Wen Dong, Yi Luo, Julian McAuley, Taylor Berg-Kirkpatrick, Miller Puckette, Shlomo Dubnov
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | bibtex
+@inproceedings{chen22improving,
+  title = "Improving choral music separation through expressive synthesized data from sampled instruments",
+  author = "Ke Chen and Hao-Wen Dong and Yi Luo and Julian McAuley and Taylor Berg-Kirkpatrick and Miller Puckette and Shlomo Dubnov",
+  year = "2022",
+  booktitle = "ISMIR"
+}
+Self-supervised bot play for transcript-free conversational recommendation with rationales
+Shuyang Li, Bodhisattwa Prasad Majumder, Julian McAuley
+RecSys
+pdf | reviews | bibtex
+@inproceedings{li22bot,
+  title = "Self-supervised bot play for transcript-free conversational recommendation with rationales",
+  author = "Shuyang Li and Bodhisattwa Prasad Majumder and Julian McAuley",
+  year = "2022",
+  booktitle = "RecSys"
+}
+Bundle MCR: Towards conversational bundle recommendation
+Zhankui He, Handong Zhao, Tong Yu, Sungchul Kim, Fan Du, Julian McAuley
+RecSys
+pdf | reviews | bibtex
+@inproceedings{he22bundle,
+  title = "Bundle MCR: Towards conversational bundle recommendation",
+  author = "Zhankui He and Handong Zhao and Tong Yu and Sungchul Kim and Fan Du and Julian McAuley",
+  year = "2022",
+  booktitle = "RecSys"
+}
+	
+Fast autoregressive transformers meet RNNs for personalized adaptive cruise control
+Noveen Sachdeva, Ziran Wang, Kyungtae Han, Rohit Gupta, Julian McAuley
+IEEE International Conference on Intelligent Transportation Systems (ITSC)
+pdf | reviews | bibtex
+@inproceedings{sachdeva22gapformer,
+  title = "Fast autoregressive transformers meet RNNs for personalized adaptive cruise control",
+  author = "Noveen Sachdeva and Ziran Wang and Kyungtae Han and Rohit Gupta and Julian McAuley",
+  year = "2022",
+  booktitle = "IEEE International Conference on Intelligent Transportation Systems"
+}
+	
+Knowledge-grounded self-rationalization via extractive and natural language explanations
+Bodhisattwa Prasad Majumder, Oana Camburu, Thomas Lukasiewicz, Julian McAuley
+International Conference on Machine Learning (ICML)
+pdf | reviews | bibtex
+@inproceedings{majumder22knowledge,
+  title = "Knowledge-grounded self-rationalization via extractive and natural language explanations",
+  author = "Bodhisattwa Prasad Majumder and Oana Camburu and Thomas Lukasiewicz and Julian McAuley",
+  year = "2022",
+  booktitle = "ICML"
+}
+Automatic multi-label prompting: Simple and interpretable few-shot classification
+Han Wang, Canwen Xu, Julian McAuley
+North American Chapter of the Association for Computational Linguistics (NAACL)
+pdf | reviews | bibtex
+@inproceedings{wang22automatic,
+  title = "Automatic multi-label prompting: Simple and interpretable few-shot classification",
+  author = "Han Wang and Canwen Xu and Julian McAuley",
+  year = "2022",
+  booktitle = "NAACL"
+}
+Instilling type knowledge in language models via multi-task QA
+Shuyang Li, Mukund Sridhar, Chandana Satya Prakash, Jin Cao, Wael Hamza, Julian McAuley
+Findings of NAACL
+pdf | reviews | bibtex
+@inproceedings{li22instilling,
+  title = "Instilling type knowledge in language models via multi-task QA",
+  author = "Shuyang Li and Mukund Sridhar and Chandana Satya Prakash and Jin Cao and Wael Hamza and Julian McAuley",
+  year = "2022",
+  booktitle = "Findings of NAACL"
+}
+	
+Coarse-to-fine sparse sequential recommendation
+Jiacheng Li, Tong Zhao, Jin Li, Jim Chan, Christos Faloutsos, George Karypis, Soo-Min Pantel, Julian McAuley
+SIGIR
+pdf | reviews | code | bibtex
+@inproceedings{li22coarse,
+  title = "Coarse-to-fine sparse sequential recommendation",
+  author = "Jiacheng Li and Tong Zhao and Jin Li and Jim Chan and Christos Faloutsos and George Karypis and Soo-Min Pantel and Julian McAuley",
+  year = "2022",
+  booktitle = "SIGIR"
+}
+	
+Locality-sensitive state-guided experience replay optimization for sparse rewards in online recommendation
+Xiaocong Chen, Lina Yao, Julian McAuley, Weili Guan, Xiaojun Chang, Xianzhi Wang
+SIGIR
+pdf | reviews | bibtex
+@inproceedings{chen22locality,
+  title = "Locality-sensitive state-guided experience replay optimization for sparse rewards in online recommendation",
+  author = "Xiaocong Chen and Lina Yao and Julian McAuley and Weili Guan and Xiaojun Chang and Xianzhi Wang",
+  year = "2022",
+  booktitle = "SIGIR"
+}
+SkipBERT: Efficient inference with shallow layer skipping
+Jue Wang, Ke Chen, Gang Chen, Lidan Shou, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | bibtex
+@inproceedings{wang22skipbert,
+  title = "SkipBERT: Efficient inference with shallow layer skipping",
+  author = "Jue Wang and Ke Chen and Gang Chen and Lidan Shou and Julian McAuley",
+  year = "2022",
+  booktitle = "ACL"
+}
+BERT Learns to Teach: Knowledge distillation with meta learning
+Wangchunshu Zhou, Canwen Xu, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | bibtex
+@inproceedings{zhou22bert,
+  title = "BERT Learns to Teach: Knowledge distillation with meta learning",
+  author = "Wangchunshu Zhou and Canwen Xu and Julian McAuley",
+  year = "2022",
+  booktitle = "ACL"
+}
+UCTopic: Unsupervised contrastive learning for phrase representations and topic mining
+Jiacheng Li, Jingbo Shang, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | code | bibtex
+@inproceedings{li22unsupervised,
+  title = "UCTopic: Unsupervised contrastive learning for phrase representations and topic mining",
+  author = "Jiacheng Li and Jingbo Shang and Julian McAuley",
+  year = "2022",
+  booktitle = "ACL"
+}
+Achieving conversational goals with unsupervised post-hoc knowledge injection
+Bodhisattwa Prasad Majumder, Harsh Jhamtani, Taylor Berg-Kirkpatrick, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | bibtex
+@inproceedings{majumder22achieving,
+  title = "Achieving conversational goals with unsupervised post-hoc knowledge injection",
+  author = "Bodhisattwa Prasad Majumder and Harsh Jhamtani and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2022",
+  booktitle = "ACL"
+}
+LaPraDoR: Unsupervised pretrained dense retriever for zero-shot text retrieval
+Canwen Xu, Daya Guo, Nan Duan, Julian McAuley
+Findings of ACL
+pdf | reviews | bibtex
+@inproceedings{xu22laprador,
+  title = "LaPraDoR: Unsupervised pretrained dense retriever for zero-shot text retrieval",
+  author = "Canwen Xu and Daya Guo and Nan Duan and Julian McAuley",
+  year = "2022",
+  booktitle = "Findings of ACL"
+}
+AI-Moderated Decision Making: Capturing and balancing anchoring bias in sequential decision tasks
+Jessica Echterhoff, Matin Yarmand, Julian McAuley
+ACM Conference on Human Factors in Computing Systems (CHI)
+pdf | reviews | bibtex
+@inproceedings{echterhoff22moderated,
+  title = "AI-Moderated Decision Making: Capturing and balancing anchoring bias in sequential decision tasks",
+  author = "Jessica Echterhoff and Matin Yarmand and Julian McAuley",
+  year = "2022",
+  booktitle = "CHI"
+}
+Deep Performer: Score-to-audio music performance synthesis
+Hao-Wen Dong, Cong Zhou, Taylor Berg-Kirkpatrick, Julian McAuley
+International Conference on Acoustics Speech and Signal Processing (ICASSP)
+pdf | reviews | bibtex
+@inproceedings{dong22deep,
+  title = "Deep Performer: Score-to-audio music performance synthesis",
+  author = "Hao-Wen Dong and Cong Zhou and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2022",
+  booktitle = "ICASSP"
+}
+	
+Intent contrastive learning for sequential recommendation
+Yongjun Chen, Zhiwei Liu, Jia Li, Julian McAuley, Caiming Xiong
+World Wide Web (WWW)
+pdf | reviews | bibtex
+@inproceedings{chen22intent,
+  title = "Intent contrastive learning for sequential recommendation",
+  author = "Yongjun Chen and Zhiwei Liu and Jia Li and Julian McAuley and Caiming Xiong",
+  year = "2022",
+  booktitle = "WWW"
+}
+	
+Personalized complementary product recommendation
+An Yan, Chaosheng Dong, Yan Gao, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
+World Wide Web (WWW, industry track)
+pdf | reviews | bibtex
+@inproceedings{yan22personalized,
+  title = "Personalized complementary product recommendation",
+  author = "An Yan and Chaosheng Dong and Yan Gao and Jinmiao Fu and Tong Zhao and Yi Sun and Julian McAuley",
+  year = "2022",
+  booktitle = "WWW"
+}
+	
+Leashing the inner demons: Self-detoxification for language models
+Canwen Xu, Zexue He, Zhankui He, Julian McAuley
+AAAI Conference on Artificial Intelligence (AAAI)
+pdf | reviews | bibtex
+@inproceedings{xu22leashing,
+  title = "Leashing the inner demons: Self-detoxification for language models",
+  author = "Canwen Xu and Zexue He and Zhankui He and Julian McAuley",
+  year = "2022",
+  booktitle = "AAAI"
+}
+On sampling collaborative filtering datasets
+Noveen Sachdeva, Carole-Jean Wu, Julian McAuley
+Web Search and Data Mining (WSDM)
+pdf | reviews | code | bibtex
+@inproceedings{sachdeva22sampling,
+  title = "On sampling collaborative filtering datasets",
+  author = "Noveen Sachdeva and Carole-Jean Wu and Julian McAuley",
+  year = "2022",
+  booktitle = "WSDM"
+}
+	
+Cross-modal adversarial reprogramming
+Paarth Neekhara, Shehzeen Hussain, Jinglong Du, Shlomo Dubnov, Farinaz Koushanfar, Julian McAuley
+Winter Conference on Applications of Computer Vision (WACV)
+pdf | reviews | bibtex
+@inproceedings{neekhara22adversarial,
+  title = "Cross-modal adversarial reprogramming",
+  author = "Paarth Neekhara and Shehzeen Hussain and Jinglong Du and Shlomo Dubnov and Farinaz Koushanfar and Julian McAuley",
+  year = "2022",
+  booktitle = "WACV"
+}
+Using machine learning to explore factors associated with marital sexual violence in a cross-sectional study from India
+Lotus McDougal, Nabamallika Dehingia, Nandita Bhan, Abhishek Singh, Julian McAuley, Anita Raj
+BMJ Open
+pdf | bibtex
+@article{mcdougal22factors,
+  title = "Using machine learning to explore factors associated with marital sexual violence in a cross-sectional study from India",
+  author = "Lotus McDougal and Nabamallika Dehingia and Nandita Bhan and Abhishek Singh and Julian McAuley and Anita Raj",
+  year = "2022",
+  journal = "BMJ Open"
+}
+Help-seeking behavior by women experiencing intimate partner violence in india: A machine learning approach to identifying risk factors
+Nabamallika Dehingia, Arnab K Dey, Lotus McDougal, Julian McAuley, Abhishek Singh, Anita Raj
+PLOS One
+pdf | bibtex
+@article{dehingia22help,
+  title = "Help-seeking behavior by women experiencing intimate partner violence in india: A machine learning approach to identifying risk factors",
+  author = "Nabamallika Dehingia and Arnab K Dey and Lotus McDougal and Julian McAuley and Abhishek Singh and Anita Raj",
+  year = "2022",
+  journal = "PLOS One"
+}
+Using machine learning to understand determinants of IUD use in India: Analyses of the National Family Health Surveys
+Arnab K Dey, Nabamallika Dehingia, Nandita Bhan, Edwin Elizabeth Thomas, Lotus McDougal, Sarah Averbach, Julian McAuley, Abhishek Singh, Anita Raj
+Population Health
+pdf | reviews | bibtex
+@article{dey22iud,
+  title = "Using machine learning to understand determinants of IUD use in India: Analyses of the National Family Health Surveys",
+  author = "Arnab K Dey and Nabamallika Dehingia and Nandita Bhan and Edwin Elizabeth Thomas and Lotus McDougal and Sarah Averbach and Julian McAuley and Abhishek Singh and Anita Raj",
+  year = "2022",
+  journal = "Population Health"
+}
+An entropy-guided reinforced partial convolutional network for zero-shot learning
+Yun Li, Zhe Liu, Lina Yao, Xianzhi Wang, Julian McAuley, Xiaojun Chang
+IEEE Transactions on Circuits and Systems for Video Technology
+pdf | reviews | bibtex
+@article{li22entropy,
+  title = "An entropy-guided reinforced partial convolutional network for zero-shot learning",
+  author = "Yun Li and Zhe Liu and Lina Yao and Xianzhi Wang and Julian McAuley and Xiaojun Chang",
+  year = "2022",
+  journal = "IEEE Transactions on Circuits and Systems for Video Technology"
+}
+Rethink, Revisit, Revise: A spiral reinforced self-revised network for zero-shot learning
+Zhe Liu, Yun Li, Lina Yao, Julian McAuley, Sam Dixon
+IEEE Transactions on Neural Networks and Learning Systems
+pdf | reviews | bibtex
+@article{liu22spiral,
+  title = "Rethink, Revisit, Revise: A spiral reinforced self-revised network for zero-shot learning",
+  author = "Zhe Liu and Yun Li and Lina Yao and Julian McAuley and Sam Dixon",
+  year = "2022",
+  journal = "IEEE Transactions on Neural Networks and Learning Systems"
+}
+RadBERT: Adapting transformer-based language models to radiology
+An Yan, Julian McAuley, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Chun-Nan Hsu
+Radiology Artificial Intelligence
+pdf | reviews | code | bibtex
+@article{yan22radbert,
+  title = "RadBERT: Adapting transformer-based language models to radiology",
+  author = "An Yan and Julian McAuley and Xing Lu and Jiang Du and Eric Chang and Amilcare Gentili and Chun-Nan Hsu",
+  year = "2022",
+  journal = "Radiology Artificial Intelligence"
+}
+Global sub-mesoscale ocean variability from multi-year altimetry
+Yao Yu, Sarah Gille, David Sandwell, Julian McAuley
+Artificial Intelligence for the Earth Systems
+pdf | reviews | bibtex
+@article{yu22global,
+  title = "Global sub-mesoscale ocean variability from multi-year altimetry",
+  author = "Yao Yu and Sarah Gille and David Sandwell and Julian McAuley",
+  year = "2022",
+  journal = "Artificial Intelligence for the Earth Systems"
+}
+2021
+Expressive neural voice cloning
+Paarth Neekhara, Shehzeen Hussain, Shlomo Dubnov, Farinaz Koushanfar, Julian McAuley
+Asian Conference on Machine Learning (ACML)
+pdf | reviews | bibtex
+@inproceedings{neekhara21expressive,
+  title = "Expressive neural voice cloning",
+  author = "Paarth Neekhara and Shehzeen Hussain and Shlomo Dubnov and Farinaz Koushanfar and Julian McAuley",
+  year = "2021",
+  booktitle = "ACML"
+}
+Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression
+Canwen Xu, Wangchunshu Zhou, Tao Ge, Ke Xu, Julian McAuley and Furu Wei
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | bibtex
+@inproceedings{xu21beyond,
+  title = "Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression",
+  author = "Canwen Xu and Wangchunshu Zhou and Tao Ge and Ke Xu and Julian McAuley and Furu Wei",
+  year = "2021",
+  booktitle = "EMNLP"
+}
+	
+Detect and perturb: Neutral rewriting of biased and sensitive text via gradient-based decoding
+Zexue He, Bodhisattwa Prasad Majumder and Julian McAuley
+Findings of EMNLP
+pdf | reviews | bibtex
+@inproceedings{he21detect,
+  title = "Detect and perturb: Neutral rewriting of biased and sensitive text via gradient-based decoding",
+  author = "Zexue He and Bodhisattwa Prasad Majumder and Julian McAuley",
+  year = "2021",
+  booktitle = "Findings of EMNLP"
+}
+Weakly supervised contrastive learning for chest x-ray report generation
+An Yan, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley and Chun-Nan Hsu
+Findings of EMNLP
+pdf | reviews | bibtex
+@inproceedings{yan21weakly,
+  title = "Weakly supervised contrastive learning for chest x-ray report generation",
+  author = "An Yan and Zexue He and Xing Lu and Jiang Du and Eric Chang and Amilcare Gentili and Julian McAuley and Chun-Nan Hsu",
+  year = "2021",
+  booktitle = "Findings of EMNLP"
+}
+Locally constrained self-attentive sequential recommendation
+Zhankui He, Handong Zhao, Zhe Lin, Zhaowen Wang, Ajinkya Kale, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{he21locally,
+  title = "Locally constrained self-attentive sequential recommendation",
+  author = "Zhankui He and Handong Zhao and Zhe Lin and Zhaowen Wang and Ajinkya Kale and Julian McAuley",
+  year = "2021",
+  booktitle = "CIKM"
+}
+	
+Towards automatic instrumentation by learning to separate parts in symbolic multitrack music
+Hao-Wen Dong, Chris Donahue, Taylor Berg-Kirkpatrick, Julian McAuley
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | code | bibtex
+@inproceedings{dong21towards,
+  title = "Towards automatic instrumentation by learning to separate parts in symbolic multitrack music",
+  author = "Hao-Wen Dong and Chris Donahue and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2021",
+  booktitle = "ISMIR"
+}
+An empirical evaluation of end-to-end polyphonic optical music recognition
+Sachinda Edirisooriya, Hao-Wen Dong, Julian McAuley, Taylor Berg-Kirkpatrick
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | bibtex
+@inproceedings{edirisooriya21empirical,
+  title = "An empirical evaluation of end-to-end polyphonic optical music recognition",
+  author = "Sachinda Edirisooriya and Hao-Wen Dong and Julian McAuley and Taylor Berg-Kirkpatrick",
+  year = "2021",
+  booktitle = "ISMIR"
+}
+Black-box attacks on sequential recommenders via data-free model extraction
+Zhenrui Yue, Zhankui He, Huimin Zeng, Julian McAuley
+RecSys
+pdf | reviews | bibtex
+@inproceedings{yue21attacks,
+  title = "Black-box attacks on sequential recommenders via data-free model extraction",
+  author = "Zhenrui Yue and Zhankui He and Huimin Zeng and Julian McAuley",
+  year = "2021",
+  booktitle = "RecSys"
+}
+Recommendation on live-streaming platforms: Dynamic availability and repeat consumption
+Jérémie Rappaz, Julian McAuley, Karl Aberer
+RecSys
+pdf | reviews | data | bibtex
+@inproceedings{rappaz21recommendation,
+  title = "Recommendation on live-streaming platforms: Dynamic availability and repeat consumption",
+  author = "Jérémie Rappaz and Julian McAuley and Karl Aberer",
+  year = "2021",
+  booktitle = "RecSys"
+}
+ReZero is all you need: Fast convergence at large depth
+Thomas Bachlechner, Bodhisattwa Prasad Majumder, Henry Mao, Garrison Cottrell, Julian McAuley
+Uncertainty in Artificial Intelligence (UAI)
+pdf | reviews | bibtex
+@inproceedings{bachlechner21rezero,
+  title = "ReZero is all you need: Fast convergence at large depth",
+  author = "Thomas Bachlechner and Bodhisattwa Prasad Majumder and Henry Mao and Garrison Cottrell and Julian McAuley",
+  year = "2021",
+  booktitle = "UAI"
+}
+Unsupervised enrichment of persona-grounded dialog with background stories
+Bodhisattwa Prasad Majumder, Taylor Berg-Kirkpatrick, Julian McAuley, Harsh Jhamtani
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | bibtex
+@inproceedings{majumder21unsupervised,
+  title = "Unsupervised enrichment of persona-grounded dialog with background stories",
+  author = "Bodhisattwa Prasad Majumder and Taylor Berg-Kirkpatrick and Julian McAuley and Harsh Jhamtani",
+  year = "2021",
+  booktitle = "ACL"
+}
+Weakly supervised named entity tagging with learnable logical rules
+Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley, Zhe Feng
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{li21weakly,
+  title = "Weakly supervised named entity tagging with learnable logical rules",
+  author = "Jiacheng Li and Haibo Ding and Jingbo Shang and Julian McAuley and Zhe Feng",
+  year = "2021",
+  booktitle = "ACL"
+}
+	
+Exposing vulnerabilities of deepfake detection systems with robust attacks
+Shehzeen Hussain, Paarth Neekhara, Brian Dolhansky, Joanna Bitton, Cristian Canton Ferrer, Julian McAuley, Farinaz Koushanfar
+Digital Threats: Research and Practice
+pdf | reviews | bibtex
+@inproceedings{hussain21exposing,
+  title = "Exposing vulnerabilities of deepfake detection systems with robust attacks",
+  author = "Shehzeen Hussain and Paarth Neekhara and Brian Dolhansky and Joanna Bitton and Cristian Canton Ferrer and Julian McAuley and Farinaz Koushanfar",
+  year = "2021",
+  booktitle = "Digital Threats: Research and Practice"
+}
+	
+Ask what's missing and what's useful: Improving clarification question generation using global knowledge
+Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley, Julian McAuley
+North American Chapter of the Association for Computational Linguistics (NAACL)
+pdf | reviews | bibtex
+@inproceedings{majumder21ask,
+  title = "Ask what's missing and what's useful: Improving clarification question generation using global knowledge",
+  author = "Bodhisattwa Prasad Majumder and Sudha Rao and Michel Galley and Julian McAuley",
+  year = "2021",
+  booktitle = "NAACL"
+}
+	
+Blow the Dog Whistle: A Chinese dataset for cant understanding with common sense and world knowledge
+Canwen Xu, Wangchunshu Zhou, Tao Ge, Ke Xu, Julian McAuley, Furu Wei
+North American Chapter of the Association for Computational Linguistics (NAACL)
+pdf | reviews | bibtex
+@inproceedings{xu21blow,
+  title = "Blow the Dog Whistle: A Chinese dataset for cant understanding with common sense and world knowledge",
+  author = "Canwen Xu and Wangchunshu Zhou and Tao Ge and Ke Xu and Julian McAuley and Furu Wei",
+  year = "2021",
+  booktitle = "NAACL"
+}
+	
+WaveGuard: Understanding and mitigating audio adversarial examples
+Shehzeen Hussain, Paarth Neekhara, Shlomo Dubnov, Julian McAuley, Farinaz Koushanfar
+USENIX Security Symposium
+pdf | reviews | bibtex
+@inproceedings{hussain21waveguard,
+  title = "WaveGuard: Understanding and mitigating audio adversarial examples",
+  author = "Shehzeen Hussain and Paarth Neekhara and Shlomo Dubnov and Julian McAuley and Farinaz Koushanfar",
+  year = "2021",
+  booktitle = "USENIX Security Symposium"
+}
+Zero-shot generalization in dialog state tracking through generative question answering
+Shuyang Li, Jin Cao, Mukund Sridhar, Henghui Zhu, Shang-Wen Li, Wael Hamza, Julian McAuley
+European Chapter of the Association for Computational Linguistics (EACL)
+pdf | reviews | bibtex
+@inproceedings{li21zero,
+  title = "Zero-shot generalization in dialog state tracking through generative question answering",
+  author = "Shuyang Li and Jin Cao and Mukund Sridhar and Henghui Zhu and Shang-Wen Li and Wael Hamza and Julian McAuley",
+  year = "2021",
+  booktitle = "EACL"
+}
+	
+Adversarial Deepfakes: Evaluating vulnerability of deepfake detectors to adversarial examples
+Shehzeen Hussain, Paarth Neekhara, Malhar Jere, Farinaz Koushanfar, Julian McAuley
+Winter Conference on Applications of Computer Vision (WACV)
+pdf | reviews | bibtex
+@inproceedings{hussain21adversarial,
+  title = "Adversarial Deepfakes: Evaluating vulnerability of deepfake detectors to adversarial examples",
+  author = "Shehzeen Hussain and Paarth Neekhara and Malhar Jere and Farinaz Koushanfar and Julian McAuley",
+  year = "2021",
+  booktitle = "WACV"
+}
+Machine learning analysis of non-marital sexual violence in India
+Anita Raj, Nabamallika Dehingia, Abhishek Singh, Julian McAuley, Lotus McDougal
+EClinicalMedicine
+pdf | reviews | bibtex
+@article{raj21machine,
+  title = "Machine learning analysis of non-marital sexual violence in India",
+  author = "Anita Raj and Nabamallika Dehingia and Abhishek Singh and Julian McAuley and Lotus McDougal",
+  year = "2021",
+  journal = "EClinicalMedicine"
+}
+Deep generation of user-customized items
+Chen Fang, Zhaowen Wang, Wang-Cheng Kang, Julian McAuley
+U.S. Patent Application 17/192,713
+pdf
+Generating user-customized items using a visually-aware image generation network
+Chen Fang, Zhaowen Wang, Wang-Cheng Kang, Julian McAuley
+U.S. Patent 10,970,765
+pdf
+2020
+BERT loses patience: Fast and robust inference with early exit
+Wangchunshu Zhou, Canwen Xu, Tao Ge, Julian McAuley, Ke Xu, Furu Wei
+Neural Information Processing Systems (NeurIPS)
+pdf | reviews | bibtex
+@inproceedings{zhou20bert,
+  title = "BERT loses patience: Fast and robust inference with early exit",
+  author = "Wangchunshu Zhou and Canwen Xu and Tao Ge and Julian McAuley and Ke Xu and Furu Wei",
+  year = "2020",
+  booktitle = "NeurIPS"
+}
+	
+Like hiking? You probably enjoy nature: Persona-grounded dialog with commonsense expansions
+Bodhisattwa Prasad Majumder, Harsh Jhamtani, Taylor Berg-Kirkpatrick, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | bibtex
+@inproceedings{majumder20persona,
+  title = "Like hiking? You probably enjoy nature: Persona-grounded dialog with commonsense expansions",
+  author = "Bodhisattwa Prasad Majumder and Harsh Jhamtani and Taylor Berg-Kirkpatrick and Julian McAuley",
+  year = "2020",
+  booktitle = "EMNLP"
+}
+Interview: Large-scale modeling of media dialog with discourse patterns and knowledge grounding
+Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | bibtex
+@inproceedings{majumder20interview,
+  title = "Interview: Large-scale modeling of media dialog with discourse patterns and knowledge grounding",
+  author = "Bodhisattwa Prasad Majumder and Shuyang Li and Jianmo Ni and Julian McAuley",
+  year = "2020",
+  booktitle = "EMNLP"
+}
+Learning visual-semantic embeddings for reporting abnormal findings on chest X-rays
+Jianmo Ni, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
+Findings of EMNLP
+pdf | reviews | bibtex
+@inproceedings{ni20learning,
+  title = "Learning visual-semantic embeddings for reporting abnormal findings on chest X-rays",
+  author = "Jianmo Ni and Chun-Nan Hsu and Amilcare Gentili and Julian McAuley",
+  year = "2020",
+  booktitle = "Findings of EMNLP"
+}
+Speech recognition and multi-speaker diarization of long conversations
+Henry Mao, Shuyang Li, Julian McAuley, Garrison Cottrell
+Interspeech
+pdf | reviews | bibtex
+@inproceedings{mao20speech,
+  title = "Speech recognition and multi-speaker diarization of long conversations",
+  author = "Henry Mao and Shuyang Li and Julian McAuley and Garrison Cottrell",
+  year = "2020",
+  booktitle = "Interspeech"
+}
+MusPy: A toolkit for symbolic music generation
+Hao-Wen Dong, Ke Chen, Julian McAuley, Taylor Berg-Kirkpatrick
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{dong20muspy,
+  title = "MusPy: A toolkit for symbolic music generation",
+  author = "Hao-Wen Dong and Ke Chen and Julian McAuley and Taylor Berg-Kirkpatrick",
+  year = "2020",
+  booktitle = "ISMIR"
+}
+A longitudinal evaluation of a best-practices CS1
+Adrian Salguero, Julian McAuley, Beth Simon and Leo Porter
+International Computing Education Research Conference (ICER)
+pdf | reviews | bibtex
+@inproceedings{salguero20longitudinal,
+  title = "A longitudinal evaluation of a best-practices CS1",
+  author = "Adrian Salguero and Julian McAuley and Beth Simon and Leo Porter",
+  year = "2020",
+  booktitle = "ICER"
+}
+How useful are reviews for recommendation? A critical review and potential improvements
+Noveen Sachdeva, Julian McAuley
+SIGIR
+pdf | reviews | code (Python) | bibtex
+@inproceedings{sachdeva20useful,
+  title = "How useful are reviews for recommendation? A critical review and potential improvements",
+  author = "Noveen Sachdeva and Julian McAuley",
+  year = "2020",
+  booktitle = "SIGIR"
+}
+Attentive sequential models of latent intent for next item recommendation
+Mehrab Tanjim, Congzhe Su, Ethan Benjamin, Diane Hu, Liangjie Hong, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{tanjim20attentive,
+  title = "Attentive sequential models of latent intent for next item recommendation",
+  author = "Mehrab Tanjim and Congzhe Su and Ethan Benjamin and Diane Hu and Liangjie Hong and Julian McAuley",
+  year = "2020",
+  booktitle = "WWW"
+}
+	
+Addressing marketing bias in product recommendations
+Mengting Wan, Jianmo Ni, Rishabh Misra, Julian McAuley
+Web Search and Data Mining (WSDM)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{wan20addressing,
+  title = "Addressing marketing bias in product recommendations",
+  author = "Mengting Wan and Jianmo Ni and Rishabh Misra and Julian McAuley",
+  year = "2020",
+  booktitle = "WSDM"
+}
+Time-interval aware self-attention for sequential recommendation
+Jiacheng Li, Yujie Wang, Julian McAuley
+Web Search and Data Mining (WSDM)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{li20interval,
+  title = "Time-interval aware self-attention for sequential recommendation",
+  author = "Jiacheng Li and Yujie Wang and Julian McAuley",
+  year = "2020",
+  booktitle = "WSDM"
+}
+Stacked mixed-order graph convolutional networks for collaborative filtering
+Hengrui Zhang, Julian McAuley
+SIAM International Conference on Data Mining (SDM)
+pdf | reviews | code (Tensorflow) | bibtex
+@inproceedings{zhang20stacked,
+  title = "Stacked mixed-order graph convolutional networks for collaborative filtering",
+  author = "Hengrui Zhang and Julian McAuley",
+  year = "2020",
+  booktitle = "SDM"
+}
+The performance of an artificial neural network model in predicting the early distribution kinetics of propofol in morbidly obese and lean subjects
+Jerry Ingrande, Rodney Gabriel, Julian McAuley, Karolina Krasinska, Allis Chien, Hendrikus Lemmens
+Anesthesia and Analgesia
+pdf | reviews | bibtex
+@article{ingrande20performance,
+  title = "The performance of an artificial neural network model in predicting the early distribution kinetics of propofol in morbidly obese and lean subjects",
+  author = "Jerry Ingrande and Rodney Gabriel and Julian McAuley and Karolina Krasinska and Allis Chien and Hendrikus Lemmens",
+  year = "2020",
+  journal = "Anesthesia and Analgesia"
+}
+Application of machine learning to understand child marriage in India
+Anita Raj, Nabamallika Dehingia, Abhishek Singh, Lotus McDougal, Julian McAuley
+Population Health
+pdf | reviews | bibtex
+@article{raj20application,
+  title = "Application of machine learning to understand child marriage in India",
+  author = "Anita Raj and Nabamallika Dehingia and Abhishek Singh and Lotus McDougal and Julian McAuley",
+  year = "2020",
+  journal = "Population Health"
+}
+2019
+Justifying recommendations using distantly-labeled reviews and fined-grained aspects
+Jianmo Ni, Jiacheng Li, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | code (PyTorch) | bibtex
+@inproceedings{ni19justifying,
+  title = "Justifying recommendations using distantly-labeled reviews and fined-grained aspects",
+  author = "Jianmo Ni and Jiacheng Li and Julian McAuley",
+  year = "2019",
+  booktitle = "EMNLP"
+}
+Scalable and accurate dialogue state tracking via hierarchical sequence generation
+Liliang Ren, Jianmo Ni, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{ren19scalable,
+  title = "Scalable and accurate dialogue state tracking via hierarchical sequence generation",
+  author = "Liliang Ren and Jianmo Ni and Julian McAuley",
+  year = "2019",
+  booktitle = "EMNLP"
+}
+Generating personalized recipes from historical user preferences
+Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, Julian McAuley
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{majumder19generating,
+  title = "Generating personalized recipes from historical user preferences",
+  author = "Bodhisattwa Prasad Majumder and Shuyang Li and Jianmo Ni and Julian McAuley",
+  year = "2019",
+  booktitle = "EMNLP"
+}
+Improving neural story generation by targeted common sense grounding
+Henry Mao, Bodhisattwa Prasad Majumder, Julian McAuley, Garrison Cottrell
+Empirical Methods in Natural Language Processing (EMNLP)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{mao19improving,
+  title = "Improving neural story generation by targeted common sense grounding",
+  author = "Henry Mao and Bodhisattwa Prasad Majumder and Julian McAuley and Garrison Cottrell",
+  year = "2019",
+  booktitle = "EMNLP"
+}
+Candidate generation with binary codes for large-scale Top-N recommendation
+Wang-Cheng Kang, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{kang19candidate,
+  title = "Candidate generation with binary codes for large-scale Top-N recommendation",
+  author = "Wang-Cheng Kang and Julian McAuley",
+  year = "2019",
+  booktitle = "CIKM"
+}
+2D Convolutional neural networks for sequential recommendation
+An Yan, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{yan19convolutional,
+  title = "2D Convolutional neural networks for sequential recommendation",
+  author = "An Yan and Shuo Cheng and Wang-Cheng Kang and Mengting Wan and Julian McAuley",
+  year = "2019",
+  booktitle = "CIKM"
+}
+Expediting TTS synthesis with adversarial vocoding
+Paarth Neekhara, Chris Donahue, Miller Puckette, Shlomo Dubnov, Julian McAuley
+Interspeech
+pdf | reviews | bibtex
+@inproceedings{neekhara19expediting,
+  title = "Expediting TTS synthesis with adversarial vocoding",
+  author = "Paarth Neekhara and Chris Donahue and Miller Puckette and Shlomo Dubnov and Julian McAuley",
+  year = "2019",
+  booktitle = "Interspeech"
+}
+Universal adversarial perturbations for speech recognition systems
+Paarth Neekhara, Shehzeen Hussain, Prakhar Pandey, Shlomo Dubnov, Julian McAuley, Farinaz Koushanfar
+Interspeech
+pdf | reviews | bibtex
+@inproceedings{neekhara19universal,
+  title = "Universal adversarial perturbations for speech recognition systems",
+  author = "Paarth Neekhara and Shehzeen Hussain and Prakhar Pandey and Shlomo Dubnov and Julian McAuley and Farinaz Koushanfar",
+  year = "2019",
+  booktitle = "Interspeech"
+}
+Embryo staging with weakly-supervised region selection and dynamically-decoded predictions
+Tingfung Lau, Nathan Ng, Julian Gingold, Nina Desai, Julian McAuley, Zachary Lipton
+Machine Learning for Health Care (MLHC)
+pdf | reviews | bibtex
+@inproceedings{lau19embryo,
+  title = "Embryo staging with weakly-supervised region selection and dynamically-decoded predictions",
+  author = "Tingfung Lau and Nathan Ng and Julian Gingold and Nina Desai and Julian McAuley and Zachary Lipton",
+  year = "2019",
+  booktitle = "MLHC"
+}
+Improving multi-instrumental music generation with cross-domain pre-training
+Chris Donahue, Henry Mao, Yiting Li, Garrison Cottrell, Julian McAuley
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | bibtex
+@inproceedings{donahue19improving,
+  title = "Improving multi-instrumental music generation with cross-domain pre-training",
+  author = "Chris Donahue and Henry Mao and Yiting Li and Garrison Cottrell and Julian McAuley",
+  year = "2019",
+  booktitle = "ISMIR"
+}
+Fine-grained spoiler detection from large-scale review corpora
+Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | data | bibtex
+@inproceedings{wan19spoiler,
+  title = "Fine-grained spoiler detection from large-scale review corpora",
+  author = "Mengting Wan and Rishabh Misra and Ndapa Nakashole and Julian McAuley",
+  year = "2019",
+  booktitle = "ACL"
+}
+Complete the Look: Scene-based complementary product recommendation
+Wang-Cheng Kang, Eric Kim, Jure Leskovec, Charles Rosenberg, Julian McAuley
+Computer Vision and Pattern Recognition (CVPR)
+pdf | reviews | data | bibtex
+@inproceedings{kang19complete,
+  title = "Complete the Look: Scene-based complementary product recommendation",
+  author = "Wang-Cheng Kang and Eric Kim and Jure Leskovec and Charles Rosenberg and Julian McAuley",
+  year = "2019",
+  booktitle = "CVPR"
+}
+	
+Learning to attend on essential terms: An enhanced retriever-reader model for open-domain question answering
+Jianmo Ni, Chenguang Zhu, Weizhu Chen and Julian McAuley
+North American Chapter of the Association for Computational Linguistics (NAACL)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{ni19learning,
+  title = "Learning to attend on essential terms: An enhanced retriever-reader model for open-domain question answering",
+  author = "Jianmo Ni and Chenguang Zhu and Weizhu Chen and Julian McAuley",
+  year = "2019",
+  booktitle = "NAACL"
+}
+	
+Modeling heart rate and activity data for personalized fitness recommendation
+Jianmo Ni, Larry Muhlstein, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{ni19modeling,
+  title = "Modeling heart rate and activity data for personalized fitness recommendation",
+  author = "Jianmo Ni and Larry Muhlstein and Julian McAuley",
+  year = "2019",
+  booktitle = "WWW"
+}
+Adversarial audio synthesis
+Chris Donahue, Julian McAuley, Miller Puckette
+International Conference on Learning Representations (ICLR)
+pdf | reviews | bibtex
+@inproceedings{donahue19adversarial,
+  title = "Adversarial audio synthesis",
+  author = "Chris Donahue and Julian McAuley and Miller Puckette",
+  year = "2019",
+  booktitle = "ICLR"
+}
+Generating visually-aware item recommendations using a personalized preference ranking network
+Chen Fang, Zhaowen Wang, Wang-Cheng Kang, Julian McAuley
+U.S. Patent Application 15/897,822
+pdf
+2018
+Does mitigating ML's impact disparity require treatment disparity?
+Zachary Lipton, Alexandra Chouldechova, Julian McAuley
+Neural Information Processing Systems (NIPS)
+pdf | reviews | code | bibtex
+@inproceedings{lipton19mitigating,
+  title = "Does mitigating ML's impact disparity require treatment disparity?",
+  author = "Zachary Lipton and Alexandra Chouldechova and Julian McAuley",
+  year = "2018",
+  booktitle = "NIPS"
+}
+Self-attentive sequential recommendation
+Wang-Cheng Kang, Julian McAuley
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{kang18attentive,
+  title = "Self-attentive sequential recommendation",
+  author = "Wang-Cheng Kang and Julian McAuley",
+  year = "2018",
+  booktitle = "ICDM"
+}
+Representing and recommending shopping baskets with complementarity, compatibility, and loyalty
+Mengting Wan, Di Wang, Jie Liu, Paul Bennett, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{wan18representing,
+  title = "Representing and recommending shopping baskets with complementarity, compatibility, and loyalty",
+  author = "Mengting Wan and Di Wang and Jie Liu and Paul Bennett and Julian McAuley",
+  year = "2018",
+  booktitle = "CIKM"
+}
+	
+Recommendation through mixtures of heterogeneous item relationships
+Wang-Cheng Kang, Mengting Wan, Julian McAuley
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex | code (Python) | bibtex
+@inproceedings{kang18recommendation,
+  title = "Recommendation through mixtures of heterogeneous item relationships",
+  author = "Wang-Cheng Kang and Mengting Wan and Julian McAuley",
+  year = "2018",
+  booktitle = "CIKM"
+}
+Translation-based factorization machines for sequential recommendation
+Rajiv Pasricha, Julian McAuley
+RecSys
+pdf | reviews | code (Python) | bibtex
+@inproceedings{pasricha18translation,
+  title = "Translation-based factorization machines for sequential recommendation",
+  author = "Rajiv Pasricha and Julian McAuley",
+  year = "2018",
+  booktitle = "RecSys"
+}
+Item recommendation on monotonic behavior chains
+Mengting Wan, Julian McAuley
+RecSys
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{wan18item,
+  title = "Item recommendation on monotonic behavior chains",
+  author = "Mengting Wan and Julian McAuley",
+  year = "2018",
+  booktitle = "RecSys"
+}
+Learning consumer and producer embeddings for user-generated content recommendation
+Wang-Cheng Kang, Julian McAuley
+RecSys
+pdf | reviews | code (Python) | bibtex
+@inproceedings{kang18learning,
+  title = "Learning consumer and producer embeddings for user-generated content recommendation",
+  author = "Wang-Cheng Kang and Julian McAuley",
+  year = "2018",
+  booktitle = "RecSys"
+}
+Learning within-session budgets from browsing trajectories
+Diane Hu, Raphael Louca, Liangjie Hong, Julian McAuley
+RecSys
+pdf | reviews | bibtex
+@inproceedings{hu18learning,
+  title = "Learning within-session budgets from browsing trajectories",
+  author = "Diane Hu and Raphael Louca and Liangjie Hong and Julian McAuley",
+  year = "2018",
+  booktitle = "RecSys"
+}
+	
+Decomposing fit semantics for product size recommendation in metric spaces
+Rishabh Misra, Mengting Wan, Julian McAuley
+RecSys
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{misra18decomposing,
+  title = "Decomposing fit semantics for product size recommendation in metric spaces",
+  author = "Rishabh Misra and Mengting Wan and Julian McAuley",
+  year = "2018",
+  booktitle = "RecSys"
+}
+The NES Music Database: A symbolic music dataset with expressive performance attributes
+Chris Donahue, Henry Mao, Julian McAuley
+International Society for Music Information Retrieval Conference (ISMIR)
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{donahue18nes,
+  title = "The NES Music Database: A symbolic music dataset with expressive performance attributes",
+  author = "Chris Donahue and Henry Mao and Julian McAuley",
+  year = "2018",
+  booktitle = "ISMIR"
+}
+Translation-based recommendation: A scalable method for modeling sequential behavior
+Ruining He, Wang-Cheng Kang, Julian McAuley
+IJCAI Sister Conference (Best Paper Track)
+pdf | reviews | data | bibtex
+@inproceedings{he18translation,
+  title = "Translation-based recommendation: A scalable method for modeling sequential behavior",
+  author = "Ruining He and Wang-Cheng Kang and Julian McAuley",
+  year = "2018",
+  booktitle = "IJCAI Sister Conference (Best Paper Track)"
+}
+Personalized review generation by expanding phrases and attending on aspect-aware representations
+Jianmo Ni, Julian McAuley
+Annual Meeting of the Association for Computational Linguistics (ACL)
+pdf | reviews | bibtex
+@inproceedings{ni18personalized,
+  title = "Personalized review generation by expanding phrases and attending on aspect-aware representations",
+  author = "Jianmo Ni and Julian McAuley",
+  year = "2018",
+  booktitle = "ACL"
+}
+Semantically decomposing the latent spaces of Generative Adversarial Networks
+Chris Donahue, Zachary Lipton, Akshay Balsubramani, Julian McAuley
+International Conference on Learning Representations (ICLR)
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{donahue18semantically,
+  title = "Semantically decomposing the latent spaces of Generative Adversarial Networks",
+  author = "Chris Donahue and Zachary Lipton and Akshay Balsubramani and Julian McAuley",
+  year = "2018",
+  booktitle = "ICLR"
+}
+One-class recommendation with asymmetric textual feedback
+Mengting Wan, Julian McAuley
+SIAM International Conference on Data Mining (SDM)
+pdf | reviews | bibtex
+@inproceedings{wan18asymmetric,
+  title = "One-class recommendation with asymmetric textual feedback",
+  author = "Mengting Wan and Julian McAuley",
+  year = "2018",
+  booktitle = "SDM"
+}
+Transferrable semi-automated semantic metadata normalization using an intermediate representation
+Jason Koh, Bharathan Balaji, Dhiman Sengupta, Julian McAuley, Rajesh Gupta, Yuvraj Agarwal
+BuildSys
+pdf | reviews | bibtex
+@inproceedings{koh18transferrable,
+  title = "Transferrable semi-automated semantic metadata normalization using an intermediate representation",
+  author = "Jason Koh and Bharathan Balaji and Dhiman Sengupta and Julian McAuley and Rajesh Gupta and Yuvraj Agarwal",
+  year = "2018",
+  booktitle = "BuildSys"
+}
+Identifying and characterizing highly similar notes in big clinical note datasets
+Rodney Gabriel, Tsung-Ting Kuo, Julian McAuley, Chun-Nan Hsu
+Journal of Biomedical Informatics (JBI)
+pdf | reviews | bibtex
+@article{gabriel18identifying,
+  title = "Identifying and characterizing highly similar notes in big clinical note datasets",
+  author = "Rodney Gabriel and Tsung-Ting Kuo and Julian McAuley and Chun-Nan Hsu",
+  year = "2018",
+  journal = "Journal of Biomedical Informatics"
+}
+
+Recommender systems
+Julian McAuley
+Book chapter in Encyclopedia of Big Data (L. Schintler and C. McNeely, editors)
+link
+
+2017
+Predicting surgery duration with neural heteroscedastic regression
+Nathan Ng, Rodney Gabriel, Julian McAuley, Charles Elkan, Zachary Lipton
+Machine Learning for Health Care (MLHC)
+pdf | reviews | bibtex
+@inproceedings{ng17predicting,
+  title = "Predicting surgery duration with neural heteroscedastic regression",
+  author = "Nathan Ng and Rodney Gabriel and Julian McAuley and Charles Elkan and Zachary Lipton",
+  year = "2017",
+  booktitle = "MLHC"
+}
+Visually-aware fashion recommendation and design with generative image models
+Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{kang17visually,
+  title = "Visually-aware fashion recommendation and design with generative image models",
+  author = "Wang-Cheng Kang and Chen Fang and Zhaowen Wang and Julian McAuley",
+  year = "2017",
+  booktitle = "ICDM"
+}
+	
+Estimating reactions and recommending products with generative models of reviews
+Jianmo Ni, Zachary Lipton, Sharad Vikram, Julian McAuley
+International Joint Conference on Natural Language Processing (IJCNLP)
+pdf | reviews | bibtex
+@inproceedings{ni17estimating,
+  title = "Estimating reactions and recommending products with generative models of reviews",
+  author = "Jianmo Ni and Zachary Lipton and Sharad Vikram and Julian McAuley",
+  year = "2017",
+  booktitle = "IJCNLP"
+}
+Translation-based recommendation
+Ruining He, Wang-Cheng Kang, Julian McAuley
+RecSys (best paper runner-up)
+pdf | reviews | code (C++) | data | questions | bibtex
+@inproceedings{he17translation,
+  title = "Translation-based recommendation",
+  author = "Ruining He and Wang-Cheng Kang and Julian McAuley",
+  year = "2017",
+  booktitle = "RecSys"
+}
+Dance Dance Convolution
+Chris Donahue, Zachary Lipton, Julian McAuley
+International Conference on Machine Learning (ICML)
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{donahue17dance,
+  title = "Dance Dance Convolution",
+  author = "Chris Donahue and Zachary Lipton and Julian McAuley",
+  year = "2017",
+  booktitle = "ICML"
+}
+SPMC: Socially-aware personalized Markov chains for sparse sequential recommendation
+Chenwei Cai, Ruining He, Julian McAuley
+International Joint Conference on Artificial Intelligence (IJCAI)
+pdf | reviews | code (C++) | bibtex
+@inproceedings{cai17spmc,
+  title = "SPMC: Socially-aware personalized Markov chains for sparse sequential recommendation",
+  author = "Chenwei Cai and Ruining He and Julian McAuley",
+  year = "2017",
+  booktitle = "IJCAI"
+}
+Dynamic programming bipartite belief propagation for hyper graph matching
+Zhen Zhang, Julian McAuley, Yong Li, Wei Wei, Yanning Zhang, Javen Shi
+International Joint Conference on Artificial Intelligence (IJCAI)
+pdf | reviews | bibtex
+@inproceedings{zhang17dynamic,
+  title = "Dynamic programming bipartite belief propagation for hyper graph matching",
+  author = "Zhen Zhang and Julian McAuley and Yong Li and Wei Wei and Yanning Zhang and Javen Shi",
+  year = "2017",
+  booktitle = "IJCAI"
+}
+Improving recommendation accuracy using networks of substitutable and complementary products
+Tong Zhao, Julian McAuley, Mengya Li, Irwin King
+International Joint Conference on Neural Networks
+pdf | reviews | bibtex
+@inproceedings{zhao17improving,
+  title = "Improving recommendation accuracy using networks of substitutable and complementary products",
+  author = "Tong Zhao and Julian McAuley and Mengya Li and Irwin King",
+  year = "2017",
+  booktitle = "International Joint Conference on Neural Networks"
+}
+Generating and personalizing bundle recommendations on Steam
+Apurva Pathak, Kshitiz Gupta, Julian McAuley
+SIGIR
+pdf | reviews | code (Python) | data | bibtex
+@inproceedings{pathak17generating,
+  title = "Generating and personalizing bundle recommendations on Steam",
+  author = "Apurva Pathak and Kshitiz Gupta and Julian McAuley",
+  year = "2017",
+  booktitle = "SIGIR"
+}
+Modeling consumer preferences and price sensitivities from large-scale grocery shopping transaction logs
+Mengting Wan, Di Wang, Matt Goldman, Matt Taddy, Justin Rao, Jie Liu, Dimitrios Lymberopoulos, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | code (Python) | bibtex
+@inproceedings{wan17modeling,
+  title = "Modeling consumer preferences and price sensitivities from large-scale grocery shopping transaction logs",
+  author = "Mengting Wan and Di Wang and Matt Goldman and Matt Taddy and Justin Rao and Jie Liu and Dimitrios Lymberopoulos and Julian McAuley",
+  year = "2017",
+  booktitle = "WWW"
+}
+	
+Bartering books to beers: A recommender system for exchange platforms
+Jérémie Rappaz, Maria-Luiza Vladarean, Julian McAuley, Michele Catasta
+Web Search and Data Mining (WSDM)
+pdf | reviews | code (Matlab) | data | bibtex
+@inproceedings{rappaz17bartering,
+  title = "Bartering books to beers: A recommender system for exchange platforms",
+  author = "Jérémie Rappaz and Maria-Luiza Vladarean and Julian McAuley and Michele Catasta",
+  year = "2017",
+  booktitle = "WSDM"
+}
+Solving constrained combinatorial optimization problems via MAP inference without high-order penalties
+Zhen Zhang, Javen Shi, Julian McAuley, Wei Wei, Yanning Zhang, Rui Yao, Anton van den Hengel
+AAAI Conference on Artificial Intelligence (AAAI)
+pdf | reviews | bibtex
+@inproceedings{zhang17solving,
+  title = "Solving constrained combinatorial optimization problems via MAP inference without high-order penalties",
+  author = "Zhen Zhang and Javen Shi and Julian McAuley and Wei Wei and Yanning Zhang and Rui Yao and Anton van den Hengel",
+  year = "2017",
+  booktitle = "AAAI"
+}
+2016
+Modeling ambiguity, subjectivity, and diverging viewpoints in opinion question answering systems
+Mengting Wan, Julian McAuley
+International Conference on Data Mining (ICDM)
+pdf | reviews | data | bibtex
+@inproceedings{wan16modeling,
+  title = "Modeling ambiguity, subjectivity, and diverging viewpoints in opinion question answering systems",
+  author = "Mengting Wan and Julian McAuley",
+  year = "2016",
+  booktitle = "ICDM"
+}
+Learning compatibility across categories for heterogeneous item recommendation
+Ruining He, Charles Packer, Julian McAuley
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{he16learning,
+  title = "Learning compatibility across categories for heterogeneous item recommendation",
+  author = "Ruining He and Charles Packer and Julian McAuley",
+  year = "2016",
+  booktitle = "ICDM"
+}
+Fusing similarity models with Markov chains for sparse sequential recommendation
+Ruining He, Julian McAuley
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (C++) | bibtex
+@inproceedings{he16fusing,
+  title = "Fusing similarity models with Markov chains for sparse sequential recommendation",
+  author = "Ruining He and Julian McAuley",
+  year = "2016",
+  booktitle = "ICDM"
+}
+Vista: A visually, socially, and temporally-aware model for artistic recommendation
+Ruining He, Chen Fang, Zhaowen Wang, Julian McAuley
+RecSys
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{he16vista,
+  title = "Vista: A visually, socially, and temporally-aware model for artistic recommendation",
+  author = "Ruining He and Chen Fang and Zhaowen Wang and Julian McAuley",
+  year = "2016",
+  booktitle = "RecSys"
+}
+	
+Addressing complex and subjective product-related queries with customer reviews
+Julian McAuley, Alex Yang
+World Wide Web (WWW)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{mcauley16addressing,
+  title = "Addressing complex and subjective product-related queries with customer reviews",
+  author = "Julian McAuley and Alex Yang",
+  year = "2016",
+  booktitle = "WWW"
+}
+Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering
+Ruining He, Julian McAuley
+World Wide Web (WWW)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{he16modeling,
+  title = "Ups and downs: Modeling the visual evolution of fashion trends with one-class collaborative filtering",
+  author = "Ruining He and Julian McAuley",
+  year = "2016",
+  booktitle = "WWW"
+}
+Fashionista: A fashion-aware graphical system for exploring visually similar items
+Ruining He, Chunbin Lin, Julian McAuley
+World Wide Web (WWW, demo track)
+pdf | reviews | bibtex
+@inproceedings{he16fashionista,
+  title = "Fashionista: A fashion-aware graphical system for exploring visually similar items",
+  author = "Ruining He and Chunbin Lin and Julian McAuley",
+  year = "2016",
+  booktitle = "WWW"
+}
+VBPR: Visual bayesian personalized ranking from implicit feedback
+Ruining He, Julian McAuley
+AAAI Conference on Artificial Intelligence (AAAI)
+pdf | reviews | code | data | bibtex
+@inproceedings{he16vbpr,
+  title = "VBPR: Visual bayesian personalized ranking from implicit feedback",
+  author = "Ruining He and Julian McAuley",
+  year = "2016",
+  booktitle = "AAAI"
+}
+Pairwise matching through max-weight bipartite belief propagation
+Zhen Zhang, Javen Shi, Julian McAuley, Wei Wei, Yanning Zhang, Anton van den Hengel
+Computer Vision and Pattern Recognition (CVPR)
+pdf | reviews | code (Matlab) | bibtex
+@inproceedings{zhang16pairwise,
+  title = "Pairwise matching through max-weight bipartite belief propagation",
+  author = "Zhen Zhang and Javen Shi and Julian McAuley and Wei Wei and Yanning Zhang and Anton van den Hengel",
+  year = "2016",
+  booktitle = "CVPR"
+}
+Sparse hierarchical embeddings for visually-aware one-class collaborative filtering
+Ruining He, Chunbin Lin, Jianguo Wang, Julian McAuley
+International Joint Conference on Artificial Intelligence (IJCAI)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{he16sparse,
+  title = "Sparse hierarchical embeddings for visually-aware one-class collaborative filtering",
+  author = "Ruining He and Chunbin Lin and Jianguo Wang and Julian McAuley",
+  year = "2016",
+  booktitle = "IJCAI"
+}
+2015
+Learning visual clothing style with heterogeneous dyadic co-occurrences
+Andreas Veit, Balazs Kovacs, Sean Bell, Julian McAuley, Kavita Bala, Serge Belongie
+International Conference on Computer Vision (ICCV)
+pdf | reviews | bibtex
+@inproceedings{veit15learning,
+  title = "Learning visual clothing style with heterogeneous dyadic co-occurrences",
+  author = "Andreas Veit and Balazs Kovacs and Sean Bell and Julian McAuley and Kavita Bala and Serge Belongie",
+  year = "2015",
+  booktitle = "ICCV"
+}
+Image-based recommendations on styles and substitutes
+Julian McAuley, Christopher Targett, Javen Shi, Anton van den Hengel
+SIGIR
+pdf | reviews | code (C++) | data | slides | questions | bibtex
+@inproceedings{mcauley15image,
+  title = "Image-based recommendations on styles and substitutes",
+  author = "Julian McAuley and Christopher Targett and Javen Shi and Anton van den Hengel",
+  year = "2015",
+  booktitle = "SIGIR"
+}
+Inferring networks of substitutable and complementary products
+Julian McAuley, Rahul Pandey, Jure Leskovec
+Knowledge Discovery and Data Mining (KDD)
+pdf | reviews | code (C++) | data | poster | questions | bibtex
+@inproceedings{mcauley15inferring,
+  title = "Inferring networks of substitutable and complementary products",
+  author = "Julian McAuley and Rahul Pandey and Jure Leskovec",
+  year = "2015",
+  booktitle = "KDD"
+}
+Top-N recommendation with missing implicit feedback
+Daryl Lim, Julian McAuley, Gert Lanckriet
+RecSys
+pdf | reviews | poster | bibtex
+@inproceedings{lim15recommendation,
+  title = "Top-N recommendation with missing implicit feedback",
+  author = "Daryl Lim and Julian McAuley and Gert Lanckriet",
+  year = "2015",
+  booktitle = "RecSys"
+}
+Improving latent factor models via personalized feature projection for one-class recommendation
+Tong Zhao, Julian McAuley, Irwin King
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{zhao15improving,
+  title = "Improving latent factor models via personalized feature projection for one-class recommendation",
+  author = "Tong Zhao and Julian McAuley and Irwin King",
+  year = "2015",
+  booktitle = "CIKM"
+}
+2014
+Leveraging social connections to improve personalized ranking for collaborative filtering
+Tong Zhao, Julian McAuley, Irwin King
+Conference on Information and Knowledge Management (CIKM)
+pdf | reviews | bibtex
+@inproceedings{zhao15leveraging,
+  title = "Leveraging social connections to improve personalized ranking for collaborative filtering",
+  author = "Tong Zhao and Julian McAuley and Irwin King",
+  year = "2014",
+  booktitle = "CIKM"
+}
+Finding progression stages in time-evolving event sequences
+Jaewon Yang, Julian McAuley, Jure Leskovec, Paea LePendu, Nigam Shah
+World Wide Web (WWW)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{yang14finding,
+  title = "Finding progression stages in time-evolving event sequences",
+  author = "Jaewon Yang and Julian McAuley and Jure Leskovec and Paea LePendu and Nigam Shah",
+  year = "2014",
+  booktitle = "WWW"
+}
+Detecting cohesive and 2-mode communities in directed and undirected networks
+Jaewon Yang, Julian McAuley, Jure Leskovec
+Web Search and Data Mining (WSDM)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{yang14detecting,
+  title = "Detecting cohesive and 2-mode communities in directed and undirected networks",
+  author = "Jaewon Yang and Julian McAuley and Jure Leskovec",
+  year = "2014",
+  booktitle = "WSDM"
+}
+Discovering social circles in ego networks
+Julian McAuley, Jure Leskovec
+ACM Transactions on Knowledge Discovery from Data (TKDD)
+pdf | reviews | bibtex | code (C++) | data | Kaggle | Kaggle data | questions | bibtex
+@article{mcauley14discovering,
+  title = "Discovering social circles in ego networks",
+  author = "Julian McAuley and Jure Leskovec",
+  year = "2014",
+  journal = "ACM Transactions on Knowledge Discovery from Data"
+}
+2013
+Hidden factors and hidden topics: Understanding rating dimensions with review text
+Julian McAuley, Jure Leskovec
+RecSys
+pdf | reviews | code (C++) | data | slides | questions | bibtex
+@inproceedings{mcauley13hidden,
+  title = "Hidden factors and hidden topics: Understanding rating dimensions with review text",
+  author = "Julian McAuley and Jure Leskovec",
+  year = "2013",
+  booktitle = "RecSys"
+}
+From amateurs to connoisseurs: Modeling the evolution of user expertise through online reviews
+Julian McAuley, Jure Leskovec
+World Wide Web (WWW)
+pdf | reviews | code (C++) | data | slides | bibtex
+@inproceedings{mcauley13amateurs,
+  title = "From amateurs to connoisseurs: Modeling the evolution of user expertise through online reviews",
+  author = "Julian McAuley and Jure Leskovec",
+  year = "2013",
+  booktitle = "WWW"
+}
+Understanding the interplay between titles, content, and communities in social media
+Himabindu Lakkaraju, Julian McAuley, Jure Leskovec
+International Conference on Weblogs and Social Media (ICWSM)
+pdf | reviews | data | slides | bibtex
+@inproceedings{lakkaraju13understanding,
+  title = "Understanding the interplay between titles, content, and communities in social media",
+  author = "Himabindu Lakkaraju and Julian McAuley and Jure Leskovec",
+  year = "2013",
+  booktitle = "ICWSM"
+}
+Community detection in networks with node attributes
+Jaewon Yang, Julian McAuley, Jure Leskovec
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (C++) | data | bibtex
+@inproceedings{yang13community,
+  title = "Community detection in networks with node attributes",
+  author = "Jaewon Yang and Julian McAuley and Jure Leskovec",
+  year = "2013",
+  booktitle = "ICDM"
+}
+2012
+Learning to discover social circles in ego networks
+Julian McAuley, Jure Leskovec
+Neural Information Processing Systems (NIPS)
+pdf | reviews | code (C++) | data | poster | Kaggle | Kaggle data | questions | bibtex
+@inproceedings{mcauley12learning,
+  title = "Learning to discover social circles in ego networks",
+  author = "Julian McAuley and Jure Leskovec",
+  year = "2012",
+  booktitle = "NIPS"
+}
+Learning attitudes and attributes from multi-aspect reviews
+Julian McAuley, Jure Leskovec, Dan Jurafsky
+International Conference on Data Mining (ICDM)
+pdf | reviews | code (C++) | data | slides | bibtex
+@inproceedings{mcauley12attitudes,
+  title = "Learning attitudes and attributes from multi-aspect reviews",
+  author = "Julian McAuley and Jure Leskovec and Dan Jurafsky",
+  year = "2012",
+  booktitle = "ICDM"
+}
+Image labeling on a network: Using social-network metadata for image classification
+Julian McAuley, Jure Leskovec
+European Conference on Computer Vision (ECCV)
+pdf | reviews | code (C++) | data | poster | questions | bibtex
+@inproceedings{mcauley12image,
+  title = "Image labeling on a network: Using social-network metadata for image classification",
+  author = "Julian McAuley and Jure Leskovec",
+  year = "2012",
+  booktitle = "ECCV"
+}
+Optimization of robust loss functions for weakly-labeled image taxonomies
+Julian McAuley, Arnau Ramisa, Tiberio Caetano
+International Journal of Computer Vision (IJCV)
+pdf | reviews | code (C++) | questions | bibtex
+@article{mcauley12optimization,
+  title = "Optimization of robust loss functions for weakly-labeled image taxonomies",
+  author = "Julian McAuley and Arnau Ramisa and Tiberio Caetano",
+  year = "2012",
+  journal = "International Journal of Computer Vision"
+}
+Fast matching of large point sets under occlusions
+Julian McAuley, Tiberio Caetano
+Pattern Recognition
+pdf | reviews | bibtex | code (C++) | data | bibtex
+@article{mcauley12fast,
+  title = "Fast matching of large point sets under occlusions",
+  author = "Julian McAuley and Tiberio Caetano",
+  year = "2012",
+  journal = "Pattern Recognition"
+}
+2011
+Optimization of robust loss functions for weakly-labeled image taxonomies: An ImageNet case study
+Julian McAuley, Arnau Ramisa, Tiberio Caetano
+Energy Minimization Methods in Computer Vision and Pattern Recognition (EMMCVPR)
+pdf | reviews | code (C++) | slides | bibtex
+@inproceedings{mcauley11optimization,
+  title = "Optimization of robust loss functions for weakly-labeled image taxonomies: An ImageNet case study",
+  author = "Julian McAuley and Arnau Ramisa and Tiberio Caetano",
+  year = "2011",
+  booktitle = "EMMCVPR"
+}
+Faster algorithms for max-product message-passing
+Julian McAuley, Tiberio Caetano
+Journal of Machine Learning Research (JMLR)
+pdf | reviews | code (C++) | bibtex
+@article{mcauley11faster,
+  title = "Faster algorithms for max-product message-passing",
+  author = "Julian McAuley and Tiberio Caetano",
+  year = "2011",
+  journal = "Journal of Machine Learning Research"
+}
+Fast inference with min-sum matrix product
+Pedro Felzenszwalb, Julian McAuley
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+pdf | reviews | code (C++) | bibtex
+@article{felzenszwalb11fast,
+  title = "Fast inference with min-sum matrix product",
+  author = "Pedro Felzenszwalb and Julian McAuley",
+  year = "2011",
+  journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+}
+Unified graph matching in Euclidean spaces and applications to image comparison and retrieval
+Julian McAuley, Teofilo de Campos
+U.S. Patent 8,407,029
+link
+Consistent hierarchical labeling of images and image regions
+Julian McAuley, Teofilo de Campos, Gabriela Csurka, Florent Perronnin
+U.S. Patent 9,355,337
+link
+2010
+Exploiting data-independence for fast belief-propagation
+Julian McAuley, Tiberio Caetano
+International Conference on Machine Learning (ICML)
+pdf | reviews | code (C++) | poster | bibtex
+@inproceedings{mcauley10exploiting,
+  title = "Exploiting data-independence for fast belief-propagation",
+  author = "Julian McAuley and Tiberio Caetano",
+  year = "2010",
+  booktitle = "ICML"
+}
+Unified graph matching in Euclidean spaces
+Julian McAuley, Teofilo de Campos, Tiberio Caetano
+Computer Vision and Pattern Recognition (CVPR)
+pdf | reviews | code (C++) | data | poster | bibtex
+@inproceedings{mcauley10unified,
+  title = "Unified graph matching in Euclidean spaces",
+  author = "Julian McAuley and Teofilo de Campos and Tiberio Caetano",
+  year = "2010",
+  booktitle = "CVPR"
+}
+Exploiting within-clique factorizations in junction-tree algorithms
+Julian McAuley, Tiberio Caetano
+Artificial Intelligence and Statistics (AISTATS)
+pdf | reviews | code (C++) | poster | bibtex
+@inproceedings{mcauley10factorizations,
+  title = "Exploiting within-clique factorizations in junction-tree algorithms",
+  author = "Julian McAuley and Tiberio Caetano",
+  year = "2010",
+  booktitle = "AISTATS"
+}
+Graphical models
+Julian McAuley, Tiberio Caetano, Wray Buntine
+Book chapter in Encyclopedia of Machine Learning (C. Sammut and G. Webb, editors)
+link
+2009
+Exponential family graph matching and ranking
+James Petterson, Tiberio Caetano, Julian McAuley, Jin Yu
+Neural Information Processing Systems (NIPS)
+pdf | reviews | code (C++) | poster | bibtex
+@inproceedings{petterson09exponential,
+  title = "Exponential family graph matching and ranking",
+  author = "James Petterson and Tiberio Caetano and Julian McAuley and Jin Yu",
+  year = "2009",
+  booktitle = "NIPS"
+}
+Hierarchical image-region labeling via structured learning
+Julian McAuley, Teofilo de Campos, Gabriela Csurka, Florent Perronnin
+British Machine Vision Conference (BMVC)
+pdf | reviews | code (C++) | poster | bibtex
+@inproceedings{mcauley09hierarchical,
+  title = "Hierarchical image-region labeling via structured learning",
+  author = "Julian McAuley and Teofilo de Campos and Gabriela Csurka and Florent Perronnin",
+  year = "2009",
+  booktitle = "BMVC"
+}
+Shape classification through structured learning of matching measures
+Longbin Chen, Julian McAuley, Rogerio Feris, Tiberio Caetano, Matthew Turk
+Computer Vision and Pattern Recognition (CVPR)
+pdf | reviews | code (C++) | poster | bibtex
+@inproceedings{chen09shape,
+  title = "Shape classification through structured learning of matching measures",
+  author = "Longbin Chen and Julian McAuley and Rogerio Feris and Tiberio Caetano and Matthew Turk",
+  year = "2009",
+  booktitle = "CVPR"
+}
+Learning graph matching
+Tiberio Caetano, Julian McAuley, Li Cheng, Quoc Le, Alex Smola
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+pdf | reviews | code (C++) | data | bibtex
+@article{caetano09learning,
+  title = "Learning graph matching",
+  author = "Tiberio Caetano and Julian McAuley and Li Cheng and Quoc Le and Alex Smola",
+  year = "2009",
+  journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+}
+Faster graphical models for point-pattern matching
+Tiberio Caetano, Julian McAuley
+Spatial Vision (by invitation)
+pdf | reviews | code (C++) | data | bibtex
+@article{caetano09faster,
+  title = "Faster graphical models for point-pattern matching",
+  author = "Tiberio Caetano and Julian McAuley",
+  year = "2009",
+  journal = "Spatial Vision"
+}
+2008
+Robust near-isometric matching via structured learning of graphical models
+Julian McAuley, Tiberio Caetano, Alex Smola
+Neural Information Processing Systems (NIPS)
+pdf | reviews | code (C++) | data | poster | bibtex
+@inproceedings{mcauley08robust,
+  title = "Robust near-isometric matching via structured learning of graphical models",
+  author = "Julian McAuley and Tiberio Caetano and Alex Smola",
+  year = "2008",
+  booktitle = "NIPS"
+}
+Graph rigidity, cyclic belief propagation and point pattern matching
+Julian McAuley, Tiberio Caetano, Marconi Barbosa
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+pdf | reviews | code (C++) | data | bibtex
+@article{mcauley08graph,
+  title = "Graph rigidity, cyclic belief propagation and point pattern matching",
+  author = "Julian McAuley and Tiberio Caetano and Marconi Barbosa",
+  year = "2008",
+  journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+}
+2007
+The rich-club phenomenon across complex network hierarchies
+Julian McAuley, Tiberio Caetano, Luciano da Fontoura Costa
+Applied Physics Letters
+pdf | reviews | code (C++) | bibtex
+@article{mcauley07rich,
+  title = "The rich-club phenomenon across complex network hierarchies",
+  author = "Julian McAuley and Tiberio Caetano and Luciano da Fontoura Costa",
+  year = "2007",
+  journal = "Applied Physics Letters"
+}
+2006
+Learning high-order MRF priors of color images
+Julian McAuley, Tiberio Caetano, Alex Smola, Matthias Franz
+International Conference on Machine Learning (ICML)
+pdf | reviews | code (C/Matlab) | poster | slides | bibtex
+@inproceedings{mcauley07learning,
+  title = "Learning high-order MRF priors of color images",
+  author = "Julian McAuley and Tiberio Caetano and Alex Smola and Matthias Franz",
+  year = "2007",
+  booktitle = "ICML"
+}
+

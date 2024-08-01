@@ -1,0 +1,187 @@
+Professor: Swabha Swayamdipta
+University: University of Southern California
+URL: https://swabhs.com/
+Description: about
+(current)
+group
+publications
+teaching
+talks
+Swabha Swayamdipta
+
+Gabilan Assistant Professor • USC Viterbi CS • Associate Director of USC Center for AI and Society • USC NLP
+
+My goal is to design frameworks that allow robust, and reliable frameworks that allow AI systems to be broadly and safely deployed, especially in applications with societal implications. Three directions that this corresponds to are:
+
+Safety-Critical, Robust and Reliable Frameworks for Evaluation:
+What cannot be measured, cannot be improved. How can we reliably compare the generative capabilities of language models, and ensure our assessment is robust? How can we tell if performance match can translate to application safety, especially when there are societal implications? How can we evaluate new capabilities in LLMs when we do not necessarily know the correct answer?
+Understanding the Mechanisms that Drive Language Technologies:
+Even the most reliable evaluation may not reveal much about the mechanisms driving powerful yet opaque models. What do model geometries reveal about the processes underlying our models, and how can we improve models through different designs? Are models by design limited to making some choices which can uniquely identify them?
+Human and AI Collaboration:
+AI technologies are designed by humans and for humans, the future of AI involves cooperation and collaboration with humans. How can we say when a general-purpose model will reliably serve the custom utility for a human user? Where can these technologies complement human capabilities and where not?
+
+These challenges require novel and creative techniques for redesigning generative evaluation to keep pace with model performance. This brings together a broad array of empirical research with theoretical fundamentals underlying language models.
+
+news
+May 08, 2024	Excited to receive the USC Office of Research and Innovation’s Zumberge Preliminary Studies DEI in Research Award with my co-PI Eric Rice.
+Nov 30, 2023	Excited to be appointed as an Associate Director of USC’s Center for AI in Society.
+Sep 11, 2023	Honored to receive the Intel Rising Stars Award in 2023!
+Jun 23, 2023	Taught NLP and Language Models to high-school students via USC Viterbi K-12 Discover Engineering. Slides adapted from Greg Durrett (thanks!).
+May 26, 2023	Made an appearance on ABC7 Live where I talked about the impact of AI.
+selected publications
+See here for a full list.
+Preprint
+Compare without Despair: Reliable Preference Evaluation with Generation Separability
+Sayan Ghosh , Tejas Srinivasan , and Swabha Swayamdipta
+2024
+Abstract
+
+Human evaluation of generated language through pairwise preference judgments is pervasive. However, under common scenarios, such as when generations from a model pair are very similar, or when stochastic decoding results in large variations in generations, it results in inconsistent preference ratings. We address these challenges by introducing a meta-evaluation measure, separability, which estimates how suitable a test instance is for pairwise preference evaluation. For a candidate test instance, separability samples multiple generations from a pair of models, and measures how distinguishable the two sets of generations are. Our experiments show that instances with high separability values yield more consistent preference ratings from both human- and auto-raters. Further, the distribution of separability allows insights into which test benchmarks are more valuable for comparing models. Finally, we incorporate separability into ELO ratings, accounting for how suitable each test instance might be for reliably ranking LLMs. Overall, separability has implications for consistent, efficient and robust preference evaluation of LLMs with both human- and auto-raters.
+
+Preprint
+OATH-Frames: Characterizing Online Attitudes Towards Homelessness via LLM Assistants
+Jaspreet Ranjit , Brihi Joshi , Rebecca Dorn , Laura Petry , Olga Koumoundouros , Jayne Bottarini , Peichen Liu , Eric Rice , and Swabha Swayamdipta
+2024
+Abstract BLOG Code
+
+Homelessness in the U.S. is widespread; individual beliefs and attitudes towards homelessness—often expressed on social media are complex and nuanced (e.g. critical as well as sympathetic). Such attitudes can be challenging to summarize at scale, obfuscating the broader public opinion which advocacy organizations use to guide public policy and reform efforts. Our work proposes an approach to enable a large-scale study on homelessness via two major contributions. First, with the help of domain experts in social work and their trainees, we characterize Online Attitudes towards Homelessness in nine hierarchical frames (OATH-Frames) on a collection of 4K social media posts. Further, in an effort to ease the annotation of these frames, we employ GPT-4 as an LLM assistant to the experts; GPT-4 + Expert annotation presents an attractive trade off owing to a 6.5× speedup in annotation time despite only incurring a 2 point F1 difference in annotation performance. Our effort results in a collection of 8K social media posts labeled by domain and trained experts (with and without GPT-4 assistance). Second, using predicted OATH-Frames on a Flan-T5-Large model trained on our data, we perform a large-scale analysis on 2.4M posts on homelessness. We find that posts that contain mentions of west coast states express more harmful generalizations of people experiencing homelessness (PEH) compared to posts about east coast states. We also find marked differences in attitudes across vulnerable populations as they are compared to PEH as being either more or less deserving of aid.
+
+COLM
+Logits of API-Protected LLMs Leak Proprietary Information
+Matthew Finlayson , Xiang Ren , and Swabha Swayamdipta
+In Proceedings of COLM (to appear) , 2024
+Abstract
+
+The commercialization of large language models (LLMs) has led to the common practice of high-level API-only access to proprietary models. In this work, we show that even with a conservative assumption about the model architecture, it is possible to learn a surprisingly large amount of non-public information about an API-protected LLM from a relatively small number of API queries (e.g., costing under $1,000 for OpenAI’s gpt-3.5-turbo). Our findings are centered on one key observation: most modern LLMs suffer from a softmax bottleneck, which restricts the model outputs to a linear subspace of the full output space. We show that this lends itself to a model image or a model signature which unlocks several capabilities with affordable cost: efficiently discovering the LLM’s hidden size, obtaining full-vocabulary outputs, detecting and disambiguating different model updates, identifying the source LLM given a single full LLM output, and even estimating the output layer parameters. Our empirical investigations show the effectiveness of our methods, which allow us to estimate the embedding size of OpenAI’s gpt-3.5-turbo to be about 4,096. Lastly, we discuss ways that LLM providers can guard against these attacks, as well as how these capabilities can be viewed as a feature (rather than a bug) by allowing for greater transparency and accountability.
+
+ACL
+Annotating FrameNet via Structure-Conditioned Language Generation
+Xinyue Cui , and Swabha Swayamdipta
+In Proceedings of ACL (to appear) , 2024
+Abstract
+
+Despite the mounting evidence for generative capabilities of language models in understanding and generating natural language, their effectiveness on explicit manipulation and generation of linguistic structures remain understudied. In this paper, we investigate the task of generating new sentences preserving a given semantic structure, following the FrameNet formalism. We propose a framework to produce novel frame-semantically annotated sentences following an overgenerate-and-filter approach. Our results show that conditioning on rich, explicit semantic information tends to produce generations with high human acceptance, under both prompting and finetuning. Nevertheless, we discover that generated frame-semantic structured data is ineffective at training data augmentation for frame-semantic role labeling. Our study concludes that while generating high-quality, semantically rich data might be within reach, their downstream utility remains to be seen, highlighting the outstanding challenges with automating linguistic annotation tasks.
+
+ICLR
+Closing the Curious Case of Neural Text Degeneration
+Matthew Finlayson , John Hewitt , Alexander Koller , Swabha Swayamdipta, and Ashish Sabharwal
+In Proceedings of ICLR , 2024
+Abstract
+
+Despite their ubiquity in language generation, it remains unknown why truncation sampling heuristics like nucleus sampling are so effective. We provide a theoretical explanation for the effectiveness of the truncation sampling by proving that truncation methods that discard tokens below some probability threshold (the most common type of truncation) can guarantee that all sampled tokens have nonzero true probability. However, thresholds are a coarse heuristic, and necessarily discard some tokens with nonzero true probability as well. In pursuit of a more precise sampling strategy, we show that we can leverage a known source of model errors, the softmax bottleneck, to prove that certain tokens have nonzero true probability, without relying on a threshold. Based on our findings, we develop an experimental truncation strategy and the present pilot studies demonstrating the promise of this type of algorithm. Our evaluations show that our method outperforms its threshold-based counterparts under automatic and human evaluation metrics for low-entropy (i.e., close to greedy) open-ended text generation. Our theoretical findings and pilot experiments provide both insight into why truncation sampling works, and make progress toward more expressive sampling algorithms that better surface the generative capabilities of large language models.
+
+EMNLP
+We’re Afraid Language Models Aren’t Modeling Ambiguity
+Alisa Liu , Zhaofeng Wu , Julian Michael , Alane Suhr , Peter West , Alexander Koller , Swabha Swayamdipta, Noah A. Smith , and Yejin Choi
+In Proceedings of EMNLP , 2023
+Abstract
+
+Ambiguity is an intrinsic feature of natural language. Managing ambiguity is a key part of human language understanding, allowing us to anticipate misunderstanding as communicators and revise our interpretations as listeners. As language models (LMs) are increasingly employed as dialogue interfaces and writing aids, handling ambiguous language is critical to their success. We characterize ambiguity in a sentence by its effect on entailment relations with another sentence, and collect AmbiEnt, a linguist-annotated benchmark of 1,645 examples with diverse kinds of ambiguity. We design a suite of tests based on AmbiEnt, presenting the first evaluation of pretrained LMs to recognize ambiguity and disentangle possible meanings. We find that the task remains extremely challenging, including for the recent GPT-4, whose generated disambiguations are considered correct only 32% of the time in human evaluation, compared to 90% for disambiguations in our dataset. Finally, to illustrate the value of ambiguity-sensitive tools, we show that a multilabel NLI model can flag political claims in the wild that are misleading due to ambiguity. We encourage the field to rediscover the importance of ambiguity for NLP.
+
+ACL
+COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements
+Xuhui Zhou , Hao Zhu , Akhila Yerukola , Thomas Davidson , Jena D. Hwang , Swabha Swayamdipta, and Maarten Sap
+In Findings of ACL , 2023
+Abstract
+
+Understanding the harms and offensiveness of statements requires reasoning about the social and situational context in which statements are made. For example, the utterance “your English is very good” may implicitly signal an insult when uttered by a white man to a non-white colleague, but uttered by an ESL teacher to their student would be interpreted as a genuine compliment. Such contextual factors have been largely ignored by previous approaches to toxic language detection. We introduce COBRA , the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in their social and situational context. We create COBRACORPUS, a dataset of 33k potentially offensive statements paired with machine-generated contexts and free-text explanations of offensiveness, implied biases, speaker intents, and listener reactions. To study the contextual dynamics of offensiveness, we train models to generate COBRA explanations, with and without access to the context. We find that explanations by context-agnostic models are significantly worse than by context-aware ones, especially in situations where the context inverts the statement’s offensiveness (29% accuracy drop). Our work highlights the importance and feasibility of contextualized NLP by modeling social factors.
+
+ACL
+REV: Information-Theoretic Evaluation of Free-Text Rationales
+Hanjie Chen , Faeze Brahman , Xiang Ren , Yangfeng Ji , Yejin Choi , and Swabha Swayamdipta
+In Proc. of ACL , 2023
+Abstract
+
+Free-text rationales are a promising step towards explainable AI, yet their evaluation remains an open research problem. While existing metrics have mostly focused on measuring the direct association between the rationale and a given label, we argue that an ideal metric should also be able to focus on the new information uniquely provided in the rationale that is otherwise not provided in the input or the label. We investigate this research problem from an information-theoretic perspective using the conditional V-information. More concretely, we propose a metric called REV (Rationale Evaluation with conditional V-information), that can quantify the new information in a rationale supporting a given label beyond the information already available in the input or the label. Experiments on reasoning tasks across four benchmarks, including few-shot prompting with GPT-3, demonstrate the effectiveness of REV in evaluating different types of rationale-label pairs, compared to existing metrics. Through several quantitative comparisons, we demonstrate the capability of REV in providing more sensitive measurements of new information in free-text rationales with respect to a label. Furthermore, REV is consistent with human judgments on rationale evaluations. Overall, when used alongside traditional performance metrics, REV provides deeper insights into a models’ reasoning and prediction processes.
+
+EMNLP
+NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation
+Phillip Howard , Gadi Singer , Vasudev Lal , Yejin Choi , and Swabha Swayamdipta
+In Findings of EMNLP , 2022
+Abstract Code
+
+While counterfactual data augmentation offers a promising step towards robust generalization in natural language processing, producing a set of counterfactuals that offer valuable inductive bias for models remains a challenge. Most existing approaches for producing counterfactuals, manual or automated, rely on small perturbations via minimal edits, resulting in simplistic changes. We introduce NeuroCounterfactuals, designed as loose counterfactuals, allowing for larger edits which result in naturalistic generations containing linguistic diversity, while still bearing similarity to the original document. Our novel generative approach bridges the benefits of constrained decoding, with those of language model adaptation for sentiment steering. Training data augmentation with our generations results in both in-domain and out-of-domain improvements for sentiment classification, outperforming even manually curated counterfactuals, under select settings. We further present detailed analyses to show the advantages of NeuroCounterfactuals over approaches involving simple, minimal edits.
+
+EMNLP
+WaNLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation
+Alisa Liu , Swabha Swayamdipta, Noah A. Smith , and Yejin Choi
+In Findings of EMNLP , 2022
+Abstract Code
+
+A recurring challenge of crowdsourcing NLP datasets at scale is that human writers often rely on repetitive patterns when crafting examples, leading to a lack of linguistic diversity. We introduce a novel paradigm for dataset creation based on human and machine collaboration, which brings together the generative strength of language models and the evaluative strength of humans. Starting with an existing dataset, MultiNLI, our approach uses dataset cartography to automatically identify examples that demonstrate challenging reasoning patterns, and instructs GPT-3 to compose new examples with similar patterns. Machine generated examples are then automatically filtered, and finally revised and labeled by human crowdworkers to ensure quality. The resulting dataset, WANLI, consists of 108,357 natural language inference (NLI) examples that present unique empirical strengths over existing NLI datasets. Remarkably, training a model on WANLI instead of MNLI (which is 4 times larger) improves performance on seven out-of-domain test sets we consider, including by 11% on HANS and 9% on Adversarial NLI. Moreover, combining MNLI with WANLI is more effective than combining with other augmentation sets that have been introduced. Our results demonstrate the potential of natural language generation techniques to curate NLP datasets of enhanced quality and diversity.
+
+NAACL
+Reframing Human-AI Collaboration for Generating Free-Text Explanations
+Sarah Wiegreffe , Jack Hessel , Swabha Swayamdipta, Mark Riedl , and Yejin Choi
+In Proc. of NAACL , 2022
+Abstract Code
+
+Large language models are increasingly capable of generating fluent-appearing text with relatively little task-specific supervision. But can these models accurately explain classification decisions? We consider the task of generating free-text explanations using a small number of human-written examples (i.e., in a few-shot manner). We find that (1) authoring higher-quality examples for prompting results in higher quality generations; and (2) surprisingly, in a head-to-head comparison, crowdworkers often prefer explanations generated by GPT-3 to crowdsourced human-written explanations contained within existing datasets. Crowdworker ratings also show, however, that while models produce factual, grammatical, and sufficient explanations, they have room to improve, e.g., along axes such as providing novel information and supporting the label. We create a pipeline that combines GPT-3 with a supervised filter that incorporates humans-in-the-loop via binary acceptability judgments. Despite significant subjectivity intrinsic to judging acceptability, our approach is able to consistently filter GPT-3 generated explanations deemed acceptable by humans.
+
+NAACL
+Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection
+Maarten Sap , Swabha Swayamdipta, Laura Vianna , Xuhui Zhou , Yejin Choi , and Noah A. Smith
+In Proc. of NAACL , 2022
+Abstract
+
+The perceived toxicity of language can vary based on someone’s identity and beliefs, but this variation is often ignored when collecting toxic language datasets, resulting in dataset and model biases. We seek to understand the who, why, and what behind biases in toxicity annotations. In two online studies with demographically and politically diverse participants, we investigate the effect of annotator identities (who) and beliefs (why), drawing from social psychology research about hate speech, free speech, racist beliefs, political leaning, and more. We disentangle what is annotated as toxic by considering posts with three characteristics: anti-Black language, African American English (AAE) dialect, and vulgarity. Our results show strong associations between annotator identity and beliefs and their ratings of toxicity. Notably, more conservative annotators and those who scored highly on our scale for racist beliefs were less likely to rate anti-Black language as toxic, but more likely to rate AAE as toxic. We additionally present a case study illustrating how a popular toxicity detection system’s ratings inherently reflect only specific beliefs and perspectives. Our findings call for contextualizing toxicity labels in social variables, which raises immense implications for toxic language annotation and detection.
+
+ICML
+Understanding Dataset Difficulty with 𝒱-Usable Information
+Kawin Ethayarajh , Yejin Choi , and Swabha Swayamdipta
+In Proc. of ICML , 2022
+Abstract Code Outstanding Paper Award
+
+Estimating the difficulty of a dataset typically involves comparing state-of-the-art models to humans; the bigger the performance gap, the harder the dataset is said to be. However, this comparison provides little understanding of how difficult each instance in a given distribution is, or what attributes make the dataset difficult for a given model. To address these questions, we frame dataset difficulty – w.r.t. a model 𝒱 – as the lack of 𝒱-usable information (Xu et al., 2019), where a lower value indicates a more difficult dataset for 𝒱. We further introduce pointwise -information (PVI) for measuring the difficulty of individual instances w.r.t. a given distribution. While standard evaluation metrics typically only compare different models for the same dataset, 𝒱-usable information and PVI also permit the converse: for a given model 𝒱, we can compare different datasets, as well as different instances/slices of the same dataset. Furthermore, our framework allows for the interpretability of different input attributes via transformations of the input, which we use to discover annotation artefacts in widely-used NLP benchmarks.
+
+NeurIPS
+MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers
+Krishna Pillutla , Swabha Swayamdipta, Rowan Zellers , John Thickstun , Sean Wellecks , Yejin Choi , and Zaid Harchaoui
+In Proc. of NeurIPS , 2021
+Abstract Code Outstanding Paper Award
+
+As major progress is made in open-ended text generation, measuring how close machine-generated text is to human language remains a critical open problem. We introduce MAUVE, a comparison measure for open-ended text generation, which directly compares the learnt distribution from a text generation model to the distribution of human-written text using divergence frontiers. MAUVE scales up to modern text generation models by computing information divergences in a quantized embedding space. Through an extensive empirical study on three open-ended generation tasks, we find that MAUVE identifies known properties of generated text, scales naturally with model size, and correlates with human judgments, with fewer restrictions than existing distributional evaluation metrics.
+
+ACL
+DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts
+Alisa Liu , Maarten Sap , Ximing Lu , Swabha Swayamdipta, Chandra Bhagavatula , Noah A. Smith , and Yejin Choi
+In Proc. of ACL , 2021
+Abstract Code
+
+Despite recent advances in natural language generation, it remains challenging to control attributes of generated text. We propose DExperts: Decoding-time Experts, a decoding-time method for controlled text generation that combines a pretrained language model with "expert" LMs and/or "anti-expert" LMs in a product of experts. Intuitively, under the ensemble, tokens only get high probability if they are considered likely by the experts, and unlikely by the anti-experts. We apply DExperts to language detoxification and sentiment-controlled generation, where we outperform existing controllable generation methods on both automatic and human evaluations. Moreover, because DExperts operates only on the output of the pretrained LM, it is effective with (anti-)experts of smaller size, including when operating on GPT-3. Our work highlights the promise of tuning small LMs on text with (un)desirable attributes for efficient decoding-time steering.
+
+EACL
+Challenges in Automated Debiasing for Toxic Language Detection
+Xuhui Zhou , Maarten Sap , Swabha Swayamdipta, Noah A. Smith , and Yejin Choi
+In Proc. of EACL , 2021
+Abstract Code
+
+Biased associations have been a challenge in the development of classifiers for detecting toxic language, hindering both fairness and accuracy. As potential solutions, we investigate recently introduced debiasing methods for text classification datasets and models, as applied to toxic language detection. Our focus is on lexical (e.g., swear words, slurs, identity mentions) and dialectal markers (specifically African American English). Our comprehensive experiments establish that existing methods are limited in their ability to prevent biased behavior in current toxicity detectors. We then propose an automatic, dialect-aware data correction method, as a proof-of-concept. Despite the use of synthetic labels, this method reduces dialectal associations with toxicity. Overall, our findings show that debiasing a model trained on biased toxic language data is not as effective as simply relabeling the data to remove existing biases.
+
+EMNLP
+Dataset Cartography: Mapping and Diagnosing Datasets with Training Dynamics
+Swabha Swayamdipta, Roy Schwartz , Nicholas Lourie , Yizhong Wang , Hannaneh Hajishirzi , Noah A. Smith , and Yejin Choi
+In Proc. of EMNLP , 2020
+Abstract Code Slides
+
+Large datasets have become commonplace in NLP research. However, the increased emphasis on data quantity has made it challenging to assess the quality of data. We introduce Data Maps—a model-based tool to characterize and diagnose datasets. We leverage a largely ignored source of information: the behavior of the model on individual instances during training (training dynamics) for building data maps. This yields two intuitive measures for each example—the model’s confidence in the true class, and the variability of this confidence across epochs—obtained in a single run of training. Experiments across four datasets show that these model-dependent measures reveal three distinct regions in the data map, each with pronounced characteristics. First, our data maps show the presence of "ambiguous" regions with respect to the model, which contribute the most towards out-of-distribution generalization. Second, the most populous regions in the data are "easy to learn" for the model, and play an important role in model optimization. Finally, data maps uncover a region with instances that the model finds "hard to learn"; these often correspond to labeling errors. Our results indicate that a shift in focus from quantity to quality of data could lead to robust models and improved out-of-distribution generalization.
+
+ACL
+Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks
+Suchin Gururangan , Ana Marasović , Swabha Swayamdipta, Kyle Lo , Iz Beltagy , Doug Downey , and Noah A. Smith
+In Proc. of ACL , 2020
+Abstract Code Best Paper Honorable Mention
+
+Language models pretrained on text from a wide variety of sources form the foundation of today’s NLP. In light of the success of these broad-coverage models, we investigate whether it is still helpful to tailor a pretrained model to the domain of a target task. We present a study across four domains (biomedical and computer science publications, news, and reviews) and eight classification tasks, showing that a second phase of pretraining in-domain (domain-adaptive pretraining) leads to performance gains, under both high- and low-resource settings. Moreover, adapting to the task’s unlabeled data (task-adaptive pretraining) improves performance even after domain-adaptive pretraining. Finally, we show that adapting to a task corpus augmented using simple data selection strategies is an effective alternative, especially when resources for domain-adaptive pretraining might be unavailable. Overall, we consistently find that multi-phase adaptive pretraining offers large gains in task performance.
+
+ICML
+Adversarial Filters of Dataset Biases
+Ronan LeBras , Swabha Swayamdipta, Chandra Bhagavatula , Rowan Zellers , Matthew E. Peters , Ashish Sabharwal , and Yejin Choi
+In Proc. of ICML , 2020
+Abstract Code
+
+Large neural models have demonstrated human-level performance on language and vision benchmarks, while their performance degrades considerably on adversarial or out-of-distribution samples. This raises the question of whether these models have learned to solve a dataset rather than the underlying task by overfitting to spurious dataset biases. We investigate one recently proposed approach, AFLite, which adversarially filters such dataset biases, as a means to mitigate the prevalent overestimation of machine performance. We provide a theoretical understanding for AFLite, by situating it in the generalized framework for optimum bias reduction. We present extensive supporting evidence that AFLite is broadly applicable for reduction of measurable dataset biases, and that models trained on the filtered datasets yield better generalization to out-of-distribution tasks. Finally, filtering results in a large drop in model performance (e.g., from 92% to 62% for SNLI), while human performance still remains high. Our work thus shows that such filtered datasets can pose new research challenges for robust generalization by serving as upgraded benchmarks.
+
+    
+© Copyright 2024 Swabha Swayamdipta. Powered by Jekyll with al-folio theme.
+

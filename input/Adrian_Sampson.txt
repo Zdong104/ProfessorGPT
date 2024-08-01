@@ -1,0 +1,20 @@
+Professor: Adrian Sampson
+University: Cornell University
+URL: http://adriansampson.net/
+Description: Adrian Sampson
+Department of Computer Science
+Cornell University
+home research teaching blog contact
+
+I do programming languages and computer architecture. I like research that breaks down abstraction barriers and rethinks the hardware–software interface. I worked on approximate computing, the idea that computers can be more efficient if we let them make mistakes. See what’s going on in my research group, which is called Capra.
+
+I am an associate professor in the Department of Computer Science at Cornell University, where I am part of the Computer Systems Laboratory and the programming languages group. I graduated from the University of Washington in 2015. Here’s my CV.
+
+LATEST BLOGGING: JULY 15, 2024 — MORE BLOGGINGS — SUBSCRIBE
+
+Automated Test-Case Reduction
+
+In a previous post, I used a simple interpreter bug to demonstrate the research skill of manually reducing test cases. This time, I show off the excellent Shrinkray reducer to see how it can automate the same process. The tricky part when using automated test-case reducers is writing an interestingness test that actually does what you want. I list a few tricks that help me write good interestingness tests.
+
+ KEEP READING…
+

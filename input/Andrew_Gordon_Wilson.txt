@@ -1,0 +1,508 @@
+Professor: Andrew Gordon Wilson
+University: New York University
+URL: https://cims.nyu.edu/~andrewgw
+Description: 
+
+Andrew Gordon Wilson
+
+CV News Papers Talks Group Join Teaching Code
+
+I aim to develop a prescriptive approach to building autonomous intelligent systems. This effort involves a variety of different research initiatives, which cumulatively work together towards achieving this vision. A major theme that unifies many of these initiatives is a desire for an actionable understanding, so that we can select for particular properties aligned with human goals. These areas, and some example papers, include:
+• Understanding deep learning models, including LLMs and vision models
+[e.g., 1, 2, 3, 4, 29, 30, 31]
+• Uncertainty representation, Bayesian methods, online decision making
+[e.g., 1, 5, 6, 7]
+• Distribution shifts, spurious correlations [e.g., 8, 9, 10, 11]
+• Encoding and learning inductive biases (e.g., equivariances) [e.g., 12, 13, 14, 15]
+• Numerical linear algebra for scalable inference [e.g., 16, 17, 18, 19, 20]
+• Machine learning for physics, and physics for ML [e.g., 21, 22, 13, 20, 15]
+• Simple practical methods [e.g., 23, 24, 25, 26, 4]
+• Scientific discovery (protein engineering, materials design) [e.g., 27, 28, 32]
+
+Outside of work, I am a classical pianist who particularly enjoys Glenn Gould's playing of Bach.
+
+
+I can be reached at andrewgw@cims.nyu.edu, and on Twitter @andrewgwils.
+
+Andrew Gordon Wilson
+Associate Professor
+Courant Institute of Mathematical Sciences and Center for Data Science
+60 Fifth Ave
+New York University
+
+News
+
+
+
+I have received an NSF CAREER Award to develop new foundations in Bayesian deep learning! I'm grateful to my students, collaborators, and everyone who has supported our work over the years. Stay tuned for updates on research under this award!
+
+SWA is now natively implemented in PyTorch 1.6! SWA exploits the geometric structure of loss surfaces to significantly improve the generalization of many optimizers, including SGD and Adam, at no additional costs. SWA has also found many applications, including semi-supervised learning, deep RL, uncertainty representation, Bayesian deep learning, calibration, low precision training... I encourage you try it out! It's easy, and also works on pre-trained models.
+
+I presented an ICML 2020 tutorial on Bayesian deep learning!
+Papers
+
+
+Google scholar page
+
+
+
+This listing of papers is out of date. Please see my CV for an updated list.
+
+PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization
+Sanae Lotfi, Marc Finzi, Sanyam Kapoor, Andres Potapczynski, Micah Goldblum, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+[PDF (Coming Soon!), arXiv (Coming Soon!), code (Coming Soon!), BibTeX]
+
+Pre-Train Your Loss: Easy Bayesian Transfer Learning with Informative Priors
+Ravid Shwartz-Ziv, Micah Goldblum, Hossein Souri, Sanyam Kapoor, Chen Zhu, Yann LeCun, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+[PDF, arXiv, code, BibTeX]
+
+On Feature Learning in the Presence of Spurious Correlations
+Pavel Izmailov, Polina Kirichenko, Nate Gruver, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+[PDF, arXiv, code, BibTeX]
+
+On Uncertainty, Tempering, and Data Augmentation in Bayesian Classification
+Sanyam Kapoor, Wesley Maddox, Pavel Izmailov, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+[PDF, arXiv, code, BibTeX]
+
+Chroma-VAE: Mitigating Shortcut Learning with Generative Classifiers
+Wanqian Yang, Polina Kirichenko, Micah Goldblum, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2022.
+[PDF (Coming Soon), arXiv (Coming soon), code (Coming Soon), BibTeX]
+
+Bayesian Model Selection, the Marginal Likelihood, and Generalization
+Sanae Lotfi, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2022.
+Outstanding Paper Award
+[PDF, arXiv, code, BibTeX]
+
+Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders
+Samuel Stanton, Wesley Maddox, Nate Gruver, Phil Maffettone, Emily Delaney, Peyton Greenside, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2022
+[PDF, arXiv, code, BibTeX]
+
+Low-Precision Stochastic Gradient Langevin Dynamics
+Ruqi Zhang, Andrew Gordon Wilson, Christopher De Sa
+International Conference on Machine Learning (ICML), 2022
+[PDF, arXiv, code, BibTeX]
+
+Volatility Based Kernels and Moving Average Means for Accurate Forecasting with Gaussian Processes
+Gregory Benton, Wesley Maddox, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2022
+[PDF, arXiv, code, BibTeX]
+
+Low Precision Arithmetic for Fast Gaussian Processes
+Wesley Maddox, Andres Potapczynski, Andrew Gordon Wilson
+Uncertainty in Artificial Intelligence (UAI), 2022
+[PDF, arXiv, code, BibTeX]
+
+Harnessing Interpretable and Unsupervised Machine Learning to Address Big Data from Modern X-ray Diffraction
+Jordan Venderley et. al
+Proceedings of the National Academy of Sciences (PNAS), 2022
+[PDF, arXiv, code, BibTeX]
+
+Deconstructing the Inductive Biases of Hamiltonian Neural Networks
+Nate Gruver, Marc Finzi, Andrew Gordon Wilson
+International Conference on Learning Representations (ICLR), 2022
+[PDF, arXiv, code, BibTeX]
+
+Dangers of Bayesian Model Averaging under Covariate Shift
+Pavel Izmailov, Patrick Nicholson, Sanae Lotfi, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+[PDF, arXiv, code, BibTeX]
+
+Bayesian Optimization with High-Dimensional Outputs
+Wesley Maddox, Max Balandat, Andrew Gordon Wilson, Eytan Bakshy.
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+[PDF, arXiv, code, BibTeX]
+
+Does Knowledge Distillation Really Work?
+Samuel Stanton, Pavel Izmailov, Polina Kirichenko, Alexander Alemi,
+Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+[PDF, arXiv, BibTeX]
+
+Residual Pathway Priors for Soft Equivariance Constraints
+Marc Finzi, Gregory Benton, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+[PDF (Coming Soon), arXiv (Coming Soon), code (Coming Soon), BibTeX]
+
+Conditioning Sparse Variational Gaussian Processes for Online Decision-making
+Samuel Stanton, Pavel Izmailov, Polina Kirichenko, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+[PDF (Coming Soon), arXiv (Coming Soon), code (Coming Soon), BibTeX]
+
+What Are Bayesian Neural Network Posteriors Really Like?
+Pavel Izmailov, Sharad Vikram, Matthew D. Hoffman, Andrew Gordon Wilson
+International conference on Machine Learning (ICML), 2021
+Long oral presentation
+[PDF, arXiv, code, BibTeX]
+
+A Practical Method for Constructing Equivariant Multilayer Perceptrons for Arbitrary Matrix Groups
+Marc Finzi, Max Welling, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2021
+Long oral presentation
+[PDF, arXiv, code, documentation, examples, BibTeX]
+
+SKIing on Simplices: Kernel Interpolation on the Permutohedral Lattice for Scalable Gaussian Processes
+Sanyam Kapoor, Marc Finzi, Alex Wang, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2021
+Long oral presentation
+[PDF, arXiv, code, BibTeX]
+
+Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling
+Greg Benton, Wesley Maddox, Sanae Lotfi, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2021
+[PDF, arXiv, code, BibTeX]
+
+Scalable Variational Gaussian Processes via Harmonic Kernel Decomposition
+Shengyang Sun, Jiaxin Shi, Andrew Gordon Wilson, Roger Grosse
+International Conference on Machine Learning (ICML), 2021
+[PDF, arXiv, code, BibTeX]
+
+On the model-based stochastic value gradient for continuous reinforcement learning
+Brandon Amos, Sam Stanton, Denis Yarats, Andrew Gordon Wilson
+Learning for Dynamics and Control (L4DC), 2021
+[PDF, code, BibTeX]
+
+Kernel Interpolation for Scalable Online Gaussian Processes
+Sam Stanton, Wesley Maddox, Ian Delbridge, Andrew Gordon Wilson
+Artificial Intelligence and Statistics (AISTATS), 2021
+[PDF, arXiv, code, BibTeX]
+
+Fast Adaptation with Linearized Neural Networks
+Wesley Maddox, Shuai Tang, Pablo Moreno, Andrew Gordon Wilson,
+Andreas Damianou
+Artificial Intelligence and Statistics (AISTATS), 2021
+[PDF, arXiv, code, BibTeX]
+
+Bayesian Deep Learning and a Probabilistic Perspective of Generalization
+Andrew Gordon Wilson, Pavel Izmailov
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+Why Normalizing Flows Fail to Detect Out-of-Distribution Data
+Polina Kirichenko, Pavel Izmailov, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+Simplifying Hamiltonian and Lagrangian Neural Networks via Explicit Constraints
+Marc Finzi, Ke Alexander Wang, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+Learning Invariances in Neural Networks
+Greg Benton, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+BoTorch: A Framework for Efficient Monte-Carlo Bayesian Optimization
+Maximilian Balandat, Brian Karrer, Daniel Jiang, Samuel Daulton, Ben Letham, Andrew Gordon Wilson, Eytan Bakshy
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+Improving GAN Training with Probability Ratio Clipping and Sample Reweighting
+Yue Wu, Pan Zhou, Andrew Gordon Wilson, Eric Xing, Zhiting Hu
+Advances in Neural Information Processing Systems (NeurIPS), 2020
+[PDF, arXiv, code, BibTeX]
+
+Generalizing Convolutional Networks for Equivariance to Lie Groups on Arbitrary Continuous Data
+Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2020
+[PDF, arXiv, code, BibTeX]
+
+Semi-Supervised Learning with Normalizing Flows
+Pavel Izmailov, Polina Kirichenko, Marc Finzi, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2020
+[PDF, arXiv, code, BibTeX]
+
+Randomly Projected Additive Gaussian Processes for Regression
+Ian Delbridge, David S. Bindel, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2020
+[PDF, arXiv, code, BibTeX]
+
+Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning
+Ruqi Zhang, Chunyuan Li, Jianyi Zhang, Changyou Chen, Andrew Gordon Wilson
+International Conference on Learning Representations (ICLR), 2020
+[PDF, arXiv, code, BibTeX]
+
+Rethinking Parameter Counting in Deep Models: Effective Dimensionality Revisited
+Wesley J. Maddox, Gregory Benton, Andrew Gordon Wilson
+arXiv pre-print, 2020
+[PDF, arXiv, code, BibTeX]
+
+The Case for Bayesian Deep Learning
+Andrew Gordon Wilson
+Technical Report, NYU Courant, 2019
+[PDF, Web Version, BibTeX]
+
+A Simple Baseline for Bayesian Uncertainty in Deep Learning
+Wesley Maddox, Timur Garipov, Pavel Izmailov, Andrew Gordon Wilson
+To appear in Advances in Neural Information Processing Systems (NeurIPS), 2019
+[PDF, arXiv, code, BibTeX]
+
+Function-Space Distributions over Kernels
+Greg Benton, Jayson Salkey, Wesley Maddox, Julio Albinati, Andrew Gordon Wilson
+Advances in Neural Information Processing Systems (NeurIPS), 2019.
+[PDF, arXiv, code, BibTeX]
+
+Exact Gaussian Processes on a Million Data Points
+Ke Alexander Wang, Geoff Pleiss, Jake Gardner, Stephen Tyree, Kilian Weinberger, Andrew Gordon Wilson
+To appear in Advances in Neural Information Processing Systems (NeurIPS), 2019
+[PDF, arXiv, code, example notebook, BibTeX]
+
+Subspace Inference for Bayesian Deep Learning
+Pavel Izmailov*, Wesley Maddox*, Polina Kirichenko*, Timur Garipov*, Dmitry Vetrov, Andrew Gordon Wilson
+Uncertainty in Artificial Intelligence (UAI), 2019
+[PDF, arXiv, code, BibTeX]
+
+Practical Multi-fidelity Bayesian Optimization for Hyperparameter Tuning
+Jian Wu, Saul Toscano-Palmerin, Peter I. Frazier, Andrew Gordon Wilson
+Uncertainty in Artificial Intelligence (UAI), 2019
+[PDF, arXiv, BibTeX]
+
+SWALP: Stochastic Weight Averaging in Low Precision Training
+Guandao Yang, Tianyi Zhang, Polina Kirichenko, Junwen Bai, Andrew Gordon Wilson, Christopher De Sa
+International Conference on Machine Learning (ICML), 2019
+[PDF, arXiv, code, BibTeX]
+
+SysML: The New Frontier of Machine Learning Systems
+A. Ratner et. al, 2019
+[PDF, arXiv, BibTeX]
+
+There Are Many Consistent Explanations of Unlabeled Data:
+Why You Should Average
+Ben Athiwaratkun, Marc Finzi, Pavel Izmailov, Andrew Gordon Wilson
+International Conference on Learning Representations (ICLR), 2019
+[PDF, arXiv, code, BibTeX]
+
+Change Surfaces for Expressive Multidimensional Changepoints and Counterfactual Prediction
+William Herlands, Daniel B. Neill, Hannes Nickisch, Andrew Gordon Wilson
+To appear in the Journal of Machine Learning Research (JMLR), 2019
+[PDF, arXiv, BibTeX]
+
+GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration
+Jake Gardner, Geoff Pleiss, David Bindel, Kilian Weinberger, Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2018
+Spotlight
+[PDF, arXiv, GPyTorch website, GPyTorch repository, BibTeX]
+
+Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs
+Timur Garipov*, Pavel Izmailov*, Dmitrii Podoprikhin*, Dmitry Vetrov, Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2018
+Spotlight
+[PDF, arXiv, code, BibTeX]
+
+Scaling Gaussian Process Regression with Derivatives
+David Eriksson, Kun Dong, Eric Lee, David Bindel, Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2018
+[PDF, arXiv, code, BibTeX]
+
+Probabilistic FastText for Multisense Word Embeddings
+Ben Athiwaratkun, Andrew Gordon Wilson, Anima Anandkumar
+Association for Computational Linguistics (ACL), 2018
+Oral presentation
+[PDF, arXiv, code, BibTeX]
+
+Averaging Weights Leads to Wider Optima and Better Generalization
+Pavel Izmailov*, Dmitrii Podoprikhin*, Timur Garipov*, Dmitry Vetrov, Andrew Gordon Wilson
+Uncertainty in Artificial Intelligence (UAI), 2018.
+Oral presentation
+[PDF, arXiv, code, BibTeX]
+
+Automated Local Regression Discontinuity Design Discovery
+William Herlands, Ed McFowland III, Andrew Gordon Wilson, Daniel B. Neill
+Knowledge Discovery and Data Mining (KDD), 2018
+[PDF, Video, BibTeX]
+
+Constant-Time Predictive Distributions for Gaussian Processes
+Geoff Pleiss, Jacob Gardner, Kilian Q. Weinberger, Andrew Gordon Wilson
+International Conference on Machine Learning (ICML), 2018
+[PDF, arXiv, code, BibTeX]
+
+Hierarchical Density Order Embeddings
+Ben Athiwaratkun, Andrew Gordon Wilson
+International Conference on Learning Representations (ICLR), 2018.
+[PDF, arXiv, code, BibTeX]
+
+Product Kernel Interpolation for Scalable Gaussian Processes
+Jacob Gardner, Geoff Pleiss, Ruihan Wu, Kilian Weinberger, Andrew Gordon Wilson
+Artificial Intelligence and Statistics (AISTATS), 2018.
+[PDF, arXiv, code, BibTeX]
+
+Gaussian Process Subset Scanning for Anomalous Pattern Detection in Non-iid Data
+William Herlands, Ed McFowland, Andrew Gordon Wilson, Daniel B. Neill
+Artificial Intelligence and Statistics (AISTATS), 2018.
+[PDF, arXiv, BibTeX]
+
+Bayesian GAN
+Yunus Saatchi and Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2017
+Spotlight
+[PDF, arXiv, code, Short Video, BibTeX]
+
+Bayesian Optimization with Gradients
+Jian Wu, Matthias Poloczek, Andrew Gordon Wilson, Peter I Frazier
+Neural Information Processing Systems (NIPS), 2017
+Oral Presentation
+[PDF, arXiv, Code, NIPS Oral Presentation, BibTeX]
+
+Scalable Log Determinants for Gaussian Process Kernel Learning
+Kun Dong, David Eriksson, Hannes Nickisch, David Bindel, Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2017
+[PDF, arXiv, Code, Video (from David E), BibTeX]
+
+Scalable Levy Process Priors for Spectral Kernel Learning
+Andrew Loeb, Phillip Jang, Matthew Davidow, and Andrew Gordon Wilson
+Neural Information Processing Systems (NIPS), 2017
+[PDF, arXiv, Code, Video (from Phillip J), BibTeX]
+
+Multimodal Word Distributions
+Ben Athiwaratkun and Andrew Gordon Wilson
+Association for Computational Linguistics (ACL), 2017
+[PDF, arXiv, Code, BibTeX]
+
+Learning Scalable Deep Kernels with Recurrent Structure
+Maruan Al-Shedivat, Andrew Gordon Wilson, Yunus Saatchi, Zhiting Hu, Eric P. Xing
+To appear in the Journal of Machine Learning Research (JMLR), 2017.
+[PDF, arXiv, code [PyTorch, more recent], code [Keras+Matlab], BibTeX]
+
+Stochastic Variational Deep Kernel Learning
+Andrew Gordon Wilson*, Zhiting Hu*, Ruslan Salakhutdinov, and Eric P. Xing
+Neural Information Processing Systems (NIPS), 2016
+[PDF, arXiv, Video, code (GPyTorch, more recent), code (Caffe+Matlab), BibTeX]
+
+Deep Kernel Learning
+Andrew Gordon Wilson*, Zhiting Hu*, Ruslan Salakhutdinov, and Eric P. Xing
+Artificial Intelligence and Statistics (AISTATS), 2016
+[PDF, arXiv, code (GPyTorch, more recent), code (Keras+Matlab), code (Caffe+Matlab), BibTeX]
+
+Thoughts on Massively Scalable Gaussian Processes
+Andrew Gordon Wilson, Christoph Dann, and Hannes Nickisch
+arXiv pre-print, 2015
+(See KISS-GP and Deep Kernel Learning for more empirical demonstrations).
+[PDF, arXiv, code (GPyTorch, more recent), code (older tutorials), BibTeX, Music]
+
+Scalable Gaussian Processes for Characterizing Multidimensional Change Surfaces
+William Herlands, Andrew Gordon Wilson, Seth Flaxman, Daniel Neill, Wilbert van Panhuis, and Eric P. Xing
+Artificial Intelligence and Statistics (AISTATS), 2016
+[PDF, BibTeX]
+
+Bayesian nonparametric kernel learning
+Junier Oliva*, Avinava Dubey*, Andrew Gordon Wilson, Barnabas Poczos, Jeff Schneider, and Eric P. Xing. 
+Artificial Intelligence and Statistics (AISTATS), 2016
+[PDF, BibTeX]
+
+The human kernel
+Andrew Gordon Wilson, Christoph Dann, Christopher G. Lucas, and Eric P. Xing
+Neural Information Processing Systems (NIPS), 2015
+Spotlight
+[PDF, arXiv, Supplement, BibTeX]
+
+Kernel interpolation for scalable structured Gaussian processes (KISS-GP)
+Andrew Gordon Wilson and Hannes Nickisch
+International Conference on Machine Learning (ICML), 2015
+Oral Presentation
+[PDF, Supplement, arXiv, code (GPyTorch, newer), code (tutorials, older), BibTeX, Theme Song, Video Lecture]
+
+Fast kronecker inference in Gaussian processes with non-Gaussian likelihoods
+Seth Flaxman, Andrew Gordon Wilson, Daniel Neill, Hannes Nickisch, and Alexander J. Smola
+International Conference on Machine Learning (ICML), 2015
+Oral Presentation
+[PDF, Supplement, BibTeX, Code, Video Lecture]
+
+À la carte - learning fast kernels
+Zichao Yang, Alexander J. Smola, Le Song, and Andrew Gordon Wilson
+Artificial Intelligence and Statistics (AISTATS), 2015
+Oral Presentation
+[PDF, BibTeX]
+
+Fast kernel learning for multidimensional pattern extrapolation
+Andrew Gordon Wilson*, Elad Gilboa*, Arye Nehorai, and John P. Cunningham
+Advances in Neural Information Processing Systems (NIPS) 2014
+[PDF, BibTeX, Code, Slides]
+
+Variational inference for latent variable modelling of correlation structure
+Mark van der Wilk, Andrew Gordon Wilson, Carl Edward Rasmussen
+NIPS Workshop on Advances in Variational Inference, 2014
+[PDF, BibTeX]
+
+A Bayesian method to quantifying chemical composition using NMR: application to porous media systems
+Yuting Wu, Daniel J. Holland, Mick D. Mantle, Andrew Gordon Wilson, Sebastian Nowozin, Andrew Blake, and Lynn F. Gladden
+European Signal Processing Conference (EUSIPCO), 2014
+[PDF]
+
+Bayesian inference for NMR spectroscopy with applications to chemical quantification
+Andrew Gordon Wilson, Yuting Wu, Daniel J. Holland, Sebastian Nowozin, Mick D. Mantle, Lynn F. Gladden, and Andrew Blake
+In Submission. February 14, 2014
+[arXiv, PDF, BibTeX]
+
+Covariance kernels for fast automatic pattern discovery and extrapolation with Gaussian processes
+Andrew Gordon Wilson
+PhD Thesis, January 2014
+[PDF, BibTeX]
+
+Student-t processes as alternatives to Gaussian processes
+Amar Shah, Andrew Gordon Wilson, and Zoubin Ghahramani
+Artificial Intelligence and Statistics, 2014
+[arXiv, PDF, Supplementary, BibTeX]
+
+The change point kernel
+Andrew Gordon Wilson
+Technical Report (Note), University of Cambridge.
+November 2013.
+[PDF, BibTeX]
+
+GPatt: Fast multidimensional pattern extrapolation with Gaussian processes
+Andrew Gordon Wilson, Elad Gilboa, Arye Nehorai, and John P. Cunningham
+October 21, 2013.   In Submission.
+[arXiv, PDF, BibTeX, Resources and Tutorial]
+
+Bayesian optimization using Student-t processes
+Amar Shah, Andrew Gordon Wilson, and Zoubin Ghahramani
+NIPS Workshop on Bayesian Optimisation, 2013.
+[PDF, BibTeX]
+
+Gaussian process kernels for pattern discovery and extrapolation
+Andrew Gordon Wilson and Ryan Prescott Adams
+International Conference on Machine Learning (ICML), 2013.
+Oral Presentation
+[arXiv, PDF, Correction, Supplementary, BibTeX, Slides, Resources and Tutorial, GPyTorch implementation, Video Lecture]
+
+Modelling input varying correlations between multiple responses
+Andrew Gordon Wilson and Zoubin Ghahramani
+European Conference on Machine Learning (ECML), 2012
+Nectar Track  for "significant machine learning results"
+Oral Presentation
+[PDF, BibTeX]
+
+A process over all stationary covariance kernels
+Andrew Gordon Wilson
+Technical Report, University of Cambridge.
+June 2012.
+[PDF, BibTeX]
+
+Gaussian process regression networks
+Andrew Gordon Wilson, David A. Knowles, and Zoubin Ghahramani
+International Conference on Machine Learning (ICML), 2012.
+Oral Presentation
+[PDF, BibTeX, Slides, Supplementary, Video Lecture, Original Code, New Code]
+
+Generalised Wishart processes
+Andrew Gordon Wilson and Zoubin Ghahramani
+Uncertainty in Artificial Intelligence (UAI), 2011.
+Best Student Paper Award
+[PDF, BibTeX]
+
+Copula processes
+Andrew Gordon Wilson and Zoubin Ghahramani
+Advances in Neural Information Processing Systems (NIPS), 2010.
+Spotlight
+[PDF, BibTeX, Slides, Video Lecture]
+Find me on Twitter
+Theme Inspired by Dan Foreman-Mackey
+
+

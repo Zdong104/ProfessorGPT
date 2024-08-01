@@ -1,0 +1,214 @@
+Professor: David T. Blaauw
+University: University of Michigan
+URL: http://web.eecs.umich.edu/faculty/blaauw
+Description: Skip to content
+Search
+Home
+People
+Research
+Publications
+Presentations
+News
+CV
+1
+2
+3
+4
+5
+6
+7
+Previous
+Next
+
+Welcome to Blaauw Lab!  Below, we hope to give you a quick overview of the exciting research we are doing, ranging from low power RF, analog mixed-signal and digital circuits, to millimeter-sensors and embedded systems. We are always looking for talented PhD applicants. If you find one of the topics below interesting, feel free to apply to our graduate program and mention our lab in your application. 
+
+Overview of Research
+
+Audio amplifier integrated into a complete audio logger with neural network, radio and battery
+
+We work on a wide range of topics in our lab, and we actively seek out new areas of high impact work. Students work in collaborative teams and many of our projects are cross disciplinary, training students in a wide-range of design research. We aim to publish in the top conferences of our field and have consistently ranked as one of the top contributing groups at these venues. In addition, we emphasize designs that really work and can be applied in the real-world and are not just “paper designs”. Many of our chips have been used by researchers outside our field of research and have enabled them to accomplish tasks that were previously not achievable, such as monitoring extinction of snails in Tahiti. Four startup companies have come from our lab in the last 15 years and we always welcome researchers with an entrepreneurial interest.  Below is a list of our more recent research projects:
+
+Ultra-Low Power Analog and Mixed-Signal Circuits: The Blaauw lab has a long history of research in ultra-low power analog and mixed signal research, with application to IoT and mm-scale sensor systems. Specifically, we have achieved some of the world’s lowest power circuits in voltage regulation (DC-DC conversion) [3, 15], energy harvesting [4], RO timers[16], crystal oscillators (XO) [49], voltage references [17], analog-to-digital conversion (ADC) [38], capacitance-to-digital conversion (CDC) [18], imaging [7], and analog front ends such as audio amplifiers [9]. To achieve such low power in analog design, we explore new circuit topologies and approaches, which are often very unconventional. In addition to low power, we also emphasize robust design in analog circuits across PVT variations to make them suitable in actual sensor applications. Many of our circuits have transitioned to industry and are in practical use.
+
+Complete sensor TRX system for sensor to sensor communication
+
+Low Power RF Communication for IoT devices:  RF communication presents one of the most challenging power demands for small sensor nodes. As such, low power RF communication is a critical research topic for IoT and small-scale sensors. We have focused on both near-field communication [2] and power delivery [50] as well as far-field communication. Our transceivers are specifically designed for tiny IoT devices and have achieved up to 40m communication distance from a mm-size complete sensor to gateway [1] and over 10m in symmetric communication from sensor to sensor [51], which enables wireless sensor networks for mm-scale systems for the first time. Key aspects of our work and antenna / circuit co-design which has led to a much more efficient magnetic antenna, crystal-less operation [53], and a “Q-enhancement” amplifier which can achieve 30dB gain at RF for only 10’s of uA current [1]. In addition to communication, we have active on-going research in the area of localization in non-line-of-sight scenarios using ultra-low power localization tags with custom RF chip designs [52].
+
+Output from low power optical flow and depth accelerator – HD @ 30fps
+
+Accelerators for Neural Networks and High-Speed Image Processing for Edge Devices: Devices at the edge of the cloud increasingly need intelligence to detect important events and perform on-sensor inference instead of transmitting raw data to the data centers. To address this growing need, our lab has been working on hardware acceleration for image processing [20, 39] and deep learning/neural networks [21] for some time. In image processing, we developed some of the lowest power stereo vision and optical flow accelerators, able to process HD video at 30fps with only 100s of mW. A recent interesting approach our team has pioneered is the use of so-called “in memory” computing or “bit-line” computing where calculations are performed directly on the bit lines in the SRAM itself [22, 23, 24]. This avoids the need to move data from memories to cores, thereby reducing power consumption while opening up enormous parallelism presented by the large number of memory arrays in a processor. We currently also have new projects in configurable computing [54, 55] where processors adjust their memory hierarchy for better efficiency dynamically for large compute problems.
+
+A 0.04mm3 Michigan Micro Mote computer next to a grain of rice
+
+Michigan Micro-Mote (M3) and mm-scale computing: Our work to reduce the power consumption of sensor electronics from uW to the nW range has made it possible to reduce the battery size and energy harvesting to only a couple millimeters. By combining our new techniques for radio communication with mm-scale antennae [1, 2], we have constructed the first complete and functional millimeter-scale sensor node systems in our lab. Our first system was an intra-ocular pressure sensor measuring only ~1mm on the side, created in 2011 [5]. Since that time, they have expanded these systems to incorporated a commercial ARM Cortex M0 processor with low leakage memory [13], ultra-low power flash [6] and a number of different sensing modalities, including imaging [7], audio [8], ECG[11] and temperature/pressure [10][12] sensing. These systems typically measure a couple millimeters in size, are fully programmable with processor and memory, operate for several weeks on the integrated battery alone and become energy autonomous with energy harvesting [14]. The team’s work is currently featured at the Computer History Museum in Mountain View, CA as the world’s “smallest computer.” Recently, we have pushed our research to further reduce the size of such system to only 0.04mm3 [55] for cellular temperature measurement, and we are continuing to explore new mm and sub-mm systems in our lab. 
+
+mm-tracking sensor and butterfly with attached sensor
+
+mm-Scale Embedded Systems for Novel Application Domains: We have active embedded system design research in our group, applying our mm-scale computing and sensor systems to a host of new application domains. Recently, we used light sensing to study the extinction of different snail species in Tahiti, providing data to biologist that was previously unattainable. We have active research, funded in part by the National Geographic, to develop a sensor that can be attached to Monarch butterflies to track them as they migrate from the northern US to Mexico each year. This could provide vital new information for helping preserve this unique species that has experienced dramatic population decline. We also have research applying mm-computing to micro-robots measuring only ~200um in size, programmable matter and mm-size space flight.
+
+Rapid Gene Sequencing for Precision Health: The dramatic reduction in whole genome sequencing cost is transforming heath care by opening up the promise of precision medicine. However, each sequenced genome produces many terra-bytes of data and the processing speed of processors has not kept pace with new sequencing technology. In this research, we explore new algorithms and new hardware acceleration architectures for genome sequencing [47]. In particular, we focus on accurate genome sequencing using “long reads” produced by the ONT minion device which holds the promise of making genome sequencing truly portable but also introduces the algorithmic challenge of much higher error rates. A second challenge we are pursuing is very low latency sequencing of pathogens which will enable bed-side anti-microbial resistance detection and better antibiotic stewardship.
+
+Early prototype of neural recording mote next to a grain of sugar
+
+Neural Interface Probes for Limb Function Restoration: Implantable neural recording systems hold the promise of restored limb function for paralyzed and severely injured individuals. However, existing approaches have either used wires for data communication and power, or have been impractically bulky (> 1mm). In this research, our lab has developed a new neural recording probe that measures only 150um on a side, uses a novel neural amplifier [48], and sits on the brain with an 8um diameter carbon fiber electrode penetrating brain tissue to obtain long term operation without scarring. By combining 100s to 1000s of such probes, we hope to realize “neural recording dust” for the first time.
+
+Short Bio
+
+David Blaauw received his B.S. in physics and computer science from Duke University in 1986 and his Ph.D. in computer science from the University of Illinois at Urbana-Champaign in 1991. Until August 2001, he worked for Motorola, Inc. in Austin, TX, where he was the manager of the High Performance Design Technology group and won the Motorola Innovation award. Since August 2001, he has been on the faculty of the University of Michigan, where he is the Kensall D. Wise Collegiate Professor of EECS. He has published over 600 papers, has received numerous best paper awards and holds 65 patents. He has performed extensive research in ultra-low-power computing using subthreshold operation and analog circuits for millimeter sensor systems, which was selected by the MIT Technology Review as one of the year’s most significant innovations. For high-end servers, his research group introduced so-called near-threshold computing, which has become a common concept in semiconductor design. Most recently, he has pursued research in cognitive computing using analog, in-memory neural-networks for edge-devices and genomics acceleration for precision health. He was general chair of the IEEE International Symposium on Low Power, the technical program chair for the ACM/IEEE Design Automation Conference, and serves on the IEEE International Solid-State Circuits Conference’s technical program committee. He is an IEEE Fellow and received the 2016 SIA-SRC faculty award for lifetime research contributions to the U.S. semiconductor industry.  He is the director of the Michigan Integrated Circuits Lab.  
+
+Earlier Research: Subthreshold Design
+
+Blaauw’s lab has had a long research agenda in low power design. They introduced the concept of the “energy optimal voltage” (Vopt) in 2004 (DAC) [25] together with their colleague Dennis Sylvester. At Vopt voltage, the energy per operation reaches a minimum, and further reduction of the supply voltage increases the leakage energy more quickly than the dynamic energy reduces. Their paper was the first to formulate analytical expressions for the value of Vopt and explore its dependence on circuit switching activity and process parameters. Typically, Vopt lies below the threshold voltage, leading to the need for subthreshold design. Blaauw and Sylvester’s research team spent the following years developing ultra-low power sensor systems using subthreshold design. This led to numerous publications, including new, ultra-low voltage SRAM designs [26, 27], subthreshold processor architectures [28, 29] and signal processing using “super pipelining” to further reduce the Vopt point [30].
+
+Earlier Research: Near-Threshold Design for Throughput Limited Computing
+
+Blaauw’s lab also applied low power techniques to throughput limited, high-performance computing found in data centers. Together with Professors Mudge, Dreslinski, and Sylvester, they were the first to introduced the concept of “near threshold computing” (NTC) in 2007 (ISLPED) [31]. For throughput constrained, parallelizable applications, NTC operates at the optimal trade-off between the energy efficiency gained through low voltage operation and performance gain from operating at a higher voltage. Their papers found that for parallelizable workloads, the optimal point occurs at a supply voltage that is ~200mV above the threshold voltage of the technology (i.e., “near” the threshold voltage) [40, 41]. This approach has been widely adopted in the industry and has led to additional investigations by Blaauw’s research team into low voltage design for chip multiprocessors, including novel high radix routers to connect chip multiprocessors with memory [32] and investigation into 3D multiprocessor designs [33].
+
+Earlier Research: Adaptive Design and Razor Techniques
+
+In the area of adaptive design, Blaauw’s lab introduced an approach called Razor in 2003 (MICRO) [34] where processor chips automatically tune their frequency or supply voltage to the point of failure, thereby eliminating wasteful design margins. By adding low-overhead delay error detection and correction circuits, Razor automatically tunes the processor to operate at the point where failures start to occur (which subsequently are automatically corrected), indicating that all margins are removed. As the chip experiences different environmental conditions, such as temperature and supply voltage changes or aging effects, Razor automatically tracks the innate performance of the design by maintaining a low error rate. Razor was implemented in several test chips, showing as much as 50% power reduction and 30% performance improvement [35, 42, 43, 44]. It spawned significant additional research in related approaches by industry and academic researchers, and the key papers [34, 35, 36, 37] have been referenced over 2,000 times. In addition, our lab has investigated other areas of adaptive design, such as methods for in situ detection and management of aging based oxide-breakdown and NBTI degradation [45, 46].  
+
+References
+
+1. Li-Xuan Chuo, Yao Shi, Zhihong Luo, Nikolaos Chiotellis, Zhiyoong Foo, Gyouho Kim, Yejoong Kim, Anthony Grbic, David Wentzloff, Hun-Seok Kim, David Blaauw, “A 915MHz Asymmetric Radio Using Q-Enhanced Amplifier for a Fully Integrated 3×3mm3 Wireless Sensor Node with 20m Non-Line-of-Sight Communication,” IEEE International Solid-State Circuits Conference (ISSCC), February 2017 [PDF]
+
+2. Yao Shi, Myungjoon Choi, Ziyun Li, Zhihong Luo, Gyouho Kim, Zhiyoong Foo, Hun-Seok Kim, David Wentzloff, David Blaauw, “A 10mm³ Inductive-Coupling Near-Field Radio for Syringe-Implantable Smart Sensor Nodes,” IEEE Journal of Solid State Circuits (JSSC), Vol. 51, No. 11, September 2016, pgs. 2570-2583 [PDF]
+
+3. Wanyeong Jung, Junhua Gu, Paul D. Myers, Minseob Shim, Seokhyeon Jeong, Kaiyuan Yang, Myungjoon Choi, ZhiYoong Foo, Suyoung Bang, Sechang Oh, Dennis Sylvester, David Blaauw,” A 60%-Efficiency 20nW-500μW Tri-Output Fully Integrated Power Management Unit with Environmental Adaptation and Load-Proportional Biasing for IoT Systems,” IEEE International Solid-State Circuits Conference (ISSCC), February 2016 [PDF]
+
+4. Wanyeong Jung, Sechang Oh, Suyoung Bang, Yoonmyung Lee, Dennis Sylvester, David Blaauw, “A 3nW Fully Integrated Energy Harvester Based on Self-Oscillating Switched-Capacitor DC-DC Converter,” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on ISSCC, February 2014 [PDF]
+
+5. Gregory Chen, Hassan Ghaed, Razi-Ul Haque, Michael Wieckowski, Yejoong Kim, Gyouho Kim, David Fick, Daeyeon Kim, Mingoo Seok, Kensall Wise, David Blaauw, Dennis Sylvester, “A 1 Cubic Millimeter Energy-Autonomous Wireless Intraocular Pressure Monitor,” IEEE International Solid-State Circuits Conference (ISSCC), February 2011 [PDF]
+
+6. Qing Dong, Yejoong Kim, Inhee Lee, Myungjoon Choi, Ziyun Li, Jingcheng Wang, Kaiyuan Yang, Yen-Po Chen, Junjie Dong, Minchang Cho, Gyouho Kim, Wei-Keng Chang, Yun-ShengChen, Yu-Der Chih, David Blaauw, Dennis Sylvester, “A 1Mb Embedded NOR Flash Memory with 39μW Program Power for mm-Scale High-Temperature Sensor Nodes,” EEE International Solid-State Circuits Conference (ISSCC), February 2017[PDF] 
+
+7. Gyouho Kim, Mahmood Barangi, Zhiyoong Foo, Nathaniel Pinckney, Suyoung Bang, David Blaauw, Dennis Sylvester, “A 467nW CMOS Visual Motion Sensor with Temporal Averaging and Pixel Aggregation,” IEEE International Solid-State Circuits Conference (ISSCC), February 2013[PDF]
+
+8. Minchang Cho, Sechang Oh, Seokhyeon Jeong, Yiqun Zhang, Inhee Lee, Yejoong Kim, Li-Xuan Chuo, Dongkwun Kim, Qing Dong, Yen-Po Chen, Martin Lim, Mike Daneman, David Blaauw, Dennis Sylvester, Hun-Seok Kim, “A 6×5×4mm3 General Purpose Audio Sensor Node with a 4.7μW Audio Processing IC ,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2017[PDF]
+
+9. Sechang Oh, Taekwang Jang, Kyojin D. Choo, David Blaauw, Dennis Sylvester, “A 4.7µW Switched-Bias MEMS Microphone Preamplifier for Ultra-Low-Power Voice Interfaces,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2017[PDF]
+
+10. Sechang Oh, Yao Shi, Gyouho Kim, Yejoong Kim, Taewook Kang, Seokhyeon Jeong, Dennis Sylvester, David Blaauw, “A 2.5nJ Duty-Cycled Bridge-to-Digital Converter Integrated in a 13mm3 Pressure-Sensing System,” IEEE International Solid-State Circuits Conference (ISSCC), February 2018 [PDF]
+
+11. Dongsuk Jeon, Yen-Po Chen, Yoonmyung Lee, Yejoong Kim, Zhiyoong Foo, Grant Kruger, Hakan Oral, Omer Berenfeld, Zhengya Zhang, David Blaauw, Dennis Sylvester, “An Implantable 64nW ECG-Monitoring Mixed-Signal SoC for Arrhythmia Diagnosis,” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on ISSCC, February 2014[PDF]
+
+12. Kaiyuan Yang, Qing Dong, Wanyeong Jung, Yiqun Zhang, Myungjoon Choi, David Blaauw, Dennis Sylvester, “A 0.6nJ -0.22/+0.19°C Inaccuracy Temperature Sensor Using Exponential Subthreshold Oscillation Dependence,” EEE International Solid-State Circuits Conference (ISSCC), February 2017[PDF]
+
+13. Mingoo Seok, Scott Hanson, Yu-Shiang Lin, Zhiyoong Foo, Dayeon Kim, Yoonmyung Lee, Nurrachman Liu, Dennis Sylvester, David Blaauw, “The Phoenix Processor: A 30pW Platform for Sensor Applications,” IEEE Symposium on VLSI Circuits (VLSI-Symp), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on VLSI Circuits, June 2008[PDF]
+
+14. Yoonmyung Lee, Suyoung Bang, Inhee Lee, Yejoong Kim, Gyouho Kim, Prabal Dutta, Dennis Sylvester, David Blaauw, “A Modular 1mm³ Die-Stacked Sensing Platform with Low Power I²C Inter-die Communication and Multi-Modal Energy Harvesting,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on ISSCC, Vol. 48, No.1, January 2013, pgs. 229-243[PDF]
+
+15. Wanyeong Jung, Dennis Sylvester, David Blaauw, “A Rational-Conversion-Ratio Switched-Capacitor DCDC Converter Using Negative-Output Feedback,” IEEE International Solid-State Circuits Conference (ISSCC), February 2016[PDF]
+
+16. Taekwang Jang, Myungjoon Choi, Seokhyeon Jeong, Suyoung Bang, Dennis Sylvester, David Blaauw, “A 4.7nW 13ppm/°C Self-Biased Wakeup Timer Using a Switched-Resistor Scheme,” IEEE International Solid-State Circuits Conference (ISSCC), February 2016[PDF]
+
+17. Mingoo Seok, David Blaauw, Dennis Sylvester, Gyouho Kim, “A Portable 2-Transistor Picowatt Temperature-Compensated Voltage Reference Operating at 0.5V,” IEEE Journal of Solid-State Circuits (JSSC), Vol. 47, No. 10, October 2012, pgs. 2534-2545[PDF] 
+
+18. Wanyeong Jung, Seokhyeon Jeong, Dennis Sylvester, David Blaauw, “A 46.9fJ/c.s, Fully-Digital Capacitance-to-Digital Converter using Iterative Delay-Chain Discharge.” IEEE International Solid-State Circuits Conference (ISSCC), February 2015[PDF]
+
+19. Yen-Po Chen, Yoonmyung Lee, Jae-Yoon Sim, Massimo Alioto, David Blaauw, “45pW ESD Clamp Circuit for Ultra-Low Power Applications,” IEEE Custom Integrated Circuits Conference (CICC), September 2013[PDF]
+
+20. Ziyun Li, Qing Dong, Mehdi Saligane, Benjamin Kempke, Luyao Gong, Zhengya Zhang, Ron Dreslinski, David Blaauw, Hun Seok Kim, “A 1920 × 1080 30-frames/s 2.3 TOPS/W Stereo-Depth Processor for Energy-Efficient Autonomous Navigation of Micro Aerial Vehicles ,” IEEE Journal of Solid State Circuits (JSSC), Invited Paper to the Special Issue on ISSCC 2017, 53, No. 1, September 2017, pgs. 76-9[PDF]
+
+21. Suyoung Bang, Jingcheng Wang, Ziyun Li, Cao Gao, Yejoong Kim, Qing Dong, Yen-Po Chen, Laura Fick, Xun Sun, Ron Dreslinski, Trevor Mudge, Hun Seok Kim, David Blaauw, Dennis Sylvester, “A 288μW Programmable Deep-Learning Processor with 270KB On-Chip Weight Storage Using Non-Uniform Memory Hierarchy for Mobile Intelligence,” IEEE International Solid-State Circuits Conference (ISSCC), February 2017[PDF]
+
+22. Supreet Jeloka, Naveen Akesh, Dennis Sylvester, and David Blaauw, “A 28nm configurable memory (TCAM / BCAM / SRAM) using push-rule 6T bit cell enabling logic-in-memory,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special issue on VLSI 2015, Vol. 51, No. 4, April 2016, pgs. 1009-1021 [PDF]
+
+23. Qing Dong, Supreet Jeloka, Mehdi Saligane, Yejoong Kim, Masaru Kawaminami, Akihiko Harada, Satoru Miyoshi, David Blaauw, Dennis Sylvester, “A 0.3V VDDmin 4+2T SRAM for Searching and In-Memory Computing Using 55nm DDC Technology,” IEEE Symposium on VLSI Circuits (VLSI-Symp), Invited Paper to the IEEE Journal of Solid States Circuits (JSSC), Special Issue on VLSI, June 2017 [PDF]
+
+24. Yiqun Zhang, Li Xu, Jingcheng Wang, Kaiyuan Yang, Qing Dong, Supreet Jeloka, David Blaauw, Dennis Sylvester, “Recryptor: A Reconfigurable In-Memory Cryptographic Cortex-M0 Processor for IoT,” IEEE Symposium on VLSI Circuits (VLSI-Symp), Invited Paper to the IEEE Journal of Solid States Circuits(JSSC), Special Issue on VLSI, June 2017 [PDF]
+
+25. Bo Zhai, David Blaauw, Dennis Sylvester, Krisztián Flautner, “Theoretical and Practical Limits of Dynamic Voltage Scaling,” ACM/IEEE Design Automation Conference (DAC), June 2004, pg. 868-873 [PDF]
+
+26. Bo Zhai, David Blaauw, Dennis Sylvester, Scott Hanson, “A sub-200mV 6T SRAM in 130nm CMOS,” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the Special Issue on the 2008 Compound Semi-Conductor Integrated Circuit Symposium (CSICS’08), February 2007 [PDF]
+
+27. Bo Zhai, Scott Hanson, David Blaauw, Dennis Sylvester, “A Variation-Tolerant Sub-200mV 6-T Subthreshold SRAM,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on the 2008 Compound Semi-Conductor Integrated Circuit Symposium (CSICS’08), 43, No. 10, October 2008, pgs. 2338 – 2348 [PDF]
+
+28. Bo Zhai, Leyla Nazhandali, Javin Olson, Anna Reeves, Michael Minuth, Ryan Helfand, Sanjay Pant, David Blaauw, Todd Austin, “A 2.60pJ/Inst. Subthreshold Sensor Processor for Optimal Energy Efficiency,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2006 [PDF]
+
+29. Scott Hanson, Mingoo Seok, Yu-Shiang Lin, Zhiyoong Foo, Daeyon Kim, Yoonmyung Lee, Nurrachman Liu, Dennis Sylvester, David Blaauw, “A Low-Voltage Processor for Sensing Applications with Picowatt Standby Mode,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on VLSI Circuits, Vol. 44, No. 4, April 2009, pgs. 1145 – 1155 [PDF]
+
+30. Mingoo Seok, Dongsuk Jeon, Chaitali Chakrabarti, David Blaauw, Dennis Sylvester, “A 0.27V, 30MHz, 17.7nJ/transform 1024-pt complex FFT core with super-pipelining,” IEEE International Solid-State Circuits Conference (ISSCC), February 2011 [PDF]
+
+31. Bo Zhai, Ronald G. Dreslinski, Trevor Mudge, David Blaauw, Dennis Sylvester, “Energy Efficent Near-threshold Chip Multi-processing,” ACM/IEEE International Symposium on Low-Power Electronics and Design (ISLPED), August 2007, Best Paper Nomination [PDF]
+
+32. Sudhir Satpathy, Korey Sewell, Thomas Manville, Yen-Po Chen, Ronald Dreslinski, Dennis Sylvester, Trevor Mudge, David Blaauw, “A 4.5Tb/s 3.4Tb/sW 64 x 64 Switch Fabric With Self-Updating Least-Recently-Granted Priority and Quality-of-Service Arbitration in 45nm CMOS,” IEEE International Solid-State Circuits Conference (ISSCC), February 2012 [PDF]
+
+33. David Fick, Ronald G. Dreslinski, Bharan Giridhar, Gyouho Kim, Sangwon Seo, Mathew Fojtik, Sudhir Satpathy, Yoonmyung Lee, Daeyeon Kim, Nurrachman Liu, Michael Wieckowski, Gregory Chen, Trevor Mudge, Dennis Sylvester, David Blaauw, “Centip3De: A 3930 DMIPS/W Configurable Near-Threshold 3D Stacked System with 64 ARM Cortex-M3 Cores,” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on ISSCC, February 2012 [PDF]
+
+34. Dan Ernst, Nam Sung Kim, Shidhartha Das, Sanjay Pant, Toan Pham, Rajeev Rao, Conrad Ziesler, David Blaauw, Todd Austin, Trevor Mudge, “Razor: A Low-Power Pipeline Based on Circuit-Level Timing Speculation,” ACM/IEEE International Symposium on Microarchitecture (MICRO), December 2003, pg. 7-18, Best Paper Award [PDF]
+
+35. David Blaauw, Sudherssen Kalaiselvan, Kevin Lai, Wei-Hsiang Ma, Sanjay Pant, Carlos Tokunaga, Shidhartha Das, David Bull, “RazorII: In-Situ Error Detection and Correction for PVT and SER tolerance,” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on ISSCC, February 2008 [PDF] 
+
+36. David Bull, Shidhartha Das, Karthik Shivashankar, Ganesh Dasika, Krisztian Flautner, David Blaauw, “A Power-efficient 32bit ARM Processor using Timing-error Detection and Correction for Transient-error Tolerance and Adaptation to PVT Variation,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on ISSCC 2010, Vol. 46, No. 1, January 2011, pgs. 18 – 31 [PDF]
+
+37. Matthew Fojtik, David Fick, Yejoong Kim, Nathaniel Pinckney, David Harris, David Blaauw, Dennis Sylvester, “Bubble Razor: Eliminating Timing Margins in an ARM Cortex-M3 Processor in 45nm CMOS Using Architecturally Independent Error Detection and Correction,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on ISSCC, Vol. 48, No. 1, January 2013, pgs. 66-81 [PDF]
+
+38. Seokhyeon Jeong, Wanyeong Jung, Dongsuk Jeon, Omer Berenfeld, Hakan Oral, Grant Kruger, David Blaauw, Dennis Sylvester, “A 120nW 8b Sub-ranging SAR ADC with Signal-Dependent Charge Recycling for Biomedical Applications,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2015 [PDF]
+
+39. Dongsuk Jeon, Michael Henry, Yejoong Kim, Inhee Lee, Zhengya Zhang, David Blaauw, Dennis Sylvester, “An Energy Efficient Full-Frame Feature Extraction Accelerator with Shift-Latch FIFO in 28nm CMOS,” IEEE Journal of Solid-State Circuits (JSSC), Vol. PP, No. 99, March 2014, pgs. 1-14 [PDF]
+
+40. Ronald G. Dreslinski, Michael Wieckowski, David Blaauw, Dennis Sylvester, Trevor Mudge, “Near-Threshold Computing: Reclaiming Moore’s Law Through Energy Efficient Integrated Circuits,” Proceedings of the IEEE, Special Issue on Ultra-Low Power Circuit Technology, Vol. 98, No. 2, February 2010, pg. 253 – 266 [PDF]
+
+41. Nathaniel Pinckney, Korey Sewell, Ronald Dreslinski, Dave Fick, David Blaauw, Dennis Sylvester, Trevor Mudge, “Assessing the Performance of Parallelized Near-Threshold Computing,” ACM/IEEE Design Automation Conference (DAC), June 2012 [PDF]
+
+42. Shidhartha Das, David Roberts, Seokwoo Lee, Sanjay Pant, David Blaauw, Todd Austin, Krisztián Flautner, Trevor Mudge, “A Self-Tuning DVS Processor using Delay-Error Detection and Correction,” IEEE Journal of Solid-State Circuits (JSSC), Invited Paper to the Special Issue on the 2005 Symposium on VLSI Circuits, Vol. 41, No. 4, April 2006, pg. 792-804. [PDF]
+
+43. Yiqun Zhang, Mahmood Khayatzadeh, Kaiyuan Yang, Mehdi Saligane, Nathaniel Pinckney, Massimo Alioto, David Blaauw, Dennis Sylvester, “iRazor: 3-Transistor Current-Based Error Detection and Correction in an ARM Cortex-R4 Processor,” IEEE International Solid-State Circuits Conference (ISSCC), February 2016 [PDF]
+
+44. David Blaauw, Shidhartha Das, “CPU, Heal Thyself,” IEEE Spectrum, August 2009 [PDF]
+
+45. Prashant Singh, Eric Karl, Dennis Sylvester, David Blaauw, “Compact Degradation Sensors for Monitoring NBTI and Oxide Degradation,” IEEE Transactions on Very Large Scale Integration Systems (T-VLSI), Vol. 20, No. 9, September 2012, 1645-1655 [PDF]
+
+46. Dennis Sylvester, David Blaauw, Eric Karl, “ElastIC: An Adaptive Self-Healing Architecture for Unpredictable Silicon,” IEEE Design and Test of Computers (D&T), Vol. 23, No. 6, November 2006, pg. 484 – 490 [PDF]
+
+47. Daichi Fujiki, Arun Subramaniyan, Tianjun Zhang, Yu Zeng, Reetuparna Das, David Blaauw, Satish Narayanasamy, “GenAx: A Genome Sequencing Accelerator,” IEEE International Symposium on Computer Architecture (ISCA), May 2018 [PDF]
+
+48. Taekwang Jang, Jongyup Lim, Kyojin Choo, Samuel Nason, Jeongsup Lee, Sechang Oh, Seokhyeong Jeong, C. Chestek, Dennis Sylvester, David Blaauw, “A 2.2 NEF Neural-Recording Amplifier Using Discrete-Time Parametric Amplification,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2018 [PDF]
+
+49. Li Xu, Taekwang Jang, Jongyup Lim, Kyojin Choo, David Blaauw, Dennis Sylvester, “A 0.51nW 32kHz Crystal Oscillator Achieving 2ppb Allan Deviation Floor Using High-Energy-to-Noise-Ratio Pulse Injection” IEEE International Solid-State Circuits Conference (ISSCC), February 2020
+
+50. Myungjoon Choi, Taekwang Jang, Junwon Jeong, Seokhyeon Jeong, David Blaauw, Dennis Sylvester “A Current-mode Wireless Power Receiver with Optimal Resonant Cycle Tracking for Implantable Systems” IEEE International Solid-State Circuits Conference (ISSCC), Invited Paper to the IEEE Journal of Solid-State Circuits (JSSC), Special Issue on ISSCC, February 2016 [PDF]
+
+51. Li-Xuan Chuo, Yejoong Kim, Nikolaos Chiotellis, Makoto Yasuda, Satoru Miyoshi, Masaru Kawaminami, Anthony Grbic, David Wentzloff, Hun-Seok Kim, David Blaauw, “A 4×4×4-mm3 Fully Integrated Sensor-to-Sensor Radio using Carrier Frequency Interlocking IF Receiver with -94 dBm Sensitivity,” IEEE Radio Frequency Integrated Circuits Symposium (RFIC), June 2019, Best Paper Award [PDF]
+
+52. Li-Xuan Chuo, Zhihong Luo, Dennis Sylvester, David Blaauw, Hun-Seok Kim, “RF-Echo: A Non-Line-of-Sight Indoor Localization System Using a Low-Power Active RF Reflector ASIC Tag,” International Conference eon Mobile Computing and Networking (MobiCom), October 2017 [PDF]
+
+53. Yao Shi, Xing Chen, Hun-Seok Kim, David Blaauw, David Wentzloff, “A 606-µW Millimeter-Scale Bluetooth Low Energy Transmitter using Co-Designed 3.5×3.5 mm2 Loop Antenna and Transformer-Boost Power Oscillator,” IEEE International Solid-State Circuits Conference (ISSCC), February 2019 [PDF]
+
+54. Subhankar Pal, Dong-hyeon Park, Siying Feng, Paul Gao, Jielun Tan, Austin Rovinski, Shao-lin Xie, Chun Zhao, Aporva Amarnath, Timothy Wesley, Jonathan Beaumont, Kuan-Yu Chen, Chaitali Chakrabarti, Michael Taylor, Trevor Mudge, David Blaauw, Hun-Seok Kim, Ronald Dreslinski, “A 7.3 M Output Non-Zeros/J Sparse Matrix-Matrix Multiplication Accel-erator using Memory Reconfiguration in 40 nm,” IEEE Symposium on VLSI Circuits (VLSI-Symp), June 2019 [PDF]
+
+55. Subhankar Pal, Jonathan Beaumont, Dong-Hyeon Park, Aporva Amarnath, Siying Feng, Chaitali Chakrabarti, Hun-Seok Kim, David Blaauw, Trevor Mudge, Ronald Dreslinski, “OuterSPACE: An Outer Product based Sparse Matrix Multiplication Accelerator,” IEEE In-ternational Symposium on High Performance Computer Architecture (HPCA), February 2018 [PDF]
+
+CONTACT
+
+David Blaauw
+
+Kensall D. Wise Collegiate Professor of Electrical Engineering and Computer Science
+
+Electrical Engineering and Computer Science
+
+blaauw@umich.edu
+
+(734) 763-4526
+
+2417C EECS
+1301 Beal Avenue
+Ann Arbor, MI 48109-2122
+
+DAVID BLAAUW
+
+MICHIGAN ENGINEERING
+
+ 1221 Beal Ave. Ann Arbor, MI 48109-2102
+
+ +1 (734) 647-7000
+
+ CONTACT THE COLLEGE
+
+ ENGINEERING INTRANET
+
+© 2024 THE REGENTS OF THE UNIVERSITY OF MICHIGAN | SAFETY AND SECURITY | ACCEPTABLE USE |PRIVACY POLICY |U-M MAIN
+
+LOGIN
+

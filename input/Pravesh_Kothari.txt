@@ -1,0 +1,252 @@
+Professor: Pravesh Kothari
+University: Princeton University
+URL: http://praveshkkothari.org/
+Description: Processing math: 100%
+Pravesh K. Kothari
+home
+CV
+research
+teaching
+Assistant Professor (Jan 2024-)
+Computer Science Department, Princeton
+kothari AT cs.princeton.edu
+
+In Spring'24, I am also affiliated with the School of Math at the IAS.
+
+Brief Bio: I got my PhD in CS from UT Austin in Summer 2016 with a dissertation on Strong Lower Bounds on Generic Convex Relaxations. I was a postdoctoral research instructor at the IAS and Princeton CS from 2016-19 and an Assistant Professor at CSD at CMU from 2019-2023.
+Upcoming Talks/Events
+
+Cargèse Workshop on Combinatorial Optimization [Sep'24]
+Bernoulli Center Workshop on Synergies of Combinatorics and theoretical computer science [Aug'24]
+Workshop on Algorithms for Learning and Economics [June'24]
+Plenary Session, Oberwolfach Complexity Meeting [June'24]
+Milan Theory Workshop [May'24]
+Oberwolfach Meeting on Proof Complexity and Beyond [March'24]
+School of Math Colloquium at the Institute for Advanced Study [March 24]
+EnCORE Workshop on Computational vs Statistical Gaps in Learning and Optimization [Feb'24]
+Banff Workshop on Computational Complexity of Statistical Inference [Feb 24]
+Rutgers Theory Seminar[Feb 24]
+MIT Statistics and Stochastics Seminar [Feb 24]
+MIT-Harvard Reading Group [Feb 24]
+Harvard Theory Seminar [Feb 24]
+CSDM Seminar at the Institute for Advanced Study [Feb 24]
+Simons Symposium on Math of Computing According to Lattices [Aug'23]
+Santa Fe Workshop on Connecting Physics, Geometry, and Algebraic Hardness [July'23]
+SIAM Conference on Optimization [May'23]
+Tel Aviv University Theory Fest, Plenary Session [Dec 22]
+
+
+Research Interests
+
+Algorithms and computational thresholds for average-case computational problems, random matrices, extremal combinatorics
+My work is generously supported by an NSF CAREER Award (2021), an Alfred P. Sloan Fellowship (2022), a Google Research Scholar Award (2021), and an NSF Medium Grant for collaborative research with Venkat Guruswami (2022).
+
+Research Highlights
+
+Complete list of my papers. Some highlights/resources:
+
+The Sum-of-Squares Method and Algorithm Design via Connections to Proof Complexity
+Monograph on Semialgebraic Proofs and Efficient Algorithm Design.
+Fall'21 CMU Lecture notes and videos.
+Sum-of-Squares Framework for Efficient Robust Statistics
+Resolving the robust learnability of mixtures of high-dimensional Gaussians (in the sequence [1], [2], and [3]) (see 2012 CACM Tech Perspective and Simons Research Vignette for history and context).
+Toolkit for basic estimation: regression, moment estimation, and sparse recovery.
+Efficient estimation in the presence of majority outliers (in the sequence [1], [2], and [3]).
+Overview talk with open questions.
+The Kikuchi Matrix Method and Applications
+A new class of spectral methods for extremal combinatorics. Applications so far: refuting and solving smoothed SAT (CSPs), settling Feige's conjecture on extremal girth of hypergraphs, and improved lower bounds on locally decodable codes, and an exponential lower bound on three-query linear locally correctable codes.
+Some recent talks.
+Efficient Algorithms approaching the conjectured threshold for Semirandom and Smoothed Optimization
+Refuting/solving Smoothed SAT and other CSPs(in the sequence [1], [2], [3]).
+Finding planted cliques in Feige-Kilian Semirandom Model (see this book chapter and this paper for history and context on the question).
+Breaking security of certain proposed cryptographic Pseudorandom Generators.
+Some recent talks.
+Pseudo-calibration, the Low-degree Polynomial Method and Sharp Computational Thresholds in Average-Case
+Lower bounds for SoS SDPs via planted vs null distinguishing problems with applications to random CSPs, planted clique, Tensor/Sparse PCA, with new connections to spectral methods and the low degree polynomial heuristic for computational phase transitions in statistical estimation
+Exponential lower bounds for linear relaxations for constraint satisfaction
+Some talks.
+
+Current Teaching
+
+15-251: Great Ideas in Theoretical Computer Science
+with Anil Ada
+
+
+Service
+
+Workshop Co-Chair, FOCS 2023 and 2024
+
+PC Member APPROX/RANDOM 2018, SODA 2019, STOC 2020, ITCS 2020 , NeurIPS Area Chair 2020,2021, CCC 2022, RANDOM 2022, FSTTCS 2022, FOCS 2023, STOC 2025
+
+Advising
+
+Postdocs:
+Alperen Ergür (Fall 2019-20, Now Assistant Professor of Math and CS at UT San Antonio),
+Mitali Bafna (Fall 2022-23, now postdoc at MIT Math)
+PhD Students:
+Ainesh Bakshi (co-advised with David Woodruff, graduated 2022, now postdoc at MIT Math)
+Tim Hsieh,
+Peter Manohar (winner of the 2023 Cylab Presidential Fellowship, co-advised with Venkat Guruswami),
+Xinyu Wu (winner of the MSR Ada Lovelace Fellowship, co-advised with Ryan O'Donnell),
+Jeff Xu (winner of the 2022 Cylab Presidential Fellowship)
+Undergraduates:
+Prashanti Anderson (Phd student at MIT EECS, Alan J Perlis Award for student teaching, runner up to the Alan Newell award for best undergraduate SCS thesis for 2023),
+Misha Ivkov (PhD student at Stanford, winner of the Mark Stehlik SCS Alumni Undergraduate Impact Scholarship),
+Zachary Sussman (winner of the Alan Newell Award for best undergraduate SCS Thesis)
+
+Some Representative Papers (for all papers, see here)
+Spectral Refutations via Kikuchi Matrices and Applications
+Superpolynomial Lower Bounds for Smooth 3-LCCs and Sharp Bounds for Designs
+With Peter Manohar
+FOCS, 2024 (to appear)
+
+Small Even Covers, Locally Decodable Codes and Restricted Subgraphs of Edge-Colored Kikuchi Graphs
+With Tim Hsieh, Sidhanth Mohanty, David Munha Correia, and Benny Sudakov
+Manuscript, 2024
+
+An Exponential Lower Bound on Linear Three-Query Locally Correctable Codes
+With Peter Manohar
+STOC, 2024 (to appear)
+Invited to SICOMP Special Issue for STOC'24 (declined)
+
+A Near-Cubic Lower Bound for 3-Query Locally Decodable Codes from Semirandom CSP Refutation
+With Omar Alrabiah, Venkat Guruswami and Peter Manohar
+STOC, 2023.
+Invited to SICOMP Special Issue for STOC'23
+LONG TALK.
+A simple and sharper proof of the hypergraph Moore bound
+With Tim Hsieh and Sidhanth Mohanty
+SODA, 2023.
+LONG TALK.
+Algorithms and Certificates for Boolean CSP Refutation: Smoothed is no Harder than Random
+With Venkat Guruswami and Peter Manohar
+STOC, 2022. LONG TALK.
+Invited to the SICOMP Special Issue for STOC 2022, CACM Research Highlights 2023
+Algorithms for Learning Mixtures of Gaussians
+Robustly Learning a Mixture of $k$ Arbitrary Gaussians
+With Ainesh Bakshi , Ilias Diakonikolas, He Jia, Daniel Kane, Santosh Vempala
+STOC, 2022. LONG TALK.
+Outlier-Robust Clustering of Non-Spherical Mixtures
+With Ainesh Bakshi
+FOCS, 2020. LONG TALK.
+Conference version to be merged with this paper.
+Better Agnostic Clustering Via Relaxed Tensor Norms
+With Jacob Steinhardt
+STOC, 2018
+Conference version merged with this paper.
+Algorithms and Thresholds for Semirandom and Smoothed Models
+Rounding Large Independent Sets on Expanders
+With Mitali Bafna, Tim Hsieh
+Manuscript, 2024.
+Semirandom Planted Clique and the Restricted Isometry Property
+With Jaroslaw Blasiok, Rares Buhai, and David Steurer
+FOCS 2024
+Efficient Algorithms for Semirandom Planted CSPs at the Refutation Threshold
+With Venkat Guruswami , Tim Hsieh, and Peter Manohar
+FOCS, 2023 (to appear).
+Algorithms approaching the threshold for semi-random planted clique
+With Rares Buhai and David Steurer
+STOC, 2023 (to appear).
+LONG TALK.
+A simple and sharper proof of the hypergraph Moore bound
+With Tim Hsieh and Sidhanth Mohanty
+SODA, 2023.
+LONG TALK.
+Strongly refuting all semi-random Boolean CSPs
+With Jackson Abascal and Venkat Guruswami .
+SODA, 2021. LONG TALK.
+Sum-of-Squares Lower Bounds for Refuting any CSP
+With Ryuhei Mori , Ryan O'Donnell and David Witmer
+STOC, 2017.
+Algorithmic Robust Statistics and Related Topics
+Efficient Certificates of Anti-Concentration Beyond Gaussians
+With Ainesh Bakshi, Goutham Rajendran, Madhur Tulsiani, and Aravindan Vijayraghavan
+FOCS,2024
+Beyond Moments: Robustly Learning Affine Transformations with Asymptotically Optimal Error
+With He Jia and Santosh Vempala
+FOCS, 2023 (to appear).
+Privately Estimating a Gaussian: Efficient, Robust and Optimal
+With Daniel Alabi, Pranay Tankala, Prayaag Venkat and Fred Zhang
+STOC, 2023 (to appear).
+A Moment-Matching Approach to Testable Learning and a New Characterization of Rademacher Complexity
+With Aravind Gallakota and Adam Klivans
+STOC, 2023 (to appear).
+Invited to SICOMP Special Issue for STOC'23
+List-Decodable Covariance Estimation
+With Misha Ivkov
+STOC, 2022.
+
+List-Decodable Subspace Recovery: Dimension Independent Error in Polynomial Time
+With Ainesh Bakshi
+SODA, 2021.
+
+List-Decodable Linear Regression
+With Sushrut Karmalkar and Adam Klivans
+NeuIPS Spotlight, 2019. LONG TALK.
+Sparse PCA: algorithms, adversarial perturbations and certificates
+With Tommaso D'Orsi, Gleb Novikov, and David Steurer .
+FOCS 2020.
+Efficient Algorithms for Outlier-Robust Regression
+With Adam Klivans and Raghu Meka
+COLT 2018
+Prasad Raghavendra's Exposition of our algorithm in a Simons Institute Bootcamp
+Outlier-Robust Moment Estimation Via Sum-of-Squares
+With David Steurer
+STOC 2018 2 hour BOARD TALK.
+Conference version merged with this paper.
+Algorithms and Complexity of Unique Games and Related Problems
+Playing Unique Games on Certified Small-Set Expanders
+With Mitali Bafna , Boaz Barak , Tselil Schramm and David Steurer.
+STOC, 2021.
+
+Quantum Entanglement, Sum-of-Squares and the Log-Rank Conjecture
+With Boaz Barak and David Steurer
+STOC, 2017
+Recent 50 min talk and a shorter talk with a different perspective.
+Small-Set Expansion in Shortcode Graph and the 2-to-1 Conjecture
+With Boaz Barak and David Steurer
+A generally accessible article on the recent proof of the 2-to-2 games conjecture that partly relies on this work.
+
+Average-Case Algorithmic Thresholds
+Sum of Squares Lower Bounds for Independent Set on Ultra-Sparse Random Graphs
+With Aaron Potechin and Jeff Xu.
+STOC , 2024 (to appear)
+Algorithmic Thresholds for Refuting Random Polynomial Systems
+With Tim Hsieh.
+SODA, 2022.
+A Stress-Free Sum-of-Squares Lower Bound for Coloring
+With Peter Manohar.
+CCC, 2021.
+
+The power of sum-of-squares for detecting hidden structures
+With Samuel B. Hopkins , Aaron Potechin , Prasad Raghavendra , Tselil Schramm and David Steurer
+FOCS 2017
+Invited to the Highlights of Algorithms (HALG) 2018
+A Nearly Tight Sum-of-Squares Lower Bound for Planted Clique
+With Boaz Barak , Sam Hopkins , Jon Kelner , Ankur Moitra and Aaron Potechin
+FOCS 2016. [Video- IAS CS/DM Seminar] [Boaz's WOT post]
+Invited to SICOMP Special Issue for FOCS 2016
+SoS and Planted Clique: Tight Analysis of MPW Moments
+at all Degrees and an Optimal Lower Bound at Degree Four
+With Samuel B. Hopkins and Aaron Potechin
+SODA 2016
+Invited to the ACM Transactions on Algorithms, Special Issue for SODA 2016
+Conference version merged with this paper.
+Approximating Rectangles by Juntas and a Weakly Exponential Lower Bound for LP Relaxations of CSPs
+With Raghu Meka and Prasad Raghavendra
+STOC, 2017
+Invited to SICOMP Special Issue for STOC 2017
+Recent 50 min talk.
+Applications
+Sum-of-Squares Meets Nash: Lower Bounds for finding any equilibrium
+With Ruta Mehta
+STOC 2018
+Limits on Low-Degree Pseudorandom Generators (Or: Sum-of-Squares Meets Program Obfuscation)
+With Boaz Barak , Zvika Brakerski and Ilan Komargodski
+EUROCRYPT 2018
+Mentoring Talks
+
+I recently gave two mentoring talks as part of the new workshops organized by Learning Theory Alliance
+Slides from talk on Interacting with your Research Community.
+Slides from talk on Thoughts on PhD Admissions.
+

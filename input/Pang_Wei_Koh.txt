@@ -1,0 +1,311 @@
+Professor: Pang Wei Koh
+University: University of Washington
+URL: https://koh.pw/
+Description: Pang Wei Koh
+
+pangwei@cs.washington.edu | My first name is "Pang Wei"
+
+
+Assistant Professor, Allen School of Computer Science & Engineering
+University of Washington
+
+CV | bio | twitter | github | google scholar
+
+
+
+
+I am interested in how we can make machine learning systems more useful to society and more reliable in real-world application contexts. For example:
+
+Adaptation. Today's foundation models can access the sum total of human knowledge through natural language. How do we harness this knowledge and adapt these models to particular domains and applications?
+Reliability. How do we make our models more reliable under distribution shifts, more factual and up-to-date, and better calibrated about what they know? And how can we mitigate issues of bias, copyright, privacy, and disinformation?
+Interaction. How can AI systems best augment and interact with their human end-users? Conversely, what kind of human supervision and feedback would let us train more robust models?
+
+I received my PhD in Computer Science from Stanford, advised by Percy Liang. Before that, I was the 3rd employee and Director of Partnerships at Coursera. I was also an undergraduate at Stanford, advised by Andrew Ng and Daphne Koller.
+
+I am part of the UW ML and NLP groups, and I'm also a visiting research scientist at AI2. If you're interested in joining our group, please read this.
+
+Current students
+
+Scott Geng (co-advised with Ranjay Krishna)
+Jacqueline He (co-advised with Luke Zettlemoyer)
+Rulin Shao (co-advised with Luke Zettlemoyer)
+Rui Xin (co-advised with Sewoong Oh)
+
+Alumni
+
+Irena Gao (MS 2023, now PhD student at Stanford University)
+Kendrick Shen (MS 2022, now ML research engineer at Genesis Therapeutics)
+Henrik Marklund (MS 2021, now PhD student at Stanford University)
+Kai-Siang Ang (MS 2021, now ML engineer at Nuro)
+Erik Jones (MS 2020, now PhD student at UC Berkeley)
+Hubert Teo (MS 2019, now senior software engineer at Flock Freight)
+Thao Nguyen (BS 2019, now PhD student at the University of Washington)
+Yew-Siang Tang (BS 2019, now senior software engineer at You.com)
+
+Publications
+
+* = equal contribution.
+
+
+Scaling retrieval-based language models with a trillion-token datastore
+Rulin Shao, Jacqueline He, Akari Asai, Weijia Shi, Tim Dettmers, Sewon Min, Luke Zettlemoyer, and Pang Wei Koh
+arXiv 2024
+(paper) (website)
+CopyBench: Measuring literal and non-literal reproduction of copyright-protected text in language model generation
+Tong Chen, Akari Asai, Niloofar Mireshghallah, Sewon Min, James Grimmelmann, Yejin Choi, Hannaneh Hajishirzi, Luke Zettlemoyer, and Pang Wei Koh
+arXiv 2024
+(paper) (website)
+The unmet promise of synthetic training images: Using retrieved real images performs better
+Scott Geng, Cheng-Yu Hsieh, Vivek Ramanujan, Matthew Wallingford, Chun-Liang Li, Pang Wei Koh, and Ranjay Krishna
+arXiv 2024
+(paper)
+MEDIQ: Question-asking LLMs for adaptive and reliable clinical reasoning
+Shuyue Stella Li, Vidhisha Balachandran, Shangbin Feng, Jonathan Ilgen, Emma Pierson, Pang Wei Koh, and Yulia Tsvetkov
+arXiv 2024
+(paper) (website)
+Multilingual diversity improves vision-language representations
+Thao Nguyen, Matthew Wallingford, Sebastin Santy, Wei-Chiu Ma, Sewoong Oh, Ludwig Schmidt, Pang Wei Koh, and Ranjay Krishna
+arXiv 2024
+(paper)
+Information-theoretic distillation for reference-less summarization
+Jaehun Jung, Ximing Lu, Liwei Jiang, Faeze Brahman, Peter West, Pang Wei Koh, and Yejin Choi
+COLM 2024
+(paper)
+PLeaS--Merging models with permutations and least squares
+Anshul Nasery, Jonathan Hayase, Pang Wei Koh, and Sewoong Oh
+arXiv 2024
+(paper)
+DataComp-LM: In search of the next generation of training sets for language models
+Jeffrey Li, Alex Fang, Georgios Smyrnis, Maor Ivgi, Matt Jordan, Samir Gadre, Hritik Bansal, Etash Guha, Sedrick Keh, Kushal Arora, Saurabh Garg, Rui Xin, Niklas Muennighoff, Reinhard Heckel, Jean Mercat, Mayee Chen, Suchin Gururangan, Mitchell Wortsman, Alon Albalak, Yonatan Bitton, Marianna Nezhurina, Amro Abbas, Cheng-Yu Hsieh, Dhruba Ghosh, Josh Gardner, Maciej Kilian, Hanlin Zhang, Rulin Shao, Sarah Pratt, Sunny Sanyal, Gabriel Ilharco, Giannis Daras, Kalyani Marathe, Aaron Gokaslan, Jieyu Zhang, Khyathi Chandu, Thao Nguyen, Igor Vasiljevic, Sham Kakade, Shuran Song, Sujay Sanghavi, Fartash Faghri, Sewoong Oh, Luke Zettlemoyer, Kyle Lo, Alaaeldin El-Nouby, Hadi Pouransari, Alexander Toshev, Stephanie Wang, Dirk Groeneveld, Luca Soldaini, Pang Wei Koh, Jenia Jitsev, Thomas Kollar, Alexandros G. Dimakis, Yair Carmon, Achal Dave, Ludwig Schmidt, and Vaishaal Shankar
+arXiv 2024
+(paper)
+Data-centric AI in the age of large language models
+Xinyi Xu, Zhaoxuan Wu, Rui Qiao, Arun Verma, Yao Shu, Jingtan Wang, Xinyuan Niu, Zhenfeng He, Jiangwei Chen, Zijian Zhou, Gregory Kang Ruey Lau, Hieu Dao, Lucas Agussurja, Rachael Hwee Ling Sim, Xiaoqiang Lin, Wenyang Hu, Zhongxiang Dai, Pang Wei Koh, and Bryan Kian Hsiang Low
+arXiv 2024
+(paper)
+Annotation alignment: Comparing LLM and human annotations of conversational safety
+Rajiv Movva, Pang Wei Koh, and Emma Pierson
+NAACL Workshop on Online Abuse and Harms 2024
+(paper)
+Using unlabeled data to enhance fairness of medical AI
+Rajiv Movva, Pang Wei Koh, and Emma Pierson
+Nature Medicine 2024
+(paper)
+Reliable, adaptable, and attributable language models with retrieval
+Akari Asai, Zexuan Zhong, Danqi Chen, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi, and Wen-tau Yih
+arXiv 2024
+(paper)
+Language models scale reliably with over-training and on downstream tasks
+Samir Yitzhak Gadre, Georgios Smyrnis, Vaishaal Shankar, Suchin Gururangan, Mitchell Wortsman, Rulin Shao, Jean Mercat, Alex Fang, Jeffrey Li, Sedrick Keh, Rui Xin, Marianna Nezhurina, Igor Vasiljevic, Jenia Jitsev, Luca Soldaini, Alexandros G. Dimakis, Gabriel Ilharco, Pang Wei Koh, Shuran Song, Thomas Kollar, Yair Carmon, Achal Dave, Reinhard Heckel, Niklas Muennighoff, and Ludwig Schmidt
+arXiv 2024
+(paper)
+Uncertainty of Thoughts: Uncertainty-aware planning enhances information seeking in large language models
+Zhiyuan Hu, Chumin Liu, Xidong Feng, Yilun Zhao, See-Kiong Ng, Anh Tuan Luu, Junxian He, Pang Wei Koh, and Bryan Hooi
+arXiv 2024
+(paper)
+Instructional fingerprinting of large language models
+Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, and Muhao Chen
+NAACL 2024
+(paper)
+The generative AI paradox: "What it can create, it may not understand"
+Peter West*, Ximing Lu*, Nouha Dziri*, Faeze Brahman*, Linjie Li*, Jena D. Hwang, Liwei Jiang, Jillian Fisher, Abhilasha Ravichander, Khyathi Chandu, Benjamin Newman, Pang Wei Koh, Allyson Ettinger, and Yejin Choi
+ICLR 2024
+(paper)
+Leveraging domain relations for domain generalization
+Huaxiu Yao*, Xinyu Yang*, Xinyi Pan, Shengchao Liu, Pang Wei Koh, and Chelsea Finn
+ICLR 2024
+Spotlight paper
+(paper)
+Impossibility theorems for feature attribution
+Blair Bilodeau, Natasha Jaques, Pang Wei Koh, and Been Kim
+Proceedings of the National Academy of Sciences (PNAS) 2024
+(paper) (code)
+Retrieval-based language models using a multi-domain datastore
+Rulin Shao, Sewon Min, Luke Zettlemoyer, and Pang Wei Koh
+NeurIPS Workshop on Distributution Shifts (DistShift) 2023
+(paper)
+Use large language models to promote equity
+Emma Pierson*, Divya Shanmugam*, Rajiv Movva*, Jon Kleinberg*, Monica Agrawal, Mark Dredze, Kadija Ferryman, Judy Wawira Gichoya, Dan Jurafsky, Pang Wei Koh, Karen Levy, Sendhil Mullainathan, Ziad Obermeyer, Harini Suresh, and Keyon Vafa
+arXiv 2023
+(paper)
+OpenFlamingo: An open-source framework for training large autoregressive vision-language models
+Anas Awadalla*, Irena Gao*, Josh Gardner, Jack Hessel, Yusuf Hanafy, Wanrong Zhu, Kalyani Marathe, Yonatan Bitton, Samir Gadre, Shiori Sagawa, Jenia Jitsev, Simon Kornblith, Pang Wei Koh, Gabriel Ilharco, Mitchell Wortsman, and Ludwig Schmidt
+arXiv 2023
+(paper) (code)
+FActScore: Fine-grained atomic evaluation of factual precision in long form text generation
+Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi
+EMNLP 2023
+(paper) (code)
+DataComp: In search of the next generation of multimodal datasets
+Samir Yitzhak Gadre*, Gabriel Ilharco*, Alex Fang*, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, Jieyu Zhang, Eyal Orgad, Rahim Entezari, Giannis Daras, Sarah Pratt, Vivek Ramanujan, Yonatan Bitton, Kalyani Marathe, Stephen Mussmann, Richard Vencu, Mehdi Cherti, Ranjay Krishna, Pang Wei Koh, Olga Saukh, Alexander Ratner, Shuran Song, Hannaneh Hajishirzi, Ali Farhadi, Romain Beaumont, Sewoong Oh, Alex Dimakis, Jenia Jitsev, Yair Carmon, Vaishaal Shankar, and Ludwig Schmidt
+NeurIPS (Datasets and Benchmarks Track) 2023
+Oral presentation
+(paper) (website)
+Proximity-informed calibration for deep neural networks
+Miao Xiong, Ailin Deng, Pang Wei Koh, Jiaying Wu, Shen Li, Jianqing Xu, and Bryan Hooi
+NeurIPS 2023
+Spotlight paper
+(paper) (code)
+Are aligned neural networks adversarially aligned?
+Nicholas Carlini, Milad Nasr, Christopher A Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, and Ludwig Schmidt
+NeurIPS 2023
+(paper)
+On the trade-off of intra-/inter-class diversity for supervised pre-training
+Jieyu Zhang*, Bohan Wang*, Zhengyu Hu, Pang Wei Koh, and Alexander Ratner
+NeurIPS 2023
+(paper)
+Out-of-distribution robustness via targeted augmentations
+Irena Gao*, Shiori Sagawa*, Pang Wei Koh, Tatsunori Hashimoto, and Percy Liang
+ICML 2023
+(paper) (code)
+Wild-Time: A benchmark of in-the-wild distribution shift over time
+Huaxiu Yao*, Caroline Choi*, Yoonho Lee, Pang Wei Koh, and Chelsea Finn
+NeurIPS (Datasets and Benchmarks Track) 2022
+(paper) (code) (website)
+Extending the WILDS benchmark for unsupervised adaptation
+Shiori Sagawa*, Pang Wei Koh*, Tony Lee*, Irena Gao*, Sang Michael Xie, Kendrick Shen, Ananya Kumar, Weihua Hu, Michihiro Yasunaga, Henrik Marklund, Sara Beery, Etienne David, Ian Stavness, Wei Guo, Jure Leskovec, Kate Saenko, Tatsunori Hashimoto, Sergey Levine, Chelsea Finn, and Percy Liang
+ICLR 2022
+Oral presentation
+(paper) (code) (codalab) (website)
+WILDS: A benchmark of in-the-wild distribution shifts
+Pang Wei Koh*, Shiori Sagawa*, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, and Percy Liang
+ICML 2021
+Oral presentation. Covered by articles in Science Magazine and Stanford Magazine.
+(paper) (code) (codalab) (blog) (website)
+Just Train Twice: Improving group robustness without training group information
+Evan Zheran Liu*, Behzad Haghgoo*, Annie S. Chen*, Aditi Raghunathan, Pang Wei Koh, Shiori Sagawa, Percy Liang, and Chelsea Finn
+ICML 2021
+Oral presentation
+(paper) (code)
+Accuracy on the line: On the strong correlation between out-of-distribution and in-distribution generalization
+John Miller, Rohan Taori, Aditi Raghunathan, Shiori Sagawa, Pang Wei Koh, Vaishaal Shankar, Percy Liang, Yair Carmon, and Ludwig Schmidt
+ICML 2021
+(paper) (website)
+Supporting COVID-19 policy response with large-scale mobility-based modeling
+Serina Chang, Mandy L. Wilson, Bryan Lewis, Zakaria Mehrab, Komal K. Dudakiya, Emma Pierson, Pang Wei Koh, Jaline Gerardin, Beth Redbird, David Grusky, Madhav Marathe, Jure Leskovec
+KDD (Applied Data Science track) 2021
+Best paper award
+(paper) (blog)
+On the opportunities and risks of foundation models
+Rishi Bommasani, Drew A. Hudson, ..., Pang Wei Koh, ..., and Percy Liang (116 authors, alphabetical within ellipses)
+arXiv 2021
+(paper)
+Selective classification can magnify disparities across groups
+Erik Jones*, Shiori Sagawa*, Pang Wei Koh*, Ananya Kumar, and Percy Liang
+ICLR 2021
+Spotlight talk at the NeurIPS 2020 ICBINB Workshop
+Also presented at the NeurIPS 2020 Algorithmic Fairness Workshop
+(paper) (code) (codalab) (blog)
+Stronger data poisoning attacks break data sanitization defenses
+Pang Wei Koh*, Jacob Steinhardt*, and Percy Liang
+Machine Learning 2021
+First published on arXiv in 2018. The 2021 version has the same content but was edited for clarity.
+(paper) (code) (slides)
+Mobility network models of COVID-19 explain inequities and inform reopening
+Serina Y Chang*, Emma Pierson*, Pang Wei Koh*, Jaline Gerardin, Beth Redbird, David Grusky, and Jure Leskovec
+Nature 2021
+Commentary in Nature News and Views by Kevin Ma and Marc Lipsitch
+Interactive article in The New York Times by Yaryna Serkez
+Other press by The New York Times; The Washington Post; The Telegraph; Bloomberg; CNN; MIT Technology Review; Wired; STAT; and Stanford News
+Also presented at NetSci 2021 (oral), the NeurIPS 2020 ML for Health Workshop, and the NeurIPS 2020 COVID-19 Symposium (invited talk).
+(paper) (code) (video) (website)
+Concept bottleneck models
+Pang Wei Koh*, Thao Nguyen*, Yew Siang Tang*, Steve Mussmann, Emma Pierson, Been Kim, and Percy Liang
+ICML 2020
+Spotlight talk at the ICML 2020 Workshop on Human Interpretability in Machine Learning
+(paper) (code) (codalab) (slides)
+An investigation of why overparameterization exacerbates spurious correlations
+Shiori Sagawa*, Aditi Raghunathan*, Pang Wei Koh*, and Percy Liang
+ICML 2020
+(paper) (code) (codalab) (slides)
+ExpBERT: Representation engineering with natural language explanations
+Shikhar Murty, Pang Wei Koh, and Percy Liang
+ACL 2020
+(paper) (code) (codalab)
+Toward trustworthy AI development: Mechanisms for supporting verifiable claims
+Miles Brundage*, Shahar Avin*, Jasmine Wang*, Haydn Belfield*, Gretchen Krueger*, Gillian Hadfield, Heidy Khlaaf, Jingying Yang, Helen Toner, Ruth Fong, Tegan Maharaj, Pang Wei Koh, Sara Hooker, ..., Thomas Krendl Gilbert, Lisa Dyer, Saif Khan, Yoshua Bengio, and Markus Anderljung
+arXiv 2020
+(paper)
+Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization
+Shiori Sagawa*, Pang Wei Koh*, Tatsunori B. Hashimoto, and Percy Liang
+ICLR 2020
+(paper) (code) (codalab) (video) (slides)
+On the accuracy of influence functions for measuring group effects
+Pang Wei Koh*, Kai-Siang Ang*, Hubert H. K. Teo*, and Percy Liang
+NeurIPS 2019
+(paper) (code) (codalab) (slides)
+Temporal FiLM: Capturing long-range sequence dependencies with feature-wise modulations
+Sawyer Birnbaum*, Volodymyr Kuleshov*, Zayd Enam, Pang Wei Koh, Stefano Ermon
+NeurIPS 2019
+(paper) (code)
+Inferring multi-dimensional rates of aging from cross-sectional data
+Emma Pierson*, Pang Wei Koh*, Tatsunori B. Hashimoto*, Daphne Koller, Jure Leskovec, Nicholas Eriksson, and Percy Liang
+AISTATS 2019
+Contributed talk at the ICML/IJCAI 2018 Workshop on Computational Biology
+Spotlight talk at the NeurIPS 2018 Workshop on Machine Learning for Health
+(paper) (code)
+Certified defenses for data poisoning attacks
+Jacob Steinhardt*, Pang Wei Koh*, and Percy Liang
+NeurIPS 2017
+(paper) (code) (codalab)
+Understanding black-box predictions via influence functions
+Pang Wei Koh and Percy Liang
+ICML 2017
+Best paper award
+(paper) (code) (codalab) (slides)
+Localized hepatic lobular regeneration by central-vein-associated lineage-restricted progenitors
+Jonathan M. Tsai, Pang Wei Koh, Ania Stefanska, Liujing Xing, Graham G. Walmsley, Nicolas Poux, Irving L. Weissman, and Yuval Rinkevich
+Proceedings of the National Academy of Sciences (PNAS) 2017
+(paper)
+An atlas of transcriptional, chromatin accessibility, and surface marker changes in human mesoderm development
+Pang Wei Koh*, Rahul Sinha*, Amira A. Barkal, Rachel M. Morganti, Angela Chen, Irving L. Weissman, Lay Teng Ang, Anshul Kundaje, and Kyle M. Loh
+Scientific Data 2016
+(paper)
+Mapping the pairwise choices leading from pluripotency to human bone, heart, and other mesoderm cell types
+Kyle M. Loh*, Angela Chen*, Pang Wei Koh, Tianda Z. Deng, Rahul Sinha, Jonathan M. Tsai, Amira A. Barkal, Kimberle Y. Shen, Rajan Jain, Rachel M. Morganti, Ng Shyh-Chang, Nathaniel B. Fernhoff, Benson M. George, Gerlinde Wernig, Rachel E.A. Salomon, Zhenghao Chen, Hannes Vogel, Jonathan A. Epstein, Anshul Kundaje, William S. Talbot, Philip A. Beachy, Lay Teng Ang, and Irving L. Weissman
+Cell 2016
+(paper) (video)
+Denoising genome-wide histone ChIP-seq with convolutional neural networks
+Pang Wei Koh*, Emma Pierson*, and Anshul Kundaje
+Intelligent Systems for Molecular Biology (ISMB) / Bioinformatics 2017
+Spotlight talk and best poster award at the ICML 2016 Workshop on Computational Biology
+Top 10 papers of 2016-2017 in regulatory and systems genomics at RECOMB/ISCB
+(paper) (code)
+Dissecting an online intervention for cancer survivors
+Zhenghao Chen, Pang Wei Koh, Philip L. Ritter, Kate Lorig, Erin O'Carroll Bantum, and Suchi Saria
+Health Education & Behavior 2014
+(paper)
+Peer and self assessment in massive online classes
+Chinmay Kulkarni, Pang Wei Koh, Huy Le, Daniel Chia, Kathryn Papadopoulos, Justin Cheng, Daphne Koller, and Scott Klemmer
+ACM Transactions on Computer-Human Interaction 2013
+(paper)
+Identifying genetic drivers of cancer morphology
+Pang Wei Koh, Andrew Beck, and Daphne Koller.
+Undergraduate honors thesis 2012
+Firestone Medal for Excellence in Research
+Ben Wegbreit Prize for Best Undergraduate Honors Thesis in Computer Science
+David M. Kennedy Honors Thesis Prize (best thesis in Stanford Engineering & Appl. Sciences)
+Undergraduate Award in Computer Science (an international research award)
+(paper)
+Sparse filtering
+Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, and Andrew Y. Ng
+NeurIPS 2011
+Spotlight paper
+(paper) (code)
+Learning deep energy models
+Jiquan Ngiam, Zhenghao Chen, Pang Wei Koh, and Andrew Y. Ng
+ICML 2011
+(paper)
+On random weights and unsupervised feature learning
+Andrew Saxe, Pang Wei Koh, Zhenghao Chen, Maneesh Bhand, Bipin Suresh, and Andrew Y. Ng
+ICML 2011
+(paper)
+Tiled convolutional neural networks
+Quoc V. Le, Jiquan Ngiam, Zhenghao Chen, Daniel Chia, Pang Wei Koh, and Andrew Y. Ng
+NeurIPS 2010
+(paper) (code)
+Lower bound on the time complexity of local adiabatic evolution
+Zhenghao Chen, Pang Wei Koh, and Zhao Yan
+Physical Review A 2006
+(paper)
+

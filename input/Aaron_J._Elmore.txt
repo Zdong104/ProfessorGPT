@@ -1,0 +1,457 @@
+Professor: Aaron J. Elmore
+University: University of Chicago
+URL: http://people.cs.uchicago.edu/~aelmore
+Description: AARON J. ELMORE ASSOCIATE PROFESSOR
+ABOUT AARON
+
+Aaron J. Elmore is an Associate Professor in the Department of Computer Science, and the College of the University of Chicago. Aaron was previously a Postdoctoral Associate at MIT working with Mike Stonebraker on elastic and multitenant database systems, and Sam Madden on the DataHub project. Aaron's thesis on Elasticity Primitives for Database-as-a-Service was completed at the University of California, Santa Barbara under the supervision of Divy Agrawal and Amr El Abbadi. Prior to receiving a PhD, Aaron spent several years in industry and completed an MS at the University of Chicago. His recent research interests focus on building data systems that address the growing data deluge. This includes building a resource-efficent database system (CrocodileDB), new compression techniques for databases (DenseStore and EdgeTSD), bringing git-like functionality to Databases (Datahub, Decible, and OrpheusDB), and data discovery (DataSwamp and Relic). His previous projects included seminal work on polystores (BigDAWG), elastic databases (E-Store), and database migration (Squall and Zephyr).
+
+ AWARDS / HONORS / GRANTS
+2023
+Google Data Analytics and Insights (DANI) Award
+
+2022
+Google DAPA Gift
+
+2021
+NSF Career Award: Intermittent Query Processing
+
+2021
+Google DAPA Gift
+
+2020
+Google DAPA Gift
+
+2020
+NSF Accelerator Grant. The Data Hypervisor: Orchestrating Data and Models. (Sr Investigator)
+
+2019
+Intel Gift
+
+2019
+Google Gift
+
+2018
+Huawei’s Futurewei Gift Recipient
+
+2018
+ACM SIGMOD Distinguished PC Member
+
+2018
+ACM SIGMOD Best Demo Honorable Mention
+
+2018
+Google DIA Gift
+
+2017
+VLDB Best Paper Candidate
+
+For OrpheusDB: Bolt-on Versioning for Relational Databases, In best 5 papers.
+
+2016
+Intel Science and Technology Center for BigData PI
+
+PAPERS
+ICDE
+2023
+Rotary: A Resource Arbitration Framework for Progressive Iterative Analytics.
+Rui Liu, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan
+Proc. VLDB Endow.
+2023
+Accelerating Similarity Search for Elastic Measures: A Study and New Generalization of Lower Bounding Distances.
+John Paparrizos, Kaize Wu, Aaron J. Elmore, Christos Faloutsos, Michael J. Franklin
+DBTest@SIGMOD
+2022
+FuzzyData: A Scalable Workload Generator for Testing Dataframe Workflow Systems.
+Mohammed Suhail Rehman, Aaron J. Elmore
+ICDE
+2022
+Fast Adaptive Similarity Search through Variance-Aware Quantization.
+John Paparrizos, Ikraduya Edian, Chunwei Liu, Aaron J. Elmore, Michael J. Franklin
+UIST
+2022
+Summarizing Sets of Related ML-Driven Recommendations for Improving File Management in Cloud Storage.
+Will Brackenbury, Kyle Chard, Aaron J. Elmore, Blase Ur
+Proc. VLDB Endow.
+2022
+Volume Under the Surface: A New Accuracy Evaluation Measure for Time-Series Anomaly Detection.
+John Paparrizos, Paul Boniol, Themis Palpanas, Ruey Tsay, Aaron J. Elmore, Michael J. Franklin
+Proc. VLDB Endow.
+2022
+Data Station: Delegated, Trustworthy, and Auditable Computation to Enable Data-Sharing Consortia with a Data Escrow.
+Siyuan Xia, Zhiru Zhu, Chris Zhu, Jinjin Zhao, Kyle Chard, Aaron J. Elmore, Ian T. Foster, Michael J. Franklin, Sanjay Krishnan, Raul Castro Fernandez
+Proc. VLDB Endow.
+2022
+Theseus: Navigating the Labyrinth of Time-Series Anomaly Detection. (Demo)
+Paul Boniol, John Paparrizos, Yuhao Kang, Themis Palpanas, Ruey S. Tsay, Aaron J. Elmore, Michael J. Franklin
+CIDR
+2021
+VergeDB: A Database for IoT Analytics on Edge Devices.
+John Paparrizos, Chunwei Liu, Bruno Barbarioli, Johnny Hwang, Ikraduya Edian, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan
+SoCC
+2021
+Version Reconciliation for Collaborative Databases.
+Nalin Ranjan, Zechao Shang, Sanjay Krishnan, Aaron J. Elmore
+ICDE
+2021
+CIAO: An Optimization Framework for Client-Assisted Data Loading.
+Cong Ding 0002, Dixin Tang, Xi Liang 0002, Aaron J. Elmore, Sanjay Krishnan
+SIGIR
+2021
+Files of a Feather Flock Together? Measuring and Modeling How Users Perceive File Similarity in Cloud Storage.
+Will Brackenbury, Galen Harrison, Kyle Chard, Aaron J. Elmore, Blase Ur
+DEEM@SIGMOD
+2021
+Understanding and optimizing packed neural network training for hyper-parameter tuning.
+Rui Liu 0002, Sanjay Krishnan, Aaron J. Elmore, Michael J. Franklin
+SIGMOD
+2021
+Good to the Last Bit: Data-Driven Encoding with CodecDB.
+Hao Jiang, Chunwei Liu, John Paparrizos, Andrew A. Chien, Jihong Ma, Aaron J. Elmore
+SIGMOD
+2021
+Resource-efficient Shared Query Execution via Exploiting Time Slackness.
+Dixin Tang, Zechao Shang, William W. Ma, Aaron J. Elmore, Sanjay Krishnan
+UIST
+2021
+KondoCloud: Improving Information Management in Cloud Storage via Recommendations Based on File Similarity.
+Will Brackenbury, Andrew M. McNutt, Kyle Chard, Aaron J. Elmore, Blase Ur
+Proc. VLDB Endow.
+2021
+Decomposed Bounded Floats for Fast Compression and Queries.
+Chunwei Liu, Hao Jiang, John Paparrizos, Aaron J. Elmore
+Proc. VLDB Endow.
+2021
+A Demonstration of Relic: A System for REtrospective Lineage InferenCe of Data Workflows. (Demo)
+Mohammed Suhail Rehman, Silu Huang, Aaron J. Elmore
+CIDR
+2020
+CrocodileDB: Efficient Database Execution through Intelligent Deferment.
+Zechao Shang, Xi Liang 0002, Dixin Tang, Cong Ding 0002, Aaron J. Elmore, Sanjay Krishnan, Michael J. Franklin
+SIGMOD
+2020
+Fast and Reliable Missing Data Contingency Analysis with Predicate-Constraints.
+Xi Liang 0002, Zechao Shang, Sanjay Krishnan, Aaron J. Elmore, Michael J. Franklin
+SIGMOD
+2020
+Thrifty Query Execution via Incrementability.
+Dixin Tang, Zechao Shang, Aaron J. Elmore, Sanjay Krishnan, Michael J. Franklin
+SIGMOD
+2020
+Debunking Four Long-Standing Misconceptions of Time-Series Distance Measures.
+John Paparrizos, Chunwei Liu, Aaron J. Elmore, Michael J. Franklin
+Proc. VLDB Endow.
+2020
+PIDS: Attribute Decomposition for Improved Compression and Query Performance in Columnar Storage.
+Hao Jiang, Chunwei Liu, Qi Jin, John Paparrizos, Aaron J. Elmore
+Proc. VLDB Endow.
+2020
+CrocodileDB in Action: Resource-Efficient Query Execution by Exploiting Time Slackness. (Demo)
+Dixin Tang, Zechao Shang, Aaron J. Elmore, Sanjay Krishnan, Michael J. Franklin
+VLDB J.
+2020
+$\varvec{\textsc {Orpheus}}$DB: bolt-on versioning for relational databases (extended version).
+Silu Huang, Liqi Xu, Jialin Liu, Aaron J. Elmore, Aditya G. Parameswaran
+CIDR
+2019
+DeepLens: Towards a Visual Data Management System.
+Sanjay Krishnan, Adam Dziedzic, Aaron J. Elmore
+ICDE
+2019
+Mostly Order Preserving Dictionaries.
+Chunwei Liu, McKade Umbenhower, Hao Jiang, Pranav Subramaniam, Jihong Ma, Aaron J. Elmore
+ICML
+2019
+Band-limited Training and Inference for Convolutional Neural Networks.
+Adam Dziedzic, John Paparrizos, Sanjay Krishnan, Aaron J. Elmore, Michael J. Franklin
+Proc. VLDB Endow.
+2019
+MgCrab: Transaction Crabbing for Live Migration in Deterministic Database Systems.
+Yu-Shan Lin, Shao-Kan Pi, Meng-Kai Liao, Ching Tsai, Aaron J. Elmore, Shan-Hung Wu
+Proc. VLDB Endow.
+2019
+Intermittent Query Processing.
+Dixin Tang, Zechao Shang, Aaron J. Elmore, Sanjay Krishnan, Michael J. Franklin
+ACM SIGOPS Oper. Syst. Rev.
+2019
+Artificial Intelligence in Resource-Constrained and Shared Environments.
+Sanjay Krishnan, Aaron J. Elmore, Michael J. Franklin, John Paparrizos, Zechao Shang, Adam Dziedzic, Rui Liu 0002
+DaMoN
+2018
+Boosting data filtering on columnar encoding with SIMD.
+Hao Jiang, Aaron J. Elmore
+HILDA@SIGMOD
+2018
+Draining the Data Swamp: A Similarity-based Approach.
+Will Brackenbury, Rui Liu 0002, Mainack Mondal, Aaron J. Elmore, Blase Ur, Kyle Chard, Michael J. Franklin
+SIGMOD
+2018
+RushMon: Real-time Isolation Anomalies Monitoring.
+Zechao Shang, Jeffrey Xu Yu, Aaron J. Elmore
+SIGMOD
+2018
+DataDiff: User-Interpretable Data Transformation Summaries for Collaborative Data Analysis. (Demo)
+Günce Su Yilmaz, Tana Wattanawaroon, Liqi Xu, Abhishek Nigam, Aaron J. Elmore, Aditya G. Parameswaran
+USENIX Annual Technical Conference
+2018
+Toward Coordination-free and Reconfigurable Mixed Concurrency Control.
+Dixin Tang, Aaron J. Elmore
+Proc. VLDB Endow.
+2018
+CYADB: A Database that Covers Your Ask. (Demo)
+Zechao Shang, Will Brackenbury, Aaron J. Elmore, Michael J. Franklin
+CIDR
+2017
+Adaptive Concurrency Control: Despite the Looking Glass, One Concurrency Control Does Not Fit All.
+Dixin Tang, Hao Jiang, Aaron J. Elmore
+SoCC
+2017
+A robust partitioning scheme for ad-hoc query workloads.
+Anil Shanbhag, Alekh Jindal, Samuel Madden, Jorge-Arnulfo Quiané-Ruiz, Aaron J. Elmore
+HPEC
+2017
+BigDAWG version 0.1.
+Vijay Gadepally, Kyle O'Brien, Adam Dziedzic, Aaron J. Elmore, Jeremy Kepner, Samuel Madden, Tim Mattson, Jennie Rogers, Zuohao She, Michael Stonebraker
+MICRO
+2017
+UDP: a programmable accelerator for extract-transform-load workloads and more.
+Yuanwei Fang, Chen Zou 0001, Aaron J. Elmore, Andrew A. Chien
+SIGMOD
+2017
+OrpheusDB: A Lightweight Approach to Relational Dataset Versioning. (Demo)
+Liqi Xu, Silu Huang, SiLi Hui, Aaron J. Elmore, Aditya G. Parameswaran
+Proc. VLDB Endow.
+2017
+OrpheusDB: Bolt-on Versioning for Relational Databases.
+Silu Huang, Liqi Xu, Jialin Liu, Aaron J. Elmore, Aditya G. Parameswaran
+SoCC
+2016
+STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments.
+Rebecca Taft, Willis Lang, Jennie Duggan, Aaron J. Elmore, Michael Stonebraker, David J. DeWitt
+HPEC
+2016
+Data transformation and migration in polystores.
+Adam Dziedzic, Aaron J. Elmore, Michael Stonebraker
+HPEC
+2016
+The BigDAWG polystore system and architecture.
+Vijay Gadepally, Peinan Chen, Jennie Duggan, Aaron J. Elmore, Brandon Haynes, Jeremy Kepner, Samuel Madden, Tim Mattson, Michael Stonebraker
+HPEC
+2016
+Integrating real-time and batch processing in a polystore.
+John Meehan, Stan Zdonik, Shaobo Tian, Yulong Tian, Nesime Tatbul, Adam Dziedzic, Aaron J. Elmore
+Proc. VLDB Endow.
+2016
+Decibel: The Relational Dataset Branching System.
+Michael Maddox, David Goehring, Aaron J. Elmore, Samuel Madden, Aditya G. Parameswaran, Amol Deshpande
+Proc. VLDB Endow.
+2016
+Clay: Fine-Grained Adaptive Partitioning for General Database Schemas.
+Marco Serafini, Rebecca Taft, Aaron J. Elmore, Andrew Pavlo, Ashraf Aboulnaga, Michael Stonebraker
+CIDR
+2015
+DataHub: Collaborative Data Science & Dataset Version Management at Scale.
+Anant P. Bhardwaj, Souvik Bhattacherjee, Amit Chavan, Amol Deshpande, Aaron J. Elmore, Samuel Madden, Aditya G. Parameswaran
+SIGMOD
+2015
+Squall: Fine-Grained Live Reconfiguration for Partitioned Main Memory Databases.
+Aaron J. Elmore, Vaibhav Arora, Rebecca Taft, Andrew Pavlo, Divyakant Agrawal, Amr El Abbadi
+TaPP
+2015
+Towards a Unified Query Language for Provenance and Versioning.
+Amit Chavan, Silu Huang, Amol Deshpande, Aaron J. Elmore, Samuel Madden, Aditya G. Parameswaran
+Proc. VLDB Endow.
+2015
+A Demonstration of the BigDAWG Polystore System. (Demo)
+Aaron J. Elmore, Jennie Duggan, Mike Stonebraker, Magdalena Balazinska, Ugur Çetintemel, Vijay Gadepally, Jeffrey Heer, Bill Howe, Jeremy Kepner, Tim Kraska, Samuel Madden, David Maier 0001, Timothy G. Mattson, Stavros Papadopoulos 0001, Jeff Parkhurst, Nesime Tatbul, Manasi Vartak, Stan Zdonik
+Proc. VLDB Endow.
+2015
+Collaborative Data Analytics with DataHub. (Demo)
+Anant P. Bhardwaj, Amol Deshpande, Aaron J. Elmore, David R. Karger, Sam Madden, Aditya G. Parameswaran, Harihar Subramanyam, Eugene Wu 0002, Rebecca Zhang
+SIGMOD Rec.
+2015
+The BigDAWG Polystore System.
+Jennie Duggan, Aaron J. Elmore, Michael Stonebraker, Magdalena Balazinska, Bill Howe, Jeremy Kepner, Sam Madden, David Maier 0001, Tim Mattson, Stanley B. Zdonik
+Proc. VLDB Endow.
+2014
+E-Store: Fine-Grained Elastic Partitioning for Distributed Transaction Processing.
+Rebecca Taft, Essam Mansour 0001, Marco Serafini, Jennie Duggan, Aaron J. Elmore, Ashraf Aboulnaga, Andrew Pavlo, Michael Stonebraker
+SIGMOD
+2013
+Characterizing tenant behavior for placement and crisis mitigation in multitenant DBMSs.
+Aaron J. Elmore, Sudipto Das, Alexander Pucher, Divyakant Agrawal, Amr El Abbadi, Xifeng Yan
+Proc. VLDB Endow.
+2013
+Towards Database Virtualization for Database as a Service. (Tutorial or Abstact)
+Aaron J. Elmore, Carlo Curino, Divyakant Agrawal, Amr El Abbadi
+Int. J. Comput. Sci. Eng.
+2012
+The evolving landscape of data management in the cloud.
+Divyakant Agrawal, Amr El Abbadi, Beng Chin Ooi, Sudipto Das, Aaron J. Elmore
+Proc. VLDB Endow.
+2012
+Serializability, not Serial: Concurrency Control and Availability in Multi-Datacenter Datastores.
+Stacy Patterson, Aaron J. Elmore, Faisal Nawab, Divyakant Agrawal, Amr El Abbadi
+Proc. VLDB Endow.
+2012
+InfoPuzzle: Exploring Group Decision Making in Mobile Peer-to-Peer Databases. (Demo)
+Aaron J. Elmore, Sudipto Das, Divyakant Agrawal, Amr El Abbadi
+login Usenix Mag.
+2012
+14th International Workshop on High Performance Transaction Systems (HPTS).
+Michael Armbrust, Yingyi Bu, Aaron J. Elmore, Rik Farrow, Eugenia Gabrielova, Hatem Mahmoud, Andy Pavlo, Stephen Revilak, Pinar Tözün
+DASFAA
+2011
+Database Scalability, Elasticity, and Autonomy in the Cloud - (Extended Abstract).
+Divyakant Agrawal, Amr El Abbadi, Sudipto Das, Aaron J. Elmore
+SIGMOD
+2011
+Zephyr: live migration in shared nothing databases for elastic cloud platforms.
+Aaron J. Elmore, Sudipto Das, Divyakant Agrawal, Amr El Abbadi
+CONTACT & LINKS
+aelmore [at] cs [dot] uchicago [dot] edu
+C.V. (Oct 2023)
+Twitter
+twitter.com/AaronJElmore
+ChiData (Research Group)
+data.cs.uchicago.edu
+Student FAQ
+ PHD STUDENTS / POSTDOCS ADVISED
+
+Rui Liu w/Franklin
+
+Jun Hyuk Chang
+
+Riki Otaki
+
+ FORMER PHD STUDENTS / POSTDOCS
+
+Suhail Rehman. Assistant Instructional Professor University of Chicago
+
+John Paparrizos (Postdoc w/Franklin). Ohio State University
+
+Chunwei Liu. Postdoc at MIT
+
+Will Brackenbury (w/Blase Ur). VetCove
+
+Zechao Shang (Postdoc w/Franklin). Snowflake
+
+Dixin Tang. Postdoc at UC Berkeley. Now at UT Austin.
+
+Hao Jiang. Postdoc at Harvard. Now at Databricks
+
+NEWS
+Prof. Dixin Tang
+
+Prof. Dixin Tang joins Univ. Texas at Austin as a Assistant Professor.
+
+Prof. Suhail Rehman
+
+Prof. Suhail Rehman has received his PhD and joins UChicago as a Assistant Instructional Professor.
+
+2023
+Dr. Chunwei Liu
+
+Chunwei Liu has received his PhD and joins MIT DSAIL as a Postdoc.
+
+Prof. John Paparrizos
+
+Postdoc Dr. John Paparrizos (co-advised with Mike Franklin) joins the Ohio State University as an Assistant Professor.
+
+Dr. Will Brackenbury
+
+Will Brackenbury (co-advised with Blase Ur) has received his PhD and joins PetCove.
+
+2022
+Tenured
+
+The University of Chicago has approved Aaron's tenure and promotion to Associate Professor effective June 2022. Link to article.
+
+NSF Early Career Award
+
+Aaron receives the NSF early career award. Link to award.
+
+Dr. Hao Jiang
+
+Hao Jiang has received his PhD and joined as a postdoc with Stratos Idreos at Harvard.
+
+2021
+Dr. Dixin Tang
+
+Dixin Tang has received his PhD and joined as a postdoc with Aditya Parameswaran at UC Berkeley.
+
+Zechao Shang
+
+Postdoc Dr. Zechao Shang (co-advised with Mike Franklin) joins Snowflake.
+
+2020
+SIGMOD Record Associate Editor
+
+Aaron joined as an associate editor for SIGMOD Record
+
+VLDB Publicity Chair
+
+Aaron is Publicity chair for VLDB 2021.
+
+Raul Castro Fernandez joins
+
+Raul Castro Fernandez joins Univ. of Chicago
+
+2019
+NSF Reu Site
+
+Aaron is a mentor for a NSF REU site on Big Data.
+
+Ocient
+
+Aaron joins the technical advisory board for Ocient.
+
+Sanjay Krishnan joins
+
+Sanjay Krishnan joins Univ. of Chicago!
+
+2018
+SIGMOD SRC Co-Chair
+
+Aaron and Alvin Cheung co-chair the innagrual SIGMOD student research competition.
+
+3PM
+
+Aaron joins the technical advisory board for 3PM Solutions.
+
+2017
+VLDB Proceedings Co-Chair
+
+Aaron and Alvin Cheung are the proceedings editors for PVLDB.
+
+SIGMOD Demo Co-Chair
+
+Aaron and Jennie Rogers co-chair the SIGMOD Demo Track.
+
+Mike Franklin joins
+
+Mike Franklin joins Univ. of Chicago!
+
+2016
+Joins UChicago
+
+Aaron joined Univ. of Chicago
+
+2015
+STUDENT FAQ
+Can I do research with you as an undergraduate?
+
+I frequently work with undergraduate students who have either taken (and done well) in my Intro to Database course, or students who were accepted to the NSF REU site on Big Data.
+
+Will you admit more students in Intro to DB or 14100?
+
+If the course has not begun, please sign up for the centralized waitlist managed by the department. If the course has already started, and you were on the waitlist there is usually a chance you will get in the class if you are a 4th year student. On occasion a 3rd year student will be added. If you were not on the centralized waitlist I will not add you to the class.
+
+Are you looking for new PhD students? Should I email you about this?
+
+For the academic year 2024-202 I am looking for ~1 new PhD student. I prefer students do not contact me directly about applications. If you do email me, sign off your email "As the data flies," Otherwise I will assume you did not take the time to read here. I do not answer emails about if you should apply FYI!
+
+I took your class, can you write me a letter of rec?
+
+On rare occasion I do write letters for students who did exceptional in class. However, honestly for me to be able to write a strong letter it is extremely helpful to have worked together on research, a practicum, or related project. Good letters need details and it can be hard without significant interactions. If you are interested in graduate school please reach out for research opportunities after taking Intro to DB.
+

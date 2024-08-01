@@ -1,0 +1,36 @@
+Professor: Richard Zanibbi
+University: Rochester Institute of Technology
+URL: https://www.cs.rit.edu/~rlaz
+Description:  Richard Zanibbi
+
+Home
+dprl
+for Students
+Research
+Teaching
+Contact
+
+I am a Professor of Computer Science at RIT, where I direct the Document and Pattern Recognition Lab.  I hold a PhD and Master's in Computer Science, a BA with a minor in Computer Science, and a Bachelor of Music degree, all from Queen's University, Canada.
+
+My research interests include information retrieval, document recognition, pattern recognition, and machine learning. I was a Program Co-Chair for ICDAR 2023, and I previously chaired the ICFHR 2018, DRR 2012, and DRR 2013 conferences. I also serve on program committees for information retrieval conferences (e.g., SIGIR, and the new SIGIR-AP conference).
+
+At RIT I teach courses on Information Retrieval (grad/undergrad) and Machine Learning (undergrad). I am also the head of the AI Cluster within the Computer Science department. 
+
+Please click on the links above for more information regarding my research, teaching, software and data from the dprl, and resources for students. Some recent news is included below.
+
+
+Read Draft
+News
+(July 2024) An early draft for a book on Mathematical Information Retrieval that I am writing with Behrooz Mansouri and Anurag Agarwal is available from the link above. The first chapter is complete, and the full draft will be finished during Summer 2024.
+(May 2024) The dprl lab's paper on ChemScraper has been accepted for publication in the ICDAR 2024 journal track. The paper describes (1) a fast and accurate technique for parsing born-digital (vector) PDF images, and (2) its use to create training data for a new approach to visual parsing of molecule diagrams in raster images (i.e., pixel-based such as from PNGs). Code is also available. The paper will appear in an upcoming special issue of IJDAR.
+(May 2024) I was happy to collaborate on a new  survey with Masaki Nakagawa's group and Harold Mouchère: A Survey of Handwritten Mathematical Expression Recognition: The Rise of Encoder-Decoder and GNN Models. The paper is available for free from the Pattern Recognition journal here until June 21st. A preprint of the final paper is also available here.
+(Jan 2024) Three students from my information retrieval class, Ben Giacalone, Greg Paiement, and Quinn Tucker have published an interesting paper on the role of the [MASK] tokens in the ColBERT retrieval model, which will be presented at the European Conference on Information Retrieval (ECIR) this March in Glasgow, Scotland.
+(Nov, 2023)  I have posted a small python debugging library on GitLab that was created for my classes and the dprl lab. The library is organized around pretty-printed debug checks/tests with descriptive messages. I've  called it the Message-Oriented Debugging Library for Python (msg_debug). It avoids the need to repeatedly add/remove print, input, and assert statements to check values and types, and provides functions to record and report execution times when our program requirements keep changing, and bugs abound.
+(Sept, 2023) Congratulations to former dprl PhD student Wei Zhong, who successfully defended his dissertation on math-aware search at the University of Waterloo (advisor: Jimmy Lin). Wei had to switch schools and countries due to visa restrictions during COVID. This past summer summer he also worked as a research intern at Microsoft research.
+(Aug 24, 2023) I gave the keynote talk at GREC 2023 in San Jose, which was held as part of ICDAR 2023.  The talk was an overview of MathDeck and related work in math formula recognition and search. My thanks to everyone who attended, it was a very good experience!
+(Oct 27, 2022) I give a talk for the Topos Institute on Mathematical Information Retrieval. The Topos colloquium series, with a YouTube link and slides from the talk are online here: https://topos.site/topos-colloquium. Direct link to the YouTube video is located here.
+
+Group Photo, ICDAR 2023 (August, San Jose). My thanks to everyone who helped make this a fun and productive meeting. It was an honor serving on the Program Committee alongside Gernot Fink, Rajiv Jain, and Koichi Kise.
+
+Richard Zanibbi's Home Page (RIT)
+

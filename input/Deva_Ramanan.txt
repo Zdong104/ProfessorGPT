@@ -1,0 +1,147 @@
+Professor: Deva Ramanan
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~deva
+Description: 	Deva Ramanan
+Professor
+Robotics Institute
+Carnegie Mellon University
+Elliot Dunlap Smith Hall (EDSH), Rm 221
+deva@cs.cmu.edu
+412-268-6966
+Mailing address
+
+
+
+
+Bio
+A formal bio is here.
+
+Research
+My research focuses on computer vision, often making heavy use of machine learning techniques and often using the human visual system as inspiration. For example, temporal processing is a key component of human perception, but is still relatively unexploited in current visual recognition systems. Machine learning from big (visual) data allows systems to learn subtle statistical regularities of the visual world. But humans have the ability to learn from very few examples.
+
+
+
+Current group members
+
+Postdoctoral fellows / visitors
+Arun Vasudevan
+Aljosa Osep
+Jonathon Luiten
+PhD
+Sally (Chuhan) Chen (joint with Matt O'Toole)
+Nate Chodosh (joint with Simon Lucey)
+Kangle Deng (joint with Jun-Yan Zhu)
+Gautam Gare (joint with John Galeotti)
+Tarasha Khurana
+Zhiqiu Lin
+Neehar Peri
+Haithem Turki
+Jason Zhang (joint with Shubham Tulsiani)
+
+Past students and postdoctoral fellows
+
+Postdoctoral fellow
+Shu Kong, Texas A&M
+Chen Huang, Apple
+Olga Russakovsky, Princeton
+Gregory Rogez, INRIA Rhones-Alpes
+PhD
+Gengshan Yang Building 4D Models of Objects and Scenes from Monocular Videos, 2023, Meta
+Martin Li Resource-Constrained Learning and Inference for Visual Perception, 2022, Waymo
+Peiyun Hu Robust and Scalable Perception for Autonomy, 2021, Apple
+Ravi Mullapudi Dynamic Model Specialization for Efficient Inference, Training, and Supervision, 2021, Snorkel
+Achal Dave Open-World Object Detection and Tracking, 2021, Amazon
+Aayush Bansal Unsupervised Learning of the 4D Audio-Visual World, 2020, Facebook Reality Labs
+Rohit Girdhar Learning to Understand People via Local, Global, and Temporal Reasoning, 2019, Facebook AI
+Phuc Nguyen Visual Recognition with Limited Annotations, 2018, Google
+James Supancic Long-Term Tracking by Decision-Making, 2017, Blizzard
+Mohsen Hejrati Recognizing and Reconstructing Objects in 3D, 2015, Genentech
+Dennis Park Tracking People and Their Poses, 2014, Toyota Research Institute
+Xiangxin Zhu Sharing Information Across Object Templates, 2014, Google
+Yi Yang Articulated Human Pose Estimation with Mixtures of Parts, 2013, DeepMind
+Chaitanya Desai Relational Models for Human-Object Interactions and their Affordances, 2012, Amazon
+Hamed Pirsiavash Scalable Action Recognition in Continuous Video Streams, 2012, UC Davis
+Masters/undergraduate
+Andrew Saba Development and Testing of a Software Stack for An Autonomous Racing Vehicle
+Chonghyuk Song Total-Recon: Deformable Scene Reconstruction for Emboided View Synthesis, MIT
+Sean Cha Retrieval-based Novel Activity Detection in Untrimmed Videos, 2020, Nvidia
+Krishna Uppala Exemplar-Free Video Retrieval, 2020, Apple
+Aaron Huang End-to-End Methods for Autonomous Driving in Simulation, 2020, Zoox
+Haochen Wang Audiovisual Ontology and Robust Representations via Cross-Modal Fusion, 2020, TTI-Chicago
+Jessica Lee MetaPix: Few Shot Video Retargeting, 2020, UC Berkeley
+William Qi Representation Learning for Safe Autonomous Movement , 2020, Argo AI
+Siva Mynepalli Recognizing Tiny Faces, 2019, Nimble Robotics
+Ishan Nigam Learning with Auxillary Supervision, 2019, UT Austin
+Vivek Krishnan Tinkering under the Hood: Interactive Zero-Shot Learning with Net Surgery, 2016, Microsoft
+Carl Vondrick Crowdsourcing Video Annotation, 2011, Columbia
+Goutham Patnaik A Joint Model for Tracking and Recognizing Human Actions in Video, 2009, Google
+
+Teaching (prior)
+
+16-720 Graduate Computer Vision Spring 2024
+16-892 Fall 2023, Seminar on Multimodal Foundation Models
+16-720 Spring 2020, Spring 2021, Spring 2022, Fall 2022, Spring 2023, Graduate Computer Vision (Canvas)
+16-720 Spring 2017, Graduate Computer Vision
+16-899 Fall 2016, Seminar on Human Activity Analysis
+16-720 Spring 2016, Graduate Computer Vision
+
+Professional activities (prior)
+
+Program Chair, CVPR 2027, 2018
+Editorial Board, IJCV
+Associate Editor, IEEE TPAMI
+
+Funding (prior)
+
+IARPA Award for "Walk-Through Rendering From Images of Varying Altitudes (2023-2027).
+Recent publications
+For a complete list, please see my Google Scholar page.
+For pre-prints, please see my ArXiv page.
+For older work, please see here.
+
+Z. Lin, X. Chen, D. Pathak, P., Zhang, D. Ramanan. Revisiting the Role of Language Priors in Vision-Language Models, ICML 2024.
+S. Liu*, S. Yu*, Z. Lin*, R. Lee, T. Ling, D. Pathak, D. Ramanan. Language Models as Black-Box Optimizers for Vision-Language Models, CVPR 2024.
+N. Keetha, J. Karhade, K. Jatavallabhula, G. Yang, S. Scherer, D. Ramanan, J. Luiten. SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, CVPR 2024.
+H. Turki, V. Agrawal, S. Rota Bulo, L. Porzi, P. Kontschieder, D. Ramanan, M. Zollhofer, C. Richardt. HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces, CVPR 2024.
+S.Parashar*, Z. Lin*, T. Liu*, X. Dong, Y. Li, D. Ramanan, J. Caverlee, S. Kong. The Neglected Tails of Vision Language Models, CVPR 2024.
+J. Zhang*, A. Lin*, M. Kumar, T. Yang, D. Ramanan, S. Tulsiani. Cameras as Rays: Sparse-view Pose Estimation via Ray Diffusion, ICLR 2024.
+K. Vedder, N. Peri, N. Chodosh, I. Khatri, E. Eaton, D. Jayaraman, Y. Liu, D. Ramanan, J. Hays. ZeroFlow: Scalable Scene Flow via Distillation, ICLR 2024.
+J. Luiten, G. Kopanas, B. Leibe, D. Ramanan. Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, 3DV 2024.
+A. Lin*, J. Zhang*, D. Ramanan, S. Tulsiani. RelPose++: Recovering 6D Poses from Sparse-view Observations, 3DV 2024.
+N. Chodosh, D. Ramanan, S. Lucey. Re-Evaluating LiDAR Scene Flow, WACV 2024. [Best Paper Finalist]
+H. Turki, M. Zollhoer, C. Richardt, D. Ramanan. PyNeRF: Pyramidal Neural Radiance Fields, NeurIPS 2023.
+J. Zhang, S. Yang, G. Yang, A. Bishop, S. Gurumurthy, D. Ramanan, Z. Manchester. SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos, RA-L 2023.
+S. George, H. Turki, Z. Feng, D. Ramanan, P. Pillai, M. Satyanarayanan. Low-Bandwidth Self-Improving Transmission of Rare Training Data, MobiCom 2023.
+G. Yang, S. Yang, Z. Zhang, Z. Manchester, D. Ramanan. PPR: Physically Plausible Reconstruction from Monocular Videos, ICCV 2023.
+C. Song, G. Yang, K. Deng, J. Zhu, D. Ramanan. Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis, ICCV 2023.
+E. Weng, D. Ramanan, K. Kitani. Joint Metrics Matter: A Better Standard for Trajectory Forecasting, ICCV 2023.
+N. Peri, M. Li, B. Wilson, Y. Wang, J. Hays, D. Ramanan. An Empirical Analysis of Range for 3D Object Detection, ICCV 2023 Workshops.
+A. Agarwalla, X. Huang, J, Ziglar, F. Ferroni, L. Leal-Taixe, J, Hays, A. Osep, D. Ramanan. Lidar Panoptic Segmentation and Tracking without Bells and Whistles, IROS 2023.
+Z. Pang, D. Ramanan, M. Li, Y. Wang. Streaming Motion Forecasting for Autonomous Driving, IROS 2023.
+S. Cao, M. Li, J, Hays, D. Ramanan, Y. Wang, L. Gui. Learning Lightweight Object Detectors via Multi-Teacher Progressive Distillation, ICML 2023.
+J. Tan, G. Yang, D. Ramanan. Distilling Neural Fields for Real-Time Articulated Reconstruction from Video, CVPR 2023.
+H. Turki, J. Zhang, F. Ferroni, D. Ramanan. SUDS: Scalable Urban Dynamic Scenes, CVPR 2023.
+C. Thavamani, M. Li, F. Ferroni, D. Ramanan. Learning to Zoom and Unzoom, CVPR 2023.
+T. Khurana, P. Hu, D. Held, D. Ramanan. Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting, CVPR 2023.
+Z. Lin, S. Yu, Z. Kuang, D. Pathak, D. Ramanan. Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models, CVPR 2023.
+Y. Liu, S. Yanm L. Leal-Taixe, J. Hayes, D. Ramanan. Soft Augmentation for Image Classification, CVPR 2023.
+G. Yang, C. Wang, N. Reddy, D. Ramanan. RAC: Reconstructing Animatable Categories from Videos, CVPR 2023.
+X. Wu, K. Lau, F. Ferroni, A. Osep, D. Ramanan. Pix2map: Cross-modal Retrieval for Inferring Street Maps From Images, CVPR 2023.
+K. Deng, G. Yang, D. Ramanan, J. Zhu. 3D-Aware Conditional Image Synthesis, CVPR 2023.
+A. Athar, A. Hermans, J. Luiten, D. Ramanan, B. Liebe. TarViS: A Unified Approach for Target-based Video Segmentation, CVPR 2023.
+A. Athar, J. Luiten, P. Voigtlaendr, T. Khurana, A. Dave, B. Liebe, D. Ramanan. BURST: A Benchmark for Unifying Object Recognition, Segmentation and Tracking in Video, WACV 2023.
+S. Gupta, J. Kanjani, M. Li, F. Ferroni, J. Hayes, D. Ramanan. Far3Det: Towards Far-Field 3D Detection, WACV 2023.
+N. Peri, A. Dave, D. Ramanan*, S. Kong*. Towards Long Tailed 3D Detection, CORL 2022.
+V. Fomenko, I. Elezi, D. Ramanan, L. Leal-Taixe, A. Osep. Learning to Discover and Detect Objects, NeurIPS 2022.
+Z. Lin, D. Pathak, D. Ramanan*, S. Kong*. Learning With an Evolving Class Ontology, NeurIPS 2022.
+T. Khurana*, P. Hu*, A. Dave, J. Ziglar, D. Held, D. Ramanan. Differentiable Raycasting for Self-supervised Occupancy Forecasting, ECCV 2022.
+Y. Chen*, J. Shi*, Z. Ye*, C. Mertz, D. Ramanan*, S. Kong*. Multimodal Object Detection via Probabilistic Ensembling, ECCV 2022.
+J. Zhang, D. Ramanan, S. Tulsiani. RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild, ECCV 2022.
+N. Peri, J. Luiten, M. li, A. Osep, L. Leal-Taixe, D. Ramanan. Forecasting from LiDAR via Future Object Detection, CVPR 2022.
+K. Deng, A. Liu, J. Zhu, D. Ramanan. Depth-supervised NeRF: Fewer Views and Faster Training for Free, CVPR 2022.
+H. Turki, D. Ramanan, M. Satyanarayanan. Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs, CVPR 2022.
+G. Yang, M. Vo, N. Neverova, D. Ramanan, A. Vedaldi, H. Joo. BANMo: Building Animatable 3D Neural Models from Many Casual Videos, CVPR 2022.
+Y. Liu, I. Zulfikar, J Luten, A. Dave, D. Ramanan, B. Leibe, A. Osep, L. Leal-Taixe. Opening up Open-World Tracking, CVPR 2022.
+A. Athar, J. Luiten, A. Hermans, D. Ramanan, B. Liebe. HODOR: High-level Object Descriptors for Object Re-segmentation in Video Learned from Static Images, CVPR 2022.
+S. Alshammari, Y. Wang, D. Ramanan, S. Kong. Long-Tailed Recognition via Weight Balancing, CVPR 2022.
+

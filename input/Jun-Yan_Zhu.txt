@@ -1,0 +1,1324 @@
+Professor: Jun-Yan Zhu
+University: Carnegie Mellon University
+URL: https://people.csail.mit.edu/junyanz
+Description: 			
+
+
+
+Jun-Yan Zhu
+
+
+
+Assistant Professor
+
+School of Computer Science
+
+Carnegie Mellon University
+
+Email: junyanz at cs dot cmu dot edu
+
+
+
+
+ 
+
+Students | CV | Google Scholar | GitHub | arXiv
+
+Papers | Talks | Events | Teaching
+
+
+
+
+ 
+
+I am an Assistant Professor with The Robotics Institute in the School of Computer Science of Carnegie Mellon University. I also hold affiliated faculty appointments in the Computer Science Department and Machine Learning Department. I study computer vision, graphics, computational photography, and generative models.
+
+
+
+
+Prior to joining CMU, I was a Research Scientist at Adobe Research. I did a postdoc at MIT CSAIL, working with William T. Freeman, Josh Tenenbaum, and Antonio Torralba. I obtained my Ph.D. from UC Berkeley, under the supervision of Alexei A. Efros. I received my B.E. from Tsinghua University, working with Zhuowen Tu, Shi-Min Hu, and Eric Chang.
+
+
+
+
+
+Code & Events
+
+Copyright and compensation issues in generative models: GenDataAttribution and concept-ablation (see CMU News and the Quartz article).
+Modelverse platform for helping everyone share, discover, and study generative models more easily.
+Image-to-image translation repos: CycleGAN-and-pix2pix, pix2pixHD, BicycleGAN, vid2vid, GauGAN/SPADE, CUT.
+Image editing with diffusion models: SDEdit (used in Stable Diffusion Image-to-Image), pix2pix-zero, and Rich-Text-to-Image.
+Model customization and editing: concept-ablation, custom-diffusion, domain-expanision, model-rewriting, GANSketching, and GANWarping.
+Image editing repos and demos: iGAN (GAN inversion), GANPaint, pix2latent, sam_inversion, SwappingAutoencoder, and interactive-deep-colorization.
+Neural tactile synthesis: visual-tactile-synthesis, VisGel, and scalable tactile glove.
+GANs training and evaluation libraries: Vision-aided GANs (pip install vision-aided-loss), DiffAugment, and clean-fid (pip install clean-fid).
+Synthetic data for computer vision: dataset-distillation, mtt-distillation, GLaD, CyCADA, and gan-ensembling.
+3D synthesis code: Total-Recon, BlendNeRF, pix2pix3D, Depth-supervised NeRF, Editing NeRF, Visual Object Networks, and 3D scene de-rendering.
+Network visualization tools: GANDissect, GANSeeing, and Network Dissect.
+Efficient generative models: SIGE (for SDEdit w/ Stable Diffusion and GauGAN), gan-compression (for cGANs) and anycost-gan (for GANs).
+SIGGRAPH 2023 Course on Diffusion Models.
+CatPapers: Cool vision, learning, and graphics papers on Cats.
+
+
+
+
+Generative Intelligence Lab
+
+Our lab studies the collaboration between Human Creators and Generative Models, with the goal of building intelligent machines capable of helping everyone tell their visual stories. We are studying the following questions:
+
+Interaction between creators and generative models: How can we help creators control the model outputs more easily? We develop algorithms and interfaces for controllable visual synthesis (e.g., images, videos, 3D, visual+tactile)
+Rewriting and searching generative models: How can creators repurpose existing models for new tasks, concepts, and styles? How could they rewrite the rules of models? Which model shall they use as a starting point?
+Co-existence of creators and generative models: How can we allow creators to opt in or out of generative models at any time? If opting in, how do we credit creators for contributing training data?
+Synthetic data generation with generative models: How can we use generative models to produce useful data for improving computer vision and robotics systems?
+
+Our lab is part of Carnegie Mellon Graphics Lab and Carnegie Mellon Computer Vision Group.
+
+Kangle Deng (PhD, with Deva Ramanan)
+Ruihan Gao (PhD, with Wenzhen Yuan)
+Maxwell Jones (MSML)
+Nupur Kumari (PhD)
+Sean Liu (Postdoc)
+Gaurav Parmar (PhD, with Srinivasa Narasimhan)
+Grace Su (MSR)
+Sheng-Yu Wang (PhD)
+
+Former members and visitors: Richa Mishra (MSCV, now at HeyGen), Aniruddha Mahapatra (MSCV, now at Adobe), Or Patashnik (Visiting PhD from TAU), Songwei Ge (Visiting PhD from UMD), Chonghyuk (Andrew) Song (MSR, now PhD student at MIT), Muyang Li (MSR, now PhD student at MIT), Daohan (Fred) Lu (MSCV, now PhD student at NYU), Mia Tang (Undergrad, now MS student at Stanford), Bingliang Zhang (Undergrad, now PhD student at Caltech), Rohan Agarwal (MSCV, now at Runway ML), George Cazenavette (MSR, now PhD student at MIT)
+
+
+
+
+
+Teaching
+
+16-726: Learning-based Image Synthesis (Spring 2024, Spring 2023, Spring 2022, Spring 2021)
+16-824: Visual Learning and Recognition (Fall 2023, Fall 2022, Fall 2021)
+Deep Learning at Udacity (Co-instructor)
+
+
+
+
+Software
+
+		
+
+Landscape Mixer
+
+Photoshop 2022's Landscape Mixer can transform landscape images in various ways. This feature is based on our work Swapping Autoencoder (NeurIPS 2020).
+
+ 
+
+Web | Video
+
+ 
+
+
+
+		
+
+NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images
+
+Download Windows 10 app based on our work SPADE (CVPR 2019) and GauGAN demo (SIGGRAPH 2019).
+
+ 
+
+Web | Video
+
+ 
+
+
+
+		
+
+Photoshop Neural Filters
+
+Photoshop 2021 introduces "Neural Filters". Several features are partly built on our work iGAN (ECCV 2016), ideepcolor (SIGGRAPH 2017), and CycleGAN (ICCV 2017).
+
+ 
+
+Web | Video
+
+ 
+
+
+
+
+Selected Publications
+
+
+
+
+See the full list on Google Scholar
+
+
+
+		
+
+FlashTex: Fast Relightable Mesh Texturing with LightControlNet
+
+Kangle Deng, Timothy Omernick, Alexander Weiss, Deva Ramanan, Jun-Yan Zhu, Tinghui Zhou, Maneesh Agrawala
+
+arXiv 2024
+
+ 
+
+Project | Paper
+
+
+ 
+
+		
+
+CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting
+
+Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James McCann, Jean Oh
+
+ICRA 2024 (Best Paper on Human-Robot Interaction)
+
+ICRA EXPO 2024 Best Demo Award Finalist
+
+ 
+
+Code | Paper | Project
+
+
+ 
+
+		
+
+On the Content Bias in Fréchet Video Distance
+
+Songwei Ge, Aniruddha Mahapatra, Gaurav Parmar, Jun-Yan Zhu, Jia-Bin Huang
+
+CVPR 2024
+
+Download: pip install cd-fvd
+
+ 
+
+Code | Project | Paper
+
+
+ 
+
+		
+
+Content-Based Search for Deep Generative Models
+
+Daohan Lu*, Sheng-Yu Wang*, Nupur Kumari*, Rohan Agarwal*, Mia Tang, David Bau, Jun-Yan Zhu
+
+SIGGRAPH Asia 2023
+
+ 
+
+Modelverse | Project | Code | Paper | Youtube | BibTex
+
+
+ 
+
+		
+
+Text-Guided Synthesis of Eulerian Cinemagraphs
+
+Aniruddha Mahapatra, Aliaksandr Siarohin, Hsin-Ying Lee, Sergey Tulyakov, Jun-Yan Zhu
+
+SIGGRAPH Asia 2023
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+Evaluating Data Attribution for Text-to-Image Models
+
+Sheng-Yu Wang, Alexei A. Efros, Jun-Yan Zhu, Richard Zhang
+
+ICCV 2023
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+Ablating Concepts in Text-to-Image Diffusion Models
+
+Nupur Kumari, Bingliang Zhang, Sheng-Yu Wang, Eli Shechtman, Richard Zhang, Jun-Yan Zhu
+
+ICCV 2023
+
+ 
+
+Code | Project | Paper
+
+
+ 
+
+		
+
+Controllable Visual-Tactile Synthesis
+
+Ruihan Gao, Wenzhen Yuan, Jun-Yan Zhu
+
+ICCV 2023
+
+ 
+
+Code | Project | Paper | Data
+
+
+ 
+
+		
+
+Expressive Text-to-Image Generation with Rich Text
+
+Songwei Ge, Taesung Park, Jun-Yan Zhu, Jia-Bin Huang
+
+ICCV 2023
+
+ 
+
+Code | Project | Paper | Demo
+
+
+ 
+
+		
+
+Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis
+
+Chonghyuk Song, Gengshan Yang, Kangle Deng, Jun-Yan Zhu, Deva Ramanan
+
+ICCV 2023
+
+ 
+
+Code | Project | Paper
+
+
+ 
+
+		
+
+3D-aware Blending with Generative NeRFs
+
+Hyunsu Kim, Gayoung Lee, Yunjey Choi, Jin-Hwa Kim, Jun-Yan Zhu
+
+ICCV 2023
+
+ 
+
+Code | Project | Paper
+
+
+ 
+
+		
+
+Dense Text-to-Image Generation with Attention Modulation
+
+Yunji Kim, Jiyoung Lee, Jin-Hwa Kim, Jung-Woo Ha, Jun-Yan Zhu
+
+ICCV 2023
+
+ 
+
+Code | Paper
+
+
+ 
+
+		
+
+Holistic Evaluation of Text-To-Image Models
+
+Tony Lee*, Michihiro Yasunaga*, Chenlin Meng*, Yifan Mai, Joon Sung Park, Agrim Gupta, Yunzhi Zhang, Deepak Narayanan, Hannah Benita Teufel, Marco Bellagente, Minguk Kang, Taesung Park, Jure Leskovec, Jun-Yan Zhu, Li Fei-Fei, Jiajun Wu, Stefano Ermon, Percy Liang
+
+NeurIPS 2023
+
+ 
+
+Paper | Project | Code
+
+
+ 
+
+		
+
+Zero-shot Image-to-Image Translation
+
+Gaurav Parmar, Krishna Kumar Singh, Richard Zhang, Yijun Li, Jingwan Lu, Jun-Yan Zhu
+
+SIGGRAPH 2023
+
+ 
+
+Code | Project | Paper | Demo
+
+
+ 
+
+		
+
+Scaling up GANs for Text-to-Image Synthesis
+
+Minguk Kang, Jun-Yan Zhu, Richard Zhang, Jaesik Park, Eli Shechtman, Sylvain Paris, Taesung Park
+
+CVPR 2023
+
+ 
+
+Project | Paper | Slides | BibTex
+
+
+ 
+
+		
+
+3D-aware Conditional Image Synthesis
+
+Kangle Deng, Gengshan Yang, Deva Ramanan, Jun-Yan Zhu
+
+CVPR 2023
+
+ 
+
+Code | Project | Paper
+
+
+ 
+
+		
+
+Multi-Concept Customization of Text-to-Image Diffusion
+
+Nupur Kumari, Bingliang Zhang, Richard Zhang, Eli Shechtman, Jun-Yan Zhu
+
+CVPR 2023
+
+ 
+
+Code | Project | Paper | Demo
+
+
+ 
+
+		
+
+Generalizing Dataset Distillation via Deep Generative Prior
+
+George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
+
+CVPR 2023
+
+ 
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+Domain Expansion of Image Generators
+
+Yotam Nitzan, Michaël Gharbi, Richard Zhang, Jun-Yan Zhu, Daniel Cohen-Or, Eli Shechtman
+
+CVPR 2023
+
+ 
+
+Code | Project | Paper | BibTex
+
+
+ 
+
+ 
+
+		
+
+Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models
+
+Muyang Li, Ji Lin, Chenlin Meng, Stefano Ermon, Song Han, Jun-Yan Zhu
+
+NeurIPS 2022 | TPAMI 2023
+
+ 
+
+Code | Project | Paper | Video | Slides | BibTex
+
+
+ 
+
+		
+
+Rewriting Geometric Rules of a GAN
+
+Sheng-Yu Wang, David Bau, Jun-Yan Zhu
+
+SIGGRAPH 2022
+
+ 
+
+Project | Code | Paper | Youtube | BibTex
+
+
+ 
+
+		
+
+GAN-Supervised Dense Visual Alignment
+
+William Peebles, Jun-Yan Zhu, Richard Zhang, Antonio Torralba, Alexei A. Efros, Eli Shechtman
+
+CVPR 2022 (Best Paper Finalist)
+
+ 
+
+Code | Project | Paper | Video | Colab | BibTex
+
+
+ 
+
+		
+
+Ensembling Off-the-shelf Models for GAN Training
+
+Nupur Kumari, Richard Zhang, Eli Shechtman, Jun-Yan Zhu
+
+CVPR 2022
+
+Installation: pip install vision-aided-loss
+
+ 
+
+Code | Project | Paper | Video | BibTex
+
+
+ 
+
+		
+
+On Aliased Resizing and Surprising Subtleties in GAN Evaluation
+
+Gaurav Parmar, Richard Zhang, Jun-Yan Zhu
+
+CVPR 2022
+
+Installation: pip install clean-fid
+
+ 
+
+Code | Project | Paper | BibTex
+
+
+ 
+
+		
+
+Dataset Distillation by Matching Training Trajectories
+
+George Cazenavette, Tongzhou Wang, Antonio Torralba, Alexei A. Efros, Jun-Yan Zhu
+
+CVPR 2022
+
+ 
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+Depth-supervised NeRF: Fewer Views and Faster Training for Free
+
+Kangle Deng, Andrew Liu, Jun-Yan Zhu, Deva Ramanan
+
+CVPR 2022
+
+ 
+
+Code | Project | Paper | Video | BibTex
+
+
+ 
+
+		
+
+Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing
+
+Gaurav Parmar, Yijun Li, Jingwan Lu, Richard Zhang, Jun-Yan Zhu, Krishna Kumar Singh
+
+CVPR 2022
+
+ 
+
+Code | Project | Paper | BibTex
+
+
+ 
+
+		
+
+SDEdit: Image Synthesis and Editing with Stochastic Differential Equations
+
+Chenlin Meng, Yutong He, Song Yang, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon
+
+ICLR 2022
+
+ 
+
+Project | Code | Paper | Colab | BibTex
+
+ 
+
+		
+
+Sketch Your Own GAN
+
+Sheng-Yu Wang, David Bau, Jun-Yan Zhu
+
+ICCV 2021
+
+ 
+
+Project | Code | Paper | Youtube | BibTex
+
+ 
+
+		
+
+Editing Conditional Radiance Fields
+
+Steven Liu, Xiuming Zhang, Zhoutong Zhang, Richard Zhang, Jun-Yan Zhu, Bryan Russell
+
+ICCV 2021
+
+ 
+
+Code | Project | Paper | Colab | BibTex
+
+
+ 
+
+		
+
+Ensembling with Deep Generative Views
+
+Lucy Chai, Jun-Yan Zhu, Eli Shechtman, Phillip Isola, Richard Zhang
+
+CVPR 2021
+
+ 
+
+Code | Project | Paper | Colab | BibTex
+
+
+ 
+
+		
+
+Anycost GANs for Interactive Image Synthesis and Editing
+
+Ji Lin, Richard Zhang, Frieder Ganz, Song Han, Jun-Yan Zhu
+
+CVPR 2021
+
+ 
+
+Code | Project | Paper | Video | BibTex
+
+
+ 
+
+		
+
+GAN Compression: Efficient Architectures for Interactive Conditional GANs
+
+Muyang Li, Ji Lin, Yaoyao Ding, Zhijian Liu, Jun-Yan Zhu, Song Han
+
+TPAMI 2021 | CVPR 2020
+
+ 
+
+Code | Project | Paper | Video
+Demo Video | Slides | BibTex
+
+
+ 
+
+		
+
+Understanding the Role of Individual Units in a Deep Neural Network
+
+David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou, Antonio Torralba
+
+PNAS 2020
+
+ 
+
+Project | Code | Paper | Arxiv | BibTex
+CNN Dissection Colab | GAN Dissection Colab
+
+
+ 
+
+		
+
+Swapping Autoencoder for Deep Image Manipulation
+
+Taesung Park, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei A. Efros, and Richard Zhang
+
+NeurIPS 2020
+
+ 
+
+Project | Code | Video | Paper | BibTex
+
+
+ 
+
+		
+
+Differentiable Augmentation for Data-Efficient GAN Training
+
+Shengyu Zhao, Zhijian Liu, Ji Lin, Jun-Yan Zhu, Song Han
+
+NeurIPS 2020
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+Contrastive Learning for Unpaired Image-to-Image Translation
+
+Taesung Park, Alexei A. Efros, and Richard Zhang, Jun-Yan Zhu
+
+ECCV 2020
+
+ 
+
+Project | Code | Video
+Paper | Talk | BibTex
+
+
+ 
+
+		
+
+Rewriting a Deep Generative Model
+
+David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba
+
+ECCV 2020
+
+ 
+
+Project | Code | Paper | Video
+Colab | Talk | BibTex
+
+
+ 
+
+		
+
+The Hessian Penalty: A Weak Prior for Unsupervised Disentanglement
+
+William Peebles, John Peebles, Jun-Yan Zhu, Alexei A. Efros, Antonio Torralba
+
+ECCV 2020
+
+ 
+
+Project | Code | Paper | Video | Talk | BibTex
+
+
+ 
+
+		
+
+Transforming and Projecting Images into Class-conditional Generative Networks
+
+Minyoung Huh, Richard Zhang, Jun-Yan Zhu, Sylvain Paris, Aaron Hertzmann
+
+ECCV 2020
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+Diverse Image Generation via Self-Conditioned GANs
+
+Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba
+
+CVPR 2020
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+State of the Art on Neural Rendering
+
+Ayush Tewari*, Ohad Fried*, Justus Thies*, Vincent Sitzmann*, Stephen Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, Tomas Simon, Jason Saragih, Matthias Nießner, Rohit Pandey, Sean Fanello, Gordon Wetzstein, Jun-Yan Zhu, Christian Theobalt, Maneesh Agrawala, Eli Shechtman, Dan B Goldman, Michael Zollhöfer
+
+Eurographics 2020 (STAR Report)
+
+ 
+
+Paper | Project | BibTex
+CVPR Tutorial | Eurographics Tutorial
+
+
+ 
+
+		
+
+Seeing what a GAN Cannot Generate
+
+David Bau, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt, Bolei Zhou, Antonio Torralba
+
+ICCV 2019
+
+ 
+
+Project | Code | Colab | Paper | BibTex
+
+
+ 
+
+		
+
+Semantic Photo Manipulation with a Generative Image Prior
+
+David Bau, Hendrik Strobelt, William Peebles, Jonas Wulff, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba
+
+SIGGRAPH 2019
+
+ 
+
+Project | Demo | Paper | Video | BibTex
+
+
+ 
+
+		
+
+Learning the Signatures of the Human Grasp Using a Scalable Tactile Glove
+
+Subramanian Sundaram, Petr Kellnhofer, Yunzhu Li, Jun-Yan Zhu, Antonio Torralba, and Wojciech Matusik
+
+Nature, 569 (7758), 2019
+
+ 
+
+See the Economist article and BBC Radio
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+Connecting Touch and Vision via Cross-Modal Prediction
+
+Yunzhu Li, Jun-Yan Zhu, Russ Tedrake, Antonio Torralba
+
+CVPR 2019
+
+See CNN News
+
+ 
+
+Project | Code | Paper | BibTex
+
+
+ 
+
+		
+
+Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
+
+CVPR 2019 (Best Paper Finalist)
+
+SIGGRAPH 2019 Real-time Live Demo "GauGAN" (with Chris Hebert and Gavriil Klimov)
+
+Won "Best in Show Award" and "Audience Choice Award" in SIGGRAPH 2019 Real-time Live.
+
+ 
+
+Project | Real-time Live | Code | Paper
+Youtube | GTC 2019 Demo | BibTex
+
+
+ 
+
+		
+
+GAN Dissection: Visualizing and Understanding Generative Adversarial Networks
+
+David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba
+
+ICLR 2019
+
+ 
+
+Project | Paper | Demo | Code
+Video | Slides | BibTex
+
+
+ 
+
+		
+
+Propagation Networks for Model-Based Control Under Partial Observation
+
+Yunzhu Li, Jiajun Wu, Jun-Yan Zhu, Joshua B. Tenenbaum, Antonio Torralba, Russ Tedrake
+
+ICRA 2019
+
+ 
+
+Project | Paper | Video | BibTex
+
+
+ 
+
+		
+
+Dataset Distillation
+
+Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros
+
+arXiv 2018
+
+ 
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+Visual Object Networks: Image Generation with Disentangled 3D Representation
+
+Jun-Yan Zhu, Zhoutong Zhang, Chengkai Zhang, Jiajun Wu, Antonio Torralba, Joshua B. Tenenbaum, William T. Freeman
+
+NeurIPS 2018
+
+ 
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+3D-Aware Scene Manipulation via Inverse Graphics
+
+Shunyu Yao*, Tzu-Ming Harry Hsu*, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, William T. Freeman, Joshua B. Tenenbaum
+
+NeurIPS 2018
+
+ 
+
+Project | Paper | Code | BibTex
+
+
+ 
+
+		
+
+Video-to-Video Synthesis
+
+Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro
+
+NeurIPS 2018
+
+See our driving game demo.
+
+ 
+
+Project | Code | Full Paper | arXiv | Youtube | BibTex
+
+
+ 
+
+		
+
+CyCADA: Cycle-Consistent Adversarial Domain Adaptation
+
+Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Alexei A. Efros, and Trevor Darrell
+
+ICML 2018
+
+ 
+
+Paper | Code | BibTex
+
+
+ 
+
+		
+
+High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+
+Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
+
+CVPR 2018
+
+Featured in GTC 2018 Keynote.
+
+ 
+
+Project | Code | Paper | Youtube | Slides | BibTex
+
+
+ 
+
+		
+
+Spatially Transformed Adversarial Examples
+
+Chaowei Xiao*, Jun-Yan Zhu*, Bo Li, Mingyan Liu, and Dawn Song
+
+ICLR 2018
+
+ 
+
+Paper | BibTex
+
+
+ 
+
+		
+
+Generating Adversarial Examples with Adversarial Networks
+
+Chaowei Xiao, Bo Li, Jun-Yan Zhu, Mingyan Liu, and Dawn Song
+
+IJCAI 2018
+
+ 
+
+Paper | BibTex
+
+
+ 
+
+		
+
+Toward Multimodal Image-to-Image Translation
+
+Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A. Efros, Oliver Wang, and Eli Shechtman
+
+NeurIPS 2017
+
+ 
+
+Project | Code | Paper | Youtube | Poster | BibTex
+
+
+ 
+
+		
+
+Learning to Synthesize and Manipulate Natural Images
+
+December, 2017
+
+ACM SIGGRAPH Outstanding Doctoral Dissertation Award.
+
+David J. Sakrison Memorial Prize for outstanding doctoral research, by the UC Berkeley EECS Dept.
+
+ 
+
+Thesis | Talk | News | Cover
+
+
+
+		
+
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+
+Jun-Yan Zhu*, Taesung Park*, Phillip Isola, and Alexei A. Efros
+
+ICCV 2017
+
+ 
+
+Project | PyTorch | Torch | Paper
+Spotlight Talk | Slides | BibTex
+
+
+ 
+
+		
+
+Image-to-Image Translation with Conditional Adversarial Nets
+
+Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros
+
+CVPR 2017
+
+See Distill blog | Also see neat uses of #pix2pix on Twitter.
+
+Project | PyTorch | Torch | Paper | Slides | BibTex
+
+
+ 
+
+		
+
+Real-Time User-Guided Image Colorization with Learned Deep Priors
+
+Richard Zhang*, Jun-Yan Zhu*, Phillip Isola, Xinyang Geng, Angela S. Lin, Tianhe Yu, and Alexei A. Efros
+
+SIGGRAPH 2017
+
+Photoshop Element 2020 ColorizePhoto is based on our work
+
+Project | UI Code | PyTorch Training | Youtube | Video
+Paper | Slides | Talk | BibTex | Fastforward
+
+
+ 
+
+		
+
+Light Field Video Capture Using a Learning-Based Hybrid Imaging System
+
+Ting-Chun Wang, Jun-Yan Zhu, Nima Khademi Kalantari, Alexei A. Efros, and Ravi Ramamoorthi
+
+SIGGRAPH 2017
+
+Project | GitHub | Youtube | Training code
+Paper | Talk | Video | Data (18GB) | BibTex
+
+
+ 
+
+		
+
+Generative Visual Manipulation on the Natural Image Manifold
+
+Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, and Alexei A. Efros
+
+ECCV 2016
+
+See Distill blog and article in California Magazine
+
+ 
+
+Project | YouTube | GitHub | Paper
+Slides | Video | BibTex
+
+
+ 
+
+		
+
+A 4D Light-Field Dataset and CNN Architectures for Material Recognition
+
+Ting-Chun Wang, Jun-Yan Zhu, Ebi Hiroaki, Manmohan Chandraker, Alexei A. Efros, and Ravi Ramamoorthi
+
+ECCV 2016
+
+ 
+
+Paper | Data (thumbnail) | Full data (15.9G)
+Supplement | Poster | BibTex
+
+
+ 
+
+		
+
+Learning a Discriminative Model for the Perception of Realism in Composite Images
+
+Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman, and Alexei A. Efros
+
+ICCV 2015
+
+ 
+
+Project | Paper | GitHub | Slides | Poster | BibTex
+
+
+ 
+
+		
+
+Mirror Mirror: Crowdsourcing Better Portraits
+
+Jun-Yan Zhu, Aseem Agarwala, Alexei A. Efros, Eli Shechtman, and Jue Wang
+
+SIGGRAPH Asia 2014
+
+ 
+
+Project (code) | Paper | Data | Slides | Supplement | BibTex
+
+
+ 
+
+		
+
+AverageExplorer: Interactive Exploration and Alignment of Visual Data Collections
+
+Jun-Yan Zhu, Yong Jae Lee and Alexei A. Efros
+
+SIGGRAPH 2014
+
+ 
+
+See article in The New Yorker
+
+Project | YouTube | Paper | Slides | Supplement | BibTex
+
+
+ 
+
+		
+
+Unsupervised Object Class Discovery via Saliency-Guided Multiple Class Learning
+
+Jun-Yan Zhu, Jiajun Wu, Yan Xu, Eric Chang and Zhuowen Tu
+
+TPAMI 2015 | CVPR 2012
+
+ 
+
+Project | Paper | Supplement | Poster | BibTex
+
+
+ 
+
+		
+
+Multiple Clustered Instance Learning for Histopathology Cancer Image Classification, Segmentation and Clustering
+
+Yan Xu*, Jun-Yan Zhu*, Eric I-Chao Chang and Zhuowen Tu
+
+CVPR 2012 | Medical Image Analysis 2014
+
+ 
+
+Project | GitHub | Paper | BibTex | Poster
+
+
+ 
+
+		
+
+Motion-Aware Gradient Domain Video Composition
+
+Tao Chen, Jun-Yan Zhu, Ariel Shamir and Shi-Min Hu
+
+TIP 2013
+
+ 
+
+Paper | YouTube | Video | BibTex
+
+
+
+
+
+
+Talks
+
+Learning to Generate Images
+
+SIGGRAPH Dissertation Award Talk (2018)
+
+Unpaired Image-to-Image Translation
+
+CVPR Tutorial on GANs (2018)
+
+Learning to Synthesize and Manipulate Natural Photos
+
+MIT, HKUST CSE Departmental Seminar, ICCV Tutorial on GANs, O'Reilly AI, AI with the best, Y Conf, DEVIEW, ODSC West (2017)
+
+On Image-to-Image Translation
+
+Stanford, MIT, Facebook, CUHK, SNU (2017)
+
+Interactive Deep Colorization
+
+SIGGRAPH, NVIDIA Innovation Theater, Global AI Hackathon (2017)
+
+Visual Manipulation and Synthesis on the Natural Image Manifold
+
+Facebook, MSR, Berkeley BAIR, THU, ICML workshop "Visualization for Deep Learning" (2016)
+
+Mirror Mirror: Crowdsourcing Better Portraits
+
+SIGGRAPH Asia (2014)
+
+What Makes Big Visual Data Hard?
+
+SIGGRAPH Asia invited course "Data-Driven Visual Computing" (2014)
+
+AverageExplorer: Interactive Exploration and Alignment of Visual Data Collections
+
+SIGGRAPH (2014)
+
+
+
+
+
+Past Events
+
+SIGGRAPH 2023 Course on Diffisuion Models.
+CVPR 2022 Workshop on AI for Content Creation.
+CVPR 2022 Workshop on Sketch-Oriented Deep Learning.
+SIGGRAPH 2021 Course on the Advances in Neural Rendering.
+SIGGRAPH 2021 Workshop on Measurable Creative AI.
+CVPR 2021 Workshop on Computational Measurements of Machine Creativity.
+CVPR 2020 Tutorial on Neural Rendering.
+Eurographics 2020 STAR Tutorial on Neural Rendering.
+IJCV Special Issue on Generative Adversarial Networks for Computer Vision (2019-2020).
+ICCV 2019 Workshop on Image and Video Synthesis.
+CVPR 2019 Tutorial on Map Synchronization.
+CVPR 2018 Tutorial on Generative Adversarial Networks.
+ICCV 2017 Tutorial on Generative Adversarial Networks.
+ICML 2017 Workshop on Visualization for Deep Learning.
+SIGGRAPH Asia 2014 Course on Data-Driven Visual Computing.
+
+
+
+
+MISC
+
+My cat Aquarius and my dog Arya's photo and its Ukiyo-e style.
+You can eat Greek yogurt when wearing a mask. See how Arya did it.
+Our new dog Stark was enjoying Pittsburgh's snow.
+

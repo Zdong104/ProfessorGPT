@@ -1,0 +1,143 @@
+Professor: Yizheng Chen 0001
+University: University of Maryland - College Park
+URL: https://surrealyz.github.io/
+Description: Yizheng Chen
+RESEARCH
+TEACHING
+SERVICE
+STUDENTS
+
+
+
+I am an Assistant Professor in the Department of Computer Science at the University of Maryland, College Park. My research focuses on Code Large Language Models and AI Security. My recent papers are on Google scholar.
+
+Previously, I was a postdoc at UC Berkeley and Columbia University. I received the PhD in Computer Science from Georgia Institute of Technology. I received the BS degree in Information Security from Fudan University, Shanghai, China. During my time as an undergrad, I was an exchange student in University of California, Santa Barbara.
+
+I am looking for PhD students. If you are interested in working with me, please fill out the questionnaire, and send me an email: yzchen [at] umd [dot] edu.
+
+NEWS
+I will give a guest lecture on "Securing AI Coding Assistants" at the Cornell, Maryland, Max Planck Pre-doctoral Research School in Computer Science (CMMRS 2024).
+Our benchmark PrimeVul was used by Gemini 1.5 Pro for vulnerability detection evaluation.
+DiverseVul update: metadata and label noise analysis release.
+I will teach CMSC818I: Advanced Topics in Computer Systems; Large Language Models, Security, and Privacy in Fall 2024. Here is the previous edition of this class.
+
+
+PUBLICATIONS
+Conferences
+Vulnerability Detection with Code Language Models: How Far Are We? [ preprint | dataset ]
+Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, and Yizheng Chen.
+To appear at the IEEE/ACM International Conference on Software Engineering (ICSE 2025)
+
+
+
+Continuous Learning for Android Malware Detection. [ pdf | code ]
+Yizheng Chen, Zhoujie Ding, and David Wagner.
+In proceedings of the 32nd USENIX Security Symposium (USENIX Security 2023)
+* Top 10 Finalist of the CSAW'23 Applied Research Competition
+
+
+DiverseVul: A New Vulnerable Source Code Dataset for Deep Learning Based Vulnerability Detection. [ pdf | dataset ]
+Yizheng Chen, Zhoujie Ding, Lamya Alowain, Xinyun Chen, and David Wagner.
+In proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)
+
+
+
+Part-Based Models Improve Adversarial Robustness. [ pdf ]
+Chawin Sitawarin, Kornrapat Pongmala, Yizheng Chen, Nicholas Carlini, and David Wagner.
+In the Eleventh International Conference on Learning Representations (ICLR 2023)
+
+
+
+Learning Security Classifiers with Verified Global Robustness Properties. [ pdf | code | errata ]
+Yizheng Chen, Shiqi Wang, Yue Qin, Xiaojing Liao, Suman Jana, and David Wagner.
+In proceedings of the 28th ACM Conference on Computer and Communications Security (CCS 2021)
+* Best Paper Award Runner-Up
+
+
+Cost-Aware Robust Tree Ensembles for Security Applications. [ pdf | code | appendix ]
+Yizheng Chen, Shiqi Wang, Weifan Jiang, Asaf Cidon, and Suman Jana.
+In proceedings of the 30th USENIX Security Symposium (USENIX Security 2021)
+Blog post: Robust Trees for Security (4 min read).
+
+
+On Training Robust PDF Malware Classifiers. [ pdf | code ]
+Yizheng Chen, Shiqi Wang, Dongdong She, and Suman Jana.
+In proceedings of the 29th USENIX Security Symposium (USENIX Security 2020)
+Blog post: Monotonic malware classifiers (5 min read), Gmail's malicious document classifier can still be trivially evaded (3 min read), How XGBoost enforces global monotonicity (2 min read).
+More: MalGAN attack evaluation on robust PDF malware classifiers.
+
+
+Neutaint: Efficient Dynamic Taint Analysis with Neural Networks. [ pdf ]
+Dongdong She, Yizheng Chen, Abhishek Shah, Baishakhi Ray, and Suman Jana.
+In proceedings of the 41st IEEE Symposium on Security and Privacy (S&P/Oakland 2020)
+
+
+
+Practical Attacks Against Graph-based Clustering. [ pdf ]
+Yizheng Chen, Yacin Nadji, Athanasios Kountouras, Fabian Monrose, Roberto Perdisci, Manos Antonakakis, and Nikolaos Vasiloglou.
+In proceedings of the 24th ACM Conference on Computer and Communications Security (CCS 2017)
+* Top 10 Finalist of the CSAW'17 Applied Research Competition
+
+
+Hiding in Plain Sight: A Longitudinal Study of Combosquatting Abuse. [ pdf ]
+Panagiotis Kintis, Najmeh Miramirkhani, Charles Lever, Yizheng Chen, Rosa Romero-Gómez, Nikolaos Pitropakis, Nick Nikiforakis, and Manos Antonakakis.
+In proceedings of the 24th ACM Conference on Computer and Communications Security (CCS 2017)
+News: Domain Name Wire, Georgia Tech, EurekAlert!, ZDNet, Domain Pulse, World Trademark Review, GIGALAW
+Visualization: Combosquatting Clusters
+
+
+Measuring Network Reputation in the Ad-Bidding Process. [ pdf ]
+Yizheng Chen, Yacin Nadji, Rosa Romero-Gómez, Manos Antonakakis, and David Dagon.
+In proceedings of the 14th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA 2017)
+
+
+Enabling Network Security Through Active DNS Datasets. [ pdf | data ]
+Athanasios Kountouras, Panagiotis Kintis, Chaz Lever, Yizheng Chen, Yacin Nadji, David Dagon, Manos Antonakakis, and Rodney Joffe.
+In proceedings of the 19th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2016)
+Dataset Contribution: Active DNS Dataset
+
+
+Financial Lower Bounds of Online Advertising Abuse. [ pdf | TDSS-TDL4 Domains ]
+Yizheng Chen, Panagiotis Kintis, Manos Antonakakis, Yacin Nadji, David Dagon, Wenke Lee, and Michael Farrell.
+In proceedings of the 13th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA 2016)
+
+
+On the Feasibility of Large-Scale Infections of iOS Devices. [ pdf ]
+Tielei Wang, Yeongjin Jang, Yizheng Chen, Pak-Ho Chung, Billy Lau, and Wenke Lee.
+In proceedings of the 23rd USENIX Security Symposium (USENIX Security 2014)
+News: The Register, Wired, Toms Guide, ComputerWorld, PCWorld
+
+
+DNS Noise: Measuring the Pervasiveness of Disposable Domains in Modern DNS Traffic. [ pdf ]
+Yizheng Chen, Manos Antonakakis, Roberto Perdisci, Yacin Nadji, David Dagon, and Wenke Lee.
+In proceedings of the 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2014)
+
+
+Workshops
+SEAT: Similarity Encoder by Adversarial Training for Detecting Model Extraction Attack Queries. [ pdf ]
+Zhanyuan Zhang, Yizheng Chen, and David Wagner.
+In proceedings of the 14th ACM Workshop on Artificial Intelligence and Security (AISec 2021).
+
+
+
+Enhancing Gradient-based Attacks with Symbolic Intervals. [ pdf | code ]
+Shiqi Wang, Yizheng Chen, Ahmed Abdou, and Suman Jana.
+In ICML Workshop on Security and Privacy of Machine Learning, Long Beach, CA, June, 2019.
+Oral Presentation. Interval attacks appear on MadryLab MNIST Challenge Leaderboard.
+
+
+
+FeatNet: Large-scale Fraud Device Detection by Network Representation Learning with Rich Features. [ pdf ]
+Chao Xu, Zhentan Feng, Yizheng Chen, Minghua Wang, and Tao Wei.
+In proceedings of the 11th ACM Workshop on Artificial Intelligence and Security (AISec 2018).
+
+
+
+
+© Copyright ©2024 All rights reserved | This template is made with  by Colorlib
+
+
+
+
+
+

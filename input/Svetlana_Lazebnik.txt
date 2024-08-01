@@ -1,0 +1,241 @@
+Professor: Svetlana Lazebnik
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://slazebni.cs.illinois.edu/
+Description:  		
+
+SVETLANA LAZEBNIK
+Professor
+Department of Computer Science
+University of Illinois at Urbana-Champaign
+Office: 3308 Siebel Center
+Phone: 217-300-2422
+Email: slazebni -at- illinois.edu
+
+Google Scholar, CV
+
+I received my Ph.D. at UIUC in May 2006 under the supervision of Prof. Jean Ponce. From August 2007 to December 2011 I was an assistant professor at the University of North Carolina at Chapel Hill, and as of January 2012, I have returned as faculty to U of I. My research specialty is computer vision. The main themes of my research include scene understanding, joint modeling of images and text, large-scale photo collections, and machine learning techniques for visual recognition problems.
+
+Current and former sources of support for my research include the National Science Foundation (under grants IIS 1718221, IIS 1563727, IIS 1228082, CIF 1302438, and IIS 0916829), Amazon Research Award, AWS Machine Learning Research Award, Microsoft Research Faculty Fellowship, Xerox University Affairs Committee Grants, DARPA Computer Science Study Group, Sloan Foundation Fellowship, Google Research Award, ARO, and Adobe.
+
+Ph.D. Students
+Aiyu Cui
+Viraj Shah
+Shivansh Patel
+Ayush Sarkar
+Former Ph.D. Students
+Daniel McKee -- Ph.D. 2023, now at Snap
+Unnat Jain -- Ph.D. 2022 (co-advised with Alex Schwing), now postdoc at Meta AI/CMU
+Arun Mallya -- Ph.D. 2018, now at NVIDIA Research
+Liwei Wang -- Ph.D. 2018, now Assistant Professor at the Chinese University of Hong Kong
+Bryan Plummer -- Ph.D. 2018, now Assistant Professor at Boston University
+Yunchao Gong -- Ph.D. 2014 (UNC), now at Verkada
+Joseph Tighe -- Ph.D. 2013 (UNC), now at Meta
+Former Postdocs
+Tatiana Tommasi -- UNC (2015-2016, co-advised with Tamara and Alex Berg), now at Politecnico di Torino
+Juan Caicedo -- U of I (2012-2014), now at Broad Institute of MIT and Harvard
+Teaching
+Spring 2024: CS 444 Deep Learning for Computer Vision
+Fall 2023: CS 598 Computer Vision: What Will Stand the Test of Time?
+Spring 2023: CS 444 Deep Learning for Computer Vision
+Fall 2022: CS 543/ECE 549 Computer Vision
+Spring 2022: CS 444: Deep Learning for Computer Vision
+Fall 2021: CS 543/ECE 549 Computer Vision
+Spring 2021: CS 498 DL: Introduction to Deep Learning
+Fall 2020: CS 498 DL: Introduction to Deep Learning
+Spring 2020: Computer Vision: Looking Back to Look Forward (IRIM Visiting Faculty Fellow Short Course)
+
+
+Research Highlights
+	
+Virtual Try-On, Image Stylization
+MultiStyleGAN: Multiple One-shot Image Stylizations using a Single GAN
+V. Shah, A. Sarkar, S. Anitha, and S. Lazebnik, ArXiv 2023
+
+
+Street TryOn: Learning In-the-Wild Virtual Try-On from Unpaired Images
+A. Cui, J. Mahajan, V. Shah, P. Gomathinayagam, and S. Lazebnik, ArXiv 2023
+
+
+Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing
+A. Cui, D. McKee, and S. Lazebnik, ICCV 2021
+
+
+
+	
+Video Tracking and Label Propagation
+Robust Online Video Instance Segmentation with Track Queries
+Z. Zhan, D. McKee, and S. Lazebnik, ArXiv 2023
+
+
+Transfer of Representations to Video Label Propagation: Implementation Factors Matter
+D. McKee, Z. Zhan, B. Shuai, D. Modolo, J. Tighe, and S. Lazebnik, ArXiv 2022
+
+
+
+	
+Collaborative Embodied Agents
+GridToPix: Training Embodied Agents with Minimal Supervision
+U. Jain, I.-J. Liu, S. Lazebnik, A. Kembhavi, L. Weihs*, and A. Schwing*, ICCV 2021
+
+
+Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents
+S. Patel*, S. Wani*, U. Jain*, A. Schwing, S. Lazebnik, M. Savva, and A. X. Chang, ICCV 2021
+
+
+A Cordial Sync: Going Beyond Marginal Policies For Multi-Agent Embodied Tasks
+U. Jain, L. Weihs, E. Kolve, A. Farhadi, S. Lazebnik, A. Kembhavi, and A. Schwing, ECCV 2020
+
+
+Two Body Problem: Collaborative Visual Task Completion
+U. Jain, L. Weihs, E. Kolve, M. Rastegari, S. Lazebnik, A. Farhadi, A. Schwing, and A. Kembhavi, CVPR 2019
+
+
+Past Projects
+	
+Incremental and Multi-Task Learning
+Memory-Efficient Incremental Learning Through Feature Adaptation
+A. Iscen, J. Zhang, S. Lazebnik, and C. Schmid, ECCV 2020
+
+
+Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights
+A. Mallya, D. Davis, and S. Lazebnik, ECCV 2018
+
+
+PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning
+A. Mallya and S. Lazebnik, CVPR 2018
+
+
+
+	
+Visual Grounding
+Revisiting Image-Language Networks for Open-ended Phrase Detection
+B. Plummer, K. Shih, Y. Li, K. Xu, S. Lazebnik, S. Sclaroff, K. Saenko, PAMI 2020
+
+
+Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues
+B. Plummer, A. Mallya, C. Cervantes, J. Hockenmaier, and S. Lazebnik, ICCV 2017
+
+
+Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models
+B. Plummer, L. Wang, C. Cervantes, J. Caicedo, J. Hockenmaier, and S. Lazebnik, IJCV 2017
+ Project webpage with data
+
+
+
+	
+Image-Text Embeddings
+Conditional Image-Text Embedding Networks
+B. Plummer, P. Kordas, H. Kiapour, S. Zheng, R. Piramuthu, and S. Lazebnik, ECCV 2018
+
+
+Learning Deep Structure-Preserving Image-Text Embeddings
+L. Wang, Y. Li, and S. Lazebnik, CVPR 2016
+ PAMI 2019 article
+
+
+A Multi-View Embedding Space for Modeling Internet Images, Tags, and Their Semantics
+Y. Gong, Q. Ke, M. Isard, and S. Lazebnik, IJCV 2014
+
+
+
+	
+Object Detection with Adaptive Proposals
+Adaptive Object Detection Using Adjacency and Zoom Prediction
+Y. Lu, T. Javidi, and S. Lazebnik, CVPR 2016
+ Code on GitHub
+
+
+Active Object Localization with Deep Reinforcement Learning
+J. Caicedo and S. Lazebnik, ICCV 2015
+ Spotlight video
+
+
+
+	
+Misc. Scene Understanding
+Learning Informative Edge Maps for Indoor Scene Layout Prediction
+A. Mallya and S. Lazebnik, ICCV 2015
+
+
+Multi-Scale Orderless Pooling of Deep Convolutional Activation Features
+Y. Gong, L. Wang, R. Guo, and S. Lazebnik, ECCV 2014
+
+
+Scene Recognition and Weakly Supervised Object Localization with Deformable Part-Based Models
+M. Pandey and S. Lazebnik, ICCV 2011
+
+
+	
+Image Parsing
+Scene Parsing with Object Instances and Occlusion Ordering
+J. Tighe, M. Niethammer, and S. Lazebnik, CVPR 2014
+ IJCV article
+
+
+Finding Things: Image Parsing with Regions and Per-Exemplar Detectors
+J. Tighe and S. Lazebnik, CVPR 2013
+ IJCV article
+
+
+SuperParsing: Scalable Nonparametric Image Parsing with Superpixels
+J. Tighe and S. Lazebnik, ECCV 2010
+ IJCV 2013 article
+
+
+
+	
+Similarity-Preserving Binary Codes
+Iterative Quantization: A Procrustean Approach to Learning Binary Codes
+Y. Gong and S. Lazebnik, CVPR 2011
+ ITQ code, PAMI 2013 article
+
+
+Locality Sensitive Binary Codes from Shift-Invariant Kernels
+M. Raginsky and S. Lazebnik, NIPS 2009
+
+
+
+	
+Landmark Photo Collections
+Building Rome on a Cloudless Day
+J.-M. Frahm, P. Georgel, D. Gallup, T. Johnson, R. Raguram, C. Wu, Y.-H. Jen, E. Dunn, B. Clipp, S. Lazebnik, and M. Pollefeys, ECCV 2010
+ Video
+
+
+Modeling and Recognition of Landmark Image Collections Using Iconic Scene Graphs
+X. Li, C. Wu, C. Zach, S. Lazebnik and J.-M. Frahm, ECCV 2008
+  IJCV 2011 article
+
+	
+Spatial Pyramid Matching
+Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories
+S. Lazebnik, C. Schmid, and J. Ponce, CVPR 2006
+ Slides, MATLAB code, scene category dataset
+ Winner of 2016 Longuet-Higgins Prize (2006, 2016)
+
+	
+Texture and Object Recognition Using Local Features
+Local Features and Kernels for Classification of Texture and Object Categories: A Comprehensive Study
+J. Zhang, M. Marszalek, S. Lazebnik, and C. Schmid, IJCV 2007
+
+
+A Sparse Texture Representation Using Local Affine Regions
+S. Lazebnik, C. Schmid, and J. Ponce, PAMI 2005
+ UIUC texture dataset
+
+
+	
+3D Object Modeling and Recognition in Images and Video
+Segmenting, Modeling, and Matching Video Clips Containing Multiple Moving Objects
+F. Rothganger, S. Lazebnik, C. Schmid, and J. Ponce, PAMI 2007
+
+
+3D Object Modeling and Recognition Using Local Affine-Invariant Image Descriptors and Multi-View Spatial Constraints
+F. Rothganger, S. Lazebnik, C. Schmid, and J. Ponce, IJCV 2006
+Personal
+I was born in Kiev, Ukraine. If you want to learn more about my birth date, you can read this essay I wrote in high school.
+My husband and scientific collaborator: Maxim Raginsky.
+I take photos from time to time. Check out my Flickr account.
+        
+Last updated December 18, 2023
+

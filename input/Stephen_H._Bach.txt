@@ -1,0 +1,80 @@
+Professor: Stephen H. Bach
+University: Brown University
+URL: https://cs.brown.edu/people/sbach
+Description: Stephen Bach
+
+Assistant Professor
+Computer Science Department
+Brown University, Providence, RI
+sbach@cs.brown.edu
+CIT 335
+
+  
+
+	
+
+Home | BATS | Projects | Publications | Teaching | CV
+
+My latest research is on improving the processes by which humans teach and instruct computers. That includes engineering training data, with methods like programmatic weak supervision, as well as learning to generalize from fewer examples, with methods like zero-shot and few-shot learning. Often, our group's methods focus on exploiting high-level, symbolic or otherwise semantically meaningful domain knowledge. Lately I'm particularly excited by the ways these directions intersect. Applications of our work include information extraction, image understanding, scientific discovery, and other areas of data science.
+
+News
+
+Bonito is released! Bonito is an open-source model for converting your unannotated data into instruction tuning data. More details in the paper!
+New pre-prints out on generating training data for low-resource languages and intrepretting CLIP by learning to prompt it!
+Our paper on follow-up prompting is accepted to ICLR 2024! We show that language models can be trained to produce discriminating information to aid vision-language models like CLIP based on what they find ambiguous.
+Our paper on probing the compositional capabilities of CLIP is accepted to EACL Findings 2024!
+Our work on GPT-4 and low-resource languages won the Best Paper Award at the NeurIPS Workshop on Socially Responsible Language Modelling Research (SoLaR) 2023!
+Our paper exploring strategies for using CLIP as a pseudolabeler for prompt tuning will appear at NeurIPS 2023!
+Our work on integrating large language models into weak supervision is accepted to the ACM/IMS Journal of Data Science!
+
+BATS
+
+I lead the BATS machine learning research group. In the tradition of groups like LINQS and DAGS, BATS stands for "Bach's Awesome Team of Students."
+
+Ph.D. Students
+Reza Esfandiarpoor
+Yeganeh Kordi
+Aidan LaBella
+Nihal Nayak
+Francisco Piedrahita-Velez (Co-advised with Michael Littman)
+Jasper Solt (Co-advised with Jonathan Pober)
+Zheng-Xin Yong
+Peilin Yu
+Max Zuo (Co-advised with Michael Littman)
+Post-Doc
+Cristina Menghini
+Master's and Undergrad Students
+Charlie Duong
+Sarah Liu
+Oliver Nan
+Kevin Scroggins
+Avi Trost
+Alumni (Role, Year, Next Position)
+Andy Delworth (Undergrad, 2023, Hive AI)
+Chace Hayhurst (Undergrad + Master's, 2023, MIT Lincoln Laboratory)
+Andrew Yuan (Undergrad, 2023, IMC Trading)
+Ross Briden (Undergrad, 2022, Affirm)
+George Hu (Undergrad, 2022, Master's at Stanford)
+Top Piriyakulkij (Undergrad, 2022, Ph.D. at Cornell)
+Gaurav Sharma (Master's, 2022, MathWorks)
+Tom Liu (Undergrad, 2022, Scale AI)
+Jessica Dai (Undergrad, 2021, Ph.D. at UC Berkeley)
+Tiffany Ding (Undergrad + Master's, 2021, Ph.D. at UC Berkeley)
+Amy Pu (Undergrad, 2021, Google)
+Dylan Sam (Undergrad, 2021, Ph.D. at Carnegie Mellon)
+Berkan Hiziroglu (Master's, 2020, Amazon)
+Angie Kim (Undergrad, 2020, The New York Times)
+Esteban Safranchik (Undergrad, 2020, Ph.D. at U. Washington)
+Projects
+	T0 is a family of large language models fine-tuned for zero-shot task generalization. In collaboration with many others in the BigScience Workshop, we showed that by fine-tuning T5 on many variations of prompts for supervised tasks, the resulting model could generalize to completely new tasks like natural language inference. All the models are publicly available, and T0++ is probably the best one to use for new tasks. We also built an IDE and repository for prompt development called PromptSource (ACL demo paper) that contains over 2,000 prompted tasks.
+	ZSL-KG is a framework for zero-shot learning with common sense knowledge graphs. ZSL-KG learns to identify classes described as nodes in a knowledge graph. We have applied it to both text and image tasks. ZSL-KG uses a novel graph neural network encoder called transformer graph convolutional network (TrGCN). TrGCN increases the expressivity of traditional inductive graph neural networks by using small transformers to aggregate nodes.
+	TAGLETS is a system for automatic semi-supervised learning with auxiliary data. It automatically exploits all available data, including labeled, unlabeled, and auxiliary data, for a given task to produce a single classifier. TAGLETS extracts relevant auxiliary data for training using SCADs, a database of auxiliary data aligned with concepts in ConceptNet, and passes all relevant data to an ensemble of user-specified modules, which are trained and distilled into a final classifier.
+	WISER is a framework for programmatic weak supervision in sequence-tagging domains liked named entity recognition. Users write tagging rules that tag sequence elements linking rules that guide how those elements should be grouped into coherent spans. We introduced this approach to avoid the common problem of "candidate generation," in which users first have to heuristically convert their problem from sequence tagging to classification. Now users can supervise the tagging process with rules directly!
+	Snorkel is a framework for creating noisy training labels for machine learning. It uses statistical methods to combine weak supervision sources like heuristic rules and task-related data sets, i.e., distant supervision, which are far less expensive to use than hand labeling data. With the resulting estimated labels, users can train many kinds of state-of-the-art models. Snorkel is used at numerous technology companies like Google, research labs, and agencies like the FDA.
+	Probabilistic soft logic is a formalism for building statistical models over relational data like knowledge bases and social networks. PSL programs define hinge-loss MRFs, a type of probabilistic graphical model that admits fast, convex optimization for MAP inference, which makes them very scalable. Researchers around the world have used PSL for bioinformatics, computational social science, natural language processing, information extraction, and computer vision.
+Teaching
+
+In spring semesters, I teach machine learning (CSCI 1420).
+
+In fall semesters, I usually teach a seminar on learning with limited labeled data (CSCI 2952-C).
+

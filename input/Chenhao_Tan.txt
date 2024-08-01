@@ -1,0 +1,56 @@
+Professor: Chenhao Tan
+University: University of Chicago
+URL: https://chenhaot.com/
+Description: Chenhao Tan
+谭 宸浩
+Home
+Papers
+Talks
+Courses
+Students
+Awards
+Misc
+Contact
+ Twitter
+
+I am an assistant professor at the Department of Computer Science and Data Science at the University of Chicago. I am also affiliated with the Harris School of Public Policy. I direct the Chicago Human+AI lab (CHAI) (). You can learn more about my life trajectory and find my official biography here.
+
+My research brings together social sciences and machine learning to develop the best AI for humans. Specifically, my work aims to enable effective human-AI interaction by
+
+Understanding human decision making through language. We analyze large amounts of textual data to unfold the connection between language and decisions in two directions. In one direction, we leverage natural experiments to understand how language shapes human decisions (e.g., what makes effective persuasion and language of bargaining). In the other direction, we examine explanations of human decisions to identify their biases.
+
+Generating human-centered explanations. Our work shows that current methods of generating explanations for AI predictions fail to improve human-AI decision making. We develop a novel theoretical framework to show that the missing link is to model human interpretation of AI explanations. We thus build algorithms to align AI explanations with human intuitions and demonstrate substantial improvements in human performance.
+
+Developing novel paradigms of human-AI interaction. We explore additional possibilities that humans and AI can complement each other in three directions: 1) appropriate and effective delegation to AI; 2) decision-focused summarization, a novel formulation of the classic NLP task to identify the most relevant information to support decision making; and 3) few-shot learning from human explanations so that humans can effectively improve large language models (LLMs).
+
+I am also broadly interested in human-centered AI, natural language processing, and computational social science. Here is my CV.
+
+Selected recent work:
+
+Yangqiaoyu Zhou, Haokun Liu, Tejes Srivastava, Hongyuan Mei, and Chenhao Tan. Hypothesis Generation with Large Language Models.
+Chacha Chen, Shi Feng, Amit Sharma, and Chenhao Tan. Machine Explanations and Human Understanding. Accepted at Transactions on Machine Learning Research (TMLR); presented at FAccT 2023; Best paper award at the ICML 2022 Workshop on Human-Machine Collaboration and Teaming (workshop version).
+Han Liu, Yizhou Tian, Chacha Chen, Shi Feng, Yuxin Chen, and Chenhao Tan. Learning Human-Compatible Representations for Case-Based Decision Support. In Proceedings of ICLR 2023.
+
+Openings:
+
+As of fall 2023, you can apply to work with me through
+
+the UChicago Computer Science PhD program,
+the UChicago Data Science PhD program (the first ever cohort!),
+the Data Science Instituite Postdoctoral program (If you applied to the DSI postdoc program and mentioned me as an advisor, please send me an email because I can potentially support you with my own funding).
+
+I also have a postdoc opening on human-centered AI that can start any time. Please email me your CV and names of references. I am particularly open to students who have background in medicine and policy (e.g., MD/PhD and PhD students in economics). I am always looking for motivated masters and undergraduate students who are interested in human-centered AI, NLP, and computational social science. Please read this FAQ before contacting me.
+
+Demo systems:
+
+Task delegability, should AI be used for X?
+Reddit genealogy, visualizing the genealogy between Reddit communities.
+retweetedmore, predicting which tweet is going to be retweeted more.
+
+If you want to learn more about my research, check my papers. And kudos to all my collaborators!
+
+Updated on 01/08/2024
+© Chenhao Tan · Powered by pelican-bootstrap3, Pelican, Bootstrap, Gumby
+
+ Back to top
+

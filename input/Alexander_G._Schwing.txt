@@ -1,0 +1,431 @@
+Professor: Alexander G. Schwing
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://www.alexander-schwing.de/
+Description: About
+Recent Research
+People
+Acknowledgements
+Teaching
+Publications
+Alexander Schwing
+Associate Professor
+Department of Electrical and Computer Engineering
+Department of Computer Science
+Coordinated Science Laboratory
+University of Illinois at Urbana-Champaign
+
+Office: CSL 103
+eMail:
+ @alexschwing
+Short Bio
+Alex's research is centered around machine learning and computer vision. He is particularly interested in algorithms for prediction with and learning of non-linear (deep nets), multivariate and structured distributions, and their application in numerous tasks, e.g., for 3D scene understanding from a single image.
+
+Alex Schwing is an Associate Professor in the Department of Electrical and Computer Engineering at the University of Illinois in Urbana-Champaign and affiliated with the Coordinated Science Laboratory and the Computer Science Department. Prior to that he was a postdoctoral fellow in the Machine Learning Group at University of Toronto collaborating with Raquel Urtasun, Rich Zemel and Ruslan Salakhutdinov. He completed his PhD in computer science in the Computer Vision and Geometry Group at ETH Zurich working with Marc Pollefeys, Tamir Hazan and Raquel Urtasun, and graduated from Technical University of Munich (TUM) with a diploma in Electrical Engineering and Information Technology.
+Recent Research (in layman's terms)
+Here are some of the recent research projects that I was working on with an amazing set of students. We conduct reproducible and open research and release code whenever possible.
+Amodal Video Object Segmentation
+We want to understand objects in their entirety despite occlusions. Check out our new dataset. More... 
+Stable Generative Modeling
+We develop and study generative modeling techniques and their stability. More... 
+Collaborative Embodied Agents
+We develop algorithms that enable multiple agents to collaborate in visual environments. More...
+Learning to Anticipate
+We develop algorithms to better anticipate what may happen in a scene a few seconds from the given observation. More... 
+Structured Prediction
+We devise novel algorithms and models which learn and exploit correlations when jointly predicting multiple variables. More... 
+Supervised & Unsupervised Video Object Segmentation
+We develop fast supervised and unsupervised video object segmentation methods. More...
+Diversity in Vision-Language Models
+We think there is no single best description. How can we adequately capture and model ambiguity in vision-language models? More... 
+Multi-agent Reinforcement Learning
+We develop algorithms for efficient practical multi-agent reinforcement learning. More... 
+People
+This research wouldn't be possible without an amazing set of team members and collaborators. I'm extremely grateful and thankful for their support.
+
+Bowen Cheng
+ 
+
+Colin Graber
+  
+
+Harsh Agrawal
+ 
+
+Iou-Jen Liu
+ 
+
+Kai Yan
+  
+
+Rex Cheng
+ 
+
+Unnat Jain
+ 
+
+Xiaoming Zhao
+ 
+
+Xiaoyang Bai
+
+
+Yuan-Ting Hu
+
+
+Zhenggang Tang
+ 
+
+Zhongzheng Ren
+ 
+
+Former team members and collaborators: Aditya Deshpande (Amazon - ), Idan Schwartz (Microsoft - ), Ishan Deshpande (Vicarious - ), Jyoti Aneja (Microsoft - ), Kexin Hui (), Liwei Wang (Tencent - ), Medhini Narasimhan (UC Berkeley - ), Moitreya Chatterjee (UIUC - ), Raymond Yeh (TTIC -> Purdue University - ), Safa Messaoud (), Tanmay Gupta (AI2 - ), Youjie Li (UIUC - ), Ziyu Zhang (Startup - )
+Acknowledgements
+This research also wouldn't be possible without funding and support from many people in the research community. Thank you so much.
+The National Science Foundation (NSF IIS RI) and the panel for supporting our research with a CAREER Award
+UIUC for a College of Engineering Dean's Award for Research by an Assistant Professor
+Samsung SAIT for supporting our research in 2020
+The National Science Foundation and the National Institute for Food and Agriculture for supporting the AIFARMS National AI Institute
+The National Science Foundation (NSF IIS RI) and the panel for supporting our research
+3M for supporting our work with a Non-Tenured Faculty Award 2020
+IJCAI-PRICAI for awarding an early career spotlight in 2020
+Cisco Systems for supporting our research in 2020
+Amazon for supporting our research with an Amazon Research Award 2019
+Samsung SAIT for supporting our research in 2019
+3M for supporting our work with a Non-Tenured Faculty Award 2019
+Cisco Systems for supporting our research in 2019
+Adobe for supporting our research in 2019
+The 2019 UIUC fellowship committee for recognizing Yuan-Ting Hu with the Yi-Min Wang and Pi-Yu Chung Endowed Research Award
+The 2019 CSL student conference organization for recognizing Unnat Jain's talk with the best student presentation award
+Samsung for supporting our research in 2019
+The 2018 Google PhD Fellowship Committee for awarding Raymond Yeh
+The UIUC Scholarship Committee 2018 for choosing Medhini Narasimhan as a Siebel scholar
+The NIPS foundation for awarding Medhini Narasimhan and Youjie Li with a NIPS 2018 travel grant
+The SNAP 2018 fellowship committee for awarding Medhini Narasimhan and Harsh Agrawal
+Samsung SAIT for supporting our research 2018
+3M for supporting our work with a Non-Tenured Faculty Award 2018
+Samsung for supporting our research in 2018
+The UIUC College of Engineering for supporting our research
+All fall 2017 ECE 544 students for putting the new class on the excellent teacher list
+The NIPS foundation for awarding Yuan-Ting Hu with a NIPS 2017 travel grant
+The UIUC Scholarship Committee 2017 for choosing Unnat Jain as a Siebel scholar
+The National Science Foundation (NSF IIS RI) and the panel for supporting our research
+The CVPR 2017 area chairs supporting our CVPR 2017 reviewer award
+All spring 2017 ECE 547 students for putting the new class on the excellent teacher list
+The 2017 CSL student conference organization for recognizing Yuan-Ting Hu's talk with the best student presentation award
+NVIDIA Corp. donating a Titan X for our research
+The NIPS foundation for providing a NIPS 2015 travel grant
+The anonymous ICML area chairs supporting my ICML 2015 reviewer award
+Re.Work providing the opportunity to talk at the Deep Learning Summit:
+
+
+
+
+The CVPR 2015 organization committee for granting the CVPR 2015 Young Researcher Support
+My thesis Committee, external referees and ETH Zurich for awarding my PhD thesis with an ETH medal
+The NIPS foundation for providing a NIPS 2014 travel grant
+The Fields Institute for awarding a Fields Postdoctoral Fellowship
+NVIDIA Corp. donating a Tesla K40 GPU for our research
+Teaching
+University of Illinois
+Fall 2021: Pattern Recognition (ECE 544)/Programming Methods for Machine Learning (ECE 398)
+Spring 2021: Machine Learning (CS 446/ECE 449)
+Fall 2020: Pattern Recognition (ECE 544)
+Spring 2020: Machine Learning (CS 446/ECE 449)
+Fall 2019: Pattern Recognition (ECE 544)
+Spring 2019: Machine Learning (CS 446/ECE 449)
+Fall 2018: Pattern Recognition (ECE 544)
+Spring 2018: Machine Learning (CS 446/ECE 449)
+Fall 2017: Pattern Recognition (ECE 544)
+Spring 2017: Topics in Image Processing (ECE 547/CSE 543)
+Fall 2016: Programming and Systems (ECE 220)
+University of Toronto (PostDoc)
+Winter 2016: Gaussian Processes (Guest Lecture in: Probabilistic Graphical Models)
+Fall 2015: Structured Prediction (Guest Lecture in: Intro to Machine Learning)
+Fall 2015: Neural Networks (Guest Lecture in: Intro to Image Understanding)
+Winter 2015: Deep Learning and Structured Prediction (Guest Lecture in: Intro to Machine Learning)
+Winter 2015: Continuous Latent Variable Models (Guest Lecture in: Intro to Machine Learning)
+Fall 2014: All you wanted to know about Neural Networks (Guest Lecture in: Intro to Image Understanding)
+ETH Zurich (PhD student)
+Fall 2010: Linear Algebra for Computer Science (Tutorial)
+Spring 2010: Computer Science 1 - D-MaVt (Tutorial)
+TU Munich (Diploma studies)
+Fall 2007: Digital Signal Processing (Lab)
+Fall 2007: Theory of Electromagnetic Fields 1 (Tutorial)
+Spring 2006: Circuit Theory 2 (Tutorial)
+Fall 2005: Circuit Theory 1 (Tutorial)
+Fall 2005: Principles of Electricity (Tutorial)
+Spring 2005: Circuit Theory 2 (Tutorial)
+Fall 2004: Circuit Theory 1 (Tutorial)
+Other
+ICCV 2015 Tutorial on Learning Deep Structured Models
+Publications
+K. Yan, A.G. Schwing, Y. Wang; Offline Imitation from Observation via Primal Wasserstein State Occupancy Matching; ICML; 2024
+  
+H.K. Cheng, S.W. Oh, B.L. Price, J.-Y. Lee, A.G. Schwing; Putting the Object Back Into Video Object Segmentation; CVPR; 2024
+  
+Z. Tang, Z. Ren, X. Zhao, B. Wen, J. Tremblay, S. Birchfield, A.G. Schwing; NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows; CVPR; 2024
+  
+J. Wen, X. Zhao, Z. Ren, A.G. Schwing, S. Wang; GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh; CVPR; 2024
+  
+X. Zhao, A. Colburn, F. Ma, M.A. Bautista, J.M. Susskind, A.G. Schwing; Pseudo-Generalized Dynamic View synthesis from a Video; ICLR; 2024
+  
+S. Ghaffari, E. Saleh, A.G. Schwing, Y. Wang, M.D. Burke, S. Sinha; Robust Model-Based Optimization for Challenging Fitness Landscapes; ICLR; 2024
+  
+G. Lorberbom, I. Gat, Y. Adi, A.G. Schwing, T. Hazan; Layer Collaboration in the Forward-Forward Algorithm; AAAI; 2024
+ 
+K. Yan, A.G. Schwing, Y. Wang; A Simple Solution for Offline Imitation from Observations and Examples with Possibly Incomplete Trajectories; Neural Information Processing Systems (NeurIPS); 2023
+  
+H.K. Cheng, S.W. Oh, B. Price, A.G. Schwing, J.-Y. Lee; Tracking Anything with Decoupled Video Segmentation; ICCV; 2023
+  
+Y.-T. Hu, A.G. Schwing, R.A. Yeh; Surface Snapping Optimization Layer for Single Image Object Shape Reconstruction; ICML; 2023
+  
+Y.-C. Cheng, H.-Y. Lee, S. Tulyakov, A.G. Schwing, L. Gui; SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation; CVPR; 2023
+  
+A. Choudhuri, G. Chowdhary, A.G. Schwing; Context-Aware Relative Object Queries to Unify Video Instance and Panoptic Segmentation; CVPR; 2023
+  
+C. Ziwen, K. Patnaik, S. Zhai, A. Wan, Z. Ren, A.~G. Schwing, A. Colburn, L. Fuxin; AutoFocusFormer: Image Segmentation off the Grid; CVPR; 2023
+  
+F. Wang, M. Li, X. Lin, H. Lv, A.G. Schwing, H. Ji; Learning to Decompose Visual Features with Latent Textual Prompts; ICLR; 2023
+ 
+P. Zhuang, S. Abnar, J. Gu, A.G. Schwing, J.M. Susskind, M.A. Bautista; Diffusion Probabilistic Fields; ICLR; 2023
+ 
+X. Zhao, Y.-T. Hu, Z. Ren, A.G. Schwing; Occupancy Planes for Single-view RGB-D Human Reconstruction; AAAI; 2023
+  
+T. Fang, R. Sun, A.G. Schwing; DigGAN: Discriminator gradIent Gap Regularization for GAN Training with Limited Data; Neural Information Processing Systems (NeurIPS); 2022
+  
+K. Yan, A.G. Schwing, Y. Wang; CEIP: Combining Explicit and Implicit Priors for Reinforcement Learning with Demonstrations; Neural Information Processing Systems (NeurIPS); 2022
+  
+I. Gat, Y. Adi, A.G. Schwing, T. Hazan; On the Importance of Gradient Norm in PAC-Bayesian Bounds; Neural Information Processing Systems (NeurIPS); 2022
+ 
+R.A.R. Gomez, T.-Y. Lim, A.G. Schwing, M. Do, R. Yeh; Learnable Polyphase Sampling for Shift Invariant and Equivariant Convolutional Networks; Neural Information Processing Systems (NeurIPS); 2022
+  
+X. Zhao, F. Ma, D. Güera, Z. Ren, A.G. Schwing, A. Colburn; Generative Multiplane Images: Making a 2D GAN 3D-Aware; European Conference on Computer Vision (ECCV); 2022
+   (oral)
+H.K. Cheng and A.G. Schwing; XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model; European Conference on Computer Vision (ECCV); 2022
+  
+X. Zhao, Z. Zhao and A.G. Schwing; Initialization and Alignment for Adversarial Texture Optimization; European Conference on Computer Vision (ECCV); 2022
+  
+I.-J. Liu*, X. Yuan*, M.-A. Côté*, P.-Y. Oudeyer, A.G. Schwing; Asking for Knowledge (AFK): Training RL Agents to Query External Knowledge Using Language; Int.'l Conf. on Machine Learning (ICML); 2022
+   (*equal contribution)
+C. Graber, C. Jazra, W. Luo, L. Gui, A.G. Schwing; Joint Forecasting of Panoptic Segmentations with Difference Attention; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2022
+   (oral)
+B. Cheng, I. Misra, A.G. Schwing, A. Kirillov, R. Girdhar; Masked-attention Mask Transformer for Universal Image Segmentation; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2022
+  
+Z. Ren, A. Agarwala, B. Russell, A.G. Schwing, O. Wang; Neural Volumetric Object Selection; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2022
+  
+R. Yeh, Y.-T. Hu, Z. Ren, A.G. Schwing; Total Variation Optimization Layers for Computer Vision; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2022
+  
+R. Yeh, Y.-T. Hu, M. Hasegawa-Johnson, A.G. Schwing; Equivariance Discovery by Learned Parameter-Sharing; Int.'l Conf. on Artificial Intelligence and Statistics (AISTATS); 2022
+  
+R.G. Reddy, X. Rui, M. Li, X. Li, H. Wen, J. Cho, L. Huang, M. Bansal, A. Sil, S.-F. Chang, A.~G. Schwing, H. Ji; MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding; AAAI; 2022
+  
+B. Cheng, A.G. Schwing, A. Kirillov; Per-pixel Segmentation is NOT all you need for Semantic Segmentation; Neural Information Processing Systems (NeurIPS); 2021
+   (spotlight)
+Z. Ren*, X. Zhao*, A.G. Schwing; Class-agnostic Reconstruction of Dynamic Objects From Videos; Neural Information Processing Systems (NeurIPS); 2021
+   (*equal contribution)
+I. Gat, I. Schwartz, A.G. Schwing; Perceptual Score: What Data Modalities does your Model Perceive?; Neural Information Processing Systems (NeurIPS); 2021
+  
+J. Aneja, A.G. Schwing, J. Kautz, A. Vahdat; A Contrastive Learning Approach for Training Variational Autoencoder Priors; Neural Information Processing Systems (NeurIPS); 2021
+ 
+L. Weihs*, U. Jain*, I.-J. Liu, J. Salvador, S. Lazebnik, A. Kembhavi, A.G. Schwing; Bridging the Imitation Gap by Adaptive Insubordination; Neural Information Processing Systems (NeurIPS); 2021
+   (*equal contribution)
+A. Choudhuri, G. Chowdhary, A.G. Schwing; Assignment-Space-Based Multi-Object Tracking and Segmentation; Int.'l Conf. on Computer Vision (ICCV); 2021
+ 
+X. Zhao, H. Agrawal, D. Batra, A.G. Schwing; The Surprising Effectiveness of Visual Odometry Techniques for Embodied PointGoal Navigation; Int.'l Conf. on Computer Vision (ICCV); 2021
+  
+U. Jain, I.-J. Liu, S. Lazebnik, A. Kembhavi, L. Weihs, A.G. Schwing; GridToPix: Training Embodied Agents With Minimal Supervision; Int.'l Conf. on Computer Vision (ICCV); 2021
+  
+S. Patel*, S. Wani*, U. Jain*, A.G. Schwing, S. Lazebnik, M. Savva, A.X. Chang; Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents; Int.'l Conf. on Computer Vision (ICCV); 2021
+  (*equal contribution)
+I.-J. Liu, Z. Ren, R. Yeh, A.G. Schwing; Semantic Tracklets: An Object-Centric Representation for Visual Multi-Agent Reinforcement Learning; IEEE/RSJ Int.'l Conf. on Intelligent Robots and Systems (IROS); 2021
+  
+I.-J. Liu, U. Jain, R. Yeh, A.G. Schwing; Cooperative Exploration for Multi-Agent Deep Reinforcement Learning; Int.'l Conf. on Machine Learning (ICML); 2021
+   
+Y.-T. Hu, J. Wang, R.A. Yeh, A.G. Schwing; SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2021
+   (oral)
+C. Graber, G. Tsai, M. Firman, G. Brostow, A.G. Schwing; Panoptic Segmentation Forecasting; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2021
+  
+Z. Ren, I. Misra, A.G. Schwing, R. Girdhar; 3D Spatial Recognition without Spatially Labeled 3D; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2021
+  
+S. Messaoud, I. Lourentzou, A. Boughoula, M. Zehni, Z. Zhao, C. Zhai, A.G. Schwing; DeepQAMVS: Query-Aware Hierarchical Pointer Networks for Multi-Video Summarization; ACM SIGIR; 2021
+ 
+P. Zhuang, O. Koyejo, A.G. Schwing; Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation; Int.'l Conf. on Learning Representations (ICLR); 2021
+ 
+R. Sun, T. Fang, A.G. Schwing; Towards a Better Global Loss Landscape of GANs; Neural Information Processing Systems (NeurIPS); 2020
+   (oral)
+Z. Ren*, R. Yeh*, A.G. Schwing; Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning; Neural Information Processing Systems (NeurIPS); 2020
+  (*equal contribution)
+I.-J. Liu, R. Yeh, A.G. Schwing; High-Throughput Synchronous Deep RL; Neural Information Processing Systems (NeurIPS); 2020
+  
+I. Gat, I. Schwartz, A.G. Schwing, T. Hazan; Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies; Neural Information Processing Systems (NeurIPS); 2020
+ 
+U. Jain*, L. Weihs*, E. Kolve, A. Farhadi, S. Lazebnik, A. Kembhavi and A.G. Schwing; A Cordial Sync: Going Beyond Marginal Policies For Multi-Agent Embodied Tasks; European Conference on Computer Vision (ECCV); 2020
+   (*equal contribution)(spotlight)
+Y.-T. Hu, H. Wang, N. Ballas, K. Grauman and A.G. Schwing; Proposal-based Video Completion; European Conference on Computer Vision (ECCV); 2020
+ 
+Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, A.G. Schwing and J. Kautz; UFO$^2$: A Unified Framework Towards Omni-supervised Object Detection; European Conference on Computer Vision (ECCV); 2020
+  
+Y. Kant, D. Batra, P. Anderson, A.G. Schwing, D. Parikh, J. Lu and H. Agrawal; Spatially Aware Multimodal Transformers for TextVQA; European Conference on Computer Vision (ECCV); 2020
+ 
+S. Messaoud, M. Kumar and A.G. Schwing; Can We Learn Heuristics for Graphical Model Inference Using Reinforcement Learning?; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2020
+  (oral)
+C. Graber and A.G. Schwing; Dynamic Neural Relational Inference; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2020
+  
+Z. Ren, Z. Yu, X. Yang, M.-Y. Liu, Y.J. Lee, A.G. Schwing and J. Kautz; Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2020
+  
+M.T. Chiu, X. Xu, Y. Wei, Z. Huang, A.G. Schwing, R. Brunner, H. Khachatrian, H. Karapetyan, I. Dozier, G. Rose, D. Wilson, A. Tudor, N. Hovakimyan, T.S. Huang and H. Shi; Agriculture-Vision: A Large Aerial Image Database for Agricultural Pattern Analysis; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2020
+  
+C. Graber and A.G. Schwing; Graph Structured Prediction Energy Networks; Neural Information Processing Systems (NeurIPS); 2019
+  
+T. Fang and A.G. Schwing; Co-Generation with GANs using AIS based HMC; Neural Information Processing Systems (NeurIPS); 2019
+  
+R.A. Yeh*, Y.-T. Hu* and A.G. Schwing; Chirality Nets for Human Pose Regression; Neural Information Processing Systems (NeurIPS); 2019
+   (*equal contribution)
+J. Lin, U. Jain and A.G. Schwing; TAB-VCR: Tags and Attributes based VCR Baselines; Neural Information Processing Systems (NeurIPS); 2019
+  
+J. Aneja*, H. Agrawal*, D. Batra and A.G. Schwing; Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning; Int.'l Conf. on Computer Vision (ICCV); 2019
+  (*equal contribution)
+T. Gupta, A.G. Schwing and D. Hoiem; ViCo: Word Embeddings from Visual Co-occurrences; Int.'l Conf. on Computer Vision (ICCV); 2019
+  
+T. Gupta, A.G. Schwing and D. Hoiem; No-Frills Human-Object Interaction Detection: Factorization, Layout Encodings, and Training Techniques; Int.'l Conf. on Computer Vision (ICCV); 2019
+  
+I.-J. Liu*, R. Yeh* and A.G. Schwing; PIC: Permutation Invariant Critic for Multi-Agent Deep Reinforcement Learning; Conf. on Robot Learning (CORL); 2019
+   (*equal contribution)
+I. Deshpande, Y.-T. Hu, R. Sun, A. Pyrros, N. Siddiqui, S. Koyejo, Z. Zhao, D. Forsyth and A.G. Schwing; Max-Sliced Wasserstein Distance and its use for GANs; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+   (oral)
+U. Jain*, L. Weihs*, E. Kolve, M. Rastegrari, S. Lazebnik, A. Farhadi, A.G. Schwing and A. Kembhavi; Two Body Problem: Collaborative Visual Task Completion; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+  (*equal contribution)(oral)
+R. Yeh, A.G. Schwing, J. Huang and K. Murphy; Diverse Generation for Multi-agent Sports Games; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+ 
+A. Deshpande*, J. Aneja*, L. Wang, A.G. Schwing and D. Forsyth; Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+  (*equal contribution)(oral)
+Y.-T. Hu, H.-S. Chen, K. Hui, J.-B. Huang and A.G. Schwing; SAIL-VOS: Semantic Amodal Instance Level Video Object Segmentation - A Synthetic Dataset and Baselines; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+  
+I. Schwartz, S. Yu, T. Hazan and A.G. Schwing; Factor Graph Attention; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+ 
+I. Schwartz, A.G. Schwing and T. Hazan; A Simple Baseline for Audio-Visual Scene-Aware Dialog; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2019
+ 
+I.-J. Liu, J. Peng and A.G. Schwing; Knowledge Flow: Improve Upon your Teachers; Int.'l Conf. on Learning Representations (ICLR); 2019
+ 
+Y. Li, I.-J. Liu, D. Chen, A.G. Schwing and J. Huang; Accelerating Distributed Reinforcement Learning with In-Switch Computing; Int.'l Symposium on Computer Architecture (ISCA); 2019
+P. Zhuang, A.G. Schwing and S. Kojeyo; fMRI Data Augmentation via Synthesis; IEEE Int.'l Symposium on Biomedical Imaging (ISBI); 2019
+C. Graber, O. Meshi and A.G. Schwing; Deep Structured Prediction with Nonlinear Output Transformations; Neural Information Processing Systems (NeurIPS); 2018
+ 
+M. Narasimhan, S. Lazebnik and A.G. Schwing; Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering; Neural Information Processing Systems (NeurIPS); 2018
+ 
+Y. Li, M. Yu, S. Li, S. Avestimehr, N.S. Kim and A.G. Schwing; Pipe-SGD: A Decentralized Pipelined SGD Framework for Distributed Deep Net Training; Neural Information Processing Systems (NeurIPS); 2018
+ 
+M. Yu, Z. Lin, K. Narra, S. Li, Y. Li, N.S. Kim, A.G. Schwing, M. Annavaram and S. Avestimehr; GradiVeQ: Vector Quantization for Bandwidth-Efficient Gradient Aggregation in Distributed CNN Training; Neural Information Processing Systems (NeurIPS); 2018
+ 
+Y. Li, J. Park, M. Alian, Y. Yuan, Q. Zheng, P. Pan, R. Wang, A.G. Schwing, H. Esmaeilzadeh and N.S. Kim; A network-centric hardware/algorithm co-design to accelerate distributed training of deep neural networks; IEEE/ACM Int.'l Symposium on Microarchitecture (MICRO); 2018
+ 
+M. Narasimhan and A.G. Schwing; Straight to the Facts: Learning Knowledge Base Retrieval for Factual Visual Question Answering; European Conference on Computer Vision (ECCV); 2018
+ 
+M. Chatterjee and A.G. Schwing; Diverse and Coherent Paragraph Generation from Images; European Conference on Computer Vision (ECCV); 2018
+ 
+Y.-T. Hu, J.-B. Huang and A.G. Schwing; VideoMatch: Matching based Video Object Segmentation; European Conference on Computer Vision (ECCV); 2018
+ 
+Y.-T. Hu, J.-B. Huang and A.G. Schwing; Unsupervised Video Object Segmentation using Motion Saliency-Guided Spatio-Temporal Propagation; European Conference on Computer Vision (ECCV); 2018
+ 
+S. Messaoud, D. Forsyth and A.G. Schwing; Structural Consistency and Controllability for Diverse Colorization; European Conference on Computer Vision (ECCV); 2018
+ 
+I. Deshpande, Z. Zhang and A.G. Schwing; Generative Modeling using the Sliced Wasserstein Distance; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2018
+ 
+J. Aneja, A. Deshpande and A.G. Schwing; Convolutional Image Captioning; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2018
+  
+U. Jain, S. Lazebnik and A.G. Schwing; Two can play this Game: Visual Dialog with Discriminative Question Generation and Answering; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2018
+ 
+R.A. Yeh, M. Do and A.G. Schwing; Unsupervised Textual Grounding: Linking Words to Image Concepts; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2018
+  (spotlight)
+R.A. Yeh, J. Xiong, W.-M. Hwu, M. Do and A.G. Schwing; Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts; Neural Information Processing Systems (NIPS); 2017
+  (oral)
+Y.-T. Hu, J.-B. Huang and A.G. Schwing; MaskRNN: Instance Level Video Object Segmentation; Neural Information Processing Systems (NIPS); 2017
+ 
+Y. Li, A.G. Schwing, K.-C. Wang and R. Zemel; Dualing GANs; Neural Information Processing Systems (NIPS); 2017
+ 
+O. Meshi and A.G. Schwing; Asynchronous Parallel Coordinate Minimization for MAP Inference; Neural Information Processing Systems (NIPS); 2017
+ 
+L. Wang, A.G. Schwing, and S. Lazebnik; Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space; Neural Information Processing Systems (NIPS); 2017
+ 
+I. Schwartz, A.G. Schwing and T. Hazan; High-Order Attention Models for Visual Question Answering; Neural Information Processing Systems (NIPS); 2017
+ 
+Y.-T. Hu and A.G. Schwing; An Elevator Pitch on Deep Learning; ACM GetMobile; 2017
+ 
+U. Jain*, Z. Zhang* and A.G. Schwing; Creativity: Generating Diverse Questions using Variational Autoencoders; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2017
+  (*equal contribution)(spotlight)
+R.A. Yeh*, C. Chen*, T.Y. Lim, A.G. Schwing, M. Hasegawa-Johnson, M.N. Do; Semantic Image Inpainting with Deep Generative Models; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2017
+  (*equal contribution)
+T. Käser, S. Klingler, A.G. Schwing and M. Gross; Dynamic Bayesian Networks for Student Modeling; Trans. on Learning Technologies; 2017
+ 
+F.S. He, Y. Liu, A.G. Schwing and J. Peng; Learning to Play in a Day: Faster Deep Reinforcement Learning by Optimality Tightening; Int.'l Conf. on Learning Representations (ICLR); 2017
+ 
+B. London* and A.G. Schwing*; Generative Adversarial Structured Networks; Neural Information Processing Systems (NIPS) Workshop on nAdversarial Training; 2016
+ (*equal contribution)
+Y. Tenzer, A.G. Schwing, K. Gimpel and T. Hazan; Constraints Based Convex Belief Propagation; Neural Information Processing Systems (NIPS); 2016
+ 
+R. Liao, A.G. Schwing, R. Zemel and R. Urtasun; Learning Deep Parsimonious Representations; Neural Information Processing Systems (NIPS); 2016
+ 
+B. Franke, J.-F. Plante, R. Roscher, E.A. Lee, C. Smyth, A. Hatefi, F. Chen, E. Gil, A.G. Schwing, A. Selvitella, M.M. Hoffman, R. Grosse, D. Hendricks and N. Reid; Statistical Inference, Learning and Models in Big Data; Int.'l Statistical Review; 2016
+ 
+Y. Song, A.G. Schwing, R. Zemel and R. Urtasun; Training Deep Neural Networks via Direct Loss Minimization; Int.'l Conf. on Machine Learning (ICML); 2016
+ 
+W. Luo, A.G. Schwing and R. Urtasun; Efficient Deep Learning for Stereo Matching; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2016
+ 
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Distributed Algorithms for Large Scale Learning and Inference in Graphical Models; Trans. on Pattern Analysis and Machine Intelligence (PAMI); accepted for publication;
+O. Meshi, M. Mahdavi and A.G. Schwing; Smooth and Strong: MAP Inference with Linear Convergence; Neural Information Processing Systems (NIPS); 2015
+ 
+Z. Zhang*, A.G. Schwing*, S. Fidler and R. Urtasun; Monocular Object Instance Segmentation and Depth Ordering with CNNs; Int.'l Conf. on Computer Vision (ICCV); 2015
+  (*equal contribution)
+L.-C. Chen*, A.G. Schwing*, A.L. Yuille and R. Urtasun; Learning Deep Structured Models; Int.'l Conf. on Machine Learning (ICML); 2015
+   (*equal contribution)
+C. Liu*, A.G. Schwing*, K. Kundu, R. Urtasun and S. Fidler; Rent3D: Floor-Plan Priors for Monocular Layout Estimation; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2015
+   (*equal contribution)
+J. Xu, A.G. Schwing and R. Urtasun; Learning to Segment under Various Forms of Weak Supervision; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2015
+  
+S. Wang, A.G. Schwing and R. Urtasun; Efficient Inference of Continuous Markov Random Fields with Polynomial Potentials; Neural Information Processing Systems (NIPS); 2014
+ 
+J. Zhang, A.G. Schwing and R. Urtasun; Message Passing Inference for Large Scale Graphical Models with High Order Potentials; Neural Information Processing Systems (NIPS); 2014
+ 
+F. Srajer, A.G. Schwing, M. Pollefeys and T. Pajdla; MatchBox: Indoor Image Matching via Box-like Scene Estimation; Int.'l Conf. on 3D Vision (3DV); 2014
+ 
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm; Int.'l Conf. on Machine Learning (ICML); 2014
+  
+A. Cohen, A.G. Schwing and M. Pollefeys; Efficient Structured Parsing of Facades Using Dynamic Programming; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2014
+ 
+J. Xu, A.G. Schwing and R. Urtasun; Tell Me What You See and I will Show You Where It Is; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2014
+ 
+T. Käser, S. Klingler, A.G. Schwing and M. Gross; Beyond Knowledge Tracing: Modeling Skill Topologies with Bayesian Networks; Int.'l Conf. on Intelligent Tutoring Systems (ITS); 2014
+   (Best paper award)
+T. Käser, A.G. Schwing, T. Hazan and M. Gross; Computational Education using Latent Structured Prediction; Int.'l Conf. on Artificial Intelligence and Statistics (AISTATS); 2014
+ 
+A.G. Schwing and Y. Zheng; Reliable Extraction of the Mid-Sagittal Plane in 3D Brain MRI via Hierarchical Landmark Detection; IEEE Int.'l Symposium on Biomedical Imaging (ISBI); 2014
+ 
+W. Luo, A.G. Schwing and R. Urtasun; Latent Structured Active Learning; Neural Information Processing Systems (NIPS); 2013
+ 
+J. Zhang, C. Kan, A.G. Schwing and R. Urtasun; Estimating the 3D Layout of Indoor Scenes and its Clutter from Depth Sensors; Int.'l Conf. on Computer Vision (ICCV); 2013
+ 
+A.G. Schwing, S. Fidler, M. Pollefeys and R. Urtasun; Box In the Box: Joint 3D Layout and Object Reasoning from Single Images; Int.'l Conf. on Computer Vision (ICCV); 2013
+  
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins; Neural Information Processing Systems (NIPS); 2012
+ 
+A.G. Schwing and R. Urtasun; Efficient Exact Inference for 3D Indoor Scene Understanding; European Conference on Computer Vision (ECCV); 2012
+  
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Distributed Structured Prediction for Big Data; Neural Information Processing Systems (NIPS) Workshop on Big Learning; 2012
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Efficient Structured Prediction with Latent Variables for General Graphical Models; Int.'l Conf. on Machine Learning (ICML); 2012
+    
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Large Scale Structured Prediction with Hidden Variables; Snowbird Workshop; 2011
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Efficient Structured Prediction for 3D Indoor Scene Understanding; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2012
+  
+A.G. Schwing, T. Hazan, M. Pollefeys and R. Urtasun; Distributed Message Passing for Large Scale Graphical Models; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2011
+   
+A.G. Schwing, C. Zach, Y. Zheng and M. Pollefeys; Adaptive Random Forest - How many ``experts'' to ask before making a decision?; IEEE Conf. on Computer Vision and Pattern Recognition (CVPR); 2011
+   
+M. Koch, A.G. Schwing, D. Comaniciu and M. Pollefeys; Fully Automatic Segmentation of Wrist Bones for Arthritis Patients; IEEE Int.'l Symposium on Biomedical Imaging (ISBI); 2011
+ 
+M. Sarkis, K. Diepold and A.G. Schwing; Enhancing the Motion Estimate in Bundle Adjustment Using Projective Newton-type Optimization on the Manifold; IS&T/SPIE Electronic Imaging - Image Processing: Machine Vision Applications II; 2009
+R. Hunger, D. Schmidt, M. Joham, A.G. Schwing, and W. Utschick; Design of Single-Group Multicasting-Beamformers; IEEE Int.'l Conf. on Communications (ICC); 2007
+Patent Applications
+A. Tsymbal, M. Kelm, M.J. Costa, S.K. Zhou, D. Comaniciu, Y. Zheng and A.G. Schwing; Image Processing Using Random Forest Classifiers; USPA 20120321174; Assignee: Siemens Corp.
+A.G. Schwing, Y. Zheng, M. Harder, and D. Comaniciu; Method and System for Anatomic Landmark Detection Using Constrained Marginal Space Learning and Geometric Inference; USPA 20100119137; Assignee: Siemens Corp.
+Copyright (c) 2008 - 2024, Alex Schwing
+

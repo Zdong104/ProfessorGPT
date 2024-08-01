@@ -1,0 +1,116 @@
+Professor: James F. Allen
+University: University of Rochester
+URL: http://www.cs.rochester.edu/~james
+Description:  
+
+ 
+
+James F. Allen
+
+b. 1950. Ph.D. (1979) University of Toronto. Assistant Professor (79-84), Associate Professor (84-87), Department Chair (87-90), Professor (87-present), John H. Dessauer Professor of Computer Science (92-present), University of Rochester; Senior Research Scientist (02-present), Associate Director (06-present), Florida Institute for Human and Machine Cognition; Editor-in-Chief, Computational Linguistics (83-93; Presidential Young Investigator (84-89); author of Natural Language Understanding, Benjamin Cummings (87), 2nd edition (1995); Reasoning About Plans, Morgan Kaufmann (91); co-editor of Readings in Planning, Morgan Kaufmann (90); Founding Fellow of the AAAI.
+
+My research interests span a range of issues covering natural language understanding, discourse, knowledge representation, common-sense reasoning and planning. I am particularly interested in the overlap between natural language understanding and reasoning. While most of the NLP field has moved to statistical learning methods as the paradigm for language processing, I believe that deep language understanding can only currently be achieved by significant hand-engineering of semantically-rich formalisms coupled with statistical preferences. For further discussion of this viewpoint, see the state of NLP . For a more general discussion of AI, see my keynote address from the 1998 AAAI National conference here . The TRIPS project is a long-term effort to build generic technology for dialogue systems (both spoken and 'chat' systems), which we have now pursued for over a decade. This includes broad
+-coverage domain-general natural language processing, dialogue agents built using models of collaborative problem solving, dynamic context-sensitive language modeling, and a rich engineering framework for building dialogue systems in new domains in short times. We can build robust spoken dialogue systems in significantly less time than it would take to collect and annotate a small starter corpora that would be needed for machine-learning driven approaches.
+
+Note, there is a fairly complete set of publications from my research group since 1990.
+
+A Generic Framework for Dialogue Systems
+
+Our research in discourse is focused on two-person extended dialogs in which the speakers have specific tasks to accomplish. An emphasis in this work on developing a theory of dialogue as a collaborative problem solving activity, where the current problem solving situation is used to solve problems in semantic interpretation and the recognition of the intentions underlying the speakers' utterances. Highlights of work in this area include the development of the first computational model of speech acts, the development of a multi-level plan-based analysis involving discourse, and the development of an overall architecture for dialogue systems driven by a collaborative problem solving agent. While it is important for work to be formally well-defined and understood, it is equally important that computational theories can lead to effective implementations. We have demonstrated and tested our models in a wide range of different applications. Most recently, we have been focusing on task/workflow learning systems in which the the system learns a task model from a dialogue with the user that includes a single demonstration of the task. By combining deep language understanding, reasoning, learning and dialog, we can learn robust task models in a matter of minutes. An overview of this work can be found in a paper PLOW that won the outstanding paper award at AAAI in 2007 (videos of PLOW are available here. More details on all our dialogue systems can be found on our projects page.
+
+Selected Publications in Dialogue-based Task Learning
+
+�       Allen, J. F., N. Chambers, et al. (2007). PLOW: A collaborative task learning agent. Named Best Paper, National Conference on Artificial Intelligence (AAAI). Vancouver, BC.
+
+�       Jung, H., J. F. Allen, et al. (2007). "Utilizing natural language for one-shot task learning." Logic and Computation 18(3): 475-493.
+
+�       Chambers, N., J. Allen, et al. (2006). Using Semantics to Identify Web Objects. 21st National Conference on Artificial Intelligence (AAAI-06), Boston, MA.[pdf]
+
+Work on Speech Act-based Dialogue Models
+
+�       Allen, J. F. and C. R. Perrault (1980). "Analyzing Intention in Utterances." Artificial Intelligence 15(3).
+
+�       Perrault, C. R. and J. F. Allen (1980). "A Plan-based Analysis of Indirect Speech Acts." Computational Linguistics 6(3): 167-182.
+
+�       Allen, J.F. and D.J. Litman. "Discourse Processing and Common sense Plans." in P.R. Cohen, J. Morgan, and M. Pollack, Intentions and Communication, MIT Press, 1990.
+
+�       Hinkelman, E. and J.F. Allen. ``Two Constraints on Speech Act Ambiguity.'' In Proc., 27th Meeting of the Assoc. for Computational Linguistics, 1989.
+
+�       Traum, D. and Allen, J.F. "Discourse Obligations in Dialogue Processing" Proc. 32nd Meeting of the Assoc. for Computational Linguistics, 1994.
+
+�       Peter Heeman and James Allen, Speech Repairs, Intonational Phrases and Discourse Markers: Modeling Speakers' Utterances in Spoken Dialog, Computational Linguistics, Vol. 25-4, 1999.
+
+Papers on Selected TRIPS-based Dialogue Systems
+
+�       Allen, J.F., B. Miller, E. Ringger and T. Sikorski A Robust System for Natural Spoken Dialogue, Proc. 34th Meeting of the Assoc. for Computational Linguistics, 1996.
+
+�       George Ferguson and James F. Allen, TRIPS: An Integrated Intelligent Problem-Solving Assistant, Proceedings of the Fifteenth National Conference on AI (AAAI-98), Madison, WI, 26--30 July, 1998
+
+�       Allen, J., Byron, D., Dzikovska, M., Ferguson, G., Galescu, L. and Stent, A., Towards a Generic Dialogue Shell, Natural Language Engineering,6(3) 2000. pp1-16
+
+�       James Allen, Donna Byron, Myroslava Dzikovska, George Ferguson, Lucian Galescu, and Amanda Stent, "Towards Conversational Human-Computer Interaction," AI Magazine, 2001.
+
+�       Allen, J. F. and G. Ferguson (2002). Human-Machine Collaborative Planning. 3rd Int'l. NASA Workshop on Planning and Scheduling for Space, Houston, TX.
+
+�       James Allen, George Ferguson, and Amanda Stent, "An architecture for more realistic conversational systems," in Proceedings of Intelligent User Interfaces 2001 (IUI-01), 1-8, Santa Fe, NM, January 14-17, 2001.
+
+�       Allen, J. F., N. Blaylock, et al. (2006). "Chester: Towards a personal medical advisor." Biomedical informatics 39(5): 500-513.
+
+�       Allen, J. F., N. Chambers, et al. (2007). PLOW: A collaborative task learning agent. Named Best Paper, National Conference on Artificial Intelligence (AAAI). Vancouver, BC
+
+Broad-coverage Deep Language Understanding
+
+For over a decade we have been developing a broad-coverage, domain general natural language parsing system. While it has been constructed in a application-driven manner, with extensions motivated by particular problems in practice, the grammar and lexicon are all designed to be domain-general. We have only one grammar and lexicon that is used is all our different applications. As a result, when we start a new project, we already have a sophisticated language processing system in place at the start of the project, and have no need to collect and anotate corpora in order to get a high performance system. The parser produces a rich semantic representation of sentences suitable for discourse reasonin such as reference resolution and intention recognition. The parser produces logical forms using a generic ontology (the LF ontology) and we have a set of ontology-mapping tools that allows us to map to the target ontology/representation of each application. Feel free to try out the TRIPS Parser. The basic ideas underlying the grammar and parser are best described in my book Natural Language Understanding, 2nd edition. Specific details on the actual system, its uses and evaluations, are found in the references below.
+
+Selected Publications on Deep Language Understanding
+
+�       Allen, J.F. Natural Language Understanding, Benjamin Cummings, 1987, Second Edition, 1994.
+
+�       Allen, J.F. ``Natural Language, Knowledge Representation and Logical Form.'' In M. Bates, R. Weischedel (eds.), Challenges in Natural Language Processing, Cambridge University Press, 1993.
+
+�       Swift, M. D., J. F. Allen, et al. (2004). Skeletons in the parser: Using a shallow parser to improve deep parsing. COLING '04, Geneva, Switzerland.
+
+�       Dzikovska, M., M. Swift, et al. (2005). Generic parsing for multi-domain semantic interpretation. International Workshop on Parsing Technologies (Iwpt05), Vancouver BC.
+
+�       Allen, J. F., M. Dzikovska, et al. (2007). Deep linguistic processing for spoken dialogue systems. Workshop on Deep Linguistic Processing, Association for Computational Linguistics. Prague
+
+�       Dzikovska, M., J. F. Allen, et al. (2007). "Linking Semantic and Knowledge Representation in a Multi-Domain Dialogue System." Logic and Computation 18(3): 405-430.
+
+�       Manshadi, M. H., J. F. Allen, et al. (2008). Towards a Universal Underspecified Semantic Representation. 13th Conf. on Formal Grammar. Hamburg, Germany
+
+�       Allen, J., M. Swift, et al. (2008). Deep Semantic Analysis of Text. Symposium on Semantics in Systems for Text Processing (STEP). Venice, Italy.
+
+Reasoning About Action and Time
+
+The research in plan reasoning draws much of its motivation from the dialog work. In particular, the representation of plans must support a wide range of different forms of reasoning: plan construction (i.e. traditional planning), plan recognition, plan evaluation, and the communication of plans between agents. Much of our work in this area has focused on the representation of time and action, and we have reformulated the planning problem as a problem in temporal reasoning. Within this framework, we have developed a representation of plans that is temporally explicit and supports plan construction, recognition and communication. We are also exploring methods of temporal reasoning that are viable even with large data sets of temporal information.
+
+Selected Publications on Temporal Reasoning
+
+�       Allen, J.F. ``Maintaining Knowledge about Temporal Intervals.'' Communications of the ACM 26, 11, 832-843, November 1983.
+
+�       Allen, J.F. ``A General Model of Action and Time.'' Artificial Intelligence 23, 2, July 1984.
+
+�       Allen, J.F. and P.J. Hayes. ``Moments and Points in an Interval-Based Temporal Logic.'' Computational Intelligence, January 1990.
+
+�       Allen, J.F. "Time and time again: The many ways to represent time" Int'l. Jr. of Intelligent Systems 6, 4, 341-356, July 1991. ps
+
+�       Allen, J.F. and Ferguson, G. Actions and Events in Interval Temporal Logic, J. Logic and Computation 4, 5, 1994.
+
+Selected Publications on Plan Reasoning
+
+�       Kautz, H. and Allen, J.F. "Generalized Plan Recognition" In Proc., Proc., AAAI Nat'l. Conf. on Artificial Intelligence, Philadelphia, PA, 1986
+
+�       Allen, J.F. Planning as Temporal Reasoning. In Proc., 2nd Principles of Knowledge Representation and Reasoning, Morgan Kaufmann, 1991.
+
+�       Allen, J. and J. A. Koomen (1983). Planning using a Temporal World Model. 8th Int'l. Joint Conference on Artificial Intelligence, Karlsruhe, Germany.
+
+�       Allen, J.F. et al. Reasoning About Plans, Morgan Kaufmann, 1991.
+
+�       Allen, J., N. Blaylock, et al. (2002). A Problem Solving Model for Collaborative Agents. 1st Int'l. Joint Conf. on Autonomous Agents and Multi-Agent Systems (AAMAS-02), Bologna, Italy, ACM Press.[PDF]
+
+�       Blaylock, N. and J. F. Allen (2006). Fast hierarchical goal schema recognition. 21st National Conference on Artificial Intelligence (AAAI-06), Boston.[pdf]
+
+Back to URCS Faculty directory
+
+Back to URCS Home Page
+

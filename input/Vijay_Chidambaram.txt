@@ -1,0 +1,248 @@
+Professor: Vijay Chidambaram
+University: University of Texas at Austin
+URL: http://www.cs.utexas.edu/~vijay
+Description: 	
+
+
+
+
+Vijay Chidambaram
+
+Associate Professor,
+Department of Computer Science,
+The University of Texas at Austin
+
+
+Office: GDC 6.436,
+2317 Speedway,
+Austin, TX 78712
+
+
+Email: vijayc@utexas.edu
+Mastodon
+CV  Calendar
+
+	
+
+
+
+I lead the UT Systems and Storage Lab. I am also a part of the LASR research group.
+
+Research. My group aims to help build the next generation of storage systems. This means building storage systems that have higher performance and stronger reliability. We build both storage systems and the tools need to develop such systems rigorously, such as testing frameworks. Our work involves innovation both at the data-structure level and at the systems level. We open-source all the software we build, and aim to have impact both inside academia and in industry.
+
+Student Recruiting: I am interested in recruiting one or more PhD students to work on problems at the intersection of systems, storage, and machine learning. I am not currently hiring Masters students. If you are interested in working with me, please check out my page for prospective students and send me an email (after reading this!). I do not look at GRE scores when recruiting students. Letters and research experience are the biggest factors for me. I generally interview students (remotely), and that is the strongest signal of whether I would work with them. Make sure to apply to the PhD program by the deadline (December 15).
+
+Recent major projects (See all projects here):
+
+LiPT. A framework to train ML models faster by identifying the crucial data items in the dataset and focussing on them. ICML 23. 
+
+Chipmunk. Tool to test whether persistent-memory file systems recover correctly from crashes. Eurosys 23. 
+Dinomo. Key-value store for disaggregated persistent memory. VLDB 23. 
+WineFS. Persistent-memory file system that maintains performance as it gets old and full. SOSP 21. 
+RainBlock. An IO-efficient public blockchain with 10x higher throughput than Ethereum. ATC 21. 
+MONet. Framework for reducing memory consumption of DNN training. ICLR 21. 
+SplitFS. File system for persistent memory which reduces software overhead. SOSP 2019. 
+RECIPE. Concurrent, crash-consistent persistent-memory indexes. SOSP 2019. 
+
+Current projects:
+
+Building a persistent-memory file system in Rust (Hayley LeBlanc)
+Making distributed training of ML models more efficient (Yeonju Ro)
+
+Recent impact:
+
+Meta uses ideas similar to CheckFreq (FAST 21) to checkpoint their large models during training.
+VMware is releasing SplinterDB (ATC 21) as an open-source key-value store!
+Crashmonkey-generated tests have been added to xfstests, the file-system test suite for the Linux kernel (msg, patch)
+Crashmonkey found 10 long-standing bugs in btrfs and F2FS in the Linux kernel.
+Crashmonkey found a bug in the FSCQ verified file system which caused the file system to not persist data on fdatasync. The bug was in the unverified part of the file system (Haskell-C bindings).
+
+The research in our group has been supported by the NSF, the BigHPC consortium, VMware, Google, and Meta.
+
+From 2016 to 2022, I was an Affiliated Researcher at VMware Research.
+
+Students
+Hayley LeBlanc (PhD)
+
+Yeonju Ro (PhD)
+
+	
+Alumni
+Se Kwon Lee (PhD ➔ HP Labs)
+
+Soujanya Ponnapalli (PhD ➔ Postdoc at UC Berkeley)
+
+Aashaka Shah (PhD ➔ Microsoft Research Redmond)
+
+Rohan Kadekodi (PhD ➔ Postdoc at UWashington Seattle)
+
+Sangamithra Goutam (Masters ➔ TACC)
+
+Om Saran (Masters ➔ Apple)
+
+Jayashree Mohan (PhD ➔ Microsoft Research India)
+
+Yige Hu (PhD, co-advised with Emmett Witchel ➔ Katana Graph)
+
+Supreeth Shastri (post-doc ➔ UIowa CS)
+
+Ashlie Martinez (undergrad ➔ UWashington-Seattle)
+
+Dhathri Purohith (Masters ➔ Nutanix)
+
+Pandian Raju (Masters ➔ Rubrik)
+
+Tianyu Cheng (Masters ➔ Apple)
+
+Teaching
+Spring 2024: Virtualization (CS 360V), Advanced OS (MSCS), Financial Literacy for CS students
+
+
+Fall 2023: Distributed Systems (CS 380D) on campus, Virtualization Online Masters course
+
+Full Teaching List
+
+News
+Aug 2023: UTCS and the Daily Texan wrote nice articles about our work on Chipmunk. Check them out: UTCS, Daily Texan.
+
+
+Aug 2023: I am back from sabbatical, and back to research and teaching at UT!
+
+
+Mar 2023: I wrote a book, The CS Assistant Professor Handbook, for new and aspiring assistant professors tht describes what the professor job is like. Take a look!
+
+Aug 2022: I will be on sabbatical at VMware Research in Fall 22, and EPFL in Spring 23.
+
+Sep 2021: I will be serving as one of the general co-chairs for SOSP 21.
+
+Mar 2021: I co-founded a new diamond open-access journal, the Journal of Systems Research. Check out this blog post explaining its goals and design.
+
+Jan 2021: Congratulations to my student SeKwon Lee for being awarded a 2021 Microsoft Research PhD Fellowship! This is the second student in my group to win this award, after Jayashree Mohan in 2019!
+
+Older News
+
+Recent Publications (All)
+
+SquirrelFS: using the Rust compiler to check file-system crash consistency
+Hayley LeBlanc, Nathan Taylor, James Bornholt, Vijay Chidambaram
+OSDI 24
+
+
+Lowering the Pre-training Tax for Gradient-based Subset Training: A Lightweight Distributed Pre-Training Toolkit
+Yeonju Ro, Zhangyang Wang, Vijay Chidambaram, Aditya Akella
+ICML 23
+PDF  Bibtex   
+
+
+DINOMO: An Elastic, Scalable, High-Performance Key-Value Store for Disaggregated Persistent Memory
+Se Kwon Lee, Soujanya Ponnapalli, Sharad Singhal, Marcos K. Aguilera, Kimberly Keeton, Vijay Chidambaram
+VLDB 23
+Also presented at the The Third Workshop On Resource Disaggregation and Serverless Computing (WORDS 22)
+PDF  Bibtex   
+
+
+Chipmunk: Investigating Crash-Consistency in Persistent-Memory File Systems
+Hayley LeBlanc, Shankara Pailoor, Om Saran, Işıl Dillig, James Bornholt, Vijay Chidambaram
+EuroSys 23
+PDF  Bibtex  Talks Slides   
+Best Paper Award
+
+
+TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches
+Aashaka Shah, Vijay Chidambaram, Meghan Cowan, Saeed Maleki, Madan Musuvathi, Todd Mytkowicz, Jacob Nelson, Olli Saarikivi, Rachee Singh
+NSDI 23
+PDF  Bibtex   
+
+
+Looking Beyond GPUs for DNN Scheduling on Multi-Tenant Clusters
+Jayashree Mohan, Amar Phanishayee, Janardhan Kulkarni, Vijay Chidambaram
+OSDI 22
+PDF  Bibtex  Talk slides   
+
+
+PAIO: General, Portable I/O Optimizations With Minor Application Modifications
+Ricardo Macedo, Yusuke Tanimura, Jason Haga, Vijay Chidambaram, José Pereira, João Paulo
+FAST 22
+PDF  Bibtex  Talk slides  Talk video   
+
+
+Full List of Publications   Google Scholar
+
+Blog Posts
+
+Should conferences have a rebuttal phase?
+SIGARCH Blog, SIGOPS Blog Apr 2022
+
+
+Why We Should Include One-Shot Revision in our Review Process
+SIGARCH Blog, SIGOPS Blog Dec 2020
+
+
+The Changing World of Storage
+SIGARCH Blog, March 2020
+
+
+Service
+Organizational Roles
+
+Editor-in-Chief and Co-Founder, Journal of Systems Research
+
+Co-PC Chair for SYSTOR 21 with Danny Raz
+
+Co-Publicity Chair for Eurosys 2021 with Boris Grot
+
+Co-Chair for SRDS 2020 Workshops with Joao Paulo
+
+Co-PC Chair for HotStorage 2020 with Anirudh Badam
+
+Organizing Artifact Evaluation at SOSP 2019 with Baris Kasikci and Supreeth Shastri
+
+Co-chair of the Poster Session for OSDI 2018 with Yiying Zhang
+
+Awards
+Best Paper Award at EuroSys 2023
+
+Best Paper Award at ATC 2018
+
+Best Paper Award at FAST 2018
+
+NSF CAREER Award 2018
+
+Best Poster Award at ApSys 2017
+
+Best Paper Award at FAST 2017
+
+ACM SIGOPS Dennis M. Ritchie Dissertation Award 2016
+
+Microsoft Research Graduate Fellowship 2014
+
+University of Wisconsin-Madison Alumni Scholarship 2009
+
+Awards won by members of research group
+Yeonju Ro: UT Austin College of Natural Sciences Dean's Strategic Fellowship 2021
+SeKwon Lee: Microsoft Research PhD Fellowship 2021
+
+Hayley LeBlanc: UT Austin College of Natural Sciences Dean's Strategic Fellowship 2020
+Jayashree Mohan: Microsoft Research PhD Fellowship 2019
+
+Ashlie Martinez: CRA Best Undergraduate Researcher 2018
+
+Ashlie Martinez: UT Austin Dean's Honored Graduate 2018
+
+Ashlie Martinez: UT Austin Aspire Research Excellence Award 2018
+
+Misc
+
+If you are a student considering grad school or applying for grad school, these links may be useful (advice on contacting profs, getting letters of recommendation, etc.)
+
+If you are aspiring to become a professor or will be on the job market soon, check out my book, The CS Assistant Professor Handbook. It describes what the prof job is like and talks about its various aspects.
+
+I run the Systems Slack, a forum for profs, students, post-docs, and industry to discuss ideas related to systems research and practice.
+
+I started and help maintain the Computer Science Research Tales (CSRTales) blog, where we present the backstories behind CS research projects. If you would like your project featured on the blog, please send me an email!
+
+I maintain the SOSP/OSDI Hall of Fame. This page indicates who has published the most at these premier venues, and who has been publishing recently. These are good guides for grad students trying to decide which professor to work with!
+
+
+
+

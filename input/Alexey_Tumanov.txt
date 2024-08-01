@@ -1,0 +1,406 @@
+Professor: Alexey Tumanov
+University: Georgia Institute of Technology
+URL: https://www.cc.gatech.edu/~atumanov
+Description: 
+
+Alexey Tumanov
+
+
+Assistant Professor
+School of Computer Science
+College of Computing
+Georgia Institute of Technology
+
+KACB 3346
+atumanov[at]gatech[dot]edu
+
+[Google Scholar] [arXiv] [DBLP] [GitHub] [Twitter] [ACM]
+
+Brief Bio
+
+I am a tenure-track Assistant Professor in the School of Computer Science at Georgia Tech since August 2019. I completed my postdoc at the University of California, Berkeley, working with Ion Stoica and collaborating closely with Joseph Gonzalez. I completed my Ph.D. at Carnegie Mellon University, advised by Gregory Ganger. At Carnegie Mellon, I was honored by the prestigious NSERC Alexander Graham Bell Canada Graduate Scholarship (NSERC CGS-D3) and partially funded by the Intel Science and Technology Centre for Cloud Computing and the Parallel Data Lab industry consortium. I came to Carnegie Mellon from the University of Toronto, where I worked with Eyal de Lara on agile stateful VM replication with para-virtualization. My interest in cloud computing, datacenter operating systems, and programming the cloud brought me to the University of Toronto from industry, where I had been developing cluster middleware for distributed datacenter resource management. I build novel distributed systems and contribute to open source. My earliest open source contributions were to Intel Cluster Ready Open Cluster Stack, where I was one of the key contributors.
+
+Research Synopsis
+
+My current research interest is in systems support and resource management for distributed machine learning frameworks and applications. Specifically, I am currently working on distributed systems and scheduling algorithms for soft-real time Machine Learning inference and co-scheduling ML inference and online training. This builds on the body of research and development at Carnegie Mellon modeling, designing, and developing abstractions, primitives, algorithms and systems for a general resource management framework with support for static and dynamic heterogeneity, hard and soft placement constraints, time-varying resource capacity guarantees, and combinatorial constraints in heterogeneous resource contexts. Cost- and latency-efficient resource management is fundamental to commoditizing Machine Learning.
+
+[ Back to top ]
+
+SAIL: Systems for Artificial Intelligence Lab @ GT
+
+CURRENT
+
+PhD Students
+Alind Khare : SCS PhD student
+Payman Behnam : ECE PhD student
+Amey Agrawal : SCS PhD student
+Debopam Sanyal : SCS PhD student
+Dhruv Garg : SCS PhD student, co-advised with Ada Gavrilovska
+Jin Heo : SCS PhD student, co-advised with Ada Gavrilovska
+
+
+Masters Students
+Aditya Annavajjala : MSCS GRA
+Animesh Agrawal : BSMS CS student
+Monish Ramadoss : MSCS student
+Sameer Reddy : MSCS student
+Pranav Gadikar : MSCS student
+Anshul Ahluwalia : MSCS student
+Rohit Das : MSCS student
+Srihas Yarlagadda : MSCS student
+Brian Model : BSMS CS student
+
+
+Undergraduate Students
+Aditi Arun : Undergraduate Research Assistant, ML 4 Health
+Varun Mehrotra : Undergraduate Research Assistant
+
+
+ALUMNI
+
+Yanbo Xu : CSE PhD student co-advised with Chao Zhang, now at Microsoft
+Elton Pinto : MSCS GRA with SAIL, now on a startup tour with Sutter Hill
+Snigdha Grandhi : MSCS with SAIL, now SDE-3, cloud tech division with Adobe
+Pranavi Bajjuri : MSCS GRA with SAIL, now SWE@Confluent
+Irene Lee : Software Engineering Intern at AnyScale
+Meghavarnika Budati : MSCS, now a Software Engineer at Snowflake
+Manas Sahni : MSCS, now at NVIDIA, Systems for ML Software Engineer
+Shreya Varshini : MSCS, now at Facebook, Hardware Insights Engineer
+Luis Pastrana : MSCS, now at Citadel Securities
+Khang Vu : Undergrad, now EW/Avionics Software Researcher at Georgia Tech Research Institute
+Shiva Devarajan : Undergrad
+Shreyas Casturi : Undergrad
+
+
+[ Back to top ]
+
+Publications
+[ECCV24] DεpS: Delayed ε-Shrinking for Faster Once-For-All Training 
+Aditya Annavajjala*, Alind Khare*, Animesh Agrawal, Igor Fedorov, Hugo Latapie, Myungjin Lee Alexey Tumanov
+Accepted to the 18th European Conference on Computer Vision (ECCV 2024), Milano, Italy, Oct 2024.
+[Abstract] [PDF] [BibTeX]
+
+[ECCV24] SuperFedNAS: Cost-Efficient Federated Neural Architecture Search for On-Device Inference 
+Alind Khare, Animesh Agrawal, Aditya Annavajjala, Payman Behnam, Hugo Latapie, Myungjin Lee Alexey Tumanov
+Accepted to the 18th European Conference on Computer Vision (ECCV 2024), Milano, Italy, Oct 2024.
+[Abstract] [PDF] [BibTeX]
+
+[OSDI24] Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve 
+Amey Agrawal, Nitin Kedia, Ashish Panwar, Jayashree Mohan, Nipun Kwatra, Bhargav Gulavani, Alexey Tumanov, Ramachandran Ramjee
+In Proc. of 18th Usenix Symposium on Operating Systems Design and Implementation (OSDI'24), Santa Clara, USA, July 2024.
+[Abstract] [PDF] [BibTeX]
+
+[MLSYS24] Vidur: A Large-scale Simulation Framework for LLM Inference 
+Amey Agrawal, Nitin Kedia, Jayashree Mohan, Ashish Panwar, Nipun Kwatra, Bhargav S. Gulavani, Ramachandran Ramjee, Alexey Tumanov
+In Proc. of 7th Annual Conference on Machine Learning Systems (MLSys'24), Santa Clara, USA, May 2024.
+[Abstract] [PDF] [BibTeX]
+
+[IPDPS24] Harmonica: Hybrid Accelerator to Overcome Imperfections of Mixed-signal DNN Accelerators 
+P. Behnam, U. Kamal, A. Shafiee, Alexey Tumanov, Saibal Mukhopadhyay
+In Proc. of 38'th IEEE International Parallel and Distributed Processing Symposium (IPDPS), USA, 2024.
+[Abstract] [PDF] [BibTeX]
+
+[ML4H23] TransEHR: Self-Supervised Transformer for Clinical Time Series Data
+Yanbo Xu, Shangqing Xu, Manav Ramprasad, Alexey Tumanov, Chao Zhang
+In Proc. of Machine Learning for Health (ML4H'23), Dec 10, 2023.
+[Abstract] [PDF] [Code] [BibTeX]
+
+[IEEEMicro23] Hardware-Software Co-design for Real-time Latency-accuracy Navigation in TinyML Applications
+Payman Behnam*, Jianming Tong*, Alind Khare, Yangyu Chen, Pranav Gadikar, Abhimanyu Bambhaniya, Tushar Krishna, Alexey Tumanov
+IEEE Micro Special Issue on TinyML, 2023.
+[Abstract] [PDF] [BibTeX]
+
+[arXiv23] Pareto-Secure Machine Learning (PSML): Fingerprinting and Securing Inference Serving Systems
+Debopam Sanyal, Jui-Tse Hung, Manav Agrawal, Prahlad Jasti, Shahab Nikkhoo, Somesh Jha, Tianhao Wang, Sibin Mohan, Alexey Tumanov
+arXiv, Aug 2023.
+[Abstract] [PDF] [BibTeX]
+
+[arXiv23] DynaQuant: Compressing Deep Learning Training Checkpoints via Dynamic Quantization
+Amey Agrawal, Sameer Reddy, Satwik Bhattamishra, Venkata Prabhakara Sarath Nookala, Vidushi Vashishth, Kexin Rong, Alexey Tumanov
+arXiv, Jun 2023.
+[Abstract] [PDF] [BibTeX]
+
+[MLSYS23] SubGraph Stationary Hardware-Software Inference Co-design
+Payman Behnam*, Jianming Tong*, Alind Khare, Yangyu Chen, Yue Pan, Pranav Gadikar, Abhimanyu Bambhaniya, Tushar Krishna, Alexey Tumanov
+In Proc. of 6th Conference on Machine Learning and Systems (MLSys'23), Jun 2023.
+[Abstract] [PDF] [Slides] [Poster] [BibTeX]
+
+[ODIW@MLSYS23] Signed-Binary Networks: Improving Efficiency of Binary Networks by Exploiting Sparsity
+Sachit Kuhar, Alexey Tumanov, Judy Hoffman
+In Proc. of 3rd On-Device Intelligence Workshop, Machine Learning and Systems (MLSys'23), Jun 2023.
+[Abstract] [PDF] [BibTeX]
+
+[arXiv23] SuperFed: Weight Shared Federated Learning
+Alind Khare, Animesh Agrawal, Myungjin Lee, Alexey Tumanov
+arXiv, Jan 26, 2023.
+[Abstract] [PDF] [BibTeX]
+
+[NeurIPS22] UnfoldML: A Cost-Aware 2-D Dynamic Prediction Pipeline for Multi-Stage Classification
+Yanbo Xu, Alind Khare, Glenn Matlin, Monish Ramadoss, Rishi Kamaleswaran, Chao Zhang, Alexey Tumanov
+In Proc. of 36'th Conference on Neural Information Processing Systems (NeurIPS), Nov 2022.
+[Abstract] [PDF] [Poster] [OpenReview] [BibTeX]
+
+[arXiv22] Signed Binary Weight Networks: Improving Efficiency of Binary Weight Networks by Exploiting Sparsity
+Sachit Kuhar, Alexey Tumanov, Judy Hoffman
+arXiv, Nov 25, 2022.
+[Abstract] [PDF] [BibTeX]
+
+[SOCC22] ESCHER: Expressive Scheduling with Ephemeral Resources
+Romil Bhardwaj, Alexey Tumanov, Stephanie Wang, Richard Liaw, Philipp Moritz, Robert Nishihara, Ion Stoica
+In Proc. of 13th ACM Symposium on Cloud Computing (SoCC), Nov 2022.
+[Abstract] [PDF] [BibTeX]
+
+[ICCD22] CoDG-ReRAM: An Algorithm-Hardware Co-design to Accelerate Semi-Structured GNNs on ReRAM
+Yixuan Luo*, Payman Behnam*, Kiran Thorat, Zhuo Liu, Hongwu Peng, Shaoyi Huang, Shu Zhou, Omer Khan, Alexey Tumanov, Caiwen Ding, Tong Geng
+In Proc. of 40'th IEEE International Conference on Computer Design (ICCD), Oct 23-26 2022.
+[Abstract] [PDF] [BibTeX]
+
+[ACSMD@ISCA22] Enabling Real-time DNN Switching via Weight-Sharing
+Jianming Tong, Yangyu Chen, Yue Pan, Abhimanyu Bambhaniya, Alind Khare, Taekyung Heo, Alexey Tumanov, Tushar Krishna
+In Proc. of 2nd Architecture, Compiler, and System Support for Multi-model DNN Workloads Workshop at ISCA'22 (ACSMD@ISCA'22), June 2022.
+[Abstract] [PDF] [BibTeX]
+
+[EuroPar22] Automatic Parallelization of Python Programs for Distributed Heterogeneous Computing
+Jun Shirako, Akihiro Hayashi, Sri Raj Paul, Alexey Tumanov, Vivek Sarkar
+In Proc. of 28th International European Conference on Parallel and Distributed Computing (EuroPar'22), Aug 2022.
+[Abstract] [PDF] [arXiv] [BibTeX]
+
+[ICLR21] CompOFA – Compound Once-For-All Networks for Faster Multi-Platform Deployment
+Manas Sahni, Shreya Varshini, Alind Khare, Alexey Tumanov
+In Proc. of International Conference on Learning Representations (ICLR'21), May 4 2021.
+[Video] [Abstract] [PDF] [BibTeX]
+
+[EuroSys21] Rubberband: Cloud-based Hyperparameter Tuning
+R. Liaw, U. Misra, L. Dunlap, J. Gonzalez, I. Stoica, Alexey Tumanov, K. Kandasamy, R. Bhardwaj
+In Proc. of EuroSys'21, Apr 26-29, 2021.
+[Abstract] [PDF] [BibTeX]
+
+[SOCC20] InferLine: Latency-Aware Provisioning and Scaling for Prediction Serving Pipelines
+Daniel Crankshaw, Gur-Eyal Sela, Xiangxi Mo, Corey Zumar, Ion Stoica, Joseph E. Gonzalez, Alexey Tumanov
+In Proc. of Symposium on Cloud Computing (SoCC'20), Nov 2020.
+[Abstract] [PDF] [BibTeX]
+
+[PVLDB20] Cloudburst: Stateful Functions-as-a-Service
+Vikram Sreekanti, Chenggang Wu, Charles Lin, Johann Schleier-Smith, Joseph Gonzalez, Joseph Hellerstein, Alexey Tumanov
+In Proc. of PVLDB, 13(11):2438-2452, July 2020.
+[Abstract] [PDF] [BibTeX]
+
+[KDD20] HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units
+Shenda Hong, Yanbo Xu, Alind Khare, Satria Priambada, Kevin Maher, Alaa Aljiffry, Jimeng Sun, Alexey Tumanov.
+In Proc. of Knowledge Discovery and Data Mining (KDD'20), Aug 2020.
+[Video] [arXiv] [PDF] [BibTeX]
+
+[SoCC19] HyperSched: Dynamic Resource Reallocation for Model Development on a Deadline.
+Richard Liaw, Romil Bhardwaj, Lisa Dunlap, Yitian Zou, Joseph Gonzalez, Ion Stoica, Alexey Tumanov.
+In Proc. of the 10th ACM Symposium on Cloud Computing, SoCC'19, Nov 2019.
+[arXiv] [PDF] [BibTeX]
+
+[SoCC19] Cirrus: A Serverless Framework for End-to-end ML Workflows.
+Joao Carreira, Pedro Fonseca, Alexey Tumanov, Andrew Zhang, Randy Katz.
+In Proc. of the 10th ACM Symposium on Cloud Computing, SoCC'19, Nov 2019.
+[Abstract] [PDF] [BibTeX]
+
+[SOSP19] Lineage Stash: Fault Tolerance Off the Critical Path.
+Stephanie Wang, John Liagouris, Robert Nishihara, Philipp Moritz, Ujval Misra, Alexey Tumanov, Ion Stoica.
+In Proc. of the Symposium on Operating Systems Principles, SOSP'19, Oct 2019.
+[Abstract] [PDF] [BibTeX]
+
+[CIDR19] Serverless Computing: One Step Forward, Two Steps Back
+Joseph M. Hellerstein, Jose Faleiro, Joseph E. Gonzalez, Johann Schleier-Smith, Vikram Sreekanti, Alexey Tumanov, Chenggang Wu.
+In Proc. of Conference on Innovative Data Systems Research (CIDR'19), Jan, 2019.
+[arXiv] [PDF] [HackerNews] [BibTeX]
+
+[MLSYS18] A Case for Serverless Machine Learning
+Joao Carreira, Pedro Fonseca, Alexey Tumanov, Andrew Zhang, Randy Katz.
+In Proc. of Workshop on Systems for ML at NIPS 2018 (MLSYS'18), Dec 2018.
+[Abstract] [PDF] [BibTeX]
+
+[MLSYS18] Dynamic Space-Time Scheduling for GPU Inference
+Paras Jain, Xiangxi Mo, Ajay Jain, Harikaran Subbaraj, Rehan Sohail Durrani, Alexey Tumanov, Joseph Gonzalez, Ion Stoica.
+In Proc. of Workshop on Systems for ML at NIPS 2018 (MLSYS'18), Dec 2018.
+[arXiv] [PDF] [BibTeX]
+
+[OSDI18] Ray: A Distributed Framework for Emerging AI Applications
+Philipp Moritz*, Robert Nishihara*, Stephanie Wang, Alexey Tumanov, Richard Liaw, Eric Liang, Melih Elibol, Zongheng Yang, William Paul, Michael I. Jordan, Ion Stoica.
+In Proc. of Usenix OSDI'18, Oct, 2018.
+[Abstract] [arXiv] [PDF] [BibTeX]
+
+[UAI18] IDK Cascades: Fast Deep Learning by Learning not to Overthink
+Xin Wang, Yujia Luo, Daniel Crankshaw, Alexey Tumanov, Fisher Yu, Joseph E. Gonzalez. In Proc. of Uncertainty in Artificial Intelligence (UAI'18), August, 2018. [arXiv] [PDF]
+
+[ATC18] Tributary: spot-dancing for elastic services with latency SLOs
+Aaron Harlap, Andrew Chung, Alexey Tumanov, Gregory R. Ganger, Phillip B. Gibbons
+In Proc. of USENIX ATC'18, Boston, MA, July 2018.
+[Abstract] [PDF] [BibTeX]
+
+[EuroSys18] 3Sigma: distribution-based cluster scheduling for runtime uncertainty
+Jun Woo Park, Alexey Tumanov, Angela Jiang, Michael A. Kozuch, Gregory R. Ganger.
+In Proc. of EuroSys'18, Porto, Portugal, April 2018.
+[Abstract] [PDF] [BibTeX]
+
+[HotOS17] Real-Time Machine Learning: the Missing Pieces
+Robert Nishihara, Philipp Moritz, Stephanie Wang, Alexey Tumanov, William Paul, Johann Schleier-Smith, Richard Liaw, Michael I. Jordan, Ion Stoica
+In Proc. of HotOS XVI, May 2017.
+[Abstract] [PDF] [BibTeX]
+
+[EuroSys17] Proteus: agile ML elasticity through tiered reliability in dynamic resource markets
+Aaron Harlap, Alexey Tumanov, Andrew Chung, Gregory R. Ganger, Phil Gibbons
+In Proc. of EuroSys'17, Apr 2017.
+[Abstract] [PDF] [BibTeX]
+
+[OSDI16] Morpheus: Towards Automated SLOs for Enterprise Clusters
+S. Jyothi, C. Curino, I. Menache, S. Narayanamurthy, A. Tumanov, J. Yaniv, R. Mavlyutov, I. Goiri, S. Krishnan, J. Kulkarni, S. Rao
+In Proc. of USENIX OSDI'16, Nov 2016.
+[Abstract] [PDF] [Slides] [BibTeX]
+
+[EuroSys16] TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters. [best student paper]
+Alexey Tumanov, Timothy Zhu, Jun Woo Park, Michael A. Kozuch, Mor Harchol-Balter, Gregory R. Ganger.
+In Proc. of EuroSys'16, London, UK, April 2016.
+[Abstract] [PDF] [Slides] [BibTeX]
+
+[SoCC14] PriorityMeister: Tail Latency QoS for Shared Networked Storage.
+Timothy Zhu, Alexey Tumanov, Michael A. Kozuch, Mor Harchol-Balter, Gregory R. Ganger.
+In Proc. of the 5th ACM Symposium on Cloud Computing, SoCC'14, Nov 2014.
+[Abstract] [PDF] [BibTeX]
+
+[SoCC14] Exploiting iterative-ness for parallel ML computations.
+Henggang Cui, Alexey Tumanov, Jinliang Wei, Lianghong Xu, Wei Dai, Jesse Haber-Kucharsky, Qirong Ho, Gregory R. Ganger, Phil B. Gibbons, Garth A. Gibson, Eric P. Xing.
+In Proc. of the 5th ACM Symposium on Cloud Computing, SoCC'14, Nov 2014.
+[Abstract] [PDF] [BibTeX]
+
+[TOS14] Agility and performance in elastic distributed storage.
+Lianghong Xu, James Cipar, Elie Krevat, Alexey Tumanov, Nitin Gupta, Michael A. Kozuch, and Gregory R. Ganger.
+Trans. Storage, 10(4):16:1– 16:27, October 2014.
+[Abstract] [PDF] [BibTeX]
+
+[FAST14] SpringFS: Bridging Agility and Performance in Elastic Distributed Storage
+Lianghong Xu, James Cipar, Elie Krevat, Alexey Tumanov, Nitin Gupta, Michael A. Kozuch, Gregory R. Ganger.
+In Proc. of Usenix FAST’14, Feb 2014.
+[Abstract] [PDF] [BibTeX][acceptance: 18%]
+
+[TR13] TetriSched: Space-Time Scheduling for Heterogeneous Datacenters.
+Alexey Tumanov, Timothy Zhu, Michael A. Kozuch, Mor Harchol-Balter, Gregory R. Ganger.
+Carnegie Mellon University PDL Technical Report CMU-PDL-13-112, Dec 2013.
+[Abstract] [PDF] [BibTeX]
+
+[SFMA13] Asymmetry-aware execution placement on manycore chips.
+Alexey Tumanov, Joshua Wise, Onur Mutlu, Gregory R. Ganger.
+In Proc. of the 3rd Workshop on Systems for Future Multicore Architectures (SFMA'13), EuroSys'13, April 2013.
+[Abstract] [PDF] [BibTeX]
+
+[SoCC12] alsched: Algebraic Scheduling of Mixed Workloads in Heterogeneous Clouds"
+Alexey Tumanov, James Cipar, Michael A. Kozuch, Gregory R. Ganger.
+In Proc. of the 3rd ACM Symposium on Cloud Computing, SoCC'12, Oct 2012.
+[Abstract] [PDF] [BibTeX] [acceptance: 15%]
+
+[SoCC12] Heterogeneity and Dynamicity of Clouds at Scale: Google Trace Analysis [Test of Time, SoCC'21] 
+Charles Reiss, Alexey Tumanov, Gregory R. Ganger, Randy H. Katz, Michael A. Kozuch.
+In Proc. of the 3rd ACM Symposium on Cloud Computing, SoCC'12, Oct 2012.
+[Abstract] [PDF] [BibTeX] [acceptance: 15%]
+
+[EuroSys11] Kaleidoscope: Cloud Micro-Elasticity via VM State Coloring
+Roy Bryant, Alexey Tumanov, Olga Irzak, Adin Scannell, Kaustubh Joshi, Matti Hiltunen, H. Andrés Lagar-Cavilla, Eyal de Lara.
+In Proc. of EuroSys'11, Salzburg, Austria, April 2011.
+[Abstract][PDF][BibTeX][acceptance: 15%]
+
+[IEEEVR07] Variability-Aware Latency Amelioration in Distributed Environments
+Alexey Tumanov, Robert Allison, Wolfgang Stuerzlinger.
+In Proc. of IEEE Virtual Reality Conference, 2007, pp. 123-130, March 2007.
+[Abstract][PDF][BibTeX][acceptance: 20%]
+
+Variability-Aware Latency Amelioration in Distributed Interactive Virtual Environments
+Alexey Tumanov
+M.Sc. Thesis, York University, Toronto, Canada, April 2006.
+[PDF][BibTeX]
+
+Preprints
+The OoO VLIW JIT Compiler for GPU Inference
+Paras Jain, Xiangxi Mo, Ajay Jain, Alexey Tumanov, Joseph E. Gonzalez, Ion Stoica
+arXiv CoRR preprint, abs/1901.10008, 2019.
+[Abstract] [PDF] [BibTeX]
+
+JamaisVu: Robust Scheduling with Auto-Estimated Job Runtimes
+Alexey Tumanov, Angela Jiang, Jun Woo Park, Michael A. Kozuch, Gregory R. Ganger.
+Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-104. September 2016. [Abstract] [PDF] [BibTeX]
+
+Patents
+Tagging a copy of memory of a virtual machine with information for fetching of relevant portions of the memory
+Horacio Andres Lagar-cavilla, Roy Bryant, Matti Hiltunen, Olga Irzak, Kaustubh Joshi, Adin Matthew Scannell, Alexey Tumanov, Eyal De Lara.
+US Patent 9250969. Granted Feb 2, 2016.
+
+[ Back to top ]
+
+Teaching
+AY24-25
+CS8803-SMR: Special Topics in Systems for Machine Learning (Fall 2024) [syllabus][schedule]
+
+AY23-24
+CS3210: Design of Operating Systems (Spring 2024)
+[course] [syllabus] [schedule]
+
+CS8803-SMR: Special Topics in Systems for Machine Learning (Fall 2023) [syllabus][schedule]
+
+AY22-23
+CS8803-SMR: Special Topics in Systems for Machine Learning (Fall 2022) [syllabus][schedule]
+
+AY21-22
+CS3210: Design of Operating Systems (Spring 2022)
+[course] [syllabus] [schedule]
+
+CS8803-SMR: Special Topics in Systems for Machine Learning (Fall 2021) [syllabus][schedule]
+AY20-21
+CS3210: Design of Operating Systems (Spring 2021), with David Devecsery
+
+CS8803-SMR: Special Topics in Systems for Machine Learning (Fall 2020) [syllabus][schedule]
+AY19-20
+CS8803-SMR: Special Topics in Systems for Machine Learning (Spring 2020) [schedule]
+Academic Service
+
+Organizing Committee:
+
+Artifact Evaluation (AE) Chair, ACM SOSP'24.
+Treasurer, ACM SoCC24.
+Student Scholarship Chair, ACM SoCC'23.
+TPC Co-Chair, Distributed ML, co-lo with ACM CoNext'23.
+
+Program Committee: SOSP24, OSDI24, MLSys24, ICLR24, Neurips23, OSDI21, MLSys2021, ACM SoCC 2020, USENIX ATC 2020, ACM SoCC 2017.
+
+Reviewer: ACM SoCC 2013, ACM SIGMETRICS 2014, IEEE/ACM MICRO 2014, SoCC 2017, SOSP 2019.
+
+
+Site menu:
+Home
+Brief Bio
+Research Synopsis
+Research Group
+Publications
+Teaching
+Service
+
+
+Useful Links
+Georgia Tech
+
+SAIL Lab Page
+SAIL Github
+CompOFA
+Modin GPU
+UC Berkeley
+
+Ray
+RISELab
+RISECamp 2017
+Carnegie Mellon
+
+TetriSched
+TetriScope
+Tail Latency QoS
+Toronto
+
+SnowFlock Wiki
+SnowFlock Source
+ 
+
+Brief Bio | Research Group | Synopsis | Publications | Teaching | Service | Back to top
+© 2010-2024 Alexey Tumanov
+

@@ -1,0 +1,539 @@
+Professor: Xiao Fu 0001
+University: Oregon State University
+URL: http://people.oregonstate.edu/~fuxia
+Description: Navigation
+Home
+Group
+Biography
+REU Projects
+Group Blogs
+Publications and Code
+Journal Papers and Code
+ML Conf. Papers and Code
+SP Conf. Papers
+	
+
+
+
+
+Xiao Fu's Homepage
+ 	
+
+Xiao Fu, Ph.D.
+
+Associate Professor
+School of Electrical Engineering and Computer Science
+Oregon State University
+3003, Kelley Engineering Center
+Corvallis, OR, 97331, United Staes
+(xiao.fu(AT)oregonstate.edu)
+
+Links: Google Scholar, OSU AI Program, Signal Processing Group
+
+News and Updates
+
+Jul. 2024: Check out our new submission on arXiv. This work reviewed the developments of noisy label crowdsourcing from a signal processing perspective, connecting ideas, formulations, and algorithms in this domain to techniques that are widely used in SP, e.g., NMF and tensor decomposition.
+
+S. Ibrahim, P. Traganitis, X. Fu, and G. B. Giannakis, ‘‘Learning from crowdsourced noisy labels: A signal processing perspective’’ arXiv:2407.06902, Jul. 2024
+
+ 	
+
+Jun. 2024, Dr. Shahana Ibrahim received the 2023/2024 EECS Dissertation Award! Shahana defended her Ph.D. dissertation in summer 2023 and then joined the University of Central Florida as a tenure-track Assistant Professor. Congratulations to Shahana for this well-deserved award!
+
+ 	
+ 	
+
+Jan. 2024: Sagar's first ICLR paper was accepted! In this work we revisited the distribution matching based unsupervised domain translation problem (a typical example is CycleGAN) and offered a model identification perspective. We came up with a provable framework called ‘‘diversified distribution matching’’. This framework provably circumvents the content misalignment problem of CycleGAN. Check out the paper!
+
+S. Shrestha and X. Fu, ‘‘Towards Identifiable Unsupervised Domain Translation: A Diversified Distribution Matching Approach’’, ICLR 2024
+
+ 	
+
+Our framework leverages variable-defined subdomains to avoid translating sources to content-misaligned targets.
+
+Nov. 2023: Our paper on quantized spectrum cartography has been accepted to IEEE Transactions on Signal Processing! Congratulations to Subash and Sagar!
+
+Check out the paper here: S. Timilsina, S. Shrestha, and X. Fu, ‘‘Quantized Radio Map Estimation Using Tensor and Deep Generative Models’’, IEEE Transactions on Signal Processing, accepted, Nov. 2023
+
+Sep 2023: I am humbled and honored to have received the Engelbrecht Early Career Award from the College of Engineering, Oregon State University. Thank you COE for the recognition. Many thanks to my students, collaborators, mentors and my nominator.
+
+ 	
+
+Sep 2023: A new paper was accepted to IEEE CAMSAP 2023. The paper was a result of the REU program under the NSF project on crowdsourced data labeling. The lead author of this paper is our CS undergraduate student Daniel Grey Wolnick. Grey has successfully defended his honors college thesis in the Spring of 2023.
+
+Check out the paper: D.G. Wolnick, S. Ibrahim, T. Marrinan, and X. Fu ‘‘Deep Learning from Noisy Labels via Robust Nonnegative Matrix Factorization-Based Design" accepted to IEEE CAMSAP 2023.
+
+Sep 2023: Shahana defended her dissertation in July 2023! In Dec. 2023, Shahana will join the AI Initiative of the University of Central Florida as a Tenure-Track Assistant Professor (joint appointment with the Department of ECE and the Department of CS). Congratulations Shahana! We are proud of you and looking forward to seeing more accomplishments of yours.
+
+ 	
+
+July 2023: Group members attended ICML 2023 in Honolulu, Hawaii.
+
+ 	
+ 	
+ 	
+ 	
+
+June 2023, I started serving as the Chair of IEEE Signal Processing Society Oregon Chapter. My former chair is Dr. Jinsub Kim.
+
+June 2023, I visited KU Leuven, Belgium, hosted by Prof. Aritra Konar and Prof. Lieven De Lathauwer.
+
+Gave a talk ‘‘Understanding multiview analysis and self-supervised learning: A nonlinear mixture identification viewpoint’’ YouTube video from an earlier IPAM talk and the ICLR2022 paper
+
+June 2023, I visited University of Mons, Belgium, hosted by Prof. Nicolas Gillis.
+
+Served on the jury (Ph.D. defense committee) of (soon to be Dr.) Pierre De Handschutter.
+
+Gave a talk ‘‘Understanding multiview analysis and self-supervised learning: A nonlinear mixture identification viewpoint’’ YouTube video from an earlier IPAM talk and the ICLR2022 paper
+
+June 2023, I attended ICASSP 2023 in Rhodes, Greece.
+
+ 	
+ 	
+ 	
+ 	
+
+April 2023, Tri and Shahana have their ICML 2023 papers accepted!
+
+S. Ibrahim, X. Fu, R. Hutchinson and E. Seo, ‘‘Under-counted tensor completion with neural incorporation of attributes’’.
+
+T. Nguyen, S. Ibrahim, and X. Fu, ‘‘Deep Clustering with Incomplete Noisy Pairwise Annotations: A Geometric Regularization Approach’’.
+
+Mar. 2023, another work by Sagar has been accepted to IEEE Transactions on Signal Processing:
+
+S. Shrestha and X. Fu, ‘‘Communication-Efficient Federated Linear and Deep Generalized Canonical Correlation Analysis’’, IEEE Transactions on Signal Processing, accepted, Mar. 2023
+
+Jan. 2023, Sagar's work has been accepted to IEEE Transactions on Signal Processing:
+
+S. Shrestha, X. Fu, and M. Hong, ‘‘Optimal Solutions for Joint Beamforming and Antenna Selection: From Branch and Bound to Graph Neural Imitation Learning’’, IEEE Transactions on Signal Processing, accepted, Jan. 2023
+
+The work studies a graph neural network-based acceleration method for provably solving the joint beamforming and antenna selection problem, under a uni-cast setting. An interesting take-away is that, under reasonable conditions, this mixed integer and nonconvex program optimally and efficiently with the help of neural imitation learning. We showed that the graph neural imitation learning approach can reduce the branch and bound method's computational complexity from an exponential order to a linear one, with high probability.
+
+ 	
+
+Jan. 2023, Shahana and Tri's paper has been accepted to ICLR 2023:
+
+S. Ibrahim, T. Nguyen, and X. Fu ‘‘Deep learning from crowdsourced labels: Coupled cross-entropy minimization, identifiability, and regularization’’, ICLR 2023
+
+Jan. 2023, Our paper has been accepted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing:
+
+M. Ding, X. Fu, and X.-L. Zhao ‘‘Fast and Structured Block-Term Tensor Decomposition for Hyperspectral Unmixing’’ (Source Code)
+
+Jan. 2023, I gave a talk at the Institute of Pure and Applied Mathematics (IPAM) at UCLA. The talk is based on our ICLR2022 work:
+
+Q. Lyu, X. Fu, W. Wang, and S. Lu, ‘‘Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective’’, ICLR 2022
+
+ 	
+
+Dec. 2022, our papers received two awards:
+
+2022 IEEE Signal Processing Society Best Paper Award: H. Sun, X. Chen, Q. Shi, M. Hong, X. Fu, and N.D. Sidiropoulos, ‘‘Learning to Optimize: Training Deep Neural Networks for Interference Management,’’ in IEEE Transactions on Signal Processing, vol. 66, no. 20, pp. 5438-5453, 15 Oct.15, 2018.
+
+2022 IEEE Signal Processing Society Donald G. Fink Overview Paper Award: N.D. Sidiropoulos, L. De Lathauwer, X. Fu, K. Huang, E.E. Papalexakis, and C. Faloutsos, ‘‘Tensor Decomposition for Signal Processing and Machine Learning’’, IEEE Transactions on Signal Processing, vol. 65, no. 13, pp. 3551-3582, July 1, 2017
+
+ 	
+
+Nov. 2022, I was elected to serve on the Technical Committee of Signal Processing Theory and Methods (SPTM-TC) under the IEEE Signal Processing Society. I will start my term in Jan. 2023.
+
+Sep 2022, our paper Q. Lyu and X. Fu, ‘‘Provable subspace identification under post-nonlinear mixtures’’ has been accepted to NeuriPS 2022! The camera-ready version is here.
+
+The paper shows that post-nonlinear mixture (PNL) learning does not need stringent conditions (e.g., statistical independence of the latent components as often used in nonlinear ICA) for model identifiability. The lesson learned in the paper is that if the latent model is a low-rank matrix, then the PNL is identifiable.
+
+June 2022, Qi Lyu has successfully defended his thesis and attended the EECS Graduation Celebration 2022! Congratulations, Dr. Lyu!
+
+ 	
+ 	
+
+May. 2022, our new paper Q. Lyu and X. Fu ‘‘On Finite-Sample Identifiability of Generalized Contrastive Learning-Based Nonlinear Independent Component Analysis’’ has been accepted to International Conference on Machine Learning (ICML 2022). The camera-ready will be uploaded shortly.
+
+This work studies the finite sample analysis of a class of important nonlinear ICA models that uses a contrastive learning loss, proposed by Hyvarinen et al. 2019.
+
+ 	
+
+May. 2022. Newly accepted paper:
+
+T. Nguyen, X. Fu, and R. Wu ‘‘Memory-Efficient Convex Optimization for Self-Dictionary Separable Nonnegative Matrix Factorization: A Frank-Wolfe Approach’’, IEEE Transactions on Signal Processing, accepted, May 2022.
+
+May. 2022. Check out our new submission:
+
+M. Ding, X. Fu, and X.-L. Zhao ‘‘Fast and Structured Block-Term Tensor Decomposition for Hyperspectral Unmixing’’, submitted, May 2021. (Source Code)
+
+May. 2022, Our group has received the National Science Foundation Faculty Early Career Development Program Award (NSF CAREER Award). This award will support us to develop exciting nonlinear factor analysis tools for machine learning and signal processing tasks like unsupervised representation learning, self-supervised learning, hyperspectral imaging, and brain signal processing; see the public information from NSF: Click Here
+
+Mar. 2022, two of our papers accepted:
+
+W. Pu, S. Ibrahim, X. Fu, and M. Hong, ‘‘Stochastic Mirror Descent for Low-Rank Tensor Decomposition Under Non-Euclidean Losses’’, IEEE Transactions on Signal Processing, accepted, April, 2022.
+
+Q. Lyu and X. Fu, ‘‘Finite-Sample Analysis of Deep CCA-Based Unsupervised Post-Nonlinear Multimodal Learning’’, IEEE Transactions on Neural Networks and Learning Systems , accepted, Mar. 2022
+
+Feb. 2022, I started my first term as an Associate Editor of IEEE Transactions on Signal Processing.
+
+ 	
+
+Feb. 2022, some newly accepted works
+
+ICLR 2022: Q. Lyu, X. Fu, W. Wang, and S. Lu, ‘‘Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective’’, arXiv Pre-print, June 2021. This work has been accepted to ICLR 2022 for spotlight presentation. This paper had an old title for its first version, which has now been updated.
+
+ 	
+
+IEEE TSP: H. Sun, W. Pu, X. Fu, T.-H. Chang, and M. Hong, ‘‘Learning to Continuously Optimize Wireless Resource in a Dynamic Environment: A Bilevel Optimization Perspective’’, accepted to IEEE Transactions on Signal Processing, Jan, 2022.
+
+IEEE TSP: S. Shrestha, X. Fu, and M. Hong, ‘‘Deep Spectrum Cartography: Completing Radio Map Tensors Using Learned Neural Models’’, accepted to IEEE Transactions on Signal Processing, Jan, 2022.
+
+Nov. 2021, two new submissions:
+
+T. Nguyen, X. Fu, and R. Wu ‘‘Memory-Efficient Convex Optimization for Self-Dictionary Separable Nonnegative Matrix Factorization: A Frank-Wolfe Approach’’, submitted to IEEE Transactions on Signal Processing, Sep. 2021
+
+S. Shrestha and X. Fu, ‘‘Communication-Efficient Distributed Linear and Deep Generalized Canonical Correlation Analysis’’.
+
+Aug. 2021, check out this newly accepted paper:
+
+S. Ibrahim and X. Fu, ‘‘Mixed membership graph clustering via systematic edge query’’, IEEE Transactions on Signal Processing, accepted, Aug. 2020.
+
+Jul. 2021, Shahana has launched her new website! Click here.
+
+ 	
+
+June 2021. Our paper on identifiability of simplex-structured post-nonlinear mixtures has been accepted!
+
+Q. Lyu and X. Fu, ‘‘Identifiability-Guaranteed Simplex-Structured Post-Nonlinear Mixture Learning via Autoencoder’’, IEEE Transactions on Signal Processing, accepted, June 2021. In this paper we ask a fundamental question: When and how can we identify the matrix factorization model under unknown post-nonlinear distortions; i.e., given y=g(As) with unknown element-wise nonlinear distortion g(.), how to learn A and s in an unsupervised manner? Check out the paper for our most recent take on this problem.
+
+June 2021. Check out our new ICML paper:
+
+S. Ibrahim and X. Fu, ‘‘Crowdsourcing via Annotator Co-occurrence Imputation and Provable Symmetric Nonnegative Matrix Factorization’’, ICML 2021.
+
+ 	
+
+June 2021. Check out this newly accepted article (to IEEE Transactions on Signal Processing):
+
+S. Ibrahim and X. Fu, ‘‘Recovering joint probability of discrete random variables from pairwise marginals’’. This paper answers a fundamental question: Can we recover the joint PMF of N random variables from pairwise marginals? The answer is positive, under some reasonable conditions. We hope this result could shed new light on how to combat the curse of dimensionality in statistical learning.
+
+ 	
+
+May 2021. Gave a virtual mini-tutorial (with Nicolas Gillis and Kejun Huang) ‘‘Learning with Nonnegative Matrix Factorization’’ at SIAM Linear Algebra 2021. Slides are here.
+
+ 	
+
+April 2021. Check out three pre-prints:
+
+S. Shrestha, X. Fu, and M. Hong, ‘‘Deep Spectrum Cartography: Completing Radio Map Tensors Using Learned Neural Models’’, submitted to IEEE Transaction on Signal Processing, April, 2021.
+
+ 	
+ 	
+
+W. Pu, S. Ibrahim, X. Fu, and M. Hong, ‘‘Stochastic Mirror Descent for Low-Rank Tensor Decomposition Under Non-Euclidean Losses’’, submitted to IEEE Transaction on Signal Processing, April, 2021.
+
+H. Sun, W. Pu, X. Fu, T.-H. Chang, and M. Hong, ‘‘Learning to Continuously Optimize Wireless Resource in a Dynamic Environment: A Bilevel Optimization Perspective’’, submitted to IEEE Transaction on Signal Processing, April, 2021.
+
+Mar. 2021. I am now serving as an Editor of Signal Processing, a publication of the European Association for Signal Processing (EURASIP).
+
+Trivia: My first journal publication 8 years ago was in Signal Processing. See: K. K. Lee, W.-K. Ma, X. Fu, T.-H. Chan, and C.-Y. Chi, “A Khatri-Rao subspace approach to blind identification of mixtures of quasi-stationary sources,” Signal Processing, vol. 93, no. 12, pp. 3515-3527, Dec 2013 (special issue in memory of Alex B. Gershman). (Matlab Code)
+
+ 	
+ 	
+
+Mar. 2021. The new issue of IEEE Signal Processing Magazines listed the top-10 downloaded articles in IEEE Transactions on Signal Processing, from 2018 to 2020. Two of our papers are among the 10:
+
+Top 1: N.D. Sidiropoulos, L. De Lathauwer, X. Fu, K. Huang, E.E. Papalexakis, and C. Faloutsos, ‘‘Tensor Decomposition for Signal Processing and Machine Learning’’, IEEE Transactions on Signal Processing, vol. 65, no. 13, pp. 3551-3582, July 1, 2017.
+
+Top 6: H. Sun, X. Chen, Q. Shi, M. Hong, X. Fu, and N.D. Sidiropoulos, ‘‘Learning to Optimize: Training Deep Neural Networks for Wireless Resource Management,’’ IEEE Transactions on Signal Processing, 2018.
+
+ 	
+
+Feb. 2021. Check out the new submission and AAAI paper's arXiv version:
+
+E. Seo, R. Hutchinson, X. Fu, C. A. Li, T. Hallman, J. Kilbride, W. Robinson, ‘‘StatEcoNet: Statistical Ecology Neural Networks for Species Distribution Modeling’’, Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021 (acceptance rate = 21%).
+
+Y.-C. Miao, X.-L. Zhao, X. Fu, J.-L. Wang, and Y.-B. Zheng, ‘‘Hyperspectral Denoising Using Unsupervised Disentangled Spatio-Spectral Deep Priors’’, submitted to IEEE Transactions on Geoscience and Remote Sensing, Feb. 2021. In this work, we combine the idea of hyper spectral decomposition and unsupervised deep prior to come up with a hyperspectral denoising framework. We leverage the classic linear mixture model to disentangle the spatio-spectral information and impose deep priors on to the both domains. This way, modeling and computational burdens are affordable, even for large scale data like hyperspectral images.
+
+ 	
+ 	
+
+Feb. 2021. Four papers accepted to ICASSP 2021:
+
+Shahana got her first two ICASSP papers accepted!
+
+Sagar got his first ICASSP paper accepted in his first term at Oregon State University!
+
+Congrats to both!
+
+Dec. 2020. First good news in December: Eugene Seo's AAAI 2021 paper has been accepted! We design custom neural networks for the species distribution modeling (SDM) problem that is a core task in computational ecology. Several updates related to our recent works:
+
+‘‘StatEcoNet: Statistical Ecology Neural Networks for Species Distribution Modeling’’ AAAI 2021, accepted
+
+Q. Lyu and X. Fu, ‘‘Identifiability-Guaranteed Simplex-Structured Post-Nonlinear Mixture Learning via Autoencoder’’, submitted to IEEE Transactions on Signal Processing, Nov. 2020.
+
+S. Ibrahim and X. Fu, ‘‘Mixed membership graph clustering via systematic edge query’’, submitted to IEEE Transactions on Signal Processing, Dec. 2020
+
+Nov. 2020. We are looking for new Ph.D. students!
+
+At least two Ph.D. positions available! Click here for more information. We welcome applicants who are interested in:
+
+deep unsupervised learning,
+
+social network analysis,
+
+statistical machine learning,
+
+hyperspectral imaging,
+
+tensor/nonnegative matrix factorization,
+
+deep learning for wireless communication.
+
+Applicants please send (i) CV, (ii) sample research papers, and (iii) research statement to Dr. Xiao Fu (xiao.fu@oregonstate.edu). Materials received before Jan 1, 2021 will be considered with high priority.
+
+Nov. 2020. I was elected to be a member of the IEEE SPS Sensor Array and Multichannel (SAM) Technical Committee, and will serve for the first term starting next year (2021-2024). Earlier this year, I was also elected to be a member of the EURASIP Signal Processing for MultiSensor Systems (SPMuS) technical area committee (term 2020-2023).
+
+ 	
+ 	
+
+Jul. 2020: Here's our new submission ‘‘Recovering Joint Probability of Discrete Random Variables from Pairwise Marginals’’. This work offers a method to recover the joint PMF of an arbitrary number of RVs from just pairwise marginals, with provable guarantees.
+
+June 2020: Check out this submission ‘‘Hyperspectral super-resolution via interpretable block-term tensor modeling’’. Here we offer an alternative to our previous work on tensor based hyper spectral super-resolution (Kanatsoulis, Fu, Sidiropoulos, and Ma 2018). The new model has two advantages: 1) the recoverability of the super-res. image is guaranteed (as in other tensor models); 2) the latent factors of this model has physical interpretations (but other tensor models do not). The second property allows us to design structural constraints for performance enhancement.
+
+ 	
+ 	
+
+June 2020: Our overview paper on structured tensor and matrix decomposition has been accepted in IEEE Signal Processing Magazine, special issue on ‘‘Non-Convex Optimization for Signal Processing and Machine Learning’’. We discussed a series developments in optimization tools for tensor/matrix decomposition with structural requirements on the latent factors. We introduced inexact BCD, Gauss–Newton (foundation of Tensorlab), and stochastic optimization (with ideas from training deep nets) for tensor and matrix decomposition.
+
+see the arXiv version here: Xiao Fu, Nico Vervliet, Lieven De Lathauwer, Kejun Huang, and Nicolas Gillis, ‘‘Nonconvex Optimization Tools for Large-Scale Matrix and Tensor Decomposition with Structured Factors’’
+
+ 	
+ 	
+ 	
+ 	
+
+April 2020: another paper accepted!
+
+G. Zhang, X. Fu, J. Wang, X.-L. Zhao, and M. Hong, ‘‘Spectrum Cartography via Coupled Block-Term Tensor Decomposition’’, accepted to IEEE Transactions on Signal Processing. This is a work that Guoyong did during his 15-month visit to Oregon State.
+
+April 2020: two papers accepted!
+
+Shahana Ibrahim, Xiao Fu, and Xingguo Li, ‘‘On recoverability of randomly compressed tensors with low CP rank’’ has been accepted by IEEE Signal Processing Letters.
+
+B. Yang, X. Fu, Kejun Huang, N. D. Sidiropoulos, ‘‘Learning Nonlinear Mixture: Identifiability and Algorithm’’ has been accepted by IEEE Transactions on Signal Processing.
+
+Mar. 2020: the following paper has been accepted!
+
+Q. Lyu and X. Fu, ‘‘Nonlinear Multiview Analysis: Identifiability and Neural Network-Assisted Implementation’’ IEEE Transactions on Signal Processing, accepted, Mar 2020
+
+Mar. 2020: a number of papers accepted!
+
+X. Fu, S. Ibrahim, H.-T. Wai, C. Gao, and K. Huang, ‘‘Block-Randomized Stochastic Proximal Gradient for Low-Rank Tensor Factorization’’, IEEE Transactions on Signal Processing, accepted, Mar 2020. Matlab Code
+
+K. Tang, N. Kan, J. Zou, C. Li, X. Fu, M. Hong, H. Xiong ‘‘Multi-user Adaptive Video Delivery over Wireless Networks: A Physical Layer Resource-Aware Deep Reinforcement Learning Approach’’, IEEE Transactions on Circuits and Systems for Video Technology, accepted, Mar 2020.
+
+R. Wu, W.-K. Ma, X. Fu and Q. Li, ‘‘Hyperspectral Super-Resolution via Global-Local Low-Rank Matrix Estimation’’, IEEE Transactions on Geoscience and Remote Sensing, accepted, Mar 2020
+
+Y. Shen, X. Fu, G. B. Giannakis, and N. D. Sidiropoulos, ‘‘Topology Identification of Directed Graphs via Joint Diagonalization of Correlation Matrices,’’ the IEEE Transactions on Signal and Information Processing over Networks, Special Issue on Network Topology Inference, accepted, Mar. 2020
+
+Mar. 2020, Undergraduate Research Assistantship Available: I am looking undergraduate research assistants in EECS at Oregon State University who are interested in statistical machine learning. Please send me your C.V. and transcripts if you are interested in working with me starting summer or Fall 2020 (or Winter 2021). The research experience program will typically be 10 weeks (one term).
+
+Mar. 2020, Ph.D. Position available (Research Assistantship): I have always been looking for PhD students who are interested in signal processing and machine learning, especially matrix/tensor factorization models, deep unsupervised learning, and optimization algorithm design. Please send me your C.V. and transcripts (and papers if you have published your work) if you are interested in working with me starting Fall 2020. I would expect some details for why you're interested in my group.
+
+Jan. 2020: Two journal papers have been submitted!
+
+S. Ibrahim, X. Fu, and X. Li, ‘‘On recoverability of randomly compressed tensors with low CP rank’’, submitted to IEEE Signal Processing Letters, Jan. 2020.
+
+X. Fu, N. Vervliet, L. De Lathauwer, K. Huang and N. Gillis, ‘‘Nonconvex optimization tools for large-scale tensor and matrix decomposition with structured factors’’, submitted to IEEE Signal Processing Magazine, Jan. 2020.
+
+Dec. 2019: Shahana has her own website online! Please click here to take a look. She has posted the demo of our stochastic tensor decomposition algorithm (BrasCPD and AdaCPD).
+
+Dec. 2019: Our paper ‘‘Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks’’ has been accepted by IEEE Transactions on Knowledge and Data Engineering! This paper is co-authored by Xiao, Eugene Seo, Justin Clarke, and Rebecca Hutchinson, all from EECS at Oregon State! Justin was with us as an undergraduate student by the time of submission, and he is now at UMass for his graduate degree. Congratulations, team!
+
+Dec. 2019: Shahana presented her first work at NeuriPS 2019, Vancouver, Canada! See the details in the paper ‘‘Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms.’’
+
+ 	
+
+Nov. 2019: Two papers were submitted
+
+K. Tang, N. Kan, J. Zou, C. Li, X. Fu, M. Hong, H. Xiong ‘‘Multi-user Adaptive Video Delivery over Wireless Networks: A Physical Layer Resource-Aware Deep Reinforcement Learning Approach’’, submitted to IEEE Transactions on Circuits and Systems for Video Technology.
+
+G. Zhang, X. Fu, J. Wang, X.-L. Zhao, and M. Hong, ‘‘Spectrum Cartography via Coupled Block-Term Tensor Decomposition’’, submitted to IEEE Transactions on Signal Processing.
+
+Oct. 2019: Trung Vu is awarded the Best Student Paper Award (second prize) at IEEE International Workshop on Machine Learning for Signal Processing, October 13-16, 2019 Pittsburgh, PA, USA! The award is given to a collaborative paper of Trung Vu, Raviv Raich and Xiao Fu titled ‘‘On Convergence of Projected Gradient Descent for Minimizing a Large-scale Quadratic over the Unit Sphere’’. Congratualations, Trung!
+
+ 	
+ 	
+
+Oct. 2019: The paper ‘‘Tensor Completion from Regularly Sampled Data’’ has been accepeted by IEEE Transactions on Signal Processing!
+
+Sep 2019: First good news in September! Shahana's first NeuriPS paper ‘‘Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms’’ (S. Ibrahim, X. Fu, N. Kargas, and K. Huang) has been accepted! This year NeuriPS has a record-breaking 6743 submissions, and only 1428 were accepted (= 21%).
+
+June 2019: We have submitted a paper (with Ryan, Ken, Qiang) titiled ‘‘Hyperspectral Super-Resolution via Global-Local Low-Rank Matrix Estimation’’ to IEEE Transactions on Geoscience and Remote Sensing.
+
+June 2019: Our paper (with Cheng and Nikos) ‘‘Algebraic Channel Estimation Algorithms for FDD Massive MIMO systems’’ has been accepeted to IEEE Journal of Selected Topics in Signal Processing!
+
+June 2019: We have submitted a paper titled ‘‘Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks’’ to IEEE Transactions on Knowledge and Data Engineering. In this work, we proposed a statistical generative model for ecological network link prediction. The challenge for this type of networks is that all the observed entries suffer from systematic under estimation–which is very different from online recommender systems. This is a collaborative research with Eugene Seo, Justin Clarke, and Rebecca–all from EECS at Oregon State.
+
+May 2019: Cheng Gao sucessfully defended his thesis and now is a Master of Science!
+
+May 2019: Shahana Ibrahim is awarded a travel grant (sponsored by the National Science Foundation (NSF)) to IEEE Data Science Workshop in Minneapolis, MN, United States. Shahana has a paper ‘‘Stochastic optimization for coupled tensor decomposition with applications in statistical learning’’ accepted to the conference. Congratulations Shahana!
+
+April 2019: Our paper (with Kejun) ‘‘Detecting Overlapping and Correlated Communities: Identifiability and Algorithm’’ has been accepted to ICML 2019! This work proposes a new community detection method that has correctness guarantees for identifying the popular mixed membership stochastic blockmodel (MMSB). Many existing methods rely on the existence of ‘‘pure nodes’’ (i.e., nodes in a network that only belong to one community) to identify MMSB. This assumption may be a bit restrictive. Our method leverage convex geometry-based matrix factorization to establish identifiability under much milder conditions.
+
+ 	
+
+Mar. 2019: The IEEE Communications Society (ComSoc) has provided a list of papers for “Best Readings in Machine Learning in Communications”. Our paper (see below) is included in this list for ‘‘resource allocation’’.
+
+H. Sun, X. Chen, Q. Shi, M. Hong, X. Fu, and N. D. Sidiropoulos, ‘‘Learning to Optimize: Training Deep Neural Networks for Interference Management,’’ IEEE Transactions on Signal Processing, vol. 66, no. 20, pp. 5438-5453, October 2018.
+
+Mar. 2019, Check out this new submission: ‘‘Tensor Completion from Regular Sub-Nyquist Samples’’.
+
+Jan. 2019: Check out this new submission: ‘‘Block-Randomized Stochastic Proximal Gradient for Low-Rank Tensor Factorization’’. This work uses a combination of randomized block coordinate descent and stochastic proximal gradient to decompose large and dense tensors with constraints and regularizations. The complexity saving is quite surprising. The total number of MTTKRPs (which dominates the CPD complexity) needed for the proposed algorithm is very small (see BrasCPD and AdaCPD in the figure).
+
+ 	
+
+Jan. 2019, Check out the new paper: ‘‘Learning Nonlinear Mixtures: Identifiability and Algorithm’’. In this work we push forward parameter identifiability of linear mixture models (LMM) to nonlinear ones. LMM finds many applications in blind source separation-related problems, e.g., hyperspectral unmixing and topic mining. In practice, however, the mixing process is hardly linear. This work studies a fundamental question: if there is nonlinearity imposed upon an LMM, can we still identify the underlying parameters of interest? The interesting observation of our work is that: under some conditions, nonlinearity can be effectively removed and the problem will boil down to an LMM identification problem — for which we have tons of tools to handle.
+
+ 	
+
+Oct. 2018, our paper ‘‘Nonnegative Matrix Factorization for Signal and Data Analytics: Identifiability, Algorithms, and Applications’’, has been accepted in IEEE Signal Processing Magazine as a feature article ! This article talks about intuitions, insights, and most recent results behind NMF identifiability theories. Cool applications of NMF can also be found here.
+
+Sep 2018: Another TSP paper accepted! Check out the arXiv pre-print ‘‘Structured SUMCOR Multiview Canonical Correlation Analysis for Large-Scale Data’’.
+
+Sep 2018: Our first IEEE TKDE paper has been accepted! The paper ‘‘Efficient and Distributed Generalized Canonical Correlations Analysis for Big Multiview Data’’ comes from a collaborative work with CMU (Prof. Christos Faloutsos and Prof. Tom Mitchell). Now the team members are spread across the U.S. and the world (OSU,UFL,CMU,UVA,UCR,IIS). Congratualations to all! The full paper will be uploaded soon.
+
+Sep 2018: Another TSP paper accepted! Check out the arXiv pre-print ‘‘Tensor-Based Channel Estimation for Dual-Polarized Massive MIMO Systems’’.
+
+Sep 2018: Our paper ‘‘Hyperspectral super-resolution: A coupled tensor factorization approach’’ has been accepted to IEEE Transactions on Signal Processing!
+
+Sep 2018: We welcome our new group members Ms. Shahana Ibrahim and Mr. Hang Xiao. Wish everybody a wonderful journey ahead!
+
+Jul 2018: We have just submitted a journal paper to IEEE Transactions on Smart Grid. See the Pre-print here:
+
+Ahmed S. Zamzam, Xiao Fu, Nicholas D. Sidiropoulos, ‘‘Data-Driven Learning-Based Optimization for Distribution System State Estimation’’. This paper talks about using a shallow neural networks to help solve a very hard problem (Distribution System State Estimation) in power systems.
+
+ 	
+
+June 2018: I gave a talk in the College of Mathematical Science at University of Electronic Science and Technology of China (UESTC), Chengdu, China. The title is ‘‘Hyperspectral Super-Resolution: A Coupled Tensor Factorization Approach’’. See the slides here. The pre-print of the paper is here. Will also be giving this talk at Chongqing University on Jul. 13.
+
+ 	
+
+May 2018: Prof. Nikos Sidiropoulos (ECE at University of Virginia) gave a Keynote at ICC Workshop ‘‘Machine Learning for Communications’’ in Kansas City. See the slides here. Interesting recent results of using deep neural networks to solve a wireless resource allocation (power allocation) problem are included in the slides (with details in see details in this paper ‘‘Learning to Optimize: Training Deep Neural Networks for Wireless Resource Management’’).
+
+ 	
+ 	
+
+May 2018: New paper ‘‘Tensor-Based Channel Estimation for Dual-Polarized Massive MIMO Systems’’ has been uploaded to arXiv.
+
+April 2018: the paper ‘‘Anchor-free correlated topic modeling,’’ has been accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+April 2018: New write-up ‘‘Hyperspectral super-resolution: A coupled tensor factorization approach’’ has been uploaded. We propose the first identifiability-guaranteed hyperspectral super-resolution method based on tensor factorization in this wrok.
+
+Mar 2018: Check out this new tutorial paper for NMF identifiability, algorithms, and applications: ‘‘Nonnegative Matrix Factorization for Signal and Data Analytics: Identifiability, Algorithms, and Applications’’.
+
+Feb 2018: Check out our new write-up: K. Huang, X. Fu, and N. D. Sidiropoulos, ‘‘Learning Hidden Markov Models from Pairwise Co-occurrences with Applications to Topic Modeling’’.
+
+Feb 2018: Five papers have been accepted to ICASSP 2018, Calgary, Canada, April 2018  —  congratulations to all!
+
+Jan 2018: Check out our AAAI 2018 paper: ‘‘‘‘On Convergence of Epanechnikov Mean Shift.’’
+
+Dec. 2017: Here are some newly submitted articles addressing several different topics:
+
+‘‘Tensors, Learning, and ‘Kolmogorov Extension’ for Finite-alphabet Random Vectors,’’ arXiv preprint arXiv:1712.00205 (2017).
+
+‘‘Penalty Dual Decomposition Method For Nonsmooth Nonconvex Optimization (Part II),’’ arXiv preprint arXiv:1712.04767 (2017).
+
+‘‘Learning to Optimize: Training Deep Neural Networks for Wireless Resource Management’’.
+
+Nov. 2017: Two papers were accepted this week.
+
+T. Qiu, X. Fu, N. D. Sidiropoulos, and D. Palomar, ‘‘MISO Channel Estimation and Tracking from Received Signal Strength Feedback’’ accepted to IEEE Transactions on Signal Processing
+
+K. Huang, X. Fu, and N. D. Sidiropoulos, ‘‘On Convergence of Epanechnikov Mean Shift,’’ to AAAI 2018 (acceptance rate = 25%.)
+
+Sep 2017: Try the Python implementation of our large-scale GCCA work ‘‘Efficient and Distributed Algorithms for Large-Scale Generalized Canonical Correlations Analysis’’ published at ICDM 2016. The implementation is by Adrian Benton at Johns Hopkins University, who has been doing interesting works in multiview analysis and natural language processing.
+
+Aug 2017: Check out our new write-up ‘‘On identifiability of nonnegative matrix factorization’’ which was submitted to IEEE Signal Processing Letters.
+
+July 2017: Our paper ‘‘Inexact alternating optimization for phase retrieval in the presence of outliers’’ has been accepted to IEEE Transactions on Signal Processing.
+
+July 2017: We have recently submitted several papers:
+
+X. Fu , K. Huang, E.E. Papalexakis, H. Song, P. Talukdar, N. D. Sidiropoulos, C. Faloutsos, and T. Mitchell,‘‘Efficient and Distributed Generalized Canonical Correlation Analysis for Big Multiview Data’’ to IEEE Transactions on Knowledge and Data Engineering
+
+T. Qiu, X. Fu, N. D. Sidiropoulos, and D. Palomar, ‘‘MISO Channel Estimation and Tracking from Received Signal Strength Feedback’’ to IEEE Transactions on Signal Processing
+
+A. S. Zamzam, X. Fu, E. Dall’Anese and N. D. Sidiropoulos, ‘‘Distributed Optimal Power Flow using Feasible Point Pursuit’’ to IEEE CAMSAP 2017.
+
+April 2017: Our paper‘‘Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering’’ has been accepted to International Conference on Machine Learning (ICML 2017)!
+
+April. 2017: Our paper titled ‘‘Scalable and flexible MAX-VAR generalized canonical correlation analysis via alternating optimization’’ has been accepted to IEEE Transactions on Signal Processing.
+
+Mar. 2017: I gave a tutorial at ICASSP 2017 together with Prof. Nikos Sidiropouos, Prof. Vagelis Papalexakis (University of California Riverside) and Prof. L. De Lathauwer (KU Leuven). The title is ‘‘ Tensor Decomposition for Signal Processing and Machine Learning ’’ which is based on our IEEE Transactions on Signal Processing overview paper. Check out the slides and the camera-ready paper.
+
+ 	
+ 	
+
+pictures are from http://www.ieee-icassp2017.org/.
+
+Jan. 2017: Our paper (co-authored with J. Tranter, N. D. Sidiropouls, and A. Swami) titled ‘‘Fast Unit-modulus Least Squares with Applications in Beamforming’’ which was submitted to IEEE Transactions on Signal Processing last year has been accepted. Here's a sneak peek of the semi-camera-ready version.
+
+Dec. 2016: Here is a Matlab Demo of the paper ‘‘Efficient and Distributed Algorithms for Large-Scale Generalized Canonical Correlations Analysis’’, IEEE Internatial Conference on Data Mining (ICDM 2016) - happening in Barcelona:)
+
+Dec. 2016: Here is the Python source code of the paper ‘‘Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering’’.
+
+Dec. 2016: Here is a Matlab demo of ‘‘Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm’’.
+
+Nov. 2016: Check out this three-minute video trailer of our NIPS paper ‘‘Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm’’ – Listen to my perfect southern accent! Here is the paper:[PDF]
+
+Oct. 2016: Check out this interesting working paper ‘‘Towards K-Means-Friendly Spaces: Simultaneous Deep Learning and Clustering’’
+
+Oct. 2016: Here's a Matlab Demo of the newly accepeted paper ‘‘Robust volume minimization-based matrix factorization for remote sensing and document clustering,’’ IEEE Transactions on Signal Processing.
+
+Oct. 2016: I was recongnized as the ‘‘Outstanding Postdoctoral Scholar’’ by the Postdoctoral Association, University of Minnesota :) Special thanks goes to my mentor Prof. Nikos Sidiropoulos!
+
+ 	
+
+Sep., 2016: Our paper ‘‘Efficient and Distributed Algorithms for Large-Scale Generalized Canonical Correlations Analysis’’ has been accepted by IEEE Internatial Conference on Data Mining (ICDM 2016)! This year ICDM will be held in the week right after NIPS, also in Barcelona. The acceptance rate of ICDM this year is 19.6%.
+
+Aug., 2016: Our paper ‘‘Anchor-Free Correlated Topic Modeling: Identifiability and Algorithm’’ has been accepted to the Thirtieth Annual Conference on Neural Information Processing Systems (NIPS). This year NIPS will be held in Decemeber in Barcelona
+
+Aug., 2016: Our paper Robust volume minimization-based matrix factorization for remote sensing and document clustering� has been accepted by IEEE Transactions on Signal Processing.
+
+June, 2016: We have uploaded an overview paper of tensor decomposition to arXiv.org; see ‘‘Tensor decomposition for signal processing and machine learning’’. In this paper, fundamental aspects of tensor are addressed, which include identifiability issues (and insightful simple proofs!), algorithms, and applications from classical signal processing and recent machine learning topics. The goal of this paper is to provide researchers a starting point of doing tensor-related research.
+
+June, 2016: Our EUSIPCO2016 papers have been accepted. Here is the one that deals with the famous unit-modulus quadratic program ‘‘Fast unit-modulus least squares with applications in transmit beaforming’’. We proposed an algorithm that uses a three-line code (see Algorithm 1 in the paper) to approximate this famous problem, which works surprisingly well, and saves memory and runtime substantially compared to some popular approaches, e.g., semidefinite relaxation.
+
+May, 2016: We have uploaded the working paper ‘‘Scalable and optimal generalized canonical correlation analysis via alternating optimization’’ to arXiv.org. Check out the interesting preliminary results here.
+
+May, 2016: Check out this manuscript “Learning from hidden traits: Joint factor analysis and latent clustering”.
+
+April, 2016: We have submitted a manuscript titled ‘‘Learning from hidden traits: Joint factor analysis and latent clustering’’ to IEEE Transactions on Signal Processing. Motivated by the fact that many data (e.g., documents and handwritten digits) exhibit better cluster structure in some latent domain relative to the original data domain, we propose a formulation that seeks such cluster-aware dimensionality reduction.
+
+April, 2016: We have submitted a manuscript titled ‘‘Inexact alternating optimization for phase retrieval in the presence of outliers’’ to IEEE Transactions on Signal Processing. In this work, we deal with impulsive noise and outliers when performing phase retrival. We also derive pertinent Cramer-Rao bounds for the considered model.
+
+April, 2016: The matlab codes of the DANSER algorithm and the RMUSIC algorithm have been uploaded; click DANSER and RMUSIC. A demo of the algorithms in the paper ‘‘Semi-blind hyperspectral unmixing in the presence of spectral libarary mismaches" can be found here.
+
+April, 2016: Two papers have been accepted recently:
+
+‘‘Semi-blind hyperspectral unmixing in the presence of spectral libarary mismaches", by IEEE Transactions on Geoscience and Remote Sensing; see the ArXiv version here.
+
+‘‘Power spectra separation via structured matrix factorization’’, by IEEE Transactions on Signal Processing; check out the pre-print here.
+
+Mar. 2016: We have submitted a journal paper, titled ‘‘Robust volume minimization-based matrix factorization for remote sensing and document clustering’’, to IEEE Transactions on Signal Processing.
+
+Feb. 2016: We have submitted a journal paper ‘‘Fast unit-modulus least squares with applications in beamforming and phase retrieval’’ to IEEE Transactions on Signal Processing. A conference version has also been submitted to EUSIPCO2016.
+
+Feb. 2016: Check out the paper ‘‘Robust volume minimization-based structured matrix factorization via alternating optimization’’. We look into an important matrix factorization model in hyperspectral imaging and topic mining, where the data are considered from a convex hull. We find the loading factors via solving a simplex-volume minimization problem. We pay special attention to a practical problem in this structured matrix factorization model, namely, the outlier sensitivity. This paper will be presented in ICASSP2016, Mar. 20-25, 2016, Shanghai, China.
+
+Jan. 2016: Check out the award-winning paper ‘‘Joint Factor Analysis and Latent Clustering’’.
+
+Dec. 2015: Our paper ‘‘Robust volume minimization-based structured matrix factorization via alternating optimization’’ has been accepted by IEEE ICASSP 2016, Shanghai, China.
+
+Dec. 2015: Our paper ‘‘Joint Factor Analysis and Latent Clustering’’ has been presented at IEEE CAMSAP 2015. Our first author Bo Yang won a Best Student Paper Award at this conference - Congratulations Bo!
+
+Dec. 2015: I gave two talks in the Digital Technology Center at University of Minnesota, Minneapolis, MN55455, United States, and in the School of Electronic Engineering at University of Electronic Science and Technology of China, Chengdu, China, respectively; the title of the talks was ‘‘A Structured Matrix Factorization Model for Signal Prcoessing and Machine Learning’’.
+
+Nov. 2015: Check out this newly accepted paper by IEEE Signal Processing Letters “Robustness analysis of structured matrix factorization via self-dictionary mixed-norm optimization”. Here, we analyze the noise robustness of using mixed-norm sparse optimization to tackle a matrix factorization problem. This problem finds its applications in hyperspectral unmixing, document clustering, blind speech separation and cognitive radio.
+
+Sep. 2015: We have just submitted a journal paper titled “Robustness analysis of structured matrix factorization via self-dictionary mixed-norm optimization” to IEEE Signal Processing Letters.
+
+Jul. 2015: Check out this paper which has been accepted by IEEE Transactions on Signal Processing “A factor analysis framework for power spectra separation and multiple emitter localization,” . We consider a scenario in wireless communication, where multiple emitters exist, and the receivers wish to know their locations and their individual power spectra. This problem finds its application in dynamic spectrum access systems, e.g., cognitive radio. It may also be used for intelligent beamforming, routing, and scheduling. Existing spectrum sensing approaches mostly consider estimating the aggregate spectrum of the received signal, rather than the underlying spectral atoms, i.e., individual spectra corresponding to different sources. We consider modeling, formulating, and solving this problem; robustification against sensor failure is also considered.
+
+Jul. 2015: The paper “Joint Tensor Factorization and Outlying Slab Suppression With Applications” has been accepted by IEEE Transactions on Signal Processing; see the pre-print here ArXiv. In this work, we consider a realistic scenario where some slabs of a tensor is corrupted. Such a setup is commonly seen in speech separation, Fluorescence data analysis, and social network data mining. A simple low-rank tensor factorization algorithm is proposed to deal with this problem, and interesting interpretable results are observed.
+
+Page generated 2024-07-15 14:17:23 PDT, by jemdoc.
+

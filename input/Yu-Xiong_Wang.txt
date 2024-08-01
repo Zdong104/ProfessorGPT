@@ -1,0 +1,850 @@
+Professor: Yu-Xiong Wang
+University: Univ. of Illinois at Urbana-Champaign
+URL: https://yxw.web.illinois.edu/
+Description: 	
+
+Yuxiong WANG
+
+
+
+
+
+Assistant Professor
+
+Department of Computer Science, University of Illinois at Urbana-Champaign
+
+Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+
+Faculty Fellow, National Center for Supercomputing Applications (NCSA)
+
+Email: yxw[at]illinois[dot]edu
+
+Google Scholar
+
+
+
+
+Make things as simple as possible, but not simpler
+
+
+	
+
+-- Albert Einstein
+
+Welcome to my homepage. I am an Assistant Professor in the Department of Computer Science at University of Illinois at Urbana-Champaign (UIUC). Before joining Illinois CS, I was a postdoctoral fellow in the Robotics Institute at Carnegie Mellon University, advised by Prof. Martial Hebert. I was a visitor in the Center for Data Science at New York University, working with Prof. Jean Ponce. I obtained my Ph.D. under the supervision of Prof. Martial Hebert in the Robotics Institute. I have also been closely working with Prof. Deva Ramanan and Prof. Ruslan Salakhutdinov. I receive the Best Paper Honorable Mention Award for streaming perception in ECCV 2020, and Best Paper Award Finalist in CVPR 2019, 2022. I am recognized as a Notable Area Chair in ICLR 2023, and an Expert Reviewer in TMLR.
+
+My research lies in computer vision, machine learning, and robotics, with a specific focus on open-world AI, meta-learning, few-shot learning, predictive learning, and streaming perception.
+
+I am looking for self-motivated Ph.D. / MS students starting Fall 2023. Please feel free to contact me if interested.
+
+Our group also has openings for interns during Spring / Summer 2023. Please feel free to contact me if interested.
+
+Current Research Topics
+
+Meta-learning and learning to learn
+Open-world, multi-modal, few/low-shot, and self-supervised learning
+3D vision
+Generative modeling, predictive learning
+Human motion prediction for human-robot interaction
+Reinforcement learning, robot skill learning
+In-the-wild applications in robotics, autonomous driving, agriculture, materials science, chemistry, healthcare, etc.
+
+Group
+
+PhD
+Shengcao Cao
+Junkun Chen
+Eric Lee
+Xiang Li
+Yunze Man
+Ziqi Pang
+Michal Shlapentokh-Rothman
+Kai Yan
+Yuanyi Zhong
+MS
+Undergraduate
+
+Dissertation
+	
+
+Learning to Learn for Small Sample Visual Recognition
+
+Thesis committee:
+
+Martial Hebert, Deva Ramanan, Ruslan Salakhutdinov
+
+Andrew Zisserman, Yann LeCun
+
+Selected Publications
+
+2024
+
+Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models
+
+Andy Zhou, Kai Yan, Michal Shlapentokh-Rothman, Haohan Wang, Yu-Xiong Wang
+
+ICML, 2024. [PDF] [Website]
+
+Offline Imitation from Observation via Primal Wasserstein State Occupancy Matching
+
+Kai Yan, Alex Schwing, Yu-Xiong Wang
+
+ICML, 2024. [PDF] [Website]
+
+ATraDiff: Accelerating Online Reinforcement Learning with Imaginary Trajectories
+
+Qianlan Yang, Yu-Xiong Wang
+
+ICML, 2024. [PDF] [Website]
+
+Aligning Large Multimodal Models with Factually Augmented RLHF
+
+Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liangyan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, Trevor Darrell
+
+ACL Findings, 2024. [PDF] [Website]
+
+Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models
+
+Zhipeng Bao, Yijun Li, Krishna Kumar Singh, Yu-Xiong Wang, Martial Hebert
+
+SIGGRAPH, 2024. [PDF] [Website]
+
+Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion
+
+Linzhan Mou, Jun-Kun Chen, Yu-Xiong Wang
+
+CVPR, 2024. [PDF] [Website]
+
+ConsistDreamer: 3D-Consistent 2D Diffusion for High-Fidelity Scene Editing
+
+Jun-Kun Chen, Samuel Rota Bulò, Norman Müller, Lorenzo Porzi, Peter Kontschieder, Yu-Xiong Wang
+
+CVPR, 2024. [PDF] [Website]
+
+TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding
+
+Zhihao Zhang, Shengcao Cao, Yu-Xiong Wang
+
+CVPR, 2024. [PDF] [Website]
+
+Situational Awareness Matters in 3D Vision Language Reasoning
+
+Yunze Man, Liangyan Gui, Yu-Xiong Wang
+
+CVPR, 2024. [PDF] [Website]
+
+Restricted Memory Banks Improve Video Object Segmentation: A Revisit
+
+Junbao Zhou, Ziqi Pang, Yu-Xiong Wang
+
+CVPR, 2024. [PDF] [Website]
+
+Region-Based Representations Revisited
+
+Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem
+
+CVPR, 2024. [PDF] [Website]
+
+Frozen Transformers in Language Models Are Effective Visual Encoder Layers
+
+Ziqi Pang, Ziyang Xie*, Yunze Man*, Yu-Xiong Wang
+
+Spotlight Oral Presentation, ICLR, 2024. [PDF] [Website]
+
+SOHES: Self-supervised Open-world Hierarchical Entity Segmentation
+
+Shengcao Cao, Jiuxiang Gu, Jason Kuen, Hao Tan, Ruiyi Zhang, Handong Zhao, Ani Nenkova, Liangyan Gui, Tong Sun, Yu-Xiong Wang
+
+ICLR, 2024. [PDF] [Website]
+
+Robust Model-Based Optimization for Challenging Fitness Landscapes
+
+Saba Ghaffari, Ehsan Saleh, Alex Schwing, Yu-Xiong Wang, Martin D. Burke, Saurabh Sinha
+
+ICLR, 2024. [PDF] [Website]
+
+2023
+
+YouTubePD: A Multimodal Benchmark for Parkinson’s Disease Analysis
+
+Andy Zhou*, Samuel Li*, Pranav Sriram*, Xiang Li*, Jiahua Dong*, Ansh Sharma, Yuanyi Zhong, Shirui Luo, Maria Jaromin, Volodymyr Kindratenko, George Heintz, Christopher Zallek, Yu-Xiong Wang
+
+NeurIPS Datasets and Benchmarks Track, 2023. [PDF] [Website]
+
+ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields
+
+Jiahua Dong, Yu-Xiong Wang
+
+NeurIPS, 2023. [PDF] [Website]
+
+HASSOD: Hierarchical Adaptive Self-Supervised Object Detection
+
+Shengcao Cao, Dhiraj Joshi, Liang-Yan Gui, Yu-Xiong Wang
+
+NeurIPS, 2023. [PDF] [Website]
+
+A Simple Solution for Offline Imitation from Observations and Examples with Possibly Incomplete Trajectories
+
+Kai Yan, Alexander G. Schwing, Yu-Xiong Wang
+
+NeurIPS, 2023. [PDF] [Website]
+
+Generating and Distilling Discrete Adversarial Examples from Large-Scale Models
+
+Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang
+
+NeurIPS, 2023. [PDF] [Website]
+
+Contrastive Learning Relies More on Spatial Inductive Bias Than Supervised Learning: An Empirical Study
+
+Yuanyi Zhong*, Haoran Tang*, Junkun Chen*, Yu-Xiong Wang
+
+ICCV, 2023. [PDF] [Website]
+
+MV-Map: Offboard HD-Map Generation with Multi-view Consistency
+
+Ziyang Xie*, Ziqi Pang*, Yu-Xiong Wang
+
+ICCV, 2023. [PDF] [Website]
+
+Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors
+
+Yuanyi Zhong, Anand Bhattad, Yu-Xiong Wang, David A. Forsyth
+
+ICCV, 2023. [PDF] [Website]
+
+Video State-Changing Object Segmentation
+
+Jiangwei Yu*, Xiang Li*, Xinran Zhao, Hongming Zhang, Yu-Xiong Wang
+
+ICCV, 2023. [PDF] [Website]
+
+Multi-task View Synthesis with Neural Radiance Fields
+
+Shuhong Zheng, Zhipeng Bao, Martial Hebert, Yu-Xiong Wang
+
+ICCV, 2023. [PDF] [Website]
+
+InterDiff: Forecasting 3D Human-Object Interaction with Physics-Informed Diffusion
+
+Sirui Xu, Zhengyuan Li, Yu-Xiong Wang, Liangyan Gui
+
+ICCV, 2023. [PDF] [Website]
+
+
+
+
+Revisiting Deformable Convolution for Depth Completion
+
+Xinglong Sun, Jean Ponce, Yu-Xiong Wang
+
+IROS, 2023. [PDF] [Website]
+
+
+
+
+Streaming Motion Forecasting for Autonomous Driving
+
+Ziqi Pang, Deva Ramanan, Mengtian Li, Yu-Xiong Wang
+
+IROS, 2023. [PDF] [Website]
+
+
+
+
+DualCross: Cross-Modality Cross-Domain Adaptation for Monocular BEV Perception
+
+Yunze Man, Liangyan Gui, Yu-Xiong Wang
+
+IROS, 2023. [PDF] [Website]
+
+
+
+
+Learning Lightweight Object Detectors via Progressive Knowledge Distillation
+
+Shengcao Cao, Mengtian Li, James Hays, Deva Ramanan, Yu-Xiong Wang, Liangyan Gui
+
+ICML, 2023. [PDF] [Website]
+
+
+
+
+NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds
+
+Jun-Kun Chen, Jipeng Lyu, Yu-Xiong Wang
+
+CVPR, 2023. [PDF] [Website]
+
+
+
+
+Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking
+
+Ziqi Pang, Jie Li, Pavel Tokmakov, Dian Chen, Sergey Zagoruyko, Yu-Xiong Wang
+
+CVPR, 2023. [PDF] [Code]
+
+
+
+
+Contrastive Mean Teacher for Domain Adaptive Object Detectors
+
+Shengcao Cao, Dhiraj Joshi, Liangyan Gui, Yu-Xiong Wang
+
+CVPR, 2023. [PDF] [Code]
+
+
+
+
+BEV-Guided Multi-Modality Fusion for Driving Perception
+
+Yunze Man, Liangyan Gui, Yu-Xiong Wang
+
+CVPR, 2023. [PDF] [Website]
+
+
+
+
+Object Discovery from Motion-Guided Tokens
+
+Zhipeng Bao, Pavel Tokmakov, Yu-Xiong Wang, Adrien Gaidon, Martial Hebert
+
+CVPR, 2023. [PDF][Website] [Code]
+
+
+
+
+GAPS: Few-Shot Incremental Semantic Segmentation via Guided Copy-Paste Synthesis
+
+Ri-Zhao Qiu, Peiyi Chen, Wangzhe Sun, Yu-Xiong Wang, Kris Hauser
+
+CVPR Workshop on Learning with Limited Labelled Data, 2023. [PDF] [Website]
+
+
+
+
+From N to N+1: Learning to Detect Novel Animals with SAM in the Wild
+
+Garvita Allabadi, Ana Lucic, Yu-Xiong Wang, Vikram Adve
+
+CVPR Workshop on CV4Animals, 2023. [PDF] [Website]
+
+
+
+
+Stochastic Multi-Person 3D Motion Forecasting
+
+Sirui Xu, Yu-Xiong Wang*, Liangyan Gui*
+
+ICLR, Notable-Top-25%, 2023. [PDF] [Website]
+
+
+
+
+Do Pre-Trained Models Benefit Equally in Continual Learning?
+
+Kuan-Ying Lee, Yuanyi Zhong, Yu-Xiong Wang
+
+WACV, 2023. [PDF] [Code]
+
+
+
+
+Beyond RGB: Scene-Property Synthesis with Neural Radiance Fields
+
+Mingtong Zhang*, Shuhong Zheng*, Zhipeng Bao, Martial Hebert, Yu-Xiong Wang
+
+WACV, 2023. [PDF] [Code]
+
+2022
+
+
+
+
+CEIP: Combining Explicit and Implicit Priors for Reinforcement Learning with Demonstrations
+
+Kai Yan, Alexander G. Schwing, Yu-Xiong Wang
+
+NeurIPS, 2022. [PDF] [Website]
+
+
+
+
+LECO: Learning with an Evolving Class Ontology
+
+Zhiqiu Lin, Deepak Pathak, Yu-Xiong Wang, Deva Ramanan, Shu Kong
+
+NeurIPS, 2022. [PDF] [Website]
+
+
+
+
+The Curse of Zero Task Diversity: On the Failure of Transfer Learning to Outperform MAML and their Empirical Equivalence
+
+Brando Miranda, Patrick Yu, Yu-Xiong Wang, Oluwasanmi Koyejo
+
+NeurIPS Workshop on Meta-Learning, Contributed Talk, 2022. [PDF] [Poster]
+
+
+
+
+Towards Overcoming Data Scarcity in Materials Science: Unifying Models and Datasets with a Mixture of Experts Framework
+
+Rees Chang, Yu-Xiong Wang, Elif Ertekin
+
+Nature npj Computational Materials, 2022. [PDF] [Code]
+
+
+
+
+Generalized Few-Shot Node Classification on Graphs
+
+Zhe Xu, Kaize Ding, Yu-Xiong Wang, Huan Liu, Hanghang Tong
+
+ICDM, 2022. [PDF]
+
+
+
+
+Diverse Human Motion Prediction Guided by Multi-Level Spatial Temporal Anchors
+
+Sirui Xu, Yu-Xiong Wang*, Liang-Yan Gui*
+
+ECCV, 2022. [PDF] [Website]
+
+
+
+
+PointTree: Transformation Robust Point Cloud Encoder with Relaxed K-D Trees
+
+Junkun Chen, Yu-Xiong Wang
+
+ECCV, 2022. [PDF] [Code]
+
+
+
+
+Generative Modeling for Multi-Task Visual Learning
+
+Zhipeng Bao, Martial Hebert, Yu-Xiong Wang
+
+ICML, 2022. [PDF] [Code]
+
+
+
+
+Is Self-Supervised Contrastive Learning More Robust Than Supervised Learning?
+
+Yuanyi Zhong, Haoran Tang, Junkun Chen, Jian Peng, Yu-Xiong Wang
+
+ICML Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward, 2022. [PDF]
+
+
+
+
+DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering
+
+Liwen Wu, Jae Yong Lee, Anand Bhattad, Yu-Xiong Wang, David Forsyth
+
+CVPR, Best Paper Award Finalist, 2022. [PDF] [Website]
+
+
+
+
+Discovering Objects that Can Move
+
+Zhipeng Bao, Pavel Tokmakov, Allan Jabri, Yu-Xiong Wang, Adrien Gaidon, Martial Hebert
+
+CVPR, 2022. [PDF] [Website]
+
+
+
+
+Long-Tailed Recognition via Weight Balancing
+
+Shaden Alshammari, Yu-Xiong Wang, Deva Ramanan, Shu Kong
+
+CVPR, 2022. [PDF] [Code]
+
+
+
+
+Embracing Single Stride 3D Object Detector with Sparse Transformer
+
+Lue Fan, Ziqi Pang, Tianyuan Zhang, Yu-Xiong Wang, Hang Zhao, Feng Wang, Naiyan Wang, Zhaoxiang Zhang
+
+CVPR, 2022. [PDF] [Code]
+
+
+
+
+On the Importance of Firth Bias Reduction in Few-Shot Classification
+
+Saba Ghaffari*, Ehsan Saleh*, David Forsyth, Yu-Xiong Wang
+
+ICLR, 2022. [PDF] [Website]
+
+2021
+
+
+
+
+SIRfyN: Single Image Relighting from your Neighbors
+
+David Forsyth, Anand Bhattad, Pranav Asthana, Yuanyi Zhong, Yu-Xiong Wang
+
+Arxiv, 2021. [PDF]
+
+
+
+
+Pixel Contrastive-Consistent Semi-Supervised Semantic Segmentation
+
+Yuanyi Zhong, Bodi Yuan, Hong Wu, Zhiqiang Yuan, Jian Peng, Yuxiong Wang
+
+ICCV, 2021. [PDF]
+
+
+
+
+Learning to Hallucinate Examples from Extrinsic and Intrinsic Supervision
+
+Liangke Gui*, Adrien Bardes*, Ruslan Salakhutdinov, Alexander Hauptmann, Martial Hebert, Yuxiong Wang
+
+ICCV, 2021 (* indicates equal contribution). [PDF]
+
+
+
+
+On the Importance of Distractors for Few-Shot Learning
+
+Rajshekhar Das, Yuxiong Wang, José M. F. Moura
+
+ICCV, 2021. [PDF]
+
+
+
+
+Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection
+
+Nadine Chang, Zhiding Yu, Yuxiong Wang, Anima Anandkumar, Sanja Fidler, Jose M. Alvarez
+
+ICML, 2021. [PDF]
+
+
+
+
+Hallucination Improves Few-Shot Object Detection
+
+Weilin Zhang, Yuxiong Wang
+
+CVPR, 2021. [PDF]
+
+
+
+
+DAP: Detection-Aware Pre-training with Weak Supervision
+
+Yuanyi Zhong, Jianfeng Wang, Lijuan Wang, Jian Peng, Yuxiong Wang, , Lei Zhang
+
+CVPR, 2021. [PDF]
+
+
+
+
+Unlocking the Full Potential of Small Data with Diverse Supervision
+
+Ziqi Pang, Zhiyuan Hu, Pavel Tokmakov, Yuxiong Wang, Martial Hebert
+
+CVPR Workshop on Learning from Limited or Imperfect Data, 2021. [PDF]
+
+
+
+
+Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis
+
+Zhipeng Bao, Yuxiong Wang, Martial Hebert
+
+ICLR, 2021. [PDF]
+
+2020
+
+
+
+
+Towards Streaming Perception
+
+Mengtian Li, Yuxiong Wang, Deva Ramanan
+
+Oral Presentation, Best Paper Honorable Mention, ECCV, 2020. [PDF] [Project]
+
+
+
+
+Alpha Net: Adaptation with Composition in Classifier Space
+
+Nadine Chang, Jayanth Koushik, Michael J. Tarr, Martial Hebert, Yuxiong Wang
+
+Under review, 2020. [Preprint]
+
+
+
+
+Progressive Knowledge Distillation for Few-Shot Learning
+
+Yuxiong Wang*, Adrien Bardes*, Ruslan Salakhutdinov, Martial Hebert
+
+Under review, 2020 (* indicates equal contribution). [Preprint]
+
+Also in [NeurIPS Workshop on Learning with Rich Experience], 2019. [Poster]
+
+
+
+
+Few-Shot Generative Adversarial Networks
+
+Chunyan Bai, Yan Xu, Boyu Liu, Ruslan Salakhutdinov, Martial Hebert, Yuxiong Wang
+
+Under review, 2020. [Preprint]
+
+
+
+
+Prototypical Adaptation for Few-Shot Classification
+
+Rajshekhar Das, Yuxiong Wang, José M. F. Moura
+
+Under review, 2020. [Preprint]
+
+
+
+
+Learning Generalizable Representations via Diverse Supervision
+
+Ziqi Pang, Zhiyuan Hu, Pavel Tokmakov, Yuxiong Wang, Martial Hebert
+
+Under review, 2020. [arXiv]
+
+
+
+
+Learning to Predict Diverse Futures from a Single Past Motion Sequence
+
+Yuxiong Wang*, Liang-Yan Gui*, José M. F. Moura
+
+Under review, 2020. [Preprint]
+
+
+
+
+Meta-Learning by Hallucinating Useful Examples
+
+Yuxiong Wang*, Yuki Uchiyama*, Martial Hebert, Karteek Alahari
+
+Under review, 2020. [Preprint]
+
+2019
+
+
+
+
+Meta-Learning to Detect Rare Objects
+
+Yuxiong Wang, Deva Ramanan, Martial Hebert,
+
+ICCV, 2019. [PDF][Poster]
+
+
+
+
+Learning Compositional Representations for Few-Shot Recognition
+
+Pavel Tokmakov, Yuxiong Wang, Martial Hebert
+
+ICCV, 2019. [PDF][Poster]
+
+
+
+
+Image Deformation Meta-Networks for One-Shot Learning
+
+Zitian Chen, Yanwei Fu, Yuxiong Wang, Lin Ma, Wei Liu, Martial Hebert
+
+Oral Presentation, Best Paper Award Finalist, CVPR, 2019. [PDF][Poster][Talk]
+
+
+
+
+Embodied One-Shot Video Recognition: Learning from Actions of a Virtual Embodied Agent
+
+Yuqian Fu, Chengrong Wang, Yanwei Fu, Yuxiong Wang, Cong Bai, Xiangyang Xue, Yu-Gang
+
+Jiang, Lin Ma, Wei Liu, Martial Hebert
+
+ACM MM, 2019. [PDF]
+
+2018
+
+
+
+
+Teaching Robots to Predict Human Motion
+
+Liang-Yan Gui, Kevin Zhang, Yuxiong Wang, Xiaodan Liang, José M. F. Moura, Manuela M. Veloso
+
+Oral Presentation, IROS, 2018. [PDF]
+
+
+
+
+Few-Shot Human Motion Prediction via Meta-Learning
+
+Liang-Yan Gui, Yuxiong Wang, Deva Ramanan, José M. F. Moura
+
+ECCV, 2018. [PDF][Poster]
+
+
+
+
+Adversarial Geometry-Aware Human Motion Prediction
+
+Yuxiong Wang*, Liang-Yan Gui*, Xiaodan Liang, José M. F. Moura
+
+Oral Presentation, ECCV, 2018 (* indicates equal contribution). [PDF][Poster][Talk]
+
+
+
+
+Low-Shot Learning from Imaginary Data
+
+Yuxiong Wang, Ross Girshick, Martial Hebert, Bharath Hariharan
+
+Spotlight Oral Presentation, CVPR, 2018. [PDF][Poster][Talk]
+
+Factorized Convolutional Networks: Unsupervised Fine-Tuning for Image Clustering
+
+Liang-Yan Gui, Liangke Gui, Yuxiong Wang, Louis-Philippe Morency, José M. F. Moura
+
+Oral Presentation, WACV, 2018. [PDF]
+
+2017
+
+Learning to Model the Tail
+
+Yuxiong Wang, Deva Ramanan, Martial Hebert
+
+NeurIPS, 2017. [PDF][Poster]
+
+Also in [Contributed Talk, NeurIPS Workshop on Meta-Learning], 2017.
+
+Few-Shot Hash Learning for Image Retrieval
+
+Yuxiong Wang, Liangke Gui, Martial Hebert
+
+ICCV Workshops, 2017. [PDF]
+
+Discovering Unsupervised Binary Codes for Learning from Small Sample Sets
+
+Yuxiong Wang, Martial Hebert
+
+CVPR BigVision Workshop, 2016. [Poster]
+
+Growing a Brain: Fine-Tuning by Increasing Model Capacity
+
+Yuxiong Wang, Deva Ramanan, Martial Hebert
+
+CVPR, 2017. [PDF][Poster]
+
+Also in [Invited Talk, CVPR Workshop on Continuous and Open-Set Learning], 2017.
+
+2016
+
+Learning from Small Sample Sets by Combining Unsupervised Meta-Training with CNNs
+
+Yuxiong Wang, Martial Hebert
+
+NeurIPS, 2016. [PDF][Poster]
+
+Learning to Learn: Model Regression Networks for Easy Small Sample Learning
+
+Yuxiong Wang, Martial Hebert
+
+ECCV, 2016. [PDF][Poster]
+
+Learning by Transferring from Unsupervised Universal Sources
+
+Yuxiong Wang, Martial Hebert
+
+Oral Presentation, AAAI, 2016. [PDF]
+
+2015
+
+Model Recommendation: Generating Object Detectors from Few Samples
+
+Yuxiong Wang, Martial Hebert
+
+CVPR, 2015. [PDF][Poster][Project]
+
+2014
+
+Self-Explanatory Sparse Representation for Image Classification
+
+Yuxiong Wang*, Baodi Liu*, Bin Shen, Yu-Jin Zhang, Martial Hebert
+
+ECCV, 2014 (* indicates equal contribution). [PDF][Poster]
+
+Blockwise Coordinate Descent Schemes for Sparse Representation
+
+Bao-Di Liu, Yuxiong Wang, Bin Shen, Yu-Jin Zhang, Yanjiang Wang
+
+ICASSP, 2014. [PDF]
+
+2013
+
+Non-Negative Matrix Factorization: A Comprehensive Review
+
+Yuxiong Wang, Yu-Jin Zhang
+
+IEEE Transactions on Knowledge and Data Engineering, vol. 25, no. 6, pp.1336-1353, 2013. [PDF]
+
+Learning Dictionary on Manifolds for Image Classification
+
+Bao-Di Liu, Yuxiong Wang, Yu-Jin Zhang, Bin Shen
+
+Pattern Recognition, vol. 46, no. 7, pp. 1879-1890, 2013. [PDF]
+
+2012
+
+Neighborhood Preserving Non-Negative Tensor Factorization for Image Representation
+
+Yuxiong Wang, Liangyan Gui, Yu-Jin Zhang
+
+Oral Presentation, ICASSP, 2012. [PDF]
+
+Non-Negative Matrix Factorization for Image Representation
+
+Yuxiong Wang
+
+Best Master’s Thesis, Tsinghua University, May 2012.
+
+Discriminant Sparse Coding for Image Classification
+
+Baodi Liu, Yuxiong Wang, Yu-Jin Zhang, Yin Zheng
+
+ICASS, 2012. [PDF]
+
+2011
+
+Image Inpainting via Weighted Sparse Non-Negative Matrix Factorization
+
+Yuxiong Wang, Yu-Jin Zhang
+
+ICIP, 2011. [PDF][Poster]
+
+Valid XHTML 1.0 Strict.
+Valid CSS Level 2.1.
+
+Made on a 
+
+

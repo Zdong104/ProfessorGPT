@@ -1,0 +1,127 @@
+Professor: P. Sadayappan
+University: University of Utah
+URL: http://www.cs.utah.edu/~saday
+Description: 	
+
+P. (Saday) Sadayappan
+Professor
+
+School of Computing
+University of Utah
+Salt Lake City, UT 84112-9205
+Email:saday_at_cs.utah.edu
+
+
+Teaching
+CS 4230/6230 (Parallel and High-Performance Computing)
+
+Research Interests
+Compiler Optimization for High Performance Computing
+Optimization of Sparse/Dense Matrix/Tensor Computations
+Scalable Machine Learning
+Algorithm-Architecture Co-Design Optimization
+
+Current/Recent Projects
+Enabling next generation machine learning for large scale image analysis NIH SBIR-Phase 2 (with RNET Technologies, Dayton, OH; Gerald Sabin (PI)), 2023-2025.
+A Comprehensive Framework for Efficient, Scalable, and Performance-Portable Tensor Applications NSF, 2022-2027.
+AI Institute for Intelligent CyberInfrastructure with Computational Learning in the Environment (ICICLE) (Utah PI for the multi-institutional project led by D.K. Panda at Ohio State University) NSF, 2021-2026.
+Data Locality Optimization for Sparse Matrix/Tensor Computations NSF, 2020-2024.
+A framework for solution of coupled partial differential equations on heterogeneous parallel systems (PI: Hari Sundar) NSF, 2020-2024.
+Parallel Algorithm by Blocks - A Data-centric Compiler/runtime System for Productive Programming of Scalable Parallel Systems NSF, 2019-2023.
+Tools for Productive High-Performance Computing with GPUs NSF, 2019-2023.
+Performance Portable Framework for Developing Graph Applications DARPA SBIR-Phase 2 (with RNET Technologies, Dayton, OH), 2017-2022.
+Towards Automated Characterization of the Data-Movement Complexity of Large Scale Analytics Applications, NSF, 2016-2019.
+PARAGRAPH: Parallel, Scalable Graph Analytics, NSF, 2016-2019.
+Whole-Program Adaptive Error Detection and Mitigation, DOE, 2015-2019 (Project PI: Sriram Krishnamoorthy, PNNL).
+Improving Vectorization, NSF, 2014-2018.
+Compiler/Runtime Support for Developing Scalable Parallel Multi-Scale Multi-Physics Applications, NSF, 2014-2018.
+
+
+Selected Publications [More complete and up-to-date list from (DBLP) or (Google Scholar) ]
+CGO '22	Comprehensive Accelerator-Dataflow Co-Design Optimization for Convolutional Neural Networks
+Miheer Vaidya, Aravind Sukumaran-Rajam, Atanas Rountev, and P. Sadayappan
+PLDI '21	IOOpt: Automatic Derivation of I/O Complexity Bounds for Affine Programs
+Auguste Olivry, Guillaume Iooss, Nicolas Tollenaere, Atanas Rountev, P. Sadayappan, and Fabrice Rastello
+ASPLOS '21	Analytical Characterization and Design Space Exploration for Optimization of CNNs
+Rui Li, Yufan Xu, Aravind Sukumaran-Rajam, Atanas Rountev, and P. Sadayappan
+SPAA '21	Brief Announcement: Efficient Distributed Algorithms for Convolutional Neural Networks
+Rui Li, Yufan Xu, Aravind Sukumaran-Rajam, Atanas Rountev, and P. Sadayappan
+SC '20	Efficient Tiled Sparse Matrix Multiplication Through Matrix Signatures
+Sureyya Emre Kurt, Aravind Sukumaran-Rajam, Fabrice Rastello, and P. Sadayappan
+SC '20	Scalable Heterogeneous Execution of a Coupled-Cluster Model with Perturbative Triples
+Jinsung Kim, Ajay Panyala, Bo Peng, Karol Kowalski, P. Sadayappan, and Sriram Krishnamoorthy
+SC '20	Compiling Generalized Histograms for GPU
+Troels Henriksen, Sune Hellfritzsch, P. Sadayappan, and Cosmin Oancea
+PLDI '20	Automated Derivation of Parametric Data Movement Lower Bounds for Affine Programs
+Auguste Olivry, Julien Langou, Louis-Noel Pouchet, P. Sadayappan, and Fabrice Rastello
+KDD '20	ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization
+Gordon E. Moon, J. Austin Ellis, Aravind Sukumaran-Rajam, Srinivasan Parthasarathy, and P. Sadayappan
+SC '19	Analytical Cache Modeling and Tilesize Optimization for Tensor Contractions
+Rui Li, Aravind Sukumaran-Rajam, Richard Veras, Tze Meng Low, Fabrice Rastello, Atanas Rountev, and P. Sadayappan
+SC '19	An Efficient Mixed-mode Representation of Sparse Tensors
+Israt Nisa, Jiajia Li, Aravind Sukumaran-Rajam, Prashant Singh Rawat, Sriram Krishnamoorthy, and P. Sadayappan
+CGO '19	A Code Generator for High-Performance Tensor Contractions on GPUs
+Jinsung Kim, Aravind Sukumaran-Rajam, Vineeth Thumma, Sriram Krishnamoorthy, Ajay Panyala, Louis-Noel Pouchet, Atanas Rountev, and P. Sadayappan
+PPOPP '19	Adaptive Sparse Tiling for Sparse Matrix Multiplication
+Changwan Hong, Aravind Sukumaran-Rajam, Israt Nisa, Kunal Singh, and P. Sadayappan
+PLDI '18	GPU Code Optimization using Abstract Kernel Emulation and Sensitivity Analysis
+Changwan Hong, Aravind Sukumaran-Rajam, Jinsung Kim, Prashant Singh Rawat, Sriram Krishnamoorthy, Louis-Noel Pouchet, Fabrice Rastello, and P. Sadayappan
+HPDC '18	Efficient Sparse-Matrix Multi-Vector Product on GPUs
+Changwan Hong, Aravind Sukumaran-Rajam, Bortik Bandyopadhyay, Jinsung Kim, Sureyya Emre Kurt, Israt Nisa, Shivani Sabhlok, Umit Catalyu¼rek, Srinivasan Parthasarathy, and P. Sadayappan
+ICS '18	Optimizing Tensor Contractions in CCSD(T) for Efficient Execution on GPUs
+Jinsung Kim, Aravind Sukumaran Rajam, Changwan Hong, Ajay Panyala, Rohit Srivastava, Sriram Krishnamoorthy, and P. Sadayappan
+PPOPP '18	Register optimizations for stencils on GPUs
+Prashant Rawat, Fabrice Rastello, Louis-Noel Pouchet, Atanas Rountev, and P. Sadayappan
+POPL '18	Analytical Modeling of Cache Behavior for Affine Programs
+Wenlei Bao, Sriram Krishnamoorthy, Louis-Noel Pouchet, Fabrice Rastello, and P. Sadayappan
+PACT '17	MultiGraph: Efficient Graph Processing on GPUs
+Changwan Hong, Aravind Sukumaran-Rajam, Jinsung Kim, and P. Sadayappan
+ICS '17	On Improving Performance of Sparse Matrix-Matrix Multiplication on GPUs
+Rakshith Kunchum, Ankur Chaudhry, Aravind Sukumaran-Rajam, Qingpeng Niu, Israt Nisa, and P. Sadayappan
+PPOPP '17	Optimizing the Four-Index Integral Transform Using Data Movement Lower Bounds Analysis
+Samyam Rajbhandari, Fabrice Rastello, Karol Kowalski, Sriram Krishnamoorthy, and P. Sadayappan
+PACT '16	Resource Conscious Reuse-Driven Tiling for GPUs
+Prashant Rawat, Changwan Hong, Mahesh Ravishankar, Vinod Grover, Louis-Noel Pouchet, Atanas Rountev, and P. Sadayappan
+SC '16	A Domain-Specific Compiler for a Parallel Multiresolution Adaptive Numerical Simulation Environment
+Samyam Rajbhandari, Jinsung Kim, Sriram Krishnamoorthy, Louis-Noel Pouchet, Fabrice Rastello, Robert J. Harrison, and P. Sadayappan
+PLDI '16	Effective Padding of Multidimensional Arrays to Avoid Cache Conflict Misses
+C. Hong, W. Bao, A. Cohen, S. Krishnamoorthy, L.-N. Pouchet, F. Rastello, J. Ramanujam, and P. Sadayappan
+POPL '16	PolyCheck: Dynamic Verification of Iteration Space Transformations on Affine Programs
+Wenlei Bao, Sriram Krishnamoorthy, Louis-Noel Pouchet, Fabrice Rastello, and P. Sadayappan
+POPL '15	On Characterizing the Data Access Complexity of Programs
+Venmugil Elango, Fabrice Rastello, Louis-Noel Pouchet, J. Ramanujam, and P. Sadayappan
+PPOPP '15	Distributed Memory Code Generation for Mixed Irregular/Regular Computations
+Mahesh Ravishankar, Roshan Dathathri, Venmugil Elango, Louis-Noel Pouchet, J. Ramanujam, Atanas Rountev, and P. Sadayappan
+PPOPP '15	On Optimizing Machine Learning Workloads via Kernel Fusion
+Arash Ashari, Shirish Tatikonda, Matthias Boehm, Berthold Reinwald, Keith Campbell, John Keenleyside, and P. Sadayappan
+SC '14	A Communication-Optimal Framework for Contracting Distributed Tensors
+Samyam Rajbhandari, Akshay Nikam, Pai-Wei Lai, Kevin Stock, Sriram Krishnamoorthy, and P. Sadayappan
+PLDI '14	A Framework for Enhancing Data Reuse via Associative Reordering
+Kevin Stock, Martin Kong, Tobias Grosser, Louis-Noel Pouchet, Fabrice Rastello, J. Ramanujam, and P. Sadayappan
+PLDI '14	Compiler-Assisted Detection of Transient Memory Errors
+Sanket Tavarageri, Sriram Krishnamoorthy, and P. Sadayappan
+SPAA '14	On Characterizing the Data Movement Complexity of Computational DAGs for Parallel Execution
+Venmugil Elango, Fabrice Rastello, Louis-Noel Pouchet, J. Ramanujam, and P. Sadayappan
+SC '13	A Framework for Load Balancing of Tensor Contraction Expressions via Dynamic Task Partitioning
+Pai-Wei Lai, Kevin Stock, Samyam Rajbhandari, Sriram Krishnamoorthy, and P. Sadayappan
+PLDI '13	When Polyhedral Transformations Meet SIMD Code Generation
+Martin Kong, Richard Veras, Kevin Stock, Franz Franchetti, Louis-Noel Pouchet, and P. Sadayappan
+PLDI '12	Dynamic Trace-Based Analysis of Vectorization Potential of Applications
+Justin Holewinski, Ragavendar Ramamurthi, Mahesh Ravishankar, Naznin Fauzia, Louis-Noel Pouchet, Atanas Rountev, and P. Sadayappan
+POPL '11	Loop Transformations: Convexity, Pruning and Optimization
+Louis-Noel Pouchet, Uday Bondhugula, Cedric Bastoul, Albert Cohen, J. Ramanujam, P. Sadayappan, and Nicolas Vasilache
+CC '10	Automatic C-to-CUDA Code Generation for Affine Programs
+Muthu Baskaran, J. Ramanujam, and P. Sadayappan
+SC '09	Scalable Work Stealing
+James Dinan, Brian Larkins, Sriram Krishnamoorthy, Jarek Nieplocha, and P. Sadayappan
+ICS '08	A Compiler Framework for Optimization of Affine Loop Nests for GPGPUs
+Muthu Baskaran, Uday Bondhugula, Sriram Krishnamoorthy, J. Ramanujam, Atanas Rountev, and P. Sadayappan
+PLDI '08	A Practical Automatic Polyhedral Parallelizer and Locality Optimizer (recipient of ACM SIGPLAN Most Influential PLDI Paper Award in 2018)
+Uday Bondhugula, Albert Hartono, J. Ramanujam, and P. Sadayappan
+PLDI '07	Effective Automatic Parallelization of Stencil Computations
+Sriram Krishnamoorthy, Muthu Baskaran, Uday Bondhugula, J. Ramanujam, Atanas Rountev, and P. Sadayappan
+Proceedings IEEE '05	Synthesis of High-Performance Parallel Programs for a Class of Ab Initio Quantum Chemistry Models
+Gerald Baumgartner, Alexander Auer, David E Bernholdt, Alina Bibireata, Venkatesh Choppella, Daniel Cociorva, Xiaoyang Gao, Robert J Harrison, So Hirata, Sriram Krishnamoorthy, Sandhya Krishnan, Chi-Chung Lam, Qingda Lu, Marcel Nooijen, Russell M Pitzer, J Ramanujam, Alex Sibiryakov, and P. Sadayappan
+	
+
+

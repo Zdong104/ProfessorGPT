@@ -1,0 +1,438 @@
+Professor: Philipp Koehn
+University: Johns Hopkins University
+URL: http://www.cs.jhu.edu/~phi
+Description: 	
+philipp koehn	
+Professor at The Johns Hopkins University
+Department of Computer Science
+Hackerman 227
+3400 North Charles Street
+Baltimore, MD 21218-2608
+Fon: 1 410 516-3427
+Mail: phi@jhu.edu
+Wikipedia Google Scholar	
+
+My work is currently focused on machine translation, but more broadly defined, my interest is to make use of the vast amount of information that is available in digital form.
+
+My new book on neural machine translation is now available at amazon.com. My previous book on statistical machine translation is also still available at amazon.com.
+
+More on the Machine Translation Group here. Come and join our weekly meeting!
+
+I am also affilliated with the University of Edinburgh, some more information can be found on a web page there.
+
+teaching
+
+EN 601.467/667 Introduction to Human Language Technology, Fall 2019, 2020, 2021, 2022, 2023
+EN 601.229 Computer Systems Fundamentals, Fall 2016, Spring 2018, Fall 2019
+EN 601.464/664 Artificial Intelligence, Fall 2015, Spring 2017, 2019, 2020, 2024
+EN 601.468/668 Machine Translation, Spring 2015, 2016, Fall 2017, 2018, 2020, 2021, 2022, 2023
+EN 601.868 Selected Topics in Machine Translation, every Spring and Fall
+	 	
+
+software and resources
+
+Statistical Machine Translation Website
+Moses, an open source statistical machine translation system
+Online Translation, based on Moses
+SMT Research Survey Wiki, a Wiki covering all research publications in statistical machine translation
+Online Evaluation Matrix, EuroMatrix project
+Computer Aided Translation Tool CASMACAT, CASMACAT project
+Computer Aided Translation Tool Caitra, EuroMatrixPlus project
+Pharaoh, 2003, 2004, a beam search decoder for phrase-based statistical machine translation models (replaced by Moses)
+Global Voices Parallel Corpus, 2015, 2016.
+Parallel Corpus European Parliament Proceedings, 2001, 2003, 2007.
+German-English Parallel Corpus "de-news", Daily News 1996-2000, 2000.
+
+	 	media
+
+The Global Podcast, 2020
+Interview with NPR, 2018
+Translation Europe Forum
+JIAMCATT, UN, 2015
+Talk at Yandex
+CNN, 2013
+Edinburgh inaugural lecture
+European Inventor Award, 2013 finalist
+French TV, 2010
+phd students
+
+Elizabeth Salesky (with Matt Post)
+Rachel Wicks (with Matt Post)
+Haoran Xu (with Kenton Murray)
+Elina Baral
+Bismarck Odoom
+Weiting Tan
+graduated phd students
+
+Kelly Marchisio, 2023
+Xutai Ma, 2022
+Shuoyang Ding, 2022
+Huda Khayrallah, 2021
+Gaurav Kumar, 2021
+Brian Thompson, 2020
+Adithya Renduchintala, 2020
+Rebecca Knowles, 2019
+Maria Nadejde, 2017
+Liane Guillou, 2016
+Eva Hasler, 2015
+Philip Williams, 2014
+Michael Auli, 2012
+Loïc Dugast, 2012
+Hieu Hoang, 2011
+Abhishek Arun, 2010
+
+publications
+
+Recent and upcoming papers may appear on arXiv.
+
+2024
+
+
+Error Norm Truncation: Robust Training in the Presence of Data Noise for Text Generation Models, Tianjian Li, Haoran Xu, Philipp Koehn, Daniel Khashabi, Kenton Murray, Proceedings of the International Conference on Machine Learning (ICML), 2024, pdf.
+Narrowing the Gap between Zero- and Few-shot Machine Translation by Matching Styles, Weiting Tan, Haoran Xu, Lingfeng Shen, Shuyue Stella Li, Kenton Murray, Philipp Koehn, Benjamin Van Durme, Yunmo Chen, Findings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024, pdf, bib.
+Where are you from? Geolocating Speech and Applications to Language Identification, Patrick Foley, Matthew Wiesner, Bismarck Bamfo Odoom, Leibny Paola Garcia Perera, Kenton Murray, Philipp Koehn, Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024, pdf, bib.
+2023
+
+Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer, Elizabeth Salesky, Neha Verma, Philipp Koehn, Matt Post, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 13845-13861, 2023, pdf, bib.
+Small data, big impact: Leveraging minimal data for effective machine translation, Jean Maillard, Cynthia Gao, Elahe Kalbassi, Kaushik Ram Sadagopan, Vedanuj Goswami, Philipp Koehn, Angela Fan, Francisco Guzman, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), pages 2740-2756, 2023, pdf, bib.
+Condensing Multilingual Knowledge with Lightweight Language-Specific Modules, Haoran Xu, Weiting Tan, Shuyue Li, Yunmo Chen, Benjamin Van Durme, Philipp Koehn, Kenton Murray, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1575-1587, 2023, pdf, bib.
+Multilingual Representation Distillation with Contrastive Learning, Weiting Tan, Kevin Heffernan, Holger Schwenk, Philipp Koehn, Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pages 1477-1490, pdf, bib.
+Machine Translation with Large Language Models: Prompting, Few-shot Learning, and Fine-tuning with QLoRA, Xuan Zhang, Navid Rajabi, Kevin Duh, Philipp Koehn, Proceedings of the Eighth Conference on Machine Translation (WMT), pages 468-481, 2023, pdf, bib.
+Learning from Mistakes: Towards Robust Neural Machine Translation for Disfluent L2 Sentences, Shuyue Stella Li, Philipp Koehn, Proceedings of Machine Translation Summit XIX, pages 235-247, 2023, pdf, bib.
+Findings of the 2023 Conference on Machine Translation (WMT23): LLMs are here but not quite there yet, Tom Kocmi, Eleftherios Avramidis, Rachel Bawden, Ondřej Bojar, Anton Dvorkovich, Christian Federmann, Mark Fishel, Markus Freitag, Thamme Gowda, Roman Grundkiewicz, Barry Haddow, Philipp Koehn, Benjamin Marie, Christof Monz, Makoto Morishita, Kenton Murray, Makoto Nagata, Toshiaki Nakazawa, Martin Popel, Maja Popović, Mariya Shmatova, Proceedings of the Eighth Conference on Machine Translation (WMT), 2023, pdf, bib.
+Findings of the WMT 2023 shared task on parallel data curation, Steve Sloto, Brian Thompson, Huda Khayrallah, Tobias Domhan, Thamme Gowda, Philipp Koehn, Proceedings of the Eighth Conference on Machine Translation (WMT), 2023, pdf, bib.
+Findings of the Word-Level AutoCompletion Shared Task in WMT 2023, Lemao Liu, Francisco Casacuberta, George Foster, Guoping Huang, Philipp Koehn, Geza Kovacs, Shuming Shi, Taro Watanabe, Chengqing Zong, Proceedings of the Eighth Conference on Machine Translation (WMT), 2023, pdf, bib.
+Findings of the WMT 2023 shared task on discourse-level literary translation: A fresh orb in the cosmos of LLMs, Longyue Wang, Zhaopeng Tu, Yan Gu, Siyou Liu, Dian Yu, Qingsong Ma, Chenyang Lyu, Liting Zhou, Chao-Hong Liu, Yufeng Ma, Weiyu Chen, Yvette Graham, Bonnie Webber, Philipp Koehn, Andy Way, Yulin Yuan, Shuming Shi, Proceedings of the Eighth Conference on Machine Translation (WMT), 2023, pdf, bib.
+2022
+
+Alternative Input Signals Ease Transfer in Multilingual Machine Translation, Simeng Sun, Angela Fan, James Cross, Vishrav Chaudhary, Chau Tran, Philipp Koehn and Francisco Guzmán, Proceedings of the 60th Annual Meeting of the Association for Computational (ACL), 2022, pdf, bib.
+Learn To Remember: Transformer with Recurrent Memory for Document-Level Machine Translation, Yukun Feng, Feng Li, Ziang Song, Boyuan Zheng and Philipp Koehn, Findings of the Association for Computational Linguistics (NAACL), 2022, pdf, bib.
+Doubly-Trained Adversarial Data Augmentation for Neural Machine Translation, Weiting Tan, Shuoyang Ding, Huda Khayrallah and Philipp Koehn, Proceedings of Conference of the Association for Machine Translation in the Americas (AMTA), 2022, pdf, bib.
+Embedding-Enhanced GIZA++: Improving Low-Resource Word Alignment Using Embeddings, Kelly Marchisio, Conghao Xiong and Philipp Koehn, Proceedings of Conference of the Association for Machine Translation in the Americas (AMTA), 2022, pdf, bib.
+Consistent Human Evaluation of Machine Translation across Language Pairs, Daniel Licht, Cynthia Gao, Janice Lam, Francisco Guzman, Mona Diab and Philipp Koehn, Proceedings of Conference of the Association for Machine Translation in the Americas (AMTA), 2022, pdf, bib.
+Bilingual Lexicon Induction for Low-Resource Languages using Graph Matching via Optimal Transport, Kelly Marchisio, Ali Saad-Eldin, Kevin Duh, carey e. priebe and Philipp Koehn, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, pdf, bib.
+The Importance of Being Parameters: An Intra-Distillation Method for Serious Gains, Haoran Xu, Philipp Koehn and Kenton Murray, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, pdf, bib.
+IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces, Kelly Marchisio, Neha Verma, Kevin Duh and Philipp Koehn, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, pdf, bib..
+Toward the Limitation of Code-Switching in Cross-Lingual Transfer, Yukun Feng, Li Feng and Philipp Koehn, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2022, pdf, bib..
+Data Selection Curriculum for Neural Machine Translation, Tasnim Mohiuddin, Philipp Koehn, Vishrav Chaudhary, James Cross, Shruti Bhosale and Shafiq Joty, Findings of the Association for Computational Linguistics: EMNLP, 2022, pdf, bib.
+No Language Left Behind: Scaling Human-Centered Machine Translation, NLLB Team, Marta R. Costa-jussà, James Cross, Onur Çelebi, Maha Elbayad, Kenneth Heafield, Kevin Heffernan, Elahe Kalbassi, Janice Lam, Daniel Licht, Jean Maillard, Anna Sun, Skyler Wang, Guillaume Wenzek, Al Youngblood, Bapi Akula, Loic Barrault, Gabriel Mejia Gonzalez, Prangthip Hansanti, John Hoffman, Semarley Jarrett, Kaushik Ram Sadagopan, Dirk Rowe, Shannon Spruit, Chau Tran, Pierre Andrews, Necip Fazil Ayan, Shruti Bhosale, Sergey Edunov, Angela Fan, Cynthia Gao, Vedanuj Goswami, Francisco Guzmán, Philipp Koehn, Alexandre Mourachko, Christophe Ropers, Safiyyah Saleem, Holger Schwenk and Jeff Wang, arXiv, pdf, bib.
+Findings of the 2022 Conference on Machine Translation (WMT22), Tom Kocmi, Rachel Bawden, Ondřej Bojar, Anton Dvorkovich, Christian Federmann, Mark Fishel, Thamme Gowda, Yvette Graham, Roman Grundkiewicz, Barry Haddow, Rebecca Knowles, Philipp Koehn, Christof Monz, Makoto Morishita, Masaaki Nagata, Toshiaki Nakazawa, Michal Novák, Martin Popel and Maja Popovic, Proceedings of the Seventh Conference on Machine Translation (WMT), pdf, bib.
+Findings of the Word-Level AutoCompletion Shared Task in WMT 2022, Francisco Casacuberta, George Foster, Guoping Huang, Philipp Koehn, Geza Kovacs, Lemao Liu, Shuming Shi, Taro Watanabexi and, Chengqing Zong, Proceedings of the Seventh Conference on Machine Translation (WMT), pdf, bib.
+Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation, Xuan-Phi Nguyen, Hongyu Gong, Yun Tang, Changhan Wang, Philipp Koehn and Shafiq Joty, Proceedings of ICLR, 2022, pdf.
+2021
+
+Evaluating Saliency Methods for Neural Language Models, Shuoyang Ding and Philipp Koehn, Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL/HCL), 2021, pdf, bib.
+Zero-Shot Cross-Lingual Dependency Parsing through Contextual Embedding Transformation, Haoran Xu and Philipp Koehn, Proceedings of the Second Workshop on Domain Adaptation for NLP, 2021, pdf, bib.
+Levenshtein Training for Word-level Quality Estimation, Shuoyang Ding, Marcin Junczys-Dowmunt, Matt Post and Philipp Koehn, Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021, pdf, bib.
+XLEnt: Mining a Large Cross-lingual Entity Dataset with Lexical-Semantic-Phonetic Word Alignment, Ahmed El-Kishky, Adithya Renduchintala, James Cross, Francisco Guzmán and Philipp Koehn, Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021, pdf, bib.
+Learning Curricula for Multilingual Neural Machine Translation Training, Gaurav Kumar, Philipp Koehn, Sanjeev Khudanpur, Proceedings of Machine Translation Summit XVIII, 2021, pdf, bib.
+An Alignment-Based Approach to Semi-Supervised Bilingual Lexicon Induction with Small Parallel Corpora, Kelly Marchisio, Philipp Koehn, Conghao Xiong, Proceedings of Machine Translation Summit XVIII, 2021, pdf, bib.
+Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data, Wei-Jen Ko, Ahmed El-Kishky, Adithya Renduchintala, Vishrav Chaudhary, Naman Goyal, Francisco Guzmán, Pascale Fung, Philipp Koehn and Mona Diab, Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021, pdf, bib.
+Findings of the 2021 Conference on Machine Translation (WMT21), Farhad Akhbardeh, Arkady Arkhangorodsky, Magdalena Biesialska, Ondřej Bojar, Rajen Chatterjee, Vishrav Chaudhary, Marta R. Costa-jussa, Cristina España-Bonet, Angela Fan, Christian Federmann, Markus Freitag, Yvette Graham, Roman Grundkiewicz, Barry Haddow, Leonie Harter, Kenneth Heafield, Christopher Homan, Matthias Huck, Kwabena Amponsah-Kaakyire, Jungo Kasai, Daniel Khashabi, Kevin Knight, Tom Kocmi, Philipp Koehn, Nicholas Lourie, Christof Monz, Makoto Morishita, Masaaki Nagata, Ajay Nagesh, Toshiaki Nakazawa, Matteo Negri, Santanu Pal, Allahsera Auguste Tapo, Marco Turchi, Valentin Vydrin and Marcos Zampieri, Proceedings of the Sixth Conference on Machine Translation (WMT), 2021, pdf, bib.
+Facebook AI’s WMT21 News Translation Task Submission, Chau Tran, Shruti Bhosale, James Cross, Philipp Koehn, Sergey Edunov and Angela Fan, Proceedings of the Sixth Conference on Machine Translation (WMT), 2021, pdf, bib.
+Findings of the WMT Shared Task on Machine Translation Using Terminologies, Md Mahfuz Ibn Alam, Ivana Kvapilíková, Antonios Anastasopoulos, Laurent Besacier, Georgiana Dinu, Marcello Federico, Matthias Gallé, Kweonwoo Jung, Philipp Koehn and Vassilina Nikoulina, Proceedings of the Sixth Conference on Machine Translation (WMT), 2021, pdf, bib.
+The JHU-Microsoft Submission for WMT21 Quality Estimation Shared Task, Shuoyang Ding, Marcin Junczys-Dowmunt, Matt Post, Christian Federmann and Philipp Koehn, Proceedings of the Sixth Conference on Machine Translation (WMT), 2021, pdf, bib.
+Learning Feature Weights using Reward Modeling for Denoising Parallel Corpora, Gaurav Kumar, Philipp Koehn and Sanjeev Khudanpur, Proceedings of the Sixth Conference on Machine Translation (WMT), 2021, pdf, bib.
+An Analysis of Euclidean vs. Graph-Based Framing for Bilingual Lexicon Induction from Word Embedding Spaces, Kelly Marchisio, Youngser Park, Ali Saad-Eldin, Anton Alyakin, Kevin Duh, Carey Priebe and Philipp Koehn, Findings of the Association for Computational Linguistics: EMNLP, 2021, pdf, bib.
+Streaming simultaneous speech translation with augmented memory transformer, Xutai Ma, Yongqiang Wang, Mohammad Javad Dousti, Philipp Koehn and Juan Pino, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021, pdf.
+2020
+
+Neural Machine Translation, Philipp Koehn, textbook, Cambridge University Press, 2020.
+ParaCrawl: Web-Scale Acquisition of Parallel Corpora, Marta Bañón, Pinzhen Chen, Barry Haddow, Kenneth Heafield, Hieu Hoang, Miquel Esplà-Gomis, Mikel L. Forcada, Amir Kamran, Faheem Kirefu, Philipp Koehn, Sergio Ortiz Rojas, Leopoldo Pla Sempere, Gema Ramírez-Sánchez, Elsa Sarrías, Marek Strelec, Brian Thompson, William Waites, Dion Wiggins and Jaume Zaragoza, Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), 2020, pdf, bib.
+Statistical Power and Translationese in Machine Translation Evaluation, Yvette Graham, Barry Haddow and Philipp Koehn, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, pdf, bib.
+Simulated multiple reference training improves low-resource machine translation, Huda Khayrallah, Brian Thompson, Matt Post and Philipp Koehn, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, pdf, bib.
+CCAligned: A Massive Collection of Cross-Lingual Web-Document Pairs, Ahmed El-Kishky, Vishrav Chaudhary, Francisco Guzmán and Philipp Koehn, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, pdf, bib.
+Exploiting Sentence Order in Document Alignment, Brian Thompson and Philipp Koehn, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020, pdf, bib.
+Findings of the 2020 Conference on Machine Translation (WMT20), Loïc Barrault, Magdalena Biesialska, Ondřej Bojar, Marta R. Costa-jussà, Christian Federmann, Yvette Graham, Roman Grundkiewicz, Barry Haddow, Matthias Huck, Eric Joanis, Tom Kocmi, Philipp Koehn, Chi-kiu Lo, Nikola Ljubešić, Christof Monz, Makoto Morishita, Masaaki Nagata, Toshiaki Nakazawa, Santanu Pal, Matt Post and Marcos Zampieri, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+Findings of the WMT 2020 Shared Task on Machine Translation Robustness, Lucia Specia, Zhenhao Li, Juan Pino, Vishrav Chaudhary, Francisco Guzmán, Graham Neubig, Nadir Durrani, Yonatan Belinkov, Philipp Koehn, Hassan Sajjad, Paul Michel and Xian Li, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+Findings of the WMT 2020 Shared Task on Parallel Corpus Filtering and Alignment, Philipp Koehn, Vishrav Chaudhary, Ahmed El-Kishky, Naman Goyal, Peng-Jen Chen and Francisco Guzmán, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+An exploratory approach to the Parallel Corpus Filtering shared task WMT20, Ankur Kejriwal and Philipp Koehn, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+Dual Conditional Cross Entropy Scores and LASER Similarity Scores for the WMT20 Parallel Corpus Filtering Shared Task, Felicia Koerner and Philipp Koehn, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+When Does Unsupervised Machine Translation Work?, Kelly Marchisio, Kevin Duh and Philipp Koehn, Proceedings of the Fifth Conference on Machine Translation (WMT), 2020, pdf, bib.
+TICO-19: the Translation Initiative for CoVid-19, Antonios Anastasopoulos, Alessandro Cattelan, Zi-Yi Dou, Marcello Federico, Christian Federmann, Dmitriy Genzel, Franscisco Guzmán, Junjie Hu, Macduff Hughes, Philipp Koehn, Rosie Lazar, Will Lewis, Graham Neubig, Mengmeng Niu, Alp Öktem, Eric Paquin, Grace Tang, Sylwia Tur, Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020, pdf, bib.
+Searching the Web for Cross-lingual Parallel Data, Ahmed El-Kishky, Philipp Koehn and Holger Schwenk, tutorial at Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020.
+Neural Interactive Translation Prediction, Philipp Köhn, Rebecca Knowles and Marina Sanchez Torron, book chapter, Maschinelle Übersetzung für Übersetzungsprofis, BDÜ Fachverlag, 2020.
+SimulMT to SimulST: Adapting Simultaneous Text Translation to End-to-End Simultaneous Speech Translation, Xutai Ma, Juan Pino and Philipp Koehn, Proceedings of the 1st Conference of the Asian Chapter of the Association for Computational Linguistics (AACL), 2020, pdf, bib.
+Searching the Web for Cross-lingual Parallel Data, Ahmed El-Kishky, Philipp Koehn and Holger Schwenk, tutorial, Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, 2020, pdf.
+A Survey of Qualitative Error Analysis for Neural Machine Translation Systems, Denise Díaz, James Cross, Vishrav Chaudhary, Ahmed Kishky and Philipp Koehn, Proceedings of the 14th Conference of the Association for Machine Translation in the Americas (AMTA), 2020, pdf, bib.
+2019
+
+Vecalign: Improved Sentence Alignment in Linear Time and Space, Brian Thompson and Philipp Koehn, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019, pdf, bib.
+HABLex: Human Annotated Bilingual Lexicons for Experiments in Machine Translation, Brian Thompson, Rebecca Knowles, Xuan Zhang, Huda Khayrallah, Kevin Duh and Philipp Koehn, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), pdf, bib.
+The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English, Francisco Guzmán, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample, Philipp Koehn, Vishrav Chaudhary and, Marc’Aurelio Ranzato, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), pdf, bib.
+Spelling-Aware Construction of Macaronic Texts for Teaching Foreign-Language Vocabulary, Adithya Renduchintala, Philipp Koehn and Jason Eisner, Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), pdf, bib.
+Saliency-driven Word Alignment Interpretation for Neural Machine Translation, Shuoyang Ding, Hainan Xu and Philipp Koehn, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Findings of the 2019 Conference on Machine Translation (WMT19), Loïc Barrault, Ondrej Bojar, Marta R. Costa-jussa, Christian Federmann, Mark Fishel, Yvette Graham, Barry Haddow, Matthias Huck, Philipp Koehn, Shervin Malmasi, Christof Monz, Mathias Müller, Santanu Pal, Matt Post and Marcos Zampieri, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Findings of the First Shared Task on Machine Translation Robustness, Xian Li, Paul Michel, Antonios Anastasopoulos, Yonatan Belinkov, Nadir Durrani, Orhan Firat, Philipp Koehn, Graham Neubig, Juan Pino and Hassan Sajjad, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Johns Hopkins University Submission for WMT News Translation Task, Kelly Marchisio, Yash Kumar Lal and Philipp Koehn, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Findings of the WMT 2019 Shared Task on Parallel Corpus Filtering for Low-Resource Conditions, Philipp Koehn, Francisco Guzmán, Vishrav Chaudhary and Juan Pino, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Low-Resource Corpus Filtering Using Multilingual Sentence Embeddings, Vishrav Chaudhary, Yuqing Tang, Francisco Guzmán, Holger Schwenk and Philipp Koehn, Proceedings of the Fourth Conference on Machine Translation (WMT), 2019, pdf, bib.
+Simple Construction of Mixed-Language Texts for Vocabulary Learning, Adithya Renduchintala, Philipp Koehn and Jason Eisner, Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications, 2019, pdf, bib.
+Robust Document Representations for Cross-Lingual Information Retrieval in Low-Resource Settings, Mahsa Yarmohammadi, Xutai Ma, Sorami Hisamoto, Muhammad Rahman, Yiming Wang, Hainan Xu, Daniel Povey, Philipp Koehn and Kevin Duh, Proceedings of Machine Translation Summit, 2019, pdf, bib.
+Controlling the Reading Level of Machine Translation Output, Kelly Marchisio, Jialiang Guo, Cheng-I Lai and Philipp Koehn, Proceedings of Machine Translation Summit, 2019, pdf, bib.
+Character-Aware Decoder for Translation into Morphologically Rich Languages, Adithya Renduchintala, Pamela Shapiro, Kevin Duh and Philipp Koehn, Proceedings of Machine Translation Summit, 2019, pdf, bib.
+De-Mixing Sentiment from Code-Mixed Text, Yash Kumar Lal, Vaibhav Kumar, Mrinal Dhar, Manish Shrivastava and Philipp Koehn, Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, 2019, pdf, bib.
+A User Study of Neural Interactive Translation Prediction, Rebecca Knowles, Marina Sanchez-Torron and Philipp Koehn, Machine Translation, 2019, pdf.
+Overcoming Catastrophic Forgetting During Domain Adaptation of Neural Machine Translation, Brian Thompson, Jeremy Gwinnup, Huda Khayrallah, Kevin Duh and Philipp Koehn, Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2019, pdf, bib.
+Parallelizable Stack Long Short-Term Memory, Shuoyang Ding and Philipp Koehn, NAACL 2019 Workshop on Structured Prediction for NLP, 2019, pdf, bib.
+2018
+
+Context and Copying in Neural Machine Translation, Rebecca Knowles and Philipp Koehn, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2018, pdf, bib.
+Iterative Back-Translation for Neural Machine Translation, Vu Cong Duy Hoang, Philipp Koehn, Gholamreza Haffari and revor Cohn, Proceedings of the 2nd Workshop on Neural Machine Translation and Generation (NMT), 2018, pdf, bib.
+Regularized Training Objective for Continued Training for Domain Adaptation in Neural Machine Translation, Huda Khayrallah, Brian Thompson, Kevin Duh and Philipp Koehn, Proceedings of the 2nd Workshop on Neural Machine Translation and Generation (NMT), 2018, pdf, bib.
+Document-Level Adaptation for Neural Machine Translation, Sachith Sri Ram Kothur, Rebecca Knowles and Philipp Koehn, Proceedings of the 2nd Workshop on Neural Machine Translation and Generation (NMT), 2018, pdf, bib.
+On the Impact of Various Types of Noise on Neural Machine Translation, Huda Khayrallah and Philipp Koehn, Proceedings of the 2nd Workshop on Neural Machine Translation and Generation (NMT), 2018, pdf, bib.
+Freezing Subnetworks to Analyze Domain Adaptation in Neural Machine Translation, Brian Thompson, Huda Khayrallah, Antonios Anastasopoulos, Arya D. McCarth, Kevin Duh, Rebecca Marvin, Paul McNamee, Jeremy Gwinnup, Tim Anderson and Philipp Koehn, Proceedings of the Third Conference on Machine Translation (WMT) 2018, pdf, bib.
+Findings of the 2018 Conference on Machine Translation (WMT18), Ondřej Bojar, Christian Federmann, Mark Fishel, Yvette Graham, Barry Haddow, Philipp Koehn and Christof Monz, Proceedings of the Third Conference on Machine Translation (WMT) 2018, pdf, bib.
+Findings of the WMT 2018 Shared Task on Parallel Corpus Filtering, Philipp Koehn, Huda Khayrallah, Kenneth Heafield and Mikel L. Forcada, Proceedings of the Third Conference on Machine Translation (WMT) 2018, pdf, bib.
+The JHU Machine Translation Systems for WMT 2018, Philipp Koehn, Kevin Duh and Brian Thompson, Proceedings of the Third Conference on Machine Translation (WMT) 2018, pdf, bib.
+The JHU Parallel Corpus Filtering Systems for WMT 2018, Huda Khayrallah, Hainan Xu and Philipp Koehn, Proceedings of the Third Conference on Machine Translation (WMT) 2018, pdf, bib.
+Exploring Word Sense Disambiguation Abilities of Neural Machine Translation Systems, Rebecca Marvin and Philipp Koehn, Proceedings of the 13th Conference of the Association for Machine Translation in the Americas (AMTA), 2018, pdf, bib.
+Lightweight Word-Level Confidence Estimation for Neural Interactive Translation Prediction, Rebecca Knowles and Philipp Koehn, Proceedings of the AMTA 2018 Workshop on Translation Quality Estimation and Automatic Post-Editing, 2018, pdf, bib.
+A Comparison of Machine Translation Paradigms for Use in Black-Box Fuzzy-Match Repair, Rebecca Knowles, John Ortega and Philipp Koehn, Proceedings of the AMTA 2018 Workshop on Translation Quality Estimation and Automatic Post-Editing, 2018, pdf, bib.
+An Analysis of Source Context Dependency in Neural Machine Translation, Xutai Ma, Ke Li and Philipp Koehn, Proceedings of the 21st Annual Conference of the European Association for Machine Translation (EAMT), 2018, pdf.
+2017
+
+Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora, Hainan Xu and Philipp Koehn, Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017, pdf, bib.
+Six Challenges for Neural Machine Translation, Philipp Koehn and Rebecca Knowles, Proceedings of the First Workshop on Neural Machine Translation, 2017, pdf, bib.
+Neural Lattice Search for Domain Adaptation in Machine Translation, Huda Khayrallah, Gaurav Kumar, Kevin Duh, Matt Post, Philipp Koehn, Proceedings of the International Joint Conference on Natural Language Processing (IJCNLP), 2017, pdf, bib, code, slides.ppt, slides.pdf.
+Knowledge Tracing in Sequential Learning of Inflected Vocabulary, Adithya Renduchintala; Philipp Koehn; Jason Eisner, Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL), 2017, pdf, bib.
+Predicting Target Language CCG Supertags Improves Neural Machine Translation, Maria Nadejde, Siva Reddy, Rico Sennrich, Tomasz Dwojak, Marcin Junczys-Dowmunt, Philipp Koehn and Alexandra Birch, Proceedings of the Second Conference on Machine Translation (WMT), 2017, pdf, bib.
+The JHU Machine Translation Systems for WMT 2017, Shuoyang Ding, Huda Khayrallah, Philipp Koehn, Matt Post, Gaurav Kumar and Kevin Duh, Proceedings of the Second Conference on Machine Translation (WMT), 2017, pdf, bib.
+Findings of the 2017 Conference on Machine Translation (WMT17), Ondřej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Shujian Huang, Matthias Huck, Philipp Koehn, Qun Liu, Varvara Logacheva, Christof Monz, Matteo Negri, Matt Post, Raphael Rubino, Lucia Specia and Marco Turchi, Proceedings of the Second Conference on Machine Translation (WMT), 2017, pdf, bib.
+CADET: Computer Assisted Discovery Extraction and Translation, Scott Miller, Kevin Duh, Mark Dredze, Benjamin Van Durme, Tim Finin, Tom Lippincott, Philipp Koehn, Shudong Hao, Pushpendre Rastogi, Chandler May, Adam Poliak, Tongfei Chen, James Mayfield, Dawn Lawrie, Deana Burchfield, Cash Costello, Craig Harman, Max Thomas, Annabelle Carrell, Julianne Chaloux, Alex Comerford, Benjamin Glass, Patrick Martin, Rashmi Sankepally, Travis Wolfe, Ying-Ying Tran and Ted Zhang, Proceedings of the IJCNLP 2017, System Demonstrations, 2017, pdf, bib.
+2016
+
+Neural Interactive Translation Prediction, Rebecca Knowles and Philipp Koehn, Proceedings of the Conference of the Association for Machine Translation in the Americas (AMTA), 2016, pdf, bib.
+Machine Translation Quality and Post-Editor Productivity, Marina Sanchez-Torron and Philipp Koehn, Proceedings of the Conference of the Association for Machine Translation in the Americas (AMTA), 2016, pdf, bib.
+Translation of Unknown Words in Low Resource Languages, Biman Gujral, Huda Khayrallah and Philipp Koehn, Proceedings of the Conference of the Association for Machine Translation in the Americas (AMTA), 2016, pdf, bib.
+Syntax-based Statistical Machine Translation, Philip Williams, Rico Sennrich, Philipp Koehn, and Matt Post, Synthesis Lectures on Human Language Technologies, Morgan and Claypool Publishers, 2016, order.
+User Modeling in Language Learning with Macaronic Texts, Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner, Annual Meeting of the Association for Computational Linguistics (ACL), 2016, pdf, bib.
+Creating Interactive Macaronic Interfaces for Language Learning, Adithya Renduchintala, Rebecca Knowles, Philipp Koehn and Jason Eisner, System Description, Annual Meeting of the Association for Computational Linguistics (ACL), 2016, pdf, bib
+Analyzing Learner Understanding of Novel L2 Vocabulary, Rebecca Knowles and Adithya Renduchintala and Philipp Koehn and Jason Eisner, Conference on Computational Natural Language Learning (CoNLL), 2016, pdf, bib.
+Modeling Selectional Preferences of Verbs and Nouns in String-to-Tree Machine Translation, Maria Nadejde, Alexandra Birch and Philipp Koehn, First Conference on Machine Translation (WMT), 2016, pdf, bib.
+Quick and Reliable Document Alignment via TF/IDF-weighted Cosine Distance, Christian Buck and Philipp Koehn, First Conference on Machine Translation (WMT), 2016, pdf, bib.
+The JHU Machine Translation Systems for WMT 2016, Shuoyang Ding, Kevin Duh, Huda Khayrallah, Philipp Koehn and Matt Post, First Conference on Machine Translation (WMT), 2016, pdf, bib.
+Findings of the WMT 2016 Bilingual Document Alignment Shared Task, Christian Buck and Philipp Koehn, First Conference on Machine Translation (WMT), 2016, pdf, bib.
+Findings of the 2016 Conference on Machine Translation, Ondřej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Matthias Huck, Antonio Jimeno Yepes, Philipp Koehn, Varvara Logacheva, Christof Monz, Matteo Negri, Aurelie Neveol, Mariana Neves, Martin Popel, Matt Post, Raphael Rubino, Carolina Scarton, Lucia Specia, Marco Turchi, Karin Verspoor and Marcos Zampieri, First Conference on Machine Translation (WMT), 2016, pdf, bib.
+UEdin participation in the 1st Translation Memory Cleaning Shared Task, Christian Buck and Philipp Koehn, 2nd Workshop on Natural Language Processing for Translation Memories (NLP4TM), pdf, bib.
+Ten Years of WMT Evaluation Campaigns: Lessons Learnt, Ondrej Bojar, Christian Federmann, Barry Haddow, Philipp Koehn, Matt Post, and Lucia Specia, Proceedings of LREC 2016 Workshop Translation Evaluation: From Fragmented Tools and Data Sets to an Integrated Ecosystem, Portoroz, 2016, pdf, bib.
+A Verb Lexicon Model with Source-side Syntactic Context for String-to-Tree Machine Translation, Maria Nadejde, Alexandra Birch, and Philipp Koehn, Proceedings of the International Workshop on Spoken Language Translation (IWSLT), 2016, pdf, bib.
+Computer Aided Translation: Advances and Challenges, Philipp Koehn, Tutorial at ACL, 2016, pdf.
+2015
+
+The Operation Sequence Model—Combining N-Gram-Based and Phrase-Based Statistical Machine Translation, Nadir Durrani, Helmut Schmid, Alexander Fraser, Philipp Koehnxi and Hinrich Schütze, Computational Linguistics, Volume 41, Issue 2, June 2015, pdf.
+Findings of the 2015 Workshop on Statistical Machine Translation, Bojar, Ondřej and Chatterjee, Rajen and Federmann, Christian and Haddow, Barry and Huck, Matthias and Hokamp, Chris and Koehn, Philipp and Logacheva, Varvara and Monz, Christof and Negri, Matteo and Post, Matt and Scarton, Carolina and Specia, Lucia and Turchi, Marco, Proceedings of the Tenth Workshop on Statistical Machine Translation, 2015, pdf, bib.
+The Edinburgh/JHU Phrase-based Machine Translation Systems for WMT 2015, Haddow, Barry and Huck, Matthias and Birch, Alexandra and Bogoychev, Nikolay and Koehn, Philipp, Proceedings of the Tenth Workshop on Statistical Machine Translation, 2015, pdf, bib.
+Edinburgh's Syntax-Based Systems at WMT 2015, Williams, Philip and Sennrich, Rico and Nadejde, Maria and Huck, Matthias and Koehn, Philipp, Proceedings of the Tenth Workshop on Statistical Machine Translation, 2015, pdf, bib.
+Results of the WMT15 Metrics Shared Task, Stanojević, Miloš and Kamran, Amir and Koehn, Philipp and Bojar, Ondřej, Proceedings of the Tenth Workshop on Statistical Machine Translation, 2015, pdf, bib.
+Computer Aided Translation: Advances and Challenges, Philipp Koehn, Tutorial at MT Summit XV, 2015, pdf.
+Advances in Computer Aided Translation Beyond Post-Editing, Philipp Koehn, Invited Talk at MT Summit XV, 2015, pdf.
+2014
+
+The MATECAT Tool, Federico, Marcello and Bertoldi, Nicola and Cettolo, Mauro and Negri, Matteo and Turchi, Marco and Trombetti, Marco and Cattelan, Alessandro and Farina, Antonio and Lupinetti, Domenico and Martines, Andrea and Massidda, Alberto and Schwenk, Holger and Barrault, Loïc and Blain, Frederic and Koehn, Philipp and Buck, Christian and Germann, Ulrich, Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: System Demonstrations, 2014, pdf, bib.
+Preference Grammars and Soft Syntactic Constraints for GHKM Syntax-based Statistical Machine Translation, Huck, Matthias and Hoang, Hieu and Koehn, Philipp, Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation, 2014, pdf, bib.
+Edinburgh SLT and MT System Description for the IWSLT 2014 Evaluation, Alexandra Birch and Matthias Huck and Nadir Durrani and Nikolay Bogoychev and Philipp Koehn, Proceedings of the International Workshop on Spoken Language Translation (IWSLT), 2014, pdf.
+Combined Spoken Language Translation, Markus Freitag and Jörn Wübker and Stephan Peitz and Hermann Ney and Matthias Huck and Alexandra Birch and Nadir Durrani and Philipp Koehn and Mohammed Mediani and Isabel Slawik and Jan Niehues and Eunah Cho and Alex Waibel and Nicola Bertoldi and Mauro Cettolo and Marcello Federico, Proceedings of the International Workshop on Spoken Language Translation (IWSLT), 2014, pdf.
+Investigating the Usefulness of Generalized Word Representations in SMT, Durrani, Nadir and Koehn, Philipp and Schmid, Helmut and Fraser, Alexander, Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers, 2014, pdf, bib.
+Interactive translation prediction versus conventional post-editing in practice: a study with the CasMaCat workbench, Germán Sanchis-Trilles and Vicent Alabau and Christian Buck and Michael Carl and Francisco Casacuberta and Mercedes García-Martínez and Ulrich Germann and Jesús González-Rubio and Robin L. Hill and Philipp Koehn and Luis A. Leiva and Bartolomé Mesa-Lao and Daniel Ortiz-Martínez and Herve Saint-Amand and Chara Tsoukala, Machine Translation, Volume 28, Number 3-4, pages 217-235, 2014, pdf.
+Dynamic Topic Adaptation for Phrase-based MT, Hasler, Eva and Blunsom, Phil and Koehn, Philipp and Haddow, Barry, Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, 2014, pdf, bib.
+CASMACAT: A Computer-assisted Translation Workbench, Alabau, Vicent and Buck, Christian and Carl, Michael and Casacuberta, Francisco and García-Martínez, Mercedes and Germann, Ulrich and González-Rubio, Jesús and Hill, Robin and Koehn, Philipp and Leiva, Luis and Mesa-Lao, Bartolomé and Ortiz-Martínez, Daniel and Saint-Amand, Herve and Sanchis Trilles, Germán and Tsoukala, Chara, Proceedings of the Demonstrations at the 14th Conference of the European Chapter of the Association for Computational Linguistics, pdf, bib
+Integrating an Unsupervised Transliteration Model into Statistical Machine Translation, Durrani, Nadir and Sajjad, Hassan and Hoang, Hieu and Koehn, Philipp, Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics, volume 2: Short Papers, 2014, pdf, bib
+Improving machine translation via triangulation and transliteration, Nadir Durrani and Philipp Koehn, Proceedings of 17th Annual conference of the European Association for Machine Translation, 2014, pdf.
+Combining domain and topic adaptation for SMT, Eva Hasler and Barry Haddow and Philipp Koehn, Proceedings of the Eleventh Conference of the Association for Machine Translation in the Americas (AMTA), 2014, pdf.
+The Impact of Machine Translation Quality on Human Post-Editing, Koehn, Philipp and Germann, Ulrich, Proceedings of the EACL 2014 Workshop on Humans and Computer-assisted Translation, 2014, pdf, bib.
+Using Feature Structures to Improve Verb Translation in English-to-German Statistical MT, Williams, Philip and Koehn, Philipp, Proceedings of the 3rd Workshop on Hybrid Approaches to Machine Translation (HyTra), 2014, pdf, bib.
+Refinements to Interactive Translation Prediction Based on Search Graphs, Koehn, Philipp and Tsoukala, Chara and Saint-Amand, Herve, Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), 2014, pdf, bib.
+Findings of the 2014 Workshop on Statistical Machine Translation, Bojar, Ondrej and Buck, Christian and Federmann, Christian and Haddow, Barry and Koehn, Philipp and Leveling, Johannes and Monz, Christof and Pecina, Pavel and Post, Matt and Saint-Amand, Herve and Soricut, Radu and Specia, Lucia and Tamchyna, Aleš, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+Edinburgh's Phrase-based Machine Translation Systems for WMT-14, Durrani, Nadir and Haddow, Barry and Koehn, Philipp and Heafield, Kenneth, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+EU-BRIDGE MT: Combined Machine Translation, Freitag, Markus and Peitz, Stephan and Wuebker, Joern and Ney, Hermann and Huck, Matthias and Sennrich, Rico and Durrani, Nadir and Nadejde, Maria and Williams, Philip and Koehn, Philipp and Herrmann, Teresa and Cho, Eunah and Waibel, Alex, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+Edinburgh's Syntax-Based Systems at WMT 2014, Williams, Philip and Sennrich, Rico and Nadejde, Maria and Huck, Matthias and Hasler, Eva and Koehn, Philipp, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+Dynamic Topic Adaptation for SMT using Distributional Profiles, Hasler, Eva and Haddow, Barry and Koehn, Philipp, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+Augmenting String-to-Tree and Tree-to-String Translation with Non-Syntactic Phrases, Huck, Matthias and Hoang, Hieu and Koehn, Philipp, Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014, pdf, bib.
+Statistical Techniques for Translating to Morphologically Rich Languages, Alexander Fraser, Kevin Knight, Philipp Koehn, Helmut Schmid, Hans Uszkoreit, Dagstuhl Reports, Volume 4, Issue 2, p. 1-16, pdf.
+2013
+
+Grouping Language Model Boundary Words to Speed K-Best Extraction from Hypergraphs, Kenneth Heafield; Philipp Koehn; Alon Lavie, Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), pdf, bib.
+Dirt Cheap Web-Scale Parallel Text from the Common Crawl, Jason R. Smith, Herve Saint-Amand, Magdalena Plamada, Philipp Koehn, Chris Callison-Burch, and Adam Lopez, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL), pdf, bib.
+Learning to Prune: Context-Sensitive Pruning for Syntactic MT, Wenduan Xu, Yue Zhang, Philip Williams, and Philipp Koehn, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL), pdf, bib.
+Can Markov Models Over Minimal Translation Units Help Phrase-Based SMT?, Nadir Durrani, Alexander Fraser, Helmut Schmid, Hieu Hoang, and Philipp Koehn, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL), pdf, bib.
+Scalable Modified Kneser-Ney Language Model Estimation, Kenneth Heafield, Ivan Pouzyrevsky, Jonathan H. Clark, and Philipp Koehn, Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (ACL), pdf, bib.
+Abstract Meaning Representation for Sembanking, Laura Banarescu, Claire Bonial, Shu Cai, Madalina Georgescu, Kira Griffitt, Ulf Hermjakob, Kevin Knight, Philipp Koehn, Martha Palmer, and Nathan Schneider, Proceedings of the 7th Linguistic Annotation Workshop and Interoperability with Discourse, pdf, bib.
+Findings of the 2013 Workshop on Statistical Machine Translation, Ondrej Bojar, Christian Buck, Chris Callison-Burch, Christian Federmann, Barry Haddow, Philipp Koehn, Christof Monz, Matt Post, Radu Soricut, and Lucia Specia, Proceedings of the Eighth Workshop on Statistical Machine Translation, pdf, bib.
+The Feasibility of HMEANT as a Human MT Evaluation Metric, Alexandra Birch, Barry Haddow, Ulrich Germann, Maria Nadejde, Christian Buck, and Philipp Koehn, Proceedings of the Eighth Workshop on Statistical Machine Translation, pdf, bib.
+Edinburgh's Machine Translation Systems for European Language Pairs, Nadir Durrani, Barry Haddow, Kenneth Heafield, and Philipp Koehn, Proceedings of the Eighth Workshop on Statistical Machine Translation, pdf, bib.
+Edinburgh's Syntax-Based Machine Translation Systems, Maria Nadejde, Philip Williams, and Philipp Koehn, Proceedings of the Eighth Workshop on Statistical Machine Translation, pdf, bib.
+Advanced Computer Aided Translation with a Web-Based Workbench, Vicent Alabau, Ragnar Bonk, Christian Buck, Michael Carl, Francisco Casacuberta, Mercedes Garcia-Martinez, Philipp Koehn, Luis Leiva , Bartolome Mesa-Lao, Herve Saint-Amand, Chara Tsoukala, German Sanchis, Daniel Ortiz and Jesus Gonzalez , The 2nd Workshop on Post-Editing Technologies and Practice, pdf.
+CASMACAT: An Open Source Workbench for Advanced Computer Aided Translation, Vicent Alabau, Ragnar Bonk, Christian Buck, Michael Carl, Francisco Casacuberta, Mercedes García-Martínez, Jesús González, Philipp Koehn, Luis Leiva, Bartolomé Mesa-Lao, Daniel Ortiz, Herve Saint-Amand, Germán Sanchis, Chara Tsoukala, The Prague Bulletin of Mathematical Linguistics, Number 100, October 2013, pages 101-112, pdf.
+Statistical noun phrase translation, Philipp Koehn, United States Patent 8,548,794 B2, awarded 2013, pdf.
+2012
+
+Interpolated Backoff for Factored Translation Models, Philipp Koehn and Barry Haddow, Meeting of the Association for Machine Translation of the Americas (AMTA), 2012, pdf.
+Language Model Rest Costs and Space-Efficient Storage, Kenneth Heafield, Philipp Koehn and Alon Lavie, Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2012, pdf.
+Simulating Human Judgment in Machine Translation Evaluation Campaigns, Philipp Koehn, International Workshop on Spoken Language Translation (IWSLT), 2012, pdf.
+Sparse Lexicalised Features and Topic Adaptation for SMT, Eva Hasler, Barry Haddow and Philipp Koehn, International Workshop on Spoken Language Translation (IWSLT), 2012, pdf.
+The UEDIN Systems for the IWSLT 2012 Evaluation, Eva Hasler, Peter Bell, Arnab Ghoshal, Barry Haddow, Philipp Koehn, Fergus McInnes, Steve Renals and Pawel Swietojanski, International Workshop on Spoken Language Translation (IWSLT), 2012, pdf.
+Findings of the 2012 Workshop on Statistical Machine Translation, Chris Callison-Burch, Philipp Koehn, Christof Monz, Matt Post, Radu Soricut and Lucia Specia, Proceedings of the Seventh Workshop on Statistical Machine Translation (WMT), 2012, pdf, bib.
+Towards Effective Use of Training Data in Statistical Machine Translation, Philipp Koehn and Barry Haddow, Proceedings of the Seventh Workshop on Statistical Machine Translation (WMT), 2012, pdf, bib.
+GHKM Rule Extraction and Scope-3 Parsing in Moses, Philip Williams and Philipp Koehn, Proceedings of the Seventh Workshop on Statistical Machine Translation (WMT), 2012, pdf, bib.
+Analysing the Effect of Out-of-Domain Data on SMT Systems, Barry Haddow and Philipp Koehn, Proceedings of the Seventh Workshop on Statistical Machine Translation (WMT), 2012, pdf, bib.
+Extending Hiero Decoding in Moses with Cube Growing, Wenduan Xu and Philipp Koehn, The Prague Bulletin of Mathematical Linguistics, Volume 98, pages 133-142, October 2012, pdf.
+Hallucinated N-Best Lists for Discriminative Language Modeling, Kenji Sagae, Maider Lehr, Emily Prud'hommeaux, Puyang Xu, Nathan Glenn, Damianos Karakos, Sanjeev Khudanpur, Brian Roark, Murat Saraçlar, Izhak Shafran, Daniel Bikel, Chris Callison-Burch, Yuan Cao, Keith Hall, Eva Hasler, Philipp Koehn, Adam Lopez, Matt Post, Darcey Riley, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2012, pdf.
+Continuous Space Discriminative Language Modeling, Puyang Xu, Sanjeev Khudanpur, Maider Lehr, Emily Prud'hommeaux, Nathan Glenn, Damianos Karakos, Brian Roark, Kenji Sagae, Murat Saraçlar, Izhak Shafran, Dan Bikel, Chris Callison-Burch, Yuan Cao, Keith Hall, Eva Hasler, Philipp Koehn, Adam Lopez, Matt Post, Darcey Riley, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2012, pdf.
+Semi-Supervised Discriminative Language Modeling for Turkish ASR, Arda Çelebi, Haçim Sak, Erinç Dikici, Murat Saraçlar, Maider Lehr, Emily Tucker Prud'hommeaux, Puyang Xu, Nathan Glenn, Damianos Karakos, Sanjeev Khudanpur, Brian Roark, Kenji Sagae, Izhak Shafran, Dan Bikel, Chris Callison-Burch, Yuan Cao, Keith Hall, Eva Hasler, Philipp Koehn, Adam Lopez, Matt Post, Darcey Riley, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2012, pdf.
+Deriving conversation-based features from unlabeled speech for discriminative language modeling, Damianos Karakos, Brian Roark, Izhak Shafran, Kenji Sagae, Maider Lehr, Emily Prud'hommeaux, Puyang Xu, Nathan Glenn, Sanjeev Khudanpur, Murat Saraclar, Dan Bikel, Mark Dredze, Chris Callison-Burch, Yuan Cao, Keith Hall, Eva Hasler, Philip Koehn, Adam Lopez, Matt Post and Darcey Riley, InterSpeech, 2012, pdf.
+2011
+
+Soft Dependency Constraints for Reordering in Hierarchical Phrase-Based Translation, Yang Gao, Philipp Koehn and Alexandra Birch, Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing (EMNLP), pdf, bib.
+Left Language Model State for Syntactic Machine Translation, Kenneth Heafield, Hieu Hoang, Philipp Koehn, Tetsuo Kiso and Marcello Federico, International Workshop on Spoken Language Translation (IWSLT), 2011, pdf.
+Agreement Constraints for Statistical Machine Translation into German, Philip Williams and Philipp Koehn, Proceedings of the Sixth Workshop on Statistical Machine Translation (WMT), 2011, pdf, bib.
+SampleRank Training for Phrase-Based Machine Translation, Barry Haddow, Abhishek Arun and Philipp Koehn, Proceedings of the Sixth Workshop on Statistical Machine Translation (WMT), 2011, pdf, bib.
+Findings of the 2011 Workshop on Statistical Machine Translation, Chris Callison-Burch, Philipp Koehn, Christof Monz and Omar Zaidan, Proceedings of the Sixth Workshop on Statistical Machine Translation (WMT), 2011, pdf, bib.
+Factored Translation Models, Philipp Koehn and Hieu Hoang, Chapter in Handbook of Natural Language Processing and Machine Translation, editors Olive, Christianson, and McCary, Springer, 2011.
+Margin Infused Relaxed Algorithm for Moses, Eva Hasler, Barry Haddow and Philipp Koehn, The Prague Bulletin of Mathematical Linguistics, Volume 96, pages 69-78, October 2011, pdf.
+What is a better translation? Reflections on six years of running evaluation campaigns, Philipp Koehn, Tralogy 2011, pdf.
+Machine Translation, Philipp Koehn, Chapter in Multilingual Natural Language Processing Applications: From Theory to Practice, editors Imed Zitouni and Daniel M. Bikel, IBM Press, 2012, pdf.
+2010
+
+Statistical Machine Translation, Philipp Koehn, textbook, Cambridge University Press, January 2010, web, amazon.uk, amazon.com.
+Enabling Monolingual Translators: Post-Editing vs. Options, Philipp Koehn, NAACL, 2010, pdf, bib.
+An Experimental Management System, Philipp Koehn, The Prague Bulletin of Mathematical Linguistics, number 94, pages 87-96, September 2010, pdf.
+Monte Carlo Techniques for Phrase-Based Translation, Abhishek Arun, Barry Haddow, Philipp Koehn, Adam Lopez, Chris Dyer and Miles Osborne, Machine Translation Journal, Volume 24, Number 2, pages 103-121, 2010, pdf.
+Fast Approximate String Matching with Suffix Arrays and A* Parsing, Philipp Koehn and Jean Senellart, Meeting of the Association for Machine Translation of the Americas (AMTA), 2010, pdf.
+Convergence of Translation Memory and Statistical Machine Translation, Philipp Koehn and Jean Senellart, AMTA Workshop on MT Research and the Translation Industry, 2010, pdf.
+Findings of the 2010 Joint Workshop on Statistical Machine Translation and Metrics for Machine Translation, Chris Callison-Burch, Philipp Koehn, Christof Monz, Kay Peterson, Mark Przybocki and Omar Zaidan, Fifth Workshop on Statistical Machine Translation and MetricsMATR, 2010, pdf, bib.
+More Linguistic Annotation for Statistical Machine Translation, Philipp Koehn, Barry Haddow, Philip Williams and Hieu Hoang, Fifth Workshop on Statistical Machine Translation and MetricsMATR, 2010, pdf, bib.
+Aiding Pronoun Translation with Co-Reference Resolution, Ronan Le Nagard and Philipp Koehn, Fifth Workshop on Statistical Machine Translation and MetricsMATR, 2010, pdf, bib.
+A Unified Approach to Minimum Risk Training and Decoding, Abhishek Arun, Barry Haddow and Philipp Koehn, Fifth Workshop on Statistical Machine Translation and MetricsMATR, 2010, pdf, bib.
+Improved Translation with Source Syntax Labels, Hieu Hoang and Philipp Koehn, Fifth Workshop on Statistical Machine Translation and MetricsMATR, 2010, pdf, bib.
+Empirical Methods for Splitting Compound Words with Application to Machine Translation, Philipp Koehn, United States Patent 7711545, awarded 2010, pdf.
+2009
+
+A process study of computer-aided translation, Philipp Koehn, Machine Translation Journal, 2009, volume 23, number 4, pages 241-263, data, pdf.
+Review of Cyril Goutte, Nicola Cancedda, Marc Dymetman, and George Foster (eds): Learning machine translation, Philipp Koehn, Machine Translation Journal, 2009, volume 23, number 4, pages 269-271, pdf.
+A Uniform Framework for Phrase-Based, Hierarchical and Syntax-Based Machine Translation, Hieu Hoang, Philipp Koehn and Adam Lopez, International Workshop on Machine Translation (IWSLT), 2009, pdf.
+462 Machine Translation Systems for Europe, Philipp Koehn, Alexandra Birch and Ralf Steinberger, MT Summit XII, 2009, pdf.
+Interactive Assistance to Human Translators using Statistical Machine Translation Methods, Philipp Koehn and Barry Haddow, MT Summit XII, 2009, pdf.
+Selective addition of corpus-extracted phrasal lexical rules to a rule-based machine translation system, Loïc Dugast, Jean Senellart and Philipp Koehn, MT Summit XII, 2009, pdf.
+Monte Carlo Inference and Maximization for Phrase-based Translation, Abhishek Arun, Chris Dyer, Barry Haddow, Phil Blunsom, Adam Lopez and Philipp Koehn, Conference on Computational Natural Language Learning, 2009, pdf, bib.
+A Web-Based Interactive Computer Aided Translation Tool, Philipp Koehn, ACL Software demonstration, 2009, pdf, bib.
+Word Lattices for Multi-Source Translation, Josh Schroeder, Trevor Cohn and Philipp Koehn, EACL 2009, pdf, bib.
+Improving Mid-Range Re-Ordering using Templates of Factors, Hieu Hoang and Philipp Koehn, EACL 2009, pdf, bib.
+Findings of the 2009 Workshop on Statistical Machine Translation, Chris Callison-Burch, Philipp Koehn, Christof Monz and Josh Schroeder, EACL Workshop on Statistical Machine Translation 2009, pdf.
+Statistical Post Editing and Dictionary Extraction: Systran/Edinburgh submissions for ACL-WMT2009, Loïc Dugast, Jean Senellart and Philipp Koehn, EACL Workshop on Statistical Machine Translation 2009, pdf.
+Edinburgh’s Submission to all Tracks of the WMT2009 Shared Task with Reordering and Speed Improvements to Moses, Philipp Koehn and Barry Haddow, EACL Workshop on Statistical Machine Translation 2009, pdf.
+A Systematic Analysis of Translation Model Search Spaces, Michael Auli, Adam Lopez, Hieu Hoang and Philipp Koehn, EACL Workshop on Statistical Machine Translation 2009, pdf.
+Statistical Machine Translation, Philipp Koehn and Kevin Knight, United States Patent 7624005, awarded 2009, pdf.
+Constructing a translation lexicon from comparable, non-parallel corpora, Daniel Marcu, Kevin Knight, Dragos Munteanu, Philipp Koehn:, United States Patent 7620538, awarded 2009, pdf.
+2008
+
+Large and Diverse Language Models for Statistical Machine Translation, Holger Schwenk and Philipp Koehn, IJCNLP 2008, pdf.
+Enriching Morphologically Poor Languages for Statistical Machine Translation, Eleftherios Avramidis and Philipp Koehn, ACL 2008, pdf.
+Edinburgh University System Description for the 2008 NIST Machine Translation Evaluation, Philipp Koehn, Josh Schroeder and Miles Osborne, NIST MT Evaluation Meeting, pdf.
+Design of the Moses Decoder for Statistical Machine Translation, Hieu Hoang and Philipp Koehn, ACL Workshop on Software engineering, testing, and quality assurance for NLP 2008, pdf.
+Further Meta-Evaluation of Machine Translation, Chris Callison-Burch, Cameron Fordyce, Philipp Koehn, Christof Monz and Josh Schroeder, ACL Workshop on Statistical Machine Translation 2008, pdf.
+Towards better Machine Translation Quality for the German-English Language Pairs, Philipp Koehn, Abhishek Arun and Hieu Hoang, ACL Workshop on Statistical Machine Translation 2008, pdf.
+Can we Relearn an RBMT System?, Loic Dugastr, Jean Senellart and Philipp Koehn, ACL Workshop on Statistical Machine Translation 2008, pdf.
+Predicting Success in Machine Translation, Alexandra Birch, Miles Osborne and Philipp Koehn, EMNLP 2008, pdf.
+Phrase-Based Joint Probability Model for Statistical Machine Translation, Daniel Marcu, Kevin Knight, William Wong and Philipp Koehn, United States Patent 7454326, awarded 2008, pdf.
+2007
+
+Factored Translation Models, Philipp Koehn and Hieu Hoang, EMNLP 2007, pdf.
+Chinese Syntactic Reordering for Statistical Machine Translation, Chao Wang, Michael Collins and Philipp Koehn, EMNLP 2007, pdf.
+Moses: Open Source Toolkit for Statistical Machine Translation, Philipp Koehn, Hieu Hoang, Alexandra Birch, Chris Callison-Burch, Marcello Federico, Nicola Bertoldi, Brooke Cowan, Wade Shen, Christine Moran, Richard Zens, Chris Dyer, Ondrej Bojar, Alexandra Constantin, Evan Herbst, ACL 2007, demonstration session, pdf.
+(Meta-) Evaluation of Machine Translation, Chris Callison-Burch, Cameron Fordyce, Philipp Koehn, Christof Monz and Josh Schroeder, ACL Workshop on Statistical Machine Translation 2007, pdf.
+Experiments in Domain Adaptation for Statistical Machine Translation, Philipp Koehn and Josh Schroeder, ACL Workshop on Statistical Machine Translation 2007, pdf.
+CCG Supertags in Factored Statistical Machine Translation, Alexandra Birch, Miles Osborne and Philipp Koehn, ACL Workshop on Statistical Machine Translation 2007, pdf.
+Statistical Post-Edition on SYSTRAN Rule-Based Translation System, Loïc Dugast, Jean Senellart, Michel Simard and Philipp Koehn, ACL Workshop on Statistical Machine Translation 2007, pdf.
+Online Learning Methods For Discriminative Training of Phrase Based Statistical Machine Translation, Abhishek Arun and Philipp Koehn, MT Summit XI, 2007, pdf.
+The University of Edinburgh System Description for IWSLT 2007, Josh Schroeder and Philipp Koehn, IWSLT 2007, pdf.
+2006
+
+Improved Statistical Machine Translation Using Paraphrases, Chris Callison-Burch, Philipp Koehn and Miles Osborne, NAACL 2006, pdf.
+Re-evaluating the Role of Bleu in Machine Translation Research, Chris Callison-Burch, Miles Osborne and Philipp Koehn, EACL 2006, pdf.
+Statistical Machine Translation: the basic, the novel, and the speculative, Philipp Koehn, Tutorial at EACL 2006, slides, video: part 1, part 2.
+Manual and Automatic Evaluation of Machine Translation between European Languages, Philipp Koehn and Christof Monz, NAACL 2006 Workshop on Statistical Machine Translation, pdf.
+Constraining the Phrase-Based, Joint Probability Statistical Translation Model, Alexandra Birch, Chris Callison-Burch, Miles Osborne and Philipp Koehn, NAACL 2006 Workshop on Statistical Machine Translation, pdf.
+Edinburgh System Description for the 2006 TC-STAR Spoken Language Translation Evaluation, Abhishek Arun, Amittai Axelrod, Philipp Koehn, TC-Star Evaluation Workshop, 2006, pdf.
+2005
+
+Clause Restructuring for Statistical Machine Translation Michael Collins, Philipp Koehn, and Ivona Kucerova, ACL 2005, pdf.
+Shared Task: Statistical Machine Translation between European Languages, Philipp Koehn and Christof Monz ACL 2005 Workshop on Parallel Text, pdf.
+Europarl: A Parallel Corpus for Statistical Machine Translation, Philipp Koehn, MT Summit 2005, pdf.
+Edinburgh System Description for the 2005 IWSLT Speech Translation Evaluation, Philipp Koehn, Amittai Axelrod, Alexandra Birch Mayne, Chris Callison-Burch, Miles Osborne and David Talbot, International Workshop on Spoken Language Translation 2005, pdf.
+Edinburgh System Description for the 2005 NIST MT Evaluation, Philipp Koehn, Amittai Axelrod, Alexandra Birch Mayne, Chris Callison-Burch, Miles Osborne, David Talbot, and Michael White, MT Eval Workshop 2005, pdf, slides.
+Introduction to Statistical Machine Translation, Chris Callison-Burch and Philipp Koehn, European Summer School for Language and Logic (ESSLL) 2005, day1, 2, 3, 4, 5.
+2004
+
+Statistical Significance Tests for Machine Translation Evaluation, Philipp Koehn, EMNLP 2004, ps, pdf.
+Pharaoh: a Beam Search Decoder for Phrase-Based Statistical Machine Translation Models, Philipp Koehn, AMTA 2004, pdf, ps, slides.
+Challenges in Statistical Machine Translation, Philipp Koehn, Talk given at PARC, Google, ISI, MITRE, BBN, Univ. of Montreal, 2004, slides.
+The Foundation for Statistical Machine Translation at MIT, Philipp Koehn, Talk given at DARPA/TIDES MT Evaluation Workshop, 2004, slides.
+What's New in Statistical Machine Translation, Kevin Knight and Philipp Koehn, Tutorial at HLT/NAACL 2004.
+Introduction to Statistical Machine Translation, Philipp Koehn and Kevin Knight, Tutorial at AMTA 2004.
+Automatic Evaluation, Philipp Koehn, Panel talk at the AMTA 2004 panel on Machine Translation Evaluation, slides.
+
+2003
+
+
+Noun Phrase Translation, Philipp Koehn, PhD thesis, University of Southern California, 2003, ps (official format, 182 pages), ps (readable format, 118 pages).
+
+Advances in Statistical Machine Translation: Phrases, Noun Phrases and Beyond, Philipp Koehn, Talk given at ISI, JHU, UMD, MITRE, MIT, IBM, Columbia, AT&T, 2003, slides.
+Feature-Rich Statistical Translation of Noun Phrases, Philipp Koehn and Kevin Knight, ACL 2003, ps, pdf, abstract.
+
+Statistical Phrase-Based Translation, Philipp Koehn, Franz Josef Och, and Daniel Marcu, HLT/NAACL 2003, ps, pdf, slides, abstract.
+
+Empirical Methods for Compound Splitting, Philipp Koehn and Kevin Knight, EACL 2003, ps, pdf, abstract.
+
+What's New in Statistical Machine Translation, Kevin Knight and Philipp Koehn, Tutorial at HLT/NAACL 2003, slides.
+
+Statistical Machine Translation, Kevin Knight and Philipp Koehn, Tutorial at MT Summit 2003.
+
+Desparately Seeking Cebuano, Douglas W. Oard, David Doermann, Bonnie Dorr, Daqing He, Philip Resnik, Amy Weinberg, William Byrne, Sanjeev Khudanpur, David Yarowsky, Anton Leuski, Philipp Koehn, and Kevin Knight, NAACL-HLT 2003, pdf.
+
+2002
+
+
+Learning a Translation Lexicon from Monolingual Corpora, Philipp Koehn and Kevin Knight, ACL 2002, Workshop on Unsupervised Lexical Acquisition, ps, pdf.
+
+Combining Multiclass Maximum Entropy Text Classifiers with Neural Network Voting, Philipp Koehn, PorTAL 2002, ps, pdf.
+
+Translation with Scarce Bilingual Resources, Yaser Al-Onaizan, Ulrich Germann, Ulf Hermjakob, Kevin Knight, Philipp Koehn, Daniel Marcu, and Kenji Yamada, Machine Translation 17: 1-17, 2002, ps, pdf.
+
+ChunkMT: Statistical Machine Translation with Richer Linguistic Knowledge, Philipp Koehn and Kevin Knight, Draft, Unpublished, ps, pdf.
+
+2001
+
+
+Knowledge Sources for Word-Level Translation Models, Philipp Koehn and Kevin Knight, EMNLP 2001, ps, pdf, abstract.
+
+2000
+
+
+Estimating Word Translation Probabilities from Unrelated Monolingual Corpora Using the EM Algorithm, Philipp Koehn and Kevin Knight, AAAI 2000, ps, pdf, abstract.
+
+Translating with Scarce Resources, Yaser Al-Onaizan, Ulrich Germann, Ulf Hermjakob, Kevin Knight, Philipp Koehn, Daniel Marcu, and Kenji Yamada, AAAI 2000, ps, pdf, abstract.
+
+Improving Intonational Phrasing with Syntactic Information, Philipp Koehn, Steven Abney, Julia Hirschberg, and Michael Collins, ICASSP 2000, ps, pdf, abstract.
+
+Earlier
+
+
+Statistische und modellbasierte Lernverfahren zur Erweiterung von Unifikationsgrammatiken, Philipp Koehn, 1996, Diplom thesis at the University of Erlangen-Nuremberg, Germany. ps, pdf, code, German abstract, English abstract.
+
+Genetic Encoding Strategies for Neural Networks, Philipp Koehn, IPMU 1996, ps, pdf, abstract.
+
+Combining Genetic Algorithms and Neural Networks, Philipp Koehn, 1994, Master Thesis at the University of Tennessee at Knoxville, USA. ps, pdf, code, abstract.
+
+
+links
+
+My first homepage
+
+L.A. Diary
+
+C64 Nostalgia
+
+Do not spell my name like this: Phillip Koehn, Philip Koehn, Phillipp Koehn, Phillip Köhn, Philip Köhn, Phillipp Köhn, Phillip Kohn, Philip Kohn, Phillipp Kohn, Philipp Kohn. My real name is Philipp Köhn, but the preferred spelling is Philipp Koehn.
+

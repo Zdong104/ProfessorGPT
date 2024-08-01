@@ -1,0 +1,84 @@
+Professor: Garrett E. Katz
+University: Syracuse University
+URL: http://web.ecs.syr.edu/~gkatz01
+Description: Contact Information
+Garrett Ethan Katz, Ph.D.
+Assistant Professor
+Deptartment of Electrical Engineering & Computer Science
+CST 4-189, Syracuse University
+(315) 443-3565
+gkatz01@syr.edu
+
+Curriculum Vitae
+Google Scholar
+Personal site
+
+
+I teach and research various topics in artificial intelligence, cognitive modeling, machine learning, neural computation, optimization, and robotics. My lab focuses on "vertically-integrated" AI, from low-level sensorimotor control up through high-level cognition and reasoning. Below are some representative research projects, followed by recently taught courses.
+Research
+Single-pass Learning
+The goal of this project is to develop single-pass learning rules with the efficiency of classical associative memory but the high capacity of iterative methods. As a starting point we have established an impossibility result about a certain family of rules (including Hebbian learning and backpropagation as special cases) for the linear threshold neuron that can not be both single-pass and full-capacity.
+
+Liu, R., He, B., Tahir, N. and Katz, G.E., 2024. On the Feasibility of Single-Pass Full-Capacity Learning in Linear Threshold Neurons with Binary Input Vectors. ICML. [paper] [code]
+
+
+Automated Algorithm Discovery
+The goal of this project is to develop methods that can automatically design new algorithms, with improved optimality or complexity properties relative to known algorithms. As a starting point we have focused on state-space puzzles such as Rubik's cube, where the "algorithms" take the form of rule tables which partition the state space into subsets and specify which action sequence to perform in each subset. We formulate a multi-objective optimization problem to simultaneously minimize the size of the rule table (complexity) and the length of solution paths it induces (optimality). Our optimization method uses hypervolume scalarization in conjunction with a Monte-Carlo backtracking search.
+
+Katz, G.E. and Tahir, N., 2022. Towards Automated Discovery of God-like Folk Algorithms for Rubik’s Cube. AAAI. [paper] [code]
+
+
+Neural Virtual Machines
+This work aims to design neural networks that can represent, and emulate execution of, traditional computer programs in symbolic languages. The networks can be trained on algorithmic tasks from scratch, or fine-tuned after "compiling" human-authored programs into initial weights. We have applied our method to algorithmic list processing tasks as well as robotics and automated planning algorithms. The basis of our technique is fast, gated associative weight changes, using a novel "store-erase" weight update rule that emulates (over)writing contents of random-access memory. Our analysis found that arbitrary, unlimited updates can be made while maintaining bounded weights (shown on the left for the 3D case) and correct emulation of random-access memory.
+
+Katz, G.E., Akshay, ., Davis, G.P., Gentili, R.J. and Reggia, J.A., 2021. Tunable Neural Encoding of a Symbolic Robotic Manipulation Algorithm. Frontiers in Neurorobotics, 15, p.744031. [paper] [code]
+Katz, G.E., Gupta, K. and Reggia, J.A., 2020, July. Reinforcement-based program induction in a neural virtual machine. In 2020 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE. [paper] [code]
+Katz, G.E., Davis, G.P., Gentili, R.J. and Reggia, J.A., 2019. A programmable neural virtual machine based on a fast store-erase learning rule. Neural Networks, 119, pp.10-30. [paper] [code]
+
+
+
+
+Robotic imitation learning and motion planning
+This line of research involves full- and upper-body humanoid robots that can learn by imitating human teachers. We developed a framework called CERIL that uses Cause-Effect Reasoning to do Imitation Learning. It copies the goals of the demonstrator rather than their actions, enabling generalization to novel situations where object positions and properties may be different from what was seen in demonstration.
+
+He, B. and Katz, G.E., 2023. Will Poppy Fall? Predicting Robot Falls in Advance Based on Visual Input. In 2023 International Conference on Machine Learning and Applications (ICMLA) (pp. 226-232). IEEE. [paper] [code]
+Akshay ., Chen, X., He, B. and Katz, G.E., 2022. Towards Human-Like Learning Dynamics in a Simulated Humanoid Robot for Improved Human-Machine Teaming. In International Conference on Human-Computer Interaction (pp. 225-241). Springer, Cham. [paper] [code]
+Katz, G.E., Huang, D.W., Hauge, T., Gentili, R. and Reggia, J., 2017. A novel parsimonious cause-effect reasoning algorithm for robot imitation and plan recognition. IEEE Transactions on Cognitive and Developmental Systems, 10(2), pp.177-193. [paper] [code]
+Katz, G.E., Huang, D.W., Gentili, R. and Reggia, J., 2016, July. Imitation learning as cause-effect reasoning. In International Conference on Artificial General Intelligence (pp. 64-73). Springer, Cham. [paper] [code]
+Numerical methods for neural network analysis
+We have developed various numerical methods to better analyze and understand neural network activation and learning dynamics. For example, we introduced directional fibers (pictured on the left), mathematical objects that can be numerically traversed to enumerate many distinct solutions to systems of non-linear equations. They may be applied to enumerate fixed points of recurrent neural networks and other dynamical systems, or stationary points of objective functions. We also devised a predictor-corrector method to numerically traverse the loss level-sets of neural networks, in order to analyze the variation in regularization among parameter vectors with equal training loss.
+Tahir, N. and Katz, G.E., 2021, July. Numerical Exploration of Training Loss Level-Sets in Deep Neural Networks. In 2021 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE. [paper]
+Katz, G.E. and Reggia, J.A., 2018. Applications of Directional Fibers to Fixed Point Location and Non-convex Optimization. In Proceedings of the International Conference on Scientific Computing (CSC) (pp. 140-146). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp). [paper] [code]
+Katz, G.E. and Reggia, J.A., 2017. Using directional fibers to locate fixed points of recurrent neural networks. IEEE transactions on neural networks and learning systems, 29(8), pp.3636-3646. [paper] [code]
+Cryo-electron Microscopy
+In a previous research project we applied Bayesian inference techniques to cryo-electron micrographs of biological virus particles, to determine their 3D structure and understand their molecular machinery.
+Katz, G.E., Benkarroum, Y., Wei, H., Rice, W.J., Bucher, D., Alimova, A., Katz, A., Klukowska, J., Herman, G.T. and Gottlieb, P., 2014. Morphology of influenza B/Lee/40 determined by cryo-electron microscopy. PloS one, 9(2), p.e88288. [paper]
+Katz, G.E., Wei, H., Alimova, A., Katz, A., Morgan, D.G. and Gottlieb, P., 2012. Protein P7 of the cystovirus φ6 is located at the three-fold axis of the unexpanded procapsid. [paper]
+Advising
+Current Ph.D. students
+Naveed Tahir
+Akshay
+Xulin Chen
+Borui He
+Ruipeng Liu
+Former advisees
+Chad Thom Smith, Summer REU (2023)
+Xavier Plourde, Summer REU (2022)
+Khushboo Gupta, M.S. OPT (2019)
+Tiara Logan, Summer REU (2019)
+Dhwani Patel, M.S. Thesis (2019)
+Teaching
+
+CIS 700: Special Topics
+PhD-level special topics courses, focused on reading, presenting, and reproducing research articles in a recent research area. Recent course topics include deep learning approaches to program representation, induction, and synthesis, and deep learning approaches to automated theorem proving.
+
+
+CIS 467/667: Introduction to Artificial Intelligence
+Graduate-level introductory course on Artificial Intelligence. Covers tree search algorithms (e.g., iterative deepening, A*, minimax); probabilistic modeling (e.g., maximum-likelihood estimation, expectation maximization, hidden Markov models), reinforcement learning (e.g. Markov decision processes, policy iteration, tabular temporal-difference Q-learning, policy gradient), basics of neural networks and gradient descent, and automated reasoning methods such as forward chaining, unification, and resolution.
+
+CIS375: Introduction to Discrete Mathematics
+Undergraduate course on discrete mathematics with an emphasis on mathematical proofs. Covers propositional and first-order logic, set theory, functions and relations, partially ordered sets, recursively defined sets, and mathematical/structural induction.
+
+ECS102/CIS151: Fundamentals of Computing
+Undergraduate course on introductory programming, using the Python language. Covers data types, literals, variables, control flow, libraries and packages, automated testing, and basics of object-oriented programming.
+

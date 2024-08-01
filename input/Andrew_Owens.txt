@@ -1,0 +1,638 @@
+Professor: Andrew Owens
+University: University of Michigan
+URL: http://andrewowens.com/
+Description: 
+
+		Andrew Owens
+
+ahowens@umich.edu
+Office: EECS 4231
+Assistant Professor of Electrical Engineering and Computer Science
+University of Michigan
+
+Google Scholar  ·  GitHub  ·  Twitter  ·  CV
+
+I'm an assistant professor at The University of Michigan in the EECS department.
+
+I'm hiring PhD students! Please apply to either ECE or CSE. If you'd like to learn more about the computer vision group at Michigan, please look here.
+
+I did my PhD at MIT CSAIL, where I was advised by William Freeman and Antonio Torralba, and was a postdoc at UC Berkeley with Alyosha Efros and Jitendra Malik. Before that, I was an undergrad at Cornell.
+
+
+Research highlights
+Multimodal learning: Today's computer vision methods largely require human supervision, such as object labels or natural language, to learn about the world. Humans, on the other hand, learn a great deal from associations between senses: vision trains hearing, touch trains vision, etc. We've been developing models that learn about the world by finding structure in multimodal sensory signals—especially self-supervised computer vision methods that learn from sound and touch.
+Learning from video: We've been developing methods that learn about the world by watching unlabeled video, such as by learning space-time correspondences through self-supervision.
+Image forensics: Computer vision researchers face a dilemma: as our methods get better, so do the tools for malicious image manipulation. To address this growing issue, I've been developing methods for detecting fake images.
+      You can learn more about my research directions here (from 2019).
+
+
+Research group
+PhD students:
+
+   Daniel Geng (NSF Fellow)  ·  Ayush Shrivastava  ·  Ziyang Chen  ·  Jeongsoo Park
+
+   Yiming Dou  ·  Samanta Rodriguez (co-advised with Nima Fazeli)
+MS/BS students:
+
+    Chao Feng  ·  Zixuan Pan  ·  Zihao Wei  ·  Chenhao Zheng  ·  Yi Liu  ·  Inbum Park
+Former MS/BS students:
+
+   Zhangxing Bian  ·  Oscar de Lima  ·  Rui Guo  ·  Max Hamilton  ·  Xixi Hu  ·  Jing Zhu
+   Yuexi Du  ·  Chenyang Ma  ·  Jiacheng Zhang  ·  Kshama Nitin Shah
+   Fengyu Yang (CRA Outstanding Undergraduate Award Runner-up)  ·  Zhaoying Pan
+
+
+Resources
+I co-organized the Sight and Sound workshop at CVPR [2018, 2019, 2020, 2021, 2022, 2023, 2024]
+Slides covering of my audio-visual learning work (through 2020) (key, ppt, pdf). This includes slides on learning from impact sounds, self-supervised feature learning, sound source localization/separation, audio-to-video gesture synthesis, audio-visual objects, and active speaker detection.
+Teaching
+EECS 442: Computer Vision [F23, F22, F21, F20]
+EECS 542: Advanced Topics in Computer Vision [W22, W24]
+EECS 598-012: Unsupervised Visual Learning [W21]
+EECS 504: Foundations of Computer Vision [W20, F22]
+Funding
+My group's research has been generously supported by an NSF CAREER Award (2024), and with funding from DARPA, Cisco Systems, Toyota Research Institute, and a Sony Research Award (2021).
+
+
+Publications
+	
+Images that Sound: Composing Images and Sounds on a Single Canvas
+Ziyang Chen, Daniel Geng, Andrew Owens
+arXiv 2024
+project page · paper · bibtex
+
+We generate spectrograms that look like natural images by composing together the score functions of audio and visual diffusion networks.
+
+
+
+
+
+
+	
+Factorized Diffusion: Perceptual Illusions by Noise Decomposition
+Daniel Geng*, Inbum Park*, Andrew Owens
+ECCV 2024
+project page · paper · bibtex
+
+Make hybrid images (and other illusions) by linearly filtering the noise during diffusion generation.
+
+
+
+
+
+
+	
+Tactile-Augmented Radiance Fields
+Yiming Dou, Fengyu Yang, Yi Liu, Antonio Loquercio, Andrew Owens
+CVPR 2024
+project page · paper · code · bibtex
+
+We capture visual-tactile representations of real-world 3D scenes. This representation can estimate the tactile signals for a given 3D position within the scene.
+
+
+
+
+
+
+	
+Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models
+Daniel Geng, Inbum Park, Andrew Owens
+CVPR 2024 (Oral)
+project page · paper · bibtex
+
+We generate multi-view optical illusions: images that change their appearance under a transformation, such as a flip or a rotation.
+
+
+
+
+
+
+	
+Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark
+Ziyang Chen, Israel D. Gebru, Christian Richardt, Anurag Kumar, William Laney, Andrew Owens, Alexander Richard
+CVPR 2024 (Highlight)
+project page · paper · bibtex
+
+A benchmark for real-world audio-visual room acoustics, containing NeRFs with densely sampled audio recordings.
+
+
+
+
+
+
+	
+Binding Touch to Everything: Learning Unified Multimodal Tactile Representations
+Fengyu Yang*, Chao Feng*, Ziyang Chen*, Hyoungseob Park, Daniel Wang, Yiming Dou, Ziyao Zeng, Xien Chen, Rit Gangopadhyay, Andrew Owens, Alex Wong
+CVPR 2024
+project page · paper · bibtex
+
+Link the signal recorded by vision-based touch sensors to other modalities, using correspondences between sight and touch.
+
+
+
+
+
+
+	
+Masking Clusters in Vision-Language Pretraining
+Zihao Wei*, Zixuan Pan*, Andrew Owens
+CVPR 2024
+project page · paper · bibtex
+
+Drop clusters of visually-similar tokens during vision-language pretraining for efficiency and better downstream performance.
+
+
+
+
+
+
+	
+Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators
+Daniel Geng, Andrew Owens
+ICLR 2024
+project page · paper · bibtex
+
+Use an off-the-shelf optical flow estimator to manipulate the structure of an image as part through diffusion guidance.
+
+
+
+
+
+
+	
+Self-Supervised Motion Magnification by Backpropagating Through Optical Flow
+Zhaoying Pan*, Daniel Geng*, Andrew Owens
+NeurIPS 2023
+project page · paper · bibtex
+
+A simple method for magnifying tiny motions: we manipulate an input video such that its new optical flow is scaled by the desired amount.
+
+
+
+
+
+
+	
+Sound Localization from Motion: Jointly Learning Sound Direction and Camera Rotation
+Ziyang Chen, Shengyi Qian, Andrew Owens
+ICCV 2023
+project page · paper · bibtex
+
+We jointly learn to localize sound sources from audio and to estimate camera rotations from images. Our method is entirely self-supervised.
+
+
+
+
+
+
+	
+Generating Visual Scenes from Touch
+Fengyu Yang, Jiacheng Zhang, Andrew Owens
+ICCV 2023
+paper · site · bibtex
+
+We use diffusion to generate images from a touch signal (and vice versa).
+
+
+
+
+
+
+	
+Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models
+Lukas Höllein*, Ang Cao*, Andrew Owens, Justin Johnson, Matthias Nießner
+ICCV 2023 (Oral)
+project page · paper · code · bibtex
+
+We generate meshes of full 3D rooms using text-to-image models.
+
+
+
+
+
+
+	
+Eventfulness for Interactive Video Alignment
+Jiatian Sun, Longxiulin Deng, Triantafyllos Afouras, Andrew Owens, Abe Davis
+SIGGRAPH 2023
+project page · paper · bibtex
+
+We learn a representation that makes it easy for users to align videos and sounds.
+
+
+
+
+
+
+	
+EXIF as Language: Learning Cross-Modal Associations Between Images and Camera Metadata
+Chenhao Zheng, Ayush Shrivastava, Andrew Owens
+CVPR 2023 (Highlight)
+project page · paper · bibtex
+
+We learn visual features that capture camera properties, by training a model to learn a joint embedding between image patches and EXIF metadata. We apply it to a variety of tasks that require an understanding of camera properties, such as image forensics.
+
+
+
+
+
+
+	
+GANmouflage: 3D Object Nondetection with Texture Fields
+Rui Guo, Jasmine Collins, Oscar de Lima, Andrew Owens
+CVPR 2023
+project page · paper · video · bibtex
+
+We camouflage 3D objects using GANs and texture fields.
+
+
+
+
+
+
+	
+Self-Supervised Video Forensics by Audio-Visual Anomaly Detection
+Chao Feng, Ziyang Chen, Andrew Owens
+CVPR 2023 (Highlight)
+project page · paper · bibtex
+
+We detect fake videos through anomaly detection, using a model that can be trained solely from real, unlabeled data.
+
+
+
+
+
+
+	
+Conditional Generation of Audio from Video via Foley Analogies
+Yuexi Du, Ziyang Chen, Justin Salamon, Bryan Russell, Andrew Owens
+CVPR 2023
+paper · project page · code · bibtex
+
+We add sound effects to silent videos, given a user-supplied video indicating the sound.
+
+
+
+
+
+
+	
+Sound to Visual Scene Generation by Audio-to-Visual Latent Alignment
+Kim Sung-Bin, Arda Senocak, Hyunwoo Ha, Andrew Owens, Tae-Hyun Oh
+CVPR 2023
+project page · paper · bibtex
+
+We generate images from sound.
+
+
+
+
+
+
+	
+Touch and Go: Learning from Human-Collected Vision and Touch
+Fengyu Yang*, Chenyang Ma*, Jiacheng Zhang, Jing Zhu, Wenzhen Yuan, Andrew Owens
+NeurIPS (Datasets and Benchmarks Track) 2022
+paper · project page · code · bibtex
+
+A dataset of paired vision-and-touch data collected by humans. We apply it to: 1) restyling an image to match a tactile input, 2) self-supervised representation learning, 3) multimodal video prediction.
+
+
+
+
+
+
+	
+Sound Localization by Self-Supervised Time Delay Estimation
+Ziyang Chen, David F. Fouhey, Andrew Owens
+ECCV 2022
+project page · paper · code · bibtex
+
+We learn through self-supervision to find correspondences between stereo channels, which can be used to estimate a sound source's time delay.
+
+
+
+
+
+
+	
+Learning Visual Styles from Audio-Visual Associations
+Tingle Li, Yichen Liu, Andrew Owens, Hang Zhao
+ECCV 2022
+project page · paper · bibtex
+
+We learn from unlabeled data to manipulate the style of an image using sound.
+
+
+
+
+
+
+	
+Learning Pixel Trajectories with Multiscale Contrastive Random Walks
+Zhangxing Bian, Allan Jabri, Alexei A. Efros, Andrew Owens
+CVPR 2022
+project page · paper · code · bibtex
+
+We learn to densely track pixels in a video using multiscale contrastive random walks, leading to a unified model that can be applied to both optical flow and long-range tracking.
+
+
+
+
+
+
+	
+Comparing Correspondences: Video Prediction with Correspondence-wise Losses
+Daniel Geng, Max Hamilton, Andrew Owens
+CVPR 2022
+project page · paper · code · bibtex
+
+A simple "loss extension" that makes models more robust to small positional errors: match the predicted and ground truth images using optical flow, then measure the similarity of corresponding pairs of pixels.
+
+
+
+
+
+
+	
+Mix and Localize: Localizing Sound Sources in Mixtures
+Xixi Hu*, Ziyang Chen*, Andrew Owens
+CVPR 2022
+project page · paper · code · bibtex
+
+We localize multiple sound sources within an image using a formulation based on cycle consistency.
+
+
+
+
+
+
+	
+Strumming to the Beat: Audio-Conditioned Contrastive Video Textures
+Medhini Narasimhan, Shiry Ginosar, Andrew Owens, Alexei A. Efros, Trevor Darrell
+WACV 2022 (Oral)
+Best Paper Honorable Mention
+project page · paper · bibtex
+
+We learn a representation for creating video textures using contrastive learning.
+
+
+
+
+
+
+	
+Structure from Silence: Learning Scene Structure from Ambient Sound
+Ziyang Chen*, Xixi Hu*, Andrew Owens
+CoRL 2021 (Oral)
+project page · paper · video · bibtex
+
+We estimate the distance to walls from very quiet ambient sounds. We also use these sounds to learn self-supervised audio-visual representations.
+
+
+
+
+
+
+	
+Planar Surface Reconstruction from Sparse Views
+Linyi Jin, Shengyi Qian, Andrew Owens, David F. Fouhey
+ICCV 2021 (Oral)
+project page · paper · video · code · bibtex
+
+We create a planar reconstruction of a scene from two very distant camera viewpoints.
+
+
+
+
+
+
+	
+Space-Time Correspondence as a Contrastive Random Walk
+Allan Jabri, Andrew Owens, Alexei A. Efros
+NeurIPS 2020 (Oral)
+project page · paper · code · bibtex
+
+A simple, self-supervised method for video representation learning. Train a random walker to traverse a graph derived from a video. Learn an affinity function that makes it return to the place it started.
+
+
+
+
+
+
+	
+Self-Supervised Learning Of Audio-Visual Objects From Video
+Triantafyllos Afouras, Andrew Owens, Joon Son Chung, Andrew Zisserman
+ECCV 2020
+project page · paper · code · bibtex
+
+We learn from unlabeled video to represent a video as a set of discrete audio-visual objects. These can be used as drop-in replacements for face detectors in speech tasks, including 1) multi-speaker source separation, 2) active speaker detection, 3) correcting misaligned audio and visual streams, and 4) speaker localization.
+
+
+
+
+
+
+	
+CNN-generated images are surprisingly easy to spot... for now
+Sheng-Yu Wang, Oliver Wang, Richard Zhang, Andrew Owens, Alexei A. Efros
+CVPR 2020 (Oral)
+project page · paper · code · bibtex
+
+Forensics classifiers trained to spot one type of CNN-generated image generalize surprisingly well to images made by other networks, too.
+
+
+
+
+
+
+	
+Detecting Photoshopped Faces by Scripting Photoshop
+Sheng-Yu Wang, Oliver Wang, Andrew Owens, Richard Zhang, Alexei A. Efros
+ICCV 2019
+project page · paper · video · code · bibtex
+
+We detect manipulated face photos, using only training data that was automatically generated by scripting Photoshop.
+
+
+
+
+
+
+	
+Learning Individual Styles of Conversational Gesture
+Shiry Ginosar*, Amir Bar*, Gefen Kohavi, Caroline Chan, Andrew Owens, Jitendra Malik
+CVPR 2019
+project page · paper · video · bibtex
+
+We predict a speaker's arm/hand gestures from audio.
+
+
+
+
+
+
+	
+Audio-Visual Scene Analysis with Self-Supervised Multisensory Features
+Andrew Owens, Alexei A. Efros
+ECCV 2018 (Oral)
+paper · project page · video · talk · slides (key, ppt) · code · bibtex
+
+We use self-supervision to learn a multisensory representation that fuses the audio and visual streams of a video. We apply it to: 1) sound-source localization, 2) action recognition, 3) on/off-screen audio source separation.
+
+
+
+
+
+
+	
+Fighting Fake News: Image Splice Detection via Learned Self-Consistency
+Minyoung Huh*, Andrew Liu*, Andrew Owens, Alexei A. Efros
+ECCV 2018
+paper · project page · video · code · bibtex
+
+We detect images that are not "self-consistent", using an anomaly detection model that was trained only on real images.
+
+
+
+
+
+
+	
+More Than a Feeling: Learning to Grasp and Regrasp using Vision and Touch
+Roberto Calandra, Andrew Owens, Dinesh Jayaraman, Justin Lin, Wenzhen Yuan, Jitendra Malik, Edward H. Adelson, Sergey Levine
+RA-L 2018
+RA-L 2018 Best Paper Award Finalist
+paper · video · project page · bibtex
+
+We train a robot to adjust its grasp, using both vision and touch sensing.
+
+
+
+
+
+
+	
+MoSculp: Interactive Visualization of Shape and Time
+Xiuming Zhang, Tali Dekel, Tianfan Xue, Andrew Owens, Qiurui He, Jiajun Wu, Stefanie Mueller, William T. Freeman
+UIST 2018
+paper · project page · bibtex
+
+We summarize complex motions using a representation called a motion sculpture.
+
+
+
+
+
+
+	
+The Feeling of Success: Does Touch Sensing Help Predict Grasp Outcomes?
+Roberto Calandra, Andrew Owens, Manu Upadhyaya, Wenzhen Yuan, Justin Lin, Edward H. Adelson, Sergey Levine
+CoRL 2017
+paper · project page · bibtex
+
+Touch sensing makes it easier to tell whether a grasp will succeed.
+
+
+
+
+
+
+	
+Shape-independent Hardness Estimation Using Deep Learning and a GelSight Tactile Sensor
+Wenzhen Yuan, Chenzhuo Zhu, Andrew Owens, Mandayam Srinivasan, Edward H. Adelson
+ICRA 2017
+paper · video · bibtex
+
+We can estimate the hardness of an object by analyzing the way that it deforms a touch sensor.
+
+
+
+
+
+
+	
+Ambient Sound Provides Supervision for Visual Learning
+Andrew Owens, Jiajun Wu, Josh McDermott, William T. Freeman, Antonio Torralba
+ECCV 2016 (Oral)
+paper · journal paper (2018) · project page · models · bibtex
+
+When we train a neural network to predict sound from sight, it learns to recognize objects and scenes — without using any labeled training data.
+
+
+
+
+
+
+	
+Visually Indicated Sounds
+Andrew Owens, Phillip Isola, Josh McDermott, Antonio Torralba, Edward H. Adelson, William T. Freeman
+CVPR 2016 (Oral)
+paper · project page · video · bibtex
+
+What sound does an object make when you hit it with a drumstick? We use sound as a supervisory signal for learning about materials and actions.
+
+
+
+
+
+
+	
+Camouflaging an Object from Many Viewpoints
+Andrew Owens, Connelly Barnes, Alex Flint, Hanumant Singh, William T. Freeman
+CVPR 2014 (Oral)
+paper · project page · video · code · bibtex
+
+We texture a 3D object so that it is hard to see, no matter where it is viewed from.
+
+
+
+
+
+
+	
+Shape Anchors for Data-Driven Multi-view Reconstruction
+Andrew Owens, Jianxiong Xiao, Antonio Torralba, William T. Freeman
+ICCV 2013
+paper · project page · bibtex
+
+Some image regions are highly informative about 3D shape. We use this idea to make a multi-view reconstruction system that exploits single-image depth cues.
+
+
+
+
+
+
+	
+SUN3D: A Database of Big Spaces Reconstructed using SfM and Object Labels
+Jianxiong Xiao, Andrew Owens, Antonio Torralba
+ICCV 2013
+paper · project page · video · bibtex
+
+A large dataset of 3D-reconstructed indoor scenes.
+
+
+
+
+
+
+	
+Discrete-Continuous Optimization for Large-Scale Structure from Motion
+David Crandall, Andrew Owens, Noah Snavely, Dan Huttenlocher
+CVPR 2011 (Oral)
+CVPR Best Paper Award Honorable Mention
+paper · journal paper (2013) · project page · video · bibtex
+
+Discrete Markov random fields can solve structure-from-motion problems, while incorporating extra information such as GPS and vanishing lines.
+
+
+
+
+
+
+
+
+
+
+ 
+

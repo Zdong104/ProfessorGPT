@@ -1,0 +1,346 @@
+Professor: Yaoqing Yang
+University: Dartmouth College
+URL: https://sites.google.com/site/yangyaoqingcmu
+Description: Skip to main content
+Skip to navigation
+Yaoqing Yang	
+About meGroupPublicationsTeachingExperience
+	
+Yaoqing Yang
+
+
+
+Assistant Professor
+
+
+
+
+Department of CS, Dartmouth
+
+15 Thayer Drive, Hanover, NH 03755-4404
+
+Yaoqing.Yang AT dartmouth.edu
+
+
+
+
+I am passionate about improving the transparency and reliability of machine learning models. My current focus is to diagnose failures of these models using shape/geometric features from high dimensions, such as loss landscapes, weight matrix spectral densities, and decision boundaries. I also apply these techniques to applications such as 3D point clouds and graphs. My research draws inspiration from statistical learning and information theory.
+
+
+
+
+You are welcome to email me if you want to work with me. Please apply to our PhD program using the link below.
+
+PhD in Dartmouth CS
+
+
+
+
+More information about me.
+
+
+
+
+Postdoc, RISE Lab, EECS, UC Berkeley.
+
+
+
+
+PhD, ECE, CMU.
+
+
+
+
+BS, EE, Tsinghua.
+
+Google Scholar  |  CV  |  LinkedIn
+
+News
+
+See this nice video that introduces our new paper on model diagnosis.
+
+Two new papers from our group are online. The first one is on feature learning and heavy-tailed weight matrix spectrum, and the second one is a new ensembling algorithm called SharpBalance.
+
+Two papers accepted by ICML 2024. Stay tuned!
+
+I will serve as an area chair @ NeurIPS 2024.
+
+Our paper "teach LLMs to phish: stealing private information from language models" is accepted by ICLR 2024.
+
+Our paper "temperature balancing, layer-wise weight analysis, and neural network training" has been accepted by NeurIPS 2023 as a spotlight!
+
+Our paper "when are ensembles really effective?" is accepted by NeurIPS 2023.
+
+I will serve as an area chair @ ICLR 2024.
+
+Our paper "evaluating natural language processing models with generalization metrics that do not need access to any training or testing data" is accepted by KDD 2023.
+
+Our paper "a three-regime model of network pruning" is accepted by ICML 2023.
+
+I will serve as an area chair @ NeurIPS 2023.
+
+Selected publications
+
+Temperature Balancing, Layer-wise Weight Analysis, and Neural Network Training
+
+Yefan Zhou*, Tianyu Pang*, Keqin Liu, Charles H. Martin, Michael W. Mahoney, Yaoqing Yang
+
+NeurIPS 2023
+
+Summary: Most deep neural networks have complex multilayer structures, often seen as a barrier to transparency. In our research, we reveal a significant insight: these layers are not uniformly well-trained. By identifying and addressing underperforming layers, we enhance the overall network quality. Our approach introduces a "model diagnostic" tool for improving training. We demonstrate its effectiveness across various benchmarks, datasets, and network architectures, outperforming more than five existing methods, all rooted in our ability to dissect and diagnose network imbalances.
+
+Full paper  |  Code
+
+When are ensembles really effective?
+
+Ryan Theisen, Hyunsuk Kim, Yaoqing Yang, Liam Hodgkinson, Michael W. Mahoney
+
+NeurIPS 2023
+
+Summary: This study examines when ensembles are "really" effective in improving the test accuracy of learning models. Our theoretical analysis establishes that ensembling improves test accuracy when the "disagreement" is high compared to the average error rate of individual learners. We establish this conclusion based on a condition known as "competence," which helps eliminate abnormal cases that often restrict conventional analysis on ensembling. Empirical findings validate the theory and highlight the more significant benefit of ensembling in non-interpolating models, such as tree-based methods, compared to interpolating models.
+
+Full paper 
+
+Evaluating natural language processing models with generalization metrics that do not need access to any training or testing data
+
+Yaoqing Yang, Ryan Theisen, Liam Hodgkinson, Joseph E. Gonzalez, Kannan Ramchandran, Charles H. Martin, Michael W. Mahoney
+
+KDD 2023
+
+Summary: We provide the first large-scale correlational studies on the generalization measures for natural language processing models. This paper focuses on the measures derived from the heavy-tail self regularization (HT-SR) theory, which does not need access to training or testing data to calculate. Also, we show that these measures can perform uniformly better than existing norm-based measures if we aim to predict test-time performance instead of the "generalization gap", which is the difference between training and test accuracies. We use the WeightWatcher toolbox to analyze the HT-SR measures.
+
+Full paper  |  Code  |  Video
+
+A three-regime model of network pruning
+
+Yefan Zhou, Yaoqing Yang, Arin Chang, Michael W. Mahoney
+
+ICML 2023
+
+Summary: Recent research has emphasized the intricate relationship between training hyperparameters and the ability to prune machine learning models. However, accurately predicting how adjusting a specific hyperparameter impacts pruning remains challenging. To address this gap, a phenomenological model based on the statistical mechanics of learning is introduced, using "temperature-like" and "load-like" parameters to represent the influence of hyperparameters on pruning performance. The study identifies a transition phenomenon, where the effect of increasing the temperature-like parameter depends on the value of the load-like parameter, leading to different pruning outcomes. The findings are then applied to three practical scenarios, including optimizing hyperparameters for improved pruning and selecting the most suitable model for pruning.
+
+Full paper  |  Code
+
+Two sides of the same coin: Heterophily and oversmoothing in graph convolutional neural networks
+
+Yujun Yan, Milad Hashemi, Kevin Swersky, Yaoqing Yang, Danai Koutra
+
+ICDM 2022
+
+Summary: Graph convolutional neural networks may perform worse when we increase the number of layers (oversmoothing problem) and when we feed in heterophilous graphs (heterophily problem). In this work, we show it theoretically and empirically that these two seemingly unrelated problems are closely related.
+
+Full paper  |  Code
+
+Neurotoxin: Durable backdoors in federated learning
+
+Zhengming Zhang*, Ashwinee Panda*, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Prateek Mittal, Kannan Ramchandran, Joseph E. Gonzalez
+
+ICML 2022
+
+Summary: We propose Neurotoxin, a simple one-line modification to existing backdoor attacks in federated learning. Our attack can double the durability of state of the art backdoors.
+
+Full paper  |  Code
+
+Self-supervised spatial reasoning on multi-view line drawings
+
+Siyuan Xiang*, Anbang Yang*, Yanfei Xue, Yaoqing Yang, Chen Feng
+
+CVPR 2022
+
+Summary: This paper studies self-supervised learning algorithms that can perform "spatial reasoning" tasks from multi-view images of line drawings. Our algorithms significantly exceed the state-of-the-art performance when measured on the newly proposed SPARE3D dataset.
+
+Full paper  |  Website  |  Code
+
+Taxonomizing local versus global structure in neural network loss landscapes
+
+Yaoqing Yang, Liam Hodgkinson, Ryan Theisen, Joe Zou, Joseph E. Gonzalez, Kannan Ramchandran, Michael W. Mahoney
+
+NeurIPS 2021
+
+Summary: This paper experimentally demonstrates the long-standing conjecture that "local properties" of a loss landscape cannot dictate generalization. The study taxonomizes learning problems into "phases" by analyzing various generalization metrics obtained from the loss landscapes of neural networks, and it provides a formal way to divide and conquer typical failure modes of learning in the different phases.
+
+Full paper  |  Code  |  Video
+
+Improving semi-supervised federated learning by reducing the gradient diversity of models
+
+Zhengming Zhang*, Yaoqing Yang*, Zhewei Yao*, Yujun Yan, Joseph E. Gonzalez, Kannan Ramchandran, Michael W. Mahoney
+
+IEEE BigData 2021
+
+Summary: Cell phone users who participate in federated learning often do not have the time to provide labels to their private data, making semi-supervised learning a practical alternative. This paper shows that the large dissimilarity between model gradients from different users could arise from the semi-labeled data and become an obstacle to semi-supervised federated learning.
+
+Full paper  |  Code
+
+A Dataset-dispersion Perspective on Reconstruction versus Recognition in Single-view 3D Reconstruction Networks
+
+Yefan Zhou, Yiru Shen, Yujun Yan, Chen Feng, Yaoqing Yang
+
+3DV 2021
+
+Summary: A SVR model can be disposed towards recognition (classification-based) or reconstruction depending on how dispersed the training data becomes. In this paper, we propose "dispersion score", which is a data-driven metric used to measure the tendency of SVR models to perform recognition or reconstruction. It can also be used to diagnose problems from the training data and guide the design of data augmentation schemes.
+
+Full paper  |  Code  |  Video
+
+Effect of Model Size on Worst-Group Generalization
+
+Alan Pham*, Eunice Chan*, Vikranth Srivatsa*, Dhruba Ghosh*, Yaoqing Yang, Yaodong Yu, Ruiqi Zhong, Joseph E. Gonzalez*, Jacob Steinhardt*
+
+Preliminary version accepted by NeurIPS DistShift Workshop 2021
+
+Summary: Prior work has suggested that overparameterization can hurt test accuracy on rare subgroups. Motivated by the fact that subgroup information is often unknown, we investigate the effect of model size on worst-group generalization under empirical risk minimization (ERM). Our systematic evaluation reveals that increasing model size does not hurt, and may help, worst-group test error under ERM.
+
+Full paper
+
+Boundary thickness and robustness in learning models
+
+Yaoqing Yang, Rajiv Khanna, Yaodong Yu, Amir Gholami, Kurt Keutzer, Joseph E. Gonzalez, Kannan Ramchandran, Michael W. Mahoney
+
+NeurIPS 2020
+
+Summary: This paper introduces the notion of "boundary thickness" and shows that thin decision boundaries lead to overfitting (e.g., measured by the robust generalization gap between training and testing) and lower robustness. Also, welcome to check Dominic's thesis and see how we use boundary thickness to reveal "backdoors" hidden in a neural network.
+
+Full paper  |  Code
+
+Foldingnet: Point cloud auto-encoder via deep grid deformation
+
+Yaoqing Yang, Chen Feng, Yiru Shen, Dong Tian
+
+CVPR 2018
+
+Summary: In this work, a novel auto-encoder is proposed to address the challenge of unsupervised learning on point clouds. A novel folding-based decoder is used to deform a canonical 2D grid onto a point cloud's underlying 3D object surface. The proposed decoder structure is proved, in theory, to be a generic architecture that can reconstruct an arbitrary point cloud from a 2D grid.
+
+Paper  |  Code  |  Video
+
+Mining point cloud local structures by kernel correlation and graph pooling
+
+Yiru Shen*, Chen Feng*, Yaoqing Yang, Dong Tian
+
+CVPR 2018
+
+Summary: Existing ML models on point clouds do not take full advantage of a point’s local neighborhood that contains fine-grained structural information. In this paper, we present novel operations to exploit local structures in a point cloud.
+
+Paper  |  Code
+
+Serverless straggler mitigation using local error-correcting codes
+
+Vipul Gupta*, Dominic Carrano*, Yaoqing Yang, Vaishaal Shankar, Thomas Courtade, Kannan Ramchandran
+
+ICDCS 2020
+
+Best Paper Finalists
+
+Summary: Inexpensive cloud services, such as serverless computing, are often vulnerable to straggling nodes that increase end-to-end latency. We propose and implement simple yet principled coding approaches for straggler mitigation.
+
+Full paper  |  Code
+
+Coded elastic computing
+
+Yaoqing Yang, Matteo Interlandi, Pulkit Grover, Soummya Kar, Saeed Amizadeh, Markus Weimer
+
+ISIT 2019
+
+Summary: Cloud providers have recently introduced new offerings whereby spare computing resources are accessible at discounts compared to on-demand computing. Exploiting such an opportunity is challenging since such resources are accessed with low priority and can elastically leave (through preemption) and join the computation at any time. This paper designs a new technique called coded elastic computing, enabling distributed computations over these elastic resources.
+
+Full Paper  |  Code
+
+Coded iterative computing using substitute decoding
+
+Yaoqing Yang, Malhar Chaudhari, Pulkit Grover, Soummya Kar
+
+ISIT 2018
+
+Summary: Applying conventional linear codes to large-scale matrix operations can make sparse matrices dense, and codes with low-density generator matrices (LDGM) are often preferred. In this paper, we show a novel way of using LDGM codes called "substitute decoding". Applications of this new coding scheme include power iterations, truncated singular value decompositions, and gradient descent in the distributed setting.
+
+Conference Paper  |  Full Paper
+
+Coded distributed computing for inverse problems
+
+Yaoqing Yang, Pulkit Grover, Soummya Kar
+
+NeurIPS 2017
+
+Summary: In this paper, we utilize the emerging idea of "coded computation" to design a novel technique for solving linear inverse problems under specific iterative methods in a parallelized implementation affected by stragglers. The applications studied in this paper include personalized PageRank and sampling on graphs.
+
+Paper  |  Arxiv Version
+
+Computing linear transformations with unreliable components
+
+Yaoqing Yang, Pulkit Grover, Soummya Kar
+
+Transactions on Information Theory 2017
+
+Summary: The work provides the first coding strategies that provably require fewer gates in scaling sense than replication for computing finite-field linear transforms with all computational nodes being error-prone. The main insight is that allowing all nodes to be error-prone necessitates repeated error suppression through the embedding of decoders inside the computation, resulting in a "coded computation" setup.
+
+Full paper  |  Code
+
+Rate distortion for lossy in-network linear function computation and consensus: Distortion accumulation and sequential reverse water-filling
+
+Yaoqing Yang, Pulkit Grover, Soummya Kar
+
+Transactions on Information Theory 2017
+
+Summary: The work provides fundamental limits as well as achievable strategies on "distortion accumulation" in distributed linear computing problems.  By successfully characterizing the overall distortion-rate function with accumulated distortion in a high-rate regime, we tighten earlier cut-set bounds by a factor that can be arbitrarily large even in simple line networks.
+
+Full paper
+
+Talks and seminars
+
+Invited lab talk at AI-TIME. Our entire lab will give multiple talks on "robust model diagnostics." Jan 18, 2024.
+
+Invited talk at the Summer Data Science and AI webinar series, Dartmouth College, July 20, 2023.
+
+Invited online talk at One World Seminar, May 10, 2023.
+
+Invited talk at the Bebop meeting at UC Berkeley, December 7, 2022.
+
+Invited online talk at Princeton University, October 28, 2022.
+
+Invited online talk at Carnegie Mellon University, October 12, 2022.
+
+Internal talk at Lawrence Berkeley National Laboratory, October 6, 2022.
+
+Seminar talk at Tsinghua University, AIR Discover, September 25, 2022.
+
+Seminar talk at the University of Arizona, April 12, 2022.
+
+Seminar talk at Department of Mathematics, Nanjing University, April 11, 2022.
+
+Seminar talk at the University of Florida, Mar 24, 2022.
+
+Seminar talk at the Chinese University of Hong Kong, Mar 22, 2022.
+
+Seminar talk at Washington University in St. Louis, Mar 10, 2022.
+
+Invited online talk at AI-TIME, Mar 9, 2022.
+
+Invited online talk, ELLIS reading group on Mathematics of Deep Learning, Mar 8, 2022.
+
+Seminar talk at Dartmouth College, Mar 2, 2022.
+
+Seminar talk at the Hong Kong University of Science and Technology, Feb 23, 2022.
+
+Invited online talk, EIS Seminar, Carnegie Mellon University, Feb 21, 2022.
+
+ICSI C3PI Seminar, International Computer Science Institute, Oct 13, 2021.
+
+Utah Data Science Club Seminar, University of Utah, Mar 12, 2021.
+
+ECE Energy and Information Systems Seminar, Carnegie Mellon University, Oct 21, 2020.
+
+Talk at BDD Workshop, UC Berkeley, May 15, 2020.
+
+Talk at RISE Lab Winter Retreat, Jan 17, 2020.
+
+Invited Seminar, RISE Lab, Mar 12, 2019.
+
+ITA Workshop's Graduation Day Talk, UC San Diego, Feb 13, 2019.
+
+GAMES: Graphics And Mixed Environment Seminar, Jan 31, 2019.
+
+Invited talk, University of Washington, Aug 9, 2018.
+
+ITA Workshop's Graduation Day Poster Presentation, UC San Diego, Feb 13, 2018.
+
+Google Sites
+Report abuse
+

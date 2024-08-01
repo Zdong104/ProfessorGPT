@@ -1,0 +1,190 @@
+Professor: Shweta Yadav 0001
+University: University of Illinois at Chicago
+URL: https://shwetanlp.github.io/
+Description:   
+about
+(current)
+publications
+teaching
+Shweta Yadav
+
+Computer Science , University of Illinois Chicago (UIC), IL, USA.
+
+I am an Assistant Professor of Computer Science at the University of Illinois Chicago (UIC). Previously, I served as a Bridge to the Faculty (B2F) fellow in the Computer Science (CS) Department at UIC. I have also worked as a postdoctoral research fellow at the U.S. National Library of Medicine, National Institutes of Health (NIH). I earned my Ph.D. degree in computer science from the Indian Institute of Technology Patna, India.
+
+My research interests lie at the intersection of Natural Language Processing, Healthcare-informatics, Biomedical Text Mining, and Computational Social Science. I aim to develop effective and efficient machine learning algorithms to accelerate the development of artificial intelligence in the healthcare and medical domains. I have a strong commitment to interdisciplinary collaboration and have experience working on emerging real-world problems in healthcare and social sciences.
+
+My current research works focus on developing computational methods for medical document summarization, disease progression, and prediction of health outcomes from electronic health records and social media.
+
+news
+Jun, 2023	Excited to announce that I will be starting as an Assistant Professor of Computer Science at University of Illinois Chicago in Fall 2023!!
+Jun, 2023	Research Assistantships Available: I am seeking highly motivated students, RAs, and interns. Please send me an email if you are interested in working with me at the intersection of NLP and ML, with a specific focus on biomedical and healthcare domain.
+May, 2023	Our paper “Towards Identifying Fine-Grained Depression Symptoms from Memes” has been accepted at ACL 2023.
+Jan, 2023	Please see our paper on consumer health question summarization accepted at The Web Conference 2023 (formerly WWW).
+Sep, 2022	Two long papers accepted in the COLING 2022.
+selected publications
+ACL
+Towards Identifying Fine-Grained Depression Symptoms from Memes
+Shweta Yadav, Cornelia Caragea, Chenye Zhao, Naincy Kumari, Marvin Solberg, and Tanmay Sharma
+In the Proceedings of the Association for Computational Linguistics (ACL) 2023
+BIB
+@inproceedings{yadav2023acl,
+  abbr = {ACL},
+  bibtex_show = {true},
+  title = {Towards Identifying Fine-Grained Depression Symptoms from Memes},
+  author = {Yadav, Shweta and Caragea, Cornelia and Zhao, Chenye and Kumari, Naincy and Solberg, Marvin and Sharma, Tanmay},
+  booktitle = {the Proceedings of the Association for Computational Linguistics (ACL)},
+  year = {2023},
+  selected = {true}
+}
+WWW
+Towards Understanding Consumer Healthcare Questions on the Web with Semantically Enhanced Contrastive Learning
+Shweta Yadav, Stefan Cobeli, and Cornelia Caragea
+In the Proceedings of the ACM Web Conference (WWW) 2023
+BIB
+@inproceedings{yadav2023theweb,
+  abbr = {WWW},
+  bibtex_show = {true},
+  title = {Towards Understanding Consumer Healthcare Questions on the Web with Semantically Enhanced Contrastive Learning},
+  author = {Yadav, Shweta and Cobeli, Stefan and Caragea, Cornelia},
+  booktitle = {the Proceedings of the ACM Web Conference (WWW)},
+  year = {2023},
+  selected = {true}
+}
+COLING
+Towards Summarizing Healthcare Questions in Low-Resource Setting
+Shweta Yadav, and Cornelia Caragea
+In the Proceedings of the 29th International Conference on Computational Linguistics (COLING) 2022
+BIB
+@inproceedings{yadav2022coling,
+  abbr = {COLING},
+  bibtex_show = {true},
+  title = {Towards Summarizing Healthcare Questions in Low-Resource Setting},
+  author = {Yadav, Shweta and Caragea, Cornelia},
+  booktitle = {the Proceedings of the 29th International Conference on Computational Linguistics (COLING)},
+  year = {2022},
+  selected = {true}
+}
+ACL
+Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards
+Shweta Yadav, Deepak Gupta, Asma Ben Abacha, and Dina Demner-Fushman
+In ACL 2021
+BIB
+@inproceedings{yadav2021reinforced,
+  abbr = {ACL},
+  bibtex_show = {true},
+  title = {Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards},
+  author = {Yadav, Shweta and Gupta, Deepak and Abacha, Asma Ben and Demner-Fushman, Dina},
+  booktitle = {ACL},
+  year = {2021},
+  selected = {true}
+}
+ACL
+Multimodal Graph-based Transformer Framework for Biomedical Relation Extraction
+Sriram Pingali, Shweta Yadav, Pratik Dutta, and Sriparna Saha
+In ACL Findings 2021
+BIB
+@inproceedings{Sriram2021multimodal,
+  abbr = {ACL},
+  bibtex_show = {true},
+  title = {Multimodal Graph-based Transformer Framework for Biomedical Relation Extraction},
+  author = {Pingali, Sriram and Yadav, Shweta and Dutta, Pratik and Saha, Sriparna},
+  booktitle = {ACL Findings},
+  year = {2021},
+  selected = {true}
+}
+JBI
+Question-aware transformer models for consumer health question summarization
+Shweta Yadav, Deepak Gupta, Asma Ben Abacha, and Dina Demner-Fushman
+Journal of Biomedical Informatics 2022
+BIB
+@article{yadav2022question,
+  abbr = {JBI},
+  bibtex_show = {true},
+  title = {Question-aware transformer models for consumer health question summarization},
+  author = {Yadav, Shweta and Gupta, Deepak and Abacha, Asma Ben and Demner-Fushman, Dina},
+  journal = {Journal of Biomedical Informatics},
+  volume = {128},
+  pages = {104040},
+  year = {2022},
+  publisher = {Elsevier},
+  selected = {true}
+}
+PLOS ONE
+“When they say weed causes depression, but it’s your fav antidepressant”: Knowledge-aware Attention Framework for Relationship Extraction
+Shweta Yadav, Usha Lokala, Raminta Daniulaityte, Krishnaprasad Thirunarayan, Francois Lamy, and Amit Sheth
+PLoS one 2021
+BIB
+@article{yadav2021they,
+  abbr = {PLOS ONE},
+  bibtex_show = {true},
+  title = {“When they say weed causes depression, but it’s your fav antidepressant”: Knowledge-aware Attention Framework for Relationship Extraction},
+  author = {Yadav, Shweta and Lokala, Usha and Daniulaityte, Raminta and Thirunarayan, Krishnaprasad and Lamy, Francois and Sheth, Amit},
+  journal = {PLoS one},
+  volume = {16},
+  number = {3},
+  pages = {e0248299},
+  year = {2021},
+  selected = {true},
+  publisher = {Public Library of Science San Francisco, CA USA}
+}
+ACL
+A Unified Multi-task Adversarial Learning Framework for Pharmacovigilance Mining
+Shweta Yadav, Asif Ekbal, Sriparna Saha, and Pushpak Bhattacharyya
+In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019) 2019
+BIB
+@inproceedings{yadav2019unified,
+  abbr = {ACL},
+  bibtex_show = {true},
+  title = {A Unified Multi-task Adversarial Learning Framework for Pharmacovigilance Mining},
+  author = {Yadav, Shweta and Ekbal, Asif and Saha, Sriparna and Bhattacharyya, Pushpak},
+  booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019)},
+  pages = {5234--5245},
+  year = {2019},
+  selected = {true}
+}
+The Web (WWW)
+EDarkFind: Unsupervised Multi-View Learning for Sybil Account Detection
+Ramnath Kumar, Shweta Yadav, Raminta Daniulaityte, Francois Lamy, Krishnaprasad Thirunarayan, Usha Lokala, and Amit Sheth
+In Proceedings of The Web Conference 2020 (WWW 2020) 2020
+ABS BIB
+
+Darknet crypto markets are online marketplaces using crypto currencies (e.g., Bitcoin, Monero) and advanced encryption techniques to offer anonymity to vendors and consumers trading for illegal goods or services. The exact volume of substances advertised and sold through these crypto markets is difficult to assess, at least partially, because vendors tend to maintain multiple accounts (or Sybil accounts) within and across different crypto markets. Linking these different accounts will allow us to accurately evaluate the volume of substances advertised across the different crypto markets by each vendor. In this paper, we present a multi-view unsupervised framework (eDarkFind) that helps modeling vendor characteristics and facilitates Sybil account detection. We employ a multi-view learning paradigm to generalize and improve the performance by exploiting the diverse views from multiple rich sources such as BERT, stylometric, and location representation. Our model is further tailored to take advantage of domain-specific knowledge such as the Drug Abuse Ontology to take into consideration the substance information. We performed extensive experiments and demonstrated that the multiple views obtained from diverse sources can be effective in linking Sybil accounts. Our proposed eDarkFind model achieves an accuracy of 98% on three real-world datasets which shows the generality of the approach.
+
+@inproceedings{10.1145/3366423.3380263,
+  abbr = {The Web (WWW)},
+  bibtex_show = {true},
+  author = {Kumar, Ramnath and Yadav, Shweta and Daniulaityte, Raminta and Lamy, Francois and Thirunarayan, Krishnaprasad and Lokala, Usha and Sheth, Amit},
+  title = {EDarkFind: Unsupervised Multi-View Learning for Sybil Account Detection},
+  year = {2020},
+  isbn = {9781450370233},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3366423.3380263},
+  doi = {10.1145/3366423.3380263},
+  booktitle = {Proceedings of The Web Conference 2020 (WWW 2020)},
+  pages = {1955–1965},
+  numpages = {11},
+  keywords = {Sybil Detection, Darknet Market, Correlation Analysis, Stylometry, Drug Trafficker Identification, Multi-view Learning},
+  location = {Taipei, Taiwan},
+  series = {WWW '20},
+  selected = {true}
+}
+IEEE TCBB
+Relation extraction from biomedical and clinical text: Unified multitask learning framework
+Shweta Yadav, Srivastsa Ramesh, Sriparna Saha, and Asif Ekbal
+IEEE/ACM Transactions on Computational Biology and Bioinformatics 2020
+BIB
+@article{yadav2020relation,
+  title = {Relation extraction from biomedical and clinical text: Unified multitask learning framework},
+  author = {Yadav, Shweta and Ramesh, Srivastsa and Saha, Sriparna and Ekbal, Asif},
+  journal = {IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year = {2020},
+  publisher = {IEEE},
+  abbr = {IEEE TCBB},
+  bibtex_show = {true},
+  selected = {true}
+}
+  
+© Copyright 2023 Shweta Yadav. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Last updated: August 21, 2023.
+

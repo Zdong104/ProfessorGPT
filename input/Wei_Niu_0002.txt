@@ -1,0 +1,141 @@
+Professor: Wei Niu 0002
+University: University of Georgia
+URL: https://niuwei.info/
+Description: Wei Niu
+Home
+Realtime AI on Mobile
+Demo
+News
+Publication
+Teaching
+Grant & Others
+ 
+Wei Niu
+ Assistant Professor, wniu (AT) uga (DOT) edu, University of Georgia
+ 423 Boyd Research and Education Center
+Several RA positions available for highly motivated Ph.D. candidates. Check details.
+
+Wei Niu is an assistant professor in the School of Computing at the University of Georgia. He obtained his Ph.D. degree from the Department of Computer Science at William & Mary, under the supervision of Dr. Bin Ren. Prior to that, he earned a B.S. Degree in Software Engineering from Beihang University in 2016 and worked as a mobile-platform software developer at Bytedance Ltd. from 2016 to 2018. His research interests include:
+
+Real-time machine learning systems
+AGI on embedded devices
+Parallel computing
+Compiler optimization
+
+His work has been published in some high-impact conferences (MICRO, PLDI, ASPLOS, ICS, ICCV, CVPR, AAAI, NIPS, ECCV, DAC, ASP-DAC, GLSVLSI) and journals (TPAMI, CACM).
+
+Realtime AI Application on Mobile Devices
+
+Wei Niu also designed several creative real-time AI-applications on mobile devices based on his research, here are some examples:
+
+Network style transfer
+YOLO-V3/YOLO-V4 object detection
+Super resolution
+Black-white image/video coloring
+3D object detection (based on R2+1D, C3D, S3D models)
+
+More video information can be found on our Youtube channel or Bilibili Channel.
+
+Selected Publications
+
+* means equal contribution
+
+SmartMem: Layout Transformation Elimination and Adaptation for Efficient DNN Execution on Mobile
+Wei Niu, Md Musfiqur Rahman Sanim, Zhihao Shu, Jiexiong Guan, Xipeng Shen, Miao Yin, Gagan Agrawal, Bin Ren
+
+International Conference on Architectural Support for Programming Languages and Operating Systems  ASPLOS'24
+
+SoD²: Statically Optimizing Dynamic Deep Neural Network Execution
+Wei Niu, Gagan Agrawal, Bin Ren
+
+International Conference on Architectural Support for Programming Languages and Operating Systems  ASPLOS'24  
+
+GCD²: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs
+Wei Niu, Jiexiong Guan, Xipeng Shen, Yanzhi Wang, Gagan Agrawal, Bin Ren
+
+55th IEEE/ACM International Symposium on Microarchitecture  MICRO'22
+
+MEST: Accurate and Fast Memory-Economic Sparse Training Framework on the Edge
+Yuan, G., Ma, X., Niu, W., Li, Z., Kong, Z., Liu, N., Gong, Y., Zhan, Z., He, C., Jin, Q., Wang, S., Qin, M., Ren, B., Wang, Y., Liu, S., Lin, X.
+
+Thirty-fifth Conference on Neural Information Processing Systems  NeurIPS'21  
+
+Achieving on-Mobile Real-Time Super-Resolution with Neural Architecture and Pruning Search
+Zheng Zhan, Yifan Gong, Pu Zhao, Geng Yuan, Wei Niu, Yushu Wu, Tianyun Zhang, Malith Jayaweera, David Kaeli, Bin Ren, Xue Lin, Yanzhi Wang
+
+International Conference on Computer Vision, 2021  ICCV'21  
+
+GRIM: A General, Real-Time Deep Learning Inference Framework for Mobile Devices based on Fine-Grained Structured Weight Sparsity
+Wei Niu*, Zhengang Li *, Xiaolong Ma, Peiyang Dong, Gang Zhou, Xuehai Qian, Xue Lin, Yanzhi Wang, Bin Ren
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021  TPAMI'21  
+
+ClickTrain: Efficient and Accurate End-to-End Deep LearningTraining via Fine-Grained Architecture-Preserving Pruning
+Chengming Zhang, Geng Yuan, Wei Niu, Jiannan Tian, Sian Jin, Donglin Zhuang, Zhe Jiang, Yanzhi Wang, Bin Ren, Shuaiwen Song, Dingwen Tao
+
+The 35th ACM International Conference on Supercomputing (acceptance rate: 39/157)  ICS'21  
+
+DNNFusion: Accelerating Deep Neural Networks Execution with Advanced Operator Fusion
+Wei Niu, Jiexiong Guan, Yanzhi Wang, Gagan Agrawal, Bin Ren
+
+42nd ACM SIGPLAN Conference on Programming Language Design and Implementation, 2021 (acceptance rate: 87/320)  PLDI'21  
+
+NPAS: A Compiler-aware Framework of Unified Network Pruning and Architecture Search for Beyond Real-Time Mobile Acceleration
+Li, Z. *, Yuan, G. *, Niu, W.*, Zhao, P. *, Li, Y., Cai, Y., Shen, X., Zhan, Z., Kong, Z., Jin, Q., Chen, Z., Liu, S., Yang, K., Ren, B., Wang, Y., Lin, X.
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2021 (oral paper: top 5%, acceptance rate: 1593/7500)  CVPR'21  
+
+Neural Pruning Search for Real-Time Object Detection of Autonomous Vehicles
+Pu Zhao, Geng Yuan, Yuxuan Cai, Wei Niu, Qi Liu, Wujie Wen, Bin Ren, Yanzhi Wang, Xue Lin
+
+58th Annual Design Automation Conference, 2021  DAC'21  
+
+Real-Time Mobile Acceleration of DNNs: From Computer Vision to Medical Applications
+Hongjia Li, Geng Yuan, Wei Niu, Yuxuan Cai, Mengshu Sun, Zhengang Li, Bin Ren, Xue Lin, and Yanzhi Wang
+
+Proceeding of Asia and South Pacific Design Automation Conference, 2021  ASP-DAC'21  
+
+Achieving Real-Time Execution of 3D Convolutional Neural Networks on Mobile Devices
+Wei Niu*, Mengshu Sun *, Zhengang Li *, Jou-An Chen, Jiexiong Guan, Xipeng Shen, Yanzhi Wang, Xue Lin, Bin Ren
+
+Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021  AAAI'21  
+
+YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design
+Yuxuan Cai, Hongjia Li, Geng Yuan, Wei Niu, Yanyu Li, Xulong Tang, Bin Ren, Yanzhi Wang
+
+Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021  AAAI'21  
+
+CoCoPIE: Enabling Real-Time AI on Off-the-Shelf Mobile Devices via Compression-Compilation Co-Design
+Hui Guan, Shaoshan Liu, Xiaolong Ma, Wei Niu, Bin Ren, Xipeng Shen, Yanzhi Wang, Pu Zhao (author in alphabet order)
+
+Communications of the ACM, 2021 (Featured Article)  CACM'21  
+
+An Image Enhancing Pattern-based Sparsity for Real-Time Inference on Mobile Devices
+Xiaolong Ma *, Wei Niu*, Tianyun Zhang, Sijia Liu, Sheng Lin, Hongjia Li, Xiang Chen, Jian Tang, Kaisheng Ma, Bin Ren, and Yanzhi Wang
+
+Proceeding of European Conference on Computer Vision, 2020  ECCV'20  
+
+A Privacy-Preserving-Oriented DNN Pruning and Mobile Acceleration Framework
+Yifan Gong, Zheng Zhan, Zhengang Li, Wei Niu, Xiaolong Ma, Wenhao Wang, Bin Ren, Caiwen Ding, Xue Lin, Xiaolin Xu, Yanzhi Wang
+
+Proceedings of the 2020 on Great Lakes Symposium on VLSI (Special Session Paper), Sep. 2020  GLSVLSI'20  
+
+RTMobile: Beyond Real-Time Mobile Acceleration of RNNs for Speech Recognition
+Peiyan Dong, Siyue Wang, Wei Niu, Chengming Zhang, Sheng Lin, Zhengang Li, Yifan Gong, Bin Ren, Xue Lin, and Dingwen Tao
+
+The 57th Annual Design Automation Conference, July, 2020  DAC'20  
+
+PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices
+Xiaolong Ma, Fu-Ming Guo, Wei Niu, Xue Lin, Jian Tang, Kaisheng Ma, Bin Ren, Yanzhi Wang
+
+The 34th AAAI Conference on Artificial Intelligence, February, 2020  AAAI'20  
+
+PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning
+Wei Niu, Xiaolong Ma, Sheng Lin, Shihao Wang, Xuehai Qian, Xue Lin, Yanzhi Wang, Bin Ren
+
+The 25th International Conference on Architectural Support for Programming Languages and Operating Systems, March, 2020  ASPLOS'20  
+
+Full Publication List
+
+Powered by themefisher for Hugo.
+

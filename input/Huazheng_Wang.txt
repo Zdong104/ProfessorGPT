@@ -1,0 +1,151 @@
+Professor: Huazheng Wang
+University: Oregon State University
+URL: https://huazhengwang.github.io/
+Description: Huazheng Wang
+Home
+Publication
+Teaching
+GitHub
+Google Scholar
+	
+Huazheng Wang
+ 	
+
+Assistant Professor,
+School of Electrical Engineering and Computer Science,
+Oregon State University
+Email: huazheng.wang [at] oregonstate.edu
+
+About me
+
+I am an Assistant Professor in the School of Electrical Engineering and Computer Science (EECS) at Oregon State University. I was a Postdoctoral Research Associate at the Department of Electrical and Computer Engineering at Princeton University from 2021 to 2022, hosted by Dr. Mengdi Wang. I received my Ph.D. in Computer Science at University of Virginia in 2021, supervised by Dr. Hongning Wang. I received my B.Eng. in Computer Science at University of Science and Technology of China in 2015. My research interests include reinforcement learning, information retrieval and machine learning in general. Currently I focus on multi-armed bandits and reinforcement learning with application to online recommendation and other information retrieval problems.
+
+Updates: I am looking for self-motivated PhD students with solid math and coding backgrounds starting Fall 2024. More information can be found here for prospective students.
+
+News and Updates
+
+[01/2024] One paper on policy alignment is accepted by ICLR 2024.
+
+[12/2023] Two papers accepted by AAAI 2024: one on tree search bandits for protein optimization and one on stealthy attack against MAB.
+
+[09/2023] One paper on offline RL for learning to rank is accepted by NeurIPS 2023.
+
+[04/2023] One paper on representation learning in POMDP is accepted by ICML 2023. See you in Hawaii.
+
+[01/2023] Our asynchronous kernel bandits paper is accepted by ICLR 2023.
+
+[09/2022] Two papers accepted by NeurIPS 2022: one on distributed kernel bandits and the other on Thompson Sampling for Directed Evolution.
+
+[09/2022] Joined EECS at Oregon State University as an Assistant Professor.
+
+Honors and Awards
+
+[08/2019], SIGIR 2019 Best Paper Award.
+
+[2018 - 2021], Bloomberg Data Science Ph.D. Fellowship.
+
+[08/2021], ICML 2021 Best Reviewers (Top 10%).
+
+Publications
+
+PARL: A Unified Framework for Policy Alignment in Reinforcement Learning
+Souradip Chakraborty, Amrit Singh Bedi, Alec Koppel, Dinesh Manocha, Huazheng Wang, Furong Huang, Mengdi Wang. ICLR 2024. [arXiv]
+
+Tree Search-Based Evolutionary Bandits for Protein Sequence Optimization
+Jiahao Qiu, Hui Yuan, Jinghong Zhang, Wentao Chen, Huazheng Wang, Mengdi Wang. AAAI 2024. [arXiv]
+
+Stealthy Adversarial Attacks on Stochastic Multi-Armed Bandits
+Zhiwei Wang, Huazheng Wang, Hongning Wang. AAAI 2024.
+
+Unified Off-Policy Learning to Rank: a Reinforcement Learning Perspective
+Zeyu Zhang, Yi Su, Hui Yuan, Yiran Wu, Rishab Balasubramanian, Qingyun Wu, Huazheng Wang, Mengdi Wang. NeurIPS 2023. [arXiv]
+
+Provably Efficient Representation Learning with Tractable Planning in Low-Rank POMDP
+Jiacheng Guo, Zihao Li, Huazheng Wang, Mengdi Wang, Zhuoran Yang, Xuezhou Zhang. International Conference on Machine Learning (ICML 2023). [arXiv]
+
+Incentivizing Exploration in Linear Bandits under Information Gap
+Huazheng Wang, Haifeng Xu, Chuanhao Li, Zhiyuan Liu, Hongning Wang. Proceedings of the 17th ACM Conference on Recommender Systems (RecSys 2023). [arXiv]
+
+Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment
+Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang. The Eleventh International Conference on Learning Representations (ICLR 2023). [paper]
+
+Bandit Theory and Thompson Sampling-Guided Directed Evolution for Sequence Optimization
+Hui Yuan, Chengzhuo Ni, Huazheng Wang, Xuezhou Zhang, Le Cong, Csaba Szepesvári, Mengdi Wang. Advances in Neural Information Processing Systems 35 (NeurIPS 2022). [arXiv]
+
+Communication Efficient Distributed Learning for Kernelized Contextual Bandits
+Chuanhao Li, Huazheng Wang, Mengdi Wang, Hongning Wang. Advances in Neural Information Processing Systems 35 (NeurIPS 2022). [arXiv]
+
+Dynamic Global Sensitivity for Differentially Private Contextual Bandits
+Huazheng Wang, David Zhao, Hongning Wang. Proceedings of the 16th ACM Conference on Recommender Systems (RecSys 2022). [arXiv]
+
+When Are Linear Stochastic Bandits Attackable?
+Huazheng Wang, Haifeng Xu, Hongning Wang. International Conference on Machine Learning (ICML 2022). [arXiv]
+
+PairRank: Online Pairwise Learning to Rank by Divide-and-Conquer
+Yiling Jia, Huazheng Wang, Stephen Guo, Hongning Wang, Proceedings of the Web Conference 2021 (WWW 2021). Nominated for the Best Paper Award [arXiv] [code]
+
+Global and Local Differential Privacy for Collaborative Bandits
+Huazheng Wang, Qian Zhao, Qingyun Wu, Shubham Chopra, Abhinav Khaitan, Hongning Wang, Fourteenth ACM Conference on Recommender Systems (RecSys 2020). [pdf]
+
+Unbiased Learning to Rank: Online or Offline?
+Qingyao Ai, Tao Yang, Huazheng Wang, Jiaxin Mao, ACM Transactions on Information Systems (TOIS). [arXiv] [code]
+
+A Smoothed Analysis of Online Lasso for the Sparse Linear Contextual Bandits Problem
+Zhiyuan Liu, Huazheng Wang, Bo Waggoner, Youjian(Eugene) Liu, Lijun Chen, Workshop on Real World Experiment Design and Active Learning at ICML 2020. [arXiv]
+
+Incentivized Exploration for Multi-Armed Bandits under Reward Drift
+Zhiyuan Liu*, Huazheng Wang*, Fan Shen, Kai Liu and Lijun Chen, The 34th AAAI Conference on Artifical Intelligence (AAAI 2020). [arXiv]
+
+Adversarial Domain Adaptation for Machine Reading Comprehension
+Huazheng Wang, Zhe Gan, Xiaodong Liu, Jingjing Liu, Jianfeng Gao, Hongning Wang, (EMNLP 2019). [arXiv]
+
+Variance Reduction in Gradient Exploration for Online Learning to Rank
+Huazheng Wang, Sonwoo Kim, Eric McCord-Snook, Qingyun Wu, Hongning Wang, The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019). Best Paper Award [arXiv] [code]
+
+Factorization Bandits for Online Influence Maximization
+Qingyun Wu, Zhige Li, Huazheng Wang, Wei Chen, Hongning Wang, The 25th ACM SIGKDD Conference On Knowledge Discovery And Data Mining (KDD 2019). [arXiv] [code]
+
+Dynamic Ensemble of Contextual Bandits to Satisfy Users’ Changing Interests
+Qingyun Wu, Huazheng Wang, Yanen Li, Hongning Wang, The Web Conference 2019 (WWW 2019). [pdf] [code]
+
+Efficient Exploration of Gradient Space for Online Learning to Rank
+Huazheng Wang, Ramsey Langley, Sonwoo Kim, Eric McCord-Snook, Hongning Wang, The 41th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018). [arXiv] [code]
+
+Factorization Bandits for Interactive Recommendation
+Huazheng Wang, Qingyun Wu, Hongning Wang, The 31st AAAI Conference on Artifical Intelligence (AAAI 2017). [pdf] [Supplementary] [code]
+
+Learning Hidden Features for Contextual Bandits
+Huazheng Wang, Qingyun Wu, Hongning Wang, The 25th ACM International Conference on Information and Knowledge Management (CIKM 2016). [pdf] [code]
+
+Contextual Bandits in A Collaborative Environment
+Qingyun Wu, Huazheng Wang, Quanquan Gu, Hongning Wang, The 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2016). [pdf] [code]
+
+Solving Verbal Comprehension Problems in IQ Test by Knowledge-Powered Word Embedding
+Huazheng Wang, Fei Tian, Bin Gao, Chengjieren Zhu, Jiang Bian, Tie-Yan Liu, Conference on Empirical Methods in Natural Language Processing, 2016 (EMNLP-16). [arXiv] [data]
+
+Preprints
+
+Adversarial Attacks on Online Learning to Rank with Stochastic Click Models
+Zichen Wang, Rishab Balasubramanian, Hui Yuan, Chenyu Song, Mengdi Wang, Huazheng Wang [arXiv]
+
+Adversarial Attacks on Combinatorial Multi-Armed Bandits
+Rishab Balasubramanian, Jiawei Li, Prasad Tadepalli, Huazheng Wang, Qingyun Wu, Haoyu Zhao (Alphabetic order). [arXiv]
+
+Provable Benefits of Policy Learning from Human Preferences in Contextual Bandit Problems
+Xiang Ji, Huazheng Wang, Minshuo Chen, Tuo Zhao, Mengdi Wang. [arXiv]
+
+Provably Efficient Reinforcement Learning for Online Adaptive Influence Maximization
+Kaixuan Huang, Yu Wu, Xuezhou Zhang, Shenyinying Tu, Qingyun Wu, Mengdi Wang, Huazheng Wang. [arXiv]
+
+Tutorials
+
+Interactive Information Retrieval with Bandit Feedback
+Huazheng Wang, Yiling Jia, Hongning Wang, SIGIR 2021. [Website] [Slides]
+
+Learning by Exploration: New Challenges in Real-World Environments
+Qingyun Wu, Huazheng Wang, Hongning Wang, KDD 2020. [Website] [Slides]
+
+Service
+
+Area Chair: ICLR 2023, 2024; NeurIPS 2023; KDD 2024
+

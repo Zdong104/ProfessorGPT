@@ -1,0 +1,55 @@
+Professor: Aarti Singh
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~aarti
+Description: 
+
+Aarti Singh
+Professor
+Machine Learning Department
+Carnegie Mellon University
+Director
+AI institute for Societal Decision Making
+	
+
+
+
+RESEARCH	PUBLICATIONS	GROUP	TEACHING	OUTREACH	CONTACT/BIO
+
+
+
+
+Research Goals: All scientific and social disciplines are faced with an ever-increasing demand to analyze data that are unprecedented in scale (amount of data, dimensionality and heterogeneity of sources) as well as degree of corruption (noise, outliers, misspecifications, missing and indirect observations). My research develops principled algorithms for collecting and analyzing data that are statistically and computationally efficient.
+A key focus is on developing interactive machine learning algorithms that go beyond finding input-output associations, to make higher level decisions about the most informative data and actions that can improve performance on a task. The vision is to leverage such decision making algorithms, in both autonomous and human-in-loop settings, to push the envelope of scientific and social discoveries.
+
+Autonomous decision making. My group is investigating theory and methods for feedback-driven learning including active sampling, stochastic optimization, bandits, and reinforcement learning that are statistically optimal, computationally tractable, and robust. We are also working on applications of these algorithms in guiding experiments and simulations in scientific fields including material science and cosmology.
+Sponsors: ONR, Simons Foundation, AFRL, ARL
+Selected recent papers:
+Virtues of Laziness in Model-based RL: A Unified Objective and Algorithms, ICML'23.
+
+Adaptation to Misspecified Kernel Regularization in Kernelised Bandits, AISTATS'23.
+
+Complete Policy Regret Bounds for Tallying Bandits, COLT'22.
+
+Smooth Bandit Optimization: Generalization to Holder Space, AISTATS'21.
+
+Near-Optimal Discrete Optimization for Experimental Design: A Regret Minimization Approach, Mathematical Programming'21.
+Human factors in decision making. In socially relevant settings, adoption of decision making algorithms hinges on accounting for human factors. We are designing algorithms that can model and leverage feedback from humans, and incorporate human bias, memory effects, calibration, etc. We have dabbled with some applications in peer review.
+Sponsors: NSF, ONR
+Selected recent papers:
+Weighted Tallying Bandits: Overcoming Intractability via Repeated Exposure Optimality, ICML'23.
+
+Integrating Rankings into Quantized Scores in Peer Review, TMLR'22.
+
+PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review, JMLR'21.
+
+Preference-based Reinforcement Learning with Finite-Time Guarantees, NeurIPS'20.
+
+Zeroth Order Non-convex optimization with Dueling-Choice Bandits, UAI'20.
+I am also interested in theory of deep learning. For related publications on this, and past focus on learning and leveraging structure in data, please see full list of publications.
+
+
+
+
+
+
+

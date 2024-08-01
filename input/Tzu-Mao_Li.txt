@@ -1,0 +1,232 @@
+Professor: Tzu-Mao Li
+University: Univ. of California - San Diego
+URL: https://people.csail.mit.edu/tzumao
+Description: 	
+Tzu-Mao Li
+tzli@ucsd.edu
+CV
+
+I am an assistant professor at the CSE department of UCSD, working with awesome people at the Center for Visual Computing. I explore the connections between visual computing algorithms and modern data-driven methods and develop programming languages and systems for facilitating the exploration. I did a 2-year postdoc with Jonathan Ragan-Kelley at both MIT CSAIL and UC Berkeley. I did my Ph.D. in the computer graphics group at MIT CSAIL, advised by Frédo Durand. I received my B.S. and M.S. degrees in computer science and information engineering from National Taiwan University in 2011 and 2013, respectively, where I worked with Yung-Yu Chuang at the Communication and Multimedia Lab.
+
+Students
+Current students: Yash Belhe (PhD student, with Ravi Ramamoorthi), Shiyang Jia (PhD student, with Albert Chern), Mohammad Shafiei Rezvani Nezhad (PhD student, with Ravi Ramamoorthi), Xuanda Yang (PhD student), Xuan Tang (PhD student), Wesley Chang (PhD student, with Ravi Ramamoorthi), Trevor Hedstrom (PhD student, with Jürgen P. Schulze), Xinyuan Liang (MSc student), Cheng Wang (MSc student), Haolin Lu (MSc student), Chuhao Chen (MSc student), Ziyang Fu (MSc student), Venkataram Sivaram (UCSD undergrad, with Ravi Ramamoorthi),
+
+
+Alumni: Mallikarjun Swamy (MSc student), Shanbin Ke (MSc student), Danica Xiong (UCSD undergrad), Jesus Gutierrez (visiting student, with Ravi Ramamoorthi), Melody Ruth (UCSD undergrad, with Ravi Ramamoorthi), Peiyu Xu (visiting student)
+
+
+ERSP (Early Research Scholar Program) students:
+We collaborate with UCSD ERSP to work with early undergraduate students at UCSD on research projects.
+Current: David Choi Hayden Kwok Taiki Yoshino Rick Rodness
+Alumni: Jade Chng, Justin Bui, Kevin Kang, Yuliana Chavez Andrew Oabel, Maggie Liu, Nabhan Sazzad
+Prospective students/postdocs
+See this webpage for information and an overview of my research.
+Teaching
+CSE 167: Computer Graphics (Fall 2023)
+
+
+CSE 168: Computer Graphics II: Rendering (Spring 2022, Spring 2023)
+
+
+CSE 272: Advanced Image Synthesis (Winter 2022, Winter 2023, Winter 2024)
+
+
+CSE 291: Differentiable Programming (Spring 2024)
+
+
+CSE 290: Seminar in Computer Science and Engineering (Fall 2022, Fall 2021)
+We will read and discuss differentiable programming this fall. A tentative reading list is up. Let me know if you have any suggested reading!
+Publications
+Code, slides, video, papers are in the project pages.
+Also check out my new Youtube channel for talk videos! I will upload more in the near future.
+
+
+	Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning
+Yun-Hsuan Lien, Ping-Chun Hsieh, Tzu-Mao Li, Yu-Shuen Wang
+International Conference on Machine Learning 2024
+combining discrete and continuous time RL to expliot first-order information for fitting value functions in offline RL
+	Real-Time Path Guiding using Bounding Voxel Sampling
+Haolin Lu, Wesley Chang, Trevor Hedstrom, Tzu-Mao Li
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)
+a spatial data structure and sampling method for path guiding to efficiently reuse samples across pixels
+	Temporally Stable Metropolis Light Transport Denoising using Recurrent Transformer Blocks
+Chuhao Chen, Yuze He, Tzu-Mao Li
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2024)
+recurrent transformer blocks are more effective than pixel blending for denoising MLT rendering
+	Neural Geometry Fields for Meshes
+Venkataram Sivaram, Ravi Ramamoorthi, Tzu-Mao Li
+SIGGRAPH 2024 (conference track full paper)
+representing meshes using patches and coordinate neural networks
+	Residual Path Integrals for Re-rendering
+Bing Xu, Tzu-Mao Li, Iliyan Georgiev, Trevor Hedstrom, Ravi Ramamoorthi
+Computer Graphics Forum (Proceedings of Eurographics Symposium on Rendering 2024)
+path space importance sampling strategies for rendering the difference between two frames
+	Distributions for Compositionally Differentiating Parametric Discontinuities
+Jesse Michel, Kevin Mu, Xuanda Yang, Sai Preveen Bangaru, Elias Rojas Collins, Gilbert Bernstein, Jonathan Ragan-Kelley, Michael Carbin, Tzu-Mao Li
+Proceedings of the ACM on Programming Languages (OOPSLA 2024)
+a distribution theory formalism for differentiating parametric discontinuities in programs, and support of first-order functions with separate compilation
+	Importance Sampling BRDF Derivatives
+Yash Belhe, Bing Xu, Sai Praveen Bangaru, Ravi Ramamoorthi, Tzu-Mao Li
+ACM Transactions on Graphics (will be presented at SIGGRAPH 2024)
+importance sampling real-valued functions by decomposing an integral into single-signed ones with overlapping supports
+	Differentiable Visual Computing for Inverse Problems and Machine Learning
+Andrew Spielberg, Fangcheng Zhong, Konstantinos Rematas, Krishna Murthy Jatavallabhula, Cengiz Oztireli, Tzu-Mao Li, Derek Nowrouzezahrai
+Nature Machine Intelligence (2023)
+a survey article of differentiable graphics algorithms and their applications in machine learning
+	Inferring the Future by Imagining the Past
+Kartik Chandra*, Tony Chen*, Tzu-Mao Li, Jonathan Ragan-Kelley, Josh Tenenbaum
+*equal contribution
+Neural Information Processing Systems 2023 (Spotlight)
+using a bidirectional path tracing like algorithm to infer the goal of an agent from its current state
+	Discontinuity-Aware 2D Neural Fields
+Yash Belhe, Michaél Gharbi, Matthew Fisher, Iliyan Georgiev, Ravi Ramamoorthi, Tzu-Mao Li
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)
+a hybrid mesh-neural-network 2D representation that preserves discontinuities when zoomed in
+	SLANG.D: Fast, Modular and Differentiable Shader Programming
+Sai Bangaru, Lifan Wu, Tzu-Mao Li, Jacob Munkberg, Gilbert Bernstein, Jonathan Ragan-Kelley, Frédo Durand, Aaron Lefohn, Yong He
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)
+Slang meets automatic differentiation
+	Warped-Area Reparameterization of Differential Path Integrals
+Peiyu Xu, Sai Bangaru, Tzu-Mao Li, Shuang Zhao
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2023)
+Best Paper Award
+warped area sampling in path space with material-form reparameterization
+	FIPT: Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation
+Liwen Wu*, Rui Zhu*, Mustafa Yaldiz, Yinhao Zhu, Hong Cai, Janarbek Matai, Fatih Porikli, Tzu-Mao Li, Manmohan Chandraker, Ravi Ramamoorthi
+*equal contribution
+International Conference on Computer Vision 2023 (oral presentation)
+irradiance and radiance caching for speeding up and robustifying inverse path tracing, with an emitter estimation heuristic
+	Parameter-space ReSTIR for Differentiable and Inverse Rendering
+Wesley Chang, Venkataram Sivaram, Derek Nowrouzezahrai, Toshiya Hachisuka, Ravi Ramamoorthi, and Tzu-Mao Li
+SIGGRAPH 2023 (conference track full paper)
+making sampling in inverse rendering faster by reusing information in gradient-based optimization
+	Acting as Inverse Inverse Planning / Storytelling as Inverse Inverse Planning
+Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley
+SIGGRAPH 2023 (conference track full paper) /
+Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci 2023)
+
+(There are two versions of this paper. The first paper is written for graphics audience, and the second one is written for cognitive science audience.)
+automatically synthesizing stories as animation sequences by optimizing Theory of Mind models
+	Physical Cyclic Animations
+Shiyang Jia, Stephanie Wang, Tzu-Mao Li, Albert Chern
+Proceedings of the ACM on Computer Graphics and Interactive Techniques (SCA 2023)
+simulating physics in a periodic time domain
+	Neural Free-Viewpoint Relighting for Glossy Indirect Illumination
+Nithin Raghavan*, Yan Xiao*, Kai-En Lin, Tiancheng Sun, Sai Bi, Zexiang Xu, Tzu-Mao Li, Ravi Ramamoorthi
+*equal contribution
+Computer Graphics Forum (Proceedings of Eurographics Symposium on Rendering 2023)
+hybrid neural wavelet precomputed radiance transfer
+	Differentiable Visual Computing: Challenges and Opportunities
+Tzu-Mao Li
+IEEE Computer Graphics and Applications: Dissertation Impact, 2022
+summary of the visions of my PhD thesis.
+	Differentiable Rendering of Neural SDFs through Reparameterization
+Sai Praveen Bangaru, Michaél Gharbi, Tzu-Mao Li, Fujun Luan, Kalyan Sunkavalli, Miloš Hašan, Sai Bi, Zexiang Xu, Gilbert Bernstein, Frédo Durand
+SIGGRAPH Asia 2022 (conference track full paper)
+unbiased differentiable SDF rendering. concurrent with Vicini et al.'s work. some extra memory saving tricks are introduced.
+	Designing Perceptual Puzzles by Differentiating Probabilistic Programs
+Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley
+SIGGRAPH 2022 (conference track full paper)
+synthesizing optical illusion by differentiating through Bayesian vision models
+	Searching for Fast Demosaicking Algorithms
+Karima Ma, Michael Gharbi, Andrew Adams, Shoaib Kamil, Tzu-Mao Li, Connelly Barnes, Jonathan Ragan-Kelley
+ACM Transaction on Graphics (Presented at SIGGRAPH 2022)
+systematically exploring the Pareto frontier of efficient and high-quality data-driven image processing algorithms
+	Efficient Automatic Scheduling of Imaging and Vision Pipelines for the GPU
+Luke Anderson, Andrew Adams, Karima Ma, Tzu-Mao Li, Tian Jin, Jonathan Ragan-Kelley
+Proceedings of the ACM on Programming Languages (OOPSLA 2021)
+a scalable and data-driven Halide autoscheduler that can process large pipelines and output GPU schedules
+	Learning to Cluster for Rendering with Many Lights
+Yu-Chen Wang, Yu-Ting Wu, Tzu-Mao Li, Yung-Yu Chuang
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2021)
+adapting both the clustering and sampling distribution in lightcuts rendering using a data-driven method built on reinforcement lightcuts learning
+	Multi-Resolution Shared Representative Filtering for Real-Time Depth Completion
+Yu-Ting Wu, Tzu-Mao Li, I-Chao Shen, Hong-Shiang Lin, Yung-Yu Chuang
+High-Performance Graphics (HPG) 2021
+fast sampling-based cross bilateral filtering for depth completion with large missing regions
+	Systematically Differentiating Parametric Discontinuities
+Sai Praveen Bangaru*, Jesse Michel*, Kevin Mu, Gilbert Bernstein, Tzu-Mao Li, Jonathan Ragan-Kelley
+*equal contribution
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2021)
+a programming language perspective on the automatic differention of integrals with discontinuous integrands, and its applications in physics and rendering
+	Unbiased Warped-Area Sampling for Differentiable Rendering
+Sai Praveen Bangaru, Tzu-Mao Li, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
+solving the differentiable rendering boundary integral with standard area sampling in an unbiased way using divergence theorem
+	Differentiable Vector Graphics Rasterization for Editing and Learning
+Tzu-Mao Li, Michal Lukáč, Michaël Gharbi, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2020)
+design choices and applications of differentiable vector graphics rasterization
+	Physics-Based Differentiable Rendering: A Comprehensive Introduction
+Shuang Zhao, Wenzel Jakob, Tzu-Mao Li
+SIGGRAPH 2020 Course
+our differentiable rendering tutorial!
+	DiffTaichi: Differentiable Programming for Physical Simulation
+Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand
+International Conference on Learning Representation (ICLR) 2020
+automatic differentiated Taichi and applications in model-based reinforcement learning
+	Taichi: A Language for High-Performance Computation on Spatially Sparse Data Structures
+Yuanming Hu, Tzu-Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2019)
+a data-oriented compiler that decouples hierarchical sparse data structures design from computation
+	Learning to Optimize Halide with Tree Search and Random Programs
+Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michaël Gharbi, Benoit Steiner, Steven Johnson, Kayvon Fatahalian, Frédo Durand, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2019)
+first Halide autoscheduler that produces faster code comparing to human experts on average
+	Sample-based Monte Carlo Denoising using a Kernel-Splatting Network
+Michaël Gharbi, Tzu-Mao Li, Miika Aittala, Jaakko Lehtinen, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2019).
+permutation invariant mapping from Monte Carlo samples to an image through splatting
+	Differentiable Visual Computing [slides (Keynote)] [slides (Powerpoint)]
+Tzu-Mao Li
+MIT PhD Dissertation
+ACM SIGGRAPH 2020 Outstanding Doctoral Dissertation Award (announcement)
+a coherent view of my PhD research, with some new discussions regarding previous work, and some background reviews
+	Inverse Path Tracing for Joint Material and Lighting Estimation
+Dejan Azinović, Tzu-Mao Li, Anton Kaplanyan, Matthias Nießner
+Conference on Computer Vision and Pattern Recognition (CVPR), 2019 (oral presentation)
+applying differentiable rendering for material and lighting reconstruction
+	Differentiable Monte Carlo Ray Tracing through Edge Sampling
+Tzu-Mao Li, Miika Aittala, Frédo Durand, Jaakko Lehtinen
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2018)
+computing gradients of the light transport equation through an explicit sampling of Dirac delta functions on triangle edges
+	Differentiable Programming for Image Processing and Deep Learning in Halide
+Tzu-Mao Li, Michaël Gharbi, Andrew Adams, Frédo Durand, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2018)
+Halide meets automatic differentiation, and a new way to think about data-driven image processing
+	Aether: An Embedded Domain Specific Sampling Language for Monte Carlo Rendering
+Luke Anderson, Tzu-Mao Li, Jaakko Lehtinen, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2017)
+a programming language for Monte Carlo rendering that automatically computes the probability density of a light path sample
+	Anisotropic Gaussian Mutations for Metropolis Light Transport through Hessian-Hamiltonian Dynamics
+Tzu-Mao Li, Jaakko Lehtinen, Ravi Ramamoorthi, Wenzel Jakob, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2015)
+a Metropolis light transport algorithm that makes use of automatically differentiated Hessian matrix of light path contribution
+	Dual-Matrix Sampling for Scalable Translucent Material Rendering
+Yu-Ting Wu, Tzu-Mao Li, Yu-Hsun Lin, and Yung-Yu Chuang
+IEEE Transactions on Visualization and Computer Graphics (TVCG), 2015
+subsurface scattering with many-lights using matrix sampling
+	SURE-based Optimization for Adaptive Sampling and Reconstruction
+Tzu-Mao Li, Yu-Ting Wu, Yung-Yu Chuang
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2012)
+Stein's unbiased risk estimator for sampling and denoising in Monte Carlo rendering
+Word cloud
+Some keywords extracted from the publications above. They might give you some sense of my research.
+Misc
+	lajolla
+An educational renderer for UCSD CSE 272
+	Deriving Radiative Backpropagation using the Recursive Form of Path Tracing
+A short note about the paper "Radiative Backpropagation: An Adjoint Method for Lightning-Fast Differentiable Rendering". I show that you can derive a similar algorithm using traditional automatic differentiation.
+	diffvg
+A differentiable vector graphics rasterizer with PyTorch and Tensorflow interfaces.
+	redner
+A differentiable Monte Carlo ray tracer with PyTorch and Tensorflow interfaces.
+	Graphics bibtex
+A mega bibtex file containing many graphics-related literatures.
+	Joint Stein’s Unbiased Risk Estimation for Adaptive Sampling and Reconstruction
+A short note on a generalized formulation of our SURE-based rendering method.
+	dpt
+My prototypical renderer.
+	smallgdpt
+Gradient-Domain Path Tracing in ~450 lines.
+

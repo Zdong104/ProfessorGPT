@@ -1,0 +1,353 @@
+Professor: Qi Zhu 0002
+University: Northwestern University
+URL: http://eecs.northwestern.edu/~qzhu
+Description: 
+
+	
+Qi Zhu
+Associate Professor
+Electrical and Computer Engineering
+Computer Science (by courtesy)
+Northwestern University
+Evanston, IL
+
+qzhu at northwestern dot edu
+
+This page is obsolete. Please check out my group website: IDEAS - Design Automation of Intelligent Systems Lab
+
+
+
+[ Research | Publications | Students | Teaching | Professional Services | Bio | CV | Open Positions ]
+
+
+Research
+My research interests include design automation of intelligent cyber-physical systems and Internet-of-Things applications, cyber-physical security, energy-efficient CPS, and system-on-chip design.
+
+Recent work in my group has been focusing on system level synthesis, optimization and modeling methodologies for cyber-physical systems. We are particularly interested in addressing timing, heterogeneity, security and energy challenges in CPS design and operation. Below is a short summary and you may check our lab website for more up-do-date information: IDEAS - Design Automation of Intelligent Systems Lab.
+
+Model-based and contract-based software synthesis of CPS [C44, C43, C38, C33, C28, C23, C22, C20, C17, C16, C14, C10, C9, C6, C5, CWIP1, J15, J7, J6, J5]
+This work aims at generating efficient and correct software implementations for cyber-physical systems. We have developed algorithms for multi-task implementations of synchronous finite state machines [C10] and of synchronous block diagrams [C23, C16]; for task allocation and scheduling on multi-core and distributed platforms with respect to extensibility [C38], latency [C33, C6, J5], memory usage [C22, C9, J6], reliability [C20] and soft error tolerance [C28]; for optimizing task activation periods [J15, C5, CWIP1]; and for implementing synchronous models on LTTA platforms [J7].
+
+Cross-layer design for cyber-physical systems security [C45, C42, C39, C35, C32, C26, C19, C12, J19, J13, J12, J10, J9, J8]
+This work aims at building secure and efficient cyber-physical systems, which faces many unique challenges from the fast increase of system scale and complexity, the diversity of physical and cyber attack interfaces, the employment of distributed architectural platforms, and the often tight real-time and resource constraints. We are working on a cross-layer methodology that combines control-theoretic methods at the functional layer and cybersecurity techniques at the embedded platform layer, with applications in vehicles and vehicular networks [C42, C39, C35, C26, J12, J9]. We have also developed algorithms for security-aware task mapping in CAN-based systems and TDMA-based systems [C19, C12, J10, J8].
+Design and management of energy-efficient buildings [C41, C37, C36, C31, C30, C29, C27, C21, C15, C11, C8, J18, J14, J11, J3]
+To reduce energy consumption, modern green buildings employ complex automation systems that closely monitor and control the building environment (e.g. HVAC and lighting control). We have developed methodologies for co-designing HVAC control algorithm, energy system, and embedded platform at the system level [C11]; for co-scheduling heterogeneous energy loads (e.g., HVAC, EV charging) and energy supplies (e.g., grid electricity, battery storage) during operation [C31, C30, C21, C15]; for co-scheduling datacenter and HVAC loads in mixed-use buildings [C36]; and for optimally and correctly implementing the control algorithm on a distributed building platform, with consideration of physical elements such as building layout, sensor/actuator locations and environment dynamics [C8, J3]. We also proposed a proactive demand response strategy that integrates the operations of smart buildings into the energy scheduling of bulk power system [C29, C27, J11]. Recently, we developed a data-driven approach for HVAC control based on deep reinforcement learning [C41, C37].
+
+Design frameworks for heterogeneous systems [C18, C4, J4]
+I was part of the Metropolis project conducted at UC Berkeley, which provides a system level framework for modeling heterogeneous systems and performing design simulation, verification and synthesis. Recently, we worked on integrating Metro II with Ptolemy for timing verification [C18].
+
+Extensibility optimization [C7, J2]
+This work optimizes a task-level extensibility metric that measures how much the execution times of software tasks can be increased without violating design constraints. Optimizing extensibility allows adding future functionality or upgrading existing functionality without major redesign cycle, which is imperative for large-volume and long lifetime systems such as vehicles, airplanes and buildings.
+
+In past, I also worked on CAD for circuits, including projects on logic synthesis and physical design:
+
+SAT sweeping with local observability don't cares [C3]
+Boolean reasoning is an essential part of electronic design automation. AND-INVERTER Graphs (AIGs) are often used to represent Boolean functions but have a high degree of structural redundancy. We proposed an extension of the SAT-sweeping algorithm that exploits local observability don't-cares (ODCs) to simplify AIGs.
+
+Non-rectilinear global routing [C1, J1]
+We proposed global routing algorithms for octilinear interconnect architecture, and extended them to general non-rectilinear interconnect.
+I am also very interested in SoC design methodologies and tools. While in Berkeley, I worked with Intel on a project of exploring different implementations of JPEG encoder on Intel MXP5800 media processor [C2]. While at the Strategic CAD Labs in Intel, I worked on system level modeling and exploration methodologies and tools for Intel SoCs.
+
+Selected Publications
+Complete publication list is in my CV. Here are some selected papers in chronological order. Supervised students and postdocs are delineated with an asterisk (*).
+
+[C45] Security-driven Codesign with Weakly-hard Constraints for Real-time Embedded Systems
+Hengyi Liang*, Zhilu Wang*, Debayan Roy, Soumyajit Dey, Samarjit Chakraborty and Qi Zhu
+37th IEEE International Conference on Computer Design (ICCD'19), Abu Dhabi, UAE, November 2019.
+
+[C44] ReachNN: Reachability Analysis of Neural-Network Controlled Systems
+Chao Huang*, Jiameng Fan, Wenchao Li, Xin Chen and Qi Zhu
+19th ACM International Conference on Embedded Software (EMSOFT'19), New York City, October 2019.
+
+[C43] Formal Verification of Weakly-Hard Systems
+Chao Huang*, Wenchao Li and Qi Zhu
+22nd ACM International Conference on Hybrid Systems: Computation and Control (HSCC'19), Montreal, Canada, April 2019.
+
+[J19] Design and Analysis of Delay-Tolerant Intelligent Intersection Management
+Bowen Zheng*, Chung-Wei Lin, Shinichi Shiraishi and Qi Zhu
+to appear in the ACM Transactions on Cyber-Physical Systems.
+
+[J18] Deep Reinforcement Learning for Joint Datacenter and HVAC Load Control in Distributed Mixed-Use Buildings
+Tianshu Wei*, Shaolei Ren and Qi Zhu
+IEEE Transactions on Sustainable Computing.
+
+[C42] Network and System Level Security in Connected Vehicle Applications
+Hengyi Liang*, Matthew Jagielski, Bowen Zheng*, Chung-Wei Lin, Eunsuk Kang, Shinichi Shiraishi, Cristina Nita-Rotaru and Qi Zhu
+37th ACM/IEEE International Conference on Computer-Aided Design (ICCAD'18), San Diego, CA, November 2018.
+
+[C41] Model-based and Data-driven Approaches for Building Automation and Control
+Tianshu Wei*, Xiaoming Chen, Xin Li and Qi Zhu
+37th ACM/IEEE International Conference on Computer-Aided Design (ICCAD'18), San Diego, CA, November 2018.
+
+[J17] Codesign Methodologies and Tools for Cyber–Physical Systems
+Qi Zhu and Alberto Sangiovanni-Vincentelli
+Proccedings of IEEE.
+
+[C40] FFNet: Video Fast-Forwarding via Reinforcement Learning
+Shuyue Lan*, Rameswar Panda, Qi Zhu and Amit K. Roy-Chowdhury
+30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'18), Salt Lake City, Utah, June 2018.
+
+[C39] Timing and Security Analysis Framework for VANET-based Intelligent Transportation Systems
+Bowen Zheng*, Muhammed O. Sayin, Chung-Wei Lin, Shinichi Shiraishi and Qi Zhu
+36th ACM/IEEE International Conference on Computer-Aided Design (ICCAD'17), Irvine, CA, November 2017.
+
+[C38] Addressing Extensibility and Fault Tolerance in CAN-based Automotive Systems
+Hengyi Liang*, Zhilu Wang*, Bowen Zheng* and Qi Zhu
+54th ACM/IEEE Design Automation Conference (DAC'17), Seoul, South Korea, October 2017.
+
+[C37] Deep Reinforcement Learning for HVAC Control in Smart Buildings
+Tianshu Wei*, Yanzhi Wang and Qi Zhu
+11th ACM/IEEE International Symposium on Networks-on-Chip (NOCS'17), Austin, TX, June 2017.
+
+[J16] Design Automation of Cyber-Physical Systems: Challenges, Advances, and Opportunities
+Sanjit Seshia, Shiyan Hu, Wenchao Li and Qi Zhu
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 36, No. 9, September, 2017. (Keynote Paper)
+
+[J15] An Efficient Control-driven Period Optimization Algorithm for Distributed Real-time Systems
+Peng Deng*, Qi Zhu, Abhijit Davare, Anastasios Mourikis, Xue Liu and Marco Di Natale
+IEEE Transactions on Computers (TC), Vol. 65, No. 12, December, 2016.
+
+[C36] Co-Scheduling of Datacenter and HVAC Loads in Mixed-Use Buildings
+Tianshu Wei*, Mohammad Atiqul Islam, Shaolei Ren and Qi Zhu
+7th IEEE International Green and Sustainable Computing Conference (IGSC'16), Hangzhou, China, November 2016.
+[C35] CONVINCE: A Cross-Layer Modeling, Exploration and Validation Framework for Next-Generation Connected Vehicles
+Bowen Zheng*, Chung-Wei Lin, Huafeng Yu, Hengyi Liang* and Qi Zhu
+35th ACM/IEEE International Conference on Computer-Aided Design (ICCAD'16), Austin, TX, November 2016. (Invited Paper)
+[C34] Adaptive Algorithm Selection, with Applications in Pedestrian Detection
+Shu Zhang, Qi Zhu and Amit K. Roy-Chowdhury
+23rd IEEE International Conference on Image Processing (ICIP'16), Phoenix, AZ, September, 2016.
+
+[J14] Peak-Aware Online Economic Dispatching for Microgrids
+Ying Zhang, Mohammad Hajiesmaili, Sinan Cai, Minghua Chen and Qi Zhu
+to appear in the IEEE Transactions on Smart Grid (TSG).
+[J13] Automotive Cyber-Physical Systems: A Tutorial Introduction
+Samarjit Chakraborty, Mohammad Abdullah Al Faruque, Wanli Chang, Dip Goswami, Marilyn Wolf and Qi Zhu
+IEEE Design and Test, Vol. 33, No. 4, August 2016.
+[C33] Fixed-Priority Elastic Mixed-Criticality Systems: Schedulability Analysis and Performance Optimization
+Hang Su, Peng Deng*, Dakai Zhu and Qi Zhu
+22nd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA'16), Daegu, South Korea, August 2016.
+[C32] Next Generation Automotive Architecture Modeling and Exploration for Autonomous Driving
+Bowen Zheng*, Hengyi Liang*, Qi Zhu, Huafeng Yu and Chung-Wei Lin
+15th IEEE Computer Society Annual Symposium on VLSI (ISVLSI'16), Pittsburgh, PA, July 2016.
+[J12] Cross-Layer Codesign for Secure Cyber-Physical Systems
+Bowen Zheng*, Peng Deng*, Rajasekhar Anguluri, Qi Zhu and Fabio Pasqualetti
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 35, No. 5, May 2016.
+[C31] Co-scheduling of Flexible Energy Loads in Building Clusters
+Tianshu Wei* and Qi Zhu
+49th IEEE International Symposium on Circuits and Systems (ISCAS'16), Montreal, Canada, May 2016. (Invited Paper)
+
+[J11] Proactive Demand Participation of Smart Buildings in Smart Grid
+Tianshu Wei*, Qi Zhu and Nanpeng Yu
+IEEE Transactions on Computers (TC), Vol. 65, No. 5, May 2016.
+
+[C30] Optimal Co-Scheduling of HVAC Control and Battery Management for Energy-Efficient Buildings Considering State-of-Health Degradation
+Tiansong Cui, Yanzhi Wang, Shuang Chen, Qi Zhu, Shahin Nazarian and Massoud Pedram
+21st ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC'16), Macao SAR, China, January 2016. (Best Paper Award Nomination)
+[J10] Security-Aware Design Methodology and Optimization for Automotive Systems
+Chung-Wei Lin, Bowen Zheng*, Qi Zhu and Alberto Sangiovanni-Vincentelli
+ACM Transactions on Design Automation of Electronic Systems (TODAES), Vol. 21, No. 1, December 2015. (Best Paper Award)
+
+[C29] Security Analysis of Proactive Participation of Smart Buildings in Smart Grid
+Tianshu Wei*, Bowen Zheng*, Qi Zhu and Shiyan Hu
+34th ACM/IEEE International Conference on Computer-Aided Design (ICCAD'15), Austin, TX, November 2015.
+[C28] Analysis and Optimization of Soft Error Tolerance Strategies for Real-time Systems
+Bowen Zheng*, Yue Gao, Qi Zhu and Sandeep Gupta
+13th ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS'15), Amsterdam, Netherlands, October 2015.
+[C27] From Passive Demand Response to Proactive Demand Participation
+Nanpeng Yu, Tianshu Wei* and Qi Zhu
+11th IEEE International Conference on Automation Science and Engineering (CASE'15), Gothenburg, Sweden, August 2015.
+[C26] Design and Verification for Transportation System Security
+Bowen Zheng*, Wenchao Li, Peng Deng*, Leonard Gerard, Qi Zhu and Natarajan Shankar
+52nd ACM/IEEE Design Automation Conference (DAC'15), San Francisco, CA, June 2015.
+[C25] Optimal Control of PEVs for Energy Cost Minimization and Frequency Regulation in the Smart Grid Accounting for Battery State-of-Health Degradation
+Tiansong Cui, Shuang Chen, Yanzhi Wang, Shahin Nazarian, Qi Zhu and Massoud Pedram
+52nd ACM/IEEE Design Automation Conference (DAC'15), San Francisco, CA, June 2015.
+[C24] PeerWave: Exploiting Wavefront Parallelism on GPUs with Peer-SM Synchronization
+Mehmet Belviranli, Peng Deng*, Laxmi Bhuyan, Rajiv Gupta and Qi Zhu
+29th ACM International Conference on Supercomputing (ICS'15), Newport Beach, CA, June 2015.
+[C23] A Model-based Synthesis Flow for Automotive CPS
+Peng Deng*, Fabio Cremona, Qi Zhu, Marco Di Natale and Haibo Zeng
+6th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS'15), Seattle, WA, April 2015.
+[C22] Task Placement and Selection of Data Consistency Mechanisms for Real-Time Multicore Applications
+Zaid Al-Bayati, Youcheng Sun, Haibo Zeng, Marco Di Natale, Qi Zhu and Brett Meyer
+21st IEEE Real-Time and Embedded Technology and Application Symposium (RTAS'15), Seattle, WA, April 2015.
+[J9] Design and Operation of Secure Cyber-Physical Systems
+Fabio Pasqualetti and Qi Zhu
+IEEE Embedded Systems Letters, March 2015.
+
+[J8] Security-Aware Modeling and Efficient Mapping for CAN-Based Real-Time Distributed Automotive Systems
+Chung-Wei Lin, Qi Zhu and Alberto Sangiovanni-Vincentelli
+IEEE Embedded Systems Letters, March 2015.
+
+[C21] Co-scheduling of HVAC Control, EV Charging and Battery Usage for Building Energy Efficiency
+Tianshu Wei*, Qi Zhu and Mehdi Maasoumy
+33rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD'14), San Jose, CA, November 2014.
+
+[C20] Lifetime Optimization for Real-Time Embedded Systems Considering Electromigration Effects
+Taeyoung Kim, Bowen Zheng*, Hai-Bao Chen, Qi Zhu, Valeriy Sukharev and Sheldon Tan
+33rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD'14), San Jose, CA, November 2014.
+
+[C19] Security-Aware Mapping for TDMA-Based Real-Time Distributed Systems
+Chung-Wei Lin, Qi Zhu and Alberto Sangiovanni-Vincentelli
+33rd ACM/IEEE International Conference on Computer-Aided Design (ICCAD'14), San Jose, CA, November 2014.
+
+[C18] Metronomy: A Function-Architecture Co-simulation Framework for Timing Verification of Cyber-Physical Systems
+Liangpeng Guo, Qi Zhu, Pierluigi Nuzzo, Roberto Passerone, Alberto Sangiovanni-Vincentelli and Edward Lee
+12th ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS'14), New Delhi, India, October 2014.
+
+[C17] Model-based Synthesis for Real-time Embedded Systems
+Qi Zhu
+57th IEEE International Midwest Symposium on Circuits and Systems (MWSCAS'14), College Station, TX, August 2014. (Invited Paper)
+[C16] Task Synthesis for Latency-sensitive Synchronous Block Diagram
+Peng Deng*, Qi Zhu, Marco Di Natale and Haibo Zeng
+9th IEEE International Symposium on Industrial Embedded Systems (SIES'14), Pisa, Italy, June 2014. (Best Paper Award Finalist)
+
+[C15] Battery Management and Application for Energy-Efficient Buildings
+Tianshu Wei*, Taeyoung Kim, Sangyoung Parky, Qi Zhu, Sheldon X.-D. Tan, Naehyuck Changy, Sadrul Ula and Mehdi Maasoumy
+51st ACM/IEEE Design Automation Conference (DAC'14), San Francisco, CA, June 2014.
+
+[CWIP1] WiP Abstract: An Efficient Control-driven Period Optimization Algorithm for Distributed Real-time Systems
+Peng Deng*, Qi Zhu, Abhijit Davare, Anastasios Mourikis, Xue Liu and Marco Di Natale
+5th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS'14), Work-in-Progress session, Berlin, Germany, April 2014.
+
+[C14] Design Synthesis and Optimization for Automotive Embedded Systems
+Qi Zhu and Peng Deng*
+ACM International Symposium on Physical Design (ISPD'14), Petaluma, CA, March 2014. (Invited Paper)
+
+[C13] MSim: A General Cycle Accurate Simulation Platform for Memcomputing Studies
+Chun Zhang, Peng Deng*, Hui Geng, Jianming Liu, Qi Zhu and Yiyu Shi
+17th ACM/IEEE Conference on Design, Automation and Test in Europe (DATE'14), Germany, March 2014.
+
+[J7] Optimized Implementation of Synchronous Models on Industrial LTTA Systems
+Marco Di Natale, Qi Zhu, Alberto Sangiovanni-Vincentelli and Stavros Tripakis
+Journal of Systems Architecture (JSA), Vol. 60, April 2014.
+
+[J6] Minimizing Stack and Communication Memory Usage in Real-time Embedded Applications
+Haibo Zeng, Marco Di Natale and Qi Zhu
+ACM Transactions on Embedded Computing Systems (TECS), Vol. 13, No. 149, November 2014.
+
+[C12] Security-Aware Mapping for CAN-Based Real-Time Distributed Automotive Systems
+Chung-Wei Lin, Qi Zhu, Calvin Phung* and Alberto Sangiovanni-Vincentelli
+32nd ACM/IEEE International Conference on Computer-Aided Design (ICCAD'13), San Jose, CA, November 2013.
+
+[C11] Co-design of Control Algorithm and Embedded Platform for HVAC Systems
+Mehdi Maasoumy, Qi Zhu, Cheng Li, Forrest Meggers and Alberto Sangiovanni-Vincentelli
+4th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS'13), Philadelphia, USA, April 2013. (Best Paper Award)
+
+[C10] Robust and Extensible Task Implementations of Synchronous Finite State Machines
+Qi Zhu, Peng Deng*, Marco Di Natale and Haibo Zeng
+16th ACM/IEEE Conference on Design, Automation and Test in Europe (DATE'13), Grenoble, France, March 2013.
+
+[J5] Optimization of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems
+Qi Zhu, Haibo Zeng, Wei Zheng, Marco Di Natale and Alberto Sangiovanni-Vincentelli
+ACM Transactions on Embedded Computing Systems (TECS), Vol. 11, No. 4, December 2012.
+[J4] metroII: A Design Environment for Cyber-Physical Systems
+Abhijit Davare, Douglas Densmore, Liangpeng Guo, Roberto Passerone, Alberto Sangiovanni-Vincentelli, Alena Simalatsar and Qi Zhu
+ACM Transactions on Embedded Computing Systems (TECS), Vol. 12, No. 49, March 2013.
+[C9] Optimizing Stack Memory Requirements for Real-time Embedded Applications
+Haibo Zeng, Marco Di Natale and Qi Zhu
+17th IEEE International Conference on Emerging Technology & Factory Automation (ETFA'12), Krakow, Poland, September 2012.
+[J3] Development of Building Automation and Control Systems
+Yang Yang, Qi Zhu, Mehdi Maasoumy and Alberto Sangiovanni-Vincentelli
+IEEE Design & Test of Computers, Special Issue on Green Buildings, July/August 2012.
+
+[C8] A Design Flow for Building Automation and Control Systems
+Yang Yang, Alessandro Pinto, Alberto Sangiovanni-Vincentelli and Qi Zhu
+31st IEEE Real-Time Systems Symposium (RTSS'10), San Diego, CA, December 2010.
+[J2] Optimizing the Software Architecture for Extensibility in Hard Real-Time Distributed Systems
+Qi Zhu, Yang Yang, Marco Di Natale, Eelco Scholte and Alberto Sangiovanni-Vincentelli
+IEEE Transactions on Industrial Informatics (TII), Vol. 6, No. 4, November 2010.
+[C7] Optimizing Extensibility in Hard Real-time Distributed Systems
+Qi Zhu, Yang Yang, Eelco Scholte, Marco Di Natale and Alberto Sangiovanni-Vincentelli
+15th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS'09), San Francisco, CA, April 2009.
+[C6] Definition of Task Allocation and Priority Assignment in Hard Real-Time Distributed Systems
+Wei Zheng, Qi Zhu, Marco Di Natale and Alberto Sangiovanni-Vincentelli
+28th IEEE Real-Time Systems Symposium (RTSS'07), Tucson, Arizona, December 2007.
+[C5] Period Optimization for Hard Real-time Distributed Automotive Systems
+Abhijit Davare, Qi Zhu, Marco Di Natale, Claudio Pinello, Sri Kanajan and Alberto Sangiovanni-Vincentelli
+44th ACM/IEEE Design Automation Conference (DAC'07), San Diego, California, June 2007. (Best Paper Award)
+[C4] A Next-Generation Design Framework for Platform-Based Design
+Abhijit Davare, Douglas Densmore, Trevor Meyerowitz, Alessandro Pinto, Alberto Sangiovanni-Vincentelli, Guang Yang, Haibo Zeng and Qi Zhu
+Design and Verification Conference (DVCon'07), San Jose, CA, February 2007.
+[C3] SAT Sweeping with Local Observability Don't-Cares
+Qi Zhu, Nathan Kitchen, Andreas Kuehlmann and Alberto Sangiovanni-Vincentelli
+43rd ACM/IEEE Design Automation Conference (DAC'06), San Francisco, California, July 2006. (Best Paper Award)
+[C2] JPEG Encoding on the Intel MXP5800: A Platform-Based Design Case Study
+Abhijit Davare, Qi Zhu, John Moondanos and Alberto Sangiovanni-Vincentelli
+3rd IEEE Workshop on Embedded Systems for Real-Time Multimedia (ESTIMedia'05), New York Metro Area, September 2005.
+[J1] Spanning Graph-Based Nonrectilinear Steiner Tree Algorithms
+Qi Zhu, Hai Zhou, Tong Jing, Xianlong Hong and Yang Yang
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Vol. 24, No. 7, July 2005.
+[C1] Efficient Octilinear Steiner Tree Construction Based on Spanning Graphs
+Qi Zhu, Hai Zhou, Tong Jing, Xianlong Hong and Yang Yang
+9th ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC'04), Yokohama, Japan, January 2004.
+Current Group Members
+Ph.D. Students
+Shuyue Lan
+Hengyi Liang
+Zhilu Wang
+Xiangguo Liu
+Shichao Xu
+Postdocs
+Chao Huang
+Alumni
+Ph.D.
+Bowen Zheng (cyber-physical systems security, software synthesis; graduated in 2018; first job: Pony.ai)
+Tianshu Wei (model-based and data-driven methods for energy-efficient CPS; graduated in 2018; first job: Google)
+Peng Deng (software synthesis for cyber-physical systems; graduated in 2016; first job: Snapchat)
+Shu Zhang (computer vision, co-advise with Prof. Amit Roy-Chowdhury; graduated in 2016; first job: Sony Electronics)
+M.S.
+Li Chen
+Xiaoxiong Ding
+Zhonghua Zhou
+Shuheng Li
+Priyanka Khire
+Chi-Wei Huang
+Zhuofu Deng
+Beixing Yin
+Yunjian Zhang
+Aditya Swarup
+Bryan Glenn Marsh
+Hyunjong Choi
+Di Chen
+Undergraduate Students
+Patrick Smith
+Andrew Olguin
+Ellison Zhu
+Gavin Huang
+Jason Terrado
+Mark Asfour
+Stanley Chang
+David Zhu
+Teaching
+Modeling and Synthesis of Cyber-Physical Systems (EECS 495/395): Winter 2018.
+
+Pre-2018 at UC Riverside:
+Modeling and Synthesis of Cyber-Physical Systems (EE 258 / CS 256): Winter 2017.
+Embedded Systems Design - New Principles and Applications (EE 260): Winter 2016, Winter 2015, Winter 2014, Fall 2012.
+Logic Design (EE/CS 120A): Fall 2017, Fall 2016, Winter 2016, Fall 2015, Winter 2015, Fall 2014, Winter 2014, Fall 2013, Winter 2013, Fall 2012, Winter 2012, Fall 2011.
+Digital Integrated Circuit Layout and Design (EE 134): Winter 2012.
+Professional Services
+Technical Program Committee Member
+CODES+ISSS 2018-2015: ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis
+ICCPS 2018: ACM/IEEE International Conference on Cyber-Physical Systems
+DAC 2018, 2014-2012: ACM/IEEE Design Automation Conference
+DATE 2018, 2017: ACM/IEEE Conference on Design, Automation and Test in Europe
+ASP-DAC 2017-2015: ACM/IEEE Asia and South Pacific Design Automation Conference
+IGSC: IEEE International Green and Sustainable Computing Conference
+RTSS 2016: IEEE Real-Time Systems Symposium
+ICCAD 2015-2013: ACM/IEEE International Conference on Computer-Aided Design
+SIES 2016-2013: IEEE International Symposium on Industrial Embedded Systems
+MemoCODE 2017, 2013, 2012: ACM/IEEE International Conference on Formal Methods and Models for Codesign
+RTAS 2012: IEEE Real-time and Embedded Technology and Applications Symposium
+
+ICPADS 2012: International Conference on Parallel and Distributed Systems
+
+VLSI-DAT 2013-2010: IEEE International Symposium on VLSI Design, Automation and Test
+Associate Editor for the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+Guest Editor for the Proceeding of IEEE, Special Issue on Design Automation for Cyber-Physical Systems
+IEEE Technical Committee on Cyber-Physical Systems (TC-CPS) Member and Education Chair
+Guest Editor for the ACM Transactions on Cyber-Physical Systems, Special Issue on Smart Homes, Buildings, and Infrastructures.
+Last modified: 2018 / 9 / 12
+
+

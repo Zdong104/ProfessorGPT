@@ -1,0 +1,111 @@
+Professor: Joseph Tassarotti
+University: New York University
+URL: https://cs.nyu.edu/~jt4767
+Description: Joseph Tassarotti home papers teaching
+Email: jt4767@nyu.edu
+CV (June 2023)
+
+I'm an assistant professor in the CS Department at the Courant Institute of New York University. I'm interested in programming languages and formal verification, particularly for concurrent and randomized programs.
+
+I received my Ph.D. from CMU, where I was advised by Robert Harper. I was then a post-doc in the PDOS group at MIT. Before coming to NYU I was an assistant professor at Boston College for a few years.
+
+
+
+
+Students
+Markus de Medeiros
+Chaitanya Agarwal
+
+
+Papers
+Asynchronous Probabilistic Couplings in Higher-Order Separation Logic
+Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal
+POPL 2024 [pdf]
+Grove: a Separation-Logic Library for Verifying Distributed Systems
+Upamanyu Sharma, Ralf Jung, Joseph Tassarotti, M. Frans Kaashoek, Nickolai Zeldovich
+SOSP 2023 [.pdf]
+Verifying vMVCC, a high-performance transaction library using multi-version concurrency control
+Yun-Sheng Chang, Ralf Jung, Upamanyu Sharma, Joseph Tassarotti, M. Frans Kaashoek, Nickolai Zeldovich
+OSDI 2023 [.pdf]
+Verified Density Compilation for a Probabilistic Programming Language
+Joseph Tassarotti, Jean-Baptiste Tristan
+PLDI 2023 [.pdf]
+Later credits: resourceful reasoning for the later modality
+Simon Spies, Lennard Gäher, Joseph Tassarotti, Ralf Jung, Robbert Krebbers, Lars Birkedal, Derek Dreyer
+ICFP 2022 [.pdf]
+Verifying the DaisyNFS concurrent and crash-safe file system with sequential reasoning
+Tej Chajed, Joseph Tassarotti, Mark Theng, M. Frans Kaashoek, Nickolai Zeldovich
+OSDI 2022 [.pdf]
+A Separation Logic for Negative Dependence
+Jialu Bao, Marco Gaboardi, Justin Hsu, Joseph Tassarotti
+POPL 2022 [arXiv]
+Rabia: Simplifying State-Machine Replication Through Randomization
+Haochen Pan, Jesse Tuglu, Neo Zhou, Tianshu Wang, Yicheng Shen, Xiong Zheng, Joseph Tassarotti, Lewis Tseng, Roberto Palmieri
+SOSP 2021 [arXiv]
+GoJournal: a Verified, Concurrent, Crash-safe Journaling System
+Tej Chajed, Joseph Tassarotti, Mark Theng, Ralf Jung, M. Frans Kaashoek, Nickolai Zeldovich
+OSDI 2021 [.pdf]
+Transfinite Iris: Resolving an Existential Dilemma of Step-Indexed Separation Logic
+Simon Spies, Lennard Gäher, Daniel Gratzer, Joseph Tassarotti, Robbert Krebbers, Derek Dreyer, Lars Birkedal
+PLDI 2021 [.pdf]
+A Formal Proof of PAC Learnability for Decision Stumps
+Joseph Tassarotti, Koundinya Vajjha, Anindya Banerjee, Jean-Baptiste Tristan
+CPP 2021 [arXiv]
+Verifying Concurrent Go Code in Coq with Goose
+Tej Chajed, Joseph Tassarotti, M. Frans Kaashoek, Nickolai Zeldovich
+CoqPL 2020 [.pdf]
+Verifying Concurrent Crash-Safe Systems with Perennial
+Tej Chajed, Joseph Tassarotti, M. Frans Kaashoek, Nickolai Zeldovich
+SOSP 2019 [.pdf]
+Argosy: Verifying Layered Storage Systems with Recovery Refinement
+Tej Chajed, Joseph Tassarotti, M. Frans Kaashoek, Nickolai Zeldovich
+PLDI 2019 [.pdf]
+Scaling Hierarchical Coreference with Homomorphic Compression
+Michael L. Wick, Swetasudha Panda, Joseph Tassarotti, Jean-Baptiste Tristan
+AKBC 2019 [.pdf]
+Sketching for Latent Dirichlet-Categorical Models
+Joseph Tassarotti, Jean-Baptiste Tristan, Michael Wick
+AISTATS 2019 [.pdf]
+A Separation Logic for Concurrent Randomized Programs
+Joseph Tassarotti, Robert Harper
+POPL 2019 [.pdf] [code]
+MoSeL: A General, Extensible Modal Framework for Interactive Proofs in Separation Logic
+Robbert Krebbers, Jacques-Henri Jourdan, Ralf Jung, Joseph Tassarotti, Jan-Oliver Kaiser, Amin Timany, Arthur Charguéraud, Derek Dreyer
+ICFP 2018 [.pdf] [project site]
+Verified Tail Bounds for Randomized Programs
+Joseph Tassarotti, Robert Harper
+ITP 2018 [.pdf] [source code]
+A Higher-Order Logic for Concurrent Termination-Preserving Refinement
+Joseph Tassarotti, Ralf Jung, Robert Harper
+ESOP 2017 [.pdf] [project site]
+Efficient Training of LDA on a GPU by Mean-for-Mode Estimation
+Jean-Baptiste Tristan, Joseph Tassarotti, Guy L. Steele Jr.
+ICML 2015 [.pdf]
+Verifying Read-Copy-Update in a Logic for Weak Memory
+Joseph Tassarotti, Derek Dreyer, Viktor Vafeiadis
+PLDI 2015 [.pdf] [project site]
+Augur: Data-Parallel Probabilistic Modeling
+Jean-Baptiste Tristan, Daniel Huang, Joseph Tassarotti, Adam Craig Pocock, Stephen J. Green, Guy L. Steele Jr.
+NeurIPS 2014 [.pdf]
+RockSalt: better, faster, stronger SFI for the x86
+Greg Morrisett, Gang Tan, Joseph Tassarotti, Jean-Baptiste Tristan, Edward Gan
+PLDI 2012 [.pdf]
+
+
+Teaching
+At NYU:
+Spring 2024 — Compiler Construction
+Fall 2023 — Special Topics: Verification
+Spring 2023 — Compiler Construction
+At Boston College:
+Spring 2021, Spring 2022 — Principles of Programming Languages
+Fall 2020, Fall 2021 — Formal Verification
+Spring 2020 — CSCI-2244 Randomness and Computation
+Fall 2019 — CSCI-2244 Randomness and Computation
+
+
+Support
+My work is currently supported by NSF awards 2318722, 2319168, and 2225441.
+
+
+

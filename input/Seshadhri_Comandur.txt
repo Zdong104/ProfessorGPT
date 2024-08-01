@@ -1,0 +1,116 @@
+Professor: Seshadhri Comandur
+University: Univ. of California - Santa Cruz
+URL: https://users.soe.ucsc.edu/~sesh
+Description: Home . Publications . Bio . Teaching . Essays . OAQ . PTReview
+
+
+
+
+
+	
+C. Seshadhri (Seshadhri Comandur)
+Professor
+University of California, Santa Cruz
+ 
+1156 High Street
+Baskin School of Engineering, Engineering 2, Mail Stop: 310
+Santa Cruz, CA
+ 
+Office: E2-347A
+Phone: 831-502-8036
+sesh[at]ucsc[dot]edu, csesha[at]gmail[dot]com
+
+
+YouTube channel (mostly lecture videos)
+
+
+Students, please read this before emailing.
+I am on leave for the 2023-2024 academic year. I will likely decline most service requests and will be slow to respond to emails.
+
+
+Brief Bio
+
+C. Seshadhri (Sesh) is a professor of Computer Science at the University of California, Santa Cruz and an Amazon scholar. Prior to joining UCSC, he was a researcher at Sandia National Labs, Livermore in the Information Security Sciences department, during 2010-2014. His primary interest is the theoretical study of algorithms, especially those with a mix of graphs and randomization. By and large, Sesh works at the boundary of theoretical computer science (TCS) and data mining. His work spans many areas: sublinear algorithms, graph algorithms, graph modeling, scalable computation, and data mining. In the theory world, his work has resolved numerous open problems in monotonicity testing and graph property testing. A number of his papers in the interface of TCS and applied algorithms have received paper awards at KDD, WWW, ICDM, SDM, and WSDM. He received the 2019 SDM/IBM Early Career Award for Excellence in Data Analytics. Sesh got his Ph.D from Princeton University and spent two years as a postdoc in IBM Almaden Labs.
+
+CV pdf
+
+Recognitions
+
+• Invited Lecture at the 2023 International Conference on Database Theory
+• Best Paper at the 2020 Web Science and Data Mining Conference (WSDM) for "The Power of Pivoting for Exact Clique Counting"
+• 2019 SDM/IBM Early Career Data Mining Research Award, outstanding contributions to data science within 10 years of PhD
+• Best Paper at the 2017 World Wide Web Conference (WWW) for: "A Fast and Provable Method for Estimating Clique Counts Using Turan's Theorem"
+• Best Paper at the 2015 IEEE International Conference on Data Mining (ICDM) for: "Diamond Sampling for Approximate Maximum All-pairs Dot-product (MAD) Search"
+• Best Paper Finalist at the 2015 World Wide Web Conference (WWW) for: "Finding the Hierarchy of Dense Subgraphs using Nucleus Decompositions"
+• Best Student Paper at the 2013 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) for "A Space Efficient Streaming Algorithm for Triangle Counting using the Birthday Paradox"
+• Best Research Paper at the 2013 SIAM Conference on Data Mining (SDM) for "Triadic Measures on Graphs: The Power of Wedge Sampling"
+• 2013 Sandia National Laboratories Employee Recognition Award for Individual Technical Excellence
+
+Selected papers (Full list)
+
+Google Scholar     DBLP page
+
+• Link prediction using low-dimensional node embeddings: The measurement problem, with Nicolas Menand
+PNAS 2024  UCSC Press Release
+• A $d^{1/2+o(1)}$ Monotonicity Tester for Boolean Functions on $d$-Dimensional Hypergrids, with Hadley Black and Deeparnab Chakrabarty
+FOCS 2023 (Invited to special issue)
+• Random walks and forbidden minors III: poly(d/epsilon)-time partition oracles for minor-free graph classes, with Akash Kumar and Andrew Stolman
+FOCS 2021
+• The impossibility of low-rank representations for triangle-rich complex networks, with Aneesh Sharma, Andrew Stolman, and Ashish Goel
+PNAS 2020   UCSC news link     Youtube, part 1     Youtube, part 2
+• The power of pivoting for exact clique counting, with Shweta Jain
+WSDM 2020 (Best paper)
+• Faster sublinear approximation of the number of $k$-cliques in low-arboricity graphs, with Talya Eden and Dana Ron
+SODA 2020
+• Random walks and forbidden minors II: A $poly(d\varepsilon^{-1})$-query tester for minor-closed properties of bounded-degree graphs, with Akash Kumar and Andrew Stolman
+STOC 2019 (Invited to special issue)
+• Finding forbidden minors in sublinear time: a $O(n^{1/2+o(1)})$-query one-sided tester for minor closed properties on bounded degree graphs, with Akash Kumar and Andrew Stolman
+FOCS 2018 (Invited to special issue)
+• A Fast and Provable Method for Estimating Clique Counts Using Tur\'{a}n's Theorem, with Shweta Jain
+WWW 2017 (Best paper)
+• When Hashes Met Wedges: A Distributed Algorithm for Finding High Similarity Vectors, with A. Sharma, A. Goel
+WWW 2017
+• Approximately Counting Triangles in Sublinear Time, with T. Eden, A. Levi, D. Ron
+FOCS 2015
+• Diamond Sampling for Approximate Maximum All-pairs Dot-product (MAD) Search, with G. Ballard, T. Kolda, A. Pinar
+ICDM 2015 (Best paper)
+• Finding the Hierarchy of Dense Subgraphs using Nucleus Decompositions, with A. Sariyuce, A. Pinar, U. Catalyurek
+WWW 2015 (Best paper finalist)
+• Property Testing on Product Distributions: Optimal Testers for Bounded Derivative Properties, with D. Chakrabarty, K. Dixit, M. Jha
+SODA 2015 (Invited to special issue)
+• A Space Efficient Streaming Algorithm for Triangle Counting using the Birthday Paradox, with M. Jha, A. Pinar
+KDD 2013 (Best student paper)
+• An o(n) Monotonicity Tester for Boolean Functions over the Hypercube, with D. Chakrabarty
+STOC 2013 (Invited to special issue)
+• Optimal Bounds for Monotonicity and Lipschitz Testing over Hypercubes and Hypergrids, with D. Chakrabarty
+STOC 2013
+• Triadic Measures on Graphs: The Power of Wedge Sampling, with A. Pinar, T. Kolda
+SDM 2013 (Best research paper)
+
+PhD Students
+
+Sabyasachi Basu
+Daniel Paul Pena
+Omkar Bhalerao
+
+Graduated Alumni
+
+Nicolas Menand (MS, 2023), PhD student UPenn
+William Bolden (MS, 2022)
+Kostas Zampetakis (PhD, 2022), Postdoc, U. Warwick
+Noujan Pashanasangi (PhD, 2021), ML Engineer, Apple
+Suman Kalyan Bera (Postdoc, 2021), Sr. Software Engineer, Katana Graph
+Caleb Levy (Postdoc, 2021), Software Engineer, Sunshine
+Andrew Stolman (PhD, 2021), Sr. Software Engineer, Katana Graph
+Shweta Jain (PhD, 2020), Postdoc at U. Utah, Runner up for SIGKDD Best Dissertation Award
+Hadley Black (MS, 2018), PhD student at UCLA
+
+
+Program Committees
+
+SDM 2022, WWW 2022, SDM 2021, WWW 2021, SDM 2020, WWW 2020, FSTTCS 2020, RANDOM 2019, WWW 2019, SDM 2019, WWW 2018, ITCS 2018, WSDM 2018, ALENEX 2018, KDD 2017, SIAM CSC 2016, SIAMNS 2015, ITCS 2015, SODA 2014, FSTTCS 2013, FOCS 2012
+
+PTReview
+
+Eric Blais, Sourav Chakraborty, and I started a blog called Property Testing Review, a monthly digest of property testing and sublinear algorithms papers. Currently, it is edited by Akash Kumar, Clement Canonne, and myself.
+

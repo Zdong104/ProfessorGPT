@@ -1,0 +1,149 @@
+Professor: P. Madhusudan
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://madhu.cs.illinois.edu/
+Description: Madhusudan Parthasarathy
+Research Interests
+Software verification and formal methods; Interpretable, Robust, Trustworthy AI systems; Program Synthesis and Machine Learning; Security and Privacy; Logic and automata theory;
+
+Outreach Interests
+ConTraIL project: Privacy-preserving contact tracing project. See Whitepaper.
+Current research projects and philosophy
+
+My general research philosophy is to turn the theory lens (mainly logic, learning, algorithms) towards practical computing domains. I shy away from, for the most part, working on problems purely motivated by theoretical concerns as well as those entirely based on heuristics to solve practical problems.
+
+My current research interests are primarily in automating software verification and building correct-by-design systems, trustworthy and safe systems that use AI components, and exploring synergies between machine learning and program synthesis for building intelligent systems.
+
+
+
+Note to prospective students
+I am actively looking for Ph.D. students in the following areas. If you are interested, please apply for the Ph.D. program and write to me personally.
+
+Trustworthy AI systems: proving safety of systems with ML components; see paper on Perception Contracts in OOPSLA'23
+Program Synthesis from natural language specifications
+Learning logics: Theoretical and practical algorithms for learning logical concepts from data (see IJCAI 2022, POPL 2022, OOPSLA 2022, OOPSLA 2023).
+Logics and reasoning for program verification: especially logics involving expressive specifications for programs manipulating quantified specifications and datastructures. See papers on natural proofs in POPL 2012, PLDI 2013, PLDI 2014, and POPL 2018, work on Frame Logic (ESOP 2020), and work on inductive lemma synthesis (OOPSLA 22).
+Science and practice of building verified distributed systems with significant automation, like blockchains, bitcoin, and smart contracts (see FMCAD 2019). In particular, I am interested in theory and practice of refining abstract models to concrete distributed models.
+Earlier research Projects
+Decidable logics for reasoning with heaps/dynamic data structures (Strand)
+Security of web browser extensions (VEX)
+Testing concurrent programs (Penelope)
+Security of access control (VAC)
+Annotation and proof mechanisms for safe concurrency (Accord)
+Model-checking abstractions of programs (Getafix)
+Decidable automata models (See page on visibly pushdown automata)
+Software/tools:
+VCDryad - An extension of VCC that provides sound but incomplete automatic mechanisms against Dryad specifications, a dialect of separation logic.
+Dryad - Sound but incomplete mechanism for proving heap-based programs correct
+CAV 2013 tool - for learning universally quantified invariants on linear data-structures using quantified data automata
+Strand - Decidable logics/SMT solver for reasoning with heaps
+Getafix - A boolean model-checker for concurrent and recursive programs
+VEX - Static analysis of web-browser extensions for security vulnerabilities
+Penelope - A testing tool for concurrent programs
+VAC - Verifier of Access Control
+JIST - Java Interface Synthesis Tool
+Students and Post-doctoral researchers:
+Students currently advised:
+Angello Astorga (mining program specifications), jointly advised with Tao Xie
+Adithya Murali (synergies and learning and reasoning)
+Paul Krogmeier (learning logics and DSLs)
+Formerly advised:
+Students:
+Shambwaditya Saha (synthesis, learning, mining specifications)
+Pranav Garg (deductive verification; compositional verification)
+Edgar Pek (static analysis; points-to analysis)
+Francesco Sorrentino (testing concurrent programs)
+Xiaokang Qiu
+Thesis: Automatic Techniques for Proving Correctness of Heap-Manipulating Programs
+Now faculty at Purdue University.
+Sruthi Bandhakavi; security of web extensions -- now at Google
+Postdocs:
+Gennaro Parlato -- now faculty at University of Southampton
+Karl Palmskog-- now a postdoc at UT Austin.
+Daniel Neider (automated deductiver verification, synthesis, learning, invariant synthesis)
+Post-doctoral researcher in the ExCAPE project, jointly at Illinois and UCLA. -- now at Max Planck Institute
+Courses:
+Fall 2023: CS521: Advanced Topics in Programming Systems: Trustworthy AI Systems (with Gagandeep Singh)
+
+Earlier courses
+Spring 2023: CS 474: Logic in Computer Science
+Earlier courses
+Fall 2022: CS521: Advanced Topics in Programming Systems: Trustworthy AI Systems (with Gagandeep Singh)
+
+Earlier courses
+Service
+PC Member: POPL 2025
+PC Member: PLDI 2024
+PC Member: FSTTCS 2023
+PC Member: CONCUR 2023
+PC Member: POPL 2022
+PC Member: ESOP 2022
+PC Member: OOPSLA 2022
+PC Member: CONCUR 2022
+PC Member: CSR 2022
+PC Member: LATA 2021
+PC Member: LATA 2020
+PC Member: POPL 2019
+PC Member: ICALP 2019
+PC Member: CONCUR 2018
+ERC: POPL 2017
+ERC: PLDI 2017
+PC Member: Workshop on Automated Deduction for Separation Logics (ADSL), affiliated with LICS and FLOC, 2018.
+PC Member: TACAS 2017
+PC Member: Highlights of Logic, Automata, and Games, 2017.
+PC Member: International Conference on Runtime Verification (RV 2017).
+Tutorial on Machine-learning based methods for synthesizing invariants. , at Computer Aided Verification (CAV), San Fransisco, USA, 2015.
+PC Member: ICALP 2016: Int'l Colloq. on Automata Languages and Programming, Rome, Italy.
+External Review Committee: CAV 2016: Computer Aided Verification, Toronto, Canada.
+Co-chair/Organizer: SYNT 2015: 4th Workshop on Synthesis (associated CAV), San Francisco, USA.
+PC Member: Trustworthy Global Computing (TGC), 2015, Madrid, Spain.
+
+ERC Member: PLDI 2015, Portland, Oregon, USA.
+
+PC Member: ACM/IEEE International Conference on Model Driven Engineering Languages and Systems, 2014, Madrid, Spain.
+
+PC Member: POPL 2015, Mumbai, India.
+
+PC Member: PLDI 2014, Edinburgh, Scotland.
+
+PC Member: CONCUR 2014, Rome, Italy
+
+PC Member: SAS 2014, Munich, Germany
+
+Earlier
+
+2013: PC Member: MFCS, 2013, CAV 2013, Highlights of Logic, Automata, Games
+2012: PC Chair: CAV 2012; PC Member: LPAR-18, POPL 2012.
+
+2011: PC Member: CAV 2011, ATVA 2011, FSTTCS 2011.
+2010: PC Member: FSTTCS 2010, ATVA 2010, STACS 2010,
+2009: PC member: CAV 2009, LICS 2009, TIME 2009; Ext Rev Committee: PLDI 2009
+2008: PC Member: APLAS 2008, CONCUR 2008.
+2007 PC Chair: INFINITY 2007 (with CONCUR); PC Member: ICALP 2007
+2006 PC member: ACM SAC.
+2005 PC member: FSTTCS 2005, CAV 2005. GDV 2005 (with CAV'05).
+2004 PC member: FORMATS and FTRTFT, 2004
+
+Other Activities: Organized events, invited talks, etc.
+
+
+
+Professor
+Computer Science
+University of Illinois at
+Urbana-Champaign
+
+
+Erdos number = 2
+Assistant: Shannon Glynn-Lyke
+
+
+Home
+Research
+Publications
+DBLP
+G Scholar
+Sem Scholar
+Curriculum vitae
+My coauthors
+Co-ordinates
+

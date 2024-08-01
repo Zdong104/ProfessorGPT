@@ -1,0 +1,211 @@
+Professor: Zachary G. Ives
+University: University of Pennsylvania
+URL: http://www.cis.upenn.edu/~zives
+Description: Research	Teaching	Publications	Advisees & Collaborators	DB Group
+	
+Zachary G. Ives
+
+Adani President's Distinguished Professor and Department Chair
+Computer & Information Science Department
+University of Pennsylvania
+
+ASSET Center for Safe, Explainable and Trustworthy AI
+Warren Center for Network and Data Science
+Center for Neuroengineering and Therapeutics
+Distinguished Research Fellow, Annenberg Center for Public Policy
+
+ 
+
+Contact Information
+305 Levine Hall
+Computer and Information Science Department
+University of Pennsylvania
+3330 Walnut Street
+Philadelphia, PA 19104-6389
+zives@cis.upenn.edu
+(215) 746-2789    Fax: (215) 898-0587
+Twitter: @zgives
+
+
+
+Teaching CIS 2450, Big Data Analytics (undergraduate)
+Office Hours for the Fall: TBA
+
+		
+Biographical Sketch
+
+Zachary Ives is the Department Chair and Adani President's Distinguished Professor of Computer and Information Science at the University of Pennsylvania. Zack's research interests include data integration and sharing, data provenance and trustworthiness, and machine learning systems. He is a recipient of the NSF CAREER award, and an alumnus of the DARPA Computer Science Study Panel and Information Science and Technology advisory panel.  He has also been awarded the Christian R. and Mary F. Lindback Foundation Award for Distinguished Teaching and an IEEE Technical Committee on Data Engineering Education Award, and he is a Fellow of the ACM. He is a co-author of the textbook Principles of Data Integration, and has received a SIGMOD Best Paper Award, an ICDE Best Paper Runner-up Award, an ICDE 2013 ten-year Most Influential Paper award, as well as the 2017 SWSA Ten-Year Award at the International Semantic Web Conference. He has served as the Program Co-Chair and General Chair for the ACM SIGMOD conference, and has been an Associate Editor for the Proceedings of the VLDB Endowment and the VLDB Journal.
+
+CIS@Penn... And Amy Gutmann Hall and the IDEAS Initiative
+
+Exciting things are happening in Computer and Information Science at Penn, as we continue to start revolutionary new projects, recruit new students and faculty, and continue on our period of high-speed growth. We have a new building on the way and a major commitment from the university towards expansion in AI for data science (with the new ASSET Center in Safe and Trustworthy AI as one of the first research initiatives). Since 2018 we have hired 25 new faculty, bringing us from a small to a midsized department with outstanding faculty in all areas. Want to know more about the great things happening in the department? Please check out our Highlights site, and follow me on Twitter (@zgives)! Please also see our faculty and lecturer ads.
+
+Research
+
+My research interests lie in building data science platforms, using techniques at the intersection of databases, machine learning, and distributed systems. I am interested in applications both to the Web and question answering, and to conducting data science. I often work with life scientists (especially in genetics and neuroscience) to evaluate our techniques with real data and real hypotheses. More details are generally available at the Penn Database Group web site.
+
+The power of the Web and conventional search is limited, because Web search does not reason about relationships between facts. Question answering and data analysis systems need better techniques for integrating data from multiple sources, and reasoning about certainty. Similarly, we are at still in the early stages of building the "right" tools for data science, that let us link data, rapidly pose and evaluate hypotheses, and ensure we have trustworthy results. I'm interested in questions such as:
+
+How do we tie together the world's data to answer key scientific or policy questions, when the connections between the data are ambiguous?
+How do we facilitate and foster large-scale collaborative projects involving updates to data, code, and visualization?
+How do we know when we can trust a data analysis result or an answer to a question?
+
+I am a member of the database and systems research groups, the Warren Center for Network and Data Science, and the Center for Health, Devices, and Technology at Penn. My research projects relate to making it easier to exchange, locate, and analyze networked information.
+
+Automatically Structuring and Searching Data Lakes and Data Corpora. As we collect large sets of related, multi-versioned data and documents --- what are the mechanisms by which we can automatically order, organize, integrate, and process them? Can we use machine learning (and modern notions like embeddings) to help with this process? What indexing and incremental update mechanisms can we develop?
+
+Understanding Claims, Quotes, and Discussion in Documents and Social Media. When someone makes a statement in an article, what (in the article, in the Web at large) backs up that claim? In collaboration with Prof. Dan Roth and Dr. Yi Zhang, we are studying the questions of the provenance of claims, both in terms of sources and text, as well as in tabular data. Looking more broadly (with Dr. Wang-Chiew Tan at Meta), we are also interested in understanding the discussion revolving around a claim or a quote in an article, as it happens in social media.
+
+Facilitating Data Management and Reuse in Data Science. Today the predominant mode of interacting with data has changed: rather than working with highly controlled, regularized databases, data scientists tend to work with a variety of different data sources within computational notebook software such as Jupyter Notebook and JupyterLab. Such software allows for ad hoc discovery as well as for the creation of sophisticated data analyses and machine learning models. A key issue becomes the management of the many data products (tables, dataframes, models) produced; and there is a key opportunity to help new users understand prior best-practices in using, importing, cleaning, extracting, and analyzing datasets. The Juneau project addresses these issues. Funded by NSF III-1910108.
+
+Our collaborations with neuroscientists (esp. Profs Brian Litt in Bioengineering and Neurology, and Joost Wagenaar in Biostatistics, Informatics, and Epidemiology) has received a good deal of notice for its impact on data science:
+
+Seizure prediction contest results (504 teams, 82% accuracy)
+NIH Director's blog
+American Epilepsy Society press release
+Announcement of winners
+Science Daily: Crowdsourcing advances epileptic seizure detection, prediction
+NPR, A Crowd of Scientists Finds a Better Way to Predict Seizures
+
+Several prior projects have resulted in building blocks towards our ongoing work in supporting large-scale data integration and analysis. These projects are no longer directly active, but their core ideas (and code) are part of our more recent projects:
+
+Trustworthy Data Science. For any type of data science computation, the "glue" that links results to how they were derived is data provenance. Provenance explains the steps involved in the results, as well as what facts went into which conclusion. However, we need to develop better tools for collecting provenance in a convenient way; for reasoning about data's value given its provenance; for recommending related data; and broadly to assess trustworthiness of data analysis results. Funded by NSF (CiCi) and NIH (BD2K Targeted Software) and in collaboration with biologists at Penn, clinicians at UCSF, and computer scientists and computer engineers at U Memphis, Georgia Tech, and UCLA.
+
+Question Answering Over Integrated Data. The Q query system addresses the challenges of querying in a system like Orchestra, when one does not know apriori where to find the most relevant data.  Q takes as input a keyword query, which it matches against schema elements to produce potential data integration queries.  The system returns answers from the most promising queries and takes user feedback on the results.  This feedback is used to learn which sources are most relevant to the information need that motivated the query.  Funded by NSF CAREER #IIS-0477972, SEIII #IIS-0513778, and grants from Google. We are now applying the lessons of the Q System to "the real world" with scientific data.
+
+Developing a Testbed for Data Science. The IEEG Web Portal, in collaboration with Prof. Brian Litt of Bioengineering and Neurology, and Prof. Greg Worrell at Mayo Clinic, seeks to enable community-scale data integration and cloud-hosted science for epileptic seizure prediction (and beyond). Beyond its scientific applications, IEEG serves as a testbed for technologies from the Q System and other data integration research. As of Oct 2014 we have over 1200 datasets and 450 users. We have also hosted competitions for epileptic seizure detection and epileptic seizure prediction. Funded by NIH as well as grants from Amazon.
+
+ORCHESTRA focuses on the problem of collaborative data sharing:  exchanging data and updates among loose confederations of databases, when the different database owners have different schemas and different ideas of what is the "right" content. We have developed techniques to map data and updates among different sites, maintain data provenance, and use the data provenance as the basis of assessing trust and ultimately to resolve conflicts.  We specifically target biological data sharing applications.  See here for an overview paper. Funded by NSF CAREER #IIS-0477972.
+Aspen addresses the problem of programming and integrating large-scale and complex sensor networks. The system focuses on a setting in which large numbers of distributed sensors, with varying capabilities, must be coordinated in order to manage and reason about collections of physical entities and phenomena. My focus is on sensor data integration, i.e., integration of data streams from multiple sensor (and other) sources. A target application is data center monitoring for energy, temperature, load, and other factors. Different aspects of the research are funded by NSF III #IIS-0713267, NOSS #CNS-0721541, and a University Research Initiative grant from Lockheed Martin.
+
+Acknowledgments: I have also received grants from DARPA CSSG (#HRO011-06-1-0016 and HRO1107-1-0029), Penn ISTAR, the State of Pennsylvania, Amazon, Google, and Lockheed Martin, and software donations from MarkLogic, Electric Software, and IBM Corp.
+
+Teaching
+
+I was the first Undergraduate Curriculum Chair for Penn's Singh Program on Networked and Social Systems Engineering, NETS, which was formerly known as MKSE. This Internet-centered degree program looks at how people and systems interact over networks. It combines computer science (algorithms, distributed systems) with sociology, incentives (game theory), and dynamic systems. The overall program is directed by Ali Jadbabaie. New NETS courses I co-developed include NETS (MKSE) 212 "Scalable and Cloud Computing" and NETS (MKSE) 150 "Market and Social Systems on the Internet".
+
+Selected recent courses and seminars:
+
+Fall 2024: CIS 2450, Big Data Analytics
+Spring 2024: Scalable and Cloud Computing
+Fall 2023: Big Data Analytics
+Spring 2023: Big Data Analytics
+Fall 2022: Big Data Analytics
+Spring 2022: Big Data Analytics
+Fall 2021: CIS 545, Big Data Analytics
+Spring 2021: CIS 555, Internet and Web Systems
+Fall 2020: CIS 545, Big Data Analytics
+Spring 2020: CIS 545, Big Data Analytics
+Fall 2019: CIS 545, Big Data Analytics
+Spring 2019: CIS 555, Internet and Web Systems
+Fall 2017: CIS 455/555, Internet and Web Systems
+Spring 2017: CIS 700-003, Big Data Analytics.
+Fall 2016: CIS 455/555, Internet and Web Systems
+Spring 2016: CIS 450/550, Database and Information Systems
+Fall 2015: CIS 455/555, Internet and Web Systems
+Spring 2015: CIS 455/555, Internet and Web Systems
+Fall 2014: NETS 212, Scalable and Cloud Computing.
+Spring 2014: CIS 650, Implementing Data Management Systems.
+Fall 2013: CIS 450/550, Database and Information Systems.
+Spring 2012: MKSE 150, Market and Social Systems on the Internet.
+Fall 2011: CIS 550, Database and Information Systems
+Spring 2011: MKSE 150, Market and Social Systems on the Internet, with Sampath Kannan.
+Fall 2010: CIS 399/002 (MKSE 212 pilot offering), Scalable and Cloud Computing, with Andreas Haeberlen.
+Spring 2010: CIS 555, Internet and Web Systems.
+Fall 2008: CIS 650, Implementing Data Management Systems.
+
+Detailed information is here.
+
+Textbooks and Monographs
+
+	Principles of Data Integration, with AnHai Doan and Alon Halevy. This textbook gives a comprehensive academic treatment of the wide range of topics related to research in data integration: mappings and data transformations, query rewriting, adaptive query processing, XML and streaming data, probabilistic mappings, keyword search, data provenance, and much more. We also describe research challenges, real systems, and implementation techniques. Lecture slides are available from Elsevier. Available from Amazon in hardcopy or Kindle form; from Google Play store in e-book form; from Barnes & Noble in hardcopy or Nook form. Thanks to Xiaofeng Meng, there is also now a Chinese translation of the book.
+	Adaptive Query Processing, with Amol Deshpande and Vijayshankar Raman. Foundations and Trends in Databases, Vol. 1 No. 1, 2007. Hardcopy available at a discount from Now Publishers; see here.
+Selected Publications
+Adding Domain Knowledge to Query-Driven Learned Databases. With Peizhi Wu, Ryan Marcus. arXiv.
+Searching Data Lakes for Nested and Joined Data. With Yi Zhang, Peter Baile Chen. To appear, VLDB 2024.
+Low Rank Approximation for Learned Query Optimization. With Zixuan Yi, Yao Tian, Ryan Marcus. aiDM Workshop at SIGMOD 2024.
+Implementation Strategies for Views over Property Graphs. With Soonbo Han. SIGMOD 2024. Selected as Best Paper.
+Modeling Shifting Workloads for Learned Database Systems. With Peizhi Wu. SIGMOD 2024.
+RITA: Group Attention is All You Need for Timeseries Analytics. With Jiaming Liang, Lei Cao, Sam Madden, Guoliang Li. SIGMOD 2024
+What Is Your Article Based On? Inferring Fine-Grained Provenance. With Yi Zhang, Dan Roth. ACL 2021.
+Synchronization Schemas. With Rajeev Alur, Phillip Hilliard, Konstantinos Kallas, Konstantinos Mamouras, Filip Niksic, Caleb Stanford, Val Tannen, Anton Xue. PODS 2021.
+Compact, Tamper-Resistant Archival of Fine-Grained Provenance. With Nan Zheng. Accepted for publication, Proc VLDB.
+Who Said It, and Why?. With Yi Zhang, Dan Roth. ACL 2020.
+Finding Related Tables in Data Lakes for Interactive Data Science. With Yi Zhang. SIGMOD 2020.
+Evidence-Based Trustworthiness. With Yi Zhang, Dan Roth. ACL 2019.
+Data-Trace Types for Distributed Stream Processing Systems. With Konstantinos Mamouras, Caleb Stanford, Rajeev Alur, Val Tannen. PLDI 2019.
+Fine-Grained Provenance for Matching & ETL. With Nan Zheng and Abdussalam Alawini. ICDE 2019.
+Dataset Relationship Management. With Yi Zhang, Soonbo Han, Nan Zheng. CIDR 2019.
+StreamQRE: Modular Specification and Efficient Evaluation of Quantitative Queries over Streaming Data. With Kostas Mamouras, Mukund Raghothaman, Rajeev Alur, Sanjeev Khanna. PLDI 2017.
+Enabling an Open Data Ecosystem for the Neurosciences. With Martin Wiener, Fritz Sommer, Russ Poldrack, and Brian Litt. In Neuron.
+Enabling Incremental Query Re-Optimization . With Mengmeng Liu and Boon Thau Loo. SIGMOD 2016.
+Collaborating and Sharing Data in Epilepsy Research. With Joost Wagenaar, Greg Worrell, Matthias Dumpelmann, Brian Litt, Andreas Schulze-Bonhage. Journal of Clinical Neurophysiology.
+Active Learning in Keyword Search-Based Data Integration. With Zhepeng Yan, Nan Zheng, Partha Pratim Talukdar, and Cong Yu. VLDB Journal Special Issue on Best Papers of VLDB 2013.
+Looking at Everything in Context. With Zhepeng Yan, Nan Zheng, Brian Litt, Joost B. Wagenaar. CIDR 2015.
+I recently participated on a panel on Big Data for VLDB 2013. Slides are here.
+Our work in Schema Mediation in Peer Data Management Systems (with Alon Halevy, Dan Suciu, and Igor Tatarinov), published in ICDE 2003, has received the Most Influential Paper Award in ICDE 2013!
+Actively Soliciting Feedback for Query Answers in Keyword Search-Based Data Integration, with Zhepeng Yan, Nan Zheng, Partha Talukdar, and Cong Yu. VLDB 2013.
+Caravan: Provisioning for What-If Analysis, with Daniel Deutch, Tova Milo, and Val Tannen. CIDR 2013.
+Distributed Time-aware Provenance, with Wenchao Zhou, Suyog Mapara, Yiqing Ren, Yang Li, Andreas Haeberlen, Boon Thau Loo, and Micah Sherr. VLDB 2013.
+REX: Recursive, Delta-Based Data-Centric Computation, with Svilen Mihaylov and Sudipto Guha. Proc. VLDB 5(11): 1280-1291. VLDB 2012.
+Querying Provenance for Ranking and Recommending, with Andreas Haeberlen, Tao Feng, Wolfgang Gatterbauer. TaPP 2012.
+Recomputing Materialized Instances after Changes to Mappings and Data, with Todd J Green. ICDE 2012. Runner-up, Best paper award. Invited to TKDE Special Issue on Best Papers of ICDE 2012.
+Sharing Work in Keyword Search over Databases, with Marie Jacob. SIGMOD 2011.
+Querying Data Provenance, with Grigoris Karvounarakis and Val Tannen. SIGMOD 2010.
+Automatically Incorporating New Sources in Keyword Search-Based Data Integration, with Partha Pratim Talukdar and Fernando Pereira. SIGMOD 2010.
+Reliable Storage and Querying for Collaborative Data Sharing Systems, with Nicholas Taylor. Full paper, ICDE 2010.
+Maintaining Recursive Views of Regions and Connectivity in Networks, with Mengmeng Liu, Nicholas Taylor, Wenchao Zhou, and Boon Thau Loo. IEEE TKDE Special Issue, "Best Papers of ICDE 2008".
+The Orchestra Collaborative Data Sharing System, with Todd J. Green, Grigoris Karvounarakis, Nicholas E. Taylor, Val Tannen, Partha Pratim Talukdar, Marie Jacob, Fernando Pereira. ACM SIGMOD Record, September 2008.
+Learning to Create Data-Integrating Queries, with Partha Pratim Talukdar, Marie Jacob, M. Salman Mehmood, Koby Crammer, Fernando Pereira, and Sudipto Guha, VLDB 2008.
+DBpedia: a Nucleus for a Web of Open Data, with Soeren Auer, Christian Bizer, Georgi Kobilarov, Jens Lehmann, Richard Cyganiak. ISWC/ASWC In-Use Track, 2007.
+Update Exchange with Mappings and Provenance, with Todd J. Green, Grigoris Karvounarakis, and Val Tannen. VLDB 2007.
+Reconciling while Tolerating Disagreement in Collaborative Data Sharing, with Nick Taylor. SIGMOD 2006.
+
+A complete list is here.
+
+Current Postdoc, PhD, and Research Advisees
+Phillip Hilliard (with Rajeev Alur)
+Soonbo Han
+Jiaming Liang
+Peizhi Wu (with Ryan Marcus)
+Zixuan Yi (with Ryan Marcus)
+Visiting student 2023-24: Yao Tian (with Ryan Marcus)
+Sahil Makhijani, undergrad researcher
+Hussain Zaidi, undergrad researcher
+Alumni
+Dr. Yi Zhang (with Dan Roth). Amazon Web Services.
+Peter Baile Chen (undergraduate researcher). PhD student at MIT.
+Dr. Nan Zheng. Lecturer, Penn.
+Dr. Steve Baldassano (postdoc, with Brian Litt). Massachusetts General Hospital.
+Marie Jacob Rajan. Apple.
+Dr. Babak Bagheri Hariri (postdoc) with Val Tannen. System Group (Iran).
+Dr. Allen Zhepeng Yan, Google Inc.
+Dr. Mengmeng Liu (with Boon Thau Loo). @WalmartLabs.
+Ling Ding, MSE. Now a PhD student at UCLA.
+Dr. Medha Atre (postdoc). First position: Assistant Professor, IIT-Kanpur. Now at Ponder, Inc.
+Dr. Svilen Mihaylov (with Sudipto Guha). First position: Postdoc, University of Washington. Currently Software Engineer at TileDB.
+Dr. Nicholas Taylor. Google, Inc.
+Dr. Partha Pratim Talukdar (with Fernando Pereira and Mark Liberman). Associate Professor, IISc-Bangalore, and Google.
+Dr. Soren Auer (postdoc). Professor, Leibniz Universitat Hannover.
+Dr. Todd J. Green (with Val Tannen). First employment: University of California-Davis (now Adjunct Professor). Currently at Pinecone.
+Dr. Grigoris Karvounarakis (with Val Tannen). Currently at Relational AI.
+Geetika Vasudeo, MSE. Goldman Sachs.
+Frequent Collaborators
+Dan Roth, Penn CIS
+Val Tannen, Penn CIS
+Susan Davidson, Penn CIS
+Sampath Kannan, Penn CIS
+Cong Yu, Google, Inc.
+Boon Thau Loo, Penn CIS
+Andreas Haeberlen, Penn CIS
+Junhyong Kim, Penn Biology
+Brian Litt, Penn Bioengineering and Neurology
+Santosh Kumar, U Memphis
+Mani Srivastava, UCLA
+Ida Sim, UCSF
+Byron Wallace, Northeastern U
+Wang-Chiew Tan, Meta Research
+Tips on Interviewing
+
+Finishing your PhD and going on the job market? I have previously compiled a list of reverences on interviewing, which you can find here.
+

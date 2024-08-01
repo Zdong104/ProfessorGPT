@@ -1,0 +1,419 @@
+Professor: Yudong Chen 0001
+University: University of Wisconsin - Madison
+URL: https://pages.cs.wisc.edu/~yudongchen
+Description: Yudong Chen
+Home
+News
+Publications
+Teaching
+Group Members
+Contact
+Yudong Chen
+Associate Professor
+Department of Computer Sciences, University of Wisconsin-Madison
+
+I am an Associate Professor in the Department of Computer Sciences at the University of Wisconsin-Madison. My research interests include machine learning, reinforcement learning, optimization, and high-dimensional statistics. Some of the topics that I am recently interested in are: reinforcement learning theory, non-convex and nonsmooth learning problems, stochastic optimization and approximation. I received an NSF CAREER Award for our work on nonconvex and nonsmooth optimization.
+
+Previously I was a tenured associate professor in the School of Operations Research and Information Engineering (ORIE) at Cornell University. Before that I was a postdoc in the EECS Department at the University of California, Berkeley. I obtained my Ph.D. in Electrical and Computer Engineering from the University of Texas at Austin. I received my B.S. and M.S. in Automation from Tsinghua University.
+
+News
+
+In Fall 2024 I am teaching CS 540 Introduction to Artificial Intelligence (course page).
+
+My student Matthew Zurek and I posted a new paper, which establishes the optimal sample complexity of average-reward MDP, for both the weakly communicating and multi-chain settings.
+
+Our work on RL with low-rank structure received the Best Student Paper Award from ACM SIGMETRICS 2023. Congratulation to my student Tyler Sam (co-advised with Christina Lee Yu)!
+
+Congratulations to my student Lijun Ding for winning the 2019 Student Paper Prize of INFORMS Optimization Society.
+
+Our work on hidden integrality of SDP relaxation finished 2nd Place in the 2018 INFORMS George Nicholson Student Paper Competition. Congratulations to my student Yingjie (Tom) Fei!
+
+Publications
+
+Also see my Google Scholar page
+
+When is Exponential Asymptotic Optimality Achievable in Average-Reward Restless Bandits?
+Yige Hong, Qiaomin Xie, Yudong Chen, and Weina Wang
+Preprint 2024. [arxiv]
+
+The Collusion of Memory and Nonlinearity in Stochastic Approximation
+Dongyan (Lucy) Huo, Yixuan Zhang, Yudong Chen, Qiaomin Xie
+Preprint, 2024. [arxiv]
+
+Inception: Efficiently Computable Misinformation Attacks on Markov Games
+Jeremy McMahan, Young Wu, Yudong Chen, Xiaojin Zhu, Qiaomin Xie
+Reinforcement Learning Conference (RLC), 2024. [arxiv]
+(Earlier version with preliminary results in [here].)
+
+Learning to Stabilize Online Reinforcement Learning in Unbounded State Spaces
+Brahma S. Pavse, Matthew Zurek, Yudong Chen, Qiaomin Xie, Josiah P. Hanna
+International Conference on Machine Learning (ICML), 2024. [arxiv]
+
+Minimally Modifying a Markov Game to Achieve Any Nash Equilibrium and Value
+Young Wu, Jeremy McMahan, Yiding Chen, Yudong Chen, Xiaojin Zhu, Qiaomin Xie
+International Conference on Machine Learning (ICML), 2024. [arxiv] [code]
+
+Gap-Free Clustering: Sensitivity and Robustness of SDP
+Matthew Zurek, Yudong Chen
+Conference on Learning Theory (COLT), 2024. [arxiv]
+
+Prelimit Coupling and Steady-State Convergence of Constant-stepsize Nonsmooth Contractive SA
+Yixuan Zhang, Dongyan (Lucy) Huo, Yudong Chen, Qiaomin Xie
+ACM SIGMETRICS 2024. [arxiv]
+
+Span-Based Optimal Sample Complexity for Weakly Communicating and General Average Reward MDPs
+Matthew Zurek, Yudong Chen
+Preprint, 2024. [arxiv]
+(This paper supersedes our early manuscript that only considers weakly communicating MDPs.)
+
+Unichain and Aperiodicity are Sufficient for Asymptotic Optimality of Average-Reward Restless Bandits
+Yige Hong, Qiaomin Xie, Yudong Chen, and Weina Wang
+Preprint 2024. [arxiv]
+
+On the Scalability and Memory Efficiency of Semidefinite Programs for Lipschitz Constant Estimation of Neural Networks
+Zi Wang, Bin Hu, Aaron J. Havens, Alexandre Araujo, Yang Zheng, Yudong Chen, and Somesh Jha
+International Conference on Learning Representations (ICLR), 2024. [pdf] [code]
+
+Global Optimality of the EM Algorithm for Mixtures of Two Linear Regression
+Jeongyeol Kwon, Wei Qian, Constantine Caramanis, Yudong Chen, Damek Davis, Nhat Ho
+IEEE Transactions on Information Theory, 2024. [arxiv]
+
+Local Minima Structures of Gaussian Mixture Models
+Yudong Chen, Dogyoon Song, Xumei Xi, and Yuqian Zhang
+IEEE Transactions on Information Theory, vol. 70, no. 6, pp. 4218-4257, 2024. [arxiv] [ieee link]
+
+Effectiveness of Constant Stepsize in Markovian LSA and Statistical Inference
+Dongyan (Lucy) Huo, Yudong Chen, and Qiaomin Xie
+AAAI Conference on Artificial Intelligence (AAAI), 2024. [arxiv]
+
+Stochastic Methods in Variational Inequalities: Ergodicity, Bias and Refinements
+Emmanouil-Vasileios Vlatakis-Gkaragkounis, Angeliki Giannou, Yudong Chen, Qiaomin Xie
+International Conference on Artificial Intelligence and Statistics (AISTATS), Oral, 2024. [aistats link].
+(Preliminary version on [arxiv].)
+
+Restless Bandits with Average Reward: Breaking the Uniform Global Attractor Assumption
+Yige Hong, Qiaomin Xie, Yudong Chen, and Weina Wang
+Neural Information Processing Systems Conference (NeurIPS), Spotlight, 2023. [arxiv]
+
+Matrix Estimation for Offline Reinforcement Learning with Low-Rank Structure
+Xumei Xi, Christina Lee Yu, and Yudong Chen
+Preprint, 2023. [arxiv]
+Partial preliminary results appears in the 3rd NeurIPS Offline RL Workshop, 2022.
+
+Bias and Extrapolation in Markovian Linear Stochastic Approximation with Constant Stepsizes
+Dongyan (Lucy) Huo, Yudong Chen, and Qiaomin Xie
+ACM SIGMETRICS, 2023. [arxiv]
+
+Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure
+Tyler Sam, Yudong Chen, and Christina Lee Yu
+ACM SIGMETRICS, 2023. [arxiv] [acm link]
+Best Student Paper, ACM SIGMETRICS 2023.
+
+Algorithmic Regularization in Model-free Overparametrized Asymmetric Matrix Factorization
+Liwei Jiang, Yudong Chen, and Lijun Ding
+SIAM Journal on Mathematics of Data Science (SIMODS), vol. 5, no. 3, pp. 723-744, 2023. [arxiv] [siam link]
+
+Entry-Specific Bounds for Low-Rank Matrix Completion Under Highly Non-Uniform Sampling
+Xumei Xi, Christina Lee Yu, and Yudong Chen
+IEEE International Symposium on Information Theory (ISIT), 2023. [arxiv] [ieee link]
+
+A Geometric Approach to k-means
+Jiazhen Hong, Wei Qian, Yudong Chen, and Yuqian Zhang
+Preprint, 2022. [arxiv]
+
+Clustering Heterogeneous Financial Networks
+Hamed Amini, Yudong Chen, Andreea Minca, and Xin Qian
+Mathematical Finance, 2022. [link]
+
+Towards a Unified Quadrature Framework for Large-Scale Kernel Machines
+Fanghui Liu, Xiaolin Huang, Yudong Chen, and Johan Suykens
+IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 11, pp. 7975-7988, 2022. [ieee link]
+
+Hidden Integrality and Semi-random Robustness of SDP Relaxation for Sub-Gaussian Mixture Models
+Yingjie Fei and Yudong Chen
+Mathematics of Operations Research, vol. 47, no. 3, pp. 2464-2493, 2022. [MOR link]
+Partial preliminary results appeared in COLT 2018.
+
+Exponential Bellman Equation and Improved Regret Bounds for Risk-Sensitive Reinforcement Learning
+Yingjie Fei, Zhuoran Yang, Yudong Chen, and Zhaoran Wang
+Neural Information Processing Systems Conference (NeurIPS), 2021. [arxiv]
+
+Rank Overspecified Robust Matrix Recovery: Subgradient Method and Exact Recovery
+Lijun Ding, Liwei Jiang, Yudong Chen, Qing Qu, and Zhihui Zhu
+Neural Information Processing Systems Conference (NeurIPS), 2021. [arxiv]
+
+Low-rank matrix recovery with non-quadratic loss: projected gradient method and regularity projection oracle
+Lijun Ding, Yuqian Zhang, and Yudong Chen
+Preprint, 2021. [arxiv]
+
+Random Features for Kernel Approximation: A Survey on Algorithms, Theory, and Beyond
+Fanghui Liu, Xiaolin Huang, Yudong Chen, and Johan A.K. Suykens
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), to appear, 2021. [arxiv]
+
+Risk-Sensitive Reinforcement Learning: Near-Optimal Risk-Sample Tradeoff in Regret
+Yingjie Fei, Zhuoran Yang, Yudong Chen, Zhaoran Wang, and Qiaomin Xie
+Neural Information Processing Systems Conference (NeurIPS), 2020. (Spotlight) [arxiv]
+
+Learning Zero-Sum Simultaneous-Move Markov Games Using Function Approximation and Correlated Equilibrium
+Qiaomin Xie, Yudong Chen, Zhaoran Wang, and Zhuoran Yang
+Mathematics of Operations Research, to appear, 2022. [arxiv] [MOR link]
+Partial preliminary results appeared in Conference on Learning Theory (COLT), 2020.
+
+Structures of Spurious Local Minima in k-means
+Wei Qian, Yuqian Zhang, and Yudong Chen
+IEEE Transactions on Information Theory, to appear, 2021. [arxiv]
+
+Achieving the Bayes Error Rate in Synchronization and Block Models by SDP, Robustly
+Yingjie Fei and Yudong Chen.
+IEEE Transactions on Information Theory, vol. 66, no. 6, pp. 3929-3953, 2020. [arxiv] [ieee link]
+Partial preliminary results appeared in COLT. 
+
+Random Fourier Features via Fast Surrogate Leverage Weighted Sampling
+Fanghui Liu, Xiaolin Huang, Yudong Chen, Jie Yang, and Johan Suykens
+Association for the Advancement of Artificial Intelligence Conference (AAAI), 2020. [arxiv]
+
+Global Convergence of Least Squares EM for Demixing Two Log-Concave Densities
+Wei Qian, Yuqian Zhang, and Yudong Chen.
+Neural Information Processing Systems Conference (NeurIPS), 2019. [arxiv]
+
+Factor Group-Sparse Regularization for Efficient Low-Rank Matrix Recovery
+Jicong Fan, Lijun Ding, Yudong Chen, and Madeleine Udell
+Neural Information Processing Systems Conference (NeurIPS), 2019. [arxiv]
+
+Low-rank Matrix Recovery with Composite Optimization: Good Conditioning and Rapid Convergence
+Vasileios Charisopoulos, Yudong Chen, Damek Davis, Mateo Diaz, Lijun Ding, and Dmitriy Drusvyatskiy.
+Foundations of Computational Mathematics, to appear, 2019. [arxiv]
+
+Global Convergence of the EM Algorithm for Mixtures of Two Component Linear Regression
+Jeongyeol Kwon, Wei Qian, Constantine Caramanis, Yudong Chen, and Damek Davis.
+Conference on Learning Theory (COLT), 2019. [arxiv]
+
+Achieving the Bayes Error Rate in Stochastic Block Model by SDP, Robustly
+Yingjie Fei and Yudong Chen.
+Conference on Learning Theory (COLT), 2019. [colt pdf]
+
+Convex Relaxation Methods for Community Detection
+Xiaodong Li, Yudong Chen, and Jiaming Xu.
+Statistical Science, vol. 36, no. 1, pp. 2-15, 2021. [arxiv]
+
+Defending Against Saddle Point Attack in Byzantine-Robust Distributed Learning
+Dong Yin, Yudong Chen, Kannan Ramchandran, and Peter Bartlett.
+International Conference on Machine Learning (ICML), 2019 (long talk). [arxiv]
+
+The Leave-one-out Approach for Matrix Completion: Primal and Dual Analysis
+Lijun Ding and Yudong Chen.
+IEEE Transactions on Information Theory, to appear, 2019. [arxiv] [ieee link]
+
+Hidden Integrality of SDP Relaxation for Sub-Gaussian Mixture Models
+Yingjie Fei and Yudong Chen.
+Conference on Learning Theory (COLT), 2018. [arxiv]
+2nd Place, 2018 INFORMS George Nicholson Student Paper Competition.
+
+Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates
+Dong Yin, Yudong Chen, Kannan Ramchandran, and Peter Bartlett.
+International Conference on Machine Learning (ICML), 2018. [arxiv]
+
+Harnessing Structures in Big Data via Guaranteed Low-Rank Matrix Estimation
+Yudong Chen and Yuejie Chi.
+IEEE Signal Processing Magazine, vol. 35, no. 4, pp. 14-31, 2018. [arxiv] [ieee link]
+
+Exponential error rates of SDP for block models: Beyond Grothendieck’s inequality
+Yingjie Fei and Yudong Chen.
+IEEE Transactions on Information Theory, vol. 65, no. 1, pp. 551-571, 2019. [arxiv] [ieee link]
+
+Distributed Statistical Machine Learning in Adversarial Settings: Byzantine Gradient Descent
+Yudong Chen, Lili Su, and Jiaming Xu.
+ACM SIGMETRICS, 2018. [paper link] [arxiv]
+
+Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm
+Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin, and Shuicheng Yan
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), vol. 42, no. 4, pp. 925-938, 2020. [arxiv] [ieee link]
+
+Convex and Nonconvex Formulations for Mixed Regression with Two Components: Minimax Optimal Rates
+Yudong Chen, Xinyang Yi, and Constantine Caramanis.
+IEEE Transactions on Information Theory, vol. 64, no. 3, pp. 1738-1766, 2018. [ieee link]
+Partial preliminary results appeared in COLT and [arxiv]
+
+Convexified Modularity Maximization for Degree-corrected Stochastic Block Models
+Yudong Chen, Xiaodong Li, and Jiaming Xu.
+Annals of Statistics, vol. 46, no. 4, pp. 1573-1602, 2018. [arxiv] [code and webpage]
+
+Learning Mixtures of Sparse Linear Regressions Using Sparse Graph Codes
+Dong Yin, Ramtin Pedarsani, Yudong Chen, and Kannan Ramchandran.
+IEEE Transactions on Information Theory, vol. 65, no. 3, pp. 1430-1451, 2019. [arxiv] [ieee link]
+Partial preliminary results appeared in the 55th Annual Allerton Conference on Communication, Control, and Computing, 2017.
+
+Clustering from General Pairwise Observations with Applications to Time-varying Graphs
+Shiau Hong Lim, Yudong Chen, and Huan Xu.
+Journal of Machine Learning Research (JMLR), 18(49), 1-47, 2017. [pdf] [jmlr link]
+Partial preliminary results appeared in ICML and NIPS.
+
+Fast Algorithms for Robust PCA via Gradient Descent
+Xinyang Yi, Dohyung Park, Yudong Chen, and Constantine Caramanis.
+Neural Information Processing Systems Conference (NIPS), 2016. [arxiv] [webpage] [code]
+
+Fast low-rank estimation by projected gradient descent: General statistical and algorithmic guarantees
+Yudong Chen, and Martin J. Wainwright.
+Preprint, 2015. [arXiv]
+
+Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization
+Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin, and Shuicheng Yan
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [pdf]
+
+A Convex Optimization Framework for Bi-Clustering
+Shiau Hong Lim, Yudong Chen, and Huan Xu.
+International Conference on Machine Learning (ICML), 2015. [pdf] [supplementary] [icml link]
+
+Matrix Completion with Column Manipulation: Near-Optimal Sample-Robustness-Rank Tradeoffs
+Yudong Chen, Huan Xu, Constantine Caramanis, and Sujay Sanghavi.
+IEEE Transactions on Information Theory, vol. 62, no. 1, pp. 503-526, 2016. [arxiv] [ieee link]
+
+Statistical-Computational Tradeoffs in Planted Problems and Submatrix Localization with a Growing Number of Clusters and Submatrices
+Yudong Chen and Jiaming Xu.
+Journal of Machine Learning Research (JMLR), vol. 17, no. 27, pp. 1-57, 2016. [pdf] [arXiv]
+
+Completing Any Low-Rank Matrix, Provably
+Yudong Chen, Srinadh Bhojanapalli, Sujay Sanghavi, and Rachel Ward.
+Journal of Machine Learnng Research (JMLR), vol. 16, pp. 2999-3034, 2015. [pdf] [jmlr link]
+
+Incoherence-Optimal Matrix Completion
+Yudong Chen.
+IEEE Transactions on Information Theory, vol. 61, no. 5, pp. 2909-2923, 2015. [ieee link] [arXiv]
+
+Iterative and Active Graph Clustering Using Trace Norm Minimization Without Cluster Size Constraints
+Nir Ailon, Yudong Chen, and Huan Xu.
+Journal of Machine Learning Research (JMLR), vol. 16, pp. 450-490, 2015. [pdf] [jmlr link] [arXiv]
+
+Improved Graph Clustering
+Yudong Chen, Sujay Sanghavi, and Huan Xu.
+IEEE Transactions on Information Theory, vol. 60, no. 10, pp. 6440�6455, 2014. [ieee link] [arXiv]
+
+Clustering Partially Observed Graphs via Convex Optimization
+Yudong Chen, Ali Jalali, Sujay Sanghavi, and Huan Xu.
+Journal of Machine Learning Research (JMLR), vol. 15, pp. 2213-2238, 2014. [pdf] [arXiv]
+
+Clustering from Labels and Time-Varying Graphs
+Shiau Hong Lim, Yudong Chen, and Huan Xu.
+Neural Information Processing Systems Conference (NIPS), 2014 (Spotlight). [pdf] [supplementary] [nips link]
+
+Weighted Graph Clustering with Non-uniform Uncertainties
+Yudong Chen, Shiau Hong Lim, and Huan Xu.
+International Conference on Machine Learning (ICML), 2014. [pdf] [supplementary] [icml link]
+
+Statistical-Computational Phase Transitions in Planted Models: The High-Dimensional Setting
+Yudong Chen and Jiaming Xu.
+International Conference on Machine Learning (ICML), 2014.
+
+Coherent Matrix Completion
+Yudong Chen, Srinadh Bhojanapalli, Sujay Sanghavi, and Rachel Ward.
+International Conference on Machine Learning (ICML), 2014.
+
+A Convex Formulation for Mixed Regression with Two Components: Minimax Optimal Rates
+Yudong Chen, Xinyang Yi, and Constantine Caramanis.
+Conference on Learning Theory (COLT), 2014. [arxiv] [colt pdf]
+
+Low-rank Matrix Recovery from Errors and Erasures
+Yudong Chen, Ali Jalali, Sujay Sanghavi, and Constantine Caramanis.
+IEEE Transactions on Information Theory, vol. 59, no. 7, pp. 4324-4337, 2013. [ieee link] [arXiv]
+
+Detecting Overlapping Temporal Community Structure in Time-Evolving Networks
+Yudong Chen, Vikas Kawadia, and Rahul Urgaonkar.
+Technical Report, 2013. [arXiv]
+
+User Association for Load Balancing in Heterogeneous Cellular Networks
+Qiaoyang Ye, Beiyu Rong, Yudong Chen, Mazin Al-Shalash, Constantine Caramanis, and Jeffrey G. Andrews.
+IEEE Transactions on Wireless Communications, vol. 12, no. 6, pp. 2706-2716, 2013. [ieee link] [arXiv]
+
+Breaking the Small Cluster Barrier of Graph Clustering
+Nir Ailon, Yudong Chen, and Huan Xu.
+International Conference on Machine Learning (ICML), 2013.
+
+Robust Sparse Regression under Adversarial Corruption
+Yudong Chen, Constantine Caramanis, and Shie Mannor.
+International Conference on Machine Learning (ICML), 2013. [pdf] [supplementary]
+
+Noisy and Missing Data Regression: Distribution-Oblivious Support Recovery
+Yudong Chen and Constantine Caramanis.
+International Conference on Machine Learning (ICML), 2013. [pdf] [supplementary]
+
+Clustering Sparse Graphs
+Yudong Chen, Sujay Sanghavi, and Huan Xu.
+In Advances in Neural Information Processing Systems 25 (NIPS), 2012. 
+
+Towards an Optimal User Association in Heterogeneous Cellular Networks
+Qiaoyang Ye, Beiyu Rong, Yudong Chen, Mazin Al-Shalash, Constantine Caramanis, and Jeffrey G. Andrews.
+IEEE Globecom, 2012.
+
+Low-rank Matrix Recovery from Errors and Erasures
+Yudong Chen, Ali Jalali, Sujay Sanghavi, and Constantine Caramanis.
+International Symposium on Information Theory (ISIT), 2011.
+
+Clustering Partially Observed Graphs via Convex Optimization
+Ali Jalali, Yudong Chen, Sujay Sanghavi, and Huan Xu.
+International Conference on Machine Learning (ICML), 2011.
+
+Robust Matrix Completion with Corrupted Columns
+Yudong, Chen, Huan Xu, Constantine Caramanis, and Sujay Sanghavi.
+International Conference on Machine Learning (ICML), 2011.
+
+Quantization Errors of Uniformly Quantized fGn and fBm Signals
+Zhiheng Li, Yudong Chen, Li Li, and Yi Zhang.
+IEEE Signal Processing Letters, vol. 16, no. 12, 1059-1062, 2009. [arXiv]
+
+PCA Based Hurst Exponent Estimator for fBm Signals under Disturbances
+Li Li, Jianming Hu, Yudong Chen, and Yi Zhang.
+IEEE Transactions on Signal Processing, vol. 57, no. 7, 2840-2846, 2009.
+
+Teaching
+UW-Madison
+
+CS/ISyE/Math/Stat 726 Nonlinear Optimization I (Spring 2024; Spring 2023)
+
+CS 540 Introduction to Artificial Intelligence (Fall 2023; Fall 2021)
+
+CS 839 Probability and Learning in High Dimension (Spring 2022)
+
+Cornell
+
+ENGRD 2700 Basic Engineering Probability and Statistics (Fall 2019; Spring 2019)
+
+ORIE 4740 Statistical Data Mining I (Spring 2021; Fall 2018; Spring 2018; Spring 2017; Spring 2016)
+
+ORIE 6700 Statistical Principles (Fall 2020; Fall 2017; Fall 2016; Fall 2015)
+
+ORIE 7790 High Dimensional Probability and Statistics (Spring 2020)
+
+Group Members
+Current Students:
+
+Matthew Zurek, Ph.D. Student at UW-Madison CS
+
+Lucy Huo, Ph.D. Student at Cornell ORIE (co-advised with Jim Dai)
+
+Tyler Sam, Ph.D. Student at Cornell ORIE (co-advised with Christina Lee Yu)
+
+Lucas Poon, Undergraduate Student at UW-Madison CS
+
+Group Alumni:
+
+Lijun Ding (Cornell Ph.D. co-advised with Madeleine Udell): Postdoc at University of Washington and University of Wisconsin-Madison
+
+Xumei Xi (Cornell Ph.D. co-advised with Christina Lee Yu): Machine Learning Engineer at Pinterest.
+
+Yingjie (Tom) Fei (Cornell Ph.D.): Postdoc at Northwestern University
+
+Wei Qian (Cornell Ph.D.): Munich Re
+
+Yuqian Zhang (Cornell Postdoc): Assistant Professor at Rugters ECE
+
+Zhengxin Zhang (Undergraduate Advisee): Ph.D. at Cornell
+
+Xin Qian (Undergraduate Advisee): Ph.D. at Northwestern University
+
+Contact
+yudong.chen at wisc.edu
+CS Building Office 5373, 1210 W Dayton St, Madison, WI 53706
+Enter Unit 3 of the CS buliding and take the elevator to Office 5373 on Floor 5
+
+Published with Hugo Blox Builder — the free, open source website builder that empowers creators.
+

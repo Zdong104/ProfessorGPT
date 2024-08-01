@@ -1,0 +1,88 @@
+Professor: Bowen Xu
+University: North Carolina State University
+URL: https://www.bowenxu.me/
+Description: About
+Publications
+Teaching
+Service
+Talk
+Students
+Enjoy Research
+
+ 
+Bowen Xu
+Assistant Professor
+Department of Computer Science
+College of Engineering
+
+
+
+Office: Engineering Building II (EB2), Room 3261
+Email: bxu22@ncsu.edu
+
+
+
+Research Focus
+My research interests span software engineering, machine learning, and program analysis. My primary research interests are:
+AI for Code
+Backdoor Attack and Defense [TSE-24] [S&P-24]
+Code Data Interpretation and Quality [ASE-23] [ICPC-22]
+Vulnerability Detection and Repair [ICSE-24] [TSE-23]
+Code Representation Learning [SANER-22] [FSE-22] [ICSME-23]
+Model Compression [ASE-22][ICSE-SEIS-24]
+Software Text Analytics for Software Automation
+Intelligent Software Q&A [ASE-23] [ESEM-18] [ASE-16]
+Representation Learning of Software Data [TOSEM-23] [TSE-21]
+Sentiment Analysis for Software Engineering [ICSME-20]
+Biases in Bug Report Analytics [TOSEM-22]
+Understand and Assist Software Practice
+Code Reuse and Re-implementation [EMSE-19]
+Automatic Code Review [ICPC-23] [PAKDD-19]
+Chatbot for Developers [ICSE-23] [ASE-22] [FSE-19] [ASE-17][FSE-17] [EMSE-17] [MSR-16]
+
+
+ I am developing an open-source library named SEEDGuard.AI with a group of talented students at NC State for trustworthy data for code. Please join us and build a trustworthy SE data together!
+ A paper repository about Large Lanugage Model for Software Engineering, https://github.com/gai4se/LLM4SE. Please star the repository and contribute your work!
+News
+March, 2024: One work titled BAFFLE: Backdoor Attack in Offline Reinforcement Learning is accepted by IEEE Symposium on Security and Privacy (S&P 2024).
+Feb, 2024: One work titled Stealthy Backdoor Attack for Code Models is accepted by IEEE Transactions on Software Engineering (TSE).
+December, 2023: Two works titled Out of Sight, Out of Mind: Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources and Curiosity-Driven Testing for Sequential Decision-Making Process are accepted by 46th International Conference on Software Engineering (ICSE 2024).
+December, 2023: One work titled Greening Large Language Models of Code is accepted by The 46th International Conference on Software Engineering (ICSE 2024) -- Software Engineering in Society Track (ICSE 2024 SEIS).
+November, 2023: I will serve ICSE 2025 as a Review Process Co-chair of Research Track. Please consider submitting your work!
+November, 2023: I will serve ASE 2024 as a PC of Research Track. Please consider submitting your work!
+November, 2023: I will serve Forge 2024 (co-located with ICSE 2024) as a Local Chair. Please consider submitting your work!
+October, 2023: One work titled Representation Learning for Stack Overflow Posts: How Far are We? is accepted by ACM Transactions on Software Engineering and Methodology (TOSEM).
+September, 2023: I will serve CAIN 2024 as a PC of Technical Track. Please consider submitting your work!
+July, 2023: I will serve FSE 2024 as a PC of Technical Track. Please consider submitting your work!
+July, 2023: One work titled The Devil is in the Tails: An Exploratory Study on Long-tailed (Technical track) is accepted by ASE'23.
+July, 2023: One work titled Are We Ready to Embrace Generative AI for Software Q&A? (NIER track) is accepted by ASE'23.
+June, 2023: One work titled Self-Supervised Code Change Representation Learning (Technical track) is accepted by ICSME'23.
+June, 2023: I contribute to one chapter Supporting Collateral Evolution in Software Ecosystems of the book titled Software Ecosystems: Tooling and Analytics. The book is planned for release end of Augest 2023.
+May, 2023: One work titled Multi-Granularity Detector for Vulnerability Fixes is accepted by IEEE Transactions on Software Engineering (TSE).
+April, 2023: I will serve ASE 2023 as a PC of NIER Track. Please consider submitting your work!
+April, 2023: I will serve APSEC 2023 as a PC of Technical Track. Please consider submitting your work!
+March, 2023: I will serve PRDC 2023 as a PC of Technical Track. Please consider submitting your work!
+March, 2023: I will serve ICSE 2024 as a PC of Demonstrations Track. Please consider submitting your work!
+March, 2023: I delivered a lecture as a guest instructor on code embedding for the graduate students from Dalhousie University.
+March, 2023: One work titled Generation-based Code Review Automation: How Far Are We? is accepted to appear at the Research track of the 31st IEEE/ACM International Conference on Program Comprehension (ICPC 2023).
+January, 2023: One work titled TECHSUMBOT: A Stack Overflow Answer Summarization Tool for Technical Query is accepted to appear at the Demostractions track of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).
+December, 2022: One work titled Curiosity-Driven and Victim-Aware Adversarial Policies is accepted by The Annual Computer Security Applications Conference and won Honorable Mention Award.
+November, 2022: One work titled Duplicate Bug Report Detection: How Far Are We? is accepted by ACM Transactions on Software Engineering and Methodology.
+July, 2022: Two works titled Compressing Pre-trained Models of Code into 3 MB and Answer Summarization for Technical Queries: Benchmark and New Approach (Technical track) are accepted by ASE'22.
+June, 2022: One work titled How to Better Utilize Code Graphs in Semantic Code Search? (Technical track) is accepted by ESEC/FSE'22.
+June, 2022: [Call For Paper] I am one of the organizers of the ESEC/FSE workshop the 6th edition of the MaLTeSQuE on machine learning techniques for software quality evolution. Please submit your great work(s)!
+March, 2022: One work titled PTM4Tag: Sharpening Tag Recommendation of Stack Overflow with Pre-trained Models (Technical track) is accepted by ICPC'22.
+December, 2021: Two works titled Aspect-Based API Review Classification: How Far Can Pre-Trained Transformer Model Go? (Technical track) and Can Identifier Splitting Improve Open-Vocabulary Language Model of Code? (ERA track) are accepted by SANER'22.
+August, 2021: I graduated from SMU, a beautiful university carries lots of great memories!
+June, 2021: One work titled Post2Vec: Learning Distributed Representations of Stack Overflow Posts is accepted by IEEE Transactions on Software Engineering (TSE).
+
+
+
+Bio
+
+Dr. Bowen Xu is an Assistant Professor in the Department of Computer Science at North Carolina State University (NCSU). Prior he joining NCSU, he was a post-doctoral researcher in the School of Computing and Information Systems (SCIS) at Singapore Management University (SMU). He received his PhD degree from SCIS at SMU. His research interests lie primarily in the fields of machine learning and software engineering. Particularly, he focuses on securing AI models and building high-quality data for various coding tasks. His works won several research paper awards, such as Highly Commended Full Paper Award at ESEM 2018, Honorable Mention Award at ACSAC 2022, nominated for ACM SIGSOFT Distinguished Paper Award at ASE 2022. He co-organized two FSE workshops SEA4DQ in 2024 and MaLTeS in 2022. He served as Paper Review co-chairs for ICSE 2025 and FSE 2025. He also invited to be a PC and referee for many top-tier conferences and Journals, such as ICSE, FSE, ASE, TSE, TOSEM, EMSE, etc. Contact him at: bxu22@ncsu.edu. More info at: https://www.bowenxu.me.
+
+
+
+
+

@@ -1,0 +1,251 @@
+Professor: Erik G. Learned-Miller
+University: University of Massachusetts Amherst
+URL: http://people.cs.umass.edu/~elm
+Description: 	Erik G. Learned-Miller
+Professor and Chair of the Faculty
+The Manning College of Information and Computer Sciences
+University of Massachusetts, Amherst
+
+140 Governors Drive, Office 200
+Amherst, MA 01003
+
+E-mail: elm at cs.umass.edu
+Computer Vision Lab
+
+	
+
+News:
+
+We have started work on a New Building! Check out the College web pages for architectural drawings and renderings.
+On September 1, 2022, I started my new position as Chair of the Faculty in the Manning College of Information and Computer Sciences. I continue to co-direct the Computer Vision Lab with Subhransu Maji.
+
+Home Publications Students Teaching Funding Code FAQ
+
+
+
+	Facial Recognition Technologies in the Wild: A Call for a Federal Office
+Erik Learned-Miller, Vicente Ordonez, Jamie Morgenstern, and Joy Buolamwini.
+
+[pdf] [primer on facial recognition technologies] [project page at the Algorithmic Justice League]
+In this white paper, we discuss the wide variety of challenges that come with deploying modern facial recognition technologies. There are many ways to manage the trade-offs between the risks and benefits of these technologies, including better databases, better benchmarks, laws restricting the technology, and adherence to ethical guidelines. Our central claim is that these previous suggestions, while helpful, are not enough to properly regulate this technology. We propose a new federal office, heavily borrowing from the structure of the US Food and Drug Administration offices, for the regulation of facial recognition technologies, and outline some of the principles on which it would operate.
+
+	A New Confidence Interval for the Mean of a Bounded Random Variable
+
+[arXiv]
+We present a new method for constructing a confidence interval for the mean of a bounded random variable from samples of the random variable. We conjecture that the confidence interval has guaranteed coverage, i.e., that it contains the mean with high probability for all distributions on a bounded interval, for all samples sizes, and for all confidence levels. This new method provides confidence intervals that are competitive with those produced using Student’s t-statistic, but does not rely on normality assumptions. In particular, its only requirement is that the distribution be bounded on a known finite interval. This appears to be the first confidence interval for the mean that has wide applicability (and complete coverage) when the sample size is less than 30.
+
+	Super SloMo: High quality estimation of multiple intermediate frames for video interpolation
+
+[Project page] [pdf]
+Given two consecutive frames, video interpolation aims at generating intermediate frame(s) to form both spatially and temporally coherent video sequences. While most existing methods focus on single-frame interpolation, we propose an end-to-end convolutional neural network for variable-length multi-frame video interpolation, where the motion interpretation and occlusion reasoning are jointly modeled. We start by computing bi-directional optical flow between the input images using a U-Net architecture. These flows are then linearly combined at each time step to approximate the intermediate bi-directional optical flows. These approximate flows, however, only work well in locally smooth regions and produce artifacts around motion boundaries. To address this shortcoming, we employ another U-Net to refine the approximated flow and also predict soft visibility maps. Finally, the two input images are warped and linearly fused to form each intermediate frame. By applying the visibility maps to the warped images before fusion, we exclude the contribution of occluded pixels to the interpolated intermediate frame to avoid artifacts. Since none of our learned network parameters are time-dependent, our approach is able to produce as many intermediate frames as needed. To train our network, we use 1,132 240-fps video clips, containing 300K individual video frames. Experimental results on several datasets, predicting different numbers of interpolated frames, demonstrate that our approach performs consistently better than existing methods.
+
+	Active bias: Training a more accurate neural network by emphasizing high variance samples (NeurIPS 2017)
+
+[pdf]
+Self-paced learning and hard example mining re-weight training instances to improve learning accuracy. This paper presents two improved alternatives based on lightweight estimates of sample uncertainty in stochastic gradient descent (SGD): the variance in predicted probability of the correct class across iterations of mini-batch SGD, and the proximity of the correct class probability to the decision threshold. Extensive experimental results on six datasets show that our methods reliably improve accuracy in various network architectures, including additional gains on top of other popular training techniques, such as residual learning, momentum, ADAM, batch normalization, dropout, and distillation.
+
+	A framework for dexterous manipulation (IROS 2018)
+
+[pdf]
+In this work, we introduce a framework for performing dexterous manipulations on the humanoid robot Robonaut-2. This framework memorizes how actions change perceptions and can learn a sequence of actions based on demonstrations. With the anthropomorphic Robonaut-2 hand and arm, a variety of manipulation tasks such as grasping novel objects, rotating a drill for grasping, and tightening a bolt with a ratchet can be accomplished. This framework was also used to compete in the IROS2018 Fan Robotic Challenge that requires manipulating a hand fan and was a winner of the phase I modality A competition.
+
+	Automatic adaptation of object detectors to new domains using self-training (CVPR 2019)
+
+[pdf]
+This work addresses the unsupervised adaptation of an existing object detector to a new target domain. We assume that a large number of unlabeled videos from this domain are readily available. We automatically obtain labels on the target data by using high-confidence detections from the existing detector, augmented with hard (misclassified) examples acquired by exploiting temporal cues using a tracker. These automatically-obtained labels are then used for re-training the original model. A modified knowledge distillation loss is proposed, and we investigate several ways of assigning soft-labels to the training examples from the target domain. Our approach is empirically evaluated on challenging face and pedestrian detection tasks: a face detector trained on WIDER-Face, which consists of high-quality images crawled from the web, is adapted to a large-scale surveillance data set; a pedestrian detector trained on clear, daytime images from the BDD-100K driving data set is adapted to all other scenarios such as rainy, foggy, night-time. Our results demonstrate the usefulness of incorporating hard examples obtained from tracking, the advantage of using soft-labels via distillation loss versus hard-labels, and show promising performance as a simple method for unsupervised domain adaptation of object detectors, with minimal dependence on hyper-parameters.
+
+	Self-supervised relative depth learning for urban scene understanding (ECCV 2018)
+
+[pdf]
+As an agent moves through the world, the apparent motion of scene elements is (usually) inversely proportional to their depth. It is natural for a learning agent to associate image patterns with the magnitude of their displacement over time: as the agent moves, faraway mountains don’t move much; nearby trees move a lot. This natural relationship between the appearance of objects and their motion is a rich source of information about the world. In this work, we start by training a deep network, using fully automatic supervision, to predict relative scene depth from single images. The relative depth training images are automatically derived from simple videos of cars moving through a scene, using recent motion segmentation techniques, and no human-provided labels. The proxy task of predicting relative depth from a single image induces features in the network that result in large improvements in a set of downstream tasks including semantic segmentation, joint road segmentation and car detection, and monocular (absolute) depth estimation, over a network trained from scratch. The improvement on the semantic segmentation task is greater than that produced by any other automatically supervised methods. Moreover, for monocular depth estimation, our unsupervised pre-training method even outperforms supervised pre-training with ImageNet. In addition, we demonstrate benefits from learning to predict (again, completely unsupervised) relative depth in the specific videos associated with various downstream tasks (e.g., KITTI). We adapt to the specific scenes in those tasks in an unsupervised manner to improve performance. In summary, for semantic segmentation, we present state-of-the-art results among methods that do not use supervised pre-training, and we even exceed the performance of supervised ImageNet pre-trained models for monocular depth estimation, achieving results that are comparable with state-of-the-art methods.
+
+	Pixel Adaptive Convolutional Neural Networks (CVPR 2019)
+
+[pdf]
+Convolutions are the fundamental building blocks of CNNs. The fact that their weights are spatially shared is one of the main reasons for their widespread use, but it is also a major limitation, as it makes convolutions content-agnostic. We propose a pixel-adaptive convolution (PAC) operation, a simple yet effective modification of standard convolutions, in which the filter weights are multiplied with a spatially varying kernel that depends on learnable, local pixel features. PAC is a generalization of several popular filtering techniques and thus can be used for a wide range of use cases. Specifically, we demonstrate state-of- the-art performance when PAC is used for deep joint image upsampling. PAC also offers an effective alternative to fully-connected CRF (Full-CRF), called PAC-CRF, which performs competitively compared to Full-CRF, while being considerably faster. In addition, we also demonstrate that PAC can be used as a drop-in replacement for convolution layers in pre-trained networks, resulting in consistent performance improvements.
+
+	The best of both worlds: Combining CNNs and geometric constraints for hierarchichal motion segmentation (CVPR 2018)
+
+[pdf] [Project page]
+Traditional methods of motion segmentation use powerful geometric constraints to understand motion, but fail to leverage the semantics of high-level image understanding. Modern CNN methods of motion analysis, on the other hand, excel at identifying well-known structures, but may not precisely characterize well-known geometric constraints. In this work, we build a new statistical model of rigid motion flow based on classical perspective projection constraints. We then combine piecewise rigid motions into complex deformable and articulated objects, guided by semantic segmentation from CNNs and a second “object-level” statistical model. This combination of classical geometric knowledge combined with the pattern recognition abilities of CNNs yields excellent performance on a wide range of motion segmentation benchmarks, from complex geometric scenes to camouflaged animals.
+
+	End-to-end face detection and cast grouping in movies using Erdos-Renyi clustering (ICCV 2017)
+
+[pdf] [Project page]
+We present an end-to-end system for detecting and clustering faces by identity in full-length movies. Unlike works that start with a predefined set of detected faces, we consider the end-to-end problem of detection and clustering together. We make three separate contributions. First, we combine a state-of-the-art face detector with a generic tracker to extract high quality face tracklets. We then introduce a novel clustering method, motivated by classic results in graph theory. It is based on the observation that large clusters can be fully connected by joining just a small fraction of their point pairs, while just a single connection between two different people can lead to poor clustering results. This suggests clustering using a verification system with very few false positives but perhaps moderate recall. We introduce such a verification procedure with good recall in the low false-positive regime, based on features from the analysis of differences (FAD). Finally, we define a novel end-to-end detection and clustering evaluation metric allowing us to assess the accuracy of the entire end-to-end system. We present state-of-the-art results on multiple video data sets and also on standard face databases.
+
+	Causal Motion Segmentation in Moving Camera Videos (ECCV 2016)
+
+[arXiv] [code] [Project page]
+The human ability to detect and segment moving objects works in the presence of multiple objects, complex background geometry, motion of the observer, and even camouflage. In addition to all of this, the ability to detect motion is nearly instantaneous. While there has been much recent progress in motion segmentation, it still appears we are far from human capabilities. In this work, we derive from first principles a new likelihood function for assessing the probability of an optical flow vector given the 3D motion direction of an object. This likelihood uses a novel combination of the angle and magnitude of the optical flow to maximize the information about the true motions of objects. Using this new likelihood and several innovations in initialization, we develop a motion segmentation algorithm that beats current state-of-the-art methods by a large margin. We compare to five state-of-the-art methods on two established benchmarks, and a third new data set of camouflaged animals, which we introduce to push motion segmentation to the next level.
+
+	Labeled Faces in the Wild: A Survey
+
+[Draft pdf] [Springer Page] [LFW Database Page]
+In 2007, Labeled Faces in the Wild was released in an effort to spur research in face recognition, specifically for the problem of face verification with unconstrained images. Since that time, more than 50 papers have been published that improve upon this benchmark in some respect. A remarkably wide variety of innovative methods have been developed to overcome the challenges presented in this database. As performance on some aspects of the benchmark approaches 100% accuracy, it seems appropriate to review this progress, derive what general principles we can from these works, and identify key future challenges in face recognition. In this survey, we review the contributions to LFW for which the authors have provided results to the curators (results found on the LFW results web page). We also review the cross cutting topic of alignment and how it is used in various methods. We end with a brief discussion of recent databases designed to challenge the next generation of face recognition algorithms.
+
+	Multi-view Convolutional Neural Networks for 3D Shape Recognition (ICCV 2015)
+
+[pdf] [Project page]
+A longstanding question in computer vision concerns the representation of 3D shapes for recognition: should 3D shapes be represented with descriptors operating on their native 3D formats, such as voxel grid or polygon mesh, or can they be effectively represented with view-based descriptors? We address this question in the context of learning to recognize 3D shapes from a collection of their rendered views on 2D images. We first present a standard CNN architecture trained to recognize the shapes’ rendered views independently of each other, and show that a 3D shape can be recognized even from a single view at an accuracy far higher than using state-of-the-art 3D shape descriptors. Recognition rates further increase when multiple views of the shapes are provided. In addition, we present a novel CNN architecture that combines information from multiple views of a 3D shape into a single and compact shape descriptor offering even better recognition performance. The same architecture can be applied to accurately recognize human hand-drawn sketches of shapes. We conclude that a collection of 2D views can be highly informative for 3D shape recognition and is amenable to emerging CNN architectures and their derivatives.
+	Coherent Motion Segmentation in Moving Camera Videos using Optical Flow Orientations
+Link to Paper Link to Project Page
+
+In moving camera videos, motion segmentation is commonly performed using the image plane motion of pixels, or optical flow. However, objects that are at different depths from the camera can exhibit different optical flows even if they share the same real-world motion. This can cause a depth-dependent segmentation of the scene. Our goal is to develop a segmentation algorithm that clusters pixels that have similar real-world motion irrespective of their depth in the scene. Our solution uses optical flow orientations instead of the complete vectors and exploits the well-known property that under camera translation, optical flow orientations are independent of object depth. We introduce a probabilistic model that automatically estimates the number of observed independent motions and results in a labeling that is consistent with real-world motion in the scene. The result of our system is that static objects are correctly identified as one segment, even if they are at different depths. Color features and information from previous frames in the video sequence are used to correct occasional errors due to the orientation-based segmentation. We present results on more than thirty videos from different benchmarks. The system is particularly robust on complex background scenes containing objects at significantly different depths.
+	Augmenting CRFs with Boltzmann Machine Shape Priors
+
+Link to Paper Link to Project Page
+
+The conditional random field (CRF) is a powerful tool for building models to label segments in images. They are particularly appropriate for modeling local interactions among labels for regions (e.g., superpixels). Complementary to this, the restricted Boltzmann machine (RBM) has been used to model global shapes produced by segmentation models. In this work, we present a new model that uses the combined power of these two types of networks to build a state-of-the-art labeler, and demonstrate its labeling performance for the parts of complex face images. Specifically, we address the problem of labeling the Labeled Faces in the Wild data set into hair, skin and background regions. The CRF is a good baseline labeler, but we show how an RBM can be added to the architecture to provide a global shape bias that complements the local modeling provided by the CRF. This hybrid model produces results that are both quantitatively and qualitatively better than the CRF alone. In addition to high quality segmentation results, we demonstrate that the hidden units in the RBM portion of our model can be interpreted as face attributes which have been learned without any attribute-specific training data.
+
+	Improving Open-Vocabulary Scene Text Recognition
+
+Link to Paper
+
+This paper presents a system for open-vocabulary text recognition in images of natural scenes. First, we describe a novel technique for text segmentation that models smooth color changes across images. We combine this with a recognition component based on a conditional random field with histogram of oriented gradients descriptors and incorporate language information from a lexicon to improve recognition performance. Many existing techniques for this problem use language information from a standard lexicon, but these may not include many of the words found in images of the environment, such as storefront signs and street signs. We avoid this limitation by incorporating language information from a large web-based lexicon of around 13.5 million words. This lexicon contains words encountered during a crawl of the web, so it is likely to contain proper nouns, like business names and street names. We show that our text segmentation method allows for better recognition performance than the current state-of-the-art text segmentation method. We also evaluate this full system on two standard data sets, ICDAR 2003 and ICDAR 2011, and show an increase in word recognition performance compared to the current state-of-the-art methods.
+
+	Scene Text Segmentation via Inverse Rendering
+
+Link to Paper
+
+Recognizing text in natural photographs that con- tain specular highlights and focal blur is a challenging problem. In this paper we describe a new text segmentation method based on inverse rendering, i.e. decomposing an input image into basic rendering elements. Our technique uses iterative optimization to solve the rendering parameters, including light source, material properties (e.g. diffuse/specular reflectance and shininess) as well as blur kernel size. We combine our segmentation method with a recognition component and show that by accounting for the rendering parameters, our approach achieves higher text recognition accuracy than previous work, particularly in the presence of color changes and image blur. In addition, the derived rendering parameters can be used to synthesize new text images that imitate the appearance of an existing image.
+
+	Distribution Fields with Adaptive Kernels for Large Displacement Image Alignment
+
+Link to Paper
+
+While region-based image alignment algorithms that use gradient descent can achieve sub-pixel accuracy when they converge, their convergence depends on the smoothness of the image intensity values. Image smoothness is often enforced through the use of multi- scale approaches in which images are smoothed and downsampled. Yet, these approaches typically use fixed smoothing parameters which may be appropriate for some images but not for others. Even for a particular image, the optimal smoothing parameters may depend on the magnitude of the transformation. When the transformation is large, the image should be smoothed more than when the transformation is small. Further, with gradient-based approaches, the optimal smoothing parameters may change with each iteration as the algorithm proceeds towards convergence. We address convergence issues related to the choice of smoothing parameters by deriving a Gauss-Newton gradient descent algorithm based on distribution fields (DFs) and proposing a method to dynamically select smoothing parameters at each iteration. DF and DF-like representations have previously been used in the context of tracking. In this work we incorporate DFs into a full affine model for region-based alignment and simultaneously search over parameterized sets of geometric and photometric transforms. We use a probabilistic interpretation of DFs to select smoothing parameters at each step in the optimization and show that this results in improved convergence rates.
+
+	Improvements in Joint Domain-Range Modeling for Background Subtraction
+
+Link to Paper
+
+In many algorithms for background modeling, a distribution over feature values is modeled at each pixel. These models, however, do not account for the dependencies that may exist among nearby pixels. The joint domain-range kernel density estimate (KDE) model by Sheikh and Shah, which is not a pixel-wise model, represents the background and foreground processes by combining the three color dimensions and two spatial dimensions into a five-dimensional joint space. The Sheikh and Shah model, as we will show, has a peculiar dependence on the size of the image. In contrast, we build three-dimensional color distributions at each pixel and allow neighboring pixels to influence each s distributions. Our model is easy to interpret, does not exhibit the dependency on image size, and results in higher accuracy. Also, unlike Sheikh and Shah, we build an explicit model of the prior probability of the background and the foreground at each pixel. Finally, we use our adaptive kernel variance method to adapt the KDE covariance at each pixel. With a simpler and more intuitive model, we can better interpret and visualize the effects of the adaptive kernel variance method, while achieving accuracy comparable to state-of-the-art on a standard backgrounding benchmark.other
+
+	Tracking with Distribution Fields
+
+Link to Paper Link to Project Page
+
+In this work, we exhibit our first major application of distribution fields (see below). We show that simply by "exploding" the representation of an image into a distribution field, and then using more-or-less standard blurring techniques, we can achieve state-of-the-art tracking results.
+
+	Joint Alignment and Clustering
+
+Link to Paper
+
+Joint alignment of a collection of functions is the process of independently transforming the functions so that they appear more similar to each other. Typically, such unsupervised alignment algorithms fail when presented with complex data sets arising from multiple modalities or make restrictive assumptions about the form of the functions or transformations, limiting their generality. We present a transformed Bayesian infinite mixture model that can simultaneously align and cluster a data set. Our model and associated learning scheme offer two key advantages: the optimal number of clusters is determined in a data-driven fashion through the use of a Dirichlet process prior, and it can accommodate any transformation function parameterized by a continuous parameter vector. As a result, it is applicable to a wide range of data types, and transformation functions. We present positive results on synthetic two-dimensional data, on a set of one-dimensional curves, and on various image data sets, showing large improvements over previous work. We discuss several variations of the model and conclude with directions for future work.
+
+	Distribution Fields: A Representation for Low-Level Vision Problems
+
+Link to Paper
+
+We are developing a new representation, called distribution fields, and an associated set of algorithms, to address certain issues in low-level vision problems. One of our goals is to come up with a single representation that can be used to achieve state-of-the-art results on many different low-level problems such as tracking, optical flow, image registration, affine covariant matching, image stitching, and background subtraction. Another goal is to combine the best properties of successful representations such as SIFT, HOG, geometric blur, mean shift descriptors, shape contexts, image pyramids, and other successful techniques. Finally, we want a method of comparing images that is probabilistic and easily interpretable. We think that distribution fields, and our alignment method, which we call the sharpening match are a good start towards achieving these goals.
+
+	Learning Hierarchical Representations for Face Verification
+
+Link to Paper
+
+Most modern face recognition systems rely on a feature representation given by a hand-crafted image descriptor, such as Local Binary Patterns (LBP), and achieve improved performance by combining several such representations. In this paper, we propose deep learning as a natural source for obtaining additional, complementary representations. To learn features in high-resolution images, we make use of convolutional deep belief networks. Moreover, to take advantage of global structure in an object class, we develop local convolutional restricted Boltzmann machines, a novel convolutional learning model that exploits the global structure by not assuming stationarity of features across the image, while maintaining scalability and robustness to small misalignments. We also present a novel application of deep learning to descriptors other than pixel intensity values, such as LBP. In addition, we compare performance of networks trained using unsupervised learning against networks with random filters, and empirically show that learning weights not only is necessary for obtaining good multi-layer representations, but also provides robustness to the choice of the network architecture parameters. Finally, we show that a recognition system using only representations obtained from deep learning can achieve comparable accuracy with a system using a combination of hand-crafted image descriptors. Moreover, by combining these representations, we achieve state-of-the-art results on a real-world face verification database.
+
+	Online Domain Adaptation of a Pre-Trained Cascade of Classifiers
+
+Link to Paper
+
+Many classifiers are trained with massive training sets only to be applied at test time on data from a different distribution. How can we rapidly and simply adapt a classifier to a new test distribution, even when we do not have access to the original training data? We present an on-line approach for rapidly adapting a "black box" classifier to a new test data set without retraining the classifier or examining the original optimization criterion. Assuming the original classifier outputs a continuous number for which a threshold gives the class, we reclassify points near the original boundary using a Gaussian process regression scheme. We show how this general procedure can be used in the context of a classifier cascade, demonstrating performance that far exceeds state-of-the-art results in face detection on a standard data set. We also draw connections to work in semi-supervised learning, domain adaptation, and information regularization.
+	Congealing of Complex Images (trying moving your mouse over the image at left)
+
+Link to Project Page
+
+Many recognition algorithms depend on careful positioning of an object into a canonical pose, so the position of features relative to a fixed coordinate system can be examined. Currently, this positioning is done either manually or by training a class-specialized learning algorithm with samples of the class that have been hand-labeled with parts or poses. In this paper, we describe a novel method to achieve this positioning using poorly aligned examples of a class with no additional labeling. Given a set of unaligned examplars of a class, such as faces, we automatically build an alignment mechanism, without any additional labeling of parts or poses in the data set. Using this alignment mechanism, new members of the class, such as faces resulting from a face detector, can be precisely aligned for the recognition process. Our alignment method improves performance on a face recognition task, both over unaligned images and over images aligned with a face alignment algorithm specifically developed for and trained on hand-labeled face images. We also demonstrate its use on an entirely different class of objects (cars), again without providing any information about parts or pose to the learning algorithm.
+
+	Scene Text Recognition
+
+Link to Paper
+
+Scene text recognition (STR) is the recognition of text anywhere in the environment, such as signs and store fronts. Relative to document recognition, it is challenging because of font variability, minimal language context, and uncontrolled conditions. Much information available to solve this problem is frequently ignored or used sequentially. Similarity between character images is often overlooked as useful information. Because of language priors, a recognizer may assign different labels to identical characters. Directly comparing characters to each other, rather than only a model, helps ensure that similar instances receive the same label. Lexicons improve recognition accuracy but are used post hoc. We introduce a probabilistic model for STR that integrates similarity, language properties, and lexical decision. Inference is accelerated with sparse belief propagation, a bottom-up method for shortening messages by reducing the dependency between weakly supported hypotheses. By fusing information sources in one model, we eliminate unrecoverable errors that result from sequential processing, improving accuracy. In experimental results recognizing text from images of signs in outdoor scenes, incorporating similarity reduces character recognition error by 19%, the lexicon reduces word recognition error by 35%, and sparse belief propagation reduces the lexicon words considered by 99.9% with a 12X speedup and no loss in accuracy.
+
+	Recognition from One Example using Hyper-Features
+
+Link to Project Page
+
+In this project, we attempt to solve the problem of object identification, which is specialized recognition where the category is known (for example cars or faces) and the algorithm recognizes an object's exact identity (such as Bob's BMW). For example, we might be given images of cars like those on the left side of the figure and be asked to find which of the four cars on right are the same as either of the two on the left.
+
+See Andras Ferencz's web-site for more about this project here. This work is a continuation of Andras Ferencz's thesis work at Berkeley.
+	Congealing for Automatic Alignment
+
+Link to Project Page
+
+I recently developed a process I call congealing , which is a way of aligning a group of objects simultaneously , using an entropy minimization procedure. This can be used to perform traditional "preprocessing" tasks such as deskewing, centering etc. Try moving your mouse over the images of handwritten zeroes at left. As you do, the results of the congealing are shown. Notice that the zeroes have been "normalized" to be much more similar to each other.
+
+In my Ph.D. thesis, I extended congealing to gray-scale images and other multi-valued images, and to one-dimensional, three-dimensional, and four-dimensional data sets, including 3-D brain volumes.
+
+Currently, our goal is to extend congealing to more complex features (than single pixel features) such as Lowe's SIFT descriptors. Then this method can be applied to aligning complex images such as faces on arbitrary backgrounds.
+
+	Dexter
+
+Link to Project Page
+
+One of the most basic capabilities for an agent with a vision system is to recognize its own surroundings. Yet surprisingly, despite the ease of doing so, many robots store little or no record of their own visual surroundings. This paper explores the utility of keeping the simplest possible persistent record of the environment of a stationary torso robot, in the form of a collection of images captured from various pan-tilt angles around the robot. We demonstrate that this particularly simple process of storing background images can be useful for a variety of tasks, and can relieve the system designer of certain requirements as well. We explore three uses for such a record: auto-calibration, novel object detection with a moving camera, and developing attentional saliency maps.
+
+	Text Recognition
+
+Link to Project Page
+
+The goal of this project is to design and build a wearable system for the visually impaired that will detect signs in an image and recognize them. We hypothesize that at a low level signs fall into particular class of textures that are distinguishable from many others that may be found in natural scenes. Therefore, discriminating textures will be the first step toward extracting and eventually identifying signs. Other work has focused exclusively on detecting and tracking text in images and video. Even those signs that consist purely of text are often in unusual fonts and/or arrangements that pose challenges to traditional text detectors. More importantly, many signs consist of recognizable logos that contain no text at all. We investigate whether all of these regions can be identified at a low level in an integrated model.
+
+	RADICAL, a New ICA Algorithm
+
+Link to Project Page
+
+There has been a great deal of new work recently on the problem of Independent Components Analysis (ICA). A variety of new and interesting methods have emerged including Kernel ICA (Bach and Jordan), a method by Hastie and Tibshirani at Stanford, and other methods. I have my own new ICA algorithm, called RADICAL, which I developed with John Fisher at MIT.
+
+On synthetic experiments across a wide range of source densities, RADICAL is more accurate than every other algorithm we tested, including Kernel ICA, Fast ICA, extended Infomax, and JADE. It also appears to be very robust to outliers. You can find out more from our recent paper in the Journal of Machine Learning Research here. Or check out the web page for the algorithm here, from which a MATLAB version of RADICAL can be downloaded.
+
+	Learned Color Constancy
+
+One tricky thing about objects, especially white objects, is that they can "appear" as almost any color. A white object in the early morning looks rather bluish but in the mid-day sun may look yellower and during a sunset might appear pink. How then can we use color to help us, rather than hinder us, in object recognition? Traditional approaches to this difficulty have often involved estimating the illuminant, after which one can "correct" the image to appear as if under a standard illuminant.
+
+Collaborating with Kinh Tieu at MIT, we sidestepped the problem of illuminant estimation by modeling only how colors commonly change together under natural lighting changes. Two images can then be inferred to represent the same object if there is a statistically common mapping between the colors of the two images. We report on this method and its applications in an ICCV paper and in this NIPS paper.
+
+The image at left shows how plausible novel images of an object can be synthesized from joint color changes learned from a totally different object. The synthesized images were generated with only a single example image, and with no a priori or built in knowledge of lighting statistics, optics, or the physics of illumination.
+	Screening for Acromegaly
+
+
+
+The panel on the left shows three photographs of a woman who developed a condition known as acromegaly. The first picture is shown when she is young and symptom-free. The second and third photos show the progress of the disease over time. This condition results from an excess of growth hormone, and causes disfiguring growth of the bones of the skull and swelling of the face, hands, and feet. Our goal in this project is to detect acromegaly automatically from generic photographs so that it can be diagnosed earlier, leading to better clinical outcomes. In collaboration with Volker Blanz and others, we have developed a classification system which prescreens patients for acromegaly.
+
+This project was originally conceived by my father, Dr. Ralph E. Miller, who practices endocrinology in Lexington, Kentucky. Qifeng (Luke) Lu at UMass has been a major contributor as well.
+
+
+	Mathematical Expression Recognition
+
+Suppose you wanted to scan in a mathematical expression from a book and have it automatically converted to LaTeX, or write an expression on a pen-based computer and have it automatically read and evaluated. Paul Viola and I wrote a paper describing our early system for recognition. Nick Matsakis continued the work and got a great system working. For a demo of Nick's new and improved system, click on the picture at right.
+	MR Bias Correction
+
+
+
+The goal of magnetic resonance (MR) imaging is to form images of patient anatomy for diagnosis and other analyses. Often these images exhibit brightness distortions due to imperfections in the measurement apparatus. The goal of this work is to eliminate these imperfections from MR images. Previous approaches have been model-based (Wells) or have operated on a single image to reduce brightness entropies (Viola). Our method reduces entropies ACROSS images, using information about the distribution of brightness values at a particular location.
+
+On the left are two sets of MR images of infant brains. The top set of images shows the brightness biases due to the scanner imperfections. The other set shows the images after correction by our algorithm. I have a NIPS paper with Parvez Ahammad that describes this work in detail here.
+
+	Near Uniform Partitions
+
+
+
+Near uniform partitions are a technique for dividing a probability space, using only a set of random samples from that space, into chunks of approximately equal probability measure, or into chunks whose probability measure is approximately linear in the number of constituent subregions. The figure at left shows how samples from a two-dimensional Gaussian distribution can be used to split the Gaussian up into chunks whose probability masses are approximately linear in the number of subregions. Notice that regions in area of high density are smaller, and regions in area of low density are larger, resulting in a near uniform mass for each region. Near uniform partitions can be used in estimation of information theoretic quantities such as entropy, mutual information, and Kullback-Leibler divergence. They can also be used in hypothesis testing. For a discussion of their use in entropy estimation, see this short ICASSP paper.
+
+	Probability Distributions on Curved Manifolds
+
+
+
+Christophe Chefd'hotel and I developed kernels for these curved spaces, allowing us to obtain better probability density estimates for these "shape" spaces. This work is described in a CVPR paper here. The figure at right shows conceptually that a direct "Euclidean distance" between points is not always appropriate in a curved space.
+Most non-parametric probability density estimators, which estimate a probability density from a set of sample points, are used in Euclidean spaces with standard Euclidean probability densities like the multidimensional Gaussian distribution. Certain spaces, however, like the set of linear image deformations (represented by 2x2 matrices) are more naturally described by a curved space. Hence, modeling densities on such spaces using mixtures of Gaussian distributions is not appropriate.
+
+	Masters Thesis: Improved Surface Area Estimates Using Alternative Voxel Shapes
+
+
+
+Check out my Master's Thesis if you're a fan of stochastic geometry. It addresses the advantages and disadvantages of using various voxel shapes (other than the standard rectangular prisms) to tessellate 3-D space.
+
+
+
+

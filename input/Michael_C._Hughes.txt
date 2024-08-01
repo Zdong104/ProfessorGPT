@@ -1,0 +1,241 @@
+Professor: Michael C. Hughes
+University: Tufts University
+URL: https://www.michaelchughes.com/
+Description: Michael C. Hughes
+Papers
+CV
+Bio
+Research
+Courses
+Join my Lab
+Mike Hughes - Machine Learning Research
+
+Welcome! My research spans statistical machine learning and its applications in healthcare and the sciences.
+
+I am an Assistant Professor in the Dept. of Computer Science at Tufts University and a primary faculty member for the Tufts Machine Learning research group. Previously, I was a postdoctoral fellow in computer science at Harvard SEAS, advised by Prof. Finale Doshi-Velez. I completed my Ph.D. in Computer Science at Brown University, advised by Prof. Erik Sudderth (now at UC-Irvine).
+
+Research Highlights
+
+First, my lab pursues methodological advances in statistical machine learning:
+
+probabilistic models for multivariate time-series (see papers from NeurIPS 2021 or AOAS 2014)
+semi-supervised learning with generative models (AISTATS 2018, Time Series Workshop 2021, and AABI 2022)
+optimizing early warning classifiers to control false alarms (AISTATS 2022)
+optimizing deep learning to be more interpretable (AAAI 2020 and AAAI 2018)
+generalizing to new subjects given limited data (UIST 2021 and NeurIPS datasets track 2021)
+generalizing across dataset shifts (MLHC 2019)
+Bayesian nonparametrics for adapting model complexity (BNPy Python package and NeurIPS 2015)
+
+Second, I pursue high-impact clinical and scientific applications of these techniques:
+
+automating preliminary diagnosis of heart disease using echocardiograms (MLHC '21, J Am Soc Echo '23)
+predicting patient risks in the Intensive Care Unit (ICU) (CHIL '20 paper and MIMIC-Extract code)
+recommending stable antidepressants personalized to patients (JAMA Network Open 2020)
+forecasting demand for hospital resources during the COVID-19 pandemic (MLHC '21)
+
+For more, see my Research page
+
+News
+[Mar 2024] Paper on semi-supervised and self-supervised learning accepted at CVPR 2024
+arXiv paper
+Led by PhD students Zhe Huang (Tufts CS) and Ruijie Jiang (Tufts ECE)
+[Dec 2023] Work on extrapolating classifier performance at ML4H 2023
+Link to Paper PDF
+Led by PhD student Ethan Harvey
+[Aug 2023] Work on multiple instance learning at MLHC 2023
+Paper: Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning
+Led by PhD student Zhe Huang
+[Apr 2023] Fix-A-Step paper selected for oral presentation at AISTATS '23 (top 2% of 1500+ reviewed papers)
+Paper: Fix-A-Step: Effective Semi-supervised Learning from Uncurated Data
+Led by PhD student Zhe Huang
+Key contributions from undergraduate Mary-Joy Sidhom
+[Jan 2023] Clinical journal publication on automated diagnosis of heart valve disease
+We present a deep learning method for predicting the severity of a common heart valve disease called aortic stenosis given images from a routine echocardiogram
+We have careful validation both in a new temporal cohort at Tufts and another external cohort of 8500+ images
+We've also released an open-access dataset: TMED-2
+Among many great co-authors, I especially credit
+Zhe Huang, PhD student : lead the computational aspects
+Ben Wessler, MD: cardiologist leading the project
+[Nov 2022] Three papers at upcoming workshops at NeurIPS '22
+Kyle Heuton presents a new Gaussian process model for spatiotemporal forecasting of opioid-related overdose deaths
+Preetish Rath presents a new probabilistic approach for predicting patient outcomes from semi-supervised medical time series with missing features
+Zhe Huang presents a new way to train semi-supervised deep classifiers for medical images even when unlabeled data differs from labeled data
+Our method, Fix-A-Step, is described in a longer preprint on arXiv
+Includes new Heart2Heart benchmark for evaluating models trained in US on patients from France/UK
+[July 2022] Paper at ICML 2022
+Easy Variational Inference for Categorical Models via an Independent Binary Approximation
+Led by Mike Wojnowicz, a data scientist at Tufts DISC
+
+Linear models with categorical outcomes can be tough to fit in Bayesian fashion, especially when number of categories are large. We show how classic Bayesian auxiliary variable methods (probit, logit) for one-hot binary models can be justified as principled surrogates of a new class of truly one-of-K categorical models via a likelihood bound. While it has been common for decades to train many simple binary classifiers via a "one vs rest" (aka one vs all) paradigm, the statistical justification for this choice has often been questioned. This work offers a firm foundation for why this independent binary approximation may be successful.
+
+[Feb 2022] Paper at AISTATS 2022
+Optimizing Early Warning Classifiers to Control False Alarms via a Minimum Precision Constraint
+Led by PhD student Preetish Rath
+See this Twitter thread overview
+[Dec 2021] Two papers on time series appearing at NeurIPS 2021
+Dynamical Wasserstein Barycenters for Time-Series Modeling [PDF]
+Led by Tufts EE PhD student Kevin Cheng (co-advised)
+In the Datasets Track: The Tufts fNIRS Mental Workload Dataset & Benchmark for Brain-Computer Interfaces that Generalize [PDF]
+Led by Tufts CS PhD student Zhe Huang
+Featured in an article on Tufts Now (Feb '22)
+[Aug 2021] Two papers from HughesLab appearing at MLHC 2021
+Approximate Bayesian Computation for an Explicit-Duration Hidden Markov Model of COVID-19 Hospital Trajectories [PDF]
+This is a new model for forecasting daily demand for hospital beds from COVID-19 patients.
+Led by first author Gian Marco Visani (Tufts CS undergrad '21)
+With key help two other student co-authors: Ally Lee and Cuong Nguyen
+With two collaborators from Tufts Medical Center: David Kent, MD and John Wong, MD (both clinician-researchers)
+With one collaborator from the Center for the Evaluation of Value and Risk in Health at TMC: Josh Cohen , a researcher in applied math/decision sciences/health economics
+A New Semi-supervised Learning Benchmark for Classifying View and Diagnosing Aortic Stenosis from Echocardiograms [PDF]
+This is a new dataset release in pursuit of two goals: (1) improved early detection of heart disease (aortic stenosis) and (2) improved methods that can learn from both limited labeled datasets and abundant uncurated unlabeled data via semi-supervised learning
+Data and code available at https://TMED.cs.tufts.edu
+Led by first author Zhe Huang (Tufts CS Ph.D. student)
+With co-PI and key collaborator from Tufts Medical Center: Dr. Ben Wessler, MD
+[July 2021] New preprint on easy conjugate Bayesian methods for categorical data
+Will be at the Tractable Probabilistic Modeling (TPM) workshop (co-located with UAI) to present our paper on Easy Variational Inference for Categorical Observations via a New View of Diagonal Orthant Probit Models, led by Mike Wojnowicz (Tufts DISC)
+[July 2021] Three papers accepted to workshops at ICML
+Will be at the Interpretable Machine Learning for Healthcare (IMLH) workshop to present our paper on Optimizing Clinical Early Warning Systems to Meet False Alarm Constraints, led by Ph.D. student Preetish Rath
+Will be at the Uncertainty and Robustness in Deep Learning (UDL) workshop to present our paper on Evaluating the Use of Reconstruction Error for Novelty Localization, led by Ph.D. student Patrick Feeney
+Will be at the Time Series Workshop (TSW) to present our paper on Prediction-Constrained Hidden Markov Models for Semi-Supervised Classification, led by UC-Irvine Ph.D. student Gabe Hope. UPDATE: Gabe's poster received the Best Poster award at the TWS workshop!
+[July 2021] Work on Graph Matching accepted at ICML 2021
+Check out our paper on Stochastic Iterative Graph Matching (SIGMA) a probabilistic approach to finding a correspondence between the nodes of two similar graphs, with several collaborators from Tufts CS: Ph.D. student Linfeng Liu and faculty colleagues Soha Hassoun and Liping Liu
+Cool evaluations on applications from systems biology and computer vision
+[Apr 2021] New work on probabilistic models for COVID-19 forecasting, with collaborators from Tufts Medical Center
+Preprint on a new ACED-HMM model for COVID-19 hospitalized patient trajectories , led by first author Gian Marco Visani (Tufts CS undergrad '21)
+Workshop paper on COVID-19 patient count forecasting at a single hospital, led by first author Alexandra Lee (Tufts CS undergrad '20)
+[Dec 2020] Invited Talk at I Can't Believe It's Not Better Workshop at NeurIPS 2020
+I'll be an invited speaker at the I Can't Believe It's Not Better! Workshop at NeurIPS 2020
+I'll talk about our recent work on Prediction Constrained training, covering in progress work (Hope et al. arXiv 2020) as well as recent publications at AISTATS 2018 and AISTATS 2020.
+Video recording
+Slides: The Case For Prediction Constrained Training [PDF]
+[May 2020] Paper applying our latest ML methods to psychiatry accepted to JAMA Network Open
+Assessment of a Prediction Model for Antidepressant Treatment Stability Using Supervised Topic Models
+Read this to understand how to use our latest prediction-constrained topic models to recommending personalized antidepressants.
+Full paper and supplement available at jamanetwork.com
+Special thanks to awesome clinical collaborators Roy Perlis MD and Tom McCoy MD.
+[Jan 2020] Paper accepted at AISTATS 2020
+POPCORN: Partially Observed Prediction-Constrained Reinforcement Learning by Joseph Futoma, Michael C. Hughes, and Finale Doshi-Velez
+[Dec 2019] Two papers accepted at AABI 2019
+Amortized Variational Inference for Rapid Model Comparison , with first author Lily Zhang
+Challenges in Computing and Optimizing Upper Bounds of Marginal Likelihood based on Chi-Square Divergences , with Melanie F. Pradier and Finale Doshi-Velez
+[Nov 2019] Paper Accepted at AAAI 2020
+Regional Tree Regularization for Interpretability in Deep Neural Networks
+[Aug 2019] Paper Accepted at MLHC 2019
+Feature Robustness in Non-stationary Health Records: Caveats to Deployable Model Performance in Common Clinical Machine Learning Tasks
+[June 2019] Invited Talk at BNP 12
+"Scalable and Reliable Variational Inference for Dirichlet Process Clustering with Sparse Assignments"
+Venue: 12th International Conference on Bayesian Nonparametrics
+[Dec 2018] Two short papers accepted to workshops at NeurIPS 2018
+Prediction-Constrained POMDPs at RLPO @ NeurIPS2018
+Rethinking clinical prediction: Why machine learning must consider year of care and feature aggregation at ML4Health @ NeurIPS 2018
+[Aug 2018] I'm organizing 2 Workshops at NeurIPS 2018:
+All of Bayesian Nonparametrics (BNP @ NeurIPS 2018)
+Machine Learning for Health (ML4H @ NeurIPS 2018)
+
+Please consider submitting a short paper!
+
+[Aug 2018] I'll present a tutorial -- "Machine Learning for Clinicians: Advances for Multi-Modal Health Data" -- at MLHC 2018.
+
+Goal: make healthcare professionals aware of the latest tools from ML and help them be research effective collaborators. Please visit the Tutorial Website (with outline, slides, and full bibliography).
+
+[Aug 2018] I have joined the faculty at Tufts' Computer Science Department!
+
+I'm actively looking for students (ugrad and Ph.D.) for various research projects. Please contact me if interested.
+
+[Apr 2018] Best Paper Award at SoCalNLP 2018
+
+Our winning 2-page short paper was a compact summary of our AISTATS 2018 paper: Semi-Supervised Prediction-Constrained Topic Models. Thanks to co-author Gabe for presenting the work, to the SoCal NLP organizers for hosting, and to Amazon for sponsoring the award.
+
+[Jan 2018] Paper accepted to AISTATS 2018.
+
+Our paper -- Semi-Supervised Prediction-Constrained Topic Models -- describes a new framework for training topic models and other latent variable models to improve supervised predictions while still providing good generative models with interpretable topics. The new approach fixes core issues with past methods like sLDA, and shines especially in semi-supervised tasks, when only a small fraction of training examples are labeled.
+
+[Dec 2017] Presenting at NIPS 2017 Workshops
+
+• Poster: Prediction-constrained Topic Models for Antidepressant Recommendation at ML for Health Workshop (NIPS ML4H 2017)
+
+• Poster and Talk (by Mike Wu): Optimizing deep models with tree-regularization at Transparent and Interpretable ML workshop (NIPS TIML 2017) (will also appear in AAAI '18)
+
+[Nov 2017] Paper accepted to AAAI 2018.
+
+Beyond Sparsity: Tree Regularization of Deep Models for Interpretability [PDF]
+
+Our paper describes a new regularization method to optimize recurrent neural networks to have more interpretable decision boundaries (closer to the decision trees that clinicians like).
+
+[Nov 2017] Invited talk at MIT Lincoln Laboratory
+
+"Optimizing Machine Learning Models for Clinical Interpretability"
+
+Slides: [slides.pdf, 5 MB]
+
+[Sep 2017] Organizing Machine Learning for Health (ML4H) workshop at NIPS 2017
+
+Please submit some awesome papers!
+
+[Mar 2017] Presented paper on ICU intervention prediction at AMIA CRI '17
+
+Nominated for Clinical Informatics Research Award (1 of 7 nominees)
+
+paper [PDF] • slides [PDF]
+
+[Feb 2017] Invited talk on BNPy at Boston Bayesians meetup
+
+Event website and talk abstract
+
+Slides from my talk: [slides.pptx, 73 MB] [slides.pdf, 23 MB]
+
+[Dec 2016] BNPy software tutorial at NIPS 2016 workshop
+
+Slides from my talk: [slides.pptx] [slides.pdf]
+
+New: BNPy project website with example gallery
+
+[Dec 2016] Posters at NIPS 2016 Workshops
+
+Fast per-document inference for supervised topic models at ML for Health workshop.
+
+HDP models for natural images at Practical BNP workshop.
+
+[Sep 2016] Organizing Workshop at NIPS '16: Practical Bayesian Nonparametrics
+
+Please consider submitting to our workshop: https://sites.google.com/site/nipsbnp2016/
+
+[Aug 2016] Started post-doc at Harvard
+
+You can now find me at my new office in Maxwell-Dworkin (MD 209).
+
+[May 2016] Successful Ph.D. defense!
+
+Many thanks to family and friends who supported me along the way.
+
+[Jan 2016] Invited talks on my thesis.
+
+I visited several research groups at Northeastern, U. Washington, and MIT to discuss results from my thesis work trying to make effective variational inference for clustering that scales to millions of examples. [slides PDF] [slides PPTX]
+
+[Dec 2015] Invited talk at NIPS 2015 workshop.
+
+I gave an invited talk at the Bayesian Nonparametrics: The Next Generation workshop about my thesis work building effective variational inference for models based on the Dirichlet process and its hierarchical variants. [slides PDF]
+
+[Sept 2015] Paper accepted at NIPS 2015.
+
+Our paper [PDF] describes a new algorithm for Bayesian nonparametric hidden Markov models that can handle hundreds of sequences and add or remove hidden states during a single training run.
+
+[May 2015] Paper accepted at AISTATS 2015.
+
+Our paper [PDF] describes a new algorithm for topic models that can effectively remove redundant or junk topics during a single training run.
+
+Mike Hughes
+mike@michaelchughes.com
+Twitter: @mike_c_hughes
+
+Assistant Professor
+Dept. of Computer Science
+Tufts University
+
+Office: Halligan 210
+
+Tufts ML Research Group
+
+© Michael C. Hughes · Powered by pelican-bootstrap3, Pelican, Bootstrap
+
+ Back to top
+

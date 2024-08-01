@@ -1,0 +1,431 @@
+Professor: Jesse Thomason
+University: University of Southern California
+URL: https://jessethomason.com/
+Description: News
+ | 
+Group
+ | 
+Teaching
+ | 
+Papers
+Grounding Language in Actions, Multimodal Observations, and Robots
+
+
+Jesse Thomason
+
+I lead the GLAMOR Lab at USC. My research brings together natural language processing and robotics to connect language to the world (RoboNLP). I am interested in connecting language to agent perception and action, and lifelong learning through interaction.
+
+Assistant Professor @
+University of Southern California
+	
+jessetho🙃usc.edu
+
+I am not hiring new PhD students.
+
+Thomas Lord Department of Computer Science
+	
+CS PhD FAQ
+
+   
+News
+
+Featured Research
+  Scientific American	Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?	website	March 2024
+ 	 	 	 
+Invited Talk
+  University of Utah	@ Utah Robotics Center Seminar: Language Guided Robots	slides	January 2024
+ 	 	 	 
+Invited Talk
+  NeurIPS	6th Robot Learning Workshop: LPTMs Can Help Robots Without Ignoring Robotics	websiteslides	December 2023
+ 	 	 	 
+Invited Talk
+  CMU	LTI Colloquium: Using Large Models as Duct Tape, Not Hammers	websiteslidesvideo	October 2023
+ 	 	 	 
+Show more...
+Teaching
+CSCI 499: Natural Language Processing for Interactive AI
+details
+
+
+CSCI 699: History of Language and Computing
+details
+
+
+CSCI 566: Deep Learning and its Applications
+details
+
+
+CSCI 699: Grounding Natural Language
+details
+
+
+Papers and Preprints
+
+search by category:
+language and vision | language and robotics | physical robots | vln | benchmark | dialogue | neurosymbolic | language and action | language and planning | continual learning | evaluation | interpretability | sign language | semantic parsing | speech recognition
+Show All
+2024
+ViSaRL: Visual Reinforcement Learning Guided by Human Saliency
+Anthony Liang, Jesse Thomason, and Erdem Biyik.
+Intelligent Robots and Systems (IROS), 2024.
+categories: physical robots
+conference paperbib
+Selective "Selective Prediction": Reducing Unnecessary Abstention in Vision-Language Reasoning
+Tejas Srinivasan, Jack Hessel, Tanmay Gupta, Bill Yuchen Lin, Yejin Choi, Jesse Thomason, and Khyathi Raghavi Chandu.
+Findings of Association for Computational Linguistics (ACL Findings), 2024.
+categories: neurosymbolic, language and vision
+conference paperbib
+Generating Contextually-Relevant Navigation Instructions for Blind and Low Vision People
+Zain Merchant, Abrar Anwar, Emily Wang, Souti Chattopadhyay, and Jesse Thomason.
+International Conference on Robot and Human Interactive Communication (RO-MAN) Late Breaking Report, 2024.
+categories: language and robotics, physical robots, evaluation
+workshop paperbib
+The COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation
+Wilbert Pumacay, Ishika Singh, Jiafei Duan, Ranjay Krishna, Jesse Thomason, and Dieter Fox.
+Robotics: Science and Systems (RSS), 2024.
+categories: benchmark, evaluation, physical robots
+conference paperbib
+Contrast Sets for Evaluating Language-Guided Robot Policies
+Abrar Anwar, Rohan Gupta, and Jesse Thomason.
+arXiv, 2024.
+categories: language and robotics, physical robots, evaluation
+preprint paperbib
+When Parts are Greater Than Sums: Individual LLM Components Can Outperform Full Models
+Ting-Yun Chang, Jesse Thomason, and Robin Jia.
+arXiv, 2024.
+categories: interpretability
+preprint paperbib
+Language Models can Infer Action Semantics for Classical Planners from Environment Feedback
+Wang Zhu, Ishika Singh, Robin Jia, and Jesse Thomason.
+arXiv, 2024.
+categories: language and planning, neurosymbolic
+preprint paperbib
+TwoStep: Multi-agent Task Planning using Classical Planners and Large Language Models
+Ishika Singh, David Traum, and Jesse Thomason.
+arXiv, 2024.
+categories: neurosymbolic, language and planning
+preprint paperwebsitebib
+Which One? Leveraging Context Between Objects and Multiple Views for Language Grounding
+Chancharik Mitra, Abrar Anwar, Rodolfo Corona, Dan Klein, Trevor Darrell, and Jesse Thomason.
+North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
+categories: language and vision
+conference paperbib
+Do Localization Methods Actually Localize Memorized Data in LLMs?
+Ting-Yun Chang, Jesse Thomason, and Robin Jia.
+North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
+categories: interpretability
+conference paperbib
+Efficient End-to-End Visual Document Understanding with Rationale Distillation
+Wang Zhu, Alekh Agarwal, Mandar Joshi, Robin Jia, Jesse Thomason, and Kristina Toutanova.
+North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
+categories: neurosymbolic, language and vision
+conference paperbib
+WinoViz: Probing Visual Properties of Objects Under Different States
+Woojeong Jin, Tejas Srinivasan, Jesse Thomason, and Xiang Ren.
+Workshop on Secure and Trustworthy Large Language Models (SeT LLM) @ ICLR, 2024.
+categories: language and vision, benchmark
+workshop paperbib
+2023
+Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering
+Wang Zhu, Jesse Thomason, and Robin Jia.
+Empirical Methods in Natural Language Processing (EMNLP), 2023.
+categories: semantic parsing, neurosymbolic
+conference paperbib
+Task-Attentive Transformer Architecture for Continual Learning of Vision-and-Language Tasks Using Knowledge Distillation
+Yuliang Cai, Jesse Thomason, and Mohammad Rostami.
+Findings of Empirical Methods in Natural Language Processing (EMNLP Findings), 2023.
+categories: continual learning, language and vision
+conference paperbib
+Exploring Strategies for Efficient Real-World VLN Evaluation
+Abrar Anwar, Rohan Gupta, Elle Szabo, and Jesse Thomason.
+Workshop on Language and Robot Learning (LangRob) @ CoRL, 2023.
+categories: vln, language and robotics
+workshop paperbib
+The Sem-Lex Benchmark: Modeling ASL Signs and Their Phonemes
+Lee Kezar, Elana Pontecorvo, Adele Daniels, Connor Baer, Ruth Ferster, Lauren Berger, Jesse Thomason, Zed Sevcikova Sehyr, and Naomi Caselli.
+Conference on Computers and Accessibility (ASSETS), 2023.
+categories: benchmark, sign language
+conference paperbib
+Exploring Strategies for Modeling Sign Language Phonology
+Lee Kezar, Riley Carlin, Tejas Srinivasan, Zed Sevcikova Sehyr, Naomi Caselli, and Jesse Thomason.
+European Symposium on Artificial Neural Networks (ESANN), 2023.
+categories: sign language, continual learning
+conference paperbib
+RREx-BoT: Remote Referring Expressions with a Bag of Tricks
+Gunnar Sigurdsson, Jesse Thomason, Gaurav Sukhatme, and Robinson Piramuthu.
+Intelligent Robots and Systems (IROS), 2023.
+categories: language and robotics, physical robots, vln
+conference paperbib
+ProgPrompt: Program generation for situated robot task planning using large language models
+Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, and Animesh Garg.
+Autonomous Robots (AURO), 2023.
+categories: physical robots, language and planning, language and robotics
+journal papercoveragebib
+I2I: Initializing Adapters with Improvised Knowledge
+Tejas Srinivasan, Furong Jia, Mohammad Rostami, and Jesse Thomason.
+Conference on Lifelong Learning Agents (CoLLAs), 2023.
+categories: language and vision, continual learning
+conference paperbib
+Multimodal Speech Recognition for Language-Guided Embodied Agents
+Allen Chang, Xiaoyuan Zhu, Aarav Monga, Seoho Ahn, Tejas Srinivasan, and Jesse Thomason.
+Annual Conference of the International Speech Communication Association (INTERSPEECH), 2023.
+categories: language and vision, speech recognition
+conference paperbib
+Iterative Vision-and-Language Navigation
+Jacob Krantz, Shurjo Banerjee, Wang Zhu, Jason J. Corso, Peter Anderson, Stefan Lee, and Jesse Thomason.
+Computer Vision and Pattern Recognition (CVPR), 2023.
+categories: continual learning, vln
+conference paperwebsitebib
+Does VLN Pretraining Work with Nonsensical or Irrelevant Instructions?
+Wang Zhu, Ishika Singh, Yuan Huang, Robin Jia, and Jesse Thomason.
+Workshop on Open-Domain Reasoning Under Multi-Modal Settings (ODRUM) @ CVPR, 2023.
+categories: vln, language and vision
+workshop paperbib
+Curriculum Learning for Data-Efficient Vision-Language Alignment
+Tejas Srinivasan, Xiang Ren, and Jesse Thomason.
+Workshop on Open-Domain Reasoning Under Multi-Modal Settings (ODRUM) @ CVPR, 2023.
+categories: language and vision
+workshop paperbib
+ProgPrompt: Generating Situated Robot Task Plans using Large Language Models
+Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, and Animesh Garg.
+International Conference on Robotics and Automation (ICRA), 2023.
+categories: language and robotics, physical robots, language and planning
+conference paperwebsitecoveragebib
+Improving Sign Recognition with Phonology
+Lee Kezar, Jesse Thomason, and Zed Sevcikova Sehyr.
+European Chapter of the Association for Computational Linguistics (EACL), 2023.
+categories: language and vision, sign language
+conference paperbib
+Geolocated Social Media Posts are Happier: Understanding the Characteristics of Check-in Posts on Twitter
+Julie Jiang, Jesse Thomason, Francesco Barbieri, and Emilio Ferrara.
+Web Sciences (WebSci), 2023.
+categories: language and vision
+conference paperbib
+Multimodal embodied attribute learning by robots for object-centric action policies
+Xiaohan Zhang, Saeid Amiri, Jivko Sinapov, Jesse Thomason, Peter Stone, and Shiqi Zhang.
+Autonomous Robots (AURO), 2023.
+categories: language and robotics
+journal paperbib
+2022
+CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation
+Vishnu Sashank Dorbala, Gunnar Sigurdsson, Robinson Piramuthu, Jesse Thomason, and Gaurav Sukhatme.
+Workshop on Language and Robot Learning (LangRob) @ CoRL, 2022.
+categories: vln
+workshop paperbib
+ALFRED-L: Investigating the Role of Language for Action Learning in Interactive Visual Environments
+Arjun Akula, Spandana Gella, Aishwarya Padmakumar, Mahdi Namazifar, Mohit Bansal, Jesse Thomason, and Dilek Hakkani-Tur.
+Empirical Methods in Natural Language Processing (EMNLP), 2022.
+categories: vln, language and action
+conference paperbib
+Generalization Differences between End-to-End and Neuro-Symbolic Vision-Language Reasoning Systems
+Wang Zhu, Jesse Thomason, and Robin Jia.
+Findings of Empirical Methods in Natural Language Processing (EMNLP Findings), 2022.
+categories: language and vision, evaluation, neurosymbolic
+conference papersourcebib
+CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks
+Tejas Srinivasan, Ting-Yun Chang, Leticia Leonor Pinto Alva, Georgios Chochlakis, Mohammad Rostami, and Jesse Thomason.
+Neural Information Processing Systems (NeurIPS), 2022.
+categories: continual learning, benchmark, language and vision
+conference papersourcebib
+VAuLT: Augmenting the Vision-and-Language Transformer with the Propagation of Deep Language Representations
+Georgios Chochlakis, Tejas Srinivasan, Jesse Thomason, and Shrikanth Narayanan.
+arXiv, 2022.
+categories: language and vision
+preprint papersourcebib
+Interactive Learning from Natural Language and Demonstrations using Signal Temporal Logic
+Sara Mohammadinejad, Jesse Thomason, and Jyotirmoy V. Deshmukh.
+arXiv, 2022.
+categories: language and planning
+preprint paperbib
+Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions
+Jing Gu, Eliana Stefani, Qi Wu, Jesse Thomason, and Xin Eric Wang.
+Association for Computational Linguistics (ACL), 2022.
+categories: language and action, vln
+conference papersourcebib
+TEACh: Task-driven Embodied Agents that Chat
+Aishwarya Padmakumar, Jesse Thomason, Ayush Shrivastava, Patrick Lange, Anjali Narayan-Chen, Spandana Gella, Robinson Piramuthu, Gokhan Tur, and Dilek Hakkani-Tur.
+Conference on Artificial Intelligence (AAAI), 2022.
+categories: language and action, dialogue, benchmark
+conference paperwebsitesourcecoveragebib
+2021
+LUMINOUS: Indoor Scene Generation for Embodied AI Challenges
+Yizhou Zhao, Kaixiang Lin, Zhiwei Jia, Qiaozi Gao, Govind Thattai, Jesse Thomason, and Gaurav Sukhatme.
+Controllable Generative Modeling in Language and Vision (CtrlGen) Workshop @ NeurIPS, 2021.
+categories: language and action
+workshop papersourcebib
+Language Grounding with 3D Objects
+Jesse Thomason, Mohit Shridhar, Yonatan Bisk, Chris Paxton, and Luke Zettlemoyer.
+Conference on Robot Learning (CoRL), 2021.
+categories: benchmark, language and vision
+conference papervideosourcebib
+Embodied BERT: A Transformer Model for Embodied, Language-guided Visual Task Completion
+Alessandro Suglia, Qiaozi Gao, Jesse Thomason, Govind Thattai, and Gaurav Sukhatme.
+Novel Ideas in Learning-to-Learn through Interaction (NILLI) Workshop @ EMNLP, 2021.
+categories: language and action
+workshop papersourcebib
+2020
+The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation
+Shurjo Banerjee, Jesse Thomason, and Jason J. Corso.
+Conference on Robot Learning (CoRL), 2020.
+categories: dialogue, physical robots, language and robotics, vln
+conference paperwebsitevideosourcecoveragebib
+Experience Grounds Language
+Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto, and Joseph Turian.
+Empirical Methods in Natural Language Processing (EMNLP), 2020.
+categories: language and vision, language and action, language and robotics
+conference papervideocoveragebib
+RMM: A Recursive Mental Model for Dialog Navigation
+Homero Roman Roman, Yonatan Bisk, Jesse Thomason, Asli Celikyilmaz, and Jianfeng Gao.
+Findings of Empirical Methods in Natural Language Processing (EMNLP Findings), 2020.
+categories: dialogue, vln
+—
+Also presented at the Third International Workshop on Spatial Language Understanding (SpLU), 2020.
+conference papersourcebib | SpLU website
+Interpreting Black Box Models via Hypothesis Testing
+Collin Burns, Jesse Thomason, and Wesley Tansey.
+Foundations of Data Science (FODS), 2020.
+categories: interpretability
+conference papersourcebib
+ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
+Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, and Dieter Fox.
+Computer Vision and Pattern Recognition (CVPR), 2020.
+categories: benchmark, language and action
+conference paperwebsitevideosourcebib
+Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog
+Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.
+The Journal of Artificial Intelligence Research (JAIR) 67, 2020.
+categories: physical robots, language and robotics, dialogue
+—
+Also presented at the IJCAI Journal Track (IJCAI), 2021.
+journal paperbib | IJCAI website
+2019
+Vision-and-Dialog Navigation
+Jesse Thomason, Michael Murray, Maya Cakmak, and Luke Zettlemoyer.
+Conference on Robot Learning (CoRL), 2019.
+categories: dialogue, vln, benchmark
+conference paperwebsitevideodemosourceposterbib
+Improving Robot Success Detection using Static Object Data
+Rosario Scalise, Jesse Thomason, Yonatan Bisk, and Siddhartha Srinivasa.
+Intelligent Robots and Systems (IROS), 2019.
+categories: language and robotics, language and vision, physical robots
+—
+Also presented at the Combined Workshop on Spatial Language Understanding & Grounded Communication for Robotics (SpLU-RoboNLP), 2019.
+conference papervideosourceslidesbib | SpLU-RoboNLP poster
+Augmenting Knowledge through Statistical, Goal-oriented Human-Robot Dialog
+Saeid Amiri, Sujay Bajracharya, Cihangir Goktolga, Jesse Thomason, and Shiqi Zhang.
+Intelligent Robots and Systems (IROS), 2019.
+categories: language and robotics, dialogue
+conference papervideoslidesbib
+Shifting the Baseline: Single Modality Performance on Visual Navigation & QA
+Jesse Thomason, Daniel Gordon, and Yonatan Bisk.
+North American Chapter of the Association for Computational Linguistics (NAACL), 2019.
+categories: vln, evaluation, language and vision
+conference paperposterbib
+Improving Grounded Natural Language Understanding through Human-Robot Dialog
+Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.
+International Conference on Robotics and Automation (ICRA), 2019.
+categories: language and robotics, physical robots, dialogue
+—
+Also presented at the SIGDIAL Special Session on Physically Situated Dialogue (RoboDIAL), 2018.
+Also presented at the RSS Workshop on Models and Representations for Natural Human-Robot Communication (MRHRC), 2018.
+conference papervideoposterbib | RoboDIAL paperRoboDIAL videoMRHRC paperMRHRC poster
+Prospection: Interpretable Plans From Language By Predicting the Future
+Chris Paxton, Yonatan Bisk, Jesse Thomason, Arunkumar Byravan, and Dieter Fox.
+International Conference on Robotics and Automation (ICRA), 2019.
+categories: language and robotics, language and planning
+conference paperbib
+2018
+Interaction and Autonomy in RoboCup@Home and Building-Wide Intelligence
+Justin Hart, Harel Yedidsion, Yuqian Jiang, Nick Walker, Rishi Shah, Jesse Thomason, Aishwarya Padmakumar, Rolando Fernandez, Jivko Sinapov, Raymond J. Mooney, and Peter Stone.
+AI-HRI AAAI Fall Symposium Series (AAAI-FSS), 2018.
+categories: language and robotics
+workshop paperbib
+Multi-modal Predicate Identification using Dynamically Learned Robot Controllers
+Saeid Amiri, Suhua Wei, Shiqi Zhang, Jivko Sinapov, Jesse Thomason, and Peter Stone.
+International Joint Conference on Artificial Intelligence (IJCAI), 2018.
+categories: language and robotics, physical robots
+conference paperbib
+Guiding Exploratory Behaviors for Multi-Modal Grounding of Linguistic Descriptions
+Jesse Thomason, Jivko Sinapov, Raymond J. Mooney, and Peter Stone.
+Conference on Artificial Intelligence (AAAI), 2018.
+categories: language and robotics
+—
+Also presented at the Workshop on Language Grounding for Robotics (RoboNLP), 2017.
+conference papersourceslidesbib | RoboNLP paperRoboNLP poster
+Maximum-Variance Total Variation Denoising for Interpretable Spatial Smoothing
+Wesley Tansey, Jesse Thomason, and James G. Scott.
+Conference on Artificial Intelligence (AAAI), 2018.
+categories: interpretability
+—
+Also presented at the ICML Workshop on Human Interpretability in Machine Learning (ICML-WHI), 2017.
+conference paperposterbib | ICML-WHI paperICML-WHI poster
+2017
+Opportunistic Active Learning for Grounding Natural Language Descriptions
+Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Justin Hart, Peter Stone, and Raymond J. Mooney.
+Conference on Robot Learning (CoRL), 2017.
+categories: language and robotics, physical robots, dialogue
+conference papervideosourceposterbib
+Improving Black-box Speech Recognition using Semantic Parsing
+Rodolfo Corona, Jesse Thomason, and Raymond J. Mooney.
+International Joint Conference on Natural Language Processing (IJCNLP), 2017.
+categories: speech recognition, semantic parsing
+conference paperposterbib
+Multi-Modal Word Synset Induction
+Jesse Thomason and Raymond J. Mooney.
+International Joint Conference on Artificial Intelligence (IJCAI), 2017.
+categories: language and vision
+conference paperposterslidesbib
+Integrated Learning of Dialog Strategies and Semantic Parsing
+Aishwarya Padmakumar, Jesse Thomason, and Raymond J. Mooney.
+European Chapter of the Association for Computational Linguistics (EACL), 2017.
+categories: dialogue, semantic parsing
+conference paperbib
+BWIBots: A platform for bridging the gap between AI and human--robot interaction research
+Piyush Khandelwal, Shiqi Zhang, Jivko Sinapov, Matteo Leonetti, Jesse Thomason, Fangkai Yang, Ilaria Gori, Maxwell Svetlik, Priyanka Khante, Vladimir Lifschitz, J. K. Aggarwal, Raymond J. Mooney, and Peter Stone.
+The International Journal of Robotics Research (IJRR), 2017.
+categories: language and robotics
+journal paperbib
+2016
+Learning Multi-Modal Grounded Linguistic Semantics by Playing "I Spy"
+Jesse Thomason, Jivko Sinapov, Maxwell Svetlik, Peter Stone, and Raymond J. Mooney.
+International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+categories: dialogue, language and robotics, physical robots
+conference papervideosourceposterslidesbib
+2015
+Learning to Interpret Natural Language Commands through Human-Robot Dialog
+Jesse Thomason, Shiqi Zhang, Raymond J. Mooney, and Peter Stone.
+International Joint Conference on Artificial Intelligence (IJCAI), 2015.
+categories: physical robots, semantic parsing, dialogue, language and robotics
+conference papervideosourceposterslidesbib
+2014
+Integrating Language and Vision to Generate Natural Language Descriptions of Videos in the Wild
+Jesse Thomason, Subhashini Venugopalan, Sergio Guadarrama, Kate Saenko, and Raymond J. Mooney.
+Conference on Computational Linguistics (COLING), 2014.
+categories: language and vision
+conference paperposterbib
+2013
+Prosodic Entrainment and Tutoring Dialogue Success
+Jesse Thomason, Huy Nguyen, and Diane Litman.
+Artificial Intelligence in Education (AIED), 2013.
+categories: dialogue
+conference paperposterbib
+Differences in User Responses to a Wizard-of-Oz versus Automated System
+Jesse Thomason and Diane Litman.
+North American Chapter of the Association for Computational Linguistics (NAACL), 2013.
+categories: dialogue
+conference paperslidesbib
+Thesis work
+
+2018
+Continually Improving Grounded Natural Language Understanding through Human-Robot Dialog
+Jesse Thomason.
+Department of Computer Science, The University of Texas at Austin, 2018.
+categories: semantic parsing, dialogue, language and robotics, language and vision
+thesis paperslidesbib
+2016
+Continuously Improving Natural Language Understanding for Robotic Systems through Semantic Parsing, Dialog, and Multi-modal Perception
+Jesse Thomason.
+Doctoral Dissertation Proposal, 2016.
+categories: language and vision, language and robotics, semantic parsing, dialogue
+thesis paperslidesbib
+

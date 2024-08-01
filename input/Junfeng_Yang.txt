@@ -1,0 +1,198 @@
+Professor: Junfeng Yang
+University: Columbia University
+URL: http://www.cs.columbia.edu/~junfeng
+Description: Junfeng Yang
+Professor
+Co-director of Software Systems Lab
+Department of Computer Science
+Columbia University
+
+500 West 120 Street, 519 CSB
+Mail Code 0401
+New York, NY 10027
+
+
+
+Lab: 487 CSB
+Phone: (212) 939-7012
+Fax: (212) 666-0140
+
+[ Awards | Publications | Software ]
+[ People | Press | Teaching | Support ]
+
+	
+
+My research centers on making reliable and secure systems. Some of my current research thrusts are (1) security and robustness of machine learning, (2) tools to better protect, verify, analyze, test, and debug software, and (3) programming and runtime systems for cloud applications. After getting a BS in Computer Science from Tsinghua University, I earned my PhD in Computer Science at Stanford, where I created eXplode, a general, lightweight system for effectively finding storage system errors. This work has led to an OSDI best paper award, numerous bug fixes to real systems such as the Linux kernel, and a featured article in Linux Weekly news. In 2008, I worked at Microsoft Research Silicon Valley, extending eXplode to check production distributed systems. MoDist, the resultant system, is being transferred to Microsoft product groups. At Columbia University, my recent work on reliable multithreading was featured in sites such as ACM Tech News. I won the Sloan Research Fellowship and the AFOSR YIP award, both in 2012; and the NSF CAREER award in 2011.
+
+I'm looking for a few graduate students, postdocs, and undergraduate interns. If you know how to build systems/tools, we should talk.
+
+Columbia undergraduate and master students: the above applies to you, too. Also, take a look at some projects available for academic credits.
+
+I was on sabbatical in 2016 co-founding a Columbia spin-off called NimbleDroid. NimbleDroid provides automated, comprehensive app performance analysis to help teams build performant apps. Its mission is to leverage research breakthroughs to automate mundane tasks in software engineering.
+
+Select Awards
+OSDI best paper, 2022
+USENIX ATC best paper, 2021
+Rock Star Award, Association of Chinese Scholars in Computing, 2019
+SOSP best paper, 2017
+Sloan research fellowship, 2012
+Air Force Office of Scientific Research Young Investigator Program Award (AFOSR YIP), 2012
+NSF CAREER, 2011
+OSDI best paper, 2004
+Recent Papers and Drafts
+
+(If you're interested in a paper draft but it isn't available online, please email me for a copy.)
+
+UPGRADVISOR: Early Adopting Dependency Updates Using Production Traces
+Yaniv David, Xudong Sun, Aditya Senthilnathan, Raphael J. Sofaer, Junfeng Yang, Zhiqiang Zuo, Guoqing Harry Xu, Jason Nieh, Ronghui Gu
+Proceedings of the 16th Symposium on Operating Systems Design and Implementation (OSDI '22), 2022
+
+XRP: In-Kernel Storage Functions with eBPF   (Best paper award)
+Yuhong Zhong, Haoyu Li, Yu Jian Wu, Ioannis Zarkadas, Jeffrey Tao, Evan Mesterhazy, Michael Makris, Junfeng Yang, Amy Tai, Ryan Stutsman, Asaf Cidon
+Proceedings of the 16th Symposium on Operating Systems Design and Implementation (OSDI '22), 2022
+
+NeuDep: Neural Binary Memory Dependence Analysis
+Kexin Pei, Dongdong She, Michael Wang, Scott Geng, Zhou Xuan, Yaniv David, Junfeng Yang, Suman Jana, Baishakhi Ray
+ESEC-FSE, 2022
+
+A Tale of Two Models: Constructing Evasive Attacks on Edge Models
+Wei Hao, Aahil Awatramani, Jiayang Hu, Chengzhi Mao, Pin-Chun Chen, Eyal Cidon, Asaf Cidon, Junfeng Yang
+Machine Learning and Systems (MLSys), 2022
+
+Causal Transportability for Visual Recognition
+Chengzhi Mao, Kevin Xia, James Wang, Hao Wang, Junfeng Yang, Elias Bareinboim, Carl Vondrick
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022
+
+Neuroshard: Towards Automatic Multi-objective Sharding with Deep Reinforcement Learning  [bib]
+Tamer Eldeeb, Zhengneng Chen, Asaf Cidon, Junfeng Yang
+Fifth International Workshop on Exploiting Artificial Intelligence Techniques for Data Management (aiDM), 2022
+
+Reversing Adversarial Attacks with Multiple Self-supervised Tasks
+Matthew Lawhon, Mao Chengzhi, Junfeng Yang
+ICLR Workshop PAIR2Struct, 2022
+
+Trex: Learning Execution Semantics from Micro-Traces for Binary Similarity
+Kexin Pei, Zhou Xuan, Junfeng Yang, Suman Jana, Baishakhi Ray
+
+Select Publications (Complete list...)
+Multi-task Learning Increases Adversarial Robustness  [bib]  (Oral presentation)
+Chengzhi Mao, Amogh Gupta, Vikram Nitin, Baishakhi Ray, Shuran Song, Junfeng Yang, Carl Vondrick
+Proceedings of the 16th European Conference on Computer Vision (ECCV '20), August, 2020
+
+We present both theoretical and empirical analyses that connect the adversarial robustness of a model to the number of tasks that it is trained on. Experiments on two datasets show that attack difficulty increases as the number of target tasks increase. Moreover, our results suggest that when models are trained on multiple tasks at once, they become more robust to adversarial attacks on individual tasks. While adversarial defense remains an open challenge, our results suggest that deep networks are vulnerable partly because they are trained on too few tasks.
+DeepXplore: Automated Whitebox Testing of Deep Learning Systems  [bib]  (Best paper award)
+Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana
+Proceedings of the 26th ACM Symposium on Operating Systems Principles (SOSP '17), October, 2017
+
+We increasingly rely on deep learning and deep neural networks (DNNs) in safety- and security-critical applications such as self-driving, medical diagnosis, face-based identification, and malware detection, but it remains an open challenge to thoroughly test DNNs for robustness and security. We propose Neuron Coverage, the first testing coverage metric to empirically understand how much decision logic a testing input set has exercised in a DNN. We design and build DeepXplore, the first systematic testing framework for DNNs. Given a test input, DeepXplore applies physically realizable transformations (e.g., darkening an image) to the inputs (as opposed to noise in prior adversarial ML work) to generate new inputs to maximize neuron coverage. It found thousands of flaws in state-of-art self-driving and malware detection DNNs and improved their neuron coverage by over 50%. (Also appeared in MLSec '17.)
+Shuffler: Fast and Deployable Continuous Code Re-Randomization  [bib]
+David Williams-King, Graham Gobieski, Kent Williams-King, James P Blake, Xinhao Yuan, Patrick Colp, Vasileios P Kemerlis, Junfeng Yang, William Aiello
+Proceedings of the Twelfth Symposium on Operating Systems Design and Implementation (OSDI '16), 2016
+
+Describes Shuffler, a system that continuously randomizes an application's binary code at runtime, defeating code-reuse attacks. Shuffler is fast: it shuffles all code within tens of milliseconds, whereas cutting-edge ROP attacks need 10--100x more time to discover gadgets. Shuffler is egalitarian: leveraging the insight that randomization doesn't require a higher privilege authority, Shuffler shuffles itself, reducing trusted computing base and making the approach applicable to kernels and hypervisors. Shuffler is deployable: its augmented binary analysis requires no modifications to OS, compilers, and linkers.
+Determinism Is Not Enough: Making Parallel Programs Reliable with Stable Multithreading  [bib]
+Junfeng Yang, Heming Cui, Jingyue Wu, Yang Tang, Gang Hu
+Communications of the ACM (2014)
+
+This paper is geared toward a general audience. If you have time to read just one paper on our concurrency work, this is the paper to read. It describes our vision of stable multithreading (StableMT), a radical approach to making multithreading reliable, and summarizes our last five years of work on designing, building, and applying stable multithreading systems. The final version of this paper will appear in CACM.
+EXPLODE: a Lightweight, General System for Finding Serious Storage System Errors  [talk | bib]
+Junfeng Yang, Can Sar, Dawson Engler
+Proceedings of the Seventh Symposium on Operating Systems Design and Implementation (OSDI '06), November, 2006
+
+Describes our in-situ model checking approach, which made it easy to thoroughly check real systems. We applied eXplode to 17 storage systems and found serious data-loss errors in every system checked. This paper is my favorite in describing our model checking approach, which forms the basis of my PhD thesis work.
+Software
+Crane, our transparent state machine replication system.
+AppDoctor, our Android app checker.
+Parrot, our latest stable and deterministic multithreading system. It has two goals: (1) be practical and (2) be fast. By default, it schedules synchronizations in a round-robin manner, vastly reducing the set of schedules for reliability. When needed, it allows developers to add performance hints for speed. Together with the code, we also released a benchmark suite with 100+ multithreaded programs, and Parrot's complete results on these programs.
+NeonGoby, a system for effectively detecting errors in alias analysis, one of the most crucial and widely used program analyses. If you have an LLVM-based alias analysis you want to check, give NeonGoby a try.
+Loom, a "live-workaround" system designed to quickly and safely bypass various types of concurrency errors at runtime. It contains a generic engine for live-updating multithreaded programs without restarts, which you can leverage if you want to build a live-update tool.
+eXplode, a storage system checker. It uses an approach we call in-situ model checking to thoroughly check general systems software in a lightweight manner.
+People
+
+I'm fortunate to work or have worked with these brilliant people.
+
+Yaniv David, Postdoc research scientist
+Lingmei Weng, PhD student
+Kexin Pei, PhD student
+Chengzhi Mao, PhD student
+Tamer Eldeeb, PhD student
+Calliope (Kelly) Kostopoulou, PhD student
+Wei Hao, PhD student
+David Williams-King, PhD, 2020, joined Elpha Secure as CTO
+Yinzhi Cao, Postdoc research scientist, 2014-2015, joined Lehigh University as a professor
+Heming Cui, PhD, 2015, joined the University of Hong Kong as a professor
+Jingyue Wu, PhD, 2014, went to Google
+Gang Hu, PhD, 2018, went to Google
+Xinhao Yuan, PhD, 2019, went to Google
+Yang Tang, PhD, 2019, joined laioffer as their Director of Education and Curriculum Development
+Yan Cui, Postdoc research scientist, 2013-2015, went to Intel
+Oren Laadan, Postdoc research scientist, 2010-2011, founded Cellrox
+Rui Gu, MS, 2017
+Linjie Zhu, MS, 2019
+Georgios Koloventzos, MS, 2016
+Karthik Jayaraman, MS, 2016
+Chuliang Weng, Visiting research scientist, 2012
+John Gallagher, MS, 2011, went to FourSquare
+Chia-che Tsai, MS, 2011, went to Stony Brook for PhD
+Neetha Maria Sebastian, MS, 2011, went to Google
+Yunling Wang, MS, 2010, went to Microsoft
+Ben Warfield, MS, 2010, went to Wireless Generation
+Nathan Murith, MS, 2010, went to Autodesk
+Maoliang Huang, MS, 2010, went to FlexTrade Systems
+Patrick Huang, MS, 2009, went to Sony
+
+I co-advise some students in the SSL lab.
+
+Articles and Discussions about Research
+
+DeepXplore: Scientific American, IEEE Spectrum, CACM Research Highlight (Video), Newsweek, TechRadar, Columbia News, China News, Sohu, Sina, CCTV's Hello, AI documentary
+Shuffler: Network World, ACM Tech News
+Machine unlearning: The Stack, EurekAlert, The Atlantic, KurzweilAI, ACM Tech News
+Peregrine: CACM, ACM Tech News, The Register, Columbia Engineering, TG Daily, Physorg.com
+MoDist: Softpedia
+eXplode: Linux Weekly News
+Static analysis: Linux Kernel Mailing List
+
+
+Teaching
+
+Fall 2023 -- W4152: Engineering Software-as-a-Service
+Fall 2023 -- E6998: Engineering Blockchain and Web3 Apps
+
+Fall 2022 -- W4152: Engineering Software-as-a-Service
+Fall 2022 -- E6998: Engineering Blockchain and Web3 Apps
+Fall 2021 -- W4995: Engineering Software-as-a-Service
+Fall 2021 -- E6998: Security and Robustness of ML systems
+Spring 2021 -- W4156: Advanced Software Engineering
+Spring 2021 -- E6998-003: Security and Robustness of ML systems
+Spring 2020 -- W4156: Advanced Software Engineering
+Spring 2020 -- E6998-010: Security and Robustness of ML systems
+Spring 2019 -- E6121: Reliable Software
+Spring 2019 -- E6998-001: Security and Robustness of ML systems
+Spring 2018 -- E6121: Reliable Software
+Spring 2018 -- E6998-009: Security and Robustness of ML systems
+Spring 2017 -- E6121: Reliable Software
+Fall 2016 -- Teaching leave
+Spring 2016 -- Sabbatical leave
+Fall 2015 -- Sabbatical leave
+Spring 2015 -- Teaching leave
+Fall 2014 -- E6121: Reliable Software
+Spring 2014 -- Teaching leave
+Fall 2013 -- W4118: Operating Systems I
+Spring 2013 -- Teaching leave
+Fall 2012 -- E6121: Reliable Software
+Spring 2012 -- W4118: Operating Systems I
+Fall 2011 -- E6121: Reliable Software
+Spring 2011 -- W4118: Operating Systems I
+Fall 2010 -- E6998-1: Reliable Software
+Spring 2010 -- W4118: Operating Systems I
+Fall 2009 -- E6998-1: Reliable Software
+Spring 2009 -- W4118: Operating Systems I
+Fall 2008 -- E6998-2: How to Make Reliable Software
+
+
+Support for Research and Teaching
+We are grateful to the sponsors of our research and teaching, including NSF, ONR, DARPA, AFOSR, AFRL, Sloan Foundation, Google, Facebook, Amazon, and Accenture (an incomplete list).
+
+
+

@@ -1,0 +1,547 @@
+Professor: Manmohan Krishna Chandraker
+University: Univ. of California - San Diego
+URL: http://cseweb.ucsd.edu/~mkchandraker
+Description: Welcome
+Home
+News
+Papers
+Teaching
+Selected Talks
+Students
+Brief Bio
+	
+Manmohan Chandraker
+ 	
+
+I am a Professor at the CSE Department of UCSD. I work on computer vision, machine learning and computer graphics, with applications in autonomous driving, robotics and augmented reality.
+
+Email: mkchandraker [AT] ucsd [DOT] edu
+
+Office: Room 4122, EBU-3B, UC San Diego
+
+Affiliations:
+
+Visual Computing Center
+Contextual Robotics Institute
+Halicioglu Data Science Institute
+News
+	
+Sponsors
+
+
+2023: I will serve as Area Chair for ECCV, ICLR and AAAI 2024.
+2023: Invited keynote at TRICKY Workshop at ICCV.
+2023: We are organizing the GeoNet Workshop at ICCV on robust computer vision.
+2023: Invited keynote at CV4AE Workshop at CVPR.
+2023: Congratulations to Ishit and Kunal for the Qualcomm Innovation Fellowship!
+2023: I will serve as Area Chair for CVPR, NeurIPS and AAAI 2023.
+2023: Congratulations to Tarun for a Best Paper finalist at WACV!
+2022: Invited keynote on photorealistic augmented reality at NIST.
+2022: Congratulations to Ishit for the Best Paper Honorable Mention at ECCV!
+2022: Congratulations to Rui and Yu-Ying for the Qualcomm Innovation Fellowship!
+2022: Invited keynote at ACM Multimedia Workshop on Video Summarization.
+2022: Congratulations to Yu-Ying for the Google PhD Fellowship!
+2022: Congratulations to Zhengqin for CSE Best Thesis Award at UCSD!
+	  
+  
+  
+Selected Publications | Show All
+ 	Self-Training Large Language Models for Improved Visual Program Synthesis
+Zaid Khan, Vijay Kumar, Samuel Schulter, Yun Fu, Manmohan Chandraker
+
+CVPR 2024      [PDF] [Project page]
+
+An LLM agent for visual program synthesis trainable with reinforced self-training using just weak supervision from vision-language tasks.
+
+
+ 	LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes
+Shanlin Sun, Bingbing Zhuang, Ziyu Jiang, Buyu Liu, Xiaohui Xie, Manmohan Chandraker
+
+CVPR 2024      [PDF]
+
+A Lidar-enhanced neural radiance field to transform drive videos into photorealistic sensor simulation testbeds.
+
+
+ 	TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion
+Yu-Ying Yeh, Jia-Bin Huang, Changil Kim, Lei Xiao, Thu Nguyen-Phuoc, Numair Khan, Cheng Zhang, Manmohan Chandraker, Carl S Marshall, Zhao Dong, Zhengqin Li
+
+CVPR 2024      [PDF] [Project page]
+
+Transfer photorealistic, high-fidelity and geometry-aware textures from 3-5 images to arbitrary 3D meshes.
+
+
+ 	AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving
+Mingfu Liang, Jong-Chyi Su, Samuel Schulter, Sparsh Garg, Shiyu Zhao, Ying Wu, Manmohan Chandraker
+
+CVPR 2024      [PDF]
+
+A VLM and LLM-based framework for issue-finding, auto-labeling, continual training and automated verification for visual perception in autonomous driving.
+
+
+ 	What You See Is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs
+Alex Trevithick, Matthew Chan, Towaki Takikawa, Umar Iqbal, Shalini De Mello, Manmohan Chandraker, Ravi Ramamoorthi, Koki Nagano
+
+CVPR 2024      [PDF] [Project page]
+
+Scale neural volume rendering to high resolution by rendering every pixel to ensure that "what you see in 2D, is what you get in 3D".
+
+
+ 	Exploring Question Decomposition for Zero-Shot VQA
+Zaid Khan, Vijay Kumar, Samuel Schulter, Manmohan Chandraker, Raymond Fu
+
+NeurIPS 2023      [PDF] [Project page] [Code]
+
+Question decomposition that allows multi-billion scale vision-language models to approach reasoning-heavy visual question-answering as a two-step rather than a single-step problem.
+
+
+ 	NeurOCS: Neural NOCS Supervision for Monocular 3D Object Localization
+Zhixiang Min, Bingbing Zhuang, Samuel Schulter, Buyu Liu, Enrique Dunn, Manmohan Chandraker
+
+CVPR 2023      [PDF]
+
+Learn dense 3D object shapes for autonomous driving, using differentiable rendering with instance masks and 3D boxes, along with category-level priors.
+
+
+ 	GeoNet: Benchmarking Unsupervised Adaptation across Geographies
+Tarun Kalluri, Wangdong Xu, Manmohan Chandraker
+
+CVPR 2023      [PDF] [Project page] [Code]
+
+A large-scale dataset and study on the robustness of computer vision algorithms and large pre-trained models across geographical biases.
+
+
+ 	FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation
+Tarun Kalluri, Deepak Pathak, Manmohan Chandraker, Du Tran
+
+WACV 2023 [Best Paper Finalist]      [PDF] [Project page] [Code]
+
+A flow-free and single-shot prediction approach for video frame interpolation, allowing efficient ultra-slow motion effects using just 3D convolutions.
+
+
+ 	Factorized Inverse Path Tracing for Efficient and Accurate Material-Lighting Estimation
+Liwen Wu, Rui Zhu, Mustafa B. Yaldiz, Yinhao Zhu, Hong Cai, Janarbek Matai, Fatih Porikli, Tzu-Mao Li, Manmohan Chandraker, Ravi Ramamoorthi
+
+ICCV 2023 (Oral)      [PDF] [Project page] [Code]
+
+Joint estimation of emitters and materials in inverse rendering, to enable high-quality AR applications like scene relighting and object insertion.
+
+
+ 	Q: How to Specialize Large VLMs to Data-Scarce VQA? A: Train on Unlabeled Images!
+Zaid Khan, Vijay Kumar, Samuel Schulter, Raymond Fu, Manmohan Chandraker
+
+ICCV 2023      [PDF] [Code]
+
+Pseudo-label question-answers in unlabeled images, for fine-tuning an existing large vision-language model on visual question answering in a data-scarce target dataset.
+
+
+ 	A Theory of Topological Derivatives for Inverse Rendering of Geometry
+Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi
+
+ICCV 2023      [PDF] [Project page]
+
+Inverse rendering through variational optimization of image functionals that allows for discrete topology changes by nucleating hole or phase changes, with applications to multiview 3D reconstruction and text-to-image generation.
+
+
+ 	Physically-Based Editing of Indoor Scene Lighting from a Single Image
+Zhengqin Li, Jia Shi, Sai Bi, Rui Zhu, Kalyan Sunkavalli, Milos Hasan, Zexiang Xu, Ravi Ramamoorthi, Manmohan Chandraker
+
+ECCV 2022 (Oral)      [PDF] [Project page] [Code] [Video]
+
+Estimation of visible and invisible light sources from a single image of an indoor scene, to enable scene relighting and object insertion with full global effects.
+
+
+ 	A Level Set Theory for Neural Implicit Evolution under Explicit Flows
+Ishit Mehta, Manmohan Chandraker, Ravi Ramamoorthi
+
+ECCV 2022 (Oral) [Best Paper Honorable Mention]      [PDF] [Project page] [Code] [Video]
+
+A level-set theory bridge between explicit and implicit shape representations that allows user-defined editing of neural implicit geometry.
+
+
+ 	MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation
+Tarun Kalluri, Astuti Sharma, Manmohan Chandraker
+
+ECCV 2022      [PDF] [Project page] [Code]
+
+Unsupervised domain adaptation that scales to a large number of categories using a memory bank.
+
+
+ 	IRISformer: Dense Vision Transformers for Single-Image Inverse Rendering in Indoor Scenes
+Rui Zhu, Zhengqin Li, Janarbek Matai, Fatih Porikli, Manmohan Chandraker
+
+CVPR 2022 (Oral)      [PDF] [Project page] [Code] [Video]
+
+A vision transformer architecture for inverse rendering in indoor scenes that allows learning long-range global interactions.
+
+
+ 	PhotoScene: Photorealistic Material and Lighting Transfer for Indoor Scenes
+Yu-Ying Yeh, Zhengqin Li, Yannick Hold-Geoffroy, Rui Zhu, Zexiang Xu, Milos Hasan, Kalyan Sunkavalli, Manmohan Chandraker
+
+CVPR 2022      [PDF] [Project page] [Code] [Video]
+
+A framework that uses a set of images of an indoor scene to create a photorealistic digital twin with high-quality material and lighting.
+
+
+ 	OpenRooms: An End-to-End Open Framework for Photorealistic Indoor Scene Datasets
+Zhengqin Li, Ting-Wei Yu, Shen Sang, Sarah Wang, Meng Song, Yuhan Liu, Yu-Ying Yeh, Rui Zhu, Nitesh Gundavarapu, Jia Shi, Sai Bi, Hong-Xing Yu, Zexiang Xu, Kalyan Sunkavalli, Milos Hasan, Ravi Ramamoorthi, Manmohan Chandraker
+
+CVPR 2021 (Oral)      [PDF] [Project page] [Code] [Video]
+
+An open source dataset of indoor scenes with high-quality tools and ground truth for shape, material and lighting, for augmented reality and robotics applications.
+
+
+ 	Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction
+
+
+Sriram Narayanan, Ramin Moslemi, Francesco Pittaluga, Buyu Liu, Manmohan Chandraker
+
+CVPR 2021 (Oral)      [PDF]
+
+
+A multi-choice learning objective for diverse future trajectory prediction and a lane anchor network for 3D scene-consistent outputs.
+
+
+ 	Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation
+
+
+Astuti Sharma, Tarun Kalluri, Manmohan Chandraker
+
+CVPR 2021      [PDF]
+
+
+An instance-affinity based criterion with a multi-sample contrastive loss for improved domain alignment.
+
+
+ 	Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows
+Kunal Gupta, Manmohan Chandraker
+NeurIPS 2020      [PDF]
+
+
+Neural ODEs to generate 3D meshes with guaranteed manifoldness, enabling physically meaningful applications like rendering, simulations and 3D printing.
+
+
+ 	Single-Shot Neural Relighting and SVBRDF Estimation
+Shen Sang, Manmohan Chandraker
+ECCV 2020      [PDF]
+
+
+A physically-motivated network for joint shape and material estimation, as well as relighting under novel illumination conditions, using a single image captured by a mobile phone camera.
+
+
+ 	SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction
+Sriram Narayanan, Francesco Pittaluga, Buyu Liu, Manmohan Chandraker
+ECCV 2020      [PDF]
+
+
+Constant-time, scene consistent and diverse trajectory prediction regardless of number of agents, along with a dynamics simulator that diversifies top-views of real scenes.
+
+
+ 	Single-View Metrology in the Wild
+Rui Zhu, Xingyi Wang, Yannick Hold-Geoffroy, Federico Perazzi, Jonathan Eisenmann, Kalyan Sunkavalli, Manmohan Chandraker
+ECCV 2020      [PDF]
+
+
+Recover object height and camera parameters from a single unconstrained image, through a network that imbibes weakly supervised geometric constraints through bounding boxes and the horizon.
+
+
+ 	Through the Looking Glass: Neural 3D Reconstruction of Transparent Shapes
+Zhengqin Li, Yu-Ying Yeh, Manmohan Chandraker
+CVPR 2020 (Oral)      [PDF]
+
+
+A physically-motivated network that models refractions and reflections to recover high-quality 3D geometry for complex transparent shapes using as few as 5-12 natural images.
+
+
+ 	Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image
+Zhengqin Li, Mohammad Shafiei, Ravi Ramamoorthi, Kalyan Sunkavalli, Manmohan Chandraker
+CVPR 2020 (Oral)      [PDF]
+
+
+A physically-motivated network that recovers shape, complex material and spatially varying lighting from a single mobile phone image to enable photorealistic indoor AR applications.
+
+
+ 	Peek-a-Boo: Occlusion Reasoning in Indoor Scenes with Plane Representations
+Ziyu Jiang, Buyu Liu, Samuel Schulter, Zhangyang Wang, Manmohan Chandraker
+CVPR 2020 (Oral)      [PDF]
+
+
+A novel planar representation for indoor 3D scene understanding that reasons about occlusions, with new metrics and a new dataset.
+
+
+ 	Universal Semi-Supervised Semantic Segmentation
+T. Kalluri, G. Varma, M.K. Chandraker and C.V. Jawahar
+ICCV 2019      [PDF]
+
+
+Learning fair representations that perform well across both data-rich and data-poor domains, applied to semantic segmentation that minimizes annotation and deployment costs.
+
+
+ 	A Parametric Top-View Representation of Complex Road Scenes
+Z. Wang, B. Liu, S. Schulter and M.K. Chandraker
+CVPR 2019      [PDF]
+
+
+A parametric representation for 3D scene understanding of complex road scenes that is intuitive for human visualization and interpretable for higher-level decision making.
+
+
+ 	Learning Structure-And-Motion-Aware Rolling Shutter Correction
+B. Zhuang, Q.-H. Tran, P. Ji, L.F. Cheong and M.K. Chandraker
+CVPR 2019 (Oral)      [PDF]
+
+
+Theoretical limits on SFM with a rolling-shutter camera and leveraging data-driven priors through a network that learns camera motion and scene stucture to undistort a single rolling shutter image.
+
+
+ 	Joint Pixel and Feature-Level Domain Adaptation for Recognition in the Wild
+L. Tran, K. Sohn, X. Yu, X. Liu, and M.K. Chandraker
+CVPR 2019      [PDF] [Supplementary]
+
+
+Unsupervised domain adaptation that combines insights from semi-supervised learning for feature-level adaptation and 3D geometry-guided image synthesis for pixel-level adaptation.
+
+
+ 	Learning to Simulate
+N. Ruiz, S. Schulter and M.K. Chandraker
+ICLR 2019      [PDF]
+
+
+A reinforcement learning-based method for automatically adjusting the parameters of any non-differentiable simulator, thereby controlling the distribution of synthesized data in order to maximize the accuracy of a model trained on that data.
+
+
+ 	Unsupervised Domain Adaptation for Distance Metric Learning
+K. Sohn, W. Shang, X. Yu and M.K. Chandraker
+ICLR 2019      [PDF]
+
+
+Making face recognition fair across ethnicities through unsupervised adaptation across domains with non-overlapping label spaces, retaining identification power on all ethnicities while keeping representations for all identities well-separated.
+
+
+ 	Single-Shot Analysis of Refractive Shapes Using Convolutional Neural Networks
+J. Stets, Z. Li, J. Frisvad and M.K. Chandraker
+WACV 2019      [PDF]
+
+
+Single-image depth map and normal estimation for transparent shapes using a network trained on a new synthetic dataset.
+
+
+ 	AutoNUE: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments
+G. Varma, A. Subramanian, A. Namboodiri, M.K. Chandraker and C.V. Jawahar
+WACV 2019      [PDF]
+
+
+Taking a step towards self-driving on Indian roads through a novel large-scale dataset that provides instance segmentation and object detection labels.
+
+
+ 	Learning to Reconstruct Shape and Spatially-Varying Reflectance with a Single Image
+Z. Li, Z. Xu, R. Ramamoorthi, K. Sunkavalli and M.K. Chandraker
+SIGGRAPH Asia 2018      [PDF]
+
+
+A differential rendering layer with global illumination to train a network that recovers shape and complex, spatially-varying material using a single image acquired with a mobile phone camera.
+
+
+ 	Materials for Masses: SVBRDF Acquisition with a Single Mobile Phone Image
+Z. Li, K. Sunkavalli and M.K. Chandraker
+ECCV 2018 (Oral)      [PDF]
+
+
+A differentiable rendering layer that models image formation with a complex spatially-varying BRDF to recover high-quality material information using a single mobile phone image.
+
+
+ 	Learning to Look around Objects for Top-View Representations of Outdoor Scenes
+S. Schulter, M. Zhai, N. Jacobs and M.K. Chandraker
+ECCV 2018      [PDF]
+
+
+Predict occluded portions of the scene layout by looking around foreground objects like cars or pedestrians, with learned priors and rules about typical road layouts from simulated or, if available, map data.
+
+
+ 	Learning to Adapt Structured Output Space for Semantic Segmentation
+Y.-H. Tsai, W.-C. Hung, S. Schulter, K. Sohn, M.-H. Yang and M.K. Chandraker
+CVPR 2018 (Spotlight)      [PDF]
+
+
+Unsupervised domain adaptation for semantic segmentation that aligns spatial similarities across domains through a structured output space.
+
+
+ 	Learning to See through Turbulent Water
+Z. Li, Z. Murez, D. Kriegman, R. Ramamoorthi and M.K. Chandraker
+WACV 2018      [PDF]
+
+
+Learning appearance and geometric priors for single-image undistortion of an image observed through a dynamic refractive medium such as water waves.
+
+
+ 	Learning Efficient Object Detection Models with Knowledge Distillation
+G. Chen, W. Choi, X. Yu, T. Han and M.K. Chandraker
+NeurIPS 2017      [PDF]
+
+
+Fast and accurate object detection network through knowledge distillation that transfers insights to a compact student model from a higher-capacity teacher model.
+
+
+ 	Robust Energy Minimization for BRDF-Invariant Shape from Light Fields
+Z. Li, Z. Xu, R. Ramamoorthi and M.K. Chandraker
+CVPR 2017      [PDF]
+
+
+A variational energy minimization framework for robust recovery of shape in multiview stereo with unknown BRDF, with applications to light field cameras.
+
+
+ 	Deep Supervision with Shape Concepts for Occlusion-Aware 3D Object Parsing
+C. Li, Z. Zia, Q.-H. Tran, X. Yu, G. Hager and M.K. Chandraker
+CVPR 2017      [PDF]
+
+
+Deep supervision to sequentially infer intermediate concepts associated with the final task allows better generalization, demonstrated with an application to 3D semantic parsing from 2D images.
+
+
+ 	DESIRE: Distant Future Prediction in Dynamic Scenes with Multiple Interacting Agents
+N. Lee, W. Choi, P. Vernaza, C. Choy, P. Torr and M.K. Chandraker
+CVPR 2017      [PDF]
+
+
+Predicting future trajectories in complex 3D scenes by accounting for the multimodaility of future behaviors, scene semantics and interactions among objects.
+
+
+ 	Universal Correspondence Network
+C. Choy, J. Gwak, S. Savarese and M.K. Chandraker
+NeurIPS 2016 (Oral)      [PDF]
+
+
+Deep metric learning to learn a feature space for geometric and semantic correspondence, with novel architectures such as a convolutional spatial transformer to handle local variations.
+
+
+ 	WarpNet: Weakly Supervised Matching for Single-View Reconstruction
+A. Kanazawa, D. Jacobs and M.K. Chandraker
+CVPR 2016      [PDF]
+
+
+Single-view reconstruction of non-rigid objects like birds without using part annotations, through a deformation-aware synthetic data generation and spatial priors in a deep network.
+
+
+ 	SVBRDF-Invariant Shape and Reflectance Recovery from Light Fields
+T.-C. Wang, M.K. Chandraker, A. Efros and R. Ramamoorthi
+CVPR 2016 (Oral)      [PDF]
+
+
+Shape and spatially-varying material recovery from a single light field image of an object, using theoretical invariants from differential stereo with general reflectance.
+
+
+ 	The Information Available to a Moving Observer on Shape with Unknown, Isotropic BRDFs
+M.K. Chandraker
+IEEE PAMI 2015 [Spl. Issue, Best of CVPR 2014]      [PDF]
+
+
+Theoretical inavriants that eliminate BRDF from a system of differential stereo equations to yield PDE constraints that delineate the extent of shape recovery.
+
+
+ 	Joint SFM and Detection Cues in 3D Object Localization for Autonomous Driving
+S. Song and M.K. Chandraker
+CVPR 2015 (Oral)      [PDF]
+
+
+Single-camera 3D localization of objects in traffic scenes by combining cues from SFM point tracks and object detection bounding boxes.
+
+
+ 	What Camera Motion Reveals About Shape with Unknown BRDF
+M.K. Chandraker
+CVPR 2014 (Oral) [Best Paper Award]      [PDF] [Tech Report]
+
+
+Specification of the extent of shape recovery through differential stereo invariants obtained using images of an object with unknown material observed under a small camera motion.
+
+
+ 	What Motion Reveals About Shape with Unknown BRDF and Lighting
+M.K. Chandraker, D. Reddy, Y. Wang and R. Ramamoorthi
+CVPR 2013 (Oral)      [PDF]
+
+
+Theoretical analysis of shape recovery using differential flow invariants obtained under small motions of an object relative to its environment.
+
+
+ 	Dense Object Reconstruction with Semantic Priors
+Y. Bao, M.K. Chandraker, Y. Lin and S. Savarese
+CVPR 2013 (Oral)      [PDF]
+
+
+Semantic 3D reconstruction using shape priors consisting of a mean shape for the commonality of shapes across a category and weighted anchor points to encode similarities between instances in the form of appearance and spatial consistency.
+
+
+ 	On Differential Photometric Reconstruction for Unknown, Isotropic BRDFs
+M.K. Chandraker, J. Bai and R. Ramamoorthi
+IEEE PAMI 2013 [Spl. Issue, Best of CVPR 2011]      [PDF]
+
+
+A photometric flow relation that specifies theoretical extent of shape recovery possible with differential motion of a light source.
+
+
+ 	What An Image Reveals About Material Reflectance
+M.K. Chandraker and R. Ramamoorthi
+ICCV 2011 (Oral)      [PDF]
+
+
+A semiparametric regression for single-image material estimation that achieves better generalization and interpretability, enabling applications such as relighting and material editing.
+
+
+ 	A Theory of Photometric Reconstruction for Unknown Isotropic Reflectances
+M.K. Chandraker, J. Bai and R. Ramamoorthi
+CVPR 2011 (Oral)      [PDF]
+
+
+Differential invariants under light source motion that determine the extent of shape recovery and prior information needed for it, using images of an object with unknown material.
+
+
+ 	Globally Optimal Algorithms for Stratified Autocalibration
+M.K. Chandraker, S. Agarwal, D.J. Kriegman and S. Belongie
+IJCV 2009      [PDF]
+
+
+Tight convex relations in a branch and bound framework for globally optimal estimation of the plane at infinity with chirality constraints and dual image of the absolute conic with semidefinite constraints, allowing metric upgrade of a projective reconsturction.
+
+
+ 	Globally Optimal Bilinear Programming for Computer Vision Applications
+M.K. Chandraker and D.J. Kriegman
+CVPR 2008 (Oral)      [PDF] [Code]
+
+
+Globally optimal solutions to bilinear problems through convex relations in a branch and bound framework, demonstrated for face 3D morphable model fitting and non-rigid SFM.
+
+
+ 	Globally Optimal Affine and Metric Upgrades in Stratified Autocalibration
+M.K. Chandraker, S. Agarwal, D.J. Kriegman and S. Belongie
+ICCV 2007 (Oral) [Marr Prize Honorable Mention]      [PDF] [Project Site]
+
+
+Globally optimal metric upgrade of a projective reconstruction, through efficient convex relaxations for estimating the plane at infinity and camera intrinsic parameters.
+
+
+ 	ShadowCuts: Photometric Stereo with Shadows
+M.K. Chandraker, S. Agarwal and D.J. Kriegman
+CVPR 2007      [PDF] [Data+Code]
+
+
+An algorithm for performing Lambertian photometric stereo in the presence of shadows. It reduces the low frequency bias inherent to the normal integration process and ensures that the recovered surface is consistent with the shadowing configuration.
+
+
+ 	Practical Global Optimization for Multiview Geometry
+S. Agarwal, M.K. Chandraker, F. Kahl, D.J. Kriegman and S. Belongie
+ECCV 2006 (Oral)      [PDF] [Code]
+
+
+A practical method for finding the provably globally optimal solution to numerous problems in projective geometry including multiview triangulation, camera resectioning and homography estimation.
+
+
+ 	Reflections on the Generalized Bas-Relief Ambiguity
+M.K. Chandraker, F. Kahl and D.J. Kriegman
+CVPR 2005 (Oral)      [PDF]
+
+
+For general nonconvex surfaces, interreflections completely resolve the GBR ambiguity. The full Euclidean geometry can be recovered from uncalibrated photometric stereo for which the light source directions and strengths are unknown.
+
+Short bio
+
+Manmohan Chandraker is a full professor at the CSE department of the University of California, San Diego. He received a PhD from UCSD and was a postdoctoral scholar at UC Berkeley. His research interests are in computer vision, machine learning and graphics-based vision, with applications to autonomous driving, robotics and augmented reality. His works have been recognized with the Best Paper honorable mention at ECCV 2022, Google Research Awards in 2021, 2019 and 2018, the NSF CAREER Award in 2018, the Best Paper Award at CVPR 2014, an IEEE PAMI special issue on Best Papers from CVPR 2011, the 2009 CSE Dissertation Award for Best Thesis from UCSD and the Marr Prize honorable mention at ICCV 2007. He serves in senior program committees at CVPR, ICCV, ECCV, NeurIPS and AAAI.
+
+Page generated 2020-05-17
+

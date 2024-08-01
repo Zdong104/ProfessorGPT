@@ -1,0 +1,158 @@
+Professor: Lu Lin 0001
+University: Pennsylvania State University
+URL: https://louise-lulin.github.io/
+Description: About
+(current)
+Group
+Publications
+Teaching
+Open Position
+Lu Lin
+
+ Bio: Hi, I’m Lu. I am an Assistant Professor in the College of Information Sciences and Technology at Penn State University; I am also affiliated with the Institute for Computational and Data Sciences and the Center for Socially Responsible AI. Prior to that, I received my Ph.D. from University of Virginia supervised by Dr. Hongning Wang, M.S. and B.S. from Beihang University, in Computer Science. I have also interned at Didi Lab, LinkedIn and Pinterest Lab. Curriculum Vitae.
+
+ Research Interests: My research interests lie in machine learning and data sciences, with a primary focus on interpreting the behavior of ML paradigms and further building trustworthiness in them. I’m particularly facinated by transformative ML paradigms, including large language models (LLMs), multimodal models, federated learning, self-supervised learning, graph neural networks and more. By understanding and hardening their working mechanism, my research vision is to establish foundations for AI-enabled systems to work reliably in practical environment concerning biased, noisy, and out-of-distribution inputs. To be more specific:
+
+Machine learning interpretability and trustworthiness
+Data mining and data science in real-world applications
+
+ Openings for 2023-2024: I’m looking for highly motivated students, including PhDs (fully-funded), Masters, undergraduates, and interns. Please kindly read Open Position for more information before contact me.
+
+News
+May 15, 2024	 Two papers are accepted to ACL 2024!
+May 01, 2024	 One paper is accepted to ICML 2024!
+Jan 16, 2024	 Two papers are accepted to WWW 2024!
+Jan 01, 2024	 One paper is accepted to ICLR 2024!
+Sep 01, 2023	 One paper is accepted to NeurIPS 2023!
+Apr 24, 2023	 Two papers are accepted to ICML 2023!
+Jan 01, 2023	 One paper is accepted to ICLR 2023!
+Sep 01, 2022	 I am officially on board as a tenure-track faculty at IST@PSU!
+May 01, 2022	 I am honored to receive CS John A. Stankovic Graduate Research Award from UVa.
+Selected Publications
+ICLR
+Backdoor Contrastive Learning via Bi-level Trigger Optimization
+Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, and Lu Lin
+In Proceedings of of the 12th International Conference on Learning Representations , 2024
+BIB HTML
+@inproceedings{sun2024backdoor,
+  title = {Backdoor Contrastive Learning via Bi-level Trigger Optimization},
+  author = {Sun, Weiyu and Zhang, Xinyu and Lu, Hao and Chen, Ying-Cong and Wang, Ting and Chen, Jinghui and Lin, Lu},
+  booktitle = {Proceedings of of the 12th International Conference on Learning Representations},
+  year = {2024},
+  category = {conference},
+}
+WWW
+Globally Interpretable Graph Learning via Distribution Matching
+Yi Nian*, Yurui Chang*, Wei Jin, and Lu Lin
+In Proceedings of the Web Conference , 2024
+BIB HTML
+@inproceedings{nian2024globally,
+  title = {Globally Interpretable Graph Learning via Distribution Matching},
+  author = {Nian*, Yi and Chang*, Yurui and Jin, Wei and Lin, Lu},
+  booktitle = {Proceedings of the Web Conference},
+  year = {2024},
+  category = {conference},
+}
+WWW
+Graph Contrastive Learning via Interventional View Generation
+Zengyi Wo, Minglai Shao, Wenjun Wang, Xuan Guo, and Lu Lin
+In Proceedings of the Web Conference , 2024
+BIB HTML
+@inproceedings{wo2024graph,
+  title = {Graph Contrastive Learning via Interventional View Generation},
+  author = {Wo, Zengyi and Shao, Minglai and Wang, Wenjun and Guo, Xuan and Lin, Lu},
+  booktitle = {Proceedings of the Web Conference},
+  year = {2024},
+  category = {conference},
+}
+NeurIPS
+A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning
+Hangfan Zhang, Jinyuan Jia, Jinghui Chen, Lu Lin, and Dinghao Wu
+In Proceedings of the 37th Conference on Neural Information Processing Systems , 2023
+BIB HTML CODE
+@inproceedings{zhang2023a3fl,
+  title = {A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning},
+  author = {Zhang, Hangfan and Jia, Jinyuan and Chen, Jinghui and Lin, Lu and Wu, Dinghao},
+  booktitle = {Proceedings of the 37th Conference on Neural Information Processing Systems},
+  year = {2023},
+  category = {conference},
+}
+ICML
+FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning
+Songtao Liu, Zhengkai Tu, Minkai Xu, Zuobai Zhang, Lu Lin, Rex Ying, Jian Tang, Peilin Zhao, and Dinghao Wu
+In Proceedings of the 40th International Conference on Machine Learning , 2023
+ABS BIB HTML CODE
+
+Retrosynthetic planning aims to devise a complete multi-step synthetic route from starting materials to a target molecule. Current strategies use a decoupled approach of single-step retrosynthesis models and search algorithms, taking only the product as the input to predict the reactants for each planning step and ignoring valuable context information along the synthetic route. In this work, we propose a novel framework that utilizes context information for improved retrosynthetic planning. We view synthetic routes as reaction graphs and propose to incorporate context through three principled steps: encode molecules into embeddings, aggregate information over routes, and readout to predict reactants. Our approach is the first attempt to utilize in-context learning for retrosynthesis prediction in retrosynthetic planning. The entire framework can be efficiently optimized in an end-to-end fashion and produce more practical and accurate predictions. Comprehensive experiments demonstrate that by fusing in the context information over routes, our model significantly improves the performance of retrosynthetic planning over baselines that are not context-aware, especially for long synthetic routes. Code is available at Github.
+
+@inproceedings{liu2023fusionretro,
+  title = {FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning},
+  author = {Liu, Songtao and Tu, Zhengkai and Xu, Minkai and Zhang, Zuobai and Lin, Lu and Ying, Rex and Tang, Jian and Zhao, Peilin and Wu, Dinghao},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  year = {2023},
+  category = {conference},
+}
+ICML
+Graph Contrastive Backdoor Attacks
+Hangfan Zhang, Jinghui Chen, Lu Lin, Jinyuan Jia, and Dinghao Wu
+In Proceedings of the 40th International Conference on Machine Learning , 2023
+ABS BIB HTML
+
+Graph Contrastive Learning (GCL) has attracted considerable interest due to its impressive node representation learning capability. Despite the wide application of GCL techniques, little attention has been paid to the security of GCL. In this paper, we systematically study the vulnerability of GCL in the presence of malicious backdoor adversaries. In particular, we propose *GCBA*, the first backdoor attack for graph contrastive learning. GCBA incorporates three attacks: poisoning, crafting, and natural backdoor, each targeting one stage of the GCL pipeline. We formulate our attacks as optimization problems and solve them with a novel discrete optimization technique to overcome the discrete nature of graph-structured data. By extensively evaluating GCBA on multiple datasets and GCL methods, we show that our attack can achieve high attack success rates while preserving stealthiness. We further consider potential countermeasures to our attack and conclude that existing defenses are insufficient to mitigate GCBA. We show that as a complex paradigm involving data and model republishing, GCL is vulnerable to backdoor attacks, and specifically designed defenses are needed to mitigate the backdoor attacks on GCL.
+
+@inproceedings{zhang2023graph,
+  title = {Graph Contrastive Backdoor Attacks},
+  author = {Zhang, Hangfan and Chen, Jinghui and Lin, Lu and Jia, Jinyuan and Wu, Dinghao},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  year = {2023},
+  category = {conference},
+}
+ICLR
+Spectral augmentation for self-supervised learning on graphs
+Lu Lin, Jinghui Chen, and Hongning Wang
+In Proceedings of the 11th International Conference on Learning Representations , 2023
+ABS BIB HTML CODE
+
+Graph contrastive learning (GCL), as an emerging self-supervised learning technique on graphs, aims to learn representations via instance discrimination. Its performance heavily relies on graph augmentation to reflect invariant patterns that are robust to small perturbations; yet it still remains unclear about what graph invariance GCL should capture. Recent studies mainly perform topology augmentations in a uniformly random manner in the spatial domain, ignoring its influence on the intrinsic structural properties embedded in the spectral domain. In this work, we aim to find a principled way for topology augmentations by exploring the invariance of graphs from the spectral perspective. We develop spectral augmentation which guides topology augmentations by maximizing the spectral change. Extensive experiments on both graph and node classification tasks demonstrate the effectiveness of our method in self-supervised representation learning. The proposed method also brings promising generalization capability in transfer learning, and is equipped with intriguing robustness property under adversarial attacks. Our study sheds light on a general principle for graph topology augmentation.
+
+@inproceedings{lin2023spectral,
+  title = {Spectral augmentation for self-supervised learning on graphs},
+  author = {Lin, Lu and Chen, Jinghui and Wang, Hongning},
+  booktitle = {Proceedings of the 11th International Conference on Learning Representations},
+  year = {2023},
+  category = {conference},
+}
+KDD
+Graph Structural Attack by Perturbing Spectral Distance
+Lu Lin, Ethan Blaser, and Hongning Wang
+In Proceedings of the 28th ACM SIGKDD international conference on knowledge discovery & data mining , 2022
+ABS BIB HTML CODE
+
+Graph Convolutional Networks (GCNs) have fueled a surge of interest due to their superior performance on graph learning tasks, but are also shown vulnerability to adversarial attacks. In this paper, an effective graph structural attack is investigated to disrupt graph spectral filters in the Fourier domain. We define the spectral distance based on the eigenvalues of graph Laplacian to measure the disruption of spectral filters. We then generate edge perturbations by simultaneously maximizing a task-specific attack objective and the proposed spectral distance. The experiments demonstrate remarkable effectiveness of the proposed attack in the white-box setting at both training and test time. Our qualitative analysis shows the connection between the attack behavior and the imposed changes on the spectral distribution, which provides empirical evidence that maximizing spectral distance is an effective manner to change the structural property of graphs in the spatial domain and perturb the frequency components in the Fourier domain.
+
+@inproceedings{lin2021graph,
+  title = {Graph Structural Attack by Perturbing Spectral Distance},
+  author = {Lin, Lu and Blaser, Ethan and Wang, Hongning},
+  booktitle = {Proceedings of the 28th ACM SIGKDD international conference on knowledge discovery \& data mining},
+  year = {2022},
+  category = {conference},
+}
+WWW
+Unbiased Graph Embedding with Biased Graph Observations
+Nan Wang*, Lu Lin*, Jundong Li, and Hongning Wang
+In Proceedings of the Web Conference , 2022
+ABS BIB HTML CODE
+
+Graph embedding techniques are pivotal in real-world machine learning tasks that operate on graph-structured data, such as social recommendation and protein structure modeling. Embeddings are mostly performed on the node level for learning representations of each node. Since the formation of a graph is inevitably affected by certain sensitive node attributes, the node embeddings can inherit such sensitive information and introduce undesirable biases in downstream tasks. Most existing works impose ad-hoc constraints on the node embeddings to restrict their distributions for unbiasedness/fairness, which however compromise the utility of the resulting embeddings. In this paper, we propose a principled new way for unbiased graph embedding by learning node embeddings from an underlying bias-free graph, which is not influenced by sensitive node attributes. Motivated by this new perspective, we propose two complementary methods for uncovering such an underlying graph, with the goal of introducing minimum impact on the utility of the embeddings. Both our theoretical justification and extensive experimental comparisons against state-of-the-art solutions demonstrate the effectiveness of our proposed methods.
+
+@inproceedings{wang2021unbiased,
+  title = {Unbiased Graph Embedding with Biased Graph Observations},
+  author = {Wang*, Nan and Lin*, Lu and Li, Jundong and Wang, Hongning},
+  booktitle = {Proceedings of the Web Conference},
+  year = {2022},
+  category = {conference},
+}
+    
+Let's connect.
+© Copyright 2024 Lu Lin. Powered by Jekyll with al-folio theme. Hosted by GitHub Pages. Photos from Unsplash. Last updated: May 20, 2024.
+

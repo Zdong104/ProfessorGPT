@@ -1,0 +1,356 @@
+Professor: Christopher Musco
+University: New York University
+URL: https://www.chrismusco.com/
+Description: Christopher Musco
+
+370 Jay St., Brooklyn, NY • Office 1105 • Zoom Room • cmusco [at] nyu.edu • CV • GitHub • Google Scholar
+
+I am an Assistant Professor of Computer Science and Engineering at New York University's Tandon School of Engineering. My students and I are part of NYU's Theoretical Computer Science Group and the VIDA Center. Our research is on the design and analysis of efficient algorithms for understanding data, and combines ideas from theoretical computer science with tools from computational mathematics. We are funded by the Dept. of Energy and National Science Foundation, including by an NSF CAREER Award.
+
+I was previously a Research Instructor at Princeton and completed my PhD at MIT, where I was fortunate to be advised by Jon Kelner. Before MIT I was an engineer at Redfin and I studied Applied Math and Computer Science at Yale. Outside of research, I am involved in organizing the annual MathWorks Math Modeling Challenge for high school students.
+
+News, Events, Travel
+
+Congrats to Raphael Meyer, who successfully defended his Ph.D. thesis on query complexity in numerical linear algebra in May! Raphael was awarded Tandon's Pearl Brownstein Award for his thesis work and is off to Caltech for a postdoc with Joel Tropp's group next year. Raphael has been a pleasure to work with and speak for the whole group when I say that will miss him dearly.
+
+We are holding NYU's in-person CS Theory Seminar on Thursdays. You can also sign up for the email list to receive announcements about upcoming talks.
+
+Teaching
+
+Fall 2019-2023, Spring 2025 (upcoming): NYU CS-GY 6763, Algorithmic Machine Learning and Data Science
+Spring 2022, 2023, Fall 2024 (upcoming): NYU CS-GY 6923, Machine Learning
+Spring 2020: NYU CS-UY 4563, Introduction to Machine Learning
+Fall 2018: Princeton COS 521 , Advanced Algorithm Design
+
+Other: I am a judge and problem writer for the SIAM/MathWorks M3 Challenge, a math modeling competition for high schoolers (which I participated in as a student). I am happy to chat with students, coaches, or others about inspiring the next generation of applied mathematicians.
+
+
+
+Students and Postdocs
+
+Tyler Chen, Courant Instructor 2022 - present.
+Apoorv Singh, Ph.D., 2020 - present.
+R. Teal Witter, Ph.D., 2020 - present (with Prof. Lisa Hellerstein).
+Aarshvi Gajjar, Ph.D. 2021 - present (with Prof. Chinmay Hegde).
+Majid Daliri, Ph.D., 2022 - present.
+Noah Amsel, Ph.D., 2022 - present (with Prof. Joan Bruna).
+Feyza Duman Keles, Ph.D., 2023 - present (with Prof. Chinmay Hegde).
+
+List of previous students and postdocs.
+
+If you are interested in working with me on research, I would encourage you to apply to NYU Tandon's PhD program in Computer Science. If you are an undergraduate or masters student at NYU, the best way to start a collaboration or to obtain a TA position is to first complete my fall algorithms class, CS-GY 6763.
+
+Research
+All
+Numerical Linear Algebra
+Sketching and Streaming
+Sample Efficient Learning
+Graphs Algorithms
+Social Networks and Opinion Dynamics
+Application Focused
+
+Near-optimal hierarchical matrix approximation from matrix-vector products
+Tyler Chen, Feyza Duman Keles, Diana Halikias, Cameron Musco, Christopher Musco, David Persson
+Preprint.
+
+
+Faster Spectral Density Estimation and Sparsification in the Nuclear Norm
+Yujia Jin, Ishani Karmarkar, Christopher Musco, Apoorv Singh, Aaron Sidford
+Conference on Learning Theory (COLT 2024).
+
+
+Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits
+Haya Diwan, Jinrui Gou, Cameron Musco, Christopher Musco, Torsten Suel
+Preprint.
+
+
+Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning
+Michał Dereziński, Christopher Musco, Jiaming Yang
+Preprint.
+
+
+Agnostic Active Learning of Single Index Models with Linear Sample Complexity
+Aarshvi Gajjar, Wai Ming Tai, Xingyu Xu, Chinmay Hegde, Christopher Musco, Yi Li
+Conference on Learning Theory (COLT 2024).
+Preliminary version at NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World.
+
+Sampling Methods for Inner Product Sketching
+Majid Daliri, Juliana Freire, Christopher Musco, Aécio Santos, Haoxiang Zhang
+Proceedings of the VLDB Endowment (VLDB 2024).
+
+Fixed-Sparsity Matrix Approximation from Matrix-Vector Products
+Noah Amsel, Tyler Chen, Diana Halikias, Feyza Duman Keles, Cameron Musco, Christopher Musco
+Preprint.
+
+Improved Active Learning via Dependent Leverage Score Sampling
+Atsushi Shimizu, Xiaoou Cheng, Christopher Musco, Jonathan Weare
+International Conference on Learning Representations (ICLR 2024).
+Invited for oral presentation.
+
+
+A Simple and Practical Method for Reducing the Disparate Impact of Differential Privacy
+Lucas Rosenblatt, Julia Stoyanovich, Christopher Musco
+AAAI Conference on Artificial Intelligence (AAAI 2024).
+
+Algorithm-agnostic low-rank approximation of operator monotone matrix functions
+David Persson, Raphael A. Meyer, Christopher Musco
+Preprint.
+
+On the Unreasonable Effectiveness of Single Vector Krylov Methods for Low-Rank Approximation
+Raphael A. Meyer, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2024).
+Slides: 30 Minutes.
+Raphael's Julia Code.
+
+Simple Analysis of Priority Sampling
+Majid Daliri, Juliana Freire, Christopher Musco, Aécio Santos, Haoxiang Zhang
+SIAM Symposium on Simplicity in Algorithms (SOSA 2024).
+
+Structured Semidefinite Programming for Recovering Structured Preconditioners
+Arun Jambulapati, Jerry Li, Christopher Musco, Aaron Sidford, Kirankumar Shiragur, Kevin Tian
+Advances in Neural Information Processing Systems (NeurIPS 2023).
+
+Moments, Random Walks, and Limits for Spectrum Approximation
+Yujia Jin, Christopher Musco, Apoorv Singh, Aaron Sidford
+Conference on Learning Theory (COLT 2023).
+
+Efficient Block Approximate Matrix Multiplication
+Chuhan Yang, Christopher Musco.
+European Symposium on Algorithms (ESA 2023).
+
+Near-Optimal Approximation of Matrix Functions by the Lanczos Method
+Noah Amsel, Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+Preprint.
+Slides: 60 Minutes.
+
+
+Dimensionality Reduction for General KDE Mode Finding
+Xinyu Luo, Christopher Musco, Cas Widdershoven
+International Conference on Machine Learning (ICML 2023).
+
+Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation
+Aline Bessa, Majid Daliri, Juliana Freire, Cameron Musco, Christopher Musco, Aécio Santos, Haoxiang Zhang
+ACM Symposium on Principles of Database Systems (PODS 2023).
+
+Low-memory Krylov subspace methods for optimal rational matrix function approximation
+Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+SIAM Journal on Matrix Analysis and Applications (SIMAX 2023).
+Tyler's Python Code.
+
+Active Learning for Single Neuron Models with Lipschitz Non-Linearities
+Aarshvi Gajjar, Chinmay Hegde, Christopher Musco
+International Conference on Artificial Intelligence and Statistics (AISTATS 2023).
+Preliminary version at NeurIPS 2022 Workshop on The Symbiosis of Deep Learning and Differential Equations II.
+
+Near-Linear Sample Complexity for Lp Polynomial Regression
+Raphael A. Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2023).
+
+A Tight Analysis of Hutchinson's Diagonal Estimator
+Prathamesh Dharangutte, Christopher Musco
+SIAM Symposium on Simplicity in Algorithms (SOSA 2023).
+
+
+Active Linear Regression for lp Norms and Beyond
+Cameron Musco, Christopher Musco, David P. Woodruff, Taisuke Yasuda
+IEEE Symposium on Foundations of Computer Science (FOCS 2022).
+
+How to Quantify Polarization in Models of Opinion Dynamics
+Christopher Musco, Indu Ramesh, Johan Ugander, R. Teal Witter
+International Workshop on Mining and Learning with Graphs (workshop at KDD 2022).
+
+Chemically-informed data-driven optimization (ChIDDO): Leveraging physical models and Bayesian learning to accelerate chemical research
+Daniel Frey, Ju Hee Shin, Christopher Musco, Miguel A. Modestino
+Reaction Chemistry & Engineering 2022.
+
+Streaming Approach to In Situ Selection of Key Time Steps for Time-Varying Volume Data
+Yi-Jen Chiang, Christopher Musco, Mengxi Wu
+IEEE/Eurographics EuroVis 2022.
+
+Sublinear Time Spectral Density Estimation
+Vladimir Braverman, Aditya Krishnan, Christopher Musco
+ACM Symposium on Theory of Computing (STOC 2022).
+Slides: 50 Minutes.
+
+
+A Sketch-based Index for Correlated Dataset Search
+Aécio Santos, Aline Bessa, Christopher Musco, Juliana Freire
+International Conference on Data Engineering (ICDE 2022).
+
+Fast Regression for Structured Inputs
+Raphael A. Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou
+International Conference on Learning Representations (ICLR 2022).
+
+Error bounds for Lanczos-based Matrix Function Approximation
+Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+SIAM Journal on Matrix Analysis and Applications (SIMAX 2022).
+
+Dynamic Trace Estimation
+Prathamesh Dharangutte, Christopher Musco
+Advances in Neural Information Processing Systems (NeurIPS 2021).
+
+Finding an Approximate Mode of a Kernel Density Estimate
+Jasper C.H. Lee, Jerry Li, Christopher Musco, Jeff M. Phillips, Wai Ming Tai
+European Symposium on Algorithms (ESA 2021).
+
+
+Correlation Sketches for Approximate Join-Correlation Queries
+Aécio Santos, Aline Bessa, Fernando Chirigati, Christopher Musco, Juliana Freire
+ACM Special Interest Group on Management of Data Conference. (SIGMOD 2021).
+
+Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand
+Sheng Wang, Yuan Sun, Christopher Musco, Zhifeng Bao
+ACM Special Interest Group on Management of Data Conference. (SIGMOD 2021).
+
+Graph Learning for Inverse Landscape Genetics
+Prathamesh Dharangutte, Christopher Musco
+AAAI Conference on Artificial Intelligence (AAAI 2021).
+Preliminary version in NeurIPS 2020 AI for Earth Sciences workshop.
+
+Simple Heuristics Yield Provable Algorithms for Masked Low Rank Approximation
+Cameron Musco, Christopher Musco, David P. Woodruff
+Innovations in Theoretical Computer Science (ITCS 2021).
+
+Hutch++: Optimal Stochastic Trace Estimation
+Raphael A. Meyer, Cameron Musco, Christopher Musco, David P. Woodruff
+SIAM Symposium on Simplicity in Algorithms (SOSA 2021).
+Slides: 50 Minutes.
+MATLAB Code.
+
+The Statistical Cost of Robust Kernel Hyperparameter Turning
+Raphael A. Meyer, Christopher Musco
+Advances in Neural Information Processing Systems (NeurIPS 2020).
+
+Fourier Sparse Leverage Scores and Approximate Kernel Learning
+Tamás Erdélyi, Cameron Musco, Christopher Musco
+Advances in Neural Information Processing Systems (NeurIPS 2020).
+Invited for spotlight presentation.
+
+Near Optimal Linear Algebra in the Online and Sliding Window Models
+Vladimir Braverman, Petros Drineas, Cameron Musco, Christopher Musco, Jalaj Upadhyay, David P. Woodruff, Samson Zhou
+IEEE Symposium on Foundations of Computer Science (FOCS 2020).
+
+
+Low-Rank Toeplitz Matrix Estimation via Random Ultra-Sparse Rulers
+Hannah Lawrence, Jerry Li, Cameron Musco, Christopher Musco
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
+
+
+Sample Efficient Toeplitz Covariance Estimation
+Yonina C. Eldar, Jerry Li, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2020).
+Slides: 50 Minutes.
+
+
+Fast and Space Efficient Spectral Sparsification in Dynamic Streams
+Michael Kapralov, Aida Mousavifar, Cameron Musco, Christopher Musco, Navid Nouri, Aaron Sidford, Jakab Tardos
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2020).
+
+
+Analyzing the Impact of Filter Bubbles on Social Network Polarization
+Uthsav Chitra, Christopher Musco
+ACM International Web Search and Data Mining Conference (WSDM 2020).
+Preliminary version in KDD 2019 workshop.
+
+
+A Universal Sampling Method for Reconstructing Signals with Simple Fourier Transforms
+Haim Avron, Michael Kapralov, Cameron Musco, Christopher Musco, Ameya Velingker, Amir Zandieh
+ACM Symposium on Theory of Computing (STOC 2019).
+Slides: 60 Minutes. Video: 30 Minutes.
+
+Inferring networks from random walk-based node similarities
+Jeremy G. Hoskins, Cameron Musco, Christopher Musco, Charalampos E. Tsourakakis
+Advances in Neural Information Processing Systems (NeurIPS 2018).
+MATLAB Code.
+
+Eigenvector Computation and Community Detection in Asynchronous Gossip Models
+Frederik Mallmann-Trenn, Cameron Musco, Christopher Musco
+International Colloquium on Automata, Languages, and Programming (ICALP 2018).
+
+
+Minimizing Polarization and Disagreement in Social Networks
+Cameron Musco, Christopher Musco, Charalampos E. Tsourakakis
+The Web Conference (WWW 2018).
+MATLAB Code, requires CVX library for convex optimization.
+
+Stability of the Lanczos Method for Matrix Function Approximation
+Cameron Musco, Christopher Musco, Aaron Sidford
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2018).
+Slides: 60 Minutes.
+Sample code for the version of Lanczos analyzed: lanczos.m
+
+Recursive Sampling for the Nyström Method
+Cameron Musco, Christopher Musco
+Advances in Neural Information Processing Systems (NeurIPS 2017).
+Poster.
+MATLAB Code, including accelerated version of the algorithm.
+
+Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees
+Haim Avron, Michael Kapralov, Cameron Musco, Christopher Musco, Ameya Velingker, Amir Zandieh
+International Conference on Machine Learning (ICML 2017).
+Slides: 60 Minutes. Video: 80 minutes
+
+Input Sparsity Time Low-Rank Approximation via Ridge Leverage Score Sampling
+Michael B. Cohen, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2017).
+Slides: 60 Minutes.
+
+Determining Tournament Payout Structures for Daily Fantasy Sports
+Christopher Musco, Maxim Sviridenko, Justin Thaler
+SIAM Algorithm Engineering and Experiments (ALENEX 2017).
+Invited to special issue of ACM Journal of Experimental Algorithmics for ALENEX.
+Slides: 20 Minutes.
+
+Principal Component Projection Without Principal Component Analysis
+Roy Frostig, Cameron Musco, Christopher Musco, Aaron Sidford
+International Conference on Machine Learning (ICML 2016).
+Slides: 15 Minutes.
+MATLAB Code for standard algorithm and faster Krylov method analyzed in our recent paper.
+
+Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition
+Cameron Musco, Christopher Musco
+Advances in Neural Information Processing Systems (NeurIPS 2015).
+Invited for full oral presentation.
+Slides: 20 Minutes.
+MATLAB Code.
+
+Dimensionality Reduction for k-Means Clustering and Low-Rank Approximation
+Michael B. Cohen, Samuel Elder, Cameron Musco, Christopher Musco, Mădălina Persu
+ACM Symposium on Theory of Computing (STOC 2015).
+Slides: 60 Minutes.
+
+We posted a note titled Projection-Cost-Preserving Sketches: Proof Strategies and Constructions which presents simplified proofs of the results in this paper and our 2017 work.
+
+Principled Sampling for Anomaly Detection
+Brendan Juba, Fan Long, Christopher Musco, Stelios Sidiroglou-Douskos, Martin Rinard
+Network and Distributed System Security Symposium (NDSS 2015).
+Slides: 20 Minutes.
+
+Uniform Sampling for Matrix Approximation
+Michael B. Cohen, Yin Tat Lee, Cameron Musco, Christopher Musco, Richard Peng, Aaron Sidford
+Innovations in Theoretical Computer Science (ITCS 2015).
+
+Single Pass Spectral Sparsification in Dynamic Streams
+Michael Kapralov, Yin Tat Lee, Cameron Musco, Christopher Musco, Aaron Sidford
+IEEE Symposium on Foundations of Computer Science (FOCS 2014).
+Invited to special issue of SIAM Journal on Computing for FOCS, appeared 2017.
+Slides: 60 Minutes.
+
+Software
+
+Prototype code for some of the algorithms I work on is available through my GitHub page. Let me know if you have any questions about these implementations.
+
+Past Students and Postdocs
+
+Raphael A. Meyer, Ph.D., 2019 - 2024 (next stop: postdoc at Caltech).
+
+David Persson, Visiting Research Scholar, 2023 (next stop: Courant Instructor at NYU).
+Atsushi Shimizu, M.S., 2022 - 2023 (next stop: Daiwa Securities Group).
+Danrong Li, M.S., 2022 - 2023 (next stop: Ph.D. student at Penn State).
+Xinyu Luo, M.S., 2020 - 2022 (next stop: Ph.D. student at Purdue).
+Aline Bessa, Postdoc, 2021 (next stop: KNIME).
+Indu Ramesh, M.S., 2020 - 2021 (next stop: Ph.D. student at NYU).
+Mengxi Wu, M.S., 2020 - 2021 (next stop: Ph.D. student at USC).
+Prathamesh Dharangutte, M.S., 2019 - 2021 (next stop: Ph.D. student at Rutgers).
+
+

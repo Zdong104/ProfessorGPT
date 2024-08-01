@@ -1,0 +1,132 @@
+Professor: Wenting Zheng
+University: Carnegie Mellon University
+URL: https://wzheng.github.io/
+Description: Wenting Zheng
+
+
+
+Office: GHC 9015
+Email: wenting [at] cmu [dot] edu
+CV [Updated Dec 2023]
+
+
+I am an assistant professor in CMU's Computer Science Department. I have a courtesy apoointment in the Electrical and Computer Engineering department, and am also a core faculty in CyLab. I am also a co-founder of Opaque Systems.
+
+I am broadly interested in system security and applied cryptography: I like to build secure systems, develop practical cryptographic primitives and protocols, and design systems for democratizing and accelerating cryptography. Recently, I've been fascinated with building practical systems for secure outsourced computation in the cloud, secure collaborative computation among mutually distrusting parties, and more practical private information retrieval systems. I believe that a combination of systems and advanced cryptography can not only make existing applications more secure, but also enable new applications.
+
+Previously, I was a Ph.D. student in the UC Berkeley RISE Lab, where I was co-advised by Raluca Ada Popa and Ion Stoica. I received my bachelor and M.Eng. degrees at MIT, where I was advised by Barbara Liskov.
+
+I was also a co-founder and an organizer for DARE, a diversity-focused program for matching undergraduates to research opportunities.
+
+My research is generously supported by the National Science Foundation, AWS, Cisco, CMU CyLab, Google, and Samsung. Thank you!
+
+Teaching
+Fall 2024: Distributed Systems
+Spring 2024: Secure Computer Systems
+Fall 2023: Distributed Systems
+Spring 2023: Security for Software and Hardware Systems
+Fall 2022: Distributed Systems
+Fall 2021: Cryptosystems: Theory and Practice
+
+Group
+
+I am looking for highly motivated students who are interested in applied cryptography and system security. Please apply to the CMU Ph.D. program!
+
+I'm very fortunate to collaborate with a talented set of students!
+
+Edward Chen (Ph.D., co-advised with Fraser Brown)
+Andrew Park (Ph.D., co-advised with Elaine Shi, currently on leave)
+Qi Pang (Ph.D., co-advised with Virginia Smith)
+Siddharth Jayashankar (Ph.D., co-advised with Dimitrios Skarlatos)
+William Seo (Masters)
+Trevor Leong (Masters)
+Simon Beyzerov (Undergraduate)
+
+
+
+Alum:
+Jinhao Zhu (Masters -> Ph.D. at UC Berkeley)
+Helen Mollering (visiting Ph.D.)
+Shreya Sharma (Masters -> Bloomberg)
+
+
+Publications
+
+Attacking LLM Watermarks by Exploiting Their Strengths. [Paper]
+Qi Pang, Shengyuan Hu, Wenting Zheng, Virginia Smith.
+To appear, ICLR SeT LLM Workshop 2024
+
+BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers. [Paper]
+Qi Pang, Jinhao Zhu, Helen Mollering, Wenting Zheng, and Thomas Schneider.
+IEEE S&P 2024
+
+Communication-efficient, Fault Tolerant PIR over Erasure Coded Storage.
+Andrew Park, Trevor Leong, Francisco Maturana, Wenting Zheng, Rashmi Vinayak.
+IEEE S&P 2024
+
+PIANO: Extremely Simple, Single-Server PIR with Sublinear Server Computation. [Paper]
+Mingxun Zhou, Andrew Park, Elaine Shi, Wenting Zheng.
+IEEE S&P 2024
+
+Secure Federated Correlation Test and Entropy Estimation. [Paper]
+Qi Pang*, Lun Wang*, Shuai Wang, Wenting Zheng, Dawn Song.
+ICML 2023
+
+ADI: Adversarial Dominating Inputs in Vertical Federated Learning Systems. [Paper]
+Qi Pang, Yuanyuan Yuan, Shuai Wang, Wenting Zheng.
+IEEE S&P 2023
+
+Silph: A Framework for Scalable and Accurate Generation of Hybrid MPC Protocols. [Paper]
+Edward Chen*, Jinhao Zhu*, Alex Ozdemir, Fraser Brown, Riad Wahby, Wenting Zheng.
+IEEE S&P 2023
+
+CostCO: An Automatic Cost Modeling Framework for Secure Multi-Party Computation. [Paper] [Extended version]
+Vivian Fang, Lloyd Brown, William Lin, Wenting Zheng, Aurojit Panda, Raluca Ada Popa.
+IEEE Euro S&P 2022
+Distinguished Paper Award
+
+Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning. [Paper] [Extended version]
+Wenting Zheng, Ryan Deng, Weikeng Chen, Raluca Ada Popa, Aurojit Panda, Ion Stoica.
+USENIX Security 2021
+
+Delphi: A Cryptographic Inference Service for Neural Networks. [Paper] [Extended version]
+Pratyush Mishra, Ryan Lehmkuhl, Akshayaram Srinivasan, Wenting Zheng, Raluca Ada Popa.
+USENIX Security 2020
+
+Helen: Maliciously Secure Coopetitive Learning for Linear Models. [Paper] [Extended version]
+Wenting Zheng, Raluca Ada Popa, Joseph E. Gonzalez, Ion Stoica.
+IEEE S&P 2019
+
+DIZK: Distributing Zero Knowledge Proof Systems. [Paper] [Extended version]
+Howard Wu, Wenting Zheng, Alessandro Chiesa, Raluca Ada Popa, Ion Stoica.
+USENIX Security 2018
+
+High Accuracy Approximation of Secure Multiparty Neural Network Training.
+Daniel Ho, Xin Wang, Wenting Zheng, Joseph Gonzalez, Raluca Ada Popa, and Ion Stoica.
+AISys 2017
+
+
+MiniCrypt: Reconciling Encryption and Compression for Big Data Stores. [Paper] [Slides]
+Wenting Zheng, Frank Li, Raluca Ada Popa, Ion Stoica, Rachit Agarwal.
+EuroSys 2017
+
+
+Opaque: An Oblivious and Encrypted Distributed Analytics Platform. [Paper] [Slides] [Code] [SparkSummit talk]
+Wenting Zheng, Ankur Dave, Jethro Beekman, Raluca Ada Popa, Joseph Gonzalez, Ion Stoica.
+NSDI 2017
+
+
+SCL: Simplfying Distributed SDN Control Planes. [Paper]
+Aurojit Panda, Wenting Zheng, Xiaohe Hu, Arvind Krishnamurthy, Scott Shenker.
+NSDI 2017
+
+
+Fast Databases with Fast Durability and Recovery through Multicore Parallelism [Paper] [Slides]
+Wenting Zheng, Stephen Tu, Eddie Kohler, Barbara Liskov.
+OSDI 2014
+
+
+Speedy Transactions in Multicore In-Memory Databases [Paper]
+Stephen Tu, Wenting Zheng, Eddie Kohler, Barbara Liskov, Samuel Madden.
+SOSP 2013
+

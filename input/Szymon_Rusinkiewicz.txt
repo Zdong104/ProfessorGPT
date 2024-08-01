@@ -1,0 +1,123 @@
+Professor: Szymon Rusinkiewicz
+University: Princeton University
+URL: https://www.cs.princeton.edu/~smr
+Description: Szymon Rusinkiewicz (he/him)    
+
+David M. Siegel '83 Professor
+Chair, Department of Computer Science
+Associated Faculty, Program in Applied and Computational Mathematics 
+Director, Program in Robotics and Intelligent Systems
+	
+Email	smr at princeton
+Office	CS building, room 222
+Address  	Department of Computer Science
+Princeton University
+35 Olden St.
+Princeton, NJ  08540-5233
+Office hours  	make an appointment (in-person or virtual)
+Teaching
+
+Spring, 2024	No teaching.
+
+ Older classes...
+
+
+Research
+I am a professor in the Computer Science Department and a member of the Graphics Group and Princeton ImageX Labs (PIXL). I am also affiliated with the Robotics Group and am associated faculty in the Program in Applied and Computational Mathematics. My work focuses on the interface between computers and the visual and tangible world: acquisition, representation, analysis, and fabrication of 3D shape, motion, surface appearance, and scattering. I am interested in topics including computational fabrication; 3D scan acquisition, registration, and reconstruction; learning for low-level image and shape analysis; robotic localization and planning; and BRDF capture and representation. Applications of this work include documentation of cultural heritage artifacts and sites, appearance and performance capture for digital humans, and illustrative depiction through line drawings and non-photorealistic shading models.
+
+If you are interested in joining the PhD program at Princeton: Please be aware that application to the program is evaluated at the department level, and unfortunately I can neither make any promises about the outcome nor evaluate your qualifications outside of that process. Please look at https://www.cs.princeton.edu/grad/ for more information, and apply to Princeton if you are interested. I appreciate that you may have been told that it's a good idea to contact potential advisors ahead of time, but unfortunately I am not able to respond to such emails.
+
+Publications and Preprints
+
+      Recent
+
+"Region-Aware Simplification and Stylization of 3D Line Drawings," (with Vivien Nguyen, Matt Fisher, and Aaron Hertzmann), Computer Graphics Forum (Proc. Eurographics) Vol. 43, No. 2, Apr. 2024.
+"TidyBot: Personalized Robot Assistance with Large Language Models," (with Jimmy Wu, Rika Antonova, Adam Kan, Marion Lepert, Andy Zeng, Shuran Song, Jeannette Bohg, and Thomas Funkhouser), Autonomous Robots, special issue on "Large Language Models in Robotics", Vol. 47, 2023.
+Also presented at the 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), and at the RSS 2023 Articulate Robots and ICRA 2023 L-DOD workshops.
+"UltraGlove: Hand Pose Estimation with MEMS-Ultrasonic Sensors," (with Qiang Zhang, Yuanqiao Lin, and Yubin Lin), Proc. SIGGRAPH Asia, 2023.
+"Clutter Detection and Removal in 3D Scenes with View-Consistent Inpainting," (with Fangyin Wei and Thomas Funkhouser), International Conference on Computer Vision (ICCV), 2023.
+"Gradient-Based Dovetail Joint Shape Optimization for Stiffness," (with Xingyuan Sun, Chenyue Cai, and Ryan P. Adams), Proc. ACM Symposium on Computational Fabrication, 2023.
+"More Stiffness with Less Fiber: End-to-End Fiber Path Optimization for 3D-Printed Composites," (with Xingyuan Sun, Geoffrey Roeder, Tianju Xue, and Ryan P. Adams), Proc. ACM Symposium on Computational Fabrication, 2023.
+"Constructing Printable Surfaces with View-Dependent Appearance," (with Maxine Perroni-Scharf), Proc. SIGGRAPH, 2023.
+"Differentiable Point-Based Radiance Fields for Efficient View Synthesis," (with Qiang Zhang, Seung-Hwan Baek, and Felix Heide), Proc. SIGGRAPH Asia, 2022.
+"Learning Pneumatic Non-Prehensile Manipulation with a Mobile Blower," (with Jimmy Wu, Xingyuan Sun, Andy Zeng, Shuran Song, and Thomas Funkhouser), IEEE Robotics and Automation Letters, Vol. 7, No. 3, 2022.
+"Closed-Loop Control of Direct Ink Writing via Reinforcement Learning," (with Michal Piovarči, Michael Foshey, Jie Xu, Timothy Erps, Vahid Babaei, Piotr Didyk, Wojciech Matusik, and Bernd Bickel), ACM Transactions on Graphics (Proc. SIGGRAPH) Vol. 41, No. 4, 2022.
+"Self-supervised Neural Articulated Shape and Appearance Models," (with Fangyin Wei, Rohan Chabra, Lingni Ma, Christoph Lassner, Michael Zollhöfer, Chris Sweeney, Richard Newcombe, and Mira Slavcheva), Computer Vision and Pattern Recognition (CVPR), 2022.
+
+   Older...
+
+Other Writings, Tutorials, Pictures, etc.
+Course notes for "Computing Correspondences in Geometric Data Sets", presented at Eurographics 2011 (with Will Chang, Hao Li, Niloy Mitra, Mark Pauly, and Michael Wand).
+Course notes for "Line Drawings from 3D Models", presented at SIGGRAPH 2008 (with Forrester Cole, Doug DeCarlo and Adam Finkelstein).
+Course notes for "Principles of Appearance Acquisition and Representation", presented at SIGGRAPH 2008 (with Tim Weyrich, Jason Lawrence, Hendrik P. A. Lensch, and Todd Zickler).
+Course notes for "Principles of Appearance Acquisition and Representation", presented at ICCV 2007 (with Tim Weyrich, Jason Lawrence, Hendrik P. A. Lensch, and Todd Zickler).
+Course notes for "3D Scan Matching and Registration", presented at ICCV 2005 (with Benedict Brown and Michael Kazhdan).
+Course notes for "Line Drawings from 3D Models", presented at SIGGRAPH 2005 (with Doug DeCarlo and Adam Finkelstein).
+A quick writeup on deriving the equations of ICP and analyzing their stability for different surface shapes. Features the "psychedelic bunnies" - my contribution to the fine art of abusing the Stanford bunny. (Also see the geometrically stable sampling paper.)
+"Real-time Acquisition and Rendering of Large 3D Models", Ph.D. dissertation, Stanford University, 2001.
+"Visible Zone Maintenance for Real-Time Occlusion Culling" (with Olaf Hall-Holt).
+Course notes for "3D Photography", presented at CVPR 1999 (with Brian Curless, Steve Seitz, Jean-Yves Bouguet, and Paul Debevec).
+"Projecting Color onto Michelangelo's Statues", a description of the color processing pipeline for the Digital Michelangelo Project.
+"A Survey of BRDF Representation for Computer Graphics"
+$1.42 and Amethyst - some pictures I made several years ago (with Lucas Pereira).
+"Simultaneous Two-Ion Mass Spectroscopy", Undergraduate Thesis, MIT, 1995.
+Some photographs.
+Software
+Xshade is an implementation of Exaggerated Shading.
+RTSC is a sample implementation of Real-Time Suggestive Contours.
+trimesh2 is a library and a set of utilities for reading, writing, and manipulating 3D triangle meshes. An older version is also available.
+qsplat is a multiresolution point rendering system for large scanned models.
+bv is a browser for various analytical BRDF models.
+Students
+Current graduate advisees:
+Chenyue Cai
+Yuanqiao Lin
+Vivien Nguyen
+Christina Shatford
+Jimmy Wu
+Past graduate advisees:
+Sema Berkiten
+Benedict Brown
+Chris DeCoro
+Xinyi Fan
+Jason Lawrence
+Siyu Liu
+Yiming Liu
+Linjie Luo
+Past graduate advisees (cont.):
+Diego Nehab
+Tobechukwu Nwanna
+Thiago Pereira
+Maxine Perroni-Scharf
+Joshua Podolak
+Xingyuan Sun
+Corey Toler-Franklin
+Fangyin Wei
+Linguang Zhang
+Qiang Zhang
+Past postdocs:
+Amit Bermano, Tel Aviv University
+Martin Fuchs, Hochschule Der Medien (Stuttgart Media University)
+Tim Weyrich, Friedrich-Alexander University Erlangen-Nürnberg (FAU)
+Collaborators
+At Princeton:
+Ryan P. Adams
+Jia Deng
+Adam Finkelstein
+Felix Heide
+Olga Russakovsky
+Other collaborators:
+Vahid Babaei, MPI
+Bernd Bickel, IST Austria
+Piotr Didyk, USI
+Tom Funkhouser, Google
+Aaron Hertzmann, Adobe
+Misha Kazhdan, Johns Hopkins
+Wojciech Matusik, MIT
+Michal Piovarči, IST Austria
+Shuran Song, Stanford
+Andy Zeng, Google
+
+
+
+

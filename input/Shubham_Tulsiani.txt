@@ -1,0 +1,139 @@
+Professor: Shubham Tulsiani
+University: Carnegie Mellon University
+URL: https://shubhtuls.github.io/
+Description: Shubham Tulsiani
+I am an Assistant Professor at Carnegie Mellon University in the Robotics Institute, where I am a part of the Computer Vision group. I am interested in building perception systems that can infer the spatial and physical structure of the world they observe. Please see these recent talks for an overview.
+
+
+
+
+Prior to joining CMU, I was a Research Scientist at FAIR, Pittsburgh working with Abhinav Gupta. I previously graduated from UC, Berkeley where I was advised by Jitendra Malik, and also frequently collaborated with Alyosha Efros.
+
+
+
+
+contact | google scholar | twitter
+
+	
+Research Group
+
+
+Our group is interested in inferring physically and spatially grounded representations from perceptual input, and leveraging these for advances in fundamental problems in computer vision and robot manipulation. We believe that to enable machines to understand the physical world, we should reduce the reliance on supervision by annotation, and instead develop learning mechanisms informed by the real, physical world we live in – by incorporating our knowledge about its structure and laws as a 'meta-supervisory' signal.
+
+If you are interested in joining our group, please read this.
+
+
+
+PhD Students
+Himangi Mittal
+Homanga Bharadhwaj (with Abhinav Gupta)
+Hanzhe Hu
+Yehonathan Litman (with Fernando De la Torre)
+Yufei (Judy) Ye (with Abhinav Gupta)
+Jason Zhang (with Deva Ramanan)
+
+
+MS Students
+Bharath Raj (MSR)
+Yanbo Xu (MSR)
+
+
+
+Undergraduate Students
+Amy Lin
+Lucas Wu
+
+
+
+Alumni
+MSR: Zhizhuo (Z) Zhou
+
+MSCV: Poorvi Hebbar, Naveen Venkat, Mayank Agarwal,
+Yen-Chi Cheng, Paritosh Mittal
+
+Teaching
+
+
+16-822: Geometry-based Methods in Vision. Fall 2023, 2022
+16-825: Learning for 3D Vision. Spring 2024, 2023, 2022
+
+
+Publications (selected | all)
+
+
+
+[New] G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis
+Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani
+CVPR, 2024
+pdf   project page   bibtex
+
+[New] MVD-Fusion: Single-view 3D via Depth-consistent Multi-view Generation
+Hanzhe Hu*, Zhizhuo Zhou*, Varun Jampani, Shubham Tulsiani
+CVPR, 2024
+pdf   project page   bibtex   code
+
+[New] Cameras as Rays: Pose Estimation via Ray Diffusion
+Jason Y. Zhang*, Amy Lin*, Moneish Kumar, Tzu-Hsuan Yang, Deva Ramanan, Shubham Tulsiani
+ICLR, 2024
+pdf   project page   bibtex   code
+
+[New] Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans
+Homanga Bharadhwaj, Abhinav Gupta*, Vikash Kumar*, Shubham Tulsiani*
+ICRA, 2024 (Finalist for Best Paper Award in Robot Manipulation)
+pdf   project page   bibtex
+
+SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction
+Zhizhuo Zhou, Shubham Tulsiani
+CVPR, 2023
+pdf   project page   bibtex   code
+
+What's in your hands? 3D Reconstruction of Generic Objects in Hands
+Yufei Ye, Abhinav Gupta, Shubham Tulsiani
+CVPR, 2022
+pdf   project page   bibtex   code
+
+AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation
+Paritosh Mittal*, Yen-Chi Cheng*, Maneesh Singh, Shubham Tulsiani
+CVPR, 2022
+pdf   project page   bibtex   code
+
+NeRS: Neural Reflectance Surfaces for Sparse-view 3D Reconstruction in the Wild
+Jason Y. Zhang, Gengshan Yang, Shubham Tulsiani*, and Deva Ramanan*
+NeurIPS, 2021
+pdf   project page   bibtex   video   code
+
+Where2Act: From Pixels to Actions for Articulated 3D Objects
+Kaichun Mo, Leonidas J. Guibas, Mustafa Mukadam, Abhinav Gupta, Shubham Tulsiani
+ICCV, 2021
+pdf   project page   bibtex   code
+
+Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects
+Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta
+CVPR, 2020
+pdf   project page   bibtex   code
+
+Canonical Surface Mapping via Geometric Cycle Consistency
+Nilesh Kulkarni, Abhinav Gupta*, Shubham Tulsiani*
+ICCV, 2019
+pdf   project page   bibtex   video   code
+
+Learning Category-Specific Mesh Reconstruction from Image Collections
+Angjoo Kanazawa*, Shubham Tulsiani*, Alexei A. Efros, Jitendra Malik
+ECCV, 2018
+pdf   project page   bibtex   video   code
+
+Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency
+Shubham Tulsiani, Tinghui Zhou, Alexei A. Efros, Jitendra Malik
+CVPR, 2017
+pdf   project page   bibtex   slides   talk   code   blog post
+
+Learning Shape Abstractions by Assembling Volumetric Primitives
+Shubham Tulsiani, Hao Su, Leonidas J. Guibas, Alexei A. Efros, Jitendra Malik
+CVPR, 2017
+pdf   project page   bibtex   code (torch)   code (pytorch - unofficial)
+
+Category-Specific Object Reconstruction from a Single Image
+Abhishek Kar*, Shubham Tulsiani*, João Carreira, Jitendra Malik
+CVPR, 2015 (Best Student Paper Award)
+pdf   project page   bibtex   code
+

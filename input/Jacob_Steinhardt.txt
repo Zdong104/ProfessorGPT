@@ -1,0 +1,65 @@
+Professor: Jacob Steinhardt
+University: Univ. of California - Berkeley
+URL: https://www.stat.berkeley.edu/~jsteinhardt
+Description: Jacob Steinhardt
+	
+Publications
+	
+Teaching
+	
+Talks
+	
+Blog
+Jacob Steinhardt
+
+Assistant Professor
+
+Department of Statistics
+
+UC Berkeley
+
+ Email
+ Google Scholar
+ Undergraduate Application
+
+My goal is to make the conceptual advances necessary for machine learning systems to be reliable and aligned with human values. This includes the following directions:
+
+Robustness: How can we build models robust to distributional shift, to adversaries, to model mis-specification, and to approximations imposed by computational constraints? What is the right way to evaluate such models?
+Reward specification and reward hacking: Human values are too complex to be specified by hand. How can we infer complex value functions from data? How should an agent make decisions when its value function is approximate due to noise in the data or inadequacies in the model? How can we prevent reward hacking–degenerate policies that exploit differences between the inferred and true reward?
+Scalable alignment: Modern ML systems are often too large, and deployed too broadly, for any single person to reason about in detail, posing challenges to both design and monitoring. How can we design ML systems that conform to interpretable abstractions? How do we enable meaningful human oversight at training and deployment time despite the large scale? How will these large-scale systems affect societal equilibria?
+
+These challenges require rethinking both the theoretical and empirical paradigms of ML. Theories of statistical generalization do not account for the extreme types of generalization considered above, and decision theory does not account for cases where the reward function is only approximate. Meanwhile, measuring empirical test accuracy on a fixed distribution is insufficient to analyze phenomena such as robustness to distributional shift.
+
+I seek students who are technically strong, broad-minded, and want to improve the world through their research. I particularly value creative, curious thinkers who are excited to revisit the conceptual foundations of the field.
+
+I also consult part-time for Open Philanthropy. In the past I have worked at OpenAI and been a coach for the USA Computing Olympiad and an instructor at SPARC. As a graduate student, I was very fortunate to be advised by Percy Liang. I like ultimate frisbee, power lifting, and indoor bouldering.
+
+Current Ph.D. students and post-docs
+Frances Ding (co-advised with Moritz Hardt)
+Ruiqi Zhong (co-advised with Dan Klein)
+Meena Jagadeesan (co-advised with Mike Jordan)
+Alex Wei (co-advised with Nika Haghtalab and Mike Jordan)
+Jean-Stanislas Denain
+Collin Burns (co-advised with Dan Klein)
+Erik Jones
+Alex Pan
+Kayo Yin (co-advised with Dan Klein)
+
+I am also fortunate to collaborate with many students who I do not directly advise, as can be seen from my publications page.
+
+Former PhD. students and post-docs
+Dan Hendrycks (co-advised with Dawn Song; now director of the Center for AI Safety)
+Adam Sealfon (post-doc with Mike Jordan; now research scientist at Google Research)
+Essays
+
+For more recent writing, see my blog.
+
+AI Alignment Research Overview (October 2019) link
+Research as a Stochastic Decision Process (December 2018) link
+Long-Term and Short-Term Challenges to Ensuring the Safety of AI Systems (June 2015) link
+The Power of Noise (June 2014) link
+A Fervent Defense of Frequentist Statistics (February 2014) link
+Beyond Bayesians and Frequentists (October 2012) link
+FOLLOW: FEED
+© 2024 Jacob Steinhardt.
+

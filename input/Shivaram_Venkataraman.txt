@@ -1,0 +1,150 @@
+Professor: Shivaram Venkataraman
+University: University of Wisconsin - Madison
+URL: http://shivaram.org/
+Description: Shivaram Venkataraman
+Assistant Professor, Computer Science, University of Wisconsin-Madison
+Office: 7367 CS. Email: shivaram at cs.wisc.edu
+Teaching
+	
+Group
+	
+Publications
+	
+CV
+
+I am an Assistant Professor in the Computer Science Department at University of Wisconsin, Madison. My research interests are in designing systems and algorithms for large scale data analysis and machine learning. My dissertation research looked at abstractions that make it easier to express new machine learning algorithms and systems that can improve their performance.
+
+Before coming to Madison, I was a post-doctoral researcher in the Systems Research Group at Microsoft Research in Redmond. Previously, I completed my PhD from UC Berkeley where I was advised by Ion Stoica and Mike Franklin. I also have a Masters from University of Illinois at Urbana-Champaign and worked in the Systems Research Group, with Prof. Roy Campbell.
+
+Teaching
+
+CS 537 Intro to OS: S23 S20 S19
+
+CS 744 Big Data Systems: F22 F21 F20 F19 F18
+
+CS 839: Advanced Machine Learning Systems: S22
+
+Group
+Saurabh Agarwal (Phd Student, co-advised with Dimitris Papailiopoulos)
+Jason Mohoney (Phd Student, co-advised with Theodoros Rekatsinas)
+Konstantinos Kanellis (Phd Student)
+Rutwik Jain (Phd Student, co-advised with Matt Sinclair)
+Brandon Tran (Phd Student, co-advised with Matt Sinclair)
+Song Bian (Phd Student)
+Minghao Yan (Phd Student)
+Johannes Freischuetz (Phd Student)
+Tzu-Tao Chang (Phd Student)
+Alumni
+Pengfei Zheng (Post-doc, co-advised with Aditya Akella)
+Aditi Singh (MS)
+Rachit Tibrewal (MS)
+Olesia Elfimova (MS, to Dropbox)
+Adarsh Kumar (MS, to Amazon Alexa AI)
+Arjun Balasubramanian (MS, to Amazon AWS)
+Wei Hao (BS, to Columbia)
+Yiheng Xu (BS, to Maryland)
+Yuhan Liu (BS, to UChicago)
+Ziyi Zhang (BS, to UChicago)
+Rui Pan (BS, to Princeton)
+Lynn Liu (BS, to UC Berkeley)
+Prasoon Sinha (BS, to UT Austin)
+Anze Xie (BS, to UCSD)
+Anders Carlsson (BS, to Amazon)
+Recent Publications
+
+Meguru Yamazaki, Shivaram Venkataraman CO2: Precise Attention Score Observation for improving KV Cache Replacement in Large Language Model - Efficient Systems for Foundation Models (ES-FoMO) Workshop at the International Conference on Machine Learning (ICML) 2024
+
+Rutwik Jain, Brandon Tran, Keting Chen, Matthew Sinclair, Shivaram Venkataraman PAL: A Variability-Aware Policy for Scheduling ML Workloads in GPU Clusters - International Conference for High Performance Computing, Networking, Storage and Analysis (Supercomputing 2024)
+
+Konstantinos Kanellis, Johannes Freischuetz, Shivaram Venkataraman Nautilus: A Benchmarking Platform for DBMS Knob Tuning - DEEM Workshop 2024
+
+Saurabh Agarwal, Bilge Acun, Basil Homer, Mostafa Elhoushi, Yejin Lee, Shivaram Venkataraman, Dimitris Papailiopoulos, Carole-Jean Wu CHAI: Clustered Head Attention for Efficient LLM Inference - ICML 2024
+
+Song Bian, Dacheng Li, Hongyi Wang, Eric Xing, Shivaram Venkataraman Does compressing activations help model parallel training? - MLSys 2024
+
+Saurabh Agarwal, Amar Phanishayee, Shivaram Venkataraman Blox: A Modular Toolkit for Deep Learning Schedulers - Eurosys 2024
+
+2023
+
+Saurabh Agarwal, Chengpo Yan, Ziyi Zhang, Shivaram Venkataraman BagPipe: Accelerating Deep Recommendation Model Training - SOSP 2023
+
+Qiyang Ding, Pengfei Zheng, Shreyas Kudari, Shivaram Venkataraman, Zhao Zhang Mirage: Towards Low-interruption Services on Batch GPU clusters with Reinforcement Learning - International Conference for High Performance Computing, Networking, Storage and Analysis (Supercomputing 2023)
+
+Roger Waleffe, Jason Mohoney, Theodoros Rekatsinas, Shivaram Venkataraman MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks - Eurosys 2023
+
+Pengfei Zheng, Rui Pan, Tarannum Khan, Shivaram Venkataraman, Aditya Akella Shockwave: Fair and Efficient Cluster Scheduling for Dynamic Adaptation in Machine Learning - NSDI 2023
+
+Harsh Darshan Sapra, Olesia Elfimova, Sahana Upadhya, Lukas Desorcy, Michael Wagner, Shivaram Venkataraman, Chol-Bum Kweon, Sage Kokjohn, Justin Shumaker Estimating Battery State-of-Charge within 1% using Machine Learning and Physics-based Models - SAE World Congress 2023
+
+2022
+
+Prasoon Sinha, Akhil Guliani, Rutwik Jain, Matthew Sinclair, Shivaram Venkataraman Not All GPUs Are Created Equal: Characterizing Variability in Large-Scale, Accelerator-Rich Systems - International Conference for High Performance Computing, Networking, Storage and Analysis (Supercomputing 2022)
+
+Konstantinos Kanellis, Cong Ding, Brian Kroth, Andreas Müller, Carlo Curino, Shivaram Venkataraman LlamaTune: Sample-Efficient DBMS Configuration Tuning - VLDB 2022
+
+Saurabh Agarwal, Hongyi Wang, Shivaram Venkataraman, Dimitris Papailiopoulos On the Utility of Gradient Compression in Distributed Training Systems - MLSys 2022
+
+2021
+
+Anze Xie, Anders Carlsson, Jason Mohoney, Roger Waleffe , Shanan Peters, Theodoros Rekatsinas, Shivaram Venkataraman Demonstration of Marius: Graph Embeddings with a Single Machine - VLDB 2021
+
+Adarsh Kumar, Kausik Subramanian, Shivaram Venkataraman, Aditya Akella Doing more by doing less: how structured partial backpropagation improves deep learning clusters - DistributedML Workshop at CoNEXT 2021
+
+Gregory Pauloski, Qi Huang, Lei Huang, Shivaram Venkataraman, Kyle Chard, Ian Foster, Zhao Zhang KAISA: An Adaptive Second-order Optimizer Framework for Deep Neural Networks - International Conference for High Performance Computing, Networking, Storage and Analysis (SC21)
+
+Jason Mohoney, Roger Waleffe, Yiheng Xu, Theodoros Rekatsinas, Shivaram Venkataraman Marius: Learning Massive Graph Embeddings on a Single Machine - OSDI 2021
+
+Arjun Singhvi, Arjun Balasubramanian, Kevin Houck, Mohammed Danish Shaikh, Shivaram Venkataraman, Aditya Akella Atoll: A Scalable Low-Latency Serverless Platform - SoCC 2021
+
+Saurabh Agarwal, Hongyi Wang, Kangwook Lee, Shivaram Venkataraman, Dimitris Papailiopoulos Accordion: Adaptive Gradient Communication via Critical Learning Regime Identification - MLSys 2021
+
+Le Xu, Shivaram Venkataraman, Indranil Gupta, Luo Mai and Rahul Potharaju Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo - NSDI 2021
+
+Yuhan Liu, Saurabh Agarwal, Shivaram Venkataraman AutoFreeze: Automatically Freezing Model Blocks to Accelerate Fine-tuning - arXiv preprint code
+
+Arjun Balasubramanian, Adarsh Kumar, Yuhan Liu, Han Cao, Shivaram Venkataraman, Aditya Akella Accelerating Deep Learning Inference via Learned Caches - arXiv preprint
+
+2020
+
+Vaishaal Shankar, Karl Krauth, Kailas Vodrahalli, Qifan Pu, Ion Stoica, Benjamin Recht, Jonathan Ragan-Kelley, Eric Jonas, Shivaram Venkataraman Serverless Linear Algebra - SoCC 2020
+
+Konstantinos Kanellis, Ramnatthan Alagappan, Shivaram Venkataraman. Too Many Knobs to Tune? Towards Faster Database Tuning by Pre-selecting Important Knobs - HotStorage 2020
+
+Kshiteej Mahajan, Arjun Balasubramanian, Arjun Singhvi, Shivaram Venkataraman, and Aditya Akella, Amar Phanishayee, Shuchi Chawla. Themis: Fair and Efficient GPU Cluster Scheduling - NSDI 2020
+
+Guanhua Wang, Shivaram Venkataraman, Amar Phanishayee, Nikhil Devanur, Jorgen Thelin, Ion Stoica Blink: Fast and Generic Collectives for Distributed ML - MLSys 2020
+
+2019
+
+Jack Kosaian, K.V. Rashmi, Shivaram Venkataraman Parity Models: Erasure-Coded Resilience for Prediction Serving Systems - SOSP 2019
+
+Myeongjae Jeon, Shivaram Venkataraman, Amar Phanishayee, Junjie Qian, Wencong Xiao, Fan Yang Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads - USENIX ATC 2019
+
+John Emmons, Sadjad Fouladi, Ganesh Ananthanarayanan, Shivaram Venkataraman, Silvio Savarese, Keith Winstein Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary - Hot Topics in Video Analytics and Intelligent Edges (HotEdgeVideo 2019)
+
+Qifan Pu, Shivaram Venkataraman, Ion Stoica Shuffling, Fast and Slow: Scalable Analytics on Serverless Infrastructure - NSDI 2019
+
+2018
+
+Anand Padmanabha Iyer, Zaoxing Liu and Xin Jin, Shivaram Venkataraman, Vladimir Braverman, Ion Stoica ASAP: Fast, Approximate Pattern Mining at Scale - OSDI 2018
+
+Kevin Hsieh, Ganesh Ananthanarayanan, Peter Bodik, Shivaram Venkataraman, Paramvir Bahl, and Matthai Philipose, Phillip B. Gibbons, Onur Mutlu Focus: Querying Large Video Datasets with Low Latency and Low Cost - OSDI 2018
+
+Luo Mai, Kai Zeng, Rahul Potharaju, Le Xu, Steve Suh, Shivaram Venkataraman, Paolo Costa, Terry Kim, Saravanam Muthukrishnan, Vamsi Kuppa, Sudheer Dhulipalla, Sriram Rao Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems - VLDB 2018
+
+2017
+
+Shivaram Venkataraman System Design for Large Scale Machine Learning - PhD Dissertation
+
+Shivaram Venkataraman, Aurojit Panda, Kay Ousterhout, Michael Armbrust, Ali Ghodsi, Michael J. Franklin, Benjamin Recht, Ion Stoica Drizzle: Fast and Adaptable Stream Processing at Scale - SOSP 2017
+
+Eric Jonas, Qifan Pu, Shivaram Venkataraman, Ion Stoica, Benjamin Recht Occupy the Cloud: Distributed Computing for the 99% - SoCC 2017 - arxiv version
+
+Stephen Tu, Shivaram Venkataraman, Ashia C. Wilson, Alex Gittens, Michael I. Jordan, Benjamin Recht Breaking Locality Accelerates Block Gauss-Seidel - ICML 2017 arxiv version
+
+Evan R. Sparks, Shivaram Venkataraman, Tomer Kaftan, Michael J. Franklin, Benjamin Recht KeystoneML: Optimizing Pipelines for Large-Scale Advanced Analytics - ICDE 2017 arxiv version
+
+Omid Alipourfard, Jianshu Chen, Hongqiang Liu, Shivaram Venkataraman, Minlan Yu, Ming Zhang Cherry Pick: Adaptively Unearthing the Best Cloud Configurations for Big Data Analytics - NSDI 2017
+
+Please see here for a complete list.
+

@@ -1,0 +1,102 @@
+Professor: J. Alex Halderman
+University: University of Michigan
+URL: https://jhalderm.com/
+Description: J. Alex Halderman
+Bredt Family Professor of Computer Science & Engineering, University of Michigan
+Director, University of Michigan Center for Computer Security and Society
+Director, Michigan CSE Systems Lab
+email:	jhalderm@umich.edu  [pgp]
+office:	+1 734-647-1806
+	Beyster Building, Room 4717
+2260 Hayward Street
+Ann Arbor, MI  48109-2121
+twitter:	@jhalderm
+	
+» curriculum vitae
+Research and advising
+
+My research focuses on computer security and privacy, with an emphasis on problems that broadly impact society and public policy. Topics that interest me include software security, network security, security measurement, privacy and anonymity, election cybersecurity, censorship resistance, computer forensics, and online crime. I'm also interested in the interaction of technology with law and policy, politics, and international affairs.
+
+Members of my lab include: Braden Crimmins, Mingye Chen, Erik Chi, and Dhanya Narayanan. Alumni include: Allison McDonald, Matthew Bernhard, Benjamin VanderSloot, David Adrian, Zakir Durumeric, Drew Springall, Eric Wustrow, James Kasten, Max Froehlich, Rose Howell, Steve Sprecher, Travis Finkenauer, Scott Wolchok, Nakul Bajaj, Kartikeya Kandula, Gabrielle Beck, Ben Burgess, Carson Hoffman, Ariana Mirian, Deepak Kumar, Josiah Walker. Colleen Swanson, Will Scott.
+
+» past semesters
+Teaching
+
+Fall 2024 — EECS 388: Introduction to Computer Security
+
+Fall 2024 — EECS 498.8: Election Cybersecurity
+
+Coursera — Securing Digital Democracy (massive online course)
+
+» all publications
+Selected publications
+
+The Antrim County 2020 Election Incident: An Independent Forensic Investigation
+J. Alex Halderman
+31st USENIX Security Symposium
+Sec ’22, Boston, August 2022 — Best paper award
+
+OpenVPN is Open to VPN Fingerprinting
+Diwen Xue, Reethika Ramesh, Arham Jain, Michalis Kallitsis, J. Alex Halderman, Jedidiah R. Crandall, and Roya Ensafi
+31st USENIX Security Symposium
+Sec ’22, Boston, August 2022 — Best paper award — Internet Defense Prize
+
+Security Analysis of Georgia’s ImageCast X Ballot Marking Devices
+J. Alex Halderman and Drew Springall
+Expert report submitted on behalf of plaintiffs Donna Curling, et al. in Curling v. Raffensperger, Civil Action No. 1:17-CV-2989-AT, U.S. District Court for the Northern District of Georgia, July 1, 2021 — blog post; CISA advisory
+
+Can Voters Detect Malicious Manipulation of Ballot Marking Devices?
+Matthew Bernhard, Allison McDonald, Henry Meng, Jensen Hwa, Nakul Bajaj, Kevin Chang, and J. Alex Halderman
+41st IEEE Symposium on Security and Privacy
+Oakland ’20, San Francisco, May 2020 — Best student paper award
+
+Let’s Encrypt: An Automated Certificate Authority to Encrypt the Entire Web
+Josh Aas, Richard Barnes, Benton Case, Zakir Durumeric, Peter Eckersley, Alan Flores-López, J. Alex Halderman, Jacob Hoffman-Andrews, James Kasten, Eric Rescorla, Seth Schoen, and Brad Warren
+26th ACM Conference on Computer and Communications Security
+CCS ’19, London, November 2019
+
+DROWN: Breaking TLS using SSLv2  (site)
+Nimrod Aviram, Sebastian Schinzel, Juraj Somorovsky, Nadia Heninger, Maik Dankel, Jens Steube, Luke Valenta, David Adrian, J. Alex Halderman, Viktor Dukhovni, Emilia Käsper, Shaanan Cohney, Susanne Engels, Christof Paar, and Yuval Shavitt
+25th USENIX Security Symposium
+Sec ’16, Austin, TX, August 2016 — Pwnie Award for best crypto attack
+
+Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice  (site)
+David Adrian, Karthikeyan Bhargavan, Zakir Durumeric, Pierrick Gaudry, Matthew Green, J. Alex Halderman, Nadia Heninger, Drew Springall, Emmanuel Thomé, Luke Valenta, Benjamin VanderSloot, Eric Wustrow, Santiago Zanella-Béguelin, and Paul Zimmermann
+22nd ACM Conference on Computer and Communications Security
+CCS ’15, Oct. 2015; reprinted in Commun. ACM, 2019 — Best paper award
+
+Neither Snow nor Rain nor MITM: An Empirical Analysis of Email Delivery Security
+Zakir Durumeric, David Adrian, Ariana Mirian, James Kasten, Elie Bursztein, Nicholas Lidzborski, Kurt Thomas, Vijay Eranti, Michael Bailey, and J. Alex Halderman
+15th ACM Internet Measurement Conference
+IMC ’15, Tokyo, October 2015 — Applied Networking Research Prize
+
+The Matter of Heartbleed  (site)
+Zakir Durumeric, Frank Li, James Kasten, Johanna Amann, Jethro Beekman, Mathias Payer, Nicolas Weaver, David Adrian, Vern Paxson, Michael Bailey, and J. Alex Halderman
+14th ACM Internet Measurement Conference
+IMC ’14, Vancouver, November 2014 — Best paper award
+
+ZMap: Fast Internet-wide Scanning and its Security Applications  (site)
+Zakir Durumeric, Eric Wustrow, and J. Alex Halderman
+22nd USENIX Security Symposium
+Sec ’13, Washington, D.C., August 2013
+
+Mining Your Ps and Qs: Widespread Weak Keys in Network Devices  (site)
+Nadia Heninger, Zakir Durumeric, Eric Wustrow, and J. Alex Halderman
+21st USENIX Security Symposium
+Sec ’12, Bellevue, WA, August 2012 — Best paper award — Test of time award
+
+Telex: Anticensorship in the Network Infrastructure  (site)
+Eric Wustrow, Scott Wolchok, Ian Goldberg, and J. Alex Halderman
+20th USENIX Security Symposium
+Sec ’11, San Francisco, August 2011 — PET award runner-up
+
+Security Analysis of India’s Electronic Voting Machines  (video)
+Scott Wolchok, Eric Wustrow, J. Alex Halderman, Hari K. Prasad, Arun Kankipati, Sai Krishna Sakhamuri, Vasavya Yagati, and Rop Gonggrijp
+17th ACM Conference on Computer and Communications Security
+CCS ’10, Chicago, October 2010
+
+Lest We Remember: Cold Boot Attacks on Encryption Keys  (video)
+J. Alex Halderman, Seth Schoen, Nadia Heninger, William Clarkson, William Paul, Joseph A. Calandrino, Ariel Feldman, Jacob Appelbaum, and Edward W. Felten
+17th USENIX Security Symposium — Best student paper award
+Sec ’08, San Jose, CA, August 2008; reprinted in Commun. ACM, May 2009
+

@@ -1,0 +1,101 @@
+Professor: William Yeoh 0001
+University: Washington University in St. Louis
+URL: https://sites.wustl.edu/wyeoh
+Description: home
+(current)
+research
+publications
+people
+contact
+YODA Lab
+
+The Yeoh’s Optimization and Decision Analytics (YODA) Lab at Washington University in St. Louis uses artificial intelligence based techniques to develop intelligent agent-based systems. Historically, the group has used methods based on decision theory, constraint programming, and heuristic search for intelligent single- and multi-agent systems.
+
+More recently, the group has focused on interdisciplinary approaches to enable human-AI collaboration through human-aware decision-making algorithms. Please visit our research page to find more information on our current research projects!
+
+recent news
+Jun 2024:	CP papers on incomplete DCOPs and communication-aware DCOPs accepted.
+Apr 2024:	IJCAI paper on multi-objective search accepted.
+Dec 2023:	AAMAS paper on polarization in social networks accepted.
+Aug 2023:	Received a BSF grant with Roie Zivan to work on explainable DCOPs!
+Jul 2023:	ECAI papers on explainable scheduling and personalized explanations accepted.
+selected publications
+AIJ
+Simple and Efficient Bi-Objective Search Algorithms via Fast Dominance Checks
+Carlos Hernández, William Yeoh, Jorge A. Baier, and 4 more authors
+Artificial Intelligence, 2023
+ABS BIB PDF
+
+Many interesting search problems can be formulated as bi-objective search problems, that is, search problems where two kinds of costs have to be minimized, for example, travel distance and time for transportation problems. Instead of looking for a single optimal path, we compute a Pareto-optimal frontier in bi-objective search, which is a set of paths in which no two paths dominate each other. Bi-objective search algorithms perform dominance checks each time a new path is discovered. Thus, the efficiency of these checks is key to performance. In this article, we propose algorithms for two kinds of bi-objective search problems. First, we consider the problem of computing the Pareto-optimal frontier of the paths that connect a given start state with a given goal state. We propose Bi-Objective A* (BOA*), a heuristic search algorithm based on A*, for this problem. Second, we consider the problem of computing one Pareto-optimal frontier for each state s of the search graph, which contains the paths that connect a given start state with s. We propose Bi-Objective Dijkstra (BOD), which is based on BOA*, for this problem. A common feature of BOA* and BOD is that all dominance checks are performed in constant time, unlike the dominance checks of previous algorithms. We show in our experimental evaluation that both BOA* and BOD are substantially faster than state-of-the-art bi-objective search algorithms.
+
+@article{journals/ai/HernandezYBZSKS23,
+  author = {Hern{\'{a}}ndez, Carlos and Yeoh, William and Baier, Jorge A. and Zhang, Han and Suazo, Luis and Koenig, Sven and Salzman, Oren},
+  title = {Simple and Efficient Bi-Objective Search Algorithms via Fast Dominance Checks},
+  journal = {Artificial Intelligence},
+  volume = {314},
+  pages = {103807},
+  year = {2023},
+}
+JAIR
+Communication-Aware Local Search for Distributed Constraint Optimization
+Ben Rachmut, Roie Zivan, and William Yeoh
+Journal of Artificial Intelligence Research, 2022
+ABS BIB PDF
+
+Most studies investigating models and algorithms for distributed constraint optimization problems (DCOPs) assume that messages arrive instantaneously and are never lost. Specifically, distributed local search DCOP algorithms, have been designed as synchronous algorithms (i.e., they perform in synchronous iterations in which each agent exchanges messages with all its neighbors), despite running in asynchronous environments. This is true also for an anytime mechanism that reports the best solution explored during the run of synchronous distributed local search algorithms. Thus, when the assumption of perfect communication is relaxed, the properties that were established for the state-of-the-art local search algorithms and the anytime mechanism may not necessarily apply. In this work, we address this limitation by: (1) Proposing a Communication-Aware DCOP model (CA-DCOP) that can represent scenarios with different communication disturbances; (2) Investigating the performance of existing local search DCOP algorithms, specifically Distributed Stochastic Algorithm (DSA) and Maximum Gain Messages (MGM), in the presence of message latency and message loss; (3) Proposing a latency-aware monotonic distributed local search DCOP algorithm; and (4) Proposing an asynchronous anytime framework for reporting the best solution explored by non-monotonic asynchronous local search DCOP algorithms. Our empirical results demonstrate that imperfect communication has a positive effect on distributed local search algorithms due to increased exploration. Furthermore, the asynchronous anytime framework we proposed allows one to benefit from algorithms with inherent explorative heuristics.
+
+@article{journals/jair/RachmutZ022,
+  author = {Rachmut, Ben and Zivan, Roie and Yeoh, William},
+  title = {Communication-Aware Local Search for Distributed Constraint Optimization},
+  journal = {Journal of Artificial Intelligence Research},
+  volume = {75},
+  pages = {637--675},
+  year = {2022},
+}
+JAIR
+A Logic-Based Explanation Generation Framework for Classical and Hybrid Planning Problems
+Stylianos Loukas Vasileiou, William Yeoh, Tran Cao Son, and 3 more authors
+Journal of Artificial Intelligence Research, 2022
+ABS BIB PDF
+
+In human-aware planning systems, a planning agent might need to explain its plan to a human user when that plan appears to be non-feasible or sub-optimal. A popular approach, called model reconciliation, has been proposed as a way to bring the model of the human user closer to the agent”s model. To do so, the agent provides an explanation that can be used to update the model of human such that the agent’s plan is feasible or optimal to the human user. Existing approaches to solve this problem have been based on automated planning methods and have been limited to classical planning problems only. In this paper, we approach the model reconciliation problem from a different perspective, that of knowledge representation and reasoning, and demonstrate that our approach can be applied not only to classical planning problems but also hybrid systems planning problems with durative actions and events/processes. In particular, we propose a logicbased framework for explanation generation, where given a knowledge base KBa (of an agent) and a knowledge base KBh (of a human user), each encoding their knowledge of a planning problem, and that KBa entails a query q (e.g., that a proposed plan of the agent is valid), the goal is to identify an explanation ⊆KBa such that when it is used to update KBh, then the updated KBh also entails q. More specifically, we make the following contributions in this paper: (1) We formally define the notion of logic-based explanations in the context of model reconciliation problems; (2) We introduce a number of cost functions that can be used to reflect preferences between explanations; (3) We present algorithms to compute explanations for both classical planning and hybrid systems planning problems; and (4) We empirically evaluate their performance on such problems. Our empirical results demonstrate that, on classical planning problems, our approach is faster than the state of the art when the explanations are long or when the size of the knowledge base is small (e.g., the plans to be explained are short). They also demonstrate that our approach is efficient for hybrid systems planning problems. Finally, we evaluate the real-world efficacy of explanations generated by our algorithms through a controlled human user study, where we develop a proof-of-concept visualization system and use it as a medium for explanation communication.
+
+@article{journals/jair/VasileiouYSKCM22,
+  author = {Vasileiou, Stylianos Loukas and Yeoh, William and Son, Tran Cao and Kumar, Ashwin and Cashmore, Michael and Magazzeni, Daniele},
+  title = {A Logic-Based Explanation Generation Framework for Classical and Hybrid Planning Problems},
+  journal = {Journal of Artificial Intelligence Research},
+  volume = {73},
+  pages = {1473--1534},
+  year = {2022},
+}
+AAMAS
+Algorithmic Filtering, Out-Group Stereotype, and Polarization on Social Media
+Jean Springsteen, William Yeoh, and Dino Christenson
+In International Conference on Autonomous Agents and Multiagent Systems, 2024
+ABS BIB PDF
+
+The introduction of social media websites touted the idea of global communication — exposing users to a worldwide audience and a diverse range of experiences, opinions, and debates. Unfortunately, studies have shown that social networks have instead contributed to growing levels of polarization in society across a wide variety of issues. Social media websites employ algorithmic filtering strategies to drive engagement, which can lead to the formation of filter bubbles and increased levels of polarization. In this paper, we introduce features of affective polarization — feelings towards one’s in-group and out-group — into an opinion dynamics model. Specifically, we show that incorporating a negative out-group stereotype into the opinion dynamics model (1) affects the level of polarization present among agents in the network; (2) changes the effectiveness of algorithmic filtering strategies; and (3) is exacerbated by the presence of extremists in the network. Hence, the inclusion of an affective group mechanism in opinion dynamics modeling provides novel insights into the effects of algorithmic filtering strategies on the extremity of opinions in social networks.
+
+@inproceedings{conf/aamas/Springsteen0C24,
+  author = {Springsteen, Jean and Yeoh, William and Christenson, Dino},
+  title = {Algorithmic Filtering, Out-Group Stereotype, and Polarization on Social Media},
+  booktitle = {International Conference on Autonomous Agents and Multiagent Systems},
+  pages = {to appear},
+  year = {2024},
+}
+ICAPS
+Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems
+Ashwin Kumar, Yevgeniy Vorobeychik, and William Yeoh
+In International Conference on Automated Planning and Scheduling, 2023
+ABS BIB PDF
+
+State-of-the-art order dispatching algorithms for ridesharing batch passenger requests and allocate them to a fleet of vehicles in a centralized manner, optimizing over the estimated values of each passenger-vehicle matching using integer linear programming (ILP). Using good estimates of future values, such ILP-based approaches are able to significantly increase the service rates (percentage of requests served) for a fixed fleet of vehicles. However, such approaches that focus solely on maximizing efficiency can lead to disparities for both drivers (e.g., income inequality) and passengers (e.g., inequality of service for different groups). Existing approaches that consider fairness only do it for naive assignment policies, require extensive training, or look at only single-sided fairness. We propose a simple incentive-based fairness scheme that can be implemented online as a part of this ILP formulation that allows us to improve fairness over a variety of fairness metrics. Deriving from a lens of variance minimization, we describe how these fairness incentives can be formulated for two distinct use cases for passenger groups and driver fairness. We show that under mild conditions, our approach can guarantee an improvement in the chosen metric for the worst-off individual. We also show empirically that our Simple Incentives approach significantly outperforms prior art, despite requiring no retraining; indeed, it often leads to a large improvement over the state-of-the-art fairness-aware approach in both overall service rate and fairness.
+
+@inproceedings{conf/icaps/KumarV023,
+  author = {Kumar, Ashwin and Vorobeychik, Yevgeniy and Yeoh, William},
+  title = {Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems},
+  booktitle = {International Conference on Automated Planning and Scheduling},
+  year = {2023},
+}
+© Copyright 2024 YODA Lab.
+

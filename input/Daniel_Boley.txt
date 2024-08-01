@@ -1,0 +1,93 @@
+Professor: Daniel Boley
+University: University of Minnesota
+URL: http://www-users.cs.umn.edu/~boley
+Description: Daniel Boley                
+Professor
+interests:  	Numerical Linear Algebra, Data Mining, Control Theory, Fault Tolerance.
+email:	lastname _at_ umn.edu
+office:	EE/CSci 4-225C   
+Office Hours:	See Contact Info (requires UofM login)  
+address:	4-192 EE/CSci, 200 Union St SE, Minneapolis, MN 55455
+phone:	(612) 625-3887 (leave message)
+fax:	(612) 625-0572 (you must notify me of an incoming fax by phone message or e-mail)
+	    
+Director of Graduate Studies for   Graduate Program in Data Science   (a degree program offering a Master's of Science and a Post-Baccalaureate Certificate).
+
+Research Interests
+Computational methods in linear algebra, scalable data mining algorithms, algebraic models in systems and evolutionary biology, biochemical metabolic networks. Current projects include scalable computation and analysis of elementary pathways through metabolic networks of single-cell organisms, Markov model of evolution of the avian influenza virus, scalable data mining algorithms for corpora of short text fragments.
+
+Teaching
+
+(Access to some items below may be limited to UMN on-campus hosts)
+CSci 5302 - Spring 2024 - Analysis of Numerical Algorithms. (class lectures to be delivered in person.) 
+CSci 5302 - Spring 2023 - Analysis of Numerical Algorithms. (class lectures to be delivered in person.)
+CSci 8363 - Fall 2022 - Linear Algebra in Data Exploration
+CSci 5302 - Spring 2022 - Analysis of Numerical Algorithms.
+(This class will be delivered electronically with live lectures. Lecture recordings will be posted to Canvas, but most activities will be synchronous.)
+CSci 5304 - Fall 2021 - Computational Aspects of Matrix Theory.
+CSci 5302 - Spring 2021 - Analysis of Numerical Algorithms.
+CSci 5521 (sec 001) - Fall 2020 - Introduction to Machine Learning
+CSci 5302 - Spring 2020 - Analysis of Numerical Algorithms.
+CSci 8363 - Fall 2019 - Linear Algebra in Data Exploration
+CSci 5302 - Spring 2019 - Analysis of Numerical Algorithms.
+CSci 5521 - Fall 2018 - Introduction to Machine Learning
+CSci 5302 - Spring 2018 - Analysis of Numerical Algorithms.
+CSci 8363 - Fall 2017 - Linear Algebra in Data Exploration
+CSci 5302 - Spring 2017 - Analysis of Numerical Algorithms.
+CSci 5302 - Spring 2016 - Analysis of Numerical Algorithms.
+CSci 8363 - Fall 2015 - Linear Algebra in Data Exploration
+(topics: data reduction, data mining, graph theory, [sparse] optimization, . . ., click for details)
+CSci 5304 - Fall 2014 - Computational Aspects of Matrix Theory. CSci 5302 - Spring 2014 - Analysis of Numerical Algorithms.
+CSci 5521 - Spring 2014 - Introduction to Machine Learning (used to be offered under the name Pattern Recognition).
+CSci 2033 - Fall 2013 - Elementary Computational Linear Algebra. CSci 5302 - Spring 2013 - Analysis of Numerical Algorithms.
+CSci 8363 - Fall 2012 - Linear Algebra in Data Exploration
+(topics: data reduction, data mining, graph theory, [sparse] optimization, . . ., click for details)
+CSci 5302 - Spring 2012 - Analysis of Numerical Algorithms.
+CSci 2033 - Fall 2011 - Elementary Computational Linear Algebra.
+CSci 5521 - Fall 2011 - Pattern Recognition.
+CSci 5302 - Spring 2010 - Analysis of Numerical Algorithms.
+Recent Research and Publications
+
+List of Publications.
+Software used to generate the above list directly from a bibtex file.
+Daniel Boley. Optimization in Machine Learning (Slides of opening talk given 4/08/2016 in the Symposium on Mathematics and Big Data at the Delft University of Technology).
+Optimization in Machine Learning (Slides of talk given 2/11/2015 at the Hong Kong Baptist University).
+Principal Direction Divisive Partitioning Project General Information.
+Selected Active Research Projects.
+PDDPdata: Data used in papers on PDDP and WebACE in 1998-1999.
+Software
+
+Clustering Software:
+Software (Matlab Source, Version 2d, updated as of 28 May 2008, distributed as a ZIP file)
+Slides for talk on Principal Direction Partitioning in Data Mining, given at Stanford, February, 2000.
+Sample PDDP Tree generated from Gene Expression Data (now with clickable map).
+Similar PDDP Tree obtained after pruning the list of genes (now with clickable map).
+
+Dot Plot Viewer suitable for long common substrings
+
+Dot.py - a fast Dot genome viewer suitable when searching common substrings of length at least 10. Reads FASTA files. (updated 10/05/2021) 
+
+Graphics Software for Introductory Courses:
+
+gdraw.stk, Scheme Graphics: a simple interface to the TK graphics toolbox (canvas objects) for STK. (updated 11/26/05)
+testgdraw.stk, Simple Example Driver
+bounce.stk, Simple Bouncing Ball & Paddle Game Demo.
+gdraw.py, Python 2 Graphics: a simple interface to the TK graphics toolbox (canvas objects) for python 2. (updated 08/25/14)
+testgdraw.py, Simple Example Driver
+bounce.py, Simple Bouncing Ball & Paddle Game Demo.
+gdraw3.py, Python 3 Graphics: a simple interface to the TK graphics toolbox (canvas objects) for python 3. (updated 08/25/14)
+testgdraw3.py, Simple Example Driver
+bounce3.py, Simple Bouncing Ball & Paddle Game Demo.
+gdraw.pl, Perl Graphics: a beta version of the same simple Tk interface in Perl. (updated 01/07/08)
+gdraw.pm, Perl Graphics as a Module (needs gdraw.pl).
+testgdraw.pl, Simple Example Driver
+bounce.pl, Simple Bouncing Ball & Paddle Game Demo.
+
+Miscellaneous
+
+Ghostscript Fontmap to embed fonts into PDF documents from latex and other sources, including some automatic font substitutions (e.g. Times-Roman -> Times-New-Roman).
+scm-stuff A very random collection of linear algebra and numerical tools written in scheme (distributed as a ZIP file).
+My FTP Site
+
+Go back to CSci Department Home Page
+

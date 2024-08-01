@@ -1,0 +1,737 @@
+Professor: Anshul Gandhi
+University: Stony Brook University
+URL: http://www3.cs.stonybrook.edu/~anshul
+Description: 
+    
+
+
+         
+Anshul Gandhi
+
+Associate Professor
+Department of Computer Science
+Department of Applied Mathematics & Statistics (affiliate appointment)
+Stony Brook University
+
+Office: 347, Computer Science.  Phone: (631) 632-8475.
+Email: anshul (at) cs (dot) stonybrook (dot) edu
+Lab: 336, Computer Science.  PACE Lab.
+Twitter: @PACELab_SBU.
+
+CV: [pdf] (updated: March 2024)
+
+
+[News]   [Background]   [Research Interests]   [Awards]   [Publications]   [Funding]   [Patents]   [Teaching]   [Service]   [PACE Lab]   [Gallery]
+
+
+I am an Associate Professor in the Department of Computer Science at Stony Brook University, where I lead the PACE Lab.
+I am broadly interested in systems and performance modeling. My research aims to improve system performance via analytical tools.
+My recent projects include interference-aware performance modeling and management and dynamic provisioning of cloud-deployed applications.
+Please see my research interests and publications below for more information.
+Feel free to email me if you want to learn more about my research and are interested in joining my group.
+
+[Brief (third-person) bio]
+
+News:
+
+[Top]
+
+July 2024: Our proposed work on sustainable LLM deployments received an OVPR Seed Grant Award. Thanks, SBU!
+June 2024: Serving as General Co-Chair for ACM Sigmetrics 2025, to be held at Stony Brook University!
+May 2024: Our collaborative work with the Business School on sustainable data centers was awarded an IBM Center for The Business of Government research grant.
+March 2024: Deb's work on evaluating ML models for per-job power prediction is accepted at the HotCloudPerf 2024 workshop. Congratulations, Deb!
+March 2024: Our collaborative work with FSL on accelerating storage system simulations is accepted to appear in the Performance Evaluation journal.
+March 2024: Our work on detecting multiple bottlenecks in microservices applications is accepted (oral presentation) to WWW 2024. Congratulations to Gagan and Anurag!
+January 2024: Our proposed work on reducing the energy consumption of DNNs received an OVPR Seed Grant Award. Thanks, SBU!
+February 2024: Our collaborative work on verifiable sustainability in data centers will appear in the IEEE Security & Privacy Magazine.
+January 2024: Serving on the TPC for USENIX ATC 2024.
+January 2024: Serving on the TPC for MASCOTS 2024.
+November 2023: Rebecca's BBR vs. BBR2 work is accepted to COMSNETS 2024. Congratulations, Rebecca!
+October 2023: Our sustainability metrics HotCarbon'22 paper will also appear in ACM SIGEnergy Energy Informatics Review (Volume 3, Issue 3).
+September 2023: Serving as lead guest editor for the PEVA SI on Performance Analysis and Evaluation of Systems for Artificial Intelligence.
+September 2023: Our preliminary work with FSL on persistent memory research is accepted at the DIMES 2023 workshop.
+September 2023: NSF funds our sustainable computing efforts on extending the lifetime of computer systems. Thanks NSF!
+August 2023: Our preliminary work on sustainable DNN deployment on the edge is accepted as a WIP to IGSC 2023. Congrats to Anurag and Pramodh!
+August 2023: Our collaborative work with FSL on multi-tier caches is accepted to MASCOTS 2023.
+August 2023: Gagan's work on truncating Markov chains is accepted to appear in the Performance Evaluation journal. Congratulations, Gagan!
+July 2023: Our collaborative work with MSR India on configuration tuning is accepted to NSDI 2024! Congratulations to Gagan!
+July 2023: Serving on the TPC for Sigmetrics 2024.
+June 2023: Excited to serve as Secretary-Treasurer for SIGMETRICS!.
+April 2023: Serving as General Co-Chair for IEEE GreenCom 2023.
+February 2023: Elevated to IEEE Senior Member grade.
+January 2023: Excited to serve as PC Co-Chair for MASCOTS 2023, to be held at Stony Brook University!
+[more]
+
+Background:
+
+[Top]
+
+I was a Post Doctoral Researcher in the Cloud Optimization and Analytics group at the IBM T. J. Watson Research Center from 2013 to 2014.
+I completed my Ph.D. in 2013 from the Computer Science Department at Carnegie Mellon University where I was advised by Prof. Mor Harchol-Balter.
+My Ph.D. thesis, Dynamic Server Provisioning for Data Center Power Management, was awarded the 2013 SPEC Distinguished Dissertation Award.
+I completed my undergraduate studies in 2007 from the Department of Computer Science and Engineering at Indian Institute of Technology, Kanpur.
+
+
+Research Interests:
+
+[Top]
+
+I am interested in applying theory to systems. In particular, my research aims to leverage mathematical tools such as {Performance Modeling, Queueing Theory, Machine Learning, Control Theory} to analyze the behavior of systems such as {Distributed Systems, Cloud, Data Centers, ML Systems} and to optimize metrics of interest such as {Performance, Energy}.
+
+Some of my current projects include:
+
+Sustainable copmuting (HotCloudPerf '24, S&P Magazine '24, IGSC '23, EIR '23, HotCarbon '22)
+Performance optimization for microservices applications (WWW '24, NSDI '24, ACSOS '22, ICPE '22, EuroMLSys '21)
+Resource management and scheduling in serverless environments (SOCC '21, ACSOS '20)
+Performance management for ML systems such as TensorFlow (SOCC' 22, Middleware '21, IISWC '20)
+Storage performance modeling (Performance Evaluation '24, MASCOTS '23, DIMES '23, MASCOTS '19, Performance Evaluation '20)
+Network performance modeling (COMSNETS '24, IMC '22, WWW '21, IMC '19, IMC '19, Sigcomm '17, Sigmetrics '17, Sigmetrics '16)
+Interference-aware performance modeling and management (SOCC' 22, SOCC '19, MASCOTS '19, Middleware '17, MASCOTS '17, ICAC '17, SOCC '16, IC2E '16, ICCAC '15)
+Resource scaling for cloud applications (ICDCS '22, ICDCS '18, TCC '17, Middleware '17, SUSCOM '17, SoSyM '17, IGSC '16, IC2E '16, ICCAC '15, ICAC '14, SBAC '14)
+[older projects]
+
+Selected Awards and Honors:
+
+[Top]
+
+Research Excellence Award, Department of Computer Science, Stony Brook University, 2019
+Best Paper Award, 27th IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2019
+ACM Sigmetrics Rising Star Research Award, 2019
+Best Student Paper Award, 38th IEEE International Conference on Distributed Computing Systems (ICDCS), 2018
+NSF Career Award, 2018
+Google Faculty Research Award, 2015
+IBM Faculty Award, 2015
+SPEC Distinguished Dissertation Award, 2013
+Best Paper Award, 2nd IEEE International Green Computing Conference (IGCC), 2011
+
+Publications:      [Google Scholar]  [DBLP]  [ResearchGate]
+
+[Top]
+
+2024
+Empirical Evaluation of ML Models for Per-Job Power Prediction
+Debajyoti Halder, Manas Acharya, Aniket Malsane, Anshul Gandhi, Erez Zadok
+HotCloudPerf 2024 [pdf]
+
+
+Accelerating Multi-Tier Storage Cache Simulations Using Knee Detection
+Tyler Estro, Mário Antunes, Pranav Bhandari, Anshul Gandhi, Geoff Kuenning, Yifei Liu, Carl Waldspurger, Avani Wildani, Erez Zadok
+Performance Evaluation [link]
+
+
+GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications
+Gagan Somashekar, Anurag Dutt, Mainak Adak, Tania Lorido Botran, Anshul Gandhi
+WWW 2024 [pdf]   (Oral)   (Artifact Available)
+
+
+Verifiable Sustainability in Data Centers
+Syed Rafiul Hussain, Patrick McDaniel, Anshul Gandhi, Kanad Ghose, Kartik Gopalan, Dongyoon Lee, Yu David Liu, Zhenhua Liu, Shuai Mu, Erez Zadok
+IEEE Security & Privacy Magazine [pdf]
+
+
+BBR vs. BBRv2: A Performance Evaluation
+Rebecca Drucker, Gauri Baraskar, Aruna Balasubramanian, Anshul Gandhi
+COMSNETS 2024 [pdf]
+
+
+OpperTune: Post-Deployment Configuration Tuning of Services Made Easy
+Gagan Somashekar, Karan Tandon, Anush Kini, Ranjita Bhagwan, Anshul Gandhi, Mayukh Das, Nagarajan Natarajan, Petr Husak, Chieh-Chun Chang
+NSDI 2024 [pdf]
+
+
+2023
+Metrics for Sustainability in Data Centers
+Anshul Gandhi, Kanad Ghose, Kartik Gopalan, Syed Rafiul Hussain, Dongyoon Lee, Yu David Liu, Zhenhua Liu, Patrick McDaniel, Shuai Mu, Erez Zadok
+ACM SIGEnergy Energy Informatics Review [pdf]
+
+
+Evaluating the energy impact of device parameters for DNN inference on edge
+Anurag Dutt, Sri Pramodh Rachuri, Ashley Lobo, Nazeer Shaik, Anshul Gandhi, Zhenhua Liu
+IGSC 2023 [pdf]
+
+
+Persistent Memory Research in the Post-Optane Era
+Peter Desnoyers, Andy Rudoff, Ian Adams, Tyler Estro, Anshul Gandhi, Geoff Kuenning, Mike Mesnier, Carl Waldspurger, Avani Wildani, Erez Zadok
+DIMES 2023 [pdf]
+
+
+Guiding Simulations of Multi-Tier Storage Caches Using Knee Detection
+Tyler Estro, Mário Antunes, Pranav Bhandari, Anshul Gandhi, Geoff Kuenning, Yifei Liu, Carl Waldspurger, Avani Wildani, Erez Zadok
+MASCOTS 2023 [pdf]
+
+
+Efficient and Accurate Lyapunov function-based Truncation Technique for Multi-Dimensional Markov Chains
+with Applications to Discriminatory Processor Sharing and Priority Queues
+Gagan Somashekar, Mohammad Delasay, Anshul Gandhi
+Performance Evaluation [link]
+
+
+2022
+Predicting Network Buffer Capacity for BBR Fairness
+Umit Akgun, Santiago Vargas, Michael Arkhangelskiy, Andrew Burford, Michael McNeill, Aruna Balasubramanian, Anshul Gandhi, Erez Zadok
+ML for Systems 2022 [pdf]
+
+
+SLO-Aware Space-Time GPU Sharing for DL Workloads
+Ubaid Ullah Hafeez, Anshul Gandhi
+Poster @ SOCC 2022 [pdf]
+
+
+Are Mobiles ready for BBR?
+Santiago Vargas, Gautham Gunapati, Aruna Balasubramanian, Anshul Gandhi
+IMC 2022 [pdf]
+
+
+Truncating Multi-Dimensional Markov Chains with Accuracy Guarantee
+Gagan Somashekar, Mohammad Delasay, Anshul Gandhi
+MASCOTS 2022 [pdf]
+
+
+Reducing the Tail Latency of Microservices Applications via Optimal Configuration Tuning
+Gagan Somashekar, Amoghavarsha Suresh, Saurabh Tyagi, Vikas Dhyani, Krishna Donkada, Anurag Pradhan, Anshul Gandhi
+ACSOS 2022 [pdf]
+
+
+Metrics for Sustainability in Data Centers
+Anshul Gandhi, Kanad Ghose, Kartik Gopalan, Syed Rafiul Hussain, Dongyoon Lee, Yu David Liu, Zhenhua Liu, Patrick McDaniel, Shuai Mu, Erez Zadok
+HotCarbon 2022 [pdf]
+
+
+Optimizing Near-Data Processing for Spark
+Sri Pramodh Rachuri, Arun Gantasala, Prajeeth Emanuel, Anshul Gandhi, Robert Foley, Peter Puhov, Theodoros Gkountouvas, Hui Lei
+ICDCS 2022 [pdf]
+
+
+B-MEG: Bottlenecked-Microservices Extraction Using Graph Neural Networks
+Gagan Somashekar, Anurag Dutt, Rohith Vaddavalli, Sai Bhargav Varanasi, Anshul Gandhi
+ICPE 2022 [pdf]
+
+
+2021
+ServerMore: Opportunistic Execution of Serverless Functions in the Cloud
+Amoghavarsha Suresh, Anshul Gandhi
+SOCC 2021 [pdf] [talk]
+
+
+Towards Optimal Placement and Scheduling of DNN Operations with Pesto
+Ubaid Ullah Hafeez, Xiao Sun, Anshul Gandhi, Zhenhua Liu
+Middleware 2021 [pdf] [talk]
+
+
+Towards Optimal Configuration of Microservices
+Gagan Somashekar, Anshul Gandhi
+EuroMLSys 2021 [pdf]
+
+
+BBR Bufferbloat in DASH Video
+Santiago Vargas, Rebecca Drucker, Aiswarya Renganathan, Aruna Balasubramanian, Anshul Gandhi
+WWW 2021 [pdf]
+
+
+2020
+Empirical Analysis and Modeling of Compute Times of CNN Operations on AWS Cloud
+Ubaid Ullah Hafeez, Anshul Gandhi
+IISWC 2020 [pdf]
+
+
+ENSURE: Efficient Scheduling and Autonomous Resource Management in Serverless Environments
+Amoghavarsha Suresh, Gagan Somashekar, Anandh Varadarajan, Veerendra Ramesh Kakarla, Hima Upadhyay, Anshul Gandhi
+ACSOS 2020 [pdf]
+
+
+MERIT: Model-driven Rehoming for VNF Chains
+Muhammad Wajahat, Bharath Balasubramanian, Anshul Gandhi, Gueyoung Jung, Shankar Narayanan
+ACSOS 2020 [pdf]
+
+
+Analyzing the Distribution Fit for Storage Workload and Internet Traffic Traces
+Muhammad Wajahat, Aditya Yele, Tyler Estro, Anshul Gandhi, Erez Zadok
+Performance Evaluation [pdf]
+
+
+2019
+Leveraging Queueing Theory and OS Profiling to Reduce Application Latency
+Anshul Gandhi, Amoghavarsha Suresh
+Tutorial (invited) @ Middleware 2019 [pdf, slides]
+
+
+FnSched: An Efficient Scheduler for Serverless Functions
+Amoghavarsha Suresh, Anshul Gandhi
+WoSC 2019 [pdf]
+
+
+User-Centric Interference-Aware Load Balancing for Cloud-Deployed Applications
+Seyyed Ahmad Javadi, Anshul Gandhi
+Transactions on Cloud Computing [link]
+
+
+Scavenger: A black-box batch workload resource manager for improving utilization in cloud environments
+Seyyed Ahmad Javadi, Muhammad Wajahat, Amoghavarsha Suresh, Anshul Gandhi
+SOCC 2019 [pdf]
+
+
+ECON: Modeling the network to improve application performance
+Yi Cao, Javad Nejati, Aruna Balasubramanian, Anshul Gandhi
+IMC 2019 [pdf]
+
+
+When to use and when not to use BBR: An empirical analysis and evaluation study
+Yi Cao, Arpit Jain, Kriti Sharma, Aruna Balasubramanian, Anshul Gandhi
+IMC 2019 [pdf]
+
+
+Towards Automated Patch Management in a Hybrid Cloud
+Ubaid Ullah Hafeez, Alexei Karve, Braulio Dumba, Anshul Gandhi, Sai Zeng
+ICSOC 2019 [pdf]
+
+
+Distribution Fitting and Performance Modeling for Storage Traces
+Muhammad Wajahat, Aditya Yele, Tyler Estro, Anshul Gandhi, Erez Zadok
+MASCOTS 2019 [pdf]   (Best Paper Award)
+
+
+Optimal Markovian Dynamic Control of Interference-Prone Server Farms
+Scott Votke, Jazeem Abdul Jaleel, Amoghavarsha Suresh, Mohammad Delasay, Sherwin Doroudi, Anshul Gandhi
+MASCOTS 2019 [pdf]
+
+
+Tighter Lyapunov Truncation for Multi-Dimensional Continuous Time Markov Chains with Known Moments
+Gagan Somashekar, Mohammad Delasay, Anshul Gandhi
+MAMA 2019 [pdf]
+
+
+Adaptively Accelerating Map-Reduce/Spark with GPUs: A Case Study
+K. R. Jayaram, Anshul Gandhi, Hongyi Xin, Shu Tao
+ICAC 2019 [pdf]
+
+
+Using Variability as a Guiding Principle to Reduce Latency in Web Applications via OS Profiling
+Amoghavarsha Suresh, Anshul Gandhi
+WWW 2019 [pdf]   (Oral)
+
+
+5GCoreLite: Scalable and Resource Efficient Next Generation Cellular Packet Core
+Vasudevan Nagendra, Arani Bhattacharya, Anshul Gandhi, Samir Das
+Poster @ NSDI 2019 [pdf]
+
+
+Scalable and Resource Efficient Control Plane for Next Generation Cellular Packet Core
+Vasudevan Nagendra, Arani Bhattacharya, Anshul Gandhi, Samir Das
+SOSR 2019 [pdf]
+
+
+2018
+Application-Agnostic Batch Workload Management in Cloud Environments
+Seyyed Ahmad Javadi, Shalini Bhaskara, Rahul Doshi, Prashanth Soundarapandian, Muhammad Wajahat, Anshul Gandhi
+Poster @ SOCC 2018 [pdf]
+
+
+A Graybox Approach to Rehoming Service Chains
+Muhammad Wajahat, Bharath Balasubramanian, Anshul Gandhi, Gueyoung Jung, Shankaranarayanan Puzhavakath Narayanan
+MASCOTS 2018 [pdf]
+
+
+Analysis and Visualization of Road Accidents in the UK
+Anjul Tyagi, Ayush Kumar, Anshul Gandhi, Klaus Mueller
+Poster @ IEEE VIS 2018 [pdf]
+
+
+EASY: Efficient segment assignment strategy for reducing tail latencies in Pinot
+Seyyed Ahmad Javadi, Harsh Gupta, Robin Manhas, Shweta Sahu, Anshul Gandhi
+ICDCS 2018 [pdf]
+
+
+ElMem: Towards an Elastic Memcached System
+Ubaid Ullah Hafeez, Muhammad Wajahat, Anshul Gandhi
+ICDCS 2018 [pdf]   (Best Student Paper Award)
+
+
+2017
+Providing Performance Guarantees for Cloud-deployed Applications
+Anshul Gandhi, Parijat Dube, Alexei Karve, Andrzej Kochut, Li Zhang
+Transactions on Cloud Computing [link]
+
+
+Realizing an Elastic Memcached via Cached Data Migration
+Ubaid Ullah Hafeez, Deepthi Male, Sharath Kumar Naeni, Muhammad Wajahat, Anshul Gandhi
+Poster @ Middleware 2017 [pdf]
+
+
+Improving server utilization via resource-adaptive batch VMs
+Seyyed Ahmad Javadi, Piyush Shyam Banginwar, Vaishali Chanana, Rashmi Narvekar, Mitesh Kumar Savita, Anshul Gandhi
+Poster @ Middleware 2017 [pdf]
+
+
+MLscale: A Machine Learning based Application-Agnostic Autoscaler
+Muhammad Wajahat, Alexei Karve, Andrzej Kochut, Anshul Gandhi
+Sustainable Computing, Informatics and Systems [pdf]
+
+
+Lessons Learnt from Software Tuning of a Memcached-Backed, Multi-Tier, Web Cloud Application
+Muhammad Wajahat, Salman Masood, Abhinav Sau, Anshul Gandhi
+IGSC 2017 [pdf]
+
+
+Rethinking TCP Throughput and Latency Modeling
+Yi Cao, Aruna Balasubramanian, Anshul Gandhi
+Poster @ SIGCOMM 2017 [pdf]
+
+
+Modeling and Analysis of Performance under Interference in the Cloud
+Scott Votke, Seyyed Ahmad Javadi, Anshul Gandhi
+MASCOTS 2017 [pdf]
+
+
+DIAL: Reducing Tail Latencies for Cloud Applications via Dynamic Interference-aware Load Balancing
+Seyyed Ahmad Javadi, Anshul Gandhi
+ICAC 2017 [pdf]
+
+
+Model-driven optimal resource scaling in cloud
+Anshul Gandhi, Parijat Dube, Alexei Karve, Andrzej Kochut, Li Zhang
+Software and Systems Modeling [link]
+
+
+Deconstructing the Energy Consumption of the Mobile Page Load
+Yi Cao, Javad Nejati, Muhammad Wajahat, Aruna Balasubramanian, Anshul Gandhi
+SIGMETRICS 2017 [pdf]
+
+
+2016
+Dynamic Interference-Aware Load Balancing
+Seyyed Ahmad Javadi, Himanshu Rajput, Anshul Gandhi
+Poster @ SOCC 2016 [pdf]
+
+
+Using Machine Learning for Black-Box Autoscaling
+Muhammad Wajahat, Alexei Karve, Andrzej Kochut, Anshul Gandhi
+IGSC 2016 [pdf]
+
+
+Minimizing Electricity Cost for Geo-Distributed Interactive Services with Tail Latency Constraint
+Mohammad Islam, Anshul Gandhi, Shaolei Ren
+IGSC 2016 [pdf]
+
+
+Analyzing the Power Consumption of the Mobile Page Load
+Yi Cao, Javad Nejati, Pavan, Maguluri, Aruna Balasubramanian, Anshul Gandhi
+Poster @ SIGMETRICS 2016 [pdf]
+
+
+Using predictions in online optimization: looking forward with an eye on the past
+Niangjun Chen, Joshua Comden, Zhenhua Liu, Anshul Gandhi, Adam Wierman
+SIGMETRICS 2016 [pdf]
+
+
+UIE: User-centric Interference Estimation for Cloud Applications
+Seyyed Ahmad Javadi, Sagar Mehra, Bharath Kumar Reddy Vangoor, Anshul Gandhi
+IC2E 2016 [pdf]
+
+
+Autoscaling for Hadoop Clusters
+Anshul Gandhi, Parijat Dube, Andrzej Kochut, Li Zhang, Sidhartha Thota
+IC2E 2016 [pdf]   (also, Poster @ SOCC 2015 and Poster @ ICAC 2015 [pdf])
+
+
+2015
+The Unobservability Problem in Clouds
+Anshul Gandhi, Parijat Dube, Alexei Karve, Andrzej Kochut, Harsha Ellanti
+ICCAC 2015 [pdf]
+
+
+HALO: Heterogeneity-Aware Load Balancing
+Anshul Gandhi, Xi Zhang, Naman Mittal
+MASCOTS 2015 [pdf]
+
+
+Optimal Load-Balancing for Heterogeneous Clusters
+Anshul Gandhi, Naman Mittal, Xi Zhang
+Poster @ DCC 2015 [pdf]
+
+
+Analyzing the Network for AWS Distributed Cloud Computing
+Anshul Gandhi, Justin Chan
+DCC 2015 [pdf]
+
+
+2014
+Modeling the Impact of Workload on Cloud Resource Scaling
+Anshul Gandhi, Parijat Dube, Alexei Karve, Andrzej Kochut, Li Zhang
+SBAC 2014 [pdf]
+
+
+Adaptive, Model-driven Autoscaling for Cloud Applications
+Anshul Gandhi, Parijat Dube, Alexei Karve, Andrzej Kochut, Li Zhang
+ICAC 2014 [pdf]
+
+
+Exact analysis of the M/M/k/setup class of Markov chains via recursive renewal reward
+Anshul Gandhi, Sherwin Doroudi, Mor Harchol-Balter and Alan Scheller-Wolf
+Queueing Systems, Volume 77, Issue 2, pp. 177-209 [pdf]
+
+
+Dynamic Management of Caching Tiers
+Anshul Gandhi
+ICPE 2014 [pdf]    (invited abstract)
+
+
+2013
+Exact Analysis of the M/M/k/setup Class of Markov Chains via Recursive Renewal Reward
+Anshul Gandhi, Sherwin Doroudi, Mor Harchol-Balter and Alan Scheller-Wolf
+SIGMETRICS 2013 [pdf]    (also, Technical Report CMU-CS-13-105 [pdf])
+
+
+M/G/k with Staggered Setup
+Anshul Gandhi and Mor Harchol-Balter
+OR Letters, Volume 41, Issue 4, pp. 317-320 [pdf]    (extended version, Technical Report CMU-CS-09-166 [pdf])
+
+
+2012
+AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
+Anshul Gandhi, Mor Harchol-Balter, Ram Raghunathan and Michael Kozuch
+Transactions on Computer Systems, Volume 30, Issue 4, Article 14 [pdf]    (also, Technical Report CMU-CS-12-109 [pdf])
+
+
+SOFTScale: Stealing Opportunistically For Transient Scaling
+Anshul Gandhi, Timothy Zhu, Mor Harchol-Balter and Michael Kozuch
+Middleware 2012 [pdf]    (extended version, Technical Report CMU-CS-12-111 [pdf])
+
+
+Saving Cash by Using Less Cache
+Timothy Zhu, Anshul Gandhi, Mor Harchol-Balter and Michael Kozuch
+HotCloud 2012 [pdf]
+
+
+Are sleep states effective in data centers?
+Anshul Gandhi, Mor Harchol-Balter and Michael Kozuch
+IGCC 2012 [pdf]
+
+
+Hybrid Resource Provisioning for Minimizing Data Center SLA Violations and Power Consumption
+Anshul Gandhi, Yuan Chen, Daniel Gmach, Martin Arlitt and Manish Marwah
+Sustainable Computing, Informatics and Systems, Volume 2, Issue 2, pp. 91-104 [pdf]
+
+
+2011
+The case for sleep states in servers
+Anshul Gandhi, Mor Harchol-Balter and Michael Kozuch
+HotPower 2011 [pdf]
+
+
+Minimizing Data Center SLA Violations and Power Consumption via Hybrid Resource Provisioning
+Anshul Gandhi, Yuan Chen, Daniel Gmach, Martin Arlitt and Manish Marwah
+IGCC 2011 [pdf]    (Best Paper Award)
+(Pick of the Month for March 2012 in the IEEE STC on Sustainable Computing)
+
+
+Distributed, Robust Auto-Scaling Policies for Power Management in Compute Intensive Server Farms
+Anshul Gandhi, Mor Harchol-Balter, Ram Raghunathan and Michael Kozuch
+Open Cirrus Summit 2011 [pdf]
+
+
+How Data Center Size Impacts the Effectiveness of Dynamic Power Management
+Anshul Gandhi and Mor Harchol-Balter
+49th Annual Allerton Conference on Communication, Control, and Computing [pdf]
+
+
+2010
+Server farms with setup costs
+Anshul Gandhi, Mor Harchol-Balter and Ivo Adan
+PERFORMANCE 2010 [pdf]
+Performance Evaluation, Volume 67, Issue 11, pp. 1123-1138
+
+
+Optimality Analysis of Energy-Performance Trade-off for Server Farm Management
+Anshul Gandhi, Varun Gupta, Mor Harchol-Balter and Michael Kozuch
+PERFORMANCE 2010 [pdf]    (extended version, Technical Report CMU-CS-10-108 [pdf])
+Performance Evaluation, Volume 67, Issue 11, pp. 1155-1171
+
+
+Decomposition Results for an M/M/k with Staggered Setup
+Anshul Gandhi, Mor Harchol-Balter and Ivo Adan
+MAMA 2010 [pdf]
+Performance Evaluation Review, Volume 38, Issue 2, pp. 48-50
+
+
+Analysis of an M/M/k system with exponential setup times under staggered boot up
+Anshul Gandhi, Mor Harchol-Balter and Ivo Adan
+MCQT 2010
+
+
+2009
+Power Capping Via Forced Idleness
+Anshul Gandhi, Mor Harchol-Balter, Rajarshi Das, Jeffrey Kephart and Charles Lefurgy
+WEED 2009 [pdf]
+
+
+Optimal Power Allocation in Server Farms
+Anshul Gandhi, Mor Harchol-Balter, Rajarshi Das and Charles Lefurgy
+SIGMETRICS 2009 [pdf]    (extended version, Technical Report CMU-CS-09-113 [pdf])
+
+
+2008 and earlier
+Inducing Optimal Scheduling with Selfish Users
+Paul Enders, Anshul Gandhi, Varun Gupta, Laurens Debo, Mor Harchol-Balter and Alan Scheller-Wolf
+CMU GSIA Working Paper #2008-E23 [pdf]
+
+
+Database Summarization and Publishing in Wireless Environments
+Anshul Gandhi and R.K.Ghosh
+ICDCN 2006 [pdf]
+
+Funding:
+
+[Top]
+
+SBU OVPR Seed Grant| Towards Efficient and Sustainable LLM Deployments
+
+
+IBM Center for The Business of Government Research Grant| Towards Sustainable Data Centers: Evaluating Policies for Energy Efficiency and Environmental Responsibility
+
+
+SBU OVPR Seed Grant| Significantly reducing energy consumption of Deep Neural Networks
+
+
+NSF CCF-2324859| Collaborative Research: DESC: Type I: Extending lifetimes of partially broken machines to repurpose e-waste
+
+
+SBU OVPR Seed Grant| Enabling Live Video Analytics for Mobile Cameras
+
+
+NSF CNS-2214980| Collaborative Research: CNS Core: Large: Systems and Verifiable Metrics for Sustainable Data Centers
+
+
+OpenInfra Labs Gift| Near Data Processing
+
+
+NSF CNS-2106434| Collaborative Research: CNS Core: Medium: Optimizing Storage Caches via Adaptive and Reconfigurable Tiering
+
+
+NSF CNS-1909356| CNS Core: Small: Significantly Improving Networked Applications using Congestion-Aware Transport Modeling
+
+
+AWS Cloud Credits for Research Award
+
+
+SBU OVPR Seed Grant| Exploiting Analytical Models to Realize the Full Performance and Parallelization Potential of Modern Storage Architectures for Big Data Applications
+
+
+NSF CNS-1750109| CAREER: Enabling Predictable Performance in Cloud Computing
+
+
+NSF CNS-1730128| II-EN: Collaborative Research: Enhancing the Parasol Experimental Testbed for Sustainable Computing
+
+
+NSF CNS-1717588| NeTS: Small: Demystifying the Role of Prediction Models: Bridging Prediction Algorithms and Resource Provisioning
+
+
+NSF CNS-1622832| EAGER: Elastic Multi-layer Memcached Tiers
+
+
+NSF CNS-1617046| CSR: Small: Scalable, heterogeneity-aware load balancing
+
+
+NSF CNS-1464151| CRII: CSR: Online Performance Modeling of Opaque Cloud Applications
+
+
+Google Research Grant R2-2015-839| The effect of Web optimizations on mobile browser performance and power
+
+
+IBM 2015 Faculty Award| AutoScaling for Cloud Applications
+
+
+Microsoft Azure Research Award
+
+
+AWS in Education Grant Award
+
+
+
+Patents:
+
+[Top]
+
+Model-Driven Technique for Virtual Network Function Rehoming for Service Chains (Issued; US Patent # 11,212,173)
+Graphics Processing Unit Resource Sharing (Issued; US Patent # 9,830,677)
+Systems and Methods for Scaling a Cloud Infrastructure (Issued; US Patent # 9,300,553)
+Power Budget Allocation in Multi-Processor Systems (Issued; US Patent # 9,052,895)
+Dynamic Capacity Management of Multiple Parallel Connected Computing Resources (Issued; US Patent # 8,806,018)
+Systems and Methods for Managing Power Consumption and Performance of a Processor (Issued; US Patent # 8,589,709)
+Provisioning Data Center Resources (filed 4/14/2011)
+
+Teaching:
+
+[Top]
+
+Spring 2024: CSE 544 Probability and Statistics for Data Science
+Fall 2023: CSE 357 Statistical Methods for Data Science
+Spring 2023: CSE 544 Probability and Statistics for Data Science
+Spring 2022: CSE 544 Probability and Statistics for Data Science
+Spring 2021: CSE 544 Probability and Statistics for Data Science
+Fall 2020: CSE 357 Statistical Methods for Data Science
+Spring 2020: CSE 544 Probability and Statistics for Data Science
+Fall 2019: CSE 357 Statistical Methods for Data Science
+Spring 2019: CSE 391 Probability & Statistics for Data Science
+Fall 2018: CSE 544 Probability and Statistics for Data Science
+Spring 2018: CSE 544 Probability and Statistics for Data Science
+Fall 2017: CSE 390 Probability & Statistics for Data Science
+Spring 2017: CSE 544 Probability and Statistics for Data Science
+Spring 2016: CSE 591 Energy-Efficient Computing
+Spring 2015: CSE 531 Performance Analysis of Systems
+Fall 2014: CSE 691 Energy-Efficient Computing
+
+
+CSE 523/524 Masters Projects
+
+Service:
+
+[Top]
+
+SIG Board:
+Secretary/Treasurer for ACM SIGMETRICS (2023 onwards)
+
+
+Steering/Executive Committee:
+SIGMETRICS (2023 onwards)
+Middleware (2017 onwards)
+
+
+Editorial Board:
+Lead Guest Editor, PEVA SI on Performance Analysis and Evaluation of Systems for Artificial Intelligence (2023-24)
+Performance Evaluation (2018 onwards)
+
+
+Organizing Committee:
+General Co-Chair, Sigmetrics 2025
+General Co-Chair, GreenCom 2023
+Program Co-Chair, MASCOTS 2023
+Program Co-Chair, Sigmetrics 2021
+Workshops Chair, Sigmetrics 2020
+Track Co-Chair (for Intelligent Systems and Infrastructure track), WWW 2020
+Industry and Sponsorship Chair, ICAC 2019
+Student Activities Chair, Sigmetrics 2019
+General Co-Chair, Middleware 2017
+Program Vice Chair (Co-Chair of Cloud Computing and Data Centers track), ICDCS 2017
+Tutorials Co-Chair, Sigmetrics 2017
+Publicity Co-Chair, ICAC 2017
+Web Chair, Sigmetrics 2013
+
+
+Program Committee:
+2024: Sigmetrics, ATC, MASCOTS
+2023: Sigmetrics, Middleware
+2020: ICAC, ISPASS, Sigmetrics, MASCOTS
+2019: HPDC, Sigmetrics, WWW
+2018: Sigmetrics, ICDCS, Middleware, IC2E, ICAC, HotCloud
+2017: ICAC, ICCAC, IEEE Cloud, IC2E
+2016: Sigmetrics, ICDCS, MASCOTS, IGSC, ICCAC, ICCCN, QEST, DCC, GPCDP, DIDC
+2015: MASCOTS, Middleware (industry track), IGSC, GPCDP
+2014: Sigmetrics, HotCloud, ICPP, CCWS
+2010: Sigmetrics (Shadow PC)
+
+
+Referee: ACM Transactions on Computer Systems, IEEE Transactions on Computers, IEEE Transactions on Cloud Computing, ACM/IEEE Transactions on Networking, Performance Evaluation, Annals of Operations Research, Operations Research Letters, IEEE Transactions on Parallel and Distributed Systems, ACM Transactions on Modeling and Performance Evaluation of Computing Systems, ACM Transactions on Autonomous and Adaptive Systems, IEEE Internet Computing, IEEE Transactions on Services Computing, IEEE Communications Letters, IEEE Transactions on Network and Service Management, IEEE Transactions on Dependable and Secure Computing, Journal of Parallel and Distributed Computing, Canadian Operations Research Journal, Computing, Parallel Computing, Sustainable Computing, International Journal of Parallel Programming, Simulation Modeling Practice and Theory
+
+
+Professional Memberships: IEEE Senior Member, ACM Senior Member
+

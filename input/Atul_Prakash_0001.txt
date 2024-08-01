@@ -1,0 +1,99 @@
+Professor: Atul Prakash 0001
+University: University of Michigan
+URL: http://web.eecs.umich.edu/~aprakash
+Description:  Atul Prakash
+Professor, Electrical Engineering and Computer Science
+Senior Associate Chair for Academic Affairs, CSE
+Office: 4713 Beyster
+Email: aprakash at umich dot .edu
+Open Office Hours
+I have open office hours, primarily intended for Ph.D. students in CSE at UM (you do not have to be my student to see me). They can be used for just getting acquainted, general career discussion, chat about research, dealing with challenges in doing a Ph.D., or anything else. To reserve a slot, please book here. Reach me on email or Google chat if needed.
+Research Interests
+Security and privacy of emerging systems including cyber-physical systems, efficient and secure machine learning.
+Bio
+My CV
+Teaching
+I have taught many software systems and security courses at Michigan including operating systems, database systems, and computer and network security. At the undergraduate level, in recent years, I have taught EECS 484, our database systems course.
+
+At the graduate level, I am currently developing a new course on trustworthy machine learning with my Ph.D. students, Ryan Feng, Elisa Tsai, and Haizhong Zheng. See material from some recent offerings of the course below. Feel free to reach out to me if you are interested in exchanging ideas on such a course.
+
+Adversarial Machine Learning (Winter 2021)
+Secure and Trustworthy Machine Learning (Winter 2023)
+Participating in my group
+To apply to do independent study research in my group, drop me an email with your CV and transcript, and preliminary thoughts on what you would like to work on. I am happy to work with both undergraduate and graduate students, though openings tend to be limited. Ideally, you should be available for more than one semester.
+Research in the news
+IoT Security
+UM: 'Smart home' security flaws found in popular system
+The Verge
+Wired
+Financial web site security
+Read what others are saying about our earlier research on online security at financial web sites
+Research Group Web Site
+Website for Security of ML and Internet of Things
+Publications
+My publications at DBLP
+Google Scholar Page
+Some recent or upcoming papers:
+J. Choi, J. Raghuram, R. Feng, J. Chen, S. Jha, and A. Prakash: Concept-based Explanations for Out-Of-Distribution Detectors. International Conference on Machine Learning (ICML), 2023. [link].
+Haizhong Zheng, Rui Liu, Fan Lai, Atul Prakash: Coverage-centric Coreset Selection for High Pruning Rates, ICLR 2023. [link].
+R. Feng, N. Mangaokar, J. Chen, E. Fernandes, S. Jha, and A. Prakash: GRAPHITE: Generating Automatic Physical Examples for Machine-Learning Attacks on Computer Vision Systems. EuroS&P 2022: 664-683. [code/paper link].
+Renuka Kumar, Apurva Virkud, Ram Sundara Raman, Atul Prakash, Roya Ensafi: A Large-scale Investigation into Geodifferences in Mobile Apps. USENIX Security Symposium 2022: 1203-1220.[link].
+Neal Mangaokar, Atul Prakash: Dispelling Misconceptions and Characterizing the Failings of Deepfake Detection. IEEE Secur. Priv. 20(2): 61-67 (2022). [link].
+Sean Peisert, Bruce Schneier, Hamed Okhravi, Fabio Massacci, Terry Benzel, Carl E. Landwehr, Mohammad Mannan, Jelena Mirkovic, Atul Prakash, James Bret Michael: Perspectives on the SolarWinds Incident. IEEE Secur. Priv. 19(2): 7-13 (2021) [link].
+Sanjay Kariyappa, Atul Prakash, Moinuddin K. Qureshi: MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. CVPR 2021: 13814-13823. [link].
+Sanjay Kariyappa, Atul Prakash, Moinuddin K. Qureshi: Protecting DNNs from Theft using an Ensemble of Diverse Models. ICLR 2021. [link].
+Haizhong Zheng, Ziqi Zhang, Juncheng Gu, Honglak Lee, Atul Prakash: Efficient Adversarial Training With Transferable Adversarial Examples. CVPR 2020: 1178-1187. [link].
+Renuka Kumar, Sreesh Kishore, Hao Lu, Atul Prakash: Security Analysis of Unified Payments Interface and Payment Apps in India. USENIX Security Symposium 2020: 1499-1516. [link].
+
+
+IoT Security Research
+
+See this page for research in our group on IoT and Cyber-Physical Systems. Some recent work includes research on robust physical perturbation attacks on machine learning classifers (CVPR 2018), defense mechanisms to make OAuth tokens at trigger-action cloud services such as IFTTT less risky (NDSS 2018), security analysis of SmartThings IoT application platform (IEEE S&P 2016), and ContexIoT, an automatic IoT app patching mechanism to help enforce context-based permissions (NDSS 2017).
+
+Data Privacy Research
+With Facebook privacy issues in the news, revisit our 2008 CSCW paper that warned of some of the risks of access to social network data and also outlined some defense strategies: Social Networks and Context-Aware Spam
+FlowFence paper (Usenix Security 2016) that proposes the Quarantined Modules mechanism for permitting safer computing on flow-sensitive data on hubs or servers:
+Earlence Fernandes, Justin Paupore, Amir Rahmati, Daniel Simionato, Mauro Conti, and Atul Prakash FlowFence: Practical Data Protection for Emerging IoT Application Frameworks. In Proceedings of the 25th USENIX Security Symposium, August 2016. [link]
+Heimdall paper (Mobisys 2017) that proposes a privacy-respecting mechanism for enabling recommendation systems:
+Amir Rahmati, Earlence Fernandes, Kevin Eykholt, Xinheng Chen, and Atul Prakash, Heimdall: A Privacy-Respecting Implicit Preference Collection Framework, Proc. 15th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2017), June 2017. [link]
+Current Ph.D. Students
+Ryan T. Feng Ph.D. student.
+Neal Mangaokar Ph.D. student.
+Elisa Tsai Ph.D. student.
+Haizhong Zheng Ph.D. student.
+Alum Ph.D. Students
+Renukar Kumar (Ph.D. 2023). Co-advised with Roya Ensafi). Senior Researcher at Cisco Systems.
+Kevin Eykholt. (Ph.D. 2018) Researcher, IBM T.J. Watson Research Center. Burlington, MA.
+Earlence Fernandes. (Ph.D. 2017) Assistant Professor in CS at U. of California, San Diego
+Amir Rahmati. (Ph.D. 2017) Assistant Professor in CS, Stony Brook University as Assistant Professor
+Beng Heng Ng (Ph.D. 2013) Ministry of Defense, Govt. of Singapore
+Kevin Borders (Ph.D. 2009). Founder and CEO: Minware, Arlingon, VA.
+Xin Zhao (Ph.D. 2007). Software Engineer, Google.
+Lukasz Opyrchal (Ph.D. 2004). Software Engineer, Netflix.
+Radu Litiu (Ph.D. 2001). Senior Principal Software Engineer. F5 Networks.
+Patrick McDaniel  (PhD: 2001); Professor, Computer Science, University of Wisconsin.
+Amit Mathur  ( Ph.D. 2001) CEO, Vector Brook, Pune, India
+Jang Ho Lee (Ph.D. 1999). Professor, Information and Computer Engineering, Hongik University, Seoul, Korea
+Hyongsop Shim, (Ph.D. 1999). Senior Research Scientist, Telcordia.
+Nelson Manohar (Ph.D. 1997). Software engineer, Microsoft
+Trent Jaeger; (Ph.D. 1997). Professor, Computer Science, Penn State University.
+Santanu Paul (Ph.D. 1995). CEO and founder, TalentSprint, India.
+Ratib Al-Zoubi, (Ph.D. 1992).
+ 
+Other Selected Undergraduate and Graduate Students Advised
+Tianji Cong, Pursuing Ph.D. with H.V. Jagadish.
+Alex Crowell, Aritificial Intelligence Engineer, Soar Technologies.
+Marina Minkin, Pursuing Ph.D. with Baris Kasicki.
+Justin Paupore (Masters advising). Software Engineer, Google.
+Bill Lau (Masters advising), Security Engineer, Google.
+Ajit Aluri (Masters advising), Software Engineer, Google.
+Oliver Zhang (undergraduate advising), Software Engineer, Google.
+Swati Gupta (undergraduate advising), Assistant Professor, MIT.
+Surbhi Goel (undergraduate advising), Assistant Professor, UPenn.
+Matrika Rohatgi (undergraudate advising), Software Engineer, NetApp.
+Contact Info.:
+4713 Bob and Betty Beyster Building, 2260 Hayward Ave, Ann Arbor, MI 48109-2121.
+
+Tel: (734) 763-1585
+Electronic mail ID @ umich.edu: aprakash
+

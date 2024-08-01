@@ -1,0 +1,65 @@
+Professor: Yisong Yue
+University: California Institute of Technology
+URL: http://www.yisongyue.com/
+Description: Yisong Yue | Machine Learning Professor @ 
+Home | News | About | Group | Research | Teaching | Etc.
+Yisong Yue (he/him)
+California Institute of Technology
+1200 E. California Blvd.
+CMS, 305-16
+Pasadena, CA 91125
+
+Office: 303 Annenberg
+
+Contact Information >
+
+      
+About
+I am a professor of Computing and Mathematical Sciences at the California Institute of Technology. My research interests lie primarily in machine learning, and span the entire theory-to-application spectrum from foundational advances all the way to deployment in real systems. I work closely with domain experts to understand the frontier challenges in applied machine learning, distill those challenges into mathematically precise formulations, and develop novel methods to tackle them.
+
+Latitude AI: I am currently a (part-time) Principal Scientist at Latitude AI, where I work on machine learning approaches to behavior modeling and motion planning for autonomous driving.
+
+Asari AI: I am a founding advisor for Asari AI, where I help design AI co-inventors (AI agents that can plan, abstract, and verify complex design tasks).
+
+ICLR 2025: I am serving as the General Chair at ICLR 2025. The Program Chairs are Carl Vondrick (SPC), Rose Yu, Violet Peng, Fei Sha, Animesh Garg.
+about me >
+research >
+Diversity, Equity & Inclusion
+I am committed to promoting diversity, equity, and inclusion in my research group, in my courses, within the CMS department, at Caltech more broadly, and within my research communities.
+Diversity -- I recognize that diversity, in all its shapes and forms, strengthens us both culturally and intellectually.
+Equity -- I will fight for equal treatment of all people, regardless of race, gender, sexual orientation, or any other attributes that do not define a person's academic and research potential.
+Inclusion -- I will work to create an inclusive working environment, so that everyone feels their voices are heard and their contributions are recognized.
+Read more about diversity, equity, and inclusion at the CMS Department and EAS Division at Caltech.
+Current Research
+My current research interests can be broadly organized into three overlapping groups:
+
+AI for Autonomy: study how AI methods can enable novel capabilities in autonomous systems; characterize and address key technical bottlenecks (e.g., data-driven safety guarantees); deploy in real systems.
+Selected Publications
+
+AI for Science: study how AI methods can improve workflows in science and accelerate knowledge discovery; develop methods for automated experiment design and human-intelligible modeling; deploy in real systems.
+Selected Publications
+
+Core AI/ML Research: study the underlying fundamental questions pertaining practical algorithm design, inspired by real-world applications in science and engineering.
+Selected Publications
+more publications >
+News & Announcements
+SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code -- we developed a Large Language Model (LLM) Agent for converting text descriptions into Blender-executable Python scripts which render complex scenes with up to a hundred 3D assets. This process requires complex spatial planning and arrangemet, which we tackle through a combination of advanced abstraction, strategic planning, and library learning. [arxiv]
+
+Tokenized Time Series Embeddings -- we developed a framework for learning a tokenization for downstream time series modeling, including training generalist models that can be applied to many domains. [arxiv][code]
+
+Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion -- we developed a method for guided diffusion using non-differentiable rules, called Stochastic Control Guidance. Our approach is inspired by path integral control and can be applied in a plug-and-play way to any diffusion model. We demonstrate our approach on symbolic music generation. [arxiv][website]
+   
+SustainGym: we have released a suite of environments designed to test the performance of RL algorithms on realistic sustainability tasks. [project][code]
+Farewell! We had three members depart the group during the 2022-2023 Academic Year:
+Jennifer Sun completed her Ph.D. and will start as an Assistant Professor at Cornell.
+Cameron Voloshin completed his Ph.D. and has started at Latitude AI.
+Victor Dorobantu completed his Ph.D. and has started a postdoc at MIT.
+ICLR 2024: I will be serving as the Senior Program Chair at ICLR 2024. The rest of Program Chair team includes Swarat Chaudhuri, Katerina Fragkiadaki, Emtiyaz Khan, and Yizhou Sun.
+
+Automatic Gradient Descent: We have developed a new hyperparameter-free optimizer for deep neural networks. Our method has been demonstrated at ImageNet scale using ResNet50 architectures.
+[arxiv][code][blog post]
+Conformal Generative Modeling: We have developed a new framework for generative modeling that works on a wide range of manifolds. [project]
+
+more >
+[All Content © 2024 Yisong Yue]
+

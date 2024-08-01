@@ -1,0 +1,81 @@
+Professor: Shuai Mu
+University: Stony Brook University
+URL: http://mpaxos.com/
+Description: Shuai Mu
+Assistant Professor
+Department of Computer Science
+Stony Brook University
+
+Office: New Computer Science RM-351
+Email: shuai at cs stonybrook edu
+Links: Google Scholar, Calendar
+
+I am an assistant professor of Computer Science at Stony Brook University. My main research interests are in distributed systems and multi-core systems. I’m particularly interested in:
+
+Building fault-tolerant storage and database systems.
+Building tools to ease concurrent programming for developers.
+Verifying correctness of distributed systems and algorithms.
+
+I am looking for motivated PhD/MS/Undergrad students. If you are interested, email me a brief resume.
+
+News (see all)
+Jun 2024, CausalMesh accepted to PVLDB (VLDB ‘25)!
+Sep 2023, Awarded LARGE (Co-PI). Thanks NSF!
+May 2023, NCC accepted to OSDI ‘23!
+Feb 2023, Awarded CAREER. Thanks NSF!
+Dec 2022, Waverunner accepted to NSDI ‘23!
+Aug 2022, Viper accepted to EuroSys ‘23!
+Recent courses (see all)
+CSE-416, Software Engineering, Spring 2024
+CSE-535, Distributed Systems, Fall 2023
+Seminar: Distributed Systems Reading Group, Fall 2023
+Seminar: Formal Verification with Dafny, Fall 2023
+CSE-535, Distributed Systems, Fall 2022
+Recent publications (see all)
+NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the Timestamp-Inversion Pitfall [paper, tr]
+Haonan Lu, Shuai Mu, Siddhartha Sen, Wyatt Lloyd
+OSDI 23
+Viper: A Fast Snapshot Isolation Checker [paper]
+Jian Zhang, Ye Ji, Shuai Mu, and Cheng Tan
+EuroSys 23
+Waverunner: An Elegant Approach to Hardware Acceleration of State Machine Replication [paper]
+Mohammadreza Alimadadi, Hieu Mai, Shenghsun Cho, Michael Ferdman, Peter Milder, and Shuai Mu
+NSDI 23
+DepFast: Orchestrating Code of Quorum Systems [paper, code]
+Xuhao Luo, Weihai Shen, Shuai Mu, and Tianyin Xu
+USENIX ATC 22
+Rolis: a software approach to efficiently replicating multi-core transactions [paper, code]
+Weihai Shen, Ansh Khanna, Sebastian Angel, Siddhartha Sen, and Shuai Mu
+EuroSys 22
+Fail-slow fault tolerance needs programming support [paper]
+Andrew Yoo, Yuanli Wang, Ritesh Sinha, Shuai Mu, and Tianyin Xu
+HotOS 21
+Fault-Tolerant Replication with Pull-Based Consensus in MongoDB [paper]
+Siyuan Zhou, Shuai Mu
+NSDI 21
+Cobra: Making Transactional Key-Value Stores Verifiably Serializable [paper]
+Cheng Tan, Changgeng Zhao, Shuai Mu, Michael Walfish
+OSDI 20
+Students (see alumni)
+Zihao Zhang (Post-doc)
+Weihai Shen (PhD)
+Santa Shithil (PhD)
+Ze Tang (PhD)
+Ti Zhou (PhD)
+Sethu Karthikeyan (MS)
+Chenyu Wang (MS)
+Saumitra Bose (MS)
+
+I am also privileged to work closely with other great students including:
+
+Haoran Zhang (PhD@UPenn, advised by Vincent Liu and Sebastian Angel)
+Jian Zhang (PhD@Northeastern, advised by Cheng Tan)
+Program committees
+ASPLOS 2022 (ERC)
+EuroSys 2025
+ICDCS 2023
+NSDI 2021, 2023
+SIGCOMM 2023
+SOSP 2024
+USENIX ATC 2020, 2024
+

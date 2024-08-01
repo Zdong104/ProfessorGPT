@@ -1,0 +1,739 @@
+Professor: Alessandro Roncone
+University: University of Colorado Boulder
+URL: https://alessandro.ronc.one/
+Description: RESEARCH
+DESIGN
+PUBLICATIONS
+ABOUT
+CV
+ALESSANDRO RONCONE
+I AM A ROBOTICS ENGINEER, A COMPUTER SCIENTIST, AND A TEAM LEAD.
+THIS WEBSITE IS NOT ACTIVELY MAINTAINED ANY MORE! PLEASE VISIT MY LAB'S WEBSITE [LINK]
+WHO AM I
+
+My work lies at the intersection of Robotics, Artificial Intelligence, and Human-Robot Interaction with the goal of developing robot technologies that enable close, natural, and extended cooperation with humans. I aim at lowering the barriers to entry for humans to naturally interact with robots, and in doing so I design human-aware robot systems that are able to work with and around people. To me, the engineering is as important as the science: I make robots work, and I hold a deep commitment to doing so while implementing scalable, robust, and elegant systems.
+
+16 years’ research experience in Humanoid Robotics, Human-Robot Interaction and Artificial Intelligence.
+Director of the Human Interaction and RObotics [HIRO] Group at CU Boulder, where I lead a team of ~20 graduate and undergraduate students to perform state-of-the-art research. Proven ability to manage multiple projects and supervise multiple people while meeting challenging deadlines.
+Chief Technology Officer of Lab0, a stealth startup operating in the logistics and supply chain industry.
+Extensive background in kinematics, optimization, robot control, decision making, planning under uncertainty, calibration, tactile sensing, machine learning, 2D and 2D computer vision, IMU processing.
+Mastery of C++, with a deep knowledge of the ROS and YARP middlewares. Daily experience with the iCub humanoid and the Baxter collaborative robot.
+Strong presentation/communication skills thanks to experience in giving both technical and non-technical talks to both small and big groups, tailoring to the audience. Presented to major international robotics conferences, as well as several outreach events, ranging from exhibitions and fairs, to live TV shows and various interviews.
+Proven track record in writing technical reports as well as scientific papers. Authored and co-authored numerous international peer-reviewed scientific articles and journals. Extensive experience with research grant writing and awarding.
+SUMMARY
+
+Alessandro Roncone received his B.Sc. summa cum laude in Biomedical Engineering in February 2008, and his M.Sc. summa cum laude in NeuroEngineering in July 2011 from the Università degli Studi di Genova, Italy. In April 2015 he completed his Ph.D. in Robotics, Cognition and Interaction Technologies from Università degli studi di Genova and Italian Institute of Technology (IIT), working in the Robotics, Brain and Cognitive Sciences and the iCub Facility departments under the supervision of prof. Giorgio Metta. The goal of his Ph.D. project was to exploit insights from the neurosciences in order to improve the sensorimotor capabilities of the iCub humanoid robot. From 2015 to 2018, he worked as a Postdoctoral Associate at the Social Robotics Lab in Yale University under the supervision of prof. Brian Scassellati (a.k.a. Scaz), where he focused on human robot collaboration and advanced manufacturing. In Fall 2018, he became faculty in the Computer Science Department of University of Colorado Boulder, where he directs the Human Interaction and RObotics [HIRO] Group.
+
+PROFESSIONAL EXPERIENCE
+JAN. 2022 - PRESENT
+Portland, OR USA and Genoa, Italy
+CHIEF TECHNOLOGY OFFICER
+
+Lab0, https://www.lab0.com
+Lab0 is a stealth startup operating in the logistics and supply chain industry. We are fast growing and hiring at all levels---please reach out if you are interested! Our motto: Industrial autonomy at global scale.
+
+AUG. 2018 - PRESENT
+University of Colorado, Boulder, CO USA
+ASSISTANT PROFESSOR
+
+Computer Science Department, University of Colorado Boulder
+At CU Boulder, I lead the Human Interaction and RObotics Group [HIRO], where we perform state-of-the-art research in the field. We work at the intersection of robotics, artificial intelligence and control to develop intuitive, human-centered technologies for the next generation of robot workers, assistants and collaborators.
+
+NOV. 2015 - JUL. 2018
+Yale University, New Haven, CT USA
+POST-DOC @ YALE UNIVERSITY
+
+Social Robotics Lab, Computer Science Department, Yale University
+My research at Yale University focused on task and motion planning for human-robot collaboration. I worked on systems that: i) provide effective support to the human when she needs it the most; ii) learn complex hierarchical representations from single instructions; iii) proactively ask questions and provide contextual information to query and share internal states and intents.
+
+JAN. - OCT. 2015
+Italian Institute of Technology (IIT), Genova IT
+POST-DOC @ ICUB FACILITY
+
+I worked on implementing a model of peripersonal space on the iCub robot, focusing on: i) rich body representations, and ii) distributed motor control via whole-body awareness. I also worked on optimization-based approaches to inverse kinematics and robot control: my gaze stabilization and control framework formally solved the problem of controlling a binocular head to gaze toward an arbitrary 3D point in space, and concurrently exploiting redundancy to stabilize gaze.
+
+NOV. 2011 - DEC. 2014
+Italian Institute of Technology (IIT), Genova IT
+PH.D. FELLOW @ ICUB FACILITY
+
+Life and Humanoid Technologies
+Doctoral course in Robotics, Cognition and Interaction Technologies. See the `Education` section below for details about my Ph.D. project. I have been involved in the Xperience FP7-ICT-270273 and WYSIWYD FP7-ICT-61239 projects, funded by the European Union Seventh Framework Program with a funding of €7,634,000 and €4,583,016 respectively.
+
+OCT. 2010 - JUL. 2011
+Italian Institute of Technology (IIT), Genova IT
+RESEARCH FELLOW @ RBCS (ROBOTICS, BRAIN AND COGNITIVE SCIENCE)
+
+I have worked at the Italian Institute of Technology during my MSc thesis. See the `Education` section below for details about my master thesis.
+
+EDUCATION
+2012 - 2015
+Italian Institute of Technology (IIT), Genova IT
+PH.D. IN LIFE AND HUMANOID TECHNOLOGIES [THESIS PDF]
+
+Thesis title `Expanding sensorimotor capabilities of humanoid robots through multisensory integration. A study on the implementation of peripersonal space on the iCub.`
+Supervisors: Giorgio Metta, Luciano Fadiga, Ugo Pattacini, Matej Hoffmann.
+
+2008 - 2011
+Università degli studi di Genova, IT
+M.SC. WITH HONORS IN NEUROENGINEERING
+
+Thesis title `Visuo-Haptic Integration for Object Characterization in an Unstructured Environment`
+Supervisors: Matteo Fumagalli, Francesco Nori.
+
+2005 - 2009
+Università degli studi di Genova, IT
+B.SC. WITH HONORS IN BIOMEDICAL ENGINEERING
+
+Thesis title `Support Vector Machine Analysis applied to a Manipulator in a Non-Structured Environment`
+Supervisors: Luca Pulina, Lorenzo Natale, Armando Tacchella.
+
+2005 - 2008
+ISICT (Superior Institute of Studies in Information and Communication Technologies)
+STUDENT (WITH SCHOLARSHIP) AT ISICT
+
+Successfully selected for scholarship---only three positions available out of hundreds of candidates.
+
+PUBLICATIONS
+2024
+2023
+International Conference on Autonomous Agents and Multiagent Systems [AAMAS]
+
+London, Uk, May 28-June 02
+
+HIERARCHICAL REINFORCEMENT LEARNING FOR AD HOC TEAMING [PDF] [BIB]
+
+Stéphane Aroca-Ouellette, Miguel Aroca-Ouellette, Upasana Biswas, Katharina Kann, Alessandro Roncone
+Extended abstract
+
+ACM/IEEE International Conference on Human-Robot Interaction [HRI]
+
+Stockholm, Sweden, March 13-16
+
+INTERACTIVE POLICY SHAPING FOR HUMAN-ROBOT COLLABORATION WITH TRANSPARENT MATRIX OVERLAYS [PDF] [BIB]
+
+Jake Brawer, Debasmita Ghose, Kate Candon, Meiying Qin, Alessandro Roncone, Marynel Vázquez, and Brian Scassellati
+
+
+ Best Technical Paper Award!! 
+
+6th International Workshop on Virtual, Augmented, and Mixed-Reality for Human-Robot Interactions (VAM-HRI)
+
+Stockholm, Sweden, March 13
+
+IMPROVING HUMAN LEGIBILITY IN COLLABORATIVE ROBOT TASKS THROUGH AUGMENTED REALITY AND WORKSPACE PREPARATION [PDF] [BIB]
+
+Yi-Shiuan Tung, Matthew B. Luebbers, Alessandro Roncone, Bradley Hayes
+
+
+Workshop on Language-Based AI Agent Interaction with Children [AIAIC]
+
+Los Angeles, USA, February 21
+
+DESIGNING AN AI PARTNER FOR JIGSAW CLASSROOMS [PDF] [BIB]
+
+Jie Cao, Rachel Dickler, Marie Grace, Jeffrey B. Bush, Alessandro Roncone, Leanne M. Hirshfield, Marilyn A. Walker, Martha S. Palmer
+
+
+2022
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Kyoto, Japan, October 23-27
+
+A FRAMEWORK FOR THE SYSTEMATIC EVALUATION OF OBSTACLE AVOIDANCE AND OBJECT-AWARE CONTROLLERS [PDF] [BIB]
+
+Caleb Escobedo, Nataliya Nechyporenko, Shreyas Kadekodi, Alessandro Roncone
+
+
+IEEE International Conference on Robot & Human Interactive Communication
+
+Naples, Italy, August 29
+
+BILEVEL OPTIMIZATION FOR JUST-IN-TIME ROBOTIC KITTING AND DELIVERY VIA ADAPTIVE TASK SEGMENTATION AND SCHEDULING [PDF] [BIB]
+
+Yi-Shiuan Tung, Kayleigh Bishop, Bradley Hayes, Alessandro Roncone
+
+
+Workshop on Natural Language Processing for Conversational AI @ ACL 2022
+
+Dublin, Ireland, May 27
+
+OPEN-DOMAIN DIALOGUE GENERATION: WHAT WE CAN DO, CANNOT DO, AND SHOULD DO NEXT [PDF] [BIB]
+
+Katharina Kann, Abteen Ebrahimi, Joewie J. Koh, Shiran Dudy, Alessandro Roncone
+
+
+IEEE Robotics Automation and Letters [RA-L] + ICRA
+
+Philadelphia, PA, U.S.A., May 23-27
+
+POKERRT: POKING AS A SKILL AND FAILURE RECOVERY TACTIC FOR PLANAR NON-PREHENSILE MANIPULATION [PDF] [BIB]
+
+Anuj Pasricha, Yi-Shiuan Tung, Bradley Hayes, Alessandro Roncone
+
+
+Frontiers in Robotics and AI
+HOW TO BE HELPFUL? SUPPORTIVE BEHAVIORS AND PERSONALIZATION FOR HUMAN-ROBOT COLLABORATION [PDF] [BIB]
+
+Olivier Mangin, Alessandro Roncone, and Brian Scassellati
+
+
+MIT Press
+INTRODUCTION TO AUTONOMOUS ROBOTS: MECHANISMS, SENSORS, ACTUATORS, AND ALGORITHMS
+
+Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone
+
+
+Robotics and Computer-Integrated Manufacturing
+
+Elsevier
+
+REAL-TIME MOTION CONTROL OF ROBOTIC MANIPULATORS FOR SAFE HUMAN-ROBOT COEXISTENCE [PDF] [BIB]
+
+Kelly Merckaert, Bryan Convens, Chi-ju Wu, Alessandro Roncone, Marco M Nicotra, and Bram Vanderborght
+
+
+2021
+IROS 2021 Workshop on Impact-Aware Robotics
+
+Prague, Czech Republic, October 1
+
+POKERRT: A KINODYNAMIC PLANNING APPROACH FOR POKING MANIPULATION [PDF] [BIB]
+
+Anuj Pasricha, Yi-Shiuan Tung, Bradley Hayes, Alessandro Roncone
+
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Prague, Czech Republic, September 27-October 1
+
+CONTACT ANTICIPATION FOR PHYSICAL HUMAN-ROBOT INTERACTION WITH ROBOTIC MANIPULATORS USING ONBOARD PROXIMITY SENSORS [PDF] [BIB]
+
+Caleb Escobedo, Matthew Strong, Mary West, Ander Aramburu, Alessandro Roncone
+
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Prague, Czech Republic, September 27-October 1
+
+SELF-CONTAINED KINEMATIC CALIBRATION OF A NOVEL WHOLE-BODY ARTIFICIAL SKIN FOR HUMAN-ROBOT COLLABORATION [PDF] [BIB]
+
+Kandai Watanabe, Matthew Strong, Mary West, Caleb Escobedo, Ander Aramburu, Krishna Chaitanya, Alessandro Roncone
+
+
+Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing
+
+Online and Punta Cana, Dominican Republic, November 2021
+
+THE WORLD OF AN OCTOPUS: HOW REPORTING BIAS INFLUENCES A LANGUAGE MODEL’S PERCEPTION OF COLOR [PDF] [BIB]
+
+Cory Paik, Stéphane Aroca-Ouellette, Alessandro Roncone, Katharina Kann
+
+
+Findings of the Association for Computational Linguistics
+
+Online, August 1-6
+
+PROST: PHYSICAL REASONING OF OBJECTS THROUGH SPACE AND TIME [PDF] [BIB]
+
+Stéphane Aroca-Ouellette, Cory Paik, Alessandro Roncone, and Katharina Kann
+
+
+4th Workshop on Proximity Perception in Robotics at IROS 2021
+
+Prague, Czech Republic, September 27
+
+VOLUMETRIC DATA FUSION OF EXTERNAL DEPTH AND ONBOARD PROXIMITY DATA FOR OCCLUDED SPACE REDUCTION [PDF] [BIB]
+
+Matthew Strong, Caleb Escobedo, Alessandro Roncone
+
+
+University of Colorado Boulder
+
+Boulder, CO, U.S.A.
+
+MULTI-AGENT REINFORCEMENT LEARNING AS APPLIED TO AUTONOMOUS SYSTEMS
+
+Guohui Ding
+PhD dissertation
+
+ACM International Conference on Human-Robot Interaction [HRI], Workshop on Robots for Learning
+
+Boulder, CO, U.S.A., March 12
+
+TEACHING GROUNDED READING SKILLS VIA AN INTERACTIVE ROBOT TUTOR [PDF] [BIB]
+
+Kayleigh "Kaleb" Bishop, Bradley Hayes, Alessandro Roncone
+
+
+2020
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Las Vegas, NV, U.S.A. October 25-29
+
+COOPERATIVE CONTROL OF MOBILE ROBOTS WITH STACKELBERG LEARNING [PDF] [BIB]
+
+Joewie J. Koh*, Guohui Ding*, Christoffer Heckman, Lijun Chen, Alessandro Roncone
+
+
+International Conference on Autonomous Agents and Multiagent Systems [AAMAS]
+
+Auckland, New Zealand, May 9-13
+
+DISTRIBUTED REINFORCEMENT LEARNING FOR COOPERATIVE MULTI-ROBOT OBJECT MANIPULATION [PDF] [BIB]
+
+Guohui Ding*, Joewie J. Koh*, Kelly Merckaert, Bram Vanderborght, Marco M. Nicotra, Christoffer Heckman, Alessandro Roncone, Lijun Chen
+
+
+2019
+2nd ICRA International Workshop on Computational Models of Affordance in Robotics
+
+Montreal, Canada, May 20-24
+
+AN AFFORDANCE-BASED ACTION PLANNER FOR ON-LINE AND CONCURRENT HUMAN-ROBOT COLLABORATIVE ASSEMBLY
+
+Francesca Stramandinoli, Alessandro Roncone, Olivier Mangin, Francesco Nori, and Brian Scassellati
+
+
+2018
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Madrid, Spain, October 1-5
+
+SITUATED HUMAN-ROBOT COLLABORATION: PREDICTING INTENT FROM GROUNDED NATURAL LANGUAGE [PDF] [BIB]
+
+Jake Brawer, Olivier Mangin, Alessandro Roncone, and Brian Scassellati
+
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Madrid, Spain, October 1-5
+
+PREFERENCE-BASED ASSISTANCE PREDICTION FOR HUMAN-ROBOT COLLABORATION TASKS [PDF] [BIB]
+
+Elena Corina Grigore, Alessandro Roncone, Olivier Mangin, and Brian Scassellati
+
+
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Madrid, Spain, October 1-5
+
+THE HRC MODEL SET FOR HUMAN-ROBOT COLLABORATION RESEARCH [PDF] [BIB]
+
+Sofya Zeylikman, Sarah Widder, Alessandro Roncone, Olivier Mangin, and Brian Scassellati
+
+
+International Conference on Autonomous Agents and Multiagent Systems [AAMAS]
+
+Stockholm, Sweden, July 11-13
+
+PREDICTING SUPPORTIVE BEHAVIORS FOR HUMAN-ROBOT COLLABORATION [PDF] [BIB]
+
+Elena Corina Grigore, Olivier Mangin, Alessandro Roncone, and Brian Scassellati
+Extended abstract
+
+ACM/IEEE International Conference on Human-Robot Interaction [HRI]
+
+Chicago, IL, U.S.A., March 5-8
+
+COMPACT REAL-TIME AVOIDANCE ON A HUMANOID ROBOT FOR HUMAN-ROBOT INTERACTION [PDF] [BIB]
+
+Dong Hai Phuong Nguyen, Matej Hoffmann, Alessandro Roncone, Ugo Pattacini, and Giorgio Metta
+
+
+2017
+IEEE International Conference on Robotics and Automation [ICRA]
+
+Singapore, Singapore May 29-June 3
+
+TRANSPARENT ROLE ASSIGNMENT AND TASK ALLOCATION IN HUMAN ROBOT COLLABORATION [PDF] [BIB]
+
+Alessandro Roncone, Olivier Mangin, and Brian Scassellati
+
+
+AAAI Matters
+LEARNING PERIPERSONAL SPACE REPRESENTATION IN A HUMANOID ROBOT WITH ARTIFICIAL SKIN [PDF] [BIB]
+
+Alessandro Roncone
+
+
+2016
+International Conference on Social Robotics [ICSR]
+
+Kansas City, MO, U.S.A., November 1-3
+
+PHYSIOLOGICALLY INSPIRED BLINKING BEHAVIOR FOR A HUMANOID ROBOT [PDF] [BIB]
+
+Hagen Lehmann, Alessandro Roncone, Ugo Pattacini, and Giorgio Metta
+
+
+PLOS ONE
+PERIPERSONAL SPACE AND MARGIN OF SAFETY AROUND THE BODY: LEARNING VISUO-TACTILE ASSOCIATIONS IN A HUMANOID ROBOT WITH ARTIFICIAL SKIN [PDF] [BIB]
+
+Alessandro Roncone, Matej Hoffmann, Ugo Pattacini, Luciano Fadiga, and Giorgio Metta
+
+
+Robotics: Science and Systems [RSS]
+
+Ann Arbor, MI, U.S.A., June 18-22
+
+A CARTESIAN 6-DOF GAZE CONTROLLER FOR HUMANOID ROBOTS [PDF] [BIB]
+
+Alessandro Roncone, Ugo Pattacini, Giorgio Metta, and Lorenzo Natale
+
+
+2015
+IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS]
+
+Hamburg, Germany, September 28-October 2
+
+LEARNING PERIPERSONAL SPACE REPRESENTATION THROUGH ARTIFICIAL SKIN FOR AVOIDANCE AND REACHING WITH WHOLE BODY SURFACE [PDF] [BIB]
+
+Alessandro Roncone, Matej Hoffmann, Ugo Pattacini, and Giorgio Metta
+
+
+Ph.D. Thesis
+
+University of Genoa and Italian Institute of Technology
+
+EXPANDING SENSORIMOTOR CAPABILITIES OF HUMANOID ROBOTS THROUGH MULTISENSORY INTEGRATION - A STUDY ON THE IMPLEMENTATION OF PERIPERSONAL SPACE ON THE ICUB [PDF] [BIB]
+
+Alessandro Roncone
+
+
+2014
+IEEE-RAS International Conference on Humanoid Robots
+
+Madrid, Spain, November 18-20
+
+GAZE STABILIZATION FOR HUMANOID ROBOTS: A COMPREHENSIVE FRAMEWORK [PDF] [BIB]
+
+Alessandro Roncone, Ugo Pattacini, Giorgio Metta, and Lorenzo Natale
+
+
+IEEE-RAS International Conference on Humanoid Robots
+
+Madrid, Spain, November 18-20
+
+3D STEREO ESTIMATION AND FULLY AUTOMATED LEARNING OF EYE-HAND COORDINATION IN HUMANOID ROBOTS [PDF] [BIB]
+
+Sean Ryan Fanello, Ugo Pattacini, Ilaria Gori, Vadim Tikhanoff, Marco Randazzo, Alessandro Roncone, Francesca Odone, and Giorgio Metta
+
+
+IEEE International Conference on Robotics and Automation [ICRA]
+
+Hong Kong, China, May 31-June 7
+
+AUTOMATIC KINEMATIC CHAIN CALIBRATION USING ARTIFICIAL SKIN: SELF-TOUCH IN THE ICUB HUMANOID ROBOT [PDF] [BIB]
+
+Alessandro Roncone, Matej Hoffmann, Ugo Pattacini, and Giorgio Metta
+It was featured in the IEEE Spectrum Video Friday!
+
+RESEARCH, TEACHING & SERVICE
+GRANTS
+2022 - Co-PI - Collaboration with University of California San Diego, title the co-evolution of Human-AI Adaptation, 3 years, $1.5M, Army Research Laboratory (ARL).
+2021 - PI - Co-PI Bradley Hayes, title Policy Learning for Optimal Teaming via TF-Conditioned Metalearning (PLOT-Meta), 5 years, $2M, Army Research Laboratory (ARL).
+2021 - PI - Strengthening Teamwork for Robust Operations in Novel Groups (STRONG), 1 year, $100k, Army Research Laboratory (ARL).
+2021 - PI, IRT Seed grant - Joint project with Tiera Tanskley, with title Towards equitable robot tutoring: an intersectional analysis of human-robot interaction in racially diverse classrooms, 1 year, $15k.
+2020 - Co-Director, Engineering Education and AI-Augmented Learning IRT - one of six College-sponsored Interdisciplinary Research Themes. Our IRT is focused on developing a community and research capacity around a new science at the intersection of AI-augmented learning and K16 education research, $250k.
+2020 - Co-PI, NSF Institute on Student-AI Teaming - 5 years, $20M.
+2019 - PI, Research and Innovation Office [RIO] seed grant - with Jianliang Xiao and Emiliano Dall’Anese, title Programmable and reconfigurable soft robots for symbiotic soft/rigid robotic systems, 1 year, $50k.
+TEACHING
+CSCI 7000 Physical Human-Robot Interaction (Spring 2019, Fall 2020, Fall 2021)
+CSCI 3302 Introduction to Robotics (Fall 2018, Spring 2020, Spring 2021, Spring 2022)
+CSCI 7000 Deep Reinforcement Learning and Robotics (Summer 2020, Fall 2022)
+INVITED TALKS
+2021 - Samsung AI NYC - https://research.samsung.com/aicenter_ny
+2021 - International Conference of Advanced Robotics [ICAR 2021] - Workshop on Design, Learning, and Control for Safe Human-Robot Collaboration.
+2019 - Colorado School of Mines - Title: Robots working with and around people..
+2017 - iCub Facility, Italian Institute of Technology, Genoa, IT - Title: Robots, inequality, and you.
+2017 - Computation and Cognitive Development Lab, Yale University, New Haven, CT - Title: Humans, Robots, and everything in between.
+2016 - International Conference on Social Robotics (ICSR16), Kansas City, MO, November 1-3 - Workshop on Synthetic Method in Social Robotics.
+2015-2016 - Yale University, New Haven, CT - Two guest lectures at the CPSC 472 Intelligent Robotics course.
+EXTERNAL SERVICE
+2019-2021 - St. Vrain Valley School District [SVVSD, serving 37000 students in K-12] - Educational Advisor for Artificial Intelligence Education.
+2019-2020 - IEEE Denver Computer, Information Theory and Robotics Society [CIR] - Vice Chair and Educational Advisor.
+ASSOCIATE EDITOR / PROGRAM COMMITTEE MEMBER
+IEEE International Conference on Robotics and Automation (ICRA)
+ACM International Conference on Human-Robot Interaction (HRI)
+International Conference on Artificial Intelligence (AAAI)
+REVIEWER
+IEEE Transactions on Robotics (T-RO)
+IEEE International Conference on Robotics and Automation (ICRA)
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+ACM International Conference on Human-Robot Interaction (HRI)
+ACM Transactions on Human-Robot Interaction (T-HRI)
+Robotics and Automation Letters (RA-L)
+Robotics: Science and Systems (RSS)
+Frontiers in NeuroRobotics
+Frontiers in Robotics and AI
+IEEE/RAS International Conference on Humanoid Robots (Humanoids)
+International Journal of Humanoid Robotics
+IEEE International Conference on Development and Learning and on Epigenetic Robotics (ICDL-Epirob)
+IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)
+IEEE International Symposium on Robot and Human Interactive Communication (ROMAN)
+IEEE International Conference on Robotics and Biomimetics (ROBIO)
+2017
+Robotics Lab
+
+Universidad Carlos III de Madrid
+
+INTERNATIONAL PH.D. THESIS REVIEWER
+
+External reviewer for the Ph.D. thesis of Raúl Pérula-Martínez, graduated from the Robotics Lab in Universidad Carlos III de Madrid in 2017.
+
+2015
+CBMM 2015 Summer School
+
+Woods Hole, MA, August 13-September 3
+
+TEACHING ASSISTANT AT THE BMM - MIT SUMMER SCHOOL
+
+Alessandro Roncone, Carlo Ciliberto, Giulia Pasquale and Raffaello Camoriano
+Teaching assistant at the 2015 CBMM Summer School, organized by a number of MIT lab groups and affiliates. I focused on tutoring students during their projects with the iCub. A notable achievement has been the integration of Google Glass onto the YARP framework, that has been later used in order to perform head/gaze teleoperation on the iCub.
+
+2014
+IEEE International Conference on Development and Learning and on Epigenetic Robotics
+
+Genoa, Italy, October 13-16
+
+CO-ORGANIZER OF THE DEVELOPMENT OF BODY REPRESENTATIONS IN HUMANS AND ROBOTS WORKSHOP
+
+Matej Hoffmann, Alessandro Roncone, Lorenzo Jamone, and Beata Grzyb
+Half-day workshop @ICDL-EPIROB 2014 Conference. The goal of the workshop was to explore the possibility of robots developing models inspired by the mechanisms of human body representations. In this way, they can on one hand become new modeling tools for empirical sciences - expanding the domain of computational modeling by anchoring it to the physical environment and a physical body. On the other hand, robot controllers endowed with multimodal whole-body awareness and plasticity typical of humans should give rise to - in robotics unprecedented - autonomy, robustness, and resilience.
+
+2014
+International conference on Infant Studies
+
+Berlin, Germany, July 3-5
+
+MODELING THE DEVELOPMENT OF BODY KNOWLEDGE USING HUMANOID ROBOTS
+
+Matej Hoffmann, Alessandro Roncone, Giorgio Metta
+Oral presentation at the International Conference on Infant Studies on my work related to the double-touch (made by Matej Hoffmann).
+
+2013
+SMLC - Workshop on Synthetic Modeling of Life and Cognition
+
+Bergamo, Italy, September 12-14
+
+MODELING THE DEVELOPMENT OF HUMAN BODY REPRESENTATIONS
+
+Matej Hoffmann, Alessandro Roncone
+Invited to give an oral presentation at the workshop on Synthetic Modeling of Life and Cognition.
+
+2013-2014
+IIT (Italian Institute of Technology)
+
+iCub Facility
+
+RESEARCHER OF THE WEEK
+
+I have been researcher of the week for two times. Despite its name, this award is given very rarely to outstanding research performed in the iCub Facility at IIT. In the past years, only 8 of these awards have been awarded.
+
+GRAPHIC DESIGN
+FLATWOKEN ICONS
+
+My second icon pack capitalized on the experience I gained while working on the AwOken project, and was a much more refined long-shadow set.
+
+AWOKEN ICONS
+
+My most awarded and recognized graphics projects. It has been downloaded more than a million times in less than one year, and has been for a while the most downloaded icon set on Linux. Ever.
+
+JUL. - OCT. 2013
+Coop la Lucerna
+ICON DESIGNER IN OUTSOURCING
+
+Coop la Lucerna is a farm right in the middle of Pianura Padana, IT. During the process of restructuring their online offerings, they contacted me in order to implemented a set of icons for their website. The icons were a set of 20 vegetables, rendered in a flat and minimal look.
+
+OCT. - DEC. 2011
+Magor Corp.
+ICON DESIGNER IN OUTSOURCING
+
+I have been contacted in order to design a new set of icons for their tele-collaboration software (a Skype-like alternative oriented toward telepresence and teleconference). I designed a total of 30 icons.
+
+FEB. - MAR. 2010
+The Castle Project
+ICON DESIGNER IN OUTSOURCING
+
+I implemented a set of icons for their website. It was a non-profit organization based in Edinburgh aimed toward taking care of drug- and alcohol- addicts, so I had some fun in designing some drug-related icons.
+
+SKILLS AND TECHNICAL EXPERTISE
+
+The following is a list of my so-called skills, i.e. a set of progress bars that have little meaning and are totally subjective. They fall short in depicting who I really am, but they are a fair rundown of my practical talents nonetheless.
+
+Robots & Platforms:
+
+98% COMPLETE
+ICUB
+98%
+94% COMPLETE
+YARP
+94%
+90% COMPLETE
+BAXTER
+90%
+92% COMPLETE
+ROS
+92%
+
+Robotics & AI:
+
+90% COMPLETE
+KINEMATICS
+90%
+85% COMPLETE
+NON-LINEAR OPTIMIZATION
+85%
+82% COMPLETE
+DECISION MAKING
+82%
+78% COMPLETE
+PLANNING UNDER UNCERTAINTY
+78%
+80% COMPLETE
+2D/3D COMPUTER VISION
+80%
+75% COMPLETE
+CALIBRATION
+75%
+65% COMPLETE
+CONTROL
+65%
+66% COMPLETE
+MACHINE LEARNING
+66%
+85% COMPLETE
+TACTILE SENSING
+85%
+55% COMPLETE
+SENSOR FUSION
+55%
+60% COMPLETE
+FILTERING
+60%
+85% COMPLETE
+IMU PROCESSING
+85%
+
+Programming:
+
+95% COMPLETE
+C++
+95%
+85% COMPLETE
+MATLAB
+85%
+75% COMPLETE
+CMAKE
+75%
+65% COMPLETE
+BASH
+65%
+90% COMPLETE
+CSS3 & HTML5
+90%
+36% COMPLETE
+R
+36%
+40% COMPLETE
+PYTHON
+40%
+45% COMPLETE
+ANDROID/JAVA
+45%
+
+OS/Software:
+
+95% COMPLETE
+LINUX
+95%
+56% COMPLETE
+WINDOWS
+56%
+94% COMPLETE
+GIT
+94%
+70% COMPLETE
+SVN
+70%
+40% COMPLETE
+CVS
+40%
+88% COMPLETE
+CONTINOUS INTEGRATION
+88%
+84% COMPLETE
+UNIT TESTING
+84%
+82% COMPLETE
+DEBUGGING
+82%
+74% COMPLETE
+DOCKER
+74%
+88% COMPLETE
+UX/UI
+88%
+82% COMPLETE
+GIMP
+82%
+92% COMPLETE
+INKSCAPE
+92%
+
+Languages:
+
+99% COMPLETE
+ITALIAN
+99%
+93% COMPLETE
+ENGLISH
+93%
+64% COMPLETE
+GENOVESE
+64%
+
+Sports:
+
+98% COMPLETE
+RUNNING
+98%
+82% COMPLETE
+SKIING
+82%
+86% COMPLETE
+BEACH VOLLEY
+86%
+78% COMPLETE
+WATERPOLO
+78%
+70% COMPLETE
+TENNIS
+70%
+60% COMPLETE
+SOCCER
+60%
+62% COMPLETE
+FRISBEE
+62%
+ABOUT
+
+Personal website of Alessandro Roncone, Ph.D. in robotics, computer scientist, team lead, father, and runner. From August 2018, he became Assistant Professor of Robotics in the CS Department at CU Boulder, where he directs the Human Interaction and RObotics [HIRO] Group. Since January 2022, Alessandro is also Chief Technology Officer of Lab0.
+
+Alessandro has more than years' research experience in robotics. He worked with the iCub robot, one of the most advanced humanoid robots, on machine perception, robot control, and artificial intelligence. His research focus is in human-robot interaction: with the goal of creating robots that work with and around people, he focuses on motion planning, artificial intelligence, and robot control. This website is not actively maintained any more! Please visit my lab's website [LINK]
+
+LOCATION
+
+1111 Engineering Dr, ECES 124,
+Computer Science Dept, University of Colorado,
+Boulder, 80309, CO, U.S.A.
+
+
+GET IN TOUCH
+    
+CREDITS
+
+Made with Jekyll for Github. The design is modified from the beautiful Freelancer Theme.
+
+Copyright © alecive 2024
+

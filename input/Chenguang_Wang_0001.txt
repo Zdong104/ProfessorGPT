@@ -1,0 +1,401 @@
+Professor: Chenguang Wang 0001
+University: Washington University in St. Louis
+URL: https://cgraywang.github.io/
+Description: Chenguang Wang
+	
+Publications
+	
+NLP Group
+	
+Services
+Chenguang Wang
+
+Assistant Professor, WashU Director, WashU NLP Group
+
+ Email
+ Github
+ Google Scholar
+
+I am an Assistant Professor in the Department of Computer Science and Engineering at Washington University in St. Louis, and the Founder and Director of the WashU Natural Language Processing Group. I am also a member of the Division of Computational and Data Sciences and the AI for Health Institute.
+
+Previously, I was a postdoc in computer science at UC Berkeley. I was also a research scientist at Amazon AI and a research staff member at IBM Research-Almaden. I completed my Ph.D. at Peking University, and was a visiting Ph.D. student at UIUC.
+
+Research Interests: Natural language processing, machine learning, and security.
+
+Prospective Students and Postdocs: Please see this page.
+
+News
+[New] May, 2024: Social is now released! [Paper] [Dataset] [Code] [Slides] [Poster].
+[New] May, 2024: Re-Tuning is accepted to ACL 2024.
+[New] May, 2024: AgentInstruct is accepted to ICML 2024.
+Apr, 2024: Take a look at the recent interview with MIT Technology Review China (DeepTech) talking about our recent research on STEM and others [Orginally in Chinese] [Google Translate]!
+Apr, 2024: Congrats to Kyle on his successful defense!
+Apr, 2024: STEM is now released, try it out to understand your foundation models better! [Paper] [Leaderboard] [Dataset] [Code] [Slides] [Poster].
+Apr, 2024: Congrats to David on receiving WashU Summer Undergraduate Research Award!
+Apr, 2024: Thrilled to receive the Google Research Scholar Award!
+Apr, 2024: Social paper is out. Stay tuned for our code and datasets!
+Apr, 2024: Congrats to David and Josh on receiving WashU CSE Awards!
+Mar, 2024: “Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning” is accepted to ACS ES&T Air 2024.
+Mar, 2024: RoZ benchmark is accepted to CVPR 2024 workshop.
+Mar, 2024: “Measuring Social Norms of Large Language Models” is accepted to NAACL 2024.
+Mar, 2024: “Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A Pilot Study” is released. 📃 [Paper] 💻 [Github].
+Mar, 2024: “Agent Instructs Large Language Models to be General Zero-Shot Reasoners” is accepted to ICLR 2024 workshop.
+Mar, 2024: “Evaluating Large Language Models in an Emerging Domain: A Pilot Study in Decentralized Finance” is accepted to ICLR 2024 workshop.
+Feb, 2024: STEM paper is out. Stay tuned for our code and datasets release!
+Feb, 2024: “Preference Poisoning Attacks on Reward Model Learning” is released.
+Jan, 2024: “Measuring Vision-Language STEM Skills of Neural Models” is accepted to ICLR 2024.
+Nov, 2023: AgentInstruct code is out! 📃 [Paper] 💻 [Github] 🤗 [HuggingFace] 📌 [Blog] 📽 [Slides] 📋 [Poster]
+Oct, 2023: “Agent Instructs Large Language Models to be General Zero-Shot Reasoners” is released.
+Sep, 2023: I will serve as PC for ICLR 2024.
+Jul, 2023: “Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study” is accepted to ICCV 2023.
+Apr, 2023: “CodeIPPrompt: Intellectual Property Infringement Assessment of Code Language Models” is accepted to ICML 2023.
+Oct, 2022: 4 papers are accepted to EMNLP 2022.
+Oct, 2022: The WashU NLP Group is launched.
+Publications
+
+Re-Tuning: Overcoming the Compositionality Limits of Large Language Models with Recursive Tuning
+
+Eric Pasewark, Kyle Montgomery, Kefei Duan, Dawn Song, and Chenguang Wang.
+
+In The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
+
+paper
+
+Agent Instructs Large Language Models to be General Zero-Shot Reasoners
+
+Nicholas Crispino, Kyle Montgomery, Fankun Zeng, Dawn Song, and Chenguang Wang.
+
+In The Forty-first International Conference on Machine Learning (ICML 2024).
+
+paper code huggingface twitter blog slides poster
+
+Measuring Vision-Language STEM Skills of Neural Models
+
+Jianhao Shen, Ye Yuan, Srbuhi Mirzoyan, Ming Zhang, and Chenguang Wang.
+
+In The Twelfth International Conf. on Learning Representations (ICLR 2024).
+
+paper leaderboard code data slides poster MITTechnologyReviewChina(Translate) MITTechnologyReviewChina(Chinese)
+
+Measuring Social Norms of Large Language Models
+
+Ye Yuan, Kexin Tang, Jianhao Shen, Ming Zhang, and Chenguang Wang.
+
+In 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024).
+
+paper code data slides poster
+
+Preference Poisoning Attacks on Reward Model Learning
+
+Junlin Wu, Jiongxiao Wang, Chaowei Xiao, Chenguang Wang, Ning Zhang, Yevgeniy Vorobeychik.
+
+In arXiv preprint arXiv:2402.01920 (arXiv 2024).
+
+paper
+
+Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A Pilot Study
+
+Chenguang Wang, Ruoxi Jia, Xin Liu, and Dawn Song.
+
+In Proc. of the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2024 Workshop of Adversarial Machine Learning on Computer Vision).
+
+paper code
+
+Evaluating Large Language Models in an Emerging Domain: A Pilot Study in Decentralized Finance
+
+Joshua Carter Pearlson, Xiaoyuan Liu, Chengsong Huang, Kripa Ann George, Dawn Song, and Chenguang Wang.
+
+In The Twelfth International Conf. on Learning Representations DPFM Workshop (ICLR 2024 DPFM Workshop).
+
+paper
+
+Enhancing Global Estimation of Fine Particulate Matter Concentrations by Including Geophysical a Priori Information in Deep Learning
+
+Siyuan Shen, Chi Li, Aaron van Donkelaar, Nathan Jacobs, Chenguang Wang, Randall V. Martin.
+
+In ACS ES&T Air (ACS ES&T Air 2024).
+
+paper
+
+CodeIPPrompt: Intellectual Property Infringement Assessment of Code Language Models
+
+Zhiyuan Yu, Yuhao Wu, Ning Zhang, Chenguang Wang, Yevgeniy Vorobeychik, Chaowei Xiao.
+
+In Proc. of the 40th International Conf. on Machine Learning (ICML 2023).
+
+paper
+
+Practical Membership Inference Attacks Against Large-Scale Multi-Modal Models: A Pilot Study
+
+Myeongseob Ko, Ming Jin, Chenguang Wang, Ruoxi Jia.
+
+In International Conf. on Computer Vision (ICCV 2023).
+
+paper
+
+DeepStruct: Pretraining of language models for structure prediction
+
+Chenguang Wang*, Xiao Liu*, Zui Chen*, Haoyun Hong, Jie Tang, and Dawn Song.
+
+In Proc. 2022 Annual Meeting of the Association for Computational Linguistics (ACL 2022).
+
+paper code slides video poster
+
+Joint language semantic and structure embedding for knowledge graph completion
+
+Jianhao Shen, Chenguang Wang*, Linyuan Gong, and Dawn Song.
+
+In Proc. 2022 Int. Conf. on Computational Linguistics (COLING 2022).
+
+paper code slides
+
+IELM: An Open Information Extraction Benchmark for Pre-Trained Language Models
+
+Chenguang Wang, Xiao Liu and Dawn Song.
+
+In Proc. 2022 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2022).
+
+paper poster
+
+PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion
+
+Jianhao Shen, Chenguang Wang*, Ye Yuan, Jiawei Han, Heng Ji, Koushik Sen, Ming Zhang* and Dawn Song*.
+
+In Proc. 2022 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2022).
+
+paper code slides
+
+Benchmarking Language Models for Code Syntax Understanding
+
+Da Shen, Xinyun Chen*, Chenguang Wang*, Koushik Sen and Dawn Song.
+
+In Proc. 2022 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2022).
+
+paper code slides
+
+Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models
+
+Zhiyuan Zhang, Lingjuan Lyu, Xingjun Ma, Chenguang Wang and Xu Sun.
+
+In Proc. 2022 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2022).
+
+paper
+
+Protecting intellectual property of language generation APIs with lexical watermark
+
+Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, and Chenguang Wang.
+
+In Proc. 2022 AAAI Conf. on Artificial Intelligence (AAAI 2022).
+
+paper
+
+Improving representation of the AOD to PM2.5 relationship with a convolutional neural network
+
+Siyuan Shen, Aaron van Donkelaar, Randall V. Martin, Nathan Jacobs, and Chenguang Wang.
+
+In Proc. 2022 Advancing Earth and Space Science (AGU 2022).
+
+paper
+
+Zero-shot information extraction as a unified text-to-triple translation
+
+Chenguang Wang, Xiao Liu, Zui Chen, Haoyun Hong, Jie Tang, and Dawn Song.
+
+In Proc. 2021 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2021).
+
+paper code slides video poster
+
+Language models are open knowledge graphs
+
+Chenguang Wang, Xiao Liu, and Dawn Song.
+
+In arXiv preprint arXiv:2010.11967 (arXiv 2020).
+
+paper code slides
+
+GluonCV and GluonNLP: Deep learning in computer vision and natural language processing
+
+Jian Guo, He He, Tong He, Leonard Lausen, Mu Li, Haibin Lin, Xingjian Shi, Chenguang Wang, Junyuan Xie, Aston Zhang, Hang Zhang, Zhi Zhang, Zhongyue Zhang, and Shuai Zheng.
+
+In Journal of Machine Learning Research (JMLR 2020).
+
+paper code
+
+PoD: Positional dependency-based word embedding for aspect term extraction
+
+Yichun Yin, Chenguang Wang, and Ming Zhang.
+
+In Proc. 2020 Int. Conf. on Computational Linguistics (COLING 2020).
+
+paper
+
+Transformer on a diet
+
+Chenguang Wang, Zihao Ye, Aston Zhang, Zheng Zhang, and Alexander Smola.
+
+In arXiv preprint arXiv:2002.06170 (arXiv 2020).
+
+paper code
+
+Language models with Transformers
+
+Chenguang Wang, Mu Li, and Alexander Smola.
+
+In arXiv preprint arXiv:1904.09408 (arXiv 2019).
+
+paper code slides
+
+From shallow to deep language representations: Pre-training, fine-tuning, and beyond
+
+Aston Zhang, Haibin Lin, Chenguang Wang, Mu Li, and Alexander Smola.
+
+In Proc. 2019 ACM SIGKDD Int. Conf.on Knowledge Discovery and Data Mining (KDD 2019).
+
+paper code
+
+Co-occurrent features in semantic segmentation
+
+Hang Zhang, Han Zhang, Chenguang Wang, and Junyuan Xie.
+
+In Proc. of the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR 2019).
+
+paper
+
+Unsupervised meta-path selection for similarity measure on heterogeneous information networks
+
+Chenguang Wang, Yangqiu Song, Haoran Li, Ming Zhang, and Jiawei Han.
+
+In Proc. 2018 Data Mining and Knowledge Discovery (DMKD 2018).
+
+paper code data
+
+Distant meta-path similarities for text-based heterogeneous information networks
+
+Chenguang Wang, Yangqiu Song, Haoran Li, Yizhou Sun, Ming Zhang, and Jiawei Han.
+
+In Proc. 2017 ACM Int. Conf. on Information and Knowledge Management (CIKM 2017).
+
+paper data slides
+
+Crowd-in-the-loop: A hybrid approach for annotating semantic roles
+
+Chenguang Wang, Alan Akbik, Laura Chiticariu, Yunyao Li, Fei Xia, and Anbang Xu.
+
+In Proc. 2017 Conf. on Empirical Methods on Natural Language Processing (EMNLP 2017).
+
+paper data slides
+
+Active learning for black-box semantic role labeling with neural factors
+
+Chenguang Wang, Laura Chiticariu, and Yunyao Li.
+
+In Proc. 2017 Int. Joint Conf. on Artificial Intelligence (IJCAI 2017).
+
+paper data slides
+
+Semi-supervised learning over heterogeneous information networks by ensemble of meta-graph guided random walks
+
+He Jiang, Yangqiu Song, Chenguang Wang, Ming Zhang, and Yizhou Sun.
+
+In Proc. 2017 Int. Joint Conf. on Artificial Intelligence (IJCAI 2017).
+
+paper code
+
+Towards re-defining relation understanding in financial domain
+
+Chenguang Wang, Doug Burdick, Laura Chiticariu, Rajasekar krishnamurthy, Yunyao Li, and Huaiyu Zhu.
+
+In Proc. of 2017 ACM SIGMOD Int. Conf. on Management of Data Workshop (SIGMOD 2017 Workshop).
+
+paper slides video
+
+HINE: Heterogeneous information network embedding
+
+Yuxin Chen, and Chenguang Wang.
+
+In Proc. 2017 Int. Conf. on Database Systems for Advanced Applications (DASFAA 2017).
+
+paper
+
+World knowledge as indirect supervision for document clustering
+
+Chenguang Wang, Yangqiu Song, Ahmed El-Kishky, Dan Roth, Ming Zhang, and Jiawei Han.
+
+In ACM Transactions on Knowledge Discovery from Data (TKDD 2016).
+
+paper data
+
+RelSim: Relation similarity search in schema-rich heterogeneous information networks
+
+Chenguang Wang, Yizhou Sun, Yanglei Song, Jiawei Han, Yangqiu Song, Lidan Wang, and Ming Zhang.
+
+In Proc. 2016 SIAM Int. Conf. on Data Mining (SDM 2016)".
+
+paper slides
+
+Text classification with heterogeneous information network kernels
+
+Chenguang Wang, Yangqiu Song, Haoran Li, Ming Zhang, and Jiawei Han.
+
+In Proc. 2016 AAAI Conf. on Artificial Intelligence (AAAI 2016).
+
+paper code data slides
+
+KnowSim: A document similarity measure on structured heterogeneous information networks
+
+Chenguang Wang, Yangqiu Song, Haoran Li, Ming Zhang, and Jiawei Han.
+
+In Proc. of 2015 IEEE Int. Conf. on Data Mining (ICDM 2015).
+
+paper code data slides
+
+Constrained information-theoretic tripartite graph clustering to identify semantically similar relations
+
+Chenguang Wang, Yangqiu Song, Dan Roth, Chi Wang, Jiawei Han, Heng Ji, and Ming Zhang.
+
+In Proc. 2015 Int. Joint Conf. on Artificial Intelligence (IJCAI 2015).
+
+paper slides
+
+Incorporating world knowledge to document clustering via heterogeneous information networks
+
+Chenguang Wang, Yangqiu Song, Ahmed El-Kishky, Dan Roth, Ming Zhang, and Jiawei Han.
+
+In Proc. 2015 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD 2015).
+
+paper code data slides video
+
+Spectral label refinement for noisy and missing text labels
+
+Yangqiu Song, Chenguang Wang, Ming Zhang, Hailong Sun, and Qiang Yang.
+
+In Proc. 2015 AAAI Conf. on Artificial Intelligence (AAAI 2015).
+
+paper
+
+Measuring domain influence in heterogeneous networks
+
+Quan Liu, Chenguang Wang, and Ming Zhang.
+
+In Proc. 2014 ACM Int. Conf. on Web Search and Data Mining Workshop on Diffusion Networks and Cascade Analytics (WSDM 2014 Workshop).
+
+paper
+
+Paraphrasing adaptation for web search ranking
+
+Chenguang Wang, Nan Duan, Ming Zhou, and Ming Zhang.
+
+In Proc. 2013 Annual Meeting of the Association for Computational Linguistics (ACL 2013).
+
+paper slides
+
+ENGtube: An integrated subtitle environment for ESL
+
+Chi-Ho Li, Shujie Liu, Chenguang Wang, and Ming Zhou.
+
+In MT Summit XIII: the Thirteenth Machine Translation Summit (MTSummit 2011).
+
+paper
+
+Copyright © Chenguang Wang 2023
+

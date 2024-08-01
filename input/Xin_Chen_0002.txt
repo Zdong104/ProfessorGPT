@@ -1,0 +1,167 @@
+Professor: Xin Chen 0002
+University: University of New Mexico
+URL: https://shinchern.github.io/
+Description: Xin Chen    (pronounced Shin Chern)     
+Assistant Professor
+Department of Computer Science
+University of New Mexico, Albuquerque NM
+Email:   chenxin AT unm DOT edu
+	
+
+
+
+(Openings for Ph.D. students: I am looking for self-motivated students working on the analysis and synthesis of: (1) large-scale hybrid systems, (2) stochastic processes, (3) AI/ML algorithms.)
+
+Research interests
+I am primarily interested in solving the safety and security problems on Cyber-Physical Systems equipped with machine learning components using formal methods.
+A graphic overview of my research topics along with some of my representative publications are given as below.
+
+
+
+Cyber-Physical System
+Controller
+(Finite State Machine)
+Plant
+(Differential Equation)
+senses
+actuates
+Real-Time Recovery Against Sensor Attacks: [RTSS'20], [TECS'21]
+Verification of Neural Network Controllers: [TCAD'20], [TECS'19], [HSCC'19]
+Synthesis of Neural Network Controllers: [ICCAD'19]
+Real-Time Monitoring: [RV'19], [RTSS'17]
+Decomposed Reachability Analysis: [RTSS'16]
+Reachable Set Underapproximation: [FMCAD'14]
+Time-Relational Abstraction: [TECS'17]
+Formal Verification of Hybrid Systems: [RTSS'12]
+Applications to Robotics: [IROS'20]
+Tools: [ATVA'20], [CAV'13]
+
+
+
+Committee member
+VMCAI 2025, ICCD 2024, MEMOCODE 2024, ARCH 2024, ATVA 2024, DAC 2024, ASP-DAC 2024, ARCH 2023, AAAI 2023, ARCH 2022, NSV 2022, ARCH 2021, ARCH 2020, EMSOFT 2019, ARCH 2019, ARCH 2018, EMSOFT WiP 2018, ARCH 2017, SNR 2017, CAV 2016 AEC, HSCC RE 2016, ARCH 2016, ARCH 2015, HSCC RE 2014.
+
+
+Software
+Flow* is a tool for the reachability analysis and safety verification for nonlinear hybrid systems. We released a toolbox version of Flow*, it has a completely new design of data structures and a much better performance.
+
+
+POLAR is a tool for the formal verification of Neural Network-Controlled Systems.
+
+
+PhD thesis
+Reachability Analysis of Non-Linear Hybrid Systems Using Taylor Models. RWTH Aachen University, 2015.
+
+
+Projects
+2019.08 - 2022.03, Analysis and Abstraction of Hybrid Systems (PI), funded by Air Force Research Laboratory, $83,158.
+2017.05 - 2017.08, Summer of Innovation (co-PI), funded by Air Force Research Laboratory, $35,000 (my share).
+
+
+
+Selected Publications
+Book Chapter
+Xin Chen, Jiameng Fan, Chao Huang, Ruochen Jiao, Wenchao Li, Xiangguo Liu, Yixuan Wang, Zhilu Wang, Weichao Zhou, Qi Zhu.
+Safety-Assured Design and Adaptation of Connected and Autonomous Vehicles.
+In Machine Learning and Optimization Techniques for Automotive Cyber-Physical Systems, pp. 735–757. 2023.
+
+
+Peer-Reviewed Conference and Journal Papers
+[RTAS'24]
+Lin Zhang, Luis Burbano, Xin Chen, Alvaro A. Cardenas, Steve Drager, Matthew Anderson, Fanxin Kong.
+Fast Attack Recovery for Stochastic Cyber-Physical Systems.
+In IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). To Appear. 2024.
+[AAAI'24]
+Feisi Fu, Zhilu Wang, Weichao Zhou, Yixuan Wang, Jiameng Fan, Chao Huang, Zhu Qi, Xin Chen, Wenchao Li.
+REGLO: Provable Neural Network Repair for Global Robustness Properties.
+In AAAI Conference on Artificial Intelligence (AAAI). To Appear. 2024.
+[TCAD'23]
+Yixuan Wang, Weichao Zhou, Jiameng Fan, Zhilu Wang, Jiajun Li, Xin Chen, Chao Huang, Wenchao Li, Qi Zhu.
+POLAR-Express: Efficient and Precise Formal Reachability Analysis of Neural-Network Controlled Systems.
+In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). To Appear. 2023.
+[RTAS'23]
+Lin Zhang, Kaustubh Sridhar, Mengyu Liu, Pengyuan Lu, Xin Chen, Fanxin Kong, Oleg Sokolsky, Insup Lee.
+Real-Time Data-Predictive Attack-Recovery for Complex Cyber-Physical Systems.
+In IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), pp. 209-222, 2023.
+[ATVA'22]
+Chao Huang, Jiameng Fan, Xin Chen, Wenchao Li, Qi Zhu.
+POLAR: A Polynomial Arithmetic Framework for Verifying Neural-Network Controlled Systems.
+In Automated Technology for Verification and Analysis (ATVA), volume 13505 of LNCS, pp. 414–430. Springer, 2022.
+[NFM'22]
+Xin Chen, Sriram Sankaranarayanan.
+Reachability Analysis for Cyber-Physical Systems: Are We There Yet?.
+In NASA Formal Methods (NFM), volume 13260 of LNCS, pp. 109–130. Springer, 2022.
+[TECS'21]
+Lin Zhang, Pengyuan Lu, Fanxin Kong, Xin Chen, Oleg Sokolsky, Insup Lee.
+Real-time Attack-recovery for Cyber-physical Systems Using Linear-quadratic Regulator.
+In ACM Transactions on Embedded Computing Systems (TECS), volume 20, issue 5s, pp. 1-24. ACM, 2021.
+[RTSS'20]
+Lin Zhang, Xin Chen, Fanxin Kong, Alvaro A. Cardenas.
+Real-Time Attack-Recovery for Cyber-Physical Systems Using Linear Approximations.
+In IEEE Real-Time Systems Symposium (RTSS). pp. 205-217, 2020.
+[TCAD'20]
+Chao Huang, Jiameng Fan, Xin Chen, Wenchao Li, and Qi Zhu.
+Divide and Slide: Layer-Wise Refinement for Output Range Analysis of Deep Neural Networks.
+In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). volume 39, number 11, pp. 3323-3335. 2020.
+[IROS'20]
+Qin Lin, Xin Chen, Aman Khurana, and John M. Dolan.
+ReachFlow: An Online Safety Assurance Framework for Waypoint-Following of Self-driving Cars.
+In the International Conference on Intelligent Robots and Systems (IROS). 2020.
+[ATVA'20]
+Jiameng Fan, Chao Huang, Xin Chen, Wenchao Li, and Qi Zhu.
+ReachNN*: A Tool for Reachability Analysis of Neural-Network Controlled Systems. (Tool Paper)
+In the International Symposium on Automated Technology for Verification and Analysis (ATVA). volume 12302 of LNCS, pp.537-542. Springer, 2020.
+[ICCAD'19]
+Chao Huang, Jiameng Fan, Wenchao Li, Xin Chen, and Qi Zhu.
+Towards Verification-Aware Knowledge Distillation for Neural-Network Controlled Systems. (Invited Paper)
+In the International Conference On Computer Aided Design (ICCAD) (Special session: The Road to Safe Autonomy: Neural Networks Meet Formal Reasoning), pp. 1-8. IEEE, 2019.
+[TECS'19]
+Chao Huang, Jiameng Fan, Wenchao Li, Xin Chen, and Qi Zhu.
+ReachNN: Reachability Analysis of Neural-Network Controlled Systems.
+In ACM Transactions on Embedded Computing Systems (TECS), volume 18, number 5s, pp. 106:1-106:22. ACM, 2019.
+[RV'19]
+Hansol Yoon, Yi Chou, Xin Chen, Eric Frew, and Sriram Sankaranarayanan.
+Predictive Runtime Monitoring for Linear Stochastic Systems and Applications to Geofence Enforcement for UAVs.
+In Runtime Verification (RV), volume 11757 of LNCS, pp. 349-367. Springer, 2019.
+[HSCC'19]
+Souradeep Dutta, Xin Chen, and Sriram Sankaranarayanan.
+Reachability Analysis for Neural Feedback Systems Using Regressive Polynomial Rule Inference.
+In Hybrid Systems: Computation and Control (HSCC), pp. 157-168, 2019.
+[RTSS'17]
+Xin Chen and Sriram Sankaranarayanan.
+Model Predictive Real-Time Monitoring of Linear Systems.
+In Real Time Systems Symposium (RTSS), pp. 297-306, 2017.
+[TECS'17]
+Xin Chen, Sergio Mover, and Sriram Sankaranarayanan.
+Compositional Relational Abstraction for Nonlinear Hybrid Systems.
+In ACM Transactions on Embedded Computing Systems (TECS) 16(5): pp. 187:1-187:19, 2017.
+[RTSS'16]
+Xin Chen, Sriram Sankaranarayanan.
+Decomposed Reachability Analysis for Nonlinear Systems.
+In Real-Time Systems Symposium (RTSS), 2016.
+[JMCI'15]
+Mohamed Amin Ben Sassi, Sriram Sankaranarayanan, Xin Chen, Erika Abraham.
+Linear Relaxations of Polynomial Positivity for Polynomial Lyapunov Function Synthesis.
+In IMA Journal of Mathematical Control and Information, 2015, Oxford University Press.
+[FMCAD'14]
+Xin Chen, Sriram Sankaranarayanan, Erika Abraham.
+Under-Approximate Flowpipes for Non-Linear Continuous Systems.
+In Formal Methods in Computer-Aided Design (FMCAD), pp. 59-66, 2014, IEEE.
+[ICCAD'13]
+Yan Zhang, Sriram Sankaranarayanan, Fabio Somenzi, Xin Chen, Erika Abraham.
+From statistical model checking to statistical model inference: Characterizing the effect of process variations in analog circuits.
+In the International Conference On Computer Aided Design (ICCAD), pp. 662-669, 2013.
+[CAV'13]
+Xin Chen, Erika Abraham, Sriram Sankaranarayanan.
+Flow*: An Analyzer for Non-Linear Hybrid Systems.
+In Computer-Aided Verification (CAV), volume 8044 of LNCS, pp. 258-263, 2013.
+[RTSS'12]
+Xin Chen, Erika Abraham, Sriram Sankaranarayanan.
+Taylor Model Flowpipe Construction for Non-linear Hybrid Systems.
+In Real Time Systems Symposium (RTSS), pp. 183-192, 2012.
+
+
+
+Full List of Publications
+[Google Scholar] [DBLP]
+

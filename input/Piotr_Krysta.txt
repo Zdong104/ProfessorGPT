@@ -1,0 +1,93 @@
+Professor: Piotr Krysta
+University: Augusta University
+URL: https://sites.google.com/view/piotrkrysta
+Description: Skip to main content
+Skip to navigation
+Piotr Krysta (website)
+PIOTR KRYSTA
+
+Hello, my name is Piotr Krysta and I am a Professor in the School of Computer and Cyber Sciences at Augusta University, GA, USA and a Professor in the Department of Computer Science at University of Liverpool, UK (part time). Here is a link to my previous webpage: link. 
+
+I am also affiliated with Materials Innovation Factory and Doctoral Training Centre in Distributed Algorithms. 
+
+My Google Scholar profile: link.
+
+My DBLP profile: link.
+
+RESEARCH HIGHLIGHTS
+
+My research interests are in theoretical computer science with an emphasis on algorithmic mechanism design, algorithmic game theory, combinatorial and continuous optimization, mathematical programming, randomized algorithms and probabilistic analysis, distributed algorithms, and their applications in computational economics, blockchains, computational chemistry, Artificial Intelligence and Machine Learning.
+
+
+
+Stochastic optimization & algorithmic mechanism design
+
+
+
+Suppose that we are given a stream of n numbers chosen and labelled by an adversary. We have designed an algorithm that provably uses the smallest amount of randomness to decide the best order to inspect these numbers to choose k (< n) among them whose sum has the best possible competitive ratio (with respect to the sum of k largest numbers in the whole stream). This is the fundamental free-order multiple-choice secretary problem:
+
+
+
+
+M. T. Hajiaghayi, D. Kowalski, P. Krysta and J. Olkowski, Online Sampling and Decision Making with Low Entropy, Proceedings 33rd International Joint Conference on Artificial Intelligence (IJCAI), 2024. To appear. NEW!!!
+
+
+
+
+We have solved an important open problems in stochastic optimization, namely proving that any algorithm for the Prophet Inequality problem with general combinatorial feasibility constraints can be turned into a pricing-based (poste-price) algorithm for the same problem, preserving the expected competitive ratio and the distribution over the outputs of the original algorithm:
+
+
+
+
+K. Banihashem, M. T. Hajiaghayi, D. Kowalski, P. Krysta and J. Olkowski, Power of Posted-price Mechanisms for Prophet Inequalities, Proceedings 35th ACM-SIAM Symposium on Discrete Algorithms (SODA), 2024.
+
+
+
+Theory of adversarial equilibria
+
+We have introduced recently a novel concept of Adversarial Equilibrium, which is motivated by a notion of Nash Equilibrium and Pareto Optimality from Game Theory and a notion of an Adversary from Distributed Computing. We design non-adaptive algorithms and prove that they are Adversarial Equilibria for the Contention Resolution problem:
+
+
+
+
+G. Chionas, B. Chlebus, D. Kowalski and P. Krysta, Adversarial Contention Resolution Games, Proceedings 32nd International Joint Conference on Artificial Intelligence (IJCAI), 2023.
+
+
+
+
+We considerably generalize this model to Combinatorial Group Testing (CGT) games and design more demanding adaptive algorithms which are Adversarial Equilibria for the CGT problem:
+
+
+
+
+G. Chionas, D. Kowalski and P. Krysta, Combinatorial Group Testing with Selfish Agents, Proceedings 37th International Conference on Neural Information Processing Systems (NeurIPS), 2023. 
+
+
+
+Continuous optimization in chemistry
+
+I am a computer science co-investigator in the Material Innovation Factory (University of Liverpool), working in a multidisciplinary team of Chemists and Computer Scientists in the project on continuous optimization algorithms for Crystal Structure Prediction (CSP) of solid materials on the atomic level. Here is our recent paper in this area, where we design algorithms for CSP based on integer quadratic programming, with provable optimality guarantees:
+
+
+
+
+V. Gusev, D. Adamson, A. Deligkas, D. Antypov, C. Collins, P. Krysta, I. Potapov, G. Darling, W. Dyer, P. Spirakis and M. Rosseinsky
+
+    Optimality guarantees for crystal structure prediction, Nature, vol. 619, pp. 68–72, 2023.  
+
+
+
+Algorithms and mechanisms for blockchain
+
+Maximal Extractable Value (MEV) has emerged as a new frontier in the design of blockchain systems. We propose to make the MEV extraction rate part of the protocol design space. We have designed a dynamic mechanism which updates the MEV extraction rate with the goal of stabilizing it at a target value. We analyse the evolution of this dynamic mechanism under various market conditions and provide formal guarantees about its long-term performance. The main take-away from our work is that the proposed system exhibits desirable behavior (near-optimal performance) even when it operates in out of equilibrium conditions.
+
+
+
+
+P. Braga, G. Chionas, P. Krysta, S. Leonardos, G. Piliouras and C. Ventre, Who gets the Maximal Extractable Value? A Dynamic Sharing Blockchain Mechanism, Extended Abstract in the Proceedings 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024, to appear.
+
+Contact: pkrysta at augusta.edu
+Page updated
+Google Sites
+Report abuse
+

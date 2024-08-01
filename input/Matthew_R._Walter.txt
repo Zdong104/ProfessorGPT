@@ -1,0 +1,44 @@
+Professor: Matthew R. Walter
+University: TTI Chicago
+URL: http://ttic.uchicago.edu/~mwalter
+Description: Matthew Walter
+Associate Professor
+Toyota Technological Institute at Chicago
+6045 S. Kenwood Avenue
+Chicago, IL 60637
+
+Tel: +1 (773) 834-3637
+Fax: +1 (773) 357-6970
+E-mail: mwalter@ttic.edu
+
+
+Home
+ 
+Lab
+ 
+Research
+ 
+Publications
+ 
+Teaching
+
+I am looking for talented PhD students who are excited about computer vision, natural language understanding, and machine learning in the context of robotics. If you are interested, I encourage you to apply to TTIC.
+
+Brief Bio
+
+I am an assistant professor and director of the Robot Intelligence through Perception Laboratory (RIPL) at the Toyota Technological Institute at Chicago (TTI-Chicago), a philanthropically endowed academic computer science institute located on the University of Chicago campus. I also hold a part-time faculty appointment in the Department of Computer Science at the University of Chicago.
+
+Prior to joining TTI-Chicago, I was a research scientist in the Computer Science and Artificial Intelligence Laboratory (CSAIL) at the Massachusetts Institute of Technology (MIT), where I was fortunate to work with Seth Teller. I received my PhD from the Joint Program between MIT and the Woods Hole Oceanographic Institution, under the supervision of John Leonard.
+
+My thesis considered the problem of scaling robotic mapping and localization to larger unknown environments. I studied feature-based algorithms for simultaneous localization and mapping (SLAM) whereby a robot builds a map of the world while concurrently estimating its position in the map. My thesis work proposed a sparse information filter algorithm that is scalable and also preserves estimate consistency. The approach maintains a Gaussian probability distribution over the robot and map states, and takes advantage of insights into the natural structure of this model for SLAM. The Exactly Sparse Extended Information Filter (ESEIF) exploits a sparse parametrization of this distribution to reduce the computational and memory costs from quadratic to linear in the map's size. In addition to the gains in efficiency, a primary contribution of the algorithm is its ability to achieve sparsity in a principled, yet simple way that preserves consistency. For more information, please see the IJRR paper or my thesis.
+
+Curriculum Vitae: [pdf]
+
+Research
+
+I am interested in developing intelligent, perceptually aware robots that are able to act robustly and effectively in unstructured environments, particularly with and alongside people. My research focuses on machine learning-based solutions that enable robots (including ground vehicles, manipulators, underwater vehicles, and aerial vehicles) to learn to understand and interact with the people, places, and objects in their surroundings. I am particularly interested in developing methods that combine traditional sensors, including image streams and laser range data, with novel sensing modalities that include natural language speech and text.
+
+Please see the RIPL page for more information on the research that our lab is working on.
+
+Last modified: July 05 2023 20:48:41.
+

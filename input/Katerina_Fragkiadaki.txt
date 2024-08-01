@@ -1,0 +1,403 @@
+Professor: Katerina Fragkiadaki
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~katef
+Description: Katerina Fragkiadaki
+
+I am interested in building machines that understand the stories that videos portray, and, inversely, in using videos to teach machines about the world. The pen-ultimate goal is to build a machine that understands movie plots, and the ultimate goal is to build a machine that would want to watch Bergman over this.
+
+I am a JPMorgan Chase Associate Professor of Computer Science in the Machine Learning Department at Carnegie Mellon University. Prior to joining MLD's faculty I spent three wonderful years as a post doctoral researcher first at UC Berkeley working with Jitendra Malik and then at Google Research in Mountain View working with the video group. I completed my Ph.D. in GRASP, UPenn with Jianbo Shi. I did my undergraduate studies at the National Technical University of Athens and before that I was in Crete.
+
+Dear prospective graduate students: There is no need to email, please submit your application to our School following the links here: MLD Ph.D. or R.I. Ph.D.
+
+8107 Gates Hillman
+Carnegie Mellon University
+Pittsburgh, PA, 15213
+katef 'at' cs.cmu.edu
+Admin: Christine Martik, cmartik@andrew.cmu.edu
+
+
+News:
+I will give a talk at the future for Machine learning symposium in ISTA, Vienna.
+I will give a talk on Generative simulation at the data generation for robotics workshop and on 3D scene representations and structured generative models for compositional language grounding at the geometric and algebraic structures for robot learning workshop at RSS 24.
+I will give a talk on unified 2D/3D foundational models over images, language and actions in Multimodal 3D scenes workshop, on image and video perception with generative feedback in Generative models for Computer Vision workshop and on memory prompting for 3D scene understanding in Compositional 3D vision workshop at CVPR 24.
+I will be giving a talk at ICRA 2024 workshops the 3D visual representations for robot manipulation and Expanding Frontiers of Sim2Real: Robotics, biomechanics, plasma physics, chip design, and beyond.
+I will be giving a talk at the Toronto vision seminar.
+I gave a talk at the Active methods in autonomous navigation workshop at ICRA 2023, and at the 2nd Workshop on Computer Vision in the Wild and C3DV: 1st Workshop On Compositional 3D Vision workshops in CVPR 2023.
+I will be a program chair for ICLR 2024.
+Our research was awarded an Amazon research faculty award.
+I gave a talk in Archimedes, a Greek summer school on AI.
+I gave talks in three CVPR 2022 workshops, Workshop on Learning with Limited Labelled Data for Image and Video Understanding , 4th International Workshop on Visual Odometry \& Computer Vision Applications Based on Location Clues, and Embodied AI workshop.
+I gave a Keynote talk at BMVC 2021.
+I gave a Keynote talk at 3DV 2021.
+I gave a talk in the ICCV workshop for Learning 3D Representations for Shape and Appearance and on 6th Workshop on Benchmarking Multi-Target Tracking (Segmenting and Tracking Every Point and Pixel).
+Our team's research was awarded a DARPA Young Investigator Award 2021 to support work on analogical planning agents with visuomotor commonsense.
+I gave 3 talks in CVPR 2021 workshops, on language for 3D scenes , Robust Video Scene Understanding and Learning to Generate 3D Shapes and Scenes workshop.
+I gave a talk on self-supervising 3D scene and object representations for perception and control in the Self-Supervised Learning-Theory and Practice workshop in NeurIPS 2020.
+Our team's research was awarded an Amazon Faculty Award 2020. to support work on object manipulation across diverse environments and viewpoints
+I got a Young Inverstigator Award from AFOSR (the Air Force Research Laboratory) to suport work that will develop intelligent multimodal surveillance systems. Special thanks to Chris and Adam for their help on proposal preparation.
+I gave a talk on neural scene representations for the Geometric Processing and 3D Computer Vision series.
+I gave a talk on ego-stabilized visual learning at the Workshop on Long-Term Visual Localization, Visual Odometry and Geometric and Learning-based SLAM and on Embodied visual learning with neural 3D scene representations at the 3D Scene Understanding for Vision, Graphics, and Robotics. Check out also the visual physics tutorial .
+I got an NSF CAREER award from NSF IIS. Special thanks to Chris, Phil, and Adam for their help, and for making the submission preparation way more fun than what it is supposed to be.
+I am an area chair for ICML 2020, NeurIPS 2020, CVPR 2021, ICML 2022, CVPR 2022, NeurIPS 2020, ECCV 2022, ICLR 2021.
+Workshop on common sense of a toddler coming up in CVPR 2020.
+I was awarded a Sony faculty research award 2019
+I gave a talk on Embodied Visual Recognition at Google Seattle, UberATG, and RobustAI, 40 years anniversary of GRASP lab
+Area chair CVPR 2020, ICLR 2021
+I gave a talk on Adversarial Inverse Graphics Networks at Augmenting humans workshop, CVPR 2019
+I gave a talk on Embodied Visual recognition at Bringing Robots to the Computer Vision Community Workshop, CVPR, 2019
+I gave a talk on Embodied language Grounding at The How2 Challenge: New Tasks for Vision and Language Workshop, ICML 2019
+I gave a talk on geometry-aware deep visual learning at the theory and practice in ML and CV workshop at ICERM, slides and video are available.
+I was awarded a UPMC faculty research award 2019
+Ricson is selected as a runner-up of the CRA Outstanding Undergraduate Researcher Award for 2019 !
+Area chair ICML 2019, ICLR 2019
+We are organizing an AI4ALL summer school to expose rising juniors to AI and the good it can do for the world, as we see it, here in CMU!
+Area chair CVPR 2018
+I was awarded a Google faculty award 2018
+Teaching
+Deep Reinforcement Learning and Control Spring 2024
+Deep Reinforcement Learning and Control Fall 2023
+Deep Reinforcement Learning and Control Spring 2023
+Deep Reinforcement Learning and Control Fall 2022
+
+Research
+Teaching machines to appreciate Bergman is a hard problem, in fact, most people fail to do so. Thus, it is a very long term goal of our research. Meanwhile, we are working on teaching machines basic common sense. Our recent works use recurrent nets with 3D representation bottlenecks that disentangle camera motion from appearance, while being optimized end-to-end for a final task, such as view prediction or 3D object detection. In this way, our models learn object permanence, size constancy, occlusions and dis-occlusion relationships, useful for 3D object detection, affordance learning and language grounding.
+Selected Publications
+	
+Video Diffusion Alignment via Reward Gradients
+Mihir Prabhudesai, Russell Mendonca, Zheyang Qin, Katerina Fragkiadaki, Deepak Pathak
+
+VADER alignes video diffusion models using end-to-end reward gradient backpropagation from off-the-shelf differentiable reward functions.
+arxiv
+paper | project page
+
+	
+ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights
+Gabriel Sarch, Lawrence Jang, Michael Tarr, William Cohen, Kenneth Marino, Katerina Fragkiadaki
+
+ICAL is a SGD-free in-context VLM method where VLMs are promopted to map demonstration trajectories into experience abstractions to store in an external memory, and retrieve them on-the-fly to use as in-context examples.
+arxiv
+paper | project page
+
+	
+DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
+Wen-Hsuan Chu*, Lei Ke*, Katerina Fragkiadaki
+
+DreamScene4D generates 3D dynamic scenes of multiple objects from monocular videos training-free, using object-centric diffusion priors and pixel and motion reprojection error.
+arxiv
+paper | project page
+
+
+	
+ODIN: A Single Model for 2D and 3D Perception
+Ayush Jain, Pushkal Katara, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sarch, Kriti Aggarwal, Vishrav Chaudhary, Katerina Fragkiadaki
+
+ODIN processes both RGB images and sequences of posed RGB-D images by alternating between 2D and 3D fusion layers using projection and unprojection from camera info. New SOTA in Scannet200.
+CVPR 2024
+paper | project page with code
+
+	
+3D Diffuser Actor: Policy Diffusion with 3D Scene Representations
+Tsung-Wei Ke, Nikolaos Gkanatsios, Katerina Fragkiadaki
+
+Combining 3D relative attention transformers with action trajectory diffusion gives SOTA imitation learning robot policies in CALVIN and RLbench.
+arxiv
+paper | project page with code
+
+	
+Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following
+Brian Yang, Huangyuan Su, Nikolaos Gkanatsios, Tsung-Wei Ke, Ayush Jain, Jeff Schneider, Katerina Fragkiadaki
+
+We combine trajectory diffusion models with evolutionary search and achieve SOTA performance in nuPLAN. We prompt LLMs to map language instructions to shaped reward functions, and optimize them with diffusion-ES, and solve the hardest driving scenarios.
+CVPR 2024
+paper | project page with code
+
+
+	
+Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback
+Mihir Prabhudesai, Tsung-Wei Ke, Alexander C. Li, Deepak Pathak, Katerina Fragkiadaki
+NeurIPS 2023
+paper | project page with code
+
+	
+Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models
+Gabriel Sarch, Yue Wu, Michael J. Tarr, Katerina Fragkiadaki
+EMNLP findings 2023
+paper | project page with code
+
+	
+Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation
+Theophile Gervet, Zhou Xian, Nikolaos Gkanatsios, Katerina Fragkiadaki
+CoRL 2023
+paper | project page with code
+
+	
+Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models
+Pushkal Katara, Zhou Xian, Katerina Fragkiadaki
+ICRA 2024
+paper | project page with code
+
+
+	
+ChainedDiffuser: Unifying Trajectory Diffusion and Keypose Prediction for Robotic Manipulation
+Zhou Xian, Nikolaos Gkanatsios, Theophile Gervet, Tsung-Wei Ke, Katerina Fragkiadaki
+CoRL 2023
+paper | project page with code
+
+	
+Test-time Adaptation with Slot-Centric Models
+Mihir Prabhudesai, Anirudh Goyal, Sujoy Paul, Sjoerd van Steenkiste, Mehdi S. M. Sajjadi, Gaurav Aggarwal, Thomas Kipf, Deepak Pathak, Katerina Fragkiadaki
+ICML 2023
+paper | project page with code
+
+
+	
+Energy-based Models are Zero-Shot Planners for Compositional Scene Rearrangement
+Nikolaos Gkanatsios, Ayush Jain, Zhou Xian, Yunchu Zhang, Christopher Atkeson, Katerina Fragkiadaki
+RSS 2023
+paper | project page with code
+
+
+	
+Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?
+Adam W. Harley, Zhaoyuan Fang, Jie Li, Rares Ambrus, Katerina Fragkiadaki
+ICRA 2023
+paper | project page with code
+
+
+	
+FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation
+Zhou Xian, Bo Zhu, Zhenjia Xu, Hsiao-Yu Tung, Antonio Torralba, Katerina Fragkiadaki, Chuang Gan
+ICLR 2023, spotlight
+paper | project page with code
+
+
+	
+Analogy-Forming Transformers for Few-Shot 3D Parsing
+Nikolaos Gkanatsios, Mayank Singh, Zhaoyuan Fang, Shubham Tulsiani, Katerina Fragkiadaki
+ICLR 2023
+paper | project page with code
+
+
+	
+Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds
+Ayush Jain, Nikolaos Gkanatsios, Ishita Mediratta, Katerina Fragkiadaki
+ECCV 2022
+paper | project page with code
+
+
+	
+TIDEE: Tidying Up Novel Rooms using Visuo-Semantic Commonsense Priors
+Gabriel Sarch, Zhaoyuan Fang, Adam W. Harley, Paul Schydlo, Michael J. Tarr, Saurabh Gupta, Katerina Fragkiadaki
+ECCV 2022
+paper | project page with code
+
+
+	
+Particle Videos Revisited: Tracking Through Occlusions Using Point Trajectories
+Adam W. Harley, Zhaoyuan Fang, Katerina Fragkiadaki
+ECCV 2022, oral
+paper | project page with code
+
+
+	
+Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views
+Jingyun Yang*, Hsiao-Yu Fish Tung*, Yunchu Zhang*, Gaurav Pathak, Ashwini Pokle, Christopher G Atkeson, Katerina Fragkiadaki
+CoRL 2021
+paper | project page with code
+
+
+	
+Disentangling 3D Prototypical Networks for Few-Shot Concept Learning
+Mihir Prabhudesai*, Shamit Lal*, Darshan Patil*, Hsiao-Yu Tung, Adam Harley, Katerina Fragkiadaki
+ICLR 2021
+paper | project page with code
+
+
+	
+HyperDynamics: Generating Expert Dynamics Models by Observation
+Zhou Xian, Shamit Lal, Hsiao-Yu Tung, Emmanouil Antonios Platanios, Katerina Fragkiadaki
+ICLR 2021
+paper | project page with code
+
+
+	
+Track, Check, Repeat: An EM Approach to Unsupervised Tracking
+Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki
+CVPR 2021
+paper | project page with code
+
+
+	
+Move to See Better: Self-Improving Embodied Object Detection
+Zhaoyuan Fang, Ayush Jain, Gabriel Sarch, Adam W. Harley, Katerina Fragkiadaki
+BMVC 2021
+paper | project page
+
+
+	
+CoCoNets: Continuous Contrastive 3D Scene Representations
+Shamit Lal, Mihir Prabhudesai, Ishita Mediratta, Adam W. Harley, Katerina Fragkiadaki
+CVPR 2021
+paper | project page with code
+
+
+	Tracking Emerges by Looking Around Static Scenes, with Neural 3D Mapping
+Adam W. Harley, Shrinidhi K. Lakshmikanth, Paul Schydlo, Katerina Fragkiadaki
+ECCV 2020
+paper
+
+	Embodied Language Grounding with Implicit 3D Visual Feature Representations
+Mihir Prabhudesai*, Hsiao-Yu Fish Tung*, Syed Ashar Javed*, Maximilian Sieb, Adam W. Harley, Katerina Fragkiadaki
+CVPR 2020
+paper | project page
+
+	
+Epipolar Transformers
+Yihui He, Rui Yan, Katerina Fragkiadaki, Shoou-I Yu
+CVPR 2020
+paper | project page
+
+
+	Graph-structured Visual Imitation
+Xian Zhou*, Max Sieb*, Audrey Huang, Oliver Kroemer, Katerina Fragkiadaki
+CoRL 2019
+paper | project page with code
+
+	Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping
+Adam W. Harley, Fangyu Li, Shrinidhi K. Lakshmikanth, Xian Zhou, Hsiao-Yu Fish Tung, Katerina Fragkiadaki
+ICLR 2020
+paper | project page with code
+
+	Learning Spatial Common Sense with Geometry-Aware Recurrent Networks
+Hsiao-Yu Fish Tung, Ricson Cheng, Katerina Fragkiadaki
+CVPR 2019, oral presentation
+paper | project page with code
+
+	Model Learning for Look-ahead Exploration in Continuous Control
+Arpit Agarwal, Katharina Muelling and Katerina Fragkiadaki
+AAAI 2019, oral presentation
+paper | project page with code
+
+	Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation
+Maximilian Sieb and Katerina Fragkiadaki
+Humanoids 2018, oral presentation
+paper | slides
+
+	Reinforcement Learning of Active Vision for Manipulating Objects under Occlusionss
+Ricson Cheng, Arpit Agarwal, and Katerina Fragkiadaki
+CoRL 2018
+paper | slides | code
+
+	Geometry-Aware Recurrent Neural Networks for Active Visual Recognition
+Ricson Cheng, Ziyan Wang, and Katerina Fragkiadaki
+NIPS 2018
+paper
+
+	Reward Learning from Narrated Demonstrations
+Fish Tung, Adam Harley, Liang-Kang Huang, Katerina Fragkiadaki
+CVPR 2018
+paper | bibtex
+
+	Depth-adaptive Computational Policies for Efficient Visual Tracking
+Chris Ying, Katerina Fragkiadaki
+EMMCVPR 2017
+paper | bibtex
+
+	Self-supervised Learning of Motion Capture
+Hsiao-Yu Fish Tung, Wei Tung, Ersin Yumer, Katerina Fragkiadaki
+NIPS 2017, spotlight
+paper | bibtex | code
+	Adversarial Inverse Graphics Networks: Learning 2D-to-3D Lifting and mage-to-Image Translation from Unpaired Supervision
+Hsiao-Yu Fish Tung, Adam Harley, William Seto and Katerina Fragkiadaki
+ICCV 2017
+paper | bibtex | code
+
+	SfM-Net: Learning of Structure and Motion from Video
+Sudheendra Vijayanarasimhan, Susanna Ricco, Cordelia Schmid, Rahul Sukthankar and Katerina Fragkiadaki
+arxiv
+
+	Motion Prediction Under Multimodality with Conditional Stochastic Networks
+Katerina Fragkiadaki, Jonathan Huang, Alex Alemi, Sudheendra Vijayanarasimhan, Susanna Ricco and Rahul Sukthankar
+arxiv | video results
+
+	Learning Feature Hierarchies from Long-Range Temporal Associations in Videos
+Panna Felsen, Katerina Fragkiadaki, Jitendra Malik and Alexei Efros
+Workshop on Transfer and Multi-task Learning, in conjunction with NIPS 2015
+paper
+
+	Learning Predictive Visual Models of Physics for Playing Billiards
+Katerina Fragkiadaki*, Pulkit Agrawal*, Sergey Levine and Jitendra Malik
+ICLR 2016
+paper | project page
+
+	Recurrent Network Models for Human Dynamics
+Katerina Fragkiadaki, Sergey Levine, Panna Felsen and Jitendra Malik
+ICCV 2015
+paper | project page
+
+	Human Pose Estimation with Iterative Error Feedback
+Joao Carreira, Pulkit Agrawal, Katerina Fragkiadaki, and Jitendra Malik
+arXiv
+paper|project page with code
+
+
+	Learning to Segment Moving Objects in Videos
+Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen and Jitendra Malik
+CVPR 2015
+paper | poster | bibtex | project page with code
+
+
+	Grouping-Based Low-Rank Video Completion and 3D Reconstruction
+Katerina Fragkiadaki, Marta Salas, Pablo Arbelaez, and Jitendra Malik
+NIPS 2014
+paper | poster | bibtex | project page with code
+
+	Two Granularity Tracking: Mediating Trajectory and Detection Graphs for Tracking under Occlusions
+Katerina Fragkiadaki, Weiyu Zhang, Geng Zhang, and Jianbo Shi
+ECCV 2012
+paper | poster | bibtex | project page with code
+
+	Video Segmentation by tracing Discontinuities in a Trajectory Embedding
+Katerina Fragkiadaki, Geng Zhang, and Jianbo Shi
+CVPR 2012
+paper | poster | bibtex | project page with code
+
+	Detection-free Tracking: Exploiting Motion and Topology for Segmenting and Tracking under Entanglement
+Katerina Fragkiadaki and Jianbo Shi
+CVPR 2011
+paper | poster | bibtex
+Current Students
+Wen-hsuan Chu R.I. Ph.D.
+Mihir Prabhudesai R.I. Ph.D., (co-advised with Deepak Pathak)
+Xian Zhou R.I. Ph.D.
+Gabriel Sarch , Neuroscience Institute and Center for the Neural Basis of Cognition Ph.D. student, co-advised with Mike Tarr
+Brian Yang R.I. Ph.D., co-advised with Jeff Schneider
+Nikos Gkanatsios R.I. Ph.D.
+Ayush Jain R.I. MSR
+Theo Gevret MLD Ph.D.
+Tsung-Wei Ke PostDoc
+
+Alumni
+Fish Tung, MLD Ph.D., now post doc in M.I.T.
+Adam Harley, R.I. Ph.D.
+Ricson Chen, undergrad CSD
+Zhaoyuan Fang, MSR, R.I.
+Mayank Singh, MSR, R.I.
+Yunchu Zhang, MSR, R.I.
+Ziyan Wang, MSR
+Shamit Lal, MSCV
+Yiming Zuo , MSR, now Ph.D. in Princeton
+Max Sieb, MSR
+Arpit Agarwal, MSR
+Henry Huang, MSML
+Chris Ying, MSML
+Yijie Wang, MSML
+Darshan Patil , undergraduate CSD, now in MILA Ph.D.
+Gaurav Pathak, research associate
+Shrinidhi Kowshika Lakshmikanth, research associate
+Ashwini Polke, MLD Ph.D.
+
+MISC
+Link to the 10th Perceptual Organization for Computer Vision Workshop in conjunction with CVPR 2016 with a focus on the role of feedback and sequential processing for recognition and motion perception
+Link to the 2nd International Workshop on Video Segmentation in conjunction with ECCV 2016 with a focus the role of segmentation for driving learning
+

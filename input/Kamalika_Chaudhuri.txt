@@ -1,0 +1,533 @@
+Professor: Kamalika Chaudhuri
+University: Univ. of California - San Diego
+URL: http://cseweb.ucsd.edu/~kamalika
+Description: Kamalika Chaudhuri
+News
+Students
+Teaching
+Publications
+AI@UCSD
+  
+Group Blog
+  
+Kamalika Chaudhuri
+Professor, CSE @ UCSD
+Research Scientist, Meta AI
+Office: EBU3B 4110
+email: kamalika at cs dot ucsd dot edu
+I am a machine learning researcher. I am interested in the foundations of trustworthy machine learning -- such as robust machine learning, learning with privacy and out-of-distribution generalization.
+
+
+
+What's New
+
+I am giving an invited talk at the ICML 2024 Workshop on Information Theoretic and Statistical Methods for Language Models (Jul 2024).
+I am giving an invited talk at the Statistics Department at UCLA (Jun 2024)
+I am giving an Invited talk at the AAAI Spring Symposium on User-Aligned Assessment of Adaptive AI Systems (Mar 2024)
+I am giving a keynote talk at the ICML 2023 Workshop on Adversarial Machine Learning (Jul 2023)
+I am giving a keynote talk at the Asian Conference on Machine Learning (ACML) 2022. (Dec 2022)
+I am giving an invited talk at the Trustworthy and Socially Responsible Machine Learning Workshop at NeuRIPS 2022. (Dec 2022).
+I am giving a keynote talk at the Federated Learning Workshop at Google (Nov 2022).
+I am giving a talk at the Privacy-Preserving Advertising Ecosystems Workshop at Google (Oct 2022).
+I am giving a talk at SPIS Summer School (Aug 2022).
+I am giving an invited talk at Morgan Stanley ML Seminar(Aug 2022).
+I am giving an invited talk at the Seminar on ML Security and Privacy at Princeton (Jun 2022).
+I am giving an invited talk at the Women in Theory Workshop (Jun 2022).
+I was the General Chair for ICML 2022.
+I am giving invited talks at three workshops at ICML 2021 -- Workshop on Machine Learning for Data: Automated Creation, Privacy, Bias, the Workshop on Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ITR3), and the Workshop on A Blessing in Disguise: The Prospects and Perils of Adversarial Machine Learning. I am also a panelist at the ICML Workshop on Uncertainty in Deep Learning. (Jul 2021).
+I was a Program Co-Chair for ICML 2019. In ICML 2019, for the first time in a major machine learning conference, we carried out a new code-at-submit-time experiment; see how it went here.
+Slides for my tutorial on Nearest Neighbors and Adversarial Examples at the Simons Deep Learning Bootcamp now available. Video here.
+Slides and video for my talk at the Mathematical Frontiers Webinar on the Mathematics of Differential Privacy are now up here.
+I am the Program Co-Chair of AISTATS 2019.
+Slides for my NIPS 2017 Tutorial with Anand Sarwate on Differentially Private Machine Learning are online.
+More News
+
+
+
+
+
+
+Research
+
+My research is on machine learning. I am interested in the foundations of trustworthy machine learning, which includes problems such as learning from sensitive data while preserving privacy, learning under sampling bias, and in the presence of an adversary. I am also broadly interested in a number of topics in learning theory and machine learning. My group now has a Group Blog with guest posts from others at UCSD.
+
+Here is a survey I wrote on machine learning with privacy. Here is an overview I wrote in 2008 about learning mixture models. Here is a press article on Biomedical Computation Review that talks about some of my work on privacy-preserving machine learning.
+
+Here are the slides from a recent tutorial I gave with Anand Sarwate on differentially private machine learning. Here are the slides from a recent tutorial on non-parametric methods and adversarial examples.
+
+
+
+
+
+
+Group
+Current
+
+Robi Bhattacharjee (PhD student)
+Jacob Imola (PhD student)
+Tatsuki Koga (PhD student)
+Zhifeng Kong (PhD student)
+Casey Meehan (PhD student)
+Nicholas Rittler (PhD student)
+Zhi Wang (PhD student)
+Chhavi Yadav (PhD student)
+Amrita Roy Chowdhury (Postdoc)
+
+
+Alumni
+
+Yaoyuan Yang (PhD student to DeepMind)
+Cyrus Rashtchian (Postdoc to Google Brain)
+Joseph Geumlek (PhD Student)
+Yizhen Wang (PhD Student to Visa Research)
+Songbai Yan (PhD Student to Google)
+Shuang Song (PhD Student to Google Brain)
+Chicheng Zhang (PhD Student to Postdoc at Microsoft Research, New York City to Faculty, University of Arizona)
+
+
+
+
+
+
+
+Recent Teaching
+
+CSE 151A: Introduction to AI: A Statistical Approach ( Winter 2021 , Winter 2020 )
+CSE 251A: Introduction to AI: A Statistical Approach ( Winter 2021 , Winter 2020 )
+CSE 291: Topics in Trustworthy Machine Learning ( Spring 2020 )
+CSE 291: Advanced Optimization (Fall 2016)
+CSE 291: Topics in Learning Theory (Fall 2015)
+
+
+
+Publications
+Pre-prints
+
+The Inductive Bias of Restricted f-GANs
+Shuang Liu and Kamalika Chaudhuri, Arxiv Pre-print, 2018.
+
+Differentially Private Continual Release of Graph Statistics
+Shuang Song, Sanjay Mehta, Staal Vinterbo, Susan Little and Kamalika Chaudhuri, Arxiv Pre-print, 2018. [Code]
+
+Data Poisoning Attacks Against Online Learning
+Yizhen Wang and Kamalika Chaudhuri, Arxiv Pre-print, 2018.
+
+Learning Mixtures of Gaussians using the k-means Algorithm
+Kamalika Chaudhuri, Sanjoy Dasgupta and Andrea Vattani, Arxiv Pre-print, 2009
+
+
+Post-prints
+2024
+
+Effective Pruning of Web-Scale Datasets based on Complexity of Concept Clusters
+Amro Abbas, Evgenia Rusak, Kushal Tirumala, Wieland Brendel, Kamalika Chaudhuri and Ari Morcos, International Conference on Learning Representations (ICLR), 2024.
+
+
+Differentially Private Multi-Site Treatment Effect Estimation
+Tatsuki Koga, Kamalika Chaudhuri and David Page, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024.
+
+
+Data Redaction for Conditional Generative Models
+Zhifeng Kong and Kamalika Chaudhuri, IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024. (Distinguished Paper Award)
+
+
+2023
+
+Do SSL Models Have Déjà Vu? A Case of Unintended Memorization in Self-supervised Learning
+Casey Meehan, Florian Bordes, Pascal Vincent, Kamalika Chaudhuri and Chuan Guo, Neural Information Processing Systems (NeuRIPS), 2023.
+
+
+Agnostic Multi-Group Active Learning
+Nicholas Rittler and Kamalika Chaudhuri, Neural Information Processing Systems (NeuRIPS), 2023.
+
+
+A Two-Stage Active Learning Algorithm for k-Nearest Neighbors
+Nicholas Rittler and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2023.
+
+
+Data Copying in Generative Models: A Formal Framework
+Robi Bhattacharjee, Sanjoy Dasgupta and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2023.
+
+
+Why does Throwing Away Data Improve Worst-Group Error?
+Kamalika Chaudhuri, Kartik Ahuja, Martin Arjovsky and David Lopez-Paz, International Conference on Machine Learning (ICML), 2023.
+
+
+Privacy-Aware Compression for Federated Learning through Numerical Mechanism Design
+Chuan Guo, Kamalika Chaudhuri, Pierre Stock and Mike Rabbat, International Conference on Machine Learning (ICML), 2023.
+
+
+Robust Empirical Risk Minimization with Tolerance
+Robi Bhattacharjee, Max Hopkins, Akash Kumar, Hantao Yu and Kamalika Chaudhuri, Algorithmic Learning Theory (ALT), 2023.
+
+
+Probing Predictions on OOD Images via Nearest Categories
+Yao-Yuan Yang, Cyrus Rashtchian, Ruslan Salakhutdinov, and Kamalika Chaudhuri, Transactions of Machine Learning Research (TMLR), 2023.
+
+
+Data Redaction from Pre-Trained GANs
+Zhifeng Kong and Kamalika Chaudhuri, IEEE Conference on Secure and Trustworthy Machine Learning (SatML), 2023.
+
+
+2022
+
+Differentially Private Triangle and 4-Cycle Counting in the Shuffle Model
+Jacob Imola, Takao Murakami and Kamalika Chaudhuri, ACM Conference on Computer and Communications Security (CCS), 2022.
+
+
+Sentence-Level Privacy for Document Embeddings
+Casey Meehan, Khalil Mrini and Kamalika Chaudhuri, Association of Computational Linguistics (ACL), 2022.
+
+
+Privacy-Aware Compression for Federated Data Analysis
+Kamalika Chaudhuri, Chuan Guo and Mike Rabbat, Uncertainty in Artificial Intelligence (UAI), 2022.
+
+
+Bounding Training Data Reconstruction in Private (Deep) Learning
+Chuan Guo, Brian Karrer, Kamalika Chaudhuri and Laurens van der Maaten, International Conference on Machine Learning (ICML), 2022.
+
+
+Thompson Sampling for Robust Transfer in Multi-task Bandits
+Zhi Wang, Chicheng Zhang and Kamalika Chaudhiuri, International Conference on Machine Learning (ICML), 2022.
+
+
+Communication Efficient Triangle Counting under Local Differential Privacy
+Jacob Imola, Takao Murakami and Kamalika Chaudhuri, USENIX Security, 2022.
+
+
+Privacy Amplification by Subsampling in the Time Domain
+Tatsuki Koga, Casey Meehan and Kamalika Chaudhuri, Artificial Intelligence and Statistics (AISTATS), 2022.
+
+
+Privacy Implications of Shuffling
+Casey Meehan, Amrita RoyChowdhury, Kamalika Chaudhuri and Somesh Jha, International Conference on Learning Representations (ICLR), 2022.
+
+
+Privacy Amplification via Shuffling in Linear Contextual Bandits
+Evrard Garcelon, Kamalika Chaudhuri, Vianney Perchet, and Matteo Pirotta, Algorithmic Learning Theory (ALT), 2022.
+
+
+2021
+
+Understanding Instance-based Interpretability of Variational Auto-Encoders
+Zhifeng Kong and Kamalika Chaudhuri, Neural Information Processing Systems (NeuRIPS), 2021.
+
+
+Consistent Non-Parametric Methods for Adaptive Robustness
+Robi Bhattacharjee and Kamalika Chaudhuri, Neural Information Processing Systems (NeuRIPS), 2021.
+
+
+Connecting Interpretability and Robustness in Decision Trees through Separation
+Michal Moshkovitz, Yao-Yuan Yang and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2021.
+
+
+Sample Complexity of Adversarially Robust Linear Classification on Separated Data
+Robi Bhattacharjee, Somesh Jha and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2021.
+
+
+Locally Differentially Private Analysis of Graph Statistics
+Jacob Imola, Takao Murakami and Kamalika Chaudhuri, USENIX Security, 2021.
+
+
+Location Trace Privacy Through Conditional Priors
+Casey Meehan and Kamalika Chaudhuri, Artificial Intelligence and Statistics (AISTATS), 2021.
+
+
+Revisiting Model-Agnostic Private Learning: Faster Rates and Active Learning
+Chong Liu, Yuqing Zhu, Kamalika Chaudhuri and Yu-Xiang Wang, Artificial Intelligence and Statistics (AISTATS), 2021.
+
+
+Multitask Bandit Learning through Heterogeneous Feedback Aggregation
+Zhi Wang, Chicheng Zhang, Manish Singh, Laurel D. Riek and Kamalika Chaudhuri, Artificial Intelligence and Statistics (AISTATS), 2021.
+
+
+Approximate Data Deletion from Machine Learning Models: Algorithms and Evaluation
+Zachary Izzo, Mary Anne Smart, Kamalika Chaudhuri and James Zou, Artificial Intelligence and Statistics (AISTATS), 2021.
+
+
+2020
+
+Successive Refinement of Privacy
+Antonious M. Girgis, Deepesh Data, Kamalika Chaudhuri, Christina Fragouli, Suhas Diggavi, IEEE Journal on Selected Areas in Information Theory, 2020.
+
+
+A Closer Look at Robustness vs. Accuracy
+Yao-Yuan Yang, Cyrus Rashtchian, Hongyang Zhang, Ruslan Salakhutdinov and Kamalika Chaudhuri, Neural Information Processing Systems (NeuRIPS), 2020.
+
+
+When are Non-Parametric Methods Robust?
+Robi Bhattacharjee and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2020.
+
+
+A Non-Parametric Test to Detect Data-Copying in Generative Models
+Casey Meehan, Kamalika Chaudhuri and Sanjoy Dasgupta, Artificial Intelligence and Statistics (AISTATS), 2020.
+
+
+The Expressive Power of a Class of Normalizing Flow Models
+Zhifeng Kong and Kamalika Chaudhuri, Artificial Intelligence and Statistics (AISTATS), 2020.
+
+
+Robustness for Non-Parametric Methods: A Generic Attack and Defense
+Yao-Yuan Yang, Cyrus Rashtchian, Yizhen Wang and Kamalika Chaudhuri, Artificial Intelligence and Statistics (AISTATS), 2020.
+
+
+Variational Bayes in Private Settings (VIPS)
+Mijung Park, James Foulds, Kamalika Chaudhuri and Max Welling, Journal of AI Research (JAIR), Accepted, 2020.
+
+
+Model Extraction and Active Learning
+Varun Chandrasekaran, Kamalika Chaudhuri, Irene Giacomelli, Somesh Jha and Songbai Yan, Usenix Security, 2020.
+
+
+2019
+
+Capacity Bounded Differential Privacy
+Kamalika Chaudhuri, Jacob Imola and Ashwin Machanavajjhala, Neural Information Processing Systems (NeuRIPS), 2019.
+
+
+The Label Complexity of Active Learning from Observational Data
+Songbai Yan, Kamalika Chaudhuri and Tara Javidi, Neural Information Processing Systems (NeuRIPS), 2019.
+
+
+Profile-Based Privacy for Locally Private Computations
+Joseph Geumlek and Kamalika Chaudhuri, International Symposium on Information Theory (ISIT), 2019.
+
+
+2018
+
+Active Learning from Logged Data
+Songbai Yan, Kamalika Chaudhuri and Tara Javidi, International Conference on Machine Learning (ICML), 2018. [Code]
+
+
+Analyzing the Robustness of Nearest Neighbors to Adversarial Examples
+Yizhen Wang, Somesh Jha and Kamalika Chaudhuri, International Conference on Machine Learning (ICML), 2018. [Code]
+
+
+2017
+
+Renyi Differential Privacy Mechanisms for Posterior Sampling
+Joseph Geumlek, Shuang Song and Kamalika Chaudhuri, Neural Information Processing Systems (NIPS), 2017
+
+
+Approximation and Convergence Properties of Generative Adversarial Learning
+Shuang Liu, Olivier Bousquet and Kamalika Chaudhuri, Neural Information Processing Systems (NIPS), 2017
+
+
+Composition Properties of Inferential Privacy for Time-Series Data
+Shuang Song and Kamalika Chaudhuri, Allerton Conference on Communication, Control and Computing, 2017
+
+
+Learning to Blame: Localizing Novice Type Errors with Data-Driven Diagnosis
+Eric Seidel, Huma Sibghat, Kamalika Chaudhuri, Westley Weimer and Ranjit Jhala, Object-Oriented Programming, Systems, Languages and Applications (OOPSLA), 2017
+
+
+Active Heteroscedastic Regression
+Kamalika Chaudhuri, Prateek Jain and Nagarajan Natarajan, International Conference on Machine Learning (ICML), 2017
+
+
+Bolt-On Differential Privacy for Stochastic Gradient Descent-based Analytics
+Xi Wu, Fengan Li, Arun Kumar, Kamalika Chaudhuri, Somesh Jha and Jeff Naughton, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2017
+
+
+Pufferfish Privacy Mechanisms for Correlated Data
+Shuang Song, Yizhen Wang and Kamalika Chaudhuri, ACM SIGMOD International Conference on Management of Data (SIGMOD), 2017
+
+
+Practical Privacy for Expectation Maximization
+Mijung Park, James Foulds, Kamalika Chaudhuri and Max Welling, International Conference on Artificial Intelligence and Statistics (AISTATS), 2017
+
+
+2016
+
+Private Topic Modeling
+Mijung Park, James Foulds, Kamalika Chaudhuri and Max Welling, NIPS Workshop on Private Multi-party Machine Learning, 2016
+
+
+Active Learning from Imperfect Labelers
+Songbai Yan, Kamalika Chaudhuri and Tara Javidi, Neural Information Processing Systems (NIPS) 2016
+
+
+On the Theory and Practice of Privacy-preserving Bayesian Data Analysis
+James Foulds, Joseph Geumlek, Max Welling and Kamalika Chaudhuri, Uncertainty in Artificial Intelligence (UAI) 2016
+
+
+The Extended Littlestone's Dimension for Learning with Mistakes and Abstentions
+Chicheng Zhang and Kamalika Chaudhuri, Conference on Learning Theory (COLT) 2016
+
+
+2015
+
+Spectral Learning of Large Structured HMMs for Comparative Epigenomics
+Chicheng Zhang, Jimin Song, Kamalika Chaudhuri and Kevin Chen, Neural Information Processing Systems (NIPS) 2015 [Code]
+
+
+Active Learning from Weak and Strong Labelers
+Chicheng Zhang and Kamalika Chaudhuri, Neural Information Processing Systems (NIPS) 2015
+
+
+Convergence Rates of Active Learning for Maximum Likelihood Estimation
+Kamalika Chaudhuri, Sham Kakade, Praneeth Netrapalli and Sujay Sanghavi, Neural Information Processing Systems (NIPS) 2015
+
+
+Active Learning from Noisy and Abstention Feedback
+Songbai Yan, Kamalika Chaudhuri and Tara Javidi, Allerton Conference on Communication, Control and Computing, 2015.
+
+
+Crowdsourcing Feature Discovery via Adaptively Chosen Comparisons
+James Y. Zou, Kamalika Chaudhuri and Adam Tauman Kalai, Conference on Human Computation and Crowdsourcing (HCOMP) 2015
+
+
+Noisy Bayesian Active Learning
+Mohammad Naghshvar, Tara Javidi and Kamalika Chaudhuri, IEEE Transactions of Information Theory, 2015
+
+
+Learning from Data with Heterogenous Noise using SGD
+Shuang Song, Kamalika Chaudhuri and Anand D. Sarwate, International Conference on Artificial Intelligence and Statistics (AISTATS) 2015
+
+
+2014
+
+The Large Margin Mechanism for Differentially Private Maximization
+Kamalika Chaudhuri, Daniel Hsu and Shuang Song, Neural Information Processing Systems (NIPS) 2014
+
+
+Beyond Disagreement-Based Agnostic Active Learning
+Chicheng Zhang and Kamalika Chaudhuri, Neural Information Processing Systems (NIPS) 2014
+
+
+Rates of Convergence for Nearest Neighbor Classification
+Kamalika Chaudhuri and Sanjoy Dasgupta, Neural Information Processing Systems (NIPS) 2014
+
+
+Consistent Procedures for Cluster Tree Estimation and Pruning
+Kamalika Chaudhuri, Sanjoy Dasgupta, Samory Kpotufe and Ulrike Von Luxburg, IEEE Transactions of Information Theory, 2014
+
+
+2013
+
+Improved Algorithms for Confidence-Rated Prediction with Error Guarantees
+Kamalika Chaudhuri and Chicheng Zhang, NIPS Workshop on Learning Faster From Easy Data, NIPS 2013
+
+
+A Stability-based Validation Procedure for Differentially Private Machine Learning
+Kamalika Chaudhuri and Staal Vinterbo, Neural Information Processing Systems (NIPS), 2013
+
+
+Stochastic Gradient Descent with Differentially Private Updates
+Shuang Song, Kamalika Chaudhuri and Anand Sarwate, GlobalSIP Conference, 2013
+
+
+Signal Processing and Machine Learning with Differential Privacy: Theory, Algorithms and Challenges
+Anand Sarwate and Kamalika Chaudhuri, IEEE Signal Processing Magazine, 2013
+
+
+2012
+
+Near-Optimal Algorithms for Differentially Private Principal Components
+Kamalika Chaudhuri, Anand Sarwate and Kaushik Sinha, Neural Information Processing Systems (NIPS), 2012
+
+
+Convergence Rates for Differentially Private Statistical Estimation
+Kamalika Chaudhuri and Daniel Hsu, International Conference on Machine Learning (ICML), 2012
+
+
+Spectral Clustering of Graphs with General Degrees in the Extended Planted Partition Model
+Kamalika Chaudhuri, Fan Chung and Alexander Tsiatas, Conference on Learning Theory (COLT), 2012
+
+
+2011
+
+Spectral Methods for Learning Multivariate Latent Tree Structure
+Animashree Anandkumar, Kamalika Chaudhuri, Daniel Hsu, Sham Kakade, Le Song and Tong Zhang, Neural Information Processing Systems (NIPS), 2011.
+
+
+Sample Complexity Bounds for Differentially Private Learning
+Kamalika Chaudhuri and Daniel Hsu, Conference on Learning Theory (COLT), 2011
+
+
+Differentially Private ERM
+Kamalika Chaudhuri, Claire Monteleoni, and Anand Sarwate, Journal of Machine Learning Research (JMLR), 2011. A previous version appeared in Neural Information Processing Systems (NIPS), 2008.
+
+
+2010
+
+Rates of Convergence for the Cluster Tree
+Kamalika Chaudhuri and Sanjoy Dasgupta, Neural Inf. Processing Systems (NIPS), 2010.
+
+
+An Online Learning-based Framework for Tracking
+Kamalika Chaudhuri, Yoav Freund and Daniel Hsu, Uncertainty in Artificial Intelligence (UAI), 2010
+
+
+2009 and Earlier
+
+A New Parameter-Free Hedging Algorithm
+Kamalika Chaudhuri, Yoav Freund and Daniel Hsu, Neural Information Processing Systems (NIPS), 2009
+
+
+Online Bipartite Matching with Augmentations
+Kamalika Chaudhuri, Costis Daskalakis, Robert Kleinberg and Henry Lin, International Conf. on Computer Communications (INFOCOM), 2009
+
+
+Multiview Clustering via Canonical Correlation Analysis
+Kamalika Chaudhuri , Sham Kakade, Karen Livescu and Karthik Sridharan, International Conf. on Machine Learning (ICML), 2009. [Full proofs ]
+
+A Network Coloring Game
+Kamalika Chaudhuri, Fan Chung Graham, Mohammad S. Jamall, Workshop on Internet and Network Econimics (WINE), 2008.
+
+
+Finding Metric Structure in Information-Theoretic Clustering
+Kamalika Chaudhuri and Andrew McGregor, Conference on Learning Theory (COLT), 2008
+
+
+Beyond Gaussians: Spectral Methods for Learning Mixtures of Heavy-Tailed Distributions
+Kamalika Chaudhuri and Satish Rao, Conference on Learning Theory (COLT), 2008
+
+
+Learning Mixtures of Product Distributions using Correlations and Independence
+Kamalika Chaudhuri and Satish Rao, Conference on Learning Theory (COLT), 2008
+
+
+Privacy, Accuracy, and Consistency Too: A Holistic Solution to Contingency Table Release
+Boaz Barak, Kamalika Chaudhuri, Cynthia Dwork, Satyen Kale, Frank Mcsherry and Kunal Talwar, Principles of Database Systems (PODS), 2007
+
+
+A Rigorous Analysis of Population Stratification with Limited Data
+Kamalika Chaudhuri, Eran Halperin, Satish Rao and Shuheng Zhou, Symposium on Discrete Algorithms (SODA), 2007 [Slides]
+
+Push-Relabel and an Improved Approximation Algorithm for the Bounded-degree MST Problem
+Kamalika Chaudhuri, Satish Rao, Samantha Riesenfeld, and Kunal Talwar, International Conference on Automata, Languages, and Programming (ICALP), 2006.
+
+
+When Random Sampling preserves Privacy
+Kamalika Chaudhuri and Nina Mishra, International Cryptology Conference (CRYPTO), 2006
+
+
+On the tandem duplication-random loss model of genome rearrangement
+Kamalika Chaudhuri, Kevin Chen, Radu Mihaescu, and Satish Rao, Symposium of Discrete Algorithms (SODA), 2006
+
+
+Server Allocation Algorithms for Tiered Systems
+Kamalika Chaudhuri, Anshul Kothari, Rudi Pendavingh, Ram Swaminathan, Robert Tarjan, and Yunhong Zhou, International Computing and Combinatorics Conference (COCOON), 2005
+
+
+What would Edmonds do? Augmenting Paths, Witnesses and Improved Approximations for Bounded-degree MSTs
+Kamalika Chaudhuri, Satish Rao, Samantha Riesenfeld, and Kunal Talwar, Workshop on Approximation Algorithms for Combinatorial Optimization Problems (APPROX), 2005. [Slides]
+
+Value-Maximizing Deadline Scheduling and its Application to Animation Rendering
+Eric Anderson, Dirk Beyer, Kamalika Chaudhuri, Terrance Kelly, Norman Salazar, Ciprano Santos, Ram Swaminathan, Robert Tarjan, Janet Wiener, and Yunhong Zhou, Symposium on Parallelism in Algorithms and Architecture (SPAA), 2005
+
+
+Selfish Caching in Distributed Systems: A Game Theoretic Analysis
+Byung-Gon Chun, Kamalika Chaudhuri, Hoeteck Wee, Marco Barreno, Christos Papadimitriou, and John Kubiatowicz, Principles of Distributed Computing (PODC), 2004
+
+
+Paths, Trees and Minimum Latency Tours
+Kamalika Chaudhuri, Brighten Godfrey, Satish Rao, and Kunal Talwar, Foundations of Computer Science (FOCS), 2003. [Slides]
+
+PhD Dissertation
+
+Learning Mixtures of Distributions
+Kamalika Chaudhuri, Ph.D Dissertation,
+UC Berkeley, 2007
+

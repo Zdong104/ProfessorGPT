@@ -1,0 +1,694 @@
+Professor: Lingjie Liu
+University: University of Pennsylvania
+URL: https://lingjie0206.github.io/
+Description: Home
+ 
+About
+ 
+Publications
+ 
+Education
+ 
+Experience
+ 
+Activities
+ 
+Awards
+ 
+Download CV
+Lingjie Liu
+Aravind K. Joshi Assistant Professor
+Department of Computer and Information Science
+University of Pennsylvania
+
+Email: lingjie.liu@seas.upenn.edu | Address: Office 462, Levine Hall, 3330 Walnut Street, Philadelphia, PA 19104-6389
+
+Google Scholar | Twitter
+
+About Me.
+
+I am the Aravind K. Joshi Assistant Professor in the Department of Computer and Information Science at the University of Pennsylvania, where I lead the Penn Computer Graphics Lab and I am also a member of the General Robotics, Automation, Sensing & Perception (GRASP) Lab.
+
+Previously, I was a Lise Meitner Postdoctoral Research Fellow at Max Planck Institute for Informatics. I received my Ph.D. degree at the University of Hong Kong in 2019.
+
+My research interests are at the interface of Computer Graphics, Computer Vision, and AI, with a focus on Neural Scene Representations, Neural Rendering, Human Performance Modeling and Capture, and 3D Reconstruction. I am especially excited about exploring a new genre of 3D reconstruction and rendering algorithms for human characters and general scenes, which combine classical computer graphics pipelines with deep learning techniques.
+
+My long-term vision is to develop AI technologies that can perceive, understand and interact with 3D objects, people, and environments. Specifically, my research will pursue three goals:
+
+(1) High-quality 3D reconstruction of real-world scenes from sparse inputs;
+
+(2) Efficient and photo-realistic image synthesis of real-world scenes with 3D control;
+
+(3) Large-scale 3D scene generation.
+
+Prospective Students.
+
+There are multiple open research positions in my Lab.
+
+Topics of interest include:
+
+Neural Representations and Rendering for 3D/4D Reconstruction
+3D Generative Models
+Physics-based Human Motion Generation
+LLM guided Graphics and Vision
+Neural Representations for Robotics
+Other topics in Graphics and Vision
+
+If you are interested in visiting or applying for a research position (e.g., intern, PhD, visiting PhD, or postdoc) in the lab, please fill in the form. You will be contacted if a fit can be found.
+
+Group Members.
+PhD Students:
+Chen Wang
+
+
+Visiting PhD Students:
+Zhiyang Dou
+
+
+Master and Undergraduate Students:
+Yiming Huang (Master)
+Heguang Lin (Master)
+Xuyi Meng (Master)
+Nithasree Somanathan (Master)
+Tanaya Gupte (Master)
+Qingxuan Wu (Master)
+Yunzhou Song (Master, co-advised with Kostas Daniilidis and Jiahui Lei)
+Daniel Mika (Undergrad)
+Haodong Li (Intern)
+Tingyang Zhang (Intern)
+Libo Zhang (Intern)
+Professional Activities.
+Services:
+Associate Editorship:
+IEEE TVCG (2023 - )
+Program Committee Member:
+ACM SIGGRAPH 2022, 2023
+ACM SIGGRAPH Asia 2023
+Pacific Graphics 2022, 2023
+Area Chair:
+CVPR 2024
+3DV 2024
+
+
+Organizers:
+Workshop on Neural Fields Beyond Conventional Cameras, ECCV'24
+Workshop on Wild 3D: 3D Modeling, Reconstruction, and Generation in the Wild, ECCV'24
+Eurographics'25, Doctoral Consortium Chair
+Workshop on Generative Models for Computer Vision, CVPR'24
+Workshop on AI for Content Creation Workshop, CVPR'24
+Eurographics'24, Posters Chair
+Workshop on Generative Models for Computer Vision, CVPR'23
+Workshop on AI for Content Creation Workshop, CVPR'23
+Workshop on 3D Generative Models, Banff International Research Station for Mathematical Innovation and Discovery (BIRS)'23
+
+
+Courses:
+Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control, Tutorial in 3DV 2021 Course on Advances in Neural Rendering .
+Fast Rendering of Neural Radiance Fields, Tutorial in SIGGRAPH 2021 Course on Advances in Neural Rendering .
+
+
+Selected Invited Talks:
+Efficient Creation of Photo-realistic Controllable Human Characters, CVPR'24 workshop on The 1st Workshop on Neural Volumetric Video.
+Tracking and Segmentation for Non-Static Scene Reconstruction, CVPR'24 Workshop on ScanNet++ .
+Generalized 3D Reconstruction, CVPR'24 Workshop on XRNeRF: Second Workshop on Advances in Radiance Fields for the Metaverse.
+Generalized 3D Reconstruction, Keynote at 3DV 2024 [Recording].
+Reconstruction of 3D Real-world Scenes, ICCV'23 Workshop on NeRF4ADR: Neural Fields for Autonomous Driving and Robotics.
+Neural Representations of 3D Real-world Scenes, IROS'23 Workshop on Robotic Perception and Mapping.
+Neural Representation and Neural Rendering of 3D Real-world Scenes, Toronto Geometry Colloquium [Recording].
+New Methods for Reconstruction and Rendering of 3D Real-world Scenes, GAMES Webinar [Recording (Chinese)].
+
+
+Publications.
+
+(* and † indicate equal contribution)
+
+Recent Preprints:
+DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image
+
+Qingxuan Wu, Zhiyang Dou†, Sirui Xu, Soshi Shimada, Chen Wang, Zhengming Yu, Yuan Liu, Cheng Lin, Zeyu Cao, Taku Komura, Vladislav Golyanik, Christian Theobalt, Wenping Wang, Lingjie Liu†
+
+[Paper]
+GECO: Generative Image-to-3D within a SECOnd
+
+Chen Wang, Jiatao Gu, Xiaoxiao Long, Yuan Liu, Lingjie Liu
+
+[Project Page] [Paper]
+
+
+
+
+
+2024
+CoMo: Controllable Motion Generation through Language Guided Pose Code Editing
+
+Yiming Huang, Weilin Wan, Yue Yang, Chris Callison-Burch, Mark Yatskar, Lingjie Liu
+
+ECCV 2024
+
+[Project Page] [Paper]
+TLControl: Trajectory and Language Control for Human Motion Synthesis
+
+Weilin Wan, Zhiyang Dou, Taku Komura, Wenping Wang, Dinesh Jayaraman†, Lingjie Liu†
+
+ECCV 2024
+
+[Project Page] [Paper] [Video]
+EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation
+
+Wenyang Zhou, Zhiyang Dou†, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wang, Yuan Liu, Taku Komura, Wenping Wang, Lingjie Liu
+
+ECCV 2024
+
+[Project Page] [Paper]
+TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos
+
+Yufu Wang, Ziyun Wang, Lingjie Liu, Kostas Daniilidis
+
+ECCV 2024
+
+[Project Page] [Paper] [Code]
+Track Everything Everywhere Fast and Robustly
+
+Yunzhou Song*, Jiahui Lei*, Ziyun Wang, Lingjie Liu, Kostas Daniilidis
+
+ECCV 2024
+
+[Project Page] [Paper] [Code]
+BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping
+
+Jiatao Gu, Chen Wang, Shuangfei Zhai, Yizhe Zhang, Lingjie Liu, Josh Susskind
+
+ICML 2024
+
+[Project Page] [Paper]
+DressCode: Autoregressively Sewing and Generating Garments from Text Guidance
+
+Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu†, Lingjie Liu†, Lan Xu†
+
+SIGGRAPH 2024 (ACM Transactions on Graphics, Journal track, Best Paper Honorable Mention)
+
+[Project Page] [Paper] [Code]
+NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation
+
+Jiahao Chen, Yipeng Qin, Lingjie Liu, Jiangbo Lu, Guanbin Li
+
+CVPR 2024 (Oral)
+
+[Project Page] [Paper] [Code]
+GART: Gaussian Articulated Template Models
+
+Jiahui Lei, Yufu Wang, Georgios Pavlakos, Lingjie Liu, Kostas Daniilidis
+
+CVPR 2024 (Highlight)
+
+[Project Page] [Paper] [Code]
+Wonder3D: Single Image to 3D using Cross-Domain Diffusion
+
+Xiaoxiao Long*, Yuan-Chen Guo*, Cheng Lin, Yuan Liu, Zhiyang Dou, Lingjie Liu, Yuexin Ma, Song-Hai Zhang, Marc Habermann, Christian Theobalt, Wenping Wang
+
+CVPR 2024 (Highlight)
+
+[Project Page] [Paper]
+Egocentric Full Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement
+
+Jian Wang, Zhe Cao, Diogo Luvizon, Lingjie Liu, Kripasindhu Sarkar, Danhang Tang, Thabo Beeler, Christian Theobalt
+
+CVPR 2024
+
+[Project Page] [Paper] [Code]
+Holodeck: Language Guided Generation of 3D Embodied AI Environments
+
+Yue Yang, Fan-Yun Sun, Luca Weihs, Eli VanderBilt, Alvaro Herrasti, Winson Han, Jiajun Wu, Nick Haber, Ranjay Krishna, Lingjie Liu, Chris Callison-Burch, Mark Yatskar, Aniruddha Kembhavi, Christopher Clark
+
+CVPR 2024
+
+[Project Page] [Paper] [Code]
+State of the Art on Diffusion Models for Visual Computing
+
+R. Po, W. Yifan, V. Golyanik, K. Aberman, J. Barron, A. Bermano, E. Chan, T. Dekel, A. Holynski, A. Kanazawa, K. Liu, L. Liu, B. Mildenhall, M. Nießner, B. Ommer, C. Theobalt, P. Wonka, G. Wetzstein
+
+Eurographics 2024 STAR Program
+
+[Survey Paper]
+Initializing Models with Larger Ones
+
+Zhiqiu Xu, Yanjie Chen, Kirill Vishniakov, Yida Yin, Zhiqiang Shen, Trevor Darrell, Lingjie Liu, Zhuang Liu
+
+ICLR 2024 (Spotlight)
+
+[Paper]
+SyncDreamer: Generating Multiview-consistent Images from a Single-view Image
+
+Yuan Liu, Cheng Lin, Zijiao Zeng, Xiaoxiao Long, Lingjie Liu, Taku Komura, Wenping Wang
+
+ICLR 2024 (Spotlight)
+
+[Project Page] [Paper]
+Learning Controllable 3D Diffusion Models from Single-view Images
+
+Jiatao Gu, Qingzhe Gao, Shuangfei Zhai, Baoquan Chen, Lingjie Liu, Josh Susskind
+
+3DV 2024
+
+[Project Page] [Paper]
+
+
+
+
+
+2023
+DELIFFAS: Deformable Light Fields for Fast Avatar Synthesis
+
+Youngjoong Kwon, Lingjie Liu, Henry Fuchs, Marc Habermann, Christian Theobalt
+
+NeurIPS 2023
+
+[Project Page] [Paper]
+DreamEditor: Text-Driven 3D Scene Editing with Neural Fields
+
+Jingyu Zhuang*, Chen Wang*, Liang Lin, Lingjie Liu, Guanbin Li
+
+SIGGRAPH Asia 2023
+
+[Paper]
+HDHumans: A Hybrid Approach for High-fidelity Digital Humans
+
+Marc Habermann, Lingjie Liu, Weipeng Xu, Gerard Pons-Moll, Michael Zollhoefer, Christian Theobalt
+
+ACM SCA 2023 (Best Paper Honorable Mention)
+
+[Project Page] [Paper]
+Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors
+
+Qingzhe Gao*, Yiming Wang*, Libin Liu, Lingjie Liu, Christian Theobalt, Baoquan Chen
+
+TVCG 2023
+
+[Project Page] [Paper]
+Multimodal Image Synthesis and Editing: A Survey
+
+Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Lingjie Liu, Adam Kortylewski, Christian Theobalt, Eric Xing
+
+TPAMI 2023
+
+[Project Page] [Paper]
+NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction
+
+Yiming Wang*, Qin Han*, Marc Habermann, Kostas Daniilidis, Christian Theobalt, Lingjie Liu
+
+ICCV 2023
+
+[Project Page] [Paper] [Code]
+Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction
+
+Hansheng Chen, Jiatao Gu, Anpei Chen, Wei Tian, Zhuowen Tu, Lingjie Liu, Hao Su
+
+ICCV 2023
+
+[Project Page] [Paper]
+NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion
+
+Jiatao Gu, Alex Trevithick, Kai-En Lin, Josh Susskind, Christian Theobalt, Lingjie Liu, Ravi Ramamoorthi
+
+ICML 2023
+
+[Project Page] [Paper]
+NeRO: Neural Geometry and BRDF Reconstruction of Reflective Objects From Multiview Images
+
+Yuan Liu, Peng Wang, Cheng Lin, Xiaoxiao Long, Jiepeng Wang, Lingjie Liu, Taku Komura, Wenping Wang
+
+SIGGRAPH 2023 (ACM Transactions on Graphics, Journal track)
+
+[Project Page] [Paper] [Code] [Model & Dataset]
+Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold
+
+Xingang Pan, Ayush Tewari, Thomas Leimkühler, Lingjie Liu, Abhimitra Meka, Christian Theobalt
+
+SIGGRAPH 2023
+
+[Project Page] [Paper] [Code]
+F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories
+
+Peng Wang*, Yuan Liu*, Zhaoxi Chen, Lingjie Liu, Ziwei Liu, Taku Komura, Christian Theobalt, Wenping Wang
+
+CVPR 2023 (highlight)
+
+[Project Page] [Paper] [Code] [Data]
+NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies
+
+Xiaoxiao Long, Cheng Lin, Lingjie Liu, Yuan Liu, Peng Wang, Christian Theobalt, Taku Komura, Wenping Wang
+
+CVPR 2023
+
+[Project Page] [Paper] [Code]
+Scene-aware Egocentric 3D Human Pose Estimation
+
+Jian Wang, Diogo Luvizon, Weipeng Xu, Lingjie Liu, Kripasindhu Sarkar, Christian Theobalt
+
+CVPR 2023
+
+[Project Page] [Paper] [Code] [Data]
+General Neural Gauge Fields
+
+Fangneng Zhan, Lingjie Liu, Adam Kortylewski, Christian Theobalt
+
+ICLR 2023
+
+[Project Page] [Paper] [Code] [Data]
+
+
+
+
+
+2022
+GAN2X: Non-Lambertian Inverse Rendering of Image GANs
+
+Xingang Pan, Ayush Tewari, Lingjie Liu, Christian Theobalt
+
+3DV 2022
+
+[Project Page] [Paper]
+NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors
+
+Jiepeng Wang, Peng Wang, Xiaoxiao Long, Christian Theobalt, Taku Komura, Lingjie Liu, Wenping Wang
+
+ECCV 2022
+
+[Project Page] [Paper] [Code]
+NeRF for Outdoor Scene Relighting
+
+Viktor Rudnev, Mohamed Elgharib, William Smith, Lingjie Liu, Vladislav Golyanik, Christian Theobalt
+
+ECCV 2022
+
+[Project page] [Paper] [Code] [Data]
+Physics Informed Neural Fields for Smoke Reconstruction with Sparse Data
+
+Mengyu Chu, Lingjie Liu, Quan Zheng, Erik Franz, Hans-Peter Seidel, Christian Theobalt, Rhaleb Zayer
+
+SIGGRAPH 2022 (ACM Transactions on Graphics, Journal track)
+
+[Project page] [Paper]
+Estimating Egocentric 3D Human Pose in the Wild with External Weak Supervision
+
+Jian Wang, Lingjie Liu, Weipeng Xu, Kripasindhu Sarkar, Diogo Luvizon, Christian Theobalt
+
+CVPR 2022
+
+[Project page] [Paper] [Dataset]
+Progressively-connected Light Field Network for Efficient View Synthesis
+
+Peng Wang, Yuan Liu, Guying Lin, Jiatao Gu, Lingjie Liu, Taku Komura, Wenping Wang
+
+Arxiv 2022
+
+[Paper]
+Neural Rays for Occlusion-aware Image-based Rendering
+
+Yuan Liu, Sida Peng, Lingjie Liu, Qianqian Wang, Peng Wang, Christian Theobalt, Xiaowei Zhou, Wenping Wang
+
+CVPR 2022
+
+[Project page] [Paper] [Code]
+Learn to Predict How Humans Manipulate Large-Sized Objects From Interactive Motions
+
+Weilin Wan, Lei Yang, Lingjie Liu, Zhuoying Zhang, Ruixing Jia, Yi-King Choi, Jia Pan, Christian Theobalt,Taku Komura, Wenping Wang
+
+IEEE Robotics and Automation Letters 2022 (Presented at ICRA 2022)
+
+[Project page] [Paper] [Data]
+StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis
+
+Jiatao Gu, Lingjie Liu, Peng Wang, Christian Theobalt
+
+ICLR 2022
+
+[Project page] [Paper] [Code]
+
+
+
+
+
+2021
+NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction
+
+Peng Wang, Lingjie Liu, Yuan Liu, Christian Theobalt, Taku Komura, Wenping Wang
+
+NeurIPS 2021 (Spotlight)
+
+[Project page] [Paper] [Code]
+Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control
+
+Lingjie Liu, Marc Habermann, Viktor Rudnev, Kripasindhu Sarkar, Jiatao Gu, Christian Theobalt
+
+SIGGRAPH Asia 2021
+
+[Project page] [Paper] [Video] [Code] [Data]
+Direct Dense Pose Estimation
+
+Liqian Ma, Lingjie Liu, Christian Theobalt Luc Van Gool
+
+3DV 2021
+
+[Project page] [Paper]
+Estimating Egocentric 3D Human Pose in Global Space
+
+Jian Wang, Lingjie Liu, Weipeng Xu, Kripasindhu Sarkar, Christian Theobalt
+
+ICCV 2021 (Oral)
+
+[Project page] [Paper]
+Adaptive Surface Normal Constraint for Depth Estimation
+
+Xiaoxiao Long, Cheng Lin, Lingjie Liu, Wei Li, Christian Theobalt, Ruigang Yang, Wenping Wang
+
+ICCV 2021
+
+[Paper] [Code]
+Efficient and Differentiable Shadow Computation for Inverse Problems
+
+Linjie Lyu, Marc Habermann, Lingjie Liu, Mallikarjun B R, Ayush Tewari, Christian Theobalt
+
+ICCV 2021
+
+[Project page] [Paper] [Video]
+EgoRenderer: Rendering Human Avatars from Egocentric Camera Images
+
+Tao Hu, Kripasindhu Sarkar, Lingjie Liu, Matthias Zwicker, Christian Theobalt
+
+ICCV 2021
+
+[Project page]
+Real-time Deep Dynamic Characters
+
+Marc Habermann, Lingjie Liu, Weipeng Xu, Michael Zollhoefer, Gerard Pons-Moll, Christian Theobalt
+
+SIGGRAPH 2021
+
+[Project page] [Paper] [Video]
+Style and Pose Control for Image Synthesis of Humans from a Single Monocular View
+
+Kripasindhu Sarkar, Vladislav Golyanik, Lingjie Liu, Christian Theobalt
+
+Arxiv 2021
+
+[Project page] [Paper]
+Learning Speech-driven 3D Conversational Gestures from Video
+
+Ikhsanul Habibie, Weipeng Xu, Dushyant Mehta, Lingjie Liu, Hans-Peter Seidel, Gerard Pons-Moll, Mohamed Elgharib, Christian Theobalt
+
+ACM International Conference on Intelligent Virtual Agents (IVA) 2021 (Best Paper Award)
+
+[Project page] [Paper]
+HumanGAN: A Generative Model of Human Images
+
+Kripasindhu Sarkar, Lingjie Liu, Vladislav Golyanik, Christian Theobalt
+
+3DV 2021 (Oral)
+
+[Project page] [Paper]
+Pose-Guided Human Animation from a Single Image in the Wild
+
+Jae Shin Yoon, Lingjie Liu, Vladislav Golyanik, Kripasindhu Sarkar, Hyun Soo Park, Christian Theobalt
+
+CVPR 2021
+
+[Project page] [Paper] [Video]
+Learnable Motion Coherence for Correspondence Pruning
+
+Yuan Liu, Lingjie Liu, Cheng Lin, Zhen Dong, Wenping Wang
+
+CVPR 2021
+
+[Paper]
+Multi-view Depth Estimation using Epipolar Spatio-Temporal Networks
+
+Xiaoxiao Long, Lingjie Liu, Wei Li, Christian Theobalt, Wenping Wang
+
+CVPR 2021
+
+[Paper]
+
+
+
+
+
+2020
+Neural Sparse Voxel Fields
+
+Lingjie Liu*, Jiatao Gu*, Kyaw Zaw Lin, Tat-Seng Chua, Christian Theobalt
+
+NeurIPS 2020 (Spotlight)
+
+[Project page] [Paper] [Code & Data] [Video] [Slides]
+SEG-MAT: 3D Shape Segmentation Using Medial Axis Transform
+
+Cheng Lin, Lingjie Liu, Changjian Li, Leif Kobbelt, Bin Wang, Shiqing Xin, Wenping Wang
+
+TVCG 2020
+
+[Project page] [Paper] [Code & Data]
+MulayCap: Multi-layer Human Performance Capture Using A Monocular Video Camera
+
+Zhaoqi Su, Weilin Wan, Tao Yu , Lingjie Liu, Lu Fang, Wenping Wang, Yebin Liu
+
+TVCG 2020
+
+[Project page] [Paper]
+Occlusion-Aware Depth Estimation with Adaptive Normal Constraints
+
+Xiaoxiao Long, Lingjie Liu, Christian Theobalt, Wenping Wang
+
+ECCV 2020
+
+[Project page] [Paper] [Video] [Code]
+Vid2Curve: Simultaneous Camera Motion Estimation and Thin Structure Reconstruction from an RGB Video
+
+Peng Wang, Lingjie Liu, Nenglun Chen, Hung-Kuo Chu, Christian Theobalt, Wenping Wang
+
+SIGGRAPH 2020
+
+[Project page] [Paper] [Video] [Code]
+Unsupervised Learning of Intrinsic Structural Representation Points
+
+Nenglun Chen, Lingjie Liu, Zhiming Cui, Runnan Chen, Duygu Ceylan, Changhe Tu, Wenping Wang
+
+CVPR 2020
+
+[Project page] [Paper] [Code]
+Neural Human Video Rendering by Learning Dynamic Textures and Rendering-to-Video Translation
+
+Lingjie Liu, Weipeng Xu, Marc Habermann, Michael Zollhöfer, Florian Bernard, Hyeongwoo Kim, Wenping Wang, Christian Theobalt
+
+TVCG 2020
+
+[Project page] [Paper] [Video] [bibtex]
+
+
+
+
+
+2019
+Neural Animation and Reenactment of Human Actor Videos
+
+Lingjie Liu, Weipeng Xu, Michael Zollhöfer, Hyeongwoo Kim, Florian Bernard, Marc Habermann, Wenping Wang, Christian Theobalt
+
+ACM Transactions on Graphics (TOG) 2019
+
+[Project page] [Paper] [Video] [Media] [bibtex]
+MAT-Net: Medial Axis Transform Network for 3D Object Recognition
+
+Jianwei Hu, Bin Wang, Lihui Qian, Yiling Pan, Xiaohu Guo, Lingjie Liu, Wenping Wang
+
+IJCAI 2019
+
+[Paper] [bibtex]
+
+
+
+
+
+2018
+CurveFusion: Reconstructing Thin Structures from RGBD Sequences
+
+Lingjie Liu*, Nenglun Chen*, Duygu Ceylan, Christian Theobalt, Wenping Wang, Niloy J. Mitra
+
+SIGGRAPH Asia 2018
+
+[Project page] [Paper] [Code] [Data] [Video] [bibtex]
+
+
+
+
+
+2017
+Image-based Reconstruction of Wire Art
+
+Lingjie Liu, Duygu Ceylan, Cheng Lin, Wenping Wang, Niloy J. Mitra
+
+SIGGRAPH 2017
+
+[Project page] [Paper] [Code] [Video] [bibtex] [Media]
+Correlation-preserving Photo Collage
+
+Lingjie Liu, Hongjie Zhang, Guanmei Jing, Yanwen Guo, Zhonggui Chen, Wenping Wang
+
+TVCG 2017
+
+[Paper] [Paper (local copy)] [bibtex]
+Education.
+
+2014-2019
+
+The University of Hong Kong
+Ph.D, Computer Science
+
+Hong Kong, China
+
+Supervised by Prof. Wenping Wang.
+
+2010-2014
+
+Huazhong University of Science and Technology
+BEng, Computer Science and Technology
+
+Wuhan, China
+
+Research Experience.
+
+2019
+
+New York University
+Visiting Scholar
+
+New York, USA
+
+Courant Institute of Mathematical Sciences
+
+Visited Prof. Daniele Panozzo at New York University from Feb 2019 to June 2019.
+
+2018-2019
+
+Max-Planck-Institute for Informatics
+Intern
+
+Saarbrucken, Germany
+
+3D Video and Vision-based Graphics Group
+
+Visited Prof. Christian Theobalt at Max-Planck-Institute for Informatics from March 2018 to Jan 2019.
+
+2016-2017
+
+University College London
+Visiting Scholar
+
+London, UK
+
+Smart Geometry Processing Group
+
+Visited Prof. Niloy J. Mitra at UCL from Sept 2016 to Jan 2017, and from May 2017 to Nov 2017.
+
+© 2019 - Lingjie's Homepage
+   
+

@@ -1,0 +1,49 @@
+Professor: Anupam Datta
+University: Carnegie Mellon University
+URL: http://www.andrew.cmu.edu/user/danupam
+Description: Home
+Research
+Teaching
+Students & Postdocs
+Service
+Anupam Datta
+Professor
+Electrical and Computer Engineering Department
+and (by courtesy) Computer Science Department
+Carnegie Mellon University Silicon Valley
+PhD 2005, Computer Science, Stanford University
+
+
+Brief bio
+
+My current focus is on foundations and tools for Trustworthy AI. The goal is to ensure that data-driven systems that employ artificial intelligence and machine learning are not inscrutable black-boxes; rather their operation is explained in a form that enables trust in their operation, performance improvements, and protection of societal values, including privacy and fairness. For contributions in this area, I am the recipient of the 2018 David P. Casasent Outstanding Research Award from the CMU College of Engineering, a 2020 Young Alumni Achiever Award from IIT Kharagpur, and a 2021 Google Faculty Research Award.
+
+Note: I am on leave from CMU at Truera (renamed from AILens), a company I co-founded to enable effective and responsible adoption of artificial intelligence.
+
+Education Highlights
+Trustworthy Machine Learning [Stanford CS329T; Spring 2021, 2022]
+Security and Fairness of Deep Learning [CMU 18739; Spring 2018, 2019]
+Exploring Conceptual Soundness with TruLens [NeurIPS 2021 Demo]
+Machine Learning Explainability and Robustness: Connected at the Hip [KDD 2021 Tutorial]
+From Explanability to Model Quality and Back Again [AAAI 2021 Tutorial]
+Research Highlights
+Our 2021 paper on Influence Patterns for Explaining Information Flow in BERT presents an explanation method for transformer models called BERT, which are very widely used for natural language processing tasks. In particular, it surfaces how BERT models internally capture interactions among words. It builds on our 2020 paper on Influence Paths in LSTM Language Models. See also our result on Gender Bias in Neural Natural Language Processing.
+Our 2018 paper on Influence-Directed Explanations for Deep Convolutional Networks presents a general approach to create explanations not just at the input (i.e. pixel level) but also at an internal level (e.g., identifying neurons and other network units inside deep networks that capture visual concepts such as eyes and lips for facial recognition. This kind of gradient-based internal explanations are increasingly being used in practice. This paper serves as a building block for number of subsequent results on bias amplification, privacy, and robustness of deep networks.
+Our 2016 paper on Algorithmic Transparency via Quantitative Input Influence introduced a method for Explainable Machine Learning by leveraging a combination of techniques from co-operative game theory (e.g., Shapley Values) and causality. These methods are now widely used. See an accessible article in The Conversation and my FAT/ML'16 Invited Talk.
+Our 2015 paper on Discrimination in Online Behavioral Advertising was an early demonstration that fairness of data-driven systems that use machine learning is a real problem -- a well-recognized and mainstream area of research and practice now. See also our 2017 paper on root causes of proxy discrimination in ML models, and our 2018 NeurIPS paper on a highly efficient method for rooting out proxies in linear models
+Our 2014 paper on Bootstrapping Privacy Compliance in Big Data Systems created methods and a toolchain to annotate data elements and check Map-Reduce style codebases for privacy compliance. This work was further developed by Microsoft as part of their DataMap project and became a key foundation for their GDPR compliance toolkit for Azure and Office 360.
+Our results on differential privacy, including applications to social networks, password protection, JL transform, and privacy-preserving AI counterfactual explanations (coming soon!).
+Our 2006 paper on Privacy and Contextual Integrity spawned a body of work on specifying and enforcing privacy requirements. The computational approach formalizes an influential normative approach to Privacy in Context. See also this article in The Economist and the White House Consumer Privacy Bill of Rights
+.
+Selected Recent Talks
+2018: The Economist Innovation Summit, Fairness/Gender and Machine Learning@Stanford, Machine Learning and Formal Methods Summit@Oxford, PrivaCI@Princeton, Interpretable Machine Learning Models and Financial Applications@MIT, International Test Conference (AI session), UW-Madison CS Distinguished Lecture Series, CMKL Tech Summit on AI@Thailand
+2017: DARPA Safe Machine Learning, Data Privacy@Simons Institute, Data Economy@Telecom ParisTech, PLSC@Berkeley, Algorithms and Explanations@NYU
+2016: FAT/ML@NYU, BigData@CSAIL Data Privacy Series at MIT, Safe AI@CMU + White House OSTP, Formal Methods and Security@PLDI'16, Security and Human Behavior'16@Harvard, Privacy Engineering@Oakland'16, John Mitchell Festscrift@Stanford, Science of Security@CPSWeek'16, FTC PrivacyCon'16
+Activities
+Accountable Decision Systems [Lead PI; NSF large collaborative involving CMU, Cornell, ICSI]
+Conference on Fairness, Accountability, and Transparency [Steering Committee]
+Foundations and Trends in Privacy and Security [Editor-in-Chief]
+IEEE Computer Security Foundations Symposium [Steering Committee]
+Accountable Protocol Customization [Lead PI; ONR large collaborative involving CMU, Stanford, UPenn]
+CMU Security and Privacy Institute, Principles of Programming, Artificial Intelligence group [Affiliate]
+

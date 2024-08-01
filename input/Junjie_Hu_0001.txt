@@ -1,0 +1,460 @@
+Professor: Junjie Hu 0001
+University: University of Wisconsin - Madison
+URL: https://junjiehu.github.io/
+Description: Group
+Publications
+Teaching
+Talks
+Awards
+Junjie Hu | 胡俊杰
+
+Assistant Professor
+Biostatistics & Medical Informatics
+Computer Science
+Data Science Institute
+University of Wisconsin-Madison
+Office: 4735 MSC, 420 North Charter Street, Madison, WI
+Office phone: +1-6082656118
+Email: junjie.hu@wisc.edu
+[Research Statement]
+
+
+About
+
+I am an assistant professor with appointments in the Department of Biostatistics, Department of Computer Science and Data Science Institute at the University of Wisconsin-Madison. I obtained my Ph.D. from School of Computer Science at Carnegie Mellon University, where I worked with Jaime Carbonell and Graham Neubig.
+
+I have a broad interest in natural language processing and machine learning. My research goal is to build robust intelligent systems that evolve with changes in the environment and interact with people speaking different languages. In particular, my research focuses on algorithmic design and fundamental understanding of machine learning models in NLP that enable safe deployment in the wild. Most recently, I’m fascinated by understanding behaviors of large language models, adapting them effectively to knowledge-intensive reasoning tasks, and aligning them safely with users from diverse backgrounds. Specific topics of interest include the following aspects of large language models:
+
+Multilingual/multimodal representation learning from self-supervision
+Unifying LLMs with knowledge graphs for structured reasoning
+Evaluation and interpretation of black-box foundation models
+Language models as agent for task executions
+
+Prospective students : Thanks for your interest! I may not be able to reply to all inqueries due to the large amounts of emails. If you still want to bring my attention to your papers by email, please add “[prospective student to Hulab]” in the email subject. I’ll update hiring information on my website. I am looking for ~2 excellent PhD students to join our lab in the fall of 2024. Please apply to the CS or BDS program, and mention my name in your application and research statement. UW-Madison is an excellent place for research, and Madison is a wonderful city to live in. Please check out these videos (Why UW-Madison, Madison). I’m also happy to work with masters or undergraduate students at UW-Madison. If you are interested, please send me an email with your CV. I’m not actively looking for summer interns in 2024 (Updated on May 23 2024).
+
+Research Group
+
+I am really fortunate to work with a group of excellent students at UW-Madison. Stay tuned for our latest works!
+
+Graduate Students
+
+Rheeya Uppaal (PhD in CS)
+
+Tim Ossowski (PhD in CS)
+
+Binwei Yao (PhD in CS)
+
+Gowtham Ramesh (MS in CS)
+
+Yuye Jiang (MS in CS)
+
+Samarth Mathur (MS in ECE)
+
+Karthik Suresh (MS in CS)
+
+Shan Leng (MS in Stats)
+
+Undergraduate Students
+
+Agam Goyal (BS in CS)
+
+Alumni
+
+Jack Ziyang Cai (BS in ECE/Math -> MS in ECE)
+
+Ruixue Lian (PhD in ECE, co-advised w/ Prof. William Sethares, now at Amazon Alexa AI)
+
+Makesh Narsimhan Sreedhar (MS in CS -> NVIDIA)
+
+Shilu He (MS in Math -> Amazon Alexa)
+
+Shanchao Liang (BS in CS/Math -> PhD in CS at Purdue)
+
+Shunchi Zhang (Exchange student from XJTU)
+
+Recent Preprints
+2024
+arXiv
+Prompting Large Vision-Language Models for Compositional Reasoning
+Timothy Ossowski, Ming Jiang, and Junjie Hu
+arXiv preprint arXiv:2401.11337 2024
+2023
+arXiv
+Empowering LLM-based Machine Translation with Cultural Awareness
+Binwei Yao, Ming Jiang, Diyi Yang, and Junjie Hu
+arXiv preprint arXiv:2305.14328 2023
+Publications
+
+
+2024
+CSCW
+MetaWriter: Exploring the Potential and Perils of AI Writing Support in Scientific Peer Review
+Lu Sun, Stone Tao, Junjie Hu, and Steven Dow
+In Proceedings of The 26th ACM Conference on Computer-Supported Cooperative Work and Social Computing 2024
+ACL
+Data Augmentation using LLMs: Data Perspectives, Learning Paradigms and Challenges
+Bosheng Ding, Chengwei Qin, Ruochen Zhao, Tianze Luo, Xinze Li, Guizhen Chen, Wenhan Xia, Junjie Hu, Anh Tuan Luu, and Shafiq Joty
+In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics 2024
+ICML
+Chatbot Meets Pipeline: Augment Large Language Model with Definite Finite Automaton
+Yiyou Sun, Junjie Hu, Wei Cheng, and Haifeng Chen
+In International Conference on Machine Learning (ICML) 2024
+CogSci
+Evaluating LLM Agent Group Dynamics against Human Group Dynamics: A Case Study on Wisdom of Partisan Crowds
+Yun-Shiuan Chuang, Siddharth Suresh, Nikunj Harlalka, Agam Goyal, Robert Hawkins, Sijia Yang, Dhavan Shah, Junjie Hu, and Timothy T Rogers
+In The Annual Conference of the Cognitive Science Society (CogSci). 2024
+NAACL
+Simulating Opinion Dynamics with Networks of LLM-based Agents
+Yun-Shiuan Chuang, Agam Goyal, Nikunj Harlalka, Siddharth Suresh, Robert Hawkins, Sijia Yang, Dhavan Shah, Junjie Hu, and Timothy T Rogers
+In Findings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics 2024
+NAACL
+How does Multi-Task Training Affect Transformer In-Context Capabilities? Investigations with Function Classes
+Harmon Bhasin, Timothy Ossowski, Yiqiao Zhong, and Junjie Hu
+In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics 2024
+CVPR
+Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation
+Zihan Wang, Xiangyang Li, Jiahao Yang, Yeqi Liu, Junjie Hu, Ming Jiang, and Shuqiang Jiang
+In The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024
+EACL
+Learning Label Hierarchy with Supervised Contrastive Learning
+Ruixue Lian, William A. Sethares, and Junjie Hu
+In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics 2024
+ACL
+OLIVE: Object Level In-Context Visual Embeddings
+Timothy Ossowski, and Junjie Hu
+In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics 2024
+2023
+ACL
+Single Sequence Prediction over Reasoning Graphs for Multi-hop QA
+Gowtham Ramesh, Makesh Narsimhan Sreedhar, and Junjie Hu
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023
+ACL
+Is Fine-tuning Needed? Pre-trained Language Models Are Near Perfect for Out-of-Domain Detection
+Rheeya Uppaal, Junjie Hu, and Yixuan Li
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023
+ACL
+Local Byte Fusion for Neural Machine Translation
+Makesh Narsimhan Sreedhar, Xiangpeng Wan, Yu Cheng, and Junjie Hu
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023
+ACL
+Multimodal Prompt Retrieval for Generative Visual Question Answering
+Timothy Ossowski, and Junjie Hu
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL Findings) 2023
+WS
+Evolving Domain Adaptation of Pretrained Language Models for Text Classification
+Yun-Shiuan Chuang, Yi Wu, Dhruv Gupta, Rheeya Uppaal, Ananya Kumar, Luhang Sun, Makesh Narsimhan Sreedhar, Sijia Yang, Timothy T Rogers, and Junjie Hu
+In NeurIPS Workshop on Distribution Shifts, 37th Conference on Neural Information Processing Systems. 2023
+2022
+EMNLP
+Beyond Counting Datasets: Investigating Multilingual Dataset Construction and Necessary Resources
+Xinyan Yu, Trina Chatterjee, Akari Asai, Junjie Hu, and Eunsol Choi
+In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings) 2022
+EMNLP
+Utilizing Language-Image Pretraining for Efficient and Robust Bilingual Word Alignment
+Tuan Dinh, Jy-yong Sohn, Shashank Rajput, Timothy Ossowski, Yifei Ming, Junjie Hu, Dimitris Papailiopoulos, and Kangwook Lee
+In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings) 2022
+IEEE TPAMI
+Video Pivoting Unsupervised Multi-modal Neural Machine Translation
+Mingjie Li, Po-Yao Huang, Xiaojun Chang, Junjie Hu, Yi Yang, and Alex Hauptmann
+IEEE transactions on pattern analysis and machine intelligence (To Appear) 2022
+ACL
+DEEP: DEnoising Entity Pre-training for Neural Machine Translation
+Junjie Hu, Hiroaki Hayashi, Kyunghyun Cho, and Graham Neubig
+In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics 2022
+ACL
+GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems
+Bosheng Ding, Junjie Hu, Lidong Bing, Sharifah Aljunied Mahani, Shafiq R. Joty, Luo Si, and Chunyan Miao
+In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics 2022
+2021
+WMT
+Phrase-level Active Learning for Neural Machine Translation
+Junjie Hu, and Graham Neubig
+In The Sixth Conference on Machine Translation (WMT) 2021
+[Abs] [Code]
+
+Neural machine translation (NMT) is sensitive to domain shift. In this paper, we address this problem in an active learning setting where we can spend a given budget on translating in-domain data, and gradually fine-tune a pre-trained out-of-domain NMT model on the newly translated data. Existing active learning methods for NMT usually select sentences based on uncertainty scores, but these methods require costly translation of full sentences even when only one or two key phrases within the sentence are informative. To address this limitation, we re-examine previous work from the phrase-based machine translation (PBMT) era that selected not full sentences, but rather individual phrases. However, while incorporating these phrases into PBMT systems was relatively simple, it is less trivial for NMT systems, which need to be trained on full sequences to capture larger structural properties of sentences unique to the new domain. To overcome these hurdles, we propose to select both full sentences and individual phrases from unlabelled data in the new domain for routing to human translators. In a German-English translation task, our active learning approach achieves consistent improvements over uncertainty-based sentence selection methods, improving up to 1.2 BLEU score over strong active learning baselines.
+
+EMNLP
+AfroMT: Pretraining Strategies and Reproducible Benchmarks for Translation of 8 African Languages
+Machel Reid, Junjie Hu, Graham Neubig, and Yutaka Matsuo
+In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
+[Abs] [Code]
+
+Reproducible benchmarks are crucial in driving progress of machine translation research. However, existing machine translation benchmarks have been mostly limited to high-resource or well-represented languages. Despite an increasing interest in low-resource machine translation, there are no standardized reproducible benchmarks for many African languages, many of which are used by millions of speakers but have less digitized textual data. To tackle these challenges, we propose AfroMT, a standardized, clean, and reproducible machine translation benchmark for eight widely spoken African languages. We also develop a suite of analysis tools for system diagnosis taking into account the unique properties of these languages. Furthermore, we explore the newly considered case of low-resource focused pretraining and develop two novel data augmentation-based strategies, leveraging word-level alignment information and pseudo-monolingual data for pretraining multilingual sequence-to-sequence models. We demonstrate significant improvements when pretraining on 11 languages, with gains of up to 2 BLEU points over strong baselines. We also show gains of up to 12 BLEU points over cross-lingual transfer baselines in data-constrained scenarios. All code and pretrained models will be released as further steps towards larger reproducible benchmarks for African languages.
+
+EMNLP
+XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation
+Sebastian Ruder, Noah Constant, Jan Botha, Aditya Siddhant, Orhan Firat, Jinlan Fu, Pengfei Liu, Junjie Hu, Dan Garrette, Graham Neubig, and Melvin Johnson
+In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
+[Abs] [Code]
+
+Machine learning has brought striking advances in multilingual natural language processing capabilities over the past year. For example, the latest techniques have improved the state-of-the-art performance on the XTREME multilingual benchmark by more than 13 points. While a sizeable gap to human-level performance remains, improvements have been easier to achieve in some tasks than in others. This paper analyzes the current state of cross-lingual transfer learning and summarizes some lessons learned. In order to catalyze meaningful progress, we extend XTREME to XTREME-R, which consists of an improved set of ten natural language understanding tasks, including challenging language-agnostic retrieval tasks, and covers 50 typologically diverse languages. In addition, we provide a massively multilingual diagnostic suite (MultiCheckList) and fine-grained multi-dataset evaluation capabilities through an interactive public leaderboard to gain a better understanding of such models.
+
+NAACL
+Explicit Alignment Objectives for Multilingual Bidirectional Encoders
+Junjie Hu, Melvin Johnson, Orhan Firat, Aditya Siddhant, and Graham Neubig
+In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics 2021
+[Abs] [Code]
+
+Pre-trained cross-lingual encoders such as mBERT (Devlin et al., 2019) and XLM-R (Conneau et al., 2020) have proven impressively effective at enabling transfer-learning of NLP systems from high-resource languages to low-resource languages. This success comes despite the fact that there is no explicit objective to align the contextual embeddings of words/sentences with similar meanings across languages together in the same space. In this paper, we present a new method for learning multilingual encoders, AMBER (Aligned Multilingual Bidirectional EncodeR). AMBER is trained on additional parallel data using two explicit alignment objectives that align the multilingual representations at different granularities. We conduct experiments on zero-shot cross-lingual transfer learning for different tasks including sequence tagging, sentence retrieval and sentence classification. Experimental results on the tasks in the XTREME benchmark (Hu et al., 2020) show that AMBER obtains gains of up to 1.1 average F1 score on sequence tagging and up to 27.3 average accuracy on retrieval over the XLM-R-large model which has 3.2x the parameters of AMBER. Our code and models are available at http://github.com/junjiehu/amber.
+
+NAACL
+Multilingual Multimodal Pre-training for Zero-Shot Cross-Lingual Transfer of Vision-Language Models
+Po-Yao Huang, Mandela Patrick, Junjie Hu, Graham Neubig, Florian Metze, and Alexander Hauptmann
+In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics 2021
+[Abs] [Code]
+
+This paper studies zero-shot cross-lingual transfer of vision-language models. Specifically, we focus on multilingual text-to-video search and propose a Transformer-based model that learns contextual multilingual multimodal embeddings. Under a zero-shot setting, we empirically demonstrate that performance degrades significantly when we query the multilingual text-video model with non-English sentences. To address this problem, we introduce a multilingual multimodal pre-training strategy, and collect a new multilingual instructional video dataset (Multi-HowTo100M) for pre-training. Experiments on VTT show that our method significantly improves video search in non-English languages without additional annotations. Furthermore, when multilingual annotations are available, our method outperforms recent baselines by a large margin in multilingual text-to-video search on VTT and VATEX; as well as in multilingual text-to-image search on Multi30K. Our model and Multi-HowTo100M is available at http://github.com/berniebear/Multi-HT100M.
+
+2020
+ICML
+XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation
+Junjie Hu, Sebastian Ruder, Aditya Siddhant, Graham Neubig, Orhan Firat, and Melvin Johnson
+In International Conference on Machine Learning (ICML) 2020
+[Abs] [Code]
+
+Much recent progress in applications of machine learning models to NLP has been driven by benchmarks that evaluate models across a wide variety of tasks. However, these broad-coverage benchmarks have been mostly limited to English, and despite an increasing interest in multilingual models, a benchmark that enables the comprehensive evaluation of such methods on a diverse range of languages and tasks is still missing. To this end, we introduce the Cross-lingual TRansfer Evaluation of Multilingual Encoders XTREME benchmark, a multi-task benchmark for evaluating the cross-lingual generalization capabilities of multilingual representations across 40 languages and 9 tasks. We demonstrate that while models tested on English reach human performance on many tasks, there is still a sizable gap in the performance of cross-lingually transferred models, particularly on syntactic and sentence retrieval tasks. There is also a wide spread of results across languages. We release the benchmark to encourage research on cross-lingual learning methods that transfer linguistic knowledge across a diverse and representative set of languages and tasks.
+
+ICML
+On Learning Language-Invariant Representations for Universal Machine Translation
+Han Zhao, Junjie Hu, and Andrej Risteski
+In International Conference on Machine Learning (ICML) 2020
+[Abs]
+
+The goal of universal machine translation is to learn to translate between any pair of languages, given a corpus of paired translated documents for a small subset of all pairs of languages. Despite impressive empirical results and an increasing interest in massively multilingual models, theoretical analysis on translation errors made by such universal machine translation models is only nascent. In this paper, we formally prove certain impossibilities of this endeavour in general, as well as prove positive results in the presence of additional (but natural) structure of data. For the former, we derive a lower bound on the translation error in the many-to-many translation setting, which shows that any algorithm aiming to learn shared sentence representations among multiple language pairs has to make a large translation error on at least one of the translation tasks, if no assumption on the structure of the languages is made. For the latter, we show that if the paired documents in the corpus follow a natural encoder-decoder generative process, we can expect a natural notion of “generalization”: a linear number of language pairs, rather than quadratic, suffices to learn a good representation. Our theory also explains what kinds of connection graphs between pairs of languages are better suited: ones with longer paths result in worse sample complexity in terms of the total number of documents per language pair needed. We believe our theoretical insights and implications contribute to the future algorithmic design of universal machine translation.
+
+ACL
+Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting
+Po-Yao Huang, Junjie Hu, Xiaojun Chang, and Alexander Hauptmann
+In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics 2020
+[Abs]
+
+Unsupervised machine translation (MT) has recently achieved impressive results with monolingual corpora only. However, it is still challenging to associate source-target sentences in the latent space. As people speak different languages biologically share similar visual systems, the potential of achieving better alignment through visual content is promising yet under-explored in unsupervised multimodal MT (MMT). In this paper, we investigate how to utilize visual content for disambiguation and promoting latent space alignment in unsupervised MMT. Our model employs multimodal back-translation and features pseudo visual pivoting in which we learn a shared multilingual visual-semantic embedding space and incorporate visually-pivoted captioning as additional weak supervision. The experimental results on the widely used Multi30K dataset show that the proposed model significantly improves over the state-of-the-art methods and generalizes well when images are not available at the testing time.
+
+Workshop
+TICO-19: the Translation Initiative for COvid-19
+Antonios Anastasopoulos, Alessandro Cattelan, Zi-Yi Dou, Marcello Federico, Christian Federmann, Dmitriy Genzel, Franscisco Guzmán, Junjie Hu, Macduff Hughes, Philipp Koehn, Rosie Lazar, Will Lewis, Graham Neubig, Mengmeng Niu, Alp Öktem, Eric Paquin, Grace Tang, and Sylwia Tur
+In Proceedings of the 1st Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020
+[Abs]
+
+The COVID-19 pandemic is the worst pandemic to strike the world in over a century. Crucial to stemming the tide of the SARS-CoV-2 virus is communicating to vulnerable populations the means by which they can protect themselves. To this end, the collaborators forming the Translation Initiative for COvid-19 (TICO-19) have made test and development data available to AI and MT researchers in 35 different languages in order to foster the development of tools and resources for improving access to information about COVID-19 in these languages. In addition to 9 high-resourced, ”pivot” languages, the team is targeting 26 lesser resourced languages, in particular languages of Africa, South Asia and South-East Asia, whose populations may be the most vulnerable to the spread of the virus. The same data is translated into all of the languages represented, meaning that testing or development can be done for any pairing of languages in the set. Further, the team is converting the test and development data into translation memories (TMXs) that can be used by localizers from and to any of the languages.
+
+AAAI
+What Makes A Good Story? Designing Composite Rewards for Visual Storytelling
+Junjie Hu, Yu Cheng, Zhe Gan, Jingjing Liu, Jianfeng Gao, and Graham Neubig
+In Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI) 2020
+[Code]
+2019
+ACL
+Domain Adaptation of Neural Machine Translation by Lexicon Induction
+Junjie Hu, Mengzhou Xia, Graham Neubig, and Jaime Carbonell
+In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics 2019
+[Abs] [Code]
+
+It has been previously noted that neural machine translation (NMT) is very sensitive to domain shift. In this paper, we argue that this is a dual effect of the highly lexicalized nature of NMT, resulting in failure for sentences with large numbers of unknown words, and lack of supervision for domain-specific words. To remedy this problem, we propose an unsupervised adaptation method which fine-tunes a pre-trained out-of-domain NMT model using a pseudo-in-domain corpus. Specifically, we perform lexicon induction to extract an in-domain lexicon, and construct a pseudo-parallel in-domain corpus by performing word-for-word back-translation of monolingual in-domain target sentences. In five domains over twenty pairwise adaptation settings and two model architectures, our method achieves consistent improvements without using any in-domain parallel sentences, improving up to 14 BLEU over unadapted models, and up to 2 BLEU over strong back-translation baselines.
+
+CIKM
+A hybrid retrieval-generation neural conversation model
+Liu Yang, Junjie Hu, Minghui Qiu, Chen Qu, Jianfeng Gao, W Bruce Croft, Xiaodong Liu, Yelong Shen, and Jingjing Liu
+In Proceedings of the 28th ACM International Conference on Information and Knowledge Management 2019
+[Code]
+EMNLP
+REO-Relevance, Extraness, Omission: A Fine-grained Evaluation for Image Captioning
+Ming Jiang, Junjie Hu, Qiuyuan Huang, Lei Zhang, Jana Diesner, and Jianfeng Gao
+In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) 2019
+[Abs]
+
+Popular metrics used for evaluating image captioning systems, such as BLEU and CIDEr, provide a single score to gauge the system’s overall effectiveness. This score is often not informative enough to indicate what specific errors are made by a given system. In this study, we present a fine-grained evaluation method REO for automatically measuring the performance of image captioning systems. REO assesses the quality of captions from three perspectives: 1) Relevance to the ground truth, 2) Extraness of the content that is irrelevant to the ground truth, and 3) Omission of the elements in the images and human references. Experiments on three benchmark datasets demonstrate that our method achieves a higher consistency with human judgments and provides more intuitive evaluation results than alternative metrics.
+
+EMNLP
+Handling Syntactic Divergence in Low-resource Machine Translation
+Chunting Zhou, Xuezhe Ma, Junjie Hu, and Graham Neubig
+In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) 2019
+[Abs]
+
+Despite impressive empirical successes of neural machine translation (NMT) on standard benchmarks, limited parallel data impedes the application of NMT models to many language pairs. Data augmentation methods such as back-translation make it possible to use monolingual data to help alleviate these issues, but back-translation itself fails in extreme low-resource scenarios, especially for syntactically divergent languages. In this paper, we propose a simple yet effective solution, whereby target-language sentences are re-ordered to match the order of the source and used as an additional source of training-time supervision. Experiments with simulated low-resource Japanese-to-English, and real low-resource Uyghur-to-English scenarios find significant improvements over other semi-supervised alternatives.
+
+EMNLP
+Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings
+Zi-Yi Dou, Junjie Hu, Antonios Anastasopoulos, and Graham Neubig
+In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) 2019
+[Abs]
+
+The recent success of neural machine translation models relies on the availability of high quality, in-domain data. Domain adaptation is required when domain-specific data is scarce or nonexistent. Previous unsupervised domain adaptation strategies include training the model with in-domain copied monolingual or back-translated data. However, these methods use generic representations for text regardless of domain shift, which makes it infeasible for translation models to control outputs conditional on a specific domain. In this work, we propose an approach that adapts models with domain-aware feature embeddings, which are learned via an auxiliary language modeling task. Our approach allows the model to assign domain-specific representations to words and output sentences in the desired domain. Our empirical results demonstrate the effectiveness of the proposed strategy, achieving consistent improvements in multiple experimental settings. In addition, we show that combining our method with back translation can further improve the performance of the model.
+
+WNGT
+Domain Differential Adaptation for Neural Machine Translation
+Zi-Yi Dou, Xinyi Wang, Junjie Hu, and Graham Neubig
+In Proceedings of the 3rd Workshop on Neural Generation and Translation 2019
+[Abs]
+
+Neural networks are known to be data hungry and domain sensitive, but it is nearly impossible to obtain large quantities of labeled data for every domain we are interested in. This necessitates the use of domain adaptation strategies. One common strategy encourages generalization by aligning the global distribution statistics between source and target domains, but one drawback is that the statistics of different domains or tasks are inherently divergent, and smoothing over these differences can lead to sub-optimal performance. In this paper, we propose the framework of \textitDomain Differential Adaptation (DDA), where instead of smoothing over these differences we embrace them, directly modeling the difference between domains using models in a related task. We then use these learned domain differentials to adapt models for the target task accordingly. Experimental results on domain adaptation for neural machine translation demonstrate the effectiveness of this strategy, achieving consistent improvements over other alternative adaptation strategies in multiple experimental settings.
+
+NAACL
+compare-mt: A Tool for Holistic Comparison of Language Generation Systems
+Graham Neubig, Zi-Yi Dou, Junjie Hu, Paul Michel, Danish Pruthi, and Xinyi Wang
+In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations) 2019
+[Abs] [Code] [Best Demon Nomination]
+
+In this paper, we describe compare-mt, a tool for holistic analysis and comparison of the results of systems for language generation tasks such as machine translation. The main goal of the tool is to give the user a high-level and coherent view of the salient differences between systems that can then be used to guide further analysis or system improvement. It implements a number of tools to do so, such as analysis of accuracy of generation of particular types of words, bucketed histograms of sentence accuracies or counts based on salient characteristics, and extraction of characteristic n-grams for each system. It also has a number of advanced features such as use of linguistic labels, source side data, or comparison of log likelihoods for probabilistic models, and also aims to be easily extensible by users to new types of analysis. compare-mt is a pure-Python open source package, that has already proven useful to generate analyses that have been used in our published papers. Demo Video: https://youtu.be/NyJEQT7t2CA
+
+2018
+EMNLP
+Rapid Adaptation of Neural Machine Translation to New Languages
+Graham Neubig, and Junjie Hu
+In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing 2018
+[Abs] [Code]
+
+This paper examines the problem of adapting neural machine translation systems to new, low-resourced languages (LRLs) as effectively and rapidly as possible. We propose methods based on starting with massively multilingual “seed models”, which can be trained ahead-of-time, and then continuing training on data related to the LRL. We contrast a number of strategies, leading to a novel, simple, yet effective method of “similar-language regularization”, where we jointly train on both a LRL of interest and a similar high-resourced language to prevent over-fitting to small LRL data. Experiments demonstrate that massively multilingual models, even without any explicit adaptation, are surprisingly effective, achieving BLEU scores of up to 15.5 with no data from the LRL, and that the proposed similar-language regularization method improves over other adaptation methods by 1.7 BLEU points average over 4 LRL settings.
+
+ACL
+Automatic Estimation of Simultaneous Interpreter Performance
+Craig Stewart, Nikolai Vogler, Junjie Hu, Jordan Boyd-Graber, and Graham Neubig
+In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) 2018
+[Abs]
+
+Simultaneous interpretation, translation of the spoken word in real-time, is both highly challenging and physically demanding. Methods to predict interpreter confidence and the adequacy of the interpreted message have a number of potential applications, such as in computer-assisted interpretation interfaces or pedagogical tools. We propose the task of predicting simultaneous interpreter performance by building on existing methodology for quality estimation (QE) of machine translation output. In experiments over five settings in three language pairs, we extend a QE pipeline to estimate interpreter performance (as approximated by the METEOR evaluation metric) and propose novel features reflecting interpretation strategy and evaluation measures that further improve prediction accuracy.
+
+WMT
+Contextual Encoding for Translation Quality Estimation
+Junjie Hu, Wei-Cheng Chang, Yuexin Wu, and Graham Neubig
+In Proceedings of the Third Conference on Machine Translation: Shared Task Papers 2018
+[Abs] [Code]
+
+The task of word-level quality estimation (QE) consists of taking a source sentence and machine-generated translation, and predicting which words in the output are correct and which are wrong. In this paper, propose a method to effectively encode the local and global contextual information for each target word using a three-part neural network approach. The first part uses an embedding layer to represent words and their part-of-speech tags in both languages. The second part leverages a one-dimensional convolution layer to integrate local context information for each target word. The third part applies a stack of feed-forward and recurrent neural networks to further encode the global context in the sentence before making the predictions. This model was submitted as the CMU entry to the WMT2018 shared task on QE, and achieves strong results, ranking first in three of the six tracks.
+
+2017
+EMNLP
+Structural Embedding of Syntactic Trees for Machine Comprehension
+Rui Liu, Junjie Hu, Wei Wei, Zi Yang, and Eric Nyberg
+In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing 2017
+[Abs]
+
+Deep neural networks for machine comprehension typically utilizes only word or character embeddings without explicitly taking advantage of structured linguistic information such as constituency trees and dependency trees. In this paper, we propose structural embedding of syntactic trees (SEST), an algorithm framework to utilize structured information and encode them into vector representations that can boost the performance of algorithms for the machine comprehension. We evaluate our approach using a state-of-the-art neural attention model on the SQuAD dataset. Experimental results demonstrate that our model can accurately identify the syntactic boundaries of the sentences and extract answers that are syntactically coherent over the baseline methods.
+
+ACL
+Semi-Supervised QA with Generative Domain-Adaptive Nets
+Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, and William Cohen
+In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2017
+[Abs]
+
+We study the problem of semi-supervised question answering—utilizing unlabeled text to boost the performance of question answering models. We propose a novel training framework, the \textitGenerative Domain-Adaptive Nets. In this framework, we train a generative model to generate questions based on the unlabeled text, and combine model-generated questions with human-generated questions for training question answering models. We develop novel domain adaptation algorithms, based on reinforcement learning, to alleviate the discrepancy between the model-generated data distribution and the human-generated data distribution. Experiments show that our proposed framework obtains substantial improvement from unlabeled text.
+
+AAAI
+Answer-aware attention on grounded question answering in images
+Junjie Hu, Desai Fan, Shuxin Yao, and Jean Oh
+In AAAI 2017 Fall Symposium on Natural Communication for Human-Robot Collaboration 2017
+IEEE TNNLS
+Online nonlinear AUC maximization for imbalanced data sets
+Junjie Hu, Haiqin Yang, Michael R Lyu, Irwin King, and Anthony Man-Cho So
+IEEE transactions on neural networks and learning systems 2017
+[Abs]
+
+Classifying binary imbalanced streaming data is a significant task in both machine learning and data mining. Previously, online area under the receiver operating characteristic (ROC) curve (AUC) maximization has been proposed to seek a linear classifier. However, it is not well suited for handling nonlinearity and heterogeneity of the data. In this paper, we propose the kernelized online imbalanced learning (KOIL) algorithm, which produces a nonlinear classifier for the data by maximizing the AUC score while minimizing a functional regularizer. We address four major challenges that arise from our approach. First, to control the number of support vectors without sacrificing the model performance, we introduce two buffers with fixed budgets to capture the global information on the decision boundary by storing the corresponding learned support vectors. Second, to restrict the fluctuation of the learned decision function and achieve smooth updating, we confine the influence on a new support vector to its k-nearest opposite support vectors. Third, to avoid information loss, we propose an effective compensation scheme after the replacement is conducted when either buffer is full. With such a compensation scheme, the performance of the learned model is comparable to the one learned with infinite budgets. Fourth, to determine good kernels for data similarity representation, we exploit the multiple kernel learning framework to automatically learn a set of kernels. Extensive experiments on both synthetic and real-world benchmark data sets demonstrate the efficacy of our proposed approach.
+
+2016
+HCOMP
+Learning Lexical Entries for Robotic Commands via Paraphrasing
+Junjie Hu, Jean Oh, and Anatole Gershman
+In AAAI conference on Human Computation 2016
+[Abs]
+
+Robotic commands in natural language usually contain various spatial descriptions that are semantically similar but syntactically different. Mapping such syntactic variants into semantic concepts that can be understood by robots is challenging due to the high flexibility of natural language expressions. To tackle this problem, we collect robotic commands for navigation and manipulation tasks using crowdsourcing. We further define a robot language and use a generative machine translation model to translate robotic commands from natural language to robot language. The main purpose of this paper is to simulate the interaction process between human and robots using crowdsourcing platforms, and investigate the possibility of translating natural language to robot language with paraphrases.
+
+ICLR
+Words or Characters? Fine-grained Gating for Reading Comprehension
+Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, and Ruslan Salakhutdinov.
+In International Conference on Learning Representations 2016
+[Abs]
+
+Previous work combines word-level and character-level representations using concatenation or scalar weighting, which is suboptimal for high-level tasks like reading comprehension. We present a fine-grained gating mechanism to dynamically combine word-level and character-level representations based on properties of the words. We also extend the idea of fine-grained gating to modeling the interaction between questions and paragraphs for reading comprehension. Experiments show that our approach can improve the performance on reading comprehension tasks, achieving new state-of-the-art results on the Children’s Book Test dataset. To demonstrate the generality of our gating mechanism, we also show improved results on a social media tag prediction task.
+
+2015
+IEEE Cybern.
+Diversified Sensitivity-Based Undersampling for Imbalance Classification Problems
+Wing W. Y. Ng, Junjie Hu, Daniel Yeung Yeung, Shaohua Yin, and Fabio Roli
+IEEE Transactions on Cybernetics 2015
+[Abs]
+
+Undersampling is a widely adopted method to deal with imbalance pattern classification problems. Current methods mainly depend on either random resampling on the majority class or resampling at the decision boundary. Random-based undersampling fails to take into consideration informative samples in the data while resampling at the decision boundary is sensitive to class overlapping. Both techniques ignore the distribution information of the training dataset. In this paper, we propose a diversified sensitivity-based undersampling method. Samples of the majority class are clustered to capture the distribution information and enhance the diversity of the resampling. A stochastic sensitivity measure is applied to select samples from both clusters of the majority class and the minority class. By iteratively clustering and sampling, a balanced set of samples yielding high classifier sensitivity is selected. The proposed method yields a good generalization capability for 14 UCI datasets.
+
+AAAI
+Kernelized Online Imbalanced Learning with Fixed Budgets
+Junjie Hu, Haiqin Yang, Irwin King, Michael Lyu, and Anthony Man-Cho So
+In Twenty-Ninth AAAI Conference on Artificial Intelligence (AAAI) 2015
+[Abs]
+
+Online learning from imbalanced streaming data to capture the nonlinearity and heterogeneity of the data is significant in machine learning and data mining. To tackle this problem, we propose a kernelized online imbalanced learning (KOIL) algorithm to directly maximize the area under the ROC curve (AUC). We address two more challenges: 1) How to control the number of support vectors without sacrificing model performance; and 2) how to restrict the fluctuation of the learned decision function to attain smooth updating. To this end, we introduce two buffers with fixed budgets (buffer sizes) for positive class and negative class, respectively, to store the learned support vectors, which can allow us to capture the global information of the decision boundary. When determining the weight of a new support vector, we confine its influence only to its k-nearest opposite support vectors. This can restrict the effect of new instances and prevent the harm of outliers. More importantly, we design a sophisticated scheme to compensate the model after replacement is conducted when either buffer is full. With this compensation, the learned model approaches the one learned with infinite budgets. We present both theoretical analysis and extensive experimental comparison to demonstrate the effectiveness of our proposed KOIL.
+
+SOSE
+Ar-tracker: Track the dynamics of mobile apps via user review mining
+Cuiyun Gao, Hui Xu, Junjie Hu, and Yangfan Zhou
+In 2015 IEEE Symposium on Service-Oriented System Engineering 2015
+[Abs]
+
+User-generated reviews on mobile applications (apps) are a valuable source of data for developers to improve the quality of their apps. But the reviews are usually massive in size and span over multiple topics, thus leading to great challenges for developers to efficiently identify the key reviews of interest. In recent studies, automatic user review mining has been recognized as a key solution to address this challenge. The existing methods, however, require extensive human efforts to manually label the training data. Besides, they only analyze the static characteristics over the whole set of collected reviews, while ignoring the dynamic information embedded in the reviews of different time periods. In this paper, we propose ’AR-Tracker’, a new framework to mine user reviews without the need of human labeling and track the dynamics from the top-ranked reviews. Through extensive experiments on the reviews of four popular mobile apps collected over 7 months, we show that AR-Tracker can still achieve comparable accuracy with the state-of-the-art methods, e.g., AR-Miner. Additionally, a case study on Facebook reviews further validates the effectiveness of ’AR-Tracker’ in tracking the dynamics.
+
+Teaching
+
+CS 769 Advanced Natural Language Processing (Spring 2022)
+
+CS 769 Advanced Natural Language Processing (Spring 2023)
+
+CS 769 Advanced Natural Language Processing (Fall 2023)
+
+Talks
+
+Invited Talk at University of Cambridge, LTL Seminar, June 09, 2022.
+
+Invited Talk at Lingustics Fridays Seminar at UW-Madison, April 01, 2022.
+
+Invited Talk at Microsoft Azure Cognitive Services Research, January 20, 2022.
+
+Invited Talk at Bay Area NLP Seminar, November 18, 2021.
+
+Invited Talk at ICTR Seminar at UW-Madison, October 26, 2021.
+
+Invited Talk at Microsoft Research Summit, October 21, 2021.
+
+Invited Talk at CIBM Seminar at UW-Madison, October 19, 2021.
+
+Invited Talk at IFDS Ideas Forum at UW-Madison, October 11, 2021.
+
+XTREME: A Massively Multilingual Multi-task Benchmarkfor Evaluating Cross-lingual Generalization, Junjie Hu, LTI Summer Seminar Series at Carnegie Mellon University, Pittsburgh, July 2, 2020.
+
+Pre-training of Multilingual Encoder for Crosslingual Transfer, Junjie Hu, Google Translate Team, Mountain View, August 20 2019.
+
+Cross-Lingual and Cross Domain Transfer for Neural Machine Translation, Junjie Hu, AI Seminar at Carnegie Mellon University, Pittsburgh April 30 2019.
+
+Transfer Learning for Multilingual Neural Machine Translation, Junjie Hu, SMART-Select Workshop on Multilingual Models and Unsupervised NMT supported by DG Connect of the European Commission, Luxembourg, June 20 2019. Facebook AI Research Lab, Paris, June 21 2019.
+
+Rethinking Visual Storytelling: What Makes A Good Story? Junjie Hu, Microsoft 365 AI Research, Redmond, August 23 2018.
+
+Machine Reading Comprehension via Structural Tree Embeddings, Junjie Hu, Seminar at Chinese University of Hong Kong, March 5 2018.
+
+Lorelei: Understanding Low Resource Languages, Pat Littell, Junjie Hu, Shruti Rijhwani, and Ruochen Xu. LTI Colloquium at Carnegie Mellon University, Pittsburgh, September 8, 2017.
+
+Natural Communication for Human-Robot Collaboration, Junjie Hu, Symposium on Natural Communication for Human-Robot Collaboration, November 9, 2017.
+
+Selected Awards and Scholarships
+
+CMU Graduate Student Assembly Dissertation Writing Group Grant, 2020
+
+CMU Graduate Student Assembly Conference Travel Grant, 2020
+
+NAACL 2019 Best Demonstration Paper Nomination, 2019
+
+Graduate Research Scholarship, Carnegie Mellon University, 2015-2021
+
+Postgraduate Scholarship, The Chinese University of Hong Kong, 2013-2015
+
+Certificate of Merit for Teaching Assistantship, Department of CSE, Chinese University of Hong Kong, 2013-2014
+
+IBM Outstanding Student Scholarship (1 of 77 winners in China), 2012-2013
+
+Outstanding Undergraduate Awards by China Computer Federation (99 winners), 2012-2013
+
+National Scholarship, the Ministry of Education, 2010-2011, 2011-2012
+
+© Copyright 2024 Junjie Hu . Powered by Jekyll.
+

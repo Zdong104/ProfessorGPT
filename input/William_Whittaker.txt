@@ -1,0 +1,64 @@
+Professor: William Whittaker
+University: Carnegie Mellon University
+URL: http://www.ri.cmu.edu/person.html?person_id=339
+Description: Skip to content
+ABOUT
+PEOPLE
+RESEARCH
+EDUCATION
+NEWS
+EVENTS
+NREC
+William (Red) L. Whittaker
+Founders University Research Professor Emeritus
+Home Department: RI
+Office: 2109 Newell-Simon Hall
+Phone: 412-268-6559
+Personal Homepage
+Administrative Assistant: Lynnetta J. Miller
+Associated Center: FRC
+Mailing Address
+Statement
+Research
+Publications
+Students/Affiliates
+Projects
+
+My research interests center on mobile robots in unpredictable environments, such as natural terrain and outdoor worksites, including computer architectures to control mobile robots, modeling and planning for non-repetitive tasks, complex problems of objective sensing in random or dynamic environments, and integrations of complete field robot systems.
+
+Remote Reconnaissance & Inspection
+The first machines that initiated “field robotics” (1982) addressed a need to remotely inspect the aftermath of a nuclear accident at Three Mile Island. The Remote Reconnaissance Vehicle brought back the first footage from the flooded basement of the damaged reactor. The Remote Core Sampler returned samples of the walls and the Remote Work Vehicle was built to do a large number of tasks inside the basement. Pioneer (1998), a mobile mapping and reconnaissance machine for structural assessment was deployed at the damaged Chernobyl nuclear power plant. Tesselator (1992) was developed for automated inspection and waterproofing of the tiles on the Space Shuttle. Tugbot (2006) surveyed an 1800-acre site in Nevada for hazards and buried objects.
+
+My work encompasses core research, prototyping, and experimentation with the view that all are important to the evolution of field robots. Increasingly, my research interests are manifested through the work of the Field Robotics Center (FRC), which I direct. I have particular agenda in integrating component technologies into complete systems that prove themselves in both research and real world contexts. At FRC we developed the remote work systems that explored and remediated the basement of the crippled Three Mile Island reactor containment basement. The Remote Reconnaissance Vehicle performed recovery tasks such as inspection, radiological mapping, material sampling, sludge transport and wall cleaning in a highly radioactive environment. Its successor, the Remote Work Vehicle (RWV), a telerobot of unprecedented capability and nuclear qualification, was developed for a broad agenda of clean-up operations. The RWV can wash contaminated surfaces, remove sediments, demolish radiation sources, apply surface treatments, and package and transport materials.
+
+Outdoor Navigation
+Terregator (1983) was one of the earliest outdoor mobile robots and served as a testbed for much of the early work in autonomous road following and mine modeling. Its successor, Navlab (1985), a converted van, was the first full sized vehicle to house researchers and computing and served as a testbed for unmanned ground vehicle research. Navlab founded a series of autonomous outdoor vehicles with a variety of configurations.
+
+The FastNav project investigated the areas of path tracking and collision avoidance for robot vehicles in featureless terrains, such as strip mines and hazardous waste sites. Collision avoidance was accomplished by searching a section of the path ahead of the vehicle using laser ranging. To guarantee collision avoidance, it is necessary to guarantee detection by the sensor and real time response from the computing and vehicle actuators. Path tracking was accomplished by servoing to a specified path using sophisticated inertial guidance. To date we have successfully demonstrated path tracking on the NavLab at 25 km per hour using a kinematic model of the vehicle. In the future we plan to extend our control schemes to track paths at higher speeds by incorporating vehicle dynamics and to detect obstacles on undulating terrain.
+
+From sensor research in subsurface investigation, we developed the Portable Pipe Mapper (PPM), a hand-held pipe mapping system that collects, enhances, and displays a gray-scale map of buried ferrous pipes. The PPM gives the user a powerful tool for inferring utility line location through a visual and spatial representation of sensor data. It displays elbows, Ts, and crosses in piping networks and provides an accurate depth estimation of a target pipe.
+
+We are developing a Site Investigation Robot to increase the efficiency of hazardous waste site investigations by integrating automated data acquisition, advanced subsurface sensing, robotic positioning, and site data basing through a uniform user-friendly interface. We have automated ground penetrating radar (GPR) scanning and data acquisition, using robotic technology to provide high accuracy for signal processing. Our work in three-dimensional image processing matches the three dimensional potential of GPR, achieving higher resolutions and full-volume imaging. Ultimately, a field technician will be able to scan a site and determine the type and locations of objects for excavation.
+
+Our research into the automation of subsurface mining machines, specifically in the area of navigation, motion safe-guarding and position registration, has demonstrated corridor following using our Terregator equipped with sonar and laser range sensors. Current research is supported by the Locomotion Emulator (LE), an omnidirectional locomotion testbed. The LE’s distinction as a testbed lies in its ability to emulate a wide variety of target vehicles, of which mining machines are examples, through software reconfiguration. The success of the LE is measured in part by the extent to which software for a target application, developed on the LE, ports to end use with minimum modification.
+
+Robotic Exploration
+Ambler (1987), a novel walking robot intended for a Mars sample-return mission, was built to navigate over large obstacles while operating on very low power. Skyworker (2002), is a similarly motivated robot that walks on the trusses of space structures. Dante I & II (1992, 1994) were unmanned robots for volcano exploration deployed at Mt. Erebus, Antarctica and Mt. Spurr, Alaska. Nomad (1996) is a novel robot mechanism designed to operate in rough terrain. It was first extensively deployed in the Chilean Atacama Desert in 1997 and was subsequently used for the first robotic search for Antarctic meteorites (2000). A branch from this line of work developed Hyperion (2001) and Zoe (2005), solar-powered robots for extended deployment in the arctic tundra and the Atacama Desert. The latest development is a lander/rover combination intended to address the Google X Prize for the first commercially funded venture to put a robot on the moon.
+
+ 
+
+Outreach at RI
+|
+Contact Us
+|
+Giving
+|
+RoboGuide
+© 2024 The Robotics Institute is part of the School of Computer Science, Carnegie Mellon University. Legal Info
+	
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+

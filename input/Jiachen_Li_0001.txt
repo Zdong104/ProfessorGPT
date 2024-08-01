@@ -1,0 +1,444 @@
+Professor: Jiachen Li 0001
+University: Univ. of California - Riverside
+URL: https://jiachenli94.github.io/
+Description: Jiachen Li
+   
+Home
+About Me
+News
+Curriculum Vitae
+Research
+Publications
+Academic Services
+Join My Lab
+Jiachen Li, Ph.D.
+
+Assistant Professor at University of California, Riverside (UCR)
+I'm a|
+
+About Me
+Assistant Professor
+
+I am a tenure-track assistant professor in the Department of Electrical and Computer Engineering (ECE) and the Department of Computer Science and Engineering (CSE) at the University of California, Riverside (UCR). I am also the Director of Trustworthy Autonomous Systems Laboratory (TASL). Before joining UCR, I was a Postdoctoral Scholar at Stanford University working with Prof. Mykel J. Kochenderfer at Stanford Intelligent Systems Laboratory (SISL), Stanford Center for AI Safety, and Stanford Artificial Intelligence Laboratory (SAIL). I obtained my Ph.D. degree from the University of California, Berkeley working with Prof. Masayoshi Tomizuka at Mechanical Systems Control Laboratory, Berkeley DeepDrive (BDD), and Berkeley AI Research (BAIR).
+
+Attention! I am actively looking for multiple highly motivated Ph.D. students (fully funded), master students, undergraduate students, and research interns to join my lab in Fall 2024. If you are interested, please follow the application instructions HERE. Please feel free to send me an email if any questions.
+
+ Google Scholar: HERE
+ E-mail: jiachen.li AT ucr.edu
+ UC Riverside Profile: HERE
+ Twitter: HERE
+ LinkedIn: HERE
+ Lab Website: HERE
+
+ 
+
+Research Interest
+
+My research interest lies in the broad intersection of robotics, trustworthy AI & ML, reinforcement learning, control and optimization and their applications to intelligent autonomous systems (e.g., autonomous vehicles, mobile robots, drones, cyber-physical systems). I am particularly interested in human-robot interactions and multi-agent systems. Please refer to the Research section or my lab website for more details about my recent research!
+
+I am open to research discussion and collaboration, please feel free to get in touch!
+
+News
+04/2024: One paper is accepted at IEEE Transactions on Robotics (T-RO)!
+03/2024: One paper is accepted at the IEEE Intelligent Vehicles Symposium (IV 2024)!
+02/2024: Serving as an Associate Editor for IROS 2024 and IEEE Robotics and Automation Letters (RA-L)!
+01/2024: Two papers are accepted at ICRA 2024!
+12/2023: Organizing Machine Learning for Autonomous Driving workshop (ML4AD 2023).
+11/2023: One paper is accepted at IEEE Robotics and Automation Letters!
+10/2023: One paper is accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)!
+08/2023: Selected as an ASME DSCD Rising Star and will give a talk at MECC 2023!
+07/2023: Two papers are accepted at 2023 IEEE Intelligent Transportation Systems Conference (ITSC 2023)!
+06/2023: Invited talk at IEEE IV 2023 Workshop on Social and Interactive and Safe Behaviors for Intelligent Vehicles: Benchmark, Models, and Applications!
+06/2023: Organizing three IEEE IV 2023 workshops: Workshop on Socially Interactive Autonomous Mobility (SIAM) , Workshop on Interaction-driven Behavior Prediction and Planning for Autonomous Vehicles, and Workshop on 3D-Deep Learning for Automated Driving!
+01/2023: One paper about pedestrian action recognition and motion prediction is accepted at ICRA 2023!
+10/2022: Serving on the program committee of RSS 2023 Pioneers Workshop at RSS 2023!
+09/2022: Two papers about interaction modeling and physical dynamics modeling are accepted at NeurIPS 2022!
+08/2022: Organizing NeurIPS 2022 Workshop on Machine Learning for Autonomous Driving and NeurIPS 2022 Workshop on Progress and Challenges in Trustworthy Embodies AI!
+07/2022: One paper about occupancy prediction is accepted at IROS 2022!
+06/2022: Invited talk in the MediaBrain Laboratory at Shanghai Jiao Tong University!
+05/2022: Selected as one of the 30 Robotics Pioneers at the RSS 2022 Pioneers Workshop!
+03/2022: One paper regarding diverse human motion forecasting is accepted as Oral presentation at CVPR 2022!
+01/2022: Two papers regarding scene understanding and behavior modeling are accepted to ICRA 2022!
+11/2021: Serving as a member of Program Committee for 4th Annual Learning for Dynamics & Control Conference!
+11/2021: I joined Stanford Intelligent Systems Laboratory (SISL) as a postdoctoral scholar!
+08/2021: One paper regarding continual learning for trajectory prediction is accepted to IEEE Robotics and Automation Letters!
+08/2021: Organizing NeurIPS 2021 Workshop on Machine Learning for Autonomous Driving
+07/2021: Two papers are accepted to ICCV 2021! Preprints are coming soon.
+06/2021: One paper regarding graph-based multi-agent prediction and tracking is accepted to IEEE Transactions on Intelligent Transportation Systems!
+06/2021: Keynote talk on "Multi-Agent Relational Reasoning for Autonomous Driving" at IV 2021 workshop!
+06/2021: One paper regarding self-supervised learning for trajectory forecasting is accepted at ITSC 2021!
+06/2021: One paper regarding a survey of autonomous driving strategies at intersections is accepted at ITSC 2021!
+06/2021: One paper regarding motion planning of mobile robots is accepted at IROS 2021!
+05/2021: Organizing IROS 2021 Workshop on Multi-Agent Interaction and Relational Reasoning
+04/2021: Organizing ICCV 2021 Workshop on Multi-Agent Interaction and Relational Reasoning
+03/2021: Invited talk titled "Relational Reasoning for Multi-Agent Systems" at Carnegie Mellon University!
+02/2021: One paper regarding shared cross-modal trajectory forecasting is accepted at CVPR 2021 (Oral)!
+02/2021: One paper regarding multi-agent decision making is accepted at ICRA 2021!
+02/2021: One paper regarding multi-agent trajectory forecasting is accepted at ICRA 2021!
+Curriculum Vitae
+
+Click here to download my full CV (03/2024).
+
+Research
+
+The ultimate goal of my research is to build trustworthy, interactive, and human-centered autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents; and clearly explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, I have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision.
+
+Note: The information below may not be up to date, please refer to here for my latest research topics!
+
+
+
+Featured Research Topics
+Explainable Relational Reasoning and Multi-Agent Interaction Modeling (Social & Physical)
+
+
+
+I investigate relational reasoning and interaction modeling in the context of the trajectory prediction task, which aims to generate accurate, diverse future trajectory hypotheses or state sequences based on historical observations. My research introduced the first unified relational reasoning toolbox that systematically infers the underlying relations/interactions between entities at different scales (e.g., pairwise, group-wise) and different abstraction levels (e.g., multiplex) by learning dynamic latent interaction graphs and hypergraphs from observable states (e.g., positions) in an unsupervised manner. The learned latent graphs are explainable and generalizable, significantly improving the performance of downstream tasks, including prediction, sequential decision making, and control. We also proposed a physics-guided relational learning approach for physical dynamics modeling.
+
+Related Publications:
+
+NeurIPS 2020 ICCV 2021 NeurIPS 2022a NeurIPS 2022b ICRA 2022a Preprint (under review)
+
+
+
+Interaction-Aware Decision Making and Model-Based Control
+
+Although autonomous navigation in simple, static environments has been well studied, it remains challenging for robots to navigate in highly dynamic, interactive scenarios (e.g., intersections, narrow corridors) where humans are involved. Robots must learn a safe and efficient behavior policy that can model the interactions, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations. My research introduced a novel interaction-aware decision making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning in a systematic manner. I also investigate model-based control methods that leverages the learned pairwise and group-wise relations for social robot navigation around human crowds. Both methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ and developers’ trust.
+
+Related Publications:
+
+ICRA 2021 ITSC 2021-1 Preprint 1 (under review) Preprint 2 (under review)
+
+
+
+Vision and Language Models for Embodied Intelligence
+
+We investigate foundation models and vision language models (VLMs) for robotics and autonomous systems to enhance their reasoning capability and reliability. For example, inferring the short-term and long-term intentions of traffic participants and understanding the contextual semantics of scenes are the key to scene understanding and situational awareness of autonomous vehicles. Moreover, how to enable autonomous agents (e.g., self-driving cars) to explain their reasoning, prediction, and decision making processes to human users (e.g., drivers, passengers) in a human understandable form (e.g., natural language) to build humans’ trust remains largely underexplored. Therefore, together with Honda, we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, my research introduced novel methods that achieve superior performance on these problems.
+
+Related Publications:
+
+ICCV 2021 WACV 2023 CVPR 2023 (under review) ICRA 2023 (under review)
+
+
+
+Improving Generalizability by Learning Context Relations
+
+How to generalize the prediction to different scenarios is largely underexplored. In contrast to recent works which use the Cartesian coordinate system and global context images directly as input, we propose to leverage human prior knowledge including the comprehension of pairwise relations between agents and pairwise context information extracted by self-supervised learning approaches to attain an effective Frenet-based representation. We demonstrate that our approach achieves superior performance in terms of overall performance, zeroshot and few-shot transferability across different traffic scenarios with diverse layouts.
+
+Related Publications:
+
+ITSC 2021
+
+
+
+Continual / Lifelong Learning from Incremental Data
+
+The current mainstream research focuses on how to achieve accurate prediction on one large dataset. However, whether the multi-agent trajectory prediction model can be trained with a sequence of datasets, i.e., continual learning settings, remains a question. Can the current prediction methods avoid catastrophic forgetting? Can we utilize the continual learning strategy in the multi-agent trajectory prediction application? Motivated by the generative replay methods in continual learning literature, we propose a multi-agent interaction behavior prediction framework with a graph-neural-network-based conditional generative memory system to mitigate catastrophic forgetting. To the best of our knowledge, this work is the first attempt to study the continual learning problem in multi-agent interaction behavior prediction problems. We empirically show that several approaches in literature indeed suffer from catastrophic forgetting, and our approach succeeds in maintaining a low prediction error when datasets come in a sequential way.
+
+Related Publications:
+
+IEEE RA-L 2021
+
+
+
+Diverse Prediction and Generation with Deep Generative Models
+
+The objective of generative models is to approximate the true data distribution, with which one can generate new samples similar to real data points with a proper variance. Generative models have been widely employed in representation learning and distribution approximation. We designed novel trajectory or human skeleton motion prediction methods based on deep generative models, which generate accurate and diverse prediction hypotheses. These methods can be broadly applied to time series prediction problems.
+
+Related Publications:
+
+IEEE T-ITS 2021 ICRA 2019 IROS 2019 IV 2019a IV 2019b
+
+State Estimation with Learning-Based Models
+
+I proposed a constrained mixture sequential Monte Carlo method that mitigates mode collapse in sequential Monte Carlo methods for tracking multiple targets and significantly improves tracking accuracy. Since prediction is a step in state estimation, I also proposed that the prior update in the state estimation framework can be implemented with any learning-based interaction-aware prediction model. The results in complex traffic scenarios show that using the prediction model outperforms purely physical models by a large margin due to the capability of relational reasoning. In particular, our method performs significantly better when handling missing or noisy sensor measurements.
+
+Related Publications:
+
+IEEE T-ITS 2020 IEEE T-ITS 2021 ICRA 2019 IV 2018 Website
+
+Publications
+Under Review / Preprints
+Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation
+submitted to IEEE Transactions on Robotics (T-RO), under review
+J. Li*, C. Hua*, H. Ma, J. Park, V. Dax, and M. J. Kochenderfer
+arXiv
+ELA: Exploited Level Augmentation for Offline Learning in Zero-Sum Games
+under review
+S. Lei*, K. Lee*, L. Li, J. Park, and J. Li
+arXiv
+CMP: Cooperative Motion Prediction with Multi-Agent Communication
+under review
+Z. Wu*, Y. Wang*, H. Ma, Z. Li, H. Qiu, and J. Li
+arXiv
+The Generalization Gap of Locally Unordered GNNs
+under review
+V. Dax, J. Li, and M. J. Kochenderfer
+arXiv (coming soon)
+
+ 
+
+2024
+Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation
+IEEE Transactions on Robotics (T-RO), 2024
+J. Li, D. Isele, K. Lee, J. Park, K. Fujimura, and M. J. Kochenderfer
+arXiv
+MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts
+International Conference on Robotics and Automation (ICRA 2024)
+Z. Xu*, R. Zhou*, Y. Yin*, H. Gao, M. Tomizuka, and J. Li
+arXiv
+Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments
+International Conference on Robotics and Automation (ICRA 2024)
+B. Lange, J. Li, and M. J. Kochenderfer
+arXiv
+Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024
+E. Sachdeva*, N. Agarwal*, S. Chundi, S. Roelofs, J. Li, C. Choi, M. J. Kochenderfer, and B. Dariush
+arXiv
+Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving
+IEEE Intelligent Vehicles Symposium (IV 2024)
+M. Toyungyernsub, E. Yel, J. Li, and M. J. Kochenderfer
+arXiv
+
+ 
+
+2023
+Disentangled Neural Relational Inference for Interpretable Motion Prediction
+IEEE Robotics and Automation (RA-L), 2023
+V. M. Dax, J. Li, E. Sachdeva, N. Agarwal, and M. J. Kochenderfer
+IEEE
+Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning
+IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024
+E. Sachdeva*, N. Agarwal*, S. Chundi, S. Roelofs, J. Li, C. Choi, M. J. Kochenderfer, and B. Dariush
+arXiv
+Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints
+2023 International Conference on Robotics and Automation (ICRA)
+J. Li, X. Shi*, F. Chen*, J. Stroud*, Z. Zhang, T. Lan, J. Mao, J. Kang, K. Refaat, W. Yang, E. Le and C. Li
+arXiv
+Robust Driving Policy Learning with Guided Meta Reinforcement Learning
+IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023
+K. Lee*, J. Li*, D. Isele, J. Park, K. Fujimura, and M. J. Kochenderfer
+arXiv
+Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments
+IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023
+K. Li, Y. Chen, M. Shan, J. Li, S. Worrall, and E. Nebot
+arXiv
+DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios
+In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
+S. Malla, C. Choi, J. H. Choi, I. Dwivedi, and J. Li
+WACV arXiv
+A Cognition-Inspired Trajectory Prediction Method for Vehicles in Interactive Scenarios
+IET Intelligent Transport Systems
+S. Xie, J. Li and J. Wang
+IET
+
+ 
+
+2022
+Interaction Modeling with Multiplex Attention
+In Neural Information Processing Systems (NeurIPS), 2022.
+F. Sun, I. Kauvar, R. Zhang, J. Li, M. J. Kochenderfer, J. Wu, and N. Haber
+NeurIPS Website arXiv
+Learning Physical Dynamics with Subequivariant Graph Neural Networks
+In Neural Information Processing Systems (NeurIPS), 2022.
+J. Han, W. Huang, H. Ma, J. Li, J. B. Tenenbaum, and C. Gan
+NeurIPS arXiv
+Important Object Identification with Semi-Supervised Learning for Autonomous Driving
+2022 International Conference on Robotics and Automation (ICRA)
+J. Li*, H. Gang*, H. Ma, M. Tomizuka, and C. Choi
+IEEE arXiv
+Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting
+2022 International Conference on Robotics and Automation (ICRA)
+R. Zhou, H. Zhou, M. Tomizuka, J. Li*, and Z. Xu*
+IEEE arXiv
+Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments
+In IEEE/RSJ International Conference on Robotics and Systems (IROS), 2022.
+M. Toyungyernsub, E. Yel, J. Li, and M. J. Kochenderfer
+IEEE arXiv
+Multi-Objective Diverse Human Motion Prediction with Knowledge Distillation
+2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Oral)
+H. Ma, J. Li, R. Hosseini, M. Tomizuka and C. Choi
+CVPR Video
+Graph Q-Learning for Combinatorial Optimization
+Deep Reinforcement Learning Workshop, NeurIPS 2022
+V. Dax, J. Li, K. Leahy, and M. J. Kochenderfer
+OpenReview
+
+ 
+
+2021
+RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting
+2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+J. Li, F. Yang, H. Ma, S. Malla, M. Tomizuka, and C. Choi
+ICCV arXiv
+LOKI: Long Term and Key Intentions for Trajectory Prediction
+2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+H. Gang*, H. Girase*, S. Malla, J. Li, A. Kanehara, K. Mangalam, and C. Choi
+ICCV arXiv
+Shared Cross-Modal Trajectory Prediction for Autonomous Driving
+2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR Oral)
+C. Choi, J. H. Choi, J. Li, and S. Malla
+CVPR arXiv
+Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking
+IEEE Transactions on Intelligent Transportation Systems
+J. Li, H. Ma, Z. Zhang, J. Li, and M. Tomizuka
+IEEE arXiv
+Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory
+IEEE Robotics and Automation Letters (RA-L)
+H. Ma*, Y. Sun*, J. Li, M. Tomizuka, and C. Choi
+IEEE PDF
+Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships
+2021 International Conference on Robotics and Automation (ICRA)
+X. Ma, J. Li, MJ. Kochenderfer, D. Isele, and K. Fujimura
+IEEE arXiv
+Spectral Temporal Graph Neural Network for Trajectory Prediction
+2021 International Conference on Robotics and Automation (ICRA)
+D. Cao*, J. Li*, H. Ma, and M. Tomizuka
+IEEE arXiv
+Multi-agent Driving Behavior Prediction across Different Scenarios with Self-supervised Domain Knowledge
+2021 IEEE Intelligent Transportation Systems Conference (ITSC)
+H. Ma*, Y. Sun*, J. Li, and M. Tomizuka
+IEEE PDF
+Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks
+2021 IEEE Intelligent Transportation Systems Conference (ITSC)
+L. Wei, Z. Li, J. Gong, C. Gong, and J. Li
+IEEE arXiv
+Orientation-Aware Planning for Parallel Task Execution of Omni-Directional Mobile Robot
+2021 IEEE/RSJ International Conference on Robotics and Systems (IROS)
+C. Gong, X. Zhou, Z. Li, J. Li, J. Gong, and J. Zhou
+IEEE arXiv
+
+ 
+
+2020
+EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning
+In Proceedings of the Neural Information Processing Systems (NeurIPS) 2020.
+J. Li*, F. Yang*, M. Tomizuka, and C. Choi
+NeurIPS Website arXiv
+Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving
+IEEE Transactions on Intelligent Transportation Systems
+J. Li, W. Zhan, Y. Hu, and M. Tomizuka
+IEEE arXiv
+Social-WaGDAT: Interaction-Aware Trajectory Prediction via Wasserstein Graph Double-Attention Network
+arXiv preprint arXiv: 2002.06241
+J. Li, H. Ma, Z. Zhang, and M. Tomizuka
+arXiv
+
+ 
+
+2019
+Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning
+2019 IEEE International Conference on Robotics and Automation (ICRA)
+J. Li*, H. Ma*, and M. Tomizuka
+IEEE arXiv
+Conditional Generative Neural System for Probabilistic Trajectory Prediction
+2019 IEEE/RSJ International Conference on Robotics and Systems (IROS).
+J. Li, H. Ma, and M. Tomizuka
+IEEE arXiv
+Coordination and Trajectory Prediction for Vehicle Interactions via Bayesian Generative Modeling
+2019 IEEE Intelligent Vehicles Symposium (IV)
+J. Li, H. Ma, W. Zhan, and M. Tomizuka
+IEEE arXiv
+Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction
+2019 IEEE Intelligent Vehicles Symposium (IV)
+H. Ma, J. Li, W. Zhan, and M. Tomizuka
+IEEE
+
+ 
+
+2018
+Generic Probabilistic Interactive Situation Recognition and Prediction: From Virtual to Real
+2018 IEEE Intelligent Transportation Systems Conference (ITSC)
+J. Li, H. Ma, W. Zhan, and M. Tomizuka
+IEEE arXiv
+Towards a Fatality-Aware Benchmark of Probabilistic Reaction Prediction in Highly Interactive Driving Scenarios
+2018 IEEE Intelligent Transportation Systems Conference (ITSC)
+W. Zhan, L. Sun, Y. Hu, J. Li, and M. Tomizuka
+IEEE arXiv
+Generic Vehicle Tracking Framework Capable of Handling Occlusions Based on Modified Mixture Particle Filter
+2018 IEEE Intelligent Vehicles Symposium (IV) (Oral)
+J. Li, W. Zhan, and M. Tomizuka
+IEEE arXiv
+
+ 
+
+2017
+Safe and Feasible Motion Generation for Autonomous Driving via Constrained Policy Net
+2017 Annual Conference of the Industrial Electronics Society (IECON)
+W. Zhan, J. Li, Y. Hu, and M. Tomizuka
+IEEE
+
+ 
+
+2016
+A Novel Variable Selection Approach for Redundant Information Elimination Purpose of Process Control
+IEEE Transactions on Industrial Electronics
+J. Li, C. Duan, and Z. Fei
+IEEE
+Finite-time H∞ Control of Switched Systems with Mode-dependent Average Dwell Time
+Journal of the Franklin Institute
+S. Shi, Z. Fei, and J. Li
+ELSEVIER
+A Variable Selection Aided Residual Generator Design Approach for Process Control and Monitoring
+Neurocomputing
+C. Duan, Z. Fei, and J. Li
+ELSEVIER
+
+ 
+
+* indicates equal contribution/advising
+
+
+Academic Services
+Program Committee
+Lead-organizer and Co-organizer of Workshop at Advances in Neural Information Processing Systems (NeurIPS), 2021-2022
+Lead-organizer of Workshop at International Conference on Computer Vision (ICCV), 2021
+Co-organizer of Workshop at IEEE Conference on Robotics and Systems (IROS), 2021
+Co-organizer of Workshops at IEEE Intelligent Vehicles Symposium (IV), 2019, 2020, 2021
+Co-organizer of Workshop at IEEE Intelligent Transporation Systems Conference (ITSC), 2021
+Associate Editor at IEEE Intelligent Vehicles Symposium, 2020, 2021
+Program Committee of 4th Annual Learning for Dynamics & Control Conference, 2022
+Program Committee of Workshop on Cooperative AI at NeurIPS 2021
+Program Committee of Workshop on AI for Autonomous Driving at IJCAI 2021
+Journal Reviewer
+IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2022 -- Present
+Transactions of Machine Learning Research, 2022 -- Present
+IEEE Transactions of Industrial Informatics (T-II), 2022 -- Present
+Transportation Research Part C: Emerging Technologies, 2022 -- Present
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2020 -- Present
+IEEE Transactions on Robotics (T-RO), 2021 -- Present
+IEEE Robotics and Automation Letters (RA-L), 2021 -- Present
+IEEE Transactions on Vehicular Technology (T-VT), 2021 -- Present
+IEEE Intelligent Systems, 2021 -- Present
+Neurocomputing, 2021 -- Present
+Signal Processing, 2021 -- Present
+Neural Computation and Applications (NCAA), 2020 -- Present
+IEEE Transactions on Mechatronics (T-MECH), 2019 -- Present
+IEEE Transactions on Intelligent Vehicles (T-IV), 2018 -- Present
+IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2018 -- Present
+IEEE Transactions on Industrial Electronics (T-IE), 2017 -- Present
+Conference Reviewer
+AAAI Conference on Artificial Intelligence (AAAI), 2023
+Conference on Robot Learning (CoRL), 2022
+European Conference on Computer Vision (ECCV), 2022
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
+International Conference on Learning Representations (ICLR), 2022 -- 2023
+ACM International Conference on Information and Knowledge Management (CIKM), 2022
+International Conference on Computer Vision (ICCV), 2021
+Adcances in Neural Information Processing Systems (NeurIPS), 2020 -- 2021
+International Conference on Machine Learning (ICML), 2020 -- 2022
+IEEE International Conference on Robotics and Automation (ICRA), 2019 -- 2022
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019 -- 2022
+IEEE Intelligent Vehicles Symposium (IV), 2019 -- 2022
+IEEE Intelligent Transportation Systems Conference (ITSC), 2019 -- 2022
+IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021
+Research Mentoring
+Undergraduate students, 2019 -- Present
+Graduate students, 2020 -- Present
+Join My Lab
+
+I am currently seeking multiple highly motivated talents to join my laboratory as Ph.D. students (fully funded), master students, undergraduate students, or onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral scholars. If you are interested in working with me, please refer to my lab website for application instructions.
+
+Prospective students must also submit an application for a certain program on the UCR official website before the corresponding deadline. If you are applying for a Ph.D. program in the ECE or CSE departments, please indicate Prof. Jiachen Li as your prospective advisor in the Statement of Purpose.
+
+© Jiachen Li (04/2024)
+

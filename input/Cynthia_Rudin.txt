@@ -1,0 +1,82 @@
+Professor: Cynthia Rudin
+University: Duke University
+URL: https://users.cs.duke.edu/~cynthia/home.html
+Description: Cynthia Rudin
+Home
+Interpretable 
+ML Lab
+Papers
+Code
+Teaching
+Announcements 
+Media, Talks
+CV
+Personal
+	
+Cynthia Rudin
+ 	
+
+Cynthia Rudin
+Gilbert, Louis, and Edward Lehrman Distinguished Professor of Computer Science
+Departments of Computer Science, Electrical and Computer Engineering, Statistical Science, Mathematics, and Biostatistics & Bioinformatics
+PI, Interpretable Machine Learning Lab
+Duke University
+
+
+Office: LSRC D207
+Research Drive
+Durham NC, 27708 USA
+
+
+Research:
+
+My research focuses on machine learning tools that help humans make better decisions, mainly interpretable machine learning and its applications. We work on decision trees, sparse linear models and scoring systems, variable importance measures, causal inference methods, interpretable deep learning, dimension reduction, and methods that can incorporate domain-based constraints and other types of domain knowledge into machine learning. These techniques are applied to critical societal problems in healthcare, criminal justice and energy grid reliability, as well as to materials science and computer vision. Many of our interpretable machine learning algorithms heavily rely on efficient discrete optimization techniques. Here are some of my major projects:
+
+My collaborators and I developed practical code for decision lists, decision trees, and additive models that provably optimize accuracy and sparsity (NeurIPS 2022 oral, KDD 2017 oral, NeurIPS 2019 spotlight, ICML 2020, AAAI 2022).
+
+Our team's work on optimal scoring systems (sparse linear models with integer coefficients) has been applied to many important healthcare and criminal justice applications. Our work on seizure prediction in ICU patients won the 2019 INFORMS Innovative Applications in Analytics Award. It allowed doctors to monitor 2.8X more patients and saved over $6M at two major hospitals in FY2018. It helps to prevent severe brain damage in critically ill patients.
+
+I led a team in the first major effort to maintain an underground electrical distribution network using machine learning, in joint work with Con Edison in NYC. This won the 2013 INFORMS Innovative Applications in Analytics Award.
+
+My collaborators and I developed code for detecting crime series in cities. This methodology (specifically, the Series Finder algorithm) was developed in Cambridge MA and adapted by the NYPD and their application (Patternizr) has been running live in NYC since 2016 for determining whether each new crime is related to past crimes.
+
+I solved a well-known previously-unsolved theoretical problem in machine learning as a PhD student, which is whether AdaBoost maximizes the margin like SVM. (The answer is that sometimes it provably does and sometimes it provably doesn't.) Subsequent work solved a published COLT open problem, earning a prize.
+
+I have given invited and keynote talks at INFORMS, KDD (2014 and 2019), SDM, AISTATS, ECML-PKDD, Machine Learning in Healthcare, FAT-ML (Fairness, Accountability, and Transparency), the Nobel Conference, SPIE, the Conference on Statistical Practice, and at several other venues.
+
+I enjoy competing in data science competitions and coaching students of teams. My teams have won awards in several competitions, including the ASA Data Challenge Expo in 2022, FICO Recognition Award for the Explainable Machine Learning Competition in 2018, NTIRE Superresolution competition in 2018, and PoeTix Literary Turing Competition in 2018.
+
+I am one of three co-PIs of the Almost-Matching-Exactly Lab, which develops matching methods for use in interpretable causal inference.
+
+Major Awards:
+
+Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity, Association for the Advancement of Artificial Intelligence (AAAI), 2022. The most prestigious award in the field of artificial intelligence. Like the Nobel prize and Turing award, it carries a $1M prize.
+
+Guggenheim Fellowship, 2022.
+
+Best OM Paper in OR Award, INFORMS, 2021. For best operations management paper published in Operations Research.
+
+FICO Recognition Award for the Explainable Machine Learning Challenge, 2018
+
+INFORMS Innovative Applications in Analytics Award, 2019
+
+Daniel H. Wagner Prize Finalist, 2017
+
+INFORMS Innovative Applications in Analytics Award, 2016
+
+INFORMS Innovative Applications in Analytics Award, 2013 (link to one of my presentations)
+
+Many other best paper awards are listed with their associated papers here.
+
+Long Bio:
+
+Cynthia Rudin is the Gilbert, Louis, and Edward Lehrman Distinguished Professor of Computer Science at Duke University. She is a member of the Departments of Computer Science, Electrical and Computer Engineering, Statistical Science, Mathematics, and Biostatistics & Bioinformatics at Duke, and directs the Interpretable Machine Learning Lab. Previously, Prof. Rudin held positions at MIT, Columbia, and NYU. She holds an undergraduate degree from the University at Buffalo, and a PhD from Princeton University. She is the recipient of the 2022 Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity from the Association for the Advancement of Artificial Intelligence (AAAI). This award is the most prestigious award in the field of artificial intelligence. Similar only to world-renowned recognitions, such as the Nobel Prize and the Turing Award, it carries a monetary reward at the million-dollar level. Prof. Rudin is also a three-time winner of the INFORMS Innovative Applications in Analytics Award, was named as one of the “Top 40 Under 40” by Poets and Quants in 2015, and was named by Businessinsider.com as one of the 12 most impressive professors at MIT in 2015. She is a 2022 Guggenheim fellow, as well as a fellow of the American Statistical Association, the Institute of Mathematical Statistics, and AAAI.
+
+Prof. Rudin is past chair of both the INFORMS Data Mining Section and the Statistical Learning and Data Science Section of the American Statistical Association. She has also served on committees for DARPA, the National Institute of Justice, AAAI, and ACM SIGKDD. She has served on three committees for the National Academies of Sciences, Engineering and Medicine, including the Committee on Applied and Theoretical Statistics, the Committee on Law and Justice, and the Committee on Analytic Research Foundations for the Next-Generation Electric Grid. She has given keynote/invited talks at several conferences including KDD (twice), AISTATS, INFORMS, Machine Learning in Healthcare (MLHC), Fairness, Accountability and Transparency in Machine Learning (FAT-ML), ECML-PKDD, and the Nobel Conference. Her work has been featured in news outlets including the NY Times, Washington Post, Wall Street Journal, and Boston Globe.
+
+Short Bio:
+
+Cynthia Rudin is the Gilbert, Louis, and Edward Lehrman Distinguished Professor of Computer Science at Duke University. She directs the Interpretable Machine Learning Lab, and her goal is to design predictive models that people can understand. Her lab applies machine learning in many areas, such as healthcare, criminal justice, and energy reliability. She holds degrees from the University at Buffalo and Princeton. She is the recipient of the 2022 Squirrel AI Award for Artificial Intelligence for the Benefit of Humanity from the Association for the Advancement of Artificial Intelligence (the “Nobel Prize of AI”). She received a 2022 Guggenheim fellowship, and is a fellow of the American Statistical Association, the Institute of Mathematical Statistics, and the Association for the Advancement of Artificial Intelligence.
+
+Page generated 2024-06-22, by jemdoc+MathJax.
+

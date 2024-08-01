@@ -1,0 +1,90 @@
+Professor: Yang Liu 0018
+University: Univ. of California - Santa Cruz
+URL: http://www.yliuu.com/
+Description: Yang Liu
+Home Publications People Teaching CV
+Contact
+
+Assistant Professor
+
+Computer Science and Engineering
+
+University of California, Santa Cruz
+
+Email: yangliu@ucsc.edu
+
+Office: E2-341A
+
+About Me
+
+I’m an Assistant Professor of Computer Science and Engineering at UC Santa Cruz (currently on leave from UCSC and leading the Responsible AI team at ByteDance). My research interests are data-centric machine learning and trustworthy machine learning. The central question associated with my work is learning from dynamic, biased and noisy data.
+
+Previously I was holding a postdoctoral fellow position at Harvard University. I have a Ph.D. from the University of Michigan, Ann Arbor and a B.Sc. from Shanghai Jiao Tong University, China.
+
+My research is generously supported by the National Science Foundation (by their CORE, FAI, CAREER and TRIPOS programs), Office of Naval Research (Basic AI Research), Amazon, UC Santa Cruz and CROSS. I was partially supported by the DARPA SCORE program.
+
+Pinned
+
+[REAL@UCSC] Our group’s research results are disseminated at https://github.com/UCSC-REAL.
+
+[Opensource] docta.ai is online. This is a library to help you understand and curate your data.
+
+[Datasets] noisylabels.com is online. This is the CIFAR data companioned with noisy human annotations which we collected from MTurk.
+
+Recent News
+[2023.04] Invited to give an IJCAI 2023 Early Career Spotlight talk.
+[2023.04] We will be delivering a hands-on (we will primarily use jupyter notebook examples) tutorial on learning with noisy labels at IJCAI 2023. Stay tuned!
+[2023.04] We will be organizing the Data-centric Machine Learning Research (DMLR) workshop at ICML 2023. Parallelly we will launch a new journal DMLR. Stay tuned!
+Recent papers
+
+[2024.02] We have 5 papers accepted to ICLR 2024, including two spotlight selections!
+
+[2024.01] We have 4 papers accepted to AAAI 2024, including two oral selections!
+
+[2023.10] We have released a preprint on Large Language Model Unlearning. In this paper, we proposed a solution to teach a large language model to “forget” certain undesired training data, including data that represents harmful concept & bias, copyright-protected contents , and user privacy or other policy violation.
+
+[2023.10] We have released a preprint on Trustworthy Large Language Model. In this paper, we identify the major dimensions of consideration for building a trustworthy LLM.
+
+[2023.10] We have 3 papers accepted to NeurIPS 2023.
+
+[2023.05] We have 2 papers accepted to KDD 2023. In our learning from multiple labels paper, we show using a soft label summarized from multiple noisy labels can be a better alternative than aggregating them (naively or smartly). In our second paper, we provide a way to debias hidden confounders in recommendation systems - preprint coming soon.
+
+[2023.05] We have 2 papers accepted to AIES 2023. We show how to provide user-guided recourse to agents, as well as that improving robustness of a model does not necessarily incur additional recourse cost if done in the right way. Preprints coming soon.
+
+[2023.04] We have 3 papers accepted to ICML 2023. The papers covered topics on using proper and ethical proxies for fairness evaluations, how model transfers when itself induces distribution shift, and identifiability of label noise.
+
+[2023.04] Our paper Incentivizing Recourse through Auditing in Strategic Classification is accepted to IJCAI 2023! We develop an auditing mechanism to incentivize strategic agents to take improving actions to gain recourse other than manipulating an algorithmic system.
+
+[2023.04] Our paper Group-Fair Classification with Strategic Agents is accepted to FAccT 2023! Why is a trained-to-be fair classifier appearing to be unfair when deployed? We provide a thorough analysis in the paper.
+
+[2023.01] We have 3 papers accepted to ICLR 2023. The papers covered topics on causal perspectives on long-term fairness, learning from noisy labels via representation regularization, and learning with prior shift. Details coming soon!
+
+Recent awards
+
+[2023.05] Our preprint Long-Term Fairness with Unknown Dynamics provides a reinforcement learning solution for achieving long-term fairness when we do not know the user-model interaction dynamics. This paper is selected as a highlight paper and the Best paper runner-up at ICLR 2023 Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models.
+
+[2022.07] Our paper Model Transferability with Responsive Decision Subjects won the Best paper award at ICML 2022 workshop on New Frontiers in Adversarial Machine Learning.
+
+[2022.07] Our paper Unfairness Despite Awareness: Group-Fair Classification with Strategic Agents is awarded the Best paper award at AAMAS 2022 Workshop on Learning with Strategic Agents (LSA).
+
+[2022.02] I have received the NSF CAREER award. Details: here. Thank you NSF!
+
+Invited talks
+
+[2022.11] Agency Bias in Machine Learning@USC ML Seminar.
+
+[2022.11] Agency Bias in Machine Learning@UW ECE Colloquium.
+
+[2022.11] Fairness in Machine Learning when Agents Respond@Brandeis University CS Colloquium.
+
+[2022.11] Learning from Noisy Labels without Knowing Noise Rates@UMich CSP Seminar.
+
+[2022.10] Learning from Noisy Labels without Knowing Noise Rates@IDEAL, Northwestern
+
+[2022.08] The Matthew Effect When Learning from Weak Supervisions@RIKEN.
+
+ 
+
+Twitter LinkedIn Google Scholar
+01/21/2024
+

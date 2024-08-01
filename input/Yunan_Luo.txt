@@ -1,0 +1,157 @@
+Professor: Yunan Luo
+University: Georgia Institute of Technology
+URL: https://faculty.cc.gatech.edu/~yunan
+Description: About
+(current)
+Team
+Yunan Luo
+
+Assistant Professor
+Computational Science and Engineering
+Georgia Institute of Technology
+
+Email: yunan [at] gatech.edu
+Office: CODA S1245
+Address: 756 W Peachtree St NW, Atlanta, GA 30308
+
+I am an Assistant Professor in the School of Computational Science and Engineering (CSE), Georgia Institute of Technology since January 2022. I received my PhD in 2021 from the Department of Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. Jian Peng. Prior to that, I received my bachelor’s degree in Computer Science from Yao Class at Tsinghua University in 2016.
+
+I am broadly interested in computational biology and machine learning, with a focus on developing AI and data science methods to reveal core scientific insights into biology and medicine. Recent interests include machine learning, geometric deep learning, generative models, network and system biology, functional genomics, cancer genomics, drug repositioning and discovery, and AI-guided protein engineering.
+
+Recent News
+[2023/12] Our paper on contrastive fitness learning accpeted by RECOMB 2024.
+[2023/11] KDBNet paper published in Nature Machine Intelligence.
+[2023/09] Received an Azure grant from Microsoft’s Accelerating Foundation Models Research Initiative.
+[2023/09] We received the NIH MIRA award!
+[2023/09] We received the Seed Grant Award from the NSF AI Institute MMLI.
+[2023/04] We received the Amazon Research Award.
+[2023/04] One paper on network alignment accepted to ISMB 2023.
+[2023/03] Our enzyme function prediction paper published at Science!
+Selected Awards
+NIH Maximizing Investigators’ Research Award (MIRA) (R35 for ESI), 2023
+Top-10 Reviewer Award, LOG Conference, 2023
+Amazon Research Award, 2022
+Top-20 Reviewer Award, LOG Conference, 2022
+Teaching
+CSE7850/CX4803, Machine Learning for Computational Biology, Spring 2024
+CSE8803 MLG, Machine Learning with Graphs, Fall 2023
+CSE8803/CX4803, Machine Learning for Computational Biology, Spring 2023
+CSE8803/CX4803, Machine Learning for Computational Biology, Spring 2022 (with Xiuwei Zhang)
+Papers
+
+[Google Scholar]
+
+(*=equal contribution)
+
+FAFE: Immune Complex Modeling with Geodesic Distance Loss on Noisy Group Frames
+Ruidong Wu, Ruihan Guo, Rui Wang, Shitong Luo, Yue Xu, Jiahan Li, Jianzhu Ma, Qiang Liu, Yunan Luo, and Jian Peng
+ICML, 2024 (Spotlight)
+PDF
+Leveraging conformal prediction to annotate enzyme function space with limited false positives
+Kerr Ding, Jiaqi Luo, and Yunan Luo
+PLOS Computational Biology, 2024
+Contrastive Fitness Learning: Reprogramming Protein Language Models for Low-N Learning of Protein Fitness Landscape
+Junming Zhao, Chao Zhang, and Yunan Luo
+RECOMB, 2024
+BIORXIV
+Calibrated geometric deep learning improves kinase-drug binding predictions
+Yunan Luo, Yang Liu, and Jian Peng
+Nature Machine Intelligence, 2023
+PDF
+LinkerNet: Fragment Poses and Linker Co-Design with 3D Equivariant Diffusion
+Jiaqi Guan, Xingang Peng, PeiQi Jiang, Yunan Luo, Jian Peng, and Jianzhu Ma
+NeurIPS, 2023 (Spotlight)
+Supervised biological network alignment with graph neural networks
+Kerr Ding, Sheng Wang, and Yunan Luo
+ISMB, 2023
+Metabolic activity organizes olfactory representations
+Wesley W Qian, Jennifer N Wei, Benjamin Sanchez-Lengeling, Brian K Lee, Yunan Luo, Marnix Vlot, Koen Dechering, Jian Peng, Richard C Gerkin, and Alexander B Wiltschko
+eLife, 2023
+Enzyme function prediction using contrastive learning
+Tianhao Yu, Haiyang Cui, Jianan Li, Yunan Luo, Guangde Jiang, and Huimin Zhao
+Science, 2023
+Sensing the shape of functional proteins with topology
+Yunan Luo
+Nature Computational Science, 2023 (News & Views)
+PDF
+Interpretable Geometric Deep Learning via Learnable Randomness Injection
+Siqi Miao, Yunan Luo, Mia Liu, and Pan Li
+ICLR, 2023
+Contrastive learning of protein representations with graph neural networks for structural and functional annotations
+Jiaqi Luo, and Yunan Luo
+PSB, 2023
+Next Decade’s AI-Based Drug Development Features Tight Integration of Data and Computation
+Yunan Luo, Jian Peng, and Jianzhu Ma
+Health Data Science, 2022 (Perspective)
+scPretrain: multi-task self-supervised learning for cell-type classification
+Ruiyi Zhang, Yunan Luo, Jianzhu Ma, Ming Zhang, and Sheng Wang
+Bioinformatics, 2022
+ECNet is an evolutionary context-integrated deep learning framework for protein engineering
+Yunan Luo*, Guangde Jiang*, Tianhao Yu, Yang Liu, Lam Vo, Hantian Ding, Yufeng Su, Wesley Wei Qian, Huimin Zhao, and Jian Peng
+Nature Communications, 2021
+Deep geometric representations for modeling effects of mutations on protein-protein binding affinity
+Xianggen Liu, Yunan Luo, Pengyong Li, Sen Song, and Jian Peng
+PLoS computational biology, 2021
+Few-shot learning creates predictive models of drug response that translate from high-throughput screens to individual patients
+Jianzhu Ma, Samson H. Fong, Yunan Luo, Christopher J. Bakkenist, John Paul Shen, Soufiane Mourragui, Lodewyk F. A. Wessels, Marc Hafner, Roded Sharan, Jian Peng, and Trey Ideker
+Nature Cancer, 2021
+Crowdsourced mapping of unexplored target space of kinase inhibitors
+Anna Cichońska, and Others (including Yunan Luo in the challenge-winning team)
+Nature Communications, 2021
+An integrative drug repositioning framework discovered a potential therapeutic agent targeting COVID-19
+Yiyue Ge, Tingzhong Tian, Suling Huang, Fangping Wan, Jingxin Li, Shuya Li, Xiaoting Wang, Hui Yang, Lixiang Hong, Nian Wu, Enming Yuan, Yunan Luo, Lili Cheng, Chengliang Hu, Yipin Lei, Hantao Shu, Xiaolong Feng, Ziyuan Jiang, Yunfu Wu, Ying Chi, Xiling Guo, Lunbiao Cui, Liang Xiao, Zeng Li, Chunhao Yang, Zehong Miao, Ligong Chen, Haitao Li, Hainian Zeng, Dan Zhao, Fengcai Zhu, Xiaokun Shen, and Jianyang Zeng
+Signal Transduction and Targeted Therapy, 2021
+Evolutionary context-integrated deep sequence modeling for protein engineering
+Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao, and Jian Peng
+RECOMB, 2020
+Characterization of SARS-CoV-2 viral diversity within and across hosts
+Palash Sashittal*, Yunan Luo*, Jian Peng, and Mohammed El-Kebir
+bioRxiv:2020.05.07.083410, 2020
+STAIR 2.0: A Generic and Automatic Algorithm to Fuse Modis, Landsat, and Sentinel-2 to Generate 10 m, Daily, and Cloud-/Gap-Free Surface Reflectance Product
+Yunan Luo, Kaiyu Guan, Jian Peng, Sibo Wang, and Yizhi Huang
+Remote Sensing, 2020
+When causal inference meets deep learning
+Yunan Luo, Jian Peng, and Jianzhu Ma
+Nature Machine Intelligence, 2020 (News & Views)
+PDF
+Deriving high-spatiotemporal-resolution leaf area index for agroecosystems in the U.S. Corn Belt using Planet Labs CubeSat and STAIR fusion data
+Hyungsuk Kimm, Kaiyu Guan, Chongya Jiang, Bin Peng, Laura F. Gentry, Scott C. Wilkin, Sibo Wang, Yaping Cai, Carl J. Bernacchi, Jian Peng, and Yunan Luo
+Remote Sensing of Environment, 2020
+Integrating Deep Neural Networks and Symbolic Inference for Organic Reactivity Prediction
+Wesley Wei Qian, Nathan T. Russell, Claire L. W. Simons, Yunan Luo, Martin D. Burke, and Jian Peng
+chemRxiv:11659563, 2020
+Sequence Modeling of Temporal Credit Assignment for Episodic Reinforcement Learning
+Yang Liu, Yunan Luo, Yuanyi Zhong, X. Chen, Qiang Liu, and Jian Peng
+arXiv:1905.13420, 2019
+DeepMask: An algorithm for cloud and cloud shadow detection in optical satellite remote sensing images using deep residual network
+Ke Xu, Kaiyu Guan, Jian Peng, Yunan Luo, and Sibo Wang
+arXiv:1911.03607, 2019
+Integrating thermodynamic and sequence contexts improves protein-RNA binding prediction
+Yufeng Su*, Yunan Luo*, Xiaoming Zhao, Yang Liu, and Jian Peng
+PLoS computational biology, 2019 (Presented at GLBIO’19)
+Mitigating Data Scarcity in Protein Binding Prediction Using Meta-Learning
+Yunan Luo*, Jianzhu Ma*, Xiaoming Zhao, Yufeng Su, Yang Liu, Trey Ideker, and Jian Peng
+RECOMB, 2019
+Metagenomic binning through low-density hashing
+Yunan Luo*, Yun William Yu*, Jianyang Zeng, Bonnie Berger, and Jian Peng
+Bioinformatics, 2018
+STAIR: A generic and fully-automated method to fuse multiple sources of optical satellite data to generate a high-resolution, daily and cloud-/gap-free surface reflectance product
+Yunan Luo, Kaiyu Guan, and Jian Peng
+Remote Sensing of Environment, 2018
+Deciphering Signaling Specificity with Deep Neural Networks
+Yunan Luo*, Jianzhu Ma*, Yang Liu, Qing Ye, Trey Ideker, and Jian Peng
+RECOMB, 2018
+Large-scale integration of heterogeneous pharmacogenomic data for identifying drug mechanism of action
+Yunan Luo, Sheng Wang, Jinfeng Xiao, and Jian Peng
+PSB, 2018
+A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information
+Yunan Luo*, Xinbin Zhao*, Jingtian Zhou*, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen, and Jianyang Zeng
+Nature communications, 2017 (Extended version of the RECOMB’17 paper)
+A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information
+Yunan Luo*, Xinbin Zhao*, Jingtian Zhou*, Jinglin Yang, Yanqing Zhang, Wenhua Kuang, Jian Peng, Ligong Chen, and Jianyang Zeng
+RECOMB, 2017
+Low-density locality-sensitive hashing boosts metagenomic binning
+Yunan Luo, Jianyang Zeng, Bonnie Berger, and Jian Peng
+RECOMB, 2016
+© Copyright 2024 Yunan Luo. Powered by Jekyll with al-folio theme.
+

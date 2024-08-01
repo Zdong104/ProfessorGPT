@@ -1,0 +1,313 @@
+Professor: Philip Resnik
+University: University of Maryland - College Park
+URL: http://www.umiacs.umd.edu/~resnik
+Description:  Philip Resnik
+Contact/Meetings | Research | Bio | Publications | Students | Activities | Personal | Courses | Colloquium | Links | Lab pages
+
+ |  | 
+
+===> FAQ for prospective advisees/applicants <===
+For undergrads: How to email a professor
+
+Research Interests
+List of publications (or see my Google Scholar profile)
+List of current and former students and other advisees
+Going in the other direction, my academic geneology
+Some thoughts on research and social impact
+Interesting notes on how a computer scientist thinks
+
+Overview. I do research in computational linguistics, with interests in the application of natural language processing techniques to practical problems and the modeling of human linguistic processes. My general research agenda for language technology is to improve the state of the art by finding the right balance between data driven statistical modeling and the use of linguistic and expert domain knowledge, with the larger goal of obtaining a better scientific understanding of human language itself.
+
+I recently came across a quote I really liked in Odalisque, a book by one of my favorite authors, Neal Stephenson: "Fame is a weed, but repute is a small, growing oak, and all we can do during our lifetimes is hop around like squirrels and plant acorns." That's what we do, plant acorns. Students, ideas, things we write or program. With luck, who knows, some may grow into tall trees, and others with luck will at least provide a little nourishment to fellow squirrels who encounter them.
+
+Current work. My current research is situated in two main areas.
+Computational social science. (Why? See my discussion of research and social impact.) The key question I'm exploring: what can the signal available in language use tell us about underlying mental aspects of the speaker/author, such as their ideology, emotional state, or the presence of mental disorders? My earlier work in this area has included topics such as sentiment analysis, persuasion, framing, and "spin", with interests in connections among lexical semantics, surface linguistic expression, and underlying internal state, as well as applications of unsupervised and semisupervised methods. These days from a linguistics perspective I'm less focused on lexical semantics, and more focused on computational pragmatics. From a methods perspective, I retain a longstanding interest in topic models, because of those models' interpretability and their ability to incorporate pre-existing knowledge as informative priors, plus like anyone else I'm interested in large language models -- though only as a useful tool, not as some grand answer to the question of how to achieve AI. (Although it may rapidly go out of date, to get some idea of my views see this 2023 talk to a lay audience on what they should know about ChatGPT.)
+
+A primary application focus for me these days involves applying computational models to the identification of linguistic signal related to mental health. See my page about research and social impact for discussion and for a good overview of my angle on this see my invited talk, Analyzing social media for suicide risk using natural language processing (~30min), at the AWS Machine Learning Summit; my article with suicide prevention experts also helps to situate what I do in its broader context. In addition to suicidology, a primary area of research in collaboration with computational and medical school colleagues involves computational methods for identifying signal related to depression and schizophrenia; you, dear reader, are invited to contribute data to this effort here.
+
+In addition to research on computational methods, I've been trying hard to make progress on the ability of the wider computational community to work with sensitive mental health data, including creation of the The University of Maryland Reddit Suicidality Dataset, development of The UMD/NORC Mental Health Data Enclave (a joint project with NORC at the University of Chicago sponsored in part by an Amazon AWS Machine Learning Research Award), and serving as co-founder and multiple-time organizer for the Workshops on Computational Linguistics and Clinical Psychology (CLPsych). Many of those pieces were brought together in the 2021 CLPsych Shared Task, where teams worked on prediction of suicide attempts using sensitive social media data within the UMD/NORC enclave. I also serve on the Scientific Advisory Committee for the Coleridge Initiative, a non-profit focused on data-driven policy decision-making, often involving sensitive data.
+
+The other main area in which I'm applying these ideas is computational political science -- again see discussion on my page about research and social impact, and also take a look at some of my previous research. Recently, I was engaged in work with students Alexander Hoyle, Pranav Goel, and Rupak Sarkar, and collaborator Kris Miler and SoRelle Gaynor, on co-decisions, with the goal of using computational methods to better understand when and for what reasons individuals make the same versus different decisions.
+
+With the same students I also recently engaged in an NSF RAPID project focused on improving topic modeling methods for analysis of open-ended survey responses, with the more general and ambitious goal of revolutionizing survey methodology by making open-ends a first-class citizen in survey research. This work was tightly connected to the COVID-19 pandemic: it involved collaborating on COVID-related survey research using computational techniques with folks at CDC National Center for National Center for Healthcare Statistics, the Pandemic Crisis Response Coalition, NYU School of Nursing, and others. These days it has evolved into collaboration Frauke Kreuter and folks connected with UMD's Joint Program in Survey Methodology.
+
+Computational psycholinguistics and neurolinguistics. Over the past five years or so, I have been re-engaging more and more fully with my longstanding interests in computational approaches to cognitive questions, including psycholinguistics and more recently the computational neuroscience of language. During my 2018-2019 sabbatical, I began getting up to speed on interests in computational cognitive neuroscience and in Fall 2019 I began working with postdoc Shohini Bhattasali on applying computational models to neuroimaging data in order to better understand the physical basis of language comprehension and contextual influences on language (mis)understanding, in the context of a MURI project involving document understanding(Shohini is now on the Linguistics faculty at University of Toronto). I also collaborated with Christian Brodbeck (along with Ellen Lau and Jonathan Simon) on neural representations of continuous speech and linguistic context, using computational models as a way of expressing cognitive hypotheses. I'm excited that these lines of work have begun to produce some interesting results, e.g. see here for recent work where Shohini and I introduced a new predictive measure, topical surprisal, and used it in an fMRI to map the neural bases of broad and local contextual prediction during natural language comprehension. Right now I'm excited about new work with undergrad Chiebuka Ohams taking a serious look at predictive coding models and sentence understanding.
+
+On the psycholinguistics side, I have long been interested in sentence processing and particularly the interaction of top-down prediction and bottom-up evidence; my paper on left-corner parsing and psychological plausibility is an early example. As I've ramped back up in psycholinguistics, my work has involved looking at the interactions between syntactically mediated compositional processes and broader context, for which vector space representations (yes, including "deep learning", see below) offer some interesting modeling tools. Some initial papers related to this line of work include Ettinger, Phillips, and Resnik, Modeling N400 amplitude using vector space models of word representation (CogSci 2016) and Ettinger, Resnik, and Carpuat, Retrofitting sense-specific word vectors using parallel text (NAACL 2016). I also remain quite interested in the ways that ideas from (statistical) information theory may have a useful role to play in explaining why language works the way it does. (This is an idea I first began exploring in my dissertation [ps, pdf], back in 1993, and in following years a variety of people like John Hale, Roger Levy, and Florian Jaeger, among others, have done very interesting work in the same spirit.) My psycholinguistics interests have led to interesting, more recent collaboration with my colleague Colin Phillips and his student Hanna Muller, and Colin and I are now co-advising Linguistics PhD student Sathvik Nair, who's been doing some really interesting work on surprisal and reading-time data, plus some recent, very important work looking at whether the non-cognitive tokenization schemes widely used in large language models might be problematic when these models are used in cognitively oriented research; EMNLP Findings paper here. (Also: folks who are interested in computational models and psycholinguistics should also be talking with Naomi Feldman.)
+
+Finally, I believe there are interesting ways to connect these cognitive modeling interests together with more application-oriented interests and particularly the computational social science interests discussed above. For a very big-picture look at how I'm thinking about this, take a look at my invited talk, Beyond Facts: The Problem of Framing in Assessing What is True, at the 2020 Fact Extraction and Verification workshop (FEVER 3).
+
+Some additional areas of interest include:
+
+Deep learning and LLMs. I debated whether to include this here, because frankly I believe there is a ton of hype, many people got excited about so-called "deep learning" (a better term coined by Noah Smith is squash networks) for the wrong reasons, and with the advent of large language models the problem has only gotten worse. That said, it's practically impossible to get away from this topic, and I'm supervising students who do things with these models, so let me say what I do find interesting about this line of work. First, notwithstanding the hype, LLMs are creating a renewed energy around fundamental scientific questions in AI that I care about, including the nature of cognitive representations, computational models of human sentence processing (see discussion of psycho- and neurolinguistics above), and the nature of the interactions between human/prior knowledge and knowledge acquired inductively from data. Second, the generative nature of LLMs makes it possible to develop new ways of exposing and using implicit information that is behind explicitly communicated information (see mention of computational pragmatics above and this EMNLP 2023 paper for some recent work I'm very excited about). Third, in-context zero- or few-shot learning is an exciting new way to develop practical tools with astonishingly small amounts of training data, as long as you don't get sucked into all the hype. Fourth... Actually, that's about all that comes immediately to mind. :) In particular, there are legimate "Sciences of the Artificial" scientific questions to be asked about LLMs, but I'm not really interested in LLMs themselves as an object of study -- for example, questions about whether LLMs possess particular cognition-related abilities and how they accomplish cognition-like tasks leave me cold unless the answers either serve practical purposes or also clearly tell us something about human cognition. Given all that, I'd say that if you're a prospective student and you believe LLMs could be interesting in your research, be prepared to show me that you've thought about why they should interest us!
+
+Clinical informatics. Since about 1999 I've been involved in natural language processing for clinical documentation. I helped start up CodeRyte, Inc., which became the nation's fastest growing provider of NLP solutions in healthcare (showing up in Deloitte's Technology Fast 500 and the Inc. 5000 listings); the company was acquired in April 2012 by 3M Health Information Systems. I developed major pieces of the core technology, helped build an excellent language technology team, and I continued for a number of years after the acquisition to advise on technology development and strategic direction. Somewhere along the way, much to my surprise, I was listed at #82 on the Future Health 100, a list of "the most creative and influential innovators working in healthcare today" at healthspottr.com.
+
+I don't do a great deal of academic research myself on medical records, largely for reasons having to do with limited access to clinical data. The long-term crisis in data access for language-technology research on clinical data is the subject of what my wife calls my "Data Rant", which I have delivered for years in talks at venues including SXSW, the VA, NIH, and the National Academies. I've more or less given up on the idea of legal or policy changes that could help solve this problem, and instead I've been turning my attention to secure data enclaves as an alternative solution, the idea being to bring researchers to the data rather than disseminating the data out to researchers. This is the focus of the NORC/UMD Mental Health Data Enclave project. That said, I have recently begun collaborating with Katherine Goodman at the School of Medicine, who focuses on epidemiology and public health; we are working on applying machine learning and other prediction model approaches in electronic health records, currently with a focus on predicting whether patients are likely to be carrying antibiotic-resistant bacterial infections.
+
+See my on-line list of publications for links to papers on the above research topics and more.
+
+Entrepreneurship. Outside academia, I've been involved in technology entrepreneurship for many years.
+
+I was a technical co-founder of CodeRyte, which provided NLP for electronic health records (acquired for $150M by 3M Health Information Systems in 2012)
+I co-founded Thematically, which provided a human-in-the-loop solution for efficient and reliable identification of thematic categories in text (technology platform acquired by SoloSegment in 2020)
+I founded React Labs, which made a go at commercializing work with political science collabortors on mobile real-time responses for improved measurement and engagement. [archived info]
+From early on in its existence, I have been an advisor to FiscalNote, a company with strong Maryland ties that went public with a $1.2bn valuation in 2022. My PhD grad Vlad Eidelman is FiscalNote's CTO and Chief Scientist.
+I spearheaded development of the sentiment/emotion platform for Converseon Inc., a leading provider for social listening and voice-of-customer analytics.
+
+I'm also on the advisory boards of the Coleridge Initiative and NORC, two non-profits focused on data-driven social research serving government and public agencies.
+
+Professional History
+I am (since September 1996) a member of the Linguistics faculty at the University of Maryland, College Park, with a 50-50 joint appointment at the University of Maryland Institute for Advanced Computer Studies (UMIACS). My official title is MPower Professor. I am also an affiliate professor in the Department of Computer Science.
+
+In 2022 I was designated MPower Professor, as part of the University of Maryland MPower Strategic Partnership. MPower recognizes and fosters collaboration between UMD College Park and the University of Maryland Baltimore, and this designation is in connection with my collaborations at the School of Medicine.
+
+I spent academic year 2011-2012 focusing primarily on the development of a new mobile and highly scalable approach to collecting real-time responses, motivated largely by the desire to obtain accurate and high quality data to people's reactions to framing in political discourse. This led to data collection of real-time responses from thousands of viewers watching the Obama/Romney debates in Fall 2012 and to the creation of React Labs, a company commercializing the technology.
+
+I spent academic year 2003-2004 on sabbatical at Johns Hopkins University, focusing on machine translation and on some interesting work related to child language acquisition.
+
+I spent parts of May and August 2001 as a visiting researcher at the spoken language processing group of LIMSI-CNRS (Orsay, near Paris), working with Patrick Paroubek on automatic processing of medical research articles to help identify synonymous gene identifiers.
+
+I spent January 2000 as a visiting professor in Linguistics at the University of Paris 7.
+
+After finishing my doctorate I spent 3 years as a research scientist at Sun Microsystems Laboratories, near Boston, Massachusetts. Arriving at Sun Labs in October 1993, I spent much of my time there working on the Conceptual Indexing project (which got a nice writeup in the April 1996 issue of The Atlantic Monthly). I also started up a project looking at multilingual issues on the World Wide Web, in collaboration with Gary Adams. One result of this was United States Patent 6,615,168 awarded to Resnik, et al., September 2, 2003: Multilingual agent for use in computer systems.
+
+I did my Ph.D. in Computer and Information Science at the University of Pennsylvania. I spent most of my time at Penn at the Institute for Research in Cognitive Science (IRCS), a truly wonderful interdisciplinary environment. My dissertation received the 1994 Rubinoff Award.
+
+I spent the summer of 1991 working at IBM's T.J. Watson Research Center, resulting in my being included as co-inventor on Patent 5,267,345, issued November 30, 1993, "Speech recognition apparatus which predicts word classes from context and words from word classes", with co-inventors Peter Brown, Stephen Della Pietra, Vincent Della Pietra, Robert Mercer, and Stanley Chen. (Not long after that, all the co-inventors except Stan Chen moved on from language technology to rather greener pastures.
+
+Before going back for my Ph.D. at Penn, I worked for two years as a research scientist at Bolt Beranek and Newman (BBN) in the area of language understanding.
+
+And before BBN, I was an undergraduate at Harvard (class of '87), where I concentrated in Computer Science.
+Professional Activities
+
+I co-founded and continue to be involved in organizing the Workshops on Computational Linguistics and Clinical Psychology.
+
+I am a member of the Technology and Innovation committee for the American Association of Suicidology.
+
+I am a member of the National Opinion Research Center (NORC) Advisory Committee on Statistics, Machine Learning, and High Performance Computing.
+
+I recently completed a two year term on the board of the North American Chapter of the Association for Computational Linguistics.
+
+I have served several times as Director of the University of Maryland Computational Linguistics and Information Processing (CLIP) Laboratory.
+
+For several years, I served as the UMD Linguistics Department's undergraduate advisor. That role is now being filled ably by Dr. Tonia Bleam (tbleam _AT_ umd *DOT* edu). Linguistics undergrads with advising questions should see the Linguistics Undergraduate Advising FAQ for answers to many common questions.
+
+I have served on the editorial boards of Linguistic Issues in Language Technology, Cognitive Linguistics from January 2005 to December 2006, Computational Linguistics from 1998-2000, Cognition from 1994-2004, and Computers and the Humanities from 1997 to 2005.
+
+I have been an occasional contributor to Language Log.
+
+I helped instigate the SENSEVAL evaluations for word sense disambiguation, which evolved into SEMEVAL.
+
+Why Work on Machine Translation?
+See also a more recently written followup: Why I Stopped Working on Machine Translation.
+
+Why Do We Teach?
+
+The Rest
+First on the list of important things in my life would have to be my family: Ben (that's a current place to go; and here's a home page he created many years ago, preserved for sentimental reasons), my incredibly wonderful wife, Rebecca (who is, among other accomplishments, founder and director of Rebecca Resnik and Associates), and our sons Harry and Jay, not to mention Delilah and Remy. (We also have fond memories of Annie.)
+
+I am, believe it or not (sometimes I don't), a Sunday school music teacher, at Beth Chai, the The Greater Washington Jewish Humanist Congregation. Beth Chai is a lovely community of people from all over the D.C. area. (Short summary of the congregation's approach, as an equation: Humanistic_Judaism = Judaism — Supernatural.)
+
+During a wonderful several years of exercising consistently, I worked my way up to an advanced brown belt in Thai Kickboxing. (Just in case the Sunday School approach doesn't solve all my problems, you know? :->) I learned many challenging moves. I got back to it after a several year hiatus, and then managed to do some bad things to my knees that the kickboxing aggravated. Sadly, a return to kickboxing is not in the cards, and a transition to running stopped when my knees stopped cooperating. These days I row (indoors), bike, and I play ultimate frisbee on the weekends whenever I can at a pick-up game where my devilish cleverness and awesome field sense make up for the fact that I mostly walk rather than run (or at least it's a pick-up game where the other folks are willing to put up with me in that regard). What's pretty cool these days is that Harry and Jay play also.
+
+In 2000 I became a homeowner. Eeek! Then in 2006 we moved to a new house (and spent quite a while trying to sell the old one, sigh, though it ended happily). To get an idea what the joys of home ownership are like, take a look at my Home Problem Solving page, though note that it's no longer maintained actively and hasn't been for a really long time.
+
+Other goings on... I've been interested in swing and ballroom dance since taking some classes at MIT and even, once upon a time, competing at the Fifth Annual Harvard Ballroom Dance Team Invitational Competition. (Newcomer category, made the quarter finals in East coast swing and managed not to embarass either my partner or myself at tango and foxtrot.) Here's a probably outdated, somewhat personalized list of useful dancing sites in the D.C. area created before Harry and Jay were born, when having a handy list of dancing sites was connected with actually going out dancing. That's another thing I'm hoping we'll get back to at some point...
+
+I came across an old dance acquaintance on the Web, helping illustrate why I like lindyhop. :-)
+
+In 1986 I sang at the 40th anniversary concert of the Harvard Krokodiloes, a 12-man a capella singing group founded in 1946 of which I am an alumnus. I've also sung at the 50th anniversary concert, the 60th, and I sang in the Kroks' 70th anniversary concert, too. Boy, all that time sure goes by fast.
+
+Once upon a time I took a rather interesting trip with Doug Oard to New Orleans for Mardi Gras, and wrote up some of my adventures.
+
+Check out artist Janet Echelman's Web page. I'm pleased to have helped put together her original, very first page, years ago in the dark ages when Janet was a Web novice. She's now world famous and happily has long since acquired the ability to actually hire people who know what they're doing.
+
+It's pretty wild that it's possible to track ancient history all the way back to the earliest record I could find of a post I made on the Internet.
+
+Quite some time back, I added a bullet recommending that people check out Annie's Census Song, a trifle of satire written by a dear friend, author and screenwriter Nicki Galland, in a mad fit of boredom. I wrote, "Nicki is much busier these days, having published a well received first novel entitled The Fool's Tale; then a second novel (Revenge of the Rose, which came out in August 2006). Go hunt for Nicki's most recent stuff because she keeps on producing good things, including work co-authored with Neal Stephenson, one of my other favorite authors.
+
+Photo for a neat science fair project for which I helped provide a few pointers. (How many 7th graders do you know who are looking into information theory?!) [Update, May 2018: Updating my page, I decided to look Akimitsu up, and I'm pleased to see that he went on to MIT and is gainfully employed as a software engineer!]
+
+Once upon a time, Ben invented Scimon Cards, which are like Pokemon cards but for science-minded kids.
+
+A few favorite books, ones that I revisit every few years once they are "ripe" for re-reading...
+
+Mark Helprin, Winter's Tale
+Peter S. Beagle, A Fine and Private Place
+Orson Scott Card, Ender's Game
+William Goldman, The Princess Bride
+Frances Hodgson Burnett, The Lost Prince
+Margaret Atwood, The Handmaid's Tale (Are we there yet?)
+I added the parenthetical comment many years ago, semi-joking. Little did I know...
+Neal Stephenson, Cryptonomicon
+Lawrence Block, The Triumph of Evil (a little known gem)
+Stephen King, The Stand
+Read the version that was published in 1978, Do not, repeat do not read the "complete and uncut" edition, or at least don't start with it. They added the cut material back in after he was famous, and it's just not as good a book.
+George Orwell, 1984
+Faber and Mazlish, How to Talk So Kids Will Listen and Listen So Kids Will Talk
+Those who know me well, and some who don't, will know that I am positively evangelical when it comes to this book. It is not just for parents. It will improve every relationship in your life. Read it.
+
+Course Information
+If you are an undergrad who would like to take one of my graduate level courses, here's what you need to do.
+Current
+Ling499R, Understanding Language Understanding, Spring 2024
+
+Previous courses
+
+Ling848, Topics in Computational Pragmatcs, Fall 2023
+Ling499R, Understanding Language Understanding, Spring 2023
+Ling848, Brain Inspired Inspired: Topics in the Computational Cognitive Neuroscience of Language, Spring 2022
+CMSC/LING 723 / INST 735: Computational Linguistics , Spring 2021.
+DATA641/MSML641, Natural Language Processing , Spring 2021.
+Topics in Computational Linguistics and Computational Social Science, Fall 2020
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring 2020.
+Ling848, Topics in the Computational Cognitive Neuroscience of Language, Fall 2019
+Fall 2018, Spring 2019: On sabbatical
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring 2018.
+Ling848, Violently Multidisciplinary Language Science seminar, Fall 2017.
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring 2017.
+Ling848, Computational Models of Human Parsing, Fall 2016.
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring 2016.
+Ling848, Advanced Seminar in Computational Linguistics: Computational Social Science, Fall 2015.
+
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring, 2015.
+Ling848, Seminar on Semantics in Computational Linguistics, Fall 2014.
+
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring, 2014.
+Ling848, Seminar in Computational Linguistics: Computational Social Science, Fall 2013.
+
+Ling773/CMSC773/INST728C, Computational Linguistics II, Spring, 2013.
+Fall 2012: on leave from teaching.
+Fall 2011, Spring 2012: on sabbatical.
+Ling/CMSC 773, Computational Linguistics II, Spring, 2011.
+Ling848. Seminar in Computational Linguistics: Computational Modeling of Language, Fall, 2010.
+Ling/CMSC 773, Computational Linguistics II, Spring, 2010.
+Ling848. Seminar in Computational Linguistics: Corpus-based Social Science, Fall, 2009.
+Ling/CMSC 773, Computational Linguistics II, Spring, 2009.
+Ling848. Seminar in Computational Linguistics: Computational Learning, Fall, 2008.
+Ling/CMSC 773, Computational Linguistics II, Spring, 2008.
+Ling819/848, Seminar: The Computations of Language, Fall, 2007.
+Ling/CMSC 773, Computational Linguistics II, Spring, 2007.
+Ling723/CMSC723, Computational Linguistics I, Fall, 2006.
+Ling647/CMSC828R, Computational Linguistics II, Spring, 2006.
+Ling849, Seminar in Psycholinguistics, Fall 2005 (with Amy Weinberg)
+Linguistics 645/CMSC 723, Intro to Computational Linguistics, Fall 2005 (with David Chiang)
+Linguistics 647/CMSC 828R, Computational Linguistics II, Spring 2005.
+Linguistics 848/CMSC 828R, Seminar in Computational Linguistics, Fall 2004.
+Fall 2003, Spring 2004: on sabbatical.
+Linguistics 889A, Lexical Semantics at the Syntax Interface, Spring 2003.
+Linguistics 645/CMSC 723, Intro to Computational Linguistics, Spring 2002.
+LBSC08a/CMSC838L, Information Retrieval Systems, Fall 2001.
+Linguistics 645/CMSC 723, Intro to Computational Linguistics, Spring 2001.
+Linguistics 443, Intro to Programming for Linguists, Fall 2000.
+Linguistics 889B, Computational Models of Language Processing, Spring 2000.
+Linguistics 645/CMSC 723, Intro to Computational Linguistics, Spring 1999.
+Linguistics 689A, Intro to Programming for Linguists, Fall 1998.
+Short Course on Statistical Methods in NLP, Summer 1998.
+Linguistics 889D, Lexical Semantics at the Syntax Interface, Spring 1998.
+Linguistics 645 (also CMSC 723), Introduction to Computational Linguistics, Fall 1997.
+Linguistics 889, Topics in Computational Linguistics, Spring 1997
+
+Computational Linguistics Colloquium Series
+For anyone local who is interested in NLP or computational linguistics, I highly recommend attending our regular speaker series. Here's the schedule for this semester.
+Other Links
+Advice
+For undergrads: How to email a professor
+A really thoughtful piece by Hanna Wallach on interdisciplinary work in computational social science
+Some brief advice from me on good writing for NLP
+Some decidedly less brief but truly excellent advice on writing, from Jordan Boyd-Graber, with a bunch of particularly awesome detail on:
+Using LaTeX well (not just text, but good conventions to follow for figures, tables, equations, etc.)
+Citations and bibliography
+The paper writing/review process (collaboration, author responses, camera-ready checklist)
+Good summary of how to do a good presentation
+Even better page by Jason Eisner on how to give a good talk.
+Nice article on choosing a Ph.D. program in Computer Science
+Excellent advice from Hanna Wallach and Mark Dredze on How to Be a Successful PhD Student
+A nice little pictorial tidbit on what it means to get a Ph.D.
+Hal Daumé's nice Math for Machine Learning review
+Some great questions for screening candidates for software development jobs.
+A nice discussion about the range of jobs you can get with a PhD, including some sensible disussion of pros and cons.
+The Missing Semester of Your CS Education, a really nice tour of core tools that every computer scientist should be comfortable with.
+Nice page by Pedro Rodriguez on Reproducible Python Environments. More generally, his tips and blog are valuable resources for research code development and experimentation.
+Handy links
+ARHU Intent to Submit form (pre-routing, for grants)
+CLIP Laboratory (external) wiki
+CLIP Laboratory (internal) wiki
+Linguistics Dept (internal) wiki
+CNL Lab Meeting Schedule
+Computational Cognitive Science of Language Reading Group, Spring 2020
+LaTeX for Linguists
+Restaurants for visitors
+CNL Lab schedule
+Useful UMIACS Administrative Links
+UMIACS Directory Management (incl groups, etc.)
+UMIACS Application Resources dashboard
+Bypass Codes for Duo MFA
+University of Maryland Academic Calendars
+UMD Interlibrary Loan Services
+UMD Kuali research/funding dashboard
+CNL Lab Meeting schedule
+KeepTeaching resources for moving courses online
+Resources for instructors
+Information on holding class meetings remotely using WebEx
+Information on pre-recording lectures using Panopto.
+Resources for students
+SPARK Society, a support organization whose goal is to increase the numbers of under-represented racial and ethnic minorities in the cognitive and psychological sciences.
+Nice Time zone conversion
+Miscellaneous other
+Note that links here may be significantly out of date. This section may be most useful as a window into my odd ideas about what's worth putting up on my web page over the years.
+
+Important methods and concepts related to statistics that are not as well known as they should be
+Depth First Learning: a compendium of curricula to help you deeply understand Machine Learning.
+Useful UMD Administrative info, phone numbers, etc.
+College Park hotel info
+UMD hours approval system
+List of NLP and CL conferences and deadlines
+Training Examples Q&A, a site where "data geeks ask and answer questions on machine learning, natural language processing, artificial intelligence, text analysis, information retrieval, search, data mining, statistical modeling, and data visualization".
+Nice intro NLP lectures at the 2009 CLSP summer workshops
+Hal Daume's really cool WhatToSee tool for finding relevant papers at recent conferences
+LanguageLog
+LaTeX for Linguists
+Nice way to do word counts for LaTeX documents
+Useful utilities by Steve DeRose
+The U.S. Code in ASCII
+Interesting class project result, building a Linguistics thesaurus
+Useful list of computational linguistics conferences and deadlines
+Linguistics Department calendars
+UMail Maintenance Service
+Inttranews linguistics news site
+Using The Simpsons to teach math, and linguistic Simpsons jokes.
+Chomskybot
+Task of the Referee, a nice article by Alan Jay Smith about how and why to do journal reviews:
+Wiki for the ICDL Communities project
+An on-line version of the famous ALPAC report
+Our "N Commandments" for research access on the Internet Archive
+Graphical models reading group
+Bill Pugh's compendium of College Park takeout/delivery menus. (Beware: some look out of date.)
+UMIACS software packages list (local access only)
+UMD earning statements
+A neat list of cognitive science summaries, covering seminal papers on a variety of topics. (Not sure how up to date this is kept.)
+Cucumis: free online translation service. (Don't know if this is any good. Mail me if you are familiar with it!)
+SCIL project wiki (restricted)
+LanguageLog contribution page
+Metric Rants, a poetry blog by Ben.
+Notes on "Framing"; page with lots of good references
+Contact info
+
+Click here if you want to arrange a meeting. Otherwise, in general, the best way to reach me is by e-mail to resnik [AT] umd _DOT_ edu.
+
+  Philip Resnik, Professor
+  Department of Linguistics and Institute for Advanced Computer Studies
+
+  1401 Marie Mount Hall            
+  University of Maryland           Department phone     : (301) 405-7002
+  College Park, MD 20742 USA	   Department Fax       : (301) 405-7104       
+  http://umiacs.umd.edu/~resnik	   E-mail:              : resnik [AT] umd _DOT_ edu
+
+  UMIACS office: Iribe Center 4148
+
+
+
+Oh, and by the way, my name is not spelled Philip Resnick, Phillip Resnik, or Phillip Resnick, though this explicit disclaimer may help people who don't know that find this page!
+

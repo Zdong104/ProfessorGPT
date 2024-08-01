@@ -1,0 +1,287 @@
+Professor: Sanjit A. Seshia
+University: Univ. of California - Berkeley
+URL: https://people.eecs.berkeley.edu/~sseshia
+Description: 	
+Sanjit A. Seshia
+
+  Cadence Founders Chair Professor
+  Department of Electrical Engineering and Computer Sciences
+  and Group in Logic and the Methodology of Science
+  University of California, Berkeley
+ 
+  Affiliated Faculty, Industrial Cyber-Physical Systems Center, Berkeley AI Research,
+    and the Simons Institute for the Theory of Computing.
+ 
+  Contact Information  
+ 
+  Biography: Brief, Full  
+
+
+[   Quick Links:   Publications   |   Research   |   Talks   |   Software   |   Teaching   |   Students & Postdocs   |   CV (in PDF)   ]
+
+
+My research group develops theory and tools to aid the construction of provably dependable and secure systems. Our work spans several abstraction layers, from mathematical models, through software, to electronic and biological substrates.
+
+A particular focus is on formal methods, which are mathematical techniques to model, design, and verify computing systems using computational proof engines. We seek to advance the state-of-the-art in automated formal methods through the following thrusts:
+
+Computational Engines: We develop efficient algorithms and tools for core computational problems such as satisfiability modulo theories (SMT) solving, model counting, and syntax-guided synthesis. Our focus is on identifying new classes of these problems along with novel motivating applications (such as robot motion planning). This work continues a line of research that started with UCLID, one of the first projects to develop SMT solvers and SMT-based verification methods. UCLID5 is our current active project in this thrust.
+Algorithmic Strategies for Verification and Synthesis: We are developing new formal verification and synthesis techniques based on a combination of inductive inference and deductive reasoning, an approach outlined with illustrative applications in this journal paper. We are developing a theory of formal inductive synthesis to provide a formal foundation for synthesis (of programs, specifications, controllers, etc.) from examples with provable guarantees of correctness. Notable demonstrated applications include specification synthesis, timing analysis of embedded software, program synthesis, and controller synthesis. See this brief video for a perspective on oracle-guided inductive synthesis presented during the Most Influential Paper award session at ICSE 2020.
+We are also developing novel techniques for achieving the goal of Verified Artificial Intelligence, implemented in open-source tools VerifAI and Scenic, which we have demonstrated for the evaluation of autonomous vehicles, both in simulation and on the road (see here for more information).
+New Application Frontiers: We pursue new applications of formal methods that illuminate foundational questions. Our current focus is in the following areas: cyber-physical systems (CPS), particularly those based on artificial intelligence (AI) and machine learning (ML), and computer security across the hardware-software interface. In CPS, we are working on verification and control of Human-CPS, cyber-physical systems that operate in concert with humans, such as semi-autonomous vehicles (see sample paper). In security, we are currently focused on systems that leverage trusted hardware-software platforms (see sample paper). We are also developing theory and applications of "algorithmic improvisation", based on the core underlying problem termed as control improvisation (see this page for more details).
+My group participates in the following large projects:
+VeHICaL: Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+LOGiCS: Learning-Based Oracle-Guided Compositional Symbiotic Design of Cyber-Physical Systems
+RDI: Center for Responsible, Decentralized Intelligence
+HICON-LEARN: Design of HIgh CONfidence LEARNing-Enabled Systems (under the DARPA Assured Autonomy program)
+BDD: Berkeley Deep Drive
+We are also part of iCyPhy, the Industrial Cyber-Physical Systems Center, and BAIR, Berkeley AI Research. I am also affiliated with the Simons Institute for the Theory of Computing.
+
+Our work on the verification of automotive powertrain systems led to the founding of a startup, Decyphir, Inc. We also contributed to the ACT project at Berkeley, addressing modeling, verification, and synthesis problems in synthetic biology, resulting in the founding of 20n Labs, Inc.
+
+I have co-developed, with Edward A. Lee, an undergraduate course on Embedded Systems (check out the website for course material including cool videos of student projects).
+We also have an accompanying textbook Introduction to Embedded Systems: A Cyber-Physical Systems Approach currently in its second edition published by MIT Press. Our textbook has been adopted in over 50 countries.
+
+
+We offered a "massive open online course" (MOOC) on Cyber-Physical Systems on the edX platform: EECS149.1x. This MOOC was the first, to our knowledge, to employ formal verification in the automatic grading system (which was designed using inductive synthesis). More information about the automatic grading software, CPSGrader, is available here. Related to this effort, I have taught a graduate-level course on Formal Methods for Engineering Education.
+
+Selected talks and further details on research and teaching are available. A good starting point is to browse my recent publications.
+
+
+
+
+Note to prospective students and postdocs
+
+   Research
+Areas of Interest
+Formal Methods, Dependable Computing, Computational Logic, Cyber-Physical Systems, Computer Security, Design Automation, Programming Systems, Artificial Intelligence, Theory.
+Publications
+Full publications list, organized by
+Type
+Area
+Year
+Selected Talks:
+Here are videos/slides from selected presentations: (listed in reverse chronological order)
+Formal Analysis of AI-Based Autonomy: From Modeling to Runtime Assurance, Invited Tutorial at the 21st International Conference on Runtime Verification (RV), October 2021. (watch the video on youtube)
+Formal Specification for Machine Learning Systems (video), Invited Talk at ATVA/HYPER 2021, October 2021.
+Algorithmic Improvisation for Dependable Intelligent Autonomy (video), Keynote Talk at FSTTCS 2020 (the 40th IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science), December 2020.
+Verified Artificial Intelligence and Autonomy (PDF), Keynote Talk at the NASA Formal Methods Conference (NFM), May 2020. (watch the video on youtube)
+Bridging Simulation and the Real World with VerifAI and Scenic (PDF), Talk at Berkeley Deep Drive Spring Retreat, March 2020.
+Verified Artificial Intelligence: A Runtime Verification Perspective (PDF), Keynote Talk at the International Conference on Runtime Verification (RV), October 2019. (watch the video on youtube)
+Towards Verified Deep Learning (video), Invited Talk at Simons Institute Workshop on Emerging Challenges in Deep Learning, August 2019.
+UCLID5: Integrating Modeling, Verification, Synthesis, and Learning (PDF), Keynote Talk at the 16th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE), October 2018.
+Towards Verified Artificial Intelligence (PDF), Keynote Talk at the International Symposium on Automated Technology for Verification and Analysis (ATVA), October 2018.
+Formal Methods, Machine Learning, and Cyber-Physical Systems (Part 1 PDF, Part 2 PDF), Invited Tutorial at the International Symposium on Automated Technology for Verification and Analysis (ATVA), October 2018.
+Formal Methods meets Machine Learning: Explorations in Cyber-Physical System Design (PDF), Special EE/CS Seminar at Stanford University, December 2017.
+Towards Verified Artificial Intelligence (PDF), Keynote Talk at the Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA), October 2017. Earlier version of talk given above.
+Principles for Verified Artificial Intelligence (PDF), Invited Talk at the Design Automation Conference 2017, June 2017.
+Formal Inductive Synthesis: Theory and Applications (PDF), Invited Tutorial given at Haifa Verification Conference 2016 and the First Indian SAT/SMT School, November/December 2016.
+Interview as part of George Boole Bicentenary Celeberations (video), part of the George Boole Legacy Interviews Project, 2015.
+Verification by, for, and of Humans: Formal Methods for Cyber-Physical Systems and Beyond (PDF), ECE Department Colloquium, University of Illinois at Urbana-Champaign, March 2015.
+Towards Lab-Based MOOCs: Embedded Systems, Robotics, and Beyond (PDF), Invited Talk, National Instruments (NI) Week, August 2014.
+Integrating Induction and Deduction for Verification and Synthesis (PDF), DATE 2013 Tutorial: A Tribute to Robert Brayton, March 2013.
+Formal Methods for Dependable Computing: From Models, through Software, to Circuits (video), CITRIS Research Exchange Seminar Series, November 2010.
+UCLID's Elements: Term-Level Verification and SMT Solving, SAT/SMT Summer School, MIT, Cambridge, MA, June 2011.
+Verifying Timing-Centric Software Systems (PDF), Invited talk at High-Confidence Software Systems (HCSS), May 2011.
+The Challenge of Environment Modeling in Verifying Cyber-Physical Software Systems (PDF), Workshop on Usable Verification, November 2010.
+Low-Level Verification of Embedded Software: Addressing the Challenge (PDF), FMCAD 2010 panel presentation.
+On Voting Machine Design for Verification and Testability (video), Microsoft Research, March 2010.
+Tutorial at ICCAD'09 on Satisfiability Modulo Theories (joint with Clark Barrett): My slides (PPT), Clark's slides (PDF).
+Affiliations
+Centers/Large Projects my group participates in:
+LOGiCS: Learning-Based Oracle-Guided Compositional Symbiotic Design of Cyber-Physical Systems
+VeHICaL: Verified Human Interfaces, Control, and Learning for Semi-Autonomous Systems
+BAIR: Berkeley Artificial Intelligence Research
+iCyPhy: Industrial Cyber-Physical Systems Center
+RDI: Center for Responsible, Decentralized Intelligence
+DOP Center: Donald O. Pederson Center for Electronic Systems Design
+Past centers:
+ADEPT: Agile Design of Efficient Processing Technologies
+CHESS: Center for Hybrid and Embedded Software Systems
+TSRC: TerraSwarm Research Center
+ExCAPE: Expeditions in Computer Augmented Program Engineering
+GSRC: Gigascale Systems Research Center
+SCRUB: Secure Computing Research for Users' Benefit
+MuSyC: Multiscale Systems Center
+TRUST: Team for Research in Ubiquitous Secure Technology
+OSQ: Open Source Quality Project
+Past Research Projects
+(click on a project name for further details)
+VGER: Verification-Guided Error Resilience of Circuits and Systems
+Robust Embedded Systems: Verification and Learning for Provably Dependable Embedded Systems
+SOS -- Solvers for Security: SAT, SMT, and Constraint-Based Techniques for Analyzing Security and Building Secure Systems
+
+Descriptions of other past projects are also available.
+
+
+   Software
+Over the years, my group members and I have developed several software toolkits related to formal methods and its applications.
+Here are some software packages that we actively develop and support:
+UCLID5: A system for modeling, verification, and synthesis of computational systems
+VerifAI: A system for design and verification of AI-based systems -- the Verified AI toolkit
+Scenic: A probabilistic programming system for scenario description and data generation for autonomous systems
+GameTime: A software toolkit for timing analysis of embedded software
+CPSGrader: An automatic grading and feedback system for cyber-physical systems education
+Drona/SOTER: A Programming Framework for Building Reliable Distributed Mobile Robotics Systems including Run-Time Assurance
+The following software distributions are not being actively developed within my research group but are still available publicly with documentation or are being maintained by alumni or elsewhere:
+SMC: Satisfiability Modulo Convex Programming
+CADET: A solver for 2QBF (quantified Boolean formulas with one quantifier alternation)
+MaxCount: An approximate Max#SAT solver
+BluSTL: A Matlab toolkit for automatically generating hybrid controllers from signal temporal logic specifications
+Breach: A Matlab/C++ toolbox for the simulation-based verification of temporal logic properties of hybrid dynamical systems
+Complan: SMT-based compositional multi-robot motion planning
+v2ucl & ATLAS: Abstraction tools for generating UCLID models from word-level/Verilog descriptions of hardware
+BFIT: The Berkeley FIT (failure-in-time) Estimation Tool
+Beaver: A satisfiability-modulo-theories (SMT) solver for finite-precision bit-vector arithmetic
+
+
+   Teaching
+Current
+Spring 2024: EECS 219C: Formal Methods: Specification, Verification, and Synthesis
+Spring 2024: CS 70: Discrete Mathematics and Probability Theory (co-taught with Alistair Sinclair)
+
+Recent Past
+Fall 2023: EECS 149/249A: Introduction to Embedded Systems (co-taught with Prabal Dutta)
+Spring 2023: EECS 219C: Formal Methods: Specification, Verification, and Synthesis
+Spring 2022: EECS 219C: Formal Methods: Specification, Verification, and Synthesis
+Fall 2021: EECS 149/249A: Introduction to Embedded Systems
+Spring 2021: EECS 219C: Formal Methods: Specification, Verification, and Synthesis
+Fall 2020: EECS 149/249A: Introduction to Embedded Systems (co-taught with Prabal Dutta)
+
+
+Click here for the full list of courses taught.
+
+   Group Members
+Current
+Sahil Bhatia (Ph.D.) (co-advised with Alvin Cheung)
+Kai-Chun Chang (Ph.D.) (co-advised with Alberto Sangiovanni-Vincentelli)
+Pei-Wei Chen (Ph.D.)
+Karim Elmaaroufi (Ph.D.) (co-advised with Matei Zaharia)
+Adwait Godbole (Ph.D.)
+Inigo Incer (Postdoc) (co-mentored with Richard Murray and Alberto Sangiovanni-Vincentelli)
+Aniruddha Joshi (Ph.D.)
+Edward Kim (Postdoc) (co-mentored with Bjoern Hartmann)
+Niklas Lauffer (Ph.D.) (co-advised with Stuart Russell)
+Shaokai Lin (Ph.D.) (co-advised with Edward A. Lee)
+Federico Mora (Ph.D.)
+Lauren Pick (Postdoc) (co-mentored with Aws Albarghouthi)
+Ameesh Shah (Ph.D.)
+Devan Shanker (M.S.)
+Victoria Tuck (Ph.D.) (co-advised with Shankar Sastry)
+Justin Wong (Ph.D.) (co-advised with Joseph Gonzalez)
+Beyazit Yalcinkaya (Ph.D.)
+
+Graduated Ph.D. Students (reverse chronological order, with current/last known position and links to theses)
+Kevin Cheang (Ph.D.) [Amazon Web Services] Formal Specification and Verification of Secure Information Flow for Hardware Platforms
+Edward Kim (Ph.D.) (co-advised with Alberto Sangiovanni-Vincentelli) [Postdoc, UC Berkeley] Simulation-Based Testing, Validation, and Training with Probabilistic Programming
+Marcell Vazquez-Chanlatte (Ph.D.) [Nissan Labs]: Specifications from Demonstrations: Learning, Teaching, and Control
+Gil Lederman (Ph.D.) (co-advised with Edward A. Lee): Neural Guidance in Constraint Solvers
+Ben Caulfield (Ph.D.) (co-advised with Stavros Tripakis) Learning and Logic for Formal Synthesis
+Shromona Ghosh (Ph.D.) (co-advised with Alberto Sangiovanni-Vincentelli) [Waymo]: Oracle-Guided Design and Analysis of Learning-Based Cyber-Physical Systems
+Ankush Desai (Ph.D.) [Amazon/AWS]: Modular and Safe Event-Driven Programming
+Daniel Fremont (Ph.D.) [Asst. Prof., UC Santa Cruz]: Algorithmic Improvisation
+Eric Kim (Ph.D.) (co-advised with Murat Arcak) [Waymo]: Constructive Formal Control Synthesis through Abstraction and Decomposition
+Rohit Sinha (Ph.D.) [Meta]: Secure Computing using Certified Software and Trusted Hardware
+Dorsa Sadigh (Ph.D.) (co-advised with Shankar Sastry) [Asst. Prof., Stanford Univ.]: Safe and Interactive Autonomy: Control, Learning, and Verification
+Rafael Valle (Ph.D.) (co-advised with Edmund Campion) [Nvidia]: Data Hallucination, Falsification and Validation using Generative Models and Formal Methods
+Wenchao Li (Ph.D.) [Asst. Prof., Boston Univ.]: Specification Mining: New Formalisms, Algorithms and Applications
+                     (M.S.): Formal Methods for Reverse Engineering Gate-Level Netlists
+Dan Holcomb (Ph.D.) [Assoc. Prof., UMass Amherst]: Formal Verification and Synthesis for Quality-of-Service in On-Chip Networks
+Susmit Jha (Ph.D.) [Technical Director, SRI International]: Towards Automated System Synthesis Using Sciduction
+                   (M.S.): Reachability Analysis of Lazy Linear Hybrid Automata
+Bryan Brady (Ph.D.): Automatic Term-Level Abstraction
+
+Graduated M.S. Students (reverse chronological order, with current/last known position and links to theses)
+Jonathan Shi (M.S.): Lifting Hardware Models from Implementations for Verification
+Mark Wu (M.S.): Assisting Reinforcement Learning in Real-time Strategy Environments with SCENIC
+Pranav Gaddamadugu (M.S.): Formally Verifying Trusted Execution Environments with UCLID5
+Kesav Viswanadha (M.S.) [Google]: Scalable Techniques for Sampling-Based Falsification of AI-Based Cyber Physical Systems
+Lakshya Jain (M.S.) [Trifacta]: Generating Semantic Adversarial Examples through Differentiable Rendering
+Shivendra Kushwah (M.S.) [Facebook]: PSec: A Programming Language for Secure Distributed Computing
+Sumukh Shivakumar (M.S.) [Amazon]: A Language-Based Approach to Run-Time Assurance for Autonomous Systems
+Cameron Rasmussen (M.S.) [Apple]: Secure Speculation: From Vulnerability to Assurances with UCLID5
+Nishant Totla (M.S.) [Docker]: Oracle-Guided Heap Interpolant Synthesis
+Matthew Fong (M.S.): Two Optimal Path Problems in Synthetic Biology
+Garvit Juniwal (M.S.) [Rubrik]: CPSGrader: Auto-Grading and Feedback Generation for Cyber-Physical Systems Education
+Wei Yang Tan (M.S.): Formal Modeling and Verification of CloudProxy
+Zach Wasson (M.S.) [Fitbit]: Analyzing Data-Dependent Timing and Timing Repeatability with GameTime
+Jonathan Kotker (M.S.) [Microsoft]: The Internals of GameTime: Implementation and Evaluation of a Timing Analyzer for Embedded Software
+Rhishikesh Limaye (M.S.) [National Instruments]: Beaver: An SMT Solver for Quantifier-free Bit-vector Logic
+
+"Graduated" Postdocs (reverse chronological order, with current/last known position)
+Hazem Torfah [Asst. Professor, Chalmers University]
+Hussein Sibai [Asst. Professor, Washington University at St. Louis] (co-mentored with Murat Arcak)
+Yatin Manerkar [Asst. Professor, Univ. Michigan Ann Arbor]
+Sebastian Junges [Asst. Professor, Radboud University]
+Yash Pant [Asst. Professor, Univ. of Waterloo] (co-mentored with Bjoern Hartmann and Richard Murray on the VeHICaL project)
+Elizabeth Polgreen [Lecturer/Asst. Professor, Univ. of Edinburgh]
+Mark Ho (co-mentored with Tom Griffiths on the VeHICaL project)
+Hadi Ravanbakhsh [Google]
+Tommaso Dreossi [insitro]
+Markus Rabe [Google Research]
+Pramod Subramanyan [Asst. Prof., IIT Kanpur]
+Yasser Shoukry [Asst. Prof., UCI] (co-mentored with Paulo Tabuada and George Pappas)
+Alexandre Donze [Decyphir]
+Yi-Chin Wu [Pure Storage] (co-mentored with Stephane Lafortune)
+Vasu Raman [Zipline] (co-mentored with Richard Murray)
+Indranil Saha [Assoc. Prof., IIT Kanpur] (co-mentored with George Pappas)
+Daniel Bundala [Google]
+Ruediger Ehlers [Assoc. Prof., TU Clausthal] (co-mentored with Hadas Kress-Gazit)
+
+
+A complete list of current and past students, including undergraduate advisees, and postdoctoral researchers is available in my CV.
+
+   Professional Activities
+
+Editorial Board:
+   ACM Transactions on Embedded Computing Systems
+
+
+Selected Program Committees: (recent)
+   CAV '21: 32nd International Conference on Computer-Aided Verification
+   HSCC '20: 23rd ACM International Conference on Hybrid Systems: Computation and Control (Program co-chair)
+   TACAS '19: 25th International Conference on Tools and Algorithms for the Construction and Analysis of Systems
+   VSTTE '15: 7th Working Conference on Verified Software: Theories, Tools, and Experiments (Program co-chair)
+   CAV '12: 24th International Conference on Computer-Aided Verification (Program co-chair)
+
+
+Other Conference/Workshop Organization: (recent)
+   Dagstuhl Seminar on Machine Learning and Formal Methods, August 2017 (co-organizer)
+   Dagstuhl Seminar on Decision Procedures and Abstract Interpretation, August 2014 (co-organizer)
+
+
+A complete list of professional activities is available in my CV.
+
+   Miscellaneous
+
+Advice for students and others, compiled by Michael Ernst
+
+My academic genealogy (courtesy the Mathematics Genealogy Project)
+
+A partial list of "popular press" articles about research my group has contributed to:
+
+Streamlining the Internet of Things and other cyber-physical systems (Science Daily)
+Autonomous Cars Could Determine Your Driving Style by Gently Probing You (IEEE Spectrum)
+Robotutor marks the homework of a class of thousands (New Scientist)
+Metal Machine Music: Berkeley researchers write programs that jam (California Magazine)
+A Logical Approach to Computer Security (Berkeley Lab Notes)
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

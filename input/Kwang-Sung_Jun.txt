@@ -1,0 +1,75 @@
+Professor: Kwang-Sung Jun
+University: University of Arizona
+URL: https://kwangsungjun.github.io/
+Description: Kwang-Sung Jun
+Home
+Publications
+Research Group
+Talks
+Artifacts
+Teaching
+Personal Stuff
+	
+Home
+ 	
+
+Kwang-Sung Jun
+Assistant Professsor
+Computer Science
+Statistics GIDP, Applied Math GIDP (affiliated)
+University of Arizona
+
+
+kjun å† cs ∂ø† arizona ∂ø† edu
+Gould-Simpson Rm 746, 1040 E. 4th St., Tucson, AZ 85721
+Google scholar
+CV
+
+Intro
+
+Broadly, I work on interactive machine learning. I spend most of my time on on developing and analyzing adaptive decision-making/sampling methods including bandit algorithms and reinforcement learning. I tend to revolve around simple problems. Recently, I am also looking into Monte Carlo tree search methods and various applications including efficient matrix decomposition, geoscience (some blackbox/bayesian optimization involved), and material science problems. I was previously a postdoc with Francesco Orabona (who I call the 'master of coin’) at Boston University. Before then, I spent 9 years at UW-Madison for a PhD degree with Xiaojin (Jerry) Zhu and a postdoc position at Wisconsin Institute for Discovery with Robert Nowak, Rebecca Willett, and Stephen Wright.
+
+News
+
+May’24: 2 papers accepted to ICML: (i) adapting to the unknown noise level in linear bandits (ii) low-rank matrix recovery with better guarantees than the nuclear-norm regularization, how we can perform design of experiments for better subspace recovery, and how to solve low-rank bandits with them!
+
+May’24: 1 paper accepted to COLT on PAC-Bayes bounds with a different divergence that is better than KL!
+
+Feb’24: I will serve as an action editor for the journal Machine Learning.
+
+Jan’24: 1 paper accepted to AISTATS on converting a regret bound into a tight confidence set. Congrats Junghyun!
+
+Dec’23: 1 paper accepted to NeurIPS. Congrats Hao Qin!
+
+Jul’23: 1 paper accepted to COLT on a very tight PAC-Bayes bound!
+
+Jul’23: 1 paper accepted to ICML. Congrats to my student Yao and my collaborators Connor and Csaba!
+
+Sep’22: 2 papers accepted at NeurIPS. Congrats to my postdoc Kyoungseok Jang!
+
+Bandit problems
+
+The multi-armed bandit problem is a state-less version of reinforcement learning (RL). Informally speaking, bandit algorithms learn to make better decisions over time in a feedback-loop. The decisions necessarily affect the feedback information, and the feedback data collected so far is no longer i.i.d.; most traditional learning guarantees do not apply. But why study an easier version of RL while RL seems to be solving all the problems these day?
+
+Being a very simple problem, you can develop algorithms with precise theoretical guarantees and superior performance compared to RL algorithms applied to bandit problems. These guarantees include precise instance-dependent guarantees (as opposed to the worst-case or minimax guarantees) where some algorithms even achieve optimal rates with exact numerical constants!
+
+Bayesian optimization's convergence guarantees are analyzed in the bandit setup.
+
+Developments in bandits are being transferred to propose new RL algorithms with strong guarantees.
+
+Monte Carlo tree search (MCTS) algorithm used in AlphaGo was originated from the paper “bandit based Monte-Carlo planning”, and MCTS made a revolutionary performance improvement in solving Go since its appearance. UCT was extended to PUCT and used in AlphaGo and numerous other successful RL applications from DeepMind and other applications (e.g., chemical synthesis).
+
+Bandit algorithms were used to improve the computational complexity of k-medoids problem (similar to k-Means) dramatically; e.g., this paper.
+
+Bandits are actively being studied in both theory and applications including deployable web service and hyperparameter optimization (check ray implementation). Also, the cartoon caption contest of New Yorker is using bandit algorithms to efficiently crowdsource caption evaluations (this article)!
+
+Service
+
+Area chair: COLT, ALT, NeurIPS, AAAI
+
+Program committee: ICML, AISTATS
+
+Action editor for Machine Learning.
+
+Page generated 2024-07-18 14:06:49 MST, by jemdoc+MathJax.
+

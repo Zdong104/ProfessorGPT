@@ -1,0 +1,322 @@
+Professor: Srijan Das
+University: UNC - Charlotte
+URL: https://srijandas07.github.io/
+Description: Srijan Das
+
+I am an Assistant Professor in the Department of Computer Science at the University of North Carolina at Charlotte. At UNC Charlotte, I am working on Video Representation Learning, and Robotic Vision. I am a member of the Charlotte Machine Learning Lab (CharMLab) at UNC Charlotte.
+
+Before this, I was a Postdoctoral Associate at Stony Brook University under the supervision of Michael S. Ryoo. In 2020, I completed my Ph.D. in Computer Science at INRIA, Sophia Antipolis, France under the supervision of Francois Bremond and Monique Thonnat. My Ph.D. thesis is on ¨Spatio-temporal attention mechanisms for Action Recognition¨ and click here to watch my Defense Presentation. I did my Post-Grad in Computer Science from the National Institute of Technology (NIT), Rourkela.
+
+Email  /  CV  /  Bio  /  Google Scholar  /  Twitter  /  Github
+
+	
+Research
+
+My research focuses on video representation learning, utilizing spatio-temporal attention mechanisms, multiple modalities, and both ego-exo centric viewpoints. I am also interested in vision-language models and self-supervised learning techniques. The primary applications of my research include action classification in trimmed videos, temporal action detection in untrimmed videos, video retrieval, robotic vision, and the development of video conversational agents.
+
+[Hiring] Please find the instruction link for potential RA positions and opportunity for students interested in conducting research with me. UNC Charlotte students asking to be my grader or TA, your emails will be ignored. Instead look for the IA application link here.
+
+News
+
+Jul 2024 - 2 papers accepted to ECCV 2024 and 1 paper to ACM MM 2024.
+Apr 2024 - One paper on DeepFake Generation has been accepted at CVPRW 2024.
+Feb 2024 - 3 papers accepted to CVPR 2024.
+Oct 2023 - One paper accepted to WACV 2024.
+Aug 2023 - One paper on DeepFake detection has been accepted at ICCVW 2023, and another paper on using CLIP for Action Detection has been accepted at BMVC 2023.
+Jul 2023 - CMMC received the Best Poster Award at MVA 2023.
+May 2023 - Serving as SPC at AAAI 2024 for the second time.
+May 2023 - Dominick has been selected as a recipient of the Chateaubriand Fellowship. Congratulations!
+Apr 2023 - Serving as a member of the DEI committee for CVPR 2023.
+Feb 2023 - First NSF Grant has been awarded. [Link]
+Jan 2023 - One paper with colleagues at Stony Brook Medicine is accepted to ISBI 2023.
+Sep 2022 - Two papers accepted to NeurIPS 2022.
+Aug 2022 - One paper accepted to WACV 2023 (first round).
+Aug 2022 - Joined UNC Charlotte as an Asst. Professor.
+
+Lab members
+
+Current Students
+Dominick Reilly (PhD student at UNC Charlotte)
+Arkaprava Sinha (PhD student at UNC Charlotte)
+Rajatsubhra Chakraborty (PhD student at UNC Charlotte)
+Manish Kumar Govind (Master student at UNC Charlotte)
+
+Past Students
+Vishal Bondili, Jonathan Lorray (Master student at UNC Charlotte)
+Jacob Nielsen (jointly supervised with Prof. Aritra Dutta at SDU)
+Ian Boyle, Naveen Vellaturi, Sindhu Gadiraju (UG at UNC Charlotte)
+Tanmay Jain (intern from DTU, India), 2022-23
+Soumyajit Karmakar, Shyam Marjit (intern from IIIT Guwahati, India)
+
+	
+
+Selected Publications (For full list of papers, visit my Google Scholar.)
+
+
+Preprint & 2024
+
+	LLAVIDAL : Benchmarking Large LAnguage VIsion Models for Daily Activities of Living
+Rajatsubhra Chakraborty*, Arkaprava Sinha*, Dominick Reilly*, Manish Kumar Govind, Pu Wang, Francois Bremond, Srijan Das.
+Preprint
+arXiv / website / code
+
+LLAVIDAL, a Large Language Vision Model, incorporates 3D poses and relevant object trajectories to understand the intricate spatiotemporal relationships within ADLs.
+
+
+
+	Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads
+Ali Khaleghi Rahimian, Manish Kumar Govind, Subhajit Maity, Dominick Reilly, Christian Kümmerle*, Srijan Das*, Aritra Dutta*.
+Preprint
+arXiv / code
+
+Fibottention is a general, efficient, sparse architecture, for approximating self-attention with superlinear complexity that is built upon Fibonacci sequences.
+
+
+
+	Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier
+Prantik Howlader, Srijan Das, Hieu Le, Dimitris Samaras.
+ECCV 2024
+arXiv / code
+
+A novel plug-in module designed for existing semi-supervised segmentation frameworks that offers patch-level supervision.
+
+
+
+	BAMM: Bidirectional Autoregressive Motion Model
+Ekkasit Pinyoanuntapong, Muhammad Usama Saleem, Pu Wang, Minwoo Lee, Srijan Das, Chen Chen.
+ECCV 2024
+arXiv / website / code
+
+A novel text-to-motion generation framework. BAMM captures rich and bidirectional dependencies among motion tokens.
+
+
+
+	Just Add π! Pose Induced Video Transformers for Understanding Activities of Daily Living
+Dominick Reilly and Srijan Das.
+CVPR 2024
+arXiv / code
+
+We introduce the first Pose Induced Video Transformer: PI-ViT (or π-ViT), a novel approach that augments the RGB representations learned by video transformers with 2D and 3D pose information.
+
+
+
+	SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology
+Saarthak Kapse*, Pushpak Pati*, Srijan Das, Jingwei Zhang, Chao Chen, Maria Vakalopoulou, Joel Saltz, Dimitris Samaras, Rajarsi Gupta, Prateek Prasanna.
+CVPR 2024
+arXiv / code
+
+Self-Interpretable MIL (SI-MIL), the first interpretable-by-design MIL method for gigapixel WSIs, which provides de novo feature-level interpretations grounded on pathological insights for a WSI.
+
+
+
+	Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?
+Aritra Dutta, Srijan Das , Jacob Nielsen, Rajatsubhra Chakraborty, Mubarak Shah.
+CVPR 2024
+arXiv / Website
+
+We present MAVREC, a video dataset where we record synchronized scenes from different perspectives -- ground camera and drone-mounted camera.
+
+
+
+	Attention de-sparsification Matters: Inducing Diversity in Digital Pathology Representation Learning
+Saarthak Kapse, Srijan Das, Jingwei Zhang, Rajarsi R. Gupta, Joel Saltz, Dimitris Samaras, Prateek Prasanna.
+Medical Image Analysis (IF 10.9)
+arXiv / code (coming soon)
+
+A diversity-inducing pretraining technique, tailored to enhance representation learning in digital pathology.
+
+
+
+	Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders
+Srijan Das, Tanmay Jain, Dominick Reilly, Pranav Balaji, Soumyajit Karmakar, Shyam Marjit, Xiang Li, Abhijit Das, and Michael S. Ryoo.
+WACV 2024
+arXiv / code / Poster / Video
+
+This paper shows that jointly optimizing ViTs for the primary task and a Self-Supervised Auxiliary Task is surprisingly beneficial when the amount of training data is limited.
+
+
+
+2023
+
+	Attributes-Aware Network for Temporal Action Detection
+Rui Dai, Srijan Das, Michael S. Ryoo, Francois Bremond.
+BMVC 2023
+arXiv / video
+
+This paper explains how to utilize OpenAI's CLIP for long-term action detection in videos.
+
+
+
+	Attending Generalizability in Course of Deep Fake Detection by Exploring Multi-task Learning
+Pranav Balaji, Abhijit Das, Srijan Das, Antitza Dantcheva.
+Workshop and Challenge on DeepFake Analysis and Detection in ICCVW 2023
+arXiv
+
+This paper investigates multi-task learning and contrastive techniques to evaluate their generalization benefits in DeepFake detection.
+
+
+
+	Cross-modal Manifold Cutmix for Self-supervised Video Representation Learning
+Srijan Das and Michael S. Ryoo.
+18th International Conference on Machine Vision Applications , July 2023
+arXiv / Poster / Best Poster Award
+
+This paper focuses on designing video augmentation for self-supervised learning, we propose CMMC to make use of other modalities in videos for data mixing.
+
+
+
+	ViewCLR: Learning Self-supervised Video Representation for Unseen Viewpoints
+Srijan Das, and Michael S. Ryoo.
+WACV 2023
+arXiv
+
+A framework for learning self-supervised video representation that is invariant to unseen camera viewpoints.
+
+
+
+2022
+
+	Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?
+Xiang Li, Jinghuan Shang, Srijan Das, Michael S. Ryoo.
+NeurIPS 2022
+arXiv / code
+
+The impacts of the existing self-supervised losses with Joint Learning framework for RL is limited, while there is no golden method that can dominate all tasks.
+
+
+
+	Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space
+Jinghuan Shang, Srijan Das, Michael S. Ryoo.
+NeurIPS 2022
+arXiv / Project Page / code
+
+3DTRL is a light-weighted, plug-and play layer that recovers 3D information of visual tokens and leverages it for learning viewpoint-agnostic representations.
+
+
+
+	Toyota Smarthome Untrimmed: Real-World Untrimmed Videos for Activity Detection
+Rui Dai, Srijan Das, Saurav Sharma, Luca Minciullo, Lorenzo Garattoni, François Brémond, Gianpiero Francesca.
+T-PAMI 2022
+
+Project Link / Code
+
+TSU is a new untrimmed daily-living dataset consisting of 51 activities performed in a spontaneous manner, captured from non-optimal viewpoints.
+
+
+
+	MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection
+Rui Dai, Srijan Das, Kumara Kahatapitiya, Michael S. Ryoo, Francois Bremond.
+CVPR 2022
+arXiv / code
+
+A ConvTransformer network that explores global and local temporal relations at multiple resolutions.
+
+
+
+2021
+
+	VPN++: Rethinking Video-Pose embeddings for understanding Activities of Daily Living
+Srijan Das, Rui Dai, Di Yang, Francois Bremond,
+TPAMI, 2021
+arXiv / code
+
+VPN++ is an extension of our VPN model (ECCV 2020). VPN++ hallucinates pose driven features while not requiring costly 3D Poses at inference.
+
+
+
+	CTRN: Class Temporal Relational Network for Action Detection
+Rui Dai, Srijan Das, Francois Bremond.
+BMVC 2021, Oral
+
+
+	Learning an Augmented RGB Representation with Cross-Modal Knowledge Distillation for Action Detection
+Rui Dai, Srijan Das, Francois Bremond.
+ICCV 2021
+
+	PDAN: Pyramid Dilated Attention Network for Action Detection.
+Rui Dai, Srijan Das, Luca Minciullo, Lorenzo Garattoni, Gianpiero Francesca and Francois Bremond.
+WACV 2021
+Code / Video / Poster
+
+2020
+
+	VPN: Learning Video-Pose Embedding for Activities of Daily Living
+Srijan Das, Saurav Sharma, Rui Dai, Francois Bremond, Monique Thonnat.
+ECCV 2020
+
+Code
+
+	Looking deeper into Time for Activities of Daily Living Recognition
+Srijan Das, Monique Tonnat and Francois Bremond.
+WACV 2020
+
+
+2019
+
+	Toyota Smarthome: Real World Activities of Daily Living.
+Srijan Das, Rui Dai, Michal Koperski, Luca Minciullo, Lorenzo Garattoni, Francois Bremond and Gianpiero Francesca.
+ICCV 2019
+
+Project Link / Code
+
+	Where to focus on for Human Action Recognition?
+Srijan Das, Arpit Chaudhary, Francois Bremond and Monique Thonnat.
+WACV 2019
+
+Datasets
+
+Toyota Smarthome Trimmed (2019)
+Toyota Smarthome Untrimmed (2021)
+MAVREC Dataset (2023)   
+ADL-X Dataset (2024)   
+
+Talks
+
+Mar 2024    Talk on "Computer Vision Projects in CharMLab" in a RoundTable discussion on AI in conjunction with the Defense Alliance of NC (DANC) and the Michael Best Law Firm.
+Feb 2024    Invited Online Tech Talk on "From Pixels to Robots: Recipes for Vision-Enabled Robot Learning" at Christ University, Bangalore, India.
+Dec 2023    Invited Talk on "Video Understanding using AI" as part of the "AI and ROS for Robotics: Theory and Practice" short-term training program at IIITDM.
+Jun 2023    Invited Talk on "Computer Vision for Robot Learning" as part of the "AI and Machine Vision for Robotics" short-term training program at IIITDM. (Virtually)
+Apr 2023    Talk on "From Few to More: Enhancing ViT Performance on Limited Data" at PHPC Lab in UNC Charlotte.
+Mar 2023    Talk on "From Pixels to Robots: Recipes for Vision-Enabled Robot Learning" at the Seminar on Controls and Robotics in UNC Charlotte.
+Jan 2023    Talk on "Quo vadis, computer vision!" at the PhD seminar in UNC Charlotte.
+Mar 2022    Invited Talk in AICTE sponsored Short Term Course on "Multiple Modalities are all you need for Video Understanding!" at IIITDM Kancheepuram. (Virtually)
+Sep 2021    Talk on "Vision for understanding Activities of Daily Living" at SciTech Talks . [video]
+Apr 2021    Seminar talk on "How to combine modalities for understanding Activities of Daily Living? " for CSE 600 at Stony Brook University, NY, USA.
+Nov 2020    Seminar talk on "How to combine RGB & Poses for understanding Activities of Daily Living?" at Université Lumière Lyon 2.
+Nov 2019    Nice Data Science meetup . [slides]
+Aug 2018    Summer School Brain Innovation Generation @ UCA . [slides]
+
+Teaching
+
+Fall 2024 ITCS 6010/8010 Advanced Computer Vision (Topics Course)
+Fall 2022, Spring 2023, Fall 2023, Spring 2024 ITCS 4152/5152 Computer Vision
+Aug 2021    Surviving the Deep Learning Apocalypse (SKFGI Webinar series 2020)
+
+Video Understanding: How to model Time? [video]
+Tips to attend attention! [video]
+
+Jan 2021    Deep Learning Winter School for Computer Vision 2019-20
+
+Introduction to video classification & RNN. [slides] [assignment1] [Practical 1]
+Action Classification in videos [slides]
+Attention Mechanisms for video analytics [slides] [assignment2] [Practical 2]
+
+Academic Activities
+
+Program committee member of AAAI-24 Student Program.
+Associate Editor for ICRA 2024.
+Member of DEI committe for CVPR 2023.
+Senior Program Committee Member for AAAI 2023 and AAAI 2024.
+Session chair for Image Understanding & Activity Recognition session at IPAS 2020.
+Mentored for B.E.N.J.I. in GirlScript Summer of Code 2019 edition.
+Mentor for the Emerging Technology Business Incubator (ETBI) Led by NIT Rourkela, a platform envisaged to transform the start-up ecosystem of the region.
+Reviewer at ICACIE 2017, 2018, SETIT 2018, KCST 2019, ICAML 2019, AVSS 2019, 2022, WACV 2020, 2021, 2022, CVPR 2021, 2022, 2023, 2024, ECCV 2022, 2024, ICCV 2021, 2023, AAAI 2023, NeurIPS 2023, IROS 2021, 2024.
+Reviewer at TPAMI, Pattern Recognition, Elsevier Journal of CVIU, Elsevier Journal of FGCS, Elsevier Journal of Computer & Electrical Engineering, MTAP, and Journal of Signal Processing: Image Communication.
+Volunteer at ICACNI 2014, ICACNI 2016, ICCV 2019, ICLR 2020 & ICML 2020.
+
+
+
+
+Thanks to Jon Barron for the theme.
+
+

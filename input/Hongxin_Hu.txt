@@ -1,0 +1,386 @@
+Professor: Hongxin Hu
+University: University at Buffalo
+URL: https://cse.buffalo.edu/~hongxinh
+Description: Hongxin Hu
+Professor
+
+Department of Computer Science and Engineering
+University at Buffalo
+The State University of New York (SUNY)
+
+Office: 311 Davis Hall, Buffalo, NY 14260
+Email: hongxinh@buffalo.edu
+
+	
+Quick Links: [ Research | Publications | Teams | Teaching | Awards | Services ]
+Short Bio (CV)
+
+
+I am a Professor in the Department of Computer Science and Engineering at University at Buffalo, SUNY. I am a recipient of the NSF CAREER Award (2019) and Amazon Research Award (2022). My research spans security, networking, and machine learning. Given the interdisciplinary nature of my work, I have published across a wide range of well-recognized conferences, including security (S&P, CCS, USENIX Security, and NDSS), networking (SIGCOMM and NSDI), machine learning (NeurIPS, ICML, and EMNLP), and human-computer interaction (CHI and CSCW). My research has been funded by NSF (SaTC, CNS, IIS, OAC, SOC, etc.), NSA, USDOT, VMware, Amazon, Google, Dell, etc. I am the recipient of ACM SACMAT Test-of-Time Award in 2024, and the Best Paper Awards from ACM ASIACCS (2022), ACSAC (2020), IEEE ICC (2020), ACM SIGCSE (2018), and ACM CODASPY (2014). My research has won the First Place Award in ACM SIGCOMM 2018 SRC. My research has also been featured by the IEEE Special Technical Community on Social Networking and received wide press coverage including ACM TechNews, InformationWeek, Slashdot, NetworkWorld, etc.
+
+News
+
+05/2024 [Award]: Our paper "Game Theoretic Analysis of Multiparty Access Control in Online Social Networks", published in SACMAT 2014, has been selected for the 2024 ACM SACMAT Test-of-Time Award.
+03/2024 [Paper]: Our paper "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision Language Models" has been accepted to USENIX Security 2024.
+02/2024 [Paper]: Our paper "A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning" has been accepted to CVPR 2024.
+01/2024 [Paper]: Our paper "Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces" has been accepted to WWW 2024.
+10/2023 [Paper]: Our paper "Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models" has been accepted to S&P 2024.
+07/2023 [Paper]: Our paper "Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming" has been accepted to NSDI 2024.
+09/2023 [Paper]: Our paper "GAN You See Me? Enhanced Data Reconstruction Attacks against Split Inference" has been accepted to NeurIPS 2023.
+06/2023 [Paper]: Our paper "SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase" has been accepted to CCS 2023.
+05/2023 [Paper]: Our paper "Analysis of COVID-19 Offensive Tweets and Their Targets" has been accepted to KDD 2023.
+02/2023 [Paper]: Our paper "Return-to-Non-Secure Vulnerabilities on ARM Cortex-M TrustZone: Attack and Defense" has been accepted to DAC 2023.
+12/2022 [Award]: I received UB CSE Outstanding Research Award.
+10/2022 [Paper]: Our paper "Multi-level Distillation of Semantic Knowledge for Pre-training Multilingual Language Model" has been accepted to EMNLP 2022.
+09/2022 [Paper]: Our paper "xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses" has been accepted to USENIX Security 2023.
+09/2022 [Paper]: Our paper "Measuring Data Reconstruction Defenses in Collaborative Inference Systems" has been accepted to NeurIPS 2022.
+07/2022 [Paper]: Our paper "Enabling High Quality Real-Time Communications with Adaptive Frame-Rate" has been accepted to NSDI 2023.
+05/2022 [Best Paper Award]: Our paper "Understanding and Detecting Remote Infection on Linux-based IoT Devices" won the Best Paper Award at ASIACCS 2022.
+04/2022 [Award]: I received an Amazon Research Award for Deep Learning-based Intrusion Detection Systems.
+02/2022 [Student]: Congrats to my Ph.D. student Nishant Vishwamitra who will join the Department of Information Systems and Cyber Security at UT San Antonio as a tenure-track Assistant Professor.
+12/2021 [Paper]: Our paper "IMap: Fast and Scalable In-Network Scanning with Programmable Switches" has been accepted to NSDI 2022.
+09/2021 [Paper]: Our paper "SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild" has been accepted to USENIX Security 2022.
+More news...
+Research Interests
+
+Emerging Network Technologies and Security (5G/Next-G, NFV, SDN, Edge, etc.)
+Hairpin [NSDI'24], xNIDS [USENIX Security'23], AFR [NSDI'23], IMap [NSDI'22], Poseidon [NDSS'20], Martini [ICNP'20], Octans [INFOCOM'19], PiTree [MM'19], vNIDS [CCS'18], Grus [ICNP'18], PAM [SIGCOMM'18 SRC], VFW Controller [NDSS'17], NFP [SIGCOMM'17], SDPA [ICNP'15], FlowGuard [HotSDN'14], etc.
+AI for Social Good (Online Hate, Unsafe Children Games, Cyberbullying, etc. )
+HateGuard [S&P'24], UGCG-Guard [USENIX Security'24], BullyDefender [NDSS'21], AutoPri [CODASPY'22], Taxonomy [CHI'20], PETSP [CSCW'18], PMAC [SACMAT'17], GTA [SACMAT'14], SocialImpact [ESORICS'12], Retinue [ACSAC'11], etc.
+Machine Learning for Security, Privacy, and Networking
+FORA [CVPR'24], GLASS++ [NeurIPS'23], xNIDS [USENIX Security'23], SFD [NeurIPS'22], CARTL [ICML'21], Metis [SIGCOMM'20], DeepPower [ASIACCS'20], CrescendoNet [ICMLA'18], PCNN [ICMLA'16], etc.
+Security and Privacy in IoT and CPS
+GDPR [WWW'24], SkillScanner [CCS'23], SkillDetective [USENIX Security'22], Soter [ASIACCS'22], IoTSafe [NDSS'21], VPASec [CCS'20], VPAPri [ACSAC'20], DeepPower [ASIACCS'20], IoTMon [CCS'18], etc.
+Selected and Recent Publications [Google Scholar] [All Publications]
+Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision Language Models
+Keyan Guo, Ayush Utkarsh, Wenbo Ding, Isabelle Ondracek, Ziming Zhao, Guo Freeman, Nishant Vishwamitra and Hongxin Hu
+In Proceedings of the 33rd USENIX Security Symposium (USENIX Security 2024), Philadelphia, PA, USA, August 14-16, 2024
+
+A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning
+Xiaoyang Xu, Mengda Yang, Wenzhe Yi, Ziang Li, Juan Wang, Hongxin Hu, Yong Zhuang and Yaxin Liu
+In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024), Seattle, WA, USA, June 17-21, 2024
+Acceptance rate: 23.6%
+
+Understanding GDPR Non-Compliance in Privacy Policies of Alexa Skills in European Marketplaces
+Song Liao, Mohammed Aldeen, Jingwen Yan, Long Cheng, Xiapu Luo, Haipeng Cai and Hongxin Hu
+In Proceedings of the 2024 ACM Web Conference (WWW 2024), Singapore, May 13-17, 2024
+
+Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models [PDF]
+Nishant Vishwamitra, Keyan Guo, Farhan Tajwar Romit, Isabelle Ondracek, Long Cheng, Ziming Zhao and Hongxin Hu
+In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P 2024), San Francisco, CA, USA, May 20-23, 2024
+
+Hairpin: Rethinking Packet Loss Recovery in Edge-based Interactive Video Streaming
+Zili Meng, Xiao Kong, Jing Chen, Bo Wang, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu and Xue Wei
+In Proceedings of the 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 2024), Santa Clara, CA, USA, April 16-18, 2024
+
+GAN You See Me? Enhanced Data Reconstruction Attacks against Split Inference
+Ziang Li, Mengda Yang, Yaxin Liu, Juan Wang, Hongxin Hu, Wenzhe Yi and Xiaoyang Xu
+In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, LA, USA, Dec 10-16, 2023
+Acceptance rate: 26.1%
+
+SkillScanner: Detecting Policy-Violating Voice Applications Through Static Analysis at the Development Phase
+Song Liao, Long Cheng, Haipeng Cai, Linke Guo and Hongxin Hu
+In Proceedings of the ACM Conference on Computer and Communications Security (CCS 2023), Copenhagen, Denmark, November 26-30, 2023
+
+xNIDS: Explaining Deep Learning-based Network Intrusion Detection Systems for Active Intrusion Responses [PDF]
+Feng Wei, Hongda Li, Ziming Zhao and Hongxin Hu
+In Proceedings of the 32nd USENIX Security Symposium (USENIX Security 2023), Anaheim, CA, USA, August 9-11, 2023
+
+Analysis of COVID-19 Offensive Tweets and Their Targets
+Song Liao, Ebuka Okpala, Long Cheng, Mingqi Li, Nishant Vishwamitra, Hongxin Hu, Feng Luo and Matthew John Costello
+In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2023), Long Beach, CA, USA, August 6-10, 2023
+
+Enabling High Quality Real-Time Communications with Adaptive Frame-Rate
+Zili Meng, Tingfeng Wang, Yixin Shen, Bo Wang, Mingwei Xu, Rui Han, Honghao Liu, Venkat Arun, Hongxin Hu and Xue Wei
+In Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2023), Boston, MA, USA, April 17-19, 2023
+Acceptance rate: 50/272 = 18.3%
+
+Return-to-Non-Secure Vulnerabilities on ARM Cortex-M TrustZone: Attack and Defense
+Zheyuan Ma, Xi Tan, Lukasz Ziarek, Ning Zhang, Hongxin Hu and Ziming Zhao
+In Proceedings of the 60th ACM/IEEE Design Automation Conference (DAC 2023), San Francisco, CA, USA, July 9-13, 2023
+
+Multi-level Distillation of Semantic Knowledge for Pre-training Multilingual Language Model
+Mingqi Li, Fei Ding, Dan Zhang, Long Cheng, Hongxin Hu and Feng luo
+In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Abu Dhabi, Dec 7-11, 2022
+
+Measuring Data Reconstruction Defenses in Collaborative Inference Systems
+Mengda Yang, Juan Wang, Hongxin Hu, Ao Ren, Ziang Li, Xiaoyang Xu and Wenzhe Yi
+In Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2022), New Orleans, LA, USA, Nov 28 - Dec 9, 2022
+Acceptance rate: 25.6%
+
+IMap: Fast and Scalable In-Network Scanning with Programmable Switches [PDF]
+Guanyu Li, Menghao Zhang, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu and Fenghua Li
+In Proceedings of the 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2022), Renton, WA, USA, April 4-6, 2022
+Acceptance rate: 50/298 = 16.8%
+
+SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild [PDF]
+Jeffrey Young, Song Liao, Long Cheng, Hongxin Hu and Huixing Deng
+In Proceedings of the 31st USENIX Security Symposium (USENIX Security 2022), August 10–12, 2022
+Acceptance rate: 256/1492 = 17.2%
+
+Understanding and Detecting Remote Infection on Linux-based IoT Devices [PDF]
+Hongda Li, Qiqing Huang, Fei Ding, Hongxin Hu, Long Cheng, Guofei Gu and Ziming Zhao
+In Proceedings of 17th ACM ASIA Conference on Computer and Communications Security (ASIACCS 2022), May 30 - June 3, 2022.
+Acceptance rate: 85/463 = 18.4%
+Best Paper Award
+Switches are Scanners Too! A Fast and Scalable In-Network Scanner with Programmable Switches [PDF]
+Guanyu Li, Menghao Zhang, Cheng Guo, Han Bao, Mingwei Xu, Hongxin Hu
+In Proceedings of the 20th ACM Workshop on Hot Topics in Networks (HotNets 2021), November 10-12, 2021
+
+CARTL: Cooperative Adversarially-Robust Transfer Learning [PDF]
+Dian Chen, Hongxin Hu, Qian Wang, Yinli Li, Cong Wang, Chao Shen and Qi Li
+In Proceedings of the 38th International Conference on Machine Learning (ICML 2021), July 18-24, 2021.
+Long presentation, top 3% (166/5513)
+
+Towards Understanding and Detecting Cyberbullying in Real-world Images [PDF]
+Nishant Vishwamitra, Hongxin Hu, Feng Luo and Long Cheng
+In Proceedings of the 28th Network and Distributed System Security Symposium (NDSS 2021), February 21-24, 2021.
+Acceptance rate: 87/573 = 15.2%
+
+IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery [PDF]
+Wenbo Ding, Hongxin Hu and Long Cheng
+In Proceedings of the 28th Network and Distributed System Security Symposium (NDSS 2021), February 21-24, 2021.
+Acceptance rate: 87/573 = 15.2%
+
+Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms [PDF]
+Long Cheng, Christin Wilson, Song Liao, Jeffrey Young, Daniel Dong and Hongxin Hu
+In Proceedings of the ACM Conference on Computer and Communications Security (CCS 2020), November 9-13, 2020.
+Acceptance rate: 121/715 = 16.9%
+
+Measuring the Effectiveness of Privacy Policies for Voice Assistant Applications [PDF]
+Song Liao, Christin Wilson, Long Cheng, Hongxin Hu and Huixing Deng
+In Proceedings of the 2020 Annual Computer Security Applications Conference (ACSAC 2020), December 7-11, 2020
+Acceptance rate: 70/302 = 23.2%
+Distinguished Paper Award
+Interpreting Deep Learning-Based Networking Systems [PDF]
+Zili Meng, Minhu Wang, Jiasong Bai, Mingwei Xu, Hongzi Mao and Hongxin Hu
+In Proceedings of the ACM SIGCOMM Conference (SIGCOMM 2020), August 10-14, 2020.
+Acceptance rate: 54/250 = 21.6%
+Poseidon: Mitigating Volumetric DDoS Attacks with Programmable Switches [PDF]
+Menghao Zhang, Guanyu Li, Shicheng Wang, Chang Liu, Ang Chen, Hongxin Hu, Guofei Gu, Qi Li, Mingwei Xu and Jianping Wu
+In Proceedings of the 27th Network and Distributed System Security Symposium (NDSS 2020), San Diego, CA, USA, February 23-26, 2020.
+Acceptance rate: 88/506 = 17.4%
+
+Towards A Taxonomy of Content Sensitivity and Sharing Preferences for Photos [PDF]
+Yifang Li, Nishant Vishwamitra, Hongxin Hu and Kelly Caine
+In Proceedings of the 2020 ACM Conference on Human Factors in Computing Systems (CHI 2020), Honolulu, Hawaii, USA, April 25-30, 2020.
+Acceptance rate: 760/3126 = 24.3%
+
+SmartChain: Enabling High-Performance Service Chain Partition between SmartNIC and CPU [PDF]
+Shuhe Wang, Zili Meng, Chen Sun, Minhu Wang, Mingwei Xu, Jun Bi, Tong Yang, Qun Huang and Hongxin Hu
+In Proceedings of 2020 IEEE International Conference on Communications (ICC 2020), Dublin, Ireland, June 7-11, 2020.
+Best Paper Award
+On the Safety of IoT Device Physical Interaction Control [PDF]
+Wenbo Ding and Hongxin Hu
+In Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, Canada, October 15-19, 2018.
+Acceptance rate: 134/809 = 16.6%
+
+vNIDS: Towards Elastic Security with Safe and Efficient Virtualization of Network Intrusion Detection Systems [PDF] [PPT]
+Hongda Li, Hongxin Hu, Guofei Gu, Gail-Joon Ahn and Fuqiang Zhang
+In Proceedings of the 25th ACM Conference on Computer and Communications Security (CCS 2018), Toronto, Canada, October 15-19, 2018.
+Acceptance rate: 134/809 = 16.6%
+
+Effectiveness and Users' Experience of Obfuscation as a Privacy-Enhancing Technology for Sharing Photos [PDF]
+Yifang Li, Nishant Vishwamitra, Bart P. Knijnenburg, Hongxin Hu and Kelly Caine
+In Proceedings of the 21st ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2018), Jersey City, NJ, USA, November 3-7, 2018.
+Acceptance rate: 105/384 = 27.3%
+
+PAM: When Overloaded, Push Your Neighbor Aside! [PDF]
+Zili Meng, Jun Bi, Chen Sun, Shuhe Wang, Minhu Wang and Hongxin Hu
+In Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos, Budapest, Hungary, August 20-25, 2018.
+First Place in SIGCOMM 2018 SRC
+Enhancing Security Education Through Designing SDN Security Labs in CloudLab [PDF]
+Younghee Park, Hongxin Hu, Xiaohong Yuan and Hongda Li
+In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE 2018), Baltimore, Maryland, USA, February 21-24, 2018.
+Best Paper Award
+NFP: Enabling Network Function Parallelism in NFV [PDF] [PPT]
+Chen Sun, Jun Bi, Zhilong Zheng, Heng Yu and Hongxin Hu
+In Proceedings of the ACM SIGCOMM Conference (SIGCOMM 2017), Los Angeles, CA, USA, August 21-25, 2017.
+Acceptance rate: 36/250 = 14.4%
+
+On the Safety and Efficiency of Virtual Firewall Elasticity Control [PDF]
+Juan Deng*, Hongda Li*, Hongxin Hu, Kuang-Ching Wang, Gail-Joon Ahn, Ziming Zhao and Wonkyu Han
+In Proceedings of the 24th Network and Distributed System Security Symposium (NDSS 2017), San Diego, CA, USA, February 26 - March 1, 2017 (*co-first author)
+Acceptance rate: 68/423 = 16.1%
+
+Teaching
+Fall 2024: CSE 565: Computer Security
+Spring 2024: CSE 569: Network Security
+Fall 2023: CSE 704 - Seminar: Machine Learning and Cybersecurity
+Fall 2023: CSE 565: Computer Security
+Spring 2023: CSE 702 - Seminar: Machine Learning and Cybersecurity
+Fall 2022: CSE 489/589: Modern Network Concepts
+Spring 2022: CSE 610 - Special Topic: Security in Emerging Cyber Physical Systems
+Fall 2021: CSE 489/589: Modern Network Concepts
+Spring 2021: CSE 707 - Seminar: Security in Emerging Computing and Networking Systems
+Fall 2020: CPSC 8580 - Security in Emerging Computing and Networking Systems
+Spring 2020: CPSC 8570 - Security in Advanced Networking Technologies
+Fall 2019: CPSC 8580 - Security in Emerging Computing and Networking Systems
+Spring 2019: CPSC 8570 - Security in Advanced Networking Technologies
+Fall 2018: CPSC 8580 - Security in Emerging Computing and Networking Systems
+Fall 2018: CPSC-4200/6200 - Computer Security Principles
+Spring 2018: CPSC 8580 - Security in Emerging Computing and Networking Systems
+Fall 2017: CPSC-4200/6200 - Computer Security Principles
+Spring 2017: CPSC 8570 - Security in Advanced Networking Technologies
+Fall 2016: CPSC-4200/6200 - Computer Security Principles
+Fall 2016: CPSC 8580 - Security in Emerging Computing and Networking Systems
+Spring 2016: CPSC 8810 - Advanced Networking and Security
+Fall 2015: CPSC-4200/6200 - Computer Security Principles
+Spring 2015: CPSC 8810 - Advanced Networking and Security
+Fall 2014: CPSC 8810 - Security in Emerging Computing and Networking Systems
+Awards and Recognition
+ACM SACMAT Test-of-Time Award, 2024
+Outstanding Research Award, UB CSE Department, 2022
+Best Paper Award, ACM ASIACCS, 2022
+Amazon Faculty Research Award, 2022
+Distinguished Paper Award, ACSAC, 2020
+Best Paper Award, IEEE ICC, 2020
+NSF CAREER Award, 2019
+First Place, ACM SIGCOMM SRC, 2018
+Best Paper Award, ACM SIGCSE, 2018
+Dean's Faculty Fellows Award, CECAS, Clemson University, 2017
+Best Paper Award Honorable Mention, ACM SACMAT, 2016
+Best Paper Award Nominee, IEEE ICNP, 2015
+Best Applied Security Paper Award TOP-10 Finalist, SCAW, 2015
+Front Page News, Post and Courier, 2015
+Third Place, Extreme SDN Innovation Challenge, 2015
+Best Paper Award, ACM CODASPY, 2014
+Featured Article, IEEE Special Technical Community on Social Networking (STCSN), 2013
+Outstanding Ph.D. Student Finalist in Compter Science, ASU, 2012
+ACSAC Conferenceship Award, ACSAC, 2011
+Best Paper Award Nominee, ACM SACMAT, 2011
+IBM PhD Fellowship Nominee, UNCC, 2008
+Professional Activities
+
+Associate Editor:
+
+IEEE Transactions on Dependable and Secure Computing (TDSC). 2020 - Present
+Computers & Security (COSE). 2020 - Present
+Cybersecurity & Privacy. Frontiers in Big Data, 2018 - Present
+
+Guest Editor:
+
+Special Issue of Network Traffic Analytics in the Era of AI and SDN. Computer Networks, 2021
+Special Issue of Security in Emerging Networking Technologies. IEEE Transactions on Dependable and Secure Computing (TDSC), 2017/2018
+Special Issue of Advances in Steganography and Multimedia Security for Big Data. International Journal of Distributed Sensor Networks (IJDSN), 2019
+Special Issue of NFV Technologies. China Communications, 2018
+Special Issue of Adaptive Mobile Crowd Sensing Security for BYOD Convergence in Mobile Creative Research. Mobile Information System, 2016
+Special Issue of Security & Privacy Mechanisms for Sensor Middleware and Application in Internet of Things (IoT). International Journal of Distributed Sensor Networks, 2015
+Special Issue of TrustCol2014. EAI Endorsed Transactions on Collaborative Computing, 2015
+
+Program Chair:
+
+TPC Co-Chair (SDN/NFV Track): International Conference on Computer Communications and Networks (ICCCN), 2021
+TPC Co-Chair: ACM International Workshop on Security in Software Defined Networks & Network Function Virtualization (SDN-NFV Security), 2016, 2017, 2018, 2019
+TPC Co-Chair: IEEE International Workshop on Trusted Collaboration (TrustCol), 2014, 2015, 2016
+TPC Co-Chair: IEEE International Workshop Big Data Security and Services (BigDataService), 2017, 2018
+
+Poster Chair:
+
+ACM Conference on Data and Application Security and Privacy (CODASPY), 2018, 2019, 2020, 2021, 2022
+
+Proceedings Chair:
+
+ACM Conference on Data and Application Security and Privacy (CODASPY), 2017
+ACM Symposium on Access Control Models and Technologies (SACMAT), 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Workshop Chair:
+
+Annual Computer Security Applications Conference (ACSAC), 2022
+
+Publicity Chair:
+
+ACM Symposium on Access Control Models and Technologies (SACMAT), 2015
+
+Session Chair:
+
+ACM Conference on Data and Application Security and Privacy (CODASPY), 2018
+ACM Symposium on Access Control Models and Technologies (SACMAT), 2017
+ACM Conference on Computer and Communications Security (CCS), 2014
+IEEE International Workshop on Trusted Collaboration (TrustCol), 2011
+
+Web Chair:
+
+ACM Conference on Computer and Communications Security (CCS), 2014
+
+Technical Program Committee:
+
+IEEE Symposium on Security and Privacy (S&P), 2025
+ACM Conference on Computer and Communications Security (CCS), 2023, 2024
+Network and Distributed System Security Symposium (NDSS), 2025
+The Web Conference (WWW), 2019, 2021, 2022
+Annual Computer Security Applications Conference (ACSAC), 2018, 2019, 2020, 2021, 2022, 2023, 2024
+ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2018, 2020, 2021, 2022
+ACM Conference on Data and Application Security and Privacy (CODASPY), 2018, 2021, 2022, 2023, 2024
+ACM Symposium on Access ControlModels and Technologies (SACMAT), 2013, 2014, 2015, 2018, 2019, 2020, 2021, 2022, 2023
+IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, 2023
+IEEE International Conference on Computer Communications and Networks (ICCCN), 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+ACM Symposium on Applied Computing (SAC), Internet of Things (IoT) track, 2018, 2019, 2020, 2021, 2022
+ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2020
+IEEE/ACM International Symposium on Quality of Service (IWQoS), 2021
+IFIP Networking Conference (NETWORKING), 2019, 2020
+IEEE Conference on Communications and Network Security (CNS), 2017, 2018, 2019, 2020, 2021, 2022, 2023
+International Conference on Information and Communications Security (ICICS), 2018
+International Conference on Privacy, Security and Trust (PST), 2017, 2018, 2019
+ACM SIGCOMM Workshop on Security in Softwarized Networks: Prospects and Challenges (SecSoN), 2018
+ACM SIGCOMM Workshop on Internet of Things Security and Privacy (IoT S&P), 2018
+IEEE International Conference on Mobile Ad-hoc and Smart Systems (MASS), 2019
+IEEE International Conference on Cloud Networking (CloudNet), 2018
+ACM CCS Workshop on Internet of Things Security and Privacy (IoT S&P), 2017
+ACM International Workshop on Multimedia Privacy and Security (MPS), 2017, 2018
+IEEE INFOCOM CrossCloud Workshop (CrossCloud), 2014, 2016, 2017, 2018
+IEEE International Conference on Parallel and Distributed Systems (ICPADS), 2016
+IEEE Global Communications Conference (GLOBECOM), 2015
+IEEE International Conference on Advanced and Trusted Computing (ATC), 2016, 2017
+International Conference on Computing and Network Communications (CoCoNet), 2015
+Workshop on Action Languages, Process Modeling, and Policy Reasoning (ALPP), 2015
+IEEE ICNP CoolSDN Workshop (CoolSDN), 2014, 2015, 2016
+International Workshop on Access Control Policies, Models and Mechanisms (ACPM), 2014
+IEEE International Workshop on Trusted Collaboration (TrustCol), 2013
+International Symposium on Cyberspace Safety and Security (CSS), 2013
+International Conference on Mobile, Ubiquitous, and Intelligent Computing (MUSIC), 2013
+FTRA International Symposium on Advances in Cryptography, Security and Applications for Future Computing (ACSA-Summer), 2012
+
+Conference Paper Reviewer:
+
+ACM Conference on Computer and Communications Security (CCS), 2005-2007, 2013, 2016, 2017, 2018
+ACM CHI Conference on Human Factors in Computing Systems (CHI), 2018
+ACM Symposium on Access Control Models And Technologies (SACMAT), 2005- 2013
+ACM Conference on Data and Application Security and Privacy (CODASPY), 2011 - 2013
+International World Wide Web Conferences (WWW)--Security and Privacy Track, 2009-2011
+ACM Symposium on Applied Computing (SAC)--Computer Security Track. 2006-2011
+ACM Symposium on Information, Computer and Communications Security (AsiaCCS), 2006-2008
+
+Journal Paper Reviewer:
+
+ACM Transactions on Privacy and Security
+ACM Transactions on Information and System Security
+ACM Transactions on Software Engineering and Methodology
+ACM Transactions on Internet Technology
+IEEE Transactions on Dependable and Secure Computing
+IEEE Transactions on Computers
+IEEE Transactions on Knowledge and Data Engineering
+IEEE/ACM Transactions on Networking
+IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Services Computing
+IEEE Transactions on Network and Service Management
+IEEE Internet Computing
+Journal of Computer Security
+Computers & Security
+Security and Communication Networks
+IBM Journal of Research and Development
+International Journal of Information Security
+International Journal of Network Management
+Journal of Systems and Software
+Journal of Data & Knowledge Engineering
+Journal of Biomedical Informatics
+Journal of Organizational Computing and Electronic Commerce
+International Journal of Computer Systems Science and Engineering
+Security and Communication Networks
+IET Information Security
+Wireless Networks
+Cluster Computing
+Sensors
+Journal of Network and Computer Applications
+Journal of Computer Science and Technology
+

@@ -1,0 +1,66 @@
+Professor: Danfeng Zhang
+University: Duke University
+URL: https://users.cs.duke.edu/~dz132
+Description: DANFENG ZHANG
+
+
+ 
+
+Associate Professor
+Department of Computer Science
+Trinity College of Arts and Sciences
+Duke University
+LSRC Building D342
+308 Research Drive Box 90129
+Duke University
+Durham, NC 27708
+Phone: (1) 919-660-6500
+E-mail: dz132 (domain: duke.edu)
+Danfeng Zhang is an Associate Professor at Duke University. Before joining Duke University in 2023, he was an Associate Professor at Penn State University.
+
+Research Statement
+
+Software plays a crucial rule in the digital age. Yet, it is still very challenging to develop correct and secure software, even for veteran software developers. The goal of my research is to prove the absence of software errors, and further, generate fixes when things go wrong. My research currently includes security, privacy, type safety and software correctness.
+
+Selected Projects [Google scholar] [Complete List]
+Differential privacy: Differential privacy provides a mathematical definition for the privacy loss to individuals when aggregated data is released. Unfortunately, the growing popularity of differential privacy is accompanied by an increase in the development of incorrect algorithms. We explore novel approaches to prove correct mechanisms, and/or generate counterexamples for incorrect mechanisms.
+
+Side channel security: Side-channel attacks exploit information gathered from the physical implementation of computer systems to steal sensitive data. They are becoming an increasingly important attack surface, as evidenced by the Spectre and Meltdown attacks. We explore novel approaches to detect and mitigate side channel attacks in software and hardware.
+
+Information flow security: Information flow security constrains the flow of information in a computer system to preserve the confidently and integrity of data. We explore proving the absence of information flow errors in complex computer system.
+
+Type errors and dynamic errors: Localizing program errors (both static and and dynamic errors) is still an extremely time consuming task. We look for general and precise methods for localizing errors based Bayesian reasoning.
+
+Honors and Awards
+NSF CAREER Award, 2020
+The Caspar Bowden PET Award, Runner-Up, 2019
+CCS'18 Outstanding Paper Award, 2018
+PLDI'15 Distinguished Paper Award, 2015
+Teaching
+CMPSC 447: Software Security, Penn State Univ. Spring 2021.
+CMPSC 461: Programming Language Concepts, Penn State Univ. Falls of 2015-2021.
+CSE 523: Programming Languages, Penn State Univ. Spring 2022.
+CSE 597: Language-Based Security, Penn State Univ. Spring 2016, 2019, 2020.
+Students
+PhD
+Sixuan Dang (since Fall 2022)
+Jeffrey Ching (since Fall 2021)
+Feiyang Yu (since Fall 2021)
+Quan Zhou (since Fall 2019)
+Yingtai Xiao (co-advised with Dan Kifer, since Fall 2019)
+Masters
+Cong Ma (2021), Alexander Malis (2020), Adam Mohammed (2019)
+Undergraduates
+Xiang Li (2016), Yu-Tse Lin (2016), Haojun Sui (Schreyer Scholar, 2017), Zichao Zhang (Schreyer Scholar, 2018), Ernest DeFoy (2019), Tesla Zhang (2019), Jianyu Mao(Schreyer Scholar, 2020), Andrew Yang (Schreyer Scholar, 2021), Paul Scott(Schreyer Scholar, 2021), Michael Bullington (Schreyer Scholar, 2021)
+Graduated Students
+Zeyu Ding (PhD Thesis: Violation Detection, Extra Information Release and Secure Implementation for Differentially Private Mechanisms, first job: Binghamton University)
+Yuxin Wang (PhD Thesis: Automated Programming Frameworks for Analyzing Differential Privacy, first job: Uber)
+Peixuan Li (PhD Thesis: Towards Practical Information Flow Security, first job: Amazon)
+Robert Brotzman (PhD Thesis: Detecting and Mitigating Cache-Based Side-Channels, first job: Perspecta Labs)
+Professional Activities
+Program Committee: POPL 2024, POPL 2023 SRC (co-chair), APLAS 2023, PLAS Steering Committee, PLDI 2022, PLAS 2021 (co-chair),CCS 2021, PLDI 2021, CCS 2020, FCS 2020, LangSec 2020, CSF 2019, CCS 2019, TPDP2019, POPL 2018, CCS 2018, APLAS 2018, SATE 2018, PASS 2018, SecDev 2018, APLAS 2017, PLAS 2017, SecDev 2017, SecDev 2016
+Reviewer: Oakland'11&'12&'15, CCS'13&'14&17, POPL'16, ASPLOS'13&'14, ICFP'15, PLAS'13, POST'14.
+Grants
+
+My research is currently supported by NSF 2401182, 2401496, 2317232 as well as a gift from Intel.
+

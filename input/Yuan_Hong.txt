@@ -1,0 +1,151 @@
+Professor: Yuan Hong
+University: University of Connecticut
+URL: https://yhongcs.github.io/
+Description: Dr. Yuan Hong
+
+School of Computing, University of Connecticut
+
+Home
+Publications
+People
+Services
+
+Address: 371 Fairfield Way
+Unit 4155, Storrs, CT 06269
+
+Office: ITE-265
+Email: yuan.hong AT uconn.edu
+
+
+Short Bio
+
+Dr. Yuan Hong is an Associate Professor in the School of Computing at University of Connecticut (UConn) and affiliated with the Connecticut Advanced Computing Center (CACC). Prior to joining UConn in 2022, he was an Assistant Professor in Computer Science and Cybersecurity Program Director at Illinois Institute of Technology. He received his Ph.D degree from Rutgers University, M.Sc degree from Concordia University, Montreal, Canada, and B.Sc degree from Beijing Institute of Technology, respectively. He is a recipient of the NSF CAREER Award (2021), Cisco Research Award (2022, 2023), and the finalist of the Meta Research Award (2021). He also received a National Physics Olympiad Prize in China. He is broadly interested in fundamental research in Security and Privacy (e.g., Differential Privacy, Secure Computation, Applied Cryptography, Adversarial Attacks, Provable Defenses) while intersecting with Cyber-Physical Systems, Machine Learning, Computer Vision, NLP, and Theory. His research works are published in top conferences in Security (S&P, CCS, USENIX Security, NDSS), and Data Science (e.g., SIGMOD, VLDB, CVPR, ECCV, EMNLP, KDD, AAAI), as well as top (interdisciplinary) journals (e.g., multiple IEEE/ACM Trans, T-ITS, TR_C). He is a Senior Member of the ACM and IEEE.
+
+We are always looking for postdocs, Ph.D. students, visiting scholars/students, and undergraduate researchers. Please email your application materials to Dr. Yuan Hong if you are interested in our research.
+
+UConn@CSRankings: Security & Crypto (30th), Overall (65th)
+
+News
+
+[07/2024] Congrats to Shenao for receiving the USENIX Security'24 Student Travel Award. Thanks for the generous support!
+[07/2024] Our optimization-based atttack (breaking SOTA poisoning defenses to federated learning) is accepted to CIKM'24 (Acceptance Rate: 347/1531=23%). Congrats!
+[07/2024] Our certified black-box attack (breaking SOTA defenses with provable confidence and limited resources) is accepted to CCS'24 (Acceptance Rate: TBD). Congrats!
+[07/2024] Our certified defenses for distributed backdoor attacks on federated graph learning is accepted to CCS'24 (Acceptance Rate: TBD). Congrats!
+[06/2024] Our DP data streaming mechanism under the delay-allowed framework is accepted to NDSS'25 (Acceptance Rate: TBD). Congrats!
+[06/2024] Our LLM-assisted backdoor attack to LLM-fine-tuned code generation/completion models is accepted to USENIX Security'24 (Acceptance Rate: TBD). Congrats!
+[06/2024] Hanbin starts his research internship in LLM Security at TikTok/ByteDance in Summer 2024. Congrats!
+[05/2024] Our work on tracing the data poisoning attacks in federated learning is accepted to TIFS. Congrats!
+[04/2024] Congrats to Shuya for receiving the S&P'24 Student Travel Award. Thanks for the generous support!
+[04/2024] Shuya will do research internship in Privacy at Amazon in Summer 2024. Congrats!
+[03/2024] Our work on data poisoning attacks on the traffic state estimation and prediction is accepted to Transportation Research Part C. Congrats!
+[02/2024] Our information-theoretic framework for privacy defense against inference attacks is accepted to USENIX Security'24 (Acceptance Rate: TBD). Congrats!
+[02/2024] Our work on the faithfulness of vision transformer explanations is accepted to CVPR'24 (Acceptance Rate: 23.6%). Congrats!
+[02/2024] Our work on safeguarding user privacy in tool-using LLM agents is accepted to TDSC. Congrats!
+[02/2024] Our work on strong LDP for federated learning is accepted to ACM CODASPY'24 (Acceptance Rate: 34/160=21.25%). Congrats!
+[12/2023] Our work on federated learning privacy against attribute inference attacks is accepted to AAAI'24 (Acceptance Rate: 2342/9862=23.75%). Congrats!
+[11/2023] Our work on local differential privacy for data stream with bounded memory is accepted to SIGMOD'24 (Acceptance Rate: 213/768=27.7%). Congrats!
+[11/2023] Yuan will serve as the Associate Editor for the IEEE Transactions on Dependable and Secure Computing (TDSC).
+[11/2023] Our Computer Science and Engineering (CSE) Department is now officially School of Computing.
+[10/2023] Our work on strict user-level differential privacy for infinite data stream is accepted to S&P'24 (Acceptance Rate: 202/1389=17.8%). Congrats!
+[10/2023] Yuan is elevated to the ACM Senior Member
+[10/2023] Yuan received the Cisco Research Award on certified robustness for emerging ML applications (very grateful to Cisco for the generous support!)
+[09/2023] Our project on data poisoning attacks and infrastructure-enabled defenses for ITS is funded by the NSF CIS Program (very grateful to NSF for the generous support!)
+[07/2023] Our work on certified defenses against adversarial attacks on language models is accepted to S&P'24 (Acceptance Rate: 202/1389=17.8%). Congrats!
+[07/2023] Our project on privately measuring the performance of cellular networks is funded by the NSF IMR Program (very grateful to NSF for the generous support!)
+
+Research Areas and Recent/Selected Publications (source codes will be available on the publications page)
+
+Differential Privacy
+DP Mechanism Design (with New Randomization Theory):
+[S&P'24] DPI: Strict DP for Infinite Data Streams
+[CCS'20] R2DP: Optimal DP with Two-fold Randomization
+Local Differential Privacy:
+[SIGMOD'24] LDP Data Stream with Bounded Memory
+[CODASPY'24] Staircase Randomized Response for Federated Learning
+[VLDB'23] Distance-based LDP for Vertical Federated Tree Boosting
+[CCS'22] Staircase Randomized Response
+DP Applications and Systems:
+[NDSS'25] DP Streaming under Delay-allowed Framework
+[KDD'22] Topic Mining with DP
+[TDSC'21] Vehicle Trajectory Data Sanitization with DP
+[PETS'20] DP Platform for Video Queries (VideoDP)
+[EDBT'20] Queries over Videos with Indistinguishable Objects
+[TDSC'20] Correlated Trajectories with Optimal DP
+[EDBT'12, TDSC'15] Sampling Query Log/Textual Data with DP
+[WI'13] DP Naive Bayes Classifier
+
+Trustworthy Machine Learning: Security/Robustness, Privacy and Fairness
+ML Security Attacks:
+[USENIX Security'24] CodeBreaker: Poisoning/Backdoor Attack on Code Generation/Completion Models
+[CCS'24] Certified Attack with Randomized Adversarial Examples
+[CIKM'24] Breaking SOTA Poisoning Defenses in FL
+[ECML/PKDD'23] Attacking Interpretable Models for Medical Data
+[S&P'22] U3D on Real-Time Video DNN
+[TDSC'22] Data Poisoning on Video DNN
+[CIKM'20] LogBug: Subverting System Log Parsers
+ML Certified Robustness and Empirical Defenses:
+[CCS'24] Certified Defenses for Distributed Backdoor Attacks on Federated Graph Learning
+[S&P'24] Text-CRS on Language Models
+[TIFS'24] FLTracer: Poisoning Provenance in FL
+[ECCV'22] Universal Certified Robustness
+[preprint] Anisotropic Certified Robustness
+[preprint] Defending against Gradient-based Attacks
+ML Privacy:
+[USENIX Security'24] Inf2Guard against Inference Attacks
+[TDSC'24] PrivacyAsst: Safeguarding User Privacy in Tool-Using LLM Agents
+[AAAI'24] Private Federated Learning Against Attribute Inference Attacks
+[EMNLP'21] Attacking Instance Encoding for NLP
+[ICPR'20] Privacy Attribute Identification
+Please See Differential Privacy and Secure Multiparty Computation for More Privacy Defenses
+Other Trustworthiness:
+[CVPR'24] Faithfulness of Vision Transformer Explanations
+
+Secure Multiparty Computation (MPC) and Cryptosystems
+Private Information Retrieval (PIR)
+[ePrint] Pai: PIR with Constant Online Time
+CryptoDNN
+[CCS'22-P] Crypto3D
+[ICASSP'21] PROUD
+Property-preserving Encryption
+[ICDE'22, TKDE'21] Inference-proof Data Outsourcing with Prefix-preserving Encryption
+[CCS'18, TOPS'21] Multi-view Network Trace Encryption/Anonymization
+Cloud Privacy and Integrity
+[TIFS'19] Live Forensics with Integrity in the Cloud
+MPC Acceleration
+[ICCD'19] Scheduling for Ring ORAM
+
+Cyber-Physical Systems Security and Privacy
+IoT Privacy
+[TDSC'24] ASR Speech Privacy
+[TIFS'17] Private Smart Meter Streaming against Inference Attacks
+ITS and V2X
+[TR_C'24] Data Poisoning Attacks on Traffice State Estimation and Prediction
+[T-ITS'23] GPS Spoofing Detection and Correction
+[T-ITS'21] Dynamic Pricing for Electric Vehicles
+MPC for Multi-agent Systems in the Smart Grid
+[ICDCS'21] Private Double Auction for Energy (TEE-Blockchain)
+[ICDCS'20] Distributed Energy Trading
+[AAMAS'20] Private Double Auction for Energy (MPC)
+[AAMAS'19, TIFS'20] Distributed Load Balancing (Privacy and Integrity)
+[ICASSP'18] Private Energy Exchanging
+
+Optimization
+Security and Privacy
+[Optimization Letters'14] Inference-proof Linear Programs
+[JCS'12] Secure and Incentive Compatible Linear Programs
+Miscellaneous
+[TMIS'20] Rank-one Matrix Factorization Applications
+[Operational Research'20] TSP Solver
+[TEM'17] Scheduling under Stochastic and Dynamic Disruptions
+
+Teaching
+
+Cybersecurity Lab: Fall 23, Spring 24, Fall 24
+Computer Security: Spring 23
+CSE Design Project: 2022-2023
+Cryptography: Spring 21, Spring 20
+Data Privacy and Security: Fall 21, Fall 20, Spring 19, Spring 18
+Database Organization: Spring 22, Fall 19, Fall 18, Fall 17
+Doctoral Seminar: Spring 18
+Earlier Teaching: Cybercrime, Forensics, Computer Network
+

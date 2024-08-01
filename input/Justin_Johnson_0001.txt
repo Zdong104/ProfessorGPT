@@ -1,0 +1,149 @@
+Professor: Justin Johnson 0001
+University: University of Michigan
+URL: https://cs.stanford.edu/people/jcjohns
+Description: Justin Johnson
+justincj at umich dot edu
+[GitHub] [Google Scholar] [Twitter]
+About
+I am an Assistant Professor at the University of Michigan and a Research Scientist at Facebook AI Research (FAIR).
+I'm broadly interested in computer vision and machine learning. My research involves visual reasoning, vision and language, image generation, and 3D reasoning using deep neural networks.
+I received my PhD from Stanford University, advised by Fei-Fei Li.
+Students
+PhD Students
+Karan Desai
+Nilesh Kulkarni (Co-advised with David Fouhey)
+Mohamed El Banani
+Chris Rockwell (Co-advised with David Fouhey)
+Ang Cao
+Tiange Luo (Co-advised with Honglak Lee)
+Teaching
+University of Michigan
+EECS 498/598: Deep Learning for Computer Vision [Fall 2019] [Fall 2020] [Winter 2022]
+EECS 442: Computer Vision [Winter 2020] [Winter 2021]
+Stanford University
+CS 231N: Convolutional Neural Networks for Visual Recognition (2017 Lecture Videos)
+Spring 2019, Spring 2018, Spring 2017 with Serena Yeung and Fei-Fei Li
+Winter 2016 with Andrej Karpathy and Fei-Fei Li
+Publications
+Bootstrap Your Own Correspondences
+Mohamed El Banani, Justin Johnson
+ICCV 2021 (Oral)
+[arXiv] [project] [code]
+PixelSynth: Generating a 3D-Consistent Experience from a Single Image
+Chris Rockwell, David Fouhey, Justin Johnson
+ICCV 2021
+[arXiv] [project] [code]
+Rethinking "Batch" in BatchNorm
+Yuxin Wu, Justin Johnson
+arXiv 2021
+[arXiv] [code]
+UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering
+Mohamed El Banani, Luya Gao, Justin Johnson
+CVPR 2021 (Oral)
+[arXiv] [project] [code]
+CASTing Your Model: Learning to Localize Improves Self-Supervised Representations
+Ramprasaath R. Selvaraju*, Karan Desai*, Justin Johnson, Nikhil Naik
+CVPR 2021
+[arXiv] [blog]
+VirTex: Learning Visual Representations from Textual Annotations
+Karan Desai, Justin Johnson
+CVPR 2021
+[arXiv] [GitHub] [docs] [video]
+Accelerating 3D Deep Learning with PyTorch3D
+Nikhila Ravi, Jeremy Reizenstein, David Novotny, Taylor Gordon,
+Wan-Yen Lo, Justin Johnson, Georgia Gkioxari
+arXiv 2020
+[arXiv] [website] [GitHub]
+Temporal Reasoning via Audio Question Answering
+Haytham Fayek, Justin Johnson
+IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2020
+[arXiv] [code]
+SynSin: End-to-end View Synthesis from a Single Image
+Olivia Wiles, Georgia Gkioxari, Richard Szeliski, Justin Johnson
+CVPR 2020 (Oral)
+[arXiv] [project] [code]
+PHYRE: A New Benchmark for Physical Reasoning
+Anton Bakhtin, Laurens van der Maaten, Justin Johnson, Laura Gustafson, Ross Girshick
+NeurIPS 2019
+[arXiv] [project] [code]
+Mesh R-CNN
+Georgia Gkioxari, Jitendra Malik, Justin Johnson
+ICCV 2019
+[arXiv] [project]
+On Network Design Spaces for Visual Recognition
+Ilija Radosavovic, Justin Johnson, Saining Xie, Wan-Yen Lo, Piotr Dollár
+ICCV 2019
+[arXiv] [code]
+HiDDeN: Hiding Data With Deep Networks
+Jiren Zhu*, Russell Kaplan*, Justin Johnson, Li Fei-Fei
+[* indicates equal contribution]
+ECCV 2018
+[arXiv] [code]
+Image Generation from Scene Graphs
+Justin Johnson, Agrim Gupta, Li Fei-Fei
+CVPR 2018
+[arXiv] [code]
+Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks
+Agrim Gupta, Justin Johnson, Li Fei-Fei, Silvio Savarese, Alexandre Alahi
+CVPR 2018
+[arXiv] [code]
+Inferring and Executing Programs for Visual Reasoning
+Justin Johnson, Bharath Hariharan, Laurens van der Maaten,
+Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick
+ICCV 2017 (Oral)
+[project] [code] [arXiv] [video]
+Characterizing and Improving Stability in Neural Style Transfer
+Agrim Gupta, Justin Johnson, Alexandre Alahi, Li Fei-Fei
+ICCV 2017
+[arXiv]
+CLEVR: A Diagnostic Dataset for
+Compositional Language and Elementary Visual Reasoning
+Justin Johnson, Bharath Hariharan, Laurens van der Maaten,
+Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick
+CVPR 2017
+[project] [code] [arXiv]
+A Hierarchical Approach for Generating Descriptive Image Paragraphs
+Jonathan Krause, Justin Johnson, Ranjay Krishna, Li Fei-Fei
+CVPR 2017 (Spotlight)
+[project] [arXiv] [dataset] [video]
+Visual Genome: Connecting Language and Vision
+using Crowdsourced Dense Image Annotations
+Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson,
+Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis,
+Li-Jia Li, David A. Shamma, Michael Bernstein, Li Fei-Fei
+IJCV 2017
+[project] [pdf] [arXiv]
+Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+Justin Johnson, Alexandre Alahi, Li Fei-Fei
+ECCV 2016
+[project] [code] [pdf] [arXiv] [supplementary]
+DenseCap: Fully Convolutional Localization Networks for Dense Captioning
+Justin Johnson*, Andrej Karpathy*, Li Fei-Fei
+[* indicates equal contribution]
+CVPR 2016 (Oral)
+[project] [code] [pdf] [arXiv] [data splits] [slides] [video]
+Visualizing and Understanding Recurrent Networks
+Andrej Karpathy*, Justin Johnson*, Li Fei-Fei
+[* indicates equal contribution]
+ICLR Workshop 2016
+[pdf] [arXiv]
+Love Thy Neighbors: Image Annotation by Exploiting Image Metadata
+Justin Johnson*, Lamberto Ballan*, Li Fei-Fei
+[* indicates equal contribution]
+ICCV 2015
+[pdf] [bib] [arXiv]
+Image Retrieval using Scene Graphs
+Justin Johnson, Ranjay Krishna, Michael Stark, Li-Jia Li, David A. Shamma,
+Michael Bernstein, Li Fei-Fei
+CVPR 2015
+[pdf] [bib] [dataset (2GB)] [supplementary]
+Side Projects
+neural-style
+A Torch implementation of the neural style transfer algorithm from the paper "A Neural Algorithm of Artistic Style" by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.
+torch-rnn
+Train character-level language models in torch, and sample from them to generate text. The language model is implemented with efficient, reusable RNN and LSTM modules.
+simple-amt
+A micro-framework that makes it easy to create and launch tasks on Amazon's Mechanical Turk.
+cnn-benchmarks
+Benchmarks for popular convolutional neural network models on different GPUs.
+

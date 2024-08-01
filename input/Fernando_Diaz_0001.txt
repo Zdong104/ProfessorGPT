@@ -1,0 +1,1163 @@
+Professor: Fernando Diaz 0001
+University: Carnegie Mellon University
+URL: https://841.io/
+Description: Fernando Diaz
+
+Associate Professor
+Language Technologies Institute, Carnegie Mellon University
+
+Research Scientist
+Google Research
+
+diazf [at] acm [dot] org
+
+               
+
+
+
+
+Introduction
+
+
+
+
+My research focuses on the design and evaluation of information access systems, including information retrieval (e.g. web search) and recommender systems. This has included developing evaluation metrics, designing algorithms, and understanding the broader, societal implications of these technologies.
+
+My recent projects include,
+
+Evaluation
+preference-based evaluation: improving the sensitivity of evaluation metrics by measuring pairwise preferences between systems.
+fairness in ranking: designing evaluation metrics for ranked lists of items capturing different notions of fairness.
+artificial intelligence and culture: understanding and measuring the impact of artificial intelligence on culture industries such as music, film, and literature.
+Algorithm Design
+retrieval-enhanced machine learning: designing algorithms to support machine learning systems.
+tip of the tongue retrieval: designing algorithms to help people re-find previously consumed content.
+
+My previous projects have included text summarization in crisis informatics contexts, inferring user intent from mouse cursor behavior, aggregated search, time-sensitive ranking, and core retrieval algorithms.
+
+Detailed biographical information can be found on my curriculum vitae.
+
+
+
+
+Publications
+
+
+
+
+Preprint
+
+	
+
+Recall, Robustness, and Lexicographic Evaluation
+F. Diaz and B. Mitra
+arxiv, 2023
+
+
+
+
+
+Conference
+
+	
+
+Scaling Laws Do Not Scale
+F. Diaz and M. Madaio
+AIES, 2024
+
+
+
+	
+
+Group Membership Bias
+A. Vardasbi, M. de Rijke, F. Diaz, M. Dehghani
+SIGIR 2024
+
+
+
+	
+
+AI Consent Futures: A Case Study on Voice Data Collection with Clinicians
+L. Wilcox, R. Brewer, F. Diaz
+CSCW 2023
+
+
+
+	
+
+Measuring Commonality in Recommendation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship
+A. Ferraro, G. Ferreira, F. Diaz, G. Born
+RecSys 2022 (Late Breaking Results)
+
+
+
+	
+
+Offline Retrieval Evaluation Without Evaluation Metrics
+F. Diaz, A. Ferraro
+SIGIR 2022
+
+
+
+	
+
+Retrieval-Enhanced Machine Learning
+H. Zamani, F. Diaz, M. Dehghani, D. Metzler, M. Bendersky
+SIGIR 2022 (Perspectives)
+
+
+
+	
+
+Joint Multisided Exposure Fairness for Recommendation
+H. Wu, B. Mitra, C. Ma, F. Diaz, X. Liu
+SIGIR 2022
+
+
+
+	
+
+On Natural Language User Profiles for Transparent and Scrutable Recommendation
+F. Radlinski, K. Balog, F. Diaz, L. Dixon, B. Wedin
+SIGIR 2022 (Perspectives)
+
+
+
+	
+
+Learning to Limit Data Collection via Scaling Laws: A Computational Interpretation for the Legal Principle of Data Minimization
+D. Shanmugam, F. Diaz, S. Shabanian, M. Finck, A. J. Biega
+FAccT 2022
+
+
+
+	
+
+Exposing Query Identification for Search Transparency
+R. Li, J. Li, B. Mitra, F. Diaz, A. J. Biega
+WWW 2022
+
+
+
+	
+
+Artsheets for Art Datasets
+R. Srinivasan, E. Denton, J. Famularo, N. Rostamzadeh, F. Diaz, B. Coleman
+NeurIPS (Datasets and Benchmarks track), 2021
+
+
+
+	
+
+"I Can’t Reply with That": Characterizing Problematic Email Reply Suggestions
+R. Robertson, A. Olteanu, F. Diaz, M. Shokouhi, P. Bailey
+CHI 2021
+
+
+
+	
+
+Estimation of Fair Ranking Metrics with Incomplete Judgments
+O. Kirnap, F. Diaz, A. J. Biega, M. Ekstrand, B. Carterette, E. Yilmaz
+WWW 2021
+
+
+
+	
+
+Tip of the Tongue Known-Item Retrieval: A Case Study in Movie Identification
+J. Arguello, A. Ferguson, E. Fine, B. Mitra, H. Zamani, F. Diaz
+CHIIR 2021
+
+
+
+	
+
+Evaluating Stochastic Rankings with Expected Exposure
+F. Diaz, B. Mitra, M. D. Ekstrand, A. J. Biega, B. Carterette
+CIKM 2020
+Best Paper Nominee
+
+
+
+	
+
+When Are Search Completion Suggestions Problematic?
+A. Olteanu, F. Diaz, G. Kazai
+CSCW 2020
+Best Paper Honorable Mention
+
+
+
+	
+
+Analyzing and Learning from User Interactions for Search Clarification
+H. Zamani, B. Mitra, E. Chen, G. Lueck, F. Diaz, P. N. Bennett, N. Craswell, S. T. Dumais
+SIGIR 2020
+
+
+
+	
+
+Operationalizing the Legal Principle of Data Minimization for Personalization
+A. J. Biega, P. Potash, H. Daumé III, F. Diaz, M. Finck
+SIGIR 2020
+
+
+
+	
+
+Towards a Fair Marketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness & Satisfaction in Recommendation Systems
+R. Mehrotra, J. McInerney, H. Bouchard, M. Lalmas, F. Diaz
+CIKM 2018
+
+
+
+	
+
+Understanding and Evaluating User Satisfaction with Music Discovery
+J. Garcia-Gathright, B. St. Thomas, C. Hosey, Z. Nazari, F. Diaz
+SIGIR 2018
+
+
+
+	
+
+Using Query Performance Predictors to Reduce Spoken Queries
+J. Arguello, S. Avula, F. Diaz
+ECIR 2017
+
+
+
+	
+
+Auditing Search Engines for Differential Performance Across Demographics
+R. Mehrotra, A. Anderson, F. Diaz, A. Sharma, H. Wallach, E. Yilmaz
+WWW 2017
+
+
+
+	
+
+Learning to Match Using Local and Distributed Representations of Text for Web Search
+B. Mitra, F. Diaz, N. Craswell
+WWW 2017
+
+
+
+	
+
+A Study of Realtime Summarization Metrics
+M. Ekstrand, R. McCreadie, V. Pavlu, F. Diaz
+CIKM 2016
+
+
+
+	
+
+The Social Dynamics of Language Change in Online Networks
+R. Goel, S. Soni, N. Goyal, J. Paparrizos, H. Wallach, F. Diaz, J. Eisenstein
+SocInfo 2016
+
+
+
+	
+
+Learning to Rank with Labeled Features
+F. Diaz
+ICTIR 2016
+
+
+
+	
+
+Query Expansion with Locally-Trained Word Embeddings
+F. Diaz, B. Mitra, N. Craswell
+ACL 2016
+
+
+
+	
+
+Real-Time Web Scale Event Summarization Using Sequential Decision Making
+C. Kedzie, F. Diaz, K. McKeown
+IJCAI 2016
+
+
+
+	
+
+Search Result Prefetching Using Cursor Movement
+F. Diaz, Q. Guo, R. White
+SIGIR 2016
+
+
+
+	
+
+Using Query Performance Predictors to Improve Spoken Queries
+J. Arguello, S. Avula, F. Diaz
+ECIR 2016
+
+
+
+	
+
+Pseudo-Query Reformulation
+F. Diaz
+ECIR 2016
+
+
+
+	
+
+Condensed List Relevance Models
+F. Diaz
+ICTIR 2015
+
+
+
+	
+
+Predicting Salient Updates for Disaster Summarization
+C. Kedzie, K. McKeown, and F. Diaz
+ACL 2015
+
+
+
+	
+
+Mobile Query Reformulations
+M. Shokouhi, R. Jones, U. Ozertem, K. Raghunathan, F. Diaz
+SIGIR 2014
+
+
+
+	
+
+Whole Page Optimization: How Page Elements Interact with the Position Auction
+P. Metrikov, F. Diaz, S. Lahaie, J. Rao
+EC 2014.
+
+
+
+	
+
+Contextual and Dimensional Relevance Judgments for Reusable SERP-level Evaluation
+P. Golbus, I. Zitouni, J. Kim, A. Hassan, F. Diaz
+WWW 2014
+
+
+
+	
+
+CrisisLex: A Lexicon for Collecting and Filtering Microblogged Communications in Crises
+A. Olteanu, C. Castillo, F. Diaz, S. Vieweg
+ICWSM 2014
+
+
+
+	
+
+Robust Models of Mouse Movement on Dynamic Web Search Results Pages
+F. Diaz, R. White, D. Liebling, G. Buscher
+CIKM 2013
+
+
+
+	
+
+Updating users about time critical events
+Q. Guo, F. Diaz, E. Yom-Tov
+ECIR 2013
+
+
+
+	
+
+Extracting information nuggets from disaster-related messages in social media
+M. Imran, S. Elbassuoni, C. Castillo, F. Diaz, P. Meier
+ISCRAM 2013.
+Best Paper Award
+
+
+
+	
+
+Learning to Aggregate Vertical Results into Web Search Results
+J. Arguello, F. Diaz, J. Callan
+CIKM 2011
+
+
+
+	
+
+Out of Sight, Not Out of Mind: On the Effect of Social and Physical Detachment on Information Need
+E. Yom-Tov and F. Diaz
+SIGIR 2011
+Best Paper Honorable Mention
+
+
+
+	
+
+A Methodology for Evaluating Aggregated Search Results
+J. Arguello, F. Diaz, J. Callan, B. Carterette
+ECIR 2011
+Best Student Paper Award
+
+
+
+	
+
+Generalized Link Suggestions via Web Site Clustering
+J. Seo, F. Diaz, E. Gabrilovich, V. Josifovski, B. Pang
+WWW 2011
+
+
+
+	
+
+Cross-Market Model Adaptation with Pairwise Preference Data for Web Search Ranking
+J. Bai, F. Diaz, Y. Chang, Z. Zheng
+COLING 2010
+
+
+
+	
+
+Relevance and Ranking in Online Dating Systems
+F. Diaz, D. Metzler, S. Amer-Yahia
+SIGIR 2010
+Selected for ICML 2011 Invited Cross-Conference Session
+
+
+
+	
+
+Vertical Selection in the Presence of Unlabeled Verticals
+J. Arguello, F. Diaz, J-F. Paiement
+SIGIR 2010
+
+
+
+	
+
+Time is of the Essence: Improving Recency Ranking Using Twitter Data
+A. Dong, R. Zhang, P. Kolari, J. Bai, F. Diaz, Y. Chang, Z. Zheng, H. Zha
+WWW 2010
+
+
+
+	
+
+Towards recency ranking in web search
+A. Dong, Y. Chang, Z. Zheng, G. Mishne, J. Bai, R. Zhang, K. Buchner, C. Liao, F. Diaz
+WSDM 2010
+
+
+
+	
+
+Classification-based Resource Selection
+J. Arguello, J. Callan, F. Diaz
+CIKM 2009
+
+
+
+	
+
+Adaptation of Offline Vertical Selection Predictions in the Presence of User Feedback
+F. Diaz and J. Arguello
+SIGIR 2009
+
+
+
+	
+
+Sources of Evidence for Vertical Selection
+J. Arguello, F. Diaz, J. Callan, J-F. Crespo
+SIGIR 2009
+Best Paper Award
+
+
+
+	
+
+Integration of News Content Into Web Results
+F. Diaz
+WSDM 2009
+Best Paper Award
+
+
+
+	
+
+Theoretical Bounds On and Empirical Robustness of Score Regularization to Different Similarity Measures
+F. Diaz
+SIGIR 2008
+
+
+
+	
+
+Improving Relevance Feedback in Language Modeling Retrieval with Score Regularization
+F. Diaz
+SIGIR 2008
+
+
+
+	
+
+A Method for Transferring Retrieval Scores Between Collections with Non-Overlapping Vocabularies
+F. Diaz
+SIGIR 2008
+
+
+
+	
+
+Performance prediction using spatial autocorrelation
+F. Diaz
+SIGIR 2007
+
+
+
+	
+
+Pseudo-aligned multilingual corpora
+F. Diaz and D. Metzler
+IJCAI 2007
+
+
+
+	
+
+Improving the estimation of relevance models using large external corpora
+F. Diaz and D. Metzler
+SIGIR 2006
+
+
+
+	
+
+Regularizing ad hoc retrieval scores
+F. Diaz
+CIKM 2005
+
+
+
+	
+
+Using temporal profiles of queries for precision prediction
+F. Diaz and R. Jones
+SIGIR 2004
+
+
+
+	
+
+A user-centered approach to evaluating topic models
+D. Kelly, F. Diaz, N. J. Belkin, J. Allan
+ECIR 2004
+
+
+
+	
+
+Using wearable computers to construct semantic representations of physical spaces
+F. Diaz
+ISWC 2002
+
+
+
+
+
+Journal
+
+	
+
+Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship
+A. Ferraro, G. Ferreira, F. Diaz, G. Born
+ACM Transactions on Recommender Systems, 2024
+
+
+
+	
+
+Distributionally-Informed Recommender System Evaluation
+M. D. Ekstrand, B. Carterette, F. Diaz
+ACM Transactions on Recommender Systems, March 2024
+
+
+
+	
+
+A Multi-objective Optimization Framework for Multi-stakeholder Fairness-aware Recommendation
+H. Wu, C. Ma, B. Mitra, F. Diaz, X. Liu
+ACM Transactions on Information Systems, September 2022
+
+
+
+	
+
+Fairness and discrimination in information access systems
+M. Ekstrand, A. Das, R. Burke, F. Diaz
+Foundations and Trends in Information Retrieval, 2022
+
+
+
+	
+
+Making Sense of Metrics in the Music Industries
+N. Baym, R. Bergmann, R. Bhargava, F. Diaz, T. Gillespie, D. Hesmondhalgh, E. Maris, C. Persaud
+International Journal of Communication, 2021
+
+
+
+	
+
+Artificial Intelligence, Music Recommendation, and the Curation of Culture
+G. Born, J. Morris, F. Diaz, A. Anderson
+Schwartz Reisman Institute White Paper, June 2021
+
+
+
+	
+
+Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries
+A. Olteanu, C. Castillo, E. Kiciman, F. Diaz
+Frontiers in Big Data, July 2019
+
+
+
+	
+
+Research Frontiers in Information Retrieval: Report from the Third Strategic Workshop on Information Retrieval in Lorne (SWIRL 2018)
+J. S. Culpepper, F. Diaz, M. D. Smucker
+SIGIR Forum, June 2018
+
+
+
+	
+
+Search Result Prefetching on Desktop and Mobile
+R. White, F. Diaz, Q. Guo
+ACM Transactions on Information Systems, June 2017
+
+
+
+	
+
+Worst Practices for Designing Production Information Access Systems
+F. Diaz
+SIGIR Forum, June 2016
+
+
+
+	
+
+Online and social media data as an imperfect continuous panel survey
+F. Diaz, M. Gamon, J. Hofman, E. Kiciman, D. Rothschild
+PLoS ONE, January 2016
+
+
+
+	
+
+Processing Social Media Messages in Mass Emergency
+M. Imran, C. Castillo, F. Diaz, S. Vieweg
+ACM Comput. Surv. 47, 4, Article 67 (June 2015), 38 pages
+
+
+
+	
+
+Experimentation Standards for Crisis Informatics
+F. Diaz
+SIGIR Forum, December 2014
+
+
+
+	
+
+The Economic and Cognitive Costs of Annoying Display Advertisements
+D. G. Goldstein, S. Suri, R. P. McAfee, M. Ekstrand-Abueg, F. Diaz
+Journal of Marketing Research, December 2014
+Finalist: Paul E. Green Award, Journal of Marketing Research
+
+
+
+	
+
+Emergency-Relief Coordination on Social Media: Automatically Matching Resource Requests and Offers
+H. Purohit, C. Castillo, F. Diaz, A. Sheth, P. Meier
+First Monday, January 2014
+
+
+
+	
+
+Improving Recency Ranking Using Twitter Data
+Y. Chang, A. Dong, P. Kolari, R. Zhang, Y. Inagaki, F. Diaz, H. Zha, Y. Liu
+ACM Transactions Intelligent Systems Technology, February 2013
+
+
+
+	
+
+The Effect of Social and Physical Detachment on Information Need
+E. Yom-Tov and F. Diaz
+ACM Transactions on Information Systems, January 2013
+
+
+
+	
+
+Regularizing Query-Based Retrieval Scores
+F. Diaz
+Information Retrieval, December 2007
+
+
+
+	
+
+Temporal profiles of queries
+R. Jones and F. Diaz
+ACM Transactions on Information Systems, July 2007
+
+
+
+
+
+Workshop
+
+	
+
+Best-Case Retrieval Evaluation: Improving the Sensitivity of Reciprocal Rank with Lexicographic Precision
+F. Diaz
+EVIA, 2023
+
+
+
+	
+
+Striving for data-model efficiency: Identifying data externalities on group performance
+E. Rolf, B. Packer, A. Beutel, F. Diaz
+NeurIPS 2022 Workshop on Trustworthy and Socially Responsible Machine Learning (TSRML 2022)
+
+
+
+	
+
+On Evaluating Session-Based Recommendation with Implicit Feedback
+F. Diaz
+Perspectives on the Evaluation of Recommender Systems Workshop, RecSys 2021
+
+
+
+	
+
+The Ethics of Autonomous Experimentation
+S. Bird, S. Barocas, K. Crawford, F. Diaz, H. Wallach
+FATML 2016
+
+
+
+	
+
+Exploratory Gradient Boosting for Reinforcement Learning in Complex Domains
+D. Abel, A. Agarwal, F. Diaz, A. Krishnamurthy, R. Schapire
+ICML Workshop on Abstraction in Reinforcement Learning, 2016
+
+
+
+	
+
+Experimentation Standards for Crisis Informatics
+F. Diaz
+KDD Workshop on Data Science for Social Good 2014
+
+
+
+	
+
+Geographic Features in Web Search Retrieval
+A. Hassan, R. Jones, F. Diaz
+GIR 2008
+
+
+
+	
+
+When less is more: Relevance feedback falls short and term expansion succeeds at HARD 2005
+F. Diaz and J. Allan
+TREC 2005
+
+
+
+	
+
+UMass at Robust 2005: Using mixtures of relevance models for query expansion
+D. Metzler, F. Diaz, T. Strohman, W. B. Croft
+TREC 2005
+
+
+
+	
+
+UMass at TREC 2004: Novelty and HARD
+N. Abdul-Jaleel, J. Allan, W. B. Croft, F. Diaz, L. Larkey, X. Li, M. D. Smucker, C. Wade
+TREC 2004
+
+
+
+	
+
+Browsing-based user language models for information retrieval
+F. Diaz and J. Allan
+University of Massachusetts Amherst, 2003
+
+
+
+
+
+Dissertation
+
+	
+
+Autocorrelation and Regularization of Query-Based Retrieval Scores
+F. Diaz
+University of Massachusetts, 2008
+
+
+
+
+
+Tutorial
+
+	
+
+Mixed Method Development of Evaluation Metrics
+P. Chandar, F. Diaz, C. Hosey, B. St. Thomas
+KDD 2021
+
+
+
+	
+
+Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems
+P. Chandar, F. Diaz, B. St. Thomas
+NeurIPS 2020
+
+
+
+	
+
+Fairness and discrimination in retrieval and recommendation
+M. Ekstrand, R. Burke, F. Diaz
+RecSys 2019
+
+
+
+	
+
+Fairness and discrimination in retrieval and recommendation
+M. Ekstrand, R. Burke, F. Diaz
+SIGIR 2019
+
+
+
+	
+
+Mixed methods for evaluating user satisfaction
+J. Garcia-Gathright, C. Hosey, B. St. Thomas, B. Carterette, F. Diaz
+RecSys 2018
+
+
+
+	
+
+Leveraging Social Media and Web of Data to Assist Crisis Response Coordination
+C. Castillo, F. Diaz, H. Purohit
+SDM 2014
+
+
+
+	
+
+Temporal web dynamics and its application to information retrieval
+K. Radinsky, F. Diaz, S. Dumais, M. Shokouhi, A. Dong, Y. Chang
+WSDM 2013
+
+
+
+	
+
+Integrating and ranking aggregated content on the web
+F. Diaz, J. Arguello, M. Shokouhi
+WWW 2012
+
+
+
+	
+
+From Federated to Aggregated Search
+F. Diaz, M. Lalmas, M. Shokouhi
+SIGIR 2010
+
+
+
+
+
+Organization
+
+
+
+
+Conferences
+
+	
+
+ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), General Co-Chair
+
+
+
+
+	
+
+ACM Conference on Fairness, Accountability, and Transparency (FAccT 2019), Program Co-Chair
+
+
+
+
+	
+
+ACM International Conference on Web Search and Data Mining (WSDM 2014), General Co-Chair
+
+
+
+
+Workshops
+
+	
+
+NeurIPS 2022 Workshop on Cultures in AI/AI in Culture
+2022
+
+
+
+
+	
+
+NeurIPS 2020 Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability
+2020
+
+
+
+
+	
+
+CIFAR Workshop on AI, Recommendation, and the Curation of Culture
+2019
+
+
+
+
+	
+
+Workshop on Fairness, Accountability, and Transparency on the World Wide Web (FATWEB)
+2017
+
+
+
+
+	
+
+WSDM Workshop on the Ethics of Online Experimentation
+2016
+
+
+
+
+	
+
+SIGIR Workshop on Reproducibility, Inexplicability, and Generalizability of Results (RIGOR)
+2015
+
+
+
+
+	
+
+Social Web for Disaster Management (SWDM)
+2015, 2016
+
+
+
+
+	
+
+SIGIR Workshop on Time-Aware Information Access
+2012, 2013, 2014
+
+
+
+
+	
+
+ACM Workshop on Social Web Search and Mining: Analysis of User Generated Content Under Crisis
+2011
+
+
+
+
+TREC
+
+	
+
+Tip of The Tongue Retrieval
+2023
+
+
+
+
+	
+
+Fair Ranking
+2019, 2020
+
+
+
+
+	
+
+Real-Time Summarization
+2016
+
+
+
+
+	
+
+Temporal Summarization
+2013, 2014, 2015
+
+
+
+
+	
+
+Web
+2013, 2014
+
+
+
+
+Teaching
+
+
+
+
+	
+
+Web Search Engines
+Department of Computer Science
+Courant Institute of Mathematical Sciences
+NYU
+Spring 2013, Fall 2014, Fall 2016
+
+
+
+
+	
+
+Experimental Design for Information Systems
+University of Trento
+Summer 2012
+
+
+
+
+	
+
+Advanced Information Retrieval and Databases
+Department of Computer Science
+School of Engineering
+NYU
+Spring 2011
+
+
+
+
+Code
+
+
+
+
+	
+
+pref_eval
+Implementation of mulitiple preference-based evaluation for ranked lists and binary relevance.
+
+
+
+
+	
+
+expeval
+Code to compute expected exposure metrics.
+
+
+
+
+	
+
+indri
+A clone of indri-5.12 with minor customizations.
+
+
+
+
+	
+
+trec-data
+scripts to download and standardize trec query and document sets.
+
+
+
+
+	
+
+latex-dependencies
+generate .tex dependencies for a root latex file.
+
+
+
+
+	
+
+latex-merge
+merge collection of latex source into a single latex file.
+
+
+
+
+	
+
+kstem
+stand alone Krovetz stemmer.
+
+
+
+
+FAQ
+
+
+
+
+	
+
+Q: Why 841.io?
+A: Because it is short.
+

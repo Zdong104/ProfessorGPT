@@ -1,0 +1,492 @@
+Professor: Huaxiu Yao
+University: University of North Carolina
+URL: https://www.huaxiuyao.io/
+Description: 	
+
+HUAXIU YAO (姚骅修)
+
+Assistant Professor
+Department of Computer Science | School of Data Science and Society
+University of North Carolina at Chapel Hill
+Email | Google Scholar | Twitter | LinkedIn | WeChat
+ABOUT ME
+PUBLICATIONS
+STUDENTS
+HONORS
+TEACHING
+SERVICES
+MISC
+CONTACT
+ABOUT ME
+
+Short Bio. I am a tenure-track Assistant Professor at the Department of Computer Science with a joint appointment in the School of Data Science and Society, University of North Carolina at Chapel Hill. I was a Postdoctoral Scholar at IRIS Lab, Department of Computer Science, Stanford University hosted by Chelsea Finn. I received my Ph.D. degree in 2021 at Pennsylvania State University under the advisory of Zhenhui (Jessie) Li. During my Ph.D. study, I also spent time visiting SAILING Lab at CMU hosted by Eric P. Xing.
+
+ 
+
+Prospective Interns (all year). I am actively seeking highly motivated students for various positions such as interns/visiting students. If you are interested in joining my group, please (1) complete the required application form to ensure that your application will not get lost; (2) send an email to huaxiu.recruiting@gmail.com with your CV and transcripts. 
+
+ 
+
+Prospective Ph.D./MS Students (2025 Fall). I am actively seeking highly motivated students for various positions such as Ph.D. or MS students. If you are interested in joining my group, please (1) complete the UNC online application; (2) complete the required application form to ensure that your application will not get lost; (3) send an email to huaxiu.recruiting@gmail.com with your CV and transcripts. 
+
+ 
+
+For more detailed information about the available positions, please refer to the following advertisements: [English Advertisement], [Chinese Advertisement].
+
+ 
+
+Research Interests. My research focuses on both the theoretical and applied aspects of building reliable and responsible foundation models (e.g., LLMs, VLMs, Diffusion Models). Additionally, I am keen on utilizing these models to facilitate diverse scientific and social applications, including healthcare, drug discovery, genomics, transportation, and ecology. Currently, my primary endeavors revolve around the following key directions:
+
+Developing automated mechanisms to monitor, detect, and interpret potential failures within foundation models (e.g., hallucination, bias).
+Exploring efficient strategies to equip AI models with the capability to characterize, alleviate, and adapt to reliability challenges.
+Steering AI models towards better alignment with human objectives, preferences, and ethical values.
+
+Related techniques: Out-of-distribution detection and generalization, hallucination detection and mitigation, preference learning (e.g., RLHF), fairness, model debiasing, uncertainty estimation and calibration, meta-learning, continual learning, interpretability.
+
+ 
+
+You can follow me on Twitter at @HuaxiuYaoML.
+
+News
+
+[2024.07] One paper was accepted by ECCV 2024
+
+[2024.05] One paper was accepted by ACL 2024, one paper was accepted by TMLR
+
+[2024.05] Five papers were accepted by ICML 2024 (Four regular papers, one position paper)
+
+[2024.04] We will organize Workshop on Foundation Models in the Wild at ICML 2024. Stay tuned!
+
+[2024.03] One paper was accepted by NAACL 2024
+
+[2024.02] One paper was accepted by CVPR 2024
+
+[2024.01] Three papers were accepted by ICLR 2024
+
+[2023.12] We will organize Workshop on Reliable and Responsible Foundation Models at ICLR 2024. Stay tuned!
+
+[2023.09] Two papers were accepted by EMNLP 2023
+
+[2023.09] Two papers were accepted by NeurIPS 2023
+
+[2023.08] Joined UNC Chapel Hill as an assistant professor
+
+[2023.01] Three papers were accepted by ICLR 2023
+
+PUBLICATIONS
+
+Google Scholar
+
+The underline authors are students (co-)mentored by me; †: equal advising
+
+Recent Preprints
+
+[1] Yiyang Zhou*, Zhiyuan Fan*, Dongjie Cheng*, Sihan Yang, Zhaorun Chen, Chenhang Cui, Xiyao Wang, Yun Li, Linjun Zhang, Huaxiu Yao, Calibrated Self-Rewarding Vision Language Models, arXiv 2405.14622. [arXiv] [Code]
+
+ 
+
+[2] Taiming Lu*, Lingfeng Shen*, Xinyu Yang*, Weiting Tan, Beidi Chen, Huaxiu Yao, It Takes Two: On the Seamlessness between Reward and Policy Model in RLHF, arXiv 2406.07971. [arXiv]
+
+ 
+
+[3] Peng Xia, Ze Chen, Juanxi Tian, Yangrui Gong, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao, CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models, arXiv 2406.06007. [arXiv] [Code]
+
+ 
+
+[4] Yiyang Zhou*, Chenhang Cui*, Rafael Rafailov, Chelsea Finn, Huaxiu Yao, Aligning Modalities in Vision Large Language Models via Preference Fine-tuning, arXiv 2402.11411. [arXiv] [Code]
+
+ 
+
+[5] Haoqiang Kang, Juntong Ni, Huaxiu Yao, Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification, arXiv 2311.09114. [arXiv] [Code]
+
+ 
+
+[6] Chenhang Cui*, Yiyang Zhou*, Xinyu Yang, Shirley Wu, Linjun Zhang, James Zou, Huaxiu Yao, Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges, arXiv 2311.03287. [arXiv] [Code]
+
+ 
+
+[7] Wenhao Zheng, Dongsheng Peng, Hongxia Xu, Hongtu Zhu, Tianfan Fu, Huaxiu Yao, Multimodal Clinical Trial Outcome Prediction with Large Language Models, arXiv 2402.06512. [arXiv] [Code]
+
+ 
+
+[8] Zhenbang Wu, Huaxiu Yao, Zhe Su, David M Liebovitz, Lucas M Glass, James Zou, Chelsea Finn, Jimeng Sun, Knowledge-Driven New Drug Recommendation, arXiv 2210.05572 (the short version is presented in NeurIPS 2022 Workshop on Meta-Learn). [arXiv]
+
+2024
+
+[1] Xiyao Wang, Yuhang Zhou, Xiaoyu Liu, Hongjin Lu, Yuancheng Xu, Feihong He, Jaehong Yoon, Taixi Lu, Gedas Bertasius, Mohit Bansal, Huaxiu Yao†, Furong Huang†, Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences, in Proceeding of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok, Thailand, Aug 2024. [arXiv] [Code]
+
+ 
+
+[2] Haoqin Tu*, Chenhang Cui*, Zijun Wang*, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie, How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs, in Proceeding of the 18th European Conference on Computer Vision (ECCV 2024), Milan, Italy, Sept 2024. [arXiv] [Code]
+
+ 
+
+[3] Zhaorun Chen, Zhuokai Zhao, Hongyin Luo, Huaxiu Yao, Bo Li, Jiawei Zhou, HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding, in Proceeding of the Forty-first International Conference on Machine Learning (ICML 2024a), Vienna, Austria, July 2024. [Paper] [Code]
+
+ 
+
+[4] Zhenyu Zhang, Siwei Han, Huaxiu Yao, Gang Niu, Masashi Sugiyama, Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach to Searching for the Most Promising Intermediate Thought, in Proceeding of the Forty-first International Conference on Machine Learning (ICML 2024b), Vienna, Austria, July 2024. [Paper]
+
+ 
+
+[5] Xu Yang, Huaxiu Yao, Ying Wei, One Meta-tuned Transformer is What You Need for Few-shot Learning, in Proceeding of the Forty-first International Conference on Machine Learning (ICML 2024c), Vienna, Austria, July 2024 (Spotlight).
+
+ 
+
+[6] Jianguo Huang, Huajun Xi, Linjun Zhang, Huaxiu Yao, Yue Qiu, Hongxin Wei, Conformal Prediction for Deep Classifier via Label Ranking, in Proceeding of the Forty-first International Conference on Machine Learning (ICML 2024d), Vienna, Austria, July 2024. [Paper]
+
+ 
+
+[7] Yue Huang, Lichao Sun, [and 65 others, including Huaxiu Yao], Position Paper: Trustllm: Trustworthiness in large language models, in Proceeding of the Forty-first International Conference on Machine Learning (ICML 2024e, Position Paper), Vienna, Austria, July 2024. [Paper]
+
+ 
+
+[8] Yiyang Zhou*, Chenhang Cui*, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao, Analyzing and Mitigating Object Hallucination in Large Vision-Language Models, in Proceeding of the 12th International Conference on Learning Representations (ICLR 2024a), Vienna, Austria, May 2024  (the short version is presented in NeurIPS 2023 Instruction Workshop). [Paper] [Code]
+
+ 
+
+[9] Huaxiu Yao*, Xinyu Yang*, Xinyi Pan, Shengchao Liu, Pang Wei Koh, Chelsea Finn, Improving Domain Generalization with Domain Relations, in Proceeding of the 12th International Conference on Learning Representations (ICLR 2024b), Vienna, Austria, May 2024 (Spotlight). [Paper]
+
+ 
+
+[10] Katherine Tian*, Eric Mitchell*, Huaxiu Yao, Christopher D Manning, Chelsea Finn, Fine-Tuning Language Models for Factuality, in Proceeding of the 12th International Conference on Learning Representations (ICLR 2024c), Vienna, Austria, May 2024  (the short version is presented in NeurIPS 2023 Instruction Workshop). [Paper]
+
+ 
+
+[11] Haoran Li, Junqi Liu, Zexian Wang, Shiyuan Luo, Xiaowei Jia, Huaxiu Yao, LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models, in Proceeding of the 1st Conference on Language Modeling (COLM 2024), Philadelphia, PA, Oct 2024. [Paper]
+
+ 
+
+[12] Zhaorun Chen, Zhuokai Zhao, Zhihong Zhu, Ruiqi Zhang, Xiang Li, Bhiksha Raj, Huaxiu Yao, AutoPRM: Automating Procedural Supervision for Multi-Step Reasoning via Controllable Question Decomposition, in Proceeding of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024), Mexico City, Mexico, Jun 2024. [Paper]
+
+ 
+
+[13] Xiaohui Zhang, Jaehong Yoon, Bansal Mohit, Huaxiu Yao, Multimodal Representation Learning by Alternating Unimodal Adaptation, in Proceeding of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 (CVPR 2024), Seattle, WA, Jun 2024. [Paper]
+
+ 
+
+[14] Peng Xia, Ming Hu, Feilong Tang, Wenxue Li, Wenhao Zheng, Lie Ju, Peibo Duan, Huaxiu Yao†, Zongyuan Ge†, Generalizing to Unseen Domains in Diabetic Retinopathy with Disentangled Representations, in Proceeding of the 27th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2024), Marrakesh, Morocco, Oct 2024 (Early Accept).
+
+ 
+
+[15] Viet Quoc Duong, Qiong Wu, Zhengyi Zhou, Hongjue Zhao, Chenxiang Luo, Eric Zavesky, Huaxiu Yao, Huajie Shao, CAT: Interpretable Concept-based Taylor Additive Models, in Proceedings of the 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024), Barcelona, Spain, Aug 2024 (Research Track).
+
+ 
+
+[16] Caroline Choi*, Fahim Tajwar*, Yoonho Lee*, Huaxiu Yao, Ananya Kumar, Chelsea Finn, Conservative Prediction via Data-Driven Confidence Minimization, Transactions on Machine Learning Research (TMLR), 2024. [Paper]
+
+2023
+
+[17] Percy Liang, Rishi Bommasani, Tony Lee, [and 47 others, including Huaxiu Yao], Holistic Evaluation of Language Models, Transactions on Machine Learning Research (TMLR, Featured), 2023. [Paper] [Website]
+
+ 
+
+[18] Katherine Tian*, Eric Mitchell*, Allan Zhou, Archit Sharma, Rafael Rafailov, Huaxiu Yao, Chelsea Finn, Christopher D Manning, Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback, in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Singapore, Dec. 2023 (Short Paper). [Paper]
+
+ 
+
+[19] Haoyu Wang, Yaqing Wang, Huaxiu Yao, Jing Gao, Macedon: Minimizing Representation Coding Rate Reduction for Cross-Lingual Natural Language Understanding, in Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023 Findings), Singapore, Dec. 2023. [Paper]
+
+ 
+
+[20] Zhenbang Wu, Huaxiu Yao, David Liebovitz, Jimeng Sun, An Iterative Self-Learning Framework for Medical Domain Generalization, in Proceeding of the Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023a), New Orleans, LA, Dec. 2023. [Paper]
+
+ 
+
+[21] Yunzhe Qi, Yikun Ban, Tianxin Wei, Jiaru Zou, Huaxiu Yao, Jingrui He, Meta-Learning with Neural Bandit Scheduler, in Proceeding of the Thirty-Seventh Conference on Neural Information Processing Systems (NeurIPS 2023b), New Orleans, LA, Dec. 2023. [Paper] [Code]
+
+ 
+
+[22] Xinyu Yang*, Huaxiu Yao*, Allan Zhou, Chelsea Finn, Multi-Domain Long-Tailed Learning by Augmenting Disentangled Representations, Transactions on Machine Learning Research (TMLR), 2023 (the short version is presented in NeurIPS 2022 Workshop on Distribution Shifts). [Paper] [Code]
+
+ 
+
+[23] Yoonho Lee, Huaxiu Yao, Chelsea Finn, Diversify and Disambiguate: Learning From Underspecified Data, in Proceeding of the 11th International Conference on Learning Representations (ICLR 2023a), Kigali, Rwanda, May 2023 (the short version is presented in ICML 2022 Workshop on Spurious correlations, Invariance, and Stability and Workshop on Principles of Distribution Shift). [Paper] [Code]
+
+ 
+
+[24] Yoonho Lee*, Annie S. Chen*, Fahim Tajwar, Ananya Kumar, Huaxiu Yao, Percy Liang, Chelsea Finn, Surgical Fine-Tuning Improves Adaptation to Distribution Shifts, in Proceeding of the 11th International Conference on Learning Representations (ICLR 2023b), Kigali, Rwanda, May 2023 (the short version is presented in NeurIPS 2022 I Can't Believe It's Not Better Workshop and Workshop on Distribution Shifts). [Paper] [Code] 
+
+ 
+
+[25] Xinzhe Zuo, Zixiang Chen, Huaxiu Yao, Yuan Cao, Quanquan Gu, Understanding Train-Validation Split in Meta Learning with Neural Networks, in Proceeding of the 11th International Conference on Learning Representations (ICLR 2023c), Kigali, Rwanda, May 2023. [Paper]
+
+2022
+
+[26] Huaxiu Yao*, Yiping Wang*, Linjun Zhang, James Zou, Chelsea Finn, C-Mixup: Improving Generalization in Regression, in Proceeding of the Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS 2022a), New Orleans, LA, Dec. 2022. [Paper] [Code] [Video] [Bilibili] [Slides]
+
+ 
+
+[27] Huaxiu Yao*, Caroline Choi*, Bochuan Cao, Yoonho Lee, Pang Wei Koh, Chelsea Finn, Wild-Time: A Benchmark of in-the-Wild Distribution Shift over Time, in Proceeding of the Thirty-Sixth Conference on Neural Information Processing Systems Track on  Datasets & Benchmarks (NeurIPS 2022b), New Orleans, LA, Dec. 2022. [Paper] [Code] [Website] [Video] [Bilibili] [Slides]
+
+ 
+
+[28] Yemin Yu, Ying Wei, Kun Kuang, Zhengxing Huang, Huaxiu Yao, Fei Wu, GRASP: Navigating Retrosynthetic Planning with Goal-driven Policy, in Proceeding of the Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS 2022c), New Orleans, LA, Dec. 2022. [Paper]
+
+ 
+
+[29] Huaxiu Yao*, Yu Wang*, Sai Li, Linjun Zhang, Weixin Liang, James Zou, Chelsea Finn, Improving Out-of-Distribution Robustness via Selective Augmentation, in Proceeding of the Thirty-ninth International Conference on Machine Learning (ICML 2022), Baltimore, MD, July 2022. [Paper] [Code] [Video] [Bilibili] [Slides]
+
+ 
+
+[30] Huaxiu Yao, Linjun Zhang, Chelsea Finn, Meta-Learning with Fewer Tasks through Task Interpolation, in Proceeding of the 10th International Conference on Learning Representations (ICLR 2022), Virtual, Apr. 2022 (Oral, 54/3391). [Paper] [Code] [Slides]
+
+ 
+
+[31] Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, Yinhe Zheng, Dongkyu Lee, Yiping Song, Jian Sun, Nevin Zhang, Improving Meta-learning for Low-resource Text Classiﬁcation and Generation via Memory Imitation, in Proceeding of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022), Dublin, Ireland, May 2022. [Paper] [Code]
+
+ 
+
+[32] Bin Lu, Xiaoying Gan, Weinan Zhang, Huaxiu Yao, Luoyi Fu, Xinbing Wang, Spatio-Temporal Graph Few-Shot Learning with Cross-City Knowledge Transfer, in Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022), Washington DC, Aug. 2022 (Research Track). [Paper] [Code] 
+
+ 
+
+[33] Yinjie Jiang, Yemin Yu, Ming Kong, Yu Mei, Luotian Yuan, Zhengxing Huang, Kun Kuang, Zhihua Wang, Huaxiu Yao, James Zou, Connor W. Coley, Ying Wei, Artificial Intelligence for Retrosynthesis Prediction, Engineering (Engineering), 2022 (survey). [Paper]
+
+2021
+
+[34] Huaxiu Yao*, Yu Wang*, Ying Wei, Peilin Zhao, Mehrdad Mahdavi, Defu Lian, Chelsea Finn, Meta-learning with an Adaptive Task Scheduler, in Proceeding of the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021a), Virtual, Dec. 2021. [Paper] [Code] [Slides]
+
+ 
+
+[35] Huaxiu Yao, Ying Wei, Longkai Huang, Ding Xue, Junzhou Huang, Zhenhui Li, Functionally Regionalized Knowledge Transfer for Low-resource Drug Discovery, in Proceeding of the Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021b), Virtual, Dec. 2021. [Paper] [Code] [Slides]
+
+ 
+
+[36] Huaxiu Yao, Yingxin Wu, Maruan Al-Shedivat, Eric P. Xing, Knowledge-Aware Meta-learning for Low-Resource Text Classification, in Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), Punta Cana, Dominican Republic, Nov. 2021 (Short Paper, Oral). [Paper] [Code] [Slides]
+
+ 
+
+[37] Huaxiu Yao*, Longkai Huang*, Linjun Zhang, Ying Wei, Li Tian, James Zou, Junzhou Huang, Zhenhui Li, Improving Generalization in Meta-learning via Task Augmentation, in Proceeding of the Thirty-eighth International Conference on Machine Learning (ICML 2021), Virtual, Jul. 2021. [Paper] [Code] [Slides]
+
+ 
+
+[38] Jiatu Shi*, Huaxiu Yao*, Xian Wu, Tong Li, Zedong Lin, Tengfei Wang, Binqiang Zhao, Relation-aware Meta-learning for E-commerce Market Segment Demand Prediction with Limited Records, in Proceeding of the 14th ACM International Conference on Web Search and Data Mining (WSDM 2021), Virtual, Mar. 2021. [Paper]
+
+ 
+
+[39] Chuxu Zhang, Huaxiu Yao, Lu Yu, Chao Huang, Dongjing Song, Haifeng Chen, Meng Jiang, Nitesh V. Chawla, Inductive Contextual Relation Learning for Personalization, ACM Transactions on Information System (TOIS) 39, no. 3 (2021): 1-22. [Paper]
+
+2020
+
+[40]  Huaxiu Yao, Yingbo Zhou, Mehrdad Mahdavi, Zhenhui Li, Richard Socher, Caiming Xiong, Online Structured Meta-learning, in Proceeding of the Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020), Virtual, Dec. 2020. [Paper] [Slides]
+
+ 
+
+[41] Huaxiu Yao, Xian Wu, Zhiqiang Tao, Yaliang Li, Bolin Ding, Ruirui Li, Zhenhui Li, Automated Relational Meta-learning, in Proceeding of the Eighth International Conference on Learning Representations (ICLR 2020), Virtual, Apr. 2020. [Paper] [Code] [Slides]
+
+ 
+
+[42] Huaxiu Yao, Chuxu Zhang, Ying Wei, Meng Jiang, Suhang Wang, Junzhou Huang, Nitesh V. Chawla, Zhenhui Li, Graph Few-shot Learning via Knowledge Transfer, in Proceeding of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI 2020a), New York, NY, Feb. 2020 (the short version is presented in NeurIPS 2019 Graph Representation Learning Workshop). [Paper] [Code]
+
+ 
+
+[43] Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla, Few-Shot Knowledge Graph Completion, in Proceeding of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI 2020b), New York, NY, Feb. 2020. [Paper] [Code]
+
+ 
+
+[44] Xinshi Zang, Huaxiu Yao, Guanjie Zheng, Nan Xu, Kai Xu, Zhenhui Li, MetaLight: Value-based Meta-reinforcement Learning for Online Universal Traffic Signal Control, in Proceeding of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI 2020c), New York, NY, Feb. 2020. [Paper] [Code]
+
+ 
+
+[45] Xianfeng Tang, Huaxiu Yao, Yiwei Sun, Charu Aggarwal, Prasenjit Mitra, Suhang Wang, Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values, in Proceeding of the Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI 2020d), New York, NY, Feb. 2020. [Paper]
+
+ 
+
+[46] Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang, Transferring Robustness for Graph Neural Network Against Poisoning Attacks, in Proceeding of the 13th ACM International Conference on Web Search and Data Mining (WSDM 2020), Houston, TX, Feb. 2020. [Paper] [Code]
+
+ 
+
+[47] Xianfeng Tang, Huaxiu Yao, Yiwei Sun, Yiqi Wang, Jiliang Tang, Charu Aggarwal, Prasenjit Mitra, Suhang Wang, Investigating and Mitigating Degree-Related Biases in Graph Convolutional Networks, in Proceeding of the 29th ACM International Conference on Information and Knowledge Management (CIKM 2020), Galway, Ireland, Oct. 2020. [PDF]
+
+2019
+
+[48] Huaxiu Yao, Ying Wei, Junzhou Huang, Zhenhui Li, Hierarchically Structured Meta-learning, in Proceeding of the 36th International Conference on Machine Learning (ICML 2019), Long Beach, CA, June 2019. [Paper] [Code] [Slides]
+
+ 
+
+[49] Huaxiu Yao, Yiding Liu, Ying Wei, Xianfeng Tang, Zhenhui Li, Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction, in Proceeding of The Web Conference 2019 (WWW 2019a), San Francisco, CA, May 2019 (Research Track, Long Paper). [Paper] [Code] [Slides]
+
+ 
+
+[50] Xianfeng Tang, Boqing Gong, Yanwei Yu, Huaxiu Yao, Yandong Li, Haiyong Xie, Xiaoyu Wang, Joint Modeling of Dense and Incomplete Trajectories for Citywide Traffic Volume Inference, in Proceeding of The Web Conference 2019 (WWW 2019b), San Francisco, CA, May 2019 (Research Track, Long Paper). [Paper]
+
+ 
+
+[51] Huaxiu Yao*, Xianfeng Tang*, Hua Wei, Guanjie Zheng, Zhenhui Li, Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction, in Proceeding of the Thirty-third AAAI Conference on Artificial Intelligence (AAAI 2019), Honolulu, Hawaii, Jan. 2019. [Paper] [Code] [Slides]
+
+ 
+
+[52] Huaxiu Yao, Defu Lian, Yi Cao, Yifan Wu, Tao Zhou, Predicting Academic Performance for College Students: A Campus Behavior Perspective, ACM Transactions on Intelligent Systems and Technology (TIST) 10.3 (2019): 24. [Paper] [arXiv]
+
+2018
+
+[53] Huaxiu Yao, Fei Wu, Jintao Ke, Xianfeng Tang, Yitian Jia, Siyu Lu, Pinghua Gong, Jieping Ye, Zhenhui Li, Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction, in Proceeding of the Thirty-second AAAI Conference on Artificial Intelligence (AAAI 2018), New Orleans, LA, Feb. 2018. [Paper] [Code] [Penn State News]
+
+ 
+
+[54] Hua Wei*, Guanjie Zheng*, Huaxiu Yao, and Zhenhui Li, IntelliLight: A Reinforcement Learning Approach for Intelligent Traffic Light Control, in Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, UK, Aug. 2018 (Research Track). [Paper] [Code] [Demo]
+
+ 
+
+[55] Yi Cao*, Jian Gao*, Defu Lian, Zhihai Rong, Jiatu Shi, Qing Wang, Yifan Wu*, Huaxiu Yao*, Tao Zhou*. Orderliness predicts academic performance: behavioural analysis on campus lifestyle, Journal of the Royal Society Interface (J. R. Soc. Interface), 15 (146), (2018) 20180210 (alphabetical order). [Paper] [Supplementary]
+
+STUDENTS
+Ph.D. Students
+
+[Starting from Fall 2024] Yiyang Zhou, Achievement: ICLR'24a, ECCV'24, preprint'23*2, preprint'24*2
+
+[Starting from Fall 2024] Zhaoyang Wang
+
+[Starting from Fall 2024] Wenhao Zheng, Achievement: preprint'24
+
+[Starting from Fall 2024] Peng Xia, visiting PhD student, Achievement: MICCAI'24, preprint'24
+
+Interns/Visitors
+
+[2024 - now] Zhiyuan Fan, independent researcher (gap year), Achievement: preprint'24
+
+[2024 - now] Siwei Han (she/her), undergrad@Fudan U, Achievement: ICML'24
+
+[2024 - now] Dongjie Cheng, independent researcher, Achievement: preprint'24
+
+[2023 - now] Chenhang Cui, independent researcher, Achievement: ICLR'24a, ECCV'24, preprint'23*2, preprint'24*2
+
+[2023 - now] Zhaorun Chen, M.S. student@Purdue -> Ph.D. student@UChicago,  Achievement: ICML'24, NAACL'24, preprint'24
+
+Alumni
+
+[2023] Qichuan Yin, undergrad@PKU -> Ph.D. student@UChicago, Achievement: preprint'23
+
+[2023] Taixi Lu, undergrad@UNC -> Amazon, Achievement: preprint'24
+
+[2023] Haoqiang Kang, undergrad@UW -> Ph.D. student@UCSD, Achievement: preprint'23a
+
+[2023] Kartherina Tian (she/her), undergrad@Harvard, Achievement: preprint'23a
+
+[2023] Xiaohui Zhang, M.S.@BJTU -> Ph.D. student@Notre Dame, Achievement: CVPR'24
+
+[2022] Fahim Tajwar, undergrad@Stanford -> Ph.D. student@CMU,  Achievement: preprint'23a
+
+[2022 - 2023] Zhenbang Wu, Ph.D. student@UIUC, co-mentored with Prof. Jimeng Sun, Achievement: preprint'22a, NeurIPS'23
+
+[2022 - 2023] Xinyu Yang, undergrad@SJTU -> Ph.D. student@CMU, Achievements: TMLR'23b, preprint'22a
+
+[2022] Caroline Choi (she/her), undergrad@Stanford, Achievement: NeurIPS'22b
+
+[2022] Yiping Wang, undergrad@ZJU -> Ph.D. student@UW, Achievement: NeurIPS'22a
+
+[2022] Zhiyu Xie (she/her), undergrad@THU -> MS student@Stanford, Achievements: preprint'23a
+
+[2021 - 2022] Bochuan Cao, undergrad@UESTC -> Ph.D. student@PSU, Achievement: NeurIPS'22b
+
+[2021 - 2022] Yu Wang, undergrad@USTC -> Ph.D. student@UCSD, Achievements: NeurIPS'21a, ICML'22
+
+[2021] Yingxin Wu (she/her), undergrad@USTC -> Ph.D. student@Stanford, Achievement: EMNLP'21
+
+[2021] Yingxiu Zhao (she/her), Ph.D. student@HKUST, co-mentored with Prof. Nevin Zhang, Achievement: ACL'22
+
+[2020] Jiatu Shi (industry practitioner), senior engineer@Alibaba -> senior engineer@ByteDance, Achievement: WSDM'21
+
+[2019] Xinshi Zang, undergrad@SJTU -> Ph.D. student@CUHK, Achievement: AAAI'20
+
+HONORS
+
+Cisco Faculty Research Award, 2024
+OpenAI Researcher Access Award, 2024
+Google Cloud Research Credits Award, 2024
+NC TraCS Pilot Award, 2024
+AAAI New Faculty Highlights, 2024
+AI2000 Most Influential Scholar Award Honorable Mention, 2022
+AI Rising Stars in Chinese Students, Baidu Research, 2021
+College of IST Ph.D. Award for Research Excellence, Penn State University, 2020
+Excellent Bachelor Thesis​, 2016
+Excellent Graduates, 2016
+
+TEACHING
+
+Lecture
+
+CS 590/790-183: Transfer Learning, UNC-CH, Spring 2024
+CS 790-150: Reliable Machine Learning, UNC-CH, Fall 2023 (Student Evaluation of Teaching: 4.77/5.00)
+CS 330: Deep Multi-Task and Meta Learning (Domain Generalization), Stanford University, Fall 2022
+
+Tutorial
+
+Learning with Small Data. (KDD 2020 [Website] [Slides] [YouTube] [Bilibili]) (WSDM 2020 [Website]) (AAAI 2021)
+Meta-learning and Automated Machine Learning: Approaches and Applications​. (IJCAI 2020)
+
+​Teaching Assistant
+
+IST 597: Reinforcement Learning, Instructor: Dr. Zihan Zhou, Fall 2019 
+
+SERVICES
+
+Workshop Organizer
+Organizer, Workshop on Foundation Models in the Wild, ICML 2024 (Co-organizers: Xinyu Yang, Bilge Acun, Kamalika Chaudhuri, Beidi Chen, Giulia Fanti, Junlin Han, Lianhui Qin, Shengbang Tong, Philip Torr, Hao Wang, Cathy Wu, James Zou)
+Lead Organizer, Workshop on Reliable and Responsible Foundation Models, ICLR 2024 (Co-organizers: Mohit Bansal, Zhun Deng, Chelsea Finn, Pavel Izmailov, He He, Pang Wei Koh, Eric Mitchell, Cihang Xie) [Website]
+Lead Organizer, Sixth Workshop on Meta-Learning, NeurIPS 2022 (Co-organizers: Fábio Ferreira, Frank Hutter, Joaquin Vanschoren, Eleni Triantafillou, Qi Lei) [Website]
+Lead Organizer, the First Workshop on Pre-training: Perspectives, Pitfalls, and Paths Forward, ICML 2022 (Co-organizers: Hugo Larochelle, Colin Rafel, Percy Liang, Jian Tang, Ying Wei, Saining Xie, Eric P. Xing, Chelsea Finn) [Website]
+Organizer, Fifth Workshop on Meta-Learning, NeurIPS 2021 (Co-organizers: Fábio Ferreira, Erin Grant, Frank Hutter, Jonathan Schwarz, Joaquin Vanschoren) [Website]
+Conference Area Chair
+International Conference on Machine Learning (ICML), 2024
+Conference on Neural Information Processing Systems (NeurIPS), 2024, D&B Track (2022 - 2024)
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2024
+Empirical Methods in Natural Language Processing  (EMNLP), 2024
+International Conference on Automated Machine Learning (AutoML-Conf), 2022 - 2024
+Learning on Graphs Conference (LoG), 2022 - 2024
+
+MISCELLANEOUS
+
+Invited Talks
+
+Actionable Machine Learning for Tackling Distribution Shift
+
+University of California, Santa Cruz, 2022
+University of Maryland, 2022
+MedAI Seminar,  Stanford, 2022
+Center for Multi-Agent Research, Peking University, 2022
+
+Improving Generalization in Meta-learning through Organization and Augmentation
+
+StatsML Seminar, Imperial & Oxford, 2022
+University of Fribourg, 2021
+M2D2 Seminar, Valence Discovery & Mila, 2022
+
+Learning to Learn with Structured Knowledge
+
+Juniper Network, 2022
+Carnegie Mellon University, 2020
+Stanford University, 2020
+Microsoft Dynamic 365, 2020
+Amazon A9, 2020
+Industry Internships
+Applied Scientist Intern, Amazon A9, Mentor: Dr. Nikhil Rao, Dr. Sumeet Katariya, Prof. Sujay Sanghavi, Summer 2020
+Research Intern, Salesforce Research, Mentor: Dr. Caiming Xiong, Dr. Yingbo Zhou, Manager: Dr. Richard Socher, Fall 2019
+Research Intern, Alibaba DAMO Academy, USA, Mentor & Manager: Dr. Bolin Ding, Summer 2019
+Research Intern, Tencent AI Lab, Mentor: Dr. Ying Wei, Manager: Prof. Junzhou Huang, Summer 2018
+Research Intern, Didi AI Labs, Mentor: Dr. Pinghua Gong, Manager: Prof. Jieping Ye, Spring 2017
+
+CONTACT
+
+Office: 322, Gates Building, Stanford, CA 94085
+
+huaxiu@cs.unc.edu
+
+yhx662012@gmail.com
+
+Linkedin
+
+Github
+
+HuaxiuYaoML
+
+Huaxiu_Yao66
+
+Copyright 2019
+
+Cookie Use
+We use cookies to ensure a smooth browsing experience. By continuing we assume you accept the use of cookies.
+Accept
+Learn More
+

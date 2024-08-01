@@ -1,0 +1,297 @@
+Professor: Michael Maire
+University: University of Chicago
+URL: http://ttic.uchicago.edu/~mmaire
+Description: michael maire
+☼
+about| students| publications| theses|
+about
+I am an Assistant Professor in the Department of Computer Science at the University of Chicago. I have a courtesy appointment at the Toyota Technological Institute at Chicago (TTIC).
+
+Previously, I was a Research Assistant Professor at TTIC, following a time as a postdoc in the Computer Vision Lab at Caltech. I completed my Ph.D. at UC Berkeley, advised by Jitendra Malik.
+contact
+The University of Chicago
+Department of Computer Science
+John Crerar Library Building
+5730 S. Ellis Ave
+Chicago, IL 60637
+
+mmaire@uchicago.edu
+CV Google Scholar arXiv
+students
+Xin Yuan (University of Chicago)
+Xiao Zhang (University of Chicago)
+Sudarshan Babu (TTIC)
+Pedro Savarese (TTIC)
+Tri Huynh (University of Chicago), Ph.D., 2021 → Google
+Thesis: Universal Neural Memory Architectures: Multigrid Connectivity, Domain-Agnostic Geometry, and Local Operators
+publications
+all| selected| subject area↴| year↴
+Information-Theoretic Segmentation by Inpainting Error Maximization
+Pedro Savarese, Sunnie S. Y. Kim, Michael Maire, Greg Shakhnarovich, and David McAllester
+Computer Vision and Pattern Recognition (CVPR), 2021
+
+An optimization approach to unsupervised image segmentation that minimizes predictability of foreground from background and vice-versa, optionally producing pseudo-labels for training deep models.
+PDF Bibtex   arXiv:2012.07287 CVF  
+[ + ]
+Domain-Independent Dominance of Adaptive Methods
+Pedro Savarese, David McAllester, Sudarshan Babu, and Michael Maire
+Computer Vision and Pattern Recognition (CVPR), 2021
+
+AvaGrad: an adaptive optimizer that matches or outperforms both Adam and SGD, simplifies hyperparameter tuning by decoupling learning rate from adaptivity, and improves training of GANs.
+PDF Bibtex   arXiv:1912.01823 CVF   Code  
+[ + ]
+Multimodal Contrastive Training for Visual Representation Learning
+Xin Yuan, Zhe Lin, Jason Kuen, Jianming Zhang, Yilin Wang, Michael Maire, Ajinkya Kale, and Baldo Faieta
+Computer Vision and Pattern Recognition (CVPR), 2021
+
+A self-supervised learning framework connecting vision and language in a common embedding space, with both inter-modal and intra-modal contrastive objectives.
+PDF Bibtex   arXiv:2104.12836 CVF  
+[ + ]
+Are Machine Learning Cloud APIs Used Correctly?
+Chengcheng Wan, Shicheng Liu, Henry Hoffmann, Michael Maire, and Shan Lu
+International Conference on Software Engineering (ICSE), 2021
+
+An analysis of open-source applications that use cloud-based machine learning APIs, in combination with development of automated checkers for identifying API misuses.
+PDF Bibtex   IEEE  
+[ + ]
+Growing Efficient Deep Networks by Structured Continuous Sparsification
+Xin Yuan, Pedro Savarese, and Michael Maire
+International Conference on Learning Representations (ICLR), 2021 [Oral]
+
+Accelerated training of compact neural networks by growing them from a small seed architecture, using a combination of continuous sparsification with a sampling scheme; unifies pruning and architecture search.
+PDF Bibtex   arXiv:2007.15353 OpenReview  
+[ + ]
+Winning the Lottery with Continuous Sparsification
+Pedro Savarese*, Hugo Silva*, and Michael Maire
+Neural Information Processing Systems (NeurIPS), 2020
+
+A singular approach to pruning neural networks and finding lottery tickets (sparse subnetworks, retrainable from initialization), with experimental results setting a new state-of-the-art for each.
+PDF Bibtex   arXiv:1912.04427 NeurIPS   Code  
+[ + ]
+Self-Supervised Visual Representation Learning from Hierarchical Grouping
+Xiao Zhang and Michael Maire
+Neural Information Processing Systems (NeurIPS), 2020 [Spotlight]
+
+A generic image segmentation procedure, trained on small dataset, bootstraps self-supervised representation learning on a large unlabeled dataset using a region-aware contrastive loss.
+PDF Bibtex   arXiv:2012.03044 NeurIPS
+[ + ]
+Multigrid Neural Memory
+Tri Huynh, Michael Maire, and Matthew R. Walter
+International Conference on Machine Learning (ICML), 2020
+
+A design for endowing neural networks with hierarchically-connected distributed memory; end-to-end training yields the emergence of coherent memory subsystems driven by learned addressing strategies.
+PDF Bibtex   arXiv:1906.05948 PMLR   Project Website Code  
+[ + ]
+Orthogonalized SGD and Nested Architectures for Anytime Neural Networks
+Chengcheng Wan, Henry Hoffmann, Shan Lu, and Michael Maire
+International Conference on Machine Learning (ICML), 2020
+
+The principle of maximizing re-use of intermediate representations within a multitask network guides design of multistage nested network architectures paired with a custom training procedure.
+PDF Bibtex   arXiv:2008.06635 PMLR  
+[ + ]
+ALERT: Accurate Anytime Learning for Energy and Timeliness
+Chengcheng Wan, Muhammad Santriaji, Eri Rogers, Henry Hoffmann, Michael Maire, and Shan Lu
+USENIX Annual Technical Conference (USENIX ATC), 2020
+
+A runtime scheduler for selecting neural network and system resource configurations to meet latency, accuracy, and energy constraints in dynamic operating environments.
+Bibtex   arXiv:1911.00119 USENIX  
+[ + ]
+Pixel Consensus Voting for Panoptic Segmentation
+Haochen Wang, Ruotian Luo, Michael Maire, and Greg Shakhnarovich
+Computer Vision and Pattern Recognition (CVPR), 2020
+
+Object segmentation based on the generalized Hough transform, which accumulates pixelwise votes for instance centroids over discrete spatial cells, implemented within a deep convolutional framework.
+PDF Bibtex   arXiv:2004.01849 CVF   Code  
+[ + ]
+Learning Implicitly Recurrent CNNs Through Parameter Sharing
+Pedro Savarese and Michael Maire
+International Conference on Learning Representations (ICLR), 2019
+
+Re-parameterizing convolutional networks, so that layers share weights via a set of templates, benefits generalization and often produces trained models that can be rewritten in an explicitly recurrent form.
+PDF Bibtex   arXiv:1902.09701 OpenReview   Code  
+[ + ]
+Sparsely Aggregated Convolutional Networks
+Ligeng Zhu, Ruizhi Deng, Michael Maire, Zhiwei Deng, Greg Mori, and Ping Tan
+European Conference on Computer Vision (ECCV), 2018
+
+Scaling skip or residual connection scaffolding logarithmically, rather than linearly (standard ResNet), with network depth increases parameter efficiency and permits training models thousands of layers deep.
+PDF Bibtex   arXiv:1801.05895 CVF   Code  
+[ + ]
+Self-Supervised Relative Depth Learning for Urban Scene Understanding
+Huaizu Jiang, Erik Learned-Miller, Gustav Larsson, Michael Maire, and Greg Shakhnarovich
+European Conference on Computer Vision (ECCV), 2018
+
+Predicting relative depth from a single source image serves as proxy task for self-supervised learning; trained from egomotion video, these learned representations boost several downstream tasks.
+PDF Bibtex   arXiv:1712.04850 CVF  
+[ + ]
+Regularizing Deep Networks by Modeling and Predicting Label Structure
+Mohammadreza Mostajabi, Michael Maire, and Gregory Shakhnarovich
+Computer Vision and Pattern Recognition (CVPR), 2018
+
+Learning an autoencoder for a structured label space (e.g., semantic segmentation annotations), allows subsequent use of its decoder as an auxiliary output branch to regularize training of a prediction network.
+PDF Bibtex   arXiv:1804.02009 CVF   Poster  
+[ + ]
+Colorization as a Proxy Task for Visual Understanding
+Gustav Larsson, Michael Maire, and Gregory Shakhnarovich
+Computer Vision and Pattern Recognition (CVPR), 2017
+
+Requiring no labeled data, colorizing images serves as an effective training proxy for downstream classification and semantic segmentation tasks; we quantify in comparison to ImageNet pretraining.
+PDF Bibtex   arXiv:1703.04044 CVF   Project Website  
+[ + ]
+Multigrid Neural Architectures
+Tsung-Wei Ke, Michael Maire, and Stella X. Yu
+Computer Vision and Pattern Recognition (CVPR), 2017
+
+Endowing CNNs with spatial shortcuts, by remaking layers into multigrid pyramids with bidirectional wiring across grid scales, yields an emergent capability: attentional behavior arises from end-to-end training.
+PDF Supp Bibtex   arXiv:1611.07661 CVF   Poster Slides   Code  
+[ + ]
+FractalNet: Ultra-Deep Neural Networks without Residuals
+Gustav Larsson, Michael Maire, and Gregory Shakhnarovich
+International Conference on Learning Representations (ICLR), 2017
+
+A self-similar architecture shows that shortcut pathways across depth, not the functional form of residual connections, are key to training networks, allowing them to transition from effectively shallow to deep.
+PDF Bibtex   arXiv:1605.07648 OpenReview   Poster   Project Website   Code  
+[ + ]
+Learning Representations for Automatic Colorization
+Gustav Larsson, Michael Maire, and Gregory Shakhnarovich
+European Conference on Computer Vision (ECCV), 2016 [Oral]
+
+A hypercolumn architecture and a loss formulated on histogram prediction serve as the basis for training a colorization network that outperforms existing methods and yields broadly useful feature representations.
+PDF Supp Bibtex   arXiv:1603.06668   Poster   Project Website   Code  
+[ + ]
+Affinity CNN: Learning Pixel-Centric Pairwise Relations for Figure/Ground Embedding
+Michael Maire, Takuya Narihira, and Stella X. Yu
+Computer Vision and Pattern Recognition (CVPR), 2016 [Spotlight]
+
+Spectral embedding resolves predictions, produced by a CNN, about local figure/ground and grouping relationships into a globally consistent segmentation and figure/ground organization of a scene.
+PDF Supp Bibtex   arXiv:1512.02767 CVF   Poster  
+[ + ]
+Direct Intrinsics: Learning Albedo-Shading Decomposition by Convolutional Regression
+Takuya Narihira, Michael Maire, and Stella X. Yu
+International Conference on Computer Vision (ICCV), 2015
+
+Trained on the synthetic MPI Sintel dataset to directly predict albedo and shading channels from an input RGB image, a convolutional neural network generalizes well to producing decompositions of real images.
+PDF Bibtex   arXiv:1512.02311 CVF   Poster   Code  
+[ + ]
+Learning Lightness from Human Judgement on Relative Reflectance
+Takuya Narihira, Michael Maire, and Stella X. Yu
+Computer Vision and Pattern Recognition (CVPR), 2015
+
+An approach to predicting relative lightness (perceived reflectance) of image patches using deep features, with promising results on the Intrinsic Images in the Wild dataset.
+PDF Bibtex   CVF    
+[ + ]
+Reconstructive Sparse Code Transfer for Contour Detection and Semantic Labeling
+Michael Maire, Stella X. Yu, and Pietro Perona
+Asian Conference on Computer Vision (ACCV), 2014 [Oral]
+
+Deep, multiscale feature representations based on sparse coding; articulates the concept of concatenating a spatially-localized slice through multiple layers of sparse codes (activations) into a feature descriptor.
+PDF Bibtex   arXiv:1410.4521   Slides  
+[ + ]
+Microsoft COCO: Common Objects in Context
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár, and C. Lawrence Zitnick
+European Conference on Computer Vision (ECCV), 2014 [Oral]
+
+A large-scale dataset for object detection and segmentation.
+PDF Bibtex   arXiv:1405.0312   Project Website
+[ + ]
+Progressive Multigrid Eigensolvers for Multiscale Spectral Segmentation
+Michael Maire and Stella X. Yu
+International Conference on Computer Vision (ICCV), 2013
+
+A custom eigensolver, using a novel interpolation strategy, for spectral clustering problems with coarse-to-fine structure and (optional) constraints; applied to image segmentation, it delivers a substantial speedup.
+PDF Bibtex   Poster Slides   Code
+[ + ]
+Hierarchical Scene Annotation
+Michael Maire, Stella X. Yu, and Pietro Perona
+British Machine Vision Conference (BMVC), 2013
+
+Web-based software tools for detailed annotation of scenes into object-part-subpart region hierarchies and their occlusion relationships.
+PDF Bibtex   Poster Slides   Annotation Tool Benchmark
+[ + ]
+Object Detection and Segmentation from Joint Embedding of Parts and Pixels
+Michael Maire, Stella X. Yu, and Pietro Perona
+International Conference on Computer Vision (ICCV), 2011 [Oral]
+
+A model of pixel grouping, part grouping, and figure/ground relationships as interactions between graph nodes, with a globally consistent scene interpretation obtained by solving an Angular Embedding problem.
+PDF Bibtex   Poster Slides   Code
+[ + ]
+Occlusion Boundary Detection and Figure/Ground Assignment from Optical Flow
+Patrik Sundberg, Thomas Brox, Michael Maire, Pablo Arbeláez, and Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2011 [Oral]
+
+A contour detection procedure for video that exploits motion cues and, in combination with reasoning about optical flow over a segmentation into regions, determines figure/ground relationships.
+PDF Bibtex
+[ + ]
+Contour Detection and Hierarchical Image Segmentation
+Pablo Arbeláez, Michael Maire, Charless Fowlkes, and Jitendra Malik
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2011
+
+A high-performance contour detector, combining local and global information, and generic machinery for transforming contours into a hierarchical region tree; extensive quantitative evaluation.
+PDF Bibtex   Datasets and Code
+[ + ]
+Simultaneous Segmentation and Figure/Ground Organization using Angular Embedding
+Michael Maire
+European Conference on Computer Vision (ECCV), 2010
+
+Angular Embedding, an extension of spectral clustering to complex-valued affinities, provides the basis for incorporating figure/ground ordering relationships into an image segmentation framework.
+PDF Bibtex   Poster   Code
+[ + ]
+From Contours to Regions: An Empirical Evaluation
+Pablo Arbeláez, Michael Maire, Charless Fowlkes, and Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2009
+
+An Oriented variant of the Watershed Transform (OWT), followed by construction of an Ultrametic Contour Map (UCM), together serve to convert contours into a region hierarchy, while preserving boundary quality.
+PDF Bibtex   Poster   Code
+[ + ]
+Using Contours to Detect and Localize Junctions in Natural Images
+Michael Maire, Pablo Arbeláez, Charless Fowlkes, and Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2008 [Oral]
+
+A method for enhancing local contour detection with global information obtained from spectral partitioning, and a novel iterative approach to localizing junctions from contour fragments.
+PDF Bibtex   Slides   Software Code
+[ + ]
+SVM-KNN: Discriminative Nearest Neighbor Classification for Visual Category Recognition
+Hao Zhang, Alexander C. Berg, Michael Maire, and Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2006
+
+A hybridization of support vector machines (SVMs) and nearest neighbor classification, achieved by training a local SVM on the collection of neighbors close to a query point.
+PDF Bibtex
+[ + ]
+Making Latin Manuscripts Searchable using gHMM's
+Jaety Edwards, Yee Whye Teh, David A. Forsyth, Roger Bock, Michael Maire, and Grace Vesom
+Neural Information Processing Systems (NeurIPS), 2004
+
+A system for making scanned, handwritten latin manuscripts accessible to full text search, while requiring only a small amount of annotated training data.
+PDF Bibtex
+[ + ]
+Names and Faces in the News
+Tamara L. Berg, Alexander C. Berg, Jaety Edwards, Michael Maire, Ryan White, Yee Whye Teh, Erik Learned-Miller, and David A. Forsyth
+Computer Vision and Pattern Recognition (CVPR), 2004
+
+A large dataset of faces obtained from captioned news images.
+PDF Bibtex
+[ + ]
+Recognition by Probabilistic Hypothesis Construction
+Pierre Moreels, Michael Maire, and Pietro Perona
+European Conference on Computer Vision (ECCV), 2004
+
+A probabilistic framework for recognizing individual object instances in images of cluttered scenes.
+PDF Bibtex
+[ + ]
+theses
+Contour Detection and Image Segmentation
+Michael Maire
+Ph.D. Thesis
+University of California, Berkeley, 2009
+
+PDF Bibtex
+[ + ]
+Dynamic Code Updates
+Michael Maire
+Undergraduate Thesis
+California Institute of Technology, 2003
+
+PDF Bibtex
+[ + ]
+Copyright © 2021 Michael Maire
+

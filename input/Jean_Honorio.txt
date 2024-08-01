@@ -1,0 +1,94 @@
+Professor: Jean Honorio
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/jhonorio
+Description: Jean Honorio
+Senior Lecturer in the School of Computing and Information Systems at The University of Melbourne.
+Adjunct Professor in the Computer Science Department at Purdue.
+Adjunct Professor in the Statistics Department (by courtesy) at Purdue.
+Room 3308, Melbourne Connect, Carlton, VIC 3053, Australia.
+e-mail: jhonorio at unimelb.edu.au, jhonorio at purdue.edu, jhonorio at csail.mit.edu
+
+Modern machine learning (ML) problems are combinatorial and non-convex, specially those involving latent variables, for which theoretical guarantees are quite limited. Furthermore, while quantitative guarantees (e.g., small test error) have been studied, qualitative guarantees (e.g., outlier robustness) are mostly lacking. My long-term research goal is to uncover the general foundations of ML and optimization that drives the empirical success across many specific combinatorial and non-convex ML problems. I aim to develop a set of optimization-theoretic frameworks and tools to bridge the aforementioned gaps, to further our understanding of continuous (possibly non-convex) relaxations of combinatorial problems, as well as our knowledge of non-convexity.
+
+My aim is to generate correct, computationally efficient and statistically efficient algorithms for high dimensional ML problems. My research group has produced breakthroughs not only on classical worst-case NP-hard problems, such as learning and inference in structured prediction, community detection and learning Bayesian networks, but also on areas of recent interest such as fairness, meta learning, federated learning and robustness. [vita]
+
+Prior to joining The University of Melbourne, I was Assistant Professor at Purdue and a postdoctoral associate at MIT CSAIL, working with Tommi Jaakkola. My Erdős number is 3: Jean Honorio → Tommi Jaakkola → Noga Alon → Paul Erdős.
+
+Students
+Current. Hanbyul Lee (Stat PhD), Wenjie Li (Stat PhD), Vineet Malik (CS MS), Deepak Maurya (CS PhD).
+Past. Adarsh Barik (CS PhD 2023, postdoc at NUS), Chuyang Ke (CS PhD 2023), Kevin Bello (CS PhD 2021, postdoc at UChicago & CMU), Asish Ghoshal (CS PhD 2019).
+Prospective. Here is a note for students who are considering working with me.
+News
+05/24. invited talk at American Causal Inference Conference.
+05/24. talk at University of Washington.
+05/24. area chair for NeurIPS.
+04/24. 2 papers accepted at UAI (Hanbyul, Vineet/Kevin).
+01/24. 1 paper accepted at AISTATS (Wenjie).
+01/24. 3 papers accepted at TMLR (Adarsh, Chuyang, Site/Chuyang).
+01/24. I joined the School of Computing and Information Systems at The University of Melbourne as a Senior Lecturer (equivalent to Associate Professor in USA).
+01/24. Hanbyul to do a postdoc at MSKCC & MIT.
+12/23. 1 paper accepted at AAAI (Wenjie).
+12/23. talks at Mount Sinai School of Medicine and SUNY Stony Brook.
+12/23. area chair for ICML.
+05/23. talk at Boston University.
+04/23. 1 paper accepted at ICML (Chuyang).
+03/23. Adarsh to do a postdoc at NUS.
+03/23. talk at University of Melbourne.
+02/23. talk at SUNY Buffalo.
+02/23. area chair for NeurIPS.
+02/23. 1 paper accepted at CVPR (Qiuling).
+02/23. 1 paper accepted at ICASSP (Adarsh).
+12/22. area chair for ICML.
+11/22. a brief visit to MIT.
+09/22. 1 paper accepted at NeurIPS (Hanbyul).
+09/22. 1 paper accepted at JMLR (Chuyang).
+09/22. visiting National University of Singapore.
+05/22. talk at University of Oxford.
+05/22. 2 papers accepted at ICML (Adarsh, Wenjie/Adarsh).
+04/22. 1 paper accepted at ISIT (Hanbyul/Kevin).
+04/22. Siya Goel (highschool student I have mentored) accepted to Stanford.
+03/22. talk at National University of Singapore.
+03/22. area chair for NeurIPS.
+02/22. 7 professors from different departments + 5 corporate partners are sponsoring Capstone projects.
+01/22. 3 papers accepted at ICASSP (Chuyang, Adarsh:2).
+01/22. 2 papers accepted at AISTATS (Chuyang, Kevin/Chuyang).
+10/21. talks at Columbia and Hebrew University of Jerusalem.
+09/21. 2 papers accepted at NeurIPS (Adarsh, Gregory/Kevin).
+09/21. talks at UMass Amherst and University College London.
+08/21. NSF DMS:Collaborative grant awarded to do research on deep learning.
+06/21. CI fellowship awarded to Kevin to do a postdoc in UChicago & CMU.
+06/21. talk at CalTech.
+05/21. 2 papers accepted at ICML (Abi, Qian/Yilin).
+04/21. 6 papers accepted at ISIT (Kevin/Qiuling, Donald/Adarsh, Jiajun/Chuyang, Zitao, Krishna, Abdulrahman).
+04/21. talk at CMU.
+03/21. talks at MIT, UCSD and University of Wisconsin-Madison.
+03/21. area chair for NeurIPS.
+02/21. talks at Virginia Tech and Alan Turing Institute.
+01/21. 2 papers accepted at AISTATS (Zhanyu, Yuki).
+09/20. 1 paper accepted at NeurIPS (Kevin).
+01/20. 1 paper accepted at AISTATS (Kevin).
+09/19. 3 papers accepted at NeurIPS (Kevin, Adarsh, Abi).
+04/19. 1 paper accepted at ICML (Raphael).
+09/18. 3 papers accepted at NeurIPS (Kevin:2, Chuyang).
+05/18. 1 paper accepted at ICML (Asish).
+12/17. 3 papers accepted at AISTATS (Asish:2, Yixi).
+09/17. 1 paper accepted at NeurIPS (Asish).
+08/17. NSF RI:Small grant awarded to do research on structured prediction.
+Selected Publications (see all)
+Exact Inference in High-order Structured Prediction. ICML 2023.
+Exact Partitioning of High-order Models with a Novel Convex Tensor Cone Relaxation. JMLR 2022.
+Support Recovery in Sparse PCA with Incomplete Data. NeurIPS 2022.
+Fair Sparse Regression with Clustering: An Invex Relaxation for a Combinatorial Problem. NeurIPS 2021 spotlight.
+The Sample Complexity of Meta Sparse Regression. AISTATS 2021.
+Fairness Constraints can Help Exact Inference in Structured Prediction. NeurIPS 2020.
+Learning Linear Structural Equation Models in Polynomial Time and Sample Complexity. AISTATS 2018.
+Teaching
+CS 49000-DSC. Data Science Capstone: Spring 2022.
+CS 69000-SML. Statistical Machine Learning II: Fall 2021, also offered on Spring 2019 and Spring 2017.
+CS 59200-HLT / STAT 59800-HLT. Hands-On Learning Theory: Fall 2021, also offered on Fall 2020, Fall 2019, Fall 2018, Fall 2017, Fall 2016 and Fall 2015.
+CS 37300. Data Mining and Machine Learning: Spring 2021, also offered on Fall 2019 and Fall 2018.
+CS 57800. Statistical Machine Learning: Fall 2020, also offered on Spring 2020, Spring 2018, Fall 2017 and Fall 2016.
+CS 52000. Computational Methods In Optimization: Spring 2016.
+
+
+

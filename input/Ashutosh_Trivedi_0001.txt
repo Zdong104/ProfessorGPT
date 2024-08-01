@@ -1,0 +1,102 @@
+Professor: Ashutosh Trivedi 0001
+University: University of Colorado Boulder
+URL: https://ashut.bitbucket.io/
+Description: Department of Computer Science
+COLLEGE OF ENGINEERING AND APPLIED SCIENCE
+Home
+Publications
+Teaching
+Service
+Bio
+	
+Ashutosh Trivedi
+Associate Professor of Computer Science
+
+
+Email: ashutosh.trivedi @ colorado.edu
+Web: Home , Twitter, Google Scholar, DBLP, ResearchID, ORCID , and ResearchGate.
+Research Interests : Safety in AI · Reinforcement Learning · Formal Methods · Software Fairnes · Software Accountability
+Group: Programming Languages and Verification (CUPLV)
+
+Artificial Intelligence (AI) assisted software solutions have made substantial inroads in critical aspects of modern existence where they routinely make safety-, socio-, and legal- critical decision with certainty and swift. Instances of such AI-assisted decisions include: self-driving cars deciding to stop, implantable pacemakers deciding to pace, or the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) software deciding if individuals are prone to reoffend. These AI-assisted software are data-driven: they adapt their behavior based experiences in the form of data: be it the expertly curated data in supervised learning, surprising patterns hidden in raw data in unsupervised learning, or the self-generated data guided by expertly designed reward signals in reinforcement learning. The focus of my research is on enabling rigorous system engineering of data-driven system towards improved safety, privacy, fairness, and accountability.
+
+While formal methods for rigorous system engineering provide principles, processes, and practices for traditional systems development, data-driven systems---due to their statistical, inductive, and adaptive nature---demand a paradigm shift. My research seeks to understand and to redefine the role of formal methods in data-driven system development. While I continue to leverage my expertise in analyzing functional requirements including safety and privacy, I am actively exploring the applications of formal methods in analyzing legal and societal implications of data-driven software systems. Some notable examples from my current research include:
+
+the role of formal requirements in reinforcement learning ,
+the use of automatic testing and debugging in fairness-aware configuration of machine learning libraries, and
+the role of formal specifications in expressing correctness requirements for the tax-preparation software.
+
+News.
+[June'24] Job Opportunity: Undergraduate Summer Research Assistant in Neurosymbolic AI: We, along with Prof. Fabio Somenzi, are seeking a motivated undergraduate summer research assistant to join our project in Neurosymbolic AI.
+Job Title: Undergraduate Summer Research Assistant
+
+Key Responsibilities: 1) Training neural networks and 2) Deploying SMT solvers to verify their properties.
+Qualifications: 1) Strong background in discrete mathematics, 2) Proficiency in programming, and 3) Aptitude for theorem proving.
+Compensation: $18 per hour, Up to 25 hours per week
+Application Process: Interested candidates should send an email to ashutosh.trivedi@colorado.edu
+[May'22] The call for papers for the 20th ACM/IEEE International Symposium on Formal Methods and Models for System Design (MEMCODE) is out. Consider submitting your latest work on formal methods and models.
+Our article in the Annual Reviews in Control on Secure-by-construction synthesis of cyber-physical systems is available online.
+[Apr'22] Congratulations to Mateo Perez on receiving Bell Foundation Outstanding Research Award 2022.
+[Apr'22] Congratulations to Vishnu Murali on receiving Departmental Outstanding Research Award 2022.
+[Feb'22] I look forward to organizing the 8th workshop on Symbolic-Numeric Methods for Reasoning about CPS and IoT
+[Jan'22] Paper by Murali et al. “k-Inductive Barrier Certificates for Stochastic Systems” accepted to HSCC’22.
+[Jan'22] Received the NSF 2022 CAREER Award to investigate Reinforcement Learning for Recursive Markov Decision Processes and Beyond.
+[Jan'22] I am teaching CSCI 2270 (Data Structures) this spring (Details on Canvas).
+[Dec'21] Paper by Velasquez et al. on "Controller Synthesis for Omega-Regular and Steady-State Specifications" accepted to AAMAS’22.
+[Dec'21] Paper by Perez et al. on "Translating Omega-Regular Specifications to Average Objectives for Model-Free Reinforcement Learning” accepted to AAMAS’22.
+[Dec'21] Paper by Tizpaz-Niari et al. on "Fairness-aware Configuration of Machine Learning Libraries" accepted to ICSE'21.
+[Nov'21] Congratulations to Taylor Dohmen on delivering an excellent presentation on "Regularity in Transducers and Applications in Reinforcement Learning" for his area exam.
+[Oct'21] Tianhan Lu wins the Radhia Cousot Young Researcher Best Paper Award at SAS 2021.
+[Aug'21] Congratulations to Tianhan Lu on successfully defending his thesis proposal.
+[Aug'21] Paper by Komp et al. on “Event-Triggered and Time-Triggered Duration Calculus for Model-Free Reinforcement Learning” accepted to RTSS'21.
+[July'21] Paper by Perez et al. “Model-Free Reinforcement Learning for Lexicographic Omega-Regular Objectives” accepted to Formal Methods (FM'21).
+[July'21] Paper by Murali et al. on “Safety Verification of Dynamical Systems via k-Inductive Barrier Certificates” accepted to CDC'21.
+[July'21] Paper by Dohmen et al. on “Regular Model Checking with Regular Relations” accepted to Fundamentals of Computation Theory (FCT'21).
+[July'21] Paper by Lu et al. accepted to SAS 2021.
+[June'21] Mungojerrie (beta release) is available for download.
+[April'21] Paper by Perez et al. on Model-Free Reinforcement Learning for Branching Markov Decision Processes accepted to CAV'21 .
+Current PhD Students.
+
+Taylor Dohmen
+
+Interests. Regular Relations and Reinforcement Learning
+
+John Komp
+
+Interests. Duration Calculus and Reinforcement Learning
+
+Tianhan Lu
+
+Interests. Static Analysis for Resource and Cost Bounding             
+
+
+Vishnu Murali
+
+Interests. Foundations of Cyber-Physical Systems Verification and Synthesis
+
+Mateo Perez
+
+Interests. Automata-Theoretic Reinforcement Learning
+
+Graduated PhD Students
+
+Saeid Tizpaz-Niari
+
+Thesis. Differential Performance Debugging and its application to side-channel analysis (2020)
+
+First Employment. Assistant Professor at UT El Paso
+
+Devendra Bhave
+
+Thesis. Perfect Subclasses of Real-timed Recursive Systems (2020)
+
+First Employment. Senior Software Engineer, Mathworks
+
+This HTML template is a resource provided by Strategic Relations and Communications.
+
+University of Colorado Boulder
+
+© Regents of the University of Colorado
+
+Privacy • Legal & Trademarks • Campus Map
+

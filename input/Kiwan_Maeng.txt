@@ -1,0 +1,141 @@
+Professor: Kiwan Maeng
+University: Pennsylvania State University
+URL: https://kiwanmaeng.com/
+Description: ABOUT
+PUBLICATIONS
+SERVICES
+AWARDS & HONORS
+INDUSTRY EXPERIENCES
+MISCELLANEOUS
+KIWAN MAENG
+Charles K. Etner Early Career Assistant Professor · Computer Science and Engineering · Pennsylvania State University (2022.8 --)
+Postdoc Researcher · SysML Team · Meta AI Research (2021.8 -- 2022.8)
+I am a tenure-track assistant professor in the Computer Science and Engineering Department at Pennsylvania State University. Prior to joining PSU, I did a one-year postdoc at Meta AI Research's SysML Team. I did my Ph.D. at Carnegie Mellon University, under the advisement of Professor Brandon Lucia. My research interest lies in systems for privacy-preserving machine learning in the broadest sense. I am interested in studying the privacy implications of modern ML systems and developing algorithm/system/hardware solutions for privacy-preserving ML training and inference. In the past, I've also worked on systems for ML, ML and sustainability, and batteryless energy-harvesting devices.
+
+If you are interested in working with me, please send me an email elaborating the area of research you are interested in with respect to my research interests/recent publications. Please include your relevant background experiences (e.g., courses, projects, publication experiences) as much as possible.
+
+I am also an amateur webtoonist. Check out my work if you know Korean. Otherwise, do not bother. My pronouns are: he/his/him.
+
+Email: kwmaeng91 [at] gmail [dot] com
+
+
+
+
+Recent News
+• Feb 2024: Our work "Accelerating ReLU for MPC-Based Private Inference with a Communication-Efficient Sign Estimation" was accepted to MLSys 2024!
+• Dec 2023: Our work "Compiler-based Memory Encryption for Machine Learning on Commodity Low-power Devices" was accepted to CC 2024!
+• Nov 2023: Our work "LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models" was accepted to ASPLOS 2024!
+• Sep 2023: Our work "Bounding the Invertibility of Privacy-preserving Instance Encoding using Fisher Information" was accepted to NeurIPS 2023!
+• Jul 2023: Our work "GPU-based Private Information Retrieval for On-Device Machine Learning Inference" was accepted to ASPLOS 2024!
+• Apr 2023: Our work "Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning using Independent Component Analysis" was accepted to ICML 2023!
+
+Publications
+Private ML Offloading Across the Edge-Cloud
+Bounding the Invertibility of Privacy-preserving Instance Encoding using Fisher Information
+NeurIPS 2023 [PDF]
+Kiwan Maeng*, Chuan Guo*, Sanjay Kariyappa, and G. Edward Suh
+Measuring and Controlling Split Layer Privacy Leakage Using Fisher Information
+FL-NeurIPS 2022 Workshop [PDF]
+Kiwan Maeng, Chuan Guo, Sanjay Kariyappa, and G. Edward Suh
+Information Flow Control in Machine Learning through Modular Model Architecture
+Under Submission [PDF]
+Trishita Tiwari, Suchin Gururangan, Chuan Guo, Weizhe Hua, Sanjay Kariyappa, Udit Gupta, Wenjie Xiong, Kiwan Maeng, Hsien-Hsin S. Lee, G. Edward Suh
+
+
+Multi-party Computation (MPC)
+Accelerating ReLU for MPC-Based Private Inference with a Communication-Efficient Sign Estimation
+MLSys 2024 [PDF]
+Kiwan Maeng and G. Edward Suh
+GPU-based Private Information Retrieval for On-Device Machine Learning Inference
+ASPLOS 2024 [PDF]
+Maximilian Lam, Jeff Johnson, Wenjie Xiong, Kiwan Maeng, Udit Gupta, Minsoo Rhu, Hsien-Hsin S. Lee, Vijay Janapa Reddi, Gu-Yeon Wei, David Brooks, and G. Edward Suh
+
+
+Federated Learning and Differential Privacy
+LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models
+ASPLOS 2024 [PDF]
+Juntaek Lim, Youngeun Kwon, Ranggi Hwang, Kiwan Maeng, Edward Suh, and Minsoo Rhu
+Cocktail Party Attack: Breaking Aggregation-Based Privacy in Federated Learning using Independent Component Analysis
+ICML 2023 [PDF]
+Sanjay Kariyappa, Chuan Guo, Kiwan Maeng, Wenjie Xiong, G. Edward Suh, Moinuddin K Qureshi, and Hsien-Hsin S. Lee
+Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity
+RecSys 2022 (Best Paper Finalist) [PDF]
+Kiwan Maeng, Haiyu Lu, Luca Melis, John Nguyen, Mike Rabbat, and Carole-Jean Wu
+Sustainable AI: Environmental Implications, Challenges and Opportunities
+MLSys 2022 [PDF]
+Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, Gloria Chang, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind, Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe Spisak, Ravi Jain, Mike Rabbat, and Kim Hazelwood
+Green Federated Learning
+FL-ICML 2023 Workshop [PDF]
+Ashkan Yousefpour, Shen Guo, Ashish Shenoy, Sayan Ghosh, Pierre Stock, Kiwan Maeng, Schalk-Willem Krüger, Michael Rabbat, Carole-Jean Wu, and Ilya Mironov
+FEL: High Capacity Learning for Recommendation and Ranking via Federated Ensemble Learning
+IEEE Data Eng. Bull 2023 [PDF]
+Meisam Hejazinia, Dzmitry Huba, Ilias Leontiadis, Kiwan Maeng, Mani Malek, Luca Melis, Ilya Mironov, Milad Nasr, Kaikai Wang, and Carole-Jean Wu
+
+
+Systems for ML
+Compiler-based Memory Encryption for Machine Learning on Commodity Low-power Devices
+CC 2024 [PDF]
+Kiwan Maeng and Brandon Lucia
+Optimizing CPU Performance for Recommendation Systems At-Scale
+ISCA 2023 [PDF]
+Rishabh Jain, Scott Cheng, Vishwas Kalagi, Vrushabh Sanghavi, Samvit Kaul, Meena Arunachalam, Kiwan Maeng, Adwait Jog, Anand Sivasubramaniam, Mahmut Taylan Kandemir, and Chita Das
+Carbon Explorer: A Holistic Approach for Designing Carbon Aware Datacenters
+ASPLOS 2023 [PDF]
+Bilge Acun, Benjamin Lee, Fiodar Kazhamiaka, Kiwan Maeng, Manoj Chakkaravarthy, Udit Gupta, David Brooks, and Carole-Jean Wu
+Carbon Dependencies in Datacenter Design and Management
+HotCarbon 2022 [PDF]
+Bilge Acun, Benjamin Lee, Fiodar Kazhamiaka, Aditya Sundarrajan, Manoj Chakkaravarthy, Kiwan Maeng, David Brooks, and Carole-Jean Wu
+CPR: Understanding and Improving Failure Tolerant Training for Deep Learning Recommendation with Partial Recovery
+MLSys 2021 [PDF]
+Kiwan Maeng, Shivam Bharuka, Isabel Gao, Mark C. Jeffrey, Vikram Saraph, Bor-Yiing Su, Caroline Trippel, Jiyan Yang, Mike Rabbat, Brandon Lucia, and Carole-Jean Wu
+
+
+Batteryless Energy-harvesting Devices
+An Architectural Charge Management Interface for Energy-Harvesting Systems
+MICRO 2022 [PDF]
+Emily Ruppel, Milijana Surbatovich, Harsh Desai, Kiwan Maeng, and Brandon Lucia
+Adaptive Low-overhead Scheduling for Periodic and Reactive Intermittent Execution
+PLDI 2020 [PDF]
+Kiwan Maeng and Brandon Lucia
+Enhancing Stratospheric Weather Analysis and Forecasts by Deploying Sensors from a Weather Balloon
+NeurIPS 2019 Workshop (Spotlight Talk) [PDF]
+Kiwan Maeng, Iskender Kushan, Brandon Lucia, and Ashish Kapoor
+Supporting Peripherals in Intermittent Systems with Just-In-Time Checkpoints
+PLDI 2019 [PDF]
+Kiwan Maeng and Brandon Lucia
+Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing
+OSDI 2018 [PDF]
+Kiwan Maeng and Brandon Lucia
+Alpaca: Intermittent Execution Without Checkpoints
+OOPSLA 2017 [PDF] [Ext. ver.]
+Kiwan Maeng, Alexei Colin, and Brandon Lucia
+Intermittent Computing: Challenges and Opportunities
+SNAPL 2017 [PDF]
+Brandon Lucia, Vignesh Balaji, Alexei Colin, Kiwan Maeng, and Emily Ruppel
+Services
+Organizing: ASPLOS 2025 Artifact Evaluation Committee Co-Chair
+Session Chair: ASPLOS 2024 (3D: ML Quantization and Memory Optimizations)
+Conference Program Committee: ASPLOS (2023-2025), MLSys (2022-2024), ISCA (2024), MICRO (2023), HPCA (2024), EuroSys (2022), IISWC (2022)
+Journal Reviewer: IEEE Micro (2022), ACM TACO (2022)
+Workshop Program Committee: ASPLOS YArch (2024), PACT SRC (2022), SenSys USN (2022)
+Awards & Honors
+Charles K. Etner Early Career Professorship (2022 -- 2025)
+KFAS Scholarship (2016 -- 2021)
+Summa Cum Laude (B.S., Seoul National University)
+National Scholarship for Science and Engineering (2010 -- 2016)
+Industry Experiences
+Postdoc Researcher. Facebook AI Research (FAIR; 2021 -- 2022)
+Research Intern. Facebook AI Research (FAIR; 2020.5 -- 2020.12)
+Research Intern. Microsoft Research (2019.5 -- 2019.8)
+Miscellaneous
+
+I used to be an amateur webtoon--(web + cartoon)--ist. I used to draw cartoons about scientists and engineers on Facebook, and they were popular enough to become a real book! Do not bother clicking the link if you cannot read Korean :)
+I haven't drawn any new episodes in years, but still I have things to boast:
+
+I was awarded as 10 Authors of the Year 2017 by Chosun Ilbo (largest Korean newspaper).
+My book was awarded as 10 Books of the Year 2017 by Munhwa Ilbo (newspaper), Books of the Year 2017 by Aladin (bookstore), Recommendations for Students By Librarians 2017 by Jeju Ilbo (newspaper), ranked 8th in Books of the Year Selected by Publishers SisaIN (magazine), and was nominated as Book of The Year by Donga Ilbo (newspaper).
+My book was selected as Sejong-Books 2017 by Publication Industry Promotion Agency of Korea. No idea what it is but doesn't it sound fancy?
+I donated all my profit from my first print in the hope to ease starvation in the République du Niger. Donation was made through Save The Children Federation, Inc.
+My book was selected and now can be found in libraries of the Korean military (Republic of Korea Armed Forces), a.k.a., Jin-joong-moon-go.
+I used to have 58 thousand followers on Facebook when Facebook was a thing.
+

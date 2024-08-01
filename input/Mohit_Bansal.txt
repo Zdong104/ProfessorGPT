@@ -1,0 +1,1899 @@
+Professor: Mohit Bansal
+University: University of North Carolina
+URL: https://www.cs.unc.edu/~mbansal
+Description: 
+ CV / Bio      Experience     Awards       Publications/Code       Teaching/Talks       Students/Interns      Service     Colloquia      MURGe-Lab     UNC-NLP Group
+
+
+
+
+
+Mohit Bansal
+
+Parker Distinguished Professor
+Director, MURGe-Lab (UNC-NLP Group)
+Lead (Core AI), ENGAGE NSF-AI Institute Computer Science Dept., UNC Chapel Hill
+FB-244, 201 S. Columbia St.
+Chapel Hill, NC 27599-3175
+mbansal -atsign- cs . unc . edu
+Google Scholar, LinkedIn, Twitter
+
+
+		
+Updates/News:
+Recent Invited Talks/Keynotes
+
+
+(07/24)    Keynote, Lisbon Machine Learning Summer School (LxMLS) 2024
+(04/24)    USC Distinguished Lecture Series
+(04/24)    Keynote, SouthNLP Symposium 2024
+(12/23)    Keynote, CoNLL 2023 [video]
+(11/23)    Keynote, AACL-IJCNLP 2023
+(11/23)    Invited Speaker, TTIC 20th Anniversary Celebration
+(07/23)    TWIML AI Podcast
+(12/22)    Invited Speaker, MBZUAI Inaugural NLP Symposium
+(10/22)    UT Austin Forum for AI; Stanford NLP Seminar
+(07/22)    Keynote, INLG 2022                                                                                        (more talks/details here)
+
+(05/24)    New papers in ICML 2024 and ACL 2024 on multi-agent reasoning collaboration, inducing systematicity in transformers, easy-to=hard generalization, very long conversational memory of LLM agents, soft self-consistency, fine-grained hallucination evaluation, structured distillation of multi-agent reasoning interaction graphs, refactoring programs to discover abstractions, etc.
+(04/24)    Congrats to Jaemin Cho for the Bloomberg PhD Fellowship!
+(04/24)    Program Co-chairing for EMNLP 2024. We welcome everyone to submit their papers. Looking forward to welcoming you in Miami Nov12-16!
+(03/24)    New papers in CVPR 2024 and NAACL 2024 and TMLR 2024 and EACL 2024 on interleaved+interactive any-to-any generation, alternating unimodal adaptation, interactive image segmentation, branch-solve-merge for LLM eval+generation, as-needed decomposition and planning with LLM agents, aspect-controlled referring expression generation, model merging by task subspace matching, low-cost algorithmic recourse, unified embeddings for multimodal retrieval, and hierarchical+dynamic prompt compression.
+(01/24)    New papers in ICLR 2024 on attack vs. defense for sensitive information deletion in LLMs, Davidsonian Semantics Scene Graphs for reliable T2I evaluation, data pruning with balanced diversity and difficulty, rephrase-based visual question grounding for VLMs, efficient sparse mixture-of-experts, efficient coarse-to-fine pruning for VLMs, analyzing and mitigating hallucinations in VLMs.
+(10/23)    Honored and humbled to receive the IIT Kanpur Young Alumnus Award.
+(10/23)    New papers in EMNLP 2023 on reasoning chain/chain-of-thoughts evaluation, context dependency in language generation, data factors for compositional generalization, summary generation with controllable readability levels, multimodal model merging, and causal debiasing of multimodal models.
+(09/23)    New papers (including 2 'spotlights') in NeurIPS 2023 on visual programming for interpretable+explainable text-to-image generation and evaluation, any-to-any multimodal generation, LLMs teaching student models, panorama generation for VLN generalization, model merging with interference, localization informing model editing, self-chained videoQA and localization, action knowledge in video-language LLMs, adaptive contextual perception.
+(07/23)    New papers (including 1 'oral') in ICCV 2023 on text-to-image skill+bias evaluation, scaling VLN, and unified coarse-to-fine alignment for video-text retrieval.
+(06/23)    Postdocs Elias Stengel-Eskin and Jaehong Yoon joining us!
+(05/23)    New papers in ACL 2023 and IJCAI 2023 and *SEM 2023 on faithful extractive summarization, meeting QA, single-frame bias in VidL, mixed fwd/rev cross-entropy, multimodal graph script induction, continual learning for code generation, exclusive supermasks for CL, modular multi-step reasoning, factuality of LLMs, sequential instruction understanding, and compositional LM differentiable prompting.
+(02/23)    New papers in CVPR 2023 and ICLR 2023 and EACL 2023 and WACV 2023 on unified vision-text-layout DocAI, VLN with future-view semantics, hierarchical retrieval and step captioning, video-language pretraining, parameter-efficient audio-visual adapters, summarization programs, faithful decoding, edit-based prompt search, model belief graphs, social commonsense, multi-doc summarization + graph IE, long-distance video QA, perceiver-VL.
+(12/22)    Congrats to Zineng Tang for being selected as winner of the CRA Outstanding Undergraduate Researcher Award 2023!
+(10/22)    New papers in EMNLP 2022 and COLING 2022 and TACL on multimodal summarization + factuality, explanation hardness, mutual exclusivity for compositionality, action learning in interactive visual environments, LM bias, multimodal coreference in multi-turn dialogue, graph generative commonsense reasoning, and survey on data augmentation for limited data learning.
+(09/22)    Congrats to Swarnadeep Saha for the Google PhD Fellowship!
+(09/22)    New papers (including 3 selected/featured 'orals') in NeurIPS 2022 and ECCV 2022 on textless VL transformers, visual feature importance, ladder side-tuning, LLMs as fewshot video learners, T-few/IA3, gamified VL association benchmark, text to visual story generation, efficient video retrieval via audio replacement, etc.
+(06/22)    New papers in NAACL 2022 on factual summarization pretraining, factuality evaluation, scene imagination commonsense, multilingual vision-lang-navigation, fine-grained CLIP captioning, masked POS modeling, curriculum learning, video intent discovery, multi-doc summarization clustering, interactive summarization, etc.
+(05/22)    Promoted to full professor.
+(03/22)    Congrats to Yichen Jiang for the Apple AI/ML PhD Fellowship!
+(03/22)    New papers in CVPR 2022 and ACL 2022 on environment image editing for VLN generalization, vision-language parameter-efficient adapters, Cherokee revitalization NLP roadmap, explanation graph contrastive learning, and predicting human opinion distributions for NLI.
+(12/21)    Congrats to Shiyue Zhang for the Bloomberg PhD Fellowship!
+(11/21)    Congrats to Ori+Ram and team on the CoNLL 2021 Best Paper Runner-Up Award!
+(09/21)    New papers in NeurIPS 2021 on video-to-language knowledge distillation, query-based video highlight/saliency, socially-aligned feature importance explanations, video-lang understanding multi-task benchmark.
+(09/21)    Congrats to Peter Hase for the Google PhD Fellowship! (article)
+(08/21)    New papers in EMNLP 2021 on structure/compositionality, generalization, evaluation, and efficiency for explainability, commonsense, navigation, story visualization, and summarization.
+(07/21)    Thanks to NSF for funding our ENGAGE NSF-AI Institute! (article)
+(06/21)    Congrats to Jie and co-authors on the CVPR 2021 Best Student Paper Honorable Mention!
+(05/21)    New papers in ICML 2021 and ACL 2021 on unified vision-language generation, email thread summarization, continuous flow generation, multilingual video retrieval, dialogue-contradictions, cross-modal fake news detection, code generation, cherokee interactive demo, and chat disentaglement.
+(04/21)    Congrats to Xiang and co-authors on the EACL 2021 Best Long Paper Award Honorable Mention!
+(04/21)    New papers in NAACL 2021 on multi-proof generation, consistent visual story generation, localized video-language pretraining, syntactic vision-language navigation, dynamic benchmarking, tensor-product summarization, graph-based multi-doc summarization, and interactive multi-doc summarization, and robustness gym.
+(03/21)    Congrats to Jie Lei for the Adobe Research Fellowship!
+(03/21)    Honored and humbled to receive the Early Career Award for Scientists and Engineers (ECASE) by ARO!
+(02/21)    New papers in AAAI 2021, EACL 2021, and CVPR 2021 on pose-correction captioning, query-focused multi-doc summarization, commonsense graph-task matching, unreliable news detection, and efficient video-language pretraining.
+(12/20)    Hao's work on vokenization covered in MIT Technology Review.
+(09/20)    New papers in EMNLP 2020 on datasets (e.g., Cherokee MT, navigation+assembly, conjunctive/distributional NLI, manyhop-fact-verification) and methods (e.g., vokenization, proof generation, leakage-simulatability).
+(08/20)    Thanks to UNC for the UNC Phillip & Ruth Hettleman Prize for Artistic and Scholarly Achievement.
+(05/20)    Thanks to IJCAI for the `IJCAI Early Career Spotlight'.
+(04/20)    8 new papers (6 in ACL 2020, 1 in IJCAI 2020, and 1 in ECCV 2020).
+(02/20)    Thanks to Amazon for the Amazon Machine Learning Research Award (blog post).
+(01/20)    Thanks to DARPA for the DARPA Director's Fellowship.
+(01/20)    Thanks to Microsoft for the Microsoft Investigator Fellowship (MSR blog post).
+(12/19)    Congrats to Sweta Karlekar and Han Guo for winning the Runner-Up and Finalist positions in the CRA Outstanding Undergraduate Researcher Awards! (link)
+(11/19)    5 new papers in AAAI 2020 and ICRA 2020.
+(08/19)    Congrats to Peter Hase for the Royster Society PhD Fellowship!
+(08/19)    5 new papers in EMNLP 2019.
+(07/19)    Thanks to NSF for the NSF-CAREER Award (details).
+(07/19)    Thanks to Google AI for the Google Focused Research Award (details).
+(06/19)    Congrats to Hao Tan for the Bloomberg Data Science Ph.D. Fellowship!
+(05/19)    6 new papers in ACL 2019 (congrats to Hyounghun for best paper nomination) and 2 new preprints.
+(04/19)    Congrats to Darryl Hannan for the 3-year NSF PhD Fellowship!
+(02/19)    5 new papers: 3 in NAACL 2019, 1 in CVPR 2019, 1 in ICRA 2019.
+(01/19)    Congrats to Ramakanth Pasunuru for the 2-year Microsoft Research PhD Fellowship (and finalist for Facebook PhD Fellowship)!
+(12/18)    Congrats to Han Guo for the CRA Outstanding Undergraduate Researcher Award Honorable Mention!
+(11/18)    Thanks to research awards from Salesforce, Facebook, and IBM.
+(10/18)    2 new papers in AAAI 2019 (16% acceptance rate).
+(08/18)    7 new papers (6 in EMNLP; 1 in CoNLL -- see below).
+(07/18)    Thanks to Army Research Office for the ARO Young Investigator Program (YIP) Award.
+(07/18)    1st rank in EMNLP FEVER (Fact Extraction & VERification) shared task (congrats Yixin, Haonan)! [Press Article]
+(06/18)    COLING paper on dynamic-MTL selected as "Area Chair Favorites" (congrats Han+Ram)!
+(04/18)    4 new papers (2 in ACL; 1 in TACL; 1 in WiNLP -- see below).
+(04/18)    Congrats to Lisa Bauer for the 3-year NSF PhD Fellowship!
+(03/18)    Thanks to Adobe for the Adobe Research Award.
+(02/18)    9 new 2018 papers in NAACL, CVPR, AAAI, WACV (see below).
+(09/17)    Thanks to DARPA for the DARPA Young Faculty Award (link).
+(09/17)    Thanks to Facebook for the Facebook ParlAI Research Award.
+(06/17)    Top single model results on the RepEval-NLI Shared Task at EMNLP 2017 (congrats Yixin!).
+(06/17)    Outstanding Paper Award at ACL 2017 (congrats Ram!).
+(02/17)    Thanks to Google for a Google Faculty Research Award (link).
+(07/16)    Best paper award at ACL 2016 Repl4NLP workshop for paper on mapping unseen words.
+(03/16)    Thanks to Bloomberg for a Bloomberg Data Science Research Grant (link).
+(02/16)    Paper on universal sentence embeddings selected as an oral at ICLR 2016.
+(01/16)    Our work on AI for computational humor was covered in MIT Technology Review and Newsweek.
+(11/15)    Nvidia paper award at NIPS 2015 Multimodal ML workshop for paper on navigational instruction following.
+(12/14)    Thanks for an IBM Faculty Award and a Google Faculty Research Award (link).
+
+
+I am looking for motivated PhD students & postdocs in NLP, ML, multimodal AI: [Info for Prospective Students (2024)] [Department's Why-UNC Page]
+
+
+Postdoc Opening (new 2024): [link]
+About
+
+Dr. Mohit Bansal is the John R. & Louise S. Parker Distinguished Professor and the Director of the MURGe-Lab (UNC-NLP Group) in the Computer Science department at the University of North Carolina (UNC) Chapel Hill. Prior to this, he was a research assistant professor (3-year endowed position) at TTI-Chicago. He received his Ph.D. in 2013 from the University of California at Berkeley (where he was advised by Dan Klein) and his B.Tech. from the Indian Institute of Technology at Kanpur in 2008. His research expertise is in natural language processing and multimodal machine learning, with a particular focus on multimodal generative models, grounded and embodied semantics, faithful language generation, and interpretable, efficient, and generalizable deep learning. He is a recipient of Early Career Award for Scientists and Engineers (ECASE), IIT Kanpur Young Alumnus Award, DARPA Director's Fellowship, NSF CAREER Award, Google Focused Research Award, Microsoft Investigator Fellowship, Army Young Investigator Award (YIP), DARPA Young Faculty Award (YFA), and outstanding paper awards at ACL, CVPR, EACL, COLING, and CoNLL. He has been a keynote speaker for the AACL 2023, CoNLL 2023, and INLG 2022 conferences. His service includes EMNLP and CoNLL Program Co-Chair, and ACL Executive Committee, ACM Doctoral Dissertation Award Committee, ACL Americas Sponsorship Co-Chair, and Associate/Action Editor for TACL, CL, IEEE/ACM TASLP, and CSL journals.
+
+Work Experience
+
+Computer Science department, UNC Chapel Hill (2016 — present)
+John R. & Louise S. Parker Distinguished Professorship
+Director, MURGe-Lab (UNC-NLP Group)
+Full Professor 2022-present
+Associate Professor: 2020-2022
+Assistant Professor: 2016-2020
+
+
+	
+
+
+
+
+Toyota Technological Institute, Chicago (2013 — 2016)
+Research Assistant Professor
+
+	
+
+
+
+
+EECS, UC Berkeley (2008 — 2013)
+Graduate Student Researcher (Advisor: Dan Klein)
+
+
+	
+
+
+
+
+Google Research, Mountain View (Summer 2011)
+Research Intern (with John DeNero and Dekang Lin)
+
+
+	
+
+
+
+
+Microsoft Research, Redmond (Summer 2010)
+Research Intern (with Chris Quirk and Bob Moore)
+
+
+	
+
+
+
+
+Cornell University, Ithaca (Summer 2007)
+Research Intern (with Lillian Lee and Claire Cardie)
+
+
+	
+
+
+
+
+Selected Awards/Honors
+
+Provost's Kenan Senior Faculty Research and Scholarly Leave Award, 2023-2024.
+
+IIT Kanpur Young Alumnus Award, 2023.
+
+Keynote Speaker, CoNLL, 2023.
+
+Keynote Speaker, AACL, 2023.
+
+Keynote Speaker, INLG, 2022.
+
+Early Career Award for Scientists and Engineers (ECASE), Army Research Office, 2021.
+
+CoNLL Best Paper Runner-Up Award, 2021.
+
+CVPR Best Student Paper Honorable Mention, 2021.
+
+EACL Best Long Paper Award Honorable Mention, 2021.
+
+UNC Phillip & Ruth Hettleman Prize for Artistic and Scholarly Achievement, 2020.
+
+IJCAI Early Career Spotlight, 2020 (previous years: 2016, 2017, 2018, 2019)
+
+John R. & Louise S. Parker Distinguished Professorship, 2020
+
+DARPA Director's Fellowship, 2019
+
+Microsoft Investigator Fellowship, 2019
+
+Amazon Machine Learning Research Award, 2019
+
+NSF-CAREER Award, 2019
+
+Google Focused Research Award, 2019
+
+ACL Best Short Paper Nomination, 2019
+
+Salesforce Research Deep Learning Grant, 2018
+
+Facebook Faculty Research Award, 2018
+
+IBM Faculty Award, 2018
+
+Army Research Office Young Investigator Award (ARO-YIP), 2018
+
+COLING 'Area Chair Favorites' Paper Award, 2018
+
+Adobe Faculty Research Award, 2018
+
+Verisk AI Faculty Research Award, 2018
+
+DARPA Young Faculty Award (DARPA-YFA), 2017
+
+Facebook ParlAI Faculty Research Award, 2017
+
+ACL Outstanding Paper Award, 2017
+
+Google Faculty Research Award, 2016
+
+Best Paper Award, ACL Representation Learning for NLP Workshop, 2016
+
+Bloomberg Data Science Research Grant, 2016
+
+NVidia Paper Award, NIPS Multimodal Machine Learning Workshop, 2015
+
+Google Faculty Research Award, 2014
+
+IBM Faculty Award, 2014
+
+ACL Best Paper Award Honorable Mention, 2014
+
+Best/Outstanding Reviewer Award, COLING 2018, NAACL 2018, NAACL 2015, EMNLP 2012
+
+Outstanding Graduate Student Instructor Award, UC Berkeley, 2011
+
+Tong Leong Lim Pre-Doctoral Prize, EECS, UC Berkeley, 2011
+
+Qualcomm Innovation Fellowship, 2011
+
+Student Fellowships/Awards:
+
+Bloomberg PhD Fellowship, 2023 (Jaemin Cho)
+
+CRA Outstanding Undergraduate Researcher Award Winner 2023 (Zineng Tang)
+
+Google NLP PhD Fellowship, 2022 (Swarnadeep Saha)
+
+Apple AI/ML PhD Fellowship, 2022 (Yichen Jiang)
+
+Bloomberg PhD Fellowship, 2021 (Shiyue Zhang)
+
+Google PhD Fellowship, 2021 (Peter Hase)
+
+Adobe Research Fellowship, 2021 (Jie Lei)
+
+Microsoft Research PhD Fellowship, 2019 (Ramakanth Pasunuru)
+
+Facebook PhD Fellowship Finalist, 2019 (Ramakanth Pasunuru)
+
+Bloomberg Data Science PhD Fellowship, 2019 (Hao Tan)
+
+NSF Graduate Research Fellowship, 2018 (Lisa Bauer)
+
+NSF Graduate Research Fellowship, 2019 (Darryl Hannan)
+
+Royster Society Kenan Fellowship, 2019 (Peter Hase)
+
+CRA Outstanding Undergraduate Researcher Award Runner-Up, 2020 (Sweta Karlekar)
+
+CRA Outstanding Undergraduate Researcher Award Honorable Mention, 2019 (Han Guo)
+
+CRA Outstanding Undergraduate Researcher Award Finalist, 2020 (Han Guo
+
+Other Funding/Grants:
+
+DARPA Environment-driven Conceptual Learning (ECOLE) (UNC PI)
+
+ONR Science of Artificial Intelligence – Basic and Applied Research for the Naval Domain (Overall PI)
+
+NSF-AI Institute on Engaged Learning (Core AI Lead; UNC PI)
+
+NSF Future of Work at the Human-Technology Frontier (UNC Co-PI)
+
+ONR Advancing Artificial Intelligence for the Naval Domain (UNC PI)
+
+DARPA Machine Common Sense (MCS) (UNC PI)
+
+DARPA Knowledge-directed Artificial Intelligence Reasoning Over Schemas (KAIROS) (UNC PI)
+
+NSF-NIH SCH AURA Connecting Audio and Radio Sensing Systems to Improve Care at Home (UNC Co-PI)
+
+Publications (+Code/Data)
+
+TOPIC-BASED LISTS:
+
+Multimodal (Images/Videos/Audio/Actions/Document Understanding+Generation, Any-to-Any Generation, Visual Programming, Long-Video, T2I/T2V Skill/Bias/Faithfulness Evaluation, Grounding, RoboNLP, Navigation/Assembling, Robotics Instructions, Story Visualization, etc.): Arxiv23a, Arxiv23b, Arxiv23c, Arxiv23d, Arxiv23e, NeurIPS23a, NeurIPS23b, NeurIPS23e, NeurIPS23g, NeurIPS23h, NeurIPS23i, EMNLPF23a, EMNLPF23b, ICCV23a, ICCV23b, ICCV23c, ACL23c, ACL23e, CVPR23a, CVPR23b, CVPR23c, CVPR23d, CVPR23e, WACV23a, EMNLP22a, EMNLP22d, NeurIPS22a, NeurIPS22b, NeurIPS22d, NeurIPS22f, ECCV22a, ECCV22b, COLING22b, NAACL22b, NAACLF22a, NAACLF22b, NAACLF22c, CVPR22a, CVPR22b, CVPR22W, ICLR22a, AAAI22a, AAAI22b, NeurIPS21a, NeurIPS21b, NeurIPS21d, EMNLP21g, EMNLP21c, ICML21a, ACL21d, NAACL21b, NAACL21c, NAACL21d, CVPR21a, AAAI21a, AAAI21c, EMNLP20b, EMNLP20d, EMNLPF20b, ECCV20, ACL20d, ACL20e, ACL20f, IJCAI20, AAAI20b, AAAI20d, ICRA20, EMNLP19a, ACL19d, ACL19e, NAACL19a, CVPR19, ICRA19, EMNLP18d, EMNLP18e, EMNLP18f, NAACL18a, NAACL18e, NAACL18f, CVPR18, AAAI18, WACV18, EMNLP17a, EMNLP17b, EMNLP17c, ACL17, CVPR17, HRI17, AAAI17a, EMNLP16b, EMNLP16c, CVPR16, AAAI16, CVPR14.
+
+Interpretability, Explainability, LLM/Agent Reasoning, CoT Evaluation, LLM Privacy/Safety, Model Editing, Model Beliefs, LLM Diagnosis/Faithfulness Evaluation, Adversarial Robustness, Debiasing, Data-Augmentation, Compositional Generalization, etc. : Arxiv23f, Arxiv23g, Arxiv23h, EMNLP23a, EMNLP23c, EMNLPF23b, NeurIPS23c , NeurIPS23f, ICCV23a, *SEM23a, ACL23a, ACLF23b, ACLF23c, IJCAI23a, ICLR23a, EACL23b, EACL23c, EMNLP22b, EMNLP22c, EMNLPF22a, TACL22a, ACL22b, ACL22c, NAACL22d, NeurIPS21c, EMNLP21a, EMNLP21d, EMNLP21f, EMNLP21j, NAACL21a, NAACL21e, NAACL21i, EACL21b, EMNLP20f, EMNLP20h, EMNLPF20a, EMNLPF20d, ACL20a, ACL20c, ACL20f, IJCAI20, AAAI20a, EMNLP19b, EMNLP19c, EMNLP19e, ACL19b, ACL19c, NAACL19a, AAAI19b, CoNLL18, NAACL18c, NAACL18d, EMNLP16a.
+
+Language Generation (Summarization, LLM Faithfulness/Factuality/Hallucinations, Dialogue, QG, Translation, Captioning, Robotic Instruction Generation, Explanation Generation, Code Generation, etc.): EMNLP23a, EMNLP23b, EMNLP23d, NeurIPS23c, ACL23a, ACL23d, ACLF23c, ICLR23a, EACL23a, EACL23b, EMNLP22c, AMTA22a, NAACL22a, NAACL22d, NAACL22f, NAACL22g, NAACL22h, NAACLF22d, NAACL22i, ACL22a, ACL22b, EMNLPF21a, EMNLP21i, CoNLL21a, ACL21b, ACL21c, ACL21e, ACLF21a, ACL21g, *SEM21a, NAACL21f, NAACL21g, NAACL21h, NAACL21l, AAAI21b, EMNLP20a, EMNLP20g, EMNLPF20a, ECCV20, ACL20e, AAAI20c, AAAI20d, EMNLP19e, ACL19d, ACL19f, NAACL19a, NAACL19c, EMNLP18a, EMNLP18c, EMNLP18d, EMNLP18f, CoNLL18, COLING18, TACL18, ACL18a, ACL18b, NAACL18b, NAACL18e, EMNLP17a, EMNLP17b, ACL17, CVPR17, HRI17, AAAI17b, NAACL16a.
+
+Efficiency: Parameter-Efficient Learning, Few-Shot Learning, Model Merging, Adapters, Side-Tuning, Continual+Transfer Learning, MoE, etc. : Arxiv23i, Arxiv23j, Arxiv23k, Arxiv23l, NeurIPS23d, EMNLPF23a, CVPR23e, ACL23f, ACLF23a, NeurIPS22c, NeurIPS22e, CVPR22b, EMNLP21e, EMNLP21h, ACL19a.
+
+QA: NeurIPS23g, ACL23b, EACL23f, AAAI22b, EMNLP20f, EMNLPF20d, ACL20d, ACL20f, AAAI20b, EMNLP19b, EMNLP19c, EMNLP19d, ACL19b, ACL19c, ACL19e, CVPR19, EMNLP18c, EMNLP18e, NAACL18d, EMNLP16c, EMNLP16d, ACL15.
+
+AutoML, Architecture Learning, Controllers, Bandits, MTL, RL, Calibration, etc.: Repl4NLP21, EMNLP20g, EMNLPF20d, EMNLPF20e, AAAI20a, EMNLP19e, ACL19a, NAACL19b, COLING18, TACL18, ACL18a, ACL18b, NAACL18b, EMNLP17a, ACL17, CVPR17.
+
+NLU+ Commonsense (NLI/Entailment/Next-Event Prediction, Fact Verification, Debiasing, Uncertainty, Distributive NLI, Representation Learning, Paraphrasing, Commonsense Reasoning, Knowledge Graphs, Parsing, Tagging, Relation Extraction, etc.): COLING22a, NAACL22c, NAACL22d, NAACL22e, NAACL22h, ACLF22a, EMNLP21b, EMNLP21c, ACL21f, ACLF21a, NAACL21a, NAACL21j, EACL21a, EACL21b, EACL23d, EMNLP20b, EMNLP20c, EMNLP20d, EMNLP20e, EMNLP20h, EMNLPF20c, ACL20b, ACL20c, ICRA20, EMNLP19d, AAAI19a, AAAI19b, EMNLP18c, EMNLP18f, NAACL18f, RepEval17, EMNLP17a, ACL17, ACL16, EMNLP16e, Repl4NLP16, NAACL16b, ICLR16, TACL15a, NAACL15, TACL15b, ACL14a, ACL14b.
+
+Social-NLP, Human Factors, Personality, Endangered Languages, etc.: ICCV23a, EACL23d, ACL22a, ACL21g, EMNLP20a, ACL20c, EMNLP18b, TACL18, WiNLP18, NAACL18c, NAACL18e, EMNLP16a, CVPR16.  
+
+
+RECENT PREPRINTS:
+
+
+VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos
+Ziyang Wang*, Shoubin Yu*, Elias Stengel-Eskin*, Jaehong Yoon, Feng Cheng, Gedas Bertasius, Mohit Bansal.
+arXiv Preprint: 2405.19209. [pdf/code]
+
+RACCooN: Remove, Add, and Change Video Content with Auto-Generated Narratives
+Jaehong Yoon*, Shoubin Yu*, Mohit Bansal.
+arXiv Preprint: 2405.18406. [pdf/code]
+
+Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model
+Han Lin*, Jaemin Cho*, Abhay Zala, Mohit Bansal.
+arXiv Preprint: 2404.09967. [pdf/code]
+
+EnvGen: Generating and Adapting Environments via LLMs for Training Embodied Agents
+Abhay Zala*, Jaemin Cho*, Han Lin, Jaehong Yoon, Mohit Bansal.
+arXiv Preprint: 2403.12014. [pdf/code]
+
+SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
+Jialu Li*, Jaemin Cho*, Yi-Lin Sung, Jaehong Yoon, Mohit Bansal.
+arXiv Preprint: 2403.06952. [pdf/code]
+
+Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training
+David Wan, Jaemin Cho, Elias Stengel-Eskin, Mohit Bansal.
+arXiv Preprint: 2403.02325. [pdf/code]
+
+DAM: Dynamic Adapter Merging for Continual Video QA Learning
+Feng Cheng*, Ziyang Wang*, Yi-Lin Sung, Yan-Bo Lin, Mohit Bansal, Gedas Bertasius.
+arXiv Preprint: 2403.08755. [pdf/code]
+
+GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations
+Jinhao Duan, Renming Zhang, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Elias Stengel-Eskin, Mohit Bansal, Tianlong Chen, Kaidi Xu.
+arXiv Preprint: 2402.12348. [pdf/code]
+
+CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion
+Shoubin Yu*, Jaehong Yoon*, Mohit Bansal.
+arXiv Preprint: 2402.05889. [pdf/code]
+
+Rethinking Machine Unlearning for Large Language Models
+Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Xiaojun Xu, Yuguang Yao, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu.
+arXiv Preprint: 2402.08787. [pdf/code]
+
+A Simple LLM Framework for Long-Range Video Question-Answering
+Ce Zhang, Taixi Lu, Md Mohaiminul Islam, Ziyang Wang, Shoubin Yu, Mohit Bansal, Gedas Bertasius.
+arXiv Preprint: 2312.17235. [pdf/code]
+
+ComPEFT: Compression for Communicating Parameter Efficient Updates via Sparsification and Quantization
+Prateek Yadav, Leshem Choshen, Colin Raffel, Mohit Bansal.
+arXiv Preprint: 2311.13171. [pdf/code]
+
+VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning
+Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal.
+arXiv Preprint: 2309.15091. [pdf/code][website]
+
+DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning
+Abhay Zala, Han Lin, Jaemin Cho, Mohit Bansal.
+arXiv Preprint: 2310.12128. [pdf/code][website]
+
+Diagnostic Benchmark and Iterative Inpainting for Layout-Guided Image Generation
+Jaemin Cho, Linjie Li, Zhengyuan Yang, Zhe Gan, Lijuan Wang, Mohit Bansal.
+arXiv Preprint. [pdf/code]
+
+LoopITR: Combining Dual and Cross Encoder Architectures for Image-Text Retrieval
+Jie Lei, Xinlei Chen, Ning Zhang, Mengjiao Wang, Mohit Bansal, Tamara Berg, Licheng Yu.
+arXiv Preprint: 2203.05465. [pdf][code]
+
+MLP Architectures for Vision-and-Language Modeling: An Empirical Study
+Yixin Nie*, Linjie Li*, Zhe Gan, Shuohang Wang, Chenguang Zhu, Michael Zeng, Zicheng Liu, Mohit Bansal, Lijuan Wang.
+arXiv Preprint: 2112.04453. [pdf][code]
+
+REFEREED PUBLICATIONS:
+
+2024
+
+ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs
+Justin Chih-Yao Chen, Swarnadeep Saha, Mohit Bansal.
+Proceedings of ACL 2024. [pdf/code]
+
+Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings
+Yichen Jiang, Xiang Zhou, Mohit Bansal.
+Proceedings of ACL 2024. [pdf/code]
+
+The Unreasonable Effectiveness of Easy Training Data for Hard Tasks
+Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe.
+Proceedings of ACL 2024. [pdf/code]
+
+Evaluating Very Long-Term Conversational Memory of LLM Agents
+Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco Barbieri, Yuwei Fang.
+Proceedings of ACL 2024. [pdf/code]
+
+Soft Self-Consistency Improves Language Model Agents
+Han Wang*, Archiki Prasad*, Elias Stengel-Eskin*, Mohit Bansal.
+Proceedings of ACL 2024 (short). [pdf/code]
+
+RefineSumm: Self-Refining MLLM for Generating a Multimodal Summarization Dataset
+Vaidehi Patil, Leonardo F. R. Ribeiro, Mengwen Liu, Mohit Bansal, Markus Dreyer.
+Proceedings of ACL 2024. [pdf/code]
+
+Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences
+Xiyao Wang, Yuhang Zhou, Xiaoyu Liu, Hongjin Lu, Yuancheng Xu, Feihong He, Jaehong Yoon, Taixi Lu, Gedas Bertasius, Mohit Bansal, Huaxiu Yao, Furong Huang.
+Proceedings of ACL 2024. [pdf/code]
+
+ACUEval: Fine-grained Hallucination Evaluation and Correction for Abstractive Summarization
+David Wan, Koustuv Sinha, Srini Iyer, Asli Celikyilmaz, Mohit Bansal, Ramakanth Pasunuru.
+Findings of ACL 2024. [pdf/code]
+
+The Power of Summary-Source Alignments
+Ori Ernst, Ori Shapira, Aviv Slobodkin, Sharon Adar, Mohit Bansal, Jacob Goldberger, Ran Levy, Ido Dagan.
+Findings of ACL 2024. [pdf/code]
+
+MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models
+Justin Chih-Yao Chen*, Swarnadeep Saha*, Elias Stengel-Eskin, Mohit Bansal.
+Proceedings of ICML 2024. [pdf/code]
+
+ReGAL: Refactoring Programs to Discover Generalizable Abstractions
+Elias Stengel-Eskin*, Archiki Prasad*, Mohit Bansal.
+Proceedings of ICML 2024. [pdf/code]
+
+Position Paper: TrustLLM: Trustworthiness in Large Language Models
+Lichao Sun, Yue Huang, Haoran Wang... Mohit Bansal, ....Yong Chen, Yue Zhao.
+Proceedings of ICML 2024. [pdf/code]
+
+CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation (spotlight)
+Zineng Tang, Ziyi Yang, Mahmoud Khademi, Yang Liu, Chenguang Zhu, Mohit Bansal.
+Proceedings of CVPR 2024. [pdf/code][website]
+
+Multimodal Representation Learning by Alternating Unimodal Adaptation
+Xiaohui Zhang, Jaehong Yoon, Mohit Bansal, Huaxiu Yao.
+Proceedings of CVPR 2024. [pdf/code]
+
+Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts
+Qin Liu, Jaemin Cho, Mohit Bansal, Marc Niethammer.
+Proceedings of CVPR 2024. [pdf/code]
+
+Branch-Solve-Merge Improves Large Language Model Evaluation and Generation
+Swarnadeep Saha, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, Xian Li.
+Proceedings of NAACL 2024. [pdf/code]
+
+ADaPT: As-Needed Decomposition and Planning with Language Models
+Archiki Prasad, Alexander Koller, Mareike Hartmann, Peter Clark, Ashish Sabharwal, Mohit Bansal, Tushar Khot.
+Findings of NAACL 2024. [pdf/code][website]
+
+Prompting Vision-Language Models For Aspect-Controlled Generation of Referring Expressions
+Danfeng Guo, Sanchit Agarwal, Arpit Gupta, Jiun-Yu Kao, Emre Barut, Tagyoung Chung, Jing Huang, Mohit Bansal.
+Findings of NAACL 2024. [pdf/code]
+
+Merging by Matching Models in Task Subspaces
+Derek Tam, Mohit Bansal, Colin Raffel.
+Proceedings of TMLR 2024. [pdf/code]
+
+Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions
+Prateek Yadav, Peter Hase, Mohit Bansal.
+Proceedings of TMLR 2024. [pdf/code]
+
+Unified Embeddings for Multimodal Retrieval via Frozen LLMs
+Ziyang Wang, Heba Elfardy, Markus Dreyer, Kevin Small, Mohit Bansal.
+Findings of EACL 2024. [pdf/code]
+
+Hierarchical and Dynamic Prompt Compression for Efficient Zero-shot API Usage
+Yichen Jiang, Marco Vecchio, Mohit Bansal, Anders Johannsen.
+Findings of EACL 2024. [pdf/code]
+
+Exposing and Addressing Cross-Task Inconsistency in Unified Vision-Language Models
+Adyasha Maharana, Amita Kamath, Christopher Clark, Mohit Bansal, Aniruddha Kembhavi.
+Proceedings of TMLR 2024. [pdf/code]
+
+VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation
+Jialu Li, Aishwarya Padmakumar, Gaurav Sukhatme, Mohit Bansal.
+Proceedings of AAAI 2024. [pdf/code]
+
+Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks (spotlight)
+Vaidehi Patil*, Peter Hase*, Mohit Bansal.
+Proceedings of ICLR 2024. [pdf/code]
+
+Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-to-Image Generation
+Jaemin Cho, Yushi Hu, Roopal Garg, Peter Anderson, Ranjay Krishna, Jason Baldridge, Mohit Bansal, Jordi Pont-Tuset, Su Wang.
+Proceedings of ICLR 2024. [pdf/code][website]
+
+Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy (spotlight)
+Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, Yu Cheng, Mohit Bansal, Tianlong Chen.
+Proceedings of ICLR 2024. [pdf/code]
+
+Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models
+Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal.
+Proceedings of ICLR 2024. [pdf/code]
+
+D2 Pruning: Message Passing for Balancing Diversity and Difficulty in Data Pruning
+Adyasha Maharana, Prateek Yadav, Mohit Bansal.
+Proceedings of ICLR 2024. [pdf/code]
+
+ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models
+Yi-Lin Sung, Jaehong Yoon, Mohit Bansal.
+Proceedings of ICLR 2024. [pdf/code][website]
+
+Analyzing and Mitigating Object Hallucination in Large Vision-Language Models
+Yiyang Zhou, Chenhang Cui, Jaehong Yoon, Linjun Zhang, Zhun Deng, Chelsea Finn, Mohit Bansal, Huaxiu Yao.
+Proceedings of ICLR 2024. [pdf/code]
+
+2023
+
+ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness
+Archiki Prasad, Swarnadeep Saha, Xiang Zhou, Mohit Bansal.
+Proceedings of EMNLP 2023. [pdf/code]
+
+HistAlign: Improving Context Dependency in Language Generation by Aligning with History
+David Wan, Shiyue Zhang, Mohit Bansal.
+Proceedings of EMNLP 2023. [pdf/code]
+
+Data Factors for Better Compositional Generalization
+Xiang Zhou, Yichen Jiang, Mohit Bansal.
+Proceedings of EMNLP 2023. [pdf/code]
+
+Generating Summaries with Controllable Readability Levels
+Leonardo F. R. Ribeiro, Mohit Bansal, Markus Dreyer.
+Proceedings of EMNLP 2023. [pdf/code]
+
+An Empirical Study of Multimodal Model Merging
+Yi-Lin Sung, Linjie Li, Kevin Lin, Zhe Gan, Mohit Bansal, Lijuan Wang.
+Findings of EMNLP 2023. [pdf/code]
+
+Debiasing Multimodal Models via Causal Information Minimization
+Vaidehi Patil, Adyasha Maharana, Mohit Bansal.
+Findings of EMNLP 2023. [pdf/code]
+
+Visual Programming for Text-to-Image Generation and Evaluation
+Jaemin Cho, Abhay Zala, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code][website]
+
+CoDi: Any-to-Any Generation via Composable Diffusion
+Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code][website]
+
+Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind
+Swarnadeep Saha, Peter Hase, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+Resolving Interference When Merging Models
+Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+PanoGen: Text-Conditioned Panoramic Environment Generation for Vision-and-Language Navigation
+Jialu Li, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code][website]
+
+Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge
+Editing in Language Models (spotlight)
+Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+Self-Chained Image-Language Model for Video Localization and Question Answering
+Shoubin Yu, Jaemin Cho, Prateek Yadav, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+Paxion: Patching Action Knowledge in Video-Language Foundation Models (spotlight)
+Zhenhailong Wang, Ansel Blume, Sha Li, Genglin Liu, Jaemin Cho, Zineng Tang, Mohit Bansal, Heng Ji.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects
+Zhuofan Ying, Peter Hase, Mohit Bansal.
+Proceedings of NeurIPS 2023. [pdf/code]
+
+DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers
+Jaemin Cho, Abhay Zala, Mohit Bansal.
+Proceedings of ICCV 2023. [pdf/code]
+
+Unified Coarse-to-Fine Alignment for Video-Text Retrieval
+Ziyang Wang, Yi-Lin Sung, Feng Cheng, Gedas Bertasius, Mohit Bansal.
+Proceedings of ICCV 2023. [pdf/code]
+
+Scaling Data Generation in Vision-and-Language Navigation (oral)
+Zun Wang, Jialu Li, Yicong Hong, Yi Wang, Qi Wu, Mohit Bansal, Stephen Gould, Hao Tan, Yu Qiao.
+Proceedings of ICCV 2023. [pdf/code]
+
+Extractive is not Faithful: An Investigation of Broad Unfaithfulness Problems in Extractive Summarization
+Shiyue Zhang*, David Wan*, Mohit Bansal.
+Proceedings of ACL 2023. [pdf/code]
+
+MeetingQA: Extractive Question-Answering on Meeting Transcripts
+Archiki Prasad, Trung Bui, Seunghyun Yoon, Hanieh Deilamsalehy, Franck Dernoncourt, Mohit Bansal.
+Proceedings of ACL 2023. [pdf/code]
+
+Revealing Single Frame Bias for Video-and-Language Learning
+Jie Lei, Tamara Berg, Mohit Bansal.
+Proceedings of ACL 2023. [pdf/code]
+
+MixCE: Training Autoregressive Language Models by Mixing Forward and Reverse Cross-Entropies
+Shiyue Zhang, Shijie Wu, Ozan Irsoy, Steven Lu, Mohit Bansal, Mark Dredze, David Rosenberg.
+Proceedings of ACL 2023. [pdf/code]
+
+Non-Sequential Graph Script Induction via Multimedia Grounding
+Yu Zhou, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, Heng Ji.
+Proceedings of ACL 2023. [pdf/code]
+
+Exploring Continual Learning for Code Generation Models
+Prateek Yadav, Qing Sun, Hantian Ding, Xiaopeng Li, Dejiao Zhang, Ming Tan, Parminder Bhatia, Xiaofei Ma, Ramesh Nallapati, Murali Krishna Ramanathan, Mohit Bansal, Bing Xiang.
+Proceedings of ACL 2023 (short). [pdf/code]
+
+Exclusive Supermask Subnetwork Training for Continual Learning
+Prateek Yadav, Mohit Bansal.
+Findings of ACL 2023. [pdf/code]
+
+MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text Generation
+Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru, Asli Celikyilmaz.
+Findings of ACL 2023. [pdf/code]
+
+Evaluating the Factual Consistency of Large Language Models Through Summarization
+Derek Tam, Anisha Mascarenhas, Shiyue Zhang, Sarah Kwan, Mohit Bansal, Colin Raffel.
+Findings of ACL 2023. [pdf/code]
+
+Can Sequence-to-Sequence Transformers Naturally Understand Sequential Instructions?
+Xiang Zhou, Aditya Gupta, Shyam Upadhyay, Mohit Bansal, Manaal Faruqui.
+Proceedings of *SEM 2023. [pdf/code]
+
+On Conditional and Compositional Language Model Differentiable Prompting
+Jonathan Pilault, Can Liu, Mohit Bansal, Markus Dreyer.
+Proceedings of IJCAI 2023. [pdf/code]
+
+UDOP: Unifying Vision, Text, and Layout for Universal Document Processing (oral)
+Zineng Tang, Ziyi Yang, Guoxin Wang, Yuwei Fang, Yang Liu, Chenguang Zhu, Michael Zeng, Cha Zhang, Mohit Bansal.
+Proceedings of CVPR 2023. [pdf/code]
+
+Improving Vision-and-Language Navigation by Generating Future-View Image Semantics
+Jialu Li, Mohit Bansal.
+Proceedings of CVPR 2023. [pdf/code]
+
+Hierarchical Video-Moment Retrieval and Step-Captioning
+Abhay Zala*, Jaemin Cho*, Satwik Kottur, Xilun Chen, Barlas Oguz, Yashar Mehdad, Mohit Bansal.
+Proceedings of CVPR 2023. [pdf/code]
+
+VindLU: A Recipe for Effective Video-and-Language Pretraining
+Feng Cheng, Xizi Wang, Jie Lei, David Crandall, Mohit Bansal, Gedas Bertasius.
+Proceedings of CVPR 2023. [pdf/code]
+
+Vision Transformers are Parameter-Efficient Audio-Visual Learners
+Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius.
+Proceedings of CVPR 2023. [pdf/code]
+
+Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees
+Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal.
+Proceedings of ICLR 2023. [pdf/code]
+
+Faithfulness-Aware Decoding Strategies for Abstractive Summarization
+David Wan, Mengwen Liu, Kathleen McKeown, Markus Dreyer and Mohit Bansal.
+Proceedings of EACL 2023. [pdf/code]
+
+GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models
+Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal.
+Proceedings of EACL 2023. [pdf/code]
+
+Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
+Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer.
+Proceedings of EACL 2023. [pdf/code]
+
+Social Commonsense for Explanation and Cultural Bias Discovery
+Lisa Bauer, Hanna Leth Tischer and Mohit Bansal.
+Proceedings of EACL 2023. [pdf/code]
+
+Enhancing Multi-Document Summarization with Cross-Document Graph-based Information Extraction
+Zixuan Zhang, Heba Elfardy, Markus Dreyer, Kevin Small, Heng Ji and Mohit Bansal.
+Proceedings of EACL 2023. [pdf/code]
+
+DeepMaven: Deep Question Answering on Long-Distance Movie/TV Show Videos with Multimedia Knowledge Extraction and Synthesis
+Yi Fung, Han Wang, Tong Wang, Ali Kebarighotbi, Prem Natarajan, Mohit Bansal, Heng Ji.
+Proceedings of EACL 2023. [pdf/code]
+
+Perceiver-VL: Efficient Vision-and-Language Modeling with Iterative Latent Attention
+Zineng Tang*, Jaemin Cho*, Jie Lei, Mohit Bansal.
+Proceedings of WACV 2023. [pdf/code]
+
+2022
+
+Evaluating and Improving Factuality in Multimodal Abstractive Summarization
+David Wan, Mohit Bansal.
+Proceedings of EMNLP 2022. [pdf/code]
+
+Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality
+Yichen Jiang*, Xiang Zhou*, Mohit Bansal.
+Proceedings of EMNLP 2022. [pdf/code]
+
+Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations
+Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal.
+Proceedings of EMNLP 2022 (short). [pdf/code]
+
+ALFRED-L: Investigating the Role of Language for Action Learning in Interactive Visual Environments
+Arjun Akula, Spandana Gella, Aishwarya Padmakumar, Mahdi Namazifar, Mohit Bansal, Jesse Thomason, Dilek Hakkani-Tur.
+Proceedings of EMNLP 2022 (short). [pdf/code]
+
+Analyzing the Limits of Self-Supervision in Handling Bias in Language
+Lisa Bauer, Karthik Gopalakrishnan, Spandana Gella, Yang Liu, Mohit Bansal, Dilek Hakkani-Tur.
+Findings of EMNLP 2022. [pdf/code]
+
+An Empirical Survey of Data Augmentation for Limited Data Learning in NLP
+Jiaao Chen*, Derek Tam*, Colin Raffel, Mohit Bansal, Diyi Yang.
+Proceedings of TACL 2022. [pdf/code]
+
+TVLT: Textless Vision-Language Transformer (oral)
+Zineng Tang*, Jaemin Cho*, Yixin Nie*, Mohit Bansal.
+Proceedings of NeurIPS 2022. [pdf/code]
+
+VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives
+Zhuofan Ying*, Peter Hase*, Mohit Bansal.
+Proceedings of NeurIPS 2022. [pdf/code]
+
+LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning
+Yi-Lin Sung, Jaemin Cho, Mohit Bansal.
+Proceedings of NeurIPS 2022. [pdf/code]
+
+VidIL: Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners
+Zhenhailong Wang, Manling Li, Ruochen Xu, Luowei Zhou, Jie Lei, Xudong Lin, Shuohang Wang, Ziyi Yang, Chenguang Zhu, Derek Hoiem, Shih-Fu Chang, Mohit Bansal, Heng Ji.
+Proceedings of NeurIPS 2022. [pdf/code]
+
+Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning
+Haokun Liu*, Derek Tam*, Mohammed Muqeeth*, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel.
+Proceedings of NeurIPS 2022. [pdf/code]
+
+WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Language Models (oral)
+Yonatan Bitton, Nitzan Bitton Guetta, Ron Yosef, Yuval Elovici, Mohit Bansal, Gabriel Stanovsky, Roy Schwartz.
+Proceedings of NeurIPS 2022 (datasets/benchmarks track). [pdf/code]
+
+StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation
+Adyasha Maharana, Darryl Hannan, Mohit Bansal.
+Proceedings of ECCV 2022. [pdf/code]
+
+ECLIPSE: Efficient Long-range Video Retrieval using Sight and Sound (oral)
+Yan-Bo Lin, Jie Lei, Mohit Bansal, Gedas Bertasius.
+Proceedings of ECCV 2022. [pdf/code]
+
+GraDA: Graph Generative Data Augmentation for Commonsense Reasoning
+Adyasha Maharana, Mohit Bansal.
+Proceedings of COLING 2022. [pdf/code]
+
+GraVL-BERT: Graphical Visual-Linguistic Representations for Multimodal Coreference Resolution
+Danfeng Guo, Arpit Gupta, Sanchit Agarwal, Jiun-Yu Kao, Shuyang Gao, Arijit Biswas, Chien-Wei Lin, Tagyoung Chung, Mohit Bansal.
+Proceedings of COLING 2022. [pdf/code]
+
+How Robust is Neural Machine Translation to Language Imbalance in Multilingual Tokenizer Training?
+Shiyue Zhang, Vishrav Chaudhary, Naman Goyal, James Cross, Guillaume Wenzek, Mohit Bansal, Francisco Guzman.
+Proceedings of AMTA 2022. [pdf/code]
+
+FactPEGASUS: Factuality-Aware Pre-training and Fine-tuning for Abstractive Summarization
+David Wan, Mohit Bansal.
+Proceedings of NAACL 2022. [pdf][code]
+
+CoSIm: Commonsense Reasoning for Counterfactual Scene Imagination
+Hyounghun Kim*, Abhay Zala*, Mohit Bansal.
+Proceedings of NAACL 2022. [pdf][code]
+
+Masked Part-Of-Speech Model: Does Modeling Long Context Help Unsupervised POS-tagging?
+Xiang Zhou, Shiyue Zhang, Mohit Bansal.
+Proceedings of NAACL 2022. [pdf][code]
+
+FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations
+Leonardo Ribeiro, Mengwen Liu, Iryna Gurevych, Markus Dreyer, Mohit Bansal.
+Proceedings of NAACL 2022. [pdf][code]
+
+On Curriculum Learning for Commonsense Reasoning
+Adyasha Maharana, Mohit Bansal.
+Proceedings of NAACL 2022 (short). [pdf][code]
+
+Proposition-Level Clustering for Multi-Document Summarization
+Ori Ernst, Avi Caciularu, Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger, Ido Dagan.
+Proceedings of NAACL 2022. [pdf][code]
+
+Interactive Query-Assisted Summarization via Deep Reinforcement Learning
+Ori Shapira, Ramakanth Pasunuru, Mohit Bansal, Ido Dagan, Yael Amsterdamer.
+Proceedings of NAACL 2022. [pdf][code]
+
+Enhanced Knowledge Selection for Grounded Dialogues via Document Semantic Graphs
+Sha Li, Mahdi Namazifar, Di Jin, Mohit Bansal, Heng Ji, Yang Liu, Dilek Hakkani-Tur.
+Proceedings of NAACL 2022. [pdf][code]
+
+CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations
+Jialu Li, Hao Tan, Mohit Bansal.
+Findings of NAACL 2022. [pdf][code]
+
+Fine-grained Image Captioning with CLIP Reward
+Jaemin Cho, Seunghyun Yoon, Ajinkya Kale, Franck Dernoncourt, Trung Bui, Mohit Bansal.
+Findings of NAACL 2022 (short). [pdf][code]
+
+Multimodal Intent Discovery from Livestream Videos
+Adyasha Maharana, Quan Hung Tran, Franck Dernoncourt, Seunghyun Yoon, Trung Bui, Walter W Chang, Mohit Bansal.
+Findings of NAACL 2022. [pdf][code]
+
+Efficient Few-Shot Fine-Tuning for Opinion Summarization
+Arthur Bražinskas, Ramesh Nallapati, Mohit Bansal, Markus Dreyer.
+Findings of NAACL 2022. [pdf][code]
+
+SETSum: Summarization and Visualization of Student Evaluations of Teaching
+Yinuo Hu*, Shiyue Zhang*, Viji Sathy, A. T. Panter, Mohit Bansal.
+Proceedings of NAACL 2022 (demo). [pdf][code]
+
+RESIN-11: Schema-guided Event Prediction for 11 Newsworthy Scenarios
+Xinya Du, Zixuan Zhang, Sha Li, Pengfei Yu, Hongwei Wang, Tuan Lai, Xudong Lin, Ziqi Wang, Iris Liu, Ben Zhou, Haoyang Wen, Manling Li, Darryl Hannan, Jie Lei, Hyounghun Kim, Rotem Dror, Haoyu Wang, Michael Regan, Qi Zeng, Qing Lyu, Charles Yu, Carl Edwards, Xiaomeng Jin, Yizhu Jiao, Ghazaleh Kazeminejad, Zhenhailong Wang, Chris Callison-Burch, Mohit Bansal, Carl Vondrick, Jiawei Han, Dan Roth, Shih-Fu Chang, Martha Palmer, Heng Ji.
+Proceedings of NAACL 2022 (demo). [pdf][code]
+
+EnvEdit: Environment Editing for Vision-and-Language Navigation
+Jialu Li, Hao Tan, Mohit Bansal.
+Proceedings of CVPR 2022. [pdf][code]
+
+VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks
+Yi-Lin Sung, Jaemin Cho, Mohit Bansal.
+Proceedings of CVPR 2022. [pdf][code]
+
+VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning
+Hao Tan, Jie Lei, Thomas Wolf, Mohit Bansal.
+Proceedings of T4V Workshop, CVPR 2022. [pdf][code]
+
+How can NLP Help Revitalize Endangered Languages? A Case Study and Roadmap for the Cherokee Language
+Shiyue Zhang, Ben Frey, Mohit Bansal.
+Proceedings of ACL 2022. [pdf][code]
+
+Explanation Graph Generation via Pre-trained Language Models: An Empirical Study with Contrastive Learning
+Swarnadeep Saha, Prateek Yadav, and Mohit Bansal.
+Proceedings of ACL 2022. [pdf][code]
+
+Distributed NLI: Learning to Predict Human Opinion Distributions for Language Reasoning
+Xiang Zhou*, Yixin Nie*, Mohit Bansal.
+Findings of ACL 2022. [pdf][code]
+
+When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data
+Peter Hase, Mohit Bansal.
+Proceedings of LNLS Workshop, ACL 2022. [pdf][bib][code]
+
+CLIP-ViL: How Much Can CLIP Benefit Vision-and-Language Tasks?
+Sheng Shen, Liunian Harold Li, Hao Tan, Mohit Bansal, Anna Rohrbach, Kai-Wei Chang, Zhewei Yao, Kurt Keutzer.
+Proceedings of ICLR 2022. [pdf][code]
+
+CAISE: Conversational Agent for Image Search and Editing
+Hyounghun Kim, Doo Soon Kim, Seunghyun Yoon, Franck Dernoncourt, Trung Bui, Mohit Bansal.
+Proceedings of AAAI 2022. [pdf][code]
+
+MuMuQA: Multimedia Multi-Hop News Question Answering via Cross-Media Knowledge Extraction and Grounding
+Revanth Gangi Reddy, Xilin Rui, Manling Li, Xudong Lin, Haoyang Wen, Jaemin Cho, Lifu Huang, Mohit Bansal, Avirup Sil, Shih-Fu Chang, Alexander Schwing, Heng Ji.
+Proceedings of AAAI 2022. [pdf][code]
+
+Scientific Chart Summarization: Datasets and Improved Text Modeling
+Hao Tan, Chen-Tse Tsai, Yujie He, Mohit Bansal.
+Proceedings of SDU Workshop, AAAI 2022. [pdf][code]
+
+2021
+
+VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer
+Zineng Tang, Jaemin Cho, Hao Tan, Mohit Bansal.
+Proceedings of NeurIPS 2021. [pdf][code]
+
+QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries
+Jie Lei, Tamara L. Berg, Mohit Bansal.
+Proceedings of NeurIPS 2021. [pdf][code]
+
+The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations
+Peter Hase, Harry Xie, Mohit Bansal.
+Proceedings of NeurIPS 2021. [pdf][code]
+
+VALUE: A Multi-Task Benchmark for Video-and-Language Understanding Evaluation
+Linjie Li*, Jie Lei*, Zhe Gan, Licheng Yu, Yen-Chun Chen, Rohit Pillai, Yu Cheng, Luowei Zhou, Xin Eric Wang, William Yang Wang, Tamara Lee Berg, Mohit Bansal, Jingjing Liu, Lijuan Wang, Zicheng Liu.
+Proceedings of NeurIPS 2021 (datasets/benchmarks track). [pdf][website]
+
+Finding a Balanced Degree of Automation for Summary Evaluation
+Shiyue Zhang, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf][code]
+
+ExplaGraphs: An Explanation Graph Generation Task for Structured Commonsense Reasoning
+Swarnadeep Saha, Prateek Yadav, Lisa Bauer, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf (v2)][website]
+
+Integrating Visuospatial, Linguistic, and Commonsense Structure into Story Visualization
+Adyasha Maharana, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf][code]
+
+Inducing Transformer’s Compositional Generalization Ability via Auxiliary Sequence Prediction Tasks
+Yichen Jiang, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf][code]
+
+Continual Few-Shot Learning for Text Classification
+Ramakanth Pasunuru, Veselin Stoyanov, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf][code]
+
+FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging
+Han Guo, Nazneen Fatema Rajani, Peter Hase, Mohit Bansal, Caiming Xiong.
+Proceedings of EMNLP 2021. [pdf][code]
+
+NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue
+Hyounghun Kim, Jialu Li, Mohit Bansal.
+Proceedings of EMNLP 2021. [pdf][code]
+
+Learning and Analyzing Generation Order for Undirected Sequence Models
+Yichen Jiang, Mohit Bansal.
+Findings of EMNLP 2021. [pdf][code]
+
+Improving and Simplifying Pattern Exploiting Training
+Derek Tam*, Rakesh R Menon*, Mohit Bansal, Shashank Srivastava and Colin Raffel.
+Proceedings of EMNLP 2021 (short). [pdf][code]
+
+iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration
+Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Ido Dagan.
+Proceedings of EMNLP 2021 (demo). [pdf][code+demo]
+
+Summary-Source Proposition-level Alignment: Task, Datasets and Supervised Baseline
+Ori Ernst, Ori Shapira, Ramakanth Pasunuru, Michael Lepioshkin, Jacob Goldberger, Mohit Bansal, Ido Dagan.
+Proceedings of CoNLL 2021 (colocated with EMNLP 2021). [pdf]
+(CoNLL Best Paper Runner-Up)
+
+To what extent do human explanations of model behavior align with actual model behavior?
+Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela, Adina Williams.
+Proceedings of BlackboxNLP Workshop, EMNLP 2021. [pdf][bib][code]
+
+An Overview of Uncertainty Calibration for Text Classification and the Role of Distillation
+Han Guo, Ramakanth Pasunuru, Mohit Bansal.
+Proceedings of RepL4NLP Workshop, ACL 2021. [pdf]
+
+Unifying Vision-and-Language Tasks via Text Generation
+Jaemin Cho, Jie Lei, Hao Tan, Mohit Bansal.
+Proceedings of ICML 2021. [pdf][code]
+
+EmailSum: Abstractive Email Thread Summarization
+Shiyue Zhang, Asli Celikyilmaz, Jianfeng Gao, Mohit Bansal.
+Proceedings of ACL 2021. [pdf][code]
+
+Continuous Language Generative Flow
+Zineng Tang, Shiyue Zhang, Hyounghun Kim, Mohit Bansal.
+Proceedings of ACL 2021. [pdf][code]
+
+mTVR: Multilingual Moment Retrieval in Videos
+Jie Lei, Tamara Berg, Mohit Bansal.
+Proceedings of ACL 2021 (short papers). [pdf][data/code]
+
+I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling
+Yixin Nie, Mary Williamson, Mohit Bansal, Douwe Kiela, Jason Weston.
+Proceedings of ACL 2021. [pdf][code]
+
+InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection
+Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal, Avi Sil.
+Proceedings of ACL 2021. [pdf][code]
+
+Analysis of Tree-Structured Architectures for Code Generation
+Samip Dahal, Adyasha Maharana, Mohit Bansal.
+Findings of ACL 2021 (short papers). [pdf]
+
+ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback
+Shiyue Zhang, Benjamin Frey and Mohit Bansal.
+Proceedings of ACL 2021 (demo papers). [pdf][demo][code]
+
+Disentangling Online Chats with DAG-structured LSTMs
+Duccio Pappadopulo*, Lisa Bauer*, Marco Farina, Ozan İrsoy, Mohit Bansal.
+Proceedings of *SEM 2021. [pdf]
+
+multiPRover: Generating Multiple Proofs for Improved Interpretability in Rule Reasoning
+Swarnadeep Saha, Prateek Yadav and Mohit Bansal.
+Proceedings of NAACL 2021. [pdf][code]
+
+Improving Generation and Evaluation of Visual Stories via Semantic Consistency
+Adyasha Maharana, Darryl Hannan and Mohit Bansal.
+Proceedings of NAACL 2021. [pdf][code]
+
+DeCEMBERT: Learning from Noisy Instructional Videos via Dense Captions and Entropy Minimization
+Zineng Tang*, Jie Lei* and Mohit Bansal.
+Proceedings of NAACL 2021. [pdf][code]
+
+Improving Cross-Modal Alignment in Vision Language Navigation via Syntactic Information
+Jialu Li, Hao Tan and Mohit Bansal.
+Proceedings of NAACL 2021 (short papers). [pdf][code]
+
+Dynabench: Rethinking Benchmarking in NLP
+Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts and Adina Williams.
+Proceedings of NAACL 2021. [pdf][website]
+
+Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization
+Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, Paul Soulos, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, and Jianfeng Gao.
+Proceedings of NAACL 2021. [pdf][code]
+
+Efficiently Summarizing Text and Graph Encodings of Multi-Document Clusters
+Ramakanth Pasunuru, Mengwen Liu, Mohit Bansal, Sujith Ravi and Markus Dreyer.
+Proceedings of NAACL 2021. [pdf][code]
+
+Extending Multi-Document Summarization Evaluation to the Interactive Setting
+Ori Shapira, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal, Yael Amsterdamer and Ido Dagan.
+Proceedings of NAACL 2021. [pdf][bib][code]
+
+Robustness Gym: Unifying the NLP Evaluation Landscape
+Karan Goel, Nazneen Fatema Rajani, Jesse Vig, Zachary Taschdjian, Mohit Bansal and Christopher Ré.
+Proceedings of NAACL 2021 (demo papers). [pdf][bib][website]
+
+ERNIE-NLI: Analyzing the Impact of Domain-Specific External Knowledge on Enhanced Representations for NLI
+Lisa Bauer, Lingjia Deng, Mohit Bansal.
+Proceedings of DeeLIO Workshop, NAACL 2021. [pdf]
+
+GENE: Global Event Network Embedding
+Qi Zeng, Manling Li, Tuan Lai, Heng Ji, Mohit Bansal, Hanghang Tong.
+Proceedings of TextGraphs Workshop, NAACL 2021. [pdf]
+
+The Effect of Pretraining on Extractive Summarization for Scientific Documents
+Yash Gupta, Pawan Sasanka, Shikha Bordia, Arjun Manoharan, Deepak Mittal, Ramakanth Pasunuru, Manish Shrivastava, Maneesh Singh, Mohit Bansal, Preethi Jyothi.
+Proceedings of Scholarly Document Processing Workshop, NAACL 2021. [pdf]
+
+Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (oral)
+Jie Lei*, Linjie Li*, Luowei Zhou, Zhe Gan, Tamara L. Berg, Mohit Bansal, Jingjing Liu.
+Proceedings of CVPR 2021. [pdf][bib][code]
+(CVPR Best Student Paper Honorable Mention)
+
+Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks
+Lisa Bauer and Mohit Bansal.
+Proceedings of EACL 2021. [pdf][code]
+
+Hidden Biases in Unreliable News Detection Datasets
+Xiang Zhou, Heba Elfardy, Christos Christodoulopoulos, Thomas Butler and Mohit Bansal.
+Proceedings of EACL 2021. [pdf][code]
+(EACL Best Long Paper Honorable Mention)
+
+FixMyPose: Pose Correctional Captioning and Retrieval
+Hyounghun Kim*, Abhaysinh Zala*, Graham Burri, and Mohit Bansal.
+Proceedings of AAAI 2021. [pdf][code]
+
+Data Augmentation for Abstractive Query-Focused Multi-Document Summarization
+Ramakanth Pasunuru, Asli Celikyilmaz, Michel Galley, Chenyan Xiong, Yizhe Zhang, Mohit Bansal, and Jianfeng Gao.
+Proceedings of AAAI 2021. [pdf][code]
+
+Dual Reinforcement-Based Specification Generation for Image De-Rendering (oral)
+Ramakanth Pasunuru, David Rosenberg, Gideon Mann, and Mohit Bansal.
+Proceedings of Scientific Document Understanding Workshop, AAAI 2021. [pdf]
+
+2020
+
+ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization
+Shiyue Zhang, Benjamin Frey, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][data/code]
+
+Vokenization: Improving Language Understanding via Contextualized, Visually-Grounded Supervision
+Hao Tan and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][data/code][MIT Tech Review]
+
+What Can We Learn from Collective Human Opinions on Natural Language Inference Data?
+Yixin Nie, Xiang Zhou, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][data/code]
+
+What Is More Likely To Happen Next? Video-and-Language Future Event Prediction
+Jie Lei, Licheng Yu, Tamara Berg, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][data/code]
+
+ConjNLI: Natural Language Inference Over Conjunctive Sentences
+Swarnadeep Saha, Yixin Nie, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][data/code]
+
+PRover: Proof Generation for Interpretable Reasoning over Rules
+Swarnadeep Saha, Sayan Ghosh, Shashank Srivastava and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][code]
+
+DORB: Dynamically Optimizing Multiple Rewards with Bandits
+Ramakanth Pasunuru, Han Guo, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf]
+
+The Curse of Performance Instability in Analysis Datasets: Consequences, Source, and Suggestions
+Xiang Zhou, Yixin Nie, Hao Tan, and Mohit Bansal.
+Proceedings of EMNLP 2020. [pdf][bib][code]
+
+Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?
+Peter Hase, Shiyue Zhang, Harry Xie, and Mohit Bansal.
+Findings of EMNLP 2020. [pdf][bib][data/code]
+
+ArraMon: A Joint Navigation-Assembly Instruction Interpretation Task in Dynamic Environments
+Hyounghun Kim, Abhaysinh Zala, Graham Burri, Hao Tan, and Mohit Bansal.
+Findings of EMNLP 2020. [pdf][website]
+
+HoVer: A Dataset for Many-Hop Fact Extraction And Claim Verification
+Yichen Jiang*, Shikha Bordia*, Zheng Zhong, Charles Dognin, Maneesh Singh, and Mohit Bansal.
+Findings of EMNLP 2020. [pdf] [website]
+
+Adversarial Augmentation Policy Search for Domain and Cross-Lingual Generalization in Reading Comprehension
+Adyasha Maharana and Mohit Bansal.
+Findings of EMNLP 2020. [pdf]
+
+FENAS: Flexible and Expressive Neural Architecture Search
+Ramakanth Pasunuru and Mohit Bansal.
+Findings of EMNLP 2020 (short papers). [pdf]
+
+TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval
+Jie Lei, Licheng Yu, Tamara L. Berg, and Mohit Bansal.
+Proceedings of ECCV 2020, Glasgow, UK. [pdf][bib][website]
+
+Diagnosing the Environment Bias in Vision-and-Language Navigation
+Yubo Zhang*, Hao Tan*, and Mohit Bansal.
+Proceedings of IJCAI 2020, Yokohama, Japan. [pdf][bib][code/data]
+
+Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?
+Peter Hase and Mohit Bansal.
+Proceedings of ACL 2020, Seattle, WA. [pdf][bib][code/data]
+
+Towards Robustifying NLI Models Against Lexical Dataset Biases
+Xiang Zhou and Mohit Bansal.
+Proceedings of ACL 2020, Seattle, WA. [pdf][bib][code/data]
+
+Adversarial NLI: A New Benchmark for Natural Language Understanding
+Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, and Douwe Kiela.
+Proceedings of ACL 2020, Seattle, WA. [pdf][bib][data][demo]
+
+Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA
+Hyounghun Kim, Zineng Tang, and Mohit Bansal.
+Proceedings of ACL 2020, Seattle, WA. [pdf][bib][code]
+
+MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning
+Jie Lei, Liwei Wang, Yelong Shen, Dong Yu, Tamara Berg, and Mohit Bansal.
+Proceedings of ACL 2020, Seattle, WA. [pdf][bib][code/data]
+
+TVQA+: Spatio-Temporal Grounding for Video Question Answering
+Jie Lei, Licheng Yu, Tamara L. Berg, and Mohit Bansal.
+Proceedings of ACL 2020, Seattle, WA. [pdf v2][bib][data]
+
+Simple Compounded-Label Training for Fact Extraction and Verification
+Yixin Nie*, Lisa Bauer*, Mohit Bansal.
+Proceedings of Fact Extraction and VERification (FEVER) workshop, ACL 2020, Seattle, WA. [pdf][bib]
+
+Multi-Source Domain Adaptation for Text Classification via DistanceNet-Bandits
+Han Guo, Ramakanth Pasunuru, and Mohit Bansal.
+Proceedings of AAAI 2020, New York, NY. [pdf][bib]
+
+
+ManyModalQA: Modality Disambiguation and QA over Diverse Inputs
+Darryl Hannan, Akshay Jain, and Mohit Bansal.
+Proceedings of AAAI 2020, New York, NY. [pdf][bib]
+
+
+AvgOut: A Simple Output-Probability Measure to Eliminate Dull Responses
+Tong Niu and Mohit Bansal.
+Proceedings of AAAI 2020, New York, NY. [pdf][bib]
+
+
+Modality-Balanced Models for Visual Dialogue
+Hyounghun Kim, Hao Tan, and Mohit Bansal.
+Proceedings of AAAI 2020, New York, NY. [pdf][bib]
+
+
+Enabling Robots to Understand Incomplete Natural Language Instructions Using Commonsense Reasoning
+Haonan Chen, Hao Tan, Alan Kuntz, Mohit Bansal, Ron Alterovitz.
+Proceedings of ICRA 2020, Paris, France. [pdf][bib][demo video]
+
+2019
+
+LXMERT: Learning Cross-Modality Encoder Representations from Transformers
+Hao Tan and Mohit Bansal.
+Proceedings of EMNLP 2019, Hong Kong. [pdf][bib][code]
+
+
+Self-Assembling Modular Networks for Interpretable Multi-Hop Reasoning
+Yichen Jiang and Mohit Bansal.
+Proceedings of EMNLP 2019, Hong Kong. [pdf][bib][code]
+
+
+Addressing Semantic Drift in Question Generation for Semi-Supervised Question Answering
+Shiyue Zhang and Mohit Bansal.
+Proceedings of EMNLP 2019, Hong Kong. [pdf][bib][code]
+
+
+Revealing the Importance of Semantic Retrieval for Machine Reading at Scale
+Yixin Nie, Songhe Wang, and Mohit Bansal.
+Proceedings of EMNLP 2019, Hong Kong. [pdf][bib][code]
+
+
+Automatically Learning Data Augmentation Policies for Dialogue Tasks
+Tong Niu and Mohit Bansal.
+Proceedings of EMNLP 2019, Hong Kong (short papers). [pdf][bib]
+
+
+Continual and Multi-Task Architecture Search
+Ramakanth Pasunuru and Mohit Bansal.
+Proceedings of ACL 2019, Florence, Italy. [pdf][bib][code]
+
+
+Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA
+Yichen Jiang and Mohit Bansal.
+Proceedings of ACL 2019, Florence, Italy. [pdf][bib][data/code]
+
+Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension
+Yichen Jiang*, Nitish Joshi*, Yen-Chun Chen, and Mohit Bansal.
+Proceedings of ACL 2019, Florence, Italy. [pdf][bib][code]
+
+Expressing Visual Relationships via Language
+Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, and Mohit Bansal.
+Proceedings of ACL 2019, Florence, Italy. [pdf][bib][data/code]
+
+Improving Visual Question Answering by Referring to Generated Paragraph Captions
+Hyounghun Kim and Mohit Bansal.
+Proceedings of ACL 2019, Florence, Italy (short papers). [pdf][bib]
+(ACL Best Short Paper Nominee)
+
+PaperRobot: Incremental Draft Generation of Scientific Ideas
+Qingyun Wang, Lifu Huang, Zhiying Jiang, Kevin Knight, Heng Ji, Mohit Bansal, and Yi Luan.
+Proceedings of ACL 2019, Florence, Italy. [pdf][bib][code]
+
+Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout
+Hao Tan, Licheng Yu, and Mohit Bansal.
+Proceedings of NAACL 2019, Minneapolis, MN. [pdf][bib][code]
+(1st Rank Model in Room-to-Room Vision-Language-Navigation Challenge)
+
+AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning
+Han Guo, Ramakanth Pasunuru, and Mohit Bansal.
+Proceedings of NAACL 2019, Minneapolis, MN. [pdf][bib][code]
+
+
+Crowdsourcing Lightweight Pyramids for Manual Summary Evaluation
+Ori Shapira, David Gabay, Yang Gao, Hadar Ronen, Ramakanth Pasunuru, Mohit Bansal, Yael Amsterdamer, and Ido Dagan.
+Proceedings of NAACL 2019, Minneapolis, MN (short papers). [pdf][bib][code]
+
+
+Multi-Target Embodied Question Answering
+Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg, and Dhruv Batra.
+Proceedings of CVPR 2019, Long Beach, CA. [pdf][bib][video]
+
+
+Efficient Generation of Motion Plans from Attribute-Based Natural Language Instructions Using Dynamic Constraint Mapping
+Jae Sung Park, Biao Jia, Mohit Bansal, and Dinesh Manocha
+Proceedings of ICRA 2019, Montreal, Canada. [pdf][bib][demo]
+
+Combining Fact Extraction and Verification with Neural Semantic Matching Networks
+Yixin Nie, Haonan Chen, and Mohit Bansal.
+Proceedings of AAAI 2019, Honolulu, HI. [pdf][bib][code]
+
+Analyzing Compositionality-Sensitivity of NLI Models
+Yixin Nie*, Yicheng Wang*, and Mohit Bansal.
+Proceedings of AAAI 2019, Honolulu, HI. [pdf][bib][data/code]
+
+DSTC7-AVSD: Scene-Aware Video-Dialogue Systems with Dual Attention
+Ramakanth Pasunuru and Mohit Bansal
+Proceedings of Dialog System Technology Challenges Workshop, AAAI 2019, Honolulu, Hawaii. [pdf][bib]
+(Selected Oral)
+
+2018
+
+Closed-Book Training to Improve Summarization Encoder Memory
+Yichen Jiang and Mohit Bansal.
+Proceedings of EMNLP 2018, Brussels, Belgium. [pdf][bib]
+
+SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories
+Sweta Karlekar and Mohit Bansal.
+Proceedings of EMNLP 2018, Brussels, Belgium (short papers). [pdf][bib][data]
+
+Commonsense for Generative Multi-Hop Question Answering Tasks
+Lisa Bauer*, Yicheng Wang*, and Mohit Bansal.
+Proceedings of EMNLP 2018, Brussels, Belgium. [pdf][bib]
+
+Game-Based Video-Context Dialogue
+Ramakanth Pasunuru and Mohit Bansal.
+Proceedings of EMNLP 2018, Brussels, Belgium. [pdf (v2)][bib][data/code]
+
+TVQA: Localized, Compositional Video Question Answering
+Jie Lei, Licheng Yu, Mohit Bansal, and Tamara Berg.
+Proceedings of EMNLP 2018, Brussels, Belgium. [pdf][bib][website]
+
+Incorporating Background Knowledge into Video Description Generation
+Spencer Whitehead, Heng Ji, Mohit Bansal, Shih-Fu Chang, and Clare Voss.
+Proceedings of EMNLP 2018, Brussels, Belgium. [pdf][bib]
+
+Adversarial Over-Sensitivity and Over-Stability Strategies for Dialogue Models
+Tong Niu and Mohit Bansal.
+Proceedings of CoNLL 2018, Brussels, Belgium. [pdf][bib][code]
+
+Combining Fact Extraction and Claim Verification in an NLI Model
+Yixin Nie, Haonan Chen, and Mohit Bansal.
+In Fact Extraction and Verification (FEVER) Workshop (non-archival), EMNLP 2018, Brussels, Belgium.
+(extended AAAI version: [pdf])
+(1st Rank Model in Shared Task) [Press Article]
+
+Dynamic Multi-Level Multi-Task Learning for Sentence Simplification
+Han Guo, Ramakanth Pasunuru, and Mohit Bansal.
+Proceedings of COLING 2018, Santa Fe, New Mexico. [pdf][bib][code]
+(Area Chair Favorites)
+
+Polite Dialogue Generation Without Parallel Data
+Tong Niu and Mohit Bansal.
+Proceedings of TACL 2018. Presented at EMNLP 2018, Brussels, Belgium. [pdf][bib][code]
+
+Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
+Yen-Chun Chen and Mohit Bansal.
+Proceedings of ACL 2018, Melbourne, Australia. [pdf][bib][code]
+
+Soft, Layer-Specific Multi-Task Summarization with Entailment and Question Generation
+Han Guo*, Ramakanth Pasunuru*, and Mohit Bansal.
+Proceedings of ACL 2018, Melbourne, Australia. [pdf][bib]
+
+#MeToo: Neural Detection and Explanation of Language in Personal Abuse Stories
+Sweta Karlekar and Mohit Bansal.
+Proceedings of WiNLP 2018 (Widening NLP Workshop), NAACL 2018, New Orleans, LA. [pdf][bib]
+
+Object Ordering with Bidirectional Matchings for Visual Reasoning
+Hao Tan and Mohit Bansal.
+Proceedings of NAACL 2018, New Orleans, LA (short papers). [pdf][bib]
+(Top Model in Image Challenge)
+
+
+Multi-Reward Reinforced Summarization with Saliency and Entailment
+Ramakanth Pasunuru and Mohit Bansal.
+Proceedings of NAACL 2018, New Orleans, LA (short papers). [pdf][bib]
+
+Detecting Linguistic Characteristics of Alzheimer's Dementia by Interpreting Neural Models
+Sweta Karlekar, Tong Niu, and Mohit Bansal.
+Proceedings of NAACL 2018, New Orleans, LA (short papers). [pdf][bib]
+
+Robust Machine Comprehension Models via Adversarial Training
+Yicheng Wang and Mohit Bansal.
+Proceedings of NAACL 2018, New Orleans, LA (short papers). [pdf][bib]
+
+Punny Captions: Witty Wordplay in Image Descriptions
+Arjun Chandrasekaran, Devi Parikh, and Mohit Bansal.
+Proceedings of NAACL 2018, New Orleans, LA (short papers). [pdf][bib]
+
+Joint Modeling of Text and Acoustic-Prosodic Cues for Neural Parsing
+Trang Tran*, Shubham Toshniwal*, Mohit Bansal, Kevin Gimpel, Karen Livescu, and Mari Ostendorf.
+Proceedings of NAACL 2018, New Orleans, LA. [pdf][bib]
+
+MAttNet: Modular Attention Network for Referring Expression Comprehension
+Licheng Yu, Zhe Lin, Xiaohui Shen, Jimei Yang, Xin Lu, Mohit Bansal, Tamara Berg.
+Proceedings of CVPR 2018, Salt Lake City, UT. [pdf][bib][DEMO]
+
+Source-Target Inference Models for Spatial Instruction Understanding
+Hao Tan and Mohit Bansal.
+Proceedings of AAAI 2018, New Orleans, LA. [pdf][bib]
+
+Retweet Wars: Tweet Popularity Prediction via Multimodal Regression
+Ke Wang, Mohit Bansal, and Jan-Michael Frahm.
+Proceedings of WACV 2018, Lake Tahoe, CA. [pdf][bib]
+
+2017
+
+Interactive-Length Multi-Task Video Captioning with Cooperative Feedback
+Han Guo, Ramakanth Pasunuru, and Mohit Bansal.
+Proceedings of NIPS 2017, Long Beach, CA (demo papers). [pdf][bib]
+
+Reinforced Video Captioning with Entailment Rewards
+Ramakanth Pasunuru and Mohit Bansal.
+Proceedings of EMNLP 2017, Copenhagen, Denmark (short papers). [pdf][bib][code]
+
+Hierarchically-Attentive RNN for Album Summarization and Storytelling
+Licheng Yu, Mohit Bansal, and Tamara Berg.
+Proceedings of EMNLP 2017, Copenhagen, Denmark (short papers). [pdf][bib]
+
+Video Highlight Prediction Using Audience Chat Reactions
+Cheng-Yang Fu, Joon Lee, Mohit Bansal, and Alexander Berg.
+Proceedings of EMNLP 2017, Copenhagen, Denmark (short papers). [pdf][bib][code/data]
+
+Shortcut-Stacked Sentence Encoders for Multi-Domain Inference
+Yixin Nie and Mohit Bansal.
+Proceedings of RepEval Workshop, EMNLP 2017, Copenhagen, Denmark. [pdf][bib][code]
+(Top Single Model in Shared Task)
+
+Towards Improving Abstractive Summarization via Entailment Generation
+Ramakanth Pasunuru, Han Guo, and Mohit Bansal.
+Proceedings of Workshop on Summarization Frontiers, EMNLP 2017, Copenhagen, Denmark. [pdf][bib]
+(Contributed Talk)
+
+Multi-Task Video Captioning with Video and Entailment Generation
+Ramakanth Pasunuru and Mohit Bansal.
+Proceedings of ACL 2017, Vancouver, Canada. [pdf][bib]
+(ACL Outstanding Paper Award)
+
+A Joint Speaker-Listener-Reinforcer Model for Referring Expressions
+Licheng Yu, Hao Tan, Mohit Bansal, and Tamara L. Berg.
+Proceedings of CVPR 2017, Honolulu, HI. [pdf][bib]
+(Spotlight; 8% acceptance rate)
+
+Navigational Instruction Generation as Inverse Reinforcement Learning with Neural Machine Translation
+Andrea F. Daniele, Mohit Bansal, and Matthew R. Walter.
+Proceedings of HRI 2017 (Human-Robot Interaction), Vienna, Austria. [pdf][bib]
+
+Contextual RNN-GANs for Abstract Reasoning Diagram Generation
+Arnab Ghosh, Viveka Kulharia, Amitabha Mukerjee, Vinay Namboodiri, and Mohit Bansal.
+Proceedings of AAAI 2017, San Francisco, CA. [pdf][bib]
+
+Coherent Dialogue with Attention-based Language Models
+Hongyuan Mei, Mohit Bansal, and Matthew Walter.
+Proceedings of AAAI 2017, San Francisco, CA. [pdf][bib]
+
+2016
+
+Interpreting Neural Networks to Improve Politeness Comprehension
+Malika Aubakirova and Mohit Bansal.
+Proceedings of EMNLP 2016, Austin, TX (short papers). [pdf][bib]
+
+Sort Story: Sorting Jumbled Images and Captions into Stories
+Harsh Agrawal, Arjun Chandrasekaran, Dhruv Batra, Devi Parikh, and Mohit Bansal.
+Proceedings of EMNLP 2016, Austin, TX (short papers). [pdf][bib]
+
+Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions
+Arijit Ray, Gordon Christie, Mohit Bansal, Dhruv Batra, and Devi Parikh.
+Proceedings of EMNLP 2016, Austin, TX (short papers). [pdf][bib]
+
+Who did What: A Large-Scale Person-Centered Cloze Dataset
+Takeshi Onishi, Hai Wang, Mohit Bansal, Kevin Gimpel, and David McAllester.
+Proceedings of EMNLP 2016, Austin, TX (short papers). [pdf][bib]
+
+Charagram: Embedding Words and Sentences via Character n-grams
+John Wieting, Mohit Bansal, Kevin Gimpel, and Karen Livescu.
+Proceedings of EMNLP 2016, Austin, TX. [pdf][bib][code]
+
+End-to-end Relation Extraction using LSTMs on Sequences and Tree Structures
+Makoto Miwa and Mohit Bansal.
+Proceedings of ACL 2016, Berlin, Germany. [pdf][bib][code]
+
+Mapping Unseen Words to Task-Trained Embedding Spaces
+Pranava Swaroop Madhyastha, Mohit Bansal, Kevin Gimpel, and Karen Livescu.
+Proceedings of Workshop on Representation Learning for NLP, ACL 2016, Berlin, Germany [pdf][bib]
+(Best Paper Award)
+
+What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment
+Hongyuan Mei, Mohit Bansal, and Matthew R. Walter.
+Proceedings of NAACL 2016, San Diego, CA. [pdf][bib]
+
+The Role of Context Types and Dimensionality in Learning Word Embeddings
+Oren Melamud, David McClosky, Siddharth Patwardhan, and Mohit Bansal.
+Proceedings of NAACL 2016, San Diego, CA. [pdf][bib]
+
+We Are Humor Beings: Understanding and Predicting Visual Humor
+Arjun Chandrasekaran, Ashwin Kalyan, Stanislaw Antol, Mohit Bansal, Dhruv Batra, C. Lawrence Zitnick, and Devi Parikh.
+Proceedings of CVPR 2016, Las Vegas, Nevada. [pdf][bib][data]
+(Spotlight; 9.7% acceptance rate)
+
+Towards Universal Paraphrastic Sentence Embeddings
+John Wieting, Mohit Bansal, Kevin Gimpel, and Karen Livescu.
+Proceedings of ICLR 2016, San Juan, Puerto Rico. [pdf][bib][data/code]
+(Oral; 5.7% acceptance rate)
+
+Listen, Attend, and Walk: Neural Mapping of Navigational Instructions to Action Sequences
+Hongyuan Mei, Mohit Bansal, and Matthew R. Walter.
+Proceedings of AAAI 2016, Phoenix, Arizona. [pdf][bib]
+(NVidia Paper Award in NIPS 2015 Multimodal Machine Learning workshop)
+
+2015
+
+Machine Comprehension with Syntax, Frames, and Semantics
+Hai Wang, Mohit Bansal, Kevin Gimpel, and David McAllester.
+Proceedings of ACL 2015, Beijing, China (short papers). [pdf][bib]
+
+From Paraphrase Database to Compositional Paraphrase Model and Back
+John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu, and Dan Roth.
+Proceedings of TACL. To be presented at EMNLP 2015, Lisbon, Portugal.[pdf][bib][data/code]
+[pdf v2 (see Appendix A)][new 300-dim embeddings]
+
+Dependency Link Embeddings: Continuous Representations of Syntactic Substructures
+Mohit Bansal.
+Proceedings of Workshop on Vector Space Modeling for NLP (selected oral), NAACL 2015, Denver, Colorado.[pdf][slides][bib][data]
+
+
+Deep Multilingual Correlation for Improved Word Embeddings
+Ang Lu, Weiran Wang, Mohit Bansal, Kevin Gimpel, and Karen Livescu.
+Proceedings of NAACL 2015, Denver, Colorado (short papers).[pdf][bib][code]
+
+A Sense-Topic Model for Word Sense Induction with Unsupervised Data Enrichment
+Jing Wang, Mohit Bansal, Kevin Gimpel, Brian Ziebart, and Clement Yu.
+Proceedings of TACL. Presented at NAACL 2015, Denver, Colorado.[pdf][bib]
+
+Accurate Vision-based Vehicle Localization using Satellite Imagery
+Hang Chu, Hongyuan Mei, Mohit Bansal, and Matthew R. Walter.
+Proceedings of NIPS 2015 Workshop on Transfer and Multi-Task Learning, Montreal, Canada.[pdf][bib]
+
+2014
+
+Weakly-Supervised Learning with Cost-Augmented Contrastive Estimation
+Kevin Gimpel and Mohit Bansal.
+Proceedings of EMNLP 2014. Doha, Qatar.[pdf][supplementary][bib]
+
+Tailoring Continuous Word Representations for Dependency Parsing
+Mohit Bansal, Kevin Gimpel, and Karen Livescu.
+Proceedings of ACL 2014. Baltimore, MD, USA (short papers).[pdf][slides][bib][data]
+
+Structured Learning for Taxonomy Induction with Belief Propagation
+Mohit Bansal, David Burkett, Gerard de Melo, and Dan Klein.
+Proceedings of ACL 2014. Baltimore, MD, USA.[pdf, errata][slides][bib][data]
+(ACL Best Paper Award Honorable Mention)
+
+What are you talking about? Text-to-Image Coreference
+Chen Kong, Dahua Lin, Mohit Bansal, Raquel Urtasun, and Sanja Fidler.
+Proceedings of CVPR 2014. Columbus, OH, USA.[pdf][bib][data/code]
+
+2013 — 2009
+
+Good, Great, Excellent: Global Inference of Semantic Intensities
+Gerard de Melo and Mohit Bansal.
+Proceedings of TACL. Presented at ACL 2013. Sofia, Bulgaria.[pdf][slides][bib][data/code]
+
+Coreference Semantics from Web Features
+Mohit Bansal and Dan Klein.
+Proceedings of ACL 2012. Jeju, South Korea.[pdf][slides][bib][code]
+
+Unsupervised Translation Sense Clustering
+Mohit Bansal, John DeNero, and Dekang Lin.
+Proceedings of NAACL 2012. Montreal, Canada.[pdf][slides][bib]
+
+Web-Scale Features for Full-Scale Parsing
+Mohit Bansal and Dan Klein.
+Proceedings of ACL 2011. Portland, OR, USA.[pdf, errata][slides][bib]
+
+Gappy Phrasal Alignment By Agreement
+Mohit Bansal, Chris Quirk, and Robert Moore.
+Proceedings of ACL 2011. Portland, OR, USA.[pdf][slides][bib]
+
+The Surprising Variance in Shortest-Derivation Parsing
+Mohit Bansal and Dan Klein.
+Proceedings of ACL 2011. Portland, OR, USA (short papers).[pdf][bib]
+
+Mention Detection: Heuristics for the OntoNotes annotations
+Jonathan K. Kummerfeld, Mohit Bansal, David Burkett, and Dan Klein.
+Proceedings of CoNLL 2011 (shared task). Portland, OR, USA.[pdf][bib]
+
+Simple, Accurate Parsing with an All-Fragments Grammar
+Mohit Bansal and Dan Klein.
+Proceedings of ACL 2010. Uppsala, Sweden.[pdf][slides][bib]
+
+Efficient Parsing for Transducer Grammars
+John DeNero, Mohit Bansal, Adam Pauls, and Dan Klein.
+Proceedings of NAACL 2009. Boulder, CO, USA.[pdf][slides][bib]
+
+2008 — 2007
+
+The power of negative thinking: Exploiting label disagreement in the min-cut classification framework
+Mohit Bansal, Claire Cardie, and Lillian Lee.
+Proceedings of COLING 2008. Manchester, UK (short papers).[pdf][slides][bib]
+
+Estimating Hybrid Frequency Moments of Data Streams
+Sumit Ganguly, Mohit Bansal, and Shruti Dube.
+Proceedings of FAW 2008. Changsha, China.
+Also accepted in the Journal of Combinatorial Optimization (JOCO).[pdf][bib]
+
+Text Processing for Text-to-Speech Systems in Indian Languages
+Anand A Raj, Tanuja Sarkar, Satish C Pammi, Santhosh Yuvaraj, Mohit Bansal, Kishore Prahallad, and Alan W Black.
+Proceedings of ISCA SSW6 2007. Bonn, Germany.[pdf][bib]
+
+OTHERS:
+
+
+Learning Articulated Motion Models from Visual and Lingual Signals
+Zhengyang Wu, Mohit Bansal, and Matthew R. Walter.
+Preprint arXiv:1511.05526, 2016. [pdf][bib]
+Web-scale Surface and Syntactic n-gram Features for Dependency Parsing
+Dominick Ng, Mohit Bansal, and James R. Curran.
+Preprint arXiv:1502.07038, 2015. [pdf][bib][code]
+
+THESES:
+
+Surface Web Semantics for Structured Natural Language Processing
+Mohit Bansal, Ph.D. Thesis. EECS, UC Berkeley.
+Committee: Dan Klein (chair), Marti Hearst, Line Mikkelsen, Nelson Morgan.[pdf]
+
+An All-Fragments Grammar for Simple and Accurate Parsing
+Mohit Bansal, M.S. Thesis. EECS, UC Berkeley.
+Advisor: Dan Klein.[pdf]
+
+Patents:
+
+Techniques for generating translation clusters
+John DeNero and Mohit Bansal.
+Publication number: US20130275118 A1 (Oct 17, 2013)
+Teaching
+
+Instructor, COMP590/790: Connecting Language to Vision and Robotics, UNC Chapel Hill, Spring 2023.
+
+Instructor, COMP590/790: Connecting Language to Vision and Robotics, UNC Chapel Hill, Fall 2021.
+
+Instructor, COMP786: Natural Language Processing, UNC Chapel Hill, Fall 2020.
+
+Instructor, First-Year Undergraduate Honors Seminar: Special Topics: Human and Artificial Intelligence Through the Prism of Language, Fall 2019.
+
+Instructor, Advanced Topics in NLP: Recent Progress in Different Learning Paradigms, UNC Chapel Hill, Spring 2019.
+
+Instructor, Advanced Topics in NLP: Conversational Models, UNC Chapel Hill, Spring 2018.
+
+Instructor, Graduate Natural Language Processing, UNC Chapel Hill, Fall 2017.
+
+Instructor, Advanced Topics in NLP: Language Grounding for Robotics, UNC Chapel Hill, Spring 2017.
+
+Instructor, Seminar on Natural Language Processing, UNC Chapel Hill, Fall 2016.
+
+Guest Lecturer, Computational Linguistics (Instructor: John Goldsmith), University of Chicago, Spring 2015.
+
+Guest Lecturer, Robotics and Artificial Intelligence (Instructor: Matthew Walter), TTI-Chicago, University of Chicago, Spring 2015.
+
+Guest Lecturer, Visual Recognition with Text (Instructor: Sanja Fidler), University of Toronto, Winter 2015 — short course on 'Topics, Trends, and Resources in NLP' [slides].
+
+
+Grad Student Instructor, Introduction to Artificial Intelligence (Instructor: Dan Klein), UC Berkeley, Fall 2011. Received an Outstanding Graduate Student Instructor Award by UC Berkeley for excellence in teaching.
+
+
+Grad Student Instructor, Advanced Topics in Artificial Intelligence (Instructors: Pieter Abbeel, Dan Klein, Jitendra Malik), UC Berkeley, Spring 2009. Sole TA for new course with 30 advanced students.
+
+Recent Invited Talks/Keynotes:
+
+
+Keynote, Lisbon Machine Learning Summer School (LxMLS) 2024
+
+USC Distinguished Lecture Series
+
+Keynote, SouthNLP Symposium 2024
+
+Invited Speaker, IndoML 2023
+
+IISc Bangalore (Kotak AI-ML Centre)
+
+Keynote, 27th Conference on Computational Natural Language Learning (CoNLL 2023) ['Multimodal Generative LLMs: Unification, Interpretability, Evaluation': video]
+
+Invited Speaker, TTIC 20th Anniversary Celebration
+
+Keynote, AACL-IJCNLP 2023
+
+Penn State NLP Colloquium Series
+
+Auburn AI Distinguished Speaker Series, 2023
+
+TWIML AI Podcast: 'Unifying Vision and Language Models'
+
+ACL 2023 Narrative Understanding Workshop
+
+CVPR 2023 Explainable AI for Computer Vision (XAI4CV) Workshop
+
+IBM Neuro-Symbolic AI Workshop 2023 ['Modeling and Evaluating Faithful Generation in Language (and Vision)']
+
+MBZUAI AI Quorum's Inaugural NLP Symposium ['Unified and Efficient Vision-and-Language Modeling': video]
+
+UT Austin Forum for Artificial Intelligence
+
+Stanford NLP Seminar
+
+Open Data Science Conference
+
+ICML 2022 Pre-training Workshop ['Unified and Efficient Multimodal Pretraining Across Vision and Language': video]
+
+Keynote, 15th International Conference on Natural Language Generation (INLG 2022) ['Modeling and Evaluating Faithful Generation in Language (and Vision)': video]
+
+Robustness in Sequential Data (ROSE) Workshop, CVPR 2022
+
+Summarization of Creative Text Workshop, COLING 2022
+
+Indian Symposium on Machine Learning (IndoML), 2021 ['Knowledgeable and Spatio-Temporal Vision+Language': video]
+
+Fact Extraction and VERification (FEVER) Workshop, EMNLP 2021
+
+Closing the Loop Between Vision and Language (CLVL) Workshop, ICCV 2021 ['Knowledgeable and Spatio-Temporal Vision+Language': video]
+
+Human Interaction for Robotic Navigation Workshop, ICCV 2021 ['Video and Embodied Grounding for Language': video]
+
+CVIT Summer School on Artificial Intelligence, 2021
+
+Advances in Language and Vision Research (ALVR) Workshop, NAACL 2021
+
+Person in Context Workshop, CVPR 2021
+
+VQA Workshop, CVPR 2021 ['Knowledgeable and Spatio-Temporal Vision+Language': video, slides]
+
+IJCAI 2020 Early Career Spotlight Talk
+
+Singapore Symposium on Natural Language Processing (SSNLP 2020) ['Towards Knowledge-Robust and Multimodally-Grounded NLP': video]
+
+3rd Workshop on Neural Generation and Translation (WNGT @ EMNLP 2019) ['Knowledgeable and Multimodal Language Generation': slides]
+
+1st Workshop on Beyond Vision and Language: Integrating Knowledge from Real-World (LANTERN @ EMNLP 2019) ['Knowledgeable and Dynamic Spatio-Temporal Language+Vision+Robotics': slides]
+
+Workshop on Machine Reading for Question Answering (MRQA @ EMNLP 2019) ['Interpretability and Robustness for Multi-Hop QA': slides]
+
+4th Workshop on Representation Learning for NLP (RepL4NLP @ ACL 2019) ['Knowledgeable and Adversarially-Robust Representation Learning': slides]
+
+RSS-2018 Natural Human-Robot Communication Workshop ['Spatially-Grounded, Personable, and Sensible Human-Robot Communication']
+
+Triangle ML Day
+
+Google Assistant Dialog Workshop
+
+Machine Learning Summer School
+
+SAS-Nvidia Deep Learning Symposium
+
+ML@GeorgiaTech Seminar
+
+Kenan-InfiaML-Rethinc Machine Learning Symposium
+
+UNC Alumni AI Panel
+
+Students/Interns
+
+Student openings: I am looking for highly motivated PhD students. If you are interested in the broad areas of multimodal NLP (with vision and speech, for robotics), language generation and dialogue/Q&A, and structured+interpretable deep learning, please see my prospective student page and contact me at mbansal-AT-cs-DOT-unc-DOT-edu for further details.
+
+
+More student info at: MURGe-Lab
+
+UNC Advisees:
+Shiyue Zhang (UNC, PhD) (Bloomberg Data Science PhD Fellow)
+Xiang Zhou (UNC, PhD)
+Peter Hase (UNC, PhD) (Google PhD Fellow)
+Yichen Jiang (UNC, PhD) (Apple AI/ML PhD Fellow)
+Adyasha Maharana (UNC, PhD)
+Swarnadeep Saha (UNC, PhD) (Google PhD Fellow)
+Jaemin Cho (UNC, PhD)
+Jialu Li (UNC, PhD)
+Prateek Yadav (UNC, PhD)
+Archiki Prasad (UNC, PhD)
+Yi-Lin Sung (UNC, PhD)
+David Wan (UNC, PhD)
+Vaidehi Patil (UNC, PhD)
+Ziyang Wang (UNC, PhD)
+Shoubin Yu (UNC, PhD)
+
+Abhay Zala (UNC, MS)
+Zhuofan Ying (UNC, BS)
+Zineng Tang (UNC, BS) (CRA Outstanding Undergraduate Researcher Award 2023)
+Hanna Tischer (UNC, BS)
+
+Past Advisees:
+Lisa Bauer (UNC, PhD) (NSF Graduate Research Fellow) --> Research Scientist, Amazon AI
+Hyounghun Kim (UNC, PhD) --> Assistant Professor, UNIST
+Jie Lei (UNC, PhD; co-advisor: Tamara Berg) (Adobe Research Fellow) --> Research Scientist, Facebook AI
+Yixin Nie (UNC, PhD) --> Research Scientist, Facebook AI
+Darryl Hannan (UNC, MS) --> AI Engineer, Drexel
+Ramakanth Pasunuru (UNC, PhD) (Microsoft Research PhD Fellow; Facebook PhD Fellowship Finalist) --> Research Scientist, FAIR Lab, Meta
+Hao Tan (UNC, PhD) (Bloomberg Data Science PhD Fellow) --> Research Scientist, Adobe Research
+Yen-Chun Chen (UNC, MS) --> Researcher, Microsoft Research
+Tong Niu (Visiting student; Duke, MS) --> Research Scientist, Salesforce Research
+Licheng Yu (UNC, PhD; advisor = Tamara Berg) --> Research Scientist, Facebook AI
+
+Han Guo (UNC, BS) (CRA Outstanding Undergraduate Researcher Award Finalist, 2020) --> PhD Student, CMU
+Sweta Karlekar (UNC, BS) (CRA Outstanding Undergraduate Researcher Award Runner-Up, 2020) --> ML Engineer, Facebook
+Yinuo (Eva) Hu (UNC, BS) (Highest Honors) --> MS, UC Berkeley
+Samip Dahal (UNC, BS) --> Replit
+Antonio Mendoza (UNC, BS) --> Verisk Analytics
+Tsion Coulter (UNC, BS) --> Deloitte
+Songhe Wang (UNC, BS) --> PhD Student, Penn State
+Yicheng Wang (UNC, BS) --> Software Engineer, JaneStreet
+Nitish Joshi (Visiting student; IIT Bombay, BS) --> PhD Student, NYU
+
+Malika Aubakirova (UChicago, BS)
+Arjun Chandrasekaran (Visiting Student; Georgia Tech, PhD; advisor = Devi Parikh)
+Dhivya Eswaran (IIT-Madras, BTech --> CMU, PhD)
+Rasool Fakoor (UT-Arlington, PhD --> MSR)
+Arnab Ghosh (IIT Kanpur, BTech --> Oxford, PhD)
+Yuchen He (UIUC, PhD)
+Myungin Kim (UChicago, MS)
+Zuyao Li (USC, MS --> Google/Nest)
+Ang Lu (Tsinghua, BS --> CMU, MS)
+Pranava S. Madhyastha (UPC Barcelona, PhD)
+Hongyuan Mei (UChicago/TTIC, MS --> JHU, PhD) (MS Thesis Co-Advisor)
+Aravind L Srinivas (IIT Madras, BTech --> UC Berkeley, PhD)
+Ryan Stout (UIUC, MS)
+Trang Tran (UWash, PhD)
+Jing Wang (UIC, PhD --> Conversant)
+John Wieting (UIUC/TTIC MS --> CMU, PhD)
+Zhengyang Wu (GeorgiaTech, BS --> MagicLeap)
+
+Professional Service
+
+Program Chair, EMNLP 2024
+
+
+Member, ACL Executive Committee (2022-2024)
+
+
+Member, ACM Doctoral Dissertation Award Committee (2021-2024)
+
+
+Action Editor, TACL Journal
+
+
+Action Editor, Computational Linguistics (CL) Journal
+
+
+Associate Editor, IEEE/ACM Transactions on Audio Speech and Language Processing (TASLP)
+
+
+Editorial Board, Computer Speech and Language Journal
+
+
+Americas Sponsorship Co-Chair for the ACL (2020-2022)
+
+
+Senior Area Chair: EACL 2024
+
+
+Senior Area Chair: EMNLP 2023
+
+
+Senior Area Chair: ACL Rolling Review (ARR)
+
+
+Senior Area Chair: IJCAI 2023
+
+
+Senior Area Chair: AAAI 2023
+
+
+Area Chair: NeurIPS 2022
+
+
+Senior Area Chair: ACL 2022
+
+
+Area Chair: ICLR 2022
+
+
+Senior Area Chair (Vision, Robotics, Grounding): ACL 2021
+
+
+Senior Area Chair (Vision, Robotics, Grounding): NAACL 2021
+
+
+Senior Area Chair: AAAI 2021
+
+
+Senior Area Chair (Machine Learning): EMNLP 2020
+
+
+Senior Area Chair (Sentence Semantics): ACL 2020
+
+
+Program Co-Chair: CoNLL 2019
+
+
+Senior Program Committee Member: AAAI 2020
+
+
+Area Chair (Semantics): EMNLP 2019
+
+
+Area Chair (Summarization): NAACL 2019
+
+
+Area Chair (Discourse, Dialogue, Summarization, Generation, Multimodal NLP): EMNLP 2018
+
+
+Tutorial Chair: NAACL 2018
+
+
+Area Chair (Vision, Robots, and Grounding): ACL 2017
+
+
+Area Chair (Machine Learning): EMNLP 2017
+
+
+Demo Chair: ACL 2017
+
+
+Tutorial Chair: NAACL 2016
+
+
+Area Chair: NAACL 2016
+
+
+Program Committee Member / Reviewer:
+
+
+Conferences: EMNLP (best reviewer award, 2012), NAACL (best reviewer award, 2018, 2015), ACL, NIPS, ICLR, IJCAI, EACL, COLING (outstanding reviewer award, 2018), *SEM, IJCNLP, ICON
+
+
+Journals: TACL, TPAMI, TALIP
+
+
+Workshops: ACL Workshop of Women in Natural Language Processing (2017), ACL Workshop on Representation Learning for NLP (2017), EACL Workshop on Ethics in Natural Language Processing (2017), NAACL Multilingual and Crosslingual Methods in NLP (2016), NAACL Human-Computer Question Answering (2016), ACL Evaluating Vector-Space Representations for NLP (2016), NAACL Vector Space Modeling for NLP (2015)
+
+
+University Research Proposals: ORAU
+
+
+Organizer: SpLU-RoboNLP Joint Workshop at NAACL 2019, CVPR 2019 Workshop on Conceptual Captions, NLP/ML Colloquium Series at UNC, Language Grounding for Robotics at ACL 2017, Midwest Speech and Language Days 2015
+
+Committee Member: Graduate (PhD) Admissions Committee, EECS, UC Berkeley
+
+Panel Member: National Science Foundation (NSF) Review Panels
+
+Software and Datasets: Available as links with corresponding paper in Publications/Code/Data.
+
+
+
+
+

@@ -1,0 +1,235 @@
+Professor: Jonathan Ragan-Kelley
+University: Massachusetts Institute of Technology
+URL: https://people.eecs.berkeley.edu/~jrk
+Description: Jonathan Ragan-Kelley
+Associate Professor
+Computer Science & Artificial Intelligence Lab
+Department of Electrical Engineering & Computer Science
+Massachusetts Institute of Technology
+jrk@mit.edu
++1-801-913-0101
+32-D462
+32 Vassar St.
+Cambridge, MA 02139
+Bio
+
+I am an Associate Professor of Electrical Engineering & Computer Science at MIT. I was previously a postdoc in computer science at Stanford, where I worked with Pat Hanrahan, and spent a year as a visiting researcher at Google. My work focuses on high-efficiency computer graphics, at the intersection of graphics with systems, architecture, and compilers. I did my PhD with Frédo Durand and Saman Amarasinghe at MIT CSAIL, developing the Halide language together with Andrew Adams, have worked at three major GPU vendors in architecture, compilers, and research, and built a real-time preview system for the special effects industry in collaboration with Industrial Light & Magic.
+
+Current Advisees
+Manya Bansal
+William Brandon
+Kartik Chandra (with Josh Tenenbaum)
+Samir Droubi (MEng)
+Yuka Ikarashi
+Tian Jin (with Michael Carbin)
+Amanda Liu (with Adam Chlipala)
+Karima Ma
+Kevin Qian (MEng)
+Former Students & Postdocs
+Gilbert Bernstein
+Karl Krauth
+Tzu-Mao Li
+Kevin Mu
+Anne Ouyang
+Alex Reinking
+AJ Root
+Vaishaal Shankar
+Publications
+ 
+Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding
+Zachary Ankner, Rishab Parthasarathy, Aniruddha Nrusimha, Christopher Rinard, Jonathan Ragan-Kelley, William Brandon
+Conference on Language Modeling (COLM 2024)
+ 
+A Verified Compiler for a Functional Tensor Language
+Amanda Liu, Gilbert Louis Bernstein, Adam Chlipala, Jonathan Ragan-Kelley
+Proceedings of the ACM on Programming Languages (PLDI 2024)
+ 
+Storytelling as Inverse Inverse Planning
+Kartik Chandra, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley
+Topics in Cognitive Science (2024)
+ 
+Distributions for Compositionally Differentiating Parametric Discontinuities
+Jesse Michel, Kevin Mu, Xuanda Yang, Sai Praveen Bangaru, Elias Rojas Collins, Gilbert Bernstein, Jonathan Ragan-Kelley, Michael Carbin, Tzu-Mao Li
+Proceedings of the ACM on Programming Languages (OOPSLA 2024)
+ 
+Fast Instruction Selection for Fast Digital Signal Processing
+Alexander J Root, Maaz Bin Safeer Ahmad, Dillon Sharlet, Andrew Adams, Shoaib Kamil, Jonathan Ragan-Kelley
+Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024)
+ 
+SLANG.D: Fast, Modular and Differentiable Shader Programming
+Sai Praveen Bangaru, Lifan Wu, Tzu-Mao Li, Jacob Munkberg, Gilbert Bernstein, Jonathan Ragan-Kelley, Frédo Durand, Aaron Lefohn, Yong He
+ACM Transactions on Graphics (SIGGRAPH Asia 2023)
+ 
+Inferring the Future by Imagining the Past
+Kartik Chandra, Tony Chen, Tzu-Mao Li, Jonathan Ragan-Kelley, Josh Tenenbaum
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+ 
+Semantics and Scheduling for Machine Knitting Compilers
+Jenny Lin, Vidya Narayanan, Yuka Ikarashi, Jonathan Ragan-Kelley, Gilbert Bernstein, James McCann
+ACM Transactions on Graphics (Proc. SIGGRAPH 2023)
+ 
+Acting as Inverse Inverse Planning
+Kartik Chandra, Tzu-Mao Li, Joshua B. Tenenbaum, Jonathan Ragan-Kelley
+SIGGRAPH 2023
+ 
+Gradient Descent: The Ultimate Optimizer
+Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer
+Advances in Neural Information Processing Systems (distinguished paper, NeurIPS 2022)
+ 
+Designing Perceptual Puzzles by Differentiating Probabilistic Programs
+Kartik Chandra, Tzu-Mao Li, Joshua Tenenbaum, Jonathan Ragan-Kelley
+SIGGRAPH 2022
+ 
+Exocompilation for productive programming of hardware accelerators
+Yuka Ikarashi, Gilbert Bernstein, Alex Reinking, Hasan Genc, Jonathan Ragan-Kelley
+PLDI 2022
+ 
+Searching for Fast Demosaicking Algorithms
+Karima Ma, Michaël Gharbi, Andrew Adams, Shoaib Kamil, Tzu-Mao Li, Connelly Barnes, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Presented at SIGGRAPH 2022)
+ 
+Verified tensor-program optimization via high-level scheduling rewrites
+Amanda Liu, Gilbert Bernstein, Adam Chlipala, Jonathan Ragan-Kelley
+Proceedings of the ACM on Programming Languages (POPL 2022)
+ 
+Formal Semantics for the Halide Language
+Alex Reinking, Gilbert Bernstein, Jonathan Ragan-Kelley
+arXiv preprint
+ 
+Efficient automatic scheduling of imaging and vision pipelines for the GPU
+Luke Anderson, Andrew Adams, Karima Ma, Tian Jin, Tzu-Mao Li, Jonathan Ragan-Kelley
+Proceedings of the ACM on Programming Languages (OOPSLA 2021)
+ 
+Guided Optimization for Image Processing Pipelines
+Yuka Ikarashi, Jonathan Ragan-Kelley, Tsukasa Fukusato, Jun Kato, Takeo Igarashi
+IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC 2021)
+ 
+Getting to the point. Index sets and parallelism-preserving autodiff for pointful array programming
+Adam Paszke, Daniel Johnson, David Duvenaud, Dimitrios Vytiniotis, Alexey Radul, Matthew Johnson, Jonathan Ragan-Kelley, Dougal Maclaurin
+Proceedings of the ACM on Programming Languages (ICFP 2021)
+ 
+Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration
+Hasan Genc, Seah Kim, Alon Amid, Ameer Haj-Ali, Vighnesh Iyer, Pranav Prakash, Jerry Zhao, Daniel Grubb, Harrison Liew, Howard Mao, Albert Ou, Colin Schmidt, Samuel Steffl, John Wright, Ion Stoica, Jonathan Ragan-Kelley, Krste Asanovic, Borivoje Nikolic, Yakun Sophia Shao
+Proceedings of the 58th Annual Design Automation Conference (DAC 2021)
+ 
+Systematically Differentiating Parametric Discontinuities
+Sai Praveen Bangaru*, Jesse Michel*, Kevin Mu, Gilbert Bernstein, Tzu-Mao Li, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proc. SIGGRAPH 2021)
+ 
+Differentiable Vector Graphics Rasterization for Editing and Learning
+Tzu-Mao Li, Michal Lukáč, Michaël Gharbi, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2020)
+ 
+Neural Kernels Without Tangents
+Vaishaal Shankar, Alex Fang, Wenshuo Guo, Sara Fridovich-Keil, Ludwig Schmidt, Jonathan Ragan-Kelley, Benjamin Recht
+International Conference on Machine Learning (ICML 2020)
+ 
+DiffTaichi: Differentiable Programming for Physical Simulation
+Yuanming Hu, Luke Anderson, Tzu-Mao Li, Qi Sun, Nathan Carr, Jonathan Ragan-Kelley, Frédo Durand
+International Conference on Learning Representations (ICLR 2020)
+ 
+Automatically Translating Image Processing Libraries to Halide
+Maaz Bin Safeer Ahmad, Jonathan Ragan-Kelley, Alvin Cheung, Shoaib Kamil
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2019)
+ 
+Taichi: A Language for High-Performance Computation on Spatially Sparse Data Structures
+Yuanming Hu, Tzu-Mao Li, Luke Anderson, Jonathan Ragan-Kelley, Frédo Durand
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2019)
+ 
+Learning to Optimize Halide with Tree Search and Random Programs
+Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michaël Gharbi, Benoit Steiner, Steven Johnson, Kayvon Fatahalian, Frédo Durand, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proc. SIGGRAPH 2019)
+ 
+OpenFab: A Programmable Pipeline for Multi-Material Fabrication
+Kiril Vidimče, Szu-Po Wang, Jonathan Ragan-Kelley, Wojciech Matusik
+Communications of the ACM: Research Highlights (September, 2019)
+ 
+Differentiable Programming for Image Processing and Deep Learning in Halide
+Tzu-Mao Li, Michaël Gharbi, Andrew Adams, Frédo Durand, Jonathan Ragan-Kelley
+ACM Transactions on Graphics (Proc. SIGGRAPH 2018)
+ 
+Opt: A Domain Specific Language for Non-linear Least Squares Optimization in Graphics and Imaging
+Zachary DeVito, Michael Mara, Michael Zollhöfer, Gilbert Bernstein, Jonathan Ragan-Kelley, Christian Theobalt, Pat Hanrahan, Matthew Fisher, Matthias Nießner
+ACM Transactions on Graphics (presented at SIGGRAPH 2018)
+ 
+Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines
+Jonathan Ragan-Kelley, Andrew Adams, Dillon Sharlet, Connelly Barnes, Sylvain Paris, Marc Levoy, Saman Amarasinghe, Frédo Durand
+Communications of the ACM: Research Highlights (January, 2018)
+ 
+Programming Heterogeneous Systems from an Image Processing DSL
+Jing Pu, Steven Bell, Xuan Yang, Jeff Setter, Stephen Richardson, Jonathan Ragan-Kelley, Mark Horowitz
+ACM Transactions on Architecture and Code Optimization (TACO), 2017
+ 
+Automatically Scheduling Halide Image Processing Pipelines
+Ravi Teja Mullapudi, Andrew Adams, Dillon Sharlet, Jonathan Ragan-Kelley, Kayvon Fatahalian
+ACM Transactions on Graphics (Proc. SIGGRAPH 2016)
+ 
+ProxImaL: Efficient Image Optimization using Proximal Algorithms
+Felix Heide, Steven Diamond, Matthias Nießner, Jonathan Ragan-Kelley, Wolfgang Heidrich, Gordon Wetzstein
+ACM Transactions on Graphics (Proc. SIGGRAPH 2016)
+ 
+Rigel: Flexible Multi-Rate Image Processing Hardware
+James Hegarty, Ross Daly, Zachary DeVito, Jonathan Ragan-Kelley, Pat Hanrahan
+ACM Transactions on Graphics (Proc. SIGGRAPH 2016)
+ 
+Simit: a Language for Physical Simulation
+Fredrik Kjølstad, Shoaib Kamil, Jonathan Ragan-Kelley, David Levin, Shinjiro Sueda, Desai Chen, Etienne Vouga, Danny Kaufman, Gurtej Kanwar, Wojciech Matusik, Saman Amarasinghe
+ACM Transactions on Graphics (presented at SIGGRAPH 2016)
+ 
+Transform Recipes for Efficient Cloud Photo Enhancement
+Michaël Gharbi, YiChang Shih, Gaurav Chaurasia, Jonathan Ragan-Kelley, Sylvain Paris, Frédo Durand
+ACM Transactions on Graphics 34(6) (Proc. SIGGRAPH Asia 2015)
+ 
+Helium: Lifting High-Performance Stencil Kernels from Stripped x86 Binaries to Halide DSL Code
+Charith Mendis, Jeffrey Bosboom, Kevin Lu, Shoaib Kamil, Jonathan Ragan-Kelley, Qin Zhao, Sylvain Paris, Saman Amarasinghe
+PLDI 2015
+ 
+Compiling High Performance Recursive Filters
+Gaurav Chaurasia, Jonathan Ragan-Kelley, Sylvain Paris, George Drettakis, Frédo Durand
+Proc. High Performance Graphics 2015
+ 
+Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines
+James Hegarty, John Brunhaver, Zachary DeVito, Jonathan Ragan-Kelley, Noy Cohen, Steven Bell, Artem Vasilyev, Mark Horowitz, Pat Hanrahan
+ACM Transactions on Graphics 33(4) (Proc. SIGGRAPH 2014)
+ 
+OpenTuner: An Extensible Framework for Program Autotuning
+Jason Ansel, Shoaib Kamil, Kalyan Veeramachaneni, Jonathan Ragan-Kelley, Jeffrey Bosboom, Una-May O'Reilly, Saman Amarasinghe
+International Conference on Parallel Architectures and Compilation Techniques (PACT 2014)
+ 
+Decoupling Algorithms from the Organization of Computation for High Performance Image Processing
+The design and implementation of the Halide language and compiler
+Ph.D. dissertation, MIT, May 2014
+ 
+OpenFab: A Programmable Pipeline for Multi-Material Fabrication
+Kiril Vidimče, Szu-Po Wang, Jonathan Ragan-Kelley, Wojciech Matusik
+ACM Transactions on Graphics 32(4) (Proc. SIGGRAPH 2013)
+ 
+Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines
+Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe
+PLDI 2013
+ 
+Portable Performance on Heterogeneous Architectures
+Phitchaya Phothilimthana, Jason Ansel, Jonathan Ragan-Kelley, Saman Amarasinghe
+ASPLOS 2013
+ 
+Decoupling Algorithms from Schedules for Easy Optimization of Image Processing Pipelines
+Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, Frédo Durand
+ACM Transactions on Graphics 31(4) (Proc. SIGGRAPH 2012)
+ 
+Decoupled Sampling for Graphics Pipelines
+Jonathan Ragan-Kelley, Jaakko Lehtinen, Jiawen Chen, Michael Doggett, Frédo Durand
+ACM Transactions on Graphics 30(3) (Presented at SIGGRAPH 2011)
+ 
+A Hierarchical Volumetric Shadow Algorithm for Single Scattering
+Ilya Baran, Jiawen Chen, Jonathan Ragan-Kelley, Frédo Durand, Jaakko Lehtinen
+ACM Transactions on Graphics 29(5) (Proc. SIGGRAPH Asia 2010)
+ 
+The Lightspeed Automatic Interactive Lighting Preview System
+Jonathan Ragan-Kelley, Charlie Kilpatrick, Brian Smith, Doug Epps, Paul Green, Christophe Hery, Frédo Durand
+ACM Transactions on Graphics 26(3) (Proc. Siggraph 2007)
+ 
+The Lightspeed Automatic Interactive Lighting Preview System
+Master's thesis, MIT, June 2007
+(William A. Martin award for best S.M. thesis in Computer Science at MIT.)
+@jrk |  jrk | Accessibility
+

@@ -1,0 +1,53 @@
+Professor: Jacob Andreas
+University: Massachusetts Institute of Technology
+URL: https://web.mit.edu/jda/www
+Description: Jacob Andreas
+
+I'm interested in language as a communicative and computational tool. People learn to understand and generate novel utterances from remarkably little data. Having learned language, we use it acquire new concepts and to structure our reasoning. Current machine learning techniques fall short of human abilities in both their capacity to learn language and learn from language about the rest of the world. My research aims to understand the computational foundations of language learning, and to build general-purpose intelligent systems that can communicate effectively with humans and learn from human guidance.
+
+I'm an associate professor at MIT in EECS and CSAIL. I did my PhD work at Berkeley, where I was a member of the Berkeley NLP Group and the Berkeley AI Research Lab. I've also spent time with the Cambridge NLIP Group, and the NLP Group and the (erstwhile) Center for Computational Learning Systems at Columbia.
+
+Prospective students and visitors: please see the contact page below. Read my advising statement if you're considering applying!
+
+Curriculum vitæ, Google scholar, accessibility @ MIT
+
+Lab / Research / Bio / Teaching / Contact
+
+Some current research directions:
+Learning from language
+
+Much of what humans know (and know how to do) comes not from observation, but rich supervision provided in language by skilled teachers. But almost all machine learning research focuses on learning from comparatively low-level demonstrations or interactions. How do we enable more natural and efficient learning from natural language supervision instead?
+
+Papers:
+Deductive closure training (preprint)
+Eliciting human preferences with language models (preprint)
+Learning adaptive planning representations with natural langauge guidance (ICLR 2024)
+Skill induction and planning with latent language (ACL 2022)
+
+
+Automatic interpretation and explanation of learned models
+
+What tools do we need to help humans understand the features and representational strategies that black-box machine learning algorithms discover? To what extent do these strategies reflect abstractions that we already have names for?
+
+Papers:
+What learning algorithm is in-context learning? Investigations with linear models (ICLR 2023)
+Natural language descriptions of deep visual features (ICLR 2022)
+Implicit representations of meaning in neural language models (ACL 2021)
+
+
+Human-like language understanding
+
+Humans learn language much faster—and employ it much more flexibly—than even the most sophisticated language models that exist today. How can we use computational models to understand the algorithms and inductive biases that support human language learning and comprehension? How do we use these to build better language processing systems?
+
+Papers:
+Regularized conventions: equilibrium computation as a model of pragmatic reasoning (NAACL 2024)
+Compositionality as lexical symmetry (ACL 2023)
+Characterizing intrinsic compositionality in transformers with tree projections (ICLR 2023)
+
+
+I'm also interested in trees, graphs, games, and sounds.
+
+Collaboration graph trivia: My Erdős number is at most three (J Andreas to R Kleinberg to L Lovász to P Erdős). My Kevin Bacon number (and consequently my Erdős-Bacon number) remains lamentably undefined, but my Kevin Knight number (it's a thing) is one. I have never starred in a film with Kevin Knight. Noam Chomsky is my great-great-grand-advisor (J Andreas to D Klein to C Manning to J Bresnan to N Chomsky).
+
+Photo: Gretchen Ertl / MIT CSAIL
+

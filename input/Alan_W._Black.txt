@@ -1,0 +1,497 @@
+Professor: Alan W. Black
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~awb
+Description: 	
+
+Alan W Black
+Adjunct Professor
+Language Technologies Institute
+Carnegie Mellon University
+email: awb@cs.cmu.edu
+www: http://www.cs.cmu.edu/~awb
+updated www: http://festvox.org/awb
+
+In June 2022, I retired as a full professor from CMU to move to somewhere with better (i.e. colder) weather. I am no longer taking on students, and although I will continue some of my language technologies activities, I will be concentrating on new open source projects. Updates will eventually be released through my new webpage at http://festvox.org.org/awb.
+
+Research Goals
+Practical implementations of computational theories of speech and language
+Making computer speech synthesis as natural, flexible, and efficient as human speech.
+Current Research Interests
+CMU Wilderness Multilingual Speech Dataset: 650+ Languages: 20 hours of aligned speech per language. map.
+New Parameterization for Emotional Speech a Johns Hopkins University CLSP summer workshop 2011. final report
+The Spoken Dialog Challenge 2011 has started, results from the SDC2010 will be presented at a special session at SLT 2010 .
+The Blizzard Challenge Evaluating corpus-based speech synthesis on common databases. See the call for participation and timeline.
+CMU SPICE Speech Processing - Interactive Creation and Evaluation Toolkit for New Languages: automatically building recognition and synthesis support in new languages.
+Evaluation and Personalization of Synthetic Voices
+TRANSFORM: flexible voice synthesis through articulatory voice transformation
+Speech Synthesis for telling children's stories:
+ESPER Extracting Speaker Information From Children's Stories for Speech Synthesis.
+Let's Go: designing better spoken dialog systems for the elderly and non-natives.
+Speech-to-speech translation: Transtac (Iraqi, Farsi, Pashto and Dari), LASER ACTD (Thai), Babylon (Arabic) and Tongues (Croatian).
+Open source text to speech Flite a small fast run-time synthesis engine. Providing fast resource-light scalable speech synthesis for speech technology applications.
+Bard a story teller program for ebook reading. You can read books, and it can read to you.
+The FestVox project: providing automated methods for building new voices and languages for speech synthesis.
+Finding automatic training techniques to build domain specific synthesis voices to capture individual style, domain and prosodic characteristics.
+The University of Edinburgh's Festival Speech Synthesis System for general multi-lingual text to speech.
+
+Teaching
+Formerly Chair of Undergraduate Program in charge of the Undergraduate Minor in Language Technologies. Now you should contact Carolyn Rose.
+Spring '22: 11-411/11-611: Natural Language Processing.
+TR 3:05pm-4:25pm POS A35 (but remote to start with)
+Spring '22: 11-737: Multilingual Natural Language Processing (remote to start with).
+TR 1:25pm-2:45pm DH 1212 (but remote to start with)
+Spring '22: 11-823: ConLanging: Learning about linguistics and language technologies through construction of artificial languages taught with Lori Levin.
+MW 3:05-4:25pm GHC 5222 (but remove to start with)
+Spring '22: 11-830: Computational Ethics for NLP with Emma Strubell.
+TR 10:10-11:30am REH Singleton.
+Fall '21: 11-492/11-692/18-495: (formerly 18-492) Speech Processing MW(notF) 03:05pm-04:25pm POS146 (in person).
+Fall '19: 11-736: Seminar of Endangered Languages 4:30 GHC 6404.
+Spring '20: 11-754: Speech lab with Alex Rudnicky
+
+Working Group: Siddharth Dalmia, Xinjian Li,
+
+Recent Graduates: S P Kishore, John Kominek, Brian Langner, Joao Miranda, Prasanna Muthukumar, Arthur Toth, Gopala Krishna Anumanchipalli, Alok Parlikar. Pallavi Baljekar, Wang Ling, Sunayana Sitaram, Zhou Yu, Elijah Mayfield, Kevin Lenzo, Sai Krishna Rallabandi, Khyathi Raghavi Chandu, Shruti Palaskar, and Shrimai Prabhumoye.
+
+Slides and audio samples of recent talks I have given.
+
+Other interesting things
+Pictures of Mr Black
+Voice of Mr Black the awb_arctic voices are based on Mr Black.
+Biographical Sketch of Mr Black
+A different type of gadget for telling the time (2010)
+Running Unix on an IBM PC110 palmtop computer (1999)
+Running Unix on a Casio E-105 Palm-sized PC (2000)
+Publications
+Software
+Bard a book reader that can read books to you.
+Flite a small fast run-time speech synthesis engine. Yet another addition to the suite for free software tools and engines for speech synthesis.
+CMU Flite home page
+The Festvox project: documentation, scripts, tools and examples of building new synthetic voices in the Festival Speech Synthesis System. This contains enough basic information, scripts, autolabellers and walkthroughs for an interested person to build a complete new synthetic voice for English and other languages.
+http://festvox.org
+NSW: non-standard words: Standardizing how text is normalized using the techniques developed at the Johns Hopkins University Summer Workshop 1999 project on Normalization of Non-Standard Words
+http://festvox.org/nsw/
+The Festival Speech Synthesis System, is a general purpose text to speech system offering both a development environment for synthesis techniques and a robust multi-lingual text to speech system. Festival offers a Scheme-based interpreter for high-level control of the C++ objects that do most of the real work. Work in Festival is currently concentrated on using statistical language processing techniques for text analysis, e.g. part of speech tagging, tokenization, superficial syntactic parsing etc. See here for demos. A full source distribution for most Unix systems (and Windows), is available for free for commercial and non-commercial use under an X11-type licence.
+Festival home page
+ASTL: This software offers a situation theoretic language which can be used to describe many contemporary semantic theories such as DRT, Dynamic Logic, Montague Grammar and Situation Semantics. It is especially good with donkeys. This is written in Common Lisp, and includes some small examples.
+astl-0.4.tar.gz
+GNU Tools for Minix 386: This (now old code) provided the first ports of gcc, emacs and gdb to the cheap, though not free (at that time), Unix-like system Minix (but does include full sources). Linux was first developed using this compiler. This work has been superseded by the more substantial free Unix systems Linux, FreeBSD, NetBSD and OpenBSD.
+Minix GCC
+MAP-3.1: a morphological analyser and lexicon system. This was developed as part of the UK ALVEY Natural Language Tools project but is now available separately without licence. This is written in Common Lisp and allows users to design, test and use practical lexicons and morphological analysers. It includes a substantial manual for both the non-programmer and programmer who wishes to embed this system in larger natural language systems. A substantial English dictionary (8000 stems) and morphological analyser is included.
+MAP3.1.tar.gz
+Papers
+Alan W Black's Google Scholar page
+[2021]  [2020] 
+[2019]  [2018]  [2017]  [2016]  [2015]  [2014]  [2013]  [2012]  [2011]  [2010] 
+[2009]  [2008]  [2007]  [2006]  [2005]  [2004]  [2003]  [2002]  [2001]  [2000] 
+[1999]  [1998]  [1997]  [1996]  [1995]  [1994]  and [Earlier] 
+
+2021
+
+A Ravichander, AW Black, T Norton, S Wilson, N Sadeh, "Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy", ACL 2021 pdf.
+Xinjian Li, David R. Mortensen, Florian Metze and Alan W Black, "Multilingual Phonetic Dataset for Low Resrouce Speech Recognition", ICASSP 2021 pdf.
+Xinjian Li, Juncheng Li, Jiali Yao, Alan W Black and Florian Metze, "Phone Distribution Estimation for Low Resource Languages", ICASSP 2021 pdf.
+Akshat Gupta, Xinjian Li, SaiKrishna Rallabandi and Alan W Black, "Acoustics based intent recognition using discovered phonetic units for low resrouce languages", ICASSP 2021 pdf.
+Khyathi Chandu, Yonatan Bisk, and Alan W Black, "Grounding 'Grounding' in NLP", Findings of the ACL-IJCNLP 2021, pdf.
+Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan W Black and Yulia Tsvetkov, "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues", ICLR 2021 pdf.
+Sai Muralidhar Jayanthi, Kavya Nerella, Khyathi Raghavi Chandu, Alan W Black, "CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing:, Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching 2021 pdf.
+Akshat Gupta, Sargam Menghani, Sai Krishna Rallabandi and Alan W Black "Unsupervised Self-Training for Sentiment Analysis of Code-Switched Data", Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching 2021 pdf.
+Akshat Gupta, SaiKrishna Rallabandi and Alan W Black, "Task-specific pre-training and cross lingual transfer for code-switched data" Proceedings of the Fifth Workshop on Computational Approaches to Linguistic Code-Switching 2021 pdf.
+Shrimai Prabhumoye, Kazuma Hashimoto, Yingbo Zhou, Alan W Black, Ruslan Salakhutdinov, "Focused Attention Improves Document-Grounded Generation", NAACL 2021 pdf.
+Shrimai Prabhumoye, Brendon Boldt, Ruslan Salakhutdinov, Alan W Black, "Case Study: Deontological Ethics in NLP", NAACL 2021 pdf.
+A Ravichander, S Dalmia, M Ryskina, F Metze, E Hovy, AW Black, "NoiseQA: Challenge Set Evaluation for User-Centric Question Answering", EACL 2021 pdf
+Y Feng, AW Black, M Eskenazi, "Towards Automatic Route Description Unification in Spoken Dialog Systems", SLT 2021 pdf
+Shruti Palaskar, Ruslan Salakhutdinov, Alan W Black, Florian Metze, "Multimodal Speech Summarization Through Semantic Concept Learning", Interspeech 2021, pdf
+Xinjian Li, Juncheng Li, Florian Metze, Alan W Black, "Hierarchical Phone Recognition with Compositional Phonetics", Interspeech 2021, pdf.
+Peter Wu, Jiatong Shi, Yifan Zhong, Shinji Watanabe, Alan W Black, "Cross-Lingual Transfer For Speech Processingusing Acoustic Language Similarity:, ASRU 2021 pdf.
+Akshat Gupta, Olivia Deng, Akruti Kushwaha, Saloni Mittal, William Zeng, Sai Krishna Rallabandi, Alan W Black, "Intent recognition and unsupervised slot identification for low resourced spoken dialog systems" ASRU 2021 pdf.
+Amrith Setlur, Aman Madaan, Tanmay Parekh, Yiming Yang, and Alan W Black, "Towards Using Heterogeneous Relation Graphs for End-to-End TTS", ASRU2021 pdf.
+
+2020
+
+Emily Ahn, Cecilia Jimenez, Yulia Tsvetkov, Alan Black What Code-Switching Strategies are Effective in Dialogue Systems? Proceedings of the Society for Computation in Linguistics 3 (1), 308-318 (pdf)
+E Salesky, E Chodroff, T Pimentel, M Wiesner, AW Black, J Eisner A large-scale corpus for phonetic typology Proceedings of the 58th Annual Meeting for the ACL (pdf)
+Vaibhav Kumar, Alan W Black ClarQ: A large-scale and diverse dataset for Clarification Question Generation Proceedings of the 58th Annual Meeting for the ACL (pdf)
+Mingjun Duan, Carlos Fasola, Sai Krishna Rallabandi, Rodolfo M Vega, Antonios Anastasopoulos, Lori Levin, Alan W Black A Resource for Computational Experiments on Mapudungun LREC 2020 (pdf)
+X Li, S Dalmia, DR Mortensen, J Li, AW Black, F Metze Towards Zero-Shot Learning for Automatic Phonemic Transcription. AAAI, 8261-8268 (pdf)
+Aman Madaan, Amrith Setlur, Tanmay Parekh, Barnabas Poczos, Graham Neubig, Yiming Yang, Ruslan Salakhutdinov, Alan W Black, Shrimai Prabhumoye Politeness transfer: A tag and generate approach ACL 2020 (pdf)
+David R Mortensen, Xinjian Li, Patrick Littell, Alexis Michaud, Shruti Rijhwani, Antonios Anastasopoulos, Alan W Black, Florian Metze, Graham Neubig AlloVera: a multilingual allophone database LREC 2020 (pdf)
+S Prabhumoye, R Salakhutdinov, AW Black Topological Sort for Sentence Ordering ACL 2020 (pdf)
+Khyathi Raghavi Chandu, Alan W Black Style Variation as a Vantage Point for Code-Switching Interpseech 2020 (pdf)
+Xinjian Li, Siddharth Dalmia, Juncheng Li, Matthew Lee, Patrick Littell, Jiali Yao, Antonios Anastasopoulos, David R Mortensen, Graham Neubig, Alan W Black, Florian Metze Universal phone recognition with a multilingual allophone system ICASSP 2020 (pdf)
+Shrimai Prabhumoye, Alan W Black, Ruslan Salakhutdinov Exploring Controllable Text Generation Techniques COLING 2020 (pdf)
+Elizabeth Salesky, Alan W Black Phone Features Improve Speech Translation ACL 2020 (pdf)
+Elijah Mayfield, Alan W Black Should You Fine-Tune BERT for Automated Essay Scoring? Proceedings of the Fifteenth Workshop on Innovative Use of NLP for Building Educational Applications pp 151-162 (pdf)
+Amrith Setlur, Barnabas Poczos, Alan W Black Nonlinear ISA with Auxiliary Variables for Learning Speech Representations Interspeech 2020 (pdf)
+Sopan Khosla, Rishabh Joshi, Ritam Dutt, Alan W Black, Yulia Tsvetkov LTIatCMU at SemEval-2020 Task 11: Incorporating multi-level features for multi-granular propaganda span identification SEMEVAL 2020 (pdf)
+Khyathi Raghavi Chandu, Ruo-Ping Dong, Alan Black Reading Between the Lines: Exploring Infilling in Visual Narratives EMNLP 2020 (pdf)
+Sai Krishna Rallabandi, Alan W Black On detecting code mixing in speech using discrete latent representations First Workshop on Speech Technologies for Code-switching in Multilingual Communities 2020 (pdf)
+Anjana Umapathy, Sharanya Chakravarthy, Alan W Black Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies First Workshop on Speech Technologies for Code-switching in Multilingual Communities 2020 (pdf)
+Tanmay Parekh, Emily Ahn, Yulia Tsvetkov, Alan W Black Understanding Linguistic Accommodation in Code-Switched Human-Machine Dialogues CoNLL 2020 (pdf)
+A Gupta, SK Rallabandi, AW Black Mere account mein kitna balance hai?--On building voice enabled Banking Services for Multilingual Communities First Workshop on Speech Technologies for Code-switching in Multilingual Communities 2020 (pdf)
+Sharanya Chakravarthy, Anjana Umapathy, Alan W Black Detecting Entailment in Code-Mixed Hindi-English Conversations Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020) (pdf)
+
+2019
+
+Abhilasha Ravichander, Alan W Black, Shomir Wilson, Thomas Norton and Norman Sadeh, "Question Answering for Privacy Policies: Combining Computational and Legal Perspectives", EMNLP 2019 pdf.
+E Mayfield, AW Black Analyzing Wikipedia Deletion Debates with a Group Decision-Making Forecast Model Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), 2019 (pdf)
+A Chaudhary, SA Hayati, N Otani, AW Black What A Sunny Day: Toward Emoji-Sensitive Irony Detection W-NUT 2019 (pdf)
+W Du, AW Black Learning to Order Graph Elements with Application to Multilingual Surface Realization Proceedings of the 2nd Workshop on Multilingual Surface Realisation 2019 (pdf)
+IC Etinger, AW Black Formality Style Transfer for Noisy, User-generated Conversations: Extracting Labeled, Parallel Data from Unlabeled Corpora Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019), 11-16 (pdf)
+J Route, S Hillis, IC Etinger, H Zhang, AW Black Multimodal, Multilingual Grapheme-to-Phoneme Conversion for Low-Resource Languages Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource Languages. 2019 (pdf)
+Zhou, Yiheng, He He, Alan W. Black, and Yulia Tsvetkov. "A Dynamic Strategy Coach for Effective Negotiation." In Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue, pp. 367-378. 2019. (pdf)
+Mehri, Shikib, Alan W. Black, and Maxine Eskenazi. "CMU GetGoing: An Understandable and Memorable Dialog System for Seniors." Dialog For Good Workshop on Speech and Language Technology Serving Society, Stockholm, 10 September, 2019 (pdf)
+Du, Wenchao, Louis-Philippe Morency, Jeffrey Cohn, and Alan W. Black. "Bag-of-Acoustic-Words for Mental Health Assessment: A Deep Autoencoding Approach." Interspeech 2019, Graz, Austria. (pdf)
+Steven Hillis, Anushree Prasanna Kumar, Alan W. Black. Unsupervised Phonetic and Word Level Discovery for Speech to Speech Translation for Unwritten Languages Interspeech 2019, Graz, Austria (pdf)
+X Li, Z Zhou, S Dalmia, AW Black, F Metze SANTLR: Speech Annotation Toolkit for Low Resource Languages Show and Tell, Interspeech 2019, Graz, Austria (pdf)
+Peter Wu, SaiKrishna Rallabandi, Alan W. Black, Eric Nyberg Ordinal Triplet Loss: Investigating Sleepiness Detection from Speech Interspeech 2019, Graz Austria. (pdf)
+X Li, S Dalmia, AW Black and F Metze Multilingual Speech Recognition with Corpus Relatedness Sampling Interspeech 2019, Graz Austria. (pdf)
+SaiKrishna Rallabandi, Alan W. Black Variational Attention Using Articulatory Priors for Generating Code Mixed Speech Using Monolingual Corpora Interspeech 2019, Graz Austria. (pdf)
+Ewan Dunbar, Robin Algayres, Julien Karadayi, Mathieu Bernard, Juan Benjumea, Xuan-Nga Cao, Lucie Miskic, Charlotte Dugrain, Lucas Ondel, Alan W. Black, Laurent Besacier, Sakriani Sakti, Emmanuel Dupoux The Zero Resource Speech Challenge 2019: TTS Without T Interspeech 2019, Graz Austria. (pdf)
+Elijah Mayfield, Michael Madaio, Shrimai Prabhumoye, David Gerritsen, Brittany McLaughlin, Ezekiel Dixon-Roman, Alan W Black Equity Beyond Bias in Language Technologies for Education Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications 2019 pp 444-460. (pdf)
+K Chandu, S Prabhumoye, R Salakhutdinov, AW Black "My Way of Telling a Story": Persona based Grounded Story Generation 2019 Proceedings of the Second Workshop on Storytelling, 11-21 (pdf)
+K Kurita, N Vyas, A Pareek, AW Black, Y Tsvetkov Quantifying Social Biases in Contextual Word Representations 1st ACL Workshop on Gender Bias for Natural Language Processing 2019. (pdf)
+P Gupta, VB Kumar, M Bhutani, AW Black WriterForcing: Generating more interesting story endings 2019 Proceedings of the Second Workshop on Storytelling (pdf)
+Du, Wenchao, and Alan W. Black. "Boosting Dialog Response Generation." Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019. (pdf)
+Chandu, Khyathi, Eric Nyberg, and Alan W. Black. "Storyboarding of Recipes: Grounded Contextual Generation." in Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 6040-6046. 2019. (pdf)
+Prabhumoye, Shrimai, Elijah Mayfield, and Alan W. Black. "Principled Frameworks for Evaluating Ethics in NLP Systems." Widening NLP Workshop at ACL 2019 (pdf)
+E Salesky, M Sperber, AW Black Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation ACL 2019 (pdf)
+T Manzini, YC Lim, Y Tsvetkov, AW Black. Black is to criminal as caucasian is to police: Detecting and removing multiclass bias in word embeddings NAACL-HLT 2019 (pdf)
+Wenchao Du and Alan W Black. Top-Down Structurally-Constrained Neural Response Generation with Lexicalized Probabilistic Context-Free Grammar NAACL-HLT 2019 (pdf)
+Alan W Black. CMU Wilderness Multilingual Speech Dataset ICASSP 2019, Brighton, UK. (pdf) dataset
+N Vyas, SK Rallabandi, L Morishetti, E Hovy, AW Black. Learning Disentangled Representation in Latent Stochastic Models: A Case Study with Image Captioning ICASSP 2019, Brighton, UK. (pdf)
+S Dalmia, X Li, AW Black, F Metze. Phoneme Level Language Models for Sequence Based Low Resource ASR ICASSP 2019, Brighton, UK. (pdf)
+Sunayana Sitaram, Khyathi Raghavi Chandu, Sai Krishna Rallabandi, Alan W Black, A Survey of Code-switched Speech and Language Processing, (2019), arXiv preprint arXiv:1904.00784
+
+2018
+
+K Zhou, S Prabhumoye, AW Black A Dataset for Document Grounded Conversations EMNLP 2018 dataset (pdf)
+T Manzini, A Black Towards Improving Intelligibility of Black-Box Speech Synthesizers in Noise International Conference on Speech and Computer, 367-376, 2018 (pdf)
+W Du, AW Black Data Augmentation for Neural Online Chat Response Selection Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd Int'l Workshop on Search-Oriented Conversational AI, pages 52 (pdf)
+S Dalmia, X Li, F Metze, AW Black Domain Robust Feature Extraction for Rapid Low Resource ASR Development SLT 2018, Athens. (pdf)
+Patrick Littell, Tian Tian, Ruochen Xu, Zaid Sheikh, David Mortensen, Lori Levin, Francis Tyers, Hiroaki Hayashi, Graham Horwood, Steve Sloto, Emily Tagtow, Alan Black, Yiming Yang, Teruko Mitamura, Eduard Hovy The ARIEL-CMU situation frame detection pipeline for LoReHLT16: a model translation approach Machine Translation 32 (1-2), 105-126, 2018 (pdf)
+S Prabhumoye, Y Tsvetkov, R Salakhutdinov, AW Black Style transfer through back-translation ACL 2018, Melbourne. (pdf)
+Odette Scharenborg, Laurent Besacier, Alan Black, Mark Hasegawa-Johnson, Florian Metze, Graham Neubig, Sebastian Stueker, Pierre Godard, Markus Mueller, Lucas Ondel, Shruti Palaskar, Philip Arthur, Francesco Ciannella, Mingxing Du, Elin Larsen, Danny Merkx, Rachid Riad, Liming Wang, Emmanuel Dupoux Linguistic unit discovery from multi-modal inputs in unwritten languages: Summary of the "Speaking Rosetta" JSALT 2017 workshop ICASSP 2018 Calgary. (pdf)
+Siddharth Dalmia, Ramon Sanabria, Florian Metze and Alan W Black Sequence-based multi-lingual low resource speech recognition pp 4909-4913, ICASSP 2018 Calgary.
+P Baljekar, SK Rallabandi, AW Black An Investigation of Convolution Attention Based Models for Multilingual Speech Synthesis of Indian Languages Proc. Interspeech 2018, 2474-2478 (pdf)
+SK Rallabandi, B Karki, C Viegas, E Nyberg, AW Black Investigating Utterance Level Representations for Detecting Intent from Acoustics Proc. Interspeech 2018, 516-520 (pdf)
+A Ravichander, AW Black An Empirical Study of Self-Disclosure in Spoken Dialogue Systems SIGdial 2018 (pdf)
+K Lee, T Zhao, AW Black, M Eskenazi DialCrowd: A toolkit for easy dialog system assessment SIGdial 2018 (pdf)
+Khyathi Chandu, Ekaterina Loginova, Vishal Gupta, Josef van Genabith, Guenter Neuman, Manoj Chinnakotla, Eric Nyberg, Alan W Black Code-Mixed Question Answering Challenge: Crowd-sourcing Data and Techniques Proceedings of the Third Workshop on Computational Approaches to Linguistic Code-Switching, 2018 (pdf)
+K Chandu, T Manzini, S Singh, AW Black Language informed modeling of code-switched text Proceedings of the Third Workshop on Computational Approaches to Linguistic Code-Switching, 2018 (pdf)
+SK Rallabandi, S Sitaram, AW Black Automatic Detection of Code-switching Style from Acoustics Proceedings of the Third Workshop on Computational Approaches to Linguist ic Code-Switching, 2018 (pdf)
+P Geetha, K Chandu, AW Black Tackling Code-Switched NER: Participation of CMU Proceedings of the Third Workshop on Computational Approaches to Linguistic Code-Switching, 2018 (pdf)
+
+2017
+
+Ting-Yao Hu, Chirag Raman, Salvador Medina Maza, Liangke Gui, Tadas Baltrusaitis, Robert E. Frederking, Louis-Philippe Morency, Alan W. Black, Maxine Eskenazi: Integrating Verbal and Nonverbal Input into a Dynamic Response Spoken Dialogue System AAAI 2017: 5091-5092 (pdf)
+Shrimai Prabhumoye, Samridhi Choudhary, Evangelia Spiliopoulou, Christopher Bogart, Carolyn Penstein Rose, Alan W Black. "Linguistic Markers of Influence in Informal Interactions" NLP+CSS, ACL 2017 (pdf)
+Odette Scharenborg, Francesco Ciannella, Shruti Palaskar, Alan Black, Florian Metze, Lucas Ondel, Mark Hasegawa-Johnson "Building an ASR System for a Low research Language Through the Adaptation of a High-resource Language ASR System: Preliminary Results" ICNLSSP 2017, Casablanca, Morocco (pdf)
+SaiKrishna Rallabandi, Pallavi Baljekar and Alan W Black. "The CMU System for Blizzard Challenge 2017", Blizzard Workshop,INTERSPEECH 2017, Sweden Aug 2017
+Pallavi Baljekar, SaiKrishna Rallabandi and Alan W Black. "The CMU System for the Blizzard Machine Learning Challenge 2017", ASRU 2017, Okinawa, Japan Dec 2017 (pdf)
+Miguel Varela Ramos, Alan W. Black, Ramon Fernandez Astudillo, Isabel Trancoso, Nuno Fonseca "Segment Level Voice Conversion with Recurrent Neural Networks" Interspeech 2017, Stockholm Sweden (pdf)
+Khyathi Raghavi Chandu, Manoj Kumar Chinnakotla, Alan W Black, and Manish Shrivastava WebShodh: A Code Mixed Factoid Question Answering System for Web International Conference of the Cross-Language Evaluation Forum for European Languages, 2017. (pdf)
+Khyathi Raghavi Chandu, Sai Krishna Rallabandi, Sunayana Sitaram, Alan W Black "Speech Synthesis for Mixed-Language Navigation Instructions" Interspeech 2017, Stockholm, Sweden (pdf)
+SaiKrishna Rallabandi, Alan W Black "On building mixed lingual speech synthesis systems" Interspeech 2017, Stockholm, Sweden (pdf)
+Mark Hasegawa-Johnson, Alan Black, Lucas Ondel, Odette Scharenborg, Francesco Ciannella "Image2speech: Automatically generating audio descriptions of images" ICNLSSP 2017, Casablanca, Morocco (pdf)
+Zhou Yu, Alan W Black and Alexander I. Rudnicky, "Learning Conversational Systems that Interleave Task and Non-Task Content", IJCAI 2017 (pdf)
+
+2016
+
+Zhou Yu, Leah Nicolich-Henkin, Alan W Black, and Alex I Rudnicky. 2016. "A Wizard-of-Oz Study on A Non-Task-Oriented Dialog Systems That Reacts to User Engagement" SIGDIAL 2016 (pdf)
+Leah Nicolich-Henkin, Carolyn Rose and Alan W Black Initiations and Interruptions in a Spoken Dialog System SIGDIAL 2016 (pdf)
+Zhou Yu, Xinrui He, Alan W Black and Alexander I. Rudnicky, "User Engagement Modeling in Virtual Agents Under Different Cultural Contexts", IVA 2016 (pdf)
+Zhou Yu, Ziyu Xu, Alan W Black and Alexander Rudnicky, "Chatbot evaluation and database expansion via crowdsourcing", In Proceedings of the RE-WOCHAT workshop of LREC, 2016 (pdf)
+Zhou Yu, Vikram Ramanarayanan, Robert Mundkowsky, Patrick Lange, Alan Black, Alexei Ivanov, David Suendermann-Oeft, "Multimodal HALEF: An Open-Source Modular Web-Based Multimodal HALEF", IWSDS 2016 (pdf)
+Andrew Wilkinson, Tiancheng Zhao, Alan W. Black: "Deriving Phonetic Transcriptions and Discovering Word Segmentations for Speech-to-Speech Translation in Low-Resource Settings". INTERSPEECH 2016: 3086-3090 (pdf)
+Ran Zhao, Tanmay Sinha, Alan W. Black, Justine Cassell: "Socially-Aware Virtual Agents: Automatically Assessing Dyadic Rapport from Temporal Patterns of Behavior". IVA 2016: 218-233 (pdf)
+Ran Zhao, Tanmay Sinha, Alan W. Black, Justine Cassell: "Automatic Recognition of Conversational Strategies in the Service of a Socially-Aware Dialog System". SIGDIAL Conference 2016: 381-392 (pdf)
+Shinnosuke Takamichi, Tomoki Toda, Alan W Black, Graham Neubig, Sakriani Sakti, Satoshi Nakamura "Postfilters to modify the modulation spectrum for statistical parametric speech synthesis" IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP) Volume 24 Issue 4 Pages755-767 (pdf)
+Pallavi Baljekar and Alan W Black. "Utterance Selection Techniques for TTS Systems using Found Speech", SSW 2016, Sunnyvale, USA Sept 2016 (pdf)
+Sunayana Sitaram, Sai Krishna Rallabandi, Shruti Rijhwani, Alan W Black, "Experiments with Cross-lingual Systems for Synthesis of Code-Mixed Text", Speech Synthesis Workshop 9 (2016), Sunnyvale, USA (pdf)
+Andrew Wilkinson, Alok Parlikar, Sunayana Sitaram, Tim White, Alan W Black, Suresh Bazaj, "Open-Source Consumer-Grade Indic Text To Speech", Speech Synthesis Workshop 9 (2016), Sunnyvale, USA. (pdf)
+Catharine Oertel, Joakim Gustafson, Alan W. Black "Towards Building an Attentive Artificial Listener: On the Perception of Attentiveness in Feedback Utterances" Interspeech 2016 (pdf)
+Catharine Oertel, Jose Lopes, Yu Yu, Kenneth Alberto Funes Mora, Joakim Gustafson, Alan W. Black, Jean-Marc Odobez: "Towards building an attentive artificial listener: on the perception of attentiveness in audio-visual feedback tokens". ICMI 2016 (pdf)
+Catharine Oertel, Joakim Gustafson, Alan W. Black: "On data driven parametric backchannel synthesis for expressing attentiveness in conversational agents". MA3HMI@ICMI 2016 (pdf)
+Alok Parlikar, Sunayana Sitaram, Andrew Wilkinson and Alan W Black, "The Festvox Indic Frontend for Grapheme to Phoneme Conversion", Proceedings of the 3rd Workshop on Indian Language Data: Resources and Evaluation 2016, Portoroz, Slovenia (pdf)
+Yulia Tsvetkov, Sunayana Sitaram, Manaal Faruqui, Guillaume Lample, Patrick Littell, David Mortensen, Alan W Black, Lori Levin and Chris Dyer. "Polyglot Neural Language Models: Case Study in Cross-Lingual Phonetic Representation Learning", Proc. NAACL'16. (pdf)
+Sunayana Sitaram and Alan W Black, "Speech Synthesis of Code Mixed Text", LREC 2016, Portoroz, Slovenia (pdf)
+Wang Ling, Luis Marujo, Chris Dyer, Alan W. Black, Isabel Trancoso: Mining Parallel Corpora from Sina Weibo and Twitter. Computational Linguistics 42(2): 307-343 (2016) (pdf)
+
+2015
+
+Lara J. Martin, Andrew Wilkinson, Sai Sumanth Miryala, Vivian Robison, Alan W. Black: "Utterance classification in speech-to-speech translation for zero-resource languages in the hospital administration domain" ASRU 2015: 303-309 (pdf)
+Sunayana Sitaram, Serena Jeblee and Alan W Black, "Using Acoustics to Improve Pronunciation for Synthesis of Low Resource Languages", Interspeech 2015, Dresden, Germany. (pdf)
+Sunayana Sitaram, Alok Parlikar, Gopala Krishna Anumanchipalli and Alan W Black, "Universal Grapheme-based Speech Synthesis", Interspeech 2015, Dresden, Germany (pdf)
+Justin Chiu, Yajie Miao, Alan W. Black, Alexander I. Rudnicky: "Distributed representation-based spoken word sense induction". INTERSPEECH 2015: 1358-1362 (pdf)
+Tiancheng Zhao, Alan W. Black, Maxine Eskenazi: "An Incremental Turn-Taking Model with Active System Barge-in for Spoken Dialog Systems". SIGDIAL Conference 2015: 42-50 (pdf)
+Pallavi Baljekar, Sunayana Sitaram, Prasannakumar Muthukumar and Alan W Black, "Using Articulatory Features and Inferred Phonological Segments in Zero Resource Speech Processing", Interspeech 2015, Dresden, Germany. (pdf)
+Wang Ling, Tiago Luis, Luis Marujo, Ramon Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W Black, Isabel Trancoso, "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation" EMNLP/CoNLL, Lisbon, Portugal, September 2015 (pdf)
+Wang Ling, Lin Chu-Cheng, Yulia Tsvetkov, Silvio Amir, Ramon Fernandez Astudillo, Chris Dyer, Alan W Black, Isabel Trancoso "Not All Contexts Are Created Equal: Better Word Representations with Variable Attention" EMNLP/CoNLL, Lisbon, Portugal, September 2015 (pdf)
+Luis Marujo, Wang Ling, Isabel Trancoso, Chris Dyer, Alan W Black, Anatole Gershman, David Martins De Matos, Joao Paulo Neto, Jaime Carbonell, "Automatic Keyword Extraction on Twitter" ACL 2015 ,Beijing, China, July 2015 (pdf)
+Wang Ling, Chris Dyer, Alan W Black, Isabel Trancoso, "Two/Too Simple Adaptations of Word2Vec for Syntax Problems" NAACL2015, Denver, USA, June 2015 (pdf)
+Alan W Black and Prasanna Kumar Muthukumar, "Random Forests for Statistical Speech Synthesis" Interspeech 2015, Dresden, Germany. (pdf)
+Shinnosuke Takamichi, Tomoki Toda, Alan W Black, Satoshi Nakamura "Modulation spectrum-constrained trajectory training algorithm for GMM-based voice conversion" ICASSP 2015. (pdf)
+Shinnosuke Takamichi, Tomoki Toda, Alan W Black, Satoshi Nakamura "Parameter generation algorithm considering modulation spectrum for HMM-based speech synthesis" ICASSP 2015 (pdf)
+
+2014
+
+Jason D. Williams, Matthew Henderson, Antoine Raux, Blaise Thomson, Alan W. Black, Deepak Ramachandran: The Dialog State Tracking Challenge Series. AI Magazine 35(4): 121-124 (2014)
+Jianhua Tao, Keikichi Hirose, Keiichi Tokuda, Alan W. Black, Simon King: Introduction to the Issue on Statistical Parametric Speech Synthesis J. Sel. Topics Signal Processing 8(2): 170-172 (2014)
+Wang Ling, Luis Marujo, Chris Dyer, Alan W Black, Isabel Trancoso Crowdsourcing High-Quality Parallel Data Extraction from Twitter Ninth Workshop on Statistical Machine Translation, Baltimore, USA. (pdf)
+Shinnosuke Takamichi, Tomoki Toda, Alan W. Black, Satoshi Nakamura: Modulation spectrum-based post-filter for GMM-based Voice Conversion APSIPA 2014: 1-4
+Shinnosuke Takamichi, Tomoki Toda, Alan W. Black, Satoshi Nakamura: Modified post-filter to recover modulation spectrum for HMM-based speech synthesis GlobalSIP 2014: 547-551
+Prasanna Kumar Muthukumar, Alan W. Black: Automatic discovery of a phonetic inventory for unwritten languages for statistical speech synthesis ICASSP 2014: 2594-2598 (pdf)
+
+2013
+
+Joao Miranda, Joao Paulo da Silva Neto, Alan W. Black: Improved punctuation recovery through combination of multiple speech streams ASRU 2013: 132-137 (pdf)
+Dirk Hovy, Gopala Krishna Anumanchipalli, Alok Parlikar, Caroline Vaughn, Adam C. Lammert, Eduard H. Hovy, Alan W. Black: Analysis and modeling of "focus" in context INTERSPEECH 2013: 402-406 (pdf)
+A Parlikar, AW Black Minimum error rate training for phrasing in speech synthesis Eighth ISCA Workshop on Speech Synthesis (pdf)
+Prasanna Kumar Muthukumar, Alan W Black and H. Timothy Bunnell Optimizations and Fitting Procedures for the Liljencrants-Fant model for Statistical Parametric Speech Synthesis INTERSPEECH 2013: 397-401 (pdf)
+Zhou Yu, David Gerritsen, Amy Ogan, Alan Black and Justine Cassell Automatic Prediction of Friendship via Multi-model Dyadic Features SIGDIAL 2013 (pdf)
+Wang Ling, Guang Xiang, Chris Dyer, Alan W. Black, Isabel Trancoso: Microblogs as Parallel Corpora ACL (1) 2013: 176-186 (pdf)
+Wang Ling, Chris Dyer, Alan W. Black, Isabel Trancoso: Paraphrasing 4 Microblog Normalization. EMNLP 2013: 73-84 (pdf)
+Gopala Krishna Anumanchipalli, Luis C. Oliveira, Alan W. Black: Accent Group modeling for improved prosody in statistical parameteric speech synthesis ICASSP 2013: 6890-6894 (pdf)
+Gopala Krishna Anumanchipalli, Luis C. Oliveira, Alan W. Black: A style capturing approach to F0 transformation in voice conversion ICASSP 2013: 6915-6919 (pdf)
+Joao Miranda, Joao Paulo da Silva Neto, Alan W. Black: Improving ASR by integrating lecture audio and slides ICASSP 2013: 8131-8135 (pdf)
+Sunayana Sitaram, Sukhada Palkar, Yun-Nung Chen, Alok Parlikar, Alan W. Black: Bootstrapping Text-to-Speech for speech processing in languages without an orthography ICASSP 2013: 7992-7996 (pdf)
+
+2012
+
+Anumanchipalli, G., Oliveira, L. and Black A. Intent Transfer in Speech-to-Speech Machine Translation SLT 2012, Miami, FL. (pdf)
+Miranda, J., Neto, J., and Black A. Recovery of acronyms, out-of-lattice words and pronunciations from parallel multilingual speech SLT 2012, Miami, FL. (pdf)
+Palkar, S., Black, A., and Parlikar, A. Text-To-Speech for Languages without an Orthography Coling 2013, Mumbai, India. (pdf)
+Ling, W., Tomeh, N., Ziang, G., Black, A., and Trancoso, I. Improving Relative-Entropy Pruning using Statistical Significance Coling 2013, Mumbai, India. (pdf)
+Anumachipalli, G., Meinedo, H., Bugalho, M., Trancoso, I., Oliveira, L. and Black. A. Text-dependent pathological voice detection Interspeech 2012, Portland, OR. (pdf)
+Bollepalli, B., Black, A., and Prahallad, K. Modeling a Noisy-channel for Voice Conversion Using Articulatory Features Interspeech 2012, Portland, OR. (pdf)
+Prahallad, K., Kumar, N., Keri, V., Rajendran, S., and Black, A. The IIIT-H Indic Speech Databases Interspeech 2012, Portland, OR. (pdf databases)
+Parlikar, A. and Black, A. Modeling Pause-Duration for Style-Specific Speech Synthesis Interspeech 2012, Portland, OR. (pdf)
+Miranda, J., Neto, J. and Black A. Parallel combination of speech streams for improved ASR Interspeech 2012, Portland, OR. (pdf)
+Wang, W., Finkelstein, S., Ogan, A., Black, A., and Cassell, J., "Love ya, jerkface": using Sparse Log-Linear Models to Build Positive (and Impolite) Relationships with Teens SIGdial 2012, Seoul, Korea. (pdf)
+Ling, W., Graca, J., Trancoso, I and Black A. Entropy-based Pruning for Phrase-based Machine Translation EMNLP 2012, Jeju Island, Korea. (pdf)
+Stefan Steidl, Tim Polzehl, H. Timothy Bunnell, Ying Dou, Prasanna Kumar Muthukumar, Daniel Perry, Kishore Prahallad, Callie Vaughn, Alan W. Black, and Florian Metze, Emotion Identification for Evaluation of Synthesized Emotional Speech Speech Prosody 2012, Shanghai, China. (pdf)
+Black, A., Bunnell, T., Dou, Y., Muthukumar, P., Metze, F., Perry, D., Polzehl, T., Prahallad, K., Steidl, S., and Vaughn, C. Articulatory Features for Expressive Speech Synthesis, ICASSP 2012 Kyoto, Japan. (pdf)
+Parlikar, A. and Black, A. Data-driven Phrasing for Speech Synthesis in Low-Resource Languages, ICASSP 2012 Kyoto, Japan. (pdf)
+
+2011
+
+Black, A., Bunnell, T., Dou, Y., Muthukumar, P., Metze, F., Perry, D., Polzehl, T., Prahallad, K., Steidl, S., and Vaughn, C. New Parameterization for Emotional Speech Synthesis: Final Report, CLSP Summer Workshop Johns Hopkins University, 2011. (pdf)
+Ling, W., Calado, P., Martins, B., Trancoso, I., Black, A., and Coheur, L. Named Entity Translation using Anchor Texts, IWSLT 2011, San Francisco, CA. (pdf)
+Ling, W., Graca, J., de Matos, D., Trancoso, I., and Black, A. Discriminative Phrase-based Lexicalized Reordering Models using Weighted Reordering Graphs IJCNLP 2011, pages 47-55, Chiang Mai, Thailand. (pdf)
+Fandrianto, A., Langner, B., and Black, A. Using Speaker ID to Discover Repeat Callers of a Spoken Dialog System, Interspeech 2011, Florence, Italy. (pdf)
+Parlikar, A. and Black, A. A Grammar Based Approach to Style Specific Phrase Prediction, Interspeech 2011, Florence, Italy. (pdf)
+Anumanchipalli, G., Oliveira, L., and Black, A., A Statistical Phrase/Accent Model for Intonation Modeling, Interspeech 2011 , Florence, Italy (pdf)
+Metze, F., Black, A. and Polzehl, T. A Review of Personality in Voice-based Man-Machine Interaction In Proc. Human Computer Interaction (HCI) International, Orlando, FL; USA, July 2011. Springer LNCS. (pdf)
+Black, A., Burger, S., Conkie, A., Hastie, H., Keizer, S., Lemon, O., Merigaud, N., Parent, G., Schubiner, G., Thomson, B., Williams, J., Yu, K., Young, S., and Eskenazi, M. Spoken Dialog Challenge 2010: Comparison of Live and Control Test Results, SIGDial 2011 pp 22-27, Portland Oregon. (pdf)
+Anumanchipalli, G., Prahallad, K., Black, A. Festvox: Tools for Creation and Analysis of Large Speech Corpora. in Proceedings of Very Large Scale Phonetics Research, UPenn, 2011. (pdf)
+
+2010
+
+Black, A., Burger, S., Langner, B., Parent, G., and Eskenazi, M. Spoken Dialog Challenge 2010 Spoken Language Technologies 2010, Berkeley, CA. (pdf)
+Suendermann, D., Hoege, H. and Black, A. Challenges in Speech Synthesis 2010 in Speech Technology: Theory and Applications, eds Chen, F. and Jokinen, K. Springer
+Langner, B., Vogel, S., and Black, A. Evaluating a dialog language generation system: comparing the Mountain System to other NLG approaches Interspeech 2010, Makuhari, Japan. (pdf)
+Parlikar, A., Black, A., and Vogel, S. Improving Speech Synthesis of Machine Translation Output Interspeech 2010, Makuhari, Japan. (pdf)
+Schultz, T. and Black, A. Multilingual Speech Processing -- Rapid Language Adaptation Tools and Techniques Interspeech 2010 Tutorial
+Anumanchipalli, G., Cheng, Y., Fernandez, J., Huang, X., Mao, Q., and Black A. KLATTSTAT: Knowledge-based Parametric Speech Synthesis Speech Synthesis Workshop (SSW7), Japan, 2010. (pdf)
+Anumanchipalli, G., Muthukumar, P., Nallasamy, U., Parlikar, A., Black, A., and Langner, B. Improving Speech Synthesis for Noisy Environments Speech Synthesis Workshop (SSW7), Japan, 2010. (pdf)
+Prahallad, K. and Black, A. Handling Large Audio Files in Audio Books for Building Synthetic Voices Speech Synthesis Workshop (SSW7), Japan, 2010. (pdf)
+Prahallad, K. Raghavendra, V. and Black, A. Learning Speaker-Specific Phrase Breaks for Text-to-Speech Systems Speech Synthesis Workshop (SSW7), Japan, 2010. (pdf)
+Desai, S., Black, A., Yegnanarayana, B. and Prahallad, K. Spectral Mapping Using Artificial Neural Networks for Voice Conversion IEEE Transactions on Audio, Speech and Language Processing, Vol. 18, No. 5, pp. 954-964, July 2010.
+Prahallad, K. Raghavendra, V. and Black, A. Semi-Supervised Learning of Acoustic Driven Prosodic Phrase Breaks for Text-to-Speech Systems 5th International Conference on Speech Prosody (Speech Prosody 2010), Chicago, Illinois, May 2010.
+Anumanchipalli, G. and Black, A. Speech Synthesis under resource-scarce conditions SLTU 2010, Penang, Malaysia, 2010. (pdf)
+Prahallad, K. and Black, A. Segmentation of Monologues in Audio Books for Building Synthetic Voices from Audio Books Accepted as letter for publication in IEEE Transactions on Audio, Speech and Language Processing, 2010
+2009
+Jin, Q., Toth, A., Schultz, T., and Black, A. "Speaker De-identification via Voice Transformation" ASRU 2009, Merano, Italy. (pdf)
+Al-Haj, H., Hsiao, R., Lane, I., Black, A., and Waibel, A. "Pronunciation Modeling for Dialectal Arabic Speech Recognition" ASRU 2009, Merano, Italy. (pdf)
+Gonzalez-Brenes, J., Black, A., and Eskenazi, M. "Describing Spoken Dialogue Systems Differences" IWSDS 2009, Irsee, Germany. (pdf)
+Langner, B., and Black, A. "MOUNTAIN: A Translation-based Approach to Natural Language Generation for Dialog Systems" IWSDS 2009, Irsee, Germany. (pdf)
+Zen, H,. Tokuda, K., and Black, A., "Statistical Parametric Speech Synthesis" Speech Communication, 51(11), pp 1039-1064, November 2009.
+Black, A., and Eskenazi, M., "The Spoken Dialogue Challenge" SIGDIAL 2009, Queen Mary University, London. 2009. (pdf)
+Heiga Zen, Keiichiro Oura, Takashi Nose, Junichi Yamagishi, Shinji Sako, Tomoki Toda, Takashi Masuko, Alan W. Black, Keiichi Tokuda, Recent development of the HMM-based speech synthesis system (HTS) 2009 Asia-Pacific Signal and Information Processing Association (APSIPA), 2009 (pdf)
+Bach, N., Hsiao, R., Eck, M., Charoenpornsawat, P., Vogel, S., Schultz, T., Lane, I., Waibel, A., and Black, A. "Incremental Adaptation of Speech-to-Speech Translation " NAACL-HLT 2009, Boulder, CO, 2009. (pdf)
+Black, A., and Kominek, J., "Optimzing segment label boundaries for statistical speech synthesis" ICASSP 2009, Taipei, Taiwan. 2009. (pdf)
+Desai, S., Veera Raghavendra, E., Yegnanarayana, B., Black, A. and Prahallad, K., "Voice Conversion using Artificial Neural Networks" ICASSP 2009, Taipei, Taiwan. 2009. (pdf)
+Jin, Q., Toth, A., Schultz, T,, Black, A., "Voice Convergin': Speaker De-identification by voice transformation" ICASSP 2009, Taipei, Taiwan. 2009. (pdf)
+2008
+E. Veera Raghavendra, Srinivas Desai, B Yegnanarayana, Alan W Black, Kishore Prahallad Global Syllable Set for Building Speech Synthesis in Indian Languages in Proceedings of IEEE workshop on Spoken Language Technologies, Goa, India, December 2008. (pdf)
+E. Veera Raghavendra, B Yegnanarayana, Alan W Black, Kishore Prahallad Building Sleek Synthesizer for Multi-lingual Screen Reader in Proceedings of Interspeech, Brisbane, Australia, September 2008 (pdf)
+Kominek, J., Badaskar, S., Schultz, T. and Black, A. Improving Speech Systems Built from Very Little Data, Interspeech 2008, Brisbane, Australia. (pdf)
+Toth, A., and Black, A. Incorporating durational modification in voice transformation, Interspeech 2008, Brisbane, Australia. (pdf)
+Eskenazi, M., Black, A., Raux, A. and Langner, B. Let's Go Lab: a platform for evaluation of spoken dialog systems with real world users, Interspeech 2008, Brisbane, Australia. (pdf)
+E. Veera Raghavendra, Srinivas Desai, B Yegnanarayana, Alan W Black, Kishore Prahallad, Blizzard 2008: Experiments on Unit Size for Unit Selection Speech Synthesis in Blizzard Challenge 2008 workshop, Brisbane, Australia, September 2008 (pdf)
+Alan W Black, Christina L. Bennett, John Kominek, Brian Langner, Kishore Prahallad, Arthur Toth CMU Blizzard 2008: Optimally using a large database for unit selection synthesis in Blizzard Challenge 2008 workshop, Brisbane, Australia, September 2008 (pdf)
+Udhyakumar Nallasamy, Alan W Black, Tanja Schultz, Robert Frederking and Jerry Weltman, Speech Translation for Triage of Emergency Phone calls in Minority Languages Speech Translation for Medical and Other Safety-Critical Applications (SLT4MED), International Conference on Computational Linguistics (COLING), Manchester, England, 2008.
+Udhyakumar, N., Black, A. Schultz, T, Frederking, R. NineOneOne: Recognizing and classifying speech for handling minority language emergency calls, LREC 2008 Marakesh, Morocco. (pdf)
+Raux, A., Langner, B., Black, A. and Eskenazi, M. Building Practical Spoken Dialog Systems ACL/HLT 2008 Tutorial, Columbus, Ohio.
+Kominek, J., Schultz, T. and Black, A. Synthesizer voice quality on new languages calibrated with mel-cepstral distorion, SLTU 2008, Hanoi, Vietnam. (pdf)
+Jin, Q., Toth, A., Black, A. and Schultz, T. Is voice transformation a threat to speaker identification?, ICASSP2008, Las Vegas, NV. (pdf)
+Anumanchipalli, G., Prahallad, K. and Black A. (2008) Significance of Early Tagged Contextual Graphemes in Grapheme Based Speech Synthesis and Recognition Systems, ICASSP2008, Las Vegas, NV. (pdf)
+Schultz, T. and Black, A. (2008) Rapid Language Adaptation Tools and Technologies for Multilingual Speech Processing Systems, ICASSP2008, Tutorial.
+Toda, T., Black, A., and Tokuda, K. (2008) Statistical mapping between articulatory movements and acoustic spectrum using a Gaussian mixture model, Speech Communiation, Vol. 50, No. 3, pp. 215-227, Mar. 2008
+2007
+Toda, T., Black, A., and Tokuda, K. (2007) Voice Conversion Based on Maximum-Likelihood Estimation of Spectral Parameter Trajectory IEEE Transations of Audio, Speech and Language Processing, 15(8) pp 2222-2236.
+Bach, N., Eck, M, Charoenpornsawat, P., Koehler, T., Stueker, S., Nyugen, T., Hsiao, R., Waibel, A., Schultz, T., and Black, A. (2007) The CMU TransTac 2007 Eyes-free and Hands-free two-way speech-to-speech translation systems IWSLT 2007, Trento, Italy. (pdf)
+Black, A. (2007) Speech Synthesis for Educational Technology SLaTE Workshop on Speech and Language Technology in Education, Farmington, PA. (pdf)
+Prahallad, K., Toth, A. and Black, A. (2007) Automatic Building of Synthetic Voices from Large Multi-Paragraph Speech Databases Interspeech 2007, Antwerp, Belgium. (pdf)
+Langner, B., and Black, A. uGloss: A Framework for Improving Spoken Language Generation Understandability Interspeech 2007, Antwerp, Belgium. (pdf)
+Schultz, T., Black, A., Badaskar, S., Hornyak, M., and Kominek, J. (2007) SPICE: Web-based Tools for Rapid Language Adaptation in Speech Processing Systems Interspeech 2007, Antwerp, Belgium. (pdf)
+Black, A., Bennett, C., Blanchard, B., Kominek, J., Langner, B.. Prahallad, K., Toth, A. (2007). CMU Blizzard 2007: a hybrid acoustic unit selection system from statistically predicted parameters Blizzard Challenge 2007 Workshop, Bonn, Germany. (pdf)
+Langner, B., and Black A. (2007), Understandable Production of Massive Synthesis, ISCA SSW6, Bonn Germany. (pdf)
+Kominek, J., Schultz, T., and Black. A. (2007) Voice Building from Insufficient Data - Classroom Experiences with Web-Based Language Development Tools, ISCA SSW6, Bonn Germany. (pdf)
+Zen, H., Nose, T., Yamagishi, J., Sako, S., Masuko, T., Black, A., and Tokuda, K. (2007) The HMM-based Speech Synthesis System (HTS) Version 2.0, ISCA SSW6, Bonn Germany. (pdf)
+Raj, A., Sarkar, T., Pammi, S. C., Yuvaraj S., Bansal, M., Prahallad K., and Black, A. (2007) Text Processing for Text-to-Speech Systems in Indian Languages, ISCA SSW6, Bonn Germany. (pdf)
+Toth A., and Black A. (2007) Using Articulatory Position Data in Voice Transformation, ISCA SSW6, Bonn Germany. (pdf)
+Kumar R., Gangadharaiah R., Rao S., Prahallad K., Rose C. Black, A. (2007) Building a Better Indian English Voice Using "More Data", ISCA SSW6, Bonn Germany. (pdf)
+Black, A., Zen, H., and Tokuda, K, (2007) Statistical Parametric Synthesis, ICASSP 2007, Hawaii. (pdf)
+
+2006
+
+Bohus, D., Langner, B., Raux, A., Black, A., Eskenazi, M., and Rudnicky, A. (2006), Online Supervised Learning of Non-understanding Recovery Policies, SLT 2006, Aruba.
+Black, A. (2006), CLUSTERGEN: A Statistical Parametric Synthesizer using Trajectory Modeling, Interspeech 2006 - ICSLP, Pittsburgh, PA. (pdf)
+Langner, B., Kumar, R., Chan, A. Gu, L., and Black A. (2006), Generating Time-Constrained Audio Presentations of Structured Information, Interspeech 2006 - ICSLP, Pittsburgh, PA. (pdf)
+Hsiao, R., Venugopal, A., Zhang, Y., Zollman, A., Koehler, T., Charoenpornsawat, P., Vogel, S., Black, A., Schultz, T., and Waibel, A. Optimizing Components for Handheld Two-way Speech Translation for an English Iraqi Arabic system, Interspeech 2006 - ICSLP, Pittsburgh, PA. (pdf)
+Raux, A., Bohus, D., Langner, B., Black, A., and Eskenazi, M. (2006) Doing Research on a Deployed Spoken Dialogue System: One Year of Let's Go! Experience, Interspeech 2006 - ICSLP, Pittsburgh, PA. (pdf)
+Tomokiyo, L., Peterson, K., Black, A., and Lenzo, K. (2006) Intelligibility of Machine Translation Output in Speech Synthesis, Interspeech 2006 - ICSLP, Pittsburgh, PA. (pdf)
+Black, A., Tokuda, K., King, S., Hirai, T., Picheny, M. and Nakamura S.(2005) Blizzard Challenge -- 2006: satellite workshop of Interspeech 2006, Pittsburgh, PA. (papers)
+Bennett, C. and Black, A. (2006), The Blizzard Challenge 2006, Blizzard Challenge 2006, Pittsburgh, PA. (pdf)
+Kominek, J. and Black, A. (2006), The Blizzard Challenge 2006 CMU Entry introducing hybrid trajectory-selection synthesis, Blizzard Challenge 2006, Pittsburgh, PA. (pdf)
+Kominek, J, and Black, A. (2006) Learning Pronunciation Dictionaries: Language Complexity and Word Selection Strategies, Proceedings of the Human Language Technology Conference of the NAACL, pp 232--239, New York City, USA. (pdf).
+Tokuda, K. and Black, A. (2006) The Blizzard Challenge (in Japanese), tutorial paper at Acoustic Society of Japan. (pdf).
+Black, A. (2006) "Multilingual Speech Synthesis" in Multilingual Speech Processing eds Schultz, T. and Kirchhoff, K., Elsevier, Academic Press.
+Huggins-Daines, D., Kumar, M., Chan, A., Mosur, R., Black, A. and Rudnicky, A. (2006) POCKETSPHINX: A Free, Real-Time Continuous Speech Recognition System for Hand-Held Devices ICASSP2006, Toulouse, France (pdf).
+Suendermann, D., Hoege, H., Bonafonte, A., Ney, H., Black, A., and Narayanan, S. (2006) Text-Independent Voice Conversion Based on Unit Selection ICASSP2006, Toulouse, France (pdf).
+Prahallad, K., Black, A. and Mosur, R. (2006) Sub-Phonetic Modeling for Capturing Pronunciation Variation in Conversational Speech Synthesis ICASSP2006, Toulouse, France (pdf).
+Toth, A. and Black, A. (2006) Visual Evaluation of Voice Transformation Based on Knowledge of Speaker ICASSP2006, Toulouse, France (pdf).
+Schultz, T. and Black, A. (2006) Challenges with Rapid Adaptation of Speech Translation Systems to New Language Pairs ICASSP2006, Toulouse, France (pdf).
+Black, A. and Schultz, T. (2006), Speaker Clustering for Multilingual Synthesis , Proceedings of the ISCA Tutorial and Research Workshop on Multilingual Speech and Language Processing, Stellenbosch, South Africa. (pdf)
+Tomokiyo, L., Sisson, C. and Black A. (2006), Mixed-mode Multilinguality in TTS: The Case of Canadian French, Proceedings of the ISCA Tutorial and Research Workshop on Multilingual Speech and Language Processing, Stellenbosch, South Africa. (pdf)
+Schultz, T., Black, A., Vogel, S. and Woszczyna, M. (2006), Flexible Speech-to-Speech Translation Systems IEEE Transactions in Speech and Audio Processing, vol 14 no 2 403-411 March 2006.
+2005
+Langner, B. and Black, A. (2005), Using Speech in Noise to Improve Understandability for Elderly Listeners ASRU 2005, San Juan, Puerto Rico. (pdf)
+Suendermann, D., Hoege H., Bonafonte, A., Ney, H., and Black A. (2005) Residual Prediction Based on Unit Selection ASRU 2005, San Juan, Puerto Rico. (pdf)
+Prahallad K and Black A, (2005) A text to speech interface for Universal Digital Library, Journal of Zhejiang University SCIENCE, vol.6A, no.11, pp. 1229-1234, Oct 2005 (pdf)
+Black, A., and Tokuda, K., (2005) Blizzard Challenge -- 2005: special session at Interspeech 2005, Lisbon Portgal. (papers)
+Black, A., and Tokuda, K., (2005) Blizzard Challenge -- 2005: Evaluating corpus-based speech synthesis on common datasets Interspeech 2005, Lisbon, Portugal. (pdf)
+Toth, A., and Black, A., (2005) Cross-Speaker Articulatory Position Data for Phonetic Feature Prediction Interspeech 2005, Lisbon, Portugal. (pdf)
+Tomokiyo, L., Black, A., and Lenzo, K. (2005) Foreign Accents in Synthesis: Development and Evaluation Interspeech 2005, Lisbon, Portugal. (pdf)
+Raux, A., Langner, B., Bohus, D., Black, A., and Eskenazi, M. (2005) Let's Go Public! Taking a Spoken Dialog System to the Real World Interspeech 2005, Lisbon, Portugal. (pdf)
+Kominek, J. and Black, A (2005) Measuring Unsupervised and Acoustic Clustering through Phoneme Pair Merge-and-Split Tests Interspeech 2005, Lisbon, Portugal. (pdf)
+Suebvisai, S., Charoenpornsawat, P., Black, A., Woszczyna, M., and Schultz, T., (2005) Thai Automatic Speech Recognition, ICASSP, Philadelphia, Pennsylvania. (pdf)
+Langner, B. and Black, A. (2005), Improving the Understandability of Speech Synthesis by Modeling Speech in Noise ICASSP, Philadelphia, Pennsylvania. (pdf)
+Bennett, C. and Black, A., (2005) Prediction of Pronunciation Variations for Speech Synthesis: A Data-driven approach ICASSP, Philadelphia, Pennsylvania. (pdf)
+Toda, T., Black, A., and Tokuda, K. (2005) Spectral Conversion Based on Maximum Likelihood Estimation Considering Global Variance of Converted Parameter ICASSP, Philadelphia, Pennsylvania. (pdf)
+Carbonell, J., Lavie, A., Levin, L., and Black A. (2005) Language Technologies for Humanitarian Aid, in Technology for Humanitarian Action, eds K Cahill, Fordham University Press.
+2004
+Langner, B., Black, A. (2004) An Examination of Speech In Noise and its Effect on Understandability for Natural and Synthetic Speech, Carnegie Mellon University, Language Technologies Institute, Technical Report CMU-LTI-04-187. (pdf)
+Kominek, J., and Black, A. (2004) A Family-of-Models Approach to HMM-based Segmentation for Unit Selection Speech Synthesis, ICSLP2004, Jeju, Korea, (pdf)
+Toda, T., and Black, A., and Tokuda, K. (2004) Acoustic-to-Articulatory Inversion Mapping with Gaussian Mixture Model, ICSLP2004, Jeju, Korea, (pdf)
+Maskey, S., Tomokiyo, L., and Black, A. (2004) Bootstrapping Phonetic Lexicons for New Languages, ICSLP2004, Jeju, Korea, (pdf)
+Harris, T., Bannerjee, S., Rudnicky, A., Sison, J., Bodine, K. and Black, A. (2004) A research platform for multi-agent dialogue dynamics Proceedings of The IEEE International Workshop on Robotics and Human Interactive Communications. (pdf)
+Tokuda, K., Zen, H. and Black, A. (2004) An HMM-based approach to multilingual speech synthesis, in Narayanan, S. and Alwan, A. (eds) "Text to Speech Synthesis: New Paradigms and Advances", Prentice Hall.
+Toda, T., Black, A. and Tokuda, K. (2004) Mapping from Articulatory Movements to Vocal Tract Spectrum with Gaussian Mixture Model for Articulatory Speech Synthesis, pp 31-36, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. (pdf)
+H/Mariam, S., Kishore, S., Black, A., Kumar, R., and Sangal, R. (2004) Unit Selection Voice for Amharic Using Festvox pp 103-107, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. ( pdf )
+Kominek, J. and Black, A. (2004) Impact of durational outlier removal from unit selection catalogs pp 155-160, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. ( pdf )
+Zhang, J., Toth, A., Collins-Thompson, K. and Black A. (2004) Prominence Prediction For Super-Sentential Prosodic Modeling Based On A New Database, pp 203-208, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. ( pdf )
+Kominek, J. and Black, A. (2004) The CMU Arctic speech databases pp 223-224, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. ( pdf )
+Langner, B. and Black, A. (2004) Creating A Database Of Speech In Noise For Unit Selection Synthesis pp 229-230, 5th ISCA Speech Synthesis Workshop, Pittsburgh, PA. (pdf)
+Black, A. and Lenzo, K. (2004) Multilingual Text-to-Speech Synthesis ICASSP 2004, Montreal, Canada. ( pdf )
+Schultz. T., Alexander, D., Black, A., Petersen, K., Suebvisai, S. and Waibel, A. (2004) A Thai Speech Translation System For Medical Dialogs HLT/NAACL 2004, Boston, MA. ( pdf )
+2003
+Raux, A. and Black, A. (2003) A Unit Selection Approach to F0 Modeling and Its Application to Emphasis ASRU 2003, St Thomas, US Virgin Is. ( pdf, )
+Black, A. and Lenzo, K. (2003) Optimal Utterance Selection for Unit Selection Speech Synthesis Databases International Journal of Speech Technology, 6(4):357-363, October 2003, Kluwer Academic Publishers.
+Kishore, S., Black, A., Kumar, R., and Sangal, R. (2003) Experiments with Unit Selection Speech Databases for Indian Languages Presented at National seminar on Language Technology Tools: Implementation of Telugu October 2003, Hyderabad, INDIA ( pdf )
+Kominek, J. and Black, A. (2003) CMU ARCTIC databases for speech synthesis CMU Language Technologies Institute, Tech Report CMU-LTI-03-177 (pdf, data).
+Black, A. (2003) Unit Selection and Emotional Speech, Eurospeech 2003, Geneva, Switzerland. ( pdf, html )
+Mayfield Tomokiyo, L., Black, A. and Lenzo, K. (2003) Arabic in my Hand: Small-footprint Synthesis of Egyptian Arabic, Eurospeech 2003, Geneva, Switzerland. ( pdf, html )
+Kishore, S. and Black, A. (2003) Unit Size in Unit Selection Speech Synthesis, Eurospeech 2003, Geneva, Switzerland. ( pdf, html )
+Raux, A., Langner, B., Black, A. and Eskenazi, M. (2003) LET'S GO: Improving Spoken Dialog Systems for the Elderly and Non-natives, Eurospeech 2003, Geneva, Switzerland. ( pdf, html )
+Zhang, J., Black, A. and Sproat, R. (2003) Identifying Speakers in Children's Stories for Speech Synthesis, Eurospeech 2003, Geneva, Switzerland. ( pdf, html )
+Waibel, A., Badran, A., Black, A., Frederking, R., Gates, D., Lavie, A., Levin, L., Lenzo, K., Mayfield Tomokiyo, L., Reichert, J., Schultz, T., Wallace, D., Woszczyna, M., and Zhang, J. (2003) Speechalator: two-way speech-to-speech translation on a consumer PDA, Eurospeech 2003, Geneva, Switzerland. (pdf, html)
+Bennett, C. and Black, A. (2003) Using Acoustic Models to Choose Pronunciation Variations for Synthetic Voices, Eurospeech 2003, Geneva, Switzerland. (pdf, html)
+Kominek, J., Bennett, C. and Black, A. (2003) Evaluating and Correcting Phoneme Segmentation for Unit Selection Synthesis, Eurospeech 2003, Geneva, Switzerland. (pdf, html)
+Waibel, A., Badran, A., Black, A., Frederking, R., Gates, D., Lavie, A., Levin, L., Lenzo, K., Mayfield Tomokiyo, L., Reichert, J., Schultz, T., Wallace, D., Woszczyna, M., and Zhang, J. (2003) Speechalator: two-way speech-to-speech translation in your hand Demo at HLT-NAACL2003, Edmonton, Canada. ( pdf, html )
+2002
+Black, A. (2002) Perfect Synthesis for all of the people all of the time. Keynote, IEEE TTS Workshop 2002, Santa Monica, CA. ( pdf, html, slides.pdf )
+Black, A. and Font Llitjos, A. (2002) Unit selection without a phoneme set IEEE TTS Workshop 2002, Santa Monica, CA. ( pdf, html )
+Tokuda, K., Zen, H., and Black, A. (2002) An HMM-Based Speech Synthesis System applied to English IEEE TTS Workshop 2002, Santa Monica, CA. ( pdf )
+Black, A., Brown, R., Frederking, R, Lenzo, K. Moody, J, Rudnicky, A., Singh, R., and Steinbrecher, E. (2002) Rapid Development of Speech-to-Speech Translation Systems ICSLP2002, Denver, CO. ( pdf )
+Bennett, C. Font Llitjos, A. Shriver, S., Rudnicky, A. and Black, A. (2002) Building VoiceXML-based applications ICSLP2002, Denver, CO. ( pdf, )
+Tokuda, K., Zen, H., and Black, A. (2002) An HMM-based Approach to English Speech Synthesis Proc. of Autumn Meeting of the Acoustical Society of Japan, 3-10-15, Sep. 2002.
+Lenzo, K. and Black, (2002) Customized synthesis: blending and tiering AVIOS2002, San Jose, CA.
+Frederking, R., Black, A., Brown, R., Rudnicky, A., Moody, J., and Steinbrecher, E. (2002) Speech Translation on a Tight Budget Without Enough Data, ACL-02 Workshop on Speech-to-Speech Translation: Algorithms and Systems, Philadelphia, PA.
+Black, A., Eskenazi, M. and Simmons, R. (2002) Elderly perception of speech from a computer, 143rd Meeting: Acoustical Society of America, Pittsburgh, PA, June 2002. ( slides )
+Font Llitjos, A., and Black, A. (2002) Evaluation and collection of proper name pronunciations online, LREC2002, Las Palmas, Canary Islands. ( pdf )
+Frederking, R., Black, A., Brown, R., Moody, J. and Steinbrecher, E. (2002) Field Testing the Tongues Speech-to-Speech Machine Translation System, LREC2002, Las Palmas, Canary Islands. ( pdf )
+Black, A., Brown, R., Frederking, R., Singh R., Moody, J. and Steinbrecher, E. (2002) TONGUES: Rapid Development of a Speech-to-Speech Translation System, HLT2002, San Diego, California. ( pdf, html )
+2001
+Black, A., Dusterhoff, K., and Taylor, P. (2001) Using the Tilt Intonation Model: A Data-Driven Approach, in Damper, R. (eds) "Data-Driven Techniques in Speech Synthesis", Kluwer, Dordrecht, The Netherlands.
+Font Llitjos, A. and Black, A. (2001) Knowledge of Language Origin Improves Pronunciation Accuracy of Proper Names, Eurospeech 2001, Aalborg, Denmark. (pdf)
+Eskenazi, M. and Black, A. (2001) A study on speech over the telephone and aging, Eurospeech 2001, Aalborg, Denmark. ( pdf, html )
+Black, A. and Lenzo, K. (2001) Optimal Data Selection for Unit Selection Synthesis, pp 63-67, ISCA, 4th Speech Synthesis Workshop, Scotland. ( postscript, html )
+Black, A. and Lenzo, K. (2001) Flite: a small fast run-time synthesis engine, pp 157-162, ISCA, 4th Speech Synthesis Workshop, Scotland. ( pdf, html )
+Sproat, R., Black, A., Chen, S., Kumar, S., Ostendorf, M. and Richards, C. (2001) Normalization of Non-standard Words, Computer Speech and Language 15(3) pp 287-333.
+Taylor, P., Black, A., and Caley, R. (2001) Hetrogeneous Relation Graphs as a Mechanism for Representing Linguistic Information, Speech Communications 33 pp 153-174.
+2000
+Black, A. and Lenzo, K. (2000) Limited Domain Synthesis, ICSLP2000, Beijing, China. ( pdf, html )
+Lenzo, K. and Black, A. (2000) Diphone collection and Synthesis, ICSLP2000, Beijing, China. ( pdf, html )
+Chotimongkol, A. and Black, A. (2000) Statistically trained orthographic to sound models for Thai, ICSLP2000, Beijing, China. ( pdf, html )
+Olinsky, C. and Black, A. (2000) Non-Standard Word and Homograph Resolution for Asian Language Text Analysis, ICSLP2000, Beijing, China. ( pdf, html )
+Shriver, S., Black, A. and Rosenfeld, R. (2000) Audio Signals in Speech Interfaces, ICSLP2000, Beijing, China. ( pdf, html )
+Rudnicky, A., Bennet, T., Black, A., Chotmongkol, A., Lenzo K., Oh, A. and Singh R. (2000) Task and Domain Specific Modelling in the Carnegie Mellon Communicator System, ICSLP2000, Beijing, China. ( pdf, html )
+Rosenfeld, R., Zhu, X., Toth, A., Shriver, S., Lenzo, K. and Black, A. (2000) Towards a Universal Speech Interface, ICSLP2000, Beijing, China. ( pdf, html )
+Black, A. and Lenzo, K. (2000) Building Voices in the Festival Speech Synthesis System, DRAFT (updated 2003) (postscript) (html)
+1999
+Paul Taylor and Alan W Black (1999). Speech Synthesis by Phonological Structure Matching, in Eurospeech99 postscript
+Janet Hitzeman, Alan W. Black, Chris Mellish Jon Oberlander, Massimo Poesio and Paul Taylor (1999). An Annotation Scheme for Concept-to-Speech Synthesis, in Proceedings of the European Workshop on Natural Language Generation, pp. 59-66. postscript
+Kurt E. Dusterhoff, Alan W. Black and Paul A. Taylor (1999). Using Decision Trees within the Tilt Intonation Model to Predict F0 Contours, in Eurospeech 99 postscript
+1998
+Black, A., Lenzo, K. and Pagel, V. (1998) Issues in Building General Letter to Sound Rules (pdf, html) 3rd ESCA Workshop on Speech Synthesis, pp. 77-80, Jenolan Caves, Australia,
+Syrdal, A., Moehler, G., Dusterhoff, K., Conkie, A, and Black, A. (1998) Three Methods of Intonation Modeling , 3rd ESCA Workshop on Speech Synthesis, pp. 305-310, Jenolan Caves, Australia, pdf
+Taylor, P., Black, A. and Caley, R. (1998) The architecture of the Festival Speech Synthesis System, (pdf, html) 3rd ESCA Workshop on Speech Synthesis, pp. 147-151, Jenolan Caves, Australia,
+Hitzeman, J., Black, A., Mellish, C., Oberlander, J. and Taylor, P. (1998) On the Use of Automatically Generated Discourse-level Information in a Concept-to-Speech Synthesis System (pdf) ICSLP98 vol 6 pp 2763-2768, Syndey, Australia.
+Pagel, V., Lenzo, K. and Black, A. (1998) Letter to sound rules for accented lexicon compression (pdf) ICSLP98, vol 5 pp 2015-2020, Syndey, Australia
+Sproat, R., Hunt, A., Ostendorf, M., Taylor, P., Black, A., Lenzo, K. and Edgington, M. (1998) SABLE: A standard for TTS markup (pdf) ICSLP98, vol 5, pp 1719-1724, Syndey, Australia, also in 3rd ESCA Workshop on Speech Synthesis, pp. 27-30, Jenolan Caves, Australia,
+Taylor, P. and Black, A. (1998). Assigning Phrase Breaks from part-of-speech Sequences (pdf, html) Computer Speech and Language 12, 99-117.
+1997
+Black, A. and Taylor, P. (1997). Assigning Phrase Breaks from Part-of-Speech Sequences (pdf, html) Proceedings of Eurospeech 97, vol2 pp 995-998, Rhodes, Greece.
+Black, A. and Taylor, P. (1997). Automatically clustering similar units for unit selection in speech synthesis (pdf, html) Proceedings of Eurospeech 97, vol2 pp 601-604, Rhodes, Greece.
+Dusterhoff, K. and Black, A. (1997). Generating F0 contours for speech synthesis using the Tilt intonation theory (postscript, html) Proceedings of ESCA Workshop of Intonation, pp 107-110, September, Athens, Greece.
+Black, A. and Taylor, P. (1997). Festival Speech Synthesis System: system documentation (1.1.1) Human Communication Research Centre Technical Report HCRC/TR-83.
+1996
+Black, A. and Hunt, A. (1996). Generating FO contours from ToBI labels using linear regression Proceedings of ICSLP 96, vol 3, pp 1385-1388, Philadelphia, Penn.
+Campbell, N and Black, A. (1996). CHATR: a multi-lingual speech re-sequencing synthesis system (In Japanese) Institute of Electronic, Information and Communication Engineers, Spring Meeting, Tokyo SP-96-07,
+Hunt, A. and Black, A. (1996). Unit selection in a concatenative speech synthesis system using a large speech database Proceedings of ICASSP 96, vol 1, pp 373-376, Atlanta, Georgia. (pdf)
+Campbell, N. and Black, A. (1996) Prosody and the Selection of Source Units for Concatenative Synthesis, in "Progress in speech synthesis", eds J. van Santen, R Sproat, J Olive and J. Hirschberg, pp 279-282, Springer Verlag.
+1995
+Black, A. and Campbell, N. (1995). Optimising selection of units from speech databases for concatenative synthesis Eurospeech 95 vol 1, pp 581-584, Madrid, Spain.
+Black, A. and Campbell, N. (1995) Predicting the intonation of discourse segments from examples in dialogue speech, (Short version) ESCA workshop on spoken dialogue systems, Denmark.
+Black, A. (1995) Predicting the intonation of discourse segments from examples in dialogue speech, ATR Workshop on Computational modeling of prosody for spontaneous speech processing. ATR, Japan. Republished in "Computing Prosody," eds. Y. Sagisaka, N. Campbell and N. Higuchi, Springer Verlag, 1997.
+Black, A. (1995) Comparison of algorithms for predicting accent placement in English speech synthesis Spring meeting of the Acoustical Society of Japan.
+1994
+Black, A. and Taylor, P. (1994) Assigning intonation elements and prosodic phrasing for English speech synthesis from high level linguistic input, ICSLP94, Yokohama, Japan.
+Taylor, P. and Black, A. (1994) Synthesizing Conversational Intonation from a Linguistically Rich Input, Proc. ESCA Workshop on Speech Synthesis, Mohonk, NY.
+Black, A. and Taylor, P. (1994) CHATR: a generic speech synthesis system, COLING94, II pp 983-986, Kyoto, Japan.
+Black, A. and Taylor, P. (1994) A framework for generating prosody from high level linguistic descriptions, Spring meeting of the Acoustical Society of Japan.
+Computational Semantics
+Black, A. (1993) Some different approaches to DRT, DYANA-II deliverable, R3.2.
+Black, A. (1993), Using Situation Theory in a computational language for natural language processing, 4th Natural Language Understanding and Logic Programming Conference, Nara, Japan.
+Black, A. (1993) A situation theoretic approach to computational semantics, PhD Thesis, Dept of AI, University of Edinburgh.
+Black, A. (1993), Using a computational situation theoretic language to investigate contemporary semantic formalisms, Schloss Dagstuhl Seminar IBFI, report 57.
+Black, A. (1992) Embedding DRT in a Situation Theoretic Framework, pp 1116-1120, COLING92, Nantes, France.
+Language Modelling in Speech Recognition
+Foster J, Matheson C, and Black A. (1990) Modelling Linguistic Constraints for Continuous Speech Recognition Using Context Free Phrase Structure Grammar, VERBA 90, International Conference on Speech Technologies, Rome.
+Black, A. (1989) Finite State Machines from Feature Grammars, pp 277-285, International Workshop on Parsing Technologies, Carnegie Mellon University, Pittsburgh, PA.
+Lexicons and Morphology
+Ritchie G, Russell G, Black A and Pulman S. (1992) Computational Morphology: practical mechanisms for the English Lexicon, MIT Press, Cambridge, Mass.
+Black A, van de Plassche J, Williams B. (1991) Analysis of Unknown Words through Morphological Decomposition, pp 101-106, 5th Conference of the European Chapter of the Association for Computational Linguistics, Berlin, Germany.
+Black A. (1990) A computational description of Japanese morphology, unpublished manuscript, Dept of AI, University of Edinburgh.
+Pulman S, Russell G, Ritchie G and Black A. (1988) Computational Morphology of English, Linguistics Volume 26-4:545-560.
+Black A, Ritchie G, Pulman S, and Russell G. (1987) Formalisms for Morphographemic Description, pp 11-18, Proceedings of 3rd Conference of the European Chapter of the Association for Computational Linguistics. Copenhagen, Denmark.
+Ritchie G, Pulman S, Black A and Russell G. (1987) A Computational Framework for Lexical Description, Journal of Computational Linguistics, 13,3-4:290-307.
+Russell G, Pulman S, Ritchie G, and Black A. (1986) Dictionary and Morphological Analyser for English., pp 277-279, Proceedings of the 11th International Conference on Computational Linguistics. Bonn, West Germany.
+Others
+Black A. (1986) Formal properties of feature grammars, unpublished paper, Dept of AI, University of Edinburgh.
+Black A. (1986) VLSI Design for Context-free Grammar Parsing, Master's Thesis, Dept of AI, University of Edinburgh.
+Black A (1984) A Knowledge Based System for Wood Anatomy and Usage Correlation, Final year dissertation, Dept of Computer Science, Coventry (Lanchester) Polytechnic.
+Black A (1984) Complexity Theory and NP-Completeness Dept of Computer Science, Coventry (Lanchester) Polytechnic.
+

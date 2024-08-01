@@ -1,0 +1,498 @@
+Professor: Mohit Iyyer
+University: University of Massachusetts Amherst
+URL: https://cs.umd.edu/~miyyer
+Description: MOHIT IYYER
+MIYYER@CS.UMASS.EDU // CV // SCHOLAR // GITHUB // TWITTER
+
+
+
+I am an associate professor in computer science at UMass Amherst and a member of UMass NLP. Previously, I was a Young Investigator at AI2; before that, I completed my PhD at the University of Maryland, College Park, advised by Jordan Boyd-Graber and Hal Daumé III. My research interests lie broadly in natural language processing and machine learning. Problems that I'm currently excited about include:
+
+
+(1) Improving instruction following abilities of large language models for long-form generation
+(2) Designing methods to evaluate long-form & multilingual text (e.g., for factuality and coherence)
+(3) Building collaborative human-LLM systems to help human authors in creative writing tasks
+(4) Increasing robustness of LLM-generated text detectors to attacks (e.g., paraphrasing)
+
+Aug. 2024: keynote at KDD CUP 2024 RAG workshop
+Jul. 2024: papers to appear at COLM 2024 on faithfulness in book summarization and image reproduction via multimodal LLMs
+Jul. 2024: keynote at Workshop on Long Context Foundation Models (ICML 2024)
+Jun. 2024: released NoCha, a new long-context LLM benchmark!
+Jun. 2024: talk at Tel Aviv University NLP seminar
+May 2024: papers to appear at ACL 2024 on multi-stage knowledge distillation and ACL Findings on search-augmented LLMs
+Mar. 2024: papers to appear at NAACL 2024 on TopicGPT and at NAACL Findings on grammar error explanation
+Feb. 2024: talk at UChicago / TTIC NLP seminar
+Jan. 2024: paper to appear at ICLR 2024 (oral) on book-length summarization
+Jan. 2024: papers to appear at EACL 2024 on using LLMs to reason over long documents and parameter-efficient LM adaptation
+Dec. 2023: talk at University of Tokyo
+Nov. 2023: our paper on stealing LLM decoding algorithms won a Distinguished Paper award at CCS 2023!
+Nov. 2023: launched litmt.org, a platform for sharing machine-translated world literature
+Nov. 2023: talk at MIT Embodied Intelligence seminar
+Nov. 2023: talk at UPenn CLunch
+Oct. 2023: papers to appear at EMNLP on evaluating retrieval-augmented generation and FActScore; at EMNLP-Findings on video game dialogue generation and LLM-based re-ranking; and WMT on LLMs for literary MT
+Oct. 2023: talk at UMD CLIP colloquium
+Sep. 2023: one paper to appear at NeurIPS 2023 on detecting AI-generated text
+Aug. 2023: spoke about AI and education on two local TV stations (Western Mass News, WWLP)
+Jul. 2023: keynote at Workshop on Retrieval-Enhanced Machine Learning (SIGIR 2023)
+May 2023: our paper on evaluating long-form summarization won an outstanding paper award at EACL 2023!
+May 2023: one paper to appear at ACL 2023 on expert human evaluation of long-form QA
+May 2023: talk at Workshop on Insights from Negative Results in NLP
+Apr. 2023: talk at NYU Text-as-Data series
+Feb. 2023: spoke about ChatGPT on three local TV stations (GBH, WWLP, and Western Mass News)
+Jan. 2023: papers to appear at EACL 2023 (better human evaluation of long-form summarization) and EACL-Findings (crowdsourcing coreference annotations)
+Dec. 2022: talk at IndoML 2022
+Nov. 2022: honored to receive a Samsung AI Researcher of the Year award!
+Oct. 2022: six papers to appear at EMNLP 2022 on decoding with large ranking models, zero-shot cross-lingual summarization, retrieval-augmented LMs, document-level literary translation, and datasets for analyzing Chinese LMs and MT metrics
+Jul. 2022: teaching course on text generation at DeepLearn 2022 Summer School
+May 2022: talk at Baidu Research
+May 2022: preprints on decoding with large ranking models and zero-shot cross-lingual summarization
+Apr. 2022: papers to appear at NAACL 2022 on long-form QA and a long-range LM challenge dataset
+Apr. 2022: talk at UNC Chapel Hill
+Feb. 2022: paper to appear at ACL 2022 on retrieving literary evidence
+Oct. 2021: talk at Cornell AI seminar
+Aug. 2021: six papers to appear at EMNLP 2021 on language generation (evaluation, analysis, and models), few-shot learning, phrase embeddings, and latent tree induction
+Jun. 2021: co-advising the UMass Alexa Prize Taskbot team
+Jun. 2021: talk at Yandex
+Jun. 2021: talk at Cambridge NLP seminar
+May 2021: papers to appear at ACL 2021 (energy-based NMT) and ACL-Findings (modeling clinical notes)
+Mar. 2021: three papers to appear at NAACL 2021 (long-form QA, table embeddings, and simple neural LMs)
+Mar. 2021: got an NSF CAREER award to work on interactive storytelling!
+Feb. 2021: talk at Georgia Tech NLP seminar
+Sep. 2020: four papers to appear at EMNLP 2020 (task transferability, stylistic paraphrasing, interactive story generation, unsupervised parsing)
+Sep. 2020: talk at UMass CICS Computing and Social Justice series
+Sep. 2020: talk at UPenn CLunch
+Jul. 2020: co-organizing the Workshop on Narrative Understanding, Storylines, and Events at ACL 2020
+Jun. 2020: talk at Data Science fwdays'20
+May 2020: ACL 2020 paper on "stupid" attention mechanisms now available!
+Mar. 2020: talk at USC/ISI Boston office
+Jan. 2020: our work on characterizing racial bias in American football was covered in The Undefeated
+Jan. 2020: talk at CMU LTI
+Dec. 2020: paper on stealing BERT-based models to appear at ICLR 2020
+Nov. 2019: talks at Google NYC, NYU
+Oct. 2019: talk at UMass Lowell
+Sep. 2019: talk at IBM QA and semantic parsing workshop
+Aug. 2019: two papers to appear at EMNLP 2019 (bias in sports commentary, unsupervised parsing)
+Jun. 2019: co-organizing the Workshop on Narrative Understanding at NAACL 2019; please consider attending!
+May 2019: three papers to appear at ACL 2019 (question generation, fast decoding, and paragraph embeddings)
+Feb. 2019: two papers to appear at NAACL 2019 (unsupervised parsing, computational literary criticism)
+Nov. 2018: talk at the University of Antwerp
+Nov. 2018: talk at WPI CS Colloquium
+Oct. 2018: talk at UVM Symposium on the Science of Stories
+Aug. 2018: three papers to appear at EMNLP 2018 (QuAC, (un)interpretability, and sentiment reproducibility)
+Jul. 2018: talk at TTIC Language Generation workshop
+Jun. 2018: ELMo won best long paper at NAACL 2018!
+Mar. 2018: talk at USC/ISI NL Seminar
+Feb. 2018: three papers to appear at NAACL 2018 (adversarial paraphrasing, ELMo, and image colorization)
+Feb. 2018: talk at Ursinus College on applications of machine learning to the digital humanities
+Jan. 2018: talk at Indian Institute of Science, Bengaluru
+Oct. 2017: submit your QA system to our human-computer QA competition at NIPS 2017!
+Apr. 2017: COMICS data and code released here!
+Jan. 2017: talk at CU Boulder Stats, Optimization, and Machine Learning seminar
+Nov. 2016: talk at UMass Machine Learning & Friends Lunch
+Nov. 2016: new paper on understanding comic book narratives and characters.
+Nov. 2016: new paper and associated dataset for sequential semantic parsing.
+Jun. 2016: our paper on characterizing fictional relationships won best long paper at NAACL 2016!
+Apr. 2016: we are organizing a workshop at NAACL 2016 on human-computer question answering with great invited speakers and accepted papers!
+May 2015: our quiz bowl robot recently faced off against a team of four Jeopardy champions. Watch the introduction to learn how it works and then check out the actual match! If you're interested, code for the entire system is also available.
+
+
+GROUP
+Yapei Chang
+Marzena Karpinska (postdoc)
+Yekyung Kim
+Chau Pham
+Rishanth Rajendhran
+Jenna Russell
+Yixiao Song (w/ Rajesh Bhatt)
+Katherine Thai
+Shufan Wang
+
+Former PhD students:
+Tu Vu (PhD 2023, now Research Scientist @ Google & Asst. Prof @ Virginia Tech)
+Kalpesh Krishna (PhD 2023, now Research Scientist @ Google Bard)
+Simeng Sun (PhD 2024, now Research Scientist @ Nvidia)
+Andrew Drozdov (PhD 2024, co-advised w/ Andrew McCallum, now Research Scientist at Databricks)
+Nader Akoury (PhD 2024, now postdoc at Cornell)
+
+Also see my group's other awesome alumni!
+If you're a prospective PhD student, click here for more info.
+If you're a current undergraduate or MS student at UMass interested in research, click here.
+
+
+
+TEACHING
+Spring 2024: Advanced Natural Language Processing (CS 685)
+Spring 2024: NLP seminar (CS 692L)
+Fall 2023: NLP seminar (CS 692L)
+Spring 2023: Advanced Natural Language Processing (CS 685)
+Spring 2022: Advanced Natural Language Processing (CS 685)
+Fall 2021: Advanced Natural Language Processing (CS 685)
+Fall 2020: Advanced Natural Language Processing (CS 685)
+Fall 2019: Introduction to Natural Language Processing (CS 585)
+Spring 2019: Deep Learning for Natural Language Processing (CS 690D)
+Fall 2018: Introduction to Natural Language Processing (CS 585)
+
+PREPRINTS
+One Thousand and One Pairs: A "novel" challenge for long-context language models
+Marzena Karpinska, Katherine Thai, Kyle Lo, Tanya Goyal, and Mohit Iyyer.
+arXiv 2024
+LEADERBOARD // CODE + SAMPLE DATA // BIBTEX
+VeriScore: Evaluating the factuality of verifiable claims in long-form text generation
+Yixiao Song, Yekyung Kim, and Mohit Iyyer.
+arXiv 2024
+CODE + DATA // BIBTEX
+PostMark: A Robust Blackbox Watermark for Large Language Models
+Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, and Mohit Iyyer.
+arXiv 2024
+CODE + DATA // BIBTEX
+Suri: Multi-constraint Instruction Following for Long-form Text Generation
+Chau Minh Pham, Simeng Sun, and Mohit Iyyer.
+arXiv 2024
+CODE + DATA // BIBTEX
+CaLMQA: Exploring culturally specific long-form question answering across 23 languages
+Shane Arora*, Marzena Karpinska*, Hung-Ting Chen, Ipsita Bhattacharjee, Mohit Iyyer, and Eunsol Choi.
+arXiv 2024
+CODE + DATA // BIBTEX
+Fine-grained Hallucination Detection and Mitigation in Long-form Question Answering
+Rachneet Sachdeva, Yixiao Song, Mohit Iyyer, Iryna Gurevych.
+arXiv 2024
+BIBTEX
+Interactive Topic Models with Optimal Transport
+Garima Dhanania, Sheshera Mysore, Chau Minh Pham, Mohit Iyyer, Hamed Zamani, Andrew McCallum.
+arXiv 2024
+BIBTEX
+Exploring the impact of low-rank adaptation on the performance, efficiency, and regularization of RLHF
+Simeng Sun, Dhawal Gupta, and Mohit Iyyer.
+arXiv 2023
+CODE // BIBTEX
+PUBLICATIONS
+FABLES: Evaluating faithfulness and content selection in book-length summarization
+Yekyung Kim, Yapei Chang, Marzena Karpinska, Aparna Garimella, Varun Manjunatha, Kyle Lo, Tanya Goyal, and Mohit Iyyer.
+COLM 2024
+CODE + DATA // BIBTEX
+Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images
+Ali Naseh, Katherine Thai, Mohit Iyyer, and Amir Houmansadr.
+COLM 2024
+BIBTEX
+Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation
+Jiachen Zhao, Wenlong Zhao, Andrew Drozdov, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, and Andrew McCallum.
+ACL 2024
+BIBTEX
+FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation
+Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, and Thang Luong.
+Findings of ACL 2024
+CODE + DATA // BIBTEX
+TopicGPT: A Prompt-based Topic Modeling Framework
+Chau Minh Pham, Alexander Hoyle, Simeng Sun, Philip Resnik, and Mohit Iyyer.
+NAACL 2024
+CODE // BIBTEX
+GEE! Grammar Error Explanation with Large Language Models
+Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, Kevin Gimpel, and Mohit Iyyer.
+Findings of NAACL 2024
+BIBTEX
+Triage of Messages and Conversations in a Large-Scale Child Victimization Corpus
+Prasanna Lakkur Subramanyam, Mohit Iyyer, and Brian Levine
+ACM The Web Conference 2024 (Web4Good Track)
+BIBTEX
+BooookScore: A systematic exploration of book-length summarization in the era of LLMs
+Yapei Chang, Kyle Lo, Tanya Goyal, and Mohit Iyyer.
+ICLR 2024 (oral)
+CODE // BIBTEX
+PEARL: Prompting Large Language Models to Plan and Execute Actions Over Long Documents
+Simeng Sun, Yang Liu, Shuohang Wang, Chenguang Zhu, and Mohit Iyyer.
+EACL 2024
+CODE // BIBTEX
+How Does In-Context Learning Help Prompt Tuning?
+Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, and Mohit Iyyer.
+Findings of EACL 2024
+BIBTEX
+FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation
+Sewon Min*, Kalpesh Krishna*, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi.
+EMNLP 2023
+CODE + DATA // BIBTEX
+kNN-LM Does Not Improve Open-ended Text Generation
+Shufan Wang, Yixiao Song, Andrew Drozdov, Aparna Garimella, Varun Manjunatha, and Mohit Iyyer.
+EMNLP 2023
+BIBTEX
+Disco Elysium: Exploring Player Perceptions of LLM-Generated Dialogue within a Commercial Video Game
+Nader Akoury and Qian Yang and Mohit Iyyer.
+Findings of EMNLP 2023
+BIBTEX
+PaRaDe: Passage Ranking using Demonstrations with LLMs
+Andrew Drozdov, Honglei Zhuang, Zhuyun Dai, Zhen Qin, Razieh Rahimi, Xuanhui Wang, Dana Alon, Mohit Iyyer, Andrew McCallum, Donald Metzler, and Kai Hui.
+Findings of EMNLP 2023 (short)
+BIBTEX
+Large language models effectively leverage document-level context for literary translation, but critical errors persist
+Marzena Karpinska and Mohit Iyyer.
+WMT 2023
+DATA // BIBTEX
+Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense
+Kalpesh Krishna, Yixiao Song, Marzena Karpinska, John Wieting, and Mohit Iyyer.
+NeurIPS 2023
+CODE + MODEL + DATA // BIBTEX
+A Critical Evaluation of Evaluations for Long-form Question Answering
+Fangyuan Xu*, Yixiao Song*, Mohit Iyyer, and Eunsol Choi.
+ACL 2023
+BIBTEX
+Stealing the Decoding Algorithms of Language Models
+Ali Naseh, Kalpesh Krishna, Mohit Iyyer, and Amir Houmansadr.
+CCS 2023 (distinguished paper)
+BIBTEX
+Towards Grounded Dialogue Generation in Video Game Environments
+Nader Akoury, Ronan Salz, and Mohit Iyyer.
+Workshop on Creative AI Across Modalities @ AAAI 2023
+BIBTEX
+LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization
+Kalpesh Krishna, Erin Bransom, Bailey Kuehl, Mohit Iyyer, Pradeep Dasigi, Arman Cohan, and Kyle Lo.
+EACL 2023 (outstanding paper)
+CODE + DATA // BIBTEX
+ezCoref: Towards Unifying Annotation Guidelines for Coreference Resolution
+Ankita Gupta, Marzena Karpinska, Wenlong Zhao, Kalpesh Krishna, Jack Merullo, Luke Yeh, Mohit Iyyer, and Brendan O'Connor.
+Findings of EACL 2023
+BIBTEX
+RankGen: Improving Text Generation with Large Ranking Models
+Kalpesh Krishna, Yapei Chang, John Wieting, and Mohit Iyyer.
+EMNLP 2022
+CODE // BIBTEX
+Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation
+Tu Vu, Aditya Barua, Brian Lester, Daniel Cer, Mohit Iyyer, and Noah Constant.
+EMNLP 2022
+CODE // BIBTEX
+Exploring Document-Level Literary Machine Translation with Parallel Paragraphs from World Literature
+Katherine Thai*, Marzena Karpinska*, Kalpesh Krishna, William Ray, Moira Inghilleri, John Wieting, and Mohit Iyyer.
+EMNLP 2022
+DATA + CODE // BIBTEX
+SLING: Sino Linguistic Evaluation of Large Language Models
+Yixiao Song, Kalpesh Krishna, Rajesh Bhatt, and Mohit Iyyer.
+EMNLP 2022
+DATA + CODE // BIBTEX
+DEMETR: Diagnosing Evaluation Metrics for Translation
+Marzena Karpinska, Nishant Raj, Katherine Thai, Yixiao Song, Ankita Gupta, and Mohit Iyyer.
+EMNLP 2022
+DATA // BIBTEX
+You can't pick your neighbors, or can you? When and How to Rely on Retrieval in the KNN-LM
+Andrew Drozdov, Shufan Wang, Razieh Rahimi, Andrew McCallum, Hamed Zamani, and Mohit Iyyer.
+Findings of EMNLP 2022
+BIBTEX
+Modeling Exemplification in Long-form Question Answering via Retrieval
+Shufan Wang, Fangyuan Xu, Laure Thompson, Eunsol Choi, and Mohit Iyyer.
+NAACL 2022
+CODE // BIBTEX
+ChapterBreak: A Challenge Dataset for Long-Range Language Models
+Simeng Sun, Katherine Thai, and Mohit Iyyer.
+NAACL 2022 (short)
+DATA + CODE // BIBTEX
+RELiC: Retrieving Evidence for Literary Claims
+Katherine Thai, Yapei Chang, Kalpesh Krishna, and Mohit Iyyer.
+ACL 2022
+PROJECT PAGE (DATA + CODE + LEADERBOARD) // BIBTEX
+How Much Do Modifications to Transformer Language Models Affect Their Ability to Learn Linguistic Knowledge?
+Simeng Sun, Brian Dillon, and Mohit Iyyer.
+Workshop on Insights from Negative Results in NLP @ ACL 2022
+BIBTEX
+Do Long-Range Language Models Actually Use Long-Range Context?
+Simeng Sun, Kalpesh Krishna, Andrew Mattarella-Micke, and Mohit Iyyer.
+EMNLP 2021
+BIBTEX
+STraTA: Self-Training with Task Augmentation for Better Few-shot Learning.
+Tu Vu, Minh-Thang Luong, Quoc Le, Grady Simon, and Mohit Iyyer.
+EMNLP 2021
+BIBTEX
+The Perils of Using Mechanical Turk to Evaluate Open-Ended Text Generation.
+Marzena Karpinska, Nader Akoury, and Mohit Iyyer.
+EMNLP 2021
+BIBTEX
+Phrase-BERT: Improved Phrase Embeddings from BERT with an Application to Corpus Exploration.
+Shufan Wang, Laure Thompson, and Mohit Iyyer.
+EMNLP 2021
+CODE // BIBTEX
+Improved Latent Tree Induction with Distant Supervision via Span Constraints.
+Zhiyang Xu, Andrew Drozdov, Jay Yoon Lee, Tim O'Gorman, Subendhu Rongali, Dylan Finkbeiner, Shilpa Suresh, Mohit Iyyer, and Andrew McCallum.
+EMNLP 2021
+CODE // BIBTEX
+IGA: An Intent-Guided Authoring Assistant.
+Simeng Sun, Wenlong Zhao, Varun Manjunatha, Rajiv Jain, Vlad Morariu, Franck Dernoncourt, Balaji Vasan Srinivasan, and Mohit Iyyer.
+EMNLP 2021
+BIBTEX
+Energy-Based Reranking: Improving Neural Machine Translation Using Energy-Based Models.
+Sumanta Bhattacharyya, Pedram Rooshenas, Subhajit Naskar, Simeng Sun, Mohit Iyyer, and Andrew McCallum.
+ACL 2021
+BIBTEX
+Predicting In-Hospital Mortality by Combining Clinical Notes with Time-Series Data.
+Iman Deznabi, Mohit Iyyer, and Madalina Fiterau.
+Findings of ACL 2021 (short)
+BIBTEX
+WiFiMod: Transformer-based Indoor Human Mobility Modeling using Passive Sensing.
+Amee Trivedi, Kate Silverstein, Emma Strubell, Mohit Iyyer, and Prashant Shenoy.
+ACM COMPASS 2021
+BIBTEX
+Hurdles to Progress in Long-form Question Answering.
+Kalpesh Krishna, Aurko Roy, and Mohit Iyyer.
+NAACL 2021
+CODE // BLOG // BIBTEX
+TABBIE: Pretrained Representations of Tabular Data.
+Hiroshi Iida, June Thai, Varun Manjunatha, and Mohit Iyyer.
+NAACL 2021
+CODE // BIBTEX
+Revisiting Simple Neural Probabilistic Language Models.
+Simeng Sun and Mohit Iyyer.
+NAACL 2021 (short)
+CODE // BIBTEX
+Changing the Mind of Transformers for Topically-Controllable Language Generation.
+Haw-Shiuan Chang, Jiaming Yuan, Mohit Iyyer, and Andrew McCallum.
+EACL 2021
+CODE // BIBTEX
+Weakly-Supervised Open-Retrieval Conversational Question Answering.
+Chen Qu, Liu Yang, Cen Chen, W. Bruce Croft, Kalpesh Krishna, and Mohit Iyyer.
+ECIR 2021
+BIBTEX
+Analyzing Gender Bias within Narrative Tropes.
+Dhruvil Gala, Mohammad Omar Khursheed, Hannah Lerner, Brendan O'Connor, and Mohit Iyyer.
+Workshop on NLP and CSS at EMNLP 2020
+DATA // BIBTEX
+Exploring and Predicting Transferability across NLP Tasks.
+Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji, and Mohit Iyyer.
+EMNLP 2020
+CODE // BIBTEX
+Reformulating Unsupervised Style Transfer as Paraphrase Generation.
+Kalpesh Krishna, John Wieting, and Mohit Iyyer.
+EMNLP 2020
+PROJECT PAGE (CODE + DATA + LIVE DEMO) // BIBTEX
+STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation.
+Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng, and Mohit Iyyer.
+EMNLP 2020
+PROJECT PAGE (DATA + LEADERBOARD) // BIBTEX
+Unsupervised Parsing with S-DIORA: Single Tree Encoding for Deep Inside-Outside Recursive Autoencoders.
+Andrew Drozdov, Subendhu Rongali, Yi-Pei Chen, Tim O'Gorman, Mohit Iyyer, and Andrew McCallum.
+EMNLP 2020
+BIBTEX
+Hard-Coded Gaussian Attention for Neural Machine Translation.
+Weiqiu You*, Simeng Sun*, and Mohit Iyyer.
+ACL 2020
+CODE // BIBTEX
+Open-Retrieval Conversational Question Answering.
+Chen Qu, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft, and Mohit Iyyer.
+SIGIR 2020
+BIBTEX
+Which Evaluations Uncover Sense Representations that Actually Make Sense?
+Fenfei Guo, Jordan Boyd-Graber, Mohit Iyyer, and Leah Findlater.
+LREC 2020
+BIBTEX
+Thieves on Sesame Street! Model Extraction of BERT-based APIs.
+Kalpesh Krishna, Gaurav Singh Tomar, Ankur Parikh, Nicolas Papernot, and Mohit Iyyer.
+ICLR 2020
+CODE // BIBTEX
+Investigating Sports Commentator Bias within a Large Corpus of American Football Broadcasts.
+Jack Merullo*, Luke Yeh*, Abram Handler, Alvin Grissom II, Brendan O'Connor, and Mohit Iyyer.
+EMNLP 2019 (short)
+DATA + CODE // BIBTEX // PRESS: THE UNDEFEATED
+Unsupervised Labeled Parsing with Deep Inside-Outside Recursive Autoencoders.
+Andrew Drozdov, Patrick Verga, Yi-Pei Chen, Mohit Iyyer, and Andrew McCallum.
+EMNLP 2019 (short)
+BIBTEX
+Attentive History Selection for Conversational Question Answering.
+Chen Qu, Liu Yang, Minghui Qiu, Yongfeng Zhang, Cen Chen, W. Bruce Croft, and Mohit Iyyer
+CIKM 2019
+BIBTEX
+Syntactically Supervised Transformers for Faster Neural Machine Translation.
+Nader Akoury, Kalpesh Krishna, and Mohit Iyyer.
+ACL 2019
+CODE + DATA // BIBTEX
+Generating Question-Answer Hierarchies.
+Kalpesh Krishna and Mohit Iyyer.
+ACL 2019
+PROJECT PAGE (CODE + DATA + LIVE DEMO) // BIBTEX
+Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification.
+Tu Vu and Mohit Iyyer.
+ACL 2019 (short)
+CODE // BIBTEX
+Quizbowl: The Case for Incremental Question Answering.
+Pedro Rodriguez, Shi Feng, Mohit Iyyer, He He, and Jordan Boyd-Graber.
+arXiv 2019
+BIBTEX
+BERT with History Modeling for Conversational Question Answering.
+Chen Qu, Liu Yang, Minghui Qiu, W. Bruce Croft, Yongfeng Zhang, and Mohit Iyyer.
+SIGIR 2019 (short)
+CODE // BIBTEX
+Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Auto-Encoders.
+Andrew Drozdov, Patrick Verga, Mohit Yadav, Mohit Iyyer, Andrew McCallum.
+NAACL 2019
+CODE // BIBTEX
+Casting Light on Invisible Cities: Computationally Engaging with Literary Criticism
+Shufan Wang, Mohit Iyyer
+NAACL 2019 (short)
+BIBTEX
+QuAC: Question Answering in Context.
+Eunsol Choi*, He He*, Mohit Iyyer*, Mark Yatskar*, Wen-tau Yih, Yejin Choi, Percy Liang, Luke Zettlemoyer.
+EMNLP 2018
+PROJECT PAGE // DATASHEET // BIBTEX
+Pathologies of Neural Models Make Interpretation Difficult.
+Shi Feng, Eric Wallace, Alvin Grissom II, Mohit Iyyer, Pedro Rodriguez and Jordan Boyd-Graber
+EMNLP 2018
+VIDEO // SLIDES // BIBTEX // PRESS: UMD
+Revisiting the Importance of Encoding Logic Rules in Sentiment Classification.
+Kalpesh Krishna, Preethi Jyothi, Mohit Iyyer
+EMNLP 2018 (short)
+CODE + DATA // VIDEO // BIBTEX
+Adversarial Example Generation with Syntactically Controlled Paraphrase Networks.
+Mohit Iyyer*, John Wieting*, Kevin Gimpel, Luke Zettlemoyer.
+NAACL 2018
+CODE + DATA // VIDEO // BIBTEX
+Deep Contextualized Word Representations.
+Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer.
+NAACL 2018 (best long paper)
+CODE // VIDEO // BIBTEX
+Learning to Color from Language.
+Varun Manjunatha*, Mohit Iyyer*, Jordan Boyd-Graber, Larry Davis.
+NAACL 2018 (short)
+CODE // BIBTEX
+Search-based Neural Structured Learning for Sequential Question Answering.
+Mohit Iyyer, Wen-tau Yih, and Ming-Wei Chang.
+ACL 2017
+CODE // DATA // BIBTEX // PREVIOUS VERSION
+The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives.
+Mohit Iyyer*, Varun Manjunatha*, Anupam Guha, Yogarshi Vyas, Jordan Boyd-Graber, Hal Daumé III, and Larry Davis.
+CVPR 2017 (spotlight)
+CODE + DATA // VIDEO // BIBTEX // PRESS: MIT TECH REVIEW, DIGITAL TRENDS
+Unsupervised Learning of Evolving Relationships Between Literary Characters.
+Snigdha Chaturvedi, Mohit Iyyer, and Hal Daumé III.
+AAAI 2017
+BIBTEX
+Feuding Families and Former Friends: Unsupervised Learning for Dynamic Fictional Relationships.
+Mohit Iyyer, Anupam Guha, Snigdha Chaturvedi, Jordan Boyd-Graber, and Hal Daumé III.
+NAACL 2016 (best long paper)
+CODE + DATA // SUPPLEMENTARY // SLIDES // VIDEO // BIBTEX // PRESS: AEON
+"A Distorted Skull Lies in the Bottom Center..." Identifying Paintings from Text Descriptions.
+Anupam Guha, Mohit Iyyer, and Jordan Boyd-Graber.
+NAACL Human-Computer QA Workshop, 2016
+DATA // BIBTEX
+Ask Me Anything: Dynamic Memory Networks for Natural Language Processing.
+Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, and Richard Socher.
+ICML 2016
+BIBTEX
+Interactive Incremental Question Answering.
+Jordan Boyd-Graber, Mohit Iyyer, He He, and Hal Daumé III.
+NIPS Demonstration Track, 2015 (outstanding demonstration)
+BIBTEX
+Deep Unordered Composition Rivals Syntactic Methods for Text Classification.
+Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, and Hal Daumé III.
+ACL 2015
+CODE + DATA // SLIDES // VIDEO // BIBTEX
+
+Removing the Training Wheels: A Coreference Dataset that Entertains Humans and Challenges Computers.
+Anupam Guha, Mohit Iyyer, Danny Bouman, and Jordan Boyd-Graber.
+NAACL 2015
+CODE + DATA // BIBTEX
+Generating Sentences from Semantic Vector Space Representations.
+Mohit Iyyer, Jordan Boyd-Graber, and Hal Daumé III.
+NIPS Workshop on Learning Semantics, 2014
+BIBTEX
+A Neural Network for Factoid Question Answering over Paragraphs.
+Mohit Iyyer, Jordan Boyd-Graber, Leonardo Claudino, Richard Socher, and Hal Daumé III.
+EMNLP 2014
+CODE + DATA // BIBTEX // PRESS: UMIACS, TERP, DIAMONDBACK, COLORADO CS
+Political Ideology Detection Using Recursive Neural Networks.
+Mohit Iyyer, Peter Enns, Jordan Boyd-Graber, and Philip Resnik.
+ACL 2014
+DATA // BIBTEX
+

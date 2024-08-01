@@ -1,0 +1,328 @@
+Professor: Tatsunori B. Hashimoto
+University: Stanford University
+URL: https://thashim.github.io/
+Description: Tatsunori Hashimoto
+
+Assistant Professor, Stanford
+
+thashim [AT] stanford.edu
+
+  
+
+BIO
+PUBLICATIONS
+RESUME
+Bio
+
+I am currently an assistant professor at the computer science department in Stanford university.
+
+My research uses tools from statistics to make machine learning systems more robust and trustworthy — especially in complex systems such as large language models. The goal of my research is to use robustness and worst-case performance as a lens to understand and make progress on several fundamental challenges in machine learning and natural language processing. A few topics of recent interest are,
+
+Long-tail behavior
+How can we ensure that a machine learning system won't fail catastrophically in the wild under changing conditions?
+Understanding
+A system which understands how to answer questions or generate text should also do so robustly out-of-domain.
+Fairness
+Machine learning systems which rely on unreliable correlations can result in spurious and harmful predictions.
+
+Previously, I was a post-doc at Stanford working for John C. Duchi and Percy Liang on tradeoffs between the average and worst-case performance of machine learning models. Before my post-doc, I was a graduate student at MIT co-advised by Tommi Jaakkola and David Gifford and a undergraduate student at Harvard in statistics and math advised by Edoardo Airoldi.
+
+Advisees
+
+Yu Sun (2023-) Postdoc (w/ Sanmi Koyejo and Carlos Guestrin)
+
+Ian Covert (2023-) Postdoc (w/ James Zou)
+
+Lisa Li (2021-) Graduate Student (w/ Percy Liang)
+
+Tianyi Zhang (2021-) Graduate Student
+
+Yann Dubois (2022-) Graduate Student (w/ Percy Liang)
+
+Neil Band (2023-) Graduate Student (w/ Tengyu Ma)
+
+Nicole Meister (2023-) Graduate Student (w/ Carlos Guestrin)
+
+Zitong Yang (2024-) Graduate Student (w/ Emmanuel Candes)
+
+Chenglei Si (2024-) Graduate Student (w/ Diyi Yang)
+
+Christopher Mohri (2024-) Graduate Student (w/ John Duchi)
+
+Tristan Thrush (2024-) Graduate Student (w/ Chris Potts)
+
+Publications
+
+Most recent publications on Google Scholar.
+
+SELECTED AND RECENT PAPERS ALL STATS+ML NLP COMP BIO
+
+Observational Scaling Laws and the Predictability of Language Model Performance PDF
+
+Yangjun Ruan, Chris J Maddison, Tatsunori Hashimoto
+
+ArXiv preprint
+
+Length-controlled AlpacaEval: A simple way to debias automatic evaluators PDF
+
+Yann Dubois, Balázs Galambosi, Percy Liang, Tatsunori B Hashimoto
+
+ArXiv preprint
+
+Linguistic Calibration of Language Models PDF
+
+Neil Band, Xuechen Li, Tengyu Ma, Tatsunori Hashimoto
+
+International Conference on Machine Learning (ICML 2024)
+
+Language Models with Conformal Factuality Guarantees PDF
+
+Christopher Mohri, Tatsunori Hashimoto
+
+International Conference on Machine Learning (ICML 2024)
+
+Proving test set contamination in black box language models PDF
+
+Yonatan Oren, Nicole Meister, Niladri Chatterji, Faisal Ladhak, Tatsunori B Hashimoto
+
+International Conference on Learning Representations (ICLR 2024)
+
+Benchmarking and improving generator-validator consistency of language models PDF
+
+Xiang Lisa Li, Vaishnavi Shrivastava, Siyan Li, Tatsunori Hashimoto, Percy Liang
+
+International Conference on Learning Representations (ICLR 2024)
+
+Identifying the risks of lm agents with an lm-emulated sandbox PDF
+
+Yangjun Ruan, Honghua Dong, Andrew Wang, Silviu Pitis, Yongchao Zhou, Jimmy Ba, Yann Dubois, Chris J Maddison, Tatsunori Hashimoto
+
+International Conference on Learning Representations (ICLR 2024)
+
+Robust Distortion-free Watermarks for Language Models PDF
+
+Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang
+
+Transactions on Machine Learning Research (TMLR 2024)
+
+Likelihood-Based Diffusion Language Models PDF
+
+Ishaan Gulrajani, Tatsunori B. Hashimoto
+
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback PDF
+
+Yann Dubois, Xuechen Li, Rohan Taori, Tianyi Zhang, Ishaan Gulrajani, Jimmy Ba, Carlos Guestrin, Percy Liang, Tatsunori B Hashimoto
+
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+Whose Opinions Do Language Models Reflect? PDF
+
+Shibani Santurkar, Esin Durmus, Faisal Ladhak, Cinoo Lee, Percy Liang, Tatsunori Hashimoto
+
+International Conference on Machine Learning (ICML 2023, oral)
+
+Data Feedback Loops: Model-driven Amplification of Dataset Biases PDF
+
+Rohan Taori, Tatsunori B Hashimoto
+
+International Conference on Machine Learning (ICML 2023, oral)"
+
+Foundation Models and Fair Use PDF
+
+Peter Henderson, Xuechen Li, Dan Jurafsky, Tatsunori Hashimoto, Mark A Lemley, Percy Liang
+
+Journal of Machine Learning Research (JMLR 2024)
+
+Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models PDF
+
+Kaitlyn Zhou, Dan Jurafsky, Tatsunori Hashimoto
+
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+
+Benchmarking Large Language Models for News Summarization PDF
+
+Tianyi Zhang, Faisal Ladhak, Esin Durmus, Percy Liang, Kathleen McKeown, Tatsunori B Hashimoto
+
+Transactions of the Association of Computational Linguistics (TACL, presented at EMNLP 2023)
+
+Tracing and Removing Data Errors in Natural Language Generation Datasets PDF
+
+Faisal Ladhak, Esin Durmus, Tatsunori Hashimoto
+
+Annual Meeting of the Association of Computational Linguistics (ACL 2023)
+
+Diffusion-LM Improves Controllable Text Generation PDF
+
+Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B Hashimoto
+
+Advances in Neural Information Processing Systems 31 (NeurIPS 2022)
+
+Identifiability Conditions for Domain Adaptation PDF
+
+Ishaan Gulrajani, Tatsunori B Hashimoto
+
+International Conference on Machine Learning (ICML 2022)
+
+Emergent abilities of large language models PDF
+
+Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, William Fedus
+
+Transactions on Machine Learning Research (2022)
+
+Jury learning: Integrating dissenting voices into machine learning models PDF
+
+Mitchell Gordon, Michelle Lam, Joon Park, Kayur Patel, Jeff Hancock, Tatsunori B Hashimoto, Michael Bernstein
+
+Conference on Human Factors in Computing Systems (CHI 2022, Best paper)
+
+Spurious Correlations in Reference-Free Evaluation of Text Generation PDF
+
+Esin Durmus, Faisal Ladhak, Tatsunori B Hashimoto
+
+Annual Meeting of the Association of Computational Linguistics (ACL 2022)
+
+Large Language Models Can Be Strong Differentially Private Learners PDF
+
+Xuechen Li, Florian Tramer, Percy Liang, Tatsunori B Hashimoto
+
+International Conference on Learning Representations (ICLR 2022 Oral)
+
+Is Importance Weighting Incompatible with Interpolating Classifiers? PDF
+
+Ke A Wang, Niladri S Chatterji, Saminul Haque, Tatsunori B Hashimoto
+
+International Conference on Learning Representations (ICLR 2022)
+
+Model Performance Scaling with Multiple Data Sources PDF
+
+Tatsunori B Hashimoto
+
+International Conference on Machine Learning (ICML 2021)
+
+Improved Natural Language Generation via Loss Truncation PDF
+
+Daniel Kang, Tatsunori B Hashimoto
+
+Annual Meeting of the Association of Computational Linguistics (ACL 2020)
+
+Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-case Generalization PDF
+
+Shiori Sagawa*, Pang Wei Koh*, Tatsunori B Hashimoto, Percy Liang
+
+International Conference on Learning Representations (ICLR 2020)
+
+Distributionally Robust Language Modeling PDF
+
+Yonatan Oren*, Shiori Sagawa *, Tatsunori B Hashimoto *, Percy Liang
+
+Empirical Methods in Natural Language Processing (EMNLP 2019)
+
+Distributionally Robust Losses For Latent Covariate Mixtures PDF
+
+John C Duchi, Tatsunori B Hashimoto, Hongseok Namkoong
+
+Operations Research (2022)
+
+Unifying Human and Statistical Evaluation for Natural Language Generation PDF
+
+Tatsunori B Hashimoto*, Hugh Zhang*, Percy Liang
+
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019)
+
+Generating Sentences by Editing Prototypes PDF
+
+Kelvin Guu*, Tatsunori B Hashimoto*, Yonatan Oren, Percy Liang
+
+Transactions of the Association of Computational Linguistics (TACL, presented at ACL 2018)
+
+Fairness Without Demographics in Repeated Loss Minimization PDF
+
+Tatsunori B Hashimoto, Megha Srivastava, Hongseok Namkoong, Percy Liang
+
+Proceedings of the 35th International Conference on Machine Learning (ICML 2018, Best paper runner up)
+
+Word embeddings as metric recovery in semantic spaces PDF
+
+Tatsunori B Hashimoto, David Alvarez-Melis, Tommi S Jaakkola
+
+Transactions of the Association for Computational Linguistics 4 (TACL, presented at ACL 2016)
+
+Metric recovery from directed unweighted graphs PDF
+
+Tatsunori B Hashimoto, Yi Sun, Tommi S Jaakkola
+
+Artificial Intelligence and Statistics (AISTATS 2015), (best poster at NeurIPS 2014 workshop on networks)
+
+Teaching
+
+CS336 (Spring 2024): Language Modeling from Scratch
+
+CS224n (Winter 2024): Natural Language Processing with Deep Learning
+
+CS324 (Winter 2023): Advances in Foundation Models
+
+CS324 (Winter 2022): Large Language Models
+
+CS329D (Fall 2021, Spring 2021): Machine Learning Under Distribution Shifts
+
+CS221 (Winter 2021): Artificial Intelligence: Principles and Techniques
+
+Former Advisees
+
+Esin Durmus (2021-2023) SAIL Postdoc (w/ Dan Jurafsky), now at Anthropic.
+
+Niladri Chatterji (2021-2023) SAIL Postdoc (w/ Percy Liang), now at Meta
+
+Shibani Santurkar (2021-2023) Postdoc (w/ Percy Liang and Tengyu Ma), now at OpenAI.
+
+Daniel Kang (2021-2022) Graduate Student (w/ Matei Zaharia and Peter Bailis), now assistant prof at UIUC.
+
+Ishaan Gulrajani (2021-2022) Graduate Student (on leave), at OpenAI
+
+Xuechen Li (2021-2024) Graduate Student (w/ Carlos Guestrin), now at X.ai
+
+Rohan Taori (2021-2024) Graduate Student, now at Anthropic
+
+Resume
+Stanford CS
+2020 - now
+Assistant professor
+
+Microsoft Semantic Machines
+2019 - 2020
+Researcher
+
+Stanford CS / Statistics
+2016 - 2019
+Postdoc
+Working for Percy Liang + John Duchi
+MIT CSAIL
+2011 - 2016
+Ph.D.
+Advised by Tommi Jaakkola + David Gifford
+RIKEN BSI
+2007 - 2011
+Intern
+Laboratory for neural circuit theory
+Optibrium LTD
+Summer 2010
+Summer Intern
+ML engineer
+Harvard University
+2007 - 2011
+Undergraduate
+Cum laude and departmental honors in Statistics and Math. Advised by Edoardo Airoldi.
+U. Tokyo Institute of Medical Science
+2006 - 2007
+Intern and Translator
+Miyano research lab
+Acknowledgement
+
+This website uses the website design and template by Martin Saveski
+
+Tatsunori Hashimoto
+thashim [AT] stanford.edu
+  
+

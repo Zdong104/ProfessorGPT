@@ -1,0 +1,101 @@
+Professor: Richard G. Baraniuk
+University: Rice University
+URL: http://richb.rice.edu/
+Description: Skip to content
+HOME BIO OPEN ED RESEARCH PEOPLE TALKS TEACHING CONTACT
+DSP PhD Alum Randall Balestriero Accepts Faculty Position at Brown
+
+Rice DSP PhD Randall Balestriero (PhD, 2021) has accepted an assistant professor position at Brown University in the Computer Science Department. Since graduating, he served as a postdoc with Yann LeCun at Meta/FAIR and at GQS, Citadel.
+
+Posted in Uncategorized on May 9, 2024 by jkh6.
+DSP PhD Alum Lorenzo Luzi Accepts Faculty Position at Rice Data2Knowledge (D2K) Lab
+
+Rice DSP PhD and Valedictorian 
+Lorenzo Luzi (PhD, 2024) has accepted an assistant teaching professor position in the Data 2 Knowledge (D2K) Lab and Department of Statistics at Rice University.
+
+Posted in Uncategorized on May 8, 2024 by jkh6.
+Two Papers at ICML 2024
+
+Two DSP group papers have been accepted by the International Conference on Machine Learning (ICML) 2024 in Vienna, Austria
+
+"PIDformer: Transformer Meets Control Theory" by Tam Nguyen, César A. Uribe, Tan M. Nguyen, and Richard Baraniuk
+"Grokking Happens All the Time and Here is Why" by Ahmed Imtiaz Humayun, Randall Balestriero, and Richard Baraniuk
+Posted in Uncategorized on May 2, 2024 by jkh6.
+NSF invests $90M in innovative national scientific cyberinfrastructure for transforming STEM education
+
+The U.S. National Science Foundation announced today a strategic investment of $90 million over five years in SafeInsights, a unique national scientific cyberinfrastructure aimed at transforming learning research and STEM education. Funded through the Mid-Scale Research Infrastructure Level-2 program (Mid-scale RI-2), SafeInsights is led by Prof. Richard Baraniuk at OpenStax at Rice University, who will oversee the implementation and launch of this new research infrastructure project of unprecedented scale and scope.
+
+SafeInsights aims to serve as a central hub, facilitating research coordination and leveraging data across a range of major digital learning platforms that currently serve tens of millions of U.S. learners across education levels and science, technology, engineering and mathematics.
+
+With its controlled and intuitive framework, unique privacy-protecting approach and emphasis on the inclusion of students, educators and researchers from diverse backgrounds, SafeInsights will enable extensive, long-term research on the predictors of effective learning, which are key to academic success and persistence.
+
+Links for more information:
+
+Project website
+NSF press release
+Rice University press release
+Posted in Uncategorized on April 25, 2024 by jkh6.
+Two Papers at ICLR 2023
+
+Two DSP group papers have been accepted by the International Conference on Learning Representations (ICLR) 2024 in Vienna, Austria
+
+"Self-Consuming Generative Models Go MAD" by S. Alemohammad, J. Casco-Rodriguez, L. Luzi, A. I. Humayun, H. Babaei, D. LeJeune, A. Siahkoohi, and R. G. Baraniuk
+"Implicit Neural Representations and the Algebra of Complex Wavelets" by M. Roddenberry, V. Saragadam, M. de Hoop, and R. G. Baraniuk
+Posted in Uncategorized on March 16, 2024 by jkh6.
+Self-Consuming Generative Models Go MAD
+
+Self-Consuming Generative Models Go MAD
+http://arxiv.org/abs/2307.01850
+
+To Appear at ICLR 2024
+
+Sina Alemohammad, Josue Casco-Rodriguez, Lorenzo Luzi, Ahmed Imtiaz Humayun,
+Hossein Babaei, Daniel LeJeune, Ali Siahkoohi, Richard G. Baraniuk
+
+Abstract:  Seismic advances in generative AI algorithms for imagery, text, and other data types has led to the temptation to use synthetic data to train next-generation models. Repeating this process creates an autophagous ("self-consuming") loop whose properties are poorly understood. We conduct a thorough analytical and empirical analysis using state-of-the-art generative image models of three families of autophagous loops that differ in how fixed or fresh real training data is available through the generations of training and in whether the samples from previous-generation models have been biased to trade off data quality versus diversity. Our primary conclusion across all scenarios is that without enough fresh real data in each generation of an autophagous loop, future generative models are doomed to have their quality (precision) or diversity (recall) progressively decrease. We term this condition Model Autophagy Disorder (MAD), making analogy to mad cow disease.
+
+In the news:
+
+"Generative AI Goes 'MAD' When Trained on AI-Created Data Over Five Times," Tom's Hardware, 12 July 2023
+"AI Loses Its Mind After Being Trained on AI-Generated Data," Futurism, 12 July 2023
+"Scientists make AI go crazy by feeding it AI-generated content," TweakTown, 13 July 2023
+"AI models trained on AI-generated data experience Model Autophagy Disorder (MAD) after approximately five training cycles," Multiplatform.AI, 13 July 2023
+"AIs trained on AI-generated images produce glitches and blurs,” NewScientist, 18 July 2023
+"Training AI With Outputs of Generative AI Is Mad" CDOtrends, 19 July 2023
+"When AI Is Trained on AI-Generated Data, Strange Things Start to Happen" Futurism, 1 August 2023
+"Mad AI risks destroying the Information Age" The Telegraph, 1 February 2024
+''AI's 'mad cow disease' problem tramples into earnings season'', Yahoo!finance, 12 April 2024
+"Cesspool of AI crap or smash hit? LinkedIn’s AI-powered Collaborative Articles offer a sobering peek at the future of content'' Fortune, 18 April 2024
+
+In cartoons:
+
+Posted in Uncategorized on July 12, 2023 by jkh6.
+Free textbooks and other open educational resources gain popularity
+
+ 
+
+"Free textbooks and other open educational resources gain popularity," Physics Today 76 (7), 18–21 (2023)
+
+"The prices of college textbooks have skyrocketed: From 2011 to 2018, they went up by 40.6% in the US, according to the Bureau of Labor Statistics’ Consumer Price Index. That can add up to as much as $1000 for a single semester. So it’s no surprise that freely available, openly licensed textbooks, lectures, simulations, problem sets, and more—known collectively as open educational resources (OERs)—are having a moment."
+
+Posted in Uncategorized on July 11, 2023 by jkh6.
+Plenary Talk at IEEE ICASSP 2023
+
+Richard Baraniuk presented the plenary talk "The Local Geometry of Deep Learning" at the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) in Rhodes, Greece in June 2023.
+
+Posted in Uncategorized on June 16, 2023 by jkh6.
+30 Students in 30 Years
+
+Posted in Uncategorized on April 13, 2023 by jkh6.
+Two Papers at CVPR 2023
+
+Two DSP group papers have been accepted by  the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 2023 in Vancouver, Canada
+
+"SplineCam: Exact Visualization of Deep Neural Network Geometry and Decision Boundaries" by Ahmed Imtiaz Humayun, Randall Balestriero, Guha Balakrishnan, and Richard Baraniuk (Highlight paper, 2.5% of all submissions)
+"WIRE: Wavelet Implicit Neural Representations," by Vishwa Saragadam, Daniel LeJeune, Jasper Tan, Guha Balakrishnan, Ashok Veeraraghavan, and Richard Baraniuk
+Posted in Uncategorized on March 21, 2023 by jkh6.
+Post navigation
+← Older posts
+Log in
+Powered by WordPress
+

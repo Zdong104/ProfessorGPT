@@ -1,0 +1,718 @@
+Professor: Noah Snavely
+University: Cornell University
+URL: http://www.cs.cornell.edu/~snavely
+Description: 	
+Noah Snavely
+
+Cornell Tech and Google DeepMind
+Cornell University, Department of Computer Science
+Bloomberg Room 365
+2 West Loop Road
+New York, NY 10044
+
+
+e: snavely@cs.cornell.edu
+
+
+@GitHub  
+Useful Links: Crowdsampling Datasets  Latex Style Guide  Fmatrix Demo  MegaDepth  Landmarks10k & San Francisco Datasets  Scene Chronology  BigSFM
+
+3D Reconstruction Videos: Uris Hall, Cornell  Dubrovnik  Dubrovnik Time-Lapse  Roman Forum  Historic Rome
+
+Postdocs
+
+Yuanbo Xiangli
+
+Ph.D. Students
+
+Ruojin Cai
+Yen-Yu Chang
+Gene Chou
+Haian Jin
+
+
+Alumni
+
+Qianqian Wang (postdoc, Berkeley)
+Wenqi Xian (Netflix Research)
+Kai Zhang (Adobe)
+Hadar Averbuch-Elor (Tel Aviv University)
+Jin Sun (University of Georgia)
+Zhengqi Li (Google Research)
+Paul Upchurch (Apple)
+Scott Wehrwein (Western Washington University)
+Balazs Kovacs (Zoox)
+Sean Bell (Grokstyle)
+Kevin Matzen (Facebook)
+Kyle Wilson (Washington College)
+Daniel Hauagge (Cornell Tech)
+Song Cao (Amazon)
+Chun-Po Wang (Google)
+
+
+Teaching
+Spring '24	CS5670: Computer Vision
+Spring '23	CS5670: Computer Vision
+Spring '22	CS5670: Computer Vision
+Spring '22	CS5670: Computer Vision
+Spring '21	CS5670: Computer Vision
+Spring '20	CS5670: Computer Vision
+Spring '19	CS5670: Computer Vision
+Spring '18	CS5670: Computer Vision
+Spring '17	CS5670: Computer Vision
+Summer '15	CURIE Academy
+Fall '13	CS4670/5670: Intro to Computer Vision
+Spring '13	CS1114: Intro to Computing using Matlab and Robotics
+  About me
+
+Noah is a Professor of Computer Science at Cornell Tech interested in computer vision and computer graphics, and a member of the Cornell Graphics and Vision Group. He also works at Google DeepMind in NYC. His research interests are in computer vision and graphics, in particular in 3D understanding and depiction of scenes from images. Noah is the recipient of a PECASE, a Microsoft New Faculty Fellowship, an Alfred P. Sloan Fellowship, a SIGGRAPH Significant New Researcher Award, and is a Fellow of the ACM.
+
+For a quick overview of my interests, see my TR35 talk. View my CV.
+
+
+  Code and Data
+
+Code: My software can be found on my GitHub page, including the bundler structure from motion toolkit and code for image matching using vocabulary trees. Or visit the bundler homepage for more information.
+
+Datasets: Structure-from-Motion and Location Recognition datasets are now centralized on the BigSFM page.
+
+  Publications
+
+See my Google Scholar page.
+
+  Selected Projects
+			Generative Image Dynamics
+Zhengqi Li, Richard Tucker, Noah Snavely, Aleksander Holynski
+CVPR 2024
+Best Paper Award
+[www, pdf]
+
+	
+
+			NeRFiller
+Ethan Weber, A. Holynski, V. Jampani, S. Saxena, N. Snavely, A. Kar, A. Kanazawa
+CVPR 2024
+[www, pdf, code]
+
+	
+			WonderJourney
+Koven Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, Bill Freeman Forrester Cole, Deqing Sun Noah Snavely, Jiajun Wu, Charles Herrmann
+CVPR 2024
+[www, pdf, code]
+
+
+
+			Tracking Everything Everywhere All at Once
+Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely
+ICCV 2023
+Best Student Paper Award
+[www, pdf, code]
+
+	
+			Doppelgangers
+Ruojin Cai, Joseph Tung, Qianqian Wang, Bharath Hariharan, Hadar Averbuch-Elor, Noah Snavely
+ICCV 2023
+[www, pdf, code]
+
+
+
+			ASIC: Aligning Sparse in-the-wild Image Collections
+Kamal Gupta, V. Jampani, C. Esteves, A. Shrivastava, A. Makadia, N. Snavely, A. Kar
+CVPR 2023
+[www, pdf]
+
+	
+			FactorMatte
+Zeqi Gu, Wenqi Xian, Noah Snavely, Abe Davis
+SIGGRAPH 2023
+[www, pdf, code]
+
+
+
+			DynIBaR
+Zhengqi Li, Qianqian Wang, Forrester Cole, Richard Tucker, Noah Snavely
+CVPR 2023
+Best Paper Honorable Mention
+[www, pdf, code]
+
+	
+			Persistent Nature
+Lucy Chai, Richard Tucker, Zhengqi Li, Phillip Isola, Noah Snavely
+CVPR 2023
+[www, pdf, code]
+
+
+
+			Neural Scene Chronology
+Haotong Lin, Qianqian Wang, Ruojin Cai, Sida Peng, Hadar Averbuch-Elor, Xiaowei Zhou, Noah Snavely
+CVPR 2023
+[www, pdf, code]
+
+	
+			Neural Lens Modeling
+Wenqi Xian, Aljaž Božič, Noah Snavely, Christoph Lassner
+CVPR 2023
+[www, pdf, code]
+
+
+
+			Accidental Light Probes
+Koven Yu, Samir Agarwala, Charles Herrmann, Richard Szeliski, Noah Snavely, Jiajun Wu, Deqing Sun
+CVPR 2023
+[www, pdf]
+
+	
+			Omnimatte3D
+Mohammed Suhail, Erika Lu, Zhengqi Li, Noah Snavely, Leonid Sigal, Forrester Cole
+CVPR 2023
+[www, pdf]
+
+
+
+			Seeing a Rose in 5,000 Ways
+Yunzhi Zhang, Shangzhe Wu, Noah Snavely, Jiajun Wu
+CVPR 2023
+[www, pdf]
+
+	
+			What's in a Decade?
+Eric Ming Chen, Jin Sun, Apoorv Khandelwal Dani Lischinski, Noah Snavely, Hadar Averbuch-Elor
+Eurographics 2023
+[www, pdf]
+
+
+
+			InfiniteNature-Zero
+Zhengqi Li, Qianqian Wang, Noah Snavely, Angjoo Kanazawa
+ECCV 2022
+[www, pdf]
+
+	
+			ARF: Artistic Radiance Fields
+Kai Zhang, Nick Kolkin, Sai Bi, Fujun Luan, Zexiang Xu, Eli Shechtman, Noah Snavely
+ECCV 2022
+[www, pdf, code]
+
+
+
+			Structure and Motion for Casual Videos
+Zhoutong Zhang, Forrester Cole, Zhengqi Li, Michael Rubinstein, Noah Snavely, Bill Freeman
+ECCV 2022
+[www, pdf]
+
+	
+			Dimensions of Motion
+Richard Strong Bowen*, Richard Tucker*, Ramin Zabih, Noah Snavely
+3DV 2022
+[www, pdf]
+
+
+
+			Neural 3D Reconstruction in the Wild
+Jiaming Sun, Xi Chen, Qianqian Wang, Zhengqi Li, Hadar Averbuch-Elor, Xiaowei Zhou, Noah Snavely
+SIGGRAPH 2022
+[www, pdf]
+
+	
+			IRON: Inverse Rendering by Optimizing Neural SDFs and Materials
+Kai Zhang, Fujun Luan, Zhengqi Li, Noah Snavely
+CVPR 2022
+[www, pdf]
+
+
+
+			Deformable Sprites for Unsupervised Video Decomposition
+V. Ye, Z. Li, R. Tucker, A. Kanazawa, N. Snavely
+CVPR 2022
+[www, pdf]
+
+	
+			3D Moments from Near-Duplicate Photos
+Qianqian Wang, Zhengqi Li, David Salesin, Noah Snavely, Brian Curless, Janne Kontkanen
+CVPR 2022
+[www, pdf]
+
+
+
+			Infinite Nature
+Andrew Liu*, Richard Tucker*, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa
+ICCV 2021
+[www, pdf]
+
+	
+			Towers of Babel
+Xiaoshi Wu*, Hadar Averbuch-Elor*, Jin Sun, Noah Snavely
+ICCV 2021
+[www, pdf, data]
+
+
+
+			Who's Waldo?
+Claire Yuqing Cui*, Apoorv Khandelwal*, Yoav Artzi, Noah Snavely, Hadar Averbuch-Elor
+ICCV 2021
+[www, pdf]
+
+	
+			IBRNet: Learning Multi-View Image-Based Rendering
+Qianqian Wang, Z. Wang, K. Genova, P. Srinivasan, H. Zhou, J. Barron, R. Martin-Brualla, N. Snavely, T. Funkhouser
+CVPR 2021
+[www, pdf]
+
+
+
+			Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+Zhengqi Li, Simon Niklaus, Noah Snavely, Oliver Wang
+CVPR 2021
+[www, pdf]
+
+	
+			PhySG: Inverse Rendering with Spherical Gaussians
+Kai Zhang*, Fujun Luan*, Qianqian Wang, Kavita Bala, Noah Snavely
+CVPR 2021
+[www, pdf]
+
+
+
+			De-rendering the World's Revolutionary Artefacts
+Shangzhe Wu, Ameesh Makadia, Jiajun Wu, Noah Snavely, Richard Tucker, Angjoo Kanazawa
+CVPR 2021
+[www, pdf]
+
+	
+			Extreme Rotation Estimation using Dense Correlation Volumes
+Ruojin Cai, Bharath Hariharan, Noah Snavely, Hadar Averbuch-Elor
+CVPR 2021
+[www, pdf]
+
+
+
+			KeypointDeformer
+Tomas Jakab Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa
+CVPR 2021
+[www, pdf]
+
+	
+			Wide-Baseline Relative Camera Pose Estimation with Directional Learning
+Kefan Chen, Noah Snavely, Ameesh Makadia
+CVPR 2021
+[www, pdf]
+
+
+
+			Repopulating Street Scenes
+Yifan Wang, Andrew Liu, Richard Tucker, Jiajun Wu, Brian Curless, Steve Seitz, Noah Snavely
+CVPR 2021
+[www, pdf]
+
+	
+			An Ethical Highlighter for People-Centric Dataset Creation
+Margot Hanley, Apoorv Khandelwal, Hadar Averbuch-Elor, N. Snavely, Helen Nissenbaum
+NeurIPS 2020 NBIAIR Workshop [pdf]
+
+
+
+			MetaSDF: Meta-Learning Signed Distance Functions
+Vincent Sitzmann, Eric Chan, Richard Tucker, Noah Snavely (Google), Gordon Wetzstein
+NeurIPS 2020
+[www, pdf]
+
+	
+			Multi-Plane Program Induction with 3D Box Priors
+Li*, Mao*, Zhang, Freeman, Tenenbaum, Snavely, Wu
+NeurIPS 2020
+[www, pdf]
+
+
+
+			Crowdsampling the Plenoptic Function
+Zhengqi Li, Wenqi Xian, Abe Davis, Noah Snavely
+ECCV 2020
+[www, pdf]
+
+	
+			Learning Feature Descriptors using Camera Pose Supervision
+Qianqian Wang, Xiaowei Zhou, Bharath Hariharan, N. Snavely
+ECCV 2020
+[www, pdf]
+
+
+
+			Learning to Factorize and Relight a City
+Andrew Liu, Shiry Ginosar, Tinghui Zhou, Alexei A. Efros, Noah Snavely (Google Research)
+ECCV 2020
+[www, pdf]
+
+	
+			Learning Gradient Fields for Shape Generation
+Ruojin Cai*, Guandao Yang*, Averbuch-Elor, Hao, Belongie, Snavely, Hariharan
+ECCV 2020
+[www, pdf]
+
+
+
+			Hidden Footprints: Learning Contextual Walkability from 3D Human Trails
+Jin Sun, Hadar Averbuch-Elor, Qianqian Wang, Noah Snavely
+ECCV 2020
+[www, pdf]
+
+	
+			Visual Chirality
+Zhiqiu Lin, Jin Sun, Abe Davis, Noah Snavely
+CVPR 2020
+[www, pdf]
+
+
+
+			Single-View View Synthesis with Multiplane Images
+Richard Tucker, Noah Snavely (Google Research),
+CVPR 2020
+[www, pdf]
+
+	
+			Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination
+Srinivasan*, Mildenhall*, Tancik, Barron, Tucker, Snavely
+CVPR 2020
+[www, pdf]
+
+
+
+			DualSDF
+Zekun Hao, Hadar Averbuch-Elor, Noah Snavely, Serge Belongie
+CVPR 2020
+[www, pdf]
+
+	
+			Depth Sensing Beyond LiDAR Range
+Kai Zhang, Jiaxin Xie, Noah Snavely, Qifeng Chen
+CVPR 2020
+[www, pdf]
+
+
+
+			Scene Summarization via Motion Normalization
+Scott Wehrwein, Kavita Bala, Noah Snavely,
+TVCG 2021
+[www, pdf]
+
+	
+			GeoStyle: Discovering Fashion Trends and Events
+U. Mall, K. Matzen, B. Hariharan, N. Snavely, K. Bala
+ICCV 2019
+[www, pdf]
+
+
+
+			UprightNet
+Wenqi Xian*, Zhengqi Li*, Matthew Fisher, J. Eisenmann, Eli Shechtman, Noah Snavely
+ICCV 2019
+[www, pdf]
+
+	
+			Leveraging 3D Vision Pipelines for Satellite Imagery
+Kai Zhang, Jin Sun, Noah Snavely
+ICCV 3DRW Workshop 2019
+[www, pdf]
+
+
+
+			Learning the Depths of Moving People by Watching Frozen People
+Z. Li, T. Dekel, F. Cole, R. Tucker, N. Snavely, C. Liu, W.T. Freeman
+CVPR 2019 Best Paper Honorable Mention
+[www, pdf]
+
+	
+			Pushing the Boundaries of View Extrapolation
+P. Srinivasan, R. Tucker, J. Barron, R. Ramamoorthi, R. Ng, N. Snavely
+CVPR 2019
+[www, pdf]
+
+
+
+			Neural Rerendering in the Wild
+M. Meshry, D. Goldman, S. Khamis, H. Hoppe, R. Pandey, N. Snavely, R. Martin-Brualla
+CVPR 2019
+[www, pdf]
+
+	
+			DeepView: View synthesis with Learned Gradient Descent
+J. Flynn, M. Broxton, P. Debevec, M. DuVall, G. Fyffe, R. Overbeck, N. Snavely (Google AI), R. Tucker
+CVPR 2019
+[www, pdf, video]
+
+
+
+			Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments
+H. Chen, A. Suhr, D. Misra, N. Snavely, Y. Artzi
+CVPR 2019
+[GitHub, pdf]
+
+	
+			Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning
+S. Suwajanakorn, N. Snavely (Google AI), J. Tompson, M. Norouzi
+NeurIPS 2018
+[www, pdf]
+
+
+
+			CGIntrinsics: Better Intrinsic Images through Physically-Based Rendering
+Zhengqi Li and Noah Snavely
+ECCV 2018
+[webpage, pdf]
+
+	
+			Layer-structured 3D Scene Inference
+Shubham Tulsiani, Richard Tucker, and Noah Snavely (Google AI)
+ECCV 2018
+[www, pdf]
+
+
+
+			Stereo Magnification
+Tinghui Zhou, Richard Tucker, John Flynn, Graham Fyffe and Noah Snavely (Google AI)
+SIGGRAPH 2018
+[www, paper]
+
+	
+			MegaDepth: Learning Single-View Depth Prediction from Internet Photos
+Zhengqi Li and Noah Snavely
+CVPR 2018
+[www, code, paper, demo]
+
+
+
+			BigTime: Learning Intrinsic Images by Watching the World
+Zhengqi Li and Noah Snavely
+CVPR 2018
+[www, code, paper]
+
+	
+			StreetStyle
+Kevin Matzen, Kavita Bala, and Noah Snavely
+Posted to arXiv, 2017
+[www, demo, paper]
+
+
+
+			Unsupervised Depth and Ego-Motion from Video
+Tinghui Zhou, Matthew Brown, Noah Snavely (Google AI), and David Lowe
+CVPR 2017
+[www, pdf]
+
+	
+			Shading Annotations in the Wild
+Balazs Kovacs, Sean Bell, Noah Snavely, and Kavita Bala
+CVPR 2017
+[www, pdf]
+
+
+
+			Deep Feature Interpolation
+Upchurch, Gardner, Bala, Pless, Snavely, and Weinberger
+CVPR 2017
+[www, pdf]
+
+	
+			When is Rotations Averaging Hard?
+Kyle Wilson, David Bindel, and Noah Snavely
+ECCV 2016
+[pdf]
+
+
+
+			DeepStereo
+John Flynn, Ivan Neulander, James Philbin, Noah Snavely (Google)
+CVPR 2016
+[video, pdf]
+
+	
+			Shadow Detection and Sun Direction in Photo Collections
+Scott Wehrwein, Kavita Bala, Noah Snavely
+3DV 2015
+[www, pdf]
+
+
+
+			BubbLeNets
+Kevin Matzen, Noah Snavely
+ICCV 2015
+[www with data]
+
+	
+			Caliber: The General Camera System Calibrator
+Albert Liu, Steve Marschner, Noah Snavely
+IJCV 2016
+[www with code]
+
+
+
+			Material Recognition in the Wild
+Sean Bell, Paul Upchurch, Kavita Bala, Noah Snavely
+CVPR 2015
+[www (with CNN models and data)]
+
+	
+			Reasoning about Photos under Outdoor Illumination
+Hauagge, Wehrwein, Upchurch, Bala, Snavely
+BMVC 2014
+[www]
+
+
+
+			Scene Chronology
+Kevin Matzen, Noah Snavely
+ECCV 2014.
+Best Paper Award
+[pdf, www]
+
+	
+			1DSfM
+Kyle Wilson, Noah Snavely
+ECCV 2014
+[pdf, www+data, code]
+
+
+
+			Intrinsic Images in the Wild
+Sean Bell, Kavita Bala, Noah Snavely
+SIGGRAPH 2014
+[www]
+
+	
+			Minimal Scene Descriptions
+Song Cao, Noah Snavely
+CVPR 2014
+[pdf, www]
+
+
+
+			NYC3DCars
+Kevin Matzen, Noah Snavely
+ICCV 2013
+[pdf, www+data, label UI code]
+
+	
+			Disambiguating SfM
+Kyle Wilson, Noah Snavely
+ICCV 2013
+[pdf, www, code]
+
+
+
+			OpenSurfaces
+Sean Bell, Paul Upchurch, Noah Snavely, Kavita Bala
+SIGGRAPH 2013
+[publication page] [data] [segmentation UI]
+
+
+	
+			Photometric Ambient Occlusion
+Daniel Hauagge, Scott Wehrwein, Kavita Bala, Noah Snavely
+CVPR 2013 [www]
+
+
+
+			Representing Places with Graphs
+Song Cao, Noah Snavely
+CVPR 2013 [www]
+
+	
+			Worldwide Pose Estimation
+Yunpeng Li, Noah Snavely, Dan Huttenlocher, Pascal Fua
+ECCV 2012 [www]
+
+
+
+			Mining Structure in Large Image Collections
+Yin Lou, Noah Snavely, Johannes Gehrke
+ECCV 2012 [www]
+
+	
+			Learning to Match Images
+Cao Song, Noah Snavely
+ECCV 2012 Workshop on Web-scale Vision and Social Media [www]
+
+
+
+			Local Symmetry Features
+Daniel Hauagge, Noah Snavely
+CVPR 2012 [pdf] [www+code]
+
+	
+			Image Description with a Goal
+Amir Sadovnik, Yi-I Chiu, Noah Snavely, Shimon Edelman, Tsuhan Chen
+CVPR 2012 [pdf]
+
+
+
+			SfM with MRFs
+D. Crandall, A. Owens, N. Snavely, D. Huttenlocher
+CVPR 2011, Best paper runner-up. [www] [pdf]
+	
+			Dual-Scale Surface Appearance
+Chun-Po Wang, Noah Snavely, Steve Marschner
+SIGGRAPH Asia 2011
+
+
+			Where's Waldo? Matching People in Crowds
+Rahul Garg, Deva Ramanan Steve Seitz, Noah Snavely
+CVPR 2011
+	
+			PhotoCity
+K. Tuite, N. Snavely, D-Y. Hsaio, N. Tabing, Z. Popovic
+CHI 2011
+	
+
+			Location Recognition using Prioritized 2D-to-3D Feature Matching
+Yunpeng Li, Noah Snavely, Dan Huttenlocher
+ECCV 2010
+	
+			Bundle Adjustment in the Large
+S. Agarwal, N. Snavely, S. Seitz, R. Szeliski
+ECCV 2010
+
+
+			Building Rome in a Day
+Sameer Agarwal, Noah Snavely, Ian Simon, Steve Seitz, Richard Szeliski
+ICCV 2009
+	
+			The Dimensionality of Scene Appearance
+Rahul Garg, Hao Du, Steve Seitz, Noah Snavely
+ICCV 2009
+
+
+			Finding Paths through the World's Photos
+Noah Snavely, Rahul Garg, Steve Seitz, Richard Szeliski
+SIGGRAPH 2008
+	
+			Skeletal Sets for Efficient SfM
+Noah Snavely, Steve Seitz, Richard Szeliski
+CVPR 2008
+
+
+			Photo Tourism
+Noah Snavely, Steve Seitz, Richard Szeliski
+SIGGRAPH 2006
+	
+			Scene Summarization for Online Image Collections
+Ian Simon, Noah Snavely, and Steven M. Seitz
+ICCV 2007
+
+
+			Multi-View Stereo for Community Photo Collections
+M. Goesele, N. Snavely, B. Curless, S. Seitz, H. Hoppe
+ICCV 2007
+	
+			Stylizing 2.5D Video
+Noah Snavely, C. Lawrence Zitnick, Sing Bing Kang, Michael Cohen
+NPAR 2006
+
+
+			Spacetime Faces
+Li Zhang, Noah Snavely, Brian Curless, Steve Seitz
+SIGGRAPH 2004
+	
+			Itanium Binary Optimization
+with Saumya Debray and Greg Andrews
+Visit the SOLAR page at the University of Arizona
+I gratefully acknolwedge the generous support of the National Science Foundation, MIT Lincoln Labs, Microsoft, Intel, Google, Adobe, Amazon, IARPA, Facebook, and GE.
+

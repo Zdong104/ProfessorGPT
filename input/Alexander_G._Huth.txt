@@ -1,0 +1,31 @@
+Professor: Alexander G. Huth
+University: University of Texas at Austin
+URL: http://www.cs.utexas.edu/~huth
+Description: HuthLab
+home people research publications
+
+Our lab uses quantitative, computational methods to try to understand how the human brain processes the natural world. In particular, we are focused on understanding how the meaning of language is represented in the brain.
+
+Using fMRI, we record human brain responses while people listen to speech in the form of stories or podcasts. Then we build encoding models that predict those responses based on the audio and transcript of the stories. The best encoding models today use neural network language models to extract meaningful information from the stories. Our work uses encoding models to map how language is represented across the brain [Jain et al., 2018, 2020; Antonello et al., 2021], investigates why neural network language models are so effective [Antonello & Huth, 2023], and shows that we can even decode language from fMRI [Tang et al., 2023].
+
+The datasets we collect are shared freely and we encourage you to use them [LeBel et al., 2022].
+
+We also share code that demonstrates how to use these datasets and tutorials on encoding models for language.
+
+Latest Publications
+
+Vaidya, Aditya and Turek, Javier and Huth, Alexander (2023). Humans and language models diverge when predicting repeating text. Proceedings of the 27th Conference on Computational Natural Language Learning (CoNLL). (paper) (GitHub)
+
+Tang, Jerry and Du, Meng and Vo, Vy and Lal, Vasudev and Huth, Alexander (2024). Brain encoding models based on multimodal transformers can transfer across language and vision. Advances in Neural Information Processing Systems. (paper)
+
+Antonello, Richard and Vaidya, Aditya and Huth, Alexander (2024). Scaling laws for language encoding models in fMRI. Advances in Neural Information Processing Systems. (paper) (GitHub)
+
+The University of Texas at Austin
+UT Home
+UT Computer Science
+UT Neuroscience
+Contact
+Email
+Twitter
+© Huth Lab | The University of Texas at Austin
+

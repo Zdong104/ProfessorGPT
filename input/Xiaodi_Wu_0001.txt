@@ -1,0 +1,278 @@
+Professor: Xiaodi Wu 0001
+University: University of Maryland - College Park
+URL: https://www.cs.umd.edu/~xwu
+Description: Xiaodi Wu
+about
+CV (10/2023)
+Research
+overview
+papers
+talks
+Teaching
+CMSC 858O
+Past courses
+Misc.
+Mini-Library
+QPL Reading
+	
+About me
+
+Xiaodi Wu ( in simplified Chinese )
+
+I am an Associate Professor in the Department of Computer Science and Institute for Advanced Computer Studies at the University of Maryland, College Park, and a Fellow at the Joint Center for Quantum Information and Computer Science (QuICS). I am also an Amazon Visiting Academic working for AWS Braket. I am a recipient of the Sloan Research Fellowship, NSF CAREER, and AFOSR YIP awards.
+
+Before coming to Maryland, I was an Assistant Professor in the Computer and Information Science Department at the University of Oregon from 2015 to 2017. Before that, I was a Postdoctoral Associate at Massachusetts Institute of Technology from 2013 to 2015 (advisor: Aram Harrow, Scott Aaronson). I was also a Simons Research Fellow at the Simons Institute for the Theory of Computing at Berkeley, for the program of Quantum Hamiltonian Complexity in Spring 2014 (advisor: Umesh Vazirani). I also spent two summers at the Institute for Quantum Computing, University of Waterloo as a student intern (advisor: John Watrous).
+
+I received my Ph.D. in theoretical computer science in 2013 (advisor: Yaoyun Shi) from the University of Michigan, Ann Arbor. I received my B.S. degree in mathematics and physics in 2008 from the Academic Talent Program, Tsinghua University.
+
+Research Interests
+
+My research aims to bridge the gap between the theoretical foundation of quantum computing and the limitation of realistic quantum machines. More specifically, I am working on the foundations of practical quantum applications on realistic quantum machines by investigating computational models that capture the native programmability of quantum devices. I am also building efficient and reliable systems to operate both near-term and long-term quantum devices.
+
+My group recently focuses on the investigation of Hamiltonian-oriented Quantum Algorithm Design and Programming, which treats quantum Hamiltonian evolution as the central object in end-to-end quantum application design.
+
+ 	
+
+We illustrate that the Hamiltonian-oriented design not only allows more efficient implementation of known quantum algorithms but also inspires novel quantum algorithms, especially in optimization and scientific computing (e.g., Quantum Hamiltonian Descent), which are hard to perceive in the circuit model. We also develop a programming infrastructure (i.e., SimuQ) for easy implementation of Hamiltonian-based quantum applications for domain experts on heterogeneous quantum devices. Please check my Research Overview for details of my existing and ongoing projects.
+
+Shortcuts to GitHub Projects from my group.
+
+Hamiltonian-oriented Algorithm Design and Programming
+
+SIMUlation language for Quantum (SIMUQ) (POPL 2024)
+
+Quantum Hamiltonian Descent
+
+Hamiltonian Embedding Techniques
+
+QHD-based OPTimizer (QHDOPT) Software
+
+A Certified Quantum Software Tool-Chain
+
+Small Quantum Intermediate Representation (SQIRE) and A Verified Optimizer for Quantum Circuits (POPL 2021).
+
+A Fully Certified End-to-End Implementation of Shor's Algorithm (PNAS).
+
+Verified Compilation of Quantum Oracles (OOPSLA 2022).
+
+Qanfy: a quantum extension of Dafny for automatic reasonings for quantum, classical, and hybrid programs.
+
+Post-Quantum Cryptography: Certification of Security and Implementation
+
+Formalized Security Proof for Dilithium in the ROM (CRYPTO 2023)
+
+EasyCrypt for Post-Quantum Cryptography (CCS 2021).
+
+Differentiable Quantum Programming
+
+A Compiler for Differentiable Quantum Programming Languages (PLDI 2020).
+
+Differentiable Quantum Programming with Unbounded Loops (ACM TOSEM).
+
+Differentiable Analog Quantum Programming (NeurIPS 2022).
+
+Practical Verification of Specific Quantum Computing Tasks
+
+A Scalable Classical Verification of Gaussian Boson Sampling (Website Upcoming!)
+
+A Circuit Obfuscator for Scalable Verification of Quantum Supremacy.
+
+Meta Programming for Quantum Computing
+
+A Meta-Programming Framework for Automating NISQ Application Design (ACM TQC).
+
+Quantum Program Synthesis
+
+A Case for Synthesis of Recursive Quantum Unitary Programs (POPL 2024).
+
+Quantum Machine Learning
+
+Quantum Wasserstein Generative Adversarial Networks (NeurIPS 2019).
+
+Shortcuts to Expository Materials
+
+Tutorial at POPL 2021: An Invitation to the Intersection of Quantum Computing and Programming Languages slides video. (short version)
+
+Invited Talk at ICCAD 2021's special session on Quantum Machine Learning. slides video
+
+More at Mini Library.
+
+Group Information
+
+I am actively looking for students and postdocs who are interested in quantum computing.
+
+
+For prospective graduate students, please consider applying to Maryland through any of the following programs: Computer Science, Applied Math, Statistics, and Scientific Computation, and Physics, and indicate quantum computing as an area of interest.
+
+For prospective postdocs, please consider applying to QuICS Hartree Postdoctoral Fellowship.
+
+If you are interested in working with me, please send me an email to let me know your interest.
+
+Postdocs:
+
+Junyi Liu (2023-)
+
+Liyi Li (co-advised with Mike Hicks, 2020 - 2023. Assistant professor at Iowa State University.)
+
+Xiong Fan (co-advised with Jonathan Katz, 2020 - 2021. Assistant professor at Rutgers University. )
+
+Robert Rand (co-advised with Mike Hicks, 2018-2020. Assistant professor at University of Chicago.)
+
+QuICS Hartree Postdoctoral Fellows (who I have closely worked with): Penghui Yao (now Associate Professor at Nanjing University), Xin Wang (now Associate Professor at HKUST(Guangzhou)), Cedric Lin (now at AWS Braket).
+
+Current Students:
+
+(Ph.D.) Yuxiang Peng, Jiaqi Leng, Jacob Young, Ethan Hickman, Haowei Deng, Yufan Zheng, Yingkang Cao, Yi Lee, Connor Clayton, Joseph Li, Suying Liu, Haohai Shi
+
+Past Students:
+
+Shouvanik Chakrabarti (2017-2022), Ph.D. thesis on Quantum Computing for Optimization and Machine Learning. First job: VP - Applied Research Lead in the Quantum Research Team at J.P. Morgan Chase.
+
+Xuchen You (2017-2023), Ph.D. thesis on Optimization Problems in Quantum Machine Learning. First job: Citadel Securities.
+
+News
+
+09/2023, two of our research papers SimuQ: A Domain-Specific Language For Quantum Simulation With Analog Compilation and A Case for Synthesis of Recursive Quantum Unitary Programs will appear in the 51st ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2024).
+
+05/2023, our research paper A Formally Certified End-to-End Implementation of Shor's Factorization Algorithm appears in the Proceedings of the National Academy of Sciences (PNAS).
+
+05/2023, please check our research paper Fixing and Mechanizing the Security Proof of Fiat-Shamir with Aborts and Dilithium (to appear in CRYPTO 2023) on how a serious security-proof bug is discovered by formal verification and is later fixed for Dilithium (NIST's choice of the post-quantum digital signature scheme).
+
+04/2023, our research paper Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels will appear in ICML 2023.
+
+02/2023, I am honored to receive the Sloan Research Fellowship.
+
+02/2023, please check our new domain-specific programming language for quantum simulation (SIMUQ) which supports analog compilation through a newly developed abstraction called the abstract analog instruction set (AAIS) that models the programmability of heterogeneous analog quantum devices.
+
+02/2023, our research paper Distributed Quantum Sensing Network with Geographically Constrained Measurement Strategies will appear at the 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023).
+
+01/2023, my group will give four talks in APS March Meeting 2023 at session A64, A72, G70, and Y70.
+
+12/2022, check our website for Quantum Hamiltonian Descent, and my talk at the Fields institute.
+
+11/2022, our research paper A Convergence Theory for Over-parameterized Variational Quantum Eigensolvers will appear at QIP 2023.
+
+09/2022, our research paper Differentiable Analog Quantum Computing for Optimization and Control will appear at NeurIPS 2022 as a featured paper.
+
+06/2022, our research paper Verified Compilation of Quantum Oracles will appear at the OOPSLA 2022.
+
+02/2022, our research paper Algebraic Reasoning of Quantum Programs via Non-Idempotent Kleene Algebra will appear at the 43rd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2022).
+
+02/2022, our research paper Constant-round Blind Classical Verification of Quantum Sampling will appear at Eurocrypt 2022.
+
+10/2021, I gave an invited talk in a special session on quantum machine learning at the 40th International Conference on Computer-Aided Design (ICCAD 2021). slides video
+
+07/2021, our research paper EasyPQC: Verifying Post-Quantum Cryptography will appear at the ACM Conference on Computer and Communication Security (CCS 2021).
+
+05/2021, Congratulations to Shouvanik Chakrabarti on the J.P. Morgan Chase FLARE Fellowship.
+
+05/2021, our research paper Exponentially Many Local Minima in Quantum Neural Networks will appear at the 38th International Conference on Machine Learning (ICML 2021).
+
+02/2021, Congratulations to Jiaqi Leng for presenting his first QIP talk Quantum Algorithms for Escaping from Saddle Points.
+
+01/2021, Congratulations to Yuxiang Peng for winning the 2nd place in Student Research Competition (SRC) at POPL 2021.
+
+01/2021, our research paper A Verified Optimizer for Quantum Circuits received a distinguished paper award at POPL 2021.
+
+01/2021, I delivered a tutorial on the intersection of quantum computing and programming languages at POPL 2021. My slides are available here video.
+
+12/2020, our research paper Sublinear Classical and Quantum Algorithms for General Matrix Games will appear at the 35th AAAI Conference on Artificial Intelligence (AAAI 2021).
+
+11/2020, I am honored to be supported by the AFOSR Young Investigator Research Program (YIP) for developing Automated Security Analysis of Cryptographic Systems Under Quantum Attacks with formal methods.
+
+10/2020, our research paper A Verified Optimizer for Quantum Circuits will appear at the 48th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2021).
+
+10/2020, our research paper Simulating Large Quantum Circuits on A Small Quantum Computer appears at Physical Review Letters.
+
+06/2020, I am guest editing a special issue on the Techniques of Programming Languages, Logic, and Formal Methods in Quantum Computing (call-for-papers) for ACM Transactions on Quantum Computing. Please contribute!! The deadline is August 15th, 2020.
+
+02/2020, our research paper On the Principles of Differentiable Quantum Programming Languages will appear at the 41st ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2020).
+
+02/2020, I am honored to be supported by the NSF CAREER award (CCF-1942837) for investigation on the foundation of end-to-end quantum applications.
+
+11/2019, our research paper Quantum algorithm for estimating volumes of convex bodies will appear at QIP 2020 as a single-track talk.
+
+09/2019, our research paper Quantum Wasserstein Generative Adversarial Networks will appear at the 33rd Annual Conference on Neural Information Processing Systems (NeurIPS 2019).
+
+07/2019, I am co-organizing the First International Workshop on Programming Languages and Quantum Computing (PLanQC 2020) at POPL 2020 with Michael Hicks and Robert Rand. The deadline for submission is AOE October 28, 2019.
+
+06/2019, our research paper Verified Optimization in a Quantum Intermediate Representation (extended abstract) will appear at Quantum Physics and Logic (QPL 2019).
+
+04/2019, our research paper Sublinear quantum algorithms for training linear and kernel-based classifiers will appear at the 36th International Conference on Machine Learning (ICML 2019).
+
+04/2019, our research paper Quantum SDP Solvers: Large Speed-ups, Optimality, and Applications to Quantum Learning will appear at ICALP 2019.
+
+11/2018, our research papers Quantum SDP Solvers: Large Speed-ups, Optimality, and Applications to Quantum Learning and Quantum algorithms and lower bounds for convex optimization will appear at QIP 2019.
+
+10/2018, our research paper Quantitative Robustness Analysis of Quantum Programs will appear at the 46th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2019).
+
+09/2018, I am organizing a workshop on the intersection of machine learning and quantum information (Videos and Slides NOW AVAILABLE) at QuICS on September 24 - 28, 2018.
+
+01/2017, our research papers General randomness amplification with non-signaling security and Limitations of semidefinite programs for separable states and entangled games appeared at QIP 2017.
+
+01/2017, our research paper Invariants of Quantum Programs: Characterizations and Generation appeared at the 44th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2017).
+
+Research supported by
+ 	
+
+National Science Foundation (NSF)
+
+ 	
+
+Department of Energy (DOE)
+
+ 	
+
+Air Force Office of Scientific Research (AFOSR)
+
+ 	
+
+Army Research Office (ARO)
+
+ 	
+
+Amazon Web Services (AWS)
+
+ 	
+
+Alfred P. Sloan Foundation
+
+I am part of the following collaborations:
+
+DOE ASCR Quantum Algorithm Team: Quantum Optimization and Learning and Simulation (QOALAS).
+
+DOE ASCR Quantum Testbed Pathfinder at UMD.
+
+DOE ASCR Tough Errors Are no Match (TEAM): Optimizing the quantum compiler for noise resilience.
+
+DOE ASCR Fundamental Algorithmic Research for Quantum Computing (FAR-QC).
+
+AFOSR MURI: Semantics, Formal Reasoning, and Tools For Quantum Programming.
+
+NSF Collaborative Research: FET: Medium: Quantum Localization and Synchronization Networks (with MIT LIDS).
+
+DOE QIS Centers: Quantum Science Center (QSC).
+
+AFOSR MURI: Towards Robust Scalable Quantum Random Access Memories.
+
+NSF Quantum Leap Challenge Institute for Robust Quantum Simulation.
+
+Contact
+
+Office: IRB 5210
+
+Address:
+Computer Science
+5109 Brendan Iribe Center for Computer Science and Engineering
+8125 Paint Branch Drive
+University of Maryland
+College Park, MD 20742
+
+
+Email: xwu (at) cs.umd.edu
+
+
+
+
+Page generated 2024-01-25 14:37:38 EST, by jemdoc.
+

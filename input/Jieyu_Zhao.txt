@@ -1,0 +1,136 @@
+Professor: Jieyu Zhao
+University: University of Southern California
+URL: https://jyzhao.net/
+Description: Home
+Home
+Lab
+Publications
+Teaching
+
+Office: USC PHE #332
+
+Email: jieyuz [at] usc [dot] edu
+
+Jieyu Zhao 赵洁玉
+
+Gabilan Assistant Professor
+
+Thomas Lord Department of Computer Science, USC
+
+  
+
+Jieyu Zhao is an Assistant Professor of Computer Science Department at University of Southern California. Prior to that, she was an NSF Computing Innovation Fellow at University of Maryland, College Park, working with Prof. Hal Daumé III. Jieyu received her Ph.D. from Computer Science Department, UCLA, where she was advised by Prof. Kai-Wei Chang. Her research interest lies in fairness of ML/NLP models. Her paper got the EMNLP Best Long Paper Award (2017). She was one of the recipients of 2020 Microsoft PhD Fellowship and has been selected to participate in 2021 Rising Stars in EECS workshop. Her research has been covered by news media such as Wired, The Daily Mail and so on. She was invited by UN-WOMEN Beijing on a panel discussion about gender equality and social responsibility.
+
+📢 Good News: From now on [June 25, 2024], USC can accept J1 international undergrad interns! If you are interested in my research group, please fill in this form.
+ps: I'm not sure about the 2025 PhD recruitment yet.
+
+🐾 Research
+
+I am broadly interested in research about how to get machines to understand and respond to human languages (natural language processing & machine learning). A few questions that drive my recent research are:
+
+how can we get models to efficiently learn knowledge?
+how can we reduce potential harms learned by the model?
+how can we advance better models and humans collaborations?
+
+📰 Recent News
+[06/2024] It is great to see old and new friends at NAACL!
+[05/11/2024] We will host the SeT-LLM workshop at ICLR. See everyone there!
+[2024 May] 🛫 I will be at ICLR from May 7 2024 - May 11 2024. Let's chat ☕️!
+[2024 May] 🎉 ICML acceptance: 1. A dynamic approach to long-term fairness in sequential decision-making which proposed a new metric, Equal Long Term Benefit Rate, to measure long-term fairness. 2. TrustLLM: Trustworthiness in Large Language Models which did a comprehensive study of trustworthiness in LLMs, including principles for different dimensions of trustworthiness.
+[2024 March] 🎉 NAACL acceptance: 1. Safer-Instruct: Aligning Language Models with Automated Preference Data which proposed a novel pipeline for automatically constructing large-scale preference data for your model alignment. 2. Fair Abstractive Summarization of Diverse Perspectives which systematically investigates fair abstractive summarization for user-generated data.
+[2024 March] ICLR workshop acceptance.
+🗞️️ More News
+Publications (selected)
+
+[Google Scholar] [Full List]
+
+TrustLLM: Trustworthiness in Large Language Models
+Lichao Sun, Yue Huang, Haoran Wang, Siyuan Wu, ... , Jieyu Zhao, ..., Yan Liu, Yanfang Ye, Yinzhi Cao, Yong Chen, Yue Zhao. ICML 2024.
+
+A dynamic approach to long-term fairness in sequential decision-making
+Yuancheng Xu, Chenghao Deng, Yanchao Sun, Ruijie Zheng, Xiyao Wang, Jieyu Zhao, Furong Huang. ICML 2024.
+
+Fair Abstractive Summarization of Diverse Perspectives
+Yusen Zhang, Nan Zhang, Yixin Liu, Alexander Fabbri, Junru Liu, Ryo Kamoi, Xiaoxin Lu, Caiming Xiong, Jieyu Zhao, Dragomir Radev, Kathleen McKeown, Rui Zhang. NAACL 2024.
+
+Safer-Instruct: Aligning Language Models with Automated Preference Data
+Taiwei Shi, Kai Chen, Jieyu Zhao. NAACL 2024.
+
+A Rose by Any Other Name would not Smell as Sweet: Social Bias in Name Mistranslations
+Sandra Sandoval, Jieyu Zhao, Marine Carpuat, and Hal Daume III. EMNLP 2023.
+
+Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems
+Yixin Wan, Jieyu Zhao, Aman Chadha, Nanyun Peng, and Kai-Wei Chang. EMNLP-Finding, 2023.
+
+Mind What You Measure For: A Study on Reliability of Prompt-Based Bias Measurement
+Ruyuan Zuo, and Jieyu Zhao. WiNLP 2023.
+
+TACO: Temporal Latent Action-Driven Contrastive Loss For Visual Reinforcement Learning
+
+Ruijie Zheng, Xiyao Wang, Yanchao Sun, Shuang Ma, Jieyu Zhao, Huazhe Xu, Hal Daume, Furong Huang. NeurIPS, 2023.
+
+SODAPOP: Open-Ended Discovery of Social Biases in Social Commonsense Reasoning Models
+Haozhe An, Zongxia Li, Jieyu Zhao, Rachel Rudinger. EACL 2023.
+
+Investigating Ensemble Methods for Model Robustness Improvement of Text Classifiers
+Jieyu Zhao, Xuezhi Wang, Yao Qin, Jilin Chen, Kai-Wei Chang. EMNLP Findings, 2022.
+
+Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?
+Jieyu Zhao, Daniel Khashabi, Tushar Khot, Ashish Sabharwal, and Kai-Wei Chang. ACL Findings, 2021.
+
+Double Perturbation: On the Robustness of Robustness and Counterfactual Bias Evaluation
+Chong Zhang, Jieyu Zhao, Huan Zhang, Kai-Wei Chang, and Cho-Jui Hsieh. NAACL 2021.
+
+Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer
+
+Jieyu Zhao, Subhabrata Mukherjee, Saghar Hosseini, Kai-Wei Chang, Ahmed Hassan Awadallah.
+
+Conference of the Association for Computational Linguistics. ACL 2020.
+
+Mitigating Gender Bias Amplification in Distribution by Posterior Regularization
+
+Shengyu Jia*, Tao Meng*, Jieyu Zhao, Kai-Wei Chang.
+
+Conference of the Association for Computational Linguistics. ACL 2020.
+
+Balanced Datasets Are Not Enough: Estimating and Mitigating Gender Bias in Deep Image Representations
+
+Tianlu Wang, Jieyu Zhao, Mark Yatskar, Kai-Wei Chang, Vicente Ordonez.
+
+International Conference on Computer Vision. ICCV 2019.
+
+Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods [code] [podcast]
+
+Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang.
+
+North American Chapter of the Association for Computational Linguistics. NAACL 2018.
+
+Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints [code], [slides]
+
+Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang.
+
+Conference on Empirical Methods in Natural Language Processing. EMNLP 2017. (Best Long Paper Award)
+
+Press: Wired: Machines Taught By Photos Learn a Sexist View of Women
+
+Talks
+Tutorial: Trustworthy and Responsible AI. AAAI 2023.
+Detect and mitigate bias in NLP. AKBC KG-BIAS work shop, 2020.
+Education / Experience
+Postdoc, University of Maryland, College Park. 2022.01 - 2023.06
+Ph.D., University of California, Los Angeles. 2017.9 - 2021.12
+Google Research Intern, NYC. 2021.06 - 2021.09
+AI2 Research Intern, Seattle. 2020.09 - 2020.12
+Microsoft Research Intern, Redmond. 2020.06 - 2020.09
+Microsoft Research Intern, Redmond. 2019.06 - 2019.09
+Awards (selected)
+CI Fellowship, 2021
+EECS Rising Star, 2021
+Microsoft PhD Fellowship, 2020
+SoCalNLP Symposium Best Poster Award, 2018
+UCLA Graduate Division Fellowships, 2017
+EMNLP 2017 Best Long Paper Award, 2017
+Outstanding Graduate of Beijing City, 2016
+
+Oh, no more news.
+

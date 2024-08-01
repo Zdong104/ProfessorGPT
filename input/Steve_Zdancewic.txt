@@ -1,0 +1,161 @@
+Professor: Steve Zdancewic
+University: University of Pennsylvania
+URL: http://www.cis.upenn.edu/~stevez
+Description: Steve Zdancewic
+Schlein Family President's Distinguished Professor and Associate Chair
+Department of Computer and Information Science
+University of Pennsylvania
+
+e-mail: stevez (at) cis.upenn.edu
+phone: 215-898-2661
+office: 511 Levine Hall
+office hours: Monday 3:30-5:00pm & by appointment
+
+[Curriculum Vitae]             [Publications]             [Teaching]             [Students]
+
+
+Research Interests
+
+I study programming languages and computer security. I have wide-ranging interests, and some of my most recent work touches on: Coq verification of LLVM program transformations and quantum circuits, type-directed program synthesis, linear types and verified web server implementations. I have also spent a lot of time thinking about language-based enforcement of information-flow policies, low-level code memory safety, understanding dynamic security policies, and authorization logic. I am interested in secure concurrent and distributed computing, functional programming languages, type theory, linear and modal logics, theorem proving and mechanized metatheory. More information about my research can be found in this (out of date) research statement.
+
+Current Research Projects and Activities
+
+	POPL 2025
+
+I am the General Chair for POPL 2025, which will be held in Denver, Colorado. Submit a paper! Attend the meeting!
+
+
+	PL Club
+
+Penn's programming languages research group, run jointly with Benjamin Pierce and Stephanie Weirich. We meet weekly with students and post-docs to discuss current research topics.
+
+
+	Vellvm
+
+The verified LLVM project is developing operational semantics for the LLVM intermediate representation using the interactive theorem prover Coq. The resulting tools let us create highly-reliable program transformation passes and optimizations.
+
+ Vellvm Coq development
+
+Previous Research Projects and Activities
+
+	NSF Expedition on the Science of Deep Specification
+
+The DeepSpec project focuses on the specification and verification of full functional correctness of software and hardware. We are bringing Coq formalization to bear on systems-level programs such as compilers, operating systems, and databases.
+
+ Interaction Trees Coq development
+
+
+	Semantics, Formal Reasoning, and Tools for Quantum Programming
+
+Quantum algorithms are complex, and quantum computers explore alternative computation branches in superposition, so programming mistakes in even minor parts of the code can alter the quantum state and invalidate the final result. The goal of this project is to devise novel methods for ensuring that quantum programs are correct.
+
+ QWIRE Coq development
+
+
+	ExCAPE
+
+This NSF Expedition on Computer-Augmented Program Engineering seeks to transform the way that programmers develop software by advancing the theory and practice of software synthesis.
+
+
+	SoftBound + CETS
+
+This project is developing software instrumentation techniques to achieve complete memory safety for C programs, while requiring minimal changes to the source programs.
+
+
+	Security-Oriented Languages
+
+This research seeks to develop programming language abstractions and analyses that let developers create programs that are secure by construction.
+
+Recent Publications (Complete List)
+Optimal Program Synthesis via Abstract Interpretation [POPL24]
+Semantics for Noninterference with Interaction Trees [ECOOP23]
+Tealeaves: Structured Monads for Generic First-Order Abstract Syntax Infrastructure [ITP23]
+Synthesizing Trajectory Queries from Examples [CAV23]
+A Bowtie for a Beast: Overloading, Eta Expansion, and Extensible Data Types in F [POPL23]
+Choice Trees: Representing Nondeterministic, Recursive, and Impure Programs in Coq [POPL23]
+«more»
+Teaching (Summary)
+Programming Languages and Techniques I (CIS 120/CIS 1200)
+2023, 2020, 2019, 2017, 2016, 2014, 2012, 2011, 2010
+Compilers (CIS 341/CIS3410)
+2024, 2022, 2020, 2018, 2017,2015, 2013, 2011, 2008
+Software Foundations (CIS 500/CIS5000)
+2022 2016, 2013
+Compilers (CIS 7000)
+2024
+Software and Compiler Verification (CIS 700)
+2005
+Computer and Network Security (CIS 551)
+2012 , 2009 , 2008 , 2007 , 2006 , 2005
+Introduction to Networks and Security (CSE 331)
+2006 , 2004 , 2003 , 2002
+π-Calculus and Foundations of Concurrent Systems (CIS 700)
+2004
+Advanced Topics in PL: Safety and Security (CIS 670)
+2003 , 2014 , 2021
+
+Advising
+
+Current Ph.D. Students
+
+Calvin Beck
+Lawrence Dunn (Coadvised with Val Tannen)
+Paul He
+Lef Ioannidis (Coadvised with Sebastian Angel)
+Stephen Mell (Coadvised with Osbert Bastani)
+Nick Rioux
+Joey Velez-Ginorio (Coadvised with Konrad Kording)
+
+Former Students and Post Docs
+
+Irene Yoon (Ph.D. 2023), postdoc at INRIA
+Lucas Silver (Ph.D. 2023), now at APL
+Li-yao Xia (Coadvised with Benjamin Pierce) (Ph.D. 2022)
+Yishuai Li (Coadvised with Benjamin Pierce) (Ph.D. 2022)
+Yannick Zakowski (post doc 2018 - 2020), now at INRIA
+Solomon Maina (Masters 2020), now at General Motors
+Nicolas Koh (2015-2019, Coadvised with Benjamin Pierce)
+Christine Rizkallah (post doc 2016-2018, now a The University of Melbourne)
+Robert Rand (Ph.D. 2018, now at U. Chicago)
+Jennifer Paykin (Ph.D. 2018, now at Intel Labs)
+Dmitri Garbuzov (Masters 2016)
+William Mansky (post doc 2015-2016, now at UIC)
+Peter-Michael Osera (Ph.D. 2015, now at Grinnell College)
+Benoît Valiron (post doc 2012-2013, now at CentraleSupÃ©lec)
+Hongbo (Bob) Zhang (Masters 2013, now at IDEA)
+Jianzhou Zhao (Ph.D. 2013, now at Facebook)
+Karl Mazurak (Ph.D. 2013)
+Jeff Vaughan (Ph.D. 2009, now at Google)
+Limin Jia, Ph.D. (post doc 2007-2009, now at CMU)
+Peng Li (Ph.D. 2008, now at Google)
+Stephen Tse (Ph.D. 2007, now at a startup)
+
+Awards and Honors
+Distinguished Paper Award for Semantics for Noninterference with Interaction Trees ECOOP 2023
+Endowed Chair: Schlein Family President's Distinguished Professor, 2021
+Distinguished Paper Award for Interaction Trees POPL 2020
+Christian R. and Mary F. Lindback Foundation Award for Distinguished Teaching, 2018
+IEEE MICRO "top picks", 2013
+Alfred P. Sloan Fellow, 2009-2010
+NSF CAREER award, 2004
+Best Paper award at SOSP, 2001
+Intel Foundation Graduate Fellowship, 2001
+Best Paper award at ICFP, 1999
+NSF Graduate Student Fellowship, 1996
+
+
+
+
+Talks
+
+Some of my old talks are available:
+
+OPLSS 2022
+DeepSpec Summer School 2017
+Engineering in 100 Seconds: Proof Engineering (from 2016)
+
+Miscellany
+
+My wife, Stephanie Weirich, is also on the Computer and Information Science Faculty at Penn.
+At some point I wrote up some writing tips for Ph.D. students.
+

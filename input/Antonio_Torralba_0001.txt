@@ -1,0 +1,498 @@
+Professor: Antonio Torralba 0001
+University: Massachusetts Institute of Technology
+URL: http://web.mit.edu/torralba/www
+Description: Antonio Torralba
+Lab Members
+Research
+News
+Datasets
+Publications
+Gallery
+Accessibility
+Antonio Torralba
+
+Delta Electronics Professor of Electrical Engineering and Computer Science.
+
+Head AI+D faculty, EECS dept. (link)
+
+
+Computer Science and Artificial Intelligence Laboratory - Dept. of Electrical Engineering and Computer Science
+Massachusetts Institute of Technology
+
+Office: 32-386G
+32 Vassar Street, Cambridge, MA 02139
+Email: torralba@mit.edu
+Assistant: Fern DeOliveira Keniston
+
+My research is in the areas of computer vision, machine learning and human visual perception. I am interested in building systems that can perceive the world like humans do. Although my work focuses on computer vision I am also interested in other modalities such as audition and touch. A system able to perceive the world through multiple senses might be able to learn without requiring massive curated datasets. Other interests include understanding neural networks, common-sense reasoning, computational photography, building image databases, ..., and the intersections between visual art and computation.
+
+Lab Members
+
+Adrián Rodríguez
+Grad student
+
+George Cazenavette
+Grad Student
+
+Joanna Materzynska
+Grad Student
+
+Kabir Swain
+Grad Student
+
+Krishna Murthy
+Postdoc
+
+Manel Baradad
+Grad Student
+
+Pratyusha Sharma
+Grad Student
+
+Sarah Schwettmann
+Research Scientist
+
+Shivam Duggal
+Grad Student
+
+Tamar Rott Shaham
+Postdoc
+
+Tongzhou Wang
+Grad Student
+
+Yichen Li
+Grad student
+
+Past Students and Postdocs
+
+Wei-Chiu Ma (Graduated 2023), Shuang Li (Graduated 2023), Ching-Yao Chuang (Graduated 2023), Tianmin Shu (Postdoc 2023), Hengshuang Zhao (Postdoc 2022), Xavier Puig Fernandez (Graduated 2022), Yunzhu Li (Graduated 2022), Nadiia Chepurko (Grad. Student), Ali Jahanian (Research scientist), David Bau (Graduated 2021), Dim P. Papadopoulos (Postdoc), Jonas Wulff (Postdoc), Adrià Recasens (Graduated 2019), Hang Zhao (Graduated 2019), Jun-Yan Zhu (Postdoc), Bolei Zhou (Graduated 2018), Carl Vondrick (Graduated 2017), Javier Marin (Postdoc), Yusuf Aytar (Postdoc) Andrew Owens (Graduated 2016), Aditya Khosla (Graduated 2016), Agata Lapedriza (Visiting professor, UOC), Joseph J. Lim (Graduated 2015), Lluis Castrejon (Visiting student, 2015), Hamed Pirsiavash (Postdoc), Zoya Gavrilov (Grad. Student). Tomasz Malisiewicz (Postdoc), Jianxiong Xiao (Graduated 2013), Biliana Kaneva (Graduated 2011), Jenny Yuen (Graduated 2011), Tilke Judd (Graduated 2011) Myung "Jin" Choi (Graduated 2011), James Hays (Postdoc), Bryan C. Russell (Graduated 2008).
+
+Book
+
+Foundations of Computer Vision
+with Phillip Isola and Bill Freeman
+MIT press
+
+Our book is finished!
+
+Lots of things have happened since we started thinking about this book in November 2010; yes, it has taken us more than 10 years to write this book. Our initial goal was to write a large book that provided a good coverage of the field. Unfortunately, the field of computer vision is just too large for that. So, we decided to write a small book instead, limiting each chapter to no more than five pages. Writing a short book was perfect because we did not have time to write a long book and you did not have time to read it. Unfortunately, we have failed at that goal, too. This book covers foundational topics within computer vision, with an image processing and machine learning perspective. The audience is undergraduate and graduate students who are entering the field, but we hope experienced practitioners will find the book valuable as well.
+
+Research
+
+It is all about context!
+
+Scene understanding and context driven object recognition.
+
+Integration of vision, audition and touch (and smell!): perceiving the world via multiple senses. I would like to study computer vision in the context of other perceptual modalities.
+
+Building datasets: AI is an empirical science. Measuring the world is an important part of asking questions about perception and building perceptual models. I am interested in building datasets with complex scenes, with objects in context and multiple perceptual modalities.
+
+Dissecting neural networks: visualization and interpretation of the representation learned by neural networks. GAN dissection and Network dissection.
+
+News
+
+2020 - Named the head of the faculty of artificial intelligence and decision-making (AI+D). AI+D is a new unit within EECS, which brings together machine learning, AI and decision making, while keeping strong connections with its roots in EE and CS. This unit focuses on faculty recruiting, mentoring, promotion, academic programs, and community building.
+
+2018 - 2020 MIT Quest for intelligence: I have been named inaugural director of the MIT Quest for Intelligence. The Quest is a campus-wide initiative to discover the foundations of intelligence and to drive the development of technological tools that can positively influence virtually every aspect of society.
+
+2017 - 2020 MIT IBM Watson AI lab: named the MIT director of the MIT IBM Watson AI lab.
+
+Cool news
+
+March 2022, I was awarded the Honoris Causa by UPC. I graduated from UPC in 1994.
+
+Late show with Stephen Colbert on the work by Carl and Hamed, Anticipating Visual Representations from Unlabeled Video. CVPR 2016.
+
+The Marilyn Monroe/Albert Einstein hybrid image by Aude Oliva on BBC.
+
+German TV science show on accidental cameras. Details about accidental cameras and some of our videos are available here.
+
+
+
+Datasets
+
+Virtual Home (2019). VirtualHome is a platform to simulate complex household activities via programs. Key aspect of VirtualHome is that it allows complex interactions with the environment, such as picking up objects, switching on/off appliances, opening appliances, etc. Our simulator can easily be called with a Python API: write the activity as a simple sequence of instructions which then get rendered in VirtualHome. You can choose between different agents and environments, as well as modify environments on the fly. You can also stream different ground-truth such as time-stamped actions, instance/semantic segmentation, and optical flow and depth. Check out more details of the environment and platform in www.virtual-home.org.
+
+Gaze 360 (2019). Understanding where people are looking is an informative social cue that machines need to understand to interact with humans. In this work, we present Gaze360, a large-scale gaze-tracking dataset and method for robust 3D gaze estimation in unconstrained images. Our dataset consists of 238 participants in indoor and outdoor environments with labelled 3D gaze across a wide range of head poses and distances.
+
+The Places Audio Caption Corpus (2018). The Places Audio Caption 400K Corpus contains approximately 400,000 spoken captions for natural images drawn from the Places 205 image dataset. It was collected to investigate multimodal learning schemes for unsupervised co-discovery of speech patterns and visual objects.
+
+ADE20K dataset (2017). 22.210 fully annotated images with over 430.000 object instances and 175.000 parts. All images are fully segmented with over 3000 object and part categories. A reduced version of the dataset is used for the scene parsing challenge.
+
+Places database (2017). The database contains more than 10 million images comprising 400+ scene categories. The dataset features 5000 to 30,000 training images per class. More details appear in: "Learning Deep Features for Scene Recognition using Places Database," B. Zhou, A. Lapedriza, J. Xiao, A. Torralba, and A. Oliva. NIPS 2014 (pdf). The Places database has two releases: Places release 1, contains 205 scene categories and 2,5 million of images. Places release 2, contains 400 scene categories and 10 million of images. Pre-trained models available here.
+
+CMPlaces (2016). CMPlaces is designed to train and evaluate cross-modal scene recognition models. It covers five different modalities: natural images, sketches, clip-art, text descriptions, and spatial text images. The dataset is organized with the same categories as the Places database. More details in paper.pdf
+
+Out of context objects (2012). The database contains 218 fully annotated images with at least one object out-of-context. Context models have been evaluated mostly based on the improvement of object recognition performance even though it is only one of many ways to exploit contextual information. Can you detect the out of context object? Detecting “out-of-context” objects and scenes is challenging because context violations can be detected only if the relationships between objects are carefully and precisely modeled. Project page
+
+LabelMe (2005). The goal of LabelMe is to provide an online annotation tool to build image databases for computer vision research. LabelMe started so long ago ... it is hard to believe it is still up an running.
+
+8 scene categories database (2001). This dataset contains 8 outdoor scene categories: coast, mountain, forest, open country, street, inside city, tall buildings and highways. There are 2600 color images, 256x256 pixels.
+
+
+
+
+Publications
+Google scholar
+2024
+Foundations of Computer Vision. Antonio Torralba, Phillip Isola, William T. Freeman. MIT press.
+A Vision Check-up for Language Models. Sharma, Pratyusha and Rott Shaham, Tamar and Baradad, Manel and Fu, Stephanie and Rodriguez-Munoz, Adrian and Duggal, Shivam and Isola, Phillip and Torralba, Antonio. CVPR 2024.
+Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models. H Ling, SW Kim, A Torralba, S Fidler, K Kreis. CVPR 2024.
+2023
+FIND: A Function Description Benchmark for Evaluating Interpretability Methods. Sarah Schwettmannn*, Tamar Rott Shaham*, Joanna Materzynska, Neil Chowdhury, Shuang Li, Jacob Andreas, David Bau, Antonio Torralba. NeurIPS.
+Improving Factuality and Reasoning in Language Models through Multiagent Debate. Y Du, S Li, A Torralba, JB Tenenbaum, I Mordatch. arXiv preprint arXiv:2305.14325.
+Conceptfusion: Open-set multimodal 3d mapping. Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba. RSS 2023.
+Generalizing Dataset Distillation via Deep Generative Prior. G Cazenavette, T Wang, A Torralba, AA Efros, JY Zhu. CVPR 2023.
+Contextual and Combinatorial Structure in Sperm Whale Vocalisations. P Sharma, S Gero, R Payne, D Gruber, D Rus, A Torralba, J Andreas. bioRxiv, 2023.12. 06.570484.
+2022
+Aliasing is a Driver of Adversarial Attacks. A Rodríguez-Muñoz, A Torralba. arXiv preprint arXiv:2212.11760.
+Procedural Image Programs for Representation Learning. Manel Baradad, Chun-Fu (Richard) Chen, Jonas Wulff, Tongzhou Wang, Rogerio Feris, Antonio Torralba, Phillip Isola. NeurIPS, 2022.
+Learning Neural Acoustic Fields. Andrew Luo, Yilun Du, Michael Tarr, Josh Tenenbaum, Antonio Torralba, Chuang Gan. NeurIPS, 2022.
+Pre-Trained Language Models for Interactive Decision-Making. Shuang Li, Xavier Puig, Chris Paxton, Yilun Du, Clinton Wang, Linxi Fan, Tao Chen, De-An Huang, Ekin Akyürek, Anima Anandkumar · Jacob Andreas, Igor Mordatch, Antonio Torralba, Yuke Zhu. NeurIPS, 2022.
+ActionNet: A Multimodal Dataset for Human Activities Using Wearable Sensors in a Kitchen Environment. Joseph DelPreto, Chao Liu, Yiyue Luo, Michael Foshey, Yunzhu Li, Antonio Torralba, Wojciech Matusik, Daniela Rus. NeurIPS, 2022.
+Towards Understanding the Communication in Sperm Whales. Jacob Andreas, Gašper Beguš, Michael M Bronstein, Roee Diamant, Denley Delaney, Shane Gero, Shafi Goldwasser, David F Gruber, Sarah de Haas, Peter Malkin, Nikolay Pavlov, Roger Payne, Giovanni Petri, Daniela Rus, Pratyusha Sharma, Dan Tchernov, Pernille Tønnesen, Antonio Torralba, Daniel Vogt, Robert J Wood. iScience, 104393.
+Correcting Robot Plans with Natural Language Feedback. Pratyusha Sharma, Balakumar Sundaralingam, Valts Blukis, Chris Paxton, Tucker Hermans, Antonio Torralba, Jacob Andreas, Dieter Fox. RSS.
+MTFormer: Multi-task Learning via Transformer and Cross-Task Reasoning. Xiaogang Xu, Hengshuang Zhao, Vibhav Vineet, Ser-Nam Lim, Antonio Torralba. ECCV, 2022.
+Compositional Visual Generation with Composable Diffusion Models. N Liu, S Li, Y Du, A Torralba, JB Tenenbaum. ECCV.
+Totems: Physical Objects for Verifying Visual Integrity. J Ma, L Chai, M Huh, T Wang, SN Lim, P Isola, A Torralba. ECCV.
+Skill induction and planning with latent language. Pratyusha Sharma, Antonio Torralba, and Jacob Andreas. ACL.
+Self-powered sensing systems with learning capability. Avinash Alagumalai, Wan Shou, Omid Mahian, Mortaza Aghbashlo, Meisam Tabatabaei, Somchai Wongwises, Yong Liu, Justin Zhan, Antonio Torralba, Jun Chen, ZhongLin Wang, Wojciech Matusik. Joule.
+3D neural scene representations for visuomotor control. Y Li, S Li, V Sitzmann, P Agrawal, A Torralba. Conference on Robot Learning, 112-123.
+Denoised MDPs: Learning World Models Better Than the World Itself. T Wang, SS Du, A Torralba, P Isola, A Zhang, Y Tian. arXiv preprint arXiv:2206.15477.
+Pre-trained language models for interactive decision-making. S Li, X Puig, Y Du, C Wang, E Akyurek, A Torralba, J Andreas, I Mordatch. arXiv preprint arXiv:2202.01771.
+Incidents1M: a large-scale dataset of images with natural disasters, damage, and incidents. E Weber, DP Papadopoulos, A Lapedriza, F Ofli, M Imran, A Torralba. arXiv preprint arXiv:2201.04236.
+Learning Neural Acoustic Fields. A Luo, Y Du, MJ Tarr, JB Tenenbaum, A Torralba, C Gan. arXiv preprint arXiv:2204.00628.
+ComPhy: Compositional Physical Reasoning of Objects and Events from Videos. Z Chen, K Yi, Y Li, M Ding, A Torralba, JB Tenenbaum, C Gan. arXiv preprint arXiv:2205.01089.
+The threedworld transport challenge: A visually guided task-and-motion planning benchmark towards physically realistic embodied AI. Chuang Gan, Siyuan Zhou, Jeremy Schwartz, Seth Alter, Abhishek Bhandwaldar, Dan Gutfreund, Daniel LK Yamins, James J DiCarlo, Josh McDermott, Antonio Torralba, Joshua B Tenenbaum. International Conference on Robotics and Automation (ICRA), 8847-8854, 2022.
+Natural Language Descriptions of Deep Visual Features. Evan Hernandez, Sarah Schwettmann, David Bau, Teona Bagashvili, Antonio Torralba and Jacob Andreas. ICLR 2022.
+Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps. Seung Wook Kim, Karsten Kreis, Daiqing Li, Antonio Torralba, Sanja Fidler. CVPR 2022.
+BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations. Daiqing Li, Huan Ling, Seung Wook Kim, Karsten Kreis, Adela Barriuso, Sanja Fidler, Antonio Torralba. CVPR 2022.
+Ego4d: Around the world in 3,000 hours of egocentric video. K Grauman, et al. CVPR 2022.
+Learning Program Representations for Food Images and Cooking Recipes. DP Papadopoulos, E Mora, N Chepurko, KW Huang, F Ofli, A Torralba. CVPR 2022.
+Fixing malfunctional objects with learned physical simulation and functional prediction. Y Hong, K Mo, L Yi, LJ Guibas, A Torralba, JB Tenenbaum, C Gan. CVPR 2022.
+Disentangling Visual and Written Concepts in CLIP. J Materzyńska, A Torralba, D Bau. CVPR 2022.
+Virtual Correspondence: Humans as a Cue for Extreme-View Geometry. Wei-Chiu Ma, AJ Yang, S Wang, R Urtasun, A Torralba. CVPR 2022.
+Gan-supervised dense visual alignment. W Peebles, JY Zhu, R Zhang, A Torralba, AA Efros, E Shechtman. CVPR 2022.
+Dataset distillation by matching training trajectories. G Cazenavette, T Wang, A Torralba, AA Efros, JY Zhu. CVPR 2022.
+Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation. G Cazenavette, T Wang, A Torralba, AA Efros, JY Zhu. CVPR workshop 2022.
+Finding Fallen Objects Via Asynchronous Audio-Visual Integration. Chuang Gan, Yi Gu, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B Tenenbaum, Josh H McDermott, Antonio Torralba. CVPR 2022.
+Robust contrastive learning against noisy views. Ching-Yao Chuang, R Devon Hjelm, Xin Wang, Vibhav Vineet, Neel Joshi, Antonio Torralba, Stefanie Jegelka, Yale Song. CVPR 2022.
+2021
+Learning to compose visual relations. N Liu, S Li, Y Du, J Tenenbaum, A Torralba. Advances in Neural Information Processing Systems 34, 23166-23178.
+Editing a classifier by rewriting its prediction rules. S Santurkar, D Tsipras, M Elango, D Bau, A Torralba, A Madry. Advances in Neural Information Processing Systems 34, 23359-23373.
+EditGAN: High-Precision Semantic Image Editing. Huan Ling, Karsten Kreis, Daiqing Li, Seung Wook Kim, Antonio Torralba, Sanja Fidler. Advances in Neural Information Processing Systems 34, 16331-16345.
+Ptr: A benchmark for part-based conceptual, relational, and physical reasoning. Y Hong, L Yi, J Tenenbaum, A Torralba, C Gan. Advances in Neural Information Processing Systems 34, 17427-17440.
+Next-generation deep learning based on simulators and synthetic data. CM de Melo, A Torralba, L Guibas, J DiCarlo, R Chellappa, J Hodgins. Trends in cognitive sciences.
+Learning to See by Looking at Noise. Manel Baradad*, Jonas Wulff*, Tongzhou Wang, Phillip Isola, Antonio Torralba. NeurIPS 2021.
+Dynamic Modeling of Hand-Object Interactions via Tactile Sensing. Qiang Zhang*, Yunzhu Li*, Yiyue Luo, Wan Shou, Michael Foshey, Junchi Yan, Joshua B. Tenenbaum, Wojciech Matusik, and Antonio Torralba. IROS 2021.
+BARF: Bundle-Adjusting Neural Radiance Fields. Chen-Hsuan Lin, Wei-Chiu Ma, Antonio Torralba, Simon Lucey. ICCV 2021.
+Scaling Up Instance Annotation via Label Propagation. Dim P. Papadopoulos, Ethan Weber, Antonio Torralba. ICCV 2021.
+Toward a Visual Concept Vocabulary for GAN Latent Space. Sarah Schwettmann, Evan Hernandez, David Bau, Samuel Klein, Jacob Andreas, Antonio Torralba. ICCV 2021.
+What You Can Learn by Staring at a Blank Wall. Prafull Sharma, Miika Aittala, Yoav Y. Schechner, Antonio Torralba, Gregory W. Wornell, William T. Freeman, Fredo Durand. ICCV 2021.
+Weakly Supervised Human-Object Interaction Detection in Video via Contrastive Spatiotemporal Regions. Shuang Li, Yilun Du, Antonio Torralba, Josef Sivic, Bryan Russell. ICCV 2021.
+3D Neural Scene Representations for Visuomotor Control. Yunzhu Li*, Shuang Li*, Vincent Sitzmann, Pulkit Agrawal, and Antonio Torralba. CoRL 2021.
+DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort. Yuxuan Zhang, Huan Ling, Jun Gao, Kangxue Yin, Jean-Francois Lafleche, Adela Barriuso, Antonio Torralba, Sanja Fidler. CVPR 2021.
+Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization. Daiqing Li, Junlin Yang, Karsten Kreis, Antonio Torralba, Sanja Fidler. CVPR 2021.
+DriveGAN: Towards a Controllable High-Quality Neural Simulation. Seung Wook Kim, Jonah Philion, Antonio Torralba, Sanja Fidler. CVPR 2021.
+IntelligentCarpet: Inferring 3D Human Pose from Tactile Signals. Y.Luo, Y.Li, M. Foshey, W. Shou, P. Sharma, T. Palacios, A. Torralba, W. Matusik. CVPR 2021.
+Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration. X Puig, T Shu, S Li, Z Wang, JB Tenenbaum, S Fidler, A Torralba. International Conference on Learning Representations (ICLR), 2021.
+Image GANs meet differentiable rendering for inverse graphics and interpretable 3d neural rendering. Y Zhang, W Chen, H Ling, J Gao, Y Zhang, A Torralba, S Fidler. International Conference on Learning Representations (ICLR), 2021.
+Learning Human-environment Interactions using Conformal Tactile Textiles. Y.Luo, Y.Li, P. Sharma, W. Shou, K. Wu, M. Foshey, B. Li, T. Palacios, A. Torralba, W. Matusik. Nature Electronics, 4, 193–201, 2021.
+2020
+Understanding the role of individual units in a deep neural network. D Bau, JY Zhu, H Strobelt, A Lapedriza, B Zhou, A Torralba. Proceedings of the National Academy of Sciences. Sept 2020.
+The hessian penalty: A weak prior for unsupervised disentanglement. W Peebles, J Peebles, JY Zhu, A Efros, A Torralba. European Conference on Computer Vision. ECCV 2020.
+Rewriting a Deep Generative Model. D Bau, S Liu, T Wang, JY Zhu, A Torralba. European Conference on Computer Vision, 351-369. ECCV 2020.
+Deep feedback inverse problem solver. WC Ma, S Wang, J Gu, S Manivasagam, A Torralba, R Urtasun. European Conference on Computer Vision, 229-246. ECCV 2020.
+Foley Music: Learning to Generate Music from Videos. Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba. European Conference on Computer Vision, ECCV 2020.
+Detecting natural disasters, damage, and incidents in the wild. E Weber, N Marzo, DP Papadopoulos, A Biswas, A Lapedriza, F Ofli, M Imran, A Torralba. European Conference on Computer Vision, ECCV 2020.
+Debiased contrastive learning. CY Chuang, J Robinson, YC Lin, A Torralba, S Jegelka. Advances in Neural Information Processing Systems 33. NeurIPS 2020.
+Causal discovery in physical systems from videos. Y Li, A Torralba, A Anandkumar, D Fox, A Garg. Advances in Neural Information Processing Systems 33. NeurIPS 2020.
+Estimating Generalization under Distribution Shifts via Domain-Invariant Representations. Ching-Yao Chuang, Antonio Torralba, and Stefanie Jegelka ICML 2020.
+CLEVRER: CoLlision Events for Video REpresentation and Reasoning. Kexin Yi*, Chuang Gan*, Yunzhu Li, Pushmeet Kohli, Jiajun Wu, Antonio Torralba, Joshua B. Tenenbaum. ICLR 2020.
+Deep Audio Priors Emerge From Harmonic Convolutional Networks. Zhoutong Zhang, Yunyun Wang, Chuang Gan, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba, William T. Freeman. ICLR 2020.
+Learning Compositional Koopman Operators for Model-Based Control. Yunzhu Li*, Hao He*, Jiajun Wu, Dina Katabi, and Antonio Torralba. ICLR 2020.
+Music Gesture for Visual Sound Separation. Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba. CVPR 2020.
+Height and Uprightness Invariance for 3D Prediction from a Single View. Manel Baradad and Antonio Torralba. CVPR 2020.
+Diverse Image Generation via Self-Conditioned GANs. Steven Liu, Tongzhou Wang, David Bau, Jun-Yan Zhu, Antonio Torralba. CVPR 2020.
+Learning to Simulate Dynamic Environments with GameGAN. Seung Wook Kim, Yuhao Zhou, Jonah Philion, Antonio Torralba, Sanja Fidler. CVPR 2020.
+2019
+Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input. David Harwath, Adria Recasens, Dıdac Surıs, Galen Chuang, Antonio Torralba, and James Glass. IJCV 2019.
+Seeing What a GAN Cannot Generate. D Bau, JY Zhu, J Wulff, W Peebles, H Strobelt, B Zhou, A Torralba. ICCV 2019.
+Gaze360: Physically Unconstrained Gaze Estimation in the Wild. P. Kellnhofer*, A. Recasens*, S. Stent, W. Matusik and A. Torralba. ICCV 2019.
+Self-supervised Moving Vehicle Tracking with Stereo Sound. Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba. ICCV 2019.
+Through-Wall Human Mesh Recovery Using Radio Signals. Mingmin Zhao, Yingcheng Liu, Aniruddh Raghu, Hang Zhao, Tianhong Li, Antonio Torralba, Dina Katabi. ICCV 2019.
+The Sound of Motions. Hang Zhao, Chuang Gan, Wei-Chiu Ma, Antonio Torralba. ICCV 2019.
+HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization. Hang Zhao, Zhicheng Yan, Lorenzo Torresani, Antonio Torralba. ICCV 2019.
+Meta Sim: Learning to Generate Synthetic Datasets. Amlan Kar, Aayush Prakash, Ming-Yu Liu, Eric Cameracci, Justin Yuan, Matt Rusiniak, David Acuna, Antonio Torralba, Sanja Fidler. ICCV 2019.
+Neural Turtle Graphics for Modeling City Road Layouts. Hang Chu, Daiqing Li, David Acuna, Amlan Kar, Maria Shugrina, Xinkai Wei, Ming-Yu Liu, Antonio Torralba , Sanja Fidler. ICCV 2019.
+Semantic Photo Manipulation with a Generative Image Prior. David Bau, Hendrik Strobelt, William Peebles, Jonas Wulff, Bolei Zhou, Jun-Yan Zhu, Antonio Torralba. SIGGRAPH 2019.
+Learning the Signatures of the Human Grasp Using a Scalable Tactile Glove. Subramanian Sundaram, Petr Kellnhofer, Yunzhu Li, Jun-Yan Zhu, Antonio Torralba, and Wojciech Matusik. Nature, 569 (7758), 2019. PROJECT PAGE.
+Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images. Javier Marin, Aritro Biswas, Ferda Ofli, Nicholas Hynes, Amaia Salvador, Yusuf Aytar, Ingmar Weber, and Antonio Torralba. IEEE transactions on pattern analysis and machine intelligence.
+Synthesizing Environment-Aware Activities via Activity Sketches. A. Liao*, X. Puig*, M. Boben, A. Torralba, S.Fidler. Computer Vision and Pattern Recognition (CVPR), 2019.
+Connecting Touch and Vision via Cross-Modal Prediction. Yunzhu Li, Jun-Yan Zhu, Russ Tedrake, Antonio Torralba. Computer Vision and Pattern Recognition (CVPR), 2019.
+How to Make a Pizza: Learning a Compositional Layer-Based GAN Model. DP Papadopoulos, Y Tamaazousti, F Ofli, I Weber, A Torralba. Computer Vision and Pattern Recognition (CVPR), 2019.
+Learning Words by Drawing Images. Dídac Surís*, Adrià Recasens*, David Bau, David Harwath, James Glass and Antonio Torralba. Computer Vision and Pattern Recognition (CVPR), 2019.
+Semantic Understanding of Scenes through ADE20K Dataset. Bolei Zhou, Hang Zhao, Xavier Puig, Tete Xiao, Sanja Fidler, Adela Barriuso and Antonio Torralba. International Journal of Computer Vision. March 2019, Volume 127, Issue 3, pp 302–321. ADE20K DATASET | CHALLENGE PAGE | TOOLKIT+CODE | DEMO
+Self-supervised Audio-visual Co-segmentation. Andrew Rouditchenko, Hang Zhao, Chuang Gan, Josh McDermott, Antonio Torralba ICASSP 2019
+GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba. ICLR 2019 PROJECT PAGE
+Grounding Spoken Words in Unlabeled Video. Angie Boggust, Kartik Audhkhasi, Dhiraj Joshi, David Harwath, Samuel Thomas, Rogerio Feris, Danny Gutfreund, Yang Zhang, Antonio Torralba, Michael Picheny, James Glass. Sight and Sounds CVPR Workshop
+Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids. Yunzhu Li, Jiajun Wu, Russ Tedrake, Joshua B. Tenenbaum, and Antonio Torralba. ICLR 2019 PROJECT PAGE | VIDEO
+Propagation Networks for Model-Based Control Under Partial Observation. Yunzhu Li, Jiajun Wu, Jun-Yan Zhu, Joshua B. Tenenbaum, Antonio Torralba, and Russ Tedrake. ICRA 2019 PROJECT PAGE | VIDEO
+2018
+Dataset Distillation. Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba, Alexei A. Efros. arXiv 2018 PROJECT PAGE
+Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding. Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Josh Tenenbaum. NeurIPS 2018
+3D-Aware Scene Manipulation via Inverse Graphics. Shunyu Yao, Tzu Ming Hsu, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, Bill Freeman, and Josh Tenenbaum. NeurIPS 2018
+Visual Object Networks: Image Generation with Disentangled 3D Representations. Jun-Yan Zhu, Zhoutong Zhang, Chengkai Zhang, Jiajun Wu, Antonio Torralba, Josh Tenenbaum, and Bill Freeman. NeurIPS 2018
+Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input. David Harwath, Adria Recasens, Dıdac Surıs, Galen Chuang, Antonio Torralba, and James Glass. European Conference on Computer Vision (ECCV) 2018
+Temporal Relational Reasoning in Videos. Bolei Zhou, Alex Andonian, Aude Oliva, and Antonio Torralba. European Conference on Computer Vision (ECCV) 2018
+Single Image Intrinsic Decomposition Without a Single Intrinsic Image. Wei-Chiu Ma, Hang Chu, Bolei Zhou, Raquel Urtasun, Antonio Torralba. European Conference on Computer Vision (ECCV) 2018
+Learning to Zoom: a Saliency-Based Sampling Layer for Neural Networks. A. Recasens*, P. Kellnhofer*, S. Stent, W. Matusik and A. Torralba European Conference on Computer Vision (ECCV) 2018 PROJECT PAGE
+The Sound of Pixels. H Zhao, C Gan, A Rouditchenko, C Vondrick, J McDermott, A Torralba. European Conference on Computer Vision (ECCV) 2018
+Interpretable Basis Decomposition for Visual Explanation. Bolei Zhou, Yiyou Sun, David Bau, Antonio Torralba. European Conference on Computer Vision (ECCV) 2018
+RF-based 3D Skeletons. Mingmin Zhao, Yonglong Tian, Hang Zhao, Mohammad Abu Alsheikh, Tianhong Li, Rumen Hristov, Zachary Kabelac, Dina Katabi, Antonio Torralba. Proceedings of the 2018 Conference of the ACM Special Interest Group on Data Communication
+Through-wall human pose estimation using radio signals. M Zhao, T Li, M Abu Alsheikh, Y Tian, H Zhao, A Torralba, D Katabi. Computer Vision and Pattern Recognition (CVPR) 2018
+VirtualHome: Simulating Household Activities via Programs. Xavier Puig, Kevin Ra, Marko Boben, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba. Computer Vision and Pattern Recognition (CVPR) 2018
+Inferring Light Fields From Shadows. Manel Baradad, Vickie Ye, Adam B Yedidia, Frédo Durand, William T Freeman, Gregory W Wornell, Antonio Torralba. Computer Vision and Pattern Recognition (CVPR) 2018
+Learning to Act Properly: Predicting and Explaining Affordances from Images. CY Chuang, J Li, A Torralba, S Fidler. Computer Vision and Pattern Recognition (CVPR) 2018
+Real-Time Object Pose Estimation with Pose Interpreter Networks. Jimmy Wu, Bolei Zhou, Rebecca Russell, Vincent Kee, Syler Wagner, Mitchell Hebert, Antonio Torralba, and David M.S. Johnson. International Conference on Intelligent Robots (IROS), 2018
+Exploiting occlusion in non-line-of-sight active imaging. Christos Thrampoulidis, Gal Shulkind, Feihu Xu, William T Freeman, Jeffrey Shapiro, Antonio Torralba, Franco Wong, Gregory Wornell. IEEE Transactions on Computational Imaging.
+Revisiting the Importance of Individual Units in CNNs via Ablation. B Zhou, Y Sun, D Bau, A Torralba. arXiv preprint arXiv:1806.02891
+Revealing hidden scenes by photon-efficient occlusion-based opportunistic active imaging. Feihu Xu, Gal Shulkind, Christos Thrampoulidis, Jeffrey H Shapiro, Antonio Torralba, Franco NC Wong, Gregory W Wornell. Optical Society of America.
+Jointly Discovering Visual Objects and Spoken Words from Raw Sensory Input. D Harwath, A Recasens, D Surís, G Chuang, A Torralba, J Glass. arXiv preprint arXiv:1804.01452
+3D Interpreter Networks for Viewer-Centered Wireframe Modeling. J Wu, T Xue, JJ Lim, Y Tian, JB Tenenbaum, A Torralba, WT Freeman. International Journal of Computer Vision, 1-18
+2017
+Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning. A Owens, J Wu, JH McDermott, WT Freeman, A Torralba. International Journal of Computer Vision, vol 126, 2018.
+Exploiting Occlusion in Non-Line-of-Sight Active Imaging. Christos Thrampoulidis, Gal Shulkind, Feihu Xu, William T Freeman, Jeffrey H Shapiro, Antonio Torralba, Franco NC Wong, Gregory W Wornell. arXiv preprint arXiv:1711.06297
+Interpreting Deep Visual Representations via Network Dissection. Bolei Zhou, David Bau, Aude Oliva, Antonio Torralba. arXiv preprint arXiv:1711.05611
+Following gaze in video. Adrià Recasens, Carl Vondrick, Aditya Khosla and Antonio Torralba. International Conference in Computer Vision (ICCV), 2017.
+Turning Corners into Cameras: Principles and Methods. K.L. Bouman, V. Ye, A.B. Yedidia, F. Durand, G.W. Wornell, A. Torralba, W.T. Freeman. International Conference in Computer Vision (ICCV), 2017.
+Open vocabulary scene parsing. Hang Zhao, Xavier Puig, Bolei Zhou, Sanja Fidler, Antonio Torralba. International Conference in Computer Vision (ICCV), 2017.
+Cross-Modal Scene Networks. Yusuf Aytar*, Lluis Castrejon*, Carl Vondrick, Hamed Pirsiavash, Antonio Torralba. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2017. PROJECT PAGE
+See, Hear, and Read: Deep Aligned Representations. Yusuf Aytar, Carl Vondrick, Antonio Torralba. arXiv. PROJECT PAGE
+Who is Mistaken? Benjamin Eysenbach, Carl Vondrick, Antonio Torralba. arXiv. PROJECT PAGE
+Network Dissection: Quantifying Interpretability of Deep Visual Representations. David Bau*, Bolei Zhou*, Aditya Khosla, Aude Oliva, and Antonio Torralba. Computer Vision and Pattern Recognition (CVPR), 2017. PROJECT PAGE | CODE RELEASE
+Generating the Future with Adversarial Transformers. Carl Vondrick, Antonio Torralba. Computer Vision and Pattern Recognition (CVPR), 2017.
+Scene Parsing through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. Barriuso and A. Torralba. Computer Vision and Pattern Recognition (CVPR), 2017. ADE20K DATASET | CHALLENGE PAGE | TOOLKIT+CODE | DEMO
+Learning Cross-modal Embeddings for Cooking Recipes and Food Images. A. Salvador*, N. Hynes*, Y. Aytar, J. Marin, F. Ofli, I. Weber, A. Torralba. Computer Vision and Pattern Recognition (CVPR), 2017.
+A Compositional Object-Based Approach to Learning Physical Dynamics. Michael B. Chang, Tomer Ullman, Antonio Torralba, Joshua B. Tenenbaum. ICLR 2017.
+2016
+Semantic Understanding of Scenes through ADE20K Dataset. B. Zhou, H. Zhao, X. Puig, S. Fidler, A. Barriuso and A. Torralba. International Journal of Computer Vision. ADE20K DATASET | CHALLENGE PAGE | TOOLKIT+CODE | DEMO
+SoundNet: Learning Sound Representations from Unlabeled Video. Yusuf Aytar, Carl Vondrick, Antonio Torralba. Advances in Neural Information Processing Systems (NIPS), 2016. PROJECT PAGE
+Generating Videos with Scene Dynamics. Carl Vondrick, Hamed Pirsiavash, Antonio Torralba. Advances in Neural Information Processing Systems (NIPS), 2016. PROJECT PAGE
+Unsupervised Learning of Spoken Language with Visual Context. David Harwath, Antonio Torralba, James Glass. Advances in Neural Information Processing Systems (NIPS), 2016.
+Ambient Sound Provides Supervision for Visual Learning. Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, and Antonio Torralba. European Conference in Computer Vision (ECCV), 2016.
+Where should saliency models look next? Zoya Bylinskii, Adrià Recasens, Ali Borji, Aude Oliva, Fredo Durand and Antonio Torralba. European Conference in Computer Vision (ECCV), 2016.
+Single Image 3D Interpreter Network. Jiajun Wu, Tianfan Xue, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba, and William T. Freeman. European Conference in Computer Vision (ECCV), 2016.
+Learning Deep Features for Discriminative Localization. Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba. Conference on Computer Vision and Pattern Recognition (CVPR), 2016. PROJECT PAGE
+MovieQA: Understanding Stories in Movies through Question-Answering. Makarand Tapaswi, Yukun Zhu, Reiner Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler. Conference on Computer Vision and Pattern Recognition (CVPR), 2016. PROJECT PAGE
+Learning Aligned Cross-Modal Representations from Weakly Aligned Data. Lluis Castrejon*, Yusuf Aytar*, Carl Vondrick, Hamed Pirsiavash, Antonio Torralba. Conference on Computer Vision and Pattern Recognition (CVPR), 2016. PROJECT PAGE
+Predicting Motivations of Actions by Leveraging Text. Carl Vondrick, Deniz Oktay, Hamed Pirsiavash, Antonio Torralba. Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+Anticipating Visual Representations from Unlabeled Video. Carl Vondrick, Hamed Pirsiavash, Antonio Torralba. Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+Visually Indicated Sounds. Andrew Owens, Phillip Isola, Josh McDermott, Antonio Torralba, Edward H. Adelson, William T. Freeman. Conference on Computer Vision and Pattern Recognition (CVPR), 2016. PROJECT PAGE
+Eye Tracking for Everyone. Kyle Krafka*, Aditya Khosla*, Petr Kellnhofer, Suchi Bhandarkar, Wojciech Matusik and Antonio Torralba. Conference on Computer Vision and Pattern Recognition (CVPR), 2016. PROJECT PAGE
+Visualizing Object Detection Features. Carl Vondrick, Aditya Khosla, Hamed Pirsiavash, Tomasz Malisiewicz, Antonio Torralba. International Journal of Computer Vision, March 2016. PROJECT PAGE
+What do different evaluation metrics tell us about saliency models? Zoya Bylinskii, Tilke Judd, Aude Oliva, Antonio Torralba, Fredo Durand. Arxiv, April 2016.
+Comparison of Deep Neural Networks to Spatio-temporal Cortical Dynamics of Human Visual Object Recognition reveals Hierarchical Correspondence. Radoslaw M. Cichy, Aditya Khosla, Dimitrios Pantazis, Antonio Torralba and Aude Oliva. Scientific Reports, 2016. PROJECT PAGE
+2015
+Aligning books and movies: Towards story-like visual explanations by watching movies and reading books. Y Zhu, R Kiros, R Zemel, R Salakhutdinov, R Urtasun, A Torralba, S Fidler. International Conference on Computer Vision (ICCV), 2015. PROJECT PAGE
+Understanding and Predicting Image Memorability at a Large Scale. Aditya Khosla, Akhil S. Raju, Antonio Torralba and Aude Oliva. International Conference on Computer Vision (ICCV), 2015. PROJECT PAGE
+Where Are They Looking? Adrià Recasens*, Aditya Khosla*, Carl Vondrick and Antonio Torralba. ( *equal contribution). Advances in Neural Information Processing Systems (NIPS), 2015. PROJECT PAGE | VIDEO
+Skip-Thought Vectors. Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler. Advances in Neural Information Processing Systems (NIPS), 2015. PROJECT PAGE
+Learning Visual Biases from Human Imagination. Carl Vondrick, Hamed Pirsiavash, Aude Oliva, and Antonio Torralba. Advances in Neural Information Processing Systems (NIPS), 2015. PROJECT PAGE.
+Object Detectors Emerge in Deep Scene CNNs. Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva and Antonio Torralba. ICLR 2015.
+Intrinsic and Extrinsic Effects on Image Memorability. Bylinskii, Z., Isola, P., Bainbridge, C., Torralba, A., Oliva, A. Vision Research 2015.
+2014
+Learning Deep Features for Scene Recognition using Places Database. B. Zhou, A. Lapedriza, J. Xiao, A. Torralba, and A. Oliva. Advances in Neural Information Processing Systems 27 (NIPS), 2014. PROJECT PAGE. | DEMO
+Accidental pinhole and pinspeck cameras. Revealing the scene outside the picture. A. Torralba, and W. T. Freeman. International Journal of Computer Vision. November 2014, Volume 110, Issue 2, pp 92–112. TALK | PROJECT PAGE | PAPER.PDF
+SUN Database: Exploring a Large Collection of Scene Categories. J Xiao, KA Ehinger, J Hays, A Torralba, A Oliva. International Journal of Computer Vision. 2014. PROJECT PAGE
+FPM: Fine pose Parts-based Model with 3D CAD models. Joseph Lim, Aditya Khosla, and Antonio Torralba. ECCV 2014, Zurich, Switzerland.
+Assessing the Quality of Actions. Hamed Pirsiavash, Carl Vondrick, and Antonio Torralba. ECCV 2014, Zurich, Switzerland. PROJECT PAGE.
+Recognizing City Identity via Attribute Analysis of Geo-tagged Images. B. Zhou, L. Liu, A. Oliva and A. Torralba. ECCV 2014, Zurich, Switzerland.
+Inferring the Why in Images. Hamed Pirsiavash*, Carl Vondrick*, and Antonio Torralba. ( *equal contribution). Tech Report.
+Acquiring Visual Classifiers from Human Imagination. Carl Vondrick, Hamed Pirsiavash, Aude Oliva, and Antonio Torralba. Tech Report. PROJECT PAGE.
+2013
+Are all training examples equally valuable? A. Lapedriza, H. Pirsiavash, Z. Bylinskii, and A. Torralba. arXiv preprint arXiv:1311.6510, 2013.
+HOGgles: Visualizing Object Detection Features. Carl Vondrick, Aditya Khosla, Tomasz Malisiewicz, and Antonio Torralba. International Conference on Computer Vision (ICCV), 2013. PROJECT PAGE.
+Modifying the Memorability of Face Photographs. Aditya Khosla, Wilma A. Bainbridge, Antonio Torralba and Aude Oliva. International Conference on Computer Vision (ICCV), 2013. PROJECT PAGE.
+Parsing IKEA Objects: Fine Pose Estimation. Joseph Lim, Hamed Pirsiavash, and Antonio Torralba. International Conference on Computer Vision (ICCV), 2013.
+SUN3D: A Database of Big Spaces Reconstructed using SfM and Object Labels. Jianxiong Xiao, Andrew Owens, and Antonio Torralba. International Conference on Computer Vision (ICCV), 2013. PROJECT PAGE.
+Shape Anchors for Data-driven Multi-view Reconstruction. Andrew Owens, Jianxiong Xiao, Antonio Torralba, and William T. Freeman. International Conference on Computer Vision (ICCV), 2013.
+What makes a photograph memorable? Isola, P., Xiao, J., Parikh, D, Torralba, A., and Oliva, A. IEEE Transactions on Pattern Analysis and Machine Intelligence, in press.
+Learning with Hierarchical-Deep Models. R. Salakhutdinov, J. B. Tenenbaum, and A. Torralba. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 35, no. 8, pp. 1958-1971, Aug. 2013.
+2012
+Notes on image annotation. A. Barriuso and A. Torralba. arXiv:1210.3448 [cs.CV] (unreferred).
+Localizing 3D Cuboids in Single-view Images. J. Xiao, B. C. Russell, and A. Torralba. Advances in Neural Information Processing Systems 25 (NIPS2012).
+Memorability of Image Regions. A. Khosla, J. Xiao, A. Torralba and A. Oliva. Advances in Neural Information Processing Systems 25 (NIPS2012).
+Undoing the Damage of Dataset Bias. Aditya Khosla, Tinghui Zhou, Tomasz Malisiewicz, Alexei A. Efros, and Antonio Torralba. European Conference on Computer Vision (ECCV), 2012.
+Multidimensional Spectral Hashing. Y. Weiss, Rob Fergus, and Antonio Torralba. European Conference on Computer Vision (ECCV), 2012.
+Recognizing Scene Viewpoint using Panoramic Place Representation. J. Xiao, K. A. Ehinger, A. Oliva and A. Torralba. Proceedings of 25th IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012) PROJECT PAGE AND SUN360 DATABASE
+Accidental pinhole and pinspeck cameras: revealing the scene outside the picture A. Torralba and W. T. Freeman. Proceedings of 25th IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012) TALK | PROJECT PAGE | PAPER.PDF
+A Tree-Based Context Model for Object Recognition. Myung Jin Choi, Antonio Torralba, and Alan S. Willsky. IEEE Transactions on Pattern Analysis and Machine Intelligence, February 2012 (vol. 34 no. 2), pp. 240-252. PROJECT PAGE
+Context Models and Out-of-context Objects. Myung Jin Choi, Antonio Torralba, and Alan S. Willsky. Pattern Recognition Letters, Volume 33, Issue 7, 1 May 2012, Pages 853-862. PROJECT PAGE AND DATABASE OF OUT OF CONTEXT OBJECTS
+2011
+Nonparametric Scene Parsing via Label Transfer C. Liu, J. Yuen and A. Torralba. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol 33, No. 12, 2011. PROJECT PAGE
+Transfer Learning by Borrowing Examples for Multiclass Object Detection J. J. Lim, R. Salakhutdinov, A. Torralba. NIPS, 2011, Granada, Spain PROJECT PAGE
+Understanding the intrinsic memorability of images P. Isola, D. Parikh, A. Torralba, A. Oliva. NIPS, 2011, Granada, Spain PROJECT PAGE
+Learning to Learn with Compound Hierarchical-Deep Models R. Salakhutdinov, J. Tenenbaum , A. Torralba. NIPS, 2011, Granada, Spain
+Evaluation of Image Features Using a Photorealistic Virtual World B. Kaneva, A. Torralba, W.T. Freeman. ICCV, 2011, Barcelona, Spain
+What makes an image memorable? P. Isola, J. Xiao, A. Torralba, A. Oliva. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011. PROJECT PAGE
+Learning to Share Visual Appearance for Multiclass Object Detection R. Salakhutdinov, A. Torralba, J. Tenenbaum. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
+Unbiased Look at Dataset Bias A. Torralba, A. Efros. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
+A Large-scale Benchmark Dataset for Event Recognition in Surveillance Video Sangmin Oh, Anthony Hoogs, A.G.Amitha Perera, Chia-Chih Chen, Jong Taek Lee, Jake Aggarwal, Hyungtae Lee, Larry Davis, Xiaoyang Wang, Eran Swears, Qiang Ji, Kishore Reddy, Mubarak Shah, Carl Vondrick, Hamed Pirsiavash, Deva Ramanan, Jenny Yuen, Antonio Torralba, Bi Song, Anesco Fong, Amit Roy-Chowdhury, Mita Desai. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011.
+Fixations on Low-Resolution Images T. Judd, F. Durand, A. Torralba. Journal of Vision, April 25, 2011 vol. 11 no. 4 article 14. PROJECT PAGE | PLAY FIXATIONS
+Estimating scene typicality from human ratings and image features K. A. Ehinger, J. Xiao, A. Torralba and A. Oliva. Proceedings of the 33rd Annual Conference of the Cognitive Science Society, Boston, MA: Cognitive Science Society 2011, in press.
+SIFT Flow: Dense Correspondence across Scenes and Its Applications Ce Liu, Jenny Yuen, Antonio Torralba. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 33, no. 5, pp. 978-994, May 2011. PROJECT PAGE
+How little do we need for 3-D shape perception? Nandakumar C., Torralba A., Malik J. Perception 40(3) 257 – 271, 2011.
+2010
+A data-driven approach for event prediction Jenny Yuen, Antonio Torralba. European Conference on Computer Vision (ECCV), 2010.
+Semantic Label Sharing for Learning with Many Categories Rob Fergus, Hector Bernal, Yair Weiss, Antonio Torralba. European Conference on Computer Vision (ECCV), 2010.
+Modeling and Analysis of Dynamic Behaviors of Web Image Collections K. Gunhee, E. Xing, A. Torralba. European Conference on Computer Vision (ECCV), 2010. PROJECT PAGE
+Matching and Predicting Street Level Images B. Kaneva, J. Sivic, A. Torralba, S. Avidan, W. T. Freeman. Workshop for Vision on Cognitive Tasks, ECCV 2010.
+Exploiting Hierarchical Context on a Large Database of Object Categories Myung Jin Choi, Joseph Lim, Antonio Torralba, and Alan S. Willsky. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), San Francisco, CA, June 2010. SUN DATABASE, OBJECT ANNOTATIONS AND PRECOMPUTED DETECTORS
+SUN Database: Large Scale Scene Recognition from Abbey to Zoo J. Xiao, J. Hays, K. Ehinger, A. Oliva, and A. Torralba. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), San Francisco, CA, June 2010. SUN DATABASE, SCENE RECOGNITION BENCHMARK
+Part and Appearance Sharing: Recursive Compositional Models for Multi-View Multi-Object Detection Leo Zhu, Yuanhao Chen, Antonio Torralba, William Freeman, and Alan Yuille. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), San Francisco, CA, June 2010.
+Using the forest to see the trees: object recognition in context A. Torralba, K. Murphy, W. T. Freeman. Communications of the ACM, Research Highlights, 53(3): 107-114, 2010.
+LabelMe: online image annotation and applications A. Torralba, B. C. Russell, J. Yuen. Proceedings of the IEEE, Vol. 98, n. 8, pp. 1467 – 1484, August 2010.
+Infinite Images: Creating and Exploring a Large Photorealistic Virtual Space B. Kaneva, J. Sivic, A. Torralba, S. Avidan, W. T. Freeman. Proceedings of the IEEE, Vol. 98, n. 8, pp. 1391-1407, August 2010.
+2009
+Semi-supervised Learning in Gigantic Image Collections R. Fergus, Y. Weiss, and A. Torralba. Advances in Neural Information Processing Systems, 2009.
+Unsupervised Detection of Regions of Interest Using Iterative Link Analysis G. Kim, and A. Torralba. Advances in Neural Information Processing Systems, 2009. PROJECT PAGE
+Nonparametric Bayesian Texture Learning and Synthesis Long Zhu, Yuanhao Chen, William Freeman, and Antonio Torralba. Advances in Neural Information Processing Systems, 2009.
+LabelMe video: building a video database with human annotations J. Yuen, B. C. Russell, C. Liu, and A. Torralba. IEEE International Conference on Computer Vision (ICCV), 2009.
+Learning to predict where humans look T. Judd, K. Ehinger, F. Durand, and A. Torralba. IEEE International Conference on Computer Vision (ICCV), 2009. PROJECT PAGE
+Nonparametric scene parsing: label transfer via dense scene alignment C. Liu, J. Yuen, A. Torralba. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009.
+Recognizing indoor scenes A. Quattoni, and A. Torralba. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009.
+Building a database of 3D scenes from user annotations B. C. Russell and A. Torralba. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009. PROJECT WEBSITE
+Modelling search for people in 900 scenes: a combined source model of eye guidance K. Ehinger, B. Hidalgo-Sotelo, A. Torralba, and A. Oliva. Visual Cognition, Vol. 17, Issue 6 & 7 August 2009 , pages 945 - 978, 2009. PROJECT PAGE
+How many pixels make an image? A. Torralba. Visual Neuroscience, volume 26, issue 01, pp. 123-131, 2009.
+2008
+Spectral Hashing Y. Weiss, A. Torralba, R. Fergus. Advances in Neural Information Processing Systems, 2008. PROJECT PAGE | LABELME DATA AND GIST
+SIFT flow: dense correspondence across different scenes C. Liu, J. Yuen, A. Torralba, J. Sivic, and W. T. Freeman. European Conference on Computer Vision (ECCV), 2008. PROJECT PAGE
+Small codes and large databases for recognition A. Torralba, R. Fergus, Y. Weiss. IEEE Computer Vision and Pattern Recognition, June 2008. PROJECT PAGE | CODE
+Creating and exploring a large photorealistic virtual space J. Sivic, B. Kaneva, A. Torralba, S. Avidan and W. T. Freeman. First IEEE Workshop on Internet Vision, associated with CVPR 2008.
+80 million tiny images: a large dataset for non-parametric object and scene recognition A. Torralba, R. Fergus, W. T. Freeman. IEEE Transactions on Pattern Analysis and Machine Intelligence, vol.30(11), pp. 1958-1970, 2008. PROJECT PAGE
+Describing Visual Scenes Using Transformed Objects and Parts E. Sudderth, A. Torralba, W. T. Freeman, and A. Willsky. International Journal of Computer Vision, No. 1-3, May 2008, pp. 291-330. PROJECT PAGE
+LABELME: A DATABASE AND WEB-BASED TOOL FOR IMAGE ANNOTATION B. Russell, A. Torralba, K. Murphy, W. T. Freeman. International Journal of Computer Vision, pages 157-173, Volume 77, Numbers 1-3, May, 2008. PROJECT PAGE
+2007
+Sharing visual features for multiclass and multiview object detection A. Torralba, K. P. Murphy and W. T. Freeman. IEEE Transactions on Pattern Analysis and Machine Intelligence , vol. 29, no. 5, pp. 854-869, May, 2007. CODE
+The role of context in object recognition A. Oliva, A. Torralba. Trends in Cognitive Sciences, vol. 11(12), pp. 520-527. December 2007.
+Object Recognition by Scene Alignment B. C. Russell, A. Torralba, C. Liu, R. Fergus, W. T. Freeman. Advances in Neural Information Processing Systems, 2007. PROJECT PAGE
+2006
+Contextual Guidance of Attention in Natural scenes: The role of Global features on object search A. Torralba, A. Oliva, M. Castelhano and J. M. Henderson. Psychological Review. Vol 113(4) 766-786, Oct, 2006. PROJECT PAGE
+Depth from Familiar Objects: A Hierarchical Model for 3D Scenes E. Sudderth, A. Torralba, W. T. Freeman, and A. Willsky. CVPR, June 2006. DATASET
+Hybrid images A. Oliva, A. Torralba and P. Schyns. ACM Transactions on Graphics, ACM Siggraph, 25-3, pp. 527-530. 2006.
+Random Lens Imaging R. Fergus, A. Torralba, W. T. Freeman. MIT CSAIL Technical Report 2006-058, 2006.
+Building the Gist of a Scene: The Role of Global Image Features in Recognition A. Oliva, and A. Torralba. Visual Perception, Progress in Brain Research, vol 155. 2006.
+Dataset Issues in Object Recognition J. Ponce, T. L. Berg, M. Everingham, D. A. Forsyth, M. Hebert, S. Lazebnik, M. Marszalek, C. Schmid, B. C. Russell, A. Torralba, C. K. I. Williams, J. Zhang, and A. Zisserman. In Toward Category-Level Object Recognition. Springer-Verlag Lecture Notes in Computer Science, J. Ponce, M. Hebert, C. Schmid, and A. Zisserman (eds.), 2006.
+Object detection and localization using local and global features K. Murphy, A. Torralba, D. Eaton, W. T. Freeman. In Toward Category-Level Object Recognition. Springer-Verlag Lecture Notes in Computer Science, J. Ponce, M. Hebert, C. Schmid, and A. Zisserman (eds.), 2006.
+Shared features for multiclass object detection A. Torralba, K. P. Murphy, W. T. Freeman. In Toward Category-Level Object Recognition. Springer-Verlag Lecture Notes in Computer Science, J. Ponce, M. Hebert, C. Schmid, and A. Zisserman (eds.), 2006.
+2005
+Contextual Models for Object Detection using Boosted Random Fields A. Torralba, K. P. Murphy and W. T. Freeman. Adv. in Neural Information Processing Systems 17 (NIPS), pp. 1401-1408, 2005. BIBTEX
+Describing Visual Scenes using Transformed Dirichlet Processes E. Sudderth, A. Torralba, W. T. Freeman, and A. Willsky. NIPS 2005.
+Learning Hierarchical Models of Scenes, Objects, and Parts E. Sudderth, A. Torralba, W. T. Freeman, and A. Willsky. ICCV 2005.
+Motion magnification C. Liu, A. Torralba, W.T. Freeman, F. Durand and E.H. Adelson. ACM Trans. on Graphics, ACM Siggraph, 24-3, pp. 519-526, 2005.
+Human Learning of Contextual Priors for Object Search: Where does the time go? B. Hidalgo-Sotelo, A. Oliva, and A. Torralba. Proceedings of the 3rd Workshop on Attention and Performance in Computer Vision at the Int. CVPR, 2005.
+Contextual Influences on Saliency A. Torralba Neurobiology of Attention, Eds. L. Itti, G. Rees and J. Tsotsos. Pages 586-593. Academic Press / Elsevier. 2005
+An Ensemble Prior of Image Structure for Cross-modal Inference S. Ravela, A. Torralba, W. T. Freeman. ICCV 2005
+2004
+Sharing features: efficient boosting procedures for multiclass object detection A. Torralba, K. P. Murphy and W. T. Freeman. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR). pp 762-769, 2004.
+Specular reflections and the perception of shape R. W. Fleming, A. Torralba and E. H. Adelson. Journal of Vision. Volume 4, Number 9, Article 10, Pages 798-820. 2004.
+Saliency, objects and scenes: global scene factors in attention and object detection A. Torralba, A. Oliva, M. Castelhano and J. M. Henderson. Vision Sciences Society Annual Meeting, Sarasota. 2004.
+2003
+Statistics of natural image categories A. Torralba and A. Oliva. Network: computation in neural systems, Vol. 14, 391-412. 2003.
+Depth estimation from image structure A. Torralba, A. Oliva. IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 24(9): 1226-1238. 2003.
+Contextual priming for object detection A. Torralba. International Journal of Computer Vision, Vol. 53(2), 169-191, 2003.
+Context-based vision system for place and object recognition A. Torralba, K. P. Murphy, W. T. Freeman and M. A. Rubin. IEEE Intl. Conference on Computer Vision (ICCV), Nice, France, October 2003. CODE AND DATASETS
+Using the forest to see the trees: a graphical model relating features, objects and scenes P. Murphy, A. Torralba and W. T. Freeman. Adv. in Neural Information Processing Systems 16 (NIPS), Vancouver, BC, MIT Press, 2003.
+Modeling global scene factors in attention A. Torralba. Journal of Optical Society of America. A Special Issue on Bayesian and Statistical Approaches to Vision. Vol. 20(7): 1407-1418, 2003.
+Top-down control of visual attention in object detection A. Oliva, A. Torralba, M. S. Castelhano and J. M. Henderson. Proceedings of the IEEE International Conference on Image Processing. Vol. I, pages 253-256; September 14-17, in Barcelona, Spain, 2003.
+Properties and applications of shape recipes A. Torralba and W. T. Freeman. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Madison, WI, June, 2003.
+2002
+Scene-Centered Description from Spatial Envelope Properties A. Oliva, A. Torralba. In Proc. 2nd Workshop on Biologically Motivated Computer Vision (BMCV'02),Tubingen, Germany. 2002.
+Shape Recipes: Scene Representations that Refer to the Image W. T. Freeman, A. Torralba. Adv. in Neural Information Processing Systems 15 (NIPS), MIT Press.
+2001
+Contextual modulation of target saliency A. Torralba. Adv. in Neural Information Processing Systems 14 (NIPS), MIT Press, 2001.
+Statistical context priming for object detection A. Torralba, P. Sinha. Proceedings of the International Conference on Computer Vision (ICCV), pp. 763-770, Vancouver, Canada, 2001.
+Modeling the shape of the scene: a holistic representation of the spatial envelope A. Oliva, A. Torralba. International Journal of Computer Vision, Vol. 42(3): 145-175, 2001. CODE | DATASETS | LABELME
+Global depth perception from familiar scene structure A. Torralba, A. Oliva. AI-Memo 2001-036, CBCL Memo 213, 2001.
+Indoor scene recognition A. Torralba, P. Sinha. AI Memo 2001-015, CBCL Memo 202, 2001
+Detecting faces in impoverished images A. Torralba, P. Sinha. AI Memo 2001-028, CBCL Memo 208, 2001.
+Shape from sheen. Three dimensional shape perception R. W. Fleming, A. Torralba, and E. H. Adelson. (Eds.) Zaidi, Q., Springer
+An efficient neuromorphic analog network for motion estimation A. Torralba, J. Hérault. IEEE Transactions on Circuits and Systems-I. Special Issue on Bio-Inspired Processors and CNNs for Vision. Vol. 46(2): 269-280, 1999.
+Semantic organization of scenes using discriminant structural templates A. Torralba, A. Oliva Proceedings of the International Conference on Computer Vision, pp. 1253-1258, Korfu, Grece, 1999.
+Gallery
+
+Here there are some art projects I like expending time on. Most of them are inspired by some of our research projects.
+
+Average World - 2014 - 2020
+2 panels clay 60 x 121 cm each, images mounted on wooden cubes 1.9cm
+
+Images are averaged according to GPS locations. Each cell contains the average of 150 images taken at that location. Images come from Flickr. Each average shows the colors typical of that region of the world. We can appreciate the green regions in south america, red in the Sahara, ... Each average image is mounted on a wooden cube 1.9cm and attached to a clay panel. The final map will have 4 pannels and more than 3000 cubes. I am working on the third pannel ...
+
+
+
+
+
+
+Periodic Table - 2018
+Images mounted on wooden cubes 1.9cm
+
+Each image shows the average of the images download from a Google query with the name of each element in the periodic table. The name of the element appears in the average because some of the returned images contain the element symbols. Many of the colors are close to the actual color of the element. Some of the heaviest elements have never been photographied, so this is a fun Google-prediction of how they might look. Each image is mounted on a wooden cube 1.9cm.
+
+
+
+
+Visual Dictionary - 2008
+Each of the tiles in the mosaic is an arithmetic average of images relating to one of 53,464 nouns. Words are placed in the array using the wordnet hierarchy (nearby tiles correspond to similar concepts). The images for each word were obtained using Google’s Image Search and other engines. Each tile is the average of 140 images. The average reveals the dominant visual characteristics of each word. For some, the average turns out to be a recognizable image; for others the average is a colored blob.
+
+
+
+
+Accidental image in Pedraza, Spain - 2013
+Picture of a bedroom processed by Retinex to enhance the illumination component. The enhanced illumination image has a strong chromatic component. The illumination image is produced by light entering by a window on the opposite wall (not visible in the photograph). Therefore, it is an upside-down image of the scene outside the window and it clearly shows the blue of the sky, and the green patch of the grass on the ground outside the window.
+
+
+
+
+
+
+Noise or Texture - 2013
+Where is the noise, in the image or in the world? The left image is corrupted by additive noise. We do not perceive this scene as being composed by objects covered with a strange form of paint. Instead, we see that there is noise and it is not supposed to be there. In the second image, we do not perceive the random texture as being noise despite the strong similarities with the first image.
+
+
+
+
+Multiple blob personalities - 2008
+In presence of image degradation (e.g. blur), object recognition is strongly influenced by contextual information. Recognition makes assumptions regarding object identities based on its size and location in the scene.
+
+
+
+
+Sailboat in Charles River (fall) - 2005
+Pictures are aligned on one sailboat. All the pictures contain the same sailboat taken within a few minutes apart.
+
+
+
+
+Sailboats in Charles river (spring) - 2005
+This superposition contains multiple sailboats. All the images are shifted and scaled so that the boats are roughly aligned.
+
+
+
+
+Average Caltech 101 - 2003
+Average of 100 of the objects from the Caltech-101 dataset.
+
+
+
+
+Average of people in Cambridge - 2003
+Average images are created by adding together many pictures. Image averaging has been used by artists such as Jason Savalon, Jim Campbell among several other artists. I used average images to motivate the study of context models in computer vision and to illustrate that the influence of an object in an image extends beyond its boundaries. Before averaging, each picture is translated and scaled so that a particular object is in the center of the picture. Average images aligned on a single object that occupies a small portion of the picture can reveal additional regions beyond the boundaries of the object that provide meaningful contextual structure for supporting it.
+
+
+
+
+Car and pedestrian - 2001
+In presence of image degradation (e.g. blur), object recognition is strongly influenced by contextual information. Recognition makes assumptions regarding object identities based on its size and location in the scene. In this picture subjects describe the scenes as (left) a car in the street, and (right) a pedestrian in the street. However, the pedestrian is in fact the same shape as the car except for a 90 degrees rotation. The non-typicality of this orientation for a car within the context defined by the street scene makes the car be perceived as a pedestrian. Without degradation, subjects can correctly recognize the rotated car due to the sufficiency of local features.
+

@@ -1,0 +1,97 @@
+Professor: Takeo Kanade
+University: Carnegie Mellon University
+URL: http://www.ri.cmu.edu/people/kanade_takeo.html
+Description: Skip to content
+ABOUT
+PEOPLE
+RESEARCH
+EDUCATION
+NEWS
+EVENTS
+NREC
+Takeo Kanade
+SCS Founders University Professor
+Home Department: RI / CSD
+Phone: (412) 268-3016
+Administrative Assistant: Yukiko Kano
+Lab: Human Sensing Lab
+Mailing Address
+Statement
+Research
+Publications
+Students/Affiliates
+Projects
+
+Project Highlights
+
+Face-Alignment, a 2010 demo using a face map of President Obama was posted to the CMU Robotics YouTube Channel
+New York Times Article about Kanade’s Virtualized RealityTM at SuperBowl XXXV
+EyeVision Video from Super Bowl Broadcast on YouTube
+
+My research interests are in the areas of computer vision, visual and multimedia technology, and robotics. Common themes that my students and I emphasize in performing research are the formulation of sound theories which use the physical, geometrical, and semantic properties involved in perceptual and control processes in order to create intelligent machines, and the demonstration of the working systems based on these theories.
+
+My current projects include basic research and system development in computer vision (motion, stereo and object recognition), recognition of facial expressions, virtual(ized) reality, content-based video and image retrieval, VLSI-based computational sensors, medical robotics, and an autonomous helicopter.
+
+Computer vision
+
+Within the Image Understanding (IU) project, my students and I are conducting basic research in interpretation and sensing for computer vision. My major thrust is the “science of computer vision.” Traditionally, many computer vision algorithms were derived heuristically either by introspection or biological analogy. In contrast, my approach to vision is to transform the physical, geometrical, optical and statistical processes, which underlie vision, into mathematical and computational models. This approach results in algorithms that are far more powerful and revealing than traditional ad hoc methods based solely on heuristic knowledge. With this approach we have developed a new class of algorithms for color, stereo, motion, and texture.
+
+The two most successful examples of this approach are the factorization method and the multi-baseline stereo method. The factorization method is for the robust recovering of shape and motion from an image sequence. Based on this theory we have been developing a system for “modeling by video taping”; a user takes a video tape of a scene or an object by either moving a camera or moving the object, and then from the video a three-dimensional model of the scene or the object is created. The multi-baseline stereo method, the second example, is a new stereo theory that uses multi-image fusion for creating a dense depth map of a natural scene. Based on this theory, a video-rate stereo machine has been developed, which can produce a 200×200 depth image at 30 frames/sec, aligned with an intensity image; in other words, a real 3D camera!!
+
+Currently, we are working on a rapidly trainable object recognition method, a system for modeling-by-video-taping, and a multi-camera 3D object copying/reconstruction method.
+
+Visual media technology for human-computer interaction
+
+A combination of computer vision and computer graphics technology presents an opportunity for a new exciting visual media. We have been developing a new visual medium, named “virtualized reality.” In the existing visual medium, the view of the scene is determined at the transcription time, independent of the viewer. In contrast, the virtualized reality delays the selection of the viewing angle till view time, using techniques from computer vision and computer graphics. The visual event is captured using many cameras that cover the action from all sides. The 3D structure of the event, aligned with the pixels of the image, is computed for a few selected directions using the multi-baseline stereo technique. Triangulation and texture mapping enable the placement of a soft-camera to reconstruct the event from any new viewpoint. The viewer, wearing a stereo-viewing system, can freely move about in the world and observe it from a viewpoint chosen dynamically at view time. We have built a 3D Virtualized Studio using a hemispherical dome, 5 meters in diameter, currently with 51 cameras attached at its nodes.
+
+There are many applications of virtualized reality. Virtualized reality starts with a real world, rather than creating an artificial model of it. So, training can become safer, more real and more effective. A surgery, recorded in a virtualized reality studio, could be revisited by medical students repeatedly, viewing it from positions of their choice. Or, an entirely new generation of entertainment media can be developed – “Let’s watch NBA in the court”: basketball enthusiasts could watch a game from inside the court, from a referee’s point of view, or even from the “ball’s eye” point of view.
+
+A Virtualized Reality application, CBS’s Eye Vision, was demonstrated during SuperBowl XXXV.
+
+Also, I am interested in and currently working on vision techniques for recognizing facial expression, gaze, and hand-finger gestures. Such techniques will provide natural non-intrusive means for human-computer interface by replacing current clumsy mechanical devices, such as datagloves.
+
+Informedia Project
+
+With the growth and popularity of multimedia computing technologies, video is gaining importance and broadening its uses in libraries. Digital video libraries open up great potentials for education, training and entertainment; but to achieve this potential, the information embedded within the digital video library must be easy to locate, manage and use. Searches within a large data set or lengthy video would take a user through vast amounts of material irrelevant to the search topic. The typical database, which searches by keywords (e.g. title) – where images are only referenced and not directly searched for – is not appropriate or useful for the digital video library, since it does not provide the user a way to know the contents of the image, short of viewing it. New techniques are needed to organize these vast video collections so that users can effectively retrieve and browse their holdings based on their content. The Informedia Digital Video Library, funded by NSF, ARPA, and NASA, is developing intelligent, automatic mechanisms to populate the video library and allow for a full-content knowledge-based search, retrieval and presentation of video. The distinguishing feature of Informedia’s approach is the integrated application of speech, language and image understanding technologies.
+
+Computational Sensor
+
+While significant advancements have been made over the last 30 years of computer vision research, the consistent paradigm has been that a “camera” sees the world and a computer “algorithm” recognizes the object. I have been undertaking a project with Dr. Vladimir Brajovic that breaks away from this traditional paradigm by integrating sensing and processing into a single VLSI chip a computational sensor. The first successful example was an ultra fast range sensor which can produce approximately 1000 frames of range images per second an improvement of two orders of magnitude over the state of the art. A few new sensors are being developed including a sorting sensor chip, a 2D salient feature detector (2D winner-take-all circuits), and others.
+
+Medical Robotics and Computer Assisted Surgery
+
+The emerging field of Medical Robotics and Computer Assisted Surgery strives to develop smart tools to perform medical procedures better than either a physician or machine could alone. Robotic and computer-based systems are now being applied in specialties that range from neurosurgery and laparoscopy to opthalmology and family practice. Robots are able to perform precise and repeatable tasks that would be impossible for any human. The physician provides these systems with the decision making skills and adaptable dexterity that are well beyond current technology. The potential combination of robots and physicians has created a new worldwide interest in the area of medical robotics.
+
+We have developed a new computer assisted surgical systems for total hip replacement. The work is based on biomechanics-based surgical simulations and less invasive and more accurate vision-based techniques for determining the position of the patient anatomy during a robot surgery. The developed system, HipNav, has been already test -used in clinical setting.
+
+Vision-based Autonomous Helicopter
+
+An unmanned helicopter can take maximum advantage of the high maneuverability of helicopters in dangerous support tasks, such as search and rescue, and fire fighting, since it does not place a human pilot in danger. The CMU Vision-Guided Helicopter Project (with Dr. Omead Amidi) has been developing the basic technologies for an unmanned autonomous helicopter including robust control methods, vision algorithms for real-time object detection and tracking, integration of GPS, motion sensors, vision output for robust positioning, and high-speed real-time hardware. After having tested various control algorithms and real-time vision algorithms using an electric helicopter on an indoor teststand, we have developed a computer controlled helicopter (4 m long), which carries two CCD cameras, GPS, gyros and accelerometers together with a multiprocessor computing system. Autonomous outdoor free flight has been demonstrated with such capabilities as following prescribed trajectory, detecting an object, and tracking or picking it from the air.
+
+Biography
+
+Takeo Kanade, the U.A. and Helen Whitaker University Professor of Robotics and Computer Science at Carnegie Mellon University, received the prestigious 2016 Kyoto Prize for Advanced Technology, Nov. 10, 2016 in a ceremony in Kyoto, Japan.
+
+The international award is presented by the Inamori Foundation to individuals such as Kanade who have contributed significantly to the scientific, cultural and spiritual betterment of humankind. Kanade’s prize recognizes his pioneering contributions to computer vision and robotics.
+
+Dr. Kanade is the U. A. and Helen Whitaker University Professor of Computer Science and Robotics and the director of Quality of Life Technology Engineering Research Center at Carnegie Mellon University. He received his Doctoral degree in Electrical Engineering from Kyoto University, Japan, in 1974. After holding a faculty position in the Department of Information Science, Kyoto University, he joined Carnegie Mellon University in 1980. He was the Director of the Robotics Institute from 1992 to 2001. He also founded the Digital Human Research Center in Tokyo and served as founding director.
+
+Dr. Kanade works in multiple areas of robotics: computer vision, multi-media, manipulators, autonomous mobile robots, medical robotics and sensors. He has written more than 400 technical papers and reports in these areas, and holds more than 20 patents. He has been the principal investigator of more than a dozen major vision and robotics projects at Carnegie Mellon.
+
+Dr. Kanade’s other professional honors include: election to the National Academy of Engineering, the American Academy of Arts and Sciences, a Fellow of IEEE, a Fellow of ACM, and a Fellow of American Association of Artificial Intelligence; several awards including Kyoto Prize, the Benjamin Franklin Institute Medal and Bower Prize, C&C Award, Okawa Award, ACM/AAAI Allen Newell Award, Joseph Engelberger Award, IEEE Robotics and Automation Society Pioneer Award, and ICCV Azriel Rosenfeld Lifetime Accomplishment Award.
+
+Outreach at RI
+|
+Contact Us
+|
+Giving
+|
+RoboGuide
+© 2024 The Robotics Institute is part of the School of Computer Science, Carnegie Mellon University. Legal Info
+	
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+

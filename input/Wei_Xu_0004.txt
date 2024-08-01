@@ -1,0 +1,375 @@
+Professor: Wei Xu 0004
+University: Georgia Institute of Technology
+URL: https://cocoxu.github.io/
+Description: Wei Xu     
+
+[phonetic pronunciation: way  shoo ]
+
+Associate Professor
+College of Computing
+Georgia Institute of Technology
+  wei.xu@cc.gatech.edu
+  @cocoweixu
+
+I am a faculty member of the School of Interactive Computing, Machine Learning Center, and NSF AI CARING Institute at Georgia Tech. My research lies at the intersections of machine learning, natural language processing, and social media. I direct the NLP X Lab which currently focuses on (1) analysis of large language models, such as cultural bias, multilingual capability, temporal shifts, and personalization; (2) text generation, such as constrained decoding and learnable evaluation metric; (3) NLP applications that can make impact in education, accessibility, etc. I recently received the NSF CRII Award, NSF CAREER Award, Criteo Faculty Research Award, CrowdFlower AI for Everyone Award, Best Paper Award at COLING'18, as well as research funds from DARPA and IARPA. I am a member of NAACL executive board. I was a postdoctoral researcher at the University of Pennsylvania. I received my PhD in Computer Science from New York University, MS and BS from Tsinghua University.
+
+  I'm recruiting 1-3 PhD students every year (apply to CS or ML PhD program and list me as a potential advisor; if you have EE background, you could also apply to ML ECE program). I also recruit research MS students (apply to the MSCS program and email me) and undergraduates who have sufficient time and motivation for research theses.
+
+Research
+Publications
+Students
+Teaching
+CV
+Code & Data
+What's New
+
+
+July 2024, Yang Chen successfully defended his phd thesis, and will join NVIDIA as a research scientist.
+May 2024, 6 long papers accepted to ACL 2024 main conference!
+May 2024, keynote at CHI 2024 HEAL Workshop on "Human-AI Collaboration in Evaluating LLMs" (slides).
+May 2024, Yao Dou will start his summer internship at Microsoft Research; Chao Jiang will intern at Apple.
+Apr 2024, serving as senior area chair for EMNLP 2024 and area chair for COLM 2024
+Apr 2024, David won the CoC Outstanding Undergraduate Research Award! (only 1 out of 3000+ CS undergraduate students at Georiga Tech is awarded every year)
+Mar 2024, press coverage by VentureBeat on our new research about cultural biases in LLMs
+Mar 2024, talk at USC and UCLA on "Amazing Multilingual Capabilities and Concerning Cultural Biases in Large Language Models"
+Dec 2023, invited talk on "Amplifying Multilingual LLM’s Cross-lingual Ability'' at the BrainLink event
+Nov 2023, panel at WICT annual event on "How AI is used in Media, Entertainment and Technology"
+Oct 2023, panel at HARC conference on "Simplifying Medical Texts with Large Language Models"
+Oct 2023, demo of Thresh 🌾 has been accepted to EMNLP 2023 -- a customizable tool for fine-grained human evaluation of LLM generated texts (e.g., MT, summarization, text revision, + more)
+Aug 2023, I was quoted in Business Insider about AI-generated content online.
+Aug 2023, Mounica defended her PhD thesis and will join Bloomberg AI's LLM group
+July 2023, our paper on multilingual simplification received Honorable Mention Award at ACL 2023!
+May 2023, 5 papers accepted to ACL plus 1 findings: (1) distillation of LLMs; (2) human-in-the-loop misinformation detection; (3) cooking recipe grounded dialog; (4) LENS 🔎 - learnable metric for text generation; (5) benchmark for multilingual text simplification; (6) EasyProject - label projection for cross-lingual transfer.
+Apr 2023, invited talk at VinAI
+Mar 2023, I am tenured and promoted to associate professor (official appointment starts from Aug 2023).
+Feb 2023, talk at Johns Hopkins University "GPT-3 vs Humans: Evaluation of Natural Language Generation"
+Feb 2023, I was quoted in Wall Street Journal and Life Wire articles
+Feb 2023, invited talk at University of Chicago
+Dec 2022, co-organizing Workshop on Text Simplification, Accessibility, and Readability at EMNLP
+Oct 2022, co-organizing the 8th Workshop for Noisy User-generated Text (WNUT) at COLING.
+Oct 2022, talk at Columbia University "Capturing Language Diversity & (Mis-)Information Spreading Online"
+Oct 2022, 3 papers accepted to EMNLP: (1) diverse paraphrase acquisition & generation; (2) 🦕 Stanceosaurus - stance towards multicultural misinformation; (3) arXivEdits - NLP framework for improving scientific writing.
+Sep 2022, talk at Cornell Tech (video) "Importance of Data and Controllability in Neural Language Generation"
+Aug 2022, my PhD student Mounica Maddela to start an internship at Meta AI; Yang Chen at Google Research.
+Mar 2022, I received the NSF CAREER award! It will support my group's research on controllable text generation.
+Research Highlights
+
+Controllability, Stylistics, and Evaluation in Text Generation
+
+We recently published one of the earliest works on formally evaluating the impressive text rewriting capability of GPT-3.5 and GPT-4, in particular, for paraphrase generation [EMNLP’22a] and text simplification [EMNLP’23a]. Our new LENS metric [ACL’23a] is the first learned automatic evaluation metric for text simplification, which, when used as objective in minimum Bayes risk decoding (MBR), also set the newest state-of-the-art of open-sourced generation models, on par of GPT-3.5 and GPT-4. We also work on instruction-finetuning for style [ACL’24a], edit-level text generation evaluation [EMNLP’23a], document-grounded instructional dialog [ACL’23b], document editing analysis for scientific writing [EMNLP’22b].
+
+Fairness, Multilingual, and Cross-cultural Capability of LLMs
+
+We analyze monolingual and multilingual LLMs for cultural bias [ACL’24b], distillation [ACL’23c], cost efficiency [EMNLP’21], robustness [ACL’24d], and any other strengths/weaknesses that may lead to further development of better, fairer, smaller models. We also develop effective methods, such as label projection [ICLR’24], for cross-lingual transfer learning. That is, with only English annotated data, we directly train multilingual language models that can perform tasks (e.g., entity recognition, question answer) in non-English languages.
+
+NLP + X (social media, accessibility, privacy) Interdisciplinary Research
+
+We work on a range of interesting and useful applications that aim to improve human life and society. A lot of our research has focused on text simplification [ACL’23a, ACL’23d, EMNLP’21], which simplifies texts and improves readability, making knowledge accessible to all. We also recently started to develop document-grounded instructional dialog for personal assistance (e.g., cooking) [ACL’23b], as part of the larger NSF AI CARING efforts. We also take a great interest in social media data, including work on human-in-the-loop detection of misinformation [ACL’23e] and stance classification towards multilingual multi-cultural misinformation claims [EMNLP’22b]. One of our current ongoing collaborative projects is looking at the privacy protection of users on social media.
+
+NLP X Lab
+
+photos together with Alan Ritter's group
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Yao Dou (CS PhD student; generation, LLM evaluation, privacy)
+    Tarek Naous (ECE/ML PhD; multilingual LLM, fairness)
+    Duong Minh Le (CS PhD; dialog, controllable text generation -- co-advisor: Alan Ritter)
+    Jonathan Zheng (ML PhD; robustness of LLM, social media)
+    Chao Jiang (CS PhD; semantics, structured model)
+    Yang Chen (CS PhD; information extraction, transfer learning -- co-advisor: Alan Ritter)
+    Junmo Kang (CS PhD; model efficiency -- co-advisor: Alan Ritter)
+    Anton Lavrouk (MS, autumn 2022 -- ; multilingual LLM analysis)
+    Marcus Ma (MS, spring 2022 -- ; authorship)
+    Xiaofeng Wu (MS, autumn 2023 -- LLM subcharacter)
+    Jeongrok Yu (MS, winter 2023 -- chatbot)
+    David Heineman (Undergrad, winter 2020 -- ; generation, LLM evaluation)
+    Vishnesh Jayanthi (Undergrad, summer 2022 -- ; stylistics)
+    Rachel Choi (Undergrad, summer 2022 -- )
+    Ian Ligon (Undergrad, summer 2022 -- )
+    Vinayak Athavale (Undergrad, autumn 2022 -- )
+    Govind Ramesh (Undergrad, winter 2022 -- )
+    Nour Allah El Senary (Undergrad, winter 2022 -- )
+    Piranava Abeyakaran (Undergrad, summer 2023 -- )
+    Suraj Mehrotra (Undergrad, spring 2024 -- )
+    Joseph Thomas (Undergrad, summer 2024 -- )
+
+
+Preprints
+Improving Minimum Bayes Risk Decoding with Multi-Prompt
+David Heineman, Yao Dou, Wei Xu
+arXiv, 2024
+Granular Privacy Control for Geolocation with Vision Language Models
+Ethan Mendes, Yang Chen, James Hays, Sauvik Das, Wei Xu, Alan Ritter
+arXiv, 2024
+GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation
+Govind Ramesh, Yao Dou, Wei Xu
+arXiv, 2024
+MedReadMe: A Systematic Study for Fine-grained Sentence Readability in Medical Domain
+Chao Jiang, Wei Xu
+arXiv, 2024
+ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment
+Tarek Naous, Michael J. Ryan, Anton Lavrouk, Mohit Chandra, Wei Xu
+arXiv, 2024
+Can Language Models be Instructed to Protect Personal Information?
+Yang Chen*, Ethan Mendes*, Sauvik Das, Wei Xu, Alan Ritter (* equal contribution)
+arXiv, 2023
+Publications
+Having Beer after Prayer? Measuring Cultural Bias in Large Language Models
+Tarek Naous, Michael J. Ryan, Alan Ritter, Wei Xu
+ACL 2024 Press Coverage by VentureBeat
+Reducing Privacy Risks in Online Self-Disclosures with Language Models
+Yao Dou, Isadora Krsek, Tarek Naous, Anubha Kabra, Sauvik Das, Alan Ritter, Wei Xu
+ACL 2024
+NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms
+Jonathan Zheng, Alan Ritter, Wei Xu
+ACL 2024
+Meta-Tuning LLMs to Leverage Lexical Knowledge for Generalizable Language Style Understanding
+Ruohao Guo, Wei Xu, Alan Ritter
+ACL 2024
+FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence
+Sebastian Antony Joseph, Lily Chen, Jan Trienes, Hannah Louisa Göke, Monika Coers, Wei Xu, Byron C Wallace, Junyi Jessy Li
+ACL 2024
+InfoLossQA: Characterizing and Recovering Information Loss in Text Simplification
+Jan Trienes, Sebastian Joseph, Jörg Schlötterer, Christin Seifert, Kyle Lo, Wei Xu, Byron C. Wallace, Junyi Jessy Li
+ACL 2024
+Constrained Decoding for Cross-lingual Label Projection
+Duong Minh Le, Yang Chen, Alan Ritter, Wei Xu
+ICLR 2024
+Automatic and Human-AI Interactive Text Generation
+Yao Dou*, Philippe Laban*, Claire Gardent, Wei Xu (* equal contribution)
+ACL 2024 (Tutorial)
+Stanceosaurus 2.0: Classifying Stance Towards Russian and Spanish Misinformation
+Anton Lavrouk, Ian Ligon, Tarek Naous, Jonathan Zheng, Alan Ritter, Wei Xu
+EACL 2024 Workshop on Noisy User-generated Text
+Thresh 🌾: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation [code/demo]
+David Heineman, Yao Dou, Wei Xu
+EMNLP 2023 (Demo)
+Dancing Between Success and Failure: Edit-level Simplification Evaluation using SALSA
+David Heineman, Yao Dou, Mounica Maddela, Wei Xu
+EMNLP 2023
+Multilingual Simplification of Medical Texts
+Sebastian Joseph, Kathryn Kazanas, Keziah Reina, Vishnesh Ramanathan, Wei Xu, Byron Wallace, Junyi Jessy Li
+EMNLP 2023
+A Computational Interface to Infer Strategic Intent from Unstructured Language in a Low-Data Setting
+Pradyumna Tambwekar, Lakshita Dodeja, Nathan Vaska, Wei Xu, Matthew Gombolay
+EMNLP 2023 (Findings)
+LENS 🔎 - A Learnable Evaluation Metric for Text Simplification [code/demo]
+Mounica Maddela*, Yao Dou*, David Heineman, Wei Xu (* equal contribution)
+ACL 2023
+Distill or Annotate? Cost-Efficient Fine-Tuning of Compact Models
+Junmo Kang, Wei Xu, Alan Ritter
+ACL 2023
+Revisiting non-English Text Simplification: A Unified Multilingual Benchmark
+Michael J. Ryan, Tarek Naous, Wei Xu
+ACL 2023 Best Paper Award Honorable Mention
+Improved Instruction Ordering in Recipe-Grounded Conversation
+Duong Minh Le, Ruohao Guo, Wei Xu, Alan Ritter
+ACL 2023 Press Coverage by GT News
+Human-in-the-loop Evaluation for Early Misinformation Detection
+Ethan Mendes, Yang Chen, Wei Xu, Alan Ritter
+ACL 2023
+Frustratingly Easy Label Projection for Cross-lingual Transfer
+Yang Chen, Chao Jiang, Alan Ritter, Wei Xu
+ACL 2023 (Findings)
+Teaching the Pre-trained Model to Generate Simple Texts for Text Simplification
+Renliang Sun, Wei Xu, Xiaojun Wan
+ACL 2023 (Findings)
+Improving Large-scale Paraphrase Acquisition and Generation [data/leaderboard]
+Yao Dou, Chao Jiang, Wei Xu
+EMNLP 2022
+🦕 Stanceosaurus: Classifying Stance Towards Multicultural Misinformation [data]
+Jonathan Zheng, Ashutosh Baheti, Tarek Naous, Wei Xu, Alan Ritter
+EMNLP 2022
+arXivEdits: Understanding the Human Revision Process in Scientific Writing [data]
+Chao Jiang, Wei Xu, Sam Stevens
+EMNLP 2022
+A Dataset of Word-Complexity Judgements from Deaf and Hard-of-Hearing Adults for Text Simplification
+Oliver Alonzo, Sooyeon Lee, Mounica Maddela, Wei Xu, Matt Huenerfauth
+EMNLP TSAR Workshop 2022
+Extracting a Knowledge Base of COVID-19 Events from Social Media [data]
+Shi Zong, Ashutosh Baheti, Wei Xu, Alan Ritter
+COLING 2022
+BiSECT: Learning to Split and Rephrase Sentences with Bitexts [data/code]
+Joongwon Kim*, Mounica Maddela*, Reno Kriz, Wei Xu, Chris Callison-Burch (* equal contribution)
+EMNLP 2021
+Pre-train or Annotate? Domain Adaptation with a Constrained Budget [data/code]
+Fan Bai, Alan Ritter, Wei Xu
+EMNLP 2021
+WIKIBIAS: Detecting Multi-Span Subjective Biases in Language [data] [code]
+Yang Zhong, Jingfeng Yang, Wei Xu, Diyi Yang
+EMNLP 2021 (Findings)
+Neural semi-Markov CRF for Monolingual Word Alignment [code/data][slides][video]
+Wuwei Lan*, Chao Jiang*, Wei Xu (* equal contribution)
+ACL 2021
+Controllable Text Simplification with Explicit Paraphrasing [data/code][slides] [poster]
+Mounica Maddela, Fernando Alva-Manchego, Wei Xu
+NAACL 2021
+The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics [project website]
+Sebastian Gehrmann, Tosin Adewumi, Karmanya Aggarwal, Pawan Sasanka Ammanamanchi, Aremu Anuoluwapo, Antoine Bosselut, Khyathi Raghavi Chandu, Miruna Clinciu, Dipanjan Das, Kaustubh D Dhole, Wanyu Du, Esin Durmus, Ondřej Dušek, Chris Emezue, Varun Gangal, Cristina Garbacea, Tatsunori Hashimoto, Yufang Hou, Yacine Jernite, Harsh Jhamtani, Yangfeng Ji, Shailza Jolly, Dhruv Kumar, Faisal Ladhak, Aman Madaan, Mounica Maddela, Khyati Mahajan, Saad Mahamood, Bodhisattwa Prasad Majumder, Pedro Henrique Martins, Angelina McMillan-Major, Simon Mille, Emiel van Miltenburg, Moin Nadeem, Shashi Narayan, Vitaly Nikolaev, Rubungo Andre Niyongabo, Salomey Osei, Ankur Parikh, Laura Perez-Beltrachini, Niranjan Ramesh Rao, Vikas Raunak, Juan Diego Rodriguez, Sashank Santhanam, João Sedoc, Thibault Sellam, Samira Shaikh, Anastasia Shimorina, Marco Antonio Sobrevilla Cabezudo, Hendrik Strobelt, Nishant Subramani, Wei Xu, Diyi Yang, Akhila Yerukola, Jiawei Zhou
+arXiv:2102.01672, ACL GEM Workshop 2021
+An Empirical Study of Pre-trained Transformers for Arabic Information Extraction [pre-trained GigaBERT]
+Wuwei Lan, Yang Chen, Wei Xu, Alan Ritter
+EMNLP 2020
+WNUT-2020 Task 1 Overview: Extracting Entities and Relations from Wet Lab Protocols [data]
+Jeniya Tabassum, Sydney Lee, Wei Xu, Alan Ritter
+EMNLP 2020 Workshop on Noisy User-generated Text (shared-task overview)
+Neural CRF Model for Sentence Alignment in Text Simplification [code/data][slides][video]
+Chao Jiang, Mounica Maddela, Wuwei Lan, Yang Zhong, Wei Xu
+ACL 2020
+Code and Named Entity Recognition in StackOverflow [code/data][slides][video]
+Jeniya Tabassum, Mounica Maddela, Wei Xu, Alan Ritter
+ACL 2020
+Generalizing Natural Language Analysis through Span-relation Representations [code/data]
+Zhengbao Jiang, Wei Xu, Jun Araki, Graham Neubig
+ACL 2020
+Learning Relation Entailment with Structured and Textual Information
+Zhengbao Jiang, Jun Araki, Donghan Yu, Ruohong Zhang, Wei Xu, Yiming Yang, Graham Neubig
+AKBC 2020
+Discourse Level Factors for Sentence Deletion in Text Simplification [poster][slides][data - email me]
+Yang Zhong, Chao Jiang, Wei Xu, Junyi Jessy Li
+AAAI 2020
+Multi-task Pairwise Neural Ranking for Hashtag Segmentation [code/data][poster][bib][live demo]
+Mounica Maddela, Wei Xu, Daniel Preoţiuc-Pietro
+ACL 2019
+A Word-Complexity Lexicon and a Neural Readability Ranking Model for Lexical Simplification [code/data][slides][video][bib]
+Mounica Maddela, Wei Xu
+EMNLP 2018
+Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering [bib][code][slides]
+Wuwei Lan, Wei Xu
+COLING 2018 Best paper award
+Character-based Neural Networks for Sentence Pair Modeling [bib][code][poster]
+Wuwei Lan, Wei Xu
+NAACL 2018
+An Annotated Corpus for Machine Reading of Instructions in Wet Lab Protocols [bib][data (improved version)][poster]
+Chaitanya Kulkarni, Wei Xu, Alan Ritter, Raghu Machiraju
+NAACL 2018
+A Continuously Growing Dataset of Sentential Paraphrases [bib][data][slides]
+Wuwei Lan, Siyu Qiu, Hua He, Wei Xu
+EMNLP 2017
+From Shakespeare to Twitter: What are Language Styles all about? [bib][slides]
+Wei Xu
+EMNLP 2017 Workshop on Stylistic Variation
+A Minimally Supervised Method for Recognizing and Normalizing Time Expressions in Twitter [bib][slides]
+Jeniya Tabassum, Alan Ritter, Wei Xu
+EMNLP 2016
+Results of the WNUT16 Named Entity Recognition Shared Task [bib]
+Benjamin Strauss, Bethany Toma, Alan Ritter, Marie-Catherine de Marneffe, Wei Xu
+COLING 2016 Workshop on Noisy User-generated Text (shared-task overview)
+Optimizing Statistical Machine Translation for Text Simplification [bib][data/code][slides][video]
+Wei Xu, Courtney Napoles, Ellie Pavlick, Quanze Chen, Chris Callison-Burch
+TACL 2016, oral presentation at ACL 2016
+Discovering User Attribute Stylistic Differences via Paraphrasing [bib] [data]
+Daniel Preoţiuc-Pietro, Wei Xu, Lyle Ungar
+AAAI 2016
+Problems in Current Text Simplification Research: New Data Can Help [bib][data][slides][video]
+Wei Xu, Chris Callison-Burch, Courtney Napoles
+TACL 2015, oral presentation at EMNLP 2015
+Shared Tasks of the 2015 Workshop on Noisy User-generated Text: Twitter Lexical Normalization and Named Entity Recognition [bib]
+Timothy Baldwin, Marie-Catherine de Marneffe, Bo Han, Young-Bum Kim, Alan Ritter, Wei Xu
+ACL 2015 Workshop on Noisy User-generated Text (shared-task overview)
+Cost Optimization for Crowdsourcing Translation [bib]
+Mingkun Gao, Wei Xu, Chris Callison-Burch
+NAACL 2015
+SemEval-2015 Task 1: Paraphrase and Semantic Similarity in Twitter (PIT) [bib][data & code - email me]
+Wei Xu, Chris Callison-Burch, William B. Dolan
+SemEval 2015 (shared-task overview)
+Extracting Lexically Divergent Paraphrases from Twitter [bib][code][video][data - email me]
+Wei Xu, Alan Ritter, Chris Callison-Burch, William B. Dolan, Yangfeng Ji
+TACL 2014, oral presentation at NAACL 2015
+Poetry of the Crowd: A Human Computation Algorithm to Convert Prose into Rhyming Verse [bib]
+Quanze Chen, Chenyang Lei, Wei Xu, Ellie Pavlick, Chris Callison-Burch
+HCOMP 2014 (work-in-progress)
+Infusion of Labeled Data into Distant Supervision for Relation Extraction [bib]
+Maria Pershina, Bonan Min, Wei Xu, Ralph Grishman
+ACL 2014
+Data-driven Approaches for Paraphrasing Across Language Variations [bib]
+Wei Xu
+PhD Thesis
+Filling Knowledge Base Gaps for Distant Supervision of Relation Extraction [bib][data]
+Wei Xu, Raphael Hoffmann, Le Zhao, Ralph Grishman
+ACL 2013
+Gathering and Generating Paraphrases from Twitter with Application to Normalization [bib][data]
+Wei Xu, Alan Ritter, Ralph Grishman
+ACL 2013 Workshop on Building and Using Comparable Corpora
+A Preliminary Study of Tweet Summarization using Information Extraction [bib][data]
+Wei Xu, Ralph Grishman, Adam Meyers, Alan Ritter
+NAACL 2013 Workshop on Language Analysis in Social Media
+Paraphrasing for Style [bib][data/code]
+Wei Xu, Alan Ritter, Bill Dolan, Ralph Grishman, Colin Cherry
+COLING 2012
+Exploiting Syntactic and Distributional Information for Spelling Correction with Web-Scale N-gram Models [bib]
+Wei Xu, Joel Tetreault, Martin Chodorow, Ralph Grishman, Le Zhao
+EMNLP 2011
+Passage Retrieval for Information Extraction using Distant Supervision
+Wei Xu, Ralph Grishman, Le Zhao
+IJCNLP 2011
+New York University 2011 System for KBP Slot Filing
+Ang Sun, Ralph Grishman, Wei Xu, Bonan Min
+TAC 2011
+Who, What, When, Where, Why? Comparing Multiple Approaches to the Cross-Lingual 5W Task
+Kristen Parton, Kathleen R. McKeown, Bob Coyne, Mona T. Diab, Ralph Grishman, Dilek Hakkani-Tür, Mary Harper, Heng Ji, Wei Yun Ma, Adam Meyers, Sara Stolbach, Ang Sun, Gokhan Tur, Wei Xu, Sibel Yaman
+ACL 2009
+A Parse-and-Trim Approach with Information Significance for Chinese Sentence Compression
+Wei Xu, Ralph Grishman
+ACL Workshop on Language Generation and Summarisation 2009
+Transducing Logical Relations from Automatic and Manual Annotation
+Adam Meyers, Michiko Kosaka, Heng Ji, Nianwen Xue, Mary Harper, Ang Sun, Wei Xu, Shasha Liao
+ACL Workshop on Linguistic Annotation 2009
+Automatic Recognition of Logical Relations for English, Chinese and Japanese in the GLARF Framework
+Adam Meyers, Michiko Kosaka, Nianwen Xue, Heng Ji, Ang Sun, Shasha Liao, Wei Xu
+SemEval 2009
+Using Non-Local Features to Improve Named Entity Recognition Recall
+Xinnian Mao, Wei Xu, Yuan Dong, Haila Wang
+PACLIC 2007
+Domain Extension of Chinese Named Entity Recognition
+Wei Xu, Bin Fu, Liu Liu, Chunfa Yuan, Wenjie Li
+Frontiers of Content Computing 2007
+Extractive Summarization using Inter- and Intra- Event Relevance
+Wenjie Li, Wei Xu, Mingli Wu, Chunfa Yuan, Qin Lu
+ACL 2006
+Deriving Event Relevance from the Ontology Constructed with Formal Concept Analysis
+Wei Xu, Wenjie Li, Mingli Wu, Wei Li, Chunfa Yuan
+CICLing 2006
+Building Document Graphs for Multiple News Articles Summarization: An Event-Based Approach
+Wei Xu, Wenjie Li, Mingli Wu, Wei Li, Chunfa Yuan, Kam-Fai Wong
+ICCPOL 2006
+The Hong Kong Polytechnic University at ACE2005
+Wenjie Li, Wei Li, Mingli Wu, Wei Xu
+ACE 2005
+Teaching
+Current Offering:
+
+CS 7650 (Georgia Tech) - Natural Language Processing (graduate level - Spring 2024)
+Previous Offerings:
+
+CS 8803-NLP (Georgia Tech) - Advanced NLP (a research-oriented class - Autumn 2023)
+CS 7650 (Georgia Tech) - Natural Language Processing (graduate level - Autumn 2022, 2021)
+CS 4650 (Georgia Tech) - Natural Language Processing (undergraduate level - Spring 2023, 2022, 2021)
+Speech and Language Processing (Spring 2020, 2017)
+Social Media and Text Analytics (Autumn 2019, 2017, 2016)
+
+Service
+
+I am a NAACL executive board member, a senior area chair for EMNLP 2022 (generation), NAACL 2022 (machine learning for NLP), 2021 (generation), and ACL 2020 (generation), and an area chair for ACL 2023 (semantics), EMNLP 2021 (computational social science), EMNLP 2020 (generation), AAAI 2020 (NLP), ACL 2019 (semantics), NAACL 2019 (generation), EMNLP 2018 (social media), COLING 2018 (semantics), EMNLP 2016 (generation), a workshop chair for ACL 2017, and the publicity chair for EMNLP 2019, NAACL 2018 and 2016. I also created a new undergraduate course on Social Media and Text Analytics.
+
+Miscellaneous
+
+When I have spare time, I enjoy visiting art museums, hiking, biking, and snowboarding.
+
+I wrote a biography of my phd advisor Ralph Grishman along with some early history of Information Extraction research in 2017.
+
+I also made a list of the best dressed NLP researchers in 2016/17 , 2015 and 2014.
+

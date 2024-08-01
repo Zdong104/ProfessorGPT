@@ -1,0 +1,717 @@
+Professor: Felix Heide
+University: Princeton University
+URL: https://www.cs.princeton.edu/~fheide
+Description: Felix Heide
+
+Professor
+Princeton University
+
+Princeton Computational Imaging Lab
+
+fheide@cs.princeton.edu
+
+
+
+
+Latest News:
+
+April 2024 My group will present 9 fun papers at CVPR 2024 and two papers at this year's SIGGRAPH 2024 !
+Oct 2023 We will present four papers at ICCV 2023 !
+Aug 2023 I won the Significant New Researcher Award at SIGGRAPH 2023!
+May 2023 Thrilled to announce that Algolux has been acquired! Together with Torc's robotic stack and the deep OEM integration with Daimler Truck AG we will bring Algolux's perception in autonomous trucks on the road at scale !
+April 2023 My group will present five fun papers at CVPR 2023 and two papers at this year's SIGGRAPH 2023 !
+Feb 2023 I was named a 2023 Sloan Research Fellow.
+Nov 2022 I got named a Packard Fellow in the 2022 Class of Packard Foundation Fellowships for Science and Engineering.
+Sep 2022 Two fun papers at NeurIPS 2022 !
+Aug 2022 Three papers at SIGGRAPH Asia 2022! Also, check out our course on differentiable cameras and displays at SIGGRAPH 2022.
+July 2022 I won an Amazon Research Award.
+June 2022 We will present seven papers (three orals) at CVPR 2022 !
+March 2022 We will be presenting three papers at SIGGRAPH 2022 (all in the journal track) !
+Feb 2022 Neural Nano-optics in the news.
+Jan 2022 I joined the technical advisory board at Samsung Research.
+
+
+Biography
+
+I'm a professor of Computer Science at Princeton, where I lead the Princeton Computational Imaging Lab, and I am the Head of AI at Torc Robotics which builds full autonomy stacks for self-driving trucks. I previously founded the startup Algolux which was acquire by Torc and Daimler Trucks. My group at Princeton explores imaging and computer vision approaches that allow computers to see and understand what seems invisible today — enabling super-human capabilities for the cameras in our vehicles, personal devices, microscopes, telescopes, and the instrumentation we use for fundamental research in physics. This includes today's capture and vision challenges, including harsh environmental conditions, e.g., imaging under ultra-low or high illumination or computer vision through dense fog, rain, and snow, imaging at ultra-fast or slow time scales, freezing light in motion, imaging at extreme scene scales, from super-resolution microscopy to kilometer-scale depth sensing, and imaging via proxies using nearby object surfaces as sensors instead. Researching vision systems end-to-end, my work lies at the intersection of optics, machine learning, optimization, computer graphics, and computer vision. I received my Ph.D. from the University of British Columbia, and I was a postdoc at Stanford University. My doctoral dissertation won the Alain Fournier Ph.D. Dissertation Award and the SIGGRAPH outstanding doctoral dissertation award. I was recently named SIGGRAPH Significant New Researcher, Sloan Research Fellow and Packard Fellow.
+
+Publications
+
+List of recent publications:
+
+
+
+ 
+Neural Spline Fields for Burst Image Fusion and Layer Separation
+Ilya Chugunov, David Shustin, Ruyu Yan, Chenyang Lei, Felix Heide
+CVPR 2024
+
+
+ 
+Gated Fields: Learning Scene Reconstruction from Gated Videos
+Andrea Ramazzina, Stefanie Walz, Pragyan Dahal, Mario Bijelic, Felix Heide
+CVPR 2024
+
+
+ 
+Flow-Guided Online Stereo Rectification for Wide Baseline Stereo
+Anush Kumar, Fahim Mannan, Omid Hosseini Jafari, Shile Li, Felix Heide
+CVPR 2024
+
+
+ 
+Cross-Spectral Depth Estimation from RGB and NIR-Gated Stereo Images
+Samuel Brucker, Stefanie Walz, Mario Bijelic, Felix Heide
+CVPR 2024 (Highlight)
+
+
+ 
+Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts
+Dominik Scheuble, Chenyang Lei, Seung-Hwan Baek, Mario Bijelic, Felix Heide
+CVPR 2024
+
+
+ 
+Neural Exposure Fusion for High-Dynamic Range Object Detection
+Emmanuel Onzon, Maximilian Bömer, Fahim Mannan, Felix Heide
+CVPR 2024
+
+
+ 
+Dispersed Structured Light for Hyperspectral 3D Imaging
+Suhyun Shin, Seokjun Choi, Felix Heide, Seung-Hwan Baek
+CVPR 2024
+
+
+ 
+Spectral and Polarization Vision: Spectro-Polarimetric Real-World Dataset
+Yujin Jeon, Eunsue Choi, Youngchan Kim, Khalid Omer, Felix Heide, Seung-Hwan Baek
+CVPR 2024 (Highlight)
+
+
+ 
+Robust Depth Enhancement via Polarization Prompt Fusion Tuning
+Kei Ikemura, Yiming Huang, Felix Heide, Zhaoxiang Zhang, Qifeng Chen, Chenyang Lei
+CVPR 2024
+
+
+ 
+Inverse Neural Rendering for Explainable Multi-Object Tracking
+Julian Ost, Tanushree Banerjee, Mario Bijelic, Felix Heide
+arXiv Preprint
+
+
+ 
+Neural Étendue Expander for Ultra-Wide-Angle High-Fidelity Holographic Display
+Ethan Tseng, Grace Kuo, Seung-Hwan Baek, Nathan Matsuda, Andrew Maimone, Florian Schiffers,
+Praneeth Chakravarthula, Qiang Fu, Wolfgang Heidrich, Douglas Lanman, Felix Heide
+Nature Communications
+
+
+ 
+Roadmap for Optical Metasurfaces
+Arseniy I. Kuznetsov, Mark L. Brongersma, Felix Heide, et al.
+ACS Photonics 2024 (Cover Article and Editors Choice)
+
+
+ 
+Thin On-Sensor Nanophotonic Array Cameras
+Praneeth Chakravarthula, Jipeng Sun, Xiao Li, Chenyang Lei, Gene Chou, Mario Bijelic, Johannes Froech, Arka Majumdar, Felix Heide
+SIGGRAPH Asia 2023
+
+
+ 
+Kissing to Find a Match: Efficient Low-Rank Permutation Representation
+Hannah Dröge, Zorah Lähner, Yuval Bahat, Onofre Martorell, Felix Heide, Michael Möller
+NeurIPS 2023
+
+
+ 
+ScatterNeRF: Seeing Through Fog with Physically-Based Inverse Neural Rendering
+Andrea Ramazzina, Mario Bijelic, Stefanie Walz, Alessandro Sanvito, Dominik Scheuble, Felix Heide
+ICCV 2023
+
+
+ 
+Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions
+Gene Chou, Yuval Bahat, Felix Heide
+ICCV 2023
+
+
+ 
+Single Depth-image 3D Reflection Symmetry and Shape Prediction
+Zhaoxuan Zhang, Bo Dong, Tong Li, Felix Heide, Pieter Peers, Baocai Yin, Xin Yang
+ICCV 2023
+
+
+ 
+Multi-view Spectral Polarization Propagation for Video Glass Segmentation
+Yu Qiao, Bo Dong, Ao Jin, Yu Fu, Seung-Hwan Baek, Felix Heide, Pieter Peers, Xiaopeng Wei, Xin Yang
+ICCV 2023
+
+
+ 
+Hexagonal Diffractive Optical Elements
+Yidan Zheng, Qiang Fu, Hadi Amata, Praneeth Chakravarthula, Felix Heide, Wolfgang Heidrich
+Optics Express 2023
+
+
+ 
+∇-Prox: Differentiable Proximal Algorithm Modeling for Large-Scale Optimization
+Zeqiang Lai, Kaixuan Wei, Ying Fu, Philipp Härtel, Felix Heide
+SIGGRAPH 2023
+
+
+ 
+In the Blink of an Eye: Event-based Emotion Recognition
+Haiwei Zhang, Jiqing Zhang, Bo Dong, Pieter Peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, Xin Yang
+SIGGRAPH 2023
+
+
+ 
+Stochastic Light Field Holography
+Florian Schiffers, Praneeth Chakravarthula, Nathan Matsuda, Grace Kuo, Ethan Tseng, Douglas Lanman, Felix Heide, Oliver Cossairt
+ICCP 2023
+
+
+ 
+Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues
+Stefanie Walz, Mario Bijelic, Andrea Ramazzina, Fahim Mannan, Felix Heide
+CVPR 2023
+
+
+ 
+Shakes on a Plane: Unsupervised Depth Estimation from Unstabilized Photography
+Ilya Chugunov, Yuxuan Zhang, Felix Heide
+CVPR 2023
+
+
+ 
+LiDAR-in-the-loop Hyperparameter Optimization
+Félix Goudreault, Dominik Scheuble, Mario Bijelic, Nicolas Robidoux, Felix Heide
+CVPR 2023
+
+
+ 
+Seeing With Sound: Acoustic Beamforming for Multimodal Scene Understanding
+Praneeth Chakravarthula, Jim Aldon D'Souza, Ethan Tseng, Joe Bartusek, Felix Heide
+CVPR 2023
+
+
+ 
+The Differentiable Lens: Compound Lens Search over Glass Surfaces and Materials for Object Detection
+Geoffroi Côté, Fahim Mannan, Simon Thibault, Jean-François Lalonde, Felix Heide
+CVPR 2023
+
+
+ 
+Instance Segmentation in the Dark
+Linwei Chen, Ying Fu, Kaixuan Wei, Dezhi Zheng, Felix Heide
+IJCV 2023
+
+
+ 
+Pupil-aware Holography
+Praneeth Chakravarthula, Seung-Hwan Baek, Florian Schiffers, Ethan Tseng, Grace Kuo, Andrew Maimone, Nathan Matsuda, Oliver Cossairt, Douglas Lanman, Felix Heide
+SIGGRAPH Asia 2022
+
+
+ 
+Neural Photo-Finishing
+Ethan Tseng, Yuxuan Zhang, Lars Jebe, Cecilia Zhang, Zhihao Xia, Yifei Fan, Felix Heide, Jiawen Chen
+SIGGRAPH Asia 2022
+
+
+ 
+Differentiable Point-Based Radiance Fields for Efficient View Synthesis
+Qiang Zhang, Seung-Hwan Baek, Szymon Rusinkiewicz, Felix Heide
+SIGGRAPH Asia 2022
+
+
+ 
+Single Scattering Models for Radiative Transfer of Isotropic and Cone-shaped Light Sources in Fog
+Simeon Geiger, André Liemert, Dominik Reitzle, Mario Bijelic, Andrea Ramazzina, Werner Ritter, Felix Heide, and Alwin Kienle
+Optics Express 2022
+
+
+ 
+GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions
+Gene Chou, Ilya Chugunov, Felix Heide
+NeurIPS 2022
+
+
+ 
+Biologically Inspired Dynamic Thresholds for Spiking Neural Networks
+Jianchuan Ding, Bo Dong, Felix Heide, Yufei Ding, Yunduo Zhou, Baocai Yin, Xin Yang
+NeurIPS 2022
+
+
+ 
+All You Need is RAW: Defending Against Adversarial Attacks with Camera Image Pipelines
+Yuxuan Zhang, Bo Dong, Felix Heide
+ECCV 2022
+
+
+ 
+Centimeter-Wave Free-Space Neural Time-of-Flight Imaging
+Seung-Hwan Baek, Noah Walsh, Ilya Chugunov, Zheng Shi, Felix Heide
+SIGGRAPH 2022
+
+
+ 
+Seeing Through Obstructions with Diffractive Cloaking
+Zheng Shi, Yuval Bahat, Seung-Hwan Baek, Qiang Fu, Hadi Amata, Xiao Li, Praneeth Chakravarthula, Wolfgang Heidrich, Felix Heide
+SIGGRAPH 2022
+
+
+ 
+Hogel-free Holography
+Praneeth Chakravarthula, Ethan Tseng, Henry Fuchs, Felix Heide
+SIGGRAPH 2022
+
+
+ 
+A survey on computational spectral reconstruction methods from RGB to hyperspectral imaging
+Jingang Zhang, Runmu Su, Qiang Fu, Wenqi Ren, Felix Heide, Yunfeng Nie
+Nature Scientific Reports
+
+
+ 
+Gated2Gated: Self-Supervised Depth Estimation from Gated Images
+Amanpreet Walia, Stefanie Walz, Mario Bijelic, Fahim Mannan, Frank Julca-Aguilar, Michael Langer, Werner Ritter, Felix Heide
+CVPR 2022 (Oral)
+
+
+ 
+The Implicit Values of A Good Hand Shake : Handheld Multi-Frame Neural Depth Refinement
+Ilya Chugunov, Yuxuan Zhang, Zhihao Xia, Cecilia Zhang, Jiawen Chen, Felix Heide
+CVPR 2022 (Oral)
+
+
+ 
+All-photon Polarimetric Time-of-Flight Imaging
+Seung-Hwan Baek and Felix Heide
+CVPR 2022
+
+
+ 
+LiDAR Snowfall Simulation for Robust 3D Object Detection
+Martin Hahner, Christos Sakaridis, Mario Bijelic, Felix Heide, Fisher Yu, Dengxin Dai, Lux Van Gool
+CVPR 2022 (Oral)
+
+
+ 
+Neural Point Light Fields
+Julian Ost, Issam Laradji, Alejandro Newell, Yuval Bahat, Felix Heide
+CVPR 2022
+
+
+ 
+Glass Segmentation using Intensity and Spectral Polarization Cues
+Haiyang Mei, Bo Dong, Wen Dong, Jiaxi Yang, Seung-Hwan Baek, Felix Heide, Pieter Peers, Xiaopeng Wei, and Xin Yang
+CVPR 2022
+
+
+ 
+Spiking Transformers for Event-based Single Object Tracking
+Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, and Xin Yang
+CVPR 2022
+
+
+ 
+Neural Nano-Optics for High-quality Thin Lens Imaging
+Ethan Tseng, Shane Colburn, James Whitehead, Luocheng Huang, Seung-Hwan Baek, Arka Majumdar, Felix Heide,
+Nature Communications
+
+
+ 
+Latent Variable Sequential Set Transformers For Joint Multi-Agent Motion Prediction
+Roger Girgis, Florian Golemo, Felipe Codevilla, Martin Weiss, Jim Aldon D'Souza, Samira Ebrahimi Kahou, Felix Heide, Christopher Pal
+ICLR 2022 (Spotlight Paper)
+
+
+ 
+Gated3D: Domain Transfer for Long Distance Imaging and Vision through Scattering Media
+Frank Julca-Aguilar, Jason Taylor, Mario Bijelic, Fahim Mannan, Ethan Tseng, Felix Heide
+ICCV 2021
+
+
+ 
+Polarimetric Spatio-Temporal Light Transport Probing
+Seung-Hwan Baek and Felix Heide
+SIGGRAPH Asia 2021
+
+
+ 
+Differentiable Compound Optics and Processing Pipeline Optimization for End-to-end Camera Design
+Ethan Tseng, Ali Mosleh, Fahim Mannan, Karl St. Arnaud, Avinash Sharma, Yifan Peng, Alexander Braun, Derek Nowrouzezahrai, Jean-François Lalonde, Felix Heide
+SIGGRAPH 2021
+
+
+ 
+Low-Cost SPAD Sensing for Non-Line-Of-Sight Tracking, Material Classification and Depth Imaging
+Clara Callenberg, Zheng Shi, Felix Heide, Matthias B. Hullin
+SIGGRAPH 2021
+
+
+ 
+Dirty Pixels: Towards End-to-End Image Processing and Perception
+Steven Diamond, Vincent Sitzmann, Frank Julca-Aguilar, Stephen Boyd, Gordon Wetzstein, Felix Heide
+SIGGRAPH 2021
+
+
+ 
+Thallo – Scheduling for High-Performance Large-scale Non-linear Least-Squares Solvers
+Michael Mara, Felix Heide, Michael Zollhöfer, Matthias Nießner, Pat Hanrahan
+SIGGRAPH 2021
+
+
+ 
+Polka Lines: Learning Structured Illumination and Reconstruction for Active Stereo
+Seung-Hwan Baek, Felix Heide
+CVPR 2021 (Oral)
+
+
+ 
+Neural Scene Graphs for Dynamic Scenes
+Julian Ost, Fahim Mannan, Nils Thuerey, Julian Knodt, Felix Heide
+CVPR 2021 (Oral)
+
+
+ 
+Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging
+Ilya Chugunov, Seung-Hwan Baek, Qiang Fu, Wolfgang Heidrich, Felix Heide
+CVPR 2021
+
+
+ 
+Neural Auto Exposure for High-Dynamic Range Object Detection
+Emmanuel Onzon, Fahim Mannan, Felix Heide
+CVPR 2021
+
+
+ 
+Adversarial Imaging Pipelines
+Buu Phan, Fahim Mannan, Felix Heide
+CVPR 2021
+
+
+ 
+End-to-end High Dynamic Range Camera Pipeline Optimization
+Nicolas Robidoux, Luis Eduardo Garcia Capel, Dong-eun Seo, Avinash Sharma, Federico Ariza, Felix Heide
+CVPR 2021
+
+
+ 
+ZeroScatter: Domain Transfer for Long Distance Imaging and Vision through Scattering Media
+Zheng Shi, Ethan Tseng, Mario Bijelic, Werner Ritter, Felix Heide
+CVPR 2021
+
+
+ 
+Learned Feature Embeddings for Non-Line-of-Sight Imaging and Recognition
+Wenzheng Chen, Fangyin Wei, Kyros Kutulakos, Szymon Rusinkiewicz, Felix Heide
+SIGGRAPH Asia 2020
+
+
+ 
+Learned Hardware-in-the-loop Phase Retrieval for Holographic Near-Eye Displays
+Praneeth Chakravarthula, Ethan Tseng, Tarun Srivastava, Henry Fuchs, Felix Heide
+SIGGRAPH Asia 2020
+
+
+ 
+Learning Rank-1 Diffractive Optics for Single-shot High Dynamic Range Imaging
+Qilin Sun, Ethan Tseng, Qiang Fu, Wolfgang Heidrich, Felix Heide
+CVPR 2020 (Oral)
+
+
+ 
+Hardware-in-the-loop End-to-end Optimization of Camera Image Processing Pipelines
+Ali Mosleh, Avinash Sharma, Emmanuel Onzon, Fahim Mannan, Nicolas Robidoux, Felix Heide
+CVPR 2020 (Oral)
+
+
+ 
+Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar
+Nicolas Scheiner, Florian Kraus, Fangyin Wei, Buu Phan, Fahim Mannan, Nils Appenrodt, Werner Ritter, Jürgen Dickmann, Klaus Dietmayer, Bernhard Sick, Felix Heide
+CVPR 2020
+
+
+ 
+Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather
+Mario Bijelic, Tobias Gruber, Fahim Mannan, Florian Kraus, Werner Ritter, Klaus Dietmayer, Felix Heide
+CVPR 2020
+
+
+ 
+Single-shot Monocular RGB-D Imaging using Uneven Double Refraction
+Andreas Meuleman, Seung-Hwan Baek, Felix Heide, Min H. Kim
+CVPR 2020 (Oral)
+ 
+Defending Against Universal Attacks Through Selective Feature Regeneration
+Tejas Borkar, Felix Heide, Lina Karam
+CVPR 2020
+
+
+ 
+Deep-inverse correlography: towards real-time high-resolution non-line-of-sight imaging
+Christopher A. Metzler, Felix Heide, Prasana Rangarajan, Muralidhar Madabhushi Balaji, Aparna Viswanath, Ashok Veeraraghavan, Richard G. Baraniuk
+Optica 2020
+
+
+ 
+Learned Large Field-of-View Imaging With Thin-Plate Optics
+Yifan Peng, Qilin Sun, Xiong Dun, Gordon Wetzstein, Wolfgang Heidrich, Felix Heide
+SIGGRAPH Asia 2019
+
+
+ 
+Wirtinger Holography for Near-Eye Displays
+Praneeth Chakravarthula, Yifan Peng, Joel Kollin, Henry Fuchs, Felix Heide
+SIGGRAPH Asia 2019
+
+
+ 
+Gated2Depth: Real-time Dense Lidar from Gated Images
+Tobias Gruber, Frank Julca-Aguilar, Mario Bijelic, Felix Heide
+ICCV 2019 (Oral)
+
+
+ 
+Pixel-Accurate Depth Evaluation in Realistic Driving Scenarios
+Tobias Gruber, Mario Bijelic, Felix Heide, Werner Ritter, Klaus Dietmayer
+3DV 2019
+
+
+ 
+Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies
+Ethan Tseng, Felix Yu, Yuting Yang, Fahim Mannan, Karl St. Arnaud, Derek Nowrouzezahrai, Jean-François Lalonde, Felix Heide
+SIGGRAPH 2019
+
+
+ 
+Non-line-of-sight Imaging with Partial Occluders and Surface Normals
+Felix Heide, Matthew O'Toole, Kai Zang, David Lindell, Steven Diamond, Gordon Wetzstein
+ACM TOG, presented at SIGGRAPH 2019
+
+
+ 
+Steady-state Non-Line-of-Sight Imaging
+Wenzheng Chen, Simon Daneau, Fahim Mannan, Felix Heide
+CVPR 2019 (Oral)
+
+
+ 
+DeepVoxels: Learning Persistent 3D Feature Embeddings
+Vincent Sitzmann, Justus Thies, Felix Heide, Matthias Nießner, Gordon Wetzstein, Michael Zollhöfer
+CVPR 2019 (Oral)
+
+
+ 
+Sub-picosecond photon-efficient 3D imaging using single-photon sensors
+Felix Heide, Steven Diamond, David B. Lindell, Gordon Wetzstein
+Nature Scientific Reports
+
+
+ 
+Transient Convolutional Imaging
+Felix Heide
+IEEE Dissertation Hightlights
+
+
+ 
+Discriminative Transfer Learning for General Image Restoration
+Lei Xiao, Felix Heide, Wolfgang Heidrich, Bernhard Schölkopf, Michael Hirsch
+IEEE Transactions on Image Processing (TIP) 2018
+
+
+ 
+End-to-end Optimization of Optics and Image Processing for Achromatic Extended Depth of Field and Super-resolution Imaging
+Vincent Sitzmann, Steven Diamond, Yifan Peng, Xiong Dun, Stephen Boyd, Wolfgang Heidrich Felix Heide, Gordon Wetzstein
+Siggraph 2018
+
+
+ 
+Deep End-to-End Time-of-Flight Imaging
+Shuochen Su, Felix Heide, Gordon Wetzstein, Wolfgang Heidrich
+CVPR 2018
+
+
+ 
+Focal Sweep Imaging with Multi-focal Diffractive Optics
+Yifan Peng, Xiong Dun, Qilin Sun, Felix Heide, Wolfgang Heidrich
+ICCP 2018
+
+
+ 
+Snapshot Difference Imaging using Correlation Time-of-Flight Sensors
+Clara Callenberg, Felix Heide, Gordon Wetzstein, Matthias B. Hullin
+Siggraph Asia 2017
+
+
+ 
+IDEAL: Image DEnoising AcceLerator
+Mostafa Mahmoud, Bojian Zheng, Alberto Delmás Lascorz, Felix Heide, Jonathan Assouline, Paul Boucher, Emmanuel Onzon, Andreas Moshovos
+MICRO-50 2017
+
+
+ 
+Consensus Convolutional Sparse Coding
+Biswarup Choudhury*, Robin Swanson*, Felix Heide* , Gordon Wetzstein, Wolfgang Heidrich (* joint first authors)
+ICCV 2017
+
+
+ 
+Reconstructing Transient Images from Single-Photon Sensors
+Matthew O'Toole, Felix Heide, David B. Lindell, Kai Zang, Steven Diamond, Gordon Wetzstein
+CVPR 2017
+
+
+ 
+Convolutional Sparse Coding for RGB+NIR Imaging
+Xuemei Hu, Felix Heide, Qionghai Dai, Gordon Wetzstein
+IEEE Transactions on Image Processing (TIP) 2017
+
+
+ 
+Structure-Aware Computational Imaging
+Felix Heide
+Ph.D. dissertation, 2017
+won the Alain Fournier Award
+won the ACM SIGGRAPH outstanding doctoral dissertation award
+
+ 
+Encoded diffractive optics for full-spectrum computational imaging
+Felix Heide, Qiang Fu, Yifan Peng, Wolfgang Heidrich
+Nature Scientific Reports
+
+
+ 
+ProxImaL: Efficient Image Optimization Using Proximal Algorithms
+Felix Heide, Steven Diamond, Jonathan Ragan-Kelley, Matthias Niessner, Wolfgang Heidrich, Gordon Wetzstein
+SIGGRAPH 2016
+
+
+ 
+Computational Imaging with Phased Time-of-Flight Camera Arrays
+Shikhar Shrestha*, Felix Heide* , Wolfgang Heidrich, Gordon Wetzstein (* joint first authors)
+SIGGRAPH 2016
+
+
+ 
+The Diffractive Achromat: Full Spectrum Computational Imaging with Diffractive Optics
+Yifan Peng, Qiang Fu, Felix Heide, Wolfgang Heidrich
+SIGGRAPH 2016
+
+
+ 
+Material Classification Using Raw Time-of-Flight Measurements
+Shuochen Su. Felix Heide, Robin Swanson, Jonathan Klein, Clara Callenberg, Matthias Hullin, Wolfgang Heidrich
+CVPR 2015
+
+
+ 
+Convolutional Sparse Coding for High Dynamic Range Imaging
+Ana Serrano, Felix Heide, Diego Gutierrez, Gordon Wetzstein, Belen Masia
+Computer Graphics Forum (presented at Eurographics 2016)
+
+
+ 
+Computational Imaging Using Lightweight Diffractive-Refractive Optics
+Yifan Peng, Hadi Amata, Shuochen Su, Felix Heide, Wolfgang Heidrich
+Optics Express, 2015
+
+
+ 
+Doppler Time-of-Flight Imaging
+Felix Heide, Wolfgang Heidrich, Matthias B. Hullin, Gordon Wetzstein
+SIGGRAPH 2015
+
+
+ 
+Fast and Flexible Convolutional Sparse Coding
+Felix Heide, Wolfgang Heidrich, Gordon Wetzstein
+CVPR 2015 (Oral)
+
+
+ 
+Defocus Deblurring and Superresolution for Time-of-Flight Depth Cameras
+Lei Xiao, Felix Heide, Matthew O'Toole, Andreas Kolb, Matthias B. Hullin, Kiriakos N. Kutulakos, Wolfgang Heidrich
+CVPR 2015
+
+
+ 
+Stochastic Blind Motion Deblurring
+Lei Xiao, James Gregson, Felix Heide, Wolfgang Heidrich
+IEEE Transactions on Image Processing, 2015
+
+
+ 
+FlexISP: A Flexible Camera Image Processing Framework
+Felix Heide, Markus Steinberger, Yun-Ta Tsai, Mushfiqur Rouf, David Pająk, Dikpal Reddy,
+Orazio Gallo, Jing Liu, Wolfgang Heidrich, Karen Egiazarian, Jan Kautz, Kari Pulli
+SIGGRAPH Asia 2014
+
+
+ 
+Imaging in scattering media using correlation image sensors and sparse convolutional coding
+Felix Heide, Lei Xiao, Andreas Kolb, Matthias B. Hullin, Wolfgang Heidrich
+Optics Express, 2014
+
+
+ 
+Cascaded Displays: Spatiotemporal Superresolution using Offset Pixel Layers
+Felix Heide, Douglas Lanman, Dikpal Reddy, Jan Kautz, Kari Pulli, David Luebke
+SIGGRAPH 2014
+
+
+ 
+Temporal Frequency Probing for 5D Transient Analysis of Global Light Transport
+Matthew O'Toole, Felix Heide, Lei Xiao, Matthias B. Hullin, Wolfgang Heidrich, Kiriakos N. Kutulakos
+SIGGRAPH 2014
+
+
+ 
+Diffuse Mirrors: ''Looking Around Corners'' Using Inexpensive Time-of-Flight Sensors
+Felix Heide, Lei Xiao, Wolfgang Heidrich, Matthias B. Hullin
+CVPR 2014 (Oral)
+
+
+ 
+Compressive multi-mode superresolution display
+Felix Heide, James Gregson, Gordon Wetzstein, Ramesh Raskar, Wolfgang Heidrich
+Optics Express, 2014
+
+
+ 
+Low-budget Transient Imaging using Photonic Mixer Devices
+Felix Heide, Matthias B. Hullin, James Gregson, Wolfgang Heidrich
+SIGGRAPH 2013
+
+
+ 
+Adaptive Image Synthesis for Compressive Displays
+Felix Heide, Gordon Wetzstein, Ramesh Raskar, Wolfgang Heidrich
+SIGGRAPH 2013
+
+
+ 
+High-Quality Computational Imaging Through Simple Lenses
+Felix Heide, Mushfiqur Rouf, Matthias B. Hullin, Bjorn Labitzke, Wolfgang Heidrich, Andreas Kolb.
+ACM Transactions on Graphics 2013 (presented at SIGGRAPH 2013)
+
+
+ 
+Stochastic Deconvolution
+James Gregson, Felix Heide, Matthias B. Hullin, Mushfiqur Rouf, Wolfgang Heidrich
+CVPR 2013
+
+
+ 
+CALTag: High Precision Fiducial Markers for Camera Calibration
+Bradley Atcheson, Felix Heide, Wolfgang Heidrich
+VMV 2010
+
+
+

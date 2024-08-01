@@ -1,0 +1,120 @@
+Professor: Forest Agostinelli
+University: University of South Carolina
+URL: https://cse.sc.edu/~foresta
+Description: Forest Agostinelli
+Research Group
+Publications/Code
+Teaching
+Talks
+In the News
+
+CV
+Forest Agostinelli
+
+Assistant Professor - AI Institute - Computer Science and Engineering
+University of South Carolina
+Email: foresta@cse.sc.edu
+
+I am an assistant professor at the University of South Carolina. My research goal is to use artificial intelligence to solve planning problems, explain generalized solutions to humans, and collaborate with humans to automate the discovery of new knowledge. The methods employed in my research group include deep learning, reinforcement learning, heuristic search, and answer set programming.
+
+I completed my Ph.D. in computer science at the University of California, Irvine, my M.S. in computer science from the University of Michigan, and my B.S. in electrical and computer engineering from the Ohio State University.
+
+Prospective Ph.D. students can send an email to foresta@cse.sc.edu with all of the following documents:
+1) A one-page writeup on how your background fits in to one of the following papers and what future research directions excite you (1,2,3,4)
+2) CV
+3) Transcripts 
+
+
+   
+Updates
+05/2024: One paper accepted at the Reinforcement Learning Conference 2024 
+4/2024: Four workshop papers accepted at ICAPS 2024: PRL (1,2), HAXP, HSDIP
+2/2024: I will be giving a master class on deep learning, reinforcement learning, and heuristic search at SoCS 2024.
+2/2024: One paper accepted to ICAPS 2024
+10/2023: One workshop paper accepted at the NeurIPS GenPlan workshop 
+
+09/2023: Awarded an NSF-MRI grant 
+05/2023: Awarded an ASPIRE-I grant from the Office of the Vice President for Research
+05/2023: One workshop paper accepted at ICRA  
+05/2023: One workshop paper accepted to the ICAPS Explainable Planning workshop
+
+04/2023: Awarded a MADE in SC grant from the South Carolina EPSCOR program
+11/2022: Two papers (1, 2) published in HCI International 2022 - Late Breaking Posters
+06/2022: One paper published in Nucleic Acids Research
+06/2022: One paper published in the AAAI 2022 - Demonstration Track
+04/2022: One workshop paper accepted to the ICAPS XAIP workshop
+
+02/2022: One paper published in Nature Communications
+09/2021: One paper published in Hard X-Ray, Gamma-Ray, and Neutron Detector Physics XXIII
+
+06/2021: One paper accepted at Interactive Design and Children 2021
+05/2021: One workshop paper accepted at the ICAPS workshop on Bridging the Gap Between Planning and Reinforcement Learning
+04/2021: Awarded two ASPIRE-II grants from the Office of the Vice President for Research
+03/2021: One paper published in Neural Networks
+All Updates
+Current Projects
+Learning World Models for Planning
+
+Many planning problems in real-world domains are not given world models and, thus, cannot make use of planning. We seek to learn world models from real-world observations and use these learned world models to learn heuristic functions and to plan.
+Selected Papers:
+Learning Discrete World Models for Classical
+Planning Problems, NeurIPS Workshop (2023)
+
+
+Explainable Artificial Intelligence for Planning Problems
+
+While artificial intelligence algorithms can be used to solve problems that we find difficult, their solutions are often unintelligible to us. Artificial intelligence algorithms that can explain their solutions in a manner that humans can understand create new possibilities for both education and knowledge discovery.  
+Selected Papers:
+Specifying Goals for Deep Neural Networks with Answer Set Programming, ICAPS (2024)
+
+ALLURE: A Multi-Modal Guided Environment for Helping Children Learn to Solve a Rubik’s Cube with Automatic Solving and Interactive Explanations, AAAI Demo (2022)
+
+
+
+Solving Planning Problems with Deep Reinforcement Learning and Search
+
+We seek to create domain-independent machine learning methods that can learn domain-specific heuristic functions given only a description of a planning domain. We have created DeepCubeA, a deep reinforcement learning and search algorithm capable of solving planning problems such as the Rubik's cube and other combinatorial puzzles without human guidance. We are investigating how DeepCubeA can be extended to problems in mathematics and the natural sciences.
+DeepCubeA Webserver
+Selected Papers:
+Solving the Rubik's Cube with Deep Reinforcement Learning and Search, Nature Machine Intelligence (2019)
+
+Solving the Rubik's Cube with Approximate Policy Iteration, ICLR (2019)
+
+
+
+
+
+Learning Activation Functions
+
+Artificial neural networks typically have a fixed, non-linear activation function at each neuron. We have designed a novel form of piecewise linear activation function that is learned though gradient descent. With this adaptive activation function, we are able to improve upon deep neural network architectures that use static activation functions.
+Selected Papers:
+SPLASH: Learnable Activation Functions for Improving Accuracy and Adversarial Robustness, Neural Networks, 2021
+
+Learning Activation Functions to Improve Deep Neural Networks, ICLR Workshop, 2015
+
+Circadian Rhythms
+
+Circadian rhythms are found in virtually all forms of life. They play a fundamental role in functions ranging from metabolism to cognition. We have developed Circadiomics for accessing and mining circadian omic datasets and BIO_CYCLE for analyzing cicadian rhythms experiments using deep learning.
+Circadiomics Webserver
+BIO_CYCLE Webserver
+Selected Papers:
+CircadiOmics: Circadian Omic Web Portal, Nucleic Acids Research (2022)
+
+What Time is It? Deep Learning Approaches for Circadian Rhythms, ISMB (2016)
+
+
+
+
+
+The Hippocampus and Nonspatial Memory
+
+The hippocampus plays a key role in the memory of sequences of events, however, the role of the hippocampus in nonspatial tasks has yet to be understood. Using unsupervised deep learning techniques, we visualize hippocampal activity during a nonspatial sequential memory task. We discovered that hippocampal activity correlates strongly with the sequence presented in this nonspatial memory task.
+Selected Papers:
+Hippocampal Ensembles Represent Sequential Relationships Among Discrete Nonspatial Events, Nature Communications (2022)
+
+
+Research Gallery
+AllNeuroscienceReinforcement LearningBioinformaticsDeep LearningComputer VisionPictures
+
+Page was built with Mobirise
+

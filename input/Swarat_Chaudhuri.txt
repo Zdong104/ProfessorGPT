@@ -1,0 +1,138 @@
+Professor: Swarat Chaudhuri
+University: University of Texas at Austin
+URL: https://www.cs.utexas.edu/~swarat
+Description: 
+
+				
+
+
+publications| bio| research statement| cv |
+professional activities | twitter | trishul
+
+
+CONTACT
+
+
+Email: swarat@cs.utexas.edu
+
+Administrative support:
+Megan Booth, meganb@cs.utexas.edu
+
+	
+
+Mailing address:
+GDC 5.810
+Computer Science Department,
+The University of Texas at Austin
+Austin, TX 78712.
+
+
+
+
+NEWS
+
+
+(Spring 2024) I am delighted to advise Asari AI, a new startup building scalable, reliable AI agents for engineering design.
+
+(Fall 2023) I am a Program Chair for ICLR 2024, along with Yisong Yue (Senior Program Chair), Katerina Fragkiadaki, Emtiyaz Khan, and Yizhou Sun.
+
+(Fall 2023) I am honored to be part of the 2023 UT Austin cohort of the Op-Ed Project Public Fellowship. Here's an op-ed on AI "frenemies" that I wrote. Here is a piece that Armando Solar-Lezama and I wrote on the 2023 AI Safety executive order.
+
+(Summer 2023) Greg Anderson defended his Ph.D. thesis! He will start as an Assistant Professor at Reed College in August 2023.
+
+(Spring 2023) We gave tutorials on Neurosymbolic Programming at NeurIPS 2022 and and POPL 2023. Here is the website for the NeurIPS tutorial; the video and slides are available here. Here are some Colab notebooks that Jennifer Sun and Atharva Sehgal made for the tutorials.
+
+
+RESEARCH
+
+
+My lab, called Trishul, studies a broad range of problems at the interface of programming languages, logic and formal methods, and machine learning. Through a synthesis of ideas from these areas, we hope to build a new class of intelligent systems that are reliable, secure, and transparent by construction and can perform reasoning-intensive tasks that are beyond the scope of contemporary AI. I am a member of UT Austin's Programming Languages and Formal Methods group, a core faculty member in UT's Machine Learning Laboratory, and an affiliate of Texas Robotics.
+
+
+FOUNDATIONS
+
+
+My work is driven by two insights: (i) we can train computers to write code and solve math problems; and (ii) these skills, complemented by lower-level perception and natural language understanding, can lead to a kind of AI that is trustworthy, reliable, secure and highly capable. Accordingly, I work to develop new tools for program synthesis and automated reasoning and then use them in problems at the frontier of science and engineering.
+
+I have worked on program synthesis for many years. My older work here was based on symbolic formal methods [Lambda2, ConSynth]. More recent work has been based on neurosymbolic approaches. For example, we have studied the discovery of neurosymbolic programs that represent modular neural architectures [Houdini], compositions of neural predictors and traditional software [DSE], or differentiable relaxations of symbolic programs [Near]. We have developed neurosymbolic program synthesis algorithms such as sketch learning [Bayou], search based on neural admissible heuristics [Near], and imitation-projected descent [Propel, PIRL]. Check out our NeurIPS 2022 tutorial on the topic or read this survey.
+
+My work on automated reasoning has followed a similar symbolic-to-statistical trajectory. My Ph.D. work was on automata-theoretic formal verification [Nested Trees]. Currently, we are working on neurosymbolic methods for formal reasoning as well as informal visual and textual reasoning. For example, check out our recent papers on large-language-model agents for theorem-proving [Copra], search-based natural language deduction [SCSearch], and compositional world modeling [Cosmos].
+
+
+APPLICATIONS
+
+
+Most of my current research fits one of three application themes:
+
+AI for code and math: Intelligent assistants for programmers and mathematicians are an immediate application of our methods. In the short run, these assistants can handle the low-level aspects of coding and mathematical proof, leaving the human user to focus on the higher-level aspects. In the long run, they can lead to the discovery of entirely new kinds of software artifacts and mathematical knowledge.
+AI for systems: I am passionate about ways to embed learned controllers into complex real-world systems, from computer networks to autonomous robots. Safety and robustness are central challenges in such applications. Our approaches to these challenges have ranged from interpretable policy learning [Pirl,Propel] to formal verification of neural networks [AI2] to safety-certified learning [DSE, Revel] to methods for making latent representations more robust [Cosmos].
+AI for science: Accelerating scientific discovery is among the most exciting promises of AI. However, interpretability and data-efficiency are key considerations here, making blackbox, purely data-driven approaches an imperfect fit. We have been approaching these challenges by modeling scientific hypotheses as neurosymbolic programs and scientific discovery as neurosymbolic program synthesis. See this talk for more details.
+
+
+LAB MEMBERS
+
+Josh Hoffman (Ph.D. student)
+Atharva Sehgal (Ph.D. student)
+Meghana Sistla (Ph.D. student)
+Chenxi Yang (Ph.D. student)
+Yeming Wen (Ph.D. student)
+Dweep Trivedi (Ph.D. student)
+Eric Hsiung (Ph.D. student; co-advised with Joydeep Biswas)
+Amitayush Thakur (Ph.D. student)
+Thomas Logan (Ph.D. student)
+Lunyiu Nie (Ph.D. student)
+George Tsoukalas (Ph.D. student)
+Arya Grayeli (undergraduate student)
+Jasper Lee (undergraduate student)
+Jimmy Xin (undergraduate student)
+
+ALUMNI
+Greg Anderson (Ph.D. student, co-advised with Isil Dillig; 2020-2023) → Assistant Professor, Reed College  
+[Ph.D. dissertation]
+Anders Miltner (Postdoc, co-advised with Isil Dillig; 2020-2022) → Assistant Professor, Simon Fraser University
+Dipak Chaudhari (Postdoc; 2017-2022) → Meta
+Calvin Smith (Postdoc; 2020-2022) → Durable.ai
+Abhinav Verma (Ph.D.; 2016-2021) → Assistant Professor, Pennsylvania State University.  
+[Ph.D. dissertation]
+Ameesh Shah (M.S.; 2018-2020) → Ph.D. student at UC Berkeley
+Yanxin Lu (Ph.D.; 2012-2018) → Facebook
+[Ph.D. dissertation]
+Yue Wang (Ph.D., co-advised with Lydia Kavraki; 2013-2018) → Facebook
+[Ph.D. dissertation]
+Vijayaraghavan Murali (Postdoc, Research Scientist; 2015-2018) → Facebook
+Neil Dantam (Postdoc, co-advised with Lydia Kavraki; 2015-2017) → Assistant Professor, Colorado School of Mines
+John K. Feser (M.S.; 2014-2016) → Ph.D. student at MIT
+Srinivas Nedunuri (Postdoc; 2012-2014) → Sandia National Labs
+Eddy Westbrook (Postdoc; 2011-2013) → Galois
+Roberto Lublinerman (Ph.D.; 2008-2012) → Google
+[Ph.D. dissertation]
+
+
+TEACHING
+
+
+
+(Fall 2023) CS 378: Trustworthy Machine Learning
+
+(Spring 2020, Spring 2021, Spring 2022, Spring 2023) CS 395T: Program Synthesis
+
+(Fall 2021, Fall 2022) CS 378: Safe and Ethical Artificial Intelligence
+
+(Fall 2020) CS 378: Logic in Computer Science and Artificial Intelligence
+
+(Spring 2019, Spring 2018) COMP 403/503: Reasoning about software
+
+(Fall 2019, Fall 2018, Fall 2016, Fall 2015, Fall 2014, Spring 2014) COMP 382: Reasoning about algorithms
+
+(Spring 2015, Fall 2013, Fall 2012) COMP 507: Computer-Aided Program Design
+
+
+
+
+
+
+
+
+	
+
+

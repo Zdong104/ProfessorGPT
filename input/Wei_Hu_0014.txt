@@ -1,0 +1,228 @@
+Professor: Wei Hu 0014
+University: University of Michigan
+URL: https://weihu.me/
+Description: Wei Hu
+ 	
+
+Wei Hu (胡威)
+Assistant Professor
+University of Michigan
+
+Email: vvh [at] umich [dot] edu
+
+[Google Scholar] [Twitter]
+
+About
+
+I am an Assistant Professor in Computer Science and Engineering at the University of Michigan.
+
+I am broadly interested in the theoretical and scientific foundations of modern machine learning, especially deep learning. I aim to obtain a solid, rigorous, and practically relevant theoretical understanding of machine learning pipelines, as well as to develop principles to make them more reliable and efficient.
+
+Previously, I was a postdoc (2021-2022) at the University of California, Berkeley. Before that, I completed my PhD (2016-2021) in Computer Science at Princeton University, advised by Sanjeev Arora. I did my undergrad (2012-2016) at Tsinghua University, where I was a member of Yao Class.
+
+I am actively recruiting new members to my group. If you are interested in working with me, please send me an email with your CV and a short description of your research interests.
+
+Group Members
+
+Pulkit Gopalani (PhD student)
+
+Zhiwei Xu (PhD student, co-advised with Yixin Wang)
+
+Yongyi Yang (PhD student)
+
+Papers
+
+α-β indicates alphabetical author order.
+* indicates equal contribution.
+
+
+Near-Interpolators: Rapid Norm Growth and the Trade-Off between Interpolation and Generalization
+Yutong Wang, Rishi Sonthalia, Wei Hu
+AISTATS 2024
+
+Dichotomy of Early and Late Phase Implicit Biases Can Provably Induce Grokking
+Kaifeng Lyu*, Jikai Jin*, Zhiyuan Li, Simon S. Du, Jason D. Lee, Wei Hu
+ICLR 2024
+
+How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
+Tianyu Guo, Wei Hu, Song Mei, Huan Wang, Caiming Xiong, Silvio Savarese, Yu Bai
+ICLR 2024
+
+Benign Overfitting and Grokking in ReLU Networks for XOR Cluster Data
+Zhiwei Xu, Yutong Wang, Spencer Frei, Gal Vardi, Wei Hu
+ICLR 2024
+
+Bias Amplification Enhances Minority Group Performance
+Gaotang Li*, Jiarui Liu*, Wei Hu
+TMLR 2024
+
+Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity
+Zhanpeng Zhou, Yongyi Yang, Xiaojiang Yang, Junchi Yan, Wei Hu
+NeurIPS 2023
+
+Robust Sparse Mean Estimation via Incremental Learning
+Jianhao Ma, Rui Ray Chen, Yinghui He, Salar Fattahi, Wei Hu
+Manuscript, 2023
+
+Are Neurons Actually Collapsed? On the Fine-Grained Structure in Neural Representations
+Yongyi Yang, Jacob Steinhardt, Wei Hu
+ICML 2023
+
+Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data
+Spencer Frei*, Gal Vardi*, Peter L. Bartlett, Nathan Srebro, Wei Hu
+ICLR 2023 (spotlight)
+
+Representation Alignment in Neural Networks
+Ehsan Imani, Wei Hu, Martha White
+TMLR 2022
+
+More Than a Toy: Random Matrix Models Predict How Real-World Neural Representations Generalize
+Alexander Wei, Wei Hu, Jacob Steinhardt
+ICML 2022
+
+A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning
+Nikunj Saunshi, Arushi Gupta, Wei Hu
+ICML 2021
+
+Near-Optimal Linear Regression under Distribution Shift
+Qi Lei, Wei Hu, Jason D. Lee
+ICML 2021
+
+When is Particle Filtering Efficient for Planning in Partially Observed Linear Dynamical Systems?
+(α-β) Simon S. Du, Wei Hu, Zhiyuan Li, Ruoqi Shen, Zhao Song, Jiajun Wu
+UAI 2021
+
+Few-Shot Learning via Learning the Representation, Provably
+(α-β) Simon S. Du, Wei Hu, Sham M. Kakade, Jason D. Lee, Qi Lei
+ICLR 2021
+
+Impact of Representation Learning in Linear Bandits
+Jiaqi Yang, Wei Hu, Jason D. Lee, Simon S. Du
+ICLR 2021
+
+The Surprising Simplicity of the Early-Time Learning Dynamics of Neural Networks
+Wei Hu, Lechao Xiao, Ben Adlam, Jeffrey Pennington
+NeurIPS 2020 (spotlight)
+
+Provable Benefit of Orthogonal Initialization in Optimizing Deep Linear Networks
+Wei Hu, Lechao Xiao, Jeffrey Pennington
+ICLR 2020
+
+Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee
+(α-β) Wei Hu, Zhiyuan Li, Dingli Yu
+ICLR 2020
+
+Enhanced Convolutional Neural Tangent Kernels
+Zhiyuan Li*, Ruosong Wang*, Dingli Yu*, Simon S. Du, Wei Hu, Ruslan Salakhutdinov, Sanjeev Arora
+Manuscript, 2019
+
+On Exact Computation with an Infinitely Wide Neural Net
+(α-β) Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruslan Salakhutdinov, Ruosong Wang
+NeurIPS 2019 (spotlight)
+
+Implicit Regularization in Deep Matrix Factorization
+(α-β) Sanjeev Arora, Nadav Cohen, Wei Hu, Yuping Luo
+NeurIPS 2019 (spotlight)
+
+Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets
+Rohith Kuditipudi, Xiang Wang, Holden Lee, Yi Zhang, Zhiyuan Li, Wei Hu, Sanjeev Arora, Rong Ge
+NeurIPS 2019
+
+Nearly Optimal Dynamic k-Means Clustering for High-Dimensional Data
+(α-β) Wei Hu, Zhao Song, Lin F. Yang, Peilin Zhong
+Manuscript, 2019
+
+Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks
+(α-β) Sanjeev Arora, Simon S. Du, Wei Hu, Zhiyuan Li, Ruosong Wang
+ICML 2019
+
+Width Provably Matters in Optimization for Deep Linear Neural Networks
+(α-β) Simon S. Du, Wei Hu
+ICML 2019
+
+A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks
+(α-β) Sanjeev Arora, Nadav Cohen, Noah Golowich, Wei Hu
+ICLR 2019
+
+Linear Convergence of the Primal-Dual Gradient Method for Convex-Concave Saddle Point Problems without Strong Convexity
+(α-β) Simon S. Du, Wei Hu
+AISTATS 2019
+
+Algorithmic Regularization in Learning Deep Homogeneous Models: Layers are Automatically Balanced
+(α-β) Simon S. Du, Wei Hu, Jason D. Lee
+NeurIPS 2018
+(Best paper award at ICML 2018 Workshop on Nonconvex Optimization)
+
+Online Improper Learning with an Approximation Oracle
+(α-β) Elad Hazan, Wei Hu, Yuanzhi Li, Zhiyuan Li
+NeurIPS 2018
+
+An Analysis of the t-SNE Algorithm for Data Visualization
+(α-β) Sanjeev Arora, Wei Hu, Pravesh K. Kothari
+COLT 2018
+
+Linear Convergence of a Frank-Wolfe Type Algorithm over Trace-Norm Balls
+(α-β) Zeyuan Allen-Zhu, Elad Hazan, Wei Hu, Yuanzhi Li
+NIPS 2017 (spotlight)
+
+Combinatorial Multi-Armed Bandit with General Reward Functions
+(α-β) Wei Chen, Wei Hu, Fu Li, Jian Li, Yu Liu, Pinyan Lu
+NIPS 2016
+
+New Characterizations in Turnstile Streams with Applications
+(α-β) Yuqing Ai, Wei Hu, Yi Li, David P. Woodruff
+CCC 2016
+
+Blog posts about my work
+
+Ultra-Wide Deep Nets and Neural Tangent Kernel (NTK)
+
+Understanding Implicit Regularization in Deep Learning by Analyzing Trajectories of Gradient Descent
+
+Landscape Connectivity of Low Cost Solutions for Multilayer Nets
+
+Is Optimization a Sufficient Language for Understanding Deep Learning?
+
+Understanding Optimization in Deep Learning by Analyzing Trajectories of Gradient Descent
+
+Teaching
+University of Michigan
+
+Winter 2024: EECS 598 – Machine Learning Theory
+
+Fall 2023: EECS 445 – Introduction to Machine Learning
+
+Winter 2023: EECS 598 – Machine Learning Theory
+
+Fall 2022: EECS 598 – Science of Deep Learning
+
+Princeton University
+
+Spring 2018: COS 445 – Economics and Computation (teaching assistant)
+
+Fall 2017: COS 324 – Introduction to Machine Learning (teaching assistant)
+
+Service
+
+Area chair: ICML 2023-2024, NeurIPS 2022-2023, ICLR 2024, CPAL 2024
+
+Conference reviewing: ICML, NeurIPS, ICLR, COLT, FOCS, SODA, AISTATS, ISIT, UAI
+
+Journal reviewing: Journal of Machine Learning Research, Journal of Artificial Intelligence Research, Machine Learning, Mathematical Programming, Neural Networks, IEEE Signal Processing Letters, Annals of Statistics, Journal of the American Statistical Association
+
+Selected awards
+
+AAAI New Faculty Highlights, 2024
+
+Google Research Scholar Award, 2023
+
+Siebel Scholar, 2021
+
+Best paper award at ICML Workshop on Modern Trends in Nonconvex Optimization for Machine Learning, 2018
+
+Gordon Y.S. Wu Fellowship, 2016
+
+Gold medal (1st place), The 27th Chinese Mathematical Olympiad, 2012
+
+Page generated 2024-04-01 21:19:26 EDT, by jemdoc.
+

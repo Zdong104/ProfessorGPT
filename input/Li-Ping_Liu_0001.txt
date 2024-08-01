@@ -1,0 +1,76 @@
+Professor: Li-Ping Liu 0001
+University: Tufts University
+URL: https://www.eecs.tufts.edu/~liulp
+Description: Liping Liu
+
+Assistant Professor
+
+CS, Tufts
+Joyce Cummings Center 367
+177 College Ave.
+Medford, MA 02155
+email:	liping.liu@tufts.edu
+phone:	(617)627-0556
+twitter:	@lipingliulp
+CV:	[link]
+  
+Research
+
+My research focuses on probabilistic models and neural networks for learning problems arising from real applications. My research topics include probabilistic modeling, statistical inference, generative models, graph neural networks, graph data modeling, biochemical data analysis, anomaly detection. See my publication list.
+
+Research highlights
+Graph Generative Models
+
+The first rigorous probablistic treatment of autoregressive generative models for graphs
+Publications: [Chen et al., ICML 2021], [Han et al., JMLR 2023]
+
+Scaling up diffusion-based generative models to large graphs
+Publications: [Chen et al., ICML 2023]
+
+Amortized Optimization for Graph Problems
+
+Optimizing a neural network that predicts a distribution of graph matchings for an input graph
+Publications: [Liu et al., ICML 2021]
+
+Optimizing a neural network that predicts a graph pruning for computing editing distance.
+Publications: [Liu et al., TMLR 2022]
+
+Graph Neural Networks for Inference in Gaussian processes and Spatial Data Modeling
+
+Exploiting strong correlations among nearby data points and running inference within neighborhoods with a shared graph neural network
+Publications: [Liu et al., AISTATS 2019], [Liu et al., ACML 2020], [Appleby et al., AAAI 2020]
+Machine Learning for Bioinformatics
+
+Matching molecules and mass spectra using neural methods
+Publications: [Zhu et al., MLCB], [Hosseini et al., Metabolites]
+
+Analyzing biochemical reactions and networks
+Publications: [Jiang et al., Bioinformatics], [Li et al., Bioinformatics], [Porokhin et al., Bioinformatics]
+
+Advising
+Current students
+Xu Han
+Jiajing Hu
+Yukun Li
+Panagiotis Lymperopoulos
+Xiaohui Chen
+Former students
+Linfeng Liu, PhD (Research Scientist at Meta Research Boston)
+Teaching
+Spring 2024: CS 135 Intro to Machine Learning
+Fall 2023: CS 137 Deep Neural Networks
+Spring 2023: CS 150 Deep Graph Learning
+Fall 2022: CS 137 Deep Neural Networks
+Fall 2021: CS 137 Deep Neural Networks
+Fall 2020: COMP 137 Deep Neural Networks
+Fall 2019: COMP 150 Machine Learning for Graph Analytics
+Spring 2019: COMP 150 Deep Neural Networks
+Fall 2018: COMP 135 Introduction to Machine Learning
+Spring 2018: COMP 135 Introduction to Machine Learning
+Fall 2017: COMP 150-01 Machine Learning for Ecology and Sustainability
+Bio Sketch
+
+I received my B.S. and M.S. in computer science respectively from Hebei University of Technology and Nanjing University LAMDA group. I completed my PhD at Oregon State University in 2016. My PhD advisor was Prof. Thomas Dietterich. Prior to joining Tufts, I worked as a postdoc researcher at Columbia University working with Prof. David Blei. Currently I am an assistant professor at the Computer Science Department of Tufts University.
+
+Designed with Jekyll and Markdown by Liping Liu. Last modified on 05/24/2023
+

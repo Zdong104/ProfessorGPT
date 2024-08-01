@@ -1,0 +1,338 @@
+Professor: Jayadev Acharya
+University: Cornell University
+URL: http://people.ece.cornell.edu/acharya
+Description: 		
+Jayadev Acharya
+Assistant Professor
+
+
+Cornell University
+382, Rhodes Hall
+email: acharya at cornell.edu
+
+
+
+
+I am an assistant professor in Electrical and Computer Engineering, and a graduate field member in Computer Science, and Operations Research and Information Engineering at Cornell University.
+
+I am a member of the Foundations of Information, Networks, and Decision Systems group (FIND) and the theory group. Check out the FIND seminar series here.
+
+Before joining Cornell, I was a postdoctoral researcher in the Theory of Computation Group at MIT, hosted by Piotr Indyk. I obtained my PhD in Electrical and Computer Engineering from UC San Diego, where I was advised by Alon Orlitsky. Long ago, I got a Bachelors degree in Electronics and Electrical Communication Engineering from IIT Kharagpur.
+
+My research is supported by an NSF-CAREER award, an NSF-CRII award, an NSF-CIF small award, and a Google Faculty Research Award.
+Research Interests
+
+My research interests are broadly at the intersection of information theory, statistical inference, algorithms, and machine learning. I am curious to understand the interplay between various resources such as samples, communication, privacy, memory, and robustness in learning problems. I am also interested in quantum information and machine unlearning.
+
+With C. Canonne, and H. Tyagi, I gave a tutorial at FOCS 2020 and an invited tutorial at COLT 2021. These tutorials are related to my current interest in information-constrained inference.
+
+Students
+Sourbh Bhadane (co-advised with Aaron Wagner), Saravanan Kandasamy, Yuhan Liu, Ziteng Sun, Huanyu Zhang
+Teaching
+Spring 2021: Algorithmic and Information Theoretic Methods in Statistical Inference
+Fall 2020: Fundamentals of Machine Learning
+Spring 2020: Fundamentals of Machine Learning
+Fall 2018: Discrete Probability and Randomized Algorithms
+Spring 2018, Spring 2019: Machine Learning and Pattern Recognition
+Fall 2017: Algorithmic and Information Theoretic Methods in Data Science
+Spring 2017: Machine Learning and Pattern Recognition
+Fall 2016: An Algorithmic and Information-Theoretic Toolbox for Massive Data
+Publications
+
+Interactive Inference under Information Constraints [arXiv]
+with C. Canonne, Y. Liu, Z. Sun, and H. Tyagi
+IEEE Transactions on Information Theory (accepted)
+
+Preliminary version in IEEE International Symposium on Information Theory (ISIT 2021)
+
+Remember What You Want to Forget: Algorithms for Machine Unlearning [arXiv]
+with A Sekhari, G Kamath, and A. T. Suresh
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+
+
+Optimal rates for nonparametric density estimation under communication constraints [arXiv]
+with C. Canonne, A. V. Singh, and H. Tyagi
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+
+
+Information-constrained optimization: can adaptive processing of gradients help? [arXiv]
+with C. Canonne, P. Mayekar, and H. Tyagi
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+
+
+Distributed estimation with multiple samples per user: sharp rates and phase transition
+with C. Canonne, Y. Liu, Z. Sun, and H. Tyagi
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+
+
+Unified lower bounds for interactive high-dimensional estimation under information constraints [arXiv]
+with C. Canonne, Z. Sun, and H. Tyagi
+Manuscript
+
+Principal Bit Analysis: Autoencoding with Schur-Concave Loss [arXiv]
+with S. Bhadane, and A. B. Wagner
+International Conference on Machine Learning (ICML 2021)
+
+Robust Testing and Estimation under Manipulation Attacks [arXiv]
+with Z. Sun, and H. Zhang
+International Conference on Machine Learning (ICML 2021)
+
+Inference under information constraints III: Local privacy constraints
+with C. Canonne, C. Freitag, Z. Sun, and H. Tyagi
+IEEE Journal on Selected Areas in Information Theory 2 (1), 253-267, 2021
+
+
+Estimating Sparse Discrete Distributions Under Privacy and Communication Constraints[arXiv]
+with P. Kairouz, Y. Liu, and Z. Sun
+Algorithmic Learning Theory (ALT 2021)
+
+
+Differentially Private Assouad, Fano, and Le Cam [arXiv]
+with Z. Sun, and H. Zhang
+Algorithmic Learning Theory (ALT 2021)
+
+
+Inference under Local Constraints I: Lower Bounds from Chi-Square Contractions [arXiv]
+with C. Canonne, and H. Tyagi
+IEEE Transactions on Information Theory 66 (12), 7835-7855, 2020
+
+Inference under Local Constraints II: Communication Constraints and Shared Randomness [arXiv]
+with C. Canonne, and H. Tyagi
+IEEE Transactions on Information Theory 66 (12), 7856-7877, 2020
+
+Optimal multiclass overfitting by sequence reconstruction from Hamming queries [arXiv]
+with A. T. Suresh
+Algorithmic Learning Theory (ALT) 2020
+Best Paper Award
+
+Estimating Quantum Entropy
+with I. Issa, N. V. Shende, and A. B. Wagner
+IEEE Journal on Selected Areas in Information Theory 1 (2), 454-468, 2020
+
+
+Context-Aware Local Differential Privacy [arXiv]
+with K. Bonawitz, P. Kairouz, D. Ramage, and Z. Sun
+International Conference on Machine Learning (ICML 2020)
+
+Distrbuted Signal Detection with Sublinear under Communication Constraints[pdf]
+with C. Canonne, and H. Tyagi
+Conference on Learning Theory (COLT 2020)
+
+Domain Compression and its Application to Randomness-Optimal Distributed Goodness-of-Fit [arXiv]
+with C. Canonne, Y. Han, Z. Sun, and H. Tyagi
+Conference on Learning Theory (COLT 2020)
+
+Estimating Entropy of Distributions in Constant Space
+with S. Bhadane, P. Indyk, and Z. Sun
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+
+
+Communication Complexity in Locally Private Distribution Estimation and Heavy Hitters [arXiv]
+with Z. Sun
+International Conference on Machine Learning (ICML 2019)
+
+Distributed Learning with Sublinear Communication
+with C. De Sa, D. J. Foster, and K. Sridharan
+International Conference on Machine Learning (ICML 2019)
+Long Talk (Acceptance: 4.5%)
+
+Communication Constrained Inference and the Role of Shared Randomness [arXiv]
+with C. Canonne, and H. Tyagi
+International Conference on Machine Learning (ICML 2019)
+Long Talk (Acceptance: 4.5%)
+
+Inference under Local Constraints: Lower Bounds from Chi-Square Contractions [arXiv]
+with C. Canonne, and H. Tyagi
+Conference on Learning Theory (COLT 2019)
+
+Hadamard Response: Estimating Distributions Privately, Efficiently, and with Little Communication [arXiv] , [pdf]
+with Z. Sun, and H. Zhang
+Artificial Intelligence and Statistics (AISTATS 2019)
+
+
+Test without Trust: Optimal Locally Private Distribution Testing [arXiv]
+with C. Canonne, C. Freitag, and H. Tyagi
+Artificial Intelligence and Statistics (AISTATS 2019)
+
+
+A Chasm Between Identity and Equivalence Testing with Conditional Queries [arXiv] [pdf]
+with C. Canonne, and G. Kamath
+Theory of Computing (ToC), 14(19), 2018.
+Preliminary version in Randomization and Computation (RANDOM 2015)
+
+Learning and Testing Causal Models with Interventions [arXiv]
+with A. Bhattacharyya, C. Daskalakis, and S. Kandasamy
+Advances in Neural Information Processing Systems (NeurIPS 2018)
+
+
+Differentially Private Testing of Identity and Closeness of Discrete Distributions [arXiv]
+with Z. Sun, and H. Zhang
+Advances in Neural Information Processing Systems (NeurIPS 2018)
+Spotlight presentation (Acceptance: 4%)
+
+INSPECTRE: Privately Estimating the Unseen [arXiv]
+with G. Kamath, Z. Sun, and H. Zhang
+International Conference on Machine Learning (ICML 2018)
+
+Profile Maximum Likelihood is Optimal for Estimating KL Divergence
+IEEE International Symposium on Information Theory (ISIT 2018)
+
+Improved Bounds on Minimax Risk of Estimating Missing Mass
+with Y. Bao, Y. Kang and Z. Sun
+IEEE International Symposium on Information Theory (ISIT 2018)
+TPC Choice Session (Acceptance: 4.4%)
+
+Maximum selection and sorting with adversarial comparators [pdf]
+with M. Falahatgar, H. Jafarpour, A. Orlitsky, and A. T. Suresh
+The Journal of Machine Learning Research, 19(1): 2427-2457, 2018
+
+Measuring Quantum Entropy [arXiv]
+with I. Issa, N. V. Shende, and A. B. Wagner
+Quantum Information Processing (QIP 2017)
+Video of Ibrahim's talk at QIP is here
+
+A Unified Maximum Likelihood Approach for Optimal Distribution Property Estimation [pdf]
+with H. Das, A. Orlitsky, and A. T. Suresh
+International Conference on Machine Learning (ICML 2017)
+Best Paper Award, Honorable Mention (Among 4 papers awarded from 1676 submissions)
+
+Improved Bounds for Universal One-Bit Compressive Sensing [arXiv]
+with A. Bhattacharyya, and P. Kamath
+IEEE International Symposium on Information Theory (ISIT 2017)
+
+Sample Optimal Density Estimation in Nearly-Linear Time [arXiv] [pdf]
+with I. Diakonikolas, J. Li, and L. Schmidt
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2017)
+
+Estimating Renyi Entropy of Discrete Distributions [arXiv] [ pdf]
+with A. Orlitksy, A. T. Suresh, and H. Tyagi
+IEEE Transactions on Information Theory , 63(1): 38-56, 2017
+
+Fast Algorithms for Segmented Regression [pdf]
+with I. Diakonikolas, J. Li, and L. Schmidt
+International Conference on Machine Learning (ICML 2016) (Acceptance: 24.3%)
+
+Optimal Testing for Properties of Distributions [arXiv][pdf]
+with C. Daskalakis, and G. Kamath
+Advances in Neural Information Processing Systems (NeurIPS 2015) (Acceptance: 21.9%)
+Spotlight presentation (Acceptance: 4.5%)
+
+Adaptive Estimation in Weighted Group Testing [pdf]
+with C. Canonne, and G. Kamath
+IEEE International Symposium on Information Theory (ISIT 2015)
+
+String Reconstruction from Substring Compositions [pdf]
+with H. Das, O. Milenkovic, A. Orlitsky, and S. Pan
+SIAM Journal on Discrete Mathematics, 29(3): 1340-1371, 2015
+
+Fast and Near-Optimal Algorithms for Approximating Distributions by Histograms [pdf]
+with I. Diakonikolas, C. Hegde, J. Li, and L. Schmidt
+ACM Symposium on Principles of Database Systems (PODS 2015) (Acceptance: 31.2%)
+
+The Complexity of Estimating Renyi Entropy [pdf]
+with A. Orlitksy, A. T. Suresh, and H. Tyagi
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2015) (Acceptance: 27%)
+
+Testing Poisson Binomial Distributions [arXiv] [pdf]
+with C. Daskalakis
+ACM-SIAM Symposium on Discrete Algorithms (SODA 2015) (Acceptance: 27%)
+
+Near-Optimal-Sample Estimators For Spherical Gaussian Mixtures [arXiv] [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+Advances in Neural Information Processing Systems (NeurIPS 2014) (Acceptance: 24.7%)
+
+Sublinear Algorithms for Outlier Detection and Generalized Closeness Testing [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+IEEE International Symposium on Information Theory (ISIT 2014)
+
+Sorting with Adversarial Comparators and Application to Density Estimation [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+IEEE International Symposium on Information Theory (ISIT 2014)
+
+Quadratic-backtracking Algorithm for String Reconstruction from Substring Compositions [pdf]
+with H. Das, O. Milenkovic, A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2014)
+
+Efficient Compression of Monotone and m-Modal Distributions [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+IEEE International Symposium on Information Theory (ISIT 2014)
+
+Poissonization and universal compression of envelope classes [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+IEEE International Symposium on Information Theory (ISIT 2014)
+
+A Competitive Test for Uniformity of Monotone Distributions [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+Artificial Intelligence and Statistics (AISTATS 2013) (Acceptance: 33.6%)
+
+Optimal Probability Estimation with Applications to Prediction and Classification [pdf]
+with A. Jafarpour, A. Orlitsky, and A. T. Suresh
+Conference on Learning Theory (COLT 2013)
+
+Tight Bounds for Universal Compression of Large Alphabets [pdf]
+with H. Das, A. Jafarpour, A. Orlitsky, and A. T. Suresh
+IEEE International Symposium on Information Theory (ISIT 2013)
+
+Tight Bounds on Profile Redundancy and Distinguishability [pdf]
+with H. Das, and A. Orlitsky
+Advances in Neural Information Processing Systems (NeurIPS 2012) (Acceptance: 25.2%)
+
+Competitive Classification and Closeness Testing [pdf]
+with H. Das, A. Jafarpour, A. Orlitsky, S. Pan, and A. T. Suresh
+Conference on Learning Theory (COLT 2012) (Acceptance: 30.2%)
+
+
+Estimating Multiple Concurrent Processes [pdf]
+with H. Das, A. Jafarpour, A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2012)
+
+On the Computation and Verification Query Complexity of Symmetric Functions [pdf], [long-version]
+with A. Jafarpour, A. Orlitsky
+Allerton Conference on Controls and Communications (Allerton 2011) (submitted)
+
+Algebraic Computation of Pattern Maximum Likelihood [pdf]
+with H. Das, A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2011)
+
+Competitive Closeness Testing [pdf]
+with H. Das, A. Jafarpour, A. Orlitsky, and S. Pan
+Conference on Learning Theory (COLT 2011) (Acceptance: 30.7%)
+
+
+On Reconstructing a String from its Substring Compositions [pdf]
+with H. Das, O. Milenkovic, A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2010)
+Jack Keil Wolf Student Paper Award
+
+Classification Using Pattern Probability Estimators [pdf]
+with H. Das, A. Orlitsky, S. Pan, and N. P. Santhanam
+IEEE International Symposium on Information Theory (ISIT 2010)
+
+Exact Calculation of Pattern Probabilities [pdf]
+with H. Das, H. Mohimani, A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2010)
+
+Recent Results on Pattern Maximum Likelihood [pdf]
+with A. Orlitsky, and S. Pan
+IEEE Information Theory Workshop (ITW 2009)
+
+The Maximum Likelihood Probability of Unique-Singleton, Ternary, and Length-7 Patterns [pdf]
+with A. Orlitsky, and S. Pan
+IEEE International Symposium on Information Theory (ISIT 2009)
+
+Multilevel Thresholding for Image Segmentation through a Fast Statistical Recursive Algorithm [pdf]
+with S. Arora, A. Verma, and P. K. Panigrahi
+Pattern Recognition Letters 29(2): 119-125, 2008
+
+Hierarchical zonation technique to extract common boundaries of a layered earth model [pdf]
+with S. Goparaju, J. C. Goswami, and D. Heliot
+IEEE Antenna and Propagation Symposium (AP-S 2007)
+
+THESIS
+
+Estimation and Compression over Large Alphabets [pdf]
+PhD Thesis, University of California, San Diego, 2014
+
+Personal
+I am married to the beautiful Snigdha Mahapatra. We spend a good fraction of our time running after this.
+

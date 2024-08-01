@@ -1,0 +1,123 @@
+Professor: Larry Heck
+University: Georgia Institute of Technology
+URL: https://larryheck.github.io/
+Description: about
+(current)
+AVA Lab
+publications
+teaching
+Larry P. Heck
+
+Georgia Institute of Technology
+
+Larry Heck is a Professor with a joint appointment in ECE and Interactive Computing, Chief Scientist of the Artificial Intelligence Hub, and Executive Director of the Machine Learning Center at the Georgia Institute of Technology. He holds the Rhesa S. Farmer Distinguished Chair of Advanced Computing Concepts and is a Georgia Research Alliance Eminent Scholar. He received the BSEE from Texas Tech University (1986), and MSEE and PhD EE from the Georgia Institute of Technology (1989,1991). He is a Fellow of the IEEE, inducted into the Academy of Distinguished Engineering Alumni at Georgia Tech and received the Distinguished Engineer Award from the Texas Tech University Whitacre College of Engineering. He was a Senior Research Engineer with SRI (1992-98), Vice President of R&D at Nuance (1998-2005), Vice President of Search and Advertising Sciences at Yahoo! (2005-2009), Chief Scientist of the Microsoft Speech products and Distinguished Engineer in Microsoft Research (2009-2014), Principal Scientist with Google Research (2014-2017), and CEO of Viv Labs and Senior Vice President at Samsung (2017-2021). His research interests are on next-generation Virtual Assistants, Conversational AI including Large Language Models (LLMs) and Response Generation, and Natural Language and Speech Processing with the long-term goal of creating an autonomous digital human that can freely communicate with humans in open, mixed-reality domains.
+
+highlighted publications
+arXiv ’24
+gtbls: Generating tables from text by conditional question answering
+Sundar, Anirudh, Richardson, Christopher, and Heck, Larry
+arXiv preprint arXiv:2403.14457 2024
+ABS PDF
+
+Distilling large, unstructured text into a structured, condensed form such as tables is an open research problem. One of the primary challenges in automatically generating tables is ensuring their syntactic validity. Prior approaches address this challenge by including additional parameters in the Transformer’s attention mechanism to attend to specific rows and column headers. In contrast to this single-stage method, this paper presents a two-stage approach called Generative Tables (gTBLS). The first stage infers table structure (row and column headers) from the text. The second stage formulates questions using these headers and fine-tunes a causal language model to answer them. Furthermore, the gTBLS approach is amenable to the utilization of pre-trained Large Language Models in a zero-shot configuration, presenting a solution for table generation in situations where fine-tuning is not feasible. gTBLS improves prior approaches by up to 10% in BERTScore on the table construction task and up to 20% on the table content generation task of the E2E, WikiTableText, WikiBio, and RotoWire datasets.
+
+arXiv ’24
+iTBLS: A Dataset of Interactive Conversations Over Tabular Information
+Sundar, Anirudh, Richardson, Christopher, Gay, William, and Heck, Larry
+arXiv preprint arXiv:2404.12580 2024
+ABS PDF
+
+This paper introduces Interactive Tables (iTBLS), a dataset of interactive conversations situated in tables from scientific articles. This dataset is designed to facilitate human-AI collaborative problem-solving through AI-powered multi-task tabular capabilities. In contrast to prior work that models interactions as factoid QA or procedure synthesis, iTBLS broadens the scope of interactions to include mathematical reasoning, natural language manipulation, and expansion of existing tables from natural language conversation by delineating interactions into one of three tasks: interpretation, modification, or generation. Additionally, the paper presents a suite of baseline approaches to iTBLS, utilizing zero-shot prompting and parameter-efficient fine-tuning for different computing situations. We also introduce a novel multi-step approach and show how it can be leveraged in conjunction with parameter-efficient fine-tuning to achieve the state-of-the-art on iTBLS; outperforming standard parameter-efficient fine-tuning by up to 15% on interpretation, 18% on modification, and 38% on generation.
+
+arXiv ’24
+cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers
+Sundar, Anirudh, Xu, Jin, Gay, William, Richardson, Christopher, and Heck, Larry
+arXiv preprint arXiv:2406.08398 2024
+ABS PDF
+
+An emerging area of research in situated and multimodal interactive conversations (SIMMC) includes interactions in scientific papers. Since scientific papers are primarily composed of text, equations, figures, and tables, SIMMC methods must be developed specifically for each component to support the depth of inquiry and interactions required by research scientists. This work introduces Conversational Papers (cPAPERS), a dataset of conversational question-answer pairs from reviews of academic papers grounded in these paper components and their associated references from scientific documents available on arXiv. We present a data collection strategy to collect these question-answer pairs from OpenReview and associate them with contextual information from LaTeX source files. Additionally, we present a series of baseline approaches utilizing Large Language Models (LLMs) in both zero-shot and fine-tuned configurations to address the cPAPERS dataset.
+
+LREC ’24
+mForms: Multimodal Form Filling with Question Answering
+Heck, L, Heck, S, and Sundar, AS
+Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) 2024
+ABS PDF
+
+This paper presents a new approach to form-filling by reformulating the task as multimodal natural language Question Answering (QA). The reformulation is achieved by first translating the elements on the GUI form (text fields, buttons, icons, etc.) to natural language questions, where these questions capture the element’s multimodal semantics. After a match is determined between the form element (Question) and the user utterance (Answer), the form element is filled through a pre-trained extractive QA system. By leveraging pre-trained QA models and not requiring form-specific training, this approach to form-filling is zero-shot. The paper also presents an approach to further refine the form-filling by using multi-task training to incorporate a potentially large number of successive tasks. Finally, the paper introduces a multimodal natural language form-filling dataset Multimodal Forms (mForms), as well as a multimodal extension of the popular ATIS dataset to support future research and experimentation. Results show the new approach not only maintains robust accuracy for sparse training conditions but achieves state-of-the-art F1 of 0.97 on ATIS with approximately 1/10th the training data.
+
+arXiv ’24
+Are Human Conversations Special? A Large Language Model Perspective
+Jawale, T, Animesh, C, Vallath, S, Talamadupula, K, and Heck, L
+arXiv preprint arXiv:2403.05045 2024
+ABS PDF
+
+This study analyzes changes in the attention mechanisms of large language models (LLMs) when used to understand natural conversations between humans (human-human). We analyze three use cases of LLMs: interactions over web content, code, and mathematical texts. By analyzing attention distance, dispersion, and interdependency across these domains, we highlight the unique challenges posed by conversational data. Notably, conversations require nuanced handling of long-term contextual relationships and exhibit higher complexity through their attention patterns. Our findings reveal that while language models exhibit domain-specific attention behaviors, there is a significant gap in their ability to specialize in human conversations. Through detailed attention entropy analysis and t-SNE visualizations, we demonstrate the need for models trained with a diverse array of high-quality conversational data to enhance understanding and generation of human-like dialogue. This research highlights the importance of domain specialization in language models and suggests pathways for future advancement in modeling human conversational nuances.
+
+arXiv ’24
+Retrieval-Augmented Generation: Is Dense Passage Retrieval Retrieving?
+Reichman, B, and Heck, L
+arXiv preprint arXiv:2402.11035 2024
+ABS PDF
+
+Dense passage retrieval (DPR) is the first step in the retrieval augmented generation (RAG) paradigm for improving the performance of large language models (LLM). DPR fine-tunes pre-trained networks to enhance the alignment of the embeddings between queries and relevant textual data. A deeper understanding of DPR fine-tuning will be required to fundamentally unlock the full potential of this approach. In this work, we explore DPR-trained models mechanistically by using a combination of probing, layer activation analysis, and model editing. Our experiments show that DPR training decentralizes how knowledge is stored in the network, creating multiple access pathways to the same information. We also uncover a limitation in this training style: the internal knowledge of the pre-trained model bounds what the retrieval model can retrieve. These findings suggest a few possible directions for dense retrieval: (1) expose the DPR training process to more knowledge so more can be decentralized, (2) inject facts as decentralized representations, (3) model and incorporate knowledge uncertainty in the retrieval process, and (4) directly map internal model knowledge to a knowledge base.
+
+CSCW ’23
+I don’t know how to help with that"-Learning from Limitations of Modern Conversational Agent Systems in Caregiving Networks
+Zubatiy, T, Mathur, N, Heck, L, Vickers, KL, Rozga, A, and Mynatt, ED
+Proceedings of the ACM on Human-Computer Interaction (CSCW) 2023
+ABS PDF
+
+While commercial conversational agents (CA) (i.e. Google assistant, Siri, Alexa) are widely used, these systems have limitations in error-handling, flexibility, personalization and overall dialogue management that are amplified in care coordination settings. In this paper, we synthesize and articulate these limitations through quantitative and qualitative analysis of 56 older adults interacting with a commercial CA deployed in their home for a 10 week period. We look at the CA as a compensatory technology in an older adult’s care network. We argue that the CA limitations are rooted in the rigid cue-and-response style of task-oriented interactions common in CAs. We then propose a redesign for CA conversation flow to favor flexibility and personalization that is nonetheless viable within the limitations of current AI and machine learning technologies. We explore design tradeoffs to better support the usability needs of older adults compared to current design optimizations driven by efficiency and privacy goals.
+
+SIGDIAL ’23
+Syndicom: Improving Conversational Commonsense with Error-Injection and Natural Language Feedback
+Richardson, Christopher, Sundar, Anirudh S., and Heck, Larry
+Proceedings of SIGDIAL (Special Interest Group on Discourse and Dialogue) 2023
+ABS PDF
+
+Commonsense reasoning is a critical aspect of human communication. Despite recent advances in conversational AI driven by large language models, commonsense reasoning remains a challenging task. In this work, we introduce SYNDICOM - a method for improving commonsense in dialogue response generation. SYNDICOM consists of two components. The first component is a dataset composed of commonsense dialogues created from a knowledge graph and synthesized into natural language. This dataset includes both valid and invalid responses to dialogue contexts, along with natural language feedback (NLF) for the invalid responses. The second contribution is a two-step procedure: training a model to predict natural language feedback (NLF) for invalid responses, and then training a response generation model conditioned on the predicted NLF, the invalid response, and the dialogue. SYNDICOM is scalable and does not require reinforcement learning. Empirical results on three tasks are evaluated using a broad range of metrics. SYNDICOM achieves a relative improvement of 53% over ChatGPT on ROUGE-1, and human evaluators prefer SYNDICOM over ChatGPT 57% of the time. We will publicly release the code and the full dataset.
+
+ICCV ’23
+Cross-Modal Dense Passage Retrieval for Outside Knowledge Visual Question Answering
+Reichman, Benjamin, and Heck, Larry
+Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops 2023
+ABS PDF
+
+In many language processing tasks including most notably Large Language Modeling (LLM), retrieval augmentation improves the performance of the models by adding information during inference that may not be present in the model’s weights. This technique has been shown to be particularly useful in multimodal settings. For some tasks, like Outside Knowledge Visual Question Answering (OK-VQA), retrieval augmentation is required given the open nature of the knowledge. In many prior works for the OK-VQA task, the retriever is either a unimodal language retriever or an untrained cross-modal retriever. In this work, we present a weakly supervised training approach for cross-modal retrievers. Our method takes inspiration from the natural language modeling task of information retrieval and extends those methods to cross-modal retrieval. Since the OK-VQA task does not typically have consistent ground truth retrieval labels, we evaluate our model using lexical overlap between the ground truth and the retrieved passage. Our approach showed an average recall improvement of 28% across a large range of retrieval sizes compared to a baseline backbone network.
+
+ACL ’23
+cTBLS: Augmenting Large Language Models for Conversational Tables
+Sundar, Anirudh, and Heck, Larry
+5th Workshop on NLP for Conversational AI, Association for Computational Linguistics (ACL) 2023
+ABS PDF
+
+An open challenge in multimodal conversational AI requires augmenting large language models with information from textual and non-textual sources for multi-turn dialogue. To address this problem, this paper introduces Conversational Tables (cTBL), a three-step encoder-decoder approach to retrieve tabular information and generate dialogue responses grounded on the retrieved information. cTBL uses Transformer encoder embeddings for Dense Table Retrieval and obtains up to 5% relative improvement in Top-1 and Top-3 accuracy over sparse retrieval on the HyrbiDialogue dataset. Additionally, cTBL performs tabular knowledge retrieval using both encoder and decoder models, resulting in up to 46% relative improvement in ROUGE scores and better human evaluation for response generation on HyrbiDialogue.
+
+ICASSP ’23
+Outside Knowledge Visual Question Answering Version 2.0
+Reichman, Benjamin Z., Sundar, Anirudh, Richardson, Christopher, Zubatiy, Tamara, Chowdhury, Prithwijit, Shah, Aaryan, Truxal, Jack, Grimes, Micah, Shah, Dristi, Chee, Woo Ju, Punjwani, Saif, Jain, Atishay, and Heck, Larry
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2023
+ABS PDF
+
+Visual question answering (VQA) lies at the intersection of language and vision research. It functions as a building block for multimodal conversational AI and serves as a testbed for assessing a model’s capability for open-domain scene understanding. While progress in this area was initially accelerated with the 2015 release of the popular and large dataset VQA, new datasets are required to continue this research momentum. For example, the 2019 Outside Knowledge VQA dataset OKVQA extends VQA by adding more challenging questions that require complex, factual, and commonsense knowledge. However, in our analysis, we found that 41.4% of the dataset needed to be corrected and 10.6% needed to be removed. This paper describes the analysis, corrections, and removals completed and presents a new dataset: OK-VQA Version 2.0. To gain insights into the impact of the changes on OK-VQA research, the paper presents results on state-of-the-art models retrained with this new dataset. The side-by-side comparisons show that one method in particular, Knowledge Augmented Transformer for Vision-and-Language, extends its relative lead over competing methods. The dataset is available online.
+
+AAAI ’23
+Commonsense Reasoning for Conversational AI: A Survey of the State of the Art
+Richardson, Christopher, and Heck, Larry
+Workshop on Knowledge Augmented Methods for NLP (KnowledgeNLP-AAAI’23) 2023
+ABS PDF
+
+Large, transformer-based pretrained language models like BERT, GPT, and T5 have demonstrated a deep understanding of contextual semantics and language syntax. Their success has enabled significant advances in conversational AI, including the development of open-dialogue systems capable of coherent, salient conversations which can answer questions, chat casually, and complete tasks. However, state-of-the-art models still struggle with tasks that involve higher levels of reasoning - including commonsense reasoning that humans find trivial. This paper presents a survey of recent conversational AI research focused on commonsense reasoning. The paper lists relevant training datasets and describes the primary approaches to include commonsense in conversational AI. The paper also discusses benchmarks used for evaluating commonsense in conversational AI problems. Finally, the paper presents preliminary observations of the limited commonsense capabilities of two state-of-the-art open dialogue models, BlenderBot3 and LaMDA, and its negative effect on natural interactions. These observations further motivate research on commonsense reasoning in conversational AI.
+
+ACL ’22
+Multimodal Conversational AI: A Survey of Datasets and Approaches
+Sundar, Anirudh, and Heck, Larry
+Proceedings of the 4th Workshop on NLP for Conversational AI, Association for Computational Linguistics (ACL) 2022
+ABS PDF
+
+As humans, we experience the world with all our senses or modalities (sound, sight, touch, smell, and taste). We use these modalities, particularly sight and touch, to convey and interpret specific meanings. Multimodal expressions are central to conversations; a rich set of modalities amplify and often compensate for each other. A multimodal conversational AI system answers questions, fulfills tasks, and emulates human conversations by understanding and expressing itself via multiple modalities. This paper motivates, defines, and mathematically formulates the multimodal conversational research objective. We provide a taxonomy of research required to solve the objective: multimodal representation, fusion, alignment, translation, and co-learning. We survey state-of-the-art datasets and approaches for each research area and highlight their limiting assumptions. Finally, we identify multimodal co-learning as a promising direction for multimodal conversational AI research.
+
+      
+The best way to reach me: larryheck@gatech.edu
+© Copyright 2024 Larry P. Heck.
+

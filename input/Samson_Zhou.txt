@@ -1,0 +1,461 @@
+Professor: Samson Zhou
+University: Texas A&M University
+URL: https://samsonzhou.github.io/
+Description: 	
+Samson Zhou
+	
+
+
+
+Hi, I'm an Assistant Professor in the Department of Computer Science & Engineering at Texas A&M University. My research lies at the intersections of theoretical computer science, data science, and machine learning. In particular, I am currently interested in numerical linear algebra, streaming algorithms, and differential privacy. Here are some of my favorite links.
+
+Profiles: [dblp] [Scholar]
+Feel free to reach me at:
+samsonzhou AT gmail DOT com
+
+
+Academic Positions and Education
+Texas A&M University, Assistant Professor (August 2023-Present)
+Simons Institute for the Theory of Computing, Sublinear Algorithms, Visting Scientist (Summer 2024)
+UC Berkeley and Rice University, Postdoctoral Researcher, hosted by Jelani Nelson and Vladimir Braverman (September 2022-July 2023)
+Carnegie Mellon University, Postdoctoral Researcher, hosted by David P. Woodruff (September 2019-August 2022)
+Indiana University, Postdoctoral Researcher, hosted by Grigory Yaroslavtsev (August 2018-2019)
+Purdue University, Postdoctoral Researcher, hosted by Jeremiah Blocki (Summer 2018)
+Purdue University, Doctor of Philosophy, Computer Science, advised by Greg Frederickson and Elena Grigorescu (2018)
+Massachusetts Institute of Technology, Master of Engineering, Computer Science (2011)
+Massachusetts Institute of Technology, Bachelor of Science, Computer Science (2011)
+Massachusetts Institute of Technology, Bachelor of Science, Mathematics (2010)
+Service and Teaching
+August 19-21, 2024: Co-organizer of the TTIC Workshop: Learning-Augmented Algorithms
+Fall 2023-Present: Problem-Solving Session Instructor at the TAMU Math Circle
+Fall 2023-Present: Organizer of the Algorithms and Data Science Reading Group at Texas A&M University
+November 6-9, 2023: Co-organizer of the FOCS 2023 Workshop: Exploring the Frontiers of Adaptive Robustness
+August 23-25, 2021: Co-organizer of the Workshop on Algorithms for Large Data (Online)
+Fall 2018: Organizer of Convex Optimization Reading Group at Indiana University
+Fall 2016-Fall 2017: Organizer of Theoretical CS Reading Group at Purdue University
+Fall 2024: CSCE 411: Design and Analysis of Algorithms
+Spring 2024: CSCE 658: Randomized Algorithms
+Fall 2023: CSCE 689: Special Topics in Modern Algorithms for Data Science
+Spring 2018: CS 584: Theory of Computation/Complexity Theory (Teaching Assistant)
+Spring 2016: CS 381: Introduction to the Analysis of Algorithms (Teaching Assistant)
+Fall 2015: CS 580: Algorithm Design and Analysis (Teaching Assistant, ACM Graduate TA Award)
+Program committee/area chair: NeurIPS 2024, ESA 2024, ISAAC 2024, COLT 2024, COLT 2023, COLT 2022, RANDOM 2022
+
+Reviewer:
+2024: AISTATS, COLT, ESA, FOCS, ICALP, ICDT, ICLR, ICML, INFOCOM, ISAAC, ISIT, ITCS, NeurIPS, PODS, RANDOM, SoCG, SODA, STACS, STOC
+2023: COLT, ESA, FOCS, ICALP, ICML, ITCS, NeurIPS, PODS, SIGMETRICS, SODA, STACS, STOC
+2022: AAAI, AISTATS, COLT, ICALP, ICLR, ICML, ITCS, NeurIPS, PODS, RANDOM, SODA, SPAA, STOC
+2021: AAAI, CPM, ESA, ICDT, ISAAC, NeurIPS, PODS, SODA, STOC
+2020: ESA, FOCS, IPCO, ISIT, ITCS, NeurIPS, PODS, RANDOM, SODA, STOC
+2019: AISTATS, CSR, ESA, FC, FOCS, ICANN, ICML, ISAAC, ISIT, ITCS, NeurIPS, RANDOM, SODA, SPAA, STOC
+2018: APPROX, ESA, ICALP, ISIT, LATIN, SODA, STOC
+2017: CSR, FOCS, SPAA
+2016: RANDOM
+
+
+Journals: Algorithmica, ACM Transactions on Algorithms, IEEE Transactions on Information Theory, SIAM Journal on Computing, SIAM Journal on Matrix Analysis and Applications, Information Processing Letters
+Publications
+A Strong Separation for Adversarially Robust ℓ0 Estimation for Linear Sketches
+Elena Gribelyuk, Honghao Lin, David P. Woodruff, Huacheng Yu, Samson Zhou
+FOCS 2024 [abstract]
+
+
+Private Vector Mean Estimation in the Shuffle Model: Optimal Rates Require Many Messages
+Hilal Asi, Vitaly Feldman, Jelani Nelson, Huy L. Nguyễn, Kunal Talwar, Samson Zhou
+ICML 2024 [abstract] [pdf]
+
+
+
+Streaming Algorithms with Few State Changes
+Rajesh Jayaram, David P. Woodruff, Samson Zhou
+PODS 2024 [abstract] [pdf]
+
+
+Near-Optimal k-Clustering in the Sliding Window Model
+David P. Woodruff, Peilin Zhong, Samson Zhou
+NeurIPS 2023 [abstract] [poster] [pdf]
+
+
+
+Streaming Algorithms for Learning with Experts: Deterministic Versus Robust
+David P. Woodruff, Fred Zhang, Samson Zhou
+NeurIPS 2023 [abstract] [pdf]
+
+
+
+Streaming Euclidean k-median and k-means with o(log n) Space
+Vincent Cohen-Addad, David P. Woodruff, Samson Zhou
+FOCS 2023 [abstract] [video] [slides] [pdf]
+
+
+
+How to Make Your Approximation Algorithm Private: A Black-Box Differentially-Private Transformation for Tunable Approximation Algorithms of Functions with Low Sensitivity
+Jeremiah Blocki, Elena Grigorescu, Tamalika Mukherjee, Samson Zhou
+RANDOM 2023 [abstract] [pdf]
+
+
+
+Private Data Stream Analysis for Universal Symmetric Norm Estimation
+Vladimir Braverman, Joel Manning, Zhiwei Steven Wu, Samson Zhou
+RANDOM 2023 [abstract] [slides] [pdf]
+FORC 2022 (non-archival track)
+
+
+
+Fast (1+ε)-Approximation Algorithms for Binary Matrix Factorization
+Ameya Velingker, Maximilian Vötsch, David P. Woodruff, Samson Zhou
+ICML 2023 [abstract] [pdf]
+
+
+
+Provable Data Subset Selection For Efficient Neural Network Training
+Murad Tukan, Samson Zhou, Alaa Maalouf, Daniela Rus, Vladimir Braverman, Dan Feldman
+ICML 2023 [abstract] [pdf]
+
+
+
+Differentially Private Aggregation via Imperfect Shuffling
+Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Jelani Nelson, Samson Zhou
+ITC 2023 [abstract] [pdf]
+FORC 2023 (non-archival track)
+
+
+
+Selective Experience Replay Compression using Coresets for Lifelong Deep Reinforcement Learning in Medical Imaging
+Guangyao Zheng, Samson Zhou, Vladimir Braverman, Michael A. Jacobs, Vishwa S. Parekh
+MIDL 2023 [abstract] [pdf]
+
+
+
+On Differential Privacy and Adaptive Data Analysis with Bounded Space
+Itai Dinur, Uri Stemmer, David P. Woodruff, Samson Zhou
+EUROCRYPT 2023 [abstract] [slides] [pdf]
+
+
+
+Sub-quadratic Algorithms for Kernel Matrices via Kernel Density Estimation
+Ainesh Bakshi, Praneeth Kacham, Piotr Indyk, Sandeep Silwal, Samson Zhou
+ICLR 2023 (selected for spotlight presentation) [abstract] [pdf]
+
+
+
+Differentially Private L2-Heavy Hitters in the Sliding Window Model
+Jeremiah Blocki, Seunghoon Lee, Tamalika Mukherjee, Samson Zhou
+ICLR 2023 (selected for spotlight presentation) [abstract] [pdf]
+
+
+
+Robust Algorithms on Adaptive Inputs from Bounded Adversaries
+Yeshwanth Cherapanamjeri, Sandeep Silwal, David P. Woodruff, Fred Zhang, Qiuyi Zhang, Samson Zhou
+ICLR 2023 [abstract] [pdf]
+
+
+
+Near-Linear Sample Complexity for Lp Polynomial Regression
+Raphael A. Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou
+SODA 2023 [abstract] [slides] [pdf]
+
+
+
+Optimal Algorithms for Linear Algebra in the Current Matrix Multiplication Time
+Yeshwanth Cherapanamjeri, Sandeep Silwal, David P. Woodruff, Samson Zhou
+SODA 2023 [abstract] [pdf]
+
+
+
+Learning-Augmented Algorithms for Online Linear and Semidefinite Programming
+Elena Grigorescu, Young-San Lin, Sandeep Silwal, Maoyuan Song, Samson Zhou
+NeurIPS 2022 [abstract] [pdf]
+
+
+
+Adaptive Sketches for Robust Regression with Importance Sampling
+Sepideh Mahabadi, David P. Woodruff, Samson Zhou
+RANDOM 2022 [abstract] [pdf]
+
+
+
+Hardness and Algorithms for Robust and Sparse Optimization
+Eric Price, Sandeep Silwal, Samson Zhou
+ICML 2022 [abstract] [pdf]
+
+
+
+The White-Box Adversarial Data Stream Model
+Miklós Ajtai, Vladimir Braverman, T.S. Jayram, Sandeep Silwal, Alec Sun, David P. Woodruff, Samson Zhou
+PODS 2022 [abstract] [pdf]
+
+
+
+Memory Bounds for the Experts Problem
+Vaidehi Srinivas, David P. Woodruff, Ziyu Xu, Samson Zhou
+STOC 2022 [abstract] [slides] [video] [pdf]
+
+
+
+Learning-Augmented k-means Clustering
+Jon C. Ergun, Zhili Feng, Sandeep Silwal, David P. Woodruff, Samson Zhou
+ICLR 2022 (selected for spotlight presentation) [abstract] [slides] [pdf]
+
+
+
+Fast Regression for Structured Inputs
+Raphael A. Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou
+ICLR 2022 [abstract] [pdf]
+
+
+
+New Coresets for Projective Clustering and Applications
+Murad Tukan, Xuan Wu, Samson Zhou, Vladimir Braverman, Dan Feldman
+AISTATS 2022 [abstract] [pdf]
+
+
+
+A Fast, Provably Accurate Approximation Algorithm for Sparse Principal Component Analysis Reveals Human Genetic Variation Across the World
+Agniva Chowdhury, Aritra Bose, Samson Zhou, David P. Woodruff, Petros Drineas
+RECOMB 2022 [abstract] [pdf]
+
+
+
+Noisy Boolean Hidden Matching with Applications
+Michael Kapralov, Amulya Musipatla, Jakab Tardos, David P. Woodruff, Samson Zhou
+ITCS 2022 [abstract] [video] [pdf]
+
+
+
+Truly Perfect Samplers for Data Streams and Sliding Windows
+Rajesh Jayaram, David P. Woodruff, Samson Zhou
+PODS 2022 [abstract] [pdf]
+
+
+Adversarial Robustness of Streaming Algorithms through Importance Sampling
+Vladimir Braverman, Avinatan Hassidim, Yossi Matias, Mariano Schain, Sandeep Silwal, Samson Zhou
+NeurIPS 2021 [abstract] [poster] [pdf]
+AdvML @ ICML 2021 (selected for oral presentation)
+Silver Best Paper Award at AdvML @ ICML 2021
+
+
+
+Dimensionality Reduction for Wasserstein Barycenter
+Zachary Izzo, Sandeep Silwal, Samson Zhou
+NeurIPS 2021 [abstract] [pdf]
+
+
+
+Efficient Coreset Constructions via Sensitivity Sampling
+Vladimir Braverman, Dan Feldman, Harry Lang, Adiel Statman, Samson Zhou
+ACML 2021 [abstract] [pdf]
+
+
+Tight Bounds for Adversarially Robust Streams and Sliding Windows via Difference Estimators
+David P. Woodruff, Samson Zhou
+FOCS 2021 [abstract] [slides] [video] [pdf]
+
+
+
+Symmetric Norm Estimation and Regression on Sliding Windows
+Vladimir Braverman, Viska Wei, Samson Zhou
+COCOON 2021 [abstract] [pdf]
+
+
+On the Security of Proofs of Sequential Work in a Post-Quantum World
+Jeremiah Blocki, Seunghoon Lee, Samson Zhou
+ITC 2021 [abstract] [Seunghoon's slides] [Seunghoon's video] [pdf]
+
+
+
+Separations for Estimating Large Frequency Moments on Data Streams
+David P. Woodruff, Samson Zhou
+ICALP 2021 [abstract] [slides] [video] [pdf]
+
+
+
+Learning a Latent Simplex in Input Sparsity Time
+Ainesh Bakshi, Chiranjib Bhattacharyya, Ravi Kannan, David P. Woodruff, Samson Zhou
+ICLR 2021 (selected for spotlight presentation) [abstract] [slides] [pdf]
+
+
+
+Sensitivity Analysis of the Maximum Matching Problem
+Yuichi Yoshida, Samson Zhou
+ITCS 2021 [abstract] [slides] [video] [pdf]
+
+
+
+Near Optimal Linear Algebra in the Online and Sliding Window Models
+Vladimir Braverman, Petros Drineas, Cameron Musco, Christopher Musco, Jalaj Upadhyay, David P. Woodruff, Samson Zhou
+FOCS 2020 [abstract] [slides] [video] [pdf]
+
+
+
+On Locally Decodable Codes in Resource Bounded Channels
+Jeremiah Blocki, Shubhang Kulkarni, Samson Zhou
+ITC 2020 [abstract] [Shubhang's video@ITC] [pdf]
+
+
+
+Non-Adaptive Adaptive Sampling on Turnstile Streams
+Sepideh Mahabadi, Ilya Razenshteyn, David P. Woodruff, Samson Zhou
+STOC 2020 [abstract] [Sepideh's slides] [Sepideh's video@TCS+] [pdf]
+
+
+
+"Bring Your Own Greedy"+Max: Near-Optimal 1/2-Approximations for Submodular Knapsack
+Grigory Yaroslavtsev, Samson Zhou, Dmitrii Avdiukhin
+AISTATS 2020 [abstract] [pdf]
+
+
+
+Data-Independent Neural Pruning via Coresets
+Ben Mussay, Margarita Osadchy, Vladimir Braverman, Samson Zhou, Dan Feldman
+IEEE Transactions on Neural Networks and Learning Systems 2021 [journal]
+ICLR 2020 [abstract] [conference]
+
+
+
+Approximating Cumulative Pebbling Cost is Unique Games Hard
+Jeremiah Blocki, Seunghoon Lee, Samson Zhou
+ITCS 2020 [abstract] [Seunghoon's poster] [Seunghoon's slides] [website] [pdf]
+
+
+
+Computationally Data-Independent Memory Hard Functions
+Mohammad Hassan Ameri, Jeremiah Blocki, Samson Zhou
+ITCS 2020 [abstract] [slides] [video] [pdf]
+
+
+
+Memory-Efficient Performance Monitoring on Programmable Switches with Lean Algorithms
+Zaoxing Liu, Samson Zhou, Ori Rottenstreich, Vladimir Braverman, Jennifer Rexford
+APoCS 2020 [abstract] [pdf]
+
+
+
+Fast Fourier Sparsity Testing
+Grigory Yaroslavtsev, Samson Zhou
+SOSA 2020 [abstract] [slides] [pdf]
+
+
+
+Approximate F2-Sketching of Valuation Functions
+Grigory Yaroslavtsev, Samson Zhou
+RANDOM 2019 [abstract] [slides] [pdf]
+
+
+
+Improved Methods on Time-Decay Streams
+Vladimir Braverman, Harry Lang, Enayat Ullah, Samson Zhou
+APPROX 2019 [abstract] [pdf]
+
+
+
+Data-Independent Memory Hard Functions: New Attacks and Stronger Constructions
+Jeremiah Blocki, Ben Harsha, Siteng Kang, Seunghoon Lee, Lu Xing, Samson Zhou
+CRYPTO 2019 [abstract] [Jeremiah's slides] [pdf]
+
+
+
+Adversarially Robust Submodular Maximization under Knapsack Constraints
+Dmitrii Avdiukhin, Slobodan Mitrović, Grigory Yaroslavtsev, Samson Zhou
+KDD 2019 (selected for oral presentation) [abstract] [poster] [slides] [video] [pdf]
+
+
+
+Structural Results on Matching Estimation with Applications to Streaming
+Marc Bury, Elena Grigorescu, Andrew McGregor, Morteza Monemizadeh, Chris Schwiegelshohn, Sofya Vorotnikova, Samson Zhou
+Algorithmica 2019 [abstract] [pdf]
+
+
+
+Bandwidth-Hard Functions: Reductions and Lower Bounds
+Jeremiah Blocki, Ling Ren, Samson Zhou
+CCS 2018 [abstract] [Jeremiah's slides] [Jeremiah's video@CCS] [pdf]
+
+
+
+Nearly Optimal Distinct Elements and Heavy Hitters on Sliding Windows
+Vladimir Braverman, Elena Grigorescu, Harry Lang, David P. Woodruff, Samson Zhou
+APPROX 2018 [abstract] [poster] [slides] [pdf]
+
+
+
+Relaxed Locally Correctable Codes in Computationally Bounded Channels
+Jeremiah Blocki, Venkata Gandikota, Elena Grigorescu, Samson Zhou
+IEEE Transactions on Information Theory 2021
+ISIT 2019 [abstract] [pdf]
+ICALP 2018 (brief announcement)
+
+
+
+Periodicity in Data Streams with Wildcards
+Funda Ergün, Elena Grigorescu, Erfan Sadeqi Azer, Samson Zhou
+CSR 2018 (invited to special issue of Theory of Computing) [abstract] [pdf]
+
+
+
+On the Computational Complexity of Minimal Cumulative Cost Graph Pebbling
+Jeremiah Blocki, Samson Zhou
+FC 2018 [abstract] [slides] [pdf]
+
+
+
+On the Economics of Offline Password Cracking
+Jeremiah Blocki, Ben Harsha, Samson Zhou
+S&P 2018 [abstract] [Jeremiah's slides] [Jeremiah's video@S&P] [pdf]
+
+
+
+Streaming for Aibohphobes: Longest Palindrome with Mismatches
+Elena Grigorescu, Erfan Sadeqi Azer, Samson Zhou
+FSTTCS 2017 [abstract] [slides] [pdf]
+
+
+
+On the Depth-Robustness and Cumulative Pebbling Cost of Argon2i
+Jeremiah Blocki, Samson Zhou
+TCC 2017 [abstract] [Jeremiah's slides] [pdf]
+
+
+
+Longest Alignment with Edits in Data Streams
+Elena Grigorescu, Erfan Sadeqi Azer, Samson Zhou
+Allerton 2017 [abstract] [pdf]
+
+
+Streaming Periodicity with Mismatches
+Funda Ergün, Elena Grigorescu, Erfan Sadeqi Azer, Samson Zhou
+RANDOM 2017 [abstract] [slides] [pdf]
+
+
+
+Nearly Optimal Sparse Group Testing
+Venkata Gandikota, Elena Grigorescu, Sidharth Jaggi, Samson Zhou
+IEEE Transactions on Information Theory 2019 [journal]
+Allerton 2016 [abstract] [slides] [conference]
+
+
+
+Other Writings
+Learning-Augmented Skip Lists
+Chunkai Fu, Jung Hoon Seo, Samson Zhou
+[abstract] [pdf]
+
+
+
+Approximation Algorithms for Sparse Principal Component Analysis
+Agniva Chowdhury, Petros Drineas, David P. Woodruff, Samson Zhou
+[abstract] [pdf]
+
+
+
+Optimal Parametric Search for Path and Tree Partitioning
+Greg Frederickson, Samson Zhou
+[abstract] [pdf]
+
+
+
+Estimating Weighted Matchings in o(n) Space
+Elena Grigorescu, Morteza Monemizadeh, Samson Zhou
+[abstract] [pdf]
+
+

@@ -1,0 +1,439 @@
+Professor: Cameron Musco
+University: University of Massachusetts Amherst
+URL: http://people.cs.umass.edu/~cmusco
+Description: Home
+Courses
+Students
+Publications
+Other
+Cameron Musco
+University of Massachusetts Amherst | Computer Science Building, Office 234 (Zoom Link) | cmusco at cs dot umass dot edu
+
+I am an Assistant Professor in UMass Amherst's Manning College of Information and Computer Sciences, where I am a member of the Theory Group.
+
+I study algorithms, working at the intersection of theoretical computer science, numerical linear algebra, and machine learning. My group's research is supported in part by an NSF CAREER Award and a Google Research Scholar Award.
+
+I completed my Ph.D. in the Theory of Computation Group at MIT, advised by Nancy Lynch. Before MIT, I studied Computer Science and Applied Math at Yale.
+
+Here are my Google Scholar profile, CV, and GitHub.
+
+Courses
+
+COMPSCI 514: Algorithms for Data Science, Fall 2023. (Past editions: F22, F21, F20, S20, F19).
+
+COMPSCI 614: Randomized Algorithms with Applications to Data Science, Spring 2024. (Past editions: S22).
+
+COMPSCI 891M: Theory Seminar.
+
+Research Group
+Current:
+Rajarshi Bhattacharjee, Ph.D.
+Weronika Nguyen, Ph.D.
+Kyle Doney, Ph.D.
+Helia Karisani, Ph.D., co-advised with Mohammad Hajiesmaili
+Mohammadreza Daneshvaramoli, Ph.D., co-advised with Mohammad Hajiesmaili
+
+Ph.D. Alumni:
+Archan Ray, Ph.D. (2019-2024). Now Postdoc at the Sloan Kettering Institute.
+Mohit Yadav, Ph.D. (2020-2024), co-advised with Dan Sheldon. Now Research Scientist at Pythia Labs.
+Sudhanshu Chanpuriya, Ph.D. (2019-2023). Now Research Scientist at Meta.
+Raghavendra Addanki, Ph.D. (2019-2022), co-advised with Andrew McGregor. Now Research Scientist at Adobe.
+
+Undergraduate/Masters Alumni:
+Adam Lechowicz, Undergraduate (2021-2022). Now Ph.D. student at UMass Amherst.
+Aarshvi Gajjar, Masters (2020-2021). Now Ph.D. student at NYU.
+Hannah Lawrence, Summer Intern (2019). Now Ph.D. student at MIT.
+
+Publications
+All
+Fast Linear Algebra
+Sketching/Streaming
+Graph Embedding and Learning
+Other Algorithms
+Biological Computation
+
+Near-Optimal Hierarchical Matrix Approximation from Matrix-Vector Products
+Tyler Chen, Feyza Duman Keles, Diana Halikias, Cameron Musco, Christopher Musco, David Persson
+
+Competitive Algorithms for Online Knapsack with Succinct Predictions
+Mohammadreza Daneshvaramoli, Helia Karisani, Adam Lechowicz, Bo Sun, Cameron Musco, Mohammad Hajiesmaili
+
+Navigable Graphs for High-Dimensional Nearest Neighbor Search: Constructions and Limits
+Haya Diwan, Jinrui Gou, Cameron Musco, Christopher Musco, Torsten Suel
+
+Fixed-Sparsity Matrix Approximation from Matrix-Vector Products
+Noah Amsel, Tyler Chen, Feyza Duman Keles, Diana Halikias, Cameron Musco, Christopher Musco
+
+Near-Optimality Guarantees for Approximating Rational Matrix Functions by the Lanczos Method
+Noah Amsel, Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+Slides and video from my talk at Simons.
+
+On the Role of Edge Dependency in Graph Generative Models
+Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos Tsourakakis
+International Conference on Machine Learning (ICML) 2024.
+
+Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra
+Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, Sushant Sachdeva, David P. Woodruff
+Innovations in Theoretical Computer Science (ITCS) 2024.
+Slides from my talk at FOCM.
+
+On the Unreasonable Effectiveness of Single Vector Krylov Methods for Low-Rank Approximation
+Raphael Meyer, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2024.
+Chris's slides for 30 minute talk.
+
+Sublinear Time Low-Rank Approximation of Toeplitz Matrices
+Cameron Musco, Kshiteej Sheth.
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2024.
+
+No-regret Algorithms for Fair Resource Allocation
+Abhishek Sinha, Ativ Joshi, Rajarshi Bhattacharjee, Cameron Musco, Mohammad Hajiesmaili
+Conference on Neural Information Processing Systems (NeurIPS) 2023.
+
+Exact Representation of Sparse Networks with Symmetric Nonnegative Embeddings
+Sudhanshu Chanpuriya, Ryan A. Rossi, Anup B. Rao, Tung Mai, Nedim Lipka, Zhao Song, Cameron Musco
+Conference on Neural Information Processing Systems (NeurIPS) 2023.
+
+Finite Population Regression Adjustment and Non-asymptotic Guarantees for Treatment Effect Estimation
+Mehrdad Ghadiri, David Arbour, Tung Mai, Cameron Musco, Anup B. Rao
+Conference on Neural Information Processing Systems (NeurIPS) 2023.
+
+Latent Random Steps as Relaxations of Max-Cut, Min-Cut, and More
+Sudhanshu Chanpuriya, Cameron Musco
+Differentiable Almost Everything Workshop at ICML 2023.
+
+
+Sublinear Time Eigenvalue Approximation via Random Sampling
+Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, Archan Ray
+International Colloquium on Automata, Languages, and Programming (ICALP) 2023. Full version in Algorithmica 2024.
+Slides from my talk at the Algorithms and Foundations for Data Science Workshop, NUS. Video of my talk at Simons.
+
+
+Weighted Minwise Hashing Beats Linear Sketching for Inner Product Estimation
+Aline Bessa, Majid Daliri, Juliana Freire, Cameron Musco, Christopher Musco, Aécio Santos, Haoxiang Zhang
+Symposium on Principles of Database Systems (PODS) 2023.
+
+Direct Embedding of Temporal Network Edges via Time-Decayed Line Graphs
+Sudhanshu Chanpuriya, Ryan A. Rossi, Sungchul Kim, Tong Yu, Jane Hoffswell, Nedim Lipka, Shunan Guo, Cameron Musco
+International Conference on Learning Representations (ICLR) 2023.
+Video of an hour long talk by Dan.
+
+Optimal Sketching Bounds for Sparse Linear Regression
+Tung Mai, Alexander Munteanu, Cameron Musco, Anup B. Rao, Chris Schwiegelshohn, David P. Woodruff
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2023.
+
+Low-Memory Krylov Subspace Methods for Optimal Rational Matrix Function Approximation
+Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+SIAM Journal on Matrix Analysis and Applications (SIMAX) 2023.
+
+Local Edge Dynamics and Opinion Polarization
+Nikita Bhalla, Adam Lechowicz, Cameron Musco
+ACM International Conference on Web Search and Data Mining (WSDM) 2023.
+Invited to special issue of ACM Transactions on Intelligent Systems and Technology
+Slides from my talk at the Integrity 2023 Workshop at WSDM. Video of Adam's WSDM talk. Code repository.
+
+Toeplitz Low-Rank Approximation with Sublinear Query Complexity
+Michael Kapralov, Hannah Lawrence, Mikhail Makarov, Cameron Musco, Kshiteej Sheth.
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2023.
+
+Near-Linear Sample Complexity for Lp Polynomial Regression
+Raphael Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou.
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2023.
+
+Kernel Interpolation with Sparse Grids
+Mohit Yadav, Daniel Sheldon, Cameron Musco
+Conference on Neural Information Processing Systems (NeurIPS) 2022.
+
+Modeling Transitivity and Cyclicity in Directed Graphs via Binary Code Box Embeddings
+Dongxu Zhang, Michael Boratko, Cameron Musco, Andrew McCallum
+Conference on Neural Information Processing Systems (NeurIPS) 2022.
+Code repository.
+
+Sample Constrained Treatment Effect Estimation
+Raghavendra Addanki, David Arbour, Tung Mai, Cameron Musco, Anup B. Rao
+Conference on Neural Information Processing Systems (NeurIPS) 2022.
+Code repository.
+
+Simplified Graph Convolution with Heterophily
+Sudhanshu Chanpuriya, Cameron Musco.
+Conference on Neural Information Processing Systems (NeurIPS) 2022.
+Code repository.
+
+Active Linear Regression for ℓp Norms and Beyond
+Cameron Musco, Christopher Musco, David P. Woodruff, Taisuke Yasuda
+IEEE Symposium on Foundations of Computer Science (FOCS) 2022
+
+Non-Adaptive Edge Counting and Sampling via Bipartite Independent Set Queries
+Raghavendra Addanki, Andrew McGregor, Cameron Musco
+European Symposium on Algorithms (ESA) 2022.
+
+Fast Regression for Structured Inputs
+Raphael Meyer, Cameron Musco, Christopher Musco, David P. Woodruff, Samson Zhou
+International Conference on Learning Representations (ICLR) 2022.
+
+Sublinear Time Approximation of Text Similarity Matrices
+Archan Ray, Nicholas Monath, Andrew McCallum, Cameron Musco
+AAAI Conference on Artificial Intelligence (AAAI) 2022.
+
+
+Error Bounds for Lanczos-Based Matrix Function Approximation
+Tyler Chen, Anne Greenbaum, Cameron Musco, Christopher Musco
+SIAM Journal on Matrix Analysis and Applications (SIMAX) 2022.
+
+
+On the Power of Edge Independent Graph Models
+Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis
+Conference on Neural Information Processing Systems (NeurIPS) 2021.
+
+
+Coresets for Classification - Simplified and Strengthened
+Tung Mai, Cameron Musco, Anup B. Rao
+Conference on Neural Information Processing Systems (NeurIPS) 2021.
+
+
+DeepWalking Backwards: From Embeddings Back to Graphs
+Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis
+International Conference on Machine Learning (ICML) 2021. Spotlight Presentation.
+Code repository.
+
+Faster Kernel Matrix Algebra via Density Estimation
+Arturs Backurs, Piotr Indyk, Cameron Musco, Tal Wagner
+International Conference on Machine Learning (ICML) 2021.
+
+Faster Kernel Interpolation for Gaussian Processes
+Mohit Yadav, Daniel Sheldon, Cameron Musco
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2021. Oral Presentation.
+
+Intervention Efficient Algorithms for Approximate Learning of Causal Graphs
+Raghavendra Addanki, Andrew McGregor, Cameron Musco
+Algorithmic Learning Theory (ALT) 2021.
+Video of Raghav's talk at ALT.
+
+Subspace Embeddings Under Nonlinear Transformations
+Aarshvi Gajjar, Cameron Musco
+Algorithmic Learning Theory (ALT) 2021.
+Video of Aarshvi's talk at ALT.
+
+Estimation of Shortest Path Covariance Matrices
+Raj Kumar Maity, Cameron Musco
+
+
+Simple Heuristics Yield Provable Algorithms for Masked Low-Rank Approximation
+Cameron Musco, Christopher Musco, David P. Woodruff
+Innovations in Theoretical Computer Science (ITCS) 2021.
+Slides from my talks at ITA/UMass. Video of my talk at ITCS.
+
+Hutch++: Optimal Stochastic Trace Estimation
+Raphael Meyer, Cameron Musco, Christopher Musco, David P. Woodruff
+SIAM Symposium on Simplicity in Algorithms (SOSA) 2021.
+Video of my E-NLA Seminar talk. Corresponding slides. Code repository.
+The Hutch++ algorithm is also implemented in PyLops, SciPy, and elsewhere (e.g., 1, 2).
+
+Fourier Sparse Leverage Scores and Approximate Kernel Learning
+Tamás Erdélyi, Cameron Musco, Christopher Musco
+Conference on Neural Information Processing Systems (NeurIPS) 2020. Spotlight Presentation.
+Code repository.
+
+Node Embeddings and Exact Low-Rank Representations of Complex Networks
+Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis
+Conference on Neural Information Processing Systems (NeurIPS) 2020.
+Code repository containing LPCA exact factorization code.
+
+Spiking Neural Networks Through the Lens of Streaming Algorithms
+Yael Hitron, Cameron Musco, Merav Parter
+International Symposium on Distributed Computing (DISC) 2020.
+
+Near Optimal Linear Algebra in the Online and Sliding Window Models
+Vladimir Braverman, Petros Drineas, Cameron Musco, Christopher Musco, Jalaj Upadhyay, David P. Woodruff, Samson Zhou
+IEEE Symposium on Foundations of Computer Science (FOCS) 2020.
+
+Efficient Intervention Design for Causal Discovery with Latents
+Raghavendra Addanki, Shiva Prasad Kasiviswanathan, Andrew McGregor, Cameron Musco
+International Conference on Machine Learning (ICML) 2020.
+
+InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity
+Sudhanshu Chanpuriya, Cameron Musco
+Knowledge Discovery and Data Mining (KDD) 2020.
+Code repository.
+
+Low-Rank Toeplitz Matrix Estimation via Random Ultra-Sparse Rulers
+Hannah Lawrence, Jerry Li, Cameron Musco, Christopher Musco
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2020.
+Video of Hannah's (remote) talk at ICASSP.
+
+Importance Sampling via Local Sensitivity
+Anant Raj, Cameron Musco, Lester Mackey
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.
+
+
+Random Sketching, Clustering, and Short-Term Memory in Spiking Neural Networks
+Yael Hitron, Nancy Lynch, Cameron Musco, Merav Parter
+Innovations in Theoretical Computer Science (ITCS) 2020.
+
+
+Sample Efficient Toeplitz Covariance Estimation
+Yonina Eldar, Jerry Li, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2020.
+Slides from my talk at Cornell. Video from my talk at DIMACS.
+
+Fast and Space Efficient Spectral Sparsification in Dynamic Streams
+Michael Kapralov, Aida Mousavifar, Cameron Musco, Christopher Musco, Navid Nouri, Aaron Sidford, Jakab Tardos
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2020.
+Slides from my talk at Cornell.
+
+Toward a Characterization of Loss Functions for Distribution Learning
+Nika Haghtalab, Cameron Musco, Bo Waggoner
+Conference on Neural Information Processing Systems (NeurIPS) 2019.
+
+
+Learning to Prune: Speeding up Repeated Computations
+Daniel Alabi, Adam Tauman Kalai, Katrina Ligett, Cameron Musco, Christos Tzamos, Ellen Vitercik
+Conference on Learning Theory (COLT) 2019.
+
+A Universal Sampling Method for Reconstructing Signals with Simple Fourier Transforms
+Haim Avron, Michael Kapralov, Cameron Musco, Christopher Musco, Ameya Velingker, Amir Zandieh
+ACM Symposium on Theory of Computing (STOC) 2019.
+Slides and video from Chris's talk at Simons.
+
+Learning Networks from Random Walk-Based Node Similarities
+Jeremy G. Hoskins, Cameron Musco, Christopher Musco, Charalampos E. Tsourakakis
+Conference on Neural Information Processing Systems (NeurIPS) 2018.
+Code repository.
+
+Minimizing Polarization and Disagreement in Social Networks
+Cameron Musco, Christopher Musco, Charalampos E. Tsourakakis
+The Web Conference (WWW) 2018.
+Code repository.
+
+Eigenvector Computation and Community Detection in Asynchronous Gossip Models
+Frederik Mallmann-Trenn, Cameron Musco, Christopher Musco
+International Colloquium on Automata, Languages, and Programming (ICALP) 2018.
+
+
+Spectrum Approximation Beyond Fast Matrix Multiplication: Algorithms and Hardness
+Cameron Musco, Praneeth Netrapalli, Aaron Sidford, Shashanka Ubaru, David P. Woodruff
+Innovations in Theoretical Computer Science (ITCS) 2018.
+Slides from my talk at ITCS.
+
+Stability of the Lanczos Method for Matrix Function Approximation
+Cameron Musco, Christopher Musco, Aaron Sidford
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2018.
+Code repository for matrix function approximation (see lanczos.m).
+
+Recursive Sampling for the Nyström Method
+Cameron Musco, Christopher Musco
+Conference on Neural Information Processing Systems (NeurIPS) 2017.
+Code repository.  Slides and video from my talk at Simon's discussing this line of work.
+
+Is Input Sparsity Time Possible for Kernel Low-Rank Approximation?
+Cameron Musco, David P. Woodruff
+Conference on Neural Information Processing Systems (NeurIPS) 2017.
+
+
+Sublinear Time Low-Rank Approximation of Positive Semidefinite Matrices
+Cameron Musco, David P. Woodruff
+IEEE Symposium on Foundations of Computer Science (FOCS) 2017.
+Slides and video from my talk at FOCS. Extended slides slides for hour long talk.
+
+Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees
+Haim Avron, Michael Kapralov, Cameron Musco, Christopher Musco, Ameya Velingker, Amir Zandieh
+International Conference on Machine Learning (ICML) 2017.
+Slides and video from my talk at ICML. Chris's extended slides for an hour long talk.
+
+Input Sparsity Time Low-Rank Approximation via Ridge Leverage Score Sampling
+Michael B. Cohen, Cameron Musco, Christopher Musco
+ACM-SIAM Symposium on Discrete Algorithms (SODA) 2017.
+Slides from my talk at SODA. Chris's extended slides from his talk at University of Utah.
+
+Neuro-RAM Unit with Applications to Similarity Testing and Compression in Spiking Neural Networks
+Nancy Lynch, Cameron Musco, Merav Parter
+International Symposium on Distributed Computing (DISC) 2017.
+
+Spiking Neural Networks: An Algorithmic Perspective
+Nancy Lynch, Cameron Musco, Merav Parter
+Presentation at Workshop on Biological Distributed Algorithms (BDA) 2017.
+Slides from my talk at BDA.
+
+New Perspectives on Algorithmic Robustness Inspired by Ant Colony House-Hunting
+Tsvetomira Radeva, Cameron Musco, Nancy Lynch
+Presentation at Workshop on Biological Distributed Algorithms (BDA) 2017.
+
+Computational Tradeoffs in Biological Neural Networks: Self-Stabilizing Winner-Take-All Networks
+Nancy Lynch, Cameron Musco, Merav Parter
+Innovations in Theoretical Computer Science (ITCS) 2017.
+
+Ant-Inspired Density Estimation via Random Walks
+Cameron Musco, Hsin-Hao Su, Nancy Lynch
+Proceedings of the National Academy of Sciences (PNAS) 2017.
+Full paper also available on arXiv. An extended abstract initially appeared in PODC 2016.
+
+Online Row Sampling
+Michael B. Cohen, Cameron Musco, Jakub Pachocki
+International Workshop on Approximation Algorithms for Combinatorial Optimization Problems (APPROX) 2016.
+Appeared in special issue of Theory of Computing.
+
+Principal Component Projection Without Principal Component Analysis
+Roy Frostig, Cameron Musco, Christopher Musco, Aaron Sidford
+International Conference on Machine Learning (ICML) 2016.
+Code repository. Chris's slides from his talk at ICML.
+
+Faster Eigenvector Computation via Shift-and-Invert Preconditioning
+Daniel Garber, Elad Hazan, Chi Jin, Sham M. Kakade, Cameron Musco, Praneeth Netrapalli, Aaron Sidford
+International Conference on Machine Learning (ICML) 2016.
+
+Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition
+Cameron Musco, Christopher Musco
+Conference on Neural Information Processing Systems (NeurIPS) 2015. Oral Presentation.
+Slides and video from my talk at NeurIPS. Code repository.
+
+Dimensionality Reduction for k-Means Clustering and Low Rank Approximation
+Michael B. Cohen, Sam Elder, Cameron Musco, Christopher Musco, Madalina Persu
+ACM Symposium on Theory of Computing (STOC) 2015.
+Slides from my talk at MIT's Algorithms and Complexity Seminar.
+My Master's Thesis containing empirical evaluation along with a guide to implementation. A note containing simplified proofs for common projection-cost-preserving sketches.
+
+Uniform Sampling for Matrix Approximation
+Michael B. Cohen, Yin Tat Lee, Cameron Musco, Christopher Musco, Richard Peng, Aaron Sidford
+Innovations in Theoretical Computer Science (ITCS) 2015.
+Slides from my talk at MIT's Algorithms and Complexity Seminar.
+
+Distributed House-Hunting in Ant Colonies
+Mohsen Ghaffari, Cameron Musco, Tsvetomira Radeva, Nancy Lynch
+ACM Symposium on Principles of Distributed Computing (PODC) 2015.
+
+Single Pass Spectral Sparsification in Dynamic Streams
+Michael Kapralov, Yin Tat Lee, Cameron Musco, Christopher Musco, Aaron Sidford
+IEEE Symposium on Foundations of Computer Science (FOCS) 2014.
+Appeared in special issue of SIAM Journal on Computing (SICOMP).
+Chris's Slides from his talks at FOCS and the Harvard TOC Seminar.
+
+Other Writing
+
+Here are a few writeups, notes, and talks.
+
+Projection-cost-preserving sketch note, containing simplified proofs for common projection-cost-preserving sketching techniques, following the work in our STOC 2015 and SODA 2017 papers.
+
+VC dimension in (neural) circuit complexity, outline of a talk on the basics of VC dimension and how it can be used to give circuit size lower bounds for certain functions.
+
+Fast Low-Rank Approximation and PCA Beyond Sketching, slides for a talk I gave at Mining Massive Datasets (MMDS 2016) on new techniques for large scale low-rank approximation. Corresponding video.
+
+Chebyshev Polynomials in TCS and Algorithm Design, outline of a talk I gave at the MIT Theory student retreat on the many applications of Chebyshev polynomials to upper and lower bounds in Theoretical Computer Science.
+
+Applications of Linear Sketching to Distributed Computing, slides for a talk I gave at our Theory of Distributed Systems seminar. High level overview of linear sketching, my work on k-means clustering and spectral sparsification, and applications to distributed data analysis.
+
+Linear Regression and Pseudoinverse Cheatsheet, since there are a lot of ways to explain the pseudoinverse.
+
+Big-O and Asymptotic Notation Cheatsheet, just in case.
+
+Other Projects
+
+I've worked on a lot of projects, some more serious than others.
+
+I built this Rap Collaboration Graph, which gives a visualization of musical collaborations in hip hop. Unfortunately, colors are only rendering in Safari right now, it looks fuzzy on retina displays, and the data is about a year (10 years...) out of date. But I promise I'll get to it.
+
+I had a lot of fun helping build the first version of One Button Wenzel, a site that sold buffalo chicken sandwiches. It evolved into Crunchbutton, then devolved back into One Button Wenzel. Here is a screenshot of the original site in all its glory.
+
+In college I also had a lot of fun working on Yale's Formula Hydrid Racecar Team.
+
+I love to ski, and a long time ago, my brother Chris and I used to build custom skis. Our first pair had maple/poplar cores, varnished wood sidewalls, and flex comparable to a pair of 2x4s. Our second pair has more precisely shaped pine cores, an improved top sheet, and a much smoother flex. The tips delaminated once, but we riveted them together and still ski on them today! Here's an old forum post on SkiBuilders.com with more pictures of our setup.
+

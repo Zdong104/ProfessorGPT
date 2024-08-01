@@ -1,0 +1,148 @@
+Professor: Rahul Chatterjee 0001
+University: University of Wisconsin - Madison
+URL: https://pages.cs.wisc.edu/~chatterjee
+Description: 
+
+Rahul Chatterjee
+রাহুল চ্যাটার্জ্জী
+Assistant Professor
+Computer Sciences
+University of Wisconsin—Madison
+Office: CS 7373
+Email: rahul.chatterjee (at) wisc.edu
+
+Research Service Teaching
+
+I design secure systems to make digital technologies safe and secure for everyone. My research methodology combines empiricism with analytical techniques. Some of my recent research includes: designing secure and usable authentication systems, securing private data in trigger-action platforms, mitigating abuse of smart home devices by an abusive intimate partner, and building security mindset in CS undergraduate students. My CV can be found here. Also check out our Madison Security & Privacy group. I am always looking for self-motivated students who are interested in working on real-world digital security and privacy problems. If you have a relevant research idea and want to collaborate please drop me a note.
+
+With the help of a number of motivated students, we run Madison Tech Clinic (MTC) to support survivors of domestic and intimate partner violence who are experiencing technology-faciliated abuse. This is an initiative similar to CETA in NYC. We are looking for passionate volunteers for MTC. Please reach out to me if you are interested.
+
+Current Projects↑
+Improving User Authentication Systems (S&P '19, SPACE '20, USENIX '22, USENIX '22)
+
+Users regularly choose the same or similar passwords across multiple accounts. Therefore, attackers often use leaked password from one website to impersonate a user in other websites; this is called credential stuffing attack. A generalized version of such attack is what we call credential tweaking attack: an attacker uses a tailored list of guesses based on a previously leaked password for an account.
+
+We are working on building defenses against the risk of account compromise via credential tweaking attacks. We have shown how damaging credential tweaking attack can be using recurrant neurl networks (RNNs): 15% of user accounts can be guessed using credential tweaking attack in 1,000 guesses, despite the target passwords being different from the ones that are leaked to the attacker. We built a personalized password strength meeter, called PPSM, and a service for privately discovering vulnerable passwords Might I Get Pwned (MIGP).
+
+Mitigating Technology Abuse in Intimate Partner Violence (USENIX '23a, USENIX '23b, USENIX '23c)
+
+Digital technologies such as smartphone, laptops, smarthome devices, and even social networks are regularly abused to spy, stalk, and harass survivors of intimate partner violence (IPV). In this project we are trying to understand the ecosystem of such tools that are either built for or repurposed for harming survivors. We found thousands of apps, many of them what we call dual-use — apps built for some legitimate purpose, but their functionality can be easily used for spying on an intimate partner, on official Android and iOS application stores. There are plenty of resources in the form of blogposts, forums, and videos to help an abuser use these tools for spying. We surveyed apps in fifteen different languages and found similar trends in distribution and advertisement of spyware across the globe. Currently I am looking into how smarthome devices are used against survivors of IPV.
+
+We are running Madison Tech Clinic with Domestic Abuse Intervention Services (DAIS). I have helped create similar tech clinic in New York City in collaboration with End Domestic and Gender-based Violence (ENDGBV).
+
+Securing Smart-Home and Smart-Industry Device Communications (USENIX '22, IEEE S&P '21)
+
+Our physical environments are rapidly getting connected to the digital world. Smarthome devices are getting cheaper and easier to use by average users. While these devices allow easy automation of certain tasks, such as turn off the AC when everyone has left the home. However currently these automation tasks require the user to share sensitive in-home information with remote companies. We are working on securing this communication channels while maintaining the usefulness of smart-home devices and automation platforms.
+
+Instilling Security Mindset in Undergraduate CS Students (ICER '20, SIGCSE '21, SIGCSE '22)
+
+Undergraduate students in the US institutions can graudate with a CS degree without ever taking a computer security course. This is concerning as they will join the software developer workfoce that will write and maintain our cirtical infrastructure. We show that students not only lack knowledge of security, they don't even have some basic required skills, such as reading the function description details or understand a code snippet before copying it, to write secure code and identify potential security issues in a code. We are working on understanding how to educate students so that they have the required pieces to follow secure coding practices.
+
+Old Projects (click to show/hide)↑
+Publications ↑   
+For the ranking of computer security conferences see here.
+Acceptance rate of the IEEE S&P is around 12-14%, USENIX Security is 14-17%, ACM CCS is 18-20%, and Crypto is 22-24%, PoPETS 22-23%. More statistics can be found here.
+
+2024
+Naman Gupta, Kate Walsh, Sanchari Das, Rahul Chatterjee, "“I really just leaned on my community for support”: Barriers, Challenges, and Coping Mechanisms Used by Survivors of Technology-Facilitated Abuse to Seek Social Support", USENIX Security, 2024. (PDF)
+Yunang Chen, David Heath, Rahul Chatterjee, Earlence Fernandes, "Scalable Metadata-Hiding for Privacy-Preserving IoT Systems", Privacy Enhancing Technologies Symposium (PoPETS), 2024 (PDF)
+Majed Almansoori, Mazharul Islam, Saptarshi Ghosh, Mainack Mondal, Rahul Chatterjee, "The Web of Abuse: A Comprehensive Analysis of Online Resource in the Context of Technology-Enabled Intimate Partner Surveillance", IEEE European Symposium on Security and Privacy (EuroS&P), 2024. (PDF)
+Mazharul Islam, Sunpreet S. Arora, Rahul Chatterjee, Peter Rindal, Maliheh Shirvanian, "Compact: Approximating Complex Activation Functions for Secure Computation", Privacy Enhancing Technologies Symposium (PoPETS), 2024. (PDF)
+Naman Gupta, Sanchari Das, Kate Walsh, Rahul Chatterjee, "A Critical Analysis of the Prevalence of Technology-Facilitated Abuse in US College Students", ACM CHI 2024 Extend Abstract. (PDF)
+Asmita Pal, Keerthana Desai, Rahul Chatterjee, Joshua San Miguel, "Camouflage: Utility-Aware Obfuscation for Accurate Simulation of Sensitive Program Traces", ACM Transactions on Architecture and Code Optimization, 2024. (PDF)
+2023
+Rose Ceccio, Sophie Stephenson, Varun Chadha, Danny Yuxing Huang, Rahul Chatterjee, "Sneaky Spy Devices and Defective Detectors: The Ecosystem of Intimate Partner Surveillance with Covert Devices", USENIX Security, 2023. (PDF)
+Sophie Stephenson, Majed Almansoori, Pardis Emami-Naeini, Rahul Chatterjee, "“It’s the Equivalent of Feeling Like You’re in Jail”: Lessons from Firsthand and Secondhand Accounts of IoT-Enabled Intimate Partner Abuse", USENIX Security, 2023. (PDF)
+Sophie Stephenson, Majed Almansoori, Pardis Emami-Naeini, Danny Yuxing Huang, Rahul Chatterjee, "Abuse Vectors: A Framework for Conceptualizing IoT-Enabled Interpersonal Abuse", USENIX Security, 2023. (PDF)
+Avirup Mukherjee, Kousshik Murali, Shivam K Jha, Niloy Ganguly, Rahul Chatterjee, Mainack Mondal, MASCARA: Systematically Generating Memorable And Secure Passphrases, ASIA CCS, 2023. (PDF)
+Mazharul Islam, Marina Sanusi Bohuk, Paul Chung, Thomas Ristenpart, Rahul Chatterjee, Araña: Discovering and Characterizing Password Guessing Attacks in Practice, USENIX Security, 2023. (PDF)
+Majed Almansoori, Jessica Lam, Elias Fang, Adalbert Gerald Soosai Raj, Rahul Chatterjee, Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students, ACM SIGCSE TS 2023. (PDF)
+2022
+Majed Almansoori, Andy Gallardo, Julio Poveda, Adil Ahmed, Rahul Chatterjee, A Global Survey of Stalkerware Applications used in Intimate Partner Violence, PoPETS 2022 (PDF)
+Marina Sanusi Bohuk, Mazharul Islam, Suleman Ahmad, Michael Swift, Thomas Ristenpart, Rahul Chatterjee, Gossamer: Securely Measuring Password-based Logins, USENIX Security, 2022. (Acceptance rate 7% for new submissions.) (PDF)
+Media coverage: USENIX ;login:
+Yunang Chen, Yue Gao, Rose Ceccio, Rahul Chatterjee, Kassem Fawaz, and Earlence Fernandes Analyzing the Security of the Business Collaboration Platform App Model, USENIX Security 2022 (Acceptance rate 7% for new submissions.) (PDF), (Project page)
+Media coverage: USENIX ;login: WIRED
+Sophie Stephenson, Bijeeta Pal, Stephen Fan, Earlence Fernandes, Yuhang Zhao, Rahul Chatterjee, SoK: Authentication in Augmented and Virtual Reality, IEEE Symposium on Security and Privacy (S&P) (Oakland '22). (PDF)
+Bijeeta Pal, Mazharul Islam, Marina Sanusi, Nick Sullivan, Luke Valenta, Tara Whalen, Christopher Wood, Thomas Ristenpart, Rahul Chattejee, Might I Get Pwned: A Second Generation Compromised Credential Checking Service, (USENIX Security 2022). (PDF)
+News: The Cloudflare Blog.
+Jessica Lam, Elias Fang, Majed Almansoori, Rahul Chatterjee and Adalbert Gerald Soosai Raj Identifying Gaps in the Secure Programming Knowledge and Skills of Students, ACM SIGCSE TS 2022. (PDF)
+Yunang Chen, Mohannad Alhanahnah, Andrei Sabelfeld, Rahul Chatterjee, Earlence Fernandes, Practical Data Access Minimization in Trigger-Action Platforms, USENIX Security, 2022. (PDF)
+2021
+Sambhav Satija, Rahul Chatterjee, BlindTLS: Circumventing TLS-based HTTPS censorship, SIGCOMM 2021 Workshop on Free and Open Communications on the Internet.
+Athena Sayles, Ashish Hooda, Mohit Gupta, Rahul Chatterjee, Earlence Fernandes, Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect, CVPR '21. (PDF)
+Yunang Chen, Amrita Roy Chowdhury, Ruizhe Wang, Andrei Sabelfeld, Rahul Chatterjee, Earlence Fernandes, Data Privacy in Trigger-Action Systems, IEEE Symposium on Security and Privacy (S&P) (Oakland '21). (PDF)
+Majed Almansoori, Jessica Lam, Elias Fang, Adalbert Gerald Soosai Raj, and Rahul Chatterjee. Textbook Underflow Insufficient Security Discussions in Textbooks Used for Computer Systems Courses, ACM SIGCSE Technical Symposium (SIGCSE 2021). (PDF)
+2020
+Neal Pongmorrakot, Rahul Chatterjee. tPAKE: Typo-Tolerant Password-Authenticated Key Exchange, International Conference on Security, Privacy and Applied Cryptographic Engineering (SPACE 2020). (PDF)
+Majed Almansoori, Jessica Lam, Elias Fang, Kieran Mulligan, Adalbert Gerald Soosai Raj, and Rahul Chatterjee. 2020. How Secure are our Computer Systems Courses?, ACM Conference on International Computing Education Research (ICER '20). (PDF)
+2019
+Rahul Chatterjee, M. Sadegh Riazi, Tanmoy Chowdhury, Emanuela Marasco, Farinaz Koushanfar, and Ari Juels. Multisketches: Practical Secure Sketches Using Off-the-Shelf Biometric Matching Algorithms, ACM CCS 2019 (PDF)
+Lucy Li, Bijeeta Pal, Junade Ali, Nick Sullivan, Rahul Chatterjee, and Thomas Ristenpart, Protocols for Checking Compromised Credentials, ACM CCS 2019 (PDF)
+Diana Freed, Sam Havron, Emily Tseng, Andrea Gallardo, Rahul Chatterjee, Thomas Ristenpart, and Nicola Dell. "Is my phone hacked?" Analyzing Clinical Computer Security Interventions with Survivors of Intimate Partner Violence, ACM CSCW, 2019 (PDF) Honorable Mention for Best Paper
+Sam Havron, Diana Freed, Rahul Chatterjee, Damon McCoy, Nicola Dell, Thomas Ristenpart, Clinical Computer Security for Victims of Intimate Partner Violence, USENIX Security, 2019 (PDF)
+Media coverage: NY Times | Wirecutter
+Bijeeta Pal, Tal Daniel, Rahul Chatterjee, Thomas Ristenpart, Beyond Credential Stuffing: Password Similarity Models using Neural Networks, IEEE Symposium on Security and Privacy (S&P) — Oakland, 2019 (PDF)
+2018 and earlier
+Rahul Chatterjee, Periwinkle Doerfler, Hadas Orgad, Sam Havron, Jackeline Palmer, Diana Freed, Karen Levy, Nicola Dell, Damon McCoy, Thomas Ristenpart, The Spyware Used in Intimate Partner Violence, IEEE Symposium on Security and Privacy (S&P) — Oakland, 2018 (PDF, Slides (pptx), Slides (pdf), Talk at S&P '18, Project Page)
+Media coverage: The New York Times, Vox, Freedom to Tinker (Princeton CITP), CNN Espanol, SC Media, Global News , Security Baron.
+Rahul Chatterjee, Joanne Woodage, Yuval Pnueli, Anusha Chowdhury, Thomas Ristenpart, The TypTop System: Personalized Typo-tolerant Password Checking, ACM CCS 2017. (PDF, Slides (pptx), Slides (pdf), Talk at CCS '17, Project Page)
+Joanne Woodage, Rahul Chatterjee, Yevgeniy Dodis, Ari Juels, and Thomas Ristenpart, A New Distribution-Sensitive Secure Sketch and Popularity-Proportional Hashing. In Annual International Cryptology Conference (Crypto), 2017. (PDF)
+Rahul Chatterjee, Anish Athalye, Devdatta Akhawe, Ari Juels, Thomas Ristenpart, pASSWORD tYPOS and How to Correct Them Securely, IEEE Symposium on Security and Privacy (S&P) — Oakland, 2016. (PDF, Slides, Talk at S&P '16, Project Page) Distinguished Student Paper Award
+Media coverage: MIT Tech Review, Threat Post, Hacker News, and others.
+Adam Everspaugh, Rahul Chatterjee, Samuel Scott, Air Juels, Thomas Ristenpart, The Pythia PRF Service, USENIX Security, 2015. (PDF, Project Page)
+Used by: Virgil Security
+Rahul Chatterjee, Joseph Bonneau, Ari Juels, Thomas Ristenpart, Cracking-Resistant Password Vaults using Natural Language Encoders, IEEE Symposium on Security and Privacy (S&P) — Oakland, 2015. (PDF, Slides, Talk at S&P'15, Project Page)
+
+Media coverage: IT World, SSL.com .
+
+Students ↑
+PhD
+Majed Almansoori
+Mazharul Islam
+Sophie Stephenson
+Rose Ceccio
+Naman Gupta
+PhD Committee
+Anjali
+Kyuin Lee
+Asmita Pal
+Ryan Sheatsley
+Eric Pauley
+Masters
+Akhil Polamarasetty
+Undergraduate
+(BS, WISCERS 2021, Fa '21 - Sp '22)
+Michael Noguera
+Yiwei Chen
+Alumni
+Paul Chung (PhD, Sp '22 - Sp '24) --> PhD at UCSD
+Yunang Chen (PhD, Fa' 2023) --> Google
+Sneha Tripathi (BS, Fa'22 - Sp '23)
+Adil Ahmed (MS, Fa '21 - Fa '22) --> Figma
+Varun Chadha (MS, Fa '21 - Sp '22) -->
+Quinn Cassidy (BS, WISCERS 2021, Fa '21 - Sp '22)
+Sammuel Moon (BS, Fa '21 - Sp '22)
+Stephen Fan (BS, Fa '21)
+Katy Dong (BS, Fa '20 - Sp '21 --> MS at CMU)
+Yukun Li (BS, Fa '20 - Sp '21 --> MS at CMU)
+Ruizhe Wang (BS, Fa' 20 - Sp '21, --> MMath at Univ. of Waterloo)
+Athena Sayles (MS, Sp '20 - Sp '21, Co-advised with Earlence Fernandes)
+Suleman Ahmad (MS, Sp '20 - Sp '21, --> Cloudflare)
+Neal Pongmorrakot (BS, Sp '20 - Sp '21)
+Kieran Mulligan (BS, Fa '20)
+Deepak Srinath (MS, Fa '19 - Fa '20)
+Service ↑
+Program committee:
+2024 : IEEE S&P  ·   USENIX Security   ·  
+2023 : USENIX Security  ·   CCS  ·   PoPETS   ·  
+2022 : IEEE S&P   ·   USENIX Security  ·   PoPETS   ·   SafeThings   ·   SPACE
+2021 : IEEE S&P   ·   USENIX Security  ·   ACM CCS  ·   SafeThings
+2020 : IEEE S&P   ·   WAY   ·   EuroUSEC   ·   SPACE
+2019 : WAY
+Other reviewing works: JoC   ·   CHI
+Teaching ↑
+CS 642 (Introduction to Information Security) — Fall 2019   ·   Fall 2020   ·   Fall 2021   ·   Fall 2022   ·   Spring 2023
+CS 838 (Topics in Security and Privacy) — Spring 2020   ·   Spring 2021
+CS 782 (Advanced Computer Security and Privacy) — Fall 2022   ·   Spring 2024
+

@@ -1,0 +1,312 @@
+Professor: Zhihao Jia
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~zhihaoj2
+Description: Projects
+Teaching
+Awards
+Publications
+Experience
+Zhihao Jia
+
+Assistant Professor
+Computer Science Department
+Carnegie Mellon University
+zhihao@cmu.edu
+
+
+I am an assistant professor in the Computer Science Department at Carnegie Mellon University, where I work on computer systems and machine learning as part of CMU Catalyst Group and Parallel Data Lab. Before joining CMU, I was a research scientist at Facebook. I received my PhD from the Computer Science Department at Stanford University in 2020, where I was co-advised by Alex Aiken and Matei Zaharia. Before coming to Stanford, I received my bachelor degree in Computer Science from the Special Pilot CS Class supervised by Andrew Yao at Tsinghua University.
+
+Research interests: My research interests lie in the intersection of computer systems and machine learning (ML). In particular, my current research focuses on building efficient, scalable, and high-performance software systems for emerging ML applications, such as large language models and generative AI tasks.
+
+I am actively looking for strong and self-motivated students interested in building systems for machine learning and quantum computing to join my group.
+(1) Prospective students: if you are interested in working with me as a Ph.D. student, please apply through the CMU CS PhD program and mention me in your application.
+(2) Current CMU students: if you are already a graduate, masters, or undergraduate student at CMU, please send me an email and we can find a time to chat.
+(3) Prospective students not at CMU: if you are interested in joining my group for remote collaborations, please send me an email with your CV.
+
+
+Teaching
+15-442/642 Machine Learning Systems: spring 2024
+15-418/618 Parallel Computer Architecture: fall 2023
+15-418/618 Parallel Computer Architecture: spring 2023
+15-418/618 Parallel Computer Architecture: fall 2022
+15-849 Machine Learning Systems: spring 2022
+Projects
+
+Mirage is a superoptimizer that automatically generates highly-optimized GPU kernels for ML applications. Mirage can discover kernels up to 3.5x faster than the ones manually implemented by GPU experts.
+
+FlexFlow Serve is a compiler and distributed runtime for low-latency, high-performance LLM serving by leveraging tree-based speculative inference and verification.
+
+FlexFlow is a deep learning engine that accelerates distributed DNN training by automatically discovering fast parallelization strategies for a specific parallel machine.
+
+TASO is a Tensor Algebra SuperOptimizer for deep learning. It optimizes DNN computation graphs using automatically generated graph transformations, achieving up to 3x speedup over existing DNN frameworks. PET further extends TASO by leveraging partially equivalent transformations and automated corrections.
+
+Lux is a distributed multi-GPU system for high performance graph processing. Lux achieves fast graph processing by exploiting the aggregate memory bandwidth of multiple GPUs. Lux achieves up to 20x speedup over state-of-the-art graph processing systems.
+
+Quartz is a quantum circuit superoptimizer that automatically generates and verifies circuit transformations for arbitrary quantum gate sets. By using these auto-generated transformations, Quartz can outperform existing quantum circuit optimizers on a diversity of gate sets.
+
+Legion is a high performance programming system for heterogeneous, parallel machines with complex memory hierarchies.
+
+Awards
+ASPLOS Distinguished Artifact Award, 2024
+Samsung GRO Research Award, 2023
+Cisco Research Award, 2023
+Amazon Research Award, 2023
+NSF CAREER Award, 2023
+Meta Research Award, 2022
+Qualcomm Innovation Fellowship, 2022
+Amazon Research Award, 2022
+Google Faculty Research Award, 2022
+Stanford Arthur Samuel Best Doctoral Thesis Award, 2020
+Current Ph.D. and Postdoctoral Students
+Zhuoming Chen (with Beidi Chen)
+Zikun Li
+Gabriele Oliaro
+Mengdi Wu
+Mingkuan Xu (with Umut Acar)
+Zhihao Zhang
+Alumni
+Xupeng Miao (Postdoc, 2024, now Assistant Professor at Purdue)
+Byungsoo Jeon (PhD, 2024, now Software Engineer at Octo AI)
+Alan Zhu (BS, 2024, now PhD at Berkeley)
+Zhengxin Zhang (MS, 2024, now PhD at Cornell)
+Yue Zhao (PhD, 2023, now Assistant Professor at USC)
+Shiyi Cao (MS, 2023, now PhD at Berkeley)
+Yixuan Mei (BS, 2023, now PhD at CMU)
+Muyan Hu (BS, 2023, now PhD at UIUC)
+Jinjun Peng (BS, 2023, now PhD at Columbia)
+Ying Yee (Rae) Wong (BS, 2023, now Masters at Stanford)
+Andrew Gu (MS, 2022, now Software Engineer at Meta)
+Yuxuan (Eric) Zheng (MS, 2022, now Software Engineer at Citadel)
+Publications
+2024
+
+Atlas: Hierarchical Partitioning for Quantum Circuit Simulation on GPUs
+Mingkuan Xu, Shiyi Cao, Xupeng Miao, Umut Acar, and Zhihao Jia
+In Proceedings of the International Conference on Supercomputing (SC), November 2024.
+
+
+Quarl: A Learning-Based Quantum Circuit Optimizer
+Zikun Li, Jinjun Peng, Yixuan Mei, Sina Lin, Yi Wu, Oded Padon, and Zhihao Jia
+In Proceedings of the ACM on Programming Languages (OOPSLA), October 2024.
+
+
+Quantized Side Tuning: Fast and Memory-Efficient Tuning of Quantized Large Language Models
+Zhengxin Zhang, Dan Zhao, Xupeng Miao, Gabriele Oliaro, Qing Li, Yong Jiang, and Zhihao Jia
+In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), August 2024.
+Long Oral Presentation
+
+
+Accelerating Iterative Retrieval-augmented Language Model Serving with Speculation
+Zhihao Zhang, Alan Zhu, Lijie Yang, Yihua Xu, Lanting Li, Phitchaya Mangpo Phothilimthana, and Zhihao Jia
+In Proceedings of the International Conference on Machine Learning (ICML), July 2024.
+
+
+SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification
+Xupeng Miao*, Gabriele Oliaro*, Zhihao Zhang*, Xinhao Cheng*, Zeyu Wang, Zhengxin Zhang, Rae Ying Yee Wong, Alan Zhu, Lijie Yang, Xiaoxiang Shi, Chunan Shi, Zhuoming Chen, Daiyaan Arfeen, Reyna Abhyankar, and Zhihao Jia
+In Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2024.
+
+
+Optimal Kernel Orchestration for Tensor Programs with Korch
+Muyan Hu, Ashwin Venkatram, Shreyashri Biswas, Balamurugan Marimuthu, Bohan Hou, Gabriele Oliaro, Haojie Wang, Liyan Zheng, Xupeng Miao, Jidong Zhai, and Zhihao Jia
+In Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2024.
+
+
+SpotServe: Serving Generative Large Language Models on Preemptible Instances
+Xupeng Miao*, Chunan Shi*, Jiangfei Duan, Xiaoli Xi, Dahua Lin, Bin Cui, and Zhihao Jia
+In Proceedings of the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), April 2024.
+Distinguished Artifact Award
+
+
+Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances
+Jiangfei Duan*, Ziang Song*, Xupeng Miao*, Xiaoli Xi, Dahua Lin, Harry Xu, Minjia Zhang, and Zhihao Jia
+In Proceedings of the Symposium on Networked Systems Design and Implementation (NSDI), April 2024.
+
+
+2023
+
+Heterogeneity-Aware, Goodput-Optimized ML-Cluster Scheduling
+Suhas Jayaram Subramanya, Daiyaan Arfeen, Shouxu Lin, Aurick Qiao, Zhihao Jia, and Greg Ganger
+In Proceedings of the Symposium on Operating Systems Principles (SOSP), October 2023.
+
+
+TOD: GPU-accelerated Outlier Detection via Tensor Operations
+Yue Zhao, George Chen, and Zhihao Jia
+In Proceedings of the International Conference on Very Large Data Bases (VLDB), August 2023.
+
+
+SDPipe: A Semi-Decentralized Framework for Heterogeneity-aware Pipeline-parallel Training
+Xupeng Miao, Yining Shi, Zhi Yang, Bin Cui and Zhihao Jia
+In Proceedings of the International Conference on Very Large Data Bases (VLDB), August 2023.
+
+
+EinNet: Optimizing Tensor Programs with Derivation-Based Transformations
+Liyan Zheng, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, Shuhong Huang, Xupeng Miao, Shizhi Tang, Kezhao Huang, and Zhihao Jia
+In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI), July 2023.
+
+
+Building Verified Neural Networks for Computer Systems with Ouroboros
+Tianhao Wang, Zhihao Jia, Changliu Liu, and Cheng Tan
+In Proceedings of the Conference on Machine Learning and Systems (MLSys), June 2023.
+
+
+Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs
+John Thorpe*, Pengzhan Zhao*, Jonathan Eyolfson, Yifan Qiao, Zhihao Jia, Minjia Zhang, Ravi Netravali, and Guoqing Harry Xu
+In Proceedings of the Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
+
+
+TopoOpt: Optimizing the Network Topology for Distributed DNN Training
+Weiyang Wang, Moein Khazraee, Zhizhen Zhong, Zhihao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, and Manya Ghobadi
+In Proceedings of the Symposium on Networked Systems Design and Implementation (NSDI), April 2023.
+
+
+2022
+
+Benchmarking Node Outlier Detection on Graphs
+Kay Liu, Yingtong Dou, Yue Zhao, Xueying Ding, Xiyang Hu, Ruitong Zhang, Kaize Ding, Canyu Chen, Hao Peng, Kai Shu, Lichao Sun, Jundong Li, George H. Chen, Zhihao Jia, Philip S. Yu
+In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS), December 2022.
+
+
+Collage: Seamless Integration of Deep Learning Backends with Automatic Placement
+Byungsoo Jeon, Sunghyun Park, Peiyuan Liao, Sheng Xu, Tianqi Chen, and Zhihao Jia
+In Proceedings of the International Conference on Parallel Architectures and Compilation Techniques (PACT), October 2022.
+
+
+Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization
+Colin Unger*, Zhihao Jia*, Wei Wu, Sina Lin, Mandeep Baines, Carlos Efrain Quintero Narvaez, Vinay Ramakrishnaiah, Nirmal Prajapati, Pat McCormick, Jamaludin Mohd-Yusof, Xi Luo, Dheevatsa Mudigere, Jongsoo Park, Misha Smelyanskiy, and Alex Aiken
+In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI), July 2022.
+
+
+Quartz: Superoptimization of Quantum Circuits
+Mingkuan Xu, Zikun Li, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens Palsberg, Alex Aiken, Umut A. Acar, and Zhihao Jia
+In Proceedings of the Conference on Programming Language Design and Implementation (PLDI), June 2022.
+
+
+Software-Hardware Co-design for Fast and Scalable Training of Deep Learning Recommendation Models
+Dheevatsa Mudigere, et al.
+In Proceedings of the International Symposium of Computer Architecture (ISCA), Industry track, June 2022.
+
+
+GradSign: Model Performance Inference with Theoretical Insights
+Zhihao Zhang and Zhihao Jia
+In Proceedings of the International Conference on Learning Representations (ICLR), April 2022.
+
+
+2021
+
+PET: Optimizing Tensor Programs with Partially Equivalent Transformations and Automated Corrections
+Haojie Wang, Jidong Zhai, Mingyu Gao, Zixuan Ma, Shizhi Tang, Liyan Zheng, Yuanzhi Li, Kaiyuan Rong, Yuanyong Chen, and Zhihao Jia
+In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI), July 2021.
+
+
+Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs
+John Thorpe, Yifan Qiao, Jonathan Eyolfson, Shen Teng, Guanzhou Hu, Zhihao Jia, Jinliang Wei, Keval Voral, Ravi Netravali, Miryung Kim, and Guoqing Harry Xu
+In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI), July 2021.
+
+
+IOS: Inter-Operator Scheduler for CNN Acceleration
+Yaoyao Ding, Ligeng Zhu, Zhihao Jia, Gennady Pekhimenko, and Song Han
+In Proceedings of the Conference on Machine Learning and Systems (MLSys), April 2021.
+
+
+Scaling Implicit Parallelism via Dynamic Control Replication
+Michael Bauer, Wonchan Lee, Elliott Slaughter, Zhihao Jia, Mario Di Renzo, Manolis Papadakis, Galen Shipman, Pat McCormick, Michael Garland, and Alex Aiken.
+In Proceedings of the Principles and Practice of Parallel Programming (PPoPP), February 2021.
+
+
+2020
+
+Automated Discovery of Machine Learning Optimizations
+Zhihao Jia.
+Ph.D. Dissertation, September 2020.
+Stanford Arthur Samuel Best Doctoral Thesis Award
+
+
+Redundancy-Free Computation Graphs for Graph Neural Networks
+Zhihao Jia, Sina Lin, Rex Ying, Jiaxuan You, Jure Leskovec, and Alex Aiken.
+In Proceedings of the International Conference on Knowledge Discovery and Data Mining (KDD), San Diego, CA, August 2020.
+
+
+Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc
+Zhihao Jia, Sina Lin, Mingyu Gao, Matei Zaharia, and Alex Aiken.
+In Proceedings of the 3rd Conference on Machine Learning and Systems (MLSys), Austin, TX, March 2020.
+
+
+2019
+
+TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions
+Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, and Alex Aiken.
+In Proceedings of the Symposium on Operating Systems Principles (SOSP), Ontario, Canada, October 2019.
+
+
+Optimizing DNN Computation with Relaxed Graph Substitutions
+Zhihao Jia, James Thomas, Todd Warszawski, Mingyu Gao, Matei Zaharia, and Alex Aiken.
+In Proceedings of the 2nd Conference on Machine Learning and Systems (MLSys), Palo Alto, CA, April 2019.
+
+
+Beyond Data and Model Parallelism for Deep Neural Networks
+Zhihao Jia, Matei Zaharia, and Alex Aiken.
+In Proceedings of the 2nd Conference on Machine Learning and Systems (MLSys), Palo Alto, CA, April 2019.
+
+
+2018
+
+A Distributed Multi-GPU System for Fast Graph Processing
+Zhihao Jia, Yongkee Kwon, Galen Shipman, Pat McCormick, Mattan Erez, and Alex Aiken.
+In Proceedings of the International Conference on Very Large Data Bases (VLDB), Rio de Janeiro, Brazil, August 2018.
+
+Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks
+Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken.
+In Proceedings of the International Conference on Machine Learning (ICML), Stockholm, Sweden, July 2018.
+(Extended version with proofs.) Long Oral Presentation
+
+
+Isometry: A Path-Based Distributed Data Transfer System
+Zhihao Jia, Sean Treichler, Galen Shipman, Pat McCormick, and Alex Aiken.
+In Proceedings of the International Conference on Supercomputing (ICS), Beijing, China, June 2018.
+
+2017 and earlier
+
+Integrating External Resources with a Task-Based Programming Model
+Zhihao Jia, Sean Treichler, Galen Shipman, Mike Bauer, Noah Watkins, Carlos Maltzahn, Pat McCormick, and Alex Aiken.
+In Proceedings of the International Conference on High Performance Computing, Data, and Analytics (HIPC), Jaipur, India, December 2017.
+
+SLIK: Scalable Low-Latency Indexes for a Key-Value Store
+Ankita Kejriwal, Arjun Gopalan, Ashish Gupta, Zhihao Jia, Stephen Yang, and John Ousterhout.
+In Proceedings of the USENIX Annual Technical Conference (ATC), Denver, CO, June 2016.
+
+Automatic and Transparent I/O Optimization With Storage Integrated Application Runtime Support
+Noah Watkins, Zhihao Jia, Galen Shipman, Carlos Maltzahn, Alex Aiken and Pat McCormick.
+In Proceedings of the Parallel Data Storage Workshop (PDSW), Austin, TX, November 2015.
+
+Improving Integer Security for Systems with KINT
+Xi Wang, Haogang Chen, Zhihao Jia, Nickolai Zeldovich, and M. Frans Kaashoek.
+In Proceedings of the Symposium on Operating Systems Design and Implementation (OSDI), Hollywood, CA, October 2012.
+
+Undefined Behavior: What Happened to My Code?
+Xi Wang, Haogang Chen, Alvin Cheung, Zhihao Jia, Nickolai Zeldovich, and M. Frans Kaashoek.
+In Proceedings of the Asia-Pacific Workshop on Systems (APSys), Seoul, South Korea, July 2012.
+
+Education
+
+2013.9 - 2020.6: Ph.D. candidate at Stanford University
+
+
+2009.9 - 2013.6: B.Eng from Yao Class, Tsinghua University
+
+
+2012.1 - 2012.5: Exchange student at MIT
+
+Experience
+
+2016.6 - 2016.9: Research intern at Los Alamos National Lab
+Working with Galen Shipman and Pat McCormick
+
+2014.6 - 2014.9: Research intern at Microsoft Research Silicon Valley
+Working with Yuan Yu
+
+2012.6 - 2013.6: Research intern at Microsoft Research Asia
+Working with Jiaxing Zhang and Lidong Zhou
+
+2011.2 - 2012.1: Research intern at Microsoft Research Asia
+Working with Ming Wu and Lidong Zhou
+

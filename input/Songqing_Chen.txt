@@ -1,0 +1,86 @@
+Professor: Songqing Chen
+University: George Mason University
+URL: https://cs.gmu.edu/~sqchen
+Description: 	
+Songqing Chen
+Professor, IEEE Fellow
+Department of Computer Science
+George Mason University
+Office: 5319 Engineering Building
+Phone: 703-993-3176
+Fax: 703-993-1710
+Email: sqchen at gmu dot edu (replace at with @, dot with .)
+Biosketch
+Teaching
+CS 571: Operating Systems, Fall 2018
+Research Interests
+Internet Streaming and Content Delivery
+Internet Measurement and Modeling
+Mobile and Cloud Computing
+Network and System Security
+Distributed Systems
+SANG Seminars@Mason
+System and Networking Group Seminars@Mason.(invitation)
+Recent Publications (Publication List)
+Ruizhe Shi, Ruizhi Cheng, Bo Han, Yue Cheng, and Songqing Chen. "A Closer Look into IPFS: Accessibility, Content, and Performance". Proceedings of the the ACM SIGMETRICS / IFIP Performance 2024, Venice, Italy, June 10 - 14, 2024.
+
+Na Wang, Jin Zhou, Jie Li, Bo Han, Fei Li, and Songqing Chen. "HardenVR: Harassment Detection in Social Virtual Reality". Proceedings of the 31st IEEE Conference on Virtual Reality and 3D User Interfaces (VR 2024), Orlando, FL, March 16-21, 2024.
+
+Ruizhi Cheng, Erdem Murat, Lap-Fai Yu, Songqing Chen, and Bo Han. "Understanding Online Education in Metaverse: Systems and User Experience Perspectives". Proceedings of the 31st IEEE Conference on Virtual Reality and 3D User Interfaces (VR 2024), Orlando, FL, March 16-21, 2024.
+
+Yuyang Leng, Renyuan Liu, Hongpeng Guo, Songqing Chen, and Shuochao Yao. "ScaleFlow: Efficient Deep Vision Pipeline with Closed-Loop Scale-Adaptive Inference". Proceedings of the 31st ACM International Conference on Multimedia (MM'23), Ottawa, Canada, Oct. 29 - Nov. 3, 2023.
+
+Yuqi Fu, Li Liu, Haoliang Wang, Yue Cheng, and Songqing Chen. “Smart OS Scheduling for Serverless Functions”. Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'22), Dallas, TX, November 13 - 18, 2022. (Best Student Paper Finalist)
+
+Xu He, Shu Wang, Yunlong Xing, Pengbin Feng, Haining Wang, Qi Li, Songqing Chen, and Kun Sun. “BinProv: Binary Code Provenance Identification without Disassembly”. Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2022), Limassol, Cyprus, October 26 - 28, 2022.
+
+Ruizhi Cheng, Nan Wu, Matteo Varvello, Songqing Chen, and Bo Han. “Are We Ready for Metaverse? A Measurement Study of Social Virtual Reality Platforms”. Proceedings of the ACM Internet Measurement Conference (IMC’22), Nice, France, October 25 - 27, 2022.
+
+Jin Zhou, Na Li, Yao Liu, Shuochao Yao, and Songqing Chen. “Exploring Spherical Autoencoder for Spherical Video Content Processing”. Proceedings of the ACM International Conference on Multimedia (MM’22), Lisbon, Portugal, October 10 - 14, 2022.
+Recent Professional Activities
+Chair, IEEE Computer Society Technical Community on the Internet (TCI), 2019-2024
+
+Editorial Board: IEEE TPDS, IEEE IC, IEEE IoT-J, ACM TOIT
+
+Co-organizer, NSF CSR/NeTS 2019 Joint PI Meeting
+
+Conference Organizations
+TPC Co-Chair: ACM/IEEE SEC 2024 (please submit your work)
+General Chair: ICDCS 2021
+TPC Co-Chair: IEEE CIC 2020
+General Co-Chair: ACM/IEEE SEC 2019
+Finace Chair: ACM CoNEXT 2019
+Publication Co-Chair: SecureComm 2019
+
+Technical Program Committee Member
+KDD'2021, MM'2021, WWW'2021 (the Web Conference), CIKM'2021, MMSys'2021, CNS'2021, MM Asia'2021, WASA'2021, ICICS'2001, MetroCAD'2021, ICC'2021
+KDD'2020, MM'2020, INFOCOM'2020, WWW'2020 (the Web Conference), CIKM'2020, SEC'2020, MMSys'2020, CNS'2020, WASA'2020, MetroCAD'2020, ICC'2020
+KDD'2019, MM'2019, INFOCOM'2019, WWW'2019 (the Web Conference) NOSSDAV'2019, MMSys'2019, CNS'2019, WASA'2019, ICICS'2019
+KDD'2018, MM'2018, INFOCOM'2018, CIKM'2018, NOSSDAV'2018, MMSys'2018, CNS'2018, ICME'2018, ICCCN'2018, WASA'2018, NSS'2018, CLOUD'2018, ICICS'2018, HotEdge'2018
+
+Past Research Advisees
+Zili Zha, Ph.D., defended in July 2021, Facebook.
+Li Liu, Ph.D., defended in November 2020, Google.
+Mengbai Xiao, Ph.D., defended in May 2018, Qilu Young Professor of Computer Science at Shandong University.
+Wentao Chang, Ph.D., defended in May 2018, Google.
+An Wang, Ph.D., defended in April 2018, Assistant Professor of Computer Science at Case Western Reserve University (Google Faculty Research Award).
+Huangxin Wang, Ph.D., co-advising, defended in May 2017, Facebook.
+Mohammad Karami, Ph.D., co-advising, defended in May 2016, Google.
+Ming Zhang, M.S., May 2015, Amazon.
+Mohammed Hassan, Ph.D., defended in November 2014, Google.
+Xin Li, M.S., defended in April 2013, Samsung Research America Dallas.
+Yao Liu, Ph.D., defended in April 2013, Assistant Professor of ECE at Rutgers University (NSF CAREER Award).
+Kshitiz Bhattarai, M.S., December 2012, SAP Lab.
+Lei Liu, Ph.D., defended in December 2010, Vuclip.
+Dongyu Liu, Ph.D., defended in August 2009, MicroStrategy.
+Some Open Source Code
+ffmpeg360: It is a tool for rendering 360-degree videos and converting between projection types. Operations are performed on the GPU within a fork of the FFmpeg utility. Its GitHub repository is here. Please refer to our paper for more details.
+
+CAD (Content Assited Displaying for Mobile Device Power Saving): CAD for the online video calls is based on WebRTC. The implementation utilizes the GPU on mobile devices. Its GitHub repository is here. For more technical detail, please refer to our paper.
+
+UMON (User Defined Monitoring for SDN based networks): UMON implements a separate monitoring table that decouples monitoring from switching in the open vSwitches. Its GitHub repository is here. For more technical detail, please refer to our paper.
+
+XEN Scheduler: Cloud is subject to various side channel attacks due to underlying sharing of the physical resources. Our new schedulers can effectively mitigate such threats. Its GitHub repository is here. For more technical detail, please refer to our paper.
+
+rKube: Containers are widely used in clouds, but they often fail to deliver the anticipated performance with the allocated resources. Our new mechanism, rKube, can effectively address that on top of Kubernetes and Linux. Its GitHub repository is here. For more technical detail, please refer to our paper.
+

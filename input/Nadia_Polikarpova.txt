@@ -1,0 +1,178 @@
+Professor: Nadia Polikarpova
+University: Univ. of California - San Diego
+URL: https://cseweb.ucsd.edu/~npolikarpova
+Description: home projects team papers teaching activities
+nadia polikarpova
+Associate Professor
+Department of Computer Science and Engineering
+University of California, San Diego
+Office: CSE 3102
+Email: npolikarpova@ucsd.edu
+
+cv | google scholar | github | twitter
+
+I am an Associate Professor in the Computer Science and Engineering Department at the University of California, San Diego. I am a member of the Programming Systems group. I completed my PhD in 2014 at ETH Zurich (Switzerland), under the supervision of Bertrand Meyer. After that, I spent some time as a postdoc at MIT CSAIL, where I worked with Armando Solar-Lezama. I am a 2020 Sloan Fellow and a recipient of the 2020 Intel Rising Stars Award and the 2020 NSF CAREER Award. Since 2022, I am a member of the IFIP Working Group 2.8 on Functional Programming. My research interests are in program synthesis, program verification, and type systems.
+
+PROJECTS
+
+active projects:
+
+LEAP: validating AI-generated code with live programming [CHI'24] [code]
+
+older projects:
+
+Snippy: live programming by example in Python [UIST'20] [OOPSLA'21] [video] [demo] [code]
+Hoogle+: type-driven component-based synthesis for Haskell [POPL'20] [OOPSLA'20] [demo] [source]
+SuSLik: synthesis of heap-manipulating programs with separation logic [POPL'19] [PLDI'21] [CAV'21] [ICFP'21] [demo] [source]
+Lifty/STORM: information flow control with refinement types [ICFP'20] [OSDI'21] [demo]
+ReSyn: Synquid + resource types [PLDI'19] [ICFP'20] [demo] [source]
+Synquid: program synthesis from refinement types [PLDI'16] [demo] [source]
+AutoProof: an automated deductive verifier for programs that manipulate complex object structures [readme] [demo]
+EiffelBase2: a fully verified container library [source] [pdf]
+Boogaloo: a symbolic execution engine for Boogie [demo] [source]
+CITADEL: dynamic invariant inference meets Design-by-Contract [readme]
+
+TEAM
+
+current:
+
+Saketh Kasibatla (co-advised with Sorin Lerner)
+Cole Kurashige (co-advised with Ranjit Jhala)
+Emmanuel Anaya González
+Zheng (Aaron) Guo
+Shraddha Barke
+
+alumni:
+
+Kasra Ferdowsi (PhD 2024, then cubist)
+Michael James (PhD 2024)
+Rose Kunkel
+Tristan Knoth (PhD 2023, then jitx)
+Hila Peleg (postdoc, then faculty at Technion)
+John Sarracino (PhD 2021, then postdoc at Cornell)
+David Justo (MS 2020)
+Sourav Anand (MS 2019)
+
+PAPERS
+Superfusion: Eliminating Intermediate Data Structures via Inductive Synthesis, Ruyi Ji, Yuwei Zhao, Nadia Polikarpova, Yingfei Xiong, Zhenjiang Hu. PLDI'24. [extended]
+Validating AI-Generated Code with Live Programming, Kasra Ferdowsifard, Ruanqianqian Huang, Michael B. James, Nadia Polikarpova, Sorin Lerner. CHI'24. [arxiv]
+Solving Data-centric Tasks using Large Language Models, Shraddha Barke, Christian Poelitz, Carina Suzana Negreanu, Benjamin Zorn, José Cambronero, Andrew D. Gordon, Vu Le, Elnaz Nouri, Nadia Polikarpova, Advait Sarkar, Brian Slininger, Neil Toronto, Jack Williams. NAACL'24 Findings. [arxiv]
+ColDeco: An End User Spreadsheet Inspection Tool for AI-Generated Code, Kasra Ferdowsi, Jack Williams, Ian Drosos, Andrew D. Gordon, Carina Negreanu, Nadia Polikarpova, Advait Sarkar, Benjamin Zorn. VL/HCC'23. [pdf]
+Leveraging Rust Types for Program Synthesis, Jonáš Fiala, Shachar Itzhaky, Peter Müller, Nadia Polikarpova, Ilya Sergey. PLDI'23. Distinguished artifact award [pdf]
+Grounded Copilot: How Programmers Interact with Code-Generating Models, Shraddha Barke, Michael B. James, Nadia Polikarpova. OOPSLA'23. Distinguished paper award [pdf] [preprint]
+babble: Learning Better Abstractions with E-Graphs and Anti-Unification, David Cao, Rose Kunkel, Chandrakana Nandi, Max Willsey, Zachary Tatlock, Nadia Polikarpova. POPL'23. [pdf] [extended]
+Searching Entangled Program Spaces, James Koppel, Zheng Guo, Edsko de Vries, Armando Solar-Lezama, Nadia Polikarpova. ICFP'22. [pdf] [extended]
+Type-Directed Program Synthesis for RESTful APIs, Zheng Guo, David Cao, Davin Tjong, Jean Yang, Cole Schlesinger, Nadia Polikarpova. PLDI'22. [pdf] [extended]
+LooPy: Interactive Program Synthesis with Control Structures, Kasra Ferdowsifard, Shraddha Barke, Hila Peleg, Sorin Lerner, Nadia Polikarpova. OOPSLA'21. [pdf]
+Certifying the Synthesis of Heap-Manipulating Programs, Yasunari Watanabe, Kiran Gopinathan, George Pîrlea, Nadia Polikarpova, Ilya Sergey. ICFP'21. [pdf]
+Synthesis of Web Layouts from Examples, Dylan Lukes, John Sarracino, Cora Coleman, Hila Peleg, Sorin Lerner, Nadia Polikarpova. ESEC/FSE'21. [pdf]
+Deductive Synthesis of Programs with Pointers: Techniques, Challenges, Opportunities (Invited Paper), Shachar Itzhaky, Hila Peleg, Nadia Polikarpova, Reuben Rowe, Ilya Sergey. CAV'21. [pdf]
+STORM: Refinement Types for Secure Web Applications, Nico Lehmann, Rose Kunkel, Jordan Brown, Jean Yang, Niki Vazou, Nadia Polikarpova, Deian Stefan, Ranjit Jhala. OSDI'21. [pdf]
+Cyclic Program Synthesis, Shachar Itzhaky, Hila Peleg, Nadia Polikarpova, Reuben Rowe, Ilya Sergey. PLDI'21. Distinguished paper award [pdf] [extended]
+Just-in-Time Learning for Bottom-Up Enumerative Synthesis, Shraddha Barke, Hila Peleg, Nadia Polikarpova. OOPSLA'20. [pdf]
+Digging for Fold: Synthesis-Aided API Discovery for Haskell, Michael B. James, Zheng Guo, Ziteng Wang, Shivani Doshi, Hila Peleg, Ranjit Jhala, Nadia Polikarpova. OOPSLA'20. [pdf]
+Small-Step Live Programming by Example, Kasra Ferdowsifard, Allen Ordookhanians, Hila Peleg, Sorin Lerner, Nadia Polikarpova. UIST'20. [pdf] [video]
+Liquid Information Flow Control, Nadia Polikarpova, Deian Stefan, Jean Yang, Shachar Itzhaky, Travis Hance, Armando Solar-Lezama. ICFP'20. Distinguished paper award [pdf] [extended]
+Liquid Resource Types, Tristan Knoth, Adam Reynolds, Di Wang, Nadia Polikarpova, Jan Hoffman. ICFP'20. [pdf] [extended]
+Perfect is the Enemy of Good: Best-Effort Program Synthesis, Hila Peleg, Nadia Polikarpova. ECOOP'20. [pdf]
+Concise Read-Only Specifications for Better Synthesis of Programs with Pointers, Andreea Costea, Amy Zhu, Nadia Polikarpova, Ilya Sergey. ESOP'20. [pdf] [extended]
+Program Synthesis by Type-Guided Abstraction Refinement, Zheng Guo, Michael B. James, David Justo, Jiaxiao Zhou, Ziteng Wang, Ranjit Jhala, Nadia Polikarpova. POPL'20. [pdf] [extended]
+Constraint-based Learning of Phonological Processes, Shraddha Barke, Rose Kunkel, Nadia Polikarpova, Eric Meinhardt, Eric Bakovic, Leon Bergen. EMNLP'19. [pdf]
+Resource-Guided Program Synthesis, Tristan Knoth, Di Wang, Nadia Polikarpova, Jan Hoffman. PLDI'19. [pdf] [extended]
+Structuring the Synthesis of Heap-Manipulating Programs, Nadia Polikarpova, Ilya Sergey, POPL'19. Distinguished paper award [pdf]
+Automatic Synchronization for GPU Kernels, Sourav Anand, Nadia Polikarpova. FMCAD'18. [pdf]
+Synthesis of Recursive ADT Transformations, Jeevana Priya Inala, Nadia Polikarpova, Xiaokang Qiu, Benjamin S. Lerner, Armando Solar-Lezama. TACAS'17. [pdf]
+Program Synthesis from Polymorphic Refinement Types, Nadia Polikarpova, Ivan Kuraj, Armando Solar-Lezama. PLDI'16. [pdf] [extended] [slides]
+A Fully Verified Container Library, Nadia Polikarpova, Julian Tschannen, Carlo A. Furia. FM'15. Best paper award [pdf] Extended version in FAoC [pdf]
+AutoProof: Auto-active Functional Verification of Object-oriented Programs (Tool Paper), Julian Tschannen, Carlo A. Furia, Martin Nordio, Nadia Polikarpova. TACAS'15. [pdf]
+Extended version in STTT [pdf]
+Specified and Verified Reusable Components, Nadia Polikarpova. PhD Thesis. [pdf]
+Flexible Invariants Through Semantic Collaboration, Nadia Polikarpova, Julian Tschannen, Carlo A. Furia, Bertrand Meyer. FM'14. [pdf] [supplementary material]
+To Run What No One Has Run Before: Executing an Intermediate Verification Language, Nadia Polikarpova, Carlo A. Furia, Scott West. RV'13. [pdf] [supplementary material]
+What Good Are Strong Specifications? Nadia Polikarpova, Carlo A. Furia, Yu Pei, Yi Wei, Bertrand Meyer. ICSE'13. [pdf] [video] [supplementary material]
+Verified Calculations, K. Rustan M. Leino, Nadia Polikarpova. VSTTE'13. [pdf] [supplementary material]
+Verifying implementations of security protocols by refinement, Nadia Polikarpova, Michał Moskal. VSTTE'12. [pdf]
+The 1st Verified Software Competition: Experience Report, Vladimir Klebanov et. al. FM'11. Best paper award [pdf]
+Specifying Reusable Components, Nadia Polikarpova, Carlo A. Furia, Bertrand Meyer. VSTTE'10. [pdf]
+A comparative study of programmer-written and automatically inferred contracts, Nadia Polikarpova, Ilinca Ciupa, Bertrand Meyer. ISSTA'09. [pdf]
+TEACHING
+spring 2024	CSE 130: Programming Languages
+winter 2024	CSE 291: Program Synthesis
+fall 2023	CSE 130: Programming Languages
+spring 2023	CSE 130: Programming Languages
+winter 2023	CSE 291: Program Synthesis
+fall 2022	CSE 230: Programming Languages (graduate)
+spring 2022	CSE 130: Programming Languages
+winter 2022	CSE 291: Program Synthesis
+fall 2021	CSE 130: Programming Languages
+spring 2021	CSE 130: Programming Languages
+winter 2021	CSE 291: Program Synthesis
+fall 2020	CSE 130: Programming Languages
+spring 2020	CSE 130: Programming Languages
+winter 2020	CSE 291: Program Synthesis
+fall 2019	CSE 130: Programming Languages
+winter 2019	CSE 130: Programming Languages
+fall 2018	CSE 291: Program Synthesis
+spring 2018	CSE 130: Programming Languages
+fall 2017	CSE 291: Program Synthesis
+ACTIVITIES
+
+recent talks:
+
+2024	AI-Assisted Programming Today and Tomorrow (Keynote at PLDI) [slides]
+2023	How Programmers Interact with AI Assistants (Guest Lecture at UPenn) [slides]
+	Big Ideas in Program Synthesis (PLMW @ PLDI'23)
+	How Programmers Interact with AI Assistants (DL4Code @ ICLR'23, ASA @ PLDI'23) [slides]
+	Leveraging Rust Types for Program Synthesis (WG 2.8 2023) [slides]
+	Big Ideas in Program Synthesis (PLMW @ POPL'23) [slides]
+2022	Tutorial on Deductive Program Synthesis (Summer School on Neurosymbolic Programming) [slides]
+	Equality-Constrained Tree Automata (EGRAPHS 2022)
+	Learning Better Abstractions with E-Graphs and Anti-Unification (WG2.8 2022) [slides]
+	Hacking your CAREER (NSF CAREER Workshop 2022) [slides]
+2021	Synthesis of Safe Pointer-Manipulating Programs (EPFL)
+	Live Programming and Programming by Example: Better Together (Berkeley PL Seminar)
+	Generating Programs from Types (Haskell eXchange 2021) [video]
+	Synthesis of Safe Pointer-Manipulating Programs (Workshop on Dependable and Secure Software Systems, ETH Zurich) [slides] [video]
+	SuSLik: Synthesis of Safe Pointer-Manipulating Programs (Tutorial at CAV'21)
+	Synthesis of Safe Pointer-Manipulating Programs (Invited Talk at LICS/ITP'21) [slides] [video]
+	Synthesis of Safe Pointer-Manipulating Programs (Isaac Newton Institute Workshop on Verified Software: Tools and Experiments) [slides]
+	Liquid Information Flow Control (Chalmers Security Seminar) [slides]
+	Liquid Information Flow Control (WG2.8 2021) [slides]
+	Generating Programs from Types (Lambda Days 2021) [slides] [video]
+2020	Generating Programs from Types (Keynote at APLAS'20) [video]
+	Constraint Solvers for the Working PL Researcher (PLMW@ICFP) [slides] [video]
+	Program Synthesis (PL+HCI “Swimmer” School) [slides] [video]
+	Liquid Resource Types for Verification and Synthesis (Chalmers Seminar on Functional Programming) [slides] [video] [example: compress] [example: linear-time compress] [example: insertion sort] [example: insertion sort (fine-grained bound)]
+	Liquid Resource Types for Verification and Synthesis (WG2.8 2020) [slides]
+	SuSLik: Synthesis of Safe Pointer-Manipulating Programs (Invited talk at ADSL'20) [slides]
+	Synthesizing Programs from Types (Tutorial at POPL'20) [slides]
+2019	SuSLik: Synthesis of Safe Pointer-Manipulating Programs (Tutorial at FMCAD'19) [slides]
+	Generating Programs from Types (Harvey Mudd College) [slides]
+	Type-Driven Program Synthesis (Facebook Menlo Park and Google Brain) [slides]
+	Synthesis of Safe Pointer-Manipulating Programs (Purdue and University of Wisconsin) [slides]
+2018	Constraint Solvers for the Working PL Researcher (PLMW@ICFP) [slides] [video] [code] [code] [code]
+	Type-Driven Program Synthesis (Strangeloop) [slides] [video]
+
+program (co-)chair:
+
+2026	OOPSLA
+2022	Haskell
+2020	VSTTE
+2017	iFM
+
+program committees:
+
+2024	PLDI, Dafny
+2023	POPL, OOPSLA, HATRA, MAPS
+2022	PLDI, EGRAPHS
+2021	POPL, OOPSLA
+2020	ICFP, VMCAI, ADSL
+2019	PLDI, SecDev, HCVS, Haskell
+2018	OOPSLA, SYNT, POPL
+2017	CAV, SYNT
+2016	APLAS, FTfJP, SYNT, VSTTE, TAP, iFM, FESCA, VMCAI
+2015	PSI, FTfJP, FESCA
+2014	RV, FESCA.
+
+photo by Daniel Jackson
+

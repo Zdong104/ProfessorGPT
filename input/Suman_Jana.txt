@@ -1,0 +1,222 @@
+Professor: Suman Jana
+University: Columbia University
+URL: http://sumanj.info/
+Description: Suman Jana
+Home
+Classes
+Research papers
+Awards
+Students
+Google Scholar
+
+
+
+
+I am an associate professor in the department of computer science at Columbia University. My primary research interests are at the intersection of computer security and machine learning. More specifically, I am interested both in using machine learning to improve software security and in improving security and reliability of the machine learning models themselves. I also occasionally delve into software engineering and operating systems.
+
+Email: suman (AT) cs.columbia.edu
+
+Office: Mudd 412
+    500 W 120th St
+    New York
+    NY 10027
+
+
+
+
+Classes
+Spring 2024: Program Approx. & Reasoning (COMS E6998), Fall 2023: Security I (COMS W4181), Spring 2023: Program Analysis for Security (COMS W4195), Fall 2022: Security I (COMS W4181), Fall 2021: Security I (COMS W4181), Spring 2021: Security II (COMS W4182), Spring 2020: Continuous Logic Networks (COMS E6998),
+Fall 2019: Security I (COMS W4181), Spring 2019: COMS E6998, Fall 2018: Security I (COMS W4181),
+Fall 2017: Security Arch. & Eng. (COMS W4187) , Spring 2017: Secure Software Development: Theory and Practice (COMS W4995),
+Spring 2016: Advanced Topics in Network Security (COMS E6183).
+
+
+Papers
+2024
+Symmetry-Preserving Program Representations for Learning Code Semantics.
+K. Pei, W. Li, Q. Jin, S. Liu, S. Geng, L. Cavallaro, J. Yang, and S. Jana. ICML 2024 Spotlight
+Trustllm: Trustworthiness in large language models.
+L. Sun, Y. Huang, H. Wang, S. Wu, Q. Zhang, C. Gao, Y. Huang, et al. ICML 2024
+FOX: Coverage-guided Fuzzing as Online Stochastic Control.
+D. She, A. Storek, Y. Xie, S. Kweon, P. Srivastava, and S. Jana. CCS 2024
+PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses.
+C. Xiang, T. Wu, .S Dai, J. Petit, S. Jana,and P. Mittal. USENIX Security 2024
+Accurate Data Race Prediction in the Linux Kernel through Sparse Fourier Learning.
+G. Ryan, B. Cetin, Y. Lim, and S. Jana. OOPSLA 2024
+Beyond accuracy: Evaluating self-consistency of code large language models with IdentityChain.
+M. Min, Y. Ding, L. Buratti, S. Pujar, G. Kaiser, S. Jana, and B. Ray. ICLR 2024
+2023
+FreePart: Hardening Data Processing Software via Framework-based Partitioning and Isolation.
+A. Ahad, G. Wang, C.H. Kim, S. Jana, Z. Li, and Y. Kwon. ASPLOS 2023
+Precise Detection of Kernel Data Races with Probabilistic Lockset Analysis.
+G. Ryan, A. Shah, D. She, and S. Jana. S&P (Oakland) 2023
+Learning Approximate Execution Semantics from Traces for Binary Function Similarity.
+K. Pei, Z. Xuan, J. Yang, S. Jana, and B. Ray. TSE 2023
+2022
+General Cutting Planes for Bound-Propagation-Based Neural Network Verification.
+H. Zhang, S. Wang, K. Xu, L. Li, B. Li, S. Jana, C.J. Hsieh, and Z. Kolter. NeuRIPS 2022
+Winner of VNN-COMP'22
+MC2: Rigorous and Efficient Directed Greybox Fuzzing.
+A. Shah, D. She, S. Sadhu, K. Singal, P. Coffman, and S. Jana. CCS 2022
+Best Paper Award Honorable Mention
+NeuDep: Neural Binary Memory Dependence Analysis.
+K. Pei, D. She, M. Wang, S. Geng, Z. Xuan, Y. David, J. Yang, S. Jana, and B. Ray. FSE 2022
+A Branch and Bound Framework for Stronger Adversarial Attacks of ReLU Networks.
+H. Zhang, S. Wang, K. Xu, Y. Wang, S. Jana, C.J. Hsieh, Z. Kolter. ICML 2022
+Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis.
+D. She, A. Shah, and S. Jana. S&P (Oakland) 2022
+FUGIO: Automatic Exploit Generation for PHP Object Injection Vulnerabilities.
+S. Park, D. Kim, S. Jana, and S. Son. USENIX Security 2022
+2021
+Beta-CROWN: Efficient Bound Propagation with Per-neuron Split Constraints for Neural Network Robustness Verification.
+S. Wang, H. Zhang, K. Xu, X. Lin, S. Jana, C.J. Hsieh, Z. Kolter. NeuRIPS 2021
+Winner of VNN-COMP'21
+Learning Security Classifiers with Verified Global Robustness Properties.
+Y. Chen, S. Wang, Y. Qin, X. Liao, S. Jana, and D. Wagner. CCS 2021
+Best Paper Award Runner-Up
+StateFormer: Fine-Grained Type Recovery from Binaries using Generative State Modeling.
+K. Pei, J. Guan, M. Broughton, Z. Chen, S. Yao, D. Williams-King, V. Ummadisetty, J. Yang, B. Ray, and S. Jana. FSE 2021
+DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols.
+J. Yao, R. Tao, R. Gu, J. Nieh, S. Jana, and G. Ryan. OSDI 2021
+OSDI Jay Lepreau best paper award
+Fast and Complete: Enabling Complete Neural Network Verification with Rapid and Massively Parallel Incomplete Verifiers.
+K. Xu, H. Zhang, S. Wang, Y. Wang, S. Jana, X. Lin, and C.J. Hsieh. ICLR 2021
+Fine Grained Dataflow Tracking with Proximal Gradients.
+G. Ryan, A. Shah, D. She, K.Bhat, and S. Jana. USENIX Security 2021
+Cost-Aware Robust Tree Ensembles for Security Applications.
+Y. Chen, S. Wang, W. Jiang, A. Cidon, and S. Jana. USENIX Security 2021
+AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads.
+H. Lee, J. Lee, D. Kim, S. Jana, I. Shin, and S. Son. USENIX Security 2021
+XDA: Accurate, Robust Disassembly with Transfer Learning.
+K. Pei, J. Guan, D. Williams-King, J. Yang, and S. Jana. NDSS 2021
+2020
+HYDRA: Pruning Adversarially Robust Neural Networks.
+V. Sehwag, S. Wang, P. Mittal, and S. Jana. NeuRIPS 2020.
+Ensuring Fairness Beyond the Training Data.
+D. Mandal, S. Deng, S. Jana, J. Wing, and D. Hsu. NeuRIPS 2020.
+MTFuzz: Fuzzing with a Multi-Task Neural Network.
+D. She, R. Krishna, L. Yuan, S. Jana, and B. Ray. FSE 2020.
+Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks.
+J.Yao, G. Ryan, J. Wong, S. Jana, and R. Gu. PLDI 2020.
+CLN2INV: Learning Loop Invariants with Continuous Logic Networks.
+G. Ryan, J. Wong, J. Yao, R. Gu, and S. Jana. ICLR 2020.
+On Training Robust PDF Malware Classifiers.
+Y. Chen, S. Wang, D. She, and S. Jana. USENIX Security 2020.
+Neutaint: Efficient Dynamic Taint Analysis with Neural Networks.
+D. She, Y. Chen, A. Shah, B. Ray, and S. Jana. S&P (Oakland) 2020.
+2019
+NEUZZ: Efficient Fuzzing with Neural Program Smoothing.
+D. She, K. Pei, D. Epstein, J. Yang, B. Ray, and S. Jana. S&P (Oakland) 2019. [NEUZZ code]
+Finalist in 2019 NYU CSAW Applied Research Competition
+Certified Robustness to Adversarial Examples with Differential Privacy
+M. Lecuyer, V. Atlidakis, R. Geambasu, D. Hsu, and S. Jana. S&P (Oakland) 2019. (corrects error in proceedings version) [PixelDP code]
+Enhancing Gradient-based Attacks with Symbolic Intervals
+S. Wang, Y. Chen, A. Abdou, S. Jana. ICML Workshop on Security and Privacy of Machine Learning 2019 (Oral presentation).
+2018
+Efficient Formal Safety Analysis of Neural Networks.
+S. Wang, K. Pei, J. Whitehouse, J. Yang, and S. Jana. NIPS 2018. [Neurify code]
+MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation.
+S. Pailoor, A. Aday, and S. Jana. USENIX Security 2018. [MoonShine code, MoonShine integration with Syzkaller]
+Formal Security Analysis of Neural Networks using Symbolic Intervals.
+S. Wang, K. Pei, J. Whitehouse, J. Yang, and S. Jana. USENIX Security 2018. [ReluVal code]
+DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.
+Y. Tian, K. Pei, S. Jana, and B. Ray. ICSE 2018. [DeepTest code]
+2017
+DeepXplore: Automated Whitebox Testing of Deep Learning Systems.
+K. Pei, Y. Cao, J. Yang, and S. Jana. SOSP 2017. [DeepXplore code]
+SOSP 2017 Best Paper Award, CACM Research Highlight 2019
+Publicity: IEEE spectrum, TNW, techradar, tws, hcanews, Newsweek, the morning paper, The Fortelix Blog, Metadata, The Spider's Web.
+SlowFuzz: Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities.
+T. Petsios, J. Zhao, A. D. Keromytis, and S. Jana. CCS 2017.
+NEZHA: Efficient Domain-independent Differential Testing.
+T. Petsios, A. Tang, S. Stolfo, A. D. Keromytis, and S. Jana. S&P (Oakland) 2017. [Bibtex, Nezha code]
+2nd place in 2017 NYU CSAW Applied Research Competition
+HVLearn: Automated Black-box Analysis of Hostname Verification in SSL/TLS Implementations.
+S. Sivakorn, G. Argyros, K. Pei, A. D. Keromytis, and S. Jana. S&P (Oakland) 2017. [Bibtex, HVLearn code]
+2016
+SFADiff: Automated Evasion Attacks and Fingerprinting Using Blackbox Differential Automata Learning.
+G. Argyros, I. Stais, S. Jana, A. D. Keromytis, and A. Kiayias. CCS 2016. [Bibtex, lightbulb framework code]
+APEx: Automated Inference of Error Specifications for C APIs.
+Y. J. Kang, B. Ray, and S. Jana. ASE 2016. [Bibtex, Slides(pptx), APEx code]
+Automatically Detecting Error Handling Bugs using Error Specifications.
+S. Jana, Y. J. Kang, S. Roth, and B. Ray. USENIX Security 2016. [Bibtex, Slides(pptx), EPEx code]
+2015
+Recommendations for Randomness in the Operating System or, How to Keep Evil Children out of Your Pool and Other Random Facts.
+H. Corrigan-Gibbs and S. Jana. HotOS 2015. [Bibtex]
+No Escape From Reality: Security and Privacy of Augmented Reality Browsers.
+R. McPherson, S. Jana, and V. Shmatikov. WWW 2015. [Bibtex]
+Rethinking Security of Web-Based System Applications.
+M. Georgiev, S. Jana, and V. Shmatikov. WWW 2015. [Bibtex]
+2014
+Password Managers: Attacks and Defenses.
+D. Silver, S. Jana, E. Chen, C. Jackson, and D. Boneh. USENIX Security 2014. [Bibtex, Slides(pptx)] Publicity: Reddit, Schneier on Security, Learning Tree, Mac Performance Guide.
+Using Frankencerts for Automated Adversarial Testing of Certificate Validation in SSL/TLS Implementations.
+C. Brubaker, S. Jana, B. Ray, S. Khurshid, and V. Shmatikov. S&P (Oakland) 2014. [Bibtex, Frankencert code, Slides(pptx)]
+S&P 2014 Best Practical Paper Award. Publicity: Reddit, Golem, Heise.
+Breaking and Fixing Origin-Based Access Control in Hybrid Web/Mobile Application Frameworks.
+M. Georgiev, S. Jana, and V. Shmatikov. NDSS 2014. [Bibtex, NoFrak code, Apache Cordova integration, Slides(pdf)]
+2013
+Enabling Fine-Grained Permissions for Augmented Reality Applications With Recognizers.
+S. Jana, D. Molnar, A. Moshchuk, A. M. Dunn, B. Livshits, H. J. Wang, and E. Ofek. Usenix Security 2013. [Bibtex, Slides(pptx)]
+A Scanner Darkly: Protecting User Privacy from Perceptual Applications.
+S. Jana, A. Narayanan, and V. Shmatikov. S&P (Oakland) 2013. [Bibtex, Slides(pptx), Our freedom to tinker post]
+2014 PET Award Winner. Publicity: VPN Creative, Alcalde.
+Operating System Support for Augmented Reality Applications.
+L. D'Antoni, A. Dunn, S. Jana, T. Kohno, B. Livshits, D. Molnar, A. Moshchuk, E. Ofek, F. Roesner, S. Saponas, M. Veanes, and H. J. Wang. HotOS 2013. [Bibtex]
+2012
+Memento: Learning Secrets from Process Footprints.
+S. Jana and V. Shmatikov. S&P (Oakland) 2012. [Bibtex, Slides(pptx)]
+S&P 2012 Best Student Paper Award. Publicity: CACM, Mocana.
+Abusing File Processing in Malware Detectors for Fun and Profit.
+S. Jana and V. Shmatikov. S&P (Oakland) 2012. [Bibtex, Slides(pptx)]
+The Most Dangerous Code in the World: Validating SSL Certificates in Non-Browser Software.
+M. Georgiev, S. Iyengar, S. Jana, R. Anubhai, D. Boneh, and V. Shmatikov. CCS 2012. [FAQ, Bibtex]
+2012 NYU-Poly AT&T Best Applied Security Paper Award. Publicity: Ars Technica, Threatpost, Hacker News, Slashdot, Schneier, Reddit, LWN.net, The H, SC Magazine, Softpedia, Heise, it republik, Webwereld, Security.nl, Punto Informatico, root.cz, xakep.ru, SecurityLab.ru.
+Eternal Sunshine of the Spotless Machine: Protecting Privacy with Ephemeral Channels.
+A. M. Dunn, M. Z. Lee, S. Jana, S. Kim, M. Silberstein, Y. Xu, V. Shmatikov, and E. Witchel. OSDI 2012. [Bibtex, Slides(pptx)]
+2013 PET Award Runner-up.
+2011 and older
+TxBox: Building Secure, Efficient Sandboxes with System Transactions.
+S. Jana, D. E. Porter, and V. Shmatikov. S&P (Oakland) 2011. [Bibtex, Slides( keynote, quicktime, pdf)]
+EVE: Verifying Correct Execution of Cloud-Hosted Web Applications.
+S. Jana and V. Shmatikov. HotCloud 2011. [Bibtex, Slides(keynote, quicktime, pdf)]
+On the Effectiveness of Secret Key Extraction from Wireless Signal Strength in Real Environments.
+S. Jana, S. N. Premnath, M. Clark, S. K. Kasera, N. Patwari, and S. V. Krishnamurthy. MOBICOM 2009. [Bibtex, Slides(pdf)]
+On Fast and Accurate Detection of Unauthorized Wireless Access Points Using Clock Skews.
+S. Jana and S. K. Kasera. MOBICOM 2008. [Bibtex, Slides( pdf )]
+A complete list of my papers can be found at Google Scholar. Please feel free to contact me if you have any question or feedback.
+
+
+Students
+PhD: Kexin Pei (co-advised with Junfeng Yang), Shiqi Wang, Dongdong She, Gabriel Ryan, Abhishek Shah.
+
+Postdoc: Yizheng Chen
+BS: Ruoxin (Amy) Jiang (CRA Outstanding Undergraduate Honorable Mentionee in 2017), Joshua Michael Zweig, Daniel Schwartz, John Hui, Jason Zhao, and Justin A. Whitehouse (CRA Outstanding Undergraduate Honorable Mentionee in 2018).
+Student collaborators: George Argyros, Yuan Jochen Kang, Theofilos Petsios, Suphannee Sivakorn, and Adrian Tang.
+
+
+Security advisories & open source outreach
+Our research has resulted in reporting and fixing of more than 250 high-impact security vulnerabilities across a wide range of software.
+
+Recent awards & honors
+2021 OSDI best paper award
+2019 NSF CAREER Award
+2019 CACM Research Highlight
+2018 ARO Young Investigator Award
+2nd and 3rd places in 2018 NYU CSAW Applied Research Competition
+2017 SOSP best paper award
+2017 Google Faculty Research Award
+2nd place in 2017 NYU CSAW Applied Research Competition
+2014 PET Award for Outstanding Research in Privacy Enhancing Technologies
+IEEE S&P 2014 Best Practical Paper Award
+Runner-up for the 2013 PET Award for Outstanding Research in Privacy Enhancing Technologies
+IEEE S&P 2012 Best Student Paper Award
+2012 NYU-Poly AT&T Best Applied Security Paper Award
+Google U.S./Canada Fellowship in Security (2012-2014)
+MCD Fellowship (2009-2012)
+
+
+
+Links
+Google Scholar profile, GitHub profile, LinkedIn profile, DBLP profile.
+

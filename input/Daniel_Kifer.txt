@@ -1,0 +1,188 @@
+Professor: Daniel Kifer
+University: Pennsylvania State University
+URL: http://www.cse.psu.edu/~duk17
+Description: Dan Kifer
+	Professor
+Department of Computer Science & Engineering
+Penn State
+333W Westgate Building (formerly IST)
+University Park, PA 16802
+
+Fax: 814-865-7647
+Research Interests
+Literally everything. My recent projects include statistical privacy (e.g., differential privacy) and its interactions with software security, statistical inference, and numerical optimization. I have also been exploring deep learning algorithms and applications to the physical sciences as well as image processing. I have a particular interest in working with social science data, hence am a collaborator with the U.S. Census Bureau and am serving on the Committee for National Statistics (CNSTAT).
+
+Recruiting
+I am looking for PhD and Masters applicants for projects on statistical privacy. The type of skills that are useful in this area include applied math, probability, programming languages, and database systems.
+
+Teaching (current courses)
+CMPSC/DS 410: Programming Models for Big Data (there are TA opportunities for Masters students with experience in Hadoop and Spark)
+Publications
+The list below is out of date. Fortunately, Google Scholar and DBLP have updated lists.
+Old Publications
+Songshan Yang Jiawei Wen Xiang Zhan Daniel Kifer. ET-Lasso: A New Efficient Tuning of Lasso-type Regularization for High-Dimensional Data. KDD 2019.
+Corina Graif, Brittany Freelin, Yu-Hsuan Kuo, Hongjian Wang, Zhenhui Li, Daniel Kifer. Network spillovers and neighborhood crime: A computational statistics analysis of employment-based networks of neighborhoods [preprint]. To appear in Justice Quarterly, 2019.
+
+Consistency with External Knowledge: The TopDown Algorithm. Talk at Simons Workshop "Data Privacy: From Foundations to Applications", March 4-8, 2019.
+
+Yuxin Wang, Zeyu Ding, Guanhong Wang, Daniel Kifer, Danfeng Zhang. Proving Differential Privacy with Shadow Execution. To appear in PLDI 2019.
+
+Anand Gopalakrishnan, Ankur Mali, Daniel Kifer, Lee Giles, Alexander Ororbia. A Neural Temporal Model for Human Motion Prediction. To appear in CVPR 2019.
+
+Yue Wang, Daniel Kifer, Jaewoo Lee. Differentially Private Confidence Intervals for Empirical Risk Minimization. Journal of Privacy and Confidentiality 9(1), 2019.
+
+Chen Chen, Jaewoo Lee, Daniel Kifer. Renyi Differentially Private ERM for Smooth Objectives. AISTATS 2019.
+
+Xiao Yang, Madian Khabsa, Miaosen Wang, Wei Wang, Ahmed Hassan Awadallah, Daniel Kifer, C. Lee Giles. Adversarial Training for Community Question Answer Selection Based on Multi-scale Matching. AAAI'19.
+
+Dafang He, Xiao Yang, Daniel Kifer, C. Lee Giles. TextContourNet: a Flexible and Effective Framework for Improving Scene Text Detection Architecture with a Multi-task Cascade. WACV 2019.
+
+A Simple Baseline for Travel Time Estimation using Large-scale Trip Data
+Hongjian Wang, Xianfeng Tang, Yu-Hsuan Kuo, Daniel Kifer, Zhenhui Li
+ACM Transactions on Intelligent Systems and Technology (TIST) - Survey Papers and Regular Papers, 2019
+
+Yue Wang, Daniel Kifer, Jaewoo Lee, Vishesh Karwa. Statistical Approximating Distributions Under Differential Privacy . Journal of Privacy and Confidentiality 8(1), 2018.
+
+Chaopeng Shen, Eric Laloy, Amin Elshorbagy, Adrian Albert, Jerad Bales, Fi-John Chang, Sangram Ganguly, Kuo-Lin Hsu, Daniel Kifer, Zheng Fang, Kuai Fang, Dongfeng Li, Xiaodong Li, and Wen-Ping Tsai HESS Opinions: Incubating deep-learning-powered hydrologic science advances as a community . Hydrology and Earth System Sciences. 2018.
+
+Zeyu Ding, Yuxin Wang, Guanhong Wang, Danfeng Zhang, Daniel Kifer. Toward Detecting Violations of Differential Privacy. CCS 2018.
+Winner of CCS 2018 Oustanding Paper Award.
+
+Yu-Hsuan Kuo, Zhenhui Li, Daniel Kifer. Detecting Outliers in Data with Correlated Measures. CIKM 2018.
+
+Yu-Hsuan Kuo, Cho-Chun Chiu, Daniel Kifer, Michael Hay, Ashwin Machanavajjhala. Differentially Private Hierarchical Count-of-Counts Histograms.. PVLDB 2018.
+
+Jaewoo Lee, Daniel Kifer. Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget.. KDD 2018.
+
+Hongjian Wang, Daniel Kifer, Corina Graif, and Zhenhui Li. Non-Stationary Model for Crime Rate Inference Using Modern Urban Data,. IEEE Transactions on Big Data (TBD'17), Volume PP, Issue 99, Dec 22 2017.
+
+Alexander G. Ororbia II and C. Lee Giles and Daniel Kifer. Unifying Adversarial Training Algorithms with Flexible Deep Data Gradient Regularization Neural Computation (29)4. 2017.
+
+Omar Montasser, Daniel Kifer. Predicting Demographics of High-Resolution Geographies with Geotagged Tweets. AAAI 2017.
+
+Ryan Rogers, Daniel Kifer. A New Class of Private Chi-Square Hypothesis Tests. AISTATS 2017.
+
+Dafang He, Xiao Yang, Chen Liang, Zihan Zhou, Alexander G. Ororbia II, Daniel Kifer, C. Lee Giles. Multi-scale FCN with Cascaded Instance Aware Segmentation for Arbitrary Oriented Word Spotting in the Wild.. CVPR 2017.
+
+Xiao Yang, Ersin Yumer, Paul Asente, Mike Kraley, Daniel Kifer, C. Lee Giles. Learning to Extract Semantic Structure from Documents Using Multimodal Fully Convolutional Neural Networks. CVPR 2017.
+
+Xiao Yang, Dafang He, Zihan Zhou, Daniel Kifer, C. Lee Giles. Improving Offline Handwritten Chinese Character Recognition by Iterative Refinement. ICDAR 2017
+
+Dafang He, Scott Cohen, Brian L. Price, Daniel Kifer, C. Lee Giles. Multi-Scale Multi-Task FCN for Semantic Page Segmentation and Table Detection.. ICDAR 2017.
+
+Xiao Yang, Dafang He, Zihan Zhou, Daniel Kifer, C. Lee Giles. Learning to Read Irregular Text with Attention Mechanisms. IJCAI 2017.
+
+Xiao Yang, Dafang He, Wenyi Huang, Alexander Ororbia, Zihan Zhou, Daniel Kifer, C. Lee Giles. Smart Library: Identifying Books on Library Shelves Using Supervised Deep Learning for Scene Text Reading. JCDL 2017.
+
+Kuai Fang, Chaopeng Shen, Daniel Kifer, Xiao Yang. Prolongation of SMAP to Spatiotemporally Seamless Coverage of Continental U.S. Using a Deep Learning Neural Network. Geophysical Research Letters. October 2017.
+
+Influential paper award at the 2017 IEEE International Conference on Data Engineering.
+
+Danfeng Zhang and Daniel Kifer. LightDP: Towards Automating Differential Privacy Proofs. POPL 2017.
+
+Dafang He, Xiao Yang, Wenyi Huang, Zihan Zhou, Daniel Kifer, C.Lee Giles. Aggregating Local Context for Accurate Scene Text Detection. ACCV 2016.
+
+Wenyi Huang, Dafang He, Xiao Yang, Zihan Zhou, Daniel Kifer, C. Lee Giles. Detecting Arbitrary Oriented Text in the Wild with a Visual Attention Model. ACM Multimedia 2016.
+
+Hongjian Wang, Yu-Hsuan Kuo, Daniel Kifer, Zhenhui Li. A simple baseline for travel time estimation using large-scale trip data. SIGSPATIAL 2016.
+
+Crime Rate Inference with Big Data
+Hongjian Wang, Daniel Kifer, Corina Graif, Zhenhui Li
+KDD '16 Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016
+
+Tse-Chuan Yang, Daniel Kifer, Stephen A. Matthews. Multiple imputations of subregions with censored location data: A Kullback-Leibler divergence approach. International Conference on Computational Social Science. 2016.
+
+Tse-Chuan Yang, Daniel Kifer, and Stephen A. Matthews. Facilitating analysis of censored geospatial data: A primer on restricted data using the Kullback-Leibler divergence approach. Conference on Geospatial Approaches to Cancer Control and Population Sciences (NCI). 2016.
+
+Jaewoo Lee and Daniel Kifer. Postprocessing for Iterative Differentially Private Algorithms. ICML Workshop on Theory and Practice of Differential Privacy. 2016.
+
+Yue Wang and Jaewoo Lee and Daniel Kifer. Differentially Private Hypothesis Testing, Revisited. 2016.
+
+Vishesh Karwa, Daniel Kifer and Aleksandra Slavkovic Private posterior distributions from variational approximations. NIPS workshop on Learning and Privacy with Incomplete Data and Weak Supervision. 2015 (arXiv Link)
+
+Maximum Likelihood Postprocessing for Differential Privacy under Consistency Constraints
+Jaewoo Lee, Yue Wang, Daniel Kifer
+KDD '15 Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015
+
+On Estimating the Swapping Rate for Categorical Data
+Daniel Kifer
+KDD '15 Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2015
+
+Information Measures in Statistical Privacy and Data Processing Applications
+Bing-Rong Lin, Daniel Kifer
+ACM Transactions on Knowledge Discovery from Data (TKDD), 2015
+
+Designing statistical privacy for your data
+Ashwin Machanavajjhala, Daniel Kifer
+Communications of the ACM, 2015
+
+Bing-Rong Lin and Daniel Kifer. On Arbitrage-free Pricing for General Data Queries. Proceedings of the VLDB (PVLDB) 2014.
+
+Bing-Rong Lin and Daniel Kifer Towards a Systematic Analysis of Privacy Definitions. Journal of Privacy and Confidentiality, vol 5, no. 2. 2014.
+
+Pufferfish: A framework for mathematical privacy definitions
+Daniel Kifer, Ashwin Machanavajjhala
+ACM Transactions on Database Systems (TODS), 2014
+
+Bing-Rong Lin and Daniel Kifer Geometry of Privacy and Utility. IEEE GlobalSIP Symposium on Cyber-Security and Privacy 2013.
+
+Extraction of statistically significant malware behaviors
+Sirinda Palahan, Domagoj Babić, Swarat Chaudhuri, Daniel Kifer
+ACSAC '13 Proceedings of the 29th Annual Computer Security Applications Conference, 2013
+
+Information preservation in statistical privacy and bayesian estimation of unattributed histograms
+Bing-Rong Lin, Daniel Kifer
+SIGMOD '13 Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data, 2013
+
+Bing-Rong Lin and Daniel Kifer. Reasoning About Privacy Using Axioms. Asilomar 2012
+
+with Adam Smith and Abhradeep Thakurta. Private Convex Empirical Risk Minimization and High-dimensional Regression. COLT 2012.
+
+Daniel Kifer and Ashwin Machanavajjhala. A Rigorous and Customizable Framework for Privacy. PODS 2012. (Full version with proofs)
+
+Daniel Kifer and Bing-Rong Lin. An Axiomatic View of Statistical Privacy and Utility. Journal of Privacy and Confidentiality, volume 4, issue 1, 2012.
+
+Daniel Kifer and Ashwin Machanavajjhala. No Free Lunch in Data Privacy. SIGMOD 2011.
+
+Qi He, Daniel Kifer, Jian Pei, Prasenjit Mitra, C. Lee Giles. Citation Recommendation without Author Supervision. WSDM 2011.
+
+Bi Chen, Leilei Zhu, Daniel Kifer and Dongwon Lee. What is Opinion About? Exploring Political Standpoints using Opinion Scoring Model. AAAI 2010.
+
+Daniel Kifer and Bing-Rong Lin. Towards an Axiomatization of Statistical Privacy and Utility. PODS 2010. (acm link)(slides)
+
+Qi He, Jian Pei, Daniel Kifer, Prasenjit Mitra, C. Lee Giles. Context-aware Citation Recommendation. WWW 2010.
+
+Bee-Chung Chen, Daniel Kifer, Kristen LeFevre, Ashwin Machanavajjhala. Privacy-Preserving Data Publishing. Foundations and Trends in Databases, NOW publishers, 2009. (official link)
+
+Daniel Kifer. Attacks on Privacy and de Finetti's Theorem. SIGMOD 09. code
+
+Daniel Kifer. Change Detection on Streams. Encyclopedia of Database Systems, Springer 2009.
+
+Parag Agrawal, Daniel Kifer, Christopher Olston. Scheduling Shared Scans of Large Data Files. Proceedings of the 34th International Conference on Very Large Databases (VLDB 2008).
+
+Ashwin Machanavajjhala, Daniel Kifer, John Abowd, Johannes Gehrke, and Lars Vilhuber. Privacy: Theory meets Practice on the Map. Proceedings of the 24th International Conference on Data Engineering (ICDE 2008) The technique presented in this paper is currently being used by the US Census Bureau for OnTheMap V3
+
+David Martin, Daniel Kifer, Ashwin Machanavajjhala, Johannes Gehrke, and Joseph Halpern. Worst-Case Background Knowledge for Privacy-Preserving Data Publishing. Proceedings of the 23rd International Conference on Data Engineering (ICDE 2007).
+
+Ashwin Machanavajjhala, Daniel Kifer, Johannes Gehrke, and Muthuramakrishnan Venkitasubramaniam. l-Diversity: Privacy Beyond k-Anonymity. ACM Transactions on Knowledge Discovery from Data (TKDD). Volume 1, Issue 1, March 2007.
+
+Daniel Kifer, J. E. Gehrke, Injecting Utility into Anonymized Datasets. Proceedings of the 2006 ACM SIGMOD International Conference on Management of Data (SIGMOD 2006).
+
+Ashwin Machanavajjhala, Johannes Gehrke, Daniel Kifer, and Muthuramakrishnan Venkitasubramaniam. l-Diversity: Privacy Beyond k-Anonymity. Proceedings of the 22nd IEEE International Conference on Data Engineering (ICDE 2006), Atlanta Georgia, April 2006.
+
+Daniel Kifer, Shai Ben-David, and Johannes Gehrke. Detecting Change in Data Streams. Proceedings of the 30th International Conference on Very Large Data Bases (VLDB 2004). Toronto, Canada. August 2004.
+
+Manuel Calimlim, Jim Cordes, Alan Demers, Julia Deneva, Johannes Gehrke, Dan Kifer, Mirek Riedewald, and Jayavel Shanmugasundaram. A Vision for PetaByte Data Management and Analysis Services for the Arecibo Telescope. Bulletin of the Technical Committee on Data Engineering, IEEE Computer Society. Volume 27, Number 4, December 2004.
+
+Daniel Kifer, J. E. Gehrke, Cristian Bucila, Walker White. How to Quickly Find a Witness. Constraint-based mining and inductive databases. Editors: Jean-Francois Boulicaut, Luc de Raedt, Heikki Mannila. Lecture Notes in Computer Science. 2004.
+
+Cristian Bucila, J. E. Gehrke, Daniel Kifer, and Walker White. DualMiner: A Dual-Pruning Algorithm for Itemsets with Constraints. Data Mining and Knowledge Discovery (Special Issue: Selected Papers from the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining -- Part I), Vol. 7, Issue 4, July 2003, pages 241-272.
+
+Daniel Kifer, J. E. Gehrke, Cristian Bucila, Walker White. How to Quickly Find a Witness. Proceedings of the 22nd ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems (PODS 2003). San Diego, CA, June 2003
+
+Cristian Bucila, J. E. Gehrke, Daniel Kifer, and Walker White. DualMiner: A Dual-Pruning Algorithm for Itemsets with Constraints. Proceedings of the Eighth ACM SIGKDD Internation Conference on Knowledge Discovery and Data Mining. Edmonton, Alberta, Canada, July 2002.
+
+Data Science Resources:
+KDnuggets - Big Data, Data Mining, Data Science, and Machine Learning Resources
+Kaggle - Machine learning contests
+

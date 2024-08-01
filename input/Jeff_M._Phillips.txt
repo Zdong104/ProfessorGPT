@@ -1,0 +1,659 @@
+Professor: Jeff M. Phillips
+University: University of Utah
+URL: http://www.cs.utah.edu/~jeffp
+Description: Jeff M Phillips
+Professor, Kahlert School of Computing, University of Utah
+BS Computer Science, Rice University (2003)
+BA Mathematics, Rice University (2003)
+Ph.D. Computer Science, Duke University (2009)
+CI Postdoctoral Fellow, School of Computing, University of Utah (2009-2011)
+
+
+Founder Utah Center for Data Science.
+Director of Data Science Program in the School of Computing, including the Graduate Program in Data Science.
+Faculty Co-Director One U Data Science Hub.
+part of Utah DB Group.
+
+Senior Research Fellow at ScaDS.AI in University of Leipzig.
+Visitor at MPI for Mathematics in the Sciences.
+Students | Teaching | Books | Funding | News | External Service | Publications | Bio
+U of Utah Address:
+50 S Central Campus Dr. 3190
+Salt Lake City, UT 84112
+(801) 585-7775 (office)
+(801) 581-5843 (fax)
+
+Email: jeffp|at|cs.utah.edu
+Office: 3404 Merril Engineering Building
+CV: CV
+
+Research Interests:
+Algorithms for Big Data Analytics: Geometric Data Analysis, Computational Geometry, Coresets and Sketches, Handling Uncertainty, Data Mining, Databases, Machine Learning, Spatial Statistics.
+
+Students:
+
+Mingxuan Han (PhD) started 2018
+Peter Jacobs (PhD) started 2019
+Meysam Alishahi (PhD) started 2022
+Foad Namjoo (PhD) started 2023
+
+Former Students
+
+Teaching:
+
+I am on sabbatical Fall 2023 and Spring 2024, and will not be teaching.
+In Fall 2024, I am teaching a High-Dimensional Data Analysis (details forthcoming)
+old:
+Foundations of Data Analysis (Math for Data) | Fall 2022 | Fall 2021 | Fall 2020 | Fall 2019 | Fall 2017 | Fall 2016
+Data Mining | Spring 2020 | Spring 2019 | Spring 2018 | Spring 2017 | Spring 2016 | Spring 2015 | Spring 2014 | Spring 2013 | Spring 2012
+Ethics in Data Science (CS/DS 3390) | Spring 2021
+Probability and Statistics for Engineers | Spring 2023 | Fall 2014
+Data Mining Seminar | Spring 2015 (Matrix Sketching) | Fall 2013 (MCMD) | Fall 2012 (sampling) | Fall 2010 (uncertainty)
+Data Science Seminar | Spring 2023 | Fall 2021 | Fall 2020 | Spring 2020 | Spring 2019 | Spring 2018 | Spring 2017 | Spring 2016 | Fall 2014 | Spring 2014 | Spring 2012
+Models of Computation for Massive Data | Fall 2013 | Fall 2011
+
+Books:
+Mathematical Foundations for Data Analysis Springer-Nature 2021.
+
+Funding: Noisy Geometric Data Analysis | Persistent Data Summaries | Interactive and Online Sampling and Analytics | Extracting Models from Reactive Flow Data |
+previous: Big Data Summaries | STORM : Spatio-Temporal Data | SEAL : Secure Cloud Analytics | Detecting Spectrum Offenders |
+News and notes:
+
+I organized (with Alex Munteanu) the CG-Week (which includes SOCG) Workshop on Geometry and Machine Learning. It took place June 13, 2024 in Athens, Greece. I also co-organized previous iterations in 2023, 2022, 2021, 2019, 2018, 2017, and 2016.
+
+
+Tao Yang (joining Amazon) and Benwei Shi (joining Meta) defended their PhDs in late Fall 2023.
+
+I was co-PC Chair for SoCG 2024.
+
+I am spending Fall 23 - Spring 24 on sabbatical in Leipzig, Germany at SCaDS.AI, Uni Leipzig, and MPI for Math in Sciences.
+
+I was promoted to (Full) Professor in Summer 2023.
+
+Prince Osei Aboagye (joining Visa Research) defended his PhD in Summer 2023.
+
+Zhuoyue Zhao (joining U Bufallo as Assistant Prof) and Zhao Chang (joining Xidan University as faculty) both defneded their PhDs in Spring/Summer 2020. Both were coadvised by Feifei Li.
+
+My "Math for Data" book Mathematical Foundation for Data Analysis is published by Springer and also available on Amazon.
+
+I helped form a new university center, the Utah Center for Data Science. It launched in October 2019, and I am the founding director.
+
+I helped create a new undergraduate major, a Bachelors of Science in Data Science. It launched in Fall 2019, and I am the director.
+
+I post and live-stream many videos of my lectures on Youtube. They now appear on the Utah Data Youtube Channel. Older versions are here and here.
+Selected Program Committees:
+SoCG 2024 (co-PC Chair), 2021, 2016, SODA 2024, 2015, ICDT 2024, 2017, ICDE 2022 (Demo Co-Chair), 2014, FWCG 2021, 2014, 2012, ESA (track A) 2021, 2013, (track B) 2017, ICALP 2020, NeurIPS 2018, 2019, 2020, 2021, AIStats 2018, 2019, 2020, 2021, SIGSPATIAL 2017 2018, 2019, and 2020, PODS 2017, 2015 ICDT 2017, CG:YRF 2016, ICDE 2016, MASSIVE 2014, CIKM 2013, KDD 2012.
+Selected Journal Service:
+Editorial Board Computing in Geometry and Topology (2021 - ).
+Action Editor Transactions on Machine Learning Research (2023 - ).
+Associate Editor IEEE Transactions on Knowledge and Data Engineering (2016 - 2020),
+Associate Editor SIAM Journal of Scientific Computing, Special Issue for Software and Big Data (2014 - 2016).
+Publications: (DBLP, Google Scholar, Semantic Scholar, ArXiv)
+
+No Dimensional Sampling Coresets for Classification.
+     Meysam Alishahi and Jeff M. Phillips. International Conference on Machine Learning (ICML) (Spotlight). July 2024.
+     arXiv:2402.05280. February 2024.
+
+
+Linear Distance Metric Learning with Noisy Labels.
+     Meysam Alishahi, Anna Little, and Jeff M. Phillips. Journal of Machine Learning Research (JMLR). April 2024.
+     arXiv:2306.03173. June 2023.
+
+
+Mitigating Exploitation Bias in Learning to Rank with an Uncertainty-aware Empirical Bayes Approach.
+     Tao Yang, Cuize Han, Chen Luo, Parth Gupta, Jeff M. Phillips, and Qingyao Ai. The Web Conference. May 2024.
+     arXiv:2305.16606. May 2023.
+
+
+Sketching Multidimensional Time Series for Fast Discord Mining.
+     Chin-Chia Michael Yeh, Yan Zheng, Menghai Pan, Huiyuan Chen, Zhongfang Zhuang, Junpeng Wang, Liang Wang, Wei Zhang, Jeff M. Phillips, and Eamonn Keogh. IEEE International Conference on Big Data. December 2023.
+
+
+Locally Adaptive and Differentiable Regression.
+     Mingxuan Han, Varun Shankar, Jeff M. Phillips, Chenglong Ye. Journal of Machine Learning for Modeling and Computing 4(4):103-122. 2023.
+     arXiv:2308.07418. August 2023.
+
+
+VERB: Visualizing and Interpreting Bias Mitigation Techniques for Word Representations.
+     Archit Rathore, Sunipa Dev, Jeff M. Phillips, Vivek Srikumar, Yan Zheng, Chin-Chia Michael Yeh, Junpeng Wang, Wei Zhang, and Bei Wang. ACM Transactions on Interactive Intelligent Systems (accepted). 2023.
+     arXiv:2104.02797. April 2021.
+     KDD21 Tutorial
+
+
+Ferret: Reviewing Tabular Datasets for Manipulation.
+     Devin Lange, Shaurya Sahai, Jeff M. Phillips, and Alexander Lex. 25th EG Conference on Visualization (EuroVis). June 2023.
+     OSF.IO/anj8v. December 2022.
+
+
+Interpretable Debiasing of Vectorized Language Representations with Iterative Orthogonalization.
+     Prince Osei Aboagye, Yan Zheng, Jack Shunn, Chin-Chia Michael Yeh, Junpeng Wang, Zhongfang Zhuang, Huiyuan Chen, Liang Wang, Wei Zhang, and Jeff Phillips. International Conference on Learning Representations (ICLR). April 2023.
+
+
+An Experimental Study On Classifying Spatial Trajectories.
+     Hasan Pourmahmood-aghababa and Jeff M. Phillips. Knowledge and Information Systems (KAIS). December 2022.
+     arXiv:2209.01322. September 2022.
+
+
+Batch Multi-Fidelity Active Learning with Budget Constraints.
+     Shibo Li, Jeff Phillips, Xin Yu, Robert Kirby, Shandian Zhe. Neural Information Processing Systems (NeurIPS). December 2022.
+     arXiv:2210.12704. October 2022.
+
+
+Local Kernel Ridge Regression for Scalable, Interpolating, Continuous Regression.
+     Mingxuan Han, Chenglong Ye, Jeff M. Phillips. Transactions on Machine Learning Research (TMLR). October 2022.
+
+
+Quantized Wasserstein Procrustes Alignment of Word Embedding Spaces.
+     Prince Osei Aboagye, Yan Zheng, Chin-Chia Michael Yeh, Junpeng Wang, Zhongfang Zhuang, Huiyuan Chen, Liang Wang, Wei Zhang, Jeff M. Phillips. Association for Machine Translation in the Americas (AMTA). September 2022.
+
+
+Using Existential Theory of the Reals to Bound VC Dimension.
+     Austin Watkins and and Jeff M. Phillips. Canadian Conference on Computational Geometry (CCCG). August 2022.
+
+
+Normalization of Language Embeddings for Cross-Lingual Alignment.
+     Prince Osei Aboagye, Yan Zheng, Chin-Chia Michael Yeh, Junpeng Wang, Wei Zhang, Liang Wang, Hao Yang, and Jeff M. Phillips. International Conference on Learning Representations (ICLR). April 2022.
+
+
+Self-Adaptable Point Processes with Nonparametric Time Decays.
+     Zhimeng Pan, Zheng Wang, Jeff M. Phillips, and Shandian Zhe. Neural Information Processing Systems (NeurIPS). December 2021.
+
+
+Approximate Maximum Halfspace Discrepancy.
+     Michael Matheny and Jeff M. Phillips. International Symposium on Algorithms and Computation (ISAAC). December 2021.
+     arXiv:2106.13851. June 2021.
+
+
+Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.
+     Sunipa Dev, Masoud Manajatipoor, Anaelia Ovalle, Arjun Subramonian, Jeff M. Phillips, and Kai-Wei Chang. Conference on Emperical Methods in Natural Language Processing (EMNLP). November 2021.
+    arXiv:2108.12084. August 2021.
+
+
+OSCaR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings.
+     Sunipa Dev, Tao Li, Jeff M Phillips, and Vivek Srikumar. Conference on Emperical Methods in Natural Language Processing (EMNLP). November 2021.
+    arXiv:2007.00049. July 2020.
+
+
+Constrained Non-Affine Alignment of Embeddings.
+     Yuwei Wang, Yan Zheng, Yanqing Peng, Michael Yeh, Zhongfang Zhuang, Das Mahashweta, Bendre Mangesh, Feifei Li, Wei Zhang, and Jeff M. Phillips. International Conference on Data Mining (ICDM). December 2021.
+    arXiv:1910.05862. September 2021.
+
+
+Capturing Intent behind Selection In Scatterplot Visualizations.
+     Kiran Gadhave, Jochen Gortler, Zach Cutler, Carolina Nobre, Oliver Deussen, Miriah Meyer, Jeff M. Phillips, and Alexander Lex. Information Visualization. August 2021.
+    OSF Preprint. January 2020.
+
+
+Practical and Configurable Network Traffic Classification Using Probabilistic Machine Learning.
+     Jiahui Chen, Joe Breen, Jeff M. Phillips, Jacobus Van der Merwe. Cluster Computing, DOI 10.1007/s10586-021-03393-2; accepted August 2021.
+     arXiv:2107.06080. July 2021.
+
+
+Finding an Approximate Mode of a Kernel Density Estimate.
+     Jasper C.H. Lee, Jerry Li, Christopher Musco, Jeff M. Phillips, and Wai Ming Tai. European Symposium on Algorithms (ESA). September 2021.
+     arXiv:1912.07673. December 2019.
+     talk on YouTube
+
+
+Orientation-Preserving Vectorized Distance Between Curves.
+     Jeff M Phillips and Hasan Pourmahmood-Aghababa. Mathematical and Scientific Machine Learning (MSML). August 2021.
+     arXiv:2007.15924. July 2020.
+
+
+Spatial Independent Range Sampling.
+     Dong Xie, Jeff M. Phillips, Michael Matheny, and Feifei Li. ACM Symposium on Management of Data (SIGMOD). June 2021.
+
+
+At-the-time and Back-in-time Persistent Sketches.
+     Benwei Shi, Zhuoyue Zhao, Yanqing Peng, Feifei Li, and Jeff M. Phillips. ACM Symposium on Management of Data (SIGMOD). June 2021.
+
+
+Efficient Oblivious Query Processing for Range and kNN Queries.
+     Zhao Chang, Dong Xie, Feifei Li, Jeff M. Phillips, and Rajeev Balasubramanian. Transactions on Knowledge and Data Engineering (TKDE). accepted February 2021.
+
+
+A Deterministic Streaming Sketch for Ridge Regression.
+     Benwei Shi and Jeff M. Phillips. International Conference on Artificial Intelligence and Statistics (AIStats). April 2021.
+     arXiv:2002.02013. February 2020.
+
+
+Semantic Embedding for Regions of Interest.
+     Debjyoti Paul, Jeff M. Phillips, and Feifei Li. Very Large Data Bases Journal (VLDBJ). February 2021. (https://doi.org/10.1007/s00778-020-00647-0)
+
+
+Inferencing Hourly Traffic Volume using Data-Driven Machine Learning and Graph Theory.
+     Zhiyan Yi, Xiaoyue Cathy Liu, Nikola Markovic, and Jeff M. Phillips. Computers, Environment and Urban Systems, Vol 85. January 2021.
+
+
+The GaussianSketch for Almost Relative Error Kernel Distance.
+     Jeff M. Phillips and Wai Ming Tai. International Conference on Randomization and Computation (RANDOM). August 2020.
+    arXiv:1811.04136. December 2019.
+
+
+Scalable Spatial Scan Statistics for Trajectories.
+     Michael Matheny, Dong Xie, and Jeff M. Phillips. ACM Transactions on Knowledge Discovery from Data (TKDD) 14(6) no. 73. September 2020.
+    arXiv:1906.01693. June 2019.
+
+
+Sketched MinDist.
+     Jeff M. Phillips and Pingfan Tang. International Symposium on Computational Geometry (SOCG). June 2020.
+    arXiv:1907.02171. July 2019. talk on YouTube
+
+
+On Measuring and Mitigating Biased Inferences of Word Embeddings.
+     Sunipa Dev, Tao Li, Jeff M. Phillips and Vivek Srikumar. AAAI Conference on Artificial Intelligence (AAAI). February 2020.
+    arXiv:1908.09369. August 2019.
+
+
+Simple Distances for Trajectories via Landmarks.
+     Jeff M. Phillips and Pingfan Tang. ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL). November 2019.
+    arXiv:1804.11284. June 2019.
+
+
+The Kernel Spatial Scan Statistic.
+     Mingxuan Han, Michael Matheny, and Jeff M. Phillips. ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL). November 2019.
+    arXiv:1906.09381. June 2019.
+
+
+Closed Form Word Embedding Alignment. (KAIS Special Issue for ICDM 2019)
+     Sunipa Dev, Saffia Hassan, and Jeff M. Phillips. Knowledge and Information Systems. January 2021.
+     International Conference on Data Mining (ICDM). November 2019.
+    arXiv:1806.01330. June 2018.
+
+
+On the VC Dimension of Metric Balls under Frechet and Hausdorff Distances.
+     Anne Driemel, Andre Nusser(*), Jeff M. Phillips, Ioannis Psarros.
+    Discrete & Computational Geometry (DCG) accepted 2021.
+    International Symposium on Computational Geometry (SoCG). June 2019.
+    arXiv:1903.03211. November 2019 (*: adds upper bound with Hausdorff in high dimensions, Andre Nusser added as co-author).
+
+
+Independent Range Sampling, Revisited Again.
+     Peyman Afshani and Jeff M. Phillips. International Symposium on Computational Geometry (SoCG). June 2019.
+    arXiv:1903.08014. March 2019.
+
+
+Attenuating Bias in Word Vectors.
+     Sunipa Dev and Jeff M. Phillips. International Conference on Artificial Intelligence and Statistics (AIStats). April 2019.
+    arXiv:1901.07656. January 2019.
+
+
+Computing Approximate Statistical Discrepancy.
+     Michael Matheny and Jeff M. Phillips. International Symposium on Algorithm and Computation (ISAAC). December 2018.
+    arXiv:1804.11287. April 2018.
+
+
+Toward Classifying Unknown Application Traffic.
+     Ryan Baker, Ren Quinn, and Jeff M. Phillips, Jacobus (Kobus) Van der Merwe. DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security (DYNAMICS) Workshop. December 2018.
+
+
+Improved Bounds on Information Dissemination by Manhattan Random Waypoint Model.
+     Aria Rezaei, Jie Gao, Jeff M. Phillips, and Csaba D. Toth. ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL). November 2018.
+    arXiv:1809.07392. September 2018.
+
+
+Practical Low-Dimensional Halfspace Range Space Sampling.
+     Michael Matheny and Jeff M. Phillips. European Symposium on Algorithms (ESA). September 2018.
+    arXiv:1804.11307. April 2018.
+
+
+Approximating the Distribution of the Median and other Robust Estimators on Uncertain Data.
+     Kevin Buchin, Jeff M. Phillips and Pingfan Tang. International Symposium on Computational Geometry (SOCG). June 2018.
+    arxiv:1601.00630. January 2016.
+
+
+Near-Optimal Coresets of Kernel Density Estimates. (Invited to DCG Special Issue)
+     Jeff M. Phillips and Wai Ming Tai. International Symposium on Computational Geometry (SOCG). June 2018.
+    Discrete & Computational Geometry (DCG) 63, 867--887, 2020.
+    arxiv:1802.01751. February 2018.
+
+
+Fully Convolutional Structured LSTM Networks for Joint 4D Medical Image Segmentation.
+     Yang Gao, Jeff M. Phillips, Yan Zheng, Renqiang Min, P. Thomas Fletcher, and Guido Gerig. IEEE International Symposium on Biomedical Imaging (ISBI). April 2018.
+
+
+Improved Coresets for Kernel Density Estimates.
+     WaiMing Tai and Jeff M. Phillips. 29th Annual ACM-SIAM Symposium on Discrete Algorithms (SoDA). January 2018.
+    arxiv:1710.04325. October 2017.
+
+
+Visualization of Big Spatial Data using Coresets for Kernel Density Estimates.
+     Yan Zheng, Yi Ou, Alexander Lex, and Jeff M. Phillips. IEEE Transactions on Big Data, (accepted 2019).
+    earlier version: Visual Data Science (VDS). October 2017.
+    arxiv:1709.04453. September 2017.
+    Project Page (and code).
+
+
+Visualizing Sensor Network Coverage with Location Uncertainty.
+     Tim Sodergren, Jessica Hair, Jeff M. Phillips, and Bei Wang. Visual Data Science (VDS). October 2017.
+    arxiv:1710.06925. September 2017.
+
+
+Relative Error Embeddings for the Gaussian Kernel Distance.
+     Di Chen and Jeff M. Phillips. Algorithmic Learning Theory (ALT). October 2017.
+    arxiv:1602.05350. February 2016.
+
+
+Distributed Trajectory Similarity Search.
+     Dong Xie, Feifei Li, and Jeff M. Phillips. International Conference on Very Large Databases (VLDB). August 2017.
+
+
+Coresets for Kernel Regression.
+     Yan Zheng and Jeff M. Phillips. ACM Conference on Knowledge Discovery and Data Mining (KDD). August 2017.
+     arxiv:1702.03644. February 2017.
+     Project Page
+
+
+Scalable Spatial Scan Statistics through Sampling.
+     Michael Matheny, Raghvendra Singh, Kaiqiang Wang, Liang Zhang and Jeff M. Phillips. ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL). November 2016.
+
+
+The Robustness of Estimator Composition.
+     Pingfan Tang and Jeff M. Phillips. Conference on Neural Information Processing (NeurIPS). December 2016.
+     matlab code
+
+
+epsilon-Kernel Coresets for Stochastic Points.
+     Lingxiao Huang, Jian Li, Jeff M. Phillips, and Haitao Wang. European Symposium on Algorithms (ESA). August 2016.
+     arxiv.org:1411.0194. November 2014.
+
+
+Efficient Frequent Directions Algorithm for Sparse Matrices.
+     Mina Ghashami, Edo Liberty, and Jeff M. Phillips. ACM Conference on Knowledge Discovery and Data Mining (KDD). August 2016.
+     arxiv.org:1602.00412. February 2016.
+     C/python code.
+
+
+Coresets and Sketches.
+     Jeff M. Phillips. Handbook of Discrete and Computational Geometry. 3rd edition, CRC Press, Chapter 48. 2016.
+     arxiv.org:1601.00617. January 2016.
+
+
+Streaming Kernel Principal Component Analysis.
+     Mina Ghashami, Daniel Perry, and Jeff M. Phillips. International Conference on Artificial Intelligence and Statistics (AISTATS). May 2016.
+     arxiv.org:1512.05059. December 2015.
+     Julia Code.
+
+
+An Integrated Classification Scheme for Mapping Estimates and Errors of Estimation from the American Community Survey.
+     Ran Wei, Daoqin Tong, and Jeff M. Phillips. Computers, Environment and Urban Systems (CEUS). April 2016.
+
+
+Subsampling in Smooth Range Spaces.
+     Jeff M. Phillips and Yan Zheng. Algorithmic Learning Theory (ALT). October 2015.
+     short version appeared in Computational Geometry : Young Researchers Forum. June 2015.
+
+
+L_infity Error and Bandwidth Selection for Kernel Density Estimates of Large Data.
+     Yan Zheng and Jeff M. Phillips. ACM Conference on Knowledge Discovery and Data Mining (KDD). August 2015.
+     Project Page
+
+
+Geometric Inference on Kernel Density Estimates.
+     Jeff M. Phillips, Bei Wang, and Yan Zheng. International Symposium on Computational Geometry (SOCG). June 2015.
+     full version: arXiv:1307.7760. March 2015.
+     early version appeared as Kernel Distance for Geometric Inference. Jeff M. Phillips and Bei Wang. 22nd Fall Workshop on Computational Geometry. October 2012.
+
+
+Improved Practical Matrix Sketching with Guarantees.
+     Mina Ghashami, Amey Desai, and Jeff M. Phillips. Transactions on Knowledge and Data Engineering (TKDE) 28:07, pp 1678--1690, 2016. 2016.
+     earlier shorter version appeared in 22nd Annual European Symposium on Algorithms (ESA). September 2014.
+     Reproduce our results on APTlab. (You may need to log in, and then click link again)
+     arXiv:1501.06561. January 2015.
+
+
+Continuous Matrix Approximation on Distributed Data.
+     Mina Ghashami, Jeff M. Phillips, and Feifei Li. 40th International Conference on Very Large Data Bases (VLDB). September 2014.
+     full version: arXiv:1404.7571. April 2014.
+     Python Code.
+
+
+Frequent Directions: Simple and Deterministic Matrix Sketching.
+     Mina Ghashami, Edo Liberty, Jeff M. Phillips and David P. Woodruff. SIAM Journal of Computing (SICOMP) 45:5, 2016.
+     arXiv:1501.01711. January 2015.
+     Python Code, with some backend in C.
+     this mainly extends and replaces:
+     Relative Errors for Deterministic Low-Rank Matrix Approximations.
+     Mina Ghashami and Jeff M. Phillips. 25th Annual ACM-SIAM Symposium on Discrete Algorithms (SoDA). January 2014.
+     arXiv:1307.7454. June 2013.
+
+
+Quality and Efficiency for Kernel Density Estimates in Large Data.
+     Yan Zheng, Jeffrey Jestes, Jeff M. Phillips, Feifei Li. ACM Conference on the Management of Data (SIGMOD). June 2013.
+     Project Page
+
+
+Nearest Neighbor Searching Under Uncertainty II.
+     Pankaj K. Agarwal, Boris Aronov, Sariel Har-Peled, Jeff M. Phillips, Ke Yi, and Wuzhou Zhang. 32nd ACM Symposium on Principles of Database Systems (PoDS). June 2013.
+     ACM Transactions on Algorithms 13:1, 2016.
+     arXiv:1606.00112. June 2016.
+
+
+Range Counting Coresets for Uncertain Data.
+     Amirali Abdullah, Samira Daruki, and Jeff M. Phillips. 29th Annual ACM Symposium on Computational Geometry (SoCG). June 2013.
+     arXiv:1304.4243. April 2013.
+
+
+Radio Tomographic Imaging and Tracking of Stationary and Moving People via Kernel Distance.
+     Yang Zhao, Neal Patwari, Jeff M. Phillips, and Suresh Venkatasubramanian. 12th ACM-IEEE Conference on Information Processing in Sensor Networks (IPSN). April 2013.
+
+
+eps-Samples for Kernels.
+     Jeff M. Phillips. 24th Annual ACM-SIAM Symposium on Discrete Algorithms (SoDA). January 2013.
+     arXiv:1112.4105. April 2012.
+
+
+Sensor Network Localization for Moving Sensors.
+     Arvind Agarwal, Hal Daume III, Jeff M. Phillips, and Suresh Venkatasubramanian. 2nd IEEE ICDM International Workshop on Data Mining in Networks (DaMNet). December 2012.
+
+
+Efficient Protocols for Distributed Classification and Optimization.
+     Hal Daume III, Jeff M. Phillips, Avishek Saha, and Suresh Venkatasubramanian. 23rd International Conference on Algorithmic Learning Theory (ALT). October 2012.
+     arXiv:1204.3523. April 2012.
+     See also a similar independent work: arXiv:1204.3514 (on arXiv same day)
+
+
+Ranking Large Temporal Data.
+     Jeffrey Jestes, Jeff M. Phillips, Feifei Li, and Mingwang Tang. 38th International Conference on Very Large Databases (VLDB). August 2012.
+     PVLDB 5:1412-1423, 2012.
+     arXiv:1208.0222 August 2012.
+     Project Page
+
+
+Mergeable Summaries.
+     Pankaj K. Agarwal, Graham Cormode, Zengfeng Huang, Jeff M. Phillips, Zhewei Wei, and Ke Yi. 31st ACM Symposium on Principals of Database Systems (PODS). May 2012.
+     ACM Transactions on Database Systems (TODS) 38:26, 2013.
+     appeared as "Mergeable Coresets" in Third Workshop on Massive Data Algorithmics. June 2011.
+
+
+Protocols for Learning Classifiers on Distributed Data.
+     Hal Daume III, Jeff M. Phillips, Avishek Saha, and Suresh Venkatasubramanian. 15th Interntational Conference on Artificial Intelligence and Statistics (AISTATS). April 2012.
+     full version as arXiv:1202.6078. February 2012.
+
+
+Efficient Threshold Monitoring for Distributed Probabilistic Data.
+     Mingwang Tang, Feifei Li, Jeff M. Phillips, Jeffrey Jestes. 28th IEEE International Conference on Data Engineering (ICDE). April 2012.
+     Code and Data.
+
+
+Uncertainty Visualization in HARDI based on Ensembles of ODFs.
+     Fangxiang Jiao, Jeff M. Phillips, Yaniv Gur, and Chris R. Johnson. 5th IEEE Pacific Visualization Symposium (PacificVis). February 2012.
+
+
+Lower Bounds for Number-in-Hand Multiparty Communication Complexity, Made Easy.
+     Jeff M. Phillips, Elad Verbin, Qin Zhang. 23rd Annual ACM-SIAM Symposium on Discrete Algorithms (SoDA). January 2012.
+     arXiv:1107.2559. July 2011.
+     SIAM Journal of Computing (SICOMP) (to appear, 2015).
+
+
+Generating A Diverse Set Of High-Quality Clusterings. (Best-Paper-Award)
+     Jeff M. Phillips, Parasaran Raman, Suresh Venkatasubramanian. 2nd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings (MultiClust). September 2011.
+     arXiv:1108.0017. August 2011.
+
+
+Geometric Computation on Indecisive Points.
+     Allan G. Jorgensen, Maarten Loffler, Jeff M. Phillips. 12th Algorithms and Data Structure Symposium (WADS). August 2011.
+     long version as Geometric Computatations on Indecisive and Uncertain Points as arXiv:1205.0273. May 2012. (merged with this)
+
+
+Horoball Hulls and Extents in Positive Definite Space.
+     P. Thomas Fletcher, John Moeller, Jeff M. Phillips, Suresh Venkatasubramanian. 12th Algorithms and Data Structure Symposium (WADS). August 2011.
+     older long version as arXiv:0912.1580. December 2009.
+
+
+Comparing Distributions and Shapes Using the Kernel Distance.
+     Sarang Joshi, Raj Varma Kommaraju, Jeff M. Phillips, Suresh Venkatasubramanian. 27th Annual Symposium on Computational Geometry (SoCG). June 2011.
+     long version as arXiv:1001.0591. March 2011.
+
+
+Spatially-Aware Comparison and Consensus for Clusterings.
+     Jeff M. Phillips, Parasaran Raman, and Suresh Venkatasubramanian. 10th SIAM Intenational Conference on Data Mining (SDM). April 2011.
+     arXiv:1102.0026. February 2011.
+
+
+(Approximate) Uncertain Skylines.
+     Peyman Afshani, Pankaj K. Agarwal, Lars Arge, Kasper Green Larsen, and Jeff M. Phillips. 14th International Conference on Database Theory (ICDT). March 2011.
+     Theory of Computing Systems 52, 342--366 (Special Issue : ICDT 2011).
+
+
+Metrics for Uncertainty Analysis and Visualization of Diffusion Tensor Images.
+     Fangxiang Jiao, Jeff M. Phillips, Jeroen Stinstra, Jens Krueger, Raj Varma Kummaraju, Edward Hsu, Julie Korenberg, Chris R. Johnson. 5th International Workshop on Medical Imaging and Augmented Reality (MIAR). September 2010.
+
+
+Stability of epsilon-Kernels.
+     Pankaj K. Agarwal, Jeff M. Phillips, Hai Yu. 18th Annual European Symposium on Algorithms (ESA). September 2010.
+     long version as arXiv:1003.5874. March 2010.
+
+
+Universal Multi-Dimensional Scaling.
+     Arvind Agarwal, Jeff M. Phillips, Suresh Venkatasubramanian. 16th Annual ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD). August 2010.
+     long version as arXiv:1003.0529. March 2010.
+     related code.
+     media: Data Mining Made Faster.
+
+
+Incremental Multi-Dimensional Scaling.
+     Arvind Agarwal, Jeff M. Phillips, Hal Daume III, Suresh Venkatasubramanian. The Learning Workshop at Snowbird. April 2010.
+
+
+Lipschitz Unimodal and Isotonic Regression on Paths and Trees.
+     Pankaj K. Agarwal, Jeff M. Phillips, Bardia Sadri. 9th Latin American Theoretical Informatics Symposium (LATIN). April 2010.
+     long version as arXiv:0912.5182. December 2009.
+
+
+Shape Fitting on Point Sets with Probability Distributions.
+     Maarten Loffler, Jeff M. Phillips. 17th Annual European Symposium on Algorithms (ESA). September 2009.
+     long version as Geometric Computatations on Indecisive and Uncertain Points as arXiv:1205.0273. May 2012. (merged with this)
+
+
+An Efficient Algorithm for Euclidean 2-Center with Outliers.
+     Pankaj K. Agarwal, Jeff M. Phillips. 16th Annual European Symposium on Algorithms (ESA). September 2008.
+     long version as arXiv:0806.4326. September 2008.
+
+
+Algorithms for epsilon-Approximations of Terrains. (Best Student Paper)
+     Jeff M. Phillips. 35th International Colloquium on Automata, Languages, and Programming (ICALP). July 2008.
+     long version as arXiv:0801.2793. May 2008.
+
+
+Spatial Scan Statistics for Graph Clustering.
+     Bei Wang, Jeff M. Phillips, Robert Schrieber, Dennis Wilkinson, Nina Mishra, Robert Tarjan. 8th SIAM Intenational Conference on Data Mining (SDM). April 2008.
+
+
+Value-Based Notification Conditions in Large-Scale Publish/Subscribe Systems.
+     Badrish Chandramouli, Jeff M. Phillips, Jun Yang. 33rd Intenational Conference on Very Large Data Bases (VLDB). September 2007.
+
+
+Outlier Robust ICP for Minimizing Fractional RMSD.
+     Jeff M. Phillips, Ran Liu, Carlo Tomasi. 6th International Conference on 3-D Digital Imaging and Modeling (3DIM). August 2007.
+     long version as Duke University Technical Report CS-2006-05 and arXiv: cs.GR/0606098. May 2006.
+     poster/abstract for 4th Eurographics Symposium on Geometry Processing (SGP). June 2006.
+
+
+Segmenting Motifs in Protein-Protein Interface Surfaces.
+     Jeff M. Phillips, Johannes Rudolph, Pankaj K. Agarwal. Proceedings of the 6th Workshop on Algorithms in Bioinformatics (WABI). September 2006.
+
+
+Spatial Scan Statistics: Approximations and Performance Study.
+     Deepak Agarwal, Andrew McGregor, Jeff M. Phillips, Suresh Venkatasubramanian, Zhengyuan Zhu. 12th Annual ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD). August 2006.
+
+
+On Bipartite Matching under the RMS Distance.
+     Pankaj K. Agarwal, Jeff M. Phillips. 18th Canadian Conference on Computational Geometry (CCCG). August 2006.
+
+
+The Hunting of the Bump: On Maximizing Statistical Discrepancy.
+     Deepak Agarwal, Jeff M. Phillips, Suresh Venkatasubramanian. 17th Annual ACM-SIAM Symposium on Discrete Algorithms (SoDA). January 2006.
+     abstract for Fall Workshop on Computational Geometry. November 2005.
+
+
+Guided Expansive Spaces Trees: A Search Strategy for Motion- and Cost-Constrained State Spaces.
+     Jeff M. Phillips, Nazareth Bedrossian, and Lydia E. Kavraki. IEEE International Conference on Robotics and Automation (ICRA). April 2004.
+
+
+Spacecraft Rendezvous and Docking with Real-Time, Randomized Optimization.
+     Jeff M. Phillips, Lydia E. Kavraki, and Nazareth Bedrossian. AIAA Guidance, Navigation, and Control. August 2003.
+
+
+Probabilistic Optimization Applied to Spacecraft Rendezvous and Docking.
+     Jeff M. Phillips, Lydia E. Kavraki, and Nazareth Bedrossian. AAS/AIAA Space Flight Mechanics Meeting. February 2003.
+
+
+Simulated Knot Tying.
+     Jeff M. Phillips, Andrew M. Ladd, Lydia E. Kavraki. IEEE International Conference on Robotics and Automation (ICRA). May 2002.
+Manuscripts:
+
+Johnson-Lindenstrauss Dimensionality Reduction on the Simplex.
+     Rasmus J. Kyng, Jeff M. Phillips, and Suresh Venkatasubramanian. 20th Fall Workshop on Computational Geometry. October 2010.
+
+
+A Gentle Introduction to the Kernel Distance.
+     Jeff M. Phillips, Suresh Venkatasubramanian. arXiv:1103.1625. March 2011.
+
+
+Chernoff-Hoeffding Inequality and Applications.
+     Jeff M. Phillips. arXiv:1209.6396. February 2013.
+
+
+Rethinking Abstractions for Big Data: Why, Where, How, and What.
+     Mary Hall, Robert M. Kirby, Feifei Li, Miriah Meyer, Valerio Pascucci, Jeff M. Phillips, Rob Ricci, Jacobus Van der Merwe, Suresh Venkatasubramanian. University of Utah, School of Computing, Tech Report: UUCS-13-002. April 2013.
+     arXiv:1306.3295. June 2013.
+
+
+Learning In Practice: Reasoning About Quantization.
+     Annie Cherkaev, Waiming Tai, Jeff M. Phillips, and Vivek Srikumar. arXiv:1905.11478. May 2019.
+
+
+Hiding Signal Strength Interference from Outside Adversaries.
+     Mingxuan Han, Jeff M. Phillips, and Sneha Kumar Kasera. arXiv:2112.10931. December 2021.
+
+
+For Kernel Range Spaces a Constant Number of Queries Are Sufficient.
+     Hasan Pourmahmood-aghababa and Jeff M. Phillips. preliminary version at Fall Workshop on Computational Geometry. October 2022.
+     arXiv:2306.16516. June 2023.
+
+
+On Mergable Coresets for Polytope Distance.
+     Benwei Shi, Aditya Bhaskara, Wai Ming Tai, and Jeff M. Phillips. arXiv:2306.03173. November 2023.
+
+
+Small and Stable Descriptors of Distributions for Geometric Statistical Problems.
+     Jeff M. Phillips. Ph.D. Thesis: Department of Computer Science, Duke University. January 2009.
+Breif History of Jeff:
+Born and raised in the suburbs of Milwaukee, Wisconsin by parents John and Geri Phillips. One sister, Michelle, now in Washington DC.
+Married Bei Wang in summer 2009. Two sons Stanley, born in 2013, and Max, born 2015.
+
+Received undergraduate education at Rice University. Graduated with a BS in Computer Science and a BA in Mathematics in 2003. Former member of Jones Residential College. Former member of the Kavraki Lab with Lydia Kavraki.
+Interned at Draper Labs near NASA JSC with Nazareth Bedrossian in 2002.
+Interned at AT&T Research -- Shannon Labs with   Suresh Venkatasubramanian in 2005.
+Interned at Yahoo! Research with Michael Mahoney in 2007.
+Attended graduate school in the Duke Computer Science Department with advisor Pankaj K. Agarwal. Successfully defended my PhD thesis January 19, 2009.
+Served as Postdoctoral Associate in the Duke Computer Science Department with supervisor Pankaj K. Agarwal.
+Served as a CI Postdoctoral Fellow at the University of Utah with mentor Suresh Venkatasubramanian.
+Appointed as Assistant Professor in the School of Computing at the University of Utah in Fall 2011.
+In Summer 2017, received tenure, and now serve as Associate Professor in the School of Computing at the University of Utah.
+
+
+Some of this material is based upon work supported by the NSF under Grants #0937060 and #1019343 to the Computing Research Association for the CIFellows Project, CCF-1115677, IIS-1251019, CCF 1350888, ACI-1443046, CNS-1514520, and CNS-1564287.
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or the Computing Research Association. The funding makes much of this work possible -- thank you!
+

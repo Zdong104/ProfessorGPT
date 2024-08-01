@@ -1,0 +1,105 @@
+Professor: Yang Richard Yang
+University: Yale University
+URL: http://www.cs.yale.edu/~yry
+Description: Y. Richard Yang
+
+Professor of Computer Science and Electrical Engineering
+Department of Computer Science
+Computer Systems Lab at Yale
+Yale University
+
+Office: 208A AK Watson
+51 Prospect Street
+New Haven, CT 06520
+(google map)	     	Phone: (203) 432-6400
+FAX: (203) 432-0593
+yang.r.yang AT yale.edu
+or yry AT cs.yale.edu
+
+Basic info
+
+Y. Richard Yang is a Professor of Computer Science and Electrical Engineering at Yale, where he is a member of the Computer Systems Lab. His research spans areas including computer networks, wireless networking, mobile computing, distributed systems, and network security. His work with collaborators on the Internet has contributed to the establishment of the ALTO Internet Standard, which is the main Internet standard for networks and applications to interact, motivated by the P4P project that he led at Yale. His work on intradomain routing (e.g., COPE traffic engineering) and interdomain multi-domain backup (e.g., REIN) led to major Internet deployment. His work with collaborators on wireless networking has both advanced the physical layer (e.g., superposition coding) and made major influence on its architecture such as NEF and massive-MIMO, which are key features of modern celluar networks such as 5G. His work with collaborators on mobile computing has led to the establishment of a foundational theory of network localization based on rigitity theory, advancing both localization and mobility formation control. His work with collaborators on Sprite was among the first distributed mechanism design systems. His work has won best paper awards including ACM SIGMobile Test of Time Award, ACM SIGCOMM NAI Best Paper Award, IEEE IWQoS Best Paper, and ACM SIGCOMM best paper nominations (e.g., Maple) or fast track (e.g., selfish routing). His work is recognized by government awards including the National Science Foundation CAREER Award and industrial awards including Facebook Faculty Research Award, Google Faculty Research, and Microsoft Research Award. His work has been featured in media outlets including The Economist, Forbes, The Guardian, MIT Technology Review, and Wired, among others. He has served as program chairs on a wide range of topics including network quality of service (IEEE IWQoS), network economics (SIGCOMM NetEcon), programmable networking (SIGCOMM SOSR), and network-application integrations (SIGCOMM NAI). His research is supported by both government funding agencies (U.S. NSF, U.S. Army, and U.K. MoD) and leading corporations (Facebook, Google, and Microsoft). He received his B.E. degree in Computer Science and Technology from Tsinghua University (1993), and his M.S. and Ph.D. degrees in Computer Science from the University of Texas at Austin (1998 and 2001). Although he joined Yale right after getting his PhD and still stays at Yale, he had held a number of visiting positions including EMC chaired professor group at Tsinghua University, visiting professor at Peking University, visiting reseacher at Microsoft Research, visiting researcher at CERN, and chief scientist of the Greater Bay Network. He served a number of volunteer positions including as the president of Chinese America Professors Association--Connecticut.
+Publications
+
+
+Google Scholar (sort by reference count);
+DBLP (sort by year, missing many papers).
+
+News (keep only up to 2 years)
+
+
+[May 2024] Congratulations to Jackie Dong, Eden Gorevoy, Jenny Mao, Daniel Mertus and Lily Zhou, who will graduate from Yale in AY 2024.
+
+[Febuary 2024] Check out preprint Fast Inverse Model Transformation: An Algebraic Framework for Fast Data Plane Verification.
+
+[August 2023] RFC9439 published.
+
+[November 2022] Please check out my FTS presentation.
+
+[October 2022] ACM SIGMobile Test of Time Award 2022 for our work on Massive-MIMO (argos) was officially given at Mobicom 2022.
+
+[August 2022] Thanks to Ying, to present the Flash work at SIGCOMM'22. Both Dong and Shenshen are my students at Tongji. If you are looking for great algorithm and system builders, please consider them.
+
+[August 2022] Proud to receive the ACM SIGCOMM NAI 2022 Best Paper Award. Please check out the TCN paper.
+
+[July 26, 2022] A main pleasure is to work with the best people. Very impressed by the work by wonderful collaborators such as Jordi, Luis, Med, Roland, Qin, and Sabine. See slides for many related efforts.
+
+Some proud results
+
+
+Application-network integration (ALTO and P4P): My group's work on P4P (paper first appeared in SIGCOMM'08) is the foundation for the establishment of the IETF Application-Layer Traffic Optimization (ALTO) Working Group and related Internet standards. The base ALTO standard is defined by RFC7285: The ALTO Protocol. Citations see Google scholar link (890 citations as of Dec. 2019).
+
+Network traffic engineering: My group conducted one of the most comprehensive studies of Internet traffic engineering, designing and implementing frameworks and systems including COPE (first paper appeared in a SIGCOMM'06 paper, citations see Google scholar link), ISP multihoming (first paper appeared in a SIGCOMM'04 paper, citations see Google scholar link), R3 (first paper appeared in a SIGCOMM'10 paper, citations see Google scholar link), Shadow Configuration, (first paper appeared in a SIGCOMM'08 paper, citations see Google scholar link), REIN (aka domain backup, first paper appeared in a SIGCOMM'07 paper, citations see Google scholar link), and selfish adaptive routing (first paper appeared in a SIGCOMM'03 paper, citations see Google scholar link).
+
+Programmable networking: My group's work on the Maple network programming language (paper first appeared in SIGCOMM'13) is among the earliest high-level software-defined programming languages. Citations see Google scholar link.
+
+Networking and economics: My group is among the first to design incentive compatible networking protocols. Our Sprite protocol (paper first appeared in INFOCOM'03). Citations of Sprite see Google scholar link (1634 citations as of Dec. 2019).
+
+Mobile computing (localization): My group's work on network localization gives the first foundational theory of network localization (initial results in INFOCOM'04; complete theory in TMC'06). Citations of them see Google scholar (INFOCOM'04 Google scholar link, TMC'06 Google scholar link). (1200 total citations as of Dec. 2019).
+
+Wireless (Massive MIMO): Our joint work on Argos (paper first appeared in Mobicom'12) is the first massive MIMO system, which is considered a foundation of 5G. Citations see Google scholar link (604 citations as of Dec. 2019).
+
+SIGCOMM (Networking), MOBICOM (mobile computing, wirelless networking) publications
+
+
+[SIGCOMM'22] Flash: Fast, Consistent Data Plane Verification for Large-scale Network Settings, with Dong and the team. link.
+[SIGCOMM'18] Trident: Toward a Unified SDN Programming Framework with Automatic Updates, with K. Gao, and T. Nojima. link.
+[SIGCOMM'13] Maple: Simplifying SDN Programming using Algorithmic Policies, with A. Voellmy, J. Wang, B. Ford, and P. Hudak. link.
+[SIGCOMM'12] ShadowStream: Performance Evaluation as a Capability in Production Internet Live Streaming Networks, with C. Tian, R. Alimi, and D. Zhang. link.
+[SIGCOMM'12] Optimizing Cost and Performance for Content Multihoming, with H.H. Liu, Y. Wang, H. Wang, and C. Tian. link.
+[SIGCOMM'10] R3: Resilient Routing Reconfiguration, with Y. Wang, H. Wang, A. Mahimkar, R. Alimi, Y. Zhang, and L. Qiu. link.
+[SIGCOMM'08] Shadow Configuration as a Network Management Primitive, with R. Alimi, and Y. Wang. link.
+[SIGCOMM'08] P4P: Provider Portal for Applications, with H. Xie, A. Krishnamurthy, Y.G. Liu, and A. Silberschatz. link.
+[SIGCOMM'07] Reliability as an Interdomain Service, with H. Wang, P.H. Liu, J. Wang, A. Gerber, and A. Greenberg. link.
+[SIGCOMM'06] COPE: Traffic Engineering in Dynamic Networks, with H. Wang, H. Xie, L. Qiu, Y. Zhang, and A. Greenberg. link.
+[SIGCOMM'04] Optimizing Cost and Performance for Multihoming, with D. Goldenberg, L. Qiu, H. Xie, and Y. Zhang. link.
+[SIGCOMM'03] On Selfish Routing in Internet-Like Environments, with L. Qiu, Y. Zhang, and S. Shenker. link.
+[SIGCOMM'01] Reliable Group Rekeying: A Performance Analysis, with X. Zhang, X. Li, and S.S. Lam. link.
+
+[MOBICOM'12] Argos: Practical Base Stations with Large-scale Multi-user Beamforming, with C. Shepard, H. Yu, N. Anand, L.E. Li, T. Marzetta, and L. Zhong. link.
+[MOBICOM'10] Remap Decoding: Simple Retransmission Permutation Can Resolve Overlapping Channel Collisions, with L.E. Li, K. Tan, H. Viswanathan, and Y. Xu. link.
+[MOBICOM'08] Incentive-Compatible Opportunistic Routing for Wireless Networks, with F. Wu, T. Chen, S. Zhong, and L.E. Li. link.
+[MOBICOM'07] Superposition Coding for Wireless Mesh Networks, with L.E. Li, R. Alimi, R. Ramjee, J. Shi, Y. Sun, and H. Viswanathan. link.
+[MOBICOM'06] Localization in Sparse Networks using Sweeps, with D. Goldenberg, P. Bihler, M. Cao, J. Fang, B.D.O. Anderson, and A.S. Morse. link.
+[MOBICOM'05] On Designing Incentive-Compatible Routing and Forwarding Protocols in Wireless Ad-Hoc Networks --- an Integrated Approach Using Game Theoretical and Cryptographic Techniques, with S. Zhong, L.E. Li, and Y.G. Liu. link.
+Teaching
+
+
+CS418/518, Network System Design and Implementation, Spring 2025
+CS426/526, Building Distributed Systems, Fall 2024, Spring 2023, Spring 2022
+CS433/533, Computer Networks, Spring 2024, Spring 2018, Spring 2016, Spring 2006, Spring 2005, Spring 2003, Spring 2002
+CS434/534, Topics in Network Systems, Fall 2023
+CS434/534, Mobile Computing and Wireless Networking, Spring 2017, Fall 2006, Spring 2004
+CS435/535, Internet-Scale Applications, Fall 2011, with Prof. M. Fischer
+CS112, Introduction to Programming, Spring 2016, Fall 2007, Fall 2005, Fall 2003, Fall 2002
+CS427/527, Object-Oriented Programming, Spring 2011, with Prof. M. Fischer
+CS633, Seminar on Computer Networks, Fall 2001
+
+Some personal info
+
+
+Photos: IEEE photo, Ryan (July 2009 at Olympic park), PhD graduation, younger brother, Yanbin (1993, 1995, 1993 in Beijing, 2000 in Japan, 2001 in Alaska)
+Ph.D. advisor: Simon S. Lam; to trace the whole academic chain, you can see the mathematics genealogy project.
+
+Last updated: 05/06/2024 22:43:53 -0500
+

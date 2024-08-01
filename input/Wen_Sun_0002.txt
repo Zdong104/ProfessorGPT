@@ -1,0 +1,522 @@
+Professor: Wen Sun 0002
+University: Cornell University
+URL: https://wensun.github.io/
+Description: Wen Sun
+
+I'm an Assistant Professor in the Computer Science Department at Cornell University. I'm also a part-time researcher at Microsoft Research NYC.
+
+Prior to Cornell, I was a post-doc researcher at Microsoft Research NYC from 2019 to 2020. I completed my PhD at Robotics Institute, Carnegie Mellon University in June 2019, where I was advised by Drew Bagnell.
+
+CV  /  PhD Thesis  /  Google Scholar  /  Email  
+
+	
+Prospective students, please read this.
+Research
+
+My group works on Reinforcement Learning, AI, and Decision Making. The most recent research directions of the lab are
+
+RL for generative models, e.g., fine-tune LLMs w/ RL, fine-tune diffusion models, The transformer RL and IL library
+Algorithmic and theoretical foundations of RLHF, e.g., offline RLHF, contextual dueling bandits w/ active query
+RL with offline and online data, e.g., hybrid RL
+Core RL theory, e.g., Instance-dependent regret bounds via distributional RL
+Representation learning in RL, e.g., theory of representation learning in RL, theory of representation transfer in RL
+Learning in partially observable systems, e.g., PAC RL w/ general function approximation in POMDPs and PSRs
+
+The softwares developed by our group can be found here.
+Teaching
+
+Fall 2023: CS 4780/5780 Introduction to Machine Learning
+
+Spring 2023: CS 6789 Foundations of Reinforcement Learning
+
+Spring 2021: CS 4789/5789 Introduction to Reinforcement Learning
+
+Recent Talks / Lectures/ Tutorials
+
+
+
+Simons Institute (Sep 2022): Generalization and robustness in offline reinforcement learning 
+IJCAI 2022 Tutorial: Adversarial sequential decision making
+Recorded lectures of CS4789 (Intro to RL) Spring 2021 are available here
+COLT 2021 RL Tutorial: Statistical Foundations of RL, videos are here
+
+Monograph
+Reinforcement Learning: Theory and Algorithms
+Alekh Agarwal, Nan Jiang, Sham Kakade, Wen Sun
+
+
+
+We are periodically making updates to the book draft. Content based on the courses taught by Nan at UIUC, the courses taught by Alekh and Sham at UW, and CS 6789 at Cornell.
+
+Preprints
+REBEL: Reinforcement Learning via Regressing Relative Rewards
+Zhaolin Gao, Jonathan D. Chang, Wenhao Zhan, Owen Oertell, Gokul Swamy, Kiante Brantley, Thorsten Joachims, J. Andrew Bagnell, Jason D. Lee, Wen Sun
+arXiv, 2024 [code] [models]
+
+
+New RL algorithm for generative model optimization which outperforms PPO on both text and image generation. State-of-art performance on LLM benchmarks.
+
+
+Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-squared Preference Optimization
+Audrey Huang, Wenhao Zhan, Tengyang Xie, Jason D. Lee, Wen Sun, Akshay Krishnamurthy, Dylan J. Foster
+arXiv, 2024
+
+
+New offline RLHF algorithms that avoid overoptimization and achieve single policy coverage style guarantees by regularizing with the Chi-squared divergence.
+
+
+The Importance of Online Data: Understanding Preference Fine-Tuning Through the Lens of Coverage
+Yuda Song, Gokul Swamy, Aarti Singh, J. Andrew Bagnell, Wen Sun
+arXiv, 2024
+
+
+We study why DPO is not equivalent to RLHF, and what is the key benefit of online samples in RLHF.
+
+
+Orchestrating LLMs with Different Personalizations
+Jin Peng Zhou, Katie Z Luo, Jingwen Gu, Jason Yuan, Kilian Q. Weinberger, Wen Sun
+arXiv, 2024
+
+On Speeding Up Language Model Evaluation
+Jin Peng Zhou, Christian K. Belardi, Ruihan Wu, Travis Zhang, Carla P. Gomes, Wen Sun, Kilian Q. Weinberger
+arXiv, 2024
+
+Dataset Reset Policy Optimization for RLHF
+Jonathan D. Chang, Wenhao Zhan, Owen Oertell, Kiante Brantley, Dipendra Misra, Jason D. Lee, Wen Sun
+arXiv, 2024 [code]
+
+
+We show that resetting to offline data is an effective way of leveraging offline data in the RLHF pipeline
+
+
+Computationally Efficient RL under Linear Bellman Completeness for Deterministic Dynamics
+Runzhe Wu, Ayush Sekhari, Akshay Krishnamurthy, Wen Sun
+arXiv, 2024
+
+Efficient and Sharp Off-Policy Evaluation in Robust Markov Decision Processes
+Andrew Bennett, Nathan Kallus, Miruna Oprescu, Wen Sun, Kaiwen Wang
+arXiv, 2024
+
+Risk-Sensitive RL with Optimized Certainty Equivalents via Reduction to Standard RL
+Kaiwen Wang, Dawen Liang, Nathan Kallus, Wen Sun
+arXiv, 2024
+
+Learning to Generate Better Than Your LLM
+Jonathan D. Chang, Kiante Brantley, Rajkumar Ramamurthy, Dipendra Misra, Wen Sun
+arXiv, 2023   [code]
+
+
+A new framework -- RL with Guided Feedback (RLGF), combining RL and pre-trained LLMs via principled interactive learning procedures.
+
+
+Finite Sample Analysis of Minimax Offline Reinforcement Learning: Completeness, Fast Rates and First-Order Efficiency
+Masatoshi Uehara, Masaaki Imaizumi, Nan Jiang, Nathan Kallus, Wen Sun, Tengyang Xie
+arXiv, 2021  
+
+Publications
+More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning
+Kaiwen Wang, Owen Oertell, Alekh Agarwal, Nathan Kallus, Wen Sun
+ICML, 2024
+
+
+We show that distributional RL enables faster learning when the systems have low variance. This holds for contextual bandits, online and offline RL simoutaneously.
+
+
+JoinGym: An Efficient Query Optimization Environment for Reinforcement Learning
+Kaiwen Wang, Junxiong Wang, Yueying Li, Nathan Kallus, Immanuel Trummer, Wen Sun
+RLC, 2024   [code]
+
+
+A light weight, real-world database query optimization benchmark for RL
+
+
+RL for Consistency Models: Faster Reward Guided Text-to-Image Generation
+Owen Oertell, Jonathan D. Chang, Yiyi Zhang, Kiante Brantley, Wen Sun
+RLC, 2024 [Website]
+
+
+
+Faster Recalibration of an Online Predictor via Approachability
+Princewill Okoroafor, Bobby Kleinberg, Wen Sun
+AISTATS, 2024
+
+
+
+Provable Reward-Agnostic Preference-Based Reinforcement Learning
+Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee
+ICLR, 2024   (Spotlight)
+
+Provable Offline Preference-Based Reinforcement Learning
+Wenhao Zhan, Masatoshi Uehara, Nathan Kallus, Jason D. Lee, Wen Sun
+ICLR, 2024   (Spotlight)
+
+Adversarial Imitation Learning via Boosting
+Jonathan Chang, Dhruv Sreenivas, Yingbing Huang, Kiante Brantley, Wen Sun
+ICLR, 2024  
+
+Provably Efficient CVaR RL in Low-rank MDPs
+Yulai Zhao, Wenhao Zhan, Xiaoyan Hu, Ho-fung Leung, Farzan Farnia, Wen Sun, Jason D. Lee
+ICLR, 2024  
+
+Offline Data Enhanced On-Policy Policy Gradient with Provable Guarantees
+Yifei Zhou, Ayush Sekhari, Yuda Song, Wen Sun
+ICLR, 2024  
+
+Making RL with Preference-based Feedback Efficient via Randomization
+Runzhe Wu, Wen Sun
+ICLR, 2024  
+
+
+A randomized algorithm for learning from preference feedback that achieves sample, computation, and query efficiency simoutaneously.
+
+
+Contextual Bandits and Imitation Learning via Preference-Based Active Queries
+(by alphabetic order) Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu
+NeurIPS, 2023   [code]
+
+Selective Sampling and Imitation Learning via Online Regression
+(by alphabetic order) Ayush Sekhari, Karthik Sridharan, Wen Sun, Runzhe Wu
+NeurIPS, 2023  
+
+The Benefits of Being Distributional: Small-Loss Bounds for Reinforcement Learning
+Kaiwen Wang, Kevin Zhou, Runzhe Wu, Nathan Kallus, Wen Sun
+NeurIPS, 2023   [code]
+
+
+We provide the first mathematical and rigorous explaination of why and when maximum-likelihood-estimation based distributional RL can be better than regular RL, in contextual bandits, online RL, and offline RL. The new distributional contextual bandit algorithm outperforms prior CB algorithms empirically.
+
+
+Refined Value-Based Offline RL under Realizability and Partial Coverage
+Masatoshi Uehara, Nathan Kallus, Jason D. Lee, Wen Sun
+NeurIPS, 2023  
+
+Future-Dependent Value-Based Off-Policy Evaluation in POMDPs
+Masatoshi Uehara, Haruka Kiyohara, Andrew Bennett, Victor Chernozhukov, Nan Jiang, Nathan Kallus, Chengchun Shi, Wen Sun
+NeurIPS, 2023   (Spotlight)
+
+Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery
+Katie Z Luo, Zhenzhen Liu, Xiangyu Chen, Yurong You, Sagie Benaim, Cheng Perng Phoo, Mark Campbell, Wen Sun, Bharath Hariharan, Kilian Q Weinberger
+NeurIPS, 2023  
+
+Provable Benefits of Representational Transfer in Reinforcement Learning
+(by alphabetic order) Alekh Agarwal, Yuda Song, Wen Sun, Kaiwen Wang, Mengdi Wang, Xuezhou Zhang
+COLT, 2023  
+
+Distributional Offline Policy Evaluation with Predictive Error Guarantees
+Runzhe Wu, Masatoshi Uehara, Wen Sun
+ICML, 2023   [code]
+
+
+A simple maximum likelihood estimation based approach for distributional RL in off-policy policy evaluation with finite sample complexity guarantees
+
+
+Multi-task Representation Learning for Pure Exploration in Linear Bandits
+Yihan Du, Longbo Huang, Wen Sun
+ICML, 2023  
+
+Near-Minimax-Optimal Risk-Sensitive Reinforcement Learning with CVaR
+Kaiwen Wang, Nathan Kallus, Wen Sun
+ICML, 2023  
+
+Computationally Efficient PAC RL in POMDPs with Latent Determinism and Conditional Embeddings
+Masatoshi Uehara, Ayush Sekhari, Jason D. Lee, Nathan Kallus, Wen Sun
+ICML, 2023  
+
+Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient
+Yuda Song, Yifei Zhou, Ayush Sekhari, J. Andrew Bagnell, Akshay Krishnamurthy, Wen Sun
+ICLR, 2023   [code] [Talk at RL Theory Seminar]
+
+
+Combining online data and offline data can solve RL with both statistical and computation efficiency. Experiments on Montezuma's Revenge (a video game) reveals that hybrid RL works much better than pure online RL and pure offline RL
+
+
+PAC Reinforcement Learning for Predictive State Representations
+Wenhao Zhan, Masatoshi Uehara, Wen Sun, Jason D. Lee
+ICLR, 2023  
+
+
+A model-based RL algorithm that solves PSRs (a model that generalizes POMDPs) with polynomial sample complexity with general function approximation.
+
+
+Provably Efficient Reinforcement Learning in Partially Observable Dynamical Systems
+Masatoshi Uehara, Ayush Sekhari, Jason D. Lee, Nathan Kallus, Wen Sun
+NeurIPS, 2022  
+
+
+A general model-free Actor-critic framework for POMDPs which generalizes special instances including tabular POMDPs, Linear Quadratic Gaussians, POMDPs with Hilbert Space Embeddings, and POMDPs with low-rank structures.
+
+
+Learning Bellman Complete Representations for Offline Policy Evaluation
+Jonathan Chang*, Kaiwen Wang*, Nathan Kallus, Wen Sun
+ICML, 2022 (Long talk) [code]
+
+
+Standard self-supervised representation learning approaches fail to work in offline RL due to distribution shift and the sequential nature of the problem. Our new self-supervised representation learning approach works in theory and in practice for offline RL.
+
+
+Efficient Reinforcement Learning in Block MDPs: A Model-free Representation Learning Approach
+Xuezhou Zhang, Yuda Song, Masatoshi Uehara, Mengdi Wang, Alekh Agarwal, Wen Sun
+ICML, 2022   [code] [Talk at RL Theory Seminar]
+
+
+An efficient rich-observation RL algorithm that learns to decode from rich observations to latent states (via adversarial training), while balancing exploration and exploitation
+
+
+Learning to Detect Mobile Objects from LiDAR Scans Without Labels
+Yurong You*, Katie Z Luo*, Cheng Perng Phoo, Wei-Lun Chao, Wen Sun, Bharath Hariharan, Mark Campbell, and Kilian Q. Weinberger
+CVPR, 2022
+On the Effectiveness of Iterative Learning Control
+Anirudh Vemula, Wen Sun, Maxim Likhachev, Drew Bagnell
+L4DC, 2022   [code]
+
+
+Investigated when ILC learns a policy that is better than the certainty equivanece policy
+
+
+Online No-regret Model-Based Meta RL for Personalized Navigation
+Yuda Song, Ye Yuan, Wen Sun, Kris Kitani
+L4DC, 2022
+
+Representation Learning for Online and Offline RL in Low-rank MDPs
+Masatoshi Uehara, Xuezhou Zhang, Wen Sun
+ICLR, 2022 (Spotlight)   [Slides] [Talk at RL Theory Seminar]
+
+
+Interleaving representation learning, exploration, and exploitation for efficient RL with nonlinear function approximation
+
+
+Pessimistic Model-based Offline Reinforcement Learning under Partial Coverage
+Masatoshi Uehara, Wen Sun
+ICLR, 2022   [Slides] [Talk at RL Theory Seminar]
+
+
+We show partial coverage and realizability is enough for efficient model-based learning in offline RL; notable examples include low-rank MDPs, KNRs, and factored MDPs.
+
+
+Transform2Act: Learning a Transform-and-Control Policy for Efficient Agent Design
+Ye Yuan, Yuda Song, Zhengyi Luo, Wen Sun, Kris Kitani
+ICLR, 2022 (Oral)   [Website]
+
+
+
+Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception
+Yurong You, Katie Luo, Xiangyu Chen, Junan Chen, Wei-Lun Chao, Wen Sun, Bharath Hariharan, Mark Campbell, and Kilian Q Weinberger
+ICLR, 2022
+
+
+
+Corruption-Robust Offline Reinforcement Learning
+Xuezhou Zhang, Yiding Chen, Jerry Zhu, Wen Sun
+AISTATS, 2022  
+
+Mitigating Covariate Shift in Imitation Learning via Offline Data Without Great Coverage
+Jonathan Chang*, Masatoshi Uehara*, Dhruv Sreenivas, Rahul Kidambi, Wen Sun
+NeurIPS, 2021   [code][poster]
+
+
+We show how to mitigate covariate shift by leveraging offline data that only provides partial coverage. A by-product of this work is new results for offline RL: partial coverage and robustness (i.e., being able to compete agaist any policy covered by the offline data)
+
+
+MobILE: Model-Based Imitation Learning From Observation Alone
+Rahul Kidambi, Jonathan Chang, Wen Sun
+NeurIPS, 2021   [poster] [code]
+
+
+IL from Observations is strictly harder than the classic IL; we incoporate exploration into the min-max IL framework (we balance exploration and imitation) to solve IL from observations near optimally in theory and efficiently in practice.
+
+
+Corruption Robust Exploration in Episodic Reinforcement Learning
+(by alphabetic order) Thodoris Lykouris, Max Simchowitz, Aleksandrs Slivkins, Wen Sun
+COLT (longer version published at Mathematics of Operations Research), 2021   [Talk at RL Theory seminar]
+
+
+A general framework that enables (1) active action elimination in RL, and (2) enables provably robust exploration with adversarial corruptions on both rewards and transitions.
+
+
+Robust Policy Gradient against Strong Data Corruption
+Xuezhou Zhang, Yiding Chen, Xiaojin Zhu, Wen Sun
+ICML, 2021   [code]
+
+
+An On-policy algorithm that is robust to constant fraction adversarial corruption; The TRPO/NPG based implementation scales to high-dimension control tasks and is robust to strong data corruption.
+
+
+PC-MLP: Model-based Reinforcement Learning with Policy Cover Guided Exploration
+Yuda Song, Wen Sun
+ICML, 2021   [code]
+
+
+We propose a simple model-based algorithm that achieves state-of-art in both dense reward continuous control tasks and sparse reward control tasks that require efficient exploration
+
+
+Fairness of Exposure in Stochastic Bandits
+Lequn Wang, Yiwei Bai, Wen Sun, Thorsten Joachims
+ICML, 2021  
+
+Bilinear Classes: A Structural Framework for Provable Generalization in RL
+(by alphabetic order) Simon S. Du, Sham M. Kakade, Jason D. Lee, Shachar Lovett, Gaurav Mahajan, Wen Sun, Ruosong Wang
+ICML, 2021   (Long Talk)   [Slides] [Talk at RL theory seminar]
+
+
+A new structural complexity captures generalization in RL with function approximation in both model-free and model-based settings. Notably, we show that MDPs with linear Q* and linear V* is PAC learnable.
+
+
+PC-PG: Policy Cover Directed Exploration for Provable Policy Gradient Learning
+(by alphabetic order) Alekh Agarwal, Mikael Henaff, Sham Kakade, Wen Sun
+NeurIPS, 2020   [slides] [code] [Talk at RL Theory seminar]
+
+
+We study the advantages of on-policy policy gradient methods compared to off-policy methods such as Q-learning, and provide a new PG algorithm with exploration
+
+
+Information Theoretic Regret Bounds for Online Nonlinear Control
+(by alphabetic order) Sham Kakade, Akshay Krishnamurthy, Kendall Lowrey, Motoya Ohnishi, Wen Sun
+NeurIPS, 2020   [video] [code]
+
+
+We study learning-to-control for nonlinear systems captured by RKHS or Gaussian Processes. While being more general, the regret bound is near optimal when specialized to LQRs
+
+
+FLAMBE: Structural Complexity and Representation Learning of Low Rank MDPs
+(by alphabetic order) Alekh Agarwal, Sham Kakade, Akshay Krishnamurthy, Wen Sun
+NeurIPS, 2020 (Oral)  
+
+
+Representation Learning in RL needs to be done jointly with exploration; we show how to do this correctly and riguously
+
+
+Constrained Episodic Reinforcement Learning in Concave-convex and Knapsack Settings
+(by alphabetic order) Kiante Brantley, Miroslav Dudik, Thodoris Lykouris, Sobhan Miryoosefi, Max Simchowitz, Aleksandrs Slivkins, Wen Sun
+NeurIPS, 2020  
+
+
+We study multi-objective RL and show how to do cautious exploration under various constraints
+
+
+Multi-Robot Collision Avoidance under Uncertainty with Probabilistic Safety Barrier Certificates
+Wenhao Luo, Wen Sun, Ashish Kapoor
+NeurIPS, 2020 (Spotlight)  
+
+Provably Efficient Model-based Policy Adaptation
+Yuda Song, Aditi Mavalankar, Wen Sun, Sicun Gao
+ICML, 2020   [video & code]
+
+
+We study Sim-to-Real under a model-based framework resulting an algorithm that enjoyes strong theoretical guarantees and excellent empirical performance
+
+
+Imitation Learning as f-Divergence Minimization
+Liyiming Ke, Sanjiban Choudhury, Matt Barnes, Wen Sun, Gilwoo Lee, Siddhartha Srinivasa
+WARF, 2020  
+
+We unify Imitation Learning by casting it as f-divergence minimization problem
+
+
+Disagreement-Regularized Imitation Learning
+Kiante Brantley, Wen Sun, Mikael Henaff
+ICLR, 2020 (Spotlight)   [code]
+
+
+Using disagreement among an ensemble of pre-trained behavior cloning policies to reduce covariate shift in IL
+
+
+Policy Poisoning in Batch Reinforcement Learning and Control
+Yuzhe Ma, Xuezhou Zhang, Wen Sun, Jerry Zhu
+NeurIPS, 2019   [code] [poster]
+
+Optimal Sketching for Kronecker Product Regression and Low Rank Approximation
+(by alphabetic order) Huaian Diao, Rajesh Jayaram, Zhao Song, Wen Sun, David P. Woodruff
+NeurIPS, 2019  
+
+Provably Efficient Imitation Learning from Observations Alone
+Wen Sun, Anirudh Vemola, Byron Boots, J. Andrew Bagnell,
+ICML 2019 (Long Talk) [code] [slides]
+
+Frame IL with observations alone as a sequence of two-player minmax games.
+Polynomial sample complexity for learning near-optimal policy with general function approximation.
+
+
+Contextual Memory Tree
+Wen Sun, Alina Beygelzimer, Hal Daume III, John Langford, Paul Mineiro
+ICML, 2019 (Long Talk) [code] [slides]
+
+An incremental & learnable memory system maintained in a nearly balanced tree structure to ensure logarithmic time operations
+
+
+Model-based RL in CDPs: PAC bounds and Exponential Improvements over Model-free Approaches
+Wen Sun Nan Jiang, Akshay Krishnamurthy, Alekh Agarwal, John Langford
+COLT, 2019 [slides]
+
+A theoretical comparison between model-based RL and model-free RL.
+A sample efficient model-based RL algorithm.
+
+
+Contrasting Exploration in Parameter and Action Space: A Zeroth-Order Optimization Perspective
+Anirudh Vemula, Wen Sun, Drew Bagnell
+AISTATS 2019 [code] [poster]
+
+Exploration in action space can be much more efficient than zero-th order method when the number of policy parameters is way larger than the dimension of action space and planning horizon.
+
+
+Dual Policy Iteration
+Wen Sun, Geoff Gordon, Byron Boots, Drew Bagnell
+NeurIPS 2018 [code] [slides]
+
+Leverage Model-based control (i.e., iLQR) and reward-aware Imitation Learning (e.g., AggreVaTeD) to double boost policy improvement
+
+
+Truncated Horizon Policy Search: Combining Reinforcement Learning and Imitation Learning
+Wen Sun, Drew Bagnell, Byron Boots
+ICLR, 2018 [poster]
+
+
+Combination of IL & RL: use expert's value function as reward shaping to shorten planning horizon which in turn speeds up RL
+
+
+Sketching for Kronecker Product Regression and P-splines
+(by alphabetic order) Huaian Diao, Zhao Song, Wen Sun, David P. Woodruff
+AISTATS, 2018   (Oral)
+
+Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction
+Wen Sun, Arun Venkatraman, Geoffrey J. Gordon, Byron Boots, J. Andrew Bagnell
+ICML, 2017   (also selected for oral presentation at RLDM 2017) [code] [slides]
+
+Can be viewed as an actor-critic algorithm with critic being expert's state-action Q function; exponential sample complexity seperation between IL and pure RL
+
+
+Safety-Aware Algorithms for Adversarial Contextual Bandit
+Wen Sun, Debadeepta Dey, Ashish Kapoor
+ICML, 2017 [slides]
+
+
+Minizing Regret while maintaining average risk below a pre-specified safety-threshold in long term
+
+
+Gradient Boosting on Stochastic Data Streams
+Hanzhang Hu, Wen Sun, Arun Venkatraman, Martial Hebert, Drew Bagnell
+AISTATS, 2017
+
+
+
+Learning to Filter with Predictive State Inference Machines
+Wen Sun, Arun Venkatraman, Byron Boots, J. Andrew Bagnell.
+ICML 2016 [slides]
+
+Learning to predict future recurrently.
+Can be viewed as a recurrent structure whose hidden state encodes information for accurately predicting future
+
+
+
+
+Online Bellman Residual Algorithms with Predictive Error Guarantees
+Wen Sun, Drew Bagnell
+UAI, 2015   Best Student Paper Award [slides]
+
+Adversarial online policy evaluation.
+A reduction from adversarial policy evaluation to general no-regret & stable online learning.
+
+
+
+
+Template from here
+

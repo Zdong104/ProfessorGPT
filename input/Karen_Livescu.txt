@@ -1,0 +1,736 @@
+Professor: Karen Livescu
+University: TTI Chicago
+URL: http://ttic.uchicago.edu/~klivescu
+Description: 	
+	  	Karen Livescu
+klivescu at ttic.edu
+
+Professor
+Toyota Technological Institute at Chicago
+
+(Note: I am on sabbatical for the 2023-24 academic year. I am a Visiting Scholar at Stanford and a Special Faculty Researcher at CMU.)
+
+My main research interests are in speech and language processing, as well as related aspects of machine learning.
+
+I am a Professor at TTI-Chicago, a philanthropically endowed graduate institute for computer science located on the University of Chicago campus. I am also a courtesy faculty member in Computer Science, and Affiliated Scholar at the Data Science Institute, at U. Chicago.
+
+TTIC is recruiting students to our PhD program, as well as additional faculty, including in speech and language-related areas (more on Speech and Language at TTIC).
+
+I completed my PhD in 2005 at MIT in the Spoken Language Systems group of the Computer Science and Artificial Intelligence Laboratory. In 2005-2007 I was a post-doctoral lecturer in the MIT EECS department. In 2008 I was a Research Assistant Professor at TTI-Chicago.
+
+
+News    Speech&Language@TTIC    Students/Postdocs    Publications    Teaching    CV    Misc
+
+
+
+News (see more news on the SL@TTIC page):
+Note: I do not use this space for news about awards, talks, or paper acceptances; if you are looking for these, I try to keep my CV reasonably up to date.
+
+The Workshop on Speech Foundation Models and their Performance Benchmarks (SPARKS)
+The OpenASL data set has been released
+The Spoken Language Understanding Evaluation (SLUE) benchmark is open for submissions
+IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing is out
+Chicago Fingerspelling in the Wild Data Sets released
+
+
+
+Teaching:
+Spring 2023 ... TTIC 31220: Unsupervised learning and data analysis
+Spring 2022 ... TTIC 31110 (CMSC 35110): Speech Technologies
+Winter 2021 ... TTIC 31220: Unsupervised learning and data analysis
+Spring 2020 ... TTIC 31110 (CMSC 35110): Speech Technologies
+Winter 2019 ... TTIC 31220: Unsupervised learning and data analysis
+Spring 2018 ... TTIC 31110 (CMSC 35110): Speech Technologies
+Spring 2017 ... TTIC 31220: Unsupervised learning and data analysis
+Spring 2016 ... TTIC 31110: Speech Technologies
+Spring 2015 ... TTIC 31090: Signals, Systems, and Random Processes
+Winter 2014 ... TTIC 31110: Speech Technologies
+Spring 2013 ... TTIC 31090: Signals, Systems, and Random Processes
+Spring 2012 ... TTIC 31110: Speech Technologies
+Spring 2011 ... TTIC 31090: Signals, Systems, and Random Processes
+Winter 2011 ... 20114231: Introduction to Speech Recognition (Weizmann Institute)
+Autumn 2009 ... CMSC 35900: Topics in Artificial Intelligence: Speech Technologies
+Autumn 2007, Autumn & Spring 2006, Autumn 2005 ... 6.003: Signals and Systems (MIT)
+Spring 2007 ... 6.345: Automatic Speech Recognition (MIT)
+
+
+	
+
+
+
+
+Grad students:
+Chung-Ming Chien
+Ju-Chieh Chou
+Ankita Pasad
+Freda (Haoyue) Shi (co-advised with Kevin Gimpel)
+
+Visiting/external students:
+Songcheng Cai (Zhejiang U.)
+Shester Gueuwou (Kwame Nkrumah University of Science and Technology)
+Yanhong Li (U. Chicago)
+
+Past grad students/post-docs:
+Shane Settle (PhD 2023)
+Bowen Shi (PhD 2023 → Meta)
+Qingming Tang (PhD 2023 → Amazon)
+Shubham Toshniwal (co-advised with Kevin Gimpel) (PhD 2022 → NVIDIA)
+Hao Tang (PhD 2017 → post-doc at MIT → faculty at U. Edinburgh)
+Herman Kamper (post-doc 2017 → faculty at Stellenbosch U.)
+Weiran Wang (post-doc 2014-2016 → Amazon → Google)
+Taehwan Kim (PhD 2016 → post-doc at Caltech → faculty at UNIST)
+Arild Brandrud Næss (NTNU PhD 2015, co-advised with Torbjørn Svendsen → faculty at NTNU Business School)
+Bahador Nooraei (MS 2015)
+Raman Arora (post-doc 2011-2013 → faculty at JHU)
+Louis Terry (Northwestern CSE PhD 2011, co-advised with Aggelos Katsaggelos)
+John Labiak (U. Chicago Stats MS 2010, co-advised with Yali Amit and Partha Niyogi)
+
+Past visiting/external students:
+Hadas Benisty (Technion EE)
+Sujeeth Bharadwaj (UIUC ECE)
+Sam Bowman (U. Chicago Linguistics BA)
+Yang Chen (U. Chicago)
+Soham De (Jadavpur University CSE)
+Dhivya Eswaran (IIT Madras CSE BTech)
+Victoria Evelkin (Technion EE BS)
+Matt Faytak (U. Chicago Linguistics BA)
+Wanjia He (U. Chicago PSD MS)
+Katie Henry (U. Chicago Computer Science BA)
+Yushi Hu (U. Chicago)
+Shuning Jin (UMN Duluth/UMD)
+Preethi Jyothi (Ohio State CSE PhD)
+Herman Kamper (U. Edinburgh CS PhD)
+Jack Huang (U. Chicago BS)
+Gabrielle Knight (Northwestern Integrated Sciences BS)
+Kalpesh Krishna (IIT Bombay BS)
+Ang Lu (Tsinghua University Automation BS)
+Raci Lynch (Stanford SS BS)
+Pranava Swaroop Madhyastha (UPC Barcelona CS PhD)
+Anna Margolis (U. Washington CS PhD)
+Jon Michaux (U. Chicago PhD)
+Katie Mock (U. Chicago Linguistics BA)
+Puyuan (Jason) Peng (U. Chicago Stats MS)
+Mindi Porebsky (UIUC Linguistics BA)
+Rohit Prabhavalkar (Ohio State CSE PhD)
+Mark Stoehr (U. Chicago Math BS/CS PhD)
+Naohiro Tawara (Waseda U.)
+Trang Tran (U. Washington EE PhD)
+John Wieting (UIUC CS PhD)
+
+
+
+Publications and preprints:
+
+S. Arora, A. Pasad, C.-M. Chien, J. Han, R. Sharma, J.-w. Jung, H. Dhamyal, W. Chen, S. Shon, H.-y. Lee, K. Livescu, S. Watanabe
+"On the Evaluation of Speech Foundation Models for Spoken Language Understanding"
+ACL 2024 Findings (to appear)
+
+F. Shi, K. Gimpel, and K. Livescu
+"Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing"
+ACL 2024 (to appear)
+
+S. Arora, H. Futami, J.-w. Jung, Y. Peng, R. Sharma, Y. Kashiwagi, E. Tsunoo, K. Livescu, S. Watanabe
+"UniverSLU: Universal Spoken Language Understanding for Diverse Tasks with Natural Language Instructions"
+NAACL 2024
+
+A. Pasad, C.-M. Chien, S. Settle, and K. Livescu
+What do self-supervised speech models know about words?"
+TACL 2024
+
+J.-C. Chou, C.-M. Chien, and K. Livescu
+"AV2Wav: Diffusion-Based Re-Synthesis from Continuous Self-Supervised Features for Audio-Visual Speech Enhancement"
+ICASSP 2024
+(demo)
+
+S. Shon, K. Kim, P. Sridhar, Y.-T. Hsu, S. Watanabe, and K. Livescu
+"Generative Context-Aware Fine-Tuning of Self-Supervised Speech Models"
+ICASSP 2024
+
+M. Sandoval-Castañeda, Y. Li, B. Shi, D. Brentari, K. Livescu, and G. Shakhnarovich
+"TTIC's Submission to WMT-SLT 23"
+8th Conference on Machine Translation 2023 (Top system)
+
+J.-C. Chou, C.-M. Chien, W.-N. Hsu, K. Livescu, A. Babu, A. Conneau, A. Baevski, and M. Auli
+"Toward Joint Language Modeling for Speech Units and Text"
+Findings of EMNLP 2023
+
+C.-M. Chien, M. Zhang, J.-C. Chou, and K. Livescu
+"Few-shot spoken language understanding via joint speech-text models"
+ASRU 2023 (Best Student Paper Award)
+
+C.-I. J. Lai, F. Shi, P. Peng, Y. Kim, K. Gimpel, S. Chang, Y.-S. Chuang, S. Bhati, D. Cox, D. Harwath, Y. Zhang, K. Livescu, and J. Glass
+"Audio-visual neural syntax acquisition"
+ASRU 2023
+
+M. Sandoval-Castañeda, Y. Li, D. Brentari, K. Livescu, and G. Shakhnarovich
+Self-Supervised Video Transformers for Isolated Sign Language Recognition
+arXiv:2309.02450
+
+S. Shon, S. Arora, C.-J. Lin, A. Pasad, F. Wu, R. Sharman, W.-L. Wu, H.-Y. Lee, K. Livescu, and S. Watanabe
+"SLUE Phase-2: A Benchmark Suite of Diverse Spoken Language Understanding Tasks"
+ACL 2023
+
+A. Pasad, B. Shi, and K. Livescu
+"Comparative layer-wise analysis of self-supervised speech models"
+ICASSP 2023
+
+S. Shon, F. Wu, K. Kim, P. Sridhar, K. Livescu, S. Watanabe
+"Context-aware fine-tuning of self-supervised speech models"
+ICASSP 2023
+
+A. Srivastava et al.
+"Beyond the imitation game: Quantifying and extrapolating the capabilities of language models"
+Transactions on Machine Learning Research 2023
+
+D. Yunis, K. K. Patel, P. Savarese, G. Vardi, K. Livescu, M. Walter, J. Rankle, and M. Maire
+"On Convexity and Linear Mode Connectivity in Neural Networks"
+NeurIPS Workshop on Optimization for Machine Learning (OPT) 2022
+
+B. Shi, D. Brentari, G. Shakhnarovich, and K. Livescu
+"TTIC's WMT-SLT 22 Sign Language Translation System"
+Proc. 7th Conference on Machine Translation (WMT) 2022
+
+S. Toshniwal, S. Wiseman, K. Livescu, and K. Gimpel
+"Baked-in State Probing"
+Findings of EMNLP 2022
+
+B. Shi, D. Brentari, G. Shakhnarovich, and K. Livescu
+"Open-domain sign language translation learned from online video"
+EMNLP 2022
+(data)
+
+A. Mohamed, H. Lee, L. Borgholt, J. D. Havtorn, J. Edin, C. Igel, K. Kirchhoff, S.-W. Li, K. Livescu, L. Maaløe, T. N. Sainath, and S. Watanabe
+"Self-supervised speech representation learning: A review"
+IEEE Journal of Selected Topics in Signal Processing 16(6):1179-1210, October 2022.
+
+A. Pasad, F. Wu, S. Shon, K. Livescu, and K. J. Han
+"On the use of external data for spoken named entity recognition"
+NAACL 2022
+
+B. Shi, D. Brentari, G. Shakhnarovich, and K. Livescu
+"Searching for fingerspelled content in American Sign Language"
+ACL 2022
+
+H. Shi, K. Gimpel, and K. Livescu
+"Substructure distribution projection for zero-shot cross-lingual dependency parsing"
+ACL 2022
+
+S. Shon, A. Pasad, F. Wu, P. Brusco, Y. Artzi, K. Livescu, and K. J. Han
+"SLUE: New benchmark tasks for spoken language understanding evaluation on natural speech"
+ICASSP 2022
+(code and data)
+
+S. Toshniwal, S. Wiseman, K. Livescu, and K. Gimpel
+"Chess as a testbed for language model state tracking"
+AAAI 2022
+(code and data)
+
+A. Pasad, J.-C. Chou, and K. Livescu
+"Layer-wise analysis of a self-supervised speech representation model"
+ASRU 2021
+
+S. Toshniwal*, P. Xia*, S. Wiseman, K. Gimpel, and K. Livescu
+"On generalization in coreference resolution"
+Fourth Workshop on Computational Models of Reference, Anaphora, and Coreference (CRAC) 2021 (Best Short Paper Award)
+
+B. Shi, D. Brentari, G. Shakhnarovich, and K. Livescu
+"Fingerspelling detection in American Sign Language"
+CVPR 2021
+
+H. Shi, K. Livescu, and K. Gimpel
+"Substructure substitution: Structured data augmentation for NLP"
+Findings of ACL-IJCNLP 2021
+
+Y. Hu, S. Settle, and K. Livescu
+"Acoustic span embeddings for multilingual query-by-example search"
+SLT 2021
+
+B. Shi, S. Settle, and K. Livescu
+"Whole-word segmental speech recognition with acoustic word embeddings"
+SLT 2021
+
+P. Peng, H. Kamper, and K. Livescu
+"A correspondence variational autoencoder for unsupervised acoustic word embeddings"
+NeurIPS 2020 Workshop on Self-Supervised Learning for Speech and Audio Processing
+
+H. Shi, K. Livescu, and K. Gimpel
+"On the role of supervision in unsupervised constituency parsing"
+EMNLP 2020
+
+S. Toshniwal, S. Wiseman, A. Ettinger, K. Livescu, and K. Gimpel
+"Learning to ignore: Long document coreference with bounded memory neural networks"
+EMNLP 2020
+
+Y. Hu, S. Settle, and K. Livescu
+"Multilingual jointly trained acoustic and written word embeddings"
+Interspeech 2020
+
+S. Jin, S. Wiseman, K. Stratos and K. Livescu
+"Discrete latent variable representations for low-resource text classification"
+ACL 2020
+
+S. Toshniwal, A. Ettinger, K. Gimpel, and K. Livescu
+"PeTra: A sparsely supervised memory model for people tracking"
+ACL 2020
+
+S. Toshniwal, H. Shi, B. Shi, L. Gao, K. Livescu, and K. Gimpel
+"A cross-task analysis of text span representations"
+ACL Workshop on Representation Learning for NLP (RepL4NLP) 2020
+
+W. Wang, Q. Tang, and K. Livescu
+"Unsupervised pre-training of bidirectional speech encoders via masked reconstruction"
+ICASSP 2020
+
+B. Shi, A. Martinez Del Rio, J. Keane, D. Brentari, G. Shakhnarovich, and K. Livescu
+"Fingerspelling recognition in the wild with iterative visual attention"
+ICCV 2019
+(code, data)
+
+T. Hayashi, S. Watanabe, T. Toda, K. Takeda, S. Toshniwal, and K. Livescu
+"Pre-trained text embeddings for enhanced text-to-speech synthesis"
+Interspeech 2019
+
+A. Pasad, B. Shi, H. Kamper, and K. Livescu
+"On the contributions of visual and textual supervision in low-resource semantic speech retrieval"
+Interspeech 2019
+
+H. Shi*, J. Mao*, K. Gimpel, and K. Livescu
+"Visually grounded neural syntax acquisition"
+ACL 2019
+(code, project page)
+
+S. Bansal, H. Kamper, K. Livescu, A. Lopez, and S. Goldwater
+"Pre-training on high-resource speech recognition improves low-resource speech-to-text translation"
+NAACL 2019
+
+H. Kamper, A. Anastassiou, and K. Livescu
+"Semantic query-by-example speech search using visual grounding"
+ICASSP 2019
+
+S. Settle, K. Audhkhasi, K. Livescu, and M. Picheny
+"Acoustically grounded word embeddings for improved acoustics-to-word speech recognition"
+ICASSP 2019
+
+H. Kamper, G. Shakhnarovich, and K. Livescu
+"Semantic speech retrieval with a visually grounded model of untranscribed speech"
+IEEE/ACM Transactions on Audio, Speech, and Language Processing 27(1):89-98, January 2019.
+
+E. M. Mugler, M. C. Tate, K. Livescu, J. W. Templer, M. A. Goldrick, M. W. Slutzky
+"Differential representation of articulatory gestures and phonemes in motor, premotor, and inferior frontal cortices"
+bioRxiv doi:10.1101/220723
+J. Neuroscience 38(46):9803-9813, 14 November 2018.
+
+B. Shi, A. Martinez Del Rio, J. Keane, J. Michaux, D. Brentari, G. Shakhnarovich, and K. Livescu
+"American Sign Language fingerspelling recognition in the wild"
+SLT 2018
+(data)
+
+S. Toshniwal, A. Kannan, C.-C. Chiu, Y. Wu, T. N. Sainath, and K. Livescu
+"A comparison of techniques for language model integration in encoder-decoder speech recognition"
+SLT 2018
+
+M. Chen, Q. Tang, K. Livescu, and K. Gimpel
+"Variational sequential labelers for semi-supervised learning"
+EMNLP 2018
+
+S. Bansal, H. Kamper, K. Livescu, A. Lopez, S. Goldwater
+"Low-resource speech-to-text translation"
+Interspeech 2018
+
+K. Krishna, S. Toshniwal, and K. Livescu
+"Hierarchical multitask learning for CTC-based speech recognition"
+arXiv:1807.06234
+
+T. Tran, S. Toshniwal, M. Bansal, K. Gimpel, K. Livescu, and M. Ostendorf
+"Parsing speech: A neural approach to integrating lexical and acoustic-prosodic information"
+NAACL HLT 2018
+(code)
+
+K. Krishna, L. Lu, K. Gimpel, and K. Livescu
+"A study of all-convolutional encoders for connectionist temporal classification"
+ICASSP 2018
+
+Q. Tang, W. Wang, and K. Livescu
+"Acoustic feature learning using using cross-domain articulatory measurements"
+ICASSP 2018
+
+B. Shi and K. Livescu
+"Multitask training with unlabeled data for end-to-end sign language fingerspelling recognition"
+ASRU 2017
+(data)
+
+H. Kamper, K. Livescu, and S. Goldwater
+"An embedded segmental k-means model for unsupervised segmentation and clustering of speech"
+ASRU 2017 (Best Paper nominee)
+(code)
+
+H. Tang, L. Lu, L. Kong, K. Gimpel, K. Livescu, C. Dyer, N. A. Smith, and S. Renals
+"End-to-End Neural Segmental Models for Speech Recognition"
+IEEE Journal of Selected Topics in Signal Processing 11(8):1254-1264, December 2017.
+
+S. Toshniwal, H. Tang, L. Lu, and K. Livescu
+"Multitask learning with low-level auxiliary tasks for encoder-decoder based speech recognition"
+Interspeech 2017
+
+H. Kamper, S. Settle, H. Kamper, G. Shakhnarovich, and K. Livescu
+"Visually grounded learning of keyword prediction from untranscribed speech"
+Interspeech 2017
+(code)
+
+S. Settle, K. Levin, H. Kamper, and K. Livescu
+"Query-by-example search with discriminative neural acoustic word embeddings"
+Interspeech 2017
+(code)
+
+Q. Tang, W. Wang, and K. Livescu
+"Acoustic feature learning with deep variational canonical correlation analysis"
+Interspeech 2017
+(code, data)
+
+T. Kim, J. Keane, W. Wang, H. Tang, J. Riggle, G. Shakhnarovich, D. Brentari, and K. Livescu
+"Lexicon-Free Fingerspelling Recognition from Video: Data, Models, and Signer Adaptation"
+Computer Speech and Language 46:209-232, November 2017.
+(data)
+
+L. Tu, K. Gimpel, and K. Livescu
+"Learning to Embed Words in Context for Syntactic Tasks"
+ACL Workshop on Representation Learning for NLP (RepL4NLP) 2017 (Best Paper award)
+
+W. He, W. Wang, and K. Livescu
+"Multi-view recurrent neural acoustic word embeddings"
+ICLR 2017
+(code, 1024-dimensional orthographic word embeddings for ~88K words)
+
+S. Settle and K. Livescu
+"Discriminative acoustic word embeddings: Recurrent neural network-based approaches"
+SLT 2016
+
+H. Tang, W. Wang, K. Gimpel, and K. Livescu
+"End-to-end training approaches for discriminative segmental models"
+SLT 2016
+
+S. Toshniwal and K. Livescu
+"Jointly learning to align and convert graphemes to phonemes with neural attention models"
+SLT 2016
+(code)
+
+W. Wang, H. Lee, and K. Livescu
+"Deep variational canonical correlation analysis"
+arXiv:1610.03454
+(code, data)
+
+J. Wieting, M. Bansal, K. Gimpel, and K. Livescu
+"Charagram: Embedding Words and Sentences via Character n-grams"
+EMNLP 2016
+(code, models)
+
+H. Tang, W. Wang, K. Gimpel, and K. Livescu
+"Efficient segmental cascades for speech recognition"
+Interspeech 2016
+
+W. Wang, H. Tang, and K. Livescu
+"Triphone state-tying via deep canonical correlation analysis"
+Interspeech 2016
+
+P. Swaroop Madhyastha, M. Bansal, K. Gimpel, and K. Livescu
+"Mapping unseen words to task-trained embedding spaces"
+Workshop on Representation Learning for NLP, ACL 2016 (Best Paper award)
+
+T. Michaeli, W. Wang, and K. Livescu
+"Nonparametric canonical correlation analysis"
+ICML 2016
+(code)
+
+W. Wang and K. Livescu
+"Large-scale approximate kernel canonical correlation analysis"
+ICLR 2016
+
+J. Wieting, M. Bansal, K. Gimpel, and K. Livescu
+"Towards universal paraphrastic sentence embeddings"
+ICLR 2016
+(code)
+(embeddings)
+
+T. Kim, W. Wang, H. Tang, and K. Livescu
+"Signer-independent fingerspelling recognition with deep neural network adaptation"
+ICASSP 2016 (Best Student Paper nominee)
+
+H. Kamper, W. Wang, and K. Livescu
+"Deep convolutional acoustic word embeddings using word-pair side information"
+ICASSP 2016
+(code)
+
+K. Livescu, P. Jyothi, and E. Fosler-Lussier
+"Articulatory Feature-Based Pronunciation Modeling" (preprint)
+Computer Speech and Language 36:212-232, March 2016.
+
+W. Wang, R. Arora, K. Livescu, and J. Bilmes
+"On deep multi-view representation learning: Objectives and optimization"
+arXiv:1602.01024 (long version of ICML 2015 paper)
+(python code, Matlab code)
+
+W. Wang, R. Arora, N. Srebro, and K. Livescu
+"Stochastic optimization for deep CCA via nonlinear orthogonal iterations"
+53rd Annual Allerton Conference on Communication, Control, and Computing, 2015.
+
+H. Tang, W. Wang, K. Gimpel, and K. Livescu
+"Discriminative segmental cascades for feature-rich phone recognition"
+ASRU 2015 (Best Paper nominee)
+(code)
+
+J. Wieting, M. Bansal, K. Gimpel, K. Livescu, and D. Roth
+"From paraphrase database to compositional paraphrase model and back"
+Trans. ACL 3:345-358, June 2015 (presented at EMNLP 2015).
+(embeddings, data, code)
+
+W. Wang, R. Arora, K. Livescu, and J. Bilmes
+"On deep multi-view representation learning"
+ICML 2015.
+(long version)
+(python code, Matlab code)
+
+A. Lu, W. Wang, M. Bansal, K. Gimpel, and K. Livescu
+"Deep multilingual correlation for improved word embeddings"
+NAACL 2015.
+
+W. Wang, R. Arora, K. Livescu, and J. Bilmes
+"Unsupervised learning of acoustic features via deep canonical correlation analysis"
+ICASSP 2015.
+(data)
+(python code, Matlab code)
+
+W. Wang, R. Arora, and K. Livescu
+"Reconstruction of articulatory measurements with smoothed low-rank matrix completion"
+SLT 2014.
+
+H. Tang, K. Gimpel, and K. Livescu
+"A comparison of training approaches for discriminative segmental models"
+Interspeech 2014.
+(code)
+
+P. Jyothi and K. Livescu
+"Revisiting word neighborhoods for speech recognition"
+ACL 2014 MORPHFSM Workshop.
+(demo + code)
+
+M. Bansal, K. Gimpel, and K. Livescu
+"Tailoring continuous word representations for dependency parsing"
+ACL 2014 (short).
+
+R. Arora and K. Livescu
+"Multi-view learning with supervision for transformed bottleneck features"
+ICASSP 2014.
+
+K. Levin, K. Henry, A. Jansen, and K. Livescu
+"Fixed-dimensional acoustic embeddings of variable-length segments in low-resource settings"
+ASRU 2013. (Best Student Paper 2nd place)
+
+T. Kim, G. Shakhnarovich, and K. Livescu
+"Fingerspelling recognition with semi-Markov conditional random fields"
+ICCV 2013.
+
+P. Jyothi, E. Fosler-Lussier, and K. Livescu
+"Discriminative training of WFST factors with application to pronunciation modeling"
+Interspeech 2013.
+
+G. Andrew, R. Arora, J. Bilmes, and K. Livescu
+"Deep canonical correlation analysis"
+ICML 2013.
+
+R. Prabhavalkar, K. Livescu, E. Fosler-Lussier, and J. Keshet
+"Discriminative articulatory models for spoken term detection in low-resource conversational settings"
+ICASSP 2013.
+
+R. Arora and K. Livescu
+"Multi-view CCA-based acoustic features for phonetic recognition across speakers and domains"
+ICASSP 2013.
+
+T. Kim, K. Livescu, and G. Shakhnarovich
+"American Sign Language fingerspelling recognition with phonological feature-based tandem models"
+SLT 2012.
+
+K. Livescu, E. Fosler-Lussier, and F. Metze
+"Subword modeling for automatic speech recognition: Past, present, and emerging approaches"
+(preprint -- differs slightly from published version)
+Signal Processing Magazine 29(6):44-57, November 2012.
+
+R. Arora, A. Cotter, K. Livescu, and N. Srebro
+"Stochastic optimization for PCA and PLS"
+50th Annual Allerton Conference on Communication, Control, and Computing, 2012.
+
+R. Arora and K. Livescu
+"Kernel CCA for multi-view learning of acoustic features using articulatory measurements"
+Symposium on Machine Learning in Speech and Language Processing (MLSLP) 2012.
+
+R. Prabhavalkar, J. Keshet, K. Livescu, and E. Fosler-Lussier
+"Discriminative spoken term detection with limited data"
+Symposium on Machine Learning in Speech and Language Processing (MLSLP) 2012.
+
+P. Jyothi, E. Fosler-Lussier, and K. Livescu
+"Discriminatively learning factorized finite state pronunciation models from dynamic Bayesian networks"
+Interspeech 2012. (Best Student Paper award)
+
+H. Tang, J. Keshet, and K. Livescu
+"Discriminative pronunciation modeling: A large-margin, feature-rich approach"
+ACL 2012.
+
+S. Bharadwaj, R. Arora, K. Livescu, and M. Hasegawa-Johnson
+"Multi-view acoustic feature learning using articulatory measurements"
+IEEE International Workshop on Statistical Machine Learning for Speech Processing (IWSML) 2012.
+
+R. Prabhavalkar, E. Fosler-Lussier, and K. Livescu
+"A factored conditional random field model for articulatory feature forced transcription"
+ASRU 2011.
+
+J. Labiak and K. Livescu
+"Nearest neighbors with learned distances for phonetic frame classification"
+Interspeech 2011.
+
+A. B. Næss, K. Livescu, and R. Prabhavalkar
+"Articulatory feature classification using nearest neighbors"
+Interspeech 2011.
+
+P. Jyothi, K. Livescu, and E. Fosler-Lussier
+"Lexical access experiments with context-dependent articulatory feature-based models"
+ICASSP 2011.
+
+S. Bowman and K. Livescu
+"Modeling pronunciation variation with context-dependent articulatory feature decision trees"
+Interspeech 2010.
+
+L. Terry, K. Livescu, J. Pierrehumbert, and A. Katsaggelos
+"Audio-visual anticipatory coarticulation modeling by human and machine"
+Interspeech 2010.
+
+A. Margolis, K. Livescu, and M. Ostendorf
+"Semi-supervised domain adaptation for automatic dialog act tagging"
+DANLP 2010.
+
+A. Margolis, M. Ostendorf, and K. Livescu
+"Cross-genre training for automatic prosody classification"
+Speech Prosody 2010.
+
+K. Livescu and M. Stoehr
+"Multi-view learning of acoustic features for speaker recognition"
+ASRU 2009.
+
+K. Saenko, K. Livescu, J. Glass, and T. Darrell
+"Multistream articulatory feature-based models for visual speech recognition"
+IEEE Trans. Pattern Analysis and Machine Intelligence 31(9):1700-1707, September 2009.
+
+K. Chaudhuri, S. Kakade, K. Livescu, and K. Sridharan
+"Multi-view clustering via canonical correlation analysis"
+ICML 2009.
+
+K. Livescu, B. Zhu, and J. Glass
+"On the phonetic information in ultrasonic microphone signals"
+ICASSP 2009.
+
+O. Cetin, M. Magimai-Doss, K. Livescu, A. Kantor, S. King, C. Bartels, and J. Frankel
+"Monolingual and crosslingual comparison of tandem features derived from articulatory and phone MLPs"
+ASRU 2007.
+
+J. Frankel, M. Magimai-Doss, S. King, K. Livescu, and O. Cetin
+"Articulatory feature classifiers trained on 2000 hours of telephone speech"
+Interspeech 2007.
+
+M. Hasegawa-Johnson, K. Livescu, P. Lal, and K. Saenko
+"Audiovisual speech recognition with articulator positions as hidden variables"
+ICPhS 2007.
+
+K. Livescu, O. Cetin, M. Hasegawa-Johnson, S. King, C. Bartels, N. Borges, A. Kantor, P. Lal, L. Yung, A. Bezman, S. Dawson-Haggerty, B. Woods, J. Frankel, M. Magimai-Doss, K. Saenko
+"Articulatory feature-based methods for acoustic and audio-visual speech recognition: Summary from the 2006 JHU Summer Workshop"
+ICASSP 2007.
+
+O. Cetin, A. Kantor, S. King, C. Bartels, M. Magimai-Doss, J. Frankel, and K. Livescu
+"An articulatory feature-based tandem approach and factored observation modeling"
+ICASSP 2007.
+
+K. Livescu, A. Bezman, N. Borges, L. Yung, O. Cetin, J. Frankel, S. King, M. Magimai-Doss, X. Chi, and L. Lavoie
+"Manual transcription of conversational speech at the articulatory feature level"
+ICASSP 2007.
+
+S. King, J. Frankel, K. Livescu, E. McDermott, K. Richmond, and M. Wester
+"Speech production knowledge in automatic speech recognition"
+Journal of the Acoustical Society of America 121(2):723-742, February 2007.
+
+K. Saenko and K. Livescu
+"An Asynchronous DBN for Audio-Visual Speech Recognition"
+SLT 2006.
+
+K. Saenko, K. Livescu, M. Siracusa, K. Wilson, J. Glass, and T. Darrell
+"Visual speech recognition with loosely synchronized feature streams"
+ICCV 2005.
+
+T. J. Hazen, I. L. Hetherington, H. Shu, and K. Livescu
+"Pronunciation modeling using a finite-state transducer representation"
+Speech Communication 46(2):189-203, June 2005.
+
+M. Hasegawa-Johnson, J. Baker, S. Borys, K. Chen, E. Coogan, S. Greenberg, A. Juneja, K. Kirchhoff, K. Livescu, K. Sonmez, S. Mohan, J. Muller, and T. Wang
+"Landmark-based speech recognition: Report of the 2004 Johns Hopkins Summer Workshop"
+ICASSP 2005.
+
+K. Saenko, K. Livescu, J. Glass, and T. Darrell
+"Production domain modeling of pronunciation for visual speech recognition,"
+ICASSP 2005.
+
+K. Livescu and J. Glass
+"Feature-based pronunciation modeling with trainable asynchrony probabilities"
+ICSLP 2004.
+
+K. Livescu and J. Glass
+"Feature-based pronunciation modeling for speech recognition"
+HLT/NAACL 2004.
+
+K. Livescu, J. Glass, and J. Bilmes
+"Hidden feature modeling for speech recognition using dynamic Bayesian networks"
+Eurospeech 2003.
+
+T. J. Hazen, I. L. Hetherington, H. Shu, and K. Livescu
+"Pronunciation modeling using a finite-state transducer representation"
+ISCA Tutorial and Research Workshop on Pronunciation Modeling and Lexicon Adaptation for Spoken Language (PMLA) 2002.
+
+G. Zweig, J. Bilmes, T. Richardson, K. Filali, K. Livescu, P. Xu, K. Jackson, Y. Brandman, E. Sandness, E. Holtz, J. Torres, and B. Byrne
+"Structurally discriminative graphical models for automatic speech recognition -- results from the 2001 Johns Hopkins Summer Workshop"
+ICASSP 2002.
+
+K. Livescu and J. Glass
+"Segment-based recognition on the PhoneBook task: Initial results and observations on duration modeling."
+Eurospeech 2001.
+
+K. Livescu and J. Glass
+"Lexical modeling of non-native speech for automatic speech recognition."
+ICASSP 2000.
+
+
+Technical reports, theses:
+
+K. Livescu, O. Cetin, M. Hasegawa-Johnson, S. King, C. Bartels, N. Borges, A. Kantor, P. Lal, L. Yung, A. Bezman, S. Dawson-Haggerty, and B. Woods, "Articulatory Feature-based Methods for Acoustic and Audio-Visual Speech Recognition: 2006 JHU Summer Workshop Final Report." Center for Language and Speech Processing, Johns Hopkins University.
+
+K. Livescu, "Feature-Based Pronunciation Modeling for Automatic Speech Recognition." Ph.D. Thesis, MIT Department of Electrical Engineering and Computer Science, September 2005.
+
+M. Hasegawa-Johnson, J. Baker, S. Greenberg, K. Kirchhoff, J. Muller, K. Sonmez, S. Borys, K. Chen, A. Juneja, K. Livescu, S. Mohan, E. Coogan, and T. Wang,"Landmark-based Speech Recognition: Report of the 2004 Johns Hopkins Summer Workshop," Johns Hopkins University 2004 Summer Workshop final report.
+
+J. Bilmes, G. Zweig, T. Richardson, K. Filali, K. Livescu, P. Xu, K. Jackson, Y. Brandman, E. Sandness, E. Holtz, J. Torres, and B. Byrne, "Discriminatively Structured Graphical Models for Speech Recognition." Johns Hopkins University 2001 Summer Workshop final report.
+
+K. Livescu, "Analysis and Modeling of Non-Native Speech for Automatic Speech Recognition." S.M. Thesis, MIT Department of Electrical Engineering and Computer Science, August 1999.
+
+K. Livescu, "Analysis of Human and Parrot Phonation Using an Energy Operator and Energy Separation Algorithm." A.B. Thesis, Princeton Department of Physics, April 1996.
+
+
+
+Some neat speech links:
+
+Listen to the sounds of the IPA chart
+
+Why is it hard to understand the lyrics in high soprano singing? (It is not because they are singing in Middle High German)
+
+An interactive vocal tract demo
+
+A formant synthesis demo
+
+
+
+Personal
+ 
+

@@ -1,0 +1,746 @@
+Professor: Christopher De Sa
+University: Cornell University
+URL: http://www.cs.cornell.edu/~cdesa
+Description: Loading [MathJax]/jax/output/CommonHTML/jax.js
+	
+Chris De Sa
+
+cdesa@cs.cornell.edu
+Gates Hall, Room 426
+
+I am an Associate Professor in the Computer Science department at Cornell University. I am a member of the Cornell Machine Learning Group and I lead the Relax ML Lab. My research interests include algorithmic, software, and hardware techniques for high-performance machine learning, with a focus on relaxed-consistency variants of stochastic algorithms such as asynchronous and low-precision stochastic gradient descent (SGD) and Markov chain Monte Carlo. My work builds towards using these techniques to construct data analytics and machine learning frameworks, including for deep learning, that are efficient, parallel, and distributed.
+
+I graduated from Stanford University in 2017, where I was advised by Kunle Olukotun and by Chris R‌é.
+
+Recent News and Awards[show all news]
+
+▷ Our paper "Is My Prediction Arbitrary? The Confounding Effects of Variance in Fair Classification Benchmarks" won a Best Student Paper Award Honorable Mention for the AI for Social Impact track at AAAI-2024. 
+
+▷ I gave a keynote speech at the International Conference on AI-ML Systems. 
+
+▷ I am program chair at MLSys 2024. 
+
+▷ I was awarded the Google Research Scholar Award. 
+
+▷ I was a workshop/tutorial chair at MLSys 2022. 
+
+▷ Our paper "Optimal Complexity in Decentralized Training" (Yucheng Lu, Chris De Sa) won an Outstanding Paper Award Honorable Mention at ICML 2021 (awarded to 4 papers out of 1184 publications). 
+
+PhD Students
+
+▷ Ruqi Zhang. PhD 2021, Statistics (now an Assistant Professor at Purdue CS). Scalable Bayesian inference for ML. 
+
+▷ Yucheng Lu. PhD 2023, Computer Science (now at Together). Distributed optimization, ML systems. 
+
+▷ A. Feder Cooper. PhD 2024, Computer Science (postdoc at MSR, affiliate at Stanford HAI; future Assistant Professor at Yale CS). Reliable measurement and evaluation of ML systems. 
+
+▷ Tao Yu. PhD 2024, Computer Science. Private and secure ML, accurate learning in hyperbolic space. 
+
+▷ Jerry Chee. PhD Student, Computer Science. Scalable and resource-efficient ML. 
+
+▷ Yaohui Cai. PhD Student, Electrical and Computing Engineering. Efficient deep learning inference and training (co-advised with Zhiru Zhang). 
+
+▷ Si Yi (Cathy) Meng. PhD Student, Computer Science. Optimization algorithms for large-scale machine learning. 
+
+▷ Albert Tseng. PhD Student, Computer Science. Deep learning quantization and compression. 
+
+Teaching
+
+▷ CS 4780/5780 Machine Learning (Spring 2022, Spring 2018)
+
+▷ CS 4787/5777 Principles of Large-Scale Machine Learning (Fall 2023, Fall 2022, Spring 2021, Spring 2020, Spring 2019)
+
+▷ CS 6787 Advanced Machine Learning Systems (Fall 2021, Fall 2020, Fall 2019, Fall 2018, Fall 2017)
+
+▷ CS 7792 Special Topics in Machine Learning (Spring 2023)
+
+Office Hours Wednesdays 2:00-3:00 PM in Gates 426.
+
+Publications
+
+Lab Website — CV — Google Scholar — Show All Abstracts — Hide All Abstracts
+
+ICML 2024
+	
+QuIP♯: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks
+Albert Tseng, Jerry Chee, Qingyao Sun, Volodymyr Kuleshov, Christopher De Sa
+In ICML: the Fortieth International Conference on Machine Learning, July 2024.
+[Abstract] [Paper]
+
+
+
+ICLR 2024
+	
+Shadow Cones: A Generalized Framework for Partial Order Embeddings
+Tao Yu, Toni J.B. Liu, Albert Tseng, Christopher De Sa
+In ICLR: The Twelfth International Conference on Learning Representations, May 2024.
+[Abstract] [Paper]
+
+
+
+AAAI 2024
+	
+Arbitrariness of Prediction in Fair Classification Best Student Paper (Honorable Mention)
+A. Feder Cooper, Katherine Lee, Madiha Choksi, Solon Barocas, Christopher De Sa, James Grimmelmann, Jon Kleinberg, Siddhartha Sen, Baobao Zhang
+In The 38th Annual AAAI Conference on Artificial Intelligence, February 2024.
+[Abstract] [Arxiv]
+
+
+
+SA 2023
+	
+Neural Caches for Monte Carlo Partial Differential Equation Solvers
+Zilu Li, Guandao Yang, Xi Deng, Christopher De Sa, Bharath Hariharan, Steve Marschner
+In SIGGRAPH Asia 2023, December 2023.
+[Abstract] [Paper]
+
+
+
+NeurIPS 2023
+	
+QuIP: 2-Bit Quantization of Large Language Models With Guarantees Spotlight
+Jerry Chee, Yaohui Cai, Volodymyr Kuleshov, Christopher De Sa
+In Proceedings of the 36th Neural Information Processing Systems Conference, December 2023.
+[Abstract] [Arxiv]
+
+
+
+CD-GraB: Coordinating Distributed Example Orders for Provably Accelerated Training
+A. Feder Cooper, Wentao Guo, Khiem Pham, Tiancheng Yuan, Charlie F. Ruan, Yucheng Lu, Christopher De Sa
+In Proceedings of the 36th Neural Information Processing Systems Conference, December 2023.
+[Abstract] [Arxiv]
+
+
+
+Coneheads: Hierarchy Aware Attention
+Albert Tseng, Tao Yu, Toni J.B. Liu, Christopher De Sa
+In Proceedings of the 36th Neural Information Processing Systems Conference, December 2023.
+[Abstract] [Arxiv]
+
+
+
+TART: A plug-and-play Transformer module for task-agnostic reasoning
+Kush Bhatia, Avanika Narayan, Christopher De Sa, Christopher Re
+In Proceedings of the 36th Neural Information Processing Systems Conference, December 2023.
+[Abstract] [Arxiv]
+
+
+
+Riemannian Residual Neural Networks
+Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa
+In Proceedings of the 36th Neural Information Processing Systems Conference, December 2023.
+[Abstract] [Arxiv]
+
+
+
+UAI 2023
+	
+Inference for Probabilistic Dependency Graphs
+Oliver Richardson, Joe Halpern, Christopher De Sa
+In UAI: the 39th Conference on Uncertainty in Artificial Intelligence, August 2023.
+[Abstract] [Paper]
+
+
+
+ICML 2023
+	
+CocktailSGD: Fine-tuning Foundation Models over 500Mbps Networks
+Jue Wang, Yucheng Lu, Binhang Yuan, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Re, Ce Zhang
+In ICML: the Thirty-ninth International Conference on Machine Learning, July 2023.
+[Abstract] [Paper]
+
+
+
+InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models
+Yingheng Wang, Yair Schiff, Aaron Gokaslan, Weishen Pan, Fei Wang, Christopher De Sa, Volodymyr Kuleshov
+In ICML: the Thirty-ninth International Conference on Machine Learning, July 2023.
+[Abstract] [Paper]
+
+
+
+STEP: Learning N:M Structured Sparsity Masks from Scratch with Precondition
+Yucheng Lu, Amir Yazdanbakhsh, Shivani Agrawal, Suvinay Subramanian, Oleg Rybakov, Christopher De Sa
+In ICML: the Thirty-ninth International Conference on Machine Learning, July 2023.
+[Abstract] [Paper]
+
+
+
+JMLR 2023
+	
+Decentralized Learning: Theoretical Optimality and Practical Improvements
+Yucheng Lu, Christopher De Sa
+In JMLR: Journal of Machine Learning Research, April 2023.
+[Abstract] [Paper]
+
+
+
+ICLR 2023
+	
+Maximizing Communication Efficiency for Large-scale Training via 0/1 Adam
+Yucheng Lu, Conglong Li, Minjia Zhang, Christopher De Sa, Yuxiong He
+In ICLR: The Eleventh International Conference on Learning Representations, May 2023.
+[Abstract] [Arxiv]
+
+
+
+Random Laplacian Features for Learning with Hyperbolic Space
+Tao Yu, Christopher De Sa
+In ICLR: The Eleventh International Conference on Learning Representations, May 2023.
+[Abstract] [Arxiv]
+
+
+
+NeurIPS 2022
+	
+GraB: Finding Provably Better Data Permutations than Random Reshuffling
+Yucheng Lu, Wentao Guo, Christopher De Sa
+In NeurIPS: Proceedings of the 35th Neural Information Processing Systems Conference, December 2022.
+[Abstract] [Paper]
+
+
+
+Understanding Hyperdimensional Computing for Parallel Single-Pass Learning
+Tao Yu, Yichi Zhang, Zhiru Zhang, Christopher De Sa
+In NeurIPS: Proceedings of the 35th Neural Information Processing Systems Conference, December 2022.
+[Abstract] [Paper]
+
+
+
+Model Preserving Compression for Neural Networks
+Jerry Chee, Megan Renz, Anil Damle, Christopher De Sa
+In NeurIPS: Proceedings of the 35th Neural Information Processing Systems Conference, December 2022.
+[Abstract] [Paper]
+
+
+
+From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent
+Christopher De Sa, Satyen Kale, Jason D. Lee, Ayush Sekhari, Karthik Sridharan
+In NeurIPS: Proceedings of the 35th Neural Information Processing Systems Conference, December 2022.
+[Abstract] [Paper]
+
+
+
+CSLaw 2022
+	
+Non-Determinism and the Lawlessness of ML Code Oral
+A. Feder Cooper, Jonathan Frankle, Christopher De Sa
+In CSLaw: 2nd ACM Symposium on Computer Science and Law, November 2022.
+[Abstract] [Paper]
+
+
+
+ICML 2022
+	
+Low-Precision Stochastic Gradient Langevin Dynamics Spotlight
+Ruqi Zhang, Andrew Wilson, Christopher De Sa
+In ICML: the Thirty-ninty International Conference on Machine Learning, July 2022.
+[Abstract] [Paper]
+
+
+
+ICLR 2022
+	
+A General Analysis of Example-Selection for Stochastic Gradient Descent Spotlight
+Yucheng Lu, Si Yi Meng, and Christopher De Sa
+In ICLR: Proceedings of the Tenth International Conference on Learning Representations, April 2022.
+[Abstract]
+
+
+
+How Low Can We Go: Trading Memory for Error in Low-Precision Training
+Chengrun Yang, Ziyang Wu, Jerry Chee, Christopher De Sa, and Madeleine Udell
+In ICLR: Proceedings of the Tenth International Conference on Learning Representations, April 2022.
+[Abstract]
+
+
+
+NeurIPS 2021
+	
+Hyperparameter Optimization Is Deceiving Us, and How to Stop It
+A. Feder Cooper, Yucheng Lu, and Christopher De Sa
+In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021.
+[Abstract] [Arxiv]
+
+
+
+Representing Hyperbolic Space Accurately using Multi-Component Floats
+Tao Yu, Christopher De Sa
+In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021.
+[Abstract]
+
+
+
+Equivariant Manifold Flows
+Isay Katsman, Aaron Lou, Derek Lim, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa
+In NeurIPS: Proceedings of the 34th Neural Information Processing Systems Conference, December 2021.
+[Abstract]
+
+
+
+EAAMO 2021
+	
+Accuracy-Efficiency Trade-Offs and Accountability in Distributed ML Systems Oral
+A. Feder Cooper, Karen Levy, Christopher De Sa
+In EAAMO: Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (to appear), October 2021.
+[Abstract] [Arxiv]
+
+
+
+ICML 2021
+	
+Optimal Complexity in Decentralized Training Outstanding Paper (Honorable Mention)
+Yucheng Lu, Christopher De Sa
+In ICML: the Thirty-eighth International Conference on Machine Learning, July 2021.
+[Abstract] [Paper]
+
+
+
+Variance Reduced Training with Stratified Sampling for Forecasting Models
+Yucheng Lu, Youngsuk Park, Lifan Chen, Yuyang Wang, Christopher De Sa, Dean Foster
+In ICML: the Thirty-eighth International Conference on Machine Learning, July 2021.
+[Abstract] [Paper]
+
+
+
+Low-Precision Reinforcement Learning: Running Soft Actor-Critic in Half Precision
+Johan Björck, Xiangyu Chen, Christopher De Sa, Carla Gomes, Kilian Weinberger
+In ICML: the Thirty-eighth International Conference on Machine Learning, July 2021.
+[Abstract] [Paper]
+
+
+
+ICML INNF 2021
+	
+Equivariant Manifold Flows
+Isay Katsman, Aaron Lou, Derek Lim, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa
+In ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models, July 2021.
+[Abstract] [Paper]
+
+
+
+ICLR RML 2021
+	
+Hyperparameter Optimization Is Deceiving Us, and How to Stop It
+A. Feder Cooper, Yucheng Lu, and Christopher De Sa
+In ICLR 2021, Workshop on Robust ML (RML), May 2021.
+[Abstract] [Arxiv]
+
+
+
+ICLR SEDL 2021
+	
+Model Selection's Disparate Impact in Real-World Deep Learning Applications Oral
+Jessica Zosa Forde*, A. Feder Cooper*, Kweku Kwegyir-Aggrey, Christopher De Sa, Michael Littman
+In ICLR 2021, Workshop on the Science and Engineering of Deep Learning (SEDL), May 2021.
+[Abstract] [Arxiv]
+
+
+
+AISTATS 2021
+	
+Meta-Learning Divergences for Variational Inference
+Ruqi Zhang, Yingzhen Li, Christopher De Sa, Sam Devlin, Cheng Zhang
+In AISTATS: Proceedings of the 24th International Conference on Artificial Intelligence and Statistics, April 2021.
+[Abstract]
+
+
+
+MLSys 2021
+	
+PipeMare: Asynchronous Pipeline Parallel DNN Training
+Bowen Yang, Jian Zhang, Jonathan Li, Christopher Ré, Christopher R. Aberger, Christopher De Sa
+In MLSys: Proceedings of the 4th Conference on Machine Learning and Systems, April 2021.
+[Abstract] [Arxiv]
+
+
+
+NeurIPS 2020
+	
+Asymptotically Optimal Exact Minibatch Metropolis-Hastings Spotlight
+Ruqi Zhang, A. Feder Cooper, Christopher De Sa
+In NeurIPS: Proceedings of the 33rd Neural Information Processing Systems Conference, December 2020.
+[Abstract] [Arxiv]
+
+
+
+Random Reshuffling is Not Always Better Spotlight
+Christopher De Sa
+In NeurIPS: Proceedings of the 33rd Neural Information Processing Systems Conference, December 2020.
+[Abstract]
+
+
+
+Neural Manifold Ordinary Differential Equations
+Aaron Lou, Derek Lim, Isay Katsman, Leo Huang, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa
+In NeurIPS: Proceedings of the 33rd Neural Information Processing Systems Conference, December 2020.
+[Abstract]
+
+
+
+ICML 2020
+	
+Moniqua: Modulo Quantized Communication in Decentralized SGD
+Yucheng Lu, Christopher De Sa
+In ICML: the Thirty-seventh International Conference on Machine Learning, July 2020.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Differentiating through the Fréchet Mean
+Aaron Lou, Isay Katsman, Qingxuan Jiang, Serge Belongie, Ser Nam Lim, Christopher De Sa
+In ICML: the Thirty-seventh International Conference on Machine Learning, July 2020.
+[Abstract] [Paper] [Arxiv]
+
+
+
+LML@ICML 2020
+	
+Regulating Accuracy-Efficiency Trade-Offs in Distributed Machine Learning Systems Oral
+A. Feder Cooper, Karen Levy, Christopher De Sa
+In LML 2020: ICML Workshop on Law and Machine Learning, July 2020.
+[Abstract] [Arxiv] [SSRN]
+
+
+
+INNF@ICML 2020
+	
+Neural Manifold Ordinary Differential Equations
+Aaron Lou, Derek Lim, Isay Katsman, Leo Huang, Qingxuan Jiang, Ser-Nam Lim, Christopher De Sa
+In INNF+ 2020: ICML Workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models, July 2020.
+[Abstract] [Arxiv] [Arxiv]
+
+
+
+AISTATS 2020
+	
+AMAGOLD: Amortized Metropolis Adjustment for Efficient Stochastic Gradient MCMC
+Ruqi Zhang, A. Feder Cooper, Christopher De Sa
+In AISTATS: The 23rd International Conference on Artificial Intelligence and Statistics, June 2020.
+[Abstract] [Arxiv]
+
+
+
+NeurIPS 2019
+	
+Channel Gating Neural Networks
+Weizhe Hua, Yuan Zhou, Christopher De Sa, Zhiru Zhang, G. Edward Suh
+In NeurIPS: Proceedings of the 32nd Neural Information Processing Systems Conference, December 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Numerically Accurate Hyperbolic Embeddings Using Tiling-Based Models Spotlight
+Tao Yu, Christopher De Sa
+In NeurIPS: Proceedings of the 32nd Neural Information Processing Systems Conference, December 2019.
+[Abstract] [Paper]
+
+
+
+Poisson-Minibatching for Gibbs Sampling with Convergence Rate Guarantees Spotlight
+Ruqi Zhang, Christopher De Sa
+In NeurIPS: Proceedings of the 32nd Neural Information Processing Systems Conference, December 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Dimension-Free Bounds for Low-Precision Training
+Zheng Li, Christopher De Sa
+In NeurIPS: Proceedings of the 32nd Neural Information Processing Systems Conference, December 2019.
+[Abstract] [Paper]
+
+
+
+EMC2@NeurIPS 2019
+	
+QPyTorch: A Low-Precision Arithmetic Simulation Framework
+Tianyi Zhang, Zhiqiu Lin, Guandao Yang, Christopher De Sa
+In EMC2: Workshop on Energy Efficient ML and Cognitive Computing, at NeurIPS, December 2019.
+[Abstract] [Arxiv] [Download on GitHub] [Install via Pip]
+
+
+
+MICRO 2019
+	
+Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel Gating
+Weizhe Hua, Yuan Zhou, Christopher De Sa, Zhiru Zhang, G. Edward Suh
+In MICRO '52 Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture, October 2019.
+[Abstract] [Paper]
+
+
+
+SIGOPS 2019
+	
+Cloud-Hosted Intelligence for Real-time IoT Applications
+Ken Birman, Bharath Hariharan, Christopher De Sa
+In SIGOPS Operating Systems Review 53, July 2019.
+[Abstract] [Paper] [DOI]
+
+
+
+ICML 2019
+	
+Improving Neural Network Quantization without Retraining using Outlier Channel Splitting
+Ritchie Zhao, Yuwei Hu, Jordan Dotzel, Christopher De Sa, Zhiru Zhang
+In ICML: the Thirty-sixth International Conference on Machine Learnin, June 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Distributed Learning with Sublinear Communication Long oral
+Jayadev Acharya, Christopher De Sa, Dylan J. Foster, Karthik Sridharan
+In ICML: the Thirty-sixth International Conference on Machine Learnin, June 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+A Kernel Theory of Modern Data Augmentation
+Tri Dao, Albert Gu, Alexander J. Ratner, Virginia Smith, Christopher De Sa, Christopher Ré
+In ICML: the Thirty-sixth International Conference on Machine Learnin, June 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+SWALP : Stochastic Weight Averaging in Low Precision Training
+Guandao Yang, Tianyi Zhang, Polina Kirichenko, Junwen Bai, Andrew Gordon Wilson, Christopher De Sa
+In ICML: the Thirty-sixth International Conference on Machine Learnin, June 2019.
+[Abstract] [Paper] [Arxiv]
+
+
+
+CVPR 2019
+	
+Building Efficient Deep Neural Networks with Unitary Group Convolutions
+Ritchie Zhao, Yuwei Hu, Jordan Dotzel, Christopher De Sa, Zhiru Zhang
+In CVPR: The Conference on Computer Vision and Pattern Recognition, June 2019.
+[Abstract] [Arxiv]
+
+
+
+ICDT 2019
+	
+A Formal Framework For Probabilistic Unclean Databases
+Christopher De Sa, Ihab F. Ilyas, Benny Kimelfeld, Christopher Ré, Theodoros Rekatsinas
+In ICDT: 22nd International Conference on Database Theory, March 2019.
+[Abstract] [Arxiv]
+
+
+
+SPIE 2019
+	
+Addressing sensor drift in a proprioceptive optical foam system
+Ilse M. Van Meerbeek, Jose A. Barreiros, Robert F. Shepherd, Christopher M. De Sa
+In Proc. SPIE 10970: Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2019, March 2019.
+[Abstract] [Paper]
+
+
+
+Sci. Robot. 2018
+	
+Soft optoelectronic sensory foams with proprioception
+Ilse Van Meerbeek, Christopher De Sa, Robert Shepherd
+In Science Robotics, November 2018.
+[Abstract] [Paper] [Article]
+
+
+
+ICML 2018
+	
+Minibatch Gibbs Sampling on Large Graphical Models Long oral
+Christopher De Sa, Vincent Chen, Wing Wong
+In ICML: Proceedings of the 35rd International Conference on Machine Learning, July 2018.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Representation Tradeoffs for Hyperbolic Embeddings Long oral
+Frederic Sala, Christopher De Sa, Albert Gu, Christopher Ré
+In ICML: Proceedings of the 35rd International Conference on Machine Learning, July 2018.
+[Abstract] [Paper] [Arxiv]
+
+
+
+PODC2018
+	
+The Convergence of Stochastic Gradient Descent in Asynchronous Shared Memory
+Dan Alistarh, Christopher De Sa, Nikola Konstantinov
+In PODC: Principles of Distributed Computing, July 2018.
+[Abstract] [Arxiv]
+
+
+
+AISTATS 2018
+	
+Accelerated Stochastic Power Iteration
+Christopher De Sa, Bryan He, Ioannis Mitliagkas, Christopher Ré, Peng Xu
+In AISTATS: The 21st International Conference on Artificial Intelligence and Statistics, April 2018.
+[Abstract] [Arxiv]
+
+
+
+SODA 2018
+	
+A Two Pronged Progress in Structured Dense Matrix Multiplication
+Christopher De Sa, Albert Gu, Rohan Puttagunta, Christopher Ré, Atri Rudra
+In SODA: ACM-SIAM Symposium on Discrete Algorithms, January 2018.
+[Abstract] [Arxiv]
+
+
+
+NeurIPS 2017
+	
+Gaussian Quadrature for Kernel Features Spotlight
+Tri Dao, Christopher De Sa, Christopher Ré
+In NeurIPS: Proceedings of the 30th Neural Information Processing Systems Conference, December 2017.
+[Abstract] [Arxiv]
+
+
+
+ISCA 2017
+	
+Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent
+Christopher De Sa, Matt Feldman, Christopher Ré, Kunle Olukotun
+In ISCA: 44th International Symposium on Computer Architecture, June 2017.
+[Abstract] [Paper]
+
+
+
+HILDA 2017
+	
+Flipper: A Systematic Approach to Debugging Training Sets
+Paroma Varma, Dan Iter, Christopher De Sa, Christopher Ré
+In HILDA: Proceedings of the 2nd Workshop on Human-In-the-Loop Data Analytics, at SIGMOD, May 2017.
+[Abstract] [Paper]
+
+
+
+NeurIPS 2016
+	
+Data Programming: Creating Large Training Sets, Quickly
+Alex Ratner, Christopher De Sa, Sen Wu, Daniel Selsam, Christopher Ré
+In NeurIPS: Proceedings of the 29th Neural Information Processing Systems Conference, December 2016.
+[Abstract] [Arxiv]
+
+
+
+Scan Order in Gibbs Sampling: Models in Which it Matters and Bounds on How Much
+Bryan He, Christopher De Sa, Ioannis Mitliagkas, Christopher Ré
+In NeurIPS: Proceedings of the 29th Neural Information Processing Systems Conference, December 2016.
+[Abstract] [Arxiv]
+
+
+
+FiLM-NIPS 2016
+	
+Socratic Learning: Empowering the Generative Model
+Paroma Varma, Rose Yu, Dan Iter, Christopher De Sa, Christopher Ré
+In FiLM-NIPS: Future of Interactive Learning Machines at NIPS, December 2016.
+[Abstract] [Arxiv]
+
+
+
+ICML 2016
+	
+Ensuring Rapid Mixing and Low Bias for Asynchronous Gibbs Sampling Best Paper Award
+Christopher De Sa, Kunle Olukotun, Christopher Ré
+In ICML: Proceedings of the 33rd International Conference on Machine Learning, June 2016.
+[Abstract] [Paper] [Arxiv]
+
+
+
+OptML 2016
+	
+Parallel SGD: When does Averaging Help?
+Jian Zhang, Christopher De Sa, Ioannis Mitiliagkas, Christopher Ré
+In OptML: Optimization Methods for the Next Generation of Machine Learning, workshop at ICML, June 2016.
+[Abstract]
+
+
+
+SIGMOD 2016
+	
+DeepDive: Declarative Knowledge Base Construction
+Christopher De Sa, Alex Ratner, Christopher Ré, Jaeho Shin, Feiran Wang, Sen Wu, Ce Zhang
+In SIGMOD Record, Research Highlight, April 2016.
+[Abstract] [Paper] [On the web]
+
+
+
+ASPLOS 2016
+	
+Generating Configurable Hardware from Parallel Patterns
+Raghu Prabhakar, David Koeplinger, Kevin J. Brown, HyoukJoong Lee, Christopher De Sa, Christos Kozyrakis, Kunle Olukotun
+In ASPLOS: 21st Int'l Conference on Architectural Support for Programming Languages and Operating Systems, April 2016.
+[Abstract] [Paper] [Arxiv]
+
+
+
+CGO 2016
+	
+Have Abstraction and Eat Performance, Too: Optimized Heterogeneous Computing with Parallel Patterns
+Kevin J. Brown, HyoukJoong Lee, Tiark Rompf, Arvind K. Sujeeth, Christopher De Sa, Christopher Aberger, Kunle Olukotun
+In CGO: International Symposium on Code Generation and Optimization, March 2016.
+[Abstract] [Paper]
+
+
+
+NeurIPS 2015
+	
+Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width Spotlight
+Christopher De Sa, Ce Zhang, Kunle Olukotun, Christopher Ré
+In NIPS: Proceedings of the 28th Neural Information Processing Systems Conference, December 2015.
+[Abstract] [Paper] [Arxiv]
+
+
+
+Taming the Wild: A Unified Analysis of Hogwild!-Style Algorithms
+Christopher De Sa, Ce Zhang, Kunle Olukotun, Christopher Ré
+In NIPS: Proceedings of the 28th Neural Information Processing Systems Conference, December 2015.
+[Abstract] [Paper] [Arxiv]
+
+
+
+VLDB 2015
+	
+Incremental Knowledge Base Construction Using DeepDive Best of Issue
+Jaeho Shin, Sen Wu, Feiran Wang, Ce Zhang, Christopher De Sa, Christopher Ré
+In VLDB: Proceedings of the 41st International Conference on Very Large Data Bases, September 2015.
+[Abstract] [Paper] [Arxiv]
+
+
+
+ICML 2015
+	
+Global Convergence of Stochastic Gradient Descent for Some Nonconvex Matrix Problems
+Christopher De Sa, Kunle Olukotun, Christopher Ré
+In ICML: Proceedings of the 32nd International Conference on Machine Learning, July 2015.
+[Abstract] [Paper] [Arxiv]
+
+Manuscripts
+Manuscripts
+	
+MixML: A Unified Analysis of Weakly Consistent Parallel Learning
+Yucheng Lu, Jack Nash, Christopher De Sa
+Manuscript updated May 2020
+[Abstract] [Arxiv]
+
+
+
+Overwrite Quantization: Opportunistic Outlier Handling for Neural Network Accelerators
+Ritchie Zhao, Christopher De Sa, Zhiru Zhang
+Manuscript updated October 2019
+[Abstract] [Arxiv]
+
+
+
+High-Accuracy Low-Precision Training
+Christopher De Sa, Megan Leszczynski, Jian Zhang, Alana Marzoev, Christopher R. Aberger, Kunle Olukotun, Christopher Ré
+Manuscript updated December 2018
+[Abstract] [Paper] [Blog]
+
+
+
+SysML: The New Frontier of Machine Learning Systems
+Alexander Ratner et. al.
+On arxiv March 2019
+[Abstract] [Arxiv] [Conference Website]
+

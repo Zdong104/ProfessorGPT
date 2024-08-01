@@ -1,0 +1,65 @@
+Professor: Christopher Amato
+University: Northeastern University
+URL: http://www.ccs.neu.edu/home/camato
+Description: 	
+Christopher Amato
+Associate Professor
+  Khoury College of Computer Sciences
+Northeastern University
+camato at ccs dot neu dot edu
+
+
+  
+Home | Publications | Research | Robot videos | Talks | Teaching | Group | Contact
+	
+
+
+I am currently an Associate Professor in the Khoury College of Computer Sciences at Northeastern University.
+
+I'm looking for talented PhD students interested in reinforcement learning and robotics. If this is you, apply and email me!
+
+Previously, I was Research Scientist (and a Postdoc) at MIT working with Leslie Kaelbling and the Learning and Intelligent Systems group in CSAIL as well as Jon How and the Aerospace Control Lab in LIDS and an Assistant Professor at the University of New Hampshire. I have a PhD in Computer Science from UMass Amherst, where I was advised by Shlomo Zilberstein. My research interests include Artificial Intelligence, Robotics, Multi-Agent and Multi-Robot Systems, Reasoning Under Uncertainty, Game Theory and Machine Learning.
+
+My research explores principled solution methods for systems of agents (e.g., robots, network nodes, sensors, people) with uncertainty and limited communication. Many real-world scenarios have some communication cost, latency or noise (e.g., disaster response, networking, coordination over large distances). Due to these communication limitations, agents that can make decisions on their own are critical. My research seeks to develop fundamental theory as well as scalable algorithms that provide this high-quality autonomy with applications such as multi-robot navigation, search and rescue and surveillance problems.
+
+Some keywords: Partially observable reinforcement learning, multi-agent reinforcement learning, multi-robot systems
+
+Press:
+Much of my work focuses on robotics, and I'm very interested in using my work for real-world applications. Here are some press articles about my work.
+
+Optimizing communication and behavior for teams of robots:
+
+Our work on coordinating teams of robots when there is uncertainty about what the outcomes will be, about sensor information and limited communication along with a demo of our robots optimizing beer delivery was covered by MIT news, betaBoston (the Boston Globe), Popular Science, Engadget, the Huffington Post and several other outlets.
+Some of my research on using macro-actions (control programs for subproblems) to produce scalable cooperation in multi-agent sytems has been featured as a MIT news story, as well as Government Technology (focusing on search and rescue) and IEEE Spectrum (highlighting our handling of uncertainty which is critical for real world problems).
+Another story appeared at MIT news on our work on automatically generating macro-actions and coordinating teams or quadrotors for package delivery.
+Automated surveillance with security cameras:
+
+There are articles about some of my work on balancing time and quality to quickly track and detect security threats at MIT news and Security Info Watch.
+Artificial intelligence for computer games:
+
+There is a Q&A about some of my work on creating opponents that learn to improve in computer games over at PhaseLeap (no longer available).
+Recent and upcoming events:
+
+We are organizing a symposium and seminar series on COMARL: Challenges and Opportunities for Multi-Agent Reinforcement Learning. Check out the website for more details!
+
+Our MRS-21 paper, Local Advantage Actor-Critic for Robust Multi-Agent Deep Reinforcement Learning, was nominated for best paper! It can be downloaded here.
+
+Our AAMAS-21 paper, Contrasting Centralized and Decentralized Critics in Multi-Agent Reinforcement Learning, was nominated for best paper! It can be downloaded here.
+
+Our AAAI-19 paper, Learning to Teach in Cooperative Multiagent Reinforcement Learning, won an outstanding student paper honorable mention! It can be downloaded here.
+
+We are organizing a workshop on Reinforcement Learning under Partial Observability at NIPS-18. Considering submitting or coming!
+
+Frans Oliehoek and I wrote a new book: A Concise Introduction to Decentralized POMDPs. Take a look at the Springer site or my pre-print.
+
+I contributed to a great book on decision-making under uncertainty, check it out at the MIT Press website or see my pre-print.
+
+
+Other links:
+I maintain the Dec-POMDP page which contains information about the decentralized partially observable Markov decision process (Dec-POMDP) model for describing multiagent decision making under uncertainty. Check it out for an overview, publications, talks and code for various datasets.
+
+While working at Microsoft Research over the summer, I developed a reinforcement learning framework for the video game Civilization IV. You can download it and be able to have the AI learn to improve its play with different RL algorithms. Check it out at the MSR website.
+
+
+
+

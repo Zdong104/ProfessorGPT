@@ -1,0 +1,102 @@
+Professor: Eric Price 0001
+University: University of Texas at Austin
+URL: http://www.cs.utexas.edu/~ecprice
+Description: Eric Price
+	
+	Associate Professor
+
+Email:	ecprice@cs.utexas.edu
+Office:	GDC 4.510
+Postal:	Department of Computer Science
+University of Texas at Austin
+2317 Speedway, Stop D9500
+Austin, Texas 78712
+Contact   Biography  Research  Teaching (current)   Publications Misc  Awards 
+Biography
+I am an associate professor in the Department of Computer Science at the University of Texas at Austin. My undergraduate and graduate education was at MIT, where I was fortunate to have Piotr Indyk as my advisor. After graduating in 2013, I was a postdoc at the Simons Institute in Berkeley and at the IBM Almaden Research Center before arriving at UT in Fall 2014. (CV)
+Research
+
+My research explores the fundamental limits of data-limited computational problems. How efficiently can we recover signals from noisy samples? And how much space do we need to compute functions of large data streams? My work has given algorithms with tight, or near-tight, sample complexities for a variety of such problems, along with corresponding lower bounds.
+
+Examples areas of my research include:
+My thesis was on sparse Fourier transforms, where one wants to estimate a sparse signal from a small number of Fourier measurements. Our algorithm was not only sample-efficient but fast: because it does not need to look at the entire input, it can beat the FFT on inputs with any sublinear sparsity level. More recently in this area I have studied signals that are sparse in the continuous domain (with and without a "frequency gap").
+How should we combine compressed sensing with the deep learning revolution in image processing? We gave a provable guarantee in for using deep generative models for compressed sensing, as well as studied how to learn the generative model from noisy measurements.
+When unlabeled data is cheap and labelling it is expensive, which points are most valuable to label? We gave an optimal algorithm for this problem in agnostic least squares linear regression.
+What is the space complexity required for streaming algorithms, particularly graph problems? We gave new lower bounds for triangle counting, which led to new separations between standard models of streaming computation.
+
+One nice feature of sample and space complexity is that (unlike time complexity) we have the tools to prove matching lower bounds. A large portion of my research is on proving such lower bounds. Strong lower bounds give us a target to aim for, guide how algorithms should be designed, and tell us when to stop looking for better algorithms and instead look for better problems.
+
+You can find my list of publications here.
+
+Teaching
+Spring 2024:	Introduction to algorithms (CS 331).
+Fall 2023:	Randomized Algorithms (CS 388R)
+Spring 2023:	Honors introduction to algorithms (CS 331H).
+Spring 2022:	Introduction to algorithms (CS 331).
+Fall 2021:	Randomized Algorithms (CS 388R)
+Spring 2021:	Honors introduction to algorithms (CS 331H).
+Fall 2020:	Sublinear Algorithms (CS 395T)
+Spring 2020:	Introduction to algorithms (CS 331).
+Fall 2019:	Randomized Algorithms (CS 388R)
+Spring 2019:	Honors introduction to algorithms (CS 331H).
+Fall 2017:	Algorithms and Complexity (CS 331).
+Fall 2017:	Randomized Algorithms (CS 388R)
+Spring 2017:	Honors introduction to algorithms (CS 331H).
+Fall 2016:	Sublinear Algorithms (CS 395T)
+Spring 2016:	Honors introduction to algorithms (CS 331H).
+Fall 2015:	Randomized Algorithms (CS 388R)
+Fall 2014:	Sublinear Algorithms (CS 395T)
+Former Students:
+Zhao Song, PhD 2019, currently postdoc at IAS
+Misc
+
+I ran the Algorithms and Complexity Seminar at MIT.
+
+I created and maintain NewsDiffs, which tracks post-publication changes to online news articles. [slides]
+
+I am a coach for USACO, the USA Computer Olympiad. This program provides an excellent algorithms education for high school students.
+
+Publications:
+Either look at all publications or the selected ones below:
+Robust polynomial regression up to the information theoretic limit [arXiv]
+Daniel Kane, Sushrut Karmalkar, and Eric Price
+FOCS 2017
+Compressed Sensing using Generative Models [arXiv]
+Ashish Bora, Ajil Jalal, Eric Price, and Alex Dimakis
+ICML 2017
+Fourier-sparse interpolation without a frequency gap [arXiv]
+Xue Chen, Daniel Kane, Eric Price, and Zhao Song
+FOCS 2016
+Tight Bounds for Learning a Mixture of Two Gaussians [slides] [notes] [arXiv]
+Moritz Hardt and Eric Price
+STOC 2015
+Improved Concentration Bounds for Count-Sketch [slides] [arXiv]
+Gregory T. Minton and Eric Price, SODA 2014 (Best Student Paper)
+Sparse Recovery and Fourier Sampling [slides]
+Eric Price, Ph.D. Thesis (George M. Sprowls Award, given for the best doctoral theses in computer science at MIT)
+Lower Bounds for Adaptive Sparse Recovery [arXiv]
+Eric Price and David P. Woodruff, SODA 2013
+Nearly Optimal Sparse Fourier Transform [slides] [arXiv] [website]
+Haitham Hassanieh, Piotr Indyk, Dina Katabi, and Eric Price, STOC 2012
+On the Power of Adaptivity in Sparse Recovery [slides] [arXiv]
+Piotr Indyk, Eric Price, and David P. Woodruff, FOCS 2011
+(1+eps)-approximate sparse recovery [arXiv]
+Eric Price and David P. Woodruff, FOCS 2011
+Awards
+SODA best student paper, 2014
+George M. Sprowls Award for best computer science doctoral thesis at MIT, 2013
+Simons Graduate Fellowship in Theoretical Computer Science, 2012
+NSF Graduate Research Fellowship, 2009
+and I used to be pretty good at math/CS contests:
+ACM International Collegiate Programming Contest
+8th place 2009
+4th place 2007
+William Lowell Putnam Mathematics Competition
+6-15 place bracket, 2006
+7-16 place bracket, 2005
+International Olympiad in Informatics
+Perfect score, 2005
+Silver medal, 2004
+International Mathematical Olympiad
+Gold medal, 2005
+

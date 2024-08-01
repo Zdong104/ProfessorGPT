@@ -1,0 +1,328 @@
+Professor: Henry Hoffmann
+University: University of Chicago
+URL: http://people.cs.uchicago.edu/~hankhoffmann
+Description: 
+
+
+	    
+
+      News     |    Research     |    Publications     |    Awards    |    Equity, Diversity, and Inclusion Statement    
+
+
+	   Henry (Hank) Hoffmann
+    Professor
+    Liew Family Chair
+    Department of Computer Science
+    Email: hankhoffmann @ cs.uchicago.edu
+    For Appointments Email: hsantos@uchicago.edu
+    Phone: Please Email
+    John Crerar Library 219
+    5730 S. Ellis
+    Chicago, IL 60637
+    CV: [pdf]
+    Bio: [html]
+    Research Statement: [pdf]
+    Teaching Statement: [pdf]
+
+
+Research
+
+Research Areas : Self-aware & Adaptive Computing, Computer Systems, Computer Architecture, Embedded Systems (UChicago Systems Group)
+
+Research Interests: Modern computer systems have to meet goals in multiple---often competing---dimensions; e.g., high performance and low energy consumption. This creates a great burden on programmers who must be experts in both their application domain and in the myriad system issues that affect goals like power, energy, reliability, performance, and more. To alleviate this burden, I study ways to build self-aware computing systems that understand high-level goals and automatically adapt their behavior to meet those goals optimally. This is interdisciplinary work covering traditional areas, like operating systems and computer architecture, as well as new areas, like control theory and machine learning applied to computer system management and optimization.
+
+Recently, I have turned my focus to using these techniques to control machine learning and AI. In other words, I am now building learning systems which dynamically adapt their internal structure and resource usage to meet accuracy, energy, performance, and (most recently) security goals at inference time.
+
+Current Students: Jerry Ding, Ryien Hosseini, Pouya Gholami, Tejas Kannan, Trenton Wesley, Vasco Xu, Ziyi Zhang
+
+Current Postdoc: Anwesha Das
+
+Alumni:
+Ahsan Pervaiz, PhD 2023
+Yuliana Zamora, PhD 2022
+Muhammad Santriaji, PhD 2022
+Yi Ding, PhD 2020
+Anne Farrell, PhD 2020
+Bernard Dickens, PhD 2020
+Saeid Barati, PhD 2020
+Huazhe Zhang, PhD 2019 [thesis, masters]
+Gökalp Demirci, PhD 2019 [thesis]
+Zhixuan Zhou, PhD 2018 [thesis]
+Connor Imes, PhD, 2018 [thesis]
+Nikita Mishra, PhD 2017 [thesis]
+Will Kong, MS 2021
+Ivana Marincic, MS 2020
+Lee Ehudin, BS/MS 2017
+Tristan Rasmussen, BS/MS 2015
+
+Research Statements through the Years: [2023] [2017] [2015]
+
+News
+I am the chair of the UChicago CS deparment. That escalated quickly.
+My former student, Yi Ding, is starting as a faculty member at Purdue ECE in the fall! Congrats, Yi!
+I have been promoted to Full Professor. Apologies to all former students who had to put up with less than full professing up until now.
+Thanks to the hard work of Tejas Kannan, he found a vulnerability that landed him and several collabortors in the Samsung Security (for SmartTV, Audio and Display) Hall of Fame ( link )
+Loop Perforation wins FSE Test of Time Honorable Mention. It is funny to think about how much reviewers hated that paper so many years ago.
+Our RTAS paper won an Outstanding Paper Award! Congrats to Tejas Kannan, the first author on this paper.
+I am the chair (and founder) of our department's EDI committee.
+Yi Ding has received a CRA Computing Innovation Fellowship to support a postdoc with Michael Carbin at MIT!
+Yi Ding was selected for Rising Stars 2020!
+After three trips to the emergency room, two patellar tendon ruptures, two dislocations, 37 stitches, and 33 staples, I finally earned a black belt in Tang Soo Do.
+I just won a PECASE (Presidential Early Career Award for Scientists and Engineers).
+Yulie Zamora received a National Physical Science Consortium Fellowship. Congrats, Yulie!
+Our ICAC 2019 paper won the Karsten Schwann Best Paper Award!
+Huazhe (Harper) Zhang's Supercomputing 2019 paper has been nominated for both Best Student Paper and Best Paper!
+Our CALOREE paper from ASPLOS 2018 was selected as an IEEE Micro Top Picks Honorable Mention. Here is the summary we submitted: [pdf].
+
+Academic Career
+Liew Family Chair of the Department of Computer Science, University of Chicago, 2024-
+   
+
+Chair, Department of Computer Science, University of Chicago, 9/2023-12/2023
+   
+
+Professor, University of Chicago, 2023-
+   
+
+Associate Professor, University of Chicago, 2018-2023
+   
+
+Assistant Professor, University of Chicago, 2013-2018
+   
+
+Ph.D., MIT, 2013
+    Dissertation: "SEEC : a framework for self-aware management of goals and constraints in computing systems"
+    Advisors: Anant Agarwal and Srinivas Devadas
+S.M., MIT, 2003
+    Thesis: "Stream Algorithms and Architectures"
+    Advisor:Anant Agarwal
+B.S. with highest honors and highest distinction, UNC-Chapel Hill, 1999
+Professional Career
+Co-Founder Config Dynamics, LLC, 2019-
+
+Design Engineer, Tilera Corporation, 2005-2008
+
+Associate Staff, MIT Lincoln Laboratory, 2003-2004
+
+Assistant Staff, MIT Lincoln Laboratory, 1999-2003
+
+Recent Publications
+
+
+As recorded by DBLP
+
+
+As recorded by Google Scholar
+
+
+2024:
+Automatic and Efficient Customization of Neural Networks for ML Applications [OSDI 2024]
+Acoustic Keystroke Leakage on Smart Televisions [NDSS 2024, Artifact Badge (Available, Functional, Reproduced)] (This work got us into the Samsung Security Hall of Fame)
+2023:
+Prediction Privacy in Distributed Multi-Exit Neural Networks: vulnerabilities and Solutions [CCS 2023]
+Run-Time Prevention of Software Integration Failures of Machine Learning APIs [OOPSLA 2023]
+DPS: Adaptive Power Management for Overprovisioned Systems [Supercomputing 2023]
+CAFQA: A classical simulation bootstrap for variational quantum algorithms [ASPLOS 2023]
+Navigating the dynamic noise landscape of variational quantum algorithms with QISMET [ASPLOS 2023]
+2022:
+Protecting Adaptive Sampling from Information Leakage on Low-Power Sensors [ASPLOS 2022, Artifact Badge (Available, Functional, Reproduced)]
+NURD: Negative-Unlabeled Learning for Online Datacenter Straggler Prediction [MLSys 2022]
+GOAL: Supporting General and Dynamic Adaptation in Computing Systems [Onward! 2022]
+Automated Testing of Software that Uses Machine Learning APIs [ICSE 2022]
+AgileCtrl: A Self-adpative Framework for Configuration Tuning [FSE 2022]
+Penelope: Peer-to-peer Power Management [ICPP 2022]
+Artificial Reasoning Towards Goal-Oriented Adaptive Arrays of Sensors [CogMI 2022]
+2021:
+Generalizable and Interpretable Learning for Configuration Extrapolation [FSE 2021]
+Proxima: Accelerating the Integration of Machine Learning in Atomistic Simulations [ICS 2021]
+Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures [ISCA 2021]
+Budget RNNs: Multi-Capacity Neural Networks to Improve In-Sensor Inference under Energy Budgets [RTAS 2021, Artifact Badge, Outstanding Paper]
+Neighborhood Street Activity and Greenspace Usage Uniquely Contribute to Predicting Crime [npj Urban Sustainability, Nature Research Journal 2021]
+Are Machine Learning Cloud APIs Used Correctly? [ICSE 2021, Artifact Badge]
+Do Users Have Contextual Preferencesfor Smartphone Power Management? [UMAP 2021]
+2020:
+LinnOS: Predictability for Unpredictable Flash Storage [OSDI 2020]
+Orthogonalized SGD and Nested Architectures for Anytime Neural Networks [ICML 2020]
+Embodied Self-Aware Computing Systems [Proc. of the IEEE 2020]
+Vision Paper: Grand Challenges in Resilience: Autonomous System Resilience through Design and Runtime Measures [OJCS 2020]
+ALERT: Accurate Learning for Energy and Timeliness [USENIX ATC 2020]
+Server-Driven Video Streaming for Deep Learning Inference [SIGCOMM 2020]
+Statically Inferring Performance Properties of Software Configurations [Eurosys 2020]
+A Simple Cache Coherence Scheme for Integrated CPU-GPU Systems [DAC 2020]
+SeeSAw: Optimizing Performance of In-Situ Analytics Applications under Power Constraints [IPDPS 2020]
+2019:
+Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines [MICRO 2019]
+PoDD: Power-capping Dependent Distributed Applications [Supercomputing 2019]
+Generative and Multi-phase Learning for Computer Systems Optimization [ISCA 2019]
+Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers [ASPLOS 2019]
+Proteus: Language and Runtime Support for Self-Adaptive Software Development [IEEE Software]
+CoPPer: Soft Real-time Application Performance Using Hardware Power Capping [ICAC 2019] Best Paper!
+A Simple Cache Coherence Scheme for Integrated CPU-GPU Systems [tech report]
+
+2018:
+A divide and conquer algorithm for DAG scheduling under power constraints [Supercomputing 2018]
+
+Understanding and Auto-Adjusting Performance-Sensitive Configurations [ASPLOS 2018] [preprint]
+
+StrongBox: Confidentiality, Integrity, and Performance using Stream Ciphers for Full Drive Encryption [ASPLOS 2018] [preprint]
+
+CALOREE: Learning Control for Predictable Latency and Low Energy [ASPLOS 2018] [preprint] [early techreport (2016)] [short summary] IEEE Micro Top Picks Honorable Mention
+
+MERLOT: Architectural Support for Energy-Efficient Real-time Processing in GPUs [RTAS 2018]
+
+Performance & Energy Tradeoffs for Dependent Distributed Applications Under System-wide Power Caps [ICPP]
+
+Energy-efficient Application Resource Scheduling using Machine Learning Classifiers [ICPP]
+
+Approximation Algorithms for Scheduling with Resource and Precedence Constraints [STACS 2018] [techreport]
+
+GraphZ: Improving the Performance of Large-Scale Graph Analytics on Small-Scale Machines [ICDE 2018] [techreport]
+
+Controlling AI Engines in Dynamic Environments [SysML 2018] [paper]
+
+2017:
+Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs [MICRO 2017]
+
+Automated Control of Multiple Software Goals using Multiple Actuators [FSE 2017] [preprint]
+
+ESP: A Machine Learning Approach to Predicting Application Interference [ICAC 2017] [preprint]
+
+PoLiMEr: An Energy Monitoring and Power Limiting Interface for HPC Applications. [E2SC@SC 2017]
+
+Self-Adaptive Video Encoder: Comparison of Multiple Adaptation Strategies Made Simple [SEAMS 2017]
+
+Control Strategies for Self-Adaptive Software Systems [ACM TAAS 2017]
+
+Power Mitigation by Performance Equalization in a Heterogeneous Reconfigurable Multicore. [Journal of Signal Processing Systems 2017]
+
+2016:
+A Portable Interface for Runtime Energy Monitoring [FSE 2016]
+
+GRAPE: Minimizing Energy for GPU Applications with Performance Requirements [MICRO 2016] [preprint]
+
+Portable Multicore Resource Management for Applications with Performance Constraints (invited) [MCSoC 2016] [preprint]
+
+MEANTIME: Achieving Both Minimal Energy and Timeliness with Approximate Computing [USENIX ATC 2016] [preprint]
+
+Providing Fairness in Heterogeneous Multicores with a Predictive, Adaptive Scheduler [HCW@IPDPS 2016] [preprint]
+
+Bard: A Unified Framework for Managing Soft Timing and Power Constraints [SAMOS 2016] [preprint]
+
+CASH: Supporting IaaS Customers with a Sub-core Configurable Architecture [ISCA 2016] [preprint]
+
+Maximizing Performance Under a Power Cap: A Comparison of Hardware, Software, and Hybrid Techniques [ASPLOS 2016] [preprint]
+
+Adapt&Cap: Coordinating System and Application-level Adaptation for Power Constrained Systems [IEEE Design & Test 2016]
+
+2015:
+JouleGuard: Energy Guarantees for Approximate Computation [SOSP 2015] [preprint]
+
+Automated Multi-Objective Control for Self-Adaptive Software Design [FSE 2015] [preprint]
+
+Racing and Pacing to Idle: Theoretical and Empirical Analysis of Energy Optimization Heuristics [CPSNA 2015] [preprint]
+
+Distributed Monitoring and Management of Exascale Systems in the Argo Project [DAIS 2015]
+
+POET: a portable approach to minimizing energy under soft real-time constraints [RTAS 2015]
+
+A Probabilistic Graphical Model-based Approach for Minimizing Energy Under Performance Constraints [ASPLOS 2015]
+
+JouleGuard [WACAS 2015] [pdf]
+
+A Quantitative Evaluation of the RAPL Power Control System [Feedback Computing 2015] [pdf]
+
+A STT-RAM-based Low-Power Hybrid Register File for GPGPUs [DAC 2015]
+
+Software engineering meets control theory [SEAMS 2015]
+
+2014:
+Minimizing energy under performance constraints on embedded platforms: resource allocation heuristics for homogeneous and single-ISA heterogeneous multi-cores [SIGBED Review 2014]
+
+Design of an accelerator-rich architecture by integrating multiple heterogeneous coarse grain reconfigurable arrays over a network-on-chip [ASAP 2014]
+
+A self-aware processor SoC using energy monitors integrated into power converters for self-adaptation [VLSI Symposium 2014]
+
+Automated design of self-adaptive software with control-theoretical formal guarantees [ICSE 2014]
+
+PCP: A generalized approach to optimizing performance under power constraints through resource management [ICAC 2014]
+
+CoAdapt: Predictable Behavior for Accuracy-Aware Applications Running on Power-Aware Systems [ECRTS 2014]
+
+Constraint-driven frequency scaling in a Coarse Grain Reconfigurable Array [ISSoC 2014]
+
+Performance and energy limits of a processor-integrated FFT accelerator [HPEC 2014]
+
+2013:
+Power optimization in embedded systems via feedback control of resource allocation [IEEE TCST 2013]
+
+A generalized software framework for accurate and efficient management of performance goals [EMSOFT 2013]
+
+Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation [HotPower 2013]
+
+ARPE: A Tool To Build Equation Models of Computing Systems [Feedback Computing 2013]
+
+2012:
+Comparison of Decision-Making Strategies for Self-Optimization in Autonomic Computing Systems [ACM TAAS 2012]
+
+Selecting Spatiotemporal Patterns for Development of Parallel Applications [IEEE TPDS 2012]
+
+Self-aware computing in the Angstrom processor [DAC 2012]
+
+Metronome: operating system level performance management via self-adaptive computing [DAC 2012]
+
+2011:
+Evolvable systems on reconfigurable architecture via self-aware adaptive applications [AHS 2011]
+
+Dynamic knobs for responsive power-aware computing [ASPLOS 2011]
+
+Decision making in autonomic computing systems: comparison of approaches and techniques [ICAC 2011]
+
+ARCc: A case for an architecturally redundant cache-coherence architecture for large multicores [ICCD 2011]
+
+Managing performance vs. accuracy trade-offs with loop perforation [FSE 2011]
+
+
+
+(Some) Awards and Honors
+Presidential Early Career Award for Scientists and Engineers (PECASE) 2019
+DOE Early Career Award 2015
+Samsung Security (for SmartTV, Audio and Display) Hall of Fame ( link )
+Received early tenure from University of Chicago
+FSE Test of Time Honorable Mention for "Managing performance vs. accuracy trade-offs with loop perforation" from FSE 2011
+IEEE Micro Top Picks Honorable Mention for "Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures" from ISCA 2021
+IEEE Micro TopPicks Honorable Mention for "CALOREE: Learning Control for Predictable Latency and Low Energy" from ASPLOS 2018
+Outstanding Paper for "Budget RNNs: Multi-Capacity Neural Networks to Improve In-Sensor Inference under Energy Budgets" from RTAS 2021
+Karsten Schwann Best Paper Award for "CoPPer: Soft Real-time Application Performance Using Hardware Power Capping" from ICAC 2019
+Best Paper and Best Student Paper Nomination for "PoDD: Power-capping Dependent Distributed Applications" from SC 2019
+Best Artifact for "Self-Adaptive Video Encoder: Comparison of Multiple Adaptation Strategies Made Simple" from SEAMS 2017
+Best Paper for "Minimizing energy under performance constraints on embedded platforms: resource allocation heuristics for homogeneous and single-ISA heterogeneous multi-cores" from Embedded OS Workshop 2014
+Self-aware Computing Named 1 of 10 World Changing Ideas by Scientific American 2011
+Implementation of BDTi OFDM Benchmark (done in 2008) has highest performance for any programmable processor as of January 2022 ( link )
+PI or co-PI on over $19M in research funding for University of Chicago (so not counting money received by other institutions).
+ASPLOS Hall of Fame
+Appointed MIT Lincoln Laboratory Doctoral Scholar (Declined appointment)
+Appointed MIT Lincoln Laboratory Masters Scholar
+Phi Beta Kappa
+Pi Mu Epsilon
+Received B.S. with Highest Honors and Highest Distinction
+
+
+Statement on Equity, Diversity, and Inclusion
+One of my goals is to run an equitable research group where people from different backgrounds all feel a sense of belonging.
+
+I pursue such efforts because I believe that they are essential the core mission of advancing computing knowledge. To find the best answers to the hardest problems we need to ensure that the broadest possible pool of people are (1) excited to participate, (2) evaluated without bias, including historical and societal biases, and (3) feel a sense of belonging and community that supports their rigorous work.
+
+Equity efforts recognize that merit is difficult to quantify and must be evaluated and debated by committees of experts (admissions, hiring, and promotion). Because those efforts require human judgement, they are subject to human biases. Equity, diversity, and inclusion efforts do not sacrifice merit, they ensure that the most meritorious individuals are recognized.
+
+Furthermore, such efforts do not stop at getting people in the door. They also include making sure that people from a wide variety of backgrounds have the support and sense of belonging to achieve their best once they are here.
+
+I founded and (currently) chair our department's Equity, Diversity, and Inclusion committee and I co-authored our department's Broadening Participation in Computing plan. The current version of the verified BPC plan can be found here: [UChicago Verified BPC Plan] .
+
+(Note that this rephrases a statement that I co-authored with the Physical Science Division's Equity, Diversity, and Inclusion Coordination Team. You can find that version here: [EDICT Statement] .	
+
+
+
+
+
+		
+

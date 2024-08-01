@@ -1,0 +1,150 @@
+Professor: Qin Zhang 0001
+University: Indiana University
+URL: http://homes.soic.indiana.edu/qzhangcs
+Description: Qin Zhang
+
+	
+
+Professor in Computer Science
+
+Adjunct Professor in Mathematics
+
+Indiana University Bloomington,
+Luddy Hall, RM 3044,
+700 North Woodlawn Avenue,
+Bloomington, IN 47408-3901, USA
+
+
+Email: qzhangcs@iu.edu
+
+Before joining IU, I spent a couple of great years at Theory Group, IBM Almaden Research Center,
+      and Center for Massive Data Algorithmics, Aarhus University.
+I obtained my PhD at Department of Computer Science and Engineering, HKUST.
+
+[Home] [CV] [Publication] [Activities]
+
+Due to a recent update of the IU email system, my IU email address has been changed to qzhangcs@iu.edu.
+Moreover, I might have lost many emails in the past few years due to an unexpected (and hard to fix) issue in the IU email spam filtering system.
+If you cannot reach me by my IU email, please try qzhangcs@gmail.com
+
+Research Interests
+
+Algorithms for Big Data: communication-efficient distributed computation/monitoring, streaming/sketching algorithms, lower bounds.
+
+Theoretical Foundations of Machine Learning: collaborative learning, distributed learning, reinforcement learning.
+
+Quantum Information and Computing: quantum data management.
+
+
+Projects
+
+Parallel Reinforcement Learning with Communication and Adaptivity Constraints
+Foundation of Communication-Efficient Distributed Computation and Monitoring
+Efficient Distributed Computation of Large-Scale Graph Problems in Epidemiology and Contagion Dynamics
+Efficient Algorithms for Querying Noisy Distributed/Streaming Datasets
+
+Current Teaching
+
+Fall 2024: B609 Sublinear Algorithms for Big Data
+Fall 2024: B503 Algorithm Design and Analysis
+
+Services
+
+Program Committees (selected):
+       SIGMOD 2025, NeurIPS 2024(area chair), ICML 2024(area chair),
+       NeurIPS 2023(area chair), ICML 2023(area chair), IPDPS 2023, PODS 2023,
+       NeurIPS 2022(area chair), ICML 2022, ICDE 2022,
+       NeurIPS 2021(area chair), ICML 2021, SIGMOD 2021, ICDE 2021, VLDB 2021, SOSA 2021,
+       NeurIPS 2020, ICML 2020, PODS 2020, AAAI 2020,
+       NeurIPS 2019, ISAAC 2019, IJCAI 2019, IPDPS 2019, ICML 2019,
+       NeurIPS 2018, ICML 2018, AAAI 2018, ICLR 2018, BeyondMR 2018,
+       NIPS 2017, WAOA 2017, WADS 2017, PODS 2017,
+       NIPS 2016, SODA 2016, CIKM 2016,
+       CIKM 2015, CIKM 2014, TAMC 2013
+
+Students
+
+Seba Villalobos (since 2023; co-advising with Prof. Haixu Tang)
+Artem Iurchenko (since 2023; co-advising with Prof. Amr Sabry)
+Kaiwen Liu (since 2022)
+Nikolai Karpov (PhD 2023; first employment: Oxford Nanopore)
+Chao Tao (PhD 2021; first employment: Google)
+Haoyu Zhang (PhD 2020; first employment: Meta)
+Jiecao Chen (PhD 2019; first employment: Google AI)
+
+Some Papers [ Full List ][ DBLP ]
+
+Collaborative Learning with Limited Interaction: Tight Bounds for Distributed Exploration in Multi-Armed Bandits (preliminary full version, 37 pages) [conf. talk]
+with C. Tao and Y. Zhou
+Proc. IEEE Symposium on Foundations of Computer Science (FOCS 19), to appear. Baltimore, MD, U.S.A., November 2019.
+
+
+We conduct a systematic study of the best arm identification problem in the setting of collaborative learning with limited interaction.
+We obtain almost tight round-speedup tradeoffs for both fixed-time and fixed-confidence settings, and show a complexity separation for the two variants.
+We develop two new techniques for proving round lower bounds for multi-agent collaborative learning.
+
+This follow-up work (FOCS 20) extends the work to top-k arm identifications, and shows a separation between the top-1 arm identification and the top-k arm identifications.
+This follow-up work (SPAA 24) extends the work to the heterogeneous collaborative learning (CL) model, and shows a separation between the homogeneous CL model and the heterogeneous CL model for adaptive algorithms.
+
+Distributed Partial Clustering (preliminary full version, 20 pages) [conf. talk]
+with S. Guha and Y. Li
+Proc. ACM Symposium on Parallelism in Algorithms and Architectures (SPAA 17), pages 143-152. Washington D.C., U.S.A., July 2017.
+Invited to special issue for SPAA 2017 papers in ACM Transactions on Parallel Computing (TOPC)
+Best Paper Award
+
+
+We give the first systematic study of communication/round-efficient distributed partial clustering, by providing almost tight bounds for partial k-center, k-median, and k-means in both deterministic and stochastic settings.
+As a byproduct, we develop the first algorithms for the partial k-median and k-means objectives that run in subquadratic time.
+
+This follow-up work (NIPS 18) gives a more practical algorithm for distributed clustering with outliers.
+
+Edit Distance: Sketching, Streaming and Document Exchange (preliminary full version, 30 pages) [conf. talk]
+with D. Belazzougui
+Proc. IEEE Symposium on Foundations of Computer Science (FOCS 16), pages 51-60. New Brunswick, NJ, U.S.A., October, 2016.
+
+
+We achieve nearly optimal communication with almost linear time recovery for document exchange.
+We obtain the first exact sketching and streaming algorithms for edit distance with sublinear size/space under small distance thresholds.
+Our technique of aligning strings using multiple random walks may be of independent interest.
+
+Tight Bounds for Distributed Functional Monitoring (preliminary full version, 50 pages) [conf. talk]
+with D. P. Woodruff
+Proc. ACM Symposium on Theory of Computing (STOC 12), pages 941-960. New York, NY, U.S.A., May 2012.
+
+
+We resolve several fundamental questions in the area of distributed functional monitoring (a.k.a. distributed streaming).
+Surprisingly, the total communication required to keep monitoring a function is often similar to the corresponding one-shot computation!
+A new technique called "composition" is proposed for randomized multiparty communication complexity.
+
+This follow-up work (SODA 14) resolves the communication complexity of distinct elements in all parameters.
+
+Lower Bounds for Number-in-Hand Multiparty Communication Complexity, Made Easy (preliminary full version, 22 pages) [conf. talk]
+with J. M. Phillips and E. Verbin
+Proc. ACM-SIAM Symposium on Discrete Algorithms (SODA 12), pages 486-501. Kyoto, Japan, January 2012.
+Journal version in SIAM Journal of Computing (SICOMP), volume 45, issue 1, pages 174-196, February 2016 [Link].
+
+A new technique called "symmetrization" is proposed for randomized multiparty communication complexity.
+
+Optimal Sampling From Distributed Streams (preliminary full version, 25 pages) [talk]
+with G. Cormode, S. Muthukrishnan and K. Yi
+Proc. ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems (PODS 10), pages 77-86. Indianapolis, IN, U.S.A., June 2010.
+Invited to Journal of the ACM (JACM), volume 59, issue 2, pages 10:1-10:25, April 2012 [Link].
+
+In the distributed streaming model, random sampling is even easier than counting.
+
+The Limits of Buffering: A Tight Lower Bound for Dynamic Membership in the External Memory Model (preliminary full version, 18 pages) [talk]
+with E. Verbin
+Proc. ACM Symposium on Theory of Computing (STOC 10), pages 447-456. Cambridge, MA, U.S.A., June 2010.
+Journal version in SIAM Journal of Computing (SICOMP), volume 42, issue 1, pages 212-229, January 2013 [Link].
+
+We resolve several fundamental problems in the area of external memory data structures.
+For many basic problems, buffering is impossible to achieve in the external memory model with sublogarithmic query time.
+The external memory model is clearner than the RAM model in certain perspectives.
+
+Note: In all papers above, authors are ordered alphabetically.
+
+
+
+
+
+

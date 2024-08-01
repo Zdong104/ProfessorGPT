@@ -1,0 +1,49 @@
+Professor: G. Edward Suh
+University: Cornell University
+URL: http://www.csl.cornell.edu/~suh
+Description: Suh Research Group
+
+Cornell University | School of Electrical and Computer Engineering
+
+Home
+News
+People
+Publications
+Research
+Teaching
+Contact
+G. Edward Suh
+G. Edward Suh
+Adjunct Professor
+
+Cornell University
+School of Electrical and Computer Engineering
+338 Rhodes Hall
+Ithaca, NY 14853
+(607) 255-6856
+“my last name” at ece dot cornell dot edu
+
+I am an Adjunct Professor of Electrical and Computer Engineering at Cornell University, where I am a member of the Computer Systems Laboratory.
+
+I received a Ph.D. degree in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology (MIT) with my work on a single-chip secure processor. Following the graduate school, I spent a year at Verayo Inc., where I led the development of unclonable RFIDs and secure embedded processors. I joined the faculty of the School of Electrical and Computer Engineering at Cornell in 2007.
+
+My research interests include computer systems in general with particular focus on computer architecture. I am interested in combining architectural techniques with low-level software to enhance various aspects of computing systems such as performance, energy-efficiency, and security. My current research projects focus on two major directions, one on building secure computing systems with verifiable security properties and the other on developing architecture and tools to enable efficient heterogeneous computing systems with minimal manual efforts.
+
+I was fortunate to work on multiple research projects, which had noticeable academic and practical impacts. I was named an IEEE Fellow for contributions to the development of secure hardware circuits and processors.
+
+Physical Uncloneable Functions (PUFs): PUF is a new hardware security primitive that enables secure and inexpensive authentication and secret key storage exploiting inherent manufacturing variations in modern integrated circuits (ICs). Our paper published at the 2004 symposium on VLSI circuits won the most frequently cited paper award as a part of the 30th anniversary of the symposium. I helped the initial commercialization efforts at a start-up company, Verayo Inc., and led the development efforts. The technology is now used in secure RFIDs as well as mainstream IC products such as Xilinx UltraScale+ MPSoC.
+
+Secure Processor Technologies: I developed one of the first secure processor designs (AEGIS secure processor) that showed that hardware can protect integrity and confidentiality of critical software without trusting an operating system, and also developed necessary hardware protection mechanisms such as memory encryption and integrity verification. Our paper on the initial AEGIS processor design published at the 2003 International Conference on Supercomputing (ICS) was selected as one of the 35 papers (out of ~1,800 papers) to be included in the author retrospectives for 25th years of ICS. Our related paper on dynamic information flow tracking (DIFT) published at the 2004 International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), received the most influential paper award. The secure processor technologies are now included as key security mechanisms in mainstream microprocessors such as Intel SGX (Secure Guarded eXecution) and AMD Secure Encrypted Virtualization (SEV).
+
+Cache Partitioning: I did early studies on dynamic partitioning of on-chip caches, including partitioning mechanisms, analytical models, on-chip cache monitors, and allocation algorithms. Our paper on analytical cache models published at the 2003 International Conference on Supercomputing (ICS) was selected as one of the 35 papers (out of ~1,800 papers) to be included in the author retrospectives for 25th years of ICS. Our paper at the International Conference on Parallel and Distributed Computing and Systems (PDCS) won the best paper award. The way partitioning techniques similar to what we investigated are now in commercial microprocessors as in Intel’s Cache Monitoring Technology (CMT) and Cache Allocation Technology (CAT).
+
+My research has been supported by grants from the National Science Foundation (NSF), the Air Force Office of Scientific Research (AFOSR), the Office of Naval Research (ONR), the Army Research Office (ARO), the Air Force Research Laboratory (AFRL), the National Aeronautics and Space Administration (NASA), and the Defense Advanced Research Projects Agency (DARPA) as well as gifts from SRC, Intel, Xilinx, and SUN (now Oracle). The research grants include an NSF CAREER award, the AFOSR Young Faculty Program (YIP) award, and the ARO Young Investigator Program (YIP) award.
+
+Recent News
+Top Picks in Hardware and Embedded Security 2020
+IEEE Fellow
+Best Paper Award at ACM Workshop on Cyber-Physical Systems Security & Privacy (CPS-SPC)
+Distinguished Practical Paper Award at IEEE Security and Privacy
+Mohamed Ismail’s paper on hardware support for dynamic language gets accepted for publication at the International Symposium on Memory Management
+Copyright © 2024 Suh Research Group. Powered by WordPress. Theme: Ample by ThemeGrill.
+

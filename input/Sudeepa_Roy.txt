@@ -1,0 +1,687 @@
+Professor: Sudeepa Roy
+University: Duke University
+URL: https://users.cs.duke.edu/~sudeepa
+Description: Home
+
+
+News!
+
+
+Background
+
+
+Research
+
+
+Awards
+
+
+Projects
+
+
+Funding
+
+
+Services
+
+
+Students
+
+
+Publications
+
+
+Teaching
+
+
+Sudeepa Roy
+
+                               Associate Professor
+                               Department of Computer Science
+                               Duke University
+                               308 Research Drive
+                               Campus Box 90129
+                               Durham, NC 27708-0129
+
+                               Office: D325 LSRC Building
+                               Phone: (919)-660-6596
+                               Fax: (919) 660-6519
+                               E-mail: sudeepa AT cs DOT duke DOT edu      
+
+
+
+
+
+
+News
+I am serving as the PC Chair of the 28th International Conference on Database Theory (ICDT) 2025, to be held in Barcelona, Spain in March 2025 as the EDBT/ICDT 2025 Joint Conference. The submission deadlines for two cycles are March 18, 2024 and September 19, 2024. The call for paper can be found here. There are two tracks on regular research papers (15 pages) and short papers on DB Theory + X (4 pages) showcasing applications of database theory. If you worked on principles of data management or related fields, or applications of DB theory, please consider submitting a paper!
+
+
+In 2023-24, I am spending a wonderful sabbatical in Berkeley, CA.
+
+I spent Fall'23 at the Simons Institute for the Theory of Computing, University of California, Berkeley, where I co-organized (with Guy Van den Broeck, Hung Ngo, Dan Suciu, and Virginia Vassilevska Williams) a semester-long program titled Logic and Algorithms in Database Theory and AI. This program was attended by about 100 long-term and short-term participants. Please check out the webpage for the videos and slides of many tutorials and talks!
+
+I am spending Spring'24 as a Visiting Scientist at RelationalAI, and also as a Visiting Scholar at UC Berkeley Sky Computing, hosted by Prof. Joe Hellerstein.
+
+
+I am honored to give an invited keynote at the EDBT/ICDT Joint Conference 2024 in Paestum, Italy on March 25, 2024 titled "How Database Theory Helps Teach Relational Queries in Database Education".
+
+
+Two papers at SIGMOD 2024 and one paper at PODS 2024, Santiago, Chile: "Summarized Causal Explanations For Aggregate Views" (with Brit Youngmann, Amir Gilad, and Michael Cafarella) and "Qr-Hint: Actionable Hints for Guided SQL Query Debugging" (with Yihao Hu, Amir Gilad, Kristin Stephens-Martinez, and Jun Yang) in SIGMOD, and "Evaluating Datalog over Semirings: A Grounding-based Approach" (with Hangdong Zhao, Shaleen Deep, Paris Koutris, and Val Tannen) in PODS.
+
+
+Past news updates....
+Background
+
+I joined the Department of Computer Science at Duke University in Fall 2015.
+I am a member of the Duke Database Group (a.k.a. Duke Database Devils; more about Duke Blue Devils),
+which is part of the Duke Systems Group.
+
+Before joining Duke, I was a postdoctoral research associate in the Department of Computer Science and Engineering,
+University of Washington where I worked with Prof. Dan Suciu and the database group.
+
+I graduated from the University of Pennsylvania with a Ph.D. in Computer and Information Science where I was advised by
+Prof. Susan Davidson and Prof. Sanjeev Khanna. During my Ph.D., I did two internships at IBM Research, Almaden.
+
+
+
+
+Research
+I am broadly interested in data and information management with a focus on foundational aspects of databases and
+big data analysis. My current research focuses on building tools and techniques to help users leverage the maximum benefit
+from the available data. While my ongoing work on causality and explanations in databases directly aims to assist users get
+deep insights into data by providing causal analysis and rich explanations to their questions, they often motivate the questions we studied in our recent work data repair and query optimization. My earlier work in the areas of data and workflow provenance,
+probabilistic databases, and crowd-sourcing probed into compelling, fundamental questions that need to be answered
+to enable end-to-end processing and analysis of unstructured, noisy, and unreliable data in today's world while preserving its entire context.
+
+See my publications.
+
+
+
+Awards
+VLDB Endowment Early Career Research Contributions Award, 2022 [link] [article]
+
+
+NSF Career Award, 2016 [link]
+
+
+Google Ph.D. Fellowship, 2011 (the first Google fellowship in Structured Data) [link]
+
+
+SIGMOD Best Artifact Award - Honorable Mention, 2023
+
+
+Distinguished Reviewer / PC member: SIGMOD 2023, VLDB 2021, SIGMOD 2020, SIGMOD 2017
+
+
+
+Projects
+AME: "Almost Matching Exactly" for Observational Causal Analysis
+
+
+
+HNRQ: Helping Novices Learn and Debug Relational Queries
+
+
+
+Actionable Causal Explanations and Reasoning in Data Analysis
+
+
+
+Data Repair
+
+
+
+Query Optimization
+
+
+
+FIREFly: Formal Interactive Rich Explanations on the Fly (Completed)
+
+
+
+Hume: A Unified and Declarative Approach to Causal Analysis for Big Data (Completed)
+
+
+
+
+Funding
+
+NSF Award IIS-2147061: "FAI: An Interpretable AI Framework for Care of Critically Ill Patients Involving Matching and Decision Trees". Cynthia Rudin (PI), Sudeepa Roy (co-PI), and Alexander Volfovsky (co-PI). Duke University. 2022-2025. $625,000 (from the NSF program on "Fairness in AI" in collaboration with Amazon, total funding: $1 million).
+
+NSF Award IIS-2008107: "III: Small: Helping Novices Learn and Debug Relational Queries". Jun Yang (PI), Sudeepa Roy (co-PI), and Kristin Stephens-Martinez (co-PI). Duke University. 2020-2023. $499,972.
+
+NIH Award 1R01EB025021-01: "QuBBD: Collaborative Research: Matching Methods for Causal Inference: Big Data and Networks". PI: Alexander Volfovsky (Duke University, Statistical Science), Co-Investigators: Allison Aiello (University of North Carolina, Chapel Hill, Global Public Health), and Sudeepa Roy and Cynthia Rudin (Duke University, Computer Science), 2017-2020, $848,708 (Duke's share of the award $513,651).
+
+NSF Award IIS-1703431: "III: Medium: Collaborative Research: A Unified and Declarative Approach to Causal Analysis for Big Data". PIs: Lise Getoor (University of California, Santa Cruz), Sudeepa Roy (Duke University), and Dan Suciu (University of Washington, lead institute), 2017-2021, $1,216,000 (Duke's share of the award $408,000).
+
+NSF CAREER Award IIS-1552538: "CAREER: FIREFLY - Rich Explanations for Database Queries". Principal Investigator. 2016-2021, $550,000.
+
+
+
+
+Services
+Organization / Advisory
+Advisory Committee for Symposium on PrincipleS of Database Systems (PODS)
+Steering Committee for Theory and Practice of Provenance (TaPP)
+Co-Chair: 7th Workshop on Human in the Loop Analytics (HILDA 2023)
+Co-Chair: TKDE Poster Track of IEEE International Conference on Data Engineering (ICDE 2022)
+Co-Chair: Demonstration Track of IEEE International Conference on Data Engineering (ICDE 2021)
+Workshop planning committee: "Social Science Modeling for Big Data in the World of Machine Learning", hosted at the National Academies of Sciences, Washington D.C., and sponsored by the National Institute of Aging (NIA), 2019
+Co-Chair: International Workshop on Theory and Practice of Provenance (TAPP 2019)
+Co-Chair: ICDE 2017 Ph.D. symposium
+Mentorship Co-Chair:    SIGMOD/PODS 2017
+Local Organization Co-Chair:    SIGMOD/PODS 2017
+Award Committee Member
+Test-of-Time Award Committee for Symposium on PrincipleS of Database Systems (PODS) 2022
+Best Demonstration Award Committee, ACM SIGMOD International Conference on Management of Data (SIGMOD) 2020
+Test-of-Time Award Committee for International Conference on Database Theory (ICDT) 2015
+Program Committee Member
+SIGMOD (Research Track):    2024 (Associate Editor), 2023, 2022 (Associate Editor), 2021, 2020, 2019, 2018, 2017, 2015, 2014
+VLDB (VLDB Review Board):   2021, 2017
+PODS:    2020, 2018, 2016
+ICDT:   2023, 2021, 2018, 2015
+ACM FaaCT:    2023
+SIGMOD (Demonstration Track):    2020, 2016, 2015
+ICDE (Demonstration Track):   2016
+VLDB Journal Special Issue on Data Science for Responsible Data Management:   2021
+PVLDB Reproducibility Program Board:   2018
+IJCAI (Special Track on AI and The Web):   2016
+COMAD:   2023 and 2022 (Applied Data science Track), 2021 (Senior PC Member), 2020, 2019, 2018, 2017
+TaPP:   2023, 2019, 2016, 2015, 2013
+WebDB:   2016, 2015
+HILDA:   2017
+SIGMOD Student Research Competition:   2020, 2020, 2017
+SIGMOD Undergraduate Research Competition:   2016
+VLDB Ph.D. Workshop:   2022, 2016
+External Reviewer
+Frequent reviewer of ACM Transactions on Database Systems (TODS),
+IEEE Transactions on Knowledge and Data Engineering (TKDE), VLDB Journal
+ACM Transactions on Algorithms, SIAM Journal on Computing
+PODS (2013, 2011), VLDB (2010), SODA (2010)
+
+
+
+Teaching
+Spring 2023: CompSci 590.01 -- Causal Inference in Data Analysis with Applications to Fairness and Explanations
+Fall 2022: CompSci 316 -- Introduction to Databases
+Spring 2022: CompSci 516 -- -- Database Systems
+Fall 2020: CompSci 316 -- Introduction to Databases
+Spring 2020: CompSci 316 -- Introduction to Databases
+Fall 2019: CompSci 516 -- -- Database Systems
+Spring 2019: CompSci 316 -- Introduction to Databases
+Fall 2018: CompSci 516 -- Database Systems
+Fall 2017: CompSci 516 -- Database Systems
+Spring 2017: CompSci 316 -- Introduction to Databases
+Fall 2016: CompSci 516 -- Data Intensive Computing Systems
+Spring 2016: CompSci 516 -- Data Intensive Computing Systems
+Fall 2015: CompSci 590.06 -- Understanding Data: Theory and Applications
+
+
+
+Students
+I am fortunate to work with a number of wonderful graduate/undergraduate students and postdocs at Duke!
+(and the list below does not include the great students/postdocs advised my colleagues at Duke and other schools I work with).
+Current students / postdocs
+Yuxi Liu (PhD, co-advised with Jun Yang)
+Haibo Xiu (PhD, co-advised with Jun Yang)
+Fangzhu Shen (PhD)
+
+
+Former students and postdocs
+Dr. Amir Gilad (Postdoc, 2023, earlier a visiting student from Tel Aviv University, First Employment: Faculty member at the Hebrew University of Jerusalem, Israel)
+
+
+Dr. Harsh Parikh (PhD, 2023, co-advised with Cynthia Rudin, First Employment: postdoc at Johns Hopkins University)
+Dr. Zhengjie Miao (PhD, 2022, Co-winner of Best Dissertation Award at Duke CS, First employment: Megagon Labs, Now: Assistant Professor at Simon Fraser University, Canada)
+Dr. Prajakta Kalmegh (PhD, 2019, co-advised with Shivnath Babu, First employment: Unravel Data)
+
+
+Tingyu Wang (MS, 2023)
+Danyu Sun (MS, 2023)
+Kehan Lyu (MS, 2020)
+Yameng Liu (MS, 2019)
+Andrew Lee (MS, 2018)
+Xiaodan Zhu (MS, 2016)
+
+
+Kushagra Ghosh (Undergraduate, Spring 2023)
+Haoning Jiang (Undergraduate, Fall 2021)
+James Leong (Undergraduate, Spring 2021)
+Aparimeya Taneja (Undergraduate, Spring 2021)
+Kevin Day (Undergraduate, Fall 2020)
+Jeremy Cohen (Undergraduate, Fall 2019)
+Niyaz Nurbhasha (Undergraduate, Fall 2019)
+Cheryl Wang (Undergraduate, Fall 2018)
+Frederick Xu (Undergraduate, Fall 2017 and Spring 2018, Honorable mention for the Computing Research Association's (CRA) Outstanding Undergraduate Researcher Award for 2019)
+Harrison Lundberg (Undergraduate, Fall 2017, Co-winner of the Alex Vasilos award for Excellence in Computer Science Research)
+
+      Duke CS+ undergraduate summer internship mentoring:
+      James Lim (2021), Allen Pan (2021), Zachary Zheng (2021), Alexander Bendeck (2020), Jeffrey Luo (2020)
+
+
+Publications    
+Book Chapters
+Trends in Explanations: Understanding and Debugging Data-driven Systems [pdf].
+    (with Boris Glavic and Alexandra Meliou)
+    Foundations and Trends in Databases, Vol 11, No. 3, 2021
+
+
+Uncertain Data Lineage [pdf].
+    Encyclopedia of Database Systems, 2nd edition, Springer, 2018.
+
+
+Provenance: Privacy and Security [pdf].
+    (with Susan Davidson)
+    Encyclopedia of Database Systems, 2nd edition, Springer, 2018.
+
+
+Tutorials
+
+
+Causality and Explanations in Databases [pdf] [slides].
+    (with Alexandra Meliou and Dan Suciu)
+    International Conference on Very Large Data Bases (VLDB) 2014.
+
+
+Journal Publications
+
+
+FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference [pdf] [arxiv].
+    (with Tianyu Wang, Marco Morucci, M. Usaid Awan, Yameng Liu, Cynthia Rudin, and Alexander Volfovsky)
+    Journal of Machine Learning Research (JMLR), Vol. 22, No. 31, pages 1âˆ’41, 2021.
+
+
+Computing Optimal Repairs for Functional Dependencies [pdf].
+    (with Ester Livshits and Benny Kimelfeld)
+    ACM Transactions on Database Systems (TODS), Vol. 45, Issue 1, pages 4:1--4:46, 2020 (best paper special issue).
+
+
+Exact Model Counting of Query Expressions: Limitations of Propositional Methods [pdf].
+    (with Paul Beame, Jerry Li, and Dan Suciu)
+    ACM Transactions on Database Systems (TODS), Vol. 42, Issue 1, pages 1:1-1:46, 2017.
+    (Preliminary versions in ICDT 2014 and UAI 2013)
+
+
+Answering Conjunctive Queries with Inequalities [pdf].
+    (with Paraschos Koutris, Tova Milo, and Dan Suciu)
+    Theory of Computing Systems (TOCS), Springer, Vol. 61, Number 1, pages 2-30, 2017.
+    (A preliminary version appeared in ICDT 2015)
+
+
+Top-k and Clustering with Noisy Comparisons [pdf].
+    (with Susan B. Davidson, Sanjeev Khanna, and Tova Milo)
+    ACM Transactions on Database Systems (TODS), Vol. 39, Issue 4, pages 35:1--35:39, 2014 (best paper special issue).
+    (A preliminary version appeared in ICDT 2013)
+
+
+Invited Articles
+
+
+Toward Interpretable and Actionable Data Analysis with Explanations and Causality [pdf].
+    PVLDB, Vol 15(12), 2022 (Article for the VLDB Early Career Research Award)
+
+
+Making AI Machines Work for Humans in FoW [pdf].
+    (with Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero, Pierre Bourhis, FranÃ§ois Charoy, Marina Danilevsky, Gautam Das, Gianluca Demartini, Shady Elbassuoni, David Gross-Amblard, Emilie Hoareau, Munenari Inoguchi, Jared B. Kenworthy, Itaru Kitahara, Dongwon Lee, Yunyao Li, Ria Mae Borromeo, Paolo Papotti, H. Raghav Rao, Pierre Senellart, Keishi Tajima, Saravanan Thirumuruganathan, Marion Tommasi, Kazutoshi Umemoto, Andrea Wiggins, and Koichiro Yoshida)
+    SIGMOD Record 2020 (49(2), pages 30-35)
+
+
+On Benchmarking for Crowdsourcing and Future of Work Platforms [pdf].
+    (with Ria Mae Borromeo, Lei Chen, Abhishek Dubey, and Saravanan Thirumuruganathan)
+    IEEE Data Engineering Bulletin 2019 (42(4), pages 46-54)
+
+
+Query Perturbation Analysis: An Adventure of Database Researchers in Fact-Checkings [pdf].
+    (with Jun Yang, Pankaj K. Agarwal, Brett Walenz, You Wu, Cong Yu, and Chengkai Li)
+    IEEE Data Engineering Bulletin 2018 (41(3), pages 28-42)
+
+
+On the Complexity of Evaluating Order Queries with the Crowd [pdf].
+    (with Benoit Groz and Tova Milo)
+    IEEE Data Engineering Bulletin 2015 (38(3), pages 44-58)
+
+
+Conference Publications
+
+
+Qr-Hint: Actionable Hints for Guided SQL Query Debugging.
+    (with Yihao Hu, Amir Gilad, Kristin Stephens-Martinez, and Jun Yang)
+    To Appear in ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
+
+
+Summarized Causal Explanations For Aggregate Views.
+    (with Brit Youngmann, Amir Gilad, and Michael Cafarella)
+    To Appear in ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
+
+
+Evaluating Datalog over Semirings: A Grounding-based Approachg.
+    (with Hangdong Zhao, Shaleen Deep, Paris Koutris, and Val Tannen)
+    To Appear in ACM Principles of Database Systems (PODS), 2024.
+
+
+Evaluating Pre-Trial Programs Using Interpretable Machine Learning Matching Algorithms for Causal Inference.
+    (with Travis Seale-Carlisle*, Saksham Jain*, Courtney Lee, Caroline Levenson, Swathi Ramprasad, Brandon Garrett, Cynthia Rudin, and Alexander Volfovsky)
+    To Appear in AAAI Conference on Artificial Intelligence (AAAI), 2024, AI for Social Impact (AISI) special track.
+
+
+DP-PQD: Privately Detecting Per-Query Gaps In Synthetic Data Generated By Black-Box Mechanisms.
+    (with Shweta Patwa, Danyu Sun, Amir Gilad, and Ashwin Machanavajjhala)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 17 (1), 2023.
+
+
+Explaining Differentially Private Query Results With DPXPlain.
+    (with Tingyu Wang, Yuchao Tao, Amir Gilad, and Ashwin Machanavajjhala)
+    Proceedings of the VLDB Endowment (PVLDB), 2023, Demonstration Track.
+
+
+Characterizing and Verifying Queries Via CINSGEN.
+    (with Hanze Meng, Zhengjie Miao, Amir Gilad, and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2023, Demonstration Track.
+
+
+Causal What-If and How-To Analysis Using HypeR.
+    (with Fangzhu Shen, Kayvon Heravi, Oscar Gomez, Sainyam Galhotra, Amir Gilad, and Babak Salimi)
+    International Conference on Data Engineering, Demonstration Track, 2023.
+
+
+DPXPlain: Privately Explaining Aggregate Qery Answers. [pdf]
+    (with Yuchao Tao, Amir Gilad, and Ashwin Machanavajjhala)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 16 (1), 2022.
+
+
+HypeR: Hypothetical Reasoning With What-If and How-To Queries Using a Probabilistic Causal Approach.
+    (with Sainyam Galhotra*, Amir Gilad*, and Babak Salimi)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022.
+
+
+Selectivity Functions of Range Queries are Learnable.
+    (with Xiao Hu, Yuxi Liu, Haibo Xiu, Pankaj Agarwal, Debmalya Panigrahi, and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022.
+
+
+Understanding Queries by Conditional Instances. [arxiv].
+    (with Amir Gilad*, Zhengjie Miao*, and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2022.
+
+
+CaJaDE: Explaining Query Results by Augmenting Provenance with Context.
+    (with Chenjie Li, Juseung Lee, Zhengjie Miao, and Boris Glavic)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 15, demonstration track, 2022.
+
+
+Putting Things into Context: Rich Explanations for Query Answers using Join Graphs. [pdf] [arxiv].
+    (with Chenjie Li, Zhengjie Miao, Qitian Zeng, and Boris Glavic)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+
+
+Properties of Inconsistency Measures for Databases [pdf].
+    (with Ester Livshits, Rina Kochirgan, Segev Tsur, Ihab Ilyas, and Benny Kimelfeld)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2021.
+
+
+Aggregated Deletion Propagation for Counting Conjunctive Query Answers [pdf] [full version]
+    (with Xiao Hu, Shouzhuo Sun, Shweta Patwa, and Debmalya Panigrahi)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 14, 2020.
+
+
+I-Rex: An Interactive Relational Query Explainer for SQL [pdf].
+    (with Zhengjie Miao, Tiangang Chen, Alexander Bendeck, Kevin Day, and Jun Yang)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 13, demonstration track, 2020.
+
+
+MuSe: Multiple Deletion Semantics for Data Repair [pdf].
+    (with Amir Gilad, Yihao Hu, and Daniel Deutch)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 13, demonstration track, 2020.
+
+
+On Multiple Semantics for Declarative Database Repairs [pdf] [arxiv].
+    (with Amir Gilad and Daniel Deutch)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2020.
+
+
+Computing Local Sensitivities of Counting Queries with Joins [pdf] [arxiv].
+    (with Yuchao Tao, Xi He, and Ashwin Machanavajjhala)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2020.
+
+
+Causal Relational Learning [pdf] [arxiv].
+    (with Babak Salimi, Harsh Parikh, Moe Kayali, Lise Getoor, and Dan Suciu)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2020.
+
+
+Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation [arxiv].
+    (with Marco Morucci*, Vittorio Orlandi*, Cynthia Rudin, and Alexander Volfovsky)
+    To appear in Conference on Uncertainty in Artificial Intelligence (UAI), 2020.
+
+
+Almost-Matching-Exactly for Treatment Effect Estimation under Network Interference [arxiv].
+    (with M. Usaid Awan*, Marco Morucci*, Vittorio Orlandi*, Cynthia Rudin, and Alexander Volfovsky)
+    International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.
+
+
+Learning to Sample: Counting with Complex Queries [arxiv].
+    (with Brett Walenz, Stavros Sintos, and Jun Yang)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 13, 2019.
+
+
+Almost Matching Exactly With Instrumental Variables [arxiv].
+    (with M.Usaid Awan*, Yameng Liu*, Marco Morucci*, Cynthia Rudin, and Alexander Volfovsky)
+    Conference on Uncertainty in Artificial Intelligence (UAI) 2019.
+
+
+CAPE: Explaining Outliers by Counterbalancing [pdf].
+    (with Zhengjie Miao*, Qitian Zeng*, Chenjie Li, Boris Glavic, and Oliver Kennedy)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 12, demonstration track, 2019.
+
+
+LensXPlain: Visualizing and Explaining Contributing Subsets for Aggregate Query Answers [pdf].
+    (with Zhengjie Miao and Andrew Lee)
+    Proceedings of the VLDB Endowment (PVLDB), Vol 12, demonstration track, 2019.
+
+
+Almost-Exact Matching with Replacement for Causal Inference [arxiv].
+    (with Awn Dieng*, Yameng Liu*, Cynthia Rudin, and Alexander Volfovsky)
+    International Conference on Artificial Intelligence and Statistics (AISTATS), 2019.
+
+
+RATest: Explaining Wrong Queries Using Small Examples [pdf].
+    (with Zhengjie Miao and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), demonstration track, 2019.
+
+
+Explaining Wrong Queries Using Small Examples [pdf].
+    (with Zhengjie Miao and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2019.
+
+
+Going Beyond Provenance: Explaining Query Answers with Pattern-based Counterbalances [pdf].
+    (with Zhengjie Miao*, Qitian Zeng*, and Boris Glavic)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2019.
+
+
+iQCAR: inter-Query Contention Analyzer for Data Analytics Frameworks [pdf].
+    (with Prajakta Kalmegh and Shivnath Babu)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), 2019.
+
+
+Interactive Summarization and Exploration of Top Aggregate Query Answers [pdf].
+    (with Yuhao Wen, Xiaodan Zhu, and Jun Yang)
+    Proceedings of the VLDB Endowment (PVLDB) 2018, Vol 11 Issue 13/VLDB 2019.
+
+
+Computing Optimal Repairs for Functional Dependencies [arxiv].
+    (with Ester Livshits and Benny Kimelfeld)
+    ACM Principles of Database Systems (PODS) 2018.
+
+
+iQCAR: A demonstration of an Inter-query Contention Analyzer for Cluster Computing Frameworks [pdf].
+    (with Prajakta Kalmegh, Harrison Lundberg, Frederick Xu, and Shivnath Babu)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), demonstration track, 2018.
+
+
+QAGView: Interactively Summarizing High-Valued Aggregate Query Answers [pdf].
+    (with Yuhao Wen, Xiaodan Zhu, and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD), demonstration track, 2018.
+
+
+Optimizing Iceberg Queries with Complex Joins [pdf].
+    (with Brett Walenz and Jun Yang)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD) 2017.
+
+
+Explaining Query Answers with Explanation-Ready Databases [pdf] [slides].
+    (with Laurel Orr and Dan Suciu)
+    Proceedings of the VLDB Endowment (PVLDB) Vol 9/VLDB 2016.
+
+
+Answering Conjunctive Queries with Inequalities [pdf].
+    (with Paraschos Koutris, Tova Milo, and Dan Suciu)
+    International Conference on Database Theory (ICDT) 2015
+
+
+A Formal Approach to Finding Explanations for Database Queries [pdf] [slides].
+    (with Dan Suciu)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD) 2014.
+
+
+Circuits for Datalog Provenance [pdf] [slides].
+    (with Daniel Deutch, Tova Milo, and Val Tannen)
+    International Conference on Database Theory (ICDT) 2014.
+
+
+Model Counting of Query Expressions: Limitations of Propositional Methods [pdf].
+    (with Paul Beame, Jerry Li, and Dan Suciu)
+    International Conference on Database Theory (ICDT) 2014.
+    Invited to ACM TODS as one of the best papers in ICDT 2014
+
+
+Lower Bounds for Exact Model Counting and Applications in Probabilistic Databases [pdf] [slides].
+    (with Paul Beame, Jerry Li, and Dan Suciu)
+    Conference on Uncertainty in Artificial Intelligence (UAI) 2013.
+
+
+Provenance-based Dictionary Refinement in Information Extraction [pdf] [slides].
+    (with Laura Chiticariu, Vitaly Feldman, Frederick R Reiss and Huaiyu Zhu)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD) 2013.
+
+
+Using the Crowd for Top-k and Group-by Queries [pdf] [slides].
+    (with Susan B. Davidson, Sanjeev Khanna and Tova Milo)
+    International Conference on Database Theory (ICDT) 2013.
+    Invited to ACM TODS as one of the best papers in ICDT 2013
+
+
+A Propagation Model for Provenance Views of Public/Private Workflows [pdf] [slides].
+    (with Susan B. Davidson and Tova Milo)
+    International Conference on Database Theory (ICDT) 2013.
+
+
+Queries with Difference on Probabilistic Databases [pdf] [slides].
+    (with Sanjeev Khanna and Val Tannen)
+    International Conference on Very Large Data Bases (VLDB) 2011.
+
+
+Provenance Views for Module Privacy [pdf] [slides].
+    (with Susan B. Davidson, Sanjeev Khanna, Tova Milo, and Debmalya Panigrahi)
+    ACM Principles of Database Systems (PODS) 2011.
+
+
+Faster Query Answering in Probabilistic Databases using Read-Once Functions [pdf] [slides].
+    (with Vittorio Perduca and Val Tannen)
+    International Conference on Database Theory (ICDT) 2011.
+
+
+Enabling Privacy in Provenance-Aware Workflow Systems [pdf].
+    (with Susan Davidson, Sanjeev Khanna, Julia Stoyanovich, Val Tannen, Yi Chen and Tova Milo)
+    Vision Track, Conference on Innovative Data Systems Research (CIDR) 2011.
+
+
+An Optimal Labeling Scheme for Workflow Provenance Using Skeleton Labels [pdf].
+    (with Zhuowei Bao, Susan Davidson and Sanjeev Khanna)
+    ACM SIGMOD International Conference on Management of Data (SIGMOD) 2010.
+
+
+Optimizing User Views for Workflows [pdf] [slides].
+    (with Olivier Biton, Susan Davidson and Sanjeev Khanna)
+    International Conference on Database Theory (ICDT) 2009.
+
+
+STCON in Directed Unique-Path Graphs [pdf] [slides].
+    (with Sampath Kannan and Sanjeev Khanna)
+    Foundations of Software Technology and Theoretical Computer Science (FSTTCS) 2008.
+
+
+Automatic Translation of Simulink Models into Input Language of a Model Checker [pdf].
+    (with Meenakshi B. and Abhishek Bhatnagar)
+    International Conference on Formal Engineering Methods (ICFEM) 2006.
+
+
+Workshop, Poster, and Other Publications
+
+
+I-Rex: An Interactive Relational Query Debugger for SQL [link].
+    (with Yihao Hu, Zhengjie Miao, James Leong, James Lim, Zachary Zheng, Kristin Stephens-Martinez, and Jun Yang)
+    ACM Technical Symposium on Computer Science Education (SIGCSE), Demonstration, 2022.
+
+
+AME: Interpretable Almost Exact Matching for Causal Inference [link].
+    (with Haoning Jiang, Tommy Howell, Neha Gupta, Vittorio Perduca, Marco Morucci, Harsh Parikh, Cynthia Rudin, and Alexander Volfovsky)
+    Conference on Neural Information Processing Systems (NeurIPS), Demonstration, 2021.
+
+
+iQCAR: Inter-Query Contention Analyze [pdf].
+    (with Prajakta Kalmegh and Shivnath Babu)
+    Symposium on Cloud Computing (SOCC), Poster, 2018.
+
+
+Hiding Data and Structure in Workflow Provenance [pdf].
+    (with Susan B. Davidson and Zhuowei Bao)
+    Invited paper, International Workshop on Databases in Networked Information Systems (DNIS) 2011.
+
+
+Privacy Issues in Scientific Workflow Provenance [pdf] [slides].
+    (with Susan Davidson, Sanjeev Khanna and Sarah Cohen Boulakia)
+    International Workshop on Workflow Approaches to New Data-centric Science (WANDS) 2010.
+
+
+
+* = equal contributions
+
+Ph.D. Dissertation
+    Provenance and Uncertainty [pdf].
+    Sudeepa Roy
+    University of Pennsylvania, August 2012
+
+
+
+
+
+Patents
+Refining a dictionary for information extraction.
+    (with Laura Chiticariu, Vitaly Feldman, Frederick Reiss, and Huaiyu Zhu)
+    Assignee: International Business Machines Corporation (IBM)
+    Publication Number: US 8775419 B2,  2014
+
+
+Automatic Translation of Simulink Models into Input Language of a Model Checker.
+    (with Meenakshi B. and Abhishek Bhatnagar)
+    Assignee: Honeywell International Inc.
+    Publication Number: US 7698668 B2,  2010
+
+
+
+
+
+Miscellaneous
+Reports
+
+On "Go With the Winners" Algorithm [pdf].
+    Sudeepa Roy
+    M. Tech. Thesis, IIT Kanpur, 2006.
+    Advisors: Prof. Manindra Agrawal and Prof. Somenath Biswas
+
+
+
+
+

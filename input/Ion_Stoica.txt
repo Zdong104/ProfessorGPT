@@ -1,0 +1,116 @@
+Professor: Ion Stoica
+University: Univ. of California - Berkeley
+URL: http://www.cs.berkeley.edu/~istoica
+Description: Ion Stoica's Home Page
+
+I am a Professor of Computer Science Division at University of California, Berkeley, and currently the Director of Sky Computing Lab. I am also a co-founder of Anyscale (2019), Databricks (2013), and Conviva Networks (2006). Here is a short bio.
+
+Contact information:
+
+465 Soda Hall
+
+Computer Science Division
+
+University of California, Berkeley
+
+Berkeley, CA 94720-1776
+
+phone: +1 510 643-4007
+
+Fax: +1 510 643-1289
+
+E-mail: istoica@cs.berkeley.edu
+
+Research | Teaching | Publications | Students | Bio
+
+Research
+
+My area of research is cloud computing, distributed systems, and networking. I am equally interested in designing algorithms and systems with strong theoretical foundations, and in providing practical implementations that are deployable in the real world. A list of my publications are available here.
+
+Some current projects include:
+Alpa, an automatic model-parallel training and serving system for large-scale neural networks.
+Ray, a low-latency distributed execution framework for machine learning and reinforcement learning applications.
+Clipper, a low-latency, high-throughput prediction and model serving system.
+Succinct, an efficient storage system that supports sub-string queries on compressed data.
+Apache Spark, a cluster computing frameworks to efficiently support interactive, and iterative computations.
+Some previous projects:
+Apache Mesos, a cluster manager that provides efficient resource isolation and sharing across cluster computing frameworks, such as Hadoop, MPI and Hypertable.
+Alluxio (formerly known as Tachyon), a an in-memory distributed storage for big data processing.
+OCALA, an overlay architecture for deploying legacy applications over new Internet architecture.
+Internet Indirection Infrastructure (i3), an network architecture that uses a rendezvous-based communication abstraction to support a wide variety of communication abstractions, including multicast, anycast and mobility.
+Chord, and efficient lookup protocol for peer-to-peer networks.
+Older projects (during my graduate studies, at CMU):
+Dynamic Packet State (DPS), a scalable QoS and resource management architecture for the Internet. The main idea of DPS is to have packets carry per-flow state, instead of maintaining the state at routers. One instantiation of DPS is CSFQ (Core-Stateless Fair Queueing), a protocol that provides fair sharing without requiring routers to maintain any per-flow state.
+Hierarchical Fair Service Curve (HFSC), an hierarchical scheduling algorithm that decouples the bandwidth and delay allocations.
+Teaching
+CS 162 [10-12][17][18]
+EE 122 [01-05] [08, 09]
+CS 262a [16][18]
+CS 268 [01-05] [06][10]
+CS 294 [09][11][15][19]
+CS 194 [05]
+Students and Postdocs
+
+Current PhD students:, Romil Bhardwaj, Audrey Cheng (w/ Natacha Crooks), Wei-Lin Chiang, Emma Dauterman (w/ Raluca Popa), Paras Jian (w/ Joey Gonzalez), Sukrit Kalra, Woosuk Kwon, Zhuohan Li, Michael Luo, Gur-Eyal Sela (w/ Joey Gonzalez), Peter Schafhalter (w/ Joey Gonzalez), Stephanie Wang, Sarah Wooders (w/ Joey Gonzalez), Zhanghao Wu, Zongheng Yang, Samyukta Yagati (w/ Natacha Crooks), Lianmin Zheng (w/ Joey Gonzalez)
+
+ 
+
+Current Postdocs: Hao Zhang
+
+Past PhD students:
+
+GuanhuaWang (2022, Microsoft Research)
+Wenting Zheng (2020, w/ Raluca Ada Popa, Assistant Professor at Carnegie Mellon University)
+Ameer Haj-Ali (2020, w/ Krste Asanovic, Anyscale)
+Eric Liang (2020, Anyscale)
+Anand Iyer (2019, Microsoft Research)
+Anurag Khandelwal (2019, Assistant Professor at Yale University)
+Philipp Moritz (2019, w/ Michael Jordan, Anyscale, co-founder)
+Ankur Dave (2018, Databricks)
+Qifan Pu (2018, Google)
+Haoyuan Li (2018, Alluxio, co-founder)
+Shivaram Venkataraman (2016, w/ Michael Franklin, Assistant Professor at University of Wisconsin),
+Mosharaf Chowdhury (2015, Assistant Professor at University of Michigan)
+Peter Bailis (2015, w/ Ali Ghodsi and Joe Hellerstein, Assistant Professor at Stanford University)
+Ganesh Ananthanarayanan (2014, Microsoft Research, Redmond)
+Sameer Agarwal (2014, Databricks)
+Matei Zaharia (2013, w/ Scott Shenker, Assistant Professor at Stanford University).
+Lucian Popa (2011, Databricks)
+Gautam Altekar (2011, Menlo Security, co-founder)
+Rodrigo Fonseca (2009, Assistant Professor at Brown University)
+Brighten Godfrey (2009, Associate Professor at UIUC)
+Dilip Joseph (2009, Facebook)
+Jayanth Kannan (2008, Google)
+Ryan Huebsch (2008, w/ Joe Hellerstein, Google)
+Matthew Caesar (2007, w/ Randy Katz, Associate Professor at UIUC)
+Karthik Lakshminarayanan (2007, Google)
+Ananth Rajagopala-Rao (2007, Vudu Networks)
+Boon Thau Loo (2006, w/ Joe Hellerstein, Associate Professor at University of Pennsylvania)
+Dennis Geels (2006, Google Inc.)
+Lakshminarayanan Subramanian, (2005, w/ Randy Katz and Scott Shenker, Professor at New York University)
+Shelley Zhuang (2005, w/ Randy Katz , Eleven Two Capital, co-founder)
+Sylvia Ratnasamy (2002, w/ Scott Shenker, Associate Professor at UC Berkeley)
+
+
+
+Past postdocs:
+
+Kirthevasan Kandasamy (2019-2022, Assistant Professor at University of Wisconsin)
+Hong Zhuo (2018-2022, Assistant Professor at Waterloo University)
+Ionel Gog (2018-2022, Google)
+Danyang Zhuo (2019-2020, Assistant Professor at Duke University)
+Alexey Tumanov (2016-2019, Assistant Professor at Georgia Institute of Technology)
+Roy Fox (2017-2019, Assistant Professor at University of California, Irvine)
+Rashmi K. Vinayak (2015-2017, Assistant Professor at CMU)
+Xin Jin (2016-2017, Assistant Professor at John Hopkins University)
+Rachit Agarwal (2013-2016, Assistant Professor at Cornell University)
+Kai Zeng (2014-2015, Microsoft Research)
+Adam Oliner (2011-2014, Slack)
+Minlan Yu (2011-2012, Assistant Professor at Harvard University)
+
+
+
+Past MS students: Tathagata Das (Databricks), Andrew Wang (Cloudera), Patrick Wendell (Databricks, co-founder)
+
+PhD students on-leave: Benjamin Hindman (Mesosphere, co-founder)
+

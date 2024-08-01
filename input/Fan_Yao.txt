@@ -1,0 +1,199 @@
+Professor: Fan Yao
+University: University of Central Florida
+URL: http://fan-yao.com/
+Description: RESEARCH
+PUBLICATIONS
+PROFESSIONAL SERVICES
+CONTACTS
+Fan Yao
+Assistant Professor, University of Central Florida
+
+I am an Assistant professor in the Department of Electrical and Computer Engineering at University of Central Florida. I am leading the Computer Architecture and Systems Research (CASR) lab. My research interests are in the areas of computer architecture, security, machine learning, and energy efficient computing.
+
+For students: We have multiple PhD positions available. If you are interested in working with me, please contact me via fan.yao@ucf.edu. For more information, please visit our research group page.
+
+NEWS
+Our work IvLeague is accepted in MICRO ’24. (July 2024)  
+I will be serving in the TPC of HPCA ’2025. (July 2024)  
+Our work WBP is accepted in ECCV ’24. (July 2024)  
+Our work MetaLeak is accepted in ISCA ’24. (March 2024)  
+Our work DeepVenom is accepted in IEEE S&P ’24. (March 2024)  
+Our work PowSpectre is accepted in Asia CCS ’24. (March 2024)  
+One paper is accepted in USENIX Security ’24. (March 2024)  
+My NSF CAREER project is awarded, thanks NSF! (March 2024)  
+I will be serving as the hardware security track chair for ACM GLSVLSI’24. (Jan. 2024)  
+One US Patent has been granted(Jan. 2024)  
+I will be serving as the general co-chair for SEED’24. (August 2023)  
+One paper is accepted in ACM CCS’23. (May 2023)  
+I will be serving as the artifact evaluation chair for IEEE IISWC’23. (May 2023)  
+One paper is accepted in IEEE Micro. (Jan. 2023)  
+Our work D-Shield is accepted in HPCA’23. (Oct. 2022)  
+We released the PoC source for DeepSteal system exploit in Github (June 2022).  
+Our work DeepSteal is accepted in IEEE S&P ’22 (Oakland). (March 2022)  
+One paper is accepted in IEEE HOST ’22. (February 2022)  
+LockedDown is accepted in IEEE EuroS&P ’22. (February 2022)  
+Our collaborative work on far-field GPU EM side channels is accepted in IEEE S&P ’22 (Oakland). (November 2021)  
+Fan is invited to serve in following committees: ISCA’22 (ERC) and DAC’22 (TPC). (October 2021)  
+Our work BranchSpectre is accepted in IEEE Transactions on Computers. (October 2021)  
+Two papers are accepted in SEED’21. (August 2021)  
+Our work LADDER is accepted in MICRO’21. (July 2021)  
+Fan will serve in the External Review Committee (ERC) of MICRO’21.  
+MORE
+PUBLICATIONS
+[ISCA'24] MetaLeak: Uncovering Side Channels in Secure Memory Architectures Exploiting Metadata, Md Hafizul Chowdhuryy, Hao Zheng and Fan Yao, In IEEE/ACM Annual International Symposium on Computer Architecture, 2024.
+ 
+[ECCV'24] WBP: Training-time Backdoor Attacks through Weight Bit Poisoning, Kunbei Cai, Zhenkai Zhang, Qian Lou and Fan Yao, In European Conference on Computer Vision , 2024.
+ 
+[S&P'24] DeepVenom: Persistent DNN Backdoors Exploiting Transient Weight Perturbations, Kunbei Cai, Md Hafizul Chowdhuryy, Zhenkai Zhang and Fan Yao, In IEEE Symposium on Security and Privacy, 2024.
+ 
+[AsiaCCS'24] PowSpectre: Powering Up Speculation Attacks with TSX-based Replay, Md Hafizul Chowdhuryy, Zhenkai Zhang and Fan Yao, In ACM ASIA Conference on Computer and Communications Security, 2024. (Acceptance rate: 19%)
+ 
+[DAC'24] VITA: ViT Acceleration for Efficient 3D Human Mesh Recovery via Hardware-Algorithm Co-Design, Shilin Tian, Chase Szafranski, Ce Zheng, Fan Yao, Ahmed Louri, Chen Chen, Hao Zhen, In ACM/IEEE Design Automation Conference, 2024.
+ 
+[USENIX'24] Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive, Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao and Xing Gao, In USENIX Security, 2024.
+ 
+[IISWC'23] Decepticon: Attacking Secrets of Transformers, Mujahid Al Rafi, Yuan Feng, Fan Yao, Meng Tang and Hyeran Jeon, In IEEE International Symposium on Workload Characterization, 2023. [PDF]
+ 
+[ICCAD'23] BeKnight: Guarding against Information Leakage in Speculatively Updated Branch Predictor, Md Hafizul Chowdhuryy, Zhenkai Zhang and Fan Yao, In IEEE/ACM International Conference on Computer-Aided Design, 2023. [PDF]
+ 
+[HPCA'23] D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives, Md Hafizul Chowdhuryy, Myoungsoo Jung, Fan Yao and Amro Awad, In IEEE International Symposium on High-Performance Computer Architecture, 2023. [PDF]
+ 
+[CCS'23] TunneLs for Bootlegging: Fully Reverse-Engineering GPU TLBs for Fun and Challenging Isolation Guarantees of NVIDIA MIG, Zhenkai Zhang, Tyler Allen, Fan Yao, Xing Gao and Rong Ge, In ACM Conference on Computer and Communications Security, 2023. [PDF]
+ 
+[Micro'23] Understanding and Characterizing Side Channels Exploiting Phase Change Memories, Md Hafizul Chowdhuryy, Rickard Ewetz, Amro Awad and Fan Yao, In IEEE Micro, 2023. [PDF]
+ 
+[TCAD'23] STREAM: Towards READ-based In-Memory Computing for Streaming Based Processing for Data-Intensive Applications, M. Rashed, S. Thijssen, F. Yao, SK Jha and R. Ewetz, In IEEE Trans. on Computer-aided Design of Integrated Circuits and Systems, 2023.
+ 
+[S&P'22] DeepSteal: Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories, Adnan Siraj Rakin+, Md Hafizul Chowdhuryy+, Fan Yao and Deliang Fan (+Co-first authors), In IEEE Symposium on Security and Privacy, 2022. [PDF]
+ 
+[S&P'22] Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors, Zihao Zhan, Zhenkai Zhang, Sisheng Liang, Fan Yao and Xenofon Koutsoukos, In IEEE Symposium on Security and Privacy, 2022. [PDF]
+ 
+[HOST'22] On the Feasibility of Training-time Trojan Attacks Through Hardware-based Faults in Memory, Kunbei Cai, Zhenkai Zhang and Fan Yao, In IEEE International Symposium on Hardware Oriented Security and Trust, 2022. [PDF]
+ 
+[WOOT'22] CLAIRVOYANCE: Exploiting Far-field EM Emanations of GPU to “See” Your DNN Models through Obstacles at a Distance, Sisheng Liang, Zihao Zhan, Fan Yao, Long Cheng and Zhenkai Zhang, In IEEE Workshop on Offensive Technologies colocated with IEEE S&P, 2022. [PDF]
+ 
+[EuroS&P'22] LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and Profit, Mert Side, Fan Yao and Zhenkai Zhang, In IEEE European Symposium on Security and Privacy, 2022. [PDF]
+ 
+[DATE'22] Hybrid Digial-Digital In-Memory Computing, M. Rashed, F. Yao, SK Jha and R. Ewetz, In Design Automation and Test in Europe Conference, 2022.
+ 
+[ASP-DAC'22] STREAM: Towards READ-based In-Memory Computing for Streaming based Data Processing, M. Rashed, S. Thijssen, F. Yao, SK Jha and R. Ewetz, In Asia and South Pacific Design Automation Conference, 2022.
+ 
+[MICRO'21] LADDER: Architecting Content and Location-aware Writes for Crossbar Resistive Memories, Md Hafizul Chowdhuryy, Muhammad R. Haq Rashed, Amro Awad, Rickard Ewetz and Fan Yao, In IEEE/ACM International Symposium on Microarchitecture, 2022. [PDF]
+ 
+[TC'21] Leaking Secrets through Modern Branch Predictor in the Speculative World, Md Hafizul Chowdhuryy and Fan Yao, In IEEE Transactions on Computers, 2021. [PDF] [Code]  
+ 
+[TPAMI'21] T-BFA: Targeted Bit-Flip Adversarial Weight Attack, Adnan Siraj Rakin, Zhezhi He, Jingtao Li, Fan Yao, Chaitali Chakrabarti and Deliang Fan, In IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [PDF]
+ 
+[SEED'21] NMT-Stroke: Diverting Neural Machine Translation through Hardware-based Faults, Kunbei Cai, Md Hafizul Chowdhuryy, Zhenkai Zhang and Fan Yao, In IEEE International Symposium on Secure and Private Execution Environment Design, 2021. [PDF]
+ 
+[SEED'21] R-SAW: New Side Channels Exploiting Read Asymmetry in MLC Phase Change Memories, Md Hafizul Chowdhuryy, Rickard Ewetz, Amro Awad and Fan Yao, In IEEE International Symposium on Secure and Private Execution Environment Design, 2021. [PDF]
+ 
+[D&T'21] Defeating Cache Timing Channels with Hardware Prefetchers, Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki and Guru Venkataramani, In IEEE Design and Test, 2021 (HES Top Picks Special Issue).  
+ 
+[AsiaCCS'21] Red Alert for Power Leakage: Exploiting Intel RAPL-Induced Side Channels, Zhenkai Zhang, Sisheng Liang, Fan Yao and Xing Gao, In ACM Asia Conference on Computer and Communications Security, 2021. [PDF]
+ 
+[ICCD'20] BranchSpec: Information Leakage Attacks Exploiting Speculative Branch Instruction Executions, Md Hafizul Chowdhuryy, Hang Liu and Fan Yao, In IEEE International Conference on Computer Design, 2020. [PDF] [TR] [Video] [Code]  
+ 
+[USENIX'20] DeepHammer: Depleting the Intelligence of Deep Neural Networks through Targeted Chain of Bit Flips, Fan Yao, Adnan Siraj Rakin and Deliang Fan, In USENIX Security, 2020. [PDF] [Slides] [Talk]  
+ 
+[HaSS'20] Cache-Zoomer: On-demand High-resolution Cache Monitoring for Security, Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki and Guru Venkataramani, In Journal of Hardware and Systems Security, 2020.
+ 
+[SAC'20] Inter-Task Cache Interference Aware Partitioned Real-Time Scheduling, Zhishan Guo, Kecheng Yang, Fan Yao and Amro Awad, In ACM/SIGAPP Symposium On Applied Computing, 2020.  
+ 
+[CAL'19] Are Crossbar Memories Secure? New Security Vulnerabilities in Crossbar Memories, Vamsee Reddy Kommareddy, Baogang Zhang, Fan Yao, Rickard Ewetz and Amro Awad, In IEEE Computer Architecture Letters, 2019. [PDF]  
+ 
+[CloudCom'19] PowerStar: Improving Power Efficiency in Heterogenous Processors for Bursty Workloads with Approximate Computing, Sai Santhosh Dayapule, Fan Yao, Guru Venkataramani, In IEEE Cloudcom, 2019. [PDF]  
+ 
+[IISWC'19] HolDCSim: A Holistic Simulator for Data Centers, Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani, In IEEE International Symposium on Workload Characterization, 2019. [PDF] [Extended Version]
+ 
+[Micro'19] Leveraging Cache Management Hardware for Practical Defense against Cache Timing Channel Attacks, Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani, In IEEE Micro, 2019. [PDF]  
+ 
+[HPDC'19] XBFS: eXploring Runtime Optimizations for Breadth-First Search on GPUs, Anil Gaihre, Zhenlin Wu, Fan Yao and Hang Liu, In ACM International Symposium on High-Performance Parallel and Distributed Computing, 2019.
+ 
+[HOST'19] COTSknight: Practical Defense against Cache Timing Channel Attacks using Cache Monitoring and Partitioning Technologies, Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani, In IEEE International Symposium on Hardware Oriented Security and Trust 2019. [PDF] [Talk]
+ 
+[ICASSP'19] Negative Correlation, Non-linear Filtering, and Discovering of Repetitiveness for Cache Timing Channel Detection, Hongyu Fang, Fan Yao, Milos Doroslovacki and Guru Venkataramani, In IEEE International Conference on Acoustics, Speech, and Signal Processing, 2019. [PDF]
+ 
+[IJPP'18] Covert Timing Channels Exploiting Cache Coherence Hardware: Characterization and Defense, Fan Yao, Milos Doroslovacki, Guru Venkataramani, In Springer International Journal on Parallel Programming, 2018. [PDF]
+ 
+[IJPP'18] PrODACT: Prefetch-Obfuscator to Defend Against Cache Timing Channels, Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki, Guru Venkataramani, In Springer International Journal on Parallel Programming, 2018.
+ 
+[HASP'18] WiP: Towards a Stronger Indicator for Detecting Cache Timing Channel, Fan Yao, Hongyu Fang, Milos Doroslovacki and Guru Venkataramani, In Annual Workshop on Hardware and Architectural Support for Security and Privacy held in conjunction with ISCA, 2018.  
+ 
+[HPCA'18] Are Coherence Protocol States vulnerable to Information Leakage? Fan Yao, Milos Doroslovacki and Guru Venkataramani, In IEEE International Symposium on High-Performance Computer Architecture, 2018. [PDF][Talk]
+ 
+[ASCCS'18] A Noise-resilient Detection Method against Advanced Cache Timing Channel Attacks, Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki and Guru Venkataramani, In IEEE Asilomar Conference on Signals, Systems and Computers, 2018.
+ 
+[TGCN'18] TS-BatPro: Improving Energy Efficiency in Data Centers by Leveraging Temporal-spatial Batching, , Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam, In IEEE Transactions on Green Communications and Networking, 2018 [PDF]
+ 
+[ICCCN'18] PopCorns: Power Optimization using a Cooperative Network-Server approach for Data Centers, Bingqian Lu, Sai Santosh Dayapule, Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam, In IEEE International Conference on Computer Communications and Networks, 2018. [PDF]
+ 
+[HOST'18] Prefetch-guard: Leveraging Hardware Prefetchers to Defend against Cache Timing Channels (short paper), Hongyu Fang, Sai Santosh Dayapule, Fan Yao, Milos Doroslovacki and Guru Venkataramani, In IEEE International Symposium on Hardware Oriented Security and Trust, 2018. [PDF] (Top Picks in Hardware and Embedded Security)
+ 
+[DSN'17] StatSym: Vulnerable Path Discovery through Statistics-guided Symbolic Execution, Fan Yao, Yongbo Li, Yurong Chen, Hongfa Xue, Tian Lan and Guru Venkataramani, In IEEE/IFIP International Conference on Dependable Systems and Networks, 2017 (accepted 49 out of 220 submissions). [PDF] [Demo]
+ 
+[GLSVLSI'17] Covert Timing Channels Exploiting Non-Uniform Memory Access based Architectures, Fan Yao, Guru Venkataramani and Milos Doroslovacki, In the ACM Great Lakes Symposium on VLSI, 2017. (accepted 48 out of 197 submissions). [PDF]
+ 
+[GLOBECOM'17] TS-Bat: Leveraging temporal-spatial batching for data center energy optimization, Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam, In IEEE GLOBECOM, 2017. [PDF]
+ 
+[CLOUD'17] WASP: Workload Adaptive Energy-Latency Optimization in Server Farms using Server Low-Power States, Fan Yao, Jingxin Wu, Suresh Subramaniam and Guru Venkataramani, In IEEE International Conference on Cloud Computing, 2017. [PDF]
+ 
+[IFIP-SEC'17] SIMBER: Eliminating Redundant Memory Bound Checks via Statistical Inference, Hongfa Xue, Yurong Chen, Fan Yao, Yongbo Li, Tian Lan and Guru Venkataramani, In IFIP Conference on ICT Systems Security and Privacy Protection, 2017. [PDF]
+ 
+[TIFS'16] SARRE: Semantics-Aware Rule Recommendation and Enforcement for Event Paths on Android, Yongbo Li, Fan Yao, Tian Lan and Guru Venkataramani, In IEEE Transaction on Information Forensics and Security, 2016. [PDF]
+ 
+[SecureComm'15] Semantics-Aware Rule Recommendation and Enforcement for Event Paths on Android, Yongbo Li, Fan Yao, Tian Lan and Guru Venkataramani, In EAI SecureComm (Poster), 2015. [PDF]
+ 
+[CloudCom'15] A Dual Delay Timer Strategy for Optimizing Server Farm Energy, Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam, In IEEE CloudCom, 2015. [PDF]
+ 
+[ICC'14] A Comparative Analysis of Data Center Network Architectures, Fan Yao, Jingxin Wu, Guru Venkataramani and Suresh Subramaniam, In IEEE International Conference on Communications, 2014. [PDF]
+ 
+[ICCD'13] JOP-alarm: Detecting Jump-oriented Programming-based anomalies in applications (short paper), Fan Yao, Jie Chen and Guru Venkataramani, In IEEE International Conference on Computer Design, 2013. [PDF]
+ 
+[ICCD'13] Watts-inside: A Hardware-Software Cooperative Approach for Multicore Power Debugging , Jie Chen, Fan Yao and Guru Venkataramani, In IEEE International Conference on Computer Design, 2013. [PDF]
+
+
+
+PROFESSIONAL SERVICES
+Program Committee
+Program Committe Member, DAC (2022, 2023, 2024)  
+TPC Track Chair, GLSVLSI (2024)  
+Program Committe Member, IJCAI (2024)  
+Program Committe Member, HPCA (2020)  
+External Review Committee (ERC), MICRO (2020, 2021, 2022)  
+External Review Committee (ERC), ISCA (2022)  
+Program Committe Member, ICCD (2019, 2020, 2021, 2022, 2023)  
+Program Committe Member, IISWC (2021)  
+Program Committe Member, NAS (2021, 2022)  
+Program Committe Member, SEED (2021, 2022)  
+Program Committee Member, ICDIS (2018)  
+Organizing Committee
+General Co-chair, SEED (2024)  
+Tutorial and Workshop Chair, ISCA (2023)  
+Publication Chair, IISWC (2021)  
+Local Chair, IISWC (2019)  
+Proceeding Chair, ICCD (2020, 2021)  
+Finance Chair, ICCD (2023, 2024)  
+Registration Chair, HPCA (2019)  
+AWARDS AND HONORS
+Top Picks in Hardware and Embedded Security, 2019
+GWU Best Dissertation Award, 2019
+NSF GW I-Corps Site Grant Award, 2018
+GWU SEAS R&D Showcase 2nd Place in Experimental Research, 2018
+CONTACTS
+
+Office: 359 Harris Engineering Center (HEC)
+College of Engineering and Computer Science
+University of Central Florida
+Orlando, Florida
+
+Email: [first name].[last name]@ucf.edu
+
+MISC
+
+Get connected:
+
+Google Scholar
+GitHub
+ResearchGate
+

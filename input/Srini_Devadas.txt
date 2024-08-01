@@ -1,0 +1,80 @@
+Professor: Srini Devadas
+University: Massachusetts Institute of Technology
+URL: https://people.csail.mit.edu/devadas
+Description: 	
+Srini Devadas
+
+Rm. 32G-844
+32 Vassar Street
+MIT CSAIL
+devadas@mit.edu
+
+	
+
+I am an Edwin Sibley Webster Professor of Electrical Engineering and Computer Science at MIT in the Computer Science and Artificial Intelligence Laboratory (CSAIL). I belong to the Computation Structures Group. My current research interests are primarily in the areas of applied cryptography, computer security and computer architecture.
+
+Recent work: We defined a new data privacy notion called PAC Privacy, which is dependent on, and exploits, entropy in private data that is processed to produce exposed outputs, and furthermore, can be automatically measured and controlled. We have used PAC Privacy to develop the notion of learnable obfuscation, and developed several PAC-Private algorithms.
+
+Accelerating Fully Homomorphic Encryption (FHE) using the F1 and CraterLake processors, with an associated tensor compiler Fhelipe is a step towards making FHE practical. Zero-knowledge Proofs (ZKPs) can be dramatically accelerated by the NoCap hardware accelerator.
+
+My group pointed out vulnerabilities in anonymizing networks, including using deep learning for website fingerprinting, and designed Riffle, Atom, Crossroads, Spectrum, and Trellis, systems with strong anonymity.
+
+Prior projects at the intersection of applied cryptography and computer architecture in my group include designing a secure processor Ascend that allows untrusted programs to compute on encrypted data from a client without leaking information about the data. Ascend uses Path ORAM with optimizations and integrity verification to obfuscate memory address patterns. Ascend also protects the timing channel. Ascend was integrated with the Princeton Piton multicore processor and taped out in 32nm technology in March 2015. The chip is 6mm × 6mm, contains more than 460,000,000 transistors and runs at 857 MHz, dissipating 166 mW @ 1.1V.
+
+Path ORAM is used with SGX enclaves in the private messaging app Signal for private contact discovery.
+
+Early work in secure computer architecture that I was involved with include building Aegis (2003-05), a single-chip secure processor that does not trust the operating system and which incorporated cryptographic measurement and attestation, memory integrity verification and memory encryption; all these features were adopted in Intel SGX.
+
+In 2016, my group produced a detailed analysis of Intel SGX. We used this knowledge and our experience with Aegis and Ascend to design and build Sanctum, an open-source in-order processor based on the RISC-V ISA that provides secure enclaves resistant to a broader class of software attacks than SGX. Sanctum is a hardware/software codesign with an easy-to-analyze security monitor whose specification has been formally verified. In 2019, we built, on an FPGA, a speculative out-of-order processor MI6 based on Sanctum's design philosophy that boots untrusted Linux and defends against control flow speculation attacks such as Spectre.
+
+My group developed Physical Unclonable Functions (PUFs) to generate secret keys from chip fabrication variations and used them in a version of Aegis. Xilinx Zynq Ultrascale+ FPGAs use PUFs to generate secret keys, as do Altera Stratix 10 FPGAs. The Samsung Eqxnos 9825 processor in Galaxy Note phones "gives you peace of mind by using a PUF to store and manage your personal data in perfect isolation".
+
+PUFs can also be used for low-cost authentication. This Canon camera bought in 2014 can be authenticated using an NFC-enabled phone because the package has an RFID PUF tag (black box marked Canon) on it. Contrast the tag with the first silicon PUF built during 2002-04 at MIT!
+
+I am the Computer Science track coordinator of the MIT PRIMES high-school outreach program, a year-long program where high-school students are exposed to research and mentored by MIT students. Recently, PRIMES research made it into Ethereum!
+
+Selected Publications
+Security and Applied Cryptography.	Computer Architecture.	Database Management.
+Computational Biology.	Architecture Exploration.	Compiler Optimization.
+Design for Low Power Dissipation.	Boolean Representation.	Asynchronous Design.
+Logic Synthesis.	Test Generation/Synthesis for Testability.	Formal and Semi-Formal Verification.
+
+Teaching
+My introductory programming book: Programming for the Puzzled. Available on Amazon.
+
+I have taught several classes at MIT:
+
+Computer Systems Security (6.566), Spring 2023.
+Performance Engineering of Software Systems (6.106), Fall 2022.
+Foundations of Computer Security (6.S060), Fall 2021.
+Programming for the Puzzled (6.S095 OCW), IAP 2018. YouTube Channel.
+Fundamentals of Programming (6.009), Fall 2015, Spring 2016, Spring 2017, Spring 2019, Fall 2019.
+Introduction to Computer Science and Programming (6.00), Spring 2012, Fall 2013.
+Computer and Network Security (6.857), Spring 2010.
+Elements of Software Construction (6.005), Spring 2009, Fall 2010, Spring 2011.
+Design and Analysis of Algorithms (the new 6.046), Fall 2008, Fall 2012, Spring 2015 OCW Version, Fall 2018, Spring 2021, Spring 2022.
+Introduction to Algorithms (6.006), Fall 2007, Spring 2008, Fall 2009, Fall 2011 OCW Version, Spring 2014, Spring 2018, Fall 2020.
+Introduction to Algorithms (the old 6.046), Spring 2007.
+Recitations in Digital Communication Systems (6.02), Fall 2014.
+Recitations in 6.033: Computer Systems Engineering, Spring 2013.
+Laboratory in Software Engineering (6.170), Fall 2001, Spring 2002, Fall 2003, Fall 2005.
+Computer Architecture (6.823), Spring 2002, Fall 2009.
+Mathematics for Computer Science (6.042), Fall 1998, Fall 2000, Spring 2003, Spring 2005 OCW Version, Spring 2020.
+Computation Structures (6.004), Spring 2004, Fall 2006. Teaching material from Fall 1996/Spring 1998 terms.
+Recitations in 6.001: Structure and Interpretation of Computer Programs, Fall 2004.
+Computer-Aided Design of Integrated Circuits (6.373), Spring 1989, Spring 1991-3-5-7, Spring 1999.
+Introduction to VLSI Systems (6.371), Fall 1989, Spring 1990, Fall 1991, Fall 1994-5, Fall 1997.
+Formal Verification in VLSI Design (6.892), Fall 1992.
+Recitation sections in 6.002: Circuits and Electronics, Fall 1988.
+
+
+Srini Devadas
+MIT CSAIL
+32-G844, 32 Vassar Street
+Cambridge, MA 02139
+(617) 253 0454
+(617) 253 6652 (Fax)
+devadas@mit.edu
+
+Accessibility
+

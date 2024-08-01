@@ -1,0 +1,169 @@
+Professor: Ling Liu 0001
+University: Georgia Institute of Technology
+URL: http://www.cc.gatech.edu/~lingliu
+Description: 	
+
+Prof. Dr. Ling Liu
+
+ 
+
+College of Computing
+
+Georgia Institute of Technology
+
+Office: KACB, room 3340
+Address:
+
+Georgia Tech, 266 Ferst Dr, Atlanta, GA 30332-0765 USA
+Phone +1-404-385-1139
+FAX +1-404-385-2295
+Email: lingliu AT cc dot gatech dot edu
+
+Research.com
+Google Scholar
+DBLP ORCiD
+
+ 
+
+If we knew what it was we were doing,
+it would not be called research, would it?
+
+
+
+
+-- Albert Einstein
+
+Contents
+
+Research Interests | Research Projects | Publications
+
+Teaching | Postdocs & Graduate Students | DiSL | Calendar
+
+Keynotes/Panels/Tutorials/Invited Talks | Professional Services | Interesting Web Links
+
+Important Conferences | DBLP | GT  Digital Library | BibFinder
+
+Short Bio
+
+Prof. Dr. Ling Liu is a full professor in the College of Computing at Georgia Institute of Technology and an elected IEEE Fellow. She directs the research programs in Distributed Data Intensive Systems Lab (DiSL). Her current research interests are centered on data and intelligence powered computing, such as artifical intelligence, machine learning, knowledge discovery and data mining, big data systems and analytics. Concretely, she is interested in developing innovative and efficient learning algorithms and systems for multi-modality of data, as well as algorithms and optimizations for improving performance, availability, security, privacy, trust of data and intelligence powered computing systems and applications, such as cloud and edge computing, distributed computing, Internet of smart things, Mobile computing and location based services, wireless and sensor networked computing, peer to peer and blockchain computing. Prof. Liu has published over 300 international journal and conference articles with high citations at Google scholar. Her research group has produced a number of open source software systems, among which the most popular ones include WebCQ,  XWRAPElite, PeerCrawl, GTMobSIM, SHAPE, NEAT, TripleBit (jointly with Prof. Pingpeng Yuan), MemFlex, MemPipe, XMemPod, AdaTrace, FUSE, Fed-CDP, LRBench, XEnsemble1.0, Data Poisoning in FL.
+
+Prof. Dr. Liu is a recipient of IEEE Computer Society Technical Achievement Award (2012) and an Outstanding Doctoral Thesis Advisor award from Georgia Institute of Technology in 2012. Her research group has been a recipient of the best paper awards from numerous top venues, including ICDCS 2003, WWW 2004, 2005 Pat Goldberg Memorial Best Paper Award, IEEE Cloud 2012, IEEE ICWS 2013, Mobiqutious 2014, APWeb 2015, IEEE/ACM CCGrid 2015, IEEE Symposium on Big Data 2016, IEEE Edge 2017 and IEEE IoT 2017. Prof. Dr. Ling Liu has served as a general chair or a PC chair of numerous IEEE and ACM conferences in data engineering, very large databases, Big data, and distributed computing fields, and most recently, co-PC chair of the 2019 International Conference on World Wide Web. Prof. Liu has been on editorial board of over a dozen international journals, and served as the Editor In Chief of IEEE Transactions on Service Computing (2013-2016). Currently, Prof. Liu is the Editor in Chief of ACM Transactions on Internet Technology (TOIT). Prof. Dr. Liu's current research has been primarily sponsored by NSF, IBM, Intel and CISCO edge computing.
+
+Active Research Projects
+I no longer maintain the updated list for my projects here. Interested readers may visit our github website for updated projects.
+
+Big Data powered Artifical Intelligence, Machine Learning, and Cognitive Computing Systems
+GTDLBench - Benchmarking Deep Learning Frameworks
+LRBench - Benchmarking Learning Rate Policies for Deep Neural Networks
+DP Model_Publishing - Differentially Private Model Publishing
+CLDP - Condensed Local Differential Privacy for Privacy Preserving Data Collection
+GT Attack Pod - GT Attack Pod (MODEF)
+DLEdge - Deep Learning on Edge Devices (Intel Sponsored)
+NGramCNN - Learning to classify graph objects with a deep convolutional neural network (incl. software download).
+AdaTrace - Differentially Private and Attack Resilient Approach to Large Scale Mobile Trajectory Synthesis
+DPStar - Differentially Private Publishing of Spatial Trajectories
+SI-Cluster - Social Influence Analytics in Heterogeneous Information Networks (software download)
+VEPathCluster - Social Influence Analytics in Heterogeneous Information Networks (software download)
+GraphLens - Social Influence Analytics in Heterogeneous Information Networks (software download)
+SHAPE - Semantic Hash Partitioning for Distributed Processing of big RDF datasets
+TripleBit - A Fast and Compact RDF Store
+NEAT - Trajectory Clustering and Spatial Pattern Mining
+
+In Memory Computing Systems and Optimizations
+XMemPod
+XBigPage
+FastSwap
+DAHI
+MemFlex
+MemPipe
+
+Privacy Preserving Data Analytics
+Adversarial Deep Learning with Privacy Awareness
+PPML - Privacy Preserving Machine Learning
+PrivacyGuard - NSF SaTC Medium: Privacy Preserving Computations in Big Data Clouds
+
+Privacy and Security of EHR and eHealth Systems
+PPN - NSF NetSE Medium: Privacy Preserving Information Networks and Services for eHealthcare Systems and `Applications
+MedVault - NSF CyberTrust Medium: Ensuring Security & Privacy for Medical Data )
+
+Mobile Internet: Systems, Services, Applications, and Beyond
+GTMobiSIM - Mobility Simulation and Trace Generator (GTMobiSIM Visualizer)
+MobiEyes - Distributed Computing Architecture and Algorithms for Processing Location Queries
+GeoGrid / GeoCast - Decentralized Service Architecture for Mobile Location-based Information Delivery and Dissemination
+Location Privacy - Location Privacy in Mobile Computing Systems and Applications
+Spatial Alarms / mTriggers – High Performance Architecture and Models for Scalable Processing of Location Triggers
+Location based Access Control (LBAC) – Secure Location Determination and Verification: Models and Techniques
+ 
+Distributed Computing Systems Research
+GTPeers - Peer-to-Peer and Grid Computing Research
+HyperBee / Apoidea / PeerCrawl - Peer-to-Peer Web Crawling and Search
+SGuard - Secure Guards for Massively Distributed Computing Systems
+MedVault - Ensuring Security and Privacy for Electronic Medical Records
+Guarding the Next Internet Frontier: Countering Denial of Information
+ 
+Distributed Data Management and Large Scale Enterprise Services
+XWrapElite - An Automated Wrapper Generation System for Web Sources
+XWrapComposer - A Wrapper Generation System for Extracting Information from Multiple Web Pages
+WebCQ - Continual Queries for Information Monitoring on the Web
+Privacy-preserving Data Classification using Geometric Transformations
+Enterprise Workflow and ServiceOriented Computing
+Privacy Preserving in Data Stream and Event Stream Mining
+Storage as Service: Architectures and Models for Performance, Failure Resilience, and Security
+ 
+Past Research Projects
+PeerCQ - Internet Information Monitoring Using a Peer-to-Peer network
+PeerTrust  Trusted Computing in Peer to Peer Systems
+TrustMe - Anonimity Support in Distributed Trust Management Systems
+Edge Caching Grid for Dynamic Content Delivery
+Scientific Data Management and BioComputing
+VISTA - Effective Cluster Rendering of Very Large Data Sets and an application of VISTA
+iVIBRATE - Interactive Visualization Based Framework for Clustering Large Datasets
+BestK: the Critical Clustering Structure in Categorical Datasets
+Infosphere - Infopipes Technology for Fresh Information Delivery
+THOR - Deep Web Data Extraction
+Athena - Web Service Discovery: A Source Biased Approach
+OpenCQ - Continual Queries for Logistic Applications
+XWrap Original - A Semi-Automated Wrapper Generation System for Structured or Semi-structured Data Sources
+Omini - A Fast Object Extraction System for Web Sources
+AQR - Distributed Query Routing
+Ginga - Adaptive Query Processing with varying resource availabilities and constraints
+PageDigest Efficient Encoding Scheme for Web Documents
+Sdiff - Structurally aware change detection algorithms for HTML and XML documents
+Context Cube - A Context Aware Methodology for Managing and Accessing Sensor Data - GT Aware Home
+TAM - Restructuring and Self-Configuring of Transactional Workflow Systems
+Diorama/DIOM
+EVOLVE
+DISIMA
+Data Mining and Data Warehousing
+
+ 
+
+Courses
+I have taught the following courses from 1999 to present. I have also created the course cs6220 (used to be cs8803 BDS since 2015. From 2021, all courses will be made available on Canvas instead.
+CS6220: Big Data Systems and Analytics ( From Fall 2021, the course is accessible on canvas, Fall 2020, Fall 2019, Fall 2018, Fall 2017, Fall 2016, Fall 2015)
+ CS6675/CS4675: Advanced Internet Computing Systems and Application Development ( From Spring 2021 forward, the course is accessible on Canvas, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016, Spring 2015, Spring 2014, Spring 2013, Spring 2012,
+used to be cs8803 AIA: 2011, 2010, 2009, 2008, Spring 2007, Spring 2006, Spring 2005, Spring 2004)
+CS4420: Database System Implementation ( Fall 2014, Fall 2013, Spring 2013, Spring 2005, Spring 2004, Spring 2003)
+CS4440: Emerging Database Technologies (Fall 2009, Fall 2008, Fall 2007)
+CS1371: Computing for Engineers (Spring 2007)
+cs3210 Design of Operating Systems (2011 Fall)
+CS4400: Introduction to Database Systems (Spring 2006, Spring 2002, Spring 2000)
+I have taught the following courses during 1997-1999 at OGI:
+CSE515 Distributed Computing Systems
+CSE543/CSE583 Distributed Information Management on the Net
+
+I also supervisee A list of cs7001 mini-projects each year.
+
+Research Groups
+Distributed data Intensive Systems Lab (DiSL (very old and need to update))
+Systems Research Group
+Database Research Group
+ML Foundation Research Group
+
+ 
+
+
+
+
+Last updated Aug. 18, 2016. Ling Liu (lingliu at cc dot gatech dot edu)
+

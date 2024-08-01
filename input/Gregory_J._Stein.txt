@@ -1,0 +1,123 @@
+Professor: Gregory J. Stein
+University: George Mason University
+URL: https://cs.gmu.edu/~gjstein
+Description: Robotic Anticipatory Intelligence & Learning Group
+Prof. Gregory J. Stein
+Assistant Prof. Computer Science
+gjstein@gmu.edu
+home  research  people
+curriculum vitae (CV)
+ 
+
+
+Gregory J. Stein, RAIL Group
+News
+Selected Publications
+Blog Posts
+Prof. Gregory J. Stein
+RAIL Group, GMU
+
+I am an Assistant Professor of Computer Science at George Mason University where I run the Robotic Anticipatory Intelligence & Learning (RAIL) Group. Our research, at the intersection of robotics and machine learning, is centered around developing representations that allow robots to better understand the impact of their actions, so that they may plan quickly and intelligently in a dynamic and uncertain world.
+
+Read more on our research page or see our full publication list.
+
+See also my curriculum vitae (CV).
+
+News
+Summer 2024  The RAIL Group is delighted to be hosting four high school summer student interns through the George Mason University ASSIP program. Welcome to the lab!
+April 15, 2024  Our paper Multi-Robot Guided Sampling-Based Motion Planning with Dynamics in Partially Mapped Environments is now published through IEEE Access, a collaboration with Prof. Erion Plaku spearheaded by PhD student Hoang-Dung Bui. This work represents our latest step towards more capable multi-robot teams that must operate under uncertainty.
+December 4 2023  I gave a talk on our recent work at Arizona State University. Thanks for having me!
+November 10 2023  I served as a PC Member for the IEEE Big Data Workshop on Multimodal Big Data.
+October 1–5 2023  The lab will be presenting three papers at IROS 2023. See our blog posts for (1) reliable, graph neural net driven long horizon navigation under uncertainty and (2) data efficient model selection for learning-informed long horizon navigation in partially mapped environments.
+September 08 2023  I will be attending a workshop at Penn to contribute to the next National Robotics Roadmap. Update: the 2024 Roadmap for US Robotics is now live!
+August 27 2023  The lab presented a paper at IEEE CASE, a collaboration with Prof. Erion Plaku, on effective dynamically feasible navigation in partially mapped environments.
+May 2023  The lab presented two papers at ICRA 2023.
+December 2022  I co-organized a workshop Learning, Perception, and Abstraction for Long-Horizon Planning at CoRL 2022. Video for the entire workshop here!
+November 2021  Our paper Generating High-Quality Explanations for Navigation in Partially-Revealed Environments was accepted for a poster presentation at NeurIPS 2021. Video here!
+September 2020  I gave a 5 minute lightning talk at the George Mason CS Research Day. Video here!
+Fall 2020  I will be joining the Department of Computer Science at George Mason University as an Assistant Professor.
+October 2018  My paper Learning over Subgoals for Efficient Navigation of Structured, Unknown Environments was a Best Paper Finalist at the 2018 Conference on Robot Learning. My accompanying 15 minute talk was awarded Best Oral Presentation:
+Selected Publications
+
+See also our full publication list.
+
+Yimeng Li, Arnab Debnath, Gregory J. Stein, and Jana Kosecka. “Learning-augmented model-based planning for visual exploration.” In: International Conference on Intelligent Robots and Systems (IROS). 2023. paper. show bibtex
+Raihan Islam Arnob and Gregory J. Stein. “Improving Reliable Navigation under Uncertainty via Predictions Informed by Non-Local Information.” In: International Conference on Intelligent Robots and Systems (IROS). 2023. paper, blog post. show bibtex
+Abhishek Paudel and Gregory J. Stein. “Data-Efficient Policy Selection for Navigation in Partial Maps via Subgoal-Based Abstraction.” In: International Conference on Intelligent Robots and Systems (IROS). 2023. paper, blog post. show bibtex
+Abhish Khanal, Hoang-Dung Bui, Gregory J. Stein, Erion Plaku: “Guided Sampling-Based Motion Planning with Dynamics in Unknown Environments.” In: International Conference on Automation Science and Engineering (CASE). 2023. paper. show bibtex
+Roshan Dhakal, Md Ridwan Hossain Talukder, Gregory J. Stein. “Anticipatory Planning: Improving Long-Lived Planning by Estimating Expected Cost of Future Tasks.” In: International Conference on Robotics and Automation (ICRA). 2023. paper. show bibtex
+Abhish Khanal and Gregory J. Stein. “Learning Augmented, Multi-Robot Long-Horizon Navigation in Partially Mapped Environments.” In: International Conference on Robotics and Automation (ICRA). 2023. paper. show bibtex
+Gregory J. Stein “Generating High-Quality Explanations for Navigation in Partially-Revealed Environments.” In: Advances in Neural Information Processing Systems (NeurIPS). 2021. paper, talk (13 min), GitHub, blog post. show bibtex
+Christopher Bradley, Adam Pacheck, Gregory J. Stein, Sebastian Castro, Hadas Kress-Gazit, and Nicholas Roy. “Learning and Planning for Temporally Extended Tasks in Unknown Environments.” In: International Conference on Robotics and Automation (ICRA). 2021. paper, talk (3 min). show bibtex
+Gregory J. Stein, Christopher Bradley, and Nicholas Roy. “Learning over Subgoals for Efficient Navigation of Structured, Unknown Environments”. In: Conference on Robot Learning (CoRL). 2018. paper, talk (14 min). show bibtex
+
+Best Paper Finalist at CoRL 2018; Best Oral Presentation at CoRL 2018.
+
+Blog Posts
+01 May 2024
+Workflow & Process
+PaperOps: run experiments and add results to a PDF with a single Make command
+[Workflow & Process] A proof-of-concept for automated running of experiments and automatically including results and statistics in a LaTeX PDF via Make.
+01 Oct 2023
+Research
+Improving Reliable Navigation under Uncertainty with Non-Local Information Informed Predictions
+[Research] We improve reliable, long-horizon, goal-directed navigation in partially-mapped environments by using non- locally available information to predict the goodness of temporally-extended actions that enter unseen space.
+30 Sep 2023
+Research
+Data-Efficient Policy Selection for Navigation in Partial Maps
+[Research] We present a fast and reliable policy selection approach for navigation in partial maps that leverages information collected during deployment to introspect the behavior of alternative policies without deployment.
+07 Sep 2023
+Communication & Learning
+A Communication Exercise: randomize slide presenters
+[Communication & Learning] I recently asked my students to prep Pecha Kucha-style presentations—18 slides that auto-advance every 20 seconds—and then told them to present each other’s slides, a fun and fantastic (if chaotic) way to improve slide quality.
+29 Aug 2023
+Workflow & Process
+Seek out Opportunities to Mentor
+[Workflow & Process] Mentoring others can be incredibly valuable experience and so opportunities to mentor should be sought out.
+17 Jan 2023
+Workflow & Process
+My strategies for idea generation through writing
+[Workflow & Process] This guide aims to outline my strategies to encourage idea generation, essential for long-term research progress, through a habit of regular writing.
+07 Jan 2023
+Workflow & Process
+Write code and tests in tandem
+[Workflow & Process] Even research code benefits greatly from automated testing. My approach to getting started: if you need to write additional code to verify that some functionality is working, that additional code should be written as a test.
+05 Nov 2021
+Research
+Generating high-quality explanations for navigation in partially-revealed environments
+[Research] We generate explanations of a robot agent’s behavior as it navigates through a partially-revealed environment, expressed in terms of changes to its predictions about what lies in unseen space. Blog post accompanying our NeurIPS 2021 paper.
+27 Aug 2021
+Workflow & Process
+Underpromise and overdeliver to your future self
+[Workflow & Process] I’ve started to think of expectation management as a part of self-care, and I try to think of myself as an other. As such, I try to underpromise and overdeliver to my future self.
+16 Jul 2021
+Workflow & Process
+Action items should have well-defined end conditions
+[Workflow & Process] I try to make sure that my tasks are both easy to start making progress towards and have clear completion criteria, essential criteria for making sure they get done.
+02 Jul 2021
+Communication & Learning
+Reviewing papers is incredibly valuable experience
+[Communication & Learning] Looking at the in-development work of others pulls back the curtain and reveals insight into the thought process of other researchers. Reviews are a largely-untapped pedagogical resource.
+21 Jun 2021
+Workflow & Process
+Accelerating team research with containers
+[Workflow & Process] All code in my research group is run exclusively inside Docker containers, helping us develop more quickly and share code with ease.
+06 Jan 2020
+Communication & Learning
+Talk figures are different from paper figures
+[Communication & Learning] One communication pitfall I often see is that many researchers will take figures from their papers and paste them into their slides. Here, I provide some tips for tailoring your figures to talks.
+29 Dec 2019
+Research
+Machine Learning & Robotics: My (biased) 2019 State of the Field
+[Research] My thoughts on the past year of progress in Robotics and Machine Learning (2019).
+16 Dec 2018
+Research
+DeepMind's AlphaZero and The Real World
+[Research] Using DeepMind’s AlphaZero AI to solve real problems will require a change in the way computers represent and think about the world. In this post, we discuss how abstract models of the world can be used for better AI decision making and discuss recent work of ours that proposes such a model for the task of navigation.
+
+
+
+
+
+
+

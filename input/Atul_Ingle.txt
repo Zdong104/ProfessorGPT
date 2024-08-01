@@ -1,0 +1,316 @@
+Professor: Atul Ingle
+University: Portland State University
+URL: https://www.atulingle.com/
+Description: Atul Ingle
+
+About
+
+Recent Projects
+
+Publications
+
+CV
+
+Lab Website
+
+Image Sensor Blog
+
+Atul Ingle
+🔊 uh-thool ing-lay
+Assistant Professor
+Department of Computer Science
+Portland State University
+Computational Imaging Lab
+
+Imagine a camera with orders of magnitude higher dynamic range than the human eye. Imagine a camera that can capture laser-scan quality 3D structures from several miles away. Imagine a camera that can "see" inside the human body without invasive surgical procedures.
+
+​
+
+I design cameras of the future that can visualize structures and phenomena that are otherwise invisible to the human eye.
+
+​
+
+My research is in the field of computational imaging, at the intersection of optics, image sensors, signal processing, and machine learning. Recently, I have been working with single-photon avalanche diodes, an extremely sensitive sensor technology capable of detecting ultra-low intensity light, down to individual photons.
+
+​
+
+This technology has implications for myriad applications—from astronomy to microscopy, consumer photography to medical imaging, from autonomous driving to industrial machine vision.
+
+Lab Website
+Scholar
+CV
+Email
+News
+
+​
+
+July 2023 Two co-authored papers accepted at International Conference on Computer Vision (ICCV) 2023.
+
+​
+
+June 2023 Our work on Count-Free Single-Photon 3D Imaging was accepted at International Conference on Computational Photography (ICCP 2023 in Madison, WI.
+
+​
+
+May 2023 New paper out in Nature Communications where present a versatile tuning-free approach for handling single-photon camera data for passive and active imaging.
+
+​
+
+April 2023 My lab's website is live! PSU Computational Imaging Lab.
+
+​
+
+January 2022 Started as a new Assistant Professor at Portland State University in the Computer Science Department!
+
+​
+
+September 2021 Best Poster Presentation award at the DoE/NNSA ETI Consortium Meeting in Atlanta, GA. Our work was also featured in the 2021 ETI Newsletter!
+
+​
+
+March 2021 I will be joining the CS Department at Portland State University as a tenure-track Assistant Professor starting January 2022!
+
+​​
+
+March 2021 Our paper on passive inter-photon imaging with single-photon cameras was accepted as an oral presentation at CVPR 2021.
+
+​
+
+November 2020 I gave a talk at Technion Pixel Club computer vision colloquium.
+
+​​
+
+September 2020 My talk on single-photon 3D cameras won the Best Blitz Talk (People's Choice) Award at the UW-Madison Postdoctoral Research Symposium.
+
+​
+
+June 2020 Invited talk at the Computational Cameras and Displays Workshop CVPR 2020
+
+​
+
+May 2020 Talk at SPIE-DCS 2020
+
+​
+
+April 2020 Two posters at ICCP 2020
+
+​
+
+November 2019 Our paper on single-photon 3D imaging won the Marr Prize Honorable Mention award at ICCV 2019 in Seoul, South Korea.
+
+​
+
+Bio
+
+​
+
+​I received the Ph.D. in Electrical Engineering from the University of Wisconsin-Madison in 2015. I was a visiting ultrasound R&D engineer at Philips Healthcare in Andover, MA in 2013 and 2014 and a Research Scientist at Fitbit, Inc. in Boston, MA in 2016-2017. From 2017-2021, I was a postdoctoral research fellow in the WISION Lab and Computational Imaging Lab at UW-Madison. I am currently an Assistant Professor in the Department of Computer Science at Portland State University. My research interests include computational imaging and signal processing.
+
+Recent Projects
+
+Some of my recent work focuses on single-photon computational imaging. Single-photon cameras are an emerging sensor technology with extreme sensitivity down to individual photons. They have the potential to enable extreme imaging applications that are beyond the capabilities of conventional cameras.
+
+Extreme Dynamic Range Imaging with SPADs
+
+CVPR 2021 oral presentation
+
+Single-photon sensors are typically used in active imaging applications like LiDAR. We ask: what information can single-photon sensors provide for passive imaging? We show that the picosecond resolution timing information can provide extreme dynamic range, over a million-to-one.
+
+paper
+video
+webpage
+Single-Photon 3D Imaging
+
+ICCV 2019 Marr Prize Honorable Mention
+
+Extreme sensitivity is a double-edged sword. Single-photon detectors suffer from severe distortion when operated in bright sunlight; they get overwhelmed by background photons. We develop optimal data acquisition strategies that mitigate this distortion and enable high resolution 3D imaging even under bright sunlight.
+
+paper
+video
+webpage
+Single-Photon LiDAR in High Ambient Light
+
+CVPR 2019 oral presentation
+
+What is the optimal photon flux condition a single-photon LiDAR should be operated in? We answer this question theoretically and also build a hardware prototype to show improved 3D reconstruction performance.
+
+paper
+video
+webpage
+Publications
+Journals
+
+A. Ingle, T. Varghese, ‘‘A kernel smoothing algorithm for ablation visualization in ultrasound elastography,’’ Ultrasonics (2019).
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, W. Sethares ‘‘Efficient 3D Reconstruction in Ultrasound Elastography via a Sparse Iteration based on Markov Random Fields,’’ IEEE Trans. Ultrason. Ferroelectr. Freq. Control (2016).
+
+​
+
+paper
+code
+webpage
+
+W. Yang, T. Ziemlewicz, T. Varghese, M. Alexander, N. Rubert, A. Ingle, M. Lubner, J. Hinshaw, F. Lee Jr., J.A. Zagzebski, ‘‘Post-Procedure Evaluation of Microwave Ablations of Hepatocellular Carcinomas using Electrode Displacement Elastography,’’ Ultrasound in Med. Biol., vol. 42, no. 12, pp. 2893 (2016).
+
+​
+
+paper
+code
+webpage
+
+W. Yang, A. Ingle, T. Varghese, ‘‘Comparison of Three Dimensional Strain Volume Reconstructions using SOUPR and Wobbler Based Acquisitions: A Phantom Study,’’ Med. Phys., vol. 43, no. 4, pp. 1615 (2016).
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, C. Ma, T. Varghese, ‘‘Ultrasonic Tracking of Shear Waves using a Particle Filter,’’ Med. Phys., vol. 42, no. 11, pp. 6711–6725 (2015).
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, J. Bucklew, W. Sethares, T. Varghese, ‘‘Slope Estimation in Noisy Piecewise Linear Functions,’’ Signal Processing, vol. 108, pp. 576–588 (March 2015).
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, ‘‘Three Dimensional Sheaf of Ultrasound Planes Reconstruction (SOUPR) of Ablated Volumes,’’ IEEE Trans. Med. Imag. , vol. 33, no. 8, pp. 1677–1688 (2014).
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, W. Sethares, ‘‘The least-squares invertible constant-Q spectrogram and its application to phase vocoding,’’ J. Acoust. Soc. Am., vol. 132, no. 2, pp. 894–903 (2012).
+
+​
+
+paper
+code
+webpage
+ 
+Conferences
+
+A. Ingle, T. Seets, M. Buttafava, S. Gupta, A. Tosi, M. Gupta*, A. Velten*, ‘‘Passive Inter-Photon Imaging,’’ Proc. CVPR 2021. (* equal)
+
+oral presentation
+
+paper
+code
+webpage
+
+T. Seets, A. Ingle, M. Laurenzis, A. Velten, ‘‘Motion Adaptive Deblurring with Single-Photon Cameras,’’ Proc. WACV 2021.
+
+​
+
+paper
+code
+webpage
+
+A. Gupta*, A. Ingle*, M. Gupta, ‘‘Asynchronous Single-Photon 3D Imaging,’’ Proc. ICCV 2019. (*equal)
+
+Best Paper (Marr Prize) Honorable Mention Award
+
+paper
+code
+webpage
+
+A. Ingle, A. Velten, M. Gupta, ‘‘High-Flux Passive Imaging with Single-Photon Sensors,’’ Proc. CVPR 2019.
+
+oral presentation
+
+paper
+code
+webpage
+
+A. Gupta, A. Ingle, A. Velten, M. Gupta, ‘‘Photon-Flooded Single-Photon 3D Cameras,’’ Proc. CVPR 2019.
+
+oral presentation
+
+paper
+code
+webpage
+
+William Sethares, A. Ingle, Tomas Krc, Sally Wood ‘‘Eigentextures: An SVD Approach to Automated Paper Classification,’’ Asilomar 2014.
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, William Sethares, Tomy Varghese, James Bucklew, ‘‘Piecewise Linear Slope Estimation,’’ Asilomar 2014.
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, W. Sethares, J. Bucklew, ‘‘Stochastic Piecewise Linear Function Fitting with Application to Ultrasound Shear Wave Imaging,’’ IEEE EMBC 2014.
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, ‘‘Three Dimensional Shear Wave Elastographic Reconstruction of Ablations,’’ IEEE EMBC 2014.
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, ‘‘C-plane Reconstructions from Sheaf Acquisition for Ultrasound Electrode Vibration Elastography,’’ IEEE Ultrasonics Symposium 2014.
+
+​
+
+paper
+code
+webpage
+
+A. Ingle, T. Varghese, ‘‘A Comparison of Model Based and Direct Optimization Based Filtering Algorithms for Shear Wave Velocity Reconstruction for Electrode Vibration Elastography,’’ in Proc. Int. Symp. Biomed. Imag., Apr. 2013.
+
+​
+
+paper
+code
+webpage
+
+A. Gutierrez, C. Hohberger, F.D. Nicolalde, A. Ingle, W. Hochschild, R. Davis, and R. Veeramani, ‘‘High-Frequency RFID Tag Survivability in Harsh Environments,’’ in Proc. IEEE Int RFID Conf, pp. 58–65, May 2013.
+
+​
+
+paper
+code
+webpage
+
+© 2020 by Atul Ingle.
+
+Contact
+
+Portland State University
+1900 SW 4th Avenue, Suite 120
+Portland, Oregon 97201
+
+first dot last at pdx dot edu
+
+Follow
+

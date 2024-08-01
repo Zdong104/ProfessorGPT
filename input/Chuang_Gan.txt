@@ -1,0 +1,953 @@
+Professor: Chuang Gan
+University: University of Massachusetts Amherst
+URL: http://people.csail.mit.edu/ganchuang
+Description: 			
+
+
+
+Chuang Gan
+
+
+
+
+
+I am a faculty member at UMass Amherst and a research manager at MIT-IBM Watson AI Lab. I was a postdoc at MIT, working with Prof. Antonio Torralba, Prof. Daniela Rus, and Prof. Josh Tenenbaum. Before that, I completed my PhD with the highest honor at Tsinghua University, where I was supervised by Prof. Andrew Chi-Chih Yao. My research lies at the intersection of computer vision, AI, cognitive science, and robotics. The overarching goal of my research is to build a human-like autonomous agents that is capable of sensing, reasoning, and acting in the physical world. My works have been recognized by Microsoft Fellowship, Baidu Fellowship, and media coverage from CNN, BBC, The New York Times, WIRED, Forbes, and MIT Tech Review.
+
+
+
+
+ 
+
+Google Scholar | Contact | News | Publications | Competitions | Software | Honors | Accessibility
+
+
+
+
+ 
+
+
+
+
+Contact
+
+Email: ganchuang [at] csail (dot) mit (dot) edu
+
+
+
+
+News
+
+RoboGen: a generative robotic agent that automatically learns diverse robotic skills at scale via generative physical simulation.
+3D-LLM: General-purpose 3D vision and language foundation models.
+Dromedary: an open-sourced helpful, ethical, and reliable LLM.
+I am serving as an Area Chair for ICLR 2023, CVPR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, ECCV 2022, and ACL 2021.
+Code and dataset of FluidLab, PAC-NeRF, Soft-Zoo, and Code Tree Search have been released.
+Code and dataset of Foley Music have been released.
+Code, dataset and evaluation server of Video CLEVRER have been released.
+
+
+
+Research Highlight
+
+ThreeDWorld (TDW)
+
+A Multi-Modal Interactive Physical Simulation Platform for
+Computer Vision, Robotics and Cognitive Science
+
+Transport Challenge for Visually Guided Task and Motion Planing
+Agent Benchmark for Psychological Reasoning
+Fallen Object Benchmark for Multi-Modal Physical Reasoning
+ThreeDWorld Website
+
+
+
+Publications(by date / by topic)
+
+2023
+
+		
+
+RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+
+Yufei Wang, Zhou Xian, Feng Chen, Tsun-Hsuan Wang, Yian Wang, Zackory Erickson, David Held, Chuang Gan
+
+arXiv:2311.0145
+
+		
+
+DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models
+
+Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du, Byungchul Kim, Andrew Spielberg, Joshua Tenenbaum,Chuang Gan†, Daniela Rus†
+
+NeurIPS 2023 (Oral)
+
+		
+
+3D-LLM: Injecting the 3D World into Large Language Models
+
+Yining Hong, Haoyu Zhen, Peihao Chen, Shuhong Zheng, Yilun Du, Zhenfang Chen, Chuang Gan
+
+NeurIPS 2023 (Spotlight)
+
+		
+
+Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+
+Zhiqing Sun, Yikang Shen, Qinhong Zhou, Hongxin Zhang, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan
+
+NeurIPS 2023 (Spotlight)
+
+		
+
+DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics
+
+Zhiao Huang, Feng Chen, Yewen Pu, Chunru Lin, Hao Su, Chuang Gan
+
+NeurIPS 2023
+
+		
+
+Adaptive Online Replanning with Diffusion Models
+
+Siyuan Zhou, Yilun Du, Shun Zhang, Mengdi Xu, Yikang Shen, Wei Xiao, Dit-Yan Yeung, Chuang Gan
+
+NeurIPS 2023
+
+		
+
+Physion++: Evaluating Physical Scene Understanding that Requires Online Inference of Different Physical Properties
+
+Hsiao-Yu Tung, Mingyu Ding, Zhenfang Chen, Daniel Bear, Chuang Gan, Joshua B. Tenenbaum, Daniel LK Yamins, Judith E Fan, Kevin A. Smith
+
+NeurIPS 2023 Dataset Track
+
+		
+
+TextPSG: Panoptic Scene Graph Generation from Textual Descriptions
+
+Chengyang Zhao, Yikang Shen, Zhenfang Chen, Mingyu Ding, Chuang Gan
+
+ICCV 2023
+
+		
+
+EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction
+
+CHan Cai, Junyan Li, Muyan Hu, Chuang Gan, Song Han
+
+ICCV 2023
+
+		
+
+Learning Vision-and-Language Navigation from YouTube Videos
+
+Kunyang Lin, Peihao Chen, Diwei Huang, Thomas H Li, Mingkui Tan, Chuang Gan
+
+ICCV 2023
+
+		
+
+Sparse Universal Transformer
+
+Shawn Tan, Yikang Shen, Zhenfang Chen, Aaron Courville, Chuang Gan
+
+EMNLP 2023
+
+		
+
+ModuleFormer: Learning Modular Large Language Models From Uncurated Data
+
+Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen, Chuang Gan
+
+Pre-print 2023
+
+		
+
+Building Cooperative Embodied Agents Modularly with Large Language Models
+
+Hongxin Zhang, Weihua Du, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan
+
+Pre-print 2023
+
+		
+
+Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics
+
+Pingchuan Ma, Peter Yichen Chen, Bolei Deng, Joshua B. Tenenbaum, Tao Du, Chuang Gan, Wojciech Matusik
+
+ICML 2023
+
+		
+
+Reparameterized Policy Learning for Multimodal Trajectory Optimization
+
+Zhiao Huang, Litian Liang, Zhan Ling, Xuanlin Li, Chuang Gan, Hao Su
+
+ICML 2023 (Oral)
+
+		
+
+On the Forward Invariance of Neural ODEs
+
+Wei Xiao, Tsun-Hsuan Wang, Ramin Hasani, Mathias Lechner, Yutong Ban, Chuang Gan, Daniela Rus
+
+ICML 2023
+
+		
+
+Roboninja: Learning an Adaptive Cutting Policy for Multi-material Objects
+
+Zhenjia Xu, Zhou Xian, Xingyu Lin, Cheng Chi, Zhiao Huang, Chuang Gan†, Shuran Song†
+
+RSS 2023
+
+		
+
+JECC: Commonsense Reasoning Tasks Derived from Interactive Fictions
+
+Mo Yu, Yi Gu, Xiaoxiao Guo, Yufei Feng, Xiaodan Zhu, Michael Greenspan, Murray Campbell, Chuang Gan
+
+ACL 2023 (Findings)
+
+		
+
+Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners
+
+Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan
+
+CVPR 2023
+
+		
+
+3D Concept Learning and Reasoning from Multi-View Images
+
+Yining Hong, Chunru Lin, Yilun Du, Zhenfang Chen, Joshua B Tenenbaum, Chuang Gan
+
+CVPR 2023
+
+		
+
+EC^ 2: Emergent Communication for Embodied Control
+
+Yao Mu, Shunyu Yao, Mingyu Ding, Ping Luo, Chuang Gan
+
+CVPR 2023
+
+		
+
+Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos
+
+Kun Su, Kaizhi Qian, Eli Shlizerman, Antonio Torralba, Chuang Gan
+
+CVPR 2023
+
+		
+
+Visual Dependency Transformers: Dependency Tree Emerges from Reversed Attention
+
+Mingyu Ding, Yikang Shen, Lijie Fan, Zhenfang Chen, Zitian Chen, Ping Luo, Joshua B Tenenbaum, Chuang Gan
+
+CVPR 2023
+
+		
+
+Masked Motion Encoding for Self-Supervised Video Representation Learning
+
+Xinyu Sun, Peihao Chen, Liangwei Chen, Changhao Li, Thomas H Li, Mingkui Tan, Chuang Gan
+
+CVPR 2023
+
+		
+
+FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation
+
+Zhou Xian, Bo Zhu, Zhenjia Xu, Hsiao-Yu Tung, Antonio Torralba, Katerina Fragkiadaki, Chuang Gan
+
+ICLR 2023 (Spotlight)
+
+		
+
+PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification
+
+Xuan Li, Yi-Ling Qiao, Peter Yichen Chen, Krishna Murthy Jatavallabhula, Ming Lin, Chenfanfu Jiang, Chuang Gan
+
+ICLR 2023 (Spotlight)
+
+		
+
+SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments
+
+Tsun-Hsuan Wang, Pingchuan Ma, Andrew Everett Spielberg, Zhou Xian, Hao Zhang, Joshua B Tenenbaum, Daniela Rus, Chuang Gan
+
+ICLR 2023
+
+		
+
+Planning with Large Language Models for Code Generation
+
+Shun Zhang, Zhenfang Chen, Yikang Shen, Mingyu Ding, Joshua B Tenenbaum, Chuang Gan
+
+ICLR 2023
+
+		
+
+DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics
+
+Sizhe Li*, Zhiao Huang*, Tao Chen, Tao Du, Hao Su, Joshua B Tenenbaum, Chuang Gan
+
+ICLR 2023
+
+		
+
+Hyper-Decision Transformer for Efficient Online Policy Adaptation
+
+Mengdi Xu, Yuchen Lu, Yikang Shen, Shun Zhang, Ding Zhao, Chuang Gan
+
+ICLR 2023
+
+2022
+
+		
+
+Learning Neural Acoustic Fields
+
+Andrew Luo, Yilun Du, Michael J. Tarr, Joshua B. Tenenbaum, Antonio Torralba, Chuang Gan
+
+NeurIPS 2022
+
+		
+
+Learning Physical Dynamics with Subequivariant Graph Neural Networks
+
+Jiaqi Han, Wenbing Huang, Hengbo Ma, Jiachen Li, Joshua B. Tenenbaum, Chuang Gan
+
+NeurIPS 2022 (Spotlight)
+
+		
+
+3D Concept Grounding on Neural Fields
+
+Yining Hong, Yilun Du, Chunru Lin, Joshua B. Tenenbaum, Chuang Gan
+
+NeurIPS 2022
+
+		
+
+Learning Active Camera for Multi-Object Navigation
+
+Peihao Chen, Dongyu Ji, Kunyang Lin, Weiwen Hu, Wenbing Huang, Thomas H Li, Mingkui Tan, Chuang Gan
+
+NeurIPS 2022 (Spotlight)
+
+		
+
+Weakly-supervised Multi-granularity Map Learning for Vision-and-Language Navigation
+
+Peihao Chen, Dongyu Ji, Kunyang Lin, Runhao Zeng, Thomas H Li, Mingkui Tan, Chuang Gan
+
+NeurIPS 2022 (Spotlight)
+
+		
+
+On-Device Training Under 256KB Memory
+
+Ji Lin*, Ligeng Zhu*, Wei-Ming Chen, Wei-Chen Wang, Chuang Gan, Song Han
+
+NeurIPS 2022
+
+		
+
+SNAKE: Shape-aware Neural 3D Keypoint Field
+
+Chengliang Zhong, Peixing You, Xiaoxue Chen, Hao Zhao, Fuchun Sun, Guyue Zhou, Xiaodong Mu, Chuang Gan, Wenbing Huang
+
+NeurIPS 2022 (Spotlight)
+
+		
+
+Noisy Agents: Self-supervised Exploration by Predicting Auditory Events
+
+Chuang Gan*, Xiaoyu Chen*, Phillip Isola, Antonio Torralba, Joshua B. Tenenbaum
+
+IROS 2022
+
+		
+
+Embodied Concept Learner: Self-supervised Learning of Concepts and Mapping through Instruction Following
+
+Mingyu Ding, Yan Xu, Zhenfang Chen, David Cox, Ping Luo, Joshua B. Tenenbaum, Chuang Gan
+
+CORL 2022
+
+		
+
+Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation
+
+Xingyu Lin*, Carl Qi*, Yunchu Zhang, Zhiao Huang, Katerina Fragkiadaki, Yunzhu Li, Chuang Gan, David Held
+
+CORL 2022
+
+		
+
+Weakly Supervised Grounding for VQA in Vision-Language Transformers
+
+Aisha Urooj Khan, Hilde Kuehne, Chuang Gan, Niels Da Vitoria Lobo, Mubarak Shah
+
+ECCV 2022 (Oral)
+
+		
+
+Prompting Decision Transformer for Few-shot Policy Generalization
+
+Mengdi Xu, Yikang Shen, Shun Zhang, Yuchen Lu, Ding Zhao, Joshua B. Tenenbaum, Chuang Gan
+
+ICML 2022
+
+		
+
+Finding Fallen Objects Via Asynchronous Audio-Visual Integration
+
+Chuang Gan*, Yi Gu*, Siyuan Zhou, Jeremy Schwartz, Seth Alter, James Traer, Dan Gutfreund, Joshua B. Tenenbaum, Josh McDermott*, Antonio Torralba*
+
+CVPR 2022
+
+		
+
+Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction
+
+Yining Hong, Kaichun Mo, Li Yi, Leonidas J. Guibas, Antonio Torralba, Joshua B. Tenenbaum, Chuang Gan
+
+CVPR 2022
+
+		
+
+The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark Towards Physically Realistic Embodied AI
+
+Chuang Gan, Siyuan Zhou, Jeremy Schwartz, Seth Alter, Abhishek Bhandwaldar, Dan Gutfreund, Daniel L.K. Yamins, James J DiCarlo, Josh McDermott, Antonio Torralba, Joshua B. Tenenbaum
+
+ICRA 2022
+
+		
+
+RISP: Rendering-Invariant State Predictor with Differentiable Simulation and Rendering for Cross-Domain Parameter Estimation
+
+Pingchuan Ma*, Tao Du*, Joshua B. Tenenbaum, Wojciech Matusik, Chuang Gan
+
+ICLR 2022 (Oral)
+
+		
+
+DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools
+
+Xingyu Lin, Zhiao Huang, Yunzhu Li, Joshua B. Tenenbaum, David Held, Chuang Gan
+
+ICLR 2022
+
+		
+
+Linking Emergent and Natural Languages via Corpus Transfer
+
+Shunyu Yao, Mo Yu, Yang Zhang, Karthik R Narasimhan, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2022 (Spotlight)
+
+		
+
+ComPhy: Compositional Physical Reasoning of Objects and Events from Videos
+
+Zhenfang Chen, Kexin Yi, Yunzhu Li, Mingyu Ding, Antonio Torralba, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2022
+
+		
+
+Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics
+
+Sizhe Li*, Zhiao Huang*, Tao Du, Hao Su, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2022 (Spotlight)
+
+		
+
+Network Augmentation for Tiny Deep Learning
+
+Han Cai, Chuang Gan, Ji Lin, Song Han
+
+ICLR 2022
+
+		
+
+FALCON: Fast Visual Concept Learning by Integrating Images, Linguistic descriptions, and Conceptual Relations
+
+Lingjie Mei*, Jiayuan Mao*, Ziqi Wang, Chuang Gan, Joshua B. Tenenbaum
+
+ICLR 2022
+
+2021
+
+		
+
+ThreeDWorld: A Platform for Interactive Multi-Modal Physical Simulation
+
+Chuang Gan, Jeremy Schwartz, Seth Alter, Damian Mrowca, Martin Schrimpf, James Traer, Julian De Freitas, Jonas Kubilius, Abhishek Bhandwaldar, Nick Haber, Megumi Sano, Kuno Kim, Elias Wang, Michael Lingelbach, Aidan Curtis, Kevin Tyler Feigelis, Daniel Bear, Dan Gutfreund, David Daniel Cox, Antonio Torralba, James J. DiCarlo, Joshua B. Tenenbaum, Josh Mcdermott, Daniel LK Yamins
+
+NeurIPS Dataset 2021 (Oral)
+
+		
+
+Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language
+
+Mingyu Ding, Zhenfang Chen, Tao Du, Ping Luo, Joshua B. Tenenbaum, Chuang Gan
+
+NeurIPS 2021
+
+		
+
+PTR: A Benchmark for Part-based Conceptual, Relational, and Physical Reasoning
+
+Yining Hong, Li Yi, Joshua B. Tenenbaum, Antonio Torralba, Chuang Gan
+
+NeurIPS 2021
+
+		
+
+When Does Contrastive Learning Preserve Adversarial Robustness from Pretraining to Finetuning?
+
+Lijie Fan, Sijia Liu, Pin-Yu Chen, Gaoyuan Zhang, Chuang Gan
+
+NeurIPS 2021
+
+		
+
+STAR: A Benchmark for Situated Reasoning in Real-World Videos
+
+Bo Wu, Shoubin Yu, Zhenfang Chen, Joshua B. Tenenbaum, Chuang Gan
+
+NeurIPS Dataset 2021
+
+		
+
+Curious Representation Learning for Embodied Intelligence
+
+Yilun Du, Chuang Gan, Phillip Isola
+
+ICCV 2021
+
+		
+
+OPEn: An Open-ended Physics Environment for Learning Without a Task
+
+Chuang Gan, Abhishek Bhandwaldar, Antonio Torralba, Joshua B. Tenenbaum, Phillip Isola
+
+IROS 2021
+
+		
+
+AGENT: A Benchmark for Core Psychological Reasoning
+
+Tianmin Shu, Abhishek Bhandwaldar, Chuang Gan, Kevin A. Smith, Shari Liu, Dan Gutfreund, Elizabeth Spelke, Joshua B. Tenenbaum, Tomer D. Ullman
+
+ICML 2021
+
+		
+
+Temporal and Object Quantification Networks
+
+Jiayuan Mao, Zhezheng Luo, Chuang Gan, Joshua B. Tenenbaum, Jiajun Wu, Leslie P. Kaelbling, Tomer D. Ullman
+
+IJCAI 2021
+
+		
+
+PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics.
+
+Zhiao Huang, Yuanming Hu, Tao Du, Siyuan Zhou, Hao Su, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2021 (Spotlight)
+
+		
+
+Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning
+
+Zhenfang Chen, Jiayuan Mao, Jiajun Wu, Kwan-Yee Kenneth Wong, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2021
+
+		
+
+Learning Task Decomposition with Order-Memory Policy Network
+
+Yuchen Lu, Yikang Shen, Siyuan Zhou, Aaron Courville, Joshua B. Tenenbaum, Chuang Gan
+
+ICLR 2021
+
+2020
+
+		
+
+Foley Music: Learning to Generate Music from Videos
+
+Chuang Gan, Deng Huang, Peihao Chen, Joshua B. Tenenbaum, Antonio Torralba
+
+ECCV 2020
+
+		
+
+Music Gesture for Visual Sound Separation
+
+Chuang Gan, Deng Huang, Hang Zhao, Joshua B. Tenenbaum, Antonio Torralba
+
+CVPR 2020
+
+		
+
+Dense Regression Network For Video Grounding
+
+Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan
+
+CVPR 2020
+
+		
+
+TinyTL: Reduce Activations, Not Trainable Parameters for Efficient On-Device Learning
+
+Han Cai, Chuang Gan, Ligeng Zhu, Song Han
+
+NeurIPS 2020
+
+		
+
+MCUNet: Tiny Deep Learning on IoT Devices
+
+Ji Lin, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, Song Han
+
+NeurIPS 2020 (Spotlight)
+
+		
+
+CLEVRER: CoLlision Events for Video REpresentation and Reasoning
+
+Kexin Yi*, Chuang Gan*, Yunzhu Li, Pushmeet Kohli, Jiajun Wu, Antonio Torralba, Joshua B. Tenenbaum
+
+ICLR 2020 (Spotlight)
+
+		
+
+Deep Audio Priors Emerge From Harmonic Convolutional Networks
+
+Zhoutong Zhang, Yunyun Wang, Chuang Gan, Jiajun Wu, Joshua B. Tenenbaum, Antonio Torralba, William T. Freeman
+
+ICLR 2020
+
+		
+
+Once for All: Train One Network and Specialize it for Efficient Deployment
+
+Han Cai, Chuang Gan, Tianzhe Wang, Zhekai Zhang, Song Han
+
+ICLR 2020
+
+		
+
+Look, Listen, and Act: Towards Audio-Visual Embodied Navigation
+
+Chuang Gan*, Yiwei Zhang*, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum
+
+ICRA 2020
+
+2019
+
+		
+
+Self-supervised Moving Vehicle Tracking with Stereo Sound
+
+Chuang Gan, Hang Zhao, Peihao Chen, David Cox, Antonio Torralba
+
+ICCV 2019
+
+		
+
+The Sound of Motions
+
+Hang Zhao, Chuang Gan, Wei-Chiu Ma, Antonio Torralba
+
+ICCV 2019
+
+		
+
+TSM: Temporal Shift Module for Efficient Video Understanding
+
+Ji Lin, Chuang Gan, Song Han
+
+ICCV 2019
+
+		
+
+Graph Convolutional Networks for Temporal Action Localization
+
+Runhao Zeng, Wenbing Huang, Mingkui Tan, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan
+
+ICCV 2019
+
+		
+
+Imitation Learning from Observations by Minimizing Inverse Dynamics Disagreement
+
+Chao Yang, Xiaojian Ma, Wenbing Huang, Fuchun Sun, Huaping Liu, Junzhou Huang, Chuang Gan
+
+NeurIPS 2019 (Spotlight)
+
+		
+
+Visual Concept-Metaconcept Learning
+
+Chi Han, Jiayuan Mao, Chuang Gan, Josh Tenenbaum, Jiajun Wu
+
+NeurIPS 2019
+
+		
+
+Cross-channel Communication Networks
+
+Jianwei Yang, Zhile Ren, Chuang Gan, Hongyuan Zhu, Devi Parikh
+
+NeurIPS 2019
+
+		
+
+The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision
+
+Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu
+
+ICLR 2019 (Oral)
+
+		
+
+Defensive quantization: When efficiency meets robustness
+
+Ji Lin, Chuang Gan, Song Han
+
+ICLR 2019
+
+2018
+
+		
+
+Weakly Supervised Dense Event Captioning in Videos
+
+Xuguang Duan, Wenbing Huang, Chuang Gan, Jingdong Wang, Wenwu Zhu, Junzhou Huang
+
+NeurIPS 2018
+
+		
+
+Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding
+
+Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, Joshua B. Tenenbaum
+
+NeurIPS 2018 (Spotlight)
+
+		
+
+The Sound of Pixels
+
+Hang Zhao, Chuang Gan, Andrew Rouditchenko, Carl Vondrick, Josh McDermott, Antonio Torralba
+
+ECCV 2018
+
+		
+
+Unsupervised Domain Adaptation for 3D Keypoint Estimation via View Consistency
+
+Xingyi Zhou, Arjun Karpur, Chuang Gan, Linjie Luo, Qixing Huang
+
+ECCV 2018
+
+		
+
+Geometry-Guided CNNs for Self-supervised Video Representation Learning
+
+Chuang Gan, Boqing Gong, Kun Liu, Hao Su, Leonidas Guibas
+
+CVPR 2018
+
+		
+
+Attention Clusters: Purely Attention Based Local Feature Integration for Video Classification
+
+Xiang Long, Chuang Gan, Gerard de Melo, Jiajun Wu, Xiao Liu, Shilei Wen
+
+CVPR 2018
+
+		
+
+End-to-End Learning of Motion Representation for Video Understanding
+
+Lijie Fan, Wenbing Huang, Chuang Gan, Stefano Ermon, Boqing Gong, Junzhou Huang
+
+CVPR 2018 (Spotlight)
+
+		
+
+Sparse, Smart Contours to Represent and Edit Images
+
+Tali Dekel, Chuang Gan, Dilip Krishnan, Ce Liu, William T. Freeman
+
+CVPR 2018
+
+		
+
+Video Captioning with Multi-Faceted Attention
+
+Xiang Long, Chuang Gan, Gerard de Melo
+
+TACL 2018
+
+2017
+
+		
+
+StyleNet: Generating Attractive Visual Captions with Styles
+
+Chuang Gan, Zhe Gan, Xiaodong He, Jianfeng Gao, Li Deng
+
+CVPR 2017
+
+		
+
+Semantic Compositional Networks for Visual Captioning
+
+Zhe Gan, Chuang Gan, Xiaodong He, Yunchen Pu, Kenneth Tran, Jianfeng Gao, Lawrence Carin, Li Deng
+
+CVPR 2017 (Spotlight)
+
+		
+
+VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation
+
+Chuang Gan, Yandong Li, Haoxiang Li, Chen Sun, Boqing Gong
+
+ICCV 2017
+
+		
+
+Recurrent Topic-Transition GAN for Visual Paragraph Generation
+
+Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing
+
+ICCV 2017
+
+2016
+
+		
+
+Learning Attributes Equals Multi-Source Domain Generalization
+
+Chuang Gan, Tianbao Yang, Boqing Gong
+
+CVPR 2016 (Spotlight)
+
+		
+
+You Lead, We Exceed: Labor-Free Video Concept Learning by Jointly Exploiting Web Videos and Images
+
+Chuang Gan, Ting Yao, Kuiyuan Yang, Yi Yang, Tao Mei
+
+CVPR 2016 (Spotlight)
+
+		
+
+Recognizing an Action Using Its Name: A Knowledge-Based Approach
+
+Chuang Gan, Yi Yang, Linchao Zhu, Deli Zhao, Yueting Zhuang
+
+IJCV 2016
+
+		
+
+Webly-Supervised Video Recognition by Mutually Voting for Relevant Web Images and Web Video Frames
+
+Chuang Gan, Chen Sun, Lixin Duan, Boqing Gong
+
+ECCV 2016
+
+2015
+
+		
+
+DevNet: A Deep Event Network for multimedia event detection and evidence recounting
+
+Chuang Gan, Naiyan Wang, Yi Yang, Dit-Yan Yeung, Alexander G. Hauptmann
+
+CVPR 2015
+
+		
+
+Automatic Concept Discovery from Parallel Text and Visual Corpora
+
+Chen Sun, Chuang Gan, Ram Nevatia
+
+ICCV 2015
+
+
+
+
+Competitions
+
+• Rank 1st in ActivityNet AVA Challenge 2018
+
+• Rank 1st in ActivityNet Kinetics Challenge 2017
+
+• Rank 1st in NIST TRECVID MED and MER 2014
+
+• Rank 2nd in Moments in Time 2018
+
+• Rank 3rd in Youtube8M Challenge 2017
+
+• Rank 3rd in ActivityNet classification Challenge 2016
+
+
+
+
+Data & Software
+
+• NS-VQA. Neural-Symbolic Visual Reasoning.
+
+• WSDEC. Weakly-supervised Dense Event Captioning.
+
+• The Sound of Pixels. Listen to the sound of pixels.
+
+• Smart Contours. Edit images using contours.
+
+• Attention Clusters. Multiple and diverse attention for video classification.
+
+• SCN. Semantic composition network for image and video captioning.
+
+• VQS. Visual question segmentation.
+
+• TVNET. End to end video motion learning.
+
+• Youtube8M. Temporal modeling for video classification.
+
+
+
+
+Honors
+
+• Outstanding Doctoral Thesis Award at Tsinghua University (2018)
+
+• Excellent Graduate Student at Tsinghua University (2018)
+
+• Top Talented Graduate Student at Tsinghua University (2017)
+
+• Academic Rising Star Finalist at Tsinghua University (2016, 2017)
+
+• Microsoft Fellowship (2016)
+
+• Baidu Fellowship (2016)
+
+• National Scholarship, by Ministry of Education of China (2015)
+
+
+
+

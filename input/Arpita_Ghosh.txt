@@ -1,0 +1,233 @@
+Professor: Arpita Ghosh
+University: Cornell University
+URL: http://www.arpitaghosh.com/
+Description: ARPITA GHOSH
+	
+
+
+
+I received my B.Tech from IIT Bombay in 2001, and my PhD from Stanford in 2006. I spent the next 6 years (2006-2012) in the Microeconomics and Social Sciences group at Yahoo! Research. In August 2012, I moved to Cornell as an Associate Professor of Information Science in the School of Computing and Information Science. I received tenure in June 2016.
+
+Update (June 2019): It is time to move on, to explore new directions. I have resigned my position at Cornell, and will no longer be pursuing or undertaking any activities (conference chairing, talks, program committee service, grant reviewing, book writing, or anything else!) related to my research and career thus far.
+More when I am ready. And in the meantime, to all those I have met along the way over these past several years, I wish you all the best!
+
+About my academic work:
+
+My research focused on using mathematical analysis to inform the design of online systems. I was interested especially in the analysis and design of online user contribution economies---both explicit, as in crowdsourcing and user-generated content platforms, or implicit, as in the collection of data from privacy-aware users---within a mathematical framework, with a focus on incentive design. I also got rather curious about the idea of `behavioral' mechanism design, exploring how departures from the classical economic models of agent behavior can impact optimal design.
+(Then, of course, I stopped being curious about these things, as you've probably inferred from the update above. Go figure!)
+
+Some representative papers:
+
+'Behavioral' Mechanism Design:
+
+Behavioral Mechanism Design: Optimal Crowdsourcing Contracts and Prospect Theory.   Joint with David Easley.   ACM EC 2015. (Short overview version: SigEcom Exchanges Vol 14.1, June 2015)
+How does the optimal contract structure in crowdsourcing markets change if workers make decisions according to prospect theory preferences [Kahneman and Tversky 1979] rather than classical expected utility theory?
+
+Optimal contests for simple agents.   Joint with Robert Kleinberg. ACM EC 2014 (Journal version: ACM TEAC, 2016, forthcoming).
+Users in many online contribution settings are `simple`---they make strategic choices about participation, but not about effort. What does this mean for incentive design?
+
+
+Incentives in online user contribution:
+Incentives, gamification, and game theory: An economic approach to badge design.   Joint with David Easley. ACM EC 2013. (Journal version: AMC TEAC, 2016, forthcoming).
+The design of badges on social media platforms, typically the domain of HCI, can be informed by economic analysis: Should badges be awarded for meeting absolute or relative standards? Should a website explicitly display information about the badges other users have won, or not?
+
+Incentivizing High-quality User-Generated Content.   Joint with Preston McAfee. WWW 2011.
+User contribution on the Web was treated in the prior literature as a public goods provision problem; this paper introduces the idea that the quality of user-generated content is a response to private benefits from social-psychological rewards.
+
+
+Privacy:
+Selling Privacy at Auction.   Joint with Aaron Roth. ACM EC 2011. (Journal version: GEB 2013)
+Privacy can be viewed as an economic commodity, measured in units of differential privacy. What might a market for privacy look like?
+
+
+(A complete list of papers, including other papers on these topics, is below.)
+
+
+
+Teaching
+
+Networks II: Market Design
+        Spring 2019, Spring 2018, Spring 2016, Spring 2015, Spring 2014, Spring 2013
+
+Games, Economic Behavior, and the Internet
+        Fall 2014, Fall 2013
+
+Networks, crowds and markets: Foundations for formal analysis and design
+        Fall 2017, Fall 2015
+
+
+Academic Service
+
+Journals:
+Editorial Board: ACM Transactions on Economics and Computation (TEAC), 2015-2019
+Editorial Board: ACM Transactions on Social Computing, 2015-2019
+Guest editor: IEEE Internet Computing special issue on Internet Economics, Jan-Feb 2016
+Conferences:
+ACM EC 2016 (Senior Program Committee), 2015 (Workshops Chair), 2014 and 2013 (Senior Program Committee), 2012, 2011, 2010, 2009
+WWW (Internet Economics track) 2016, 2015, 2014 (Track Chair), 2013, 2012, 2011, 2009
+HCOMP 2016 (Program Chair), 2014
+
+SAGT 2014, ITCS 2013, WINE 2009
+Workshop Chairing and Organization:
+NSF-CCC Visioning Workshop on Mathematical Foundations of Social Computing: July 2015.
+Whitepaper
+Workshop on Social Computing and User-Generated Content (colocated with ACM EC): 2014, 2013, 2012, 2011
+Workshop on Ad Auctions (colocated with ACM EC): 2011
+Book Chapters, Surveys, Tutorials
+
+
+Game Theory and Incentives in Human Computation Systems. Arpita Ghosh. Book chapter. Handbook of Human Computation, Springer 2013.
+
+
+Social Computing and User-generated Content: A Game-Theoretic Approach. Arpita Ghosh. SigEcom Exchanges, Vol 11.2, December 2012.
+
+
+Tutorials:
+
+Incentives in Human Computation: HCOMP, November 2013.
+
+Social Computing and User-Generated Content: ACM EC, June 2013. (Joint with Yiling Chen)
+
+Publications
+Some "recent" papers:
+Inferential Privacy Guarantees for Differentially Private Mechanisms.   Arpita Ghosh, Robert Kleinberg.  Proc. 8th Conference on Innovations in Theoretical Computer Science (ITCS), 2017.
+Behavioral Mechanism Design: Optimal Crowdsourcing Contracts and Prospect Theory.   David Easley, Arpita Ghosh.  Proc. 16th ACM Conference on Economics and Computation (EC), 2015.
+Cardinal Contests.   Arpita Ghosh, Patrick Hummel.  Proc. 24th ACM International World Wide Web Conference (WWW), 2015.
+Full version: ACM Transactions on Economics and Computation, October 2018
+Behavioral Mechanism Design: Optimal contests for simple agents.   Arpita Ghosh, Robert Kleinberg.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Buying private data without verification.   Arpita Ghosh, Katrina Ligett, Aaron Roth, Grant Schoenebeck.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Was This Review Helpful to You? It Depends! Context and Voting Patterns in Online Content.   Ruben Sipos, Arpita Ghosh, Thorsten Joachims.  23rd International World Wide Web Conference (WWW), 2014.
+Incentives, gamification, and game theory: An economic approach to badge design.   David Easley, Arpita Ghosh.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Incentivizing participation in online forums for education.   Arpita Ghosh, Jon Kleinberg.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Crowdsourced Judgement Elicitation with Endogenous Proficiency.   Anirban Dasgupta, Arpita Ghosh.  Proc. 22nd ACM International World Wide Web Conference (WWW), 2013.
+Publications (By Topic)
+
+A chronological list of publications is here.
+Crowdsourcing and user-generated content: Incentive design and analysis        Economics of online information and privacy        Internet marketplaces: Online advertising, social lending and trade networks        Algorithmic game theory        Designing well-connected networks        Miscellaneous topics        
+Crowdsourcing and user-generated content: Incentive design and analysis
+Behavioral Mechanism Design: Optimal Crowdsourcing Contracts and Prospect Theory.   David Easley, Arpita Ghosh.  Proc. 16th ACM Conference on Economics and Computation (EC), 2015.
+Cardinal Contests.   Arpita Ghosh, Patrick Hummel.  Proc. 24th ACM International World Wide Web Conference (WWW), 2015.
+Full version: ACM Transactions on Economics and Computation, October 2018
+Behavioral Mechanism Design: Optimal contests for simple agents.   Arpita Ghosh, Robert Kleinberg.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Was This Review Helpful to You? It Depends! Context and Voting Patterns in Online Content.   Ruben Sipos, Arpita Ghosh, Thorsten Joachims.  23rd International World Wide Web Conference (WWW), 2014.
+Superposter behavior in MOOC forums.   Jonathan Huang, Anirban Dasgupta, Arpita Ghosh, Jane Manning, Marc Sanders.  ACM Conference on Learning at Scale (LAS), 2014.
+Incentives, gamification, and game theory: An economic approach to badge design.   David Easley, Arpita Ghosh.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Incentivizing participation in online forums for education.   Arpita Ghosh, Jon Kleinberg.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Crowdsourced Judgement Elicitation with Endogenous Proficiency.   Anirban Dasgupta, Arpita Ghosh.  Proc. 22nd ACM International World Wide Web Conference (WWW), 2013.
+Learning and Incentives in User-Generated Content: Multi-Armed Bandits with Endogenous Arms.   Arpita Ghosh, Patrick Hummel.  Proc. 4th Conference on Innovations in Theoretical Computer Science (ITCS), 2013.
+Implementing Optimal Outcomes in Social Computing: A Game-Theoretic Approach.   Arpita Ghosh, Patrick Hummel.  Proc. 21st ACM International World Wide Web Conference (WWW), 2012.
+Nominated for Best Paper: Runner-up
+Crowdsourcing with Endogenous Entry.   Arpita Ghosh, Preston McAfee.  Proc. 21st ACM International World Wide Web Conference (WWW), 2012.
+A Game-Theoretic Analysis of Rank-Order Mechanisms for User-Generated Content.   Arpita Ghosh, Patrick Hummel.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Full version: Journal of Economic Theory (JET), November 2018
+Who Moderates the Moderators? Crowdsourcing Abuse Detection in User-Generated Content.   Arpita Ghosh, Satyen Kale, Preston McAfee.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Incentivizing High-quality User-Generated Content.   Arpita Ghosh, Preston McAfee.  Proc. 20th ACM International World Wide Web Conference (WWW), 2011.
+Economics of online information and privacy
+Buying private data without verification.   Arpita Ghosh, Katrina Ligett, Aaron Roth, Grant Schoenebeck.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Privacy and coordination: Computing on databases with endogenous participation.   Arpita Ghosh, Katrina Ligett.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+To match or not to match: Economics of cookie matching in online advertising.   Arpita Ghosh, Mohammad Mahdian, R. Preston McAfee, Sergei Vassilvitskii.  Proc. 13th ACM Conference on Electronic Commerce (EC), 2012.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Selling Privacy at Auction.   Arpita Ghosh, Aaron Roth.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Invited to special issue of Games and Economic Behavior (GEB).
+Universally Utility-Maximizing Privacy Mechanisms.   Arpita Ghosh, Tim Roughgarden, Mukund Sundararajan.  Proc. ACM Symposium on Theory of Computer Science (STOC), 2009.
+Invited to special issue of SIAM Journal on Computing, 41(6), 1673-1693.
+Internet marketplaces: Online advertising, social lending and trade networks
+A Market Clearing Solution for Social Lending.   Ning Chen, Arpita Ghosh.  Proc. 22nd International Joint Conference on Artificial Intelligence (IJCAI), 2011.
+Expressive Auctions for Externalities in Online Advertising.   Arpita Ghosh, Amin Sayedi.  Proc. 19th ACM International World Wide Web Conference (WWW), 2010.
+Social Lending.   Ning Chen, Arpita Ghosh, Nicolas Lambert.  Proc. 10th ACM Conference on Electronic Commerce (EC), 2009.
+Full version in Special issue of Games and Economic Behavior (GEB).
+Bidding for Representative Allocations for Display Advertising.   Arpita Ghosh, Preston McAfee, Kishore Papineni, Sergei Vassilvitskii.  Proc. 5th International Workshop on Internet and Network Economics (WINE), 2009.
+Adaptive bidding for display advertising.   Arpita Ghosh, Benjamin Rubenstein, Sergei Vassilvitskii, Martin Zinkevich.  Proc. 18th ACM International World Wide Web Conference (WWW), 2009.
+Online story scheduling in web advertising.   Anirban Dasgupta, Arpita Ghosh, Hamid Nazerzadeh, Prabhakar Raghavan.  Proc. 20th Annual ACM-SIAM Symposium on Discrete Algorithms(SODA), 2009.
+Sharing Online Advertising Revenue with Consumers.   Yiling Chen, Arpita Ghosh, Preston McAfee, David Pennock.  Proc. 4th International Workshop on Internet and Network Economics (WINE), 2008.
+Externalities in Online Advertising.   Arpita Ghosh, Mohammad Mahdian.  Proc. 17th ACM International World Wide Web Conference (WWW), 2008.
+Cost of Conciseness in Sponsored Search Auctions.   Zoe Abrams, Arpita Ghosh, Erik Vee.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+Computing Optimal Bundles for Sponsored Search.   Arpita Ghosh, Hamid Nazerzadeh, Mukund Sundararajan.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+Auctions with Revenue Guarantees for Sponsored Search.   Zoe Abrams, Arpita Ghosh.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+Algorithmic game theory
+Truthful Assignment without Money.   Shaddin Dughmi, Arpita Ghosh.  Proc. 11th ACM Conference on Electronic Commerce (EC), 2010.
+Christmas Gift Exchange Games.   Arpita Ghosh, Mohammad Mahdian.  Proc. Fifth International Conference on Fun With Algorithms (FUN), 2010.
+Invited to special issue of Theoretical Computer Science, Vol 50 (1), 3-19.
+Strongly Stable Assignment.   Ning Chen, Arpita Ghosh.  Proc. European Symposium on Algorithms (ESA), 2010.
+Optimal Envy-free Pricing with Metric Substitutability.   Ning Chen, Arpita Ghosh, Sergei Vassilvitskii.  Proc. 9th ACM Conference on Electronic Commerce (EC), 2008.
+Journal version in SIAM Journal on Computing, V.40(3), 623-645, 2011.
+Charity Auctions on Social Networks.   Arpita Ghosh, Mohammad Mahdian.  Proc. 19th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 2008.
+Mechanism Design on Trust Networks.   Arpita Ghosh, Mohammad Mahdian, David Pennock, Daniel Reeves, Ryan Fugger.  Proc. 3rd international Workshop on Internet and Network Economics (WINE), 2007.
+Designing well-connected networks
+Minimizing Effective Resistance of a Graph.   Arpita Ghosh, Stephen Boyd, Amin Saberi.  SIAM Review, Problems and Techniques section, 2007.
+Upper Bounds on Algebraic Connectivity via Convex Optimization.   Arpita Ghosh, Stephen Boyd.  Linear Algebra and its Applications, 2006.
+Growing Well-Connected Graphs.   Arpita Ghosh, Stephen Boyd.  Proc. 45th IEEE Conference on Decision and Control (CDC), 2006.
+Gossip Algorithms: Design, Analysis, and Applications.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  IEEE Infocom, 2005.
+Full version (`Randomized Gossip Algorithms') in special issue of IEEE Transactions on Information Theory and IEEE/ACM Transactions on Networking, 2006.
+Mixing Times of Random Walks on Geometric Random Graphs.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  Proc. SIAM Workshop on Analytic Algorithmics and Combinatorics (ANALCO), 2005.
+Analysis and optimization of randomized gossip algorithms.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  Proc. 43rd IEEE Conference on Decision and Control (CDC), 2004.
+Miscellaneous topics
+The Discoverability of the Web.   Anirban Dasgupta, Arpita Ghosh, Ravi Kumar, Chris Olston, Sandeep Pandey, Andrew Tomkins.  Proc. 16th ACM International World Wide Web Conference (WWW), 2007.
+Optimal One-bit Quantization.   Alessandro Magnani, Arpita Ghosh, Robert M. Gray.  Proc. IEEE Data Compression Conference (DCC), 2005.
+Variable Resolution Information Dissemination.   Arpita Ghosh, Dan Greene, Qingfeng Huang, Julia Liu.  Proc. IEEE Conference on Sensor and Ad Hoc Communications and Networks (SECON), 2005.
+SIFT: A low complexity scheduler for the Internet.   Konstantinos Psounis, Arpita Ghosh, Balaji Prabhakar, Gang Wang.  Proc. 43rd Allerton Conference on Computing, Communication and Control, 2005.
+Publications (Chronological)
+Inferential Privacy Guarantees for Differentially Private Mechanisms.   Arpita Ghosh, Robert Kleinberg.  Proc. 8th Conference on Innovations in Theoretical Computer Science (ITCS), 2017.
+Behavioral Mechanism Design: Optimal Crowdsourcing Contracts and Prospect Theory.   David Easley, Arpita Ghosh.  Proc. 16th ACM Conference on Economics and Computation (EC), 2015.
+Cardinal Contests.   Arpita Ghosh, Patrick Hummel.  Proc. 24th ACM International World Wide Web Conference (WWW), 2015.
+Full version: ACM Transactions on Economics and Computation, October 2018
+Behavioral Mechanism Design: Optimal contests for simple agents.   Arpita Ghosh, Robert Kleinberg.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Buying private data without verification.   Arpita Ghosh, Katrina Ligett, Aaron Roth, Grant Schoenebeck.  Proc. 15th ACM Conference on Economics and Computation (EC), 2014.
+Was This Review Helpful to You? It Depends! Context and Voting Patterns in Online Content.   Ruben Sipos, Arpita Ghosh, Thorsten Joachims.  23rd International World Wide Web Conference (WWW), 2014.
+Superposter behavior in MOOC forums.   Jonathan Huang, Anirban Dasgupta, Arpita Ghosh, Jane Manning, Marc Sanders.  ACM Conference on Learning at Scale (LAS), 2014.
+Incentives, gamification, and game theory: An economic approach to badge design.   David Easley, Arpita Ghosh.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Incentivizing participation in online forums for education.   Arpita Ghosh, Jon Kleinberg.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Privacy and coordination: Computing on databases with endogenous participation.   Arpita Ghosh, Katrina Ligett.  Proc. 14th ACM Conference on Electronic Commerce (EC), 2013.
+Crowdsourced Judgement Elicitation with Endogenous Proficiency.   Anirban Dasgupta, Arpita Ghosh.  Proc. 22nd ACM International World Wide Web Conference (WWW), 2013.
+Learning and Incentives in User-Generated Content: Multi-Armed Bandits with Endogenous Arms.   Arpita Ghosh, Patrick Hummel.  Proc. 4th Conference on Innovations in Theoretical Computer Science (ITCS), 2013.
+To match or not to match: Economics of cookie matching in online advertising.   Arpita Ghosh, Mohammad Mahdian, R. Preston McAfee, Sergei Vassilvitskii.  Proc. 13th ACM Conference on Electronic Commerce (EC), 2012.
+Invited to special issue of ACM Transactions on Economics and Computation.
+Implementing Optimal Outcomes in Social Computing: A Game-Theoretic Approach.   Arpita Ghosh, Patrick Hummel.  Proc. 21st ACM International World Wide Web Conference (WWW), 2012.
+Nominated for Best Paper: Runner-up
+Crowdsourcing with Endogenous Entry.   Arpita Ghosh, Preston McAfee.  Proc. 21st ACM International World Wide Web Conference (WWW), 2012.
+A Game-Theoretic Analysis of Rank-Order Mechanisms for User-Generated Content.   Arpita Ghosh, Patrick Hummel.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Full version: Journal of Economic Theory (JET), November 2018
+Who Moderates the Moderators? Crowdsourcing Abuse Detection in User-Generated Content.   Arpita Ghosh, Satyen Kale, Preston McAfee.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Selling Privacy at Auction.   Arpita Ghosh, Aaron Roth.  Proc. 12th ACM Conference on Electronic Commerce (EC), 2011.
+Invited to special issue of Games and Economic Behavior (GEB).
+Incentivizing High-quality User-Generated Content.   Arpita Ghosh, Preston McAfee.  Proc. 20th ACM International World Wide Web Conference (WWW), 2011.
+A Market Clearing Solution for Social Lending.   Ning Chen, Arpita Ghosh.  Proc. 22nd International Joint Conference on Artificial Intelligence (IJCAI), 2011.
+Truthful Assignment without Money.   Shaddin Dughmi, Arpita Ghosh.  Proc. 11th ACM Conference on Electronic Commerce (EC), 2010.
+Christmas Gift Exchange Games.   Arpita Ghosh, Mohammad Mahdian.  Proc. Fifth International Conference on Fun With Algorithms (FUN), 2010.
+Invited to special issue of Theoretical Computer Science, Vol 50 (1), 3-19.
+Strongly Stable Assignment.   Ning Chen, Arpita Ghosh.  Proc. European Symposium on Algorithms (ESA), 2010.
+Expressive Auctions for Externalities in Online Advertising.   Arpita Ghosh, Amin Sayedi.  Proc. 19th ACM International World Wide Web Conference (WWW), 2010.
+Social Lending.   Ning Chen, Arpita Ghosh, Nicolas Lambert.  Proc. 10th ACM Conference on Electronic Commerce (EC), 2009.
+Full version in Special issue of Games and Economic Behavior (GEB).
+Universally Utility-Maximizing Privacy Mechanisms.   Arpita Ghosh, Tim Roughgarden, Mukund Sundararajan.  Proc. ACM Symposium on Theory of Computer Science (STOC), 2009.
+Invited to special issue of SIAM Journal on Computing, 41(6), 1673-1693.
+Bidding for Representative Allocations for Display Advertising.   Arpita Ghosh, Preston McAfee, Kishore Papineni, Sergei Vassilvitskii.  Proc. 5th International Workshop on Internet and Network Economics (WINE), 2009.
+Adaptive bidding for display advertising.   Arpita Ghosh, Benjamin Rubenstein, Sergei Vassilvitskii, Martin Zinkevich.  Proc. 18th ACM International World Wide Web Conference (WWW), 2009.
+Online story scheduling in web advertising.   Anirban Dasgupta, Arpita Ghosh, Hamid Nazerzadeh, Prabhakar Raghavan.  Proc. 20th Annual ACM-SIAM Symposium on Discrete Algorithms(SODA), 2009.
+Optimal Envy-free Pricing with Metric Substitutability.   Ning Chen, Arpita Ghosh, Sergei Vassilvitskii.  Proc. 9th ACM Conference on Electronic Commerce (EC), 2008.
+Journal version in SIAM Journal on Computing, V.40(3), 623-645, 2011.
+Sharing Online Advertising Revenue with Consumers.   Yiling Chen, Arpita Ghosh, Preston McAfee, David Pennock.  Proc. 4th International Workshop on Internet and Network Economics (WINE), 2008.
+Externalities in Online Advertising.   Arpita Ghosh, Mohammad Mahdian.  Proc. 17th ACM International World Wide Web Conference (WWW), 2008.
+Charity Auctions on Social Networks.   Arpita Ghosh, Mohammad Mahdian.  Proc. 19th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA), 2008.
+Mechanism Design on Trust Networks.   Arpita Ghosh, Mohammad Mahdian, David Pennock, Daniel Reeves, Ryan Fugger.  Proc. 3rd international Workshop on Internet and Network Economics (WINE), 2007.
+Cost of Conciseness in Sponsored Search Auctions.   Zoe Abrams, Arpita Ghosh, Erik Vee.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+Computing Optimal Bundles for Sponsored Search.   Arpita Ghosh, Hamid Nazerzadeh, Mukund Sundararajan.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+Auctions with Revenue Guarantees for Sponsored Search.   Zoe Abrams, Arpita Ghosh.  Proc. 3rd International Workshop on Internet and Network Economics (WINE), 2007.
+The Discoverability of the Web.   Anirban Dasgupta, Arpita Ghosh, Ravi Kumar, Chris Olston, Sandeep Pandey, Andrew Tomkins.  Proc. 16th ACM International World Wide Web Conference (WWW), 2007.
+Minimizing Effective Resistance of a Graph.   Arpita Ghosh, Stephen Boyd, Amin Saberi.  SIAM Review, Problems and Techniques section, 2007.
+Upper Bounds on Algebraic Connectivity via Convex Optimization.   Arpita Ghosh, Stephen Boyd.  Linear Algebra and its Applications, 2006.
+Growing Well-Connected Graphs.   Arpita Ghosh, Stephen Boyd.  Proc. 45th IEEE Conference on Decision and Control (CDC), 2006.
+Gossip Algorithms: Design, Analysis, and Applications.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  IEEE Infocom, 2005.
+Full version (`Randomized Gossip Algorithms') in special issue of IEEE Transactions on Information Theory and IEEE/ACM Transactions on Networking, 2006.
+Optimal One-bit Quantization.   Alessandro Magnani, Arpita Ghosh, Robert M. Gray.  Proc. IEEE Data Compression Conference (DCC), 2005.
+Variable Resolution Information Dissemination.   Arpita Ghosh, Dan Greene, Qingfeng Huang, Julia Liu.  Proc. IEEE Conference on Sensor and Ad Hoc Communications and Networks (SECON), 2005.
+SIFT: A low complexity scheduler for the Internet.   Konstantinos Psounis, Arpita Ghosh, Balaji Prabhakar, Gang Wang.  Proc. 43rd Allerton Conference on Computing, Communication and Control, 2005.
+Mixing Times of Random Walks on Geometric Random Graphs.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  Proc. SIAM Workshop on Analytic Algorithmics and Combinatorics (ANALCO), 2005.
+Analysis and optimization of randomized gossip algorithms.   Stephen Boyd, Arpita Ghosh, Balaji Prabhakar, Devavrat Shah.  Proc. 43rd IEEE Conference on Decision and Control (CDC), 2004.
+

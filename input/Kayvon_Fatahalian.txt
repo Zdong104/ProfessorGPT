@@ -1,0 +1,260 @@
+Professor: Kayvon Fatahalian
+University: Stanford University
+URL: http://graphics.stanford.edu/~kayvonf
+Description: KAYVON
+FATAHALIAN
+Associate Professor of Computer Science
+Stanford University
+Gates Building 366
+ 
+Our group creates computing systems (often high-performance and parallel) that enable advanced computer graphics and video understanding applications. Recent research efforts include:
+High-performance simulation of virtual environments for "AI training". Future virtual environments will be used for generating experience for training AI agents as much or more than generating frames for video games. These agents need to learn from massive amounts of experience. So we ask the question, how do we redesign a game engine to efficiently simulate thousands of virtual environments at a throughput of millions of frames per second? The Madrona Engine and BPS3D are experiments in this direction. We also pursue humanlike video game bots.
+New applications based on analyzing big video data. What new applications are possible given access to large amounts of video? We've analyzed over a decade of Cable TV news video (250,000+ hours) to understand trends in the news, and turned broadcast professional tennis video into interactive, controllable characters that look and behave like star tennis players. (Have you seen Federer play himself at Wimbledon?) Along the way we've built systems to process and query video databases at scale, improved optimizing compilers for image processing, developed new techniques for efficient DNN inference on video, and improved machine analysis of sports video.
+Human-in-the-loop, interactive AI. What can a domain expert can do with an interactive supercomputer? We're interested in developing machine learning systems that put expert humans in the loop, whether that be for creative content creation workflows based on generative AI (like this or this) or for rapidly training and validating new models (here and here).
+Also, sometimes we path trace terabyte-scale scenes using thousands of AWS lambdas.
+I'm always looking for students that wish to work on topics like these, or bring their own ideas.
+TIPS, TALKS, AND POSTS
+Here are a few tips on how to give clear research talks (or class project talks).
+What Makes a Graphics Systems Paper Beautiful: This is an article on systems thinking principles that may be helpful to authors or reviewers of graphics systems papers.
+Experiences Building Online Events in Ohyay: I ran A LOT of virtual events during the pandemic (virtual parties, virtual classes, conferences, etc). We've built up a lot of know-how about technical and non-technical ways to make virtual events better. This talk to the Stanford HCI group brain dumps some of my observations about video-based communication and events.
+I've written two posts documenting how I created my own virtual classroom toolkit which provides virtual venues for lectures, office hours, small group work, and student socials.
+Back to Virtual Teaching, but Not Back to Zoom (Jan 2021)
+Virtual Teaching Doesn’t Mean Giving Up on the Live Lecture (Jan 2020)
+On Stanford's The Future of Everything podcast I gave takes on virtual work, virtual teaching, and why the pandemic should really light a fire under the graphics community.
+Like many groups, we are interested in pushing the capabilities of machine learning. I'm particularly interested in interactive, expert-in-the-loop systems that allow human intuition to interoperate with machine learning. Here's me talking about "Keeping the Domain Expert in the Loop: Ideas to Models in Hours, Not Weeks" in Stanford's MLSys seminar (Fall 2020) and at CMU's AI Seminar (March 2021).
+At the Arch 2030 workshop I talked about how visual computing applications will drive architectual innovation in the year 2030. The talk is on Youtube. An updated version of the slides is here.
+I created this talk, Do Grades Matter, to challenge students to think bigger than just striving to get good grades in a bunch of hard classes.
+Want to get outside but still sleep in your own bed at night? Try my favorite local Bay Area hikes.
+TEACHING
+This quarter (Spring 2024) I am teaching CS348K: Visual Computing Systems.
+CS149: Parallel Computing (Winter 2019, Fall 2019, 2020, 2021, 2022, 2023)
+CS248: Interactive Computer Graphics (2018, 2019, 2020, 2021, 2022)
+CS248A: Computer Graphics: Rendering, Geometry, and Image Manipulation (2023, 2024)
+CS348K: Visual Computing Systems (Winter 2018, Fall 2018, 2020, 2021, 2022, 2023, 2024)
+CS348B: Image Synthesis Techniques (Spring 2022)
+Before moving to Stanford, I taught the following courses at CMU.
+15-418/15-618: Parallel Computer Architecture and Programming
+(2012, 2013, 2014, 2015, 2016, 2017, and at Tsinghua in Summer 2017)
+15-769: Visual Computing Systems (2013, 2014, 2016)
+15-462/662: Computer Graphics (2015)
+15-869: Graphics and Imaging Architectures (2011)
+STUDENTS
+DAVID DURST (Ph.D, co-advised with Pat Hanrahan)
+DAN FU (Ph.D, co-advised with Chris Ré)
+PURVI GOEL (Ph.D, co-advised with C. Karen Liu)
+ZANDER MAJERCIK (Ph.D)
+VISHNU SARUKKAI (Ph.D, co-advised with Chris Ré)
+BRENNAN SHACKLETT (Ph.D)
+Graduated Ph.D. Students:
+JAMES HONG (Stanford Ph.D, 2024)
+HAOTIAN ZHANG (Stanford Ph.D, 2023, [Thesis])
+RAVI MULLAPUDI (CMU Ph.D. 2021, co-advised with Deva Ramanan, [Thesis])
+EVAN SHIMIZU (CMU Ph.D. 2020, [Thesis])
+YONG HE (CMU Ph.D. 2018, [Thesis])
+Graduated BS/MS Students:
+CHENXI LIU (CSD M.S., then Ph.D. at UBC)
+KRISHNA KUMAR SINGH (CMU RI M.S, then Ph.D. at UC Davis)
+WILL CRICHTON (CMU CSD B.S., then Stanford Ph.D., now faculty at Brown)
+KARIMA MA (CMU CSD M.S., then Ph.D. at MIT)
+PUBLICATIONS
+Also see Google Scholar.
+Learning to Move Like Professional Counter-Strike Players
+David Durst, Feng Xi, Vishnu Sarukkai, Brennan Shacklett, Iuri Frosio, Chen Tessler, Joohwan Kim, Carly Taylor, Gilbert Bernstein, Sanjiban Choudhury, Pat Hanrahan, Kayvon Fatahalian
+Symposium on Computer Animation (SCA) 2024
+Iterative Motion Editing with Natural Language
+Purvi Goel, Kuan-Chieh Wang, C. Karen Liu, Kayvon Fatahalian
+SIGGRAPH 2024
+Learning Subject-Aware Cropping by Outpainting Professional Photos
+James Hong, Lu Yuan, Michaël Gharbi, Matthew Fisher, Kayvon Fatahalian
+AAAI 2024
+Collage Diffusion
+Vishnu Sarukkai, Linden Li, Arden Ma, Christopher Ré, Kayvon Fatahalian
+WACV 2024, (Vishnu's blog)
+An Extensible, Data-Oriented Architecture for High-Performance, Many-World Simulation
+Brennan Shacklett, Luc Guy Rosenzweig, Zhiqiang Xie, Bidipta Sarkar, Andrew Szot, Erik Wijmans, Vladlen Koltun, Dhruv Batra, Kayvon Fatahalian
+Transactions on Graphics 2023
+Learning Physically Simulated Tennis Skills from Broadcast Videos
+Hoatian Zhang, Yu Yuan, Viktor Makoviychuk, Yunrong Guo, Sanja Fidler, Xue Ben Peng, Kayvon Fatahalian
+Transactions on Graphics 2023
+Spotting Temporally Precise, Fine-Grained Events in Video
+James Hong, Haotian Zhang, Michaël Gharbi, Matthew Fisher, Kayvon Fatahalian
+ECCV 2022
+
+R2E2: Path Tracing of Terabyte-Scale Scenes using Thousands of Cloud CPUs
+Sadjad Fouladi, Brennan Shacklett, Fait Poms, Arjun Arora, Alex Ozdemir, Deepti Raghavan, Pat Hanrahan, Kayvon Fatahalian, Keith Winstein
+Transactions on Graphics 2022
+
+Low-shot Validation: Active Importance Sampling for Estimating Classifier Performance on Rare Categories
+Fait Poms*, Vishnu Sarukkai*, Ravi Teja Mullapudi, Nimit S. Sohoni, William R. Mark, Deva Ramanan, Kayvon Fatahalian
+ICCV 2021
+
+Learning Rare Category Classifiers on a Tight Labeling Budget
+Ravi Teja Mullapudi, Fait Poms, William R. Mark, Deva Ramanan, Kayvon Fatahalian
+ICCV 2021
+
+Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition
+James Hong, Matthew Fisher, Michaël Gharbi, Kayvon Fatahalian
+ICCV 2021
+
+Analysis of Faces in a Decade of US Cable TV News
+James Hong, Will Crichton, Haotian Zhang, Daniel Y. Fu, Jacob Ritchie, Jeremy Barenholtz, Ben Hannel, Xinwei Yao, Michaela Murray, Geraldine Moriba, Maneesh Agrawala, Kayvon Fatahalian
+KDD 2021
+[Visit the Stanford Cable TV Analyzer website for more info.]
+Large Batch Simulation for Deep Reinforcement Learning
+Brennan Shacklett, Erik Wijmans, Aleksei Petrenko, Manolis Savva, Dhruv Batra, Vladlen Koltun, Kayvon Fatahalian
+ICLR 2021
+Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players
+Haotian Zhang, Cristobal Sciutto, Maneesh Agrawala, Kayvon Fatahalian
+Transactions on Graphics 2021
+Iterative Text-based Editing of Talking-heads Using Neural Retargeting
+Xinwei Yao, Ohad Fried, Kayvon Fatahalian, Maneesh Agrawala
+Transactions on Graphics 2021
+Background Splitting: Finding Rare Classes in a Sea of Background
+Ravi Teja Mullapudi*, Fait Poms*, William R. Mark, Deva Ramanan, Kayvon Fatahalian
+CVPR 2021
+Analyzing Who and What Appears in a Decade of US Cable TV News
+James Hong, Will Crichton, Haotian Zhang, Daniel Y. Fu, Jacob Ritchie, Jeremy Barenholtz, Ben Hannel, Xinwei Yao, Michaela Murray, Geraldine Moriba, Maneesh Agrawala, Kayvon Fatahalian
+Paper on arXiv:2008.06007, Aug 2020
+[Visit the Stanford Cable TV Analyzer website for more info.]
+Design Adjectives: A Framework for Interactive Model-Guided Exploration of Parameterized Design Spaces
+Evan Shimizu, Matt Fisher, Sylvain Paris, Jim McCann, Kayvon Fatahalian
+UIST 2020
+Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods
+Daniel Y. Fu*, Mayee F. Chen*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, Christopher Ré
+ICML 2020
+Aetherling: Type-Directed Scheduling of Streaming Accelerators
+David Durst, Matthew Feldman, Dillon Huff, David Akeley, Ross Daly, Gilbert Louis Bernstein, Marco Patrignani, Kayvon Fatahalian, Pat Hanrahan
+PLDI 2020
+Multi-Resolution Weak Supervision for Sequential Data
+Frederic Sala, Paroma Varma, Jason Fries, Daniel Y. Fu, Shiori Sagawa, Saelig Khattar, Ashwini Ramamoorthy, Ke Xiao, Kayvon Fatahalian, James R. Priest, Christopher Ré
+NeurIPS 2019
+Rekall: Specifying Video Events using Compositions of Spatiotemporal Labels
+Daniel Y. Fu, Will Crichton, James Hong, Xinwei Yao, Haotian Zhang, Anh Truong, Avanika Narayan, Maneesh Agrawala, Christopher Ré, Kayvon Fatahalian
+Paper on arXiv:1910.02993, Oct 2019
+Online Model Distillation for Efficient Inference
+Ravi Mullapudi, Steven Chen, Keyi Zhang, Deva Ramanan, Kayvon Fatahalian
+ICCV 2019, code on Github
+Learning to Optimize Halide with Tree Search and Random Programs
+Andrew Adams, Karima Ma, Luke Anderson, Riyadh Baghdadi, Tzu-Mao Li, Michaël Gharbi, Benoit Steiner, Steven Johnson, Kayvon Fatahalian, Frédo Durand, Jonathan Ragan-Kelley
+SIGGRAPH 2019
+Finding Layers Using Hover Visualizations
+Evan Shimizu, Matt Fisher, Sylvain Paris, Kayvon Fatahalian
+Graphics Interface 2019
+Exploratory Stage Lighting Design using Visual Objectives
+Evan Shimizu, Sylvain Paris, Matt Fisher, Ersin Yumer, Kayvon Fatahalian
+Eurographics 2019
+Scanner: Efficient Video Analysis at Scale
+Alex Poms, William Crichton, Pat Hanrahan, Kayvon Fatahalian
+SIGGRAPH 2018
+Slang: Language Mechanisms for Building Extensible Real-time Shading Systems
+Yong He, Kayvon Fatahalian, Tess Foley
+SIGGRAPH 2018
+HydraNets: Specialized Dynamic Architectures for Efficient Inference
+Ravi Mullapudi, William R. Mark, Noam Shazeer, Kayvon Fatahalian
+CVPR 2018
+Shader Components: Modular and High Performance Shader Development
+Yong He, Tess Foley, Teguh Hofstee, Haomin Long, Kayvon Fatahalian
+SIGGRAPH 2017
+Automatically Scheduling Halide Image Processing Pipelines
+Ravi Teja Mullapudi, Andrew Adams, Dillon Sharlet, Jonathan Ragan-Kelley, Kayvon Fatahalian
+SIGGRAPH 2016
+A System for Rapid Exploration of Shader Optimization Choices
+Yong He, Tess Foley, Kayvon Fatahalian
+SIGGRAPH 2016
+LED Street Light Research Project Part II: New Findings
+Stephen Quick, Donald Carter, Kayvon Fatahalian, Cynthia Limauro
+CMU Technical Report, Summer 2016
+The Rise of Mobile Visual Computing Systems
+Kayvon Fatahalian
+IEEE Pervasive Computing, April/June 2016
+Automatically Splitting a Two-Stage Lambda Calculus
+Nicolas Feltman, Carlo Anguili, Umut A. Acar, Kayvon Fatahalian
+European Symposium on Programming (ESOP) 2016
+KrishnaCam: Using a Longitudinal, Single-Person, Egocentric Dataset for Scene Understanding Tasks
+Krishna Kumar Singh, Kayvon Fatahalian, Alexei Efros
+WACV 2016
+A System for Rapid, Automatic Shader Level-of-Detail
+Yong He, Tess Foley, Natalya Tatarchuk, Kayvon Fatahalian
+SIGGRAPH Asia 2015
+Aggregate G-Buffer Anti-Aliasing
+Cyril Crassin, Morgan McGuire, Kayvon Fatahalian, Aaron Lefohn
+I3D 2015
+(An updated and extended version of the paper appears in TVCG 2016.)
+Extending the Graphics Pipeline with Adaptive, Multi-Rate Shading
+Yong He, Yan Gu, Kayvon Fatahalian
+SIGGRAPH 2014
+Self-Refining Games using Player Analytics
+Matt Stanton, Ben Humberston, Brandon Kase, James O'Brien, Kayvon Fatahalian, Adrien Treuille
+SIGGRAPH 2014
+Near-exhaustive Precomputation of Secondary Cloth Effects
+Doyub Kim, Woojong Koh, Rahul Narain, Kayvon Fatahalian, Adrien Treuille, James O'Brien
+SIGGRAPH 2013
+Efficient BVH Construction via Approximate Agglomerative Clustering
+Yan Gu, Yong He, Kayvon Fatahalian, Guy Blelloch
+High Performance Graphics 2013
+SRDH: Specializing BVH Construction and Traversal Order Using Representative Shadow Ray Sets
+Nicolas Feltman, Minjae Lee, Kayvon Fatahalian
+High Performance Graphics 2012
+Evolving the Real-Time Graphics Pipeline for Micropolygon Rendering
+Kayvon Fatahalian, Stanford University Ph.D. Dissertation, 2011
+Reducing Shading on GPUs using Quad-Fragment Merging
+Kayvon Fatahalian, Solomon Boulos, James Hegarty, Kurt Akeley, William R. Mark, Henry Moreton, Pat Hanrahan
+SIGGRAPH 2010
+Space-Time Hierarchical Occlusion Culling for Micropolygon Rendering with Motion Blur
+Solomon Boulos, Edward Luong, Kayvon Fatahalian, Henry Moreton, Pat Hanrahan
+High Performance Graphics 2010
+Hardware Implementation of Micropolygon Rasterization with Motion and Defocus Blur
+John S. Brunhaver, Kayvon Fatahalian, Pat Hanrahan
+High Performance Graphics 2010
+A Lazy Object-Space Shading Architecture With Decoupled Sampling
+Christopher A. Burns, Kayvon Fatahalian, William R. Mark
+High Performance Graphics 2010
+DiagSplit: Parallel, Crack-Free, Adaptive Tessellation for Micropolygon Rendering
+Matthew Fisher, Kayvon Fatahalian, Solomon Boulos, Kurt Akeley, William R. Mark, Pat Hanrahan
+SIGGRAPH Asia 2009
+Data-Parallel Rasterization of Micropolygons with Defocus and Motion Blur
+Kayvon Fatahalian, Edward Luong, Solomon Boulos, Kurt Akeley, William R. Mark, Pat Hanrahan
+High Performance Graphics 2009
+GRAMPS: A Programming Model for Graphics Pipelines
+Jeremy Sugerman, Kayvon Fatahalian, Solomon Boulos, Kurt Akeley, Pat Hanrahan
+Transactions on Graphics (TOG) January 2009
+A Closer Look at GPUs
+Kayvon Fatahalian and Mike Houston
+Communications of the ACM. Vol. 51, No. 10 (October 2008)
+(also published as "GPUs: A Closer Look": ACM Queue. March/April. 2008)
+A Portable Runtime Interface for Multi-level Memory Hierarchies
+Mike Houston, Ji Young Park, Manman Ren, Timothy J. Knight, Kayvon Fatahalian, Alex Aiken, William J. Dally, Pat Hanrahan
+PPOPP 2008
+Compilation for Explicitly Managed Memory Hierarchies
+Timothy J. Knight, Ji Young Park, Manman Ren, Mike Houston, Mattan Erez, Kayvon Fatahalian, Alex Aiken, William J. Dally, Pat Hanrahan
+PPOPP 2007
+Sequoia: Programming the Memory Hierarchy
+Kayvon Fatahalian, Timothy J. Knight, Mike Houston, Mattan Erez, Daniel R Horn, Larkhoon Leem, Ji Young Park, Manman Ren, Alex Aiken, William J. Dally, Pat Hanrahan
+Supercomputing 2006
+Understanding the Efficiency of GPU Algorithms for Matrix-Matrix Multiplication
+Kayvon Fatahalian, Jeremy Sugerman, Pat Hanrahan
+Graphics Hardware 2004
+Brook for GPUs: Stream Computing on Graphics Hardware
+Ian Buck, Tess Foley, Daniel Horn, Jeremy Sugerman, Kayvon Fatahalian, Mike Houston, Pat Hanrahan
+SIGGRAPH 2004
+Precomputing Interactive Dynamic Deformable Scenes
+Doug L. James and Kayvon Fatahalian
+SIGGRAPH 2003
+OLD PROJECTS
+Slang GPU Shading Language. Slang is a shading language that extends HLSL with new capabilities for building modular, extensible, and high-performance real-time shading systems. Slang is now the shading language for NVIDIA's Falcor research rendering system. See the Slang website or the SIGGRAPH 2018 paper for more.
+Self-Refining Interactive Games (graphics with 100's of machines and a lot of latency)
+How do we build platforms that take graphics applications from one user on a single GPU to 10,000 machines and one million users in the cloud? Even though computer graphics has always been at the vanguard of parallel computing, there has been little success using modern cloud-based computing resources to improve interactive experiences. In this project we asked the question, how could we leverage the massive storage and batch processing capabilities of the cloud to generate new forms of interactive worlds -- and we took a "precompute everything" approach to doing so. Since one cannot precompute everything about an complex interactive world, the challenge is to determine what is most important to precompute, so these parts can be presented to the user with the highest-quality graphics. We find that by recording statistics of users playing a game, we can build a model of user behavior, and then concentrate large-scale, cloud-based precomputation of graphics and physics around the states that users are most likely to encounter. The result is a self-refining game whose dynamics improve with play, ultimately providing realistically rendered, rich fluid dynamics in real time on a mobile device. For more detail, see our work applied these ideas to cloth simulation and fluid simulation.
+A Real-Time Micropolygon Rendering Pipeline (evolving the GPU pipeline for tiny triangles)
+GPUs will soon have the compute horsepower to render scenes containing cinematic-quality surfaces in real-time. Unfortunately, if they render these subpixel polygons (micropolygons) using the same techniques as they do for large triangles today, GPUs will perform extremely inefficiently. Instead of trying to parallelize Pixar's Reyes micropolygon rendering system, we're taking a hard look at how the existing Direct3D 11 rendering pipeline, and GPU hardware implementations, must evolve to render micropolygon workloads efficiently in a high-throughput system. Changes to software interfaces, algorithms, and HW design are fair game! Slides describing what we've learned can be found in this SIGGRAPH course talk or in my dissertation: Evolving the Real-Time Graphics Pipeline for Micropolygon Rendering.
+GRAMPS (a framework for heterogeneous parallel programming)
+There are two ways to think about GRAMPS. Graphics folks should think of GRAMPS as a system for building custom graphics pipelines. We simply gave up on adding more and more configurable knobs to existing pipelines like OpenGL/Direct3D and instead allow the programmer to programmatically define a custom pipeline with an arbitrary number of stages connected by queues. To non-graphics folks, GRAMPS is a stream programming system that embraces heterogeneity in underlying architecture and anticipates streaming workloads that exhibit both regular and irregular (dynamic) behavior. The GRAMPS runtime dynamically schedules GRAMPS programs onto architectures containing a mixture of compute-optimized cores, generic CPU cores, and fixed-function processing units.
+The Sequoia Programming Language ("Programming the Memory Hierarchy")
+Sequoia is a hierarchical stream programming language that arose from the observation that expressing locality, not parallelism is the most important responsibility of parallel application programmers in scientific/numerical domains. Sequoia presents a parallel machine as an abstract hierarchy of memories and gives the programmer explicit control over data locality and communication through this hierarchy using first-class language constructs (basically, Sequoia supports nested kernels and streams of streams). Sequoia programs have run on a variety of exposed-communication architectures such as clusters, the CELL processor, GPUs, and even supercomputing clusters at Los Alamos. The best way to learn about Sequoia is to read our SC06 paper.
+Brook/Merrimac (stream processing for scientific computing)
+I helped out with the BrookGPU (abstracting the GPU as a stream processor for numerical computing) and Merrimac Streaming Supercomputer projects. Brook was the academic precursor to NVIDIA's CUDA.
+SUPPORT
+
+Our work has been supported by the National Science Foundation (IIS-1253530, IIS-1422767, IIS-1539069) and by INTEL, NVIDIA, QUALCOMM, GOOGLE, ADOBE, FACEBOOK, ACTIVISION, APPLE, AMAZON, THE INTERNET ARCHIVE, and THE BROWN INSTITUTE FOR MEDIA INNOVATION.
+
+ 
+

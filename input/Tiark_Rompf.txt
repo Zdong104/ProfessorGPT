@@ -1,0 +1,54 @@
+Professor: Tiark Rompf
+University: Purdue University
+URL: http://tiarkrompf.github.io/
+Description: Tiark Rompf
+
+Purdue University, Department of Computer Science
+
+firstname@purdue.edu
+google scholar, dblp
+github.com/tiarkrompf
+twitter.com/tiarkrompf
+
+Purdue PL Center (PurPL)
+
+Home | Research | Blog | Publications | Talks | Group | Teaching | Service
+
+Kevin C. and Susanne L. Kahn New Frontiers Associate Professor at Purdue University
+
+My scientific home is in programming languages and compilers, but my work spans architecture, databases, systems, machine learning, and AI.
+
+I'm co-directing the Purdue Center for Programming Principles and Software Systems (PurPL). I am also a Scientific Advisor at SambaNova Systems.
+
+Academic materials: CV (pdf) | Research (pdf) | Teaching (pdf)
+Digital garden: blog posts and interactive notes
+
+Research
+
+I'm actively recruiting PhD students and post-docs to work on the following projects:
+
+
+Reachability Types: How can we bring the benefits of Rust-style tracking of lifetimes and sharing to higher-level languages?
+Keywords: Scala, Coq, Mechanized Proofs, Logical Relations
+Papers: POPL'24, OOPSLA'23, OOPSLA'21, ARXIV '23
+
+Rhyme: How can we design expressive languages and efficient compiler toolchains for high-level data processing?
+Keywords: Datalog, Graph IRs, E-Graphs, Incremental/Bidirectional Computation
+Papers: PADL'24, POPL'24, SIGMOD'22, JFP'19, OSDI'18, SIGMOD'18
+
+Purdue is ranked #3 in PL+SE on csrankings.org. Apply here.
+
+News
+October 2023: New papers on Datalog and Rhyme: (1) Flan: An Expressive and Efficient Datalog Compiler for Program Analysis at POPL, (2) Rhyme: A Data-Centric Expressive Query Language for Nested Data Structures at PADL
+November 2023: Congratulations to Supun Abeysinghe on defending his PhD thesis titlted Compilation Techniques, Algorithms, and Data Structures for Efficient and Expressive Data Processing Systems!
+October 2023: New papers on Reachability Types: (1) Graph IRs for Impure Higher-Order Languages: Making Aggressive Optimizations Affordable with Precise Effect Dependencies at OOPSLA, (2) Polymorphic Reachability Types: Tracking Freshness, Aliasing, and Separation in Higher-Order Generic Programs at POPL and (3) on ArXiv Modeling Rechability Types with Logical Relations
+August 2023: Congratulations to Guannan Wei on defending his PhD thesis titled Metaprogramming Program Analyzers!
+June 2023: New paper on Symbolic Execution: Compiling Parallel Symbolic Execution with Continuations at ICSE
+April 2022: New paper on Incremental Computation at SIGMOD: Efficient Incrementialization of Correlated Nested Aggregate Queries using Relative Partial Aggregate Indexes (RPAI)
+Recent
+Drafts and preprints
+Papers: POPL'24 (2x), OOPSLA'23, ICSE'23, ECOOP'22, SIGMOD'22, OOPSLA'21, FSE'21, OOPSLA'20, SIGMOD'20, OOPSLA'19 (2x), ICFP'19 (2x), SYSML'19, NeurIPS'18, OSDI'18, ICFP'18, SIGMOD'18, POPL'18, ECOOP'17, POPL'17 (2x), OOPSLA'16 (2x), ICFP'15 (2x), MICRO'14, OOPSLA'14 (2x), PLDI'14, VLDB'14, POPL'13
+PC chairing: GPCE'18, DBPL'17, PEPM'16, FHPC'15, WGP'14; member: POPL'24, OOPSLA'24, PLDI'20 (ERC), POPL'20, ICFP'19 (ERC), OOPSLA'19, CC'19, OOPSLA'18 (ERC), VLDB'18, PLDI'18, ECOOP'17, POPL'16, OOPSLA'15, PLDI'15, GPCE'16,'15,'14, ICFP'14
+Awards: GPCE Test of Time Award 2020, ACM SIGPLAN PL Software Award 2019, Facebook Research Award 2019, VMware Systems Research Award 2018, DOE Early Career Research Award 2017, Google Faculty Research Award 2017 and 2018, NSF CAREER Award 2016
+Teaching: CS 590 advanced topics in compilers (2021), CS 590 deep learning for symbolic reasoning (2018), CS 352 compilers (2024, 2022, 2020, 2018, 2017, 2015), CS 502 grad compilers (2023, 2019, 2015), CS 565 software foundations (2016, 2015), CS 590 metaprogramming (2014)
+

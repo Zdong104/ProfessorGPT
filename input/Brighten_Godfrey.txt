@@ -1,0 +1,160 @@
+Professor: Brighten Godfrey
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://pbg.cs.illinois.edu/
+Description: Philip Brighten Godfrey
+
+
+
+Ph.D., Computer Science, UC Berkeley, May 2009.
+M.S., UC Berkeley, 2006.
+B.S. in Computer Science, Carnegie Mellon University, May 2002.
+
+Office: 3211 Siebel Center
+Email: pbg at illinois dot edu
+
+
+I am a professor in the Department of Computer Science and the CSL at the University of Illinois at Urbana-Champaign. I am also a technical director at VMware, which I joined in 2019 with the acquisition of our startup Veriflow, where I was co-founder and CTO. Before joining UIUC, I was a Ph.D. student at UC Berkeley, advised by Ion Stoica, and a visiting researcher at Intel Labs Berkeley.
+
+Ph.D. applicants: I encourage you to apply to UIUC CS for the 2024 admission season. Our group is always interested in strong applicants in the broad area of networked systems, with work spanning system building, applications of machine learning to networked systems, and algorithms and optimization for networks. Read more about our group's current research thrusts below. To join, apply to our PhD program and list my name as one of the faculty you are interested to work with.
+
+Undergraduate research: Drop me an email with your resume and a transcript.
+
+Research | Papers | News | Group | Teaching | Service	
+
+
+Research
+
+I enjoy building networked systems that address practical problems, with strong architectural and theoretical foundations. You can check out my complete list of papers. My group is currently working in several main areas:
+
+Low latency networking including for XR/VR, web, and mobile apps: Speed of Light Internet, DChannel, HVCs
+Service layer networking to optimize, observe, and secure communication between microservices: Service meshes as a new network layer, Distributed tracing without app instrumentation, expressive policies
+Network verification and diagnosis including network fault localization (Flock), diagnosing performance problems in distributed apps (Murphy), verifying self-driving infrastructure, configuration verification (Plankton), and data plane verification (Anteater and VeriFlow, which led to our startup Veriflow, now part of VMware)
+Machine learning for networked systems including online learning for congestion control (Aurora and PCC), deep learning as an adversary, and performance diagnosis (Murphy)
+
+Other areas of work recently and in the past include:
+
+Data center network topology
+Compact routing and fast shortest path algorithms in social networks
+Flexible Internet architectures
+Peer-to-peer systems
+Recent News
+
+2023:
+
+Congratulations to Bingzhe Liu on her Ph.D. dissertation defense!
+Excited to share two papers in HotNets 2023 from different thrusts of our group's work, on low latency networking for interactive applications, and expressive policies for microservice communication
+Our group has two upcoming talks at KubeCon 2023 in Chicago: Bingzhe Liu and Gangmuk Lim on verifying Kubernetes controllers, and Gangmuk Lim and Aditya Prerepa on service layer traffic engineering with SLATE.
+Congratulations to Vipul Harsh on his Ph.D. dissertation defense!
+Check out VMware's blog on commercial impact of Murphy, which appeared in SIGCOMM'23
+I've joined the ACM SIGCOMM Steering Committee for a three-year term, 2023 - 2026.
+Enjoyed speaking on cISP at the Harvard Systems + Theory Seminar in February
+
+2022:
+
+Panelist at ACM Symposium on SDN Research, on "Broadening Software-Defined Networking" -- check out the video
+Sachin Ashok and Vipul Harsh's talk at KubeCon 2022: Distributed Tracing Without The Pain
+SYFY Wire covered our work on designing a speed-of-light Internet which recently appeared in NSDI 2022. See also my quick summary on Twitter.
+Honored to be recognized with a 2022 Engineering Council Outstanding Advisor Award from the UIUC College of Engineering, which is due to an awesome group of students!
+I've been happy to give a few virtual talks recently: at Cambridge University on "Software as a Network", at the UT Austin Sys/ML Workshop on "Towards Self-Driving Clouds Via Machine Learning", and at Cambridge and FutureWei on cISP (video online!).
+
+2021:
+
+Talk video now online: Adventures in Learning-Based Rate Control at the c3.ai workshop on Networks+ML in September
+I'll be co-chairing ACM SIGCOMM 2022 with Bruce Maggs.
+Check out our HotNets paper and Sachin's 10-minute talk video on Leveraging Service Meshes as a New Network Layer.
+A few talks this fall -- at ONUG 2021 on spineless data center networks, at NetVerify 2021, and the c3.ai workshop on Networks of Machine Learning, for Machine Learning, by Machine Learning
+We're excited that cISP, our project on designing an Internet that achieves nearly speed-of-light latency, will appear at NSDI 2022. Watch for the upcoming paper!
+Congratulations to Ph.D. graduates Tong Meng and Ali Kheradmand!
+Here's William's talk video from HotMobile'21 about accelerating mobile apps by using parallel high-bandwidth and low-latency channels in 5G (and beyond)
+Teaching
+CS 538: Advanced Computer Networks (Fall 2024, Spring 2023, Spring 2021, Spring 2019, Spring 2018, Spring 2017, Fall 2013, Fall 2012, Fall 2011)
+CS 435: Cloud Networking (Spring 2024, Fall 2021, Fall 2022)
+CS 498: Cloud Networking (Fall 2020, Fall 2019, Fall 2018)
+CS 241: Systems Programming (Spring 2014, Spring 2012, Spring 2010)
+CS 438: Communication Networks (Spring 2011)
+CS 598: Advanced Computer Networks (Fall 2010)
+CS 591: Foundations of Systems and Networking (Spring 2010)
+CS 598: Advanced Internet (Fall 2009)
+Research Group
+Current members
+Shehab Sarar Ahmed (Ph.D.)
+Sachin Ashok (Ph.D., co-advised with Radhika Mittal)
+Rahul Bothra (Ph.D.)
+Vipul Harsh (Ph.D.)
+Gangmuk Lim (Ph.D.)
+Bingzhe Liu (Ph.D.)
+Gerard Matthew (Ph.D.)
+Aditya Prerepa (Undergraduate)
+William Sentosa (Ph.D.)
+Talal Touseef (M.S.)
+Milind Kumar Vaddiraju (Ph.D.)
+Talha Waheed (Ph.D., co-advised with Radhika Mittal)
+Ph.D. alumni
+Tong Meng (2021, now at ByteDance)
+Ali Kheradmand (2021, co-advised with Grigore Rosu, now at Google)
+Sangeetha Abdu Jyothi (2019, now assistant professor at UC Irvine)
+Mo Dong (2017, now co-founder at Celer Network)
+Soudeh Ghorbani (2016, now assistant professor at Johns Hopkins)
+Qingxi Li (2016, now at Google)
+Ankit Singla (2015, now assistant professor at ETH Zurich)
+Ashish Vulimiri (2015, co-advised with Gul Agha, now at Samsung Research)
+Chi-Yao Hong (2014, co-advised with Matt Caesar, now at Google)
+Rachit Agarwal (2013, co-advised with Matt Caesar, now professor at Cornell)
+Postdoc alumni
+Anduo Wang (Postdoc 2013-2015, with Matthew Caesar, now assistant professor at Temple University)
+M.S. alumni
+Aditi Partap (2021, co-advised with Radhika Mittal, now Ph.D. student at Stanford)
+Nathan Jay (2019)
+Fatima Tariq (2019)
+Fan Yang (2015)
+Kyle Jao (2014)
+Abhishek Sharma (2013)
+Sam Mussmann (2012)
+Service
+USENIX NSDI 2025 program committee
+ACM SIGCOMM Steering Committee, 2023-26
+USENIX NSDI 2024 program committee
+SIGCOMM 2022 program committee co-chair
+USENIX NSDI 2022 program committee
+HotNets 2021 program committee
+CoNEXT 2020 program committee
+SIGCOMM 2018 program committee
+SIGMETRICS 2017 program committee
+HotNets 2017 program committee
+SIGCOMM 2017 Workshop on VR/AR Network program committee
+SOSR 2016 PC co-chair
+SIGCOMM 2015 program committee
+Dagstuhl Seminar on Formal Methods and Networks (2015), co-organizer
+HotNets 2014 PC co-chair
+SIGMETRICS 2014 program committee
+SIGCOMM 2014 program committee and web chair
+NSDI 2014 program committee
+HotNets 2013 program committee
+IEEE SafeConfig 2013 program committee
+CoNEXT 2013 Workshop Co-Chair
+ANCS 2013 program committee
+HotSDN 2013 program committee
+WWW 2013 program committee, Social Network and Graph Analysis track
+DIMACS Workshop on Software Defined Networking 2012 co-organizer
+HotNets 2011 program committee
+SIGMETRICS 2011 program committee
+CoNEXT 2010 Student Workshop co-chair
+IFIP Networking 2010 program committee
+Random
+Short biography
+Photo
+Writing on You Infinite Snake (blog) and elsewhere
+Network verification: predicting the future of complex networks (Network World, November 27, 2017)
+Why Tech Leaders Should Always Keep an Eye on Academia
+Attractive scientific plots with gnuplot
+Google Frequency Plotter
+Programming Language Wars: The Movie
+What happened to the Internet on Friday
+Computer Science Research Trends
+Graphing English
+Outreach activities
+Advice on obtaining grants
+Repository of Availability Traces
+Traces from measurement studies of PlanetLab, web sites, corporate PCs, Skype superpeers, and DNS servers packaged in a single compact format.
+Great talks on education: Clifford Stoll, Ken Robinson
+

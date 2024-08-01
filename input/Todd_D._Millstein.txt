@@ -1,0 +1,67 @@
+Professor: Todd D. Millstein
+University: Univ. of California - Los Angeles
+URL: http://www.cs.ucla.edu/~todd
+Description: 				
+Todd Millstein
+Professor and Chair
+UCLA Computer Science Department
+476 Engineering VI
+Los Angeles, CA 90095-1596
+todd@cs.ucla.edu
+
+
+[ overview | publications | students | courses | bio ]
+Research Overview
+I develop technology to make software systems more reliable.
+
+For more than a decade I have focused much of my work on network verification: developing programming languages and software verification techniques to obtain provable guarantees on the security and reliability of computer networks. Our open source Batfish network configuration analyzer is now managed by Amazon Web Services, is the technology underlying the Oracle Cloud Network Path Analyzer tool, and is used by many network engineers elsewhere (e.g., ebay).
+
+In my current research I'm continuing to work on network reliability, for example developing techniques for verifying network configurations and testing network protocol implementations. Outside of networking, I'm working to reduce the burden of interactive program verification through lemma synthesis and developing scalable reasoning methods for probabilistic programming languages.
+
+
+
+Recent Publications
+Bit Blasting Probabilistic Programs  (PLDI 2024)
+       Poorva Garg, Steven Holtzen, Guy Van den Broeck, Todd Millstein
+
+MESSI: Behavioral Testing of BGP Implementations  (NSDI 2024)
+       Rathin Singha, Rajdeep Mondal, Ryan Beckett, Siva Kesava Reddy Kakarla, Todd Millstein, George Varghese
+
+Lessons from the evolution of the Batfish configuration analysis tool  (SIGCOMM 2023)
+       Matt Brown, Ari Fogel, Daniel Halperin, Victor Heorhiadi, Ratul Mahajan, Todd Millstein
+
+more publications...
+
+
+
+Ph.D. Students
+
+Ana Brendel
+Poorva Garg (co-advised with Guy Van den Broeck)
+Rajdeep Mondal (co-advised with George Varghese)
+Rathin Singha (co-advised with George Varghese)
+
+Graduated Students
+
+
+Courses
+I regularly teach these courses:
+
+CS30: Principles and Practices of Computing
+an introduction to computing for computer-science majors with no prior programming experience
+
+CS231: Types and Programming Languages
+an introductory graduate course on programming language theory and static type systems
+
+CS239: Current Topics in Programming Languages and Systems
+a graduate research seminar with varying topics
+
+
+
+Brief Biography
+I joined the UCLA faculty in November 2003. I am also an Amazon Scholar. During my time at UCLA I have also been a Co-Founder and Chief Scientist of Intentionet (team now at AWS), a Visiting Fellow at Princeton, a Visiting Researcher at Microsoft Research, and an Academic Visitor at Oxford. I received my Ph.D. from the University of Washington Department of Computer Science, where I was a member of the Cecil group led by Craig Chambers. Before that, I was an undergraduate at Brown University, where I was advised by Paris Kanellakis and Pascal Van Hentenryck. I grew up in suburban Maryland, outside of Washington D.C.
+
+My honors and awards include an NSF CAREER Award, a Most Influential PLDI Paper Award, an IEEE Micro Top Picks selection, both the Northrop Grumman Excellence in Teaching Award (for junior faculty) and the Eon Instrumentation Inc. Excellence in Teaching Award (for senior faculty) from UCLA Engineering, best-paper awards from PLDI, OOPSLA, and SIGCOMM, a Microsoft Research Outstanding Collaborator Award, an Okawa Foundation Research Grant, an IBM Faculty Award, and a Facebook Research Award.
+
+
+

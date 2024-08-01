@@ -1,0 +1,308 @@
+Professor: Bimal Viswanath
+University: Virginia Tech
+URL: https://people.cs.vt.edu/vbimal
+Description: Bimal Viswanath
+Latest updates
+Students
+Publications
+Service
+Teaching
+News Coverage
+
+Assistant Professor
+Department of Computer Science
+Virginia Tech
+
+Google Scholar, CV
+
+
+Contact
+Email: vbimal at cs dot vt dot edu
+GPG Public Key
+
+
+Gilbert Place
+Room #4302
+220 Gilbert Street
+Blacksburg, VA 24060
+Phone: 540-231-8702
+
+
+My research interests broadly cover security and privacy aspects of large online services. I am particularly interested in the emerging space at the intersection of machine learning and security. Three research directions include: (1) Attacks using ML: Investigating how recent developments in ML can be misused to abuse online services. (2) Attacks on ML systems: Understanding vulnerabilities of ML systems and improving robustness. (3) ML for better security/privacy: Leveraging advances in ML to build better defenses against attacks on online services.
+I am a recipient of the Distinguished Paper Award (SOUPS 2014), Best Paper Award (COSN 2015), and the AI2000 Most Influential Scholar Award Honorable Mention for being among the top 100 most cited scholars in computer networking from 2009-2019.
+
+I completed my Ph.D. in Computer Science at the Max Planck Institute for Software Systems. Before joining VT, I spent ~2 years as a Postdoc in SAND lab (at UCSB). Prior to that, I spent a year as a Researcher at Nokia Bell Labs, Stuttgart.
+
+Our research is supported by CCI, NSF and 4-VA.
+
+
+We have open positions for PhD/MS. VT undergrads interested in research are also strongly encouraged. Feel free to reach out to me.
+
+Latest Updates
+October 2023: We were interviewed by PBS reporters about our work on the security implications of generative AI. "The Dark Side of AI".
+September 2023: New CCI funding for our project titled "Robust Classification of Adversarial Images from Generative AI Models".
+August 2023: Invited to participate in the AI Technology Initiative organized by the Bipartisan Virginia Technology and Innovation Caucus. This initiative is to “explore opportunities, risks, and impacts associated with Artificial lntelligence (AI) and technology use in government processes and decision-making.”
+July 2023: Our work on deepfake text detection (IEEE S&P'23 paper) was featured in a CACM article by Neil Savage.
+May 2023: We were interviewed by WDBJ7 reporters about our work on chatbot security: Link
+February 2023: New NSF SaTC funding to study security of open-domain chatbots.
+December 2022: New CCI funding to study security of AI-based Question-Answering systems.
+December 2022: Invited to the TPC of CCS 2023.
+November 2022: New TechXpore article about our upcoming IEEE S&P'23 paper.
+September 2022: Congratulations to Jiameng Pu on successfully defending her PhD dissertation---"Defending Against Misuse of Synthetic Media: Characterizing Real-world Challenges and Building Robust Defenses".
+July 2022: New CCI funding for our project: "High Accuracy Automatic Code Repair for Mission-critical Software".
+June 2022: Congratulations to Jiameng Pu on receiving the Dr. Dennis G. Kafura Graduate Fellowship in Computer Science.
+December 2021: Invited to the TPC of CCS'22.
+November 2021: Congratulations to Jiameng Pu on passing her Ph.D. preliminary proposal exam.
+May 2021: Teaching CS 4274 Secure Computing Capstone in Fall 2021. See course info for more details.
+May 2021: Invited to the TPC of USENIX Security'22.
+April 2021: Jiameng Pu is one of the finalists for the 2021 Facebook Fellowship awards (Security and Privacy category). Congratulations, Jiameng!
+
+
+Students
+I am delighted to work with the following fantastic students:
+
+Sifat Muhammad Abdullah (PhD, Spring 2021 - Present, published in IEEE S&P'24, IEEE S&P'23, ACSAC'23)
+Shravya Kanchi (PhD, Fall 2021 - Present, published in IEEE S&P'24, ACSAC'23)
+Aravind Cheruvu (PhD, Spring 2022 - Present, published in IEEE S&P'24, ACSAC'23)
+Nicholas Kong (MS, Summer 2023 - Present)
+Alumni:
+
+Connor Weeks (MS, published in ACSAC'23)
+Jiameng Pu (Defended PhD dissertation in 2022, published in IEEE S&P'20, IEEE EuroS&P'20, ACSAC'20, USENIX Security'21, WWW'21, IEEE S&P'23)
+Cristian Vives (Defended MS dissertation in 2022) -> Software Engineer at CVENT
+Kavya Sundaram (Undergraduate research, published in WWW'21)
+Abdullah Rehman (Undergraduate research + summer intern, published in IEEE S&P'23 )
+Yusuf Elnady (Graduate research + summer intern, 2021 )
+Steve T K Jan (Defended PhD dissertation in 2020, co-advised with Gang Wang, published in IEEE S&P'20)
+Ibrahim Asadullah Tahmid (Graduate research + summer intern, published in USENIX Security'21)
+Ahmadreza Azizi (Defended MS dissertation in 2020, published in USENIX Security'21)
+Tianrui Hu (Defended MS dissertation in 2020, co-advised with Gang Wang, published in IEEE S&P'20) -> Northeastern University PhD program
+Yoonjin Kim (PhD research intern, summer 2020, published in IEEE S&P'23)
+Neal Mangaokar (BS 2020, published in IEEE EuroS&P'20, ACSAC'20, USENIX Security'21, WWW'21) -> University of Michigan PhD program
+Lauren Kelly (BS 2020, published in WWW'21) -> IT Software Engineer, University of North Florida
+Publications
+An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape
+Sifat Muhammad Abdullah, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala and Bimal Viswanath
+IEEE S&P (Oakland) 2024, San Francisco, CA, May 2024.
+Arxiv Code and dataset
+
+
+A First Look at Toxicity Injection Attacks on Open-domain Chatbots
+Connor Weeks (co-lead), Aravind Cheruvu (co-lead), Sifat Muhammad Abdullah, Shravya Kanchi, Daphne Yao, and Bimal Viswanath
+ACSAC 2023, Austin, Texas, December 2023.
+PDF Code and dataset
+
+
+Deepfake Text Detection: Limitations and Opportunities
+Jiameng Pu, Zain Sarwar, Sifat Muhammad Abdullah, Abdullah Rehman, Yoonjin Kim, Parantapa Bhattacharya, Mobin Javed, and Bimal Viswanath
+IEEE S&P (Oakland) 2023, San Francisco, CA, May 2023.
+PDF Code and dataset
+
+
+T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification
+Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy and Bimal Viswanath
+USENIX Security'21, Online, August 2021
+PDF (arxiv) Video Code
+
+
+Deepfake Videos in the Wild: Analysis and Detection
+Jiameng Pu (co-lead), Neal Mangaokar (co-lead), Lauren Kelly, Parantapa Bhattacharya, Kavya Sundaram, Mobin Javed, Bolun Wang, and Bimal Viswanath
+WWW'21, Online, April 2021
+PDF (arxiv) Video Deepfake dataset
+
+
+NoiseScope: Detecting Deepfake Images in a Blind Setting
+Jiameng Pu, Neal Mangaokar, Bolun Wang, Chandan K. Reddy, and Bimal Viswanath
+ACSAC'20, Online, December 2020
+PDF BIBTEX Video Code
+
+
+Jekyll: Attacking Medical Image Diagnostics using Deep Generative Models
+Neal Mangaokar, Jiameng Pu, Parantapa Bhattacharya, Chandan K. Reddy, and Bimal Viswanath
+IEEE EuroS&P 2020, Online, September 2020
+PDF BIBTEX Video
+
+
+Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation
+Steve T.K. Jan, Qingying Hao, Tianrui Hu, Jiameng Pu, Sonal Oswal, Gang Wang, and Bimal Viswanath
+IEEE S&P (Oakland) 2020, Online, May 2020
+PDF BIBTEX
+
+
+What Happens After You Leak Your Password: Understanding Credential Sharing on Phishing Sites
+Peng Peng, Chao Xu, Luke Quinn, Hang Hu, Bimal Viswanath, and Gang Wang
+ASIACCS 2019, Auckland, New Zealand, July 2019
+PDF BIBTEX
+
+
+Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks
+Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, and Ben Y. Zhao
+IEEE S&P (Oakland) 2019, San Francisco, CA, USA, May 2019
+PDF BIBTEX Code
+
+
+With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning
+Bolun Wang, Yuanshun Yao, Bimal Viswanath, Haitao Zheng, and Ben Y. Zhao
+USENIX Security 2018, Baltimore, MD, USA, August 2018
+PDF BIBTEX Code
+
+
+I Spy with My Little Eye: Analysis and Detection of Spying Browser Extensions
+Anupama Aggarwal, Bimal Viswanath, Liang Zhang, Saravana Kumar, Ayush Shah, and Ponnurangam Kumaraguru
+IEEE EuroS&P 2018, London, UK, April 2018
+PDF BIBTEX
+
+
+Towards Reliable Application Deployment in the Cloud
+Ruichuan Chen, Istemi Ekin Akkus, Bimal Viswanath, Ivica Rimac and Volker Hilt
+CoNEXT 2017, Seoul, South Korea, December 2017
+PDF BIBTEX
+
+
+Sieve: Actionable Insights from Monitored Metrics in Distributed Systems
+Jörg Thalheim, Antonio Rodrigues, Istemi Ekin Akkus, Pramod Bhatotia, Ruichuan Chen, Bimal Viswanath, Lei Jiao, Christof Fetzer
+Middleware 2017, Las Vegas, NV, USA, December 2017
+PDF BIBTEX Website Technical report
+
+
+Complexity vs. Performance: Empirical Analysis of Machine Learning as a Service
+Yuanshun Yao, Zhujun Xiao, Bolun Wang, Bimal Viswanath, Haitao Zheng and Ben Y. Zhao
+IMC 2017, London, UK, November 2017
+PDF BIBTEX
+
+
+Automated Crowdturfing Attacks and Defenses in Online Review Systems
+Yuanshun Yao, Bimal Viswanath, Jenna Cryan, Haitao Zheng and Ben Y. Zhao
+CCS 2017, Dallas, TX, USA, October 2017
+PDF BIBTEX
+
+
+Strengthening Weak Identities Through Inter-Domain Trust Transfer
+Giridhari Venkatadri, Oana Goga, Changtao Zhong, Bimal Viswanath, Krishna P. Gummadi and Nishanth Sastry
+WWW 2016, Montreal, Canada, April 2016
+PDF BIBTEX
+
+
+Strength in Numbers: Robust Tamper Detection in Crowd Computations
+Bimal Viswanath, M. Ahmad Bashir, M. Bilal Zafar, Simon Bouget, Saikat Guha, Krishna P. Gummadi, Aniket Kate, and Alan Mislove
+COSN 2015, Stanford University, CA, USA, November 2015
+PDF BIBTEX Best Paper Award
+
+
+Towards Detecting Anomalous User Behavior in Online Social Networks
+Bimal Viswanath, Muhammad Ahmad Bashir, Mark Crovella, Saikat Guha, Krishna P. Gummadi, Balachander Krishnamurthy and Alan Mislove
+USENIX Security 2014, San Diego, CA, USA, August 2014
+PDF BIBTEX
+
+
+Understanding and Specifying Social Access Control Lists
+Mainack Mondal, Yabing Liu, Bimal Viswanath, Krishna P. Gummadi and Alan Mislove
+SOUPS 2014, Menlo Park, CA, USA, July 2014
+PDF BIBTEX Distinguished Paper Award
+
+
+Defending Against Large-scale Crawls in Online Social Networks
+Mainack Mondal, Bimal Viswanath, Allen Clement, Peter Druschel, Krishna P. Gummadi, Alan Mislove, and Ansley Post
+CoNEXT 2012, Nice, France, December 2012
+PDF BIBTEX
+
+
+Keeping Information Safe from Social Networking Apps
+Bimal Viswanath, Emre Kıcıman, and Stefan Saroiu
+WOSN 2012, Helsinki, Finland, August 2012
+PDF BIBTEX
+
+
+Canal: Scaling Social Network-based Sybil Tolerance Schemes
+Bimal Viswanath, Mainack Mondal, Krishna P. Gummadi, Alan Mislove, and Ansley Post
+EuroSys 2012, Bern, Switzerland, April 2012
+PDF BIBTEX
+
+
+Understanding and Combating Link Farming in the Twitter Social Network
+Saptarshi Ghosh (co-primary author), Bimal Viswanath (co-primary author), Farshad Kooti, Naveen Kumar Sharma, Korlam Gautam, Fabricio Benevenuto, Niloy Ganguly, and Krishna P. Gummadi
+WWW 2012, Lyon, France, April 2012
+PDF BIBTEX
+
+
+Exploring the Design Space of Social Network-based Sybil Defenses (Invited Paper)
+Bimal Viswanath, Mainack Mondal, Allen Clement, Peter Druschel, Krishna P. Gummadi, Alan Mislove, and Ansley Post
+COMSNETS 2012, Bangalore, India, January 2012
+PDF BIBTEX
+
+
+Sharing Social Content from Home: A Measurement-driven Feasibility Study
+Massimiliano Marcon, Bimal Viswanath, Meeyoung Cha, and Krishna P. Gummadi
+NOSSDAV 2011, Vancouver, Canada, June 2011
+PDF BIBTEX
+
+
+An Analysis of Social Network-based Sybil Defenses
+Bimal Viswanath, Ansley Post, Krishna P. Gummadi, and Alan Mislove
+SIGCOMM 2010, New Delhi, India, August 2010
+PDF BIBTEX
+
+
+You Are Who You Know: Inferring User Profiles in Online Social Networks
+Alan Mislove, Bimal Viswanath, Krishna P. Gummadi, and Peter Druschel
+WSDM 2010, New York, NY, USA, February 2010
+PDF BIBTEX
+
+
+On the Evolution of User Interaction in Facebook
+Bimal Viswanath, Alan Mislove, Meeyoung Cha, and Krishna P. Gummadi
+WOSN 2009, Barcelona, Spain, August 2009
+PDF Original PDF (with Errata) Errata Note BIBTEX
+Selected Service
+CCS (PC: 2024, 2023, 2022, 2021)
+USENIX Security (PC: 2022, 2021, 2020)
+NDSS (PC: 2021, 2020)
+IMC (PC: 2019)
+ACSAC (PC: 2021, 2020, 2019)
+ICWSM (PC: 2018, 2017, 2016, 2015)
+Teaching
+CS6604: Foundation Models and Security
+Virginia Tech, Spring 2024.
+CS5914: Security Risks of Generative AI
+Virginia Tech, Fall 2023.
+CS4274: Secure Computing Capstone
+Virginia Tech, Fall 2021, Spring 2023, Spring 2024.
+CS5914: Defending Against ML-powered Adversaries
+Virginia Tech, Fall 2022.
+CS6604: Hot Topics in Security and AI
+Virginia Tech, Spring 2020, Spring 2022.
+CS5984: Security Analytics
+Virginia Tech, Spring 2019, Spring 2021.
+CS4254: Network Architecture & Programming
+Virginia Tech, Fall 2018, Fall 2019, Fall 2020.
+Security and Privacy in Social Computing Systems
+Saarland University, Summer 2013.
+Selected News
+Deepfake Text Detection: Limitations and Opportunities (IEEE S&P'23)
+
+TechXplore
+Automated Crowdturfing Attacks and Defenses in Online Review Systems (CCS 2017)
+
+Scientific American
+Business Insider
+Fortune
+Forbes
+NVidia Developer
+Verge
+Engadget
+New York Post
+News.com.au
+Zee News India
+TechXplore
+Towards Detecting Anomalous User Behavior in Online Social Networks (Usenix Security 2014)
+
+New Republic
+Understanding and combating link farming in the Twitter social network (WWW 2012)
+
+GigaOM
+You are who you know: Inferring user profiles in Online Social Networks (WSDM 2010)
+
+CNET News
+Miller-McCune
+Slashdot
+

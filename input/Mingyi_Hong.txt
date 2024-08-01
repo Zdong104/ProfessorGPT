@@ -1,0 +1,212 @@
+Professor: Mingyi Hong
+University: University of Minnesota
+URL: https://people.ece.umn.edu/~mhong/mingyi.html
+Description: Mingyi Hong
+Home
+Biography
+Research
+Group
+People
+Publications
+Activities
+Projects
+Funded Projects
+Research
+Teaching
+EE 5239
+EE 3015
+	
+Mingyi Hong
+ 	
+Mingyi Hong
+
+Associate Professor
+Electrical and Computer Engineering
+University of Minnesota
+6-109 Keller Hall
+University of Minnesota, Minneapolis, MN 55455
+Google Scholar citation, CV
+
+
+Email: mhong at umn.edu
+
+
+Research Interests
+
+My research focus on contemporary issues in optimization, information processing and wireless networking.
+
+See here for our publication, and here for the current projects.
+
+Teaching
+
+EE 3015 Signal and Systems, Spring 2019, 2022, UMN, ECE Department
+
+EE 5239 Nonlinear Optimization, Fall 2017, 2018, 2019, 2020, 2021 UMN, ECE Department
+
+RA and Postdoctoral position available
+
+We have research assistants and post doctoral fellow position available. If you are interested, please contact Dr. Hong via email
+
+Living in Minnesota
+
+Minneapolis-St. Paul Virtual Tour
+
+27 Photos Of Minneapolis That Will Make You Want To Move There
+
+30 Photos Of Minneapolis That Will Make You Want To Move There
+
+Group News
+
+June. 2024 new preprint (with Andi, Jiaxiang, Wei, Akiko, Pratik and Bamdev) entitled SLTrain: a sparse plus low-rank approach for parameter and memory efficient pretraining has been submitted for publication; see the preprint [here]; This work shows that, by using sparse+low rank techniques, retraining can be made very memory efficient.
+
+ 	
+
+June. 2024 new preprint (with Zhiwei, Jon, T-Hui) entitled Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization has been submitted for publication; see the preprint [here]; This work develop a novel direct noise optimization method that can efficiently assign the output of diffusion models.
+
+ 	
+ 	
+
+June. 2024 new preprint (with Jiaxiang, Siliang, Hoi-To, Chenliang, and Alfredo) entitled Getting More Juice Out of the SFT Data: Reward Learning from Human Demonstration Improves SFT for LLM Alignment has been submitted for publication; see the preprint [here]; This work shows that, by building a reward model for SFT stage, one can significantly improve the SFT performance.
+
+ 	
+
+May 2024, NSF sponsored workshop, Midwest Machine Learning Symposium held at Minneapolis, organized by M. and Ju Sun ant others; See [Symposium Website]; The symposium is free for all participants and provide lodgings; It attracted 300+ participants from all over midwest region.
+
+May. 2024:, three papers accepted by ICML 2024
+
+MC: Efficient MCMC Negative Sampling for Contrastive Learning with Global Convergence, with CY Yau, HT Wai, P Raman and S Sarkar, see the paper here [here]
+
+Revisiting Zeroth-Order Optimization for Memory-Efficient LLM Fine-Tuning: A Benchmark, with Yihua Zhang, Pingzhi Li, Junyuan Hong, Jiaxiang Li, Yimeng Zhang, Wenqing Zheng, Pin-Yu Chen, Jason D Lee, Wotao Yin, Zhangyang Wang, Sijia Liu, Tianlong Chen; see the paper here [here]
+
+MADA: Meta-Adaptive Optimizers through hyper-gradient Descent with K Ozkara, C Karakus, P Raman, M Hong, S Sabach, B Kveton, V Cevher, see the paper here [here]
+
+April. 2024:, congratulations to Siliang Zeng to be awarded the prestigious Doctoral Dissertation Fellowship
+
+April. 2024 M. And Sijia and Ping-Yu delivered proposal “Zeroth-Order Machine Learning: Fundamental Principles and Emerging Applications in Foundation Models” at ICASSP 2024.
+
+April. 2024 M. Gave a talk “Old and New Optimization Techniques for Foundation Model Fine-Tuning and (continual) Pre-Training” at ECE@Ohio State; details are [here].
+
+Jan. 2024, AWS Research Award: We have been honored to be awarded an AWS research award to investigate LLM optimization related topics.
+
+Jan. 2024, Cisco Research Award: We have been honored to be awarded an AWS research award to investigate robustness and trustworthy issues for diffusion models.
+
+Dec 2023, Group at NeurIPS 2023
+
+ 	
+
+Dec. 2023 new preprint (with Xinwei, Steven and Woody) entitled Differentially Private SGD Without Clipping Bias: An Error-Feedback Approach has been submitted for publication; see the preprint here; This work shows that, by using error feedback, the bias of clipping gradient can be completely removed, while being able to use arbitrary clipping threshold (independent of the problem). These properties makes it practical to use the algorithm in practice (as compared with DP-SGD).
+
+Dec 2023, Dr. Jiaxiang Li from Math Department of UC Davis has joined our group as a Post-Doctoral Fellow. Welcome Jiaxiang!
+
+Dec 2023, NSF sponsored workshop on sensing and analytics will be help Dec 7-8 in DC NSF headquarters; See [Workshop Website]
+
+Nov 2023, Xinwei has successfully defended his PhD thesis; Xinwei has made some exciting achievements during his PhD career, and he will be joining USC for a postdoctoral fellowship; see his [publications]; Congrats Dr. Zhang!
+
+ 	
+
+Nov. 2023, paper accepted (TAC): our work On the local linear rate of consensus on the stiefel manifold (joint work with Sixiang, Alfredo and Shahin) has been accepted by IEEE TAC; see the paper [here]
+
+Oct. 2023, tutorial proposal accepted. Our tutorial proposal “Zeroth-Order Machine Learning: Fundamental Principles and Emerging Applications in Foundation Models” has been accepted by ICASSP 2024 and AAAI 2024.
+
+Sept 2023, Group Kayak Activity, with visiting student Zhiwei Tang
+
+ 	
+
+Sept. 2022, paper accepted: Four papers have been accepted by NeurIPS 2023.
+
+Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning (joint work with Siliang, Chenliang and Alfredo) has been accepted as an Oral paper; see the paper here [here]
+
+Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens (joint work with Zhanpeng and AWS researchers); see the paper here [here]
+
+Selectivity Drives Productivity: Efficient Dataset Pruning for Enhanced Transfer Learning (joint work with Yihua et al)
+
+A Unified Framework for Inference-Stage Backdoor Defense (joint work with Sun, Ganghua, Xuan, Jie and Cisco researchers).
+
+July. 2023, new grant: We got a grant to organize an NSF workshop on “the Convergence of Smart Sensing Systems, Applications, Analytic and Decision Making”; the workshop website will be online soon.
+
+July. 2023, new grant: We obtained a new 3-year grant “A Multi-Rate Feedback Control Framework for Modeling, Analyzing, and Designing Distributed Optimization Algorithms” from NSF; In this work, we advocate the a generic “model” of distributed algorithms (based on techniques from stochastic multi-rate feedback control), which can abstract their important features (e.g., privacy preserving mechanism, compressed communication, occasional communication) into tractable modules.
+
+June 2023, We have bee presented the SPS Best Paper Award and the Pierre-Simon Laplace Early Career Technical Achievement Award at ICASSP 2023. Congratulations to everyone, especially formal members from our group, Dr. Haoran Sun and Dr. Xiangyi Chen!
+
+ 	
+ 	
+
+May. 2023, new grant:, M. Is the co-PI for the UMN-lead AI-Climate Institute; this is a 5-year project funded by NSF, NIFA and USDA focusing on climate-smart agriculture and forestry.
+
+April. 2023, paper accepted (TSP): our work Towards Understanding Asynchronous Advantage Actor-critic: Convergence and Linear Speedup (joint work with Tianyi, Hen and Kaiqing) has been accepted by IEEE TSP; see the paper [here]
+
+April. 2023, paper accepted (SIOPT): our work Minimax problems with coupled linear constraints: computational complexity, duality and solution methods (joint work with Ioannis and Shuzhong) has been accepted by SIAM Journal on Optimization. In this work, we analyzed a class of seemingly easy min-max problems, where there is a linear constraint coupling the min and max optimization variables. We show that this class of problem is NP-hard, and then derived a duality theory for it. Leveraging the resulting duality-based relaxations, we propose a family of efficient algorithms, and test them on the network interdiction problems. see the paper [here]
+
+ 	
+
+April 2023, papers accepted (ICML 2023):
+
+Linearly Constrained Bilevel Optimization: A Smoothed Implicit Gradient Approach with Ioannis and Prashant, Sijia, Yihua and Kevin
+
+FedAvg Converges to Zero Training Loss Linearly for Overparameterized Multi-Layer Neural Networks, with Bingqing, Xinwei, and Prashant
+
+Understanding Backdoor Attacks through the Adaptability Hypothesis, with Xun, Jie, and Xuan and Cisco team
+
+Jan. 2023 new preprint (with Siliang, Chenliang and Alfredo) entitled Understanding Expertise through Demonstrations: A Maximum Likelihood Framework for Offline Inverse Reinforcement Learning has been submitted for publication; see the preprint here; This work develops one of the first offline inverse reinforcement learning (IRL) formulation and algorithm for inferring an agent's reward function, while finding its policy.
+
+ 	
+
+Dec. 2022, SPS Early-Career Award: M. Receives the Pierre-Simon Laplace Early Career Technical Achievement Award from IEEE Signal Processing Society.
+
+Dec. 2022, SPS Best Paper Award: our work Learning to optimize: Training deep neural networks for interference management (joint work with Haoran, Xiangyi, Qingjiang, Nikos and Xiao), published in IEEE TSP 2018, has been awarded the 2022 Signal Processing Society Best Paper Award.
+
+Dec. 2022, papers accepted (TSP & TWC): our work Parallel Assisted Learning (joint work with Xinran, Jiawei, Yuhong and Jie Ding) has been accepted by TSP; see the paper [here]; Also, our work Learning to beamform in heterogeneous massive MIMO networks (joint work with Minghe and Tsung-Hui) has been accepted by TWC; see the paper [here]
+
+Nov. 2022, paper conditionally accepted (SIOPT): our work Primal-Dual First-Order Methods for Affinely Constrained Multi-Block Saddle Point Problems (joint work with Junyu, Mengdi and Shuzhong) has been conditionally accepted by SIAM Journal on Optimization (with minor revision)
+
+Nov. 2022, paper conditionally accepted (SIOPT): our work Minimax problems with coupled linear constraints: computational complexity, duality and solution methods (joint work with Ioannis and Shuzhong) has been conditionally accepted by SIAM Journal on Optimization (with minor revision); see the paper [here]
+
+Nov. 2022, paper accepted (SIOPT): our work Understanding a class of decentralized and federated optimization algorithms: A multi-rate feedback control perspective (joint work with Xinwei and Nicola) has been accepted by SIAM Journal on Optimization; see the paper [here]
+
+Oct. 2022, tutorial proposal accepted: with Sijia, Yihua and Bingqing, we will be presenting a tutorial on bilevel optimization in machine learning for AAAI 2023.
+
+Sept. 2022, research award: Our group (together with Jie, Zhi-Li and Prashant) has received a new Meta Research Award, to support our work on developing large-scale distributed algorithms and systems for autoscaling.
+
+Aug. 2022, paper accepted: Five papers have been accepted by NeurIPS 2022.
+
+Advancing Model Pruning via Bi-level Optimization with Yihua, Sijia, Yanzhi, Yugang, et al
+
+Maximum-Likelihood Inverse Reinforcement Learning with Finite-Time Guarantees, with Siliang, Chenliang, and Alfredo
+
+Distributed Optimization for Overparameterized Problems: Achieving Optimal Dimension Independent Communication Complexity, with Bingqing, Ioannis, Hoi-To, and Chung-Yiu
+
+Inducing Equilibria via Incentives: Simultaneous Design-and-Play Ensures Global Convergence, with Boyi, Jiayang, Zhaoran, Zhuoran, Hoi-To, et al
+
+A Stochastic Linearized Augmented Lagrangian Method for Decentralized Bilevel Optimization, with Songtao, Siliang, et al
+
+Aug. 2022, paper accepted (TSP): our work FedBCD: A Communication-Efficient Collaborative Learning Framework for Distributed Features (joint work with researchers at WeBank) has been accepted by TSP; see the paper [here]
+
+Aug. 2022, paper accepted (SIOPT): our work A two-timescale framework for bilevel optimization: Complexity analysis and application to actor-critic (joint work with Hoi-To, Zhaoran and Zhuoran) has been accepted by SIAM Journal on Optimization; see the paper [here]
+
+Aug. 2022, paper award (UAI): our work Distributed Adversarial Training to Robustify Deep Neural Networks at Scale (joint work with IBM researchers), published in The Conference on Uncertainty in Artificial Intelligence (UAI) 2022, has been selected as oral presentation, and selected as the Best Paper Runner-Up Award for the conference; the paper can be found [here]
+
+June 2022, paper accepted (SIOPT): our work On the divergence of decentralized non-convex optimization (joint work with Siliang, Junyu and Haoran) has been accepted by SIAM Journal on Optimization; see the paper [here]
+
+May 2022, We have been virtually presented the SPS Best Paper Award at ICASSP 2022.
+
+May 2022, Prashant will be starting his position at CS Department of Wayne State University; congrats Dr. Khanduri!
+
+May 2022, Xiangyi has successfully defended his PhD thesis; Xiangyi has made some exciting achievements during his PhD career; see his [publications] congrats Dr. Chen!
+
+April 2022, paper accepted: Three papers have been accepted by ICML 2022
+
+A Stochastic Multi-Rate Control Framework For Modeling Distributed Optimization Algorithms with Xinwei, Sairaj and Nicola
+
+Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy, with Xiangyi, Xinwei, and Steven
+
+Revisiting and advancing fast adversarial training through the lens of bi-level optimization, with Yihua, Sijia, Prashant and Siyu
+
+April 2022, Xinwei has received the University of Minnesota's Doctoral Dissertation Fellowship; congrats Xinwei!
+
+Feb. 2022, paper published (TSP): Our work (with Wenqiang, Shahana and Xiao) entitled Stochastic mirror descent for low-rank tensor decomposition under non-Euclidean losses has been published in TSP.
+
+Dec. 2021, SPS Best Paper Award: our work Multi-agent distributed optimization via inexact consensus ADMM (joint work with Tsung-Hui and Xiangfeng), published in IEEE TSP 2016, has been awarded the 2021 Signal Processing Society Best Paper Award.
+
+ View My Stats
+Page generated 2024-06-09 00:22:21 CDT, by jemdoc.
+

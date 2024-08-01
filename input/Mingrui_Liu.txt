@@ -1,0 +1,142 @@
+Professor: Mingrui Liu
+University: George Mason University
+URL: https://mingrliu.github.io/
+Description: Mingrui Liu
+Ph.D.
+
+Department of Computer Science
+George Mason University
+Fairfax, VA, 22030
+USA
+
+
+EMAIL
+
+mingruiliu (dot) ml (at) gmail.com
+
+mingruil (at) gmu (dot) edu
+
+Home People Publications Teaching Software Service Awards Miscellaneous
+About Me
+I am an assistant professor at Department of Computer Science, George Mason University since Fall 2021. Before that I was a postdoc at Rafik B. Hariri Institute at Boston University from 2020-2021, hosted by Francesco Orabona. I received my Ph.D. at Department of Computer Science, The University of Iowa in August 2020, under the advise of Tianbao Yang. Before that I studied at Institute of Natural Sciences and School of Mathematical Sciences at Shanghai Jiao Tong University. I have also spent time working at industrial research labs, such as IBM research AI and Alibaba DAMO Academy. Here is my Google Scholar Citations.
+
+I am looking for self-motivated PhD students (fully-funded) with strong mathematical ablities and (or) programming skills to solve challenging machine learning problems elegantly with mathematical analysis and empirical studies. The main technical skills we need include mathematical optimization, statistical learning theory, algorithms, and deep learning. If you are interested, please drop me an email with your CV and transcript, and apply our PhD program here. Undergrad and graduate student visitors are also welcome. This link provides an overview of our fast-growing GMU CS department.
+Research
+My research interests are machine learning, optimization, learning theory, and deep learning. My goal is to design provably efficient algorithms for machine learning problems with strong empirical performance. In particular, I work on
+
+
+Mathematical Optimization for Machine Learning: I focus on designing provably efficient optimization algorithms for machine (deep) learning problems, such as training language models, optimizing complex metrics (e.g., AUC maximization, F-measure optimization), hierarchical optimization (e.g., Generative Adversarial Nets, bilevel optimization), etc.
+
+
+Statistical Learning Theory: I work on improving sample complexity and computational complexity for modern machine learning problems.
+
+
+Large-scale Distributed Learning: I design efficient scalable learning algorithms for distributed intelligence under various constraints (e.g., communication, privacy, etc.)
+
+
+Machine Learning Applications: continual learning, model compression/quantization, autoML.
+
+
+Recent News
+(May 2024) I will be serving as an Area Chair for NeurIPS 2024.
+(May 2024) Two papers were accepted by ICML 2024. Congrats to my students!
+(Feb 2024) Glad to give an invited talk at Virginia Tech CS Seminar Series about our recent work on optimization for deep autoregressive models.
+(Jan 2024) One paper about bilevel optimization under unbounded smoothness was accepted by ICLR 2024 as an spotlight (5% acceptance rate). Congrats to my students Jie and Xiaochuan!
+(Dec 2023) I was selected in the New Faculty Highlights Program at AAAI 2024. I will present our recent work on algorithmic foundation of federated learning with sequential data.
+(Oct 2023) Glad to give invited talks at INFORMS annual meeting, Department of Mathematical Sciences at Rensseleaer Polytechic Institute about our recent work on optimization for unbounded smooth functions. Here is the slides.
+(Sep 2023) Three papers were accepted by NeurIPS 2023. Congrats to Michael, Jie and Yajie!
+(Sep 2023) Glad to give an invited talk at Business Analytics Department, University of Iowa.
+(Aug 2023) I will be serving as an Area Chair for AISTATS 2024.
+(Apr 2023) I am happy to give an invited talk at Thomas Jefferson High School of Science and Technology about "Federated Learning: Algorithm Design and Applications". Here is the slides.
+(Mar 2023) I will be serving as an Area Chair for NeurIPS 2023.
+(Mar 2023) Glad to give an invited talk at SIAM Southeastern Atlantic Section Annual Meeting about new federated and adaptive optimization algorithms for deep learning with unbounded smooth landscape.
+(Mar 2023) Glad to give an invited talk at IBM Almaden Research Center about new federated and adaptive optimization algorithms for deep learning with unbounded smooth landscape.
+(Feb 2023) Glad to give an invited talk at Google about new federated and adaptive optimization algorithms for deep learning with unbounded smooth landscape.
+(Jan 2023) One paper was accepted by ICLR 2023. Congratulations to my students!
+(Nov 2022) Two NeurIPS 2022 papers Communication-Efficient Distributed Gradient Clipping and Bilevel Optimization were selected as spotlight presentations (5% acceptance rate).
+(Sep 2022) Three papers were accepted by NeurIPS 2022. Congratulations to my students and co-authors.
+(May 2022) One paper was accepted by ICML 2022. Congratulations to my students and co-authors.
+(Mar 2022) Gave a talk at CISS at Princeton University about nonconvex-nonconcave min-max optimization and applications in GANs.
+(Feb 2022) We will give a tutorial on CVPR 2022 about "Deep AUC Maximization". Here is the website.
+Recent Selected Publications [Full List]
+#: supervised student author, *: equal contribution (alphabetical order)
+
+
+(New! ) Provable Benefits of Local Steps in Heterogeneous Federated Learning for Neural Networks: A Feature Learning Perspective
+Yajie Bao#, Michael Crawshaw#, Mingrui Liu.
+Proceedings of 41th International Conference on Machine Learning, 2024. (ICML 2024)
+
+
+(New! ) A Nearly Optimal Single Loop Algorithm for Stochastic Bilevel Optimization under Unbounded Smoothness
+Xiaochuan Gong#, Jie Hao#, Mingrui Liu.
+Proceedings of 41th International Conference on Machine Learning, 2024. (ICML 2024)
+
+
+(New! ) Bilevel Optimization under Unbounded Smoothness: A New Algorithm and Convergence Analysis
+Jie Hao#, Xiaochuan Gong#, Mingrui Liu.
+In 12th International Conference on Learning Representations, 2024. (ICLR 2024) (Spotlight, 5% acceptance rate)
+
+
+(New! ) Federated Learning with Client Subsampling, Data Heterogeneity, and Unbounded Smoothness: A New Algorithm and Lower Bounds
+Michael Crawshaw#, Yajie Bao#, Mingrui Liu.
+In Advances in Neural Information Processing Systems 36, 2023. (NeurIPS 2023)
+
+
+(New! ) Global Convergence Analysis of Local SGD for Two-layer Neural Network without Overparameterization
+Yajie Bao#, Amarda Shehu, Mingrui Liu.
+In Advances in Neural Information Processing Systems 36, 2023. (NeurIPS 2023)
+
+
+(New! ) Bilevel Coreset Selection in Continual Learning: A New Formulation and Algorithm
+Jie Hao#, Kaiyi Ji, Mingrui Liu.
+In Advances in Neural Information Processing Systems 36, 2023. (NeurIPS 2023)
+
+
+(New! ) EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data
+Michael Crawshaw#, Yajie Bao#, Mingrui Liu.
+In 11th International Conference on Learning Representations, 2023. (ICLR 2023)
+
+
+A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks
+Mingrui Liu, Zhenxun Zhuang, Yunwen Lei, Chunyang Liao.
+In Advances in Neural Information Processing Systems 35, 2022. (NeurIPS 2022) (Spotlight, 5% acceptance rate)
+
+
+Robustness to Unbounded Smoothness of Generalized SignSGD
+Michael Crawshaw#*, Mingrui Liu*, Francesco Orabona*, Wei Zhang*, Zhenxun Zhuang*.
+In Advances in Neural Information Processing Systems 35, 2022. (NeurIPS 2022)
+
+
+Will Bilevel Optimizers Benefit from Loops
+Kaiyi Ji, Mingrui Liu, Yingbin Liang, Lei Ying.
+In Advances in Neural Information Processing Systems 35, 2022. (NeurIPS 2022) (Spotlight, 5% acceptance rate)
+
+
+Fast Composite Optimization and Statistical Recovery in Federated Learning
+Yajie Bao#, Michael Crawshaw#, Shan Luo, Mingrui Liu.
+Proceedings of 39th International Conference on Machine Learning, 2022. (ICML 2022)
+
+
+Understanding AdamW through Proximal Methods and Scale-Freeness
+Zhenxun Zhuang, Mingrui Liu, Ashok Cutkosky, Francesco Orabona.
+Transactions on Machine Learning Research, 2022. (TMLR 2022)
+
+
+On the Initialization for Convex-Concave Min-max Problems
+Mingrui Liu, Francesco Orabona.
+Algorithmic Learning Theory, 2022. (ALT 2022)
+
+
+On the Last Iterate Convergence of Momentum Methods
+Xiaoyu Li, Mingrui Liu, Francesco Orabona.
+Algorithmic Learning Theory, 2022. (ALT 2022)
+
+
+Generalization Guarantee of SGD for Pairwise Learning
+Yunwen Lei, Mingrui Liu, Yiming Ying.
+Advances in Neural Information Processing Systems 34, 2021. (NeurIPS 2021)
+
+
+
+Last update: 06-09-2024
+

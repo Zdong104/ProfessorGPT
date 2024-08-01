@@ -1,0 +1,234 @@
+Professor: Weina Wang 0001
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~weinaw
+Description: Weina Wang
+Home
+Publications
+Teaching
+Group
+Contact
+Weina Wang
+Assistant Professor
+Computer Science Department, Carnegie Mellon University
+About me
+
+I am an Assistant Professor in the Computer Science Department at Carnegie Mellon University. My research interests lie in the broad area of applied probability, with a focus on decision-making in large stochastic systems. I have worked on problems in queueing systems, bandits, and reinforcement learning. Many of the problem formulations I have studied are motivated by resource orchestration in modern computing systems. I have also worked on large random graphs, with a focus on characterizing statistical limits and computational limits, and data privacy, especially at its intersection with information theory and game theory. My research is driven by a dual objective: to understand fundamental limits, and to design algorithms and approaches to achieve them.
+
+Bio
+
+I joined the Computer Science Department at Carnegie Mellon University in Fall 2018 as an Assistant Professor. Previously, I was a postdoc at the University of Illinois at Urbana-Champaign and Arizona State University, working with Prof. R. Srikant and Prof. Lei Ying. I received my Ph.D. degree in electrical engineering from Arizona State University in 2016, advised by Prof. Lei Ying and Prof. Junshan Zhang. I received my Bachelor’s degree from the Department of Electronic Engineering at Tsinghua University in 2009. My dissertation received the Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering at Arizona State University in 2016 (news article). I received the Kenneth C. Sevcik Outstanding Student Paper Award at ACM SIGMETRICS 2016, the Best Paper Award at ACM MobiHoc 2022, an NSF CAREER Award in 2022, and the ACM SIGMETRICS Rising Star Research Award in 2023.
+
+Recent news
+
+[Oct 2023] Honored to be elected to join the INFORMS Applied Probability Society (APS) council! Looking forward to organize the APS cluster at INFORMS 2024!
+
+[Sep 2023] Our paper “Restless Bandits with Average Reward: Breaking the Uniform Global Attractor Assumption” led by Yige Hong is accepted as a spotlight at NeurIPS 2023.
+
+[Jun 2023] Honored to receive the ACM SIGMETRICS Rising Star Research Award!
+
+[Oct 2022] Our paper “Tackling heterogeneous traffic in multi-access systems via erasure coded servers” led by Tuhinangshu Choudhury receives the Best Paper Award at ACM MobiHoc 2022.
+
+[Aug 2022] Excited to spend the fall participating in the Data-Driven Decision Processes program at the Simons Institute!
+
+[Jun 2022] Excited to be invited to give a talk “Sharp waiting-time bounds for multiserver jobs” at the Stochastic Networks Conference 2022!
+
+Publications Preprints
+
+[Stochastic systems] [Data privacy] [Graph statistics] [Systems]
+
+Stochastic systems
+
+Unichain and Aperiodicity are Sufficient for Asymptotic Optimality of Average-Reward Restless Bandits
+Yige Hong, Qiaomin Xie, Yudong Chen, Weina Wang
+Preprint, 2024. [arXiv]
+
+Restless Bandits with Average Reward: Breaking the Uniform Global Attractor Assumption
+Yige Hong, Qiaomin Xie, Yudong Chen, Weina Wang
+NeurIPS, 2023. [arXiv] [slides]
+Spotlight
+
+Sample Efficient Reinforcement Learning in Mixed Systems Through Augmented Samples and Its Applications to Queueing Networks
+Honghao Wei, Xin Liu, Weina Wang, Lei Ying
+NeurIPS, 2023. [arXiv]
+Spotlight
+
+Near-Optimal Stochastic Bin-Packing in Large Service Systems with Time-Varying Item Sizes
+Yige Hong, Qiaomin Xie, Weina Wang
+ACM SIGMETRICS, 2024. [arXiv] [slides] [Simons talk video]
+
+The M/M/k with deterministic setup times
+Jalani K. Williams, Mor Harchol-Balter, Weina Wang
+ACM SIGMETRICS, 2023. [DOI] [pdf]
+
+Sharp waiting-time bounds for multiserver jobs
+Yige Hong, Weina Wang
+ACM MobiHoc, 2022. [DOI] [arXiv] [slides] [SNAPP seminar video]
+
+Tackling heterogeneous traffic in multi-access systems via erasure coded servers
+Tuhinangshu Choudhury, Weina Wang, Gauri Joshi
+ACM MobiHoc, 2022. [DOI] [arXiv]
+Best Paper Award
+
+On low-complexity quickest intervention of mutated diffusion processes through local approximation
+Qining Zhang, Honghao Wei, Weina Wang, Lei Ying
+ACM MobiHoc, 2022. [DOI] [arXiv]
+
+Beyond response time: scheduling to speed up convergence in machine learning
+Weina Wang
+‘100 views on queues’, Volume 100 of Queueing Systems, 2022. [DOI]
+
+Probing to minimize
+Weina Wang, Anupam Gupta, Jalani K. Williams (random author order)
+ITCS, 2022. [DOI] [pdf]
+
+The case for phase-aware scheduling of parallelizable jobs
+Benjamin Berg, Justin Whitehouse, Benjamin Moseley, Weina Wang, Mor Harchol-Balter
+IFIP Performance, 2021. [DOI] [pdf]
+
+Job dispatching policies for queueing systems with unknown service rates
+Tuhinangshu Choudhury, Gauri Joshi, Weina Wang, Sanjay Shakkottai
+ACM MobiHoc, Jul. 2021. [DOI] [arXiv] [slides]
+
+Zero queueing for multi-server jobs
+Weina Wang, Qiaomin Xie, Mor Harchol-Balter
+ACM SIGMETRICS, Jun. 2021. [DOI] [arXiv]
+
+Achieving zero asymptotic queueing delay for parallel jobs
+Wentao Weng, Weina Wang
+ACM SIGMETRICS, Jun. 2021. [DOI] [arXiv] [talk video by Wentao]
+
+Optimal resource allocation for elastic and inelastic jobs
+Benjamin Berg, Mor Harchol-Balter, Benjamin Moseley, Weina Wang, Justin Whitehouse
+ACM SPAA, Jul. 2020. [DOI] [pdf]
+
+QuickStop: A Markov optimal stopping approach for quickest misinformation detection
+Honghao Wei, Xiaohan Kang, Weina Wang, Lei Ying
+ACM SIGMETRICS, Phoenix, AZ, Jun. 2019. [DOI] [pdf]
+
+Delay asymptotics and bounds for multi-task parallel jobs
+Weina Wang, Mor Harchol-Balter, Haotian Jiang, Alan Scheller-Wolf, R. Srikant
+Queueing Systems Jan. 2019. [DOI] [QUESTA pdf]
+International Symposium on Computer Performance, Modeling, Measurements and Evaluation (IFIP Performance), Toulouse, France, Dec. 2018. [DOI]
+
+Heavy-traffic insensitive bounds for weighted proportionally fair bandwidth sharing policies
+Weina Wang, Siva Theja Maguluri, R. Srikant, Lei Ying
+Mathematics of Operations Research, 2022. [DOI][arXiv]
+Heavy-traffic delay insensitivity in connection-level models of data transfer with proportionally fair bandwidth sharing
+Weina Wang, Siva Theja Maguluri, R. Srikant, Lei Ying
+International Symposium on Computer Performance, Modeling, Measurements and Evaluation (IFIP Performance), New York City, NY, Dec. 2017. [DOI]
+
+Resource allocation for data-parallel computing in networks with data locality
+Weina Wang, Lei Ying
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2016. [DOI] [Allerton pdf]
+
+Decentralized scheduling with data locality for data-parallel computation on Peer-to-Peer networks
+Weina Wang, Matthew Barnard, Lei Ying
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2015. [DOI] [Allerton pdf]
+
+Data locality in MapReduce: A network perspective
+Weina Wang, Lei Ying
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2014. [DOI]
+Performance Evaluation, Feb. 2016. [DOI] [PEVA pdf]
+[technical report]
+
+MapTask scheduling in MapReduce with data locality: throughput and heavy-traffic optimality
+Weina Wang, Kai Zhu, Lei Ying, Jian Tan, Li Zhang
+IEEE/ACM Transactions on Networking, Feb. 2016. [DOI] [ToN pdf]
+Map task scheduling in MapReduce with data locality: throughput and heavy-traffic optimality
+Weina Wang, Kai Zhu, Lei Ying, Jian Tan, Li Zhang
+IEEE International Conference on Computer Communications (INFOCOM), Turin, Italy, Apr. 2013. [DOI] [INFOCOM pdf]
+A throughput optimal algorithm for map task scheduling in MapReduce with data locality
+Weina Wang, Kai Zhu, Lei Ying, Jian Tan, Li Zhang
+ACM SIGMETRICS Performance Evaluation Review, Mar. 2013. [DOI]
+[poster]
+
+On the performance of largest-deficit-first for scheduling real-time traffic in wireless networks
+Xiaohan Kang, Weina Wang, Juan José Jaramillo, Lei Ying
+IEEE/ACM Transactions on Networking, Feb. 2016. [DOI] [ToN pdf] [supplementary]
+ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc), Bangalore, India, Jul. 2013. [DOI] [MobiHoc pdf]
+
+Data privacy
+
+Privacy-utility tradeoffs in routing cryptocurrency over payment channel networks
+Weizhao Tang, Weina Wang, Giulia Fanti, Sewoong Oh
+ACM SIGMETRICS, Jun. 2020. [DOI] [pdf]
+
+Data collection from privacy-aware users in the presence of social learning
+Abdullah Basar Akbay, Weina Wang, Junshan Zhang
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2019. [DOI]
+
+A winners-take-all incentive mechanism for crowd-powered systems
+Pengfei Jiang, Weina Wang, Yao Zhu, Jingrui He, Lei Ying
+Workshop on Economics of Networks, Systems and Computation (NetEcon), Jun. 2018. [DOI]
+
+Buying data from privacy-aware individuals: The effect of negative payments
+Weina Wang, Lei Ying, Junshan Zhang
+Conference on Web and Internet Economics (WINE), Montreal, Canada, Dec. 2016. [DOI] [WINE pdf]
+[technical report]
+
+The value of privacy: Strategic data subjects, incentive mechanisms and fundamental limits
+Weina Wang, Lei Ying, Junshan Zhang
+ACM Transactions on Economics and Computation, Aug. 2018. [DOI] [TEAC pdf]
+ACM SIGMETRICS, Antibes Juan-les-Pins, France, Jun. 2016. [DOI] [SIGMETRICS pdf]
+Kenneth C. Sevcik Outstanding Student Paper Award
+
+A game-theoretic approach to quality control for collecting privacy-preserving data
+Weina Wang, Lei Ying, Junshan Zhang
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2015. [DOI] [Allerton pdf]
+[technical report]
+
+A minimax distortion view of differentially private query release
+Weina Wang, Lei Ying, Junshan Zhang
+Asilomar Conference on Signals, Systems, and Computers (Asilomar), Pacific Grove, CA, Nov. 2015. [DOI] [Asilomar pdf] [technical report]
+
+On the relation between identifiability, differential privacy, and mutual-information privacy
+Weina Wang, Lei Ying, Junshan Zhang
+IEEE Transactions on Information Theory, Sep. 2016. [DOI] [TIT pdf]
+Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, Sep. 2014. [DOI]
+Poster presented at IEEE North American School of Information Theory, Toronto, Canada, Jun. 2014. [poster]
+
+Graph statistics
+
+Efficient Algorithms for Attributed Graph Alignment with Vanishing Edge Correlation
+Ziao Wang, Weina Wang, Lele Wang
+Preprint, 2023. [arXiv]
+
+On the Feasible Region of Efficient Algorithms for Attributed Graph Alignment
+Ziao Wang, Ning Zhang, Weina Wang, Lele Wang
+IEEE ISIT, Jul. 2022. [arXiv]
+
+Attributed graph alignment
+Ning Zhang, Weina Wang, Lele Wang
+IEEE ISIT, Jul. 2021. [arXiv]
+
+Systems
+
+SurgeProtector: Mitigating temporal algorithmic complexity attacks using adversarial scheduling
+Nirav Atre, Hugo Sadok, Erica Chiang, Weina Wang, Justine Sherry
+ACM SIGCOMM, Aug. 2022. [DOI] [pdf]
+
+Caching with delayed hits
+Nirav Atre, Justine Sherry, Weina Wang, Daniel Berger
+ACM SIGCOMM, Aug. 2020. [DOI] [pdf]
+
+People
+Faculty
+Weina Wang
+Assistant Professor
+PhD Students
+Jalani Williams
+PhD Student
+Tuhinangshu Choudhury
+PhD Student
+Yige Hong
+PhD Student
+Alumni
+Administration
+Matt McMonagle
+Administration
+Contact
+weinaw@cs.cmu.edu
+Gates 7001, Carnegie Mellon University, Pittsburgh, PA 15213
+
+Powered by the Academic theme for Hugo.
+

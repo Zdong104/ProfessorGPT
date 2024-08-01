@@ -1,0 +1,146 @@
+Professor: Minje Kim
+University: Indiana University
+URL: https://minjekim.com/
+Description: Primary Menu
+Skip to content
+Home
+News
+Biography
+Research Projects
+Personalized Speech Enhancement
+Collaborative Deep Learning
+Sparse Mixture of Local Experts
+Knowledge Distillation for PSE
+Self-Supervised Learning and Data Purification for PSE
+Music Applications
+Neural Pitch Correction of Singing Voice
+SpaIn-Net: Spatially Informed Music Source Separation
+Don’t Separate, Learn to Remix: End-to-End Neural Remixing
+Neural Upmixing via Style Transfer
+Learning to Hash for Source Separation
+Neural Audio Coding
+Psychoacoustic Loss Functions for Neural Audio Coding
+LaDiffCodec: Generative De-Quantization for Neural Speech Codec via Latent Diffusion
+Personalized Neural Speech Codec
+Source-Aware Neural Audio Coding
+HARP-Net
+Collaborative Audio Enhancement
+Scalable and Efficient AI
+BLOOM-Net: Scalability Matters
+Scalable and Efficient Speech Enhancement Using Modified Cold Diffusion
+Publication
+Blog
+Prospective Members
+QuickFacts
+Header Toggle
+••••••••••••••••••••
+ICASSP 2024 in Seoul
+Posted on By minje
+Minje Kim's Home
+
+Innovation and Education in AI and Audio Processing.
+
+CV
+Minje Kim’s Research
+
+We live in a world full of complex problems. For an AI system to solve them, it involves a complex model that can best approximate the problem. In this era of AI, we finally seem to afford those complex models thanks to the technological advances in computing power, the theoretical advances in machine learning algorithms, and the availability of big data. As a result, AI starts to compete with human intelligence in some problems.
+
+However, we believe that AI is still missing many powerful features that natural intelligence surely possesses. For example, does your brain need ten times more sugar intake when it solves a problem ten times more difficult? How much energy does a mosquito need to sense the target and fly to the destination accordingly? Can you imagine a mosquito-sized drone that can do the same job (with a tiny battery)? We know that the intelligent systems found in nature are not only effective but efficient. One of the main research agendas in SAIGE is building machine learning models that run more efficiently during the test time and in hardware. This kind of system ranges from a deep neural network and probabilistic topic models defined in a bitwise fashion to using psychoacoustics to make a simple model more powerful.
+
+Another important intelligent behavior is a collaboration among individuals. We seek collaboration between devices and sensors like we do in team projects. For example, we have been interested in consolidating many different audio signals recorded by various devices to come up with a commonly dominant source of the audio scene. Since the recordings can contain both the dominant source of interest and its own artifact (e.g. additive noise, reverberation, band-pass filtering, etc), a naïve average of the recordings is not a good solution to this problem. We call this kind of problem collaborative audio enhancement. Another collaboration in nature can happen between different sensors like we recognize someone else’s emotion by looking at her facial expression and listening to her voice. Therefore, building a machine learning model that fuses all the different decisions made from multiple modalities is of our interest, too.
+
+Finally, we believe that one of the keys to success in machine learning applications is to improve each user’s personal experience using personalized models. A personalized model can be a more resource-efficient solution than a general-purpose model, too, because it focuses on a particular sub-problem, for which a smaller model architecture can be good enough. However, training a personalized model requires data from the particular test-time user, which are not always available due to their private nature. Furthermore, such data tend to be unlabeled as it can be collected only during the test time, once after the system is deployed to the user devices. One could rely on the generalization power of a generic model, but such a model can be too computationally/spatially complex for real-time processing in a resource-constrained device. Our machine learning models will require no or few data samples from the test-time users, while they can still achieve the personalization goal. Likewise, our personalized models are designed to minimize the use of personal data to improve the privacy preservation in machine learning as well as the performance imbalance between different social groups.
+
+News
+Papers Accepted for Publication at Interspeech 2024
+June 10, 2024
+Two papers were accepted for publication at Interspeech 2024.Read More »
+Aswin Sivaraman
+May 7, 2024
+Aswin Sivaraman defended his dissertation on “Resource-Efficient Model Adaptation Methods for Personalized Speech Enhancement Systems.” He is joining Apple after graduation. Congratulations!Read More »
+ICASSP 2024
+April 20, 2024
+Attended ICASSP 2024. Organized the HSCMA workshop, presented five papers, chaired a session on audio coding, and attended many meetings.Read More »
+Yamaha
+April 11, 2024
+Visited Yamaha Headquarters in Hamamatsu. Gave a talk on “Improving Scalability, Efficiency, Personalization, and Interactivity in Audio Processing.”Read More »
+Academia Sinica
+April 9, 2024
+Gave an invited talk at Academia Sinica on “Revamping latent variable analysis for speech and audio processing.”Read More »
+Senior Area Editorship for IEEE SPL
+March 28, 2024
+Minje began serving on the editorial board of the IEEE Signal Processing Letters as a Senior Area Editor.Read More »
+Darius Proposed Dissertation
+March 25, 2024
+Darius Petermann successfully proposed his dissertation on multi-band neural audio coding.Read More »
+Interspeech 2024 Tutorial
+March 16, 2024
+My tutorial proposal was accepted at Interspeech 2024. It will be on neural speech coding and co-organized by Jan Skoglund at Google.Read More »
+Earlier News
+Selected Projects
+Personalized Speech Enhancement
+
+(Download Interspeech 2022 Tutorial Slides) The outstanding development in modern AI has relied greatly on the improved modeling capacity. The deep learning models, for example, are effective in scaling up its approximation ability to a very complex mapping function. Hence, Read More ...
+
+Knowledge Distillation for PSE
+
+(For a more general introduction to the personalized speech enhancement (PSE) project, please visit the overview page.) Imagine a small speech enhancement model deployed to a resource-constrained device. Its limited generalization power caps its enhancement performance, even though it was Read More ...
+
+Personalized Neural Speech Codec
+
+Have you ever wondered about a speech codec that’s dedicated to your speech trait? Why? Of course, it is to reduce the bitrate while maintaining the speech quality after decoding—the codec knows a lot about your voice, while it doesn’t Read More ...
+
+Neural Pitch Correction of Singing Voice
+
+Have you ever wished if you were a good singer? Some people believe that it’s a natural ability that one can never acquire by practice (like my wife who’s a natural-born good singer and looks down on me in that Read More ...
+
+Don’t Separate, Learn to Remix: End-to-End Neural Remixing
+
+TLDR: In this project, we developed an end-to-end neural network system that takes a music mixture as input and produces its remixed version per the user's intended volume changes of the component instruments. To the best of our knowledge, we Read More ...
+
+SpaIn-Net: Spatially Informed Music Source Separation
+
+The spatial image of a music source is an essential feature in the stereophonic music listening experience. An extreme case would be “Yellow Submarine” by The Beatles, where all the vocals are completely on the right channel for some reason. Read More ...
+
+Neural Audio Coding
+
+Speech/audio coding has traditionally involved substantial domain-specific knowledge such as speech generation models. If you haven’t heard of this concept, don’t worry, because you might be using this technology in your everyday life, e.g., when you are on the phone, Read More ...
+
+Self-Supervised Learning and Data Purification for PSE
+
+For the general introduction to personalized speech enhancement (PSE), please read this article: Personalized Speech Enhancement. Introduction The fundamental difference between the specialist concept used in PSE and the general-purpose speech enhancement (SE) system is that the former wants to Read More ...
+
+LaDiffCodec: Generative De-Quantization for Neural Speech Codec via Latent Diffusion
+
+Motivation We bring the cool generative power of a diffusion model to speech coding. We call our codec LaDiffCodec as it is actively using the concept of latent diffusion in order to incorporate a generative model to the neural speech Read More ...
+
+BLOOM-Net: Scalability Matters
+
+Scalability is a big deal when it comes to video coding. When you watch a movie via a streaming service on Friday night, the video quality fluctuates—it’s the video codec’s effort in providing the maximum video quality even though your Read More ...
+
+Scalable and Efficient Speech Enhancement Using Modified Cold Diffusion
+
+As we’ve proposed in the BLOOM-Net project, scalability matters. Just to reiterate the argument here once again, the main issue with the current deep learning-based models for speech enhancement is that they tend to be trained for just one particular Read More ...
+
+Learning to Hash for Source Separation
+
+We have cared much about the efficiency of the machine learning inference process. As a part of this effort, we recently came up with a hash code-based source separation system, where we used a specially designed hash function to increase Read More ...
+
+Follow Me
+LinkedIn
+X
+Search
+Search
+Search
+Visitor Statistics
+Copyright © 2024 Minje Kim's Home. All Rights Reserved.
+Full Frame by Catch Themes
+Home
+News
+Biography
+Research Projects
+Publication
+Blog
+Prospective Members
+QuickFacts
+

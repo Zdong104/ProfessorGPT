@@ -1,0 +1,145 @@
+Professor: Dong Li 0001
+University: Univ. of California - Merced
+URL: https://faculty.ucmerced.edu/dong-li
+Description: Dong Li
+
+ 
+
+Associate Professor
+
+Computer Science and Engineering
+
+University of California, Merced
+
+HOME
+PASA LAB
+
+                                                                                                             
+
+Dr. Dong Li is an associate professor at University of California, Merced. He is the director of Parallel Architecture, System, and Algorithm Lab (PASA) and a co-director of High Performance Computing Systems and Architecture Group at UC Merced. Previously (2011-2014), he was a research scientist at the Oak Ridge National Laboratory (ORNL). Before that, he earned a PhD in computer science from Virginia Tech. He is an associate editor for IEEE Transactions on Parallel and Distributed Systems (TPDS). He was the Director of NVIDIA GPU Research Center at Merced. He is the Director of the planning NSF IUCRC Center for Memory System Research (CEMSYS). Dong's research focuses on high performance computing (HPC), and maintains a strong relevance to computer systems (especially systems for large-scale AI/ML).
+
+UC Merced is ranked #6 in high performance computing (HPC) and #59 in computer science in general by CSRankings.
+
+Recent Research Impacts
+
+Our work on training large machine learning models using heterogeneous memory is integrated into Microsoft DeepSpeed. This is a collaborative work with Microsoft. This work has been widely reported by medias (Link1, Link2, Link3, and Link4 etc), and has been widely used in industry (e.g., NVIDIA, HP and Microsoft).
+Our work on debugging persistent memory programs won the distinguished artifact award at ASPLOS'21, and has been integrated into Intel PMDK (Intel PMDK is the de facto development kit to program persistent memory).
+Our work on accelerating power grid simulation using machine learning has been highlighted by the U.S. Department of Energy.
+Our work on MPI fault tolerance benchmark suite and understanding natural error resilience in HPC applications are reported by HPCwire (Link1 and Link2). HPCwire is the #1 news and information resource covering HPC.
+
+Awards
+
+Virginia Tech CS Early Career Alumni Award, 2023
+Oracle Research Award, 2022
+ASPLOS Distinguished Artifact Award, 2021
+Facebook Faculty Research Award, 2021
+Berkeley Lab University Faculty Fellowship, 2016
+NSF CAREER Award, 2016
+NVIDIA GPU Research Center, 20216
+SC best poster nomination (2.9% of all poster submissions), 2016
+SC best student paper nomination, 2014
+Oak Ridge National Lab (CSMD) Distinguished Contributor Award, 2013
+
+Current Research Topics
+
+System support for big, heterogeneous memory platforms (memory tiering)
+Memory-centric system optimization for machine learning training and inference
+Scientific machine learning
+
+Selected Recent Publications (a complete list of the publication can be found from here)
+
+[SC'24] Dong Xu, Yuan Feng, Kwangsik Shin, Daewoo Kim, Hyeran Jeon, and Dong Li. "Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link". In 36th ACM/IEEE International Conference for High Performance Computing, Performance Measurement, Modeling and Tools, 2024 (acceptance rate: 22.7%).
+[ATC'24] Dong Xu, Junhee Ryu, Jinho Baek, Kwangsik Shin, Pengfei Su, and Dong Li. "FlexMem: Adaptive Page Profiling and Migration for Tiered Memory". In USENIX ATC, 2024 (acceptance rate: 15.7%).
+[EuroSys'24] Jie Ren, Dong Xu, Junhee Ryu, Kwangsik Shin, Daewoo Kim, and Dong Li. "Rethinking Memory Profiling and Migration for Multi-Tiered Large Memory Systems". In European Conference on Computer Systems, 2024 (acceptance rate: 15.9%).
+[HPCA'24] Jie Ren, Dong Xu, Shuangyan Yang, Jiacheng Zhao, Zhicheng Li, Christian Navasca, Chenxi Wang, Harry Xu, and Dong Li. "Enabling Large Dynamic Neural Network Training with Learning-based Memory Managemen". In 30th International Symposium on High-Performance Computer Architecture, 2024. (acceptance rate: 18%)
+[HPDC'23] Wenqian Dong, Gokcen Kestor, and Dong Li. "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate for High-Performance Computing Applications". In 32nd International Symposium on High-Performance Parallel and Distributed Computing, 2023.
+[PPoPP'23] Zhen Xie, Jie Liu, and Jiajia Li and Dong Li. "Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness". In 28th Principles and Practice of Parallel Programming, 2023
+[ASPLOS'23] Shuangyan Yang, Minjia Zhang, Wenqian Dong, and Dong Li. "Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning". In 28th Architectural Support for Programming Languages and Operating Systems, 2023
+[ATC'22] Xin He, Jianhua Sun, Hao Chen, and Dong Li. "Campo: A Cost-Aware and High-Performance Mixed Precision Optimizer for Neural Network Training". In USENIX Annual Technical Conference, 2022
+[VLDB'21] Jie Liu, Wenqian Dong, Qingqing Zhou, and Dong Li. "Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation". In 47th International Conference on Very Large Data Bases, 2021
+[ATC'21] Jie Ren, Samyam Rajbhandari, Reza Yazdani Aminabadi, Olatunji Ruwase, Shuangyan Yang, Minjia Zhang, Dong Li and Yuxiong He. "ZeRO-Offload: Democratizing Billion-Scale Model Training". In USENIX Annual Technical Conference, 2021
+[EuroSys'21] Zhen Xie, Wenqian Dong, Jiawen Liu, Hang Liu and Dong Li. "Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU". In European Conference on Computer Systems, 2021
+[FAST'21] Kai Wu, Jie Ren, Ivy Peng and Dong Li. "ArchTM: Architecture-Aware, High Performance Transaction for Persistent Memory". In the 19th USENIX Conference on File and Storage Technologies, 2021
+[ASPLOS'21] Bang Di, Jiawen Liu, Hao Chen and Dong Li. "Fast, Flexible and Comprehensive Bug Detection for Persistent Memory Programs". In 26th Architectural Support for Programming Languages and Operating Systems 2021 (Distinguished Artifact Award)
+[PPoPP'21] Jiawen Liu, Jie Ren, Roberto Gioiosa, Dong Li and Jiajia Li. "Sparta: High-Performance, Element-Wise SparseTensor Contraction on Heterogeneous Memory". In 26th Principles and Practice of Parallel Programming 2021
+[HPCA'21] Jie Ren, Jiaolin Luo, Kai Wu, Minjia Zhang, Hyeran Jeon and Dong Li. "Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning". In 27th IEEE International Symposium on High-Performance Computer Architecture, 2021
+[ICS'21] Zhen Xie, Wenqian Dong, Jie Liu, Ivy Peng, Yanbao Ma and Dong Li. "MD-HM: Memoization-based Molecular Dynamics Simulations on Big Memory System". In 35th International Conference on Supercomputing, 2021
+[ICS'21] Xin He, Jiawen Liu, Zhen Xie, Hao Chen, Guoyang Chen, Weifeng Zhang and Dong Li. "Enabling Energy-Efficient DNN Training on Hybrid GPU-FPGA Accelerators". In 35th International Conference on Supercomputing, 2021
+[ICS'21] Jie Ren, Jiaolin Luo, Ivy Peng, Kai Wu and Dong Li. "Optimizing Large-Scale Plasma Simulations on Persistent Memory-based Heterogeneous Memory with Effective Data Placement Across Memory Hierarchy". In 35th International Conference on Supercomputing, 2021
+[ICS'21] Jiawen Liu, Dong Li, Roberto Gioiosa and Jiajia Li. "Athena: High-Performance Sparse Tensor Contraction Sequence on Heterogeneous Memory". In 35th International Conference on Supercomputing, 2021
+
+Recent News
+
+[6/2024] Our paper on CXL memory ("Efficient Tensor Offloading for Large Deep-Learning Model Training based on Compute Express Link") is accepted by SC'24.
+[6/2024] Many thanks to AMD for their hardware donation!
+[4/2024] Our paper on tiered memory ("FlexMem: Adaptive Page Profiling and Migration for Tiered Memory") is accepted by USENIX ATC'24.
+[4/2024] Multiple undergraduate/master students (from UC Merced, UMN, UIUC, and Wisconsin) will join the lab for summer internship. :)
+[4/2024] Dong was invited to give a talk at the Empowering Software through Machine Learning (ESwML) workshop associated with EuroSys'24.
+[3/2024] Dong was invited to join two panels in ExHET'24 and GPGPU'24 workshops associated with PPoPP'24.
+[1/2024] Our paper on tiered memory ("Rethinking Memory Profiling and Migration for Multi-Tiered Large Memory Systems") is accepted by EuroSys'24.
+[1/2024] Welcome new PhD student, Shangye Chen!
+[10/2023] Our paper on dynamic neural network ("Enabling Large Dynamic Neural Network Training with Learning-based Memory Managemen") is accepted by HPCA'24.
+[8/2023] The undergraduate student Elgin Li joined PASA to enrich his experiences in research. Welcome Elgin!
+[6/2023] Our project on tensor network is funded by the NFS PPoSS program. Thanks to our collaborators at NCSU and Oregon State!
+[6/2023] NSF funds us to establish an IUCRC center, the Center for Memory System Research (CEMSYS)! Looking forward to the future collaboration between UC Merced, UC Davis and industry partners.
+[5/2023] We summarized the discussions at the 1st Workshop for Heterogeneous and Composable Memory and published the summary as a SigArch blog.
+[3/2023] A paper "Auto-HPCnet: An Automatic Framework to Build Neural Network-based Surrogate for High-Performance Computing Applications " is accepted to HPDC'23.
+[2/2023] Co-chaired Workshop for Heterogeneous and Composable Memory
+[2/2023] Invited as a panelist in the panel on "Challenges and Solutions for the upcoming Extreme Heterogeneity Era" in International Workshop on Extreme Heterogeneity Solutions associated with PPoPP'23.
+
+Selected Services
+
+PC member and chairmanship: HPDC'24, SC'24, ICS'24, ASPLOS'24 (artifact evaluation co-chair), ICS'23, ICML'23, ICDCS'23-24, CLOUD'23, ICS'22 (PC and online activity chair), SC'22, HPDC'22 (poster and travel grant chair), ICS'21, SC'21, ICML'21, HPDC'21 (poster co-chair), IPDPS'21, IPDPS'20 (primary PC), NeurIPS'20, HPDC'18-20 (travel chair), ICPP'19-20, SC'18, ASPLOS'18 (shadow PC), Cluster'18 (poster chair), IPDPS'17, NAS (2016-2017), SC'15, CCGrid (2012-2018 and 2023), Cluster (2015-2020), ISC (2013-2016), etc.
+PC (co-) chair: CCGrid (MLSys track, 2024), Cluster (data/storage track, 2023), HCA (2023), PASA (2012, 2013, and 2016), HP-PAC (2013 and 2014)
+Editorial position: TPDS review board member; Co-editor, special Issue of the Journal of High Performance Computing Applications for the fourth International Workshop on Accelerators and Hybrid Exascale Systems
+Steering committee: PASA (2014 and 2015)
+Technical reviewers for major journals: IEEE Transaction on Parallel and Distributed Systems (TPDC), IEEE Transaction on Reliability (TR), IEEE Transaction on Computers (TC), Journal of Parallel and Distributed Computing (JPDC), Journal of Supercomputing, International Journal of High Performance Computing, etc.
+External reviewers: PPoPP'14, SC'13, Euro-par'12, HPDC'11, etc.
+
+Current Students
+
+Shuangyan Yang (PhD student, since 2021 Spring)
+Dong Xu (PhD student, since 2021 Fall)
+Bin Ma (PhD student, since 2023 Spring)
+Jianbo Wu (PhD student, since 2023 Spring)
+Xi (Sherry) Wang (PhD student, since 2023 Fall)
+Shangye Chen (PhD student, since 2024 Spring)
+
+Alumni
+
+
+Jie Liu (PhD student, graduated in May 2024.)
+Jie Ren (PhD student, graduated in May 2022. First employment: assistant professor at William and Mary)
+Wenqian Dong (PhD student, graduated in May 2022. First employment: assistant professor at Florida International University)
+Jiawen Liu (PhD student, graduated in May 2022. First employment: Meta Research)
+Zhen Xie (Postdoc, finished in May 2021. First employment: Argonne National Lab)
+Kai Wu (PhD student, graduated in May 2021. Current employment: Microsoft)
+Luanzheng Guo (PhD student, graduated in Oct 2020. First employment: Pacific Northwest National Lab)
+Neelam Sinha (Master student, graduated in 2020. First employment: National Cancer Institute)
+Hanlin He (Master student, graduated in 2018. First employment: Byton)
+Wei Liu (Master student, graduated in 2017. First employment: ctrip)
+Himanshu Pillai (Master student, graduated in 2016. First employment: Barcelona Supercomputer Center)
+Armando Montanez. (Undergraduate student, graduated in 2018, as the UC Merced outstanding student. Join Google)
+Jing Liang (Undergraduate student, graduated in 2017. First employment: )
+Nigel Tan (Undergraduate student, graduated in 2017. Join Rice as a PhD student)
+Hanlin He (Undergraduate student, graduated in 2016, as the UC Merced outstanding student. Join PASA as a PhD student)
+Zachary Canann (Undergraduate student, graduated in 2016, as the UC Merced outstanding student. First employment: PayPal)
+Kevin Song (Undergraduate student, graduated in 2015, as the UC Merced outstanding student. Join UT Austin as a PhD student)
+
+Research Sponsors: Our research is generously supported by:
+
+National Science Foundation
+Lawrence Livermore National Lab
+Argonne National Lab
+Lawrence Berkeley National Lab
+SK Hynix
+NVIDIA
+Meta
+Western Digital
+Oracle
+Intel (Equipment donation)
+Xilinx (Equipment donation)
+AMD (Equipment donation)
+University of California, Merced
+UC MERCED HOME
+

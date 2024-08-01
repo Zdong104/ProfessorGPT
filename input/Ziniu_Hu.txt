@@ -1,0 +1,178 @@
+Professor: Ziniu Hu
+University: Rensselaer Polytechnic Institute
+URL: https://acbull.github.io/
+Description: ZINIU HU'S WEBSITE
+About
+Publications
+Service
+Ziniu Hu
+
+             
+
+About
+
+I am building General-Purpose LLM with strong Reasoning & Planning capabilities at xAI.
+
+I finished Postdoc at Caltech CMS hosted by Prof. Yisong Yue, during which I was also a visiting researcher at Google DeepMind.
+
+I received CS PhD degree at UCLA, where I had the fortune to be advised by Prof. Yizhou Sun and Prof. Kai-Wei Chang. I received my CS bachelor degree at Peking University, advised by Prof. Xuanzhe Liu. My research is generously supported by Baidu Scholarship and Amazon PhD Fellowship. I have done internships at Google Brain and Microsoft Research.
+
+Education
+
+Ph.D. of Computer Science
+Sept. 2018 -- May 2023
+
+University of Calofornia, Los Angeles
+
+B.Sc. of Computer Science
+Sept. 2014 -- Jun. 2018
+
+Peking University
+
+Academic Awards
+Best Paper Award, NeurIPS 2023 Workshop (DL + Differential Equation)
+Best Paper Award, SoCal NLP Symposium 2022
+Best Student Paper Award, KDD 2020 Workshop (DL on Graphs)
+Best Full Paper Award, WWW 2019
+Services
+Research Track Workflow Co-Chair: SIGKDD 2023
+NeurIPS 2022 Top Reviewer Award
+Workshop Co-Organizer of Tool-VLM @ CVPR'24 and SSL @ WWW'21
+Fellowships
+Computing, Data, and Society Fellow at Caltech, 2023
+Baidu Scholarship (10 PhD students worldwide), 2021
+Amazon PhD Fellowship, 2021-2022
+SenseTime Scholarship, 2018
+May 4th Scholarship of Peking University, 2016
+Selected Publications
+SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code
+Ziniu Hu, Ahmet Iscen, Aashi Jain, Thomas Kipf, Yisong Yue, David A. Ross, Cordelia Schmid, Alireza Fathi PDF
+International Conference on Machine Learning (ICML 2024, Oral Presentation)
+We introduces SceneCraft, an LLM Agent converting text descriptions into Blender-executable Python scripts which render complex scenes with up to a hundred 3D assets. SceneCraft can keep self-improving via Library Learning.
+Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion
+Yujia Huang, Adishree Ghatare, Yuanzhe Liu, Ziniu Hu, Qinsheng Zhang, Chandramouli S Sastry, Siddharth Gururani, Sageev Oore, Yisong Yue PDF CODE DEMO
+International Conference on Machine Learning (ICML 2024, Oral Presentation)
+We study the problem of symbolic music generation, with a technical focus on non-differentiable rule guidance by Musical Rules (e.g., note density or chord progression). We propose Stochastic Control Guidance (SCG), a novel guidance method that only requires forward evaluation of rule functions that can work with pre-trained diffusion models in a plug-and-play way, thus achieving training-free guidance for non-differentiable rules for the first time.
+SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models
+Xiaoxuan Wang*, Ziniu Hu*, Pan Lu*, Yanqiao Zhu*, Jieyu Zhang, Satyen Subramaniam, Arjun R Loomba, Shichang Zhang, Yizhou Sun, Wei Wang PDF CODE & Dataset
+International Conference on Machine Learning (ICML 2024)
+Covered by Nature News Feature (15 November 2023)
+We propose SciBench to systematically examine LLM's reasoning for complex scientific problem solving. SCIBENCH contains two carefully curated datasets: an open set featuring a range of collegiate-level scientific problems drawn from mathematics, chemistry, and physics textbooks, and a closed set comprising problems from undergraduate-level exams in computer science and mathematics.
+SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning
+Dan Zhang, Ziniu Hu, Sining Zhoubian, Zhengxiao Du, Kaiyu Yang, Zihan Wang, Yisong Yue, Yuxiao Dong, Jie Tang PDF CODE
+We use LLM to self-curated SciInstruct, a diverse and high-quality dataset of college-level mathematics, physics, chemistry, and formal proofs. Using SciInstruct to finetune the ChatGLM family of LLMs, we introduce SciGLM, a suite of scientific language models for college-level mathematical/scientific reasoning.
+Self-Control of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller
+Min Cai, Yuchen Zhang, Shichang Zhang, Fan Yin, Difan Zou, Yisong Yue, Ziniu Hu PDF CODE DEMO
+We propose Self-Control, a novel method utilizing suffix gradients to control the behavior of large language models (LLMs) without explicit human annotations, across multiple domains, including emotional modulation, ensuring harmlessness, and enhancing complex reasoning.
+Enhancing Large Vision Language Models with Self-Training on Image Comprehension
+Yihe Deng, Pan Lu, Fan Yin, Ziniu Hu, Sheng Shen, James Zou, Kai-Wei Chang, Wei Wang PDF CODE WEBSITE
+We introduce Self-Training on Image Comprehension (STIC), which self-constructs a preference dataset for image descriptions using unlabeled images. Preferred responses are generated through a step-by-step prompt, while dis-preferred responses are generated from either corrupted images or misleading prompts.
+AVIS: Autonomous Visual Information Seeking with Large Language Model Agent
+Ziniu Hu, Ahmet Iscen, Chen Sun, Kai-Wei Chang, Yizhou Sun, David A. Ross, Cordelia Schmid, Alireza Fathi PDF Google AI Blog-Post
+Conference on Neural Information Processing Systems (NeurIPS 2023)
+we propose an autonomous information seeking visual question answering framework, AVIS. Our method leverages a Large Language Model (LLM) to dynamically strategize the utilization of external tools and to investigate their outputs, thereby acquiring the indispensable knowledge needed to provide answers to the posed questions.
+Learning to Group Auxiliary Datasets for Molecule
+Tinglin Huang, Ziniu Hu, Rex Ying PDF CODE
+Conference on Neural Information Processing Systems (NeurIPS 2023)
+We propose MolGroup to address the limited data problem in molecule property prediction by leveraging auxiliary datasets to improve performance on target datasets, via a routing mechanism w/ bi-level optimization.
+Towards a Comprehensive Benchmark for FPGA Targeted High-Level Synthesis
+Yunsheng Bai, Atefeh Sohrabizadeh, Zongyue Qin, Ziniu Hu, Yizhou Sun, Jason Cong PDF CODE & Dataset
+Conference on Neural Information Processing Systems (NeurIPS 2023)
+High-level synthesis (HLS) aims to raise the abstraction layer in hardware design, enabling the design of domain-specific accelerators (DSAs) like FPGAs using C/C++ instead of hardware description languages. To enable machine learning models to predict design quality, we present HLSYN, a comprehensive dataset for training and evaluating design quality prediction models for hardware design.
+TANGO: Time-Reversal Latent GraphODE for Multi-Agent Dynamical Systems
+Zijie Huang*, Wanjia Zhao*, Jingdong Gao, Ziniu Hu, Xiao Luo, Yadi Cao, Yuanzhou Chen, Yizhou Sun, Wei Wang PDF CODE
+Best Paper Award at NeurIPS 2023, Deep Learning and Differential Equations (DLDE) workshop
+We propose a physical-law-guided regularization term corresponding to a soft constraint of time-reversal symmetry. The term is applied to GraphODE models for multi-agent dynamical systems and demonstrated as superior to several baselines on a variety of benchmarks, including the challenging pendulum problem.
+AvalonBench: Evaluating LLMs Playing the Game of Avalon
+Jonathan Light*, Min Cai*, Sheng Shen, Ziniu Hu PDF Game CODE DEMO
+NeurIPS 2023, Foundation Models for Decision Making (FMDM) workshop
+we introduce AvalonBench - a comprehensive game environment tailored for evaluating multi-agent LLM Agents. This benchmark incorporates: (1) a game environment for Avalon, (2) rule-based bots as baseline opponents, and (3) ReAct-style LLM agents with tailored prompts for each role.
+REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory
+Ziniu Hu, Ahmet Iscen, Chen Sun, Zirui Wang, Kai-Wei Chang, Yizhou Sun, Cordelia Schmid, David A. Ross and Alireza Fathi PDF Google AI Blog-Post PROJECT CODE (JAX/Scenic)
+Conference on Computer Vision and Pattern Recognition (CVPR 2023), selected as Highlight.
+We propose an end-to-end Retrieval-Augmented Visual Language Model (REVEAL) that learns to encode world knowledge into a large-scale memory, and to retrieve from it to answer knowledge-intensive queries. The key novelty is that the memory, retriever and generator are all pre-trained end-to-end to use a diverse set of multimodal knowledge sources, bringing significant gains.
+Empowering Language Models with Knowledge Graph Reasoning for Open-Domain Question Answering
+Ziniu Hu, Yichong Xu, Wenhao Yu, Shuohang Wang, Ziyi Yang, Chenguang Zhu, Kai-Wei Chang and Yizhou Sun PDF
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)
+Best Paper Award at SoCal NLP Symposium 2022
+We propose a novel symbolic Knowledge Graph (KG) reasoning layer that could be flexibly plugged into most existing Language Models (LMs) and allow LMs to interact with KG, unifying the retrieval and reasoning in a end-to-end framework. OREO-LM improves RoBERTa and T5 on various QA tasks, and the generated reasoning paths could help interpret the model's decision.
+Improving Multi-Task Generalization via Regularizing Spurious Correlation
+Ziniu Hu, Zhe Zhao, Xinyang Yi, Tiansheng Yao, Lichan Hong, Yizhou Sun, Ed H. Chi PDF
+Conference on Neural Information Processing Systems (NeurIPS 2022, Spotlight Presentation)
+We point out the unique challenges of spurious correlation problem in multi-task setting that influence generalization. We propose Multi-Task Causal Representation Learning (MT-CRL) framework to learn 1) disentangled neural modules; 2) Task-to-Module Causal Graph; 3) Regularize spurious correlation over learned causal graph.
+Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks
+Minji Yoon, John Palowitch, Dustin Zelle, Ziniu Hu, Russ Salakhutdinov, Bryan Perozzi PDF CODE
+Conference on Neural Information Processing Systems (NeurIPS 2022)
+We propose a zero-shot transfer learning module for heterogeneous graph neural networks that transfers knowledge from label-abundant node types to zero-labeled node types through rich relational information given in a single heterogeneous graph.
+Fuzzy Logic based Logical Query Answering on Knowledge Graph
+Xuelu Chen, Ziniu Hu, Yizhou Sun PDF CODE
+AAAI Conference on Artificial Intelligence (AAAI 2022, Oral Presentation)
+We propose FuzzQE, a fuzzy logic based logical query embedding framework for answering FOL queries over KGs. FuzzQE define logical operators in a principled and learningfree manner, which could be trained with only KG without any complex queries.
+Relation-Guided Pre-Training for Open-Domain Question Answering
+Ziniu Hu, Kai-Wei Chang, Yizhou Sun PDF
+Conference on Empirical Methods in Natural Language Processing (EMNLP-Finding 2021)
+We propose RGPT-QA to synthesize QA pairs from relation triplets in WikiData and WikiPedia for pre-training Open-Domain QA Model and improves the QA performance, especially for questions with long-tail relations.
+Broaden the Vision: Geo-Diverse Visual Commonsense Reasoning
+Da Yin, Liunian Li, Ziniu Hu, Nanyun Peng, Kai-Wei Chang PDF CODE Dataset
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2021, Oral Presentation)
+we construct a Geo-Diverse Visual Commonsense Reasoning dataset (GD-VCR) to test Vision-Language models' ability to understand cultural and geo-location-specific commonsense. We find that the performance of SOTA VL models for non-Western regions (e.g., East Asia, South Asia, and Africa) is significantly lower than that for Western region.
+GPT-GNN: Generative Pre-Training of Graph Neural Networks
+Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun PDF CODE SLIDES
+Conference on Knowledge Discovery and Data Mining (KDD 2020, Oral, Top-10 Cited Paper in KDD'20)
+We introduce a self-supervised graph generation task to pre-train GNN. We factorize the likelihood of graph generation into two components: 1) attribute generation, and 2) edge generation, without lossing mutual dependency.
+Heterogeneous Graph Transformer
+Ziniu Hu, Yuxiao Dong, Kuansan Wang, Yizhou Sun PDF CODE (My PyG Impl.) CODE (DGL) CODE (PyG Re-Impl.) SLIDES
+The Web Conference (WWW 2020, Most Cited Paper in WWW'20)
+We present the Heterogeneous Graph Transformer (HGT) architecture for modeling Web-scale heterogeneous (nodes and edges have multiple types) and dynamic graphs. HGT could automatically learns important meta-paths for different downstream tasks.
+Improving Neural Language Generation with Spectrum Control
+Lingxiao Wang, Jing Huang, Kevin Huang, Ziniu Hu, Guangtao Wang, Quanquan Gu PDF SLIDES
+The International Conference on Learning Representations (ICLR 2020)
+We propose a novel spectrum control approach to address this degeneration problem. The core idea of our method is to directly guide the spectra training of the output embedding matrix with a slow-decaying singular value prior distribution through a reparameterization framework.
+Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks
+Difan Zou*, Ziniu Hu*, Yewen Wang, Song Jiang, Yizhou Sun, Quanquan Gu PDF CODE
+Conference on Neural Information Processing Systems (NeurIPS 2019)
+We propose LAyer-Dependent ImportancE Sampling (LADIES). Based on the sampled nodes in the upper layer, LADIES selects their neighborhood nodes, compute the importance probability accordingly and samples a fixed number of nodes within them.
+Few-Shot Representation Learning for Out-Of-Vocabulary Words
+Ziniu Hu , Ting Chen, Kai-Wei Chang, Yizhou Sun PDF CODE
+Conference of the Association for Computational Linguistics (ACL 2019)
+We formulate the learning of OOV embedding as a few-shot regression problem by predicting an oracle embedding vector (defined as embedding trained with abundant observations) based on only K contexts. Specifically, we use Model-Agnostic Meta-Learning (MAML) for adapting a hierachical Transformer to the new corpus fast and robustly.
+Unbiased LambdaMART: An Unbiased Pairwise Learning-to-Rank Algorithm
+Ziniu Hu , Yang Wang, Qu Peng, Hang Li PDF CODE
+The Web Conference (WWW 2019)
+We propose a novel framework for pairwise learning-to-rank. Our algorithm, Unbiased LambdaMART can jointly estimate the biases at click positions and the biases at unclick positions, and learn an unbiased ranker.
+Emoji-Powered Representation Learning for Cross-Lingual Sentiment Classification
+Zhenpeng Chen*, Sheng Shen*, Ziniu Hu , Xuan Lu, Qiaozhu Mei, Xuanzhe Liu PDF CODE
+The Web Conference (WWW 2019, Best Full Paper Award)
+We employ emoji prediction task as the instrument to learn both the cross-language and language-specific sentiment patterns in different languages.
+Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction
+Ziniu Hu , Weiqing Liu, Jiang Bian, Xuanzhe Liu, Tie-Yan Liu PDF
+Conference on Web Search and Data Mining (WSDM 2018).
+We designed a Hybrid Attention Networkss(HAN) to predict the stock trend based on the sequence of recent related news, with self-paced learning mechanism to guide efficient learning.
+Teaching Experience
+Lecturer for UCLA CS 145: Introduction to Data Mining, 2024 Spring.
+Teaching Assistant for UCLA CS 249: Graph Neural Networks, 2021 Winter.
+Teaching Assistant for UCLA CS 146: Introduction to Machine Learning, 2019 Fall.
+Academic Services
+Area Chair of WWW 2024 (Graph Algorithms Track)
+Journal Associate Editor of Transaction on Big Data (TBD)
+Research Track Workflow Co-Chair: SIGKDD 2023 (ACM Conference on Knowledge Discovery and Data Mining)
+Program Committee / Reviewer: Neurips (Top Reviewer Award @ 2022), ICML, ICLR, KDD, ACL (+Rolling Review), EMNLP, AAAI, IJCAI, WWW, CIKM (Annual reviewer since 2019, reviewed for 100+ conference papers)
+Journal Reviewer: TKDE, TKDD, TOIS, TPAMI, TCS, TBD, JAIR (Reviewed for 20+ Journal papers)
+Program Committee Co-Chair: SSL @ WWW 2021 (Workshop on Self-Supervised Learning for the Web)
+Senior PC & Meta-Reviewer: KnowledgeNLP @ AAAI 2023 (Workshop on Knowledge Augmented Methods for NLP)
+Reading Group Organizer @ UCLA-DM Lab from 2018 to 2022.
+Invited Talks
+Make Knowledge Computable: Differentiable Neural-Symbolic Reasoning
+USC AI Seminars at USC Information Sciences Institute
+Microsoft Azure Cognitive Research
+ByteDance AI Lab, AI Seminar
+Self-Supervised Learning and Logical Reasoning over Knowledge Graphs
+DataFunTalk, Graph Learning Seminar
+AI Time, Tsinghua University
+2,279 Pageviews
+Jun. 23rd - Jul. 23rd
+
+
+
+© 2019 Ziniu Hu · Powered by the Academic theme for Hugo.
+

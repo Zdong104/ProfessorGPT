@@ -1,0 +1,61 @@
+Professor: David M. Mimno
+University: Cornell University
+URL: https://mimno.infosci.cornell.edu/
+Description: Publications - Blog - Code - CV - [lastname]@cornell.edu - @dmimno (mostly BlueSky) - Gates 236
+David Mimno
+
+Bio: David Mimno is an associate professor and chair of the department of Information Science at Cornell University. He holds a PhD from UMass Amherst and was previously the head programmer at the Perseus Project at Tufts and a researcher at Princeton University. His work has been supported by the Sloan foundation, the NEH, and the NSF.
+
+I supervise PhD students in Information Science and Computer Science.
+
+Recent publications:
+
+"Similarity to the training data" doesn't predict few-shot performance. While some level of similarity helps (a model trained on English does less well on Swahili), we evaluated several commonly used metrics of similarity, and not only do they not correlate with few-shot performance, they don't correlate with each other.
+Data matters for pre-training. While architectures and hyperparameters are important, choices in data curation make a huge difference and often go unreported or undervalued.
+Protocols for using LLMs to evaluate topic quality.
+k-means on LLM token embeddings is a really strong baseline for neural topic modeling.
+LLMs trained on scores of languages can discover a global, cross-language semantic embedding space... as an emergent property.
+Which poems do LLMs memorize? And why?
+
+I have recently been part of several committees working to anticipate the impacts of generative AI:
+
+Cornell Report on Generative AI in Academic Research.
+Cornell Report on Generative AI for Education.
+Report of the 1st Workshop on Generative AI and Law.
+
+Writing:
+
+[Reviewing] The four categories of acceptable papers
+[Topic modeling] How LDA algorithms work
+
+Recent workshops and tutorials:
+
+LLMs as Research Tools: Applications and Evaluations in HCI Data Work, CHI workshop, Honolulu, HI, May 2024.
+GenLaw, ICML workshop on Generative AI and Law, Honolulu Hawai'i, July 2023
+Translation Tutorial: A Hands-On Introduction to Large Language Models for Fairness, Accountability, and Transparency Researchers, ACM FAccT tutorial, Chicago, June 2023
+
+Teaching:
+
+INFO 4940: How LLMs Work. [Fall 2023]
+INFO 6010: Quantitative methods for Information Science [Spring 2023]
+INFO 2950: Introduction to Data Science [Fall 2022]
+INFO 3350/6350: Text mining for History and Literature. [Fall 2019]
+INFO 6150/CS 6788: Advanced Topic Modeling [Spring 2021]
+
+Projects:
+
+I ran the Text as Data (TADA) 2022 conference
+
+The AI for Humanists project makes large language models accessible for researchers working on text as data problems.
+
+MALLET provides text classification and high-quality sampling-based topic modeling.
+
+Here are some resources and tools that might be useful:
+An implementation of LDA in Javascript + D3.
+Slides (and video!) from a presentation at the MITH Digital Humanities topic modeling workshop.
+Java implementations of topic model algorithms.
+An extensive bibliography on topic modeling.
+Example R scripts from Princeton course on probabilistic modeling (COS513)
+A map of the NIH (I provided topic- and word-based distance measurements), profiled in Nature Methods.
+Cornell University, Department of Information Science, [lastname]@cornell.edu
+

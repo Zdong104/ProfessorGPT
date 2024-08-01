@@ -1,0 +1,98 @@
+Professor: Qi Zhao 0001
+University: University of Minnesota
+URL: https://www-users.cse.umn.edu/~qzhao
+Description: UMN VIP
+Visual Information Processing Lab
+HOME
+ 
+PEOPLE
+ 
+RESEARCH
+ 
+PUBLICATIONS
+ 
+TEACHING
+ 
+JOBS
+ 
+CONTACT
+Catherine Qi Zhao
+
+Associate Professor
+Department of Computer Science and Engineering
+University of Minnesota
+
+Office: Keller 5-213
+Phone: (612) 301-2115
+Email: qzhao at cs.umn.edu
+
+
+Our research is in the areas of artificial intelligence, computer vision, machine learning, and AI for humans. In particular, we provide theoretical foundations in computer vision, invent application-specific machine learning methods, and develop trustworthy systems that leverage both artificial and human intelligence.
+
+Our recent focus includes understanding neural networks, and innovating explainable and generalizable AI methods. We also emphasize the role of humans in AI and develop AI to benefit humans, especially those in need. For example, our works understand and identify neurodevelopmental disorders, and decode human motor intention in upper limb amputees.
+
+[Open Positions] We have openings for Ph.D. students. Please refer to the Jobs page for more information.
+
+
+
+News
+I receive the George W. Taylor Award for Distinguished Research. [link]
+we receive an NSF RI grant to develop new capabilities for problem understanding and solving in the real world. [link]
+we receive an NSF EAGER grant to pioneer AI/ML-enabled smart manufacturing. [link]
+several works on explainable, generalizable, and trustworthy AI are out. [explanation][knowledge-based reasoning][trustworthiness prediction]
+our work on explicit knowledge incorporation in visual reasoning is out. [project page]
+our new work on predicting visual scanpath is out. [project page]
+I will be a program co-chair for WACV 2022.
+our work on attention and reasoning to quantify and improve the decision-making process is out. [project page]
+our work on leveraging attention as an interface to understand task performance is out. [project page]
+we receive an NSF RI grant to study attention and reasoning. [link]
+our work on autism screening with multi-modality information is out. [project page]
+I will be an area chair for CVPR 2020 and doctoral consortium chair for WACV 2020 and CVPR 2023.
+we receive an NSF S&AS grant to develop intelligent UAVs with active vision. [link]
+our work on shallowing deep neural networks is out. [project page]
+I will be an area chair for WACV 2019, CVPR 2019, and IJCAI 2019.
+our work on emotion and attention is out. [project page]
+we receive an NSF SHF grant to develop efficient time-based deep neural networks. [link]
+we will organize the 3rd LSUN Saliency Challenge, in conjunction with CVPR.
+the new book I edited is out -- it provides an overview of vision from various perspectives, ranging from neuroscience to cognition, and from computational principles to engineering.
+
+
+
+our work on autism photo is out in Current Biology.
+I have joined the University of Minnesota Twin Cities as an assistant professor.
+commentary about our autism work appears in Neuron.
+press release at HuffPost, Business Insider, Daily Mail, MedicalXpress, and Futurity.
+our work is on the cover of Neuron. [pdf]
+
+
+More
+
+Database
+GQA-REX database. A database with over 1M multi-modal explanations of decisions with reasoning processes and grounded keywords in images. Chen et al. CVPR [pdf] [bib]
+AiR-D database. A database with attention and reasoning labels as well as ground truth answer correctness. Chen et al. ECCV [pdf] [bib]
+IQVA database. A large-scale attention database on 360° videos with ground truth answer correctness. Jiang et al. CVPR [pdf] [bib]
+SALICON database. Saliency in Context - a large-scale attention database on MS COCO images. Jiang et al. CVPR [pdf] [bib]
+Video Story database. A dataset for generating text story/summarization for videos containing social events. Li et al. TMM [pdf] [bib]
+EMOd database. A database with rich sentiment and semantic attributes. Fan et al. CVPR [pdf] [bib]
+HII database. A dataset of images with four types of interactions: hand shake, high five, hug, kiss. Li et al. ACMMM [pdf] [bib]
+PISC database. An image dataset consisting of 22,670 images of 9 types of social relationships. Li et al. ICCV [pdf] [bib]
+OSIE database. Object and Semantic Images and Eye-tracking database - a database for object and semantic saliency (700 images, 5551 objects with fine contour and semantic attribute labeling). Xu et al. JoV [pdf] [bib]
+EyeCrowd database. Eye Fixations in Crowd database - a database for saliency in crowd. Jiang et al. ECCV [pdf] [bib]
+
+More
+
+Code
+REX: Reasoning-Aware and Grounded Explanation. Code for explanation generation that encodes grounding and reasoning.
+Query and Attention Augmentation for Knowledge-Based Explainable Reasoning. Code for explainable visual reasoning with query and attention augmentation to incorporate knowledge.
+Explicit Knowledge Incorporation for Visual Reasoning. Code for explainable visual reasoning with neural modules and explict knowledge incorporation.
+Learning to Predict Trustworthiness with Steep Slope Loss. Code and pre-trained trustworthiness predictors with steep slope loss.
+Predicting Human Scanpaths in Visual Question Answering. Code for predicting human visual scanpaths in visual question answering, free-viewing, and visual search tasks.
+AiR: Attention with Reasoning Capability. Code for implementing attention and reasoning supervision on the AiR-D dataset.
+Immersive Question-directed Visual Attention. Code for implementing correctness-aware attention prediction on the IQVA dataset.
+Direction Concentration Learning. Code for enhancing congruency (i.e., agreement between the learned knowledge and the new information in a learning process) in classification and continual learning.
+Learning to Learn from Noisy Labeled Data. Code for performing noise-tolerant learning.
+
+More
+
+Copyright © 2022 - All Rights Reserved - UMN VIP
+

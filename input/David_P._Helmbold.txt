@@ -1,0 +1,55 @@
+Professor: David P. Helmbold
+University: Univ. of California - Santa Cruz
+URL: https://users.soe.ucsc.edu/~dph
+Description: 
+
+
+DAVID P. HELMBOLD
+Professor, Computer Science
+
+Phone: 831-459-2016
+Fax: 831-459-4829
+dph@soe.ucsc.edu
+
+Computer Science Department
+E2 Building room 345B
+University of California
+Santa Cruz, CA 95064
+
+
+
+
+David Helmbold received PhD in Computer Science from Stanford University in 1987 where he worked on parallel algorithms and the debugging of parallel programs. He joined the Computer Science Department at UC Santa Cruz where he has been a faculty member for over 25 years. At Santa Cruz his research interests shifted to theoretical Machine Learning, with an emphasis on boosting methods and on-line learning algorithms. He is a long-standing member of the computational learning theory community, having hosted the COLT conference and served on the COLT steering committee.
+
+David Helmbold's current research centers around machine learning and computational learning theory. In addition to theoretical work, he has applied learning algorithms to practical problems such as determining when to spin down a disk drive in a portable computer to save power.
+
+
+
+Recent Publications
+David P. Helmbold and Philip M. Long New Bounds for Learning Intervals with Implications for Semi-Supervised Learning
+Although labeled training data can be expensive, often there is a source of cheap unlabeled examples. This paper shows that access to unlabeled examples provably helps even when the distribution over examples is adversarial and the classes are not well-separated. Our results include the first progress in almost 20 years on determining the exact number of examples required to obtain a given error guarantee when learning intervals.
+
+James Pettit and David P. Helmbold Evolutionary Learning of Policies for MCTS Simulations
+Monte-Carlo Tree Search (MCTS) is a recent technique for evaluating moves and positions in abstract games like Go and Hex. MCTS dynamically grows a partial search-tree while performing a large number of artificial play-outs to evaluate moves. These artificial play-outs first traverse to a leaf in the partial search tree and then use a simple (usually randomized) policy to complete the game and obtain feedback about the goodness of the leaf. Surprisingly, using better or stronger policies to complete the playouts often causes the MCTS system to perform worse. In the above paper we present an evolutionary approach for discovering simple randomized strategies that improve the quality of the overall MCTS system.
+
+David P. Helmbold and Philip M. Long On the Necessity of Irrelevant Variables in ICML 2011 and the long version in JMLR 13 (2012).
+When creating a classifier, a natural inclination is to only use variables that are obviously relevant since irrelevant variables typically decrease the accuracy of a classifier. Some researchers use the goodness of a predictive model as support for the relevance of the used variables. The above papers show that the harm done by irrelevant variables can be much less than the benefit from relevant variables. Therefore it can be advantageous to continue adding variables to the model, even as their prospects for being relevant fade away.
+
+Manfred K. Warmuth, Wouter M. Koolen, and David P. Helmbold Combining Initial Segments of Lists in ALT 2011.
+
+Damian Eads, Edward Rosten, and David Helmbold. Learning object location predictors with boosting and grammer-guided feature extraction in Proceedings of the British Machine Vision Conference (BMVC), September 2009.
+
+David Helmbold and Aleatha Parker-Wood. All-moves-as-first heuristics in monte-carlo go in Hamid R. Arabnia, David de la Fuente, and Jose A. Olivas, editors, Proceedings of the 2009 International Conference on Artificial Intelligence, pages 605--610. WorldComp, July 2009.
+
+David Helmbold and Manfred K. Warmuth. Learning Permutations with exponential weights in Journal of Machine Learning Research, vol. 10, pages 1687--1718, July 2009. (The conference version appeared in COLT 2007.)
+
+
+Additional Selected Publications
+Here is a list containing many of my other publications. It includes work in the areas of Object Detection and Terrain classification, Computer Go, Boosting, On-line learning, Other learning theory, and Learning Applications, as well as some older work on Debugging of Parallel Programs and Parallel Algorithms.
+
+
+UCSC hosted a machine learning summer school at Santa Cruz in 2012. See mlss.soe.ucsc.edu
+.
+
+Last modified March 12, 2014 (05:11:39 PM).
+

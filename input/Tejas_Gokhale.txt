@@ -1,0 +1,314 @@
+Professor: Tejas Gokhale
+University: Univ. of Maryland - Baltimore County
+URL: https://www.tejasgokhale.com/
+Description: Tejas Gokhale
+FAQ
+TEACHING
+PEOPLE
+RESEARCH
+HOME
+
+
+
+
+
+Assistant Professor
+Computer Science & Electrical Engineering
+University of Maryland, Baltimore County
+
+Affiliate Faculty
+UMBC Center for AI
+
+    
+
+PPR Seminar
+Book on Multimodal Retrieval & Generation
+
+Teaching
+CMSC 491/691 Robust Machine Learning [F24]
+CMSC 491/691 Computer Vision [S24, F23]
+
+Office Hours
+W 1430--1530; ITE 214
+
+
+
+
+I am a computer vision researcher working towards the design of robust and reliable systems that can understand the visual world. My research draws inspiration from principles of perception, communication, learning, and reasoning.
+
+I received my Ph.D. from Arizona State University where I was advised by Yezhou Yang and Chitta Baral, M.S. from Carnegie Mellon University where I worked with Aswin Sankaranarayanan, and B.E. (Honours) from Birla Institute of Technology and Science. During my graduate studies I worked with wonderful collaborators at Lawrence Livermore National Laboratory, Microsoft Research, and Snap Research.
+
+I run the Perception, Prediction, and Reasoning Seminar at UMBC.
+
+ Join the Group! I am recruiting researchers. Please read the FAQ and use this form to indicate interest.
+
+
+
+
+NEWS
+SEP 2024	Tutorial at ECCV 2024 on Responsibly Building Generative Models
+JUL 2024	New Book on Multimodal Retrieval and Generation
+JUN 2024	Our paper led by Yiran Luo wins Best Paper Award at VDU Workshop @ CVPR 2024
+JUL 2024	Received START funding from UMBC ORCA
+JUN 2024	Performed for the CVPR House Band; Seattle Convention Center
+JUN 2024	Participating in SCALE 2024 (Video-Based Event Retrieval) at JHU HLTCOE
+MAY 2024	Received SURFF funding from UMBC ORCA
+APR 2024	Serving as Area Chair for Neurips, ACL, NAACL
+MAR 2024	Received in-kind support from Microsoft Research under the Accelerate Foundation Models Academic Research Initiative
+FEB 2024	Invited Talk at AAAI 2024 New Faculty Highlights
+FEB 2024	Lightning Talk at IARPA Video-LINCS Proposers Day
+JAN 2024	Tutorial at WACV 2024 on Reliability of Generative Models in Vision
+Talk: "Challenges with Evaluation of Text-to-Image Generation"
+NOV 2023	Started the PPR Seminar at UMBC
+NOV 2023	Invited Talk at UMD PRG Seminar Series
+SEP 2023	Joined CWIT as a mentor
+AUG 2023	Moved to Maryland after 5 years of "it's a dry heat"
+JUN 2023	Organized O-DRUM 2023 at CVPR
+(Workshop on Open-Domain Reasoning Under Multi-Modal Settings)
+
+BOOKS
+Advances in Multimodal Information Retrieval and Generation
+Springer
+Man Luo, Tejas Gokhale, Yezhou Yang, Chitta Baral
+web
+
+A comprehensive overview of the state-of-the-art methods in multimodal retrieval, generation, and retrieval-augmented generation.
+
+Series Title: Synthesis Lectures on Computer Vision
+
+Hardcover ISBN: 978-3-031-57816-8; Softcover ISBN978-3-031-57818-2; eBook ISBN: 978-3-031-57816-8
+
+PUBLICATIONS
+Getting it Right: Improving Spatial Consistency in Text-to-Image Models
+ECCV 2024
+Agneet Chatterjee, Gabriela Ben Melech Stan, Estelle Aflalo, Sayak Paul, Dhruba Ghosh, Tejas Gokhale, Ludwig Schmidt, Hannaneh Hajishirzi, Vasudev Lal, Chitta Baral, Yezhou Yang
+pdf web code demo
+
+We improve spatial understanding of T2I models by creating the SPRIGHT dataset by recaptioning 6M images from widely used vision datasets. Finetuning T2I models with just 500 images from SPRIGHT leads to a large improvement in T2I spatial understanding performance, across several evaluation benchmarks such as T2I-CompBench, VISOR, and GenEval.
+
+REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models
+ECCV 2024
+Agneet Chatterjee, Tejas Gokhale, Chitta Baral, Yezhou Yang
+pdf
+
+Traditional generative Text-to-Image models struggle to generate images that faithfully represent the spatial relationships mentioned in the input prompt. We develop REVISION, an efficient rendering pipeline that enables a training-free, guidance-based mechanism to address this shortcoming. REVISION takes the objects and their spatial relationships parsed from the given input prompt and synthesizes an image in Blender, placing the respective object assets at coordinates corresponding to the parsed spatial relationship. Given a user-provided input prompt T, we synthesize an image using REVISION and use it to guide existing T2I pipelines such as Stable Diffusion or ControlNet to obtain a spatially accurate output.
+
+Improving Shift Invariance in Convolutional Neural Networks with Translation Invariant Polyphase Sampling
+preprint
+Sourajit Saha, Tejas Gokhale
+pdf code
+
+We identify that the tendency of existing pooling layers in CNNs to pass larger signals to subsequent layers is a major factor that's strongly correlated with the lack of shift invariance in CNNs. Based on this finding, we design a new pooling operator Translation-Invariant Polyphase Sampling (TIPS) and two regularizations on the intermediate feature maps to learn translation-invariant representations. TIPS results in consistent and architecture-agnostic improvements in accuracy and four measures of shift invariance, across multiple image classification and segmentation benchmarks.
+
+On the Robustness of Language Guidance for Low-Level Vision Tasks: Findings from Depth Estimation
+CVPR 2024
+Agneet Chatterjee, Yiran Luo, Tejas Gokhale, Chitta Baral, Yezhou Yang
+pdf web code
+
+The motivation of this work is to analyze the efficacy of language guidance for low-level non-semantic computer vision tasks. We focus on depth estimation and find that language-guided depth estimators benefit only from scene-level language information and counter-intuitively, are worse off when presented with sentences that describe 3D spatial relationships in the scene. With an increasing number of methods using language for depth estimation, our findings highlight the opportunities and pitfalls that require careful consideration for effective deployment in real-world settings.
+
+Grounding Stylistic Domain Generalization with Quantitative Domain Shift Measures and Synthetic Scene Images
+CVPR 2024 Workshop on Vision Dataset Understanding
+Yiran Luo, Joshua Feinglass, Tejas Gokhale, Kuan-Cheng Lee, Chitta Baral, Yezhou Yang
+pdf data [Best Paper Award]
+
+Two new quantitative measures ICV and IDD to describe domain shifts in terms of consistency of classes within one domain and similarity between two stylistic domains. New dataset: SuperMarioDomains (SMD) incorporating unique features of consistent classes of video game scenes across stylistic domains in video game graphics that are dissimilar to ImageNet1K.
+
+ConceptBed: Evaluating Concept Learning Abilities of Text-to-Image Diffusion Models
+AAAI 2024 and Neurips 2023 Workshop on Diffusion Models
+Maitreya Patel, Tejas Gokhale, Chitta Baral, Yezhou Yang
+pdf web code
+
+Textual inversion models have the potential to learn novel concepts from a small number of example images. We quantify this concept learning ability with ConceptBed: a dataset that contains 284 unique visual concepts and 33K concept compositions, and CCD (Concept Confidence Deviation): an evaluation metric uses the confidence of oracle concept classifiers to measure the alignment between generated images and concepts contained in ground truth images.
+
+Adversarial Bayesian Augmentation for Single-Source Domain Generalization
+ICCV 2023
+Sheng Cheng, Tejas Gokhale, Yezhou Yang
+pdf code
+
+
+ABA draws on the strengths of adversarial learning and Bayesian neural networks to guide the generation of diverse data augmentations — these synthesized image domains aid the classifier in generalizing to several types of domain shift including style shift, subpopulation shift, and domain shift in the medical imaging setting. ABA outperforms all previous state-of-the-art methods, including pre-specified augmentations, pixel-based and convolutional-based augmentations.
+
+Towards Reliable Semantic Vision
+Ph.D. Dissertation
+Tejas Gokhale
+pdf
+
+
+This dissertation contributes to the reliability of machine learning models from several perspectives including the development of robust training algorithms to mitigate the risks of such failures, construction of new datasets that provide a new perspective on capabilities of vision models, and the design of evaluation metrics for re-calibrating the perception of performance improvements.
+
+End-to-end Knowledge Retrieval with Multi-modal Queries
+ACL 2023
+Man Luo, Zhiyuan Fang, Tejas Gokhale, Yezhou Yang, Chitta Baral
+pdf data
+
+
+Knowledge retrieval with multi-modal queries, i.e., queries containing information split across image and text inputs, a challenging task that differs from previous work on cross-modal retrieval. A new dataset called ReMuQ, a new pretraining task for learning knowledge retrieval with multimodal queries, and a retriever model "ReViz" that can directly process input text and images to retrieve relevant knowledge in an end-to-end fashion without being dependent on intermediate modules such as object detectors or caption generators.
+
+Mole Recruitment: Poisoning of Image Classifiers via Selective Batch Sampling
+preprint
+Ethan Wisdom, Tejas Gokhale, Yezhou Yang
+pdf code
+
+
+A data poisoning attack that confounds ML models without any manipulation of the image or label, achieved by simply leveraging the most confounding natural samples found within the training data itself. We show the efficacy of this novel attack in offline as well as continual learning (CL) settings in image classification, thereby exposing a previously undetected vulnerability of image classifiers.
+
+Benchmarking Spatial Relationships in Text-to-Image Generation
+preprint
+Tejas Gokhale, Hamid Palangi, Besmira Nushi, Vibhav Vineet, Eric Horvitz, Ece Kamar, Chitta Baral, Yezhou Yang
+pdf web code [featured on MSR blog]
+
+We report a surprising finding that, although recent state-of-the-art T2I models exhibit high image quality, they are severely limited in their ability to generate multiple objects or the specified spatial relations such as left/right/above/below. We introduce a metric called VISOR to quantify spatial reasoning performance. VISOR can be used off-the-shelf with any text-to-image model. We construct and make available SR2D, a dataset which contains sentences that describe spatial relationships (left/right/above/below) between a pair of commonly occurring objects.
+
+Improving Diversity with Adversarially Learned Transformations for Domain Generalization
+WACV 2023
+Tejas Gokhale, Rushil Anirudh, Jayaraman J. Thiagarajan, Bhavya Kailkhura, Chitta Baral, Yezhou Yang
+pdf code video
+
+ALT discovers diverse and adversarial transformations using an image-to-image neural network with learnable weights. ALT improves the state-of-the-art single domain generalization performance on three benchmarks and is significantly better than pixel-wise adversarial training and standard data augmentation techniques.
+
+CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering
+EMNLP 2022
+Maitreya Patel, Tejas Gokhale, Chitta Baral, Yezhou Yang
+pdf web code
+
+Although the imaging pipeline is unable to capture many physical properties of objects (eg. mass and coefficient of friction), these properties can be estimated by utilizing cues introduced by collisions. We introduce a new dataset (CRIPP-VQA) for reasoning about the implicit physical properties of objects from videos. The dataset contains videos of objects in motion, annotated with hypothetical/counterfactual questions about the effect of actions (removing/adding/replacing objects) and questions about planning (performing actions to reach a goal).
+
+Covariate Shift Detection via Domain Interpolation Sensitivity
+NeurIPS 2022 Workshop on Interpolation and Beyond
+Tejas Gokhale, Joshua Feinglass, Yezhou Yang
+pdf video
+
+In this paper, we introduce a benchmark for covariate shift detection (CSD), that builds upon and complements previous work on domain generalization. We find that existing novelty detection methods designed for OOD benchmarks perform worse than simple confidence-based methods on our CSD benchmark. We propose Domain Interpolation Sensitivity (DIS), based on the simple hypothesis that interpolation between the test input and randomly sampled inputs from the training domain, offers sufficient information to distinguish between the training domain and unseen domains under covariate shift.
+
+Unsupervised Natural Language Inference Using PHL Triplet Generation
+ACL Findings 2022
+Neeraj Varshney, Pratyay Banerjee, Tejas Gokhale, Chitta Baral,
+pdf code video
+
+Natural Language Inference (NLI) under three low-data settings (with missing labels; with missing labels and hypothesis; and with missing labels, hypotheses, and premises). A procedural data generation approach that leverages a set of sentence transformations to collect PHL (Premise, Hypothesis, Label) triplets for training NLI models, bypassing the need for human-annotated training data. State-of-the-art results under all three "unsupervised" settings.
+
+Semantically Distributed Robust Optimization for Vision-and-Language Inference
+ACL Findings 2022
+Tejas Gokhale, Abhishek Chaudhary, Pratyay Banerjee, Chitta Baral, Yezhou Yang,
+pdf code video
+
+SDRO: a distributed robust optimization method that operates with linguistic transformations of sentence inputs, SISP: a suit of semantics-inverting (SI) and semantics-preserving (SP) linguistic transformations, and an ensembling technique for vision-and-language inference.
+
+Comparing the Effects of Data Modification Methods on Out-of-Domain Generalization and Adversarial Robustness
+ACL Findings 2022
+Tejas Gokhale, Man Luo, Swaroop Mishra, Bhavdeep Singh Sachdeva, Chitta Baral
+pdf video
+
+In this work, we conduct a comprehensive study of common data modification strategies and evaluate not only their in-domain and OOD performance, but also their adversarial robustness (AR). This work serves as an empirical study towards understanding the relationship between generalizing to unseen domains and defending against adversarial perturbations.
+
+To Find Waldo You Need Contextual Cues: Debiasing Who's Waldo
+ACL 2022
+Yiran Luo, Pratyay Banerjee, Tejas Gokhale, Yezhou Yang, Chitta Baral
+pdf data
+
+We present a debiased dataset for the Person Centric Visual Grounding (PCVG) task. For instance, in many cases the first name in the sentence corresponds to the largest bounding box, or the sequence of names in the sentence corresponds to an exact left-to-right order in the image). The debiased dataset offers the PCVG task a more practical baseline for reliable benchmarking and future improvements.
+
+Improving Biomedical Information Retrieval with Neural Retrievers
+AAAI 2022
+Man Luo, Arindam Mitra , Tejas Gokhale, Chitta Baral
+pdf
+
+We seek to improve information retrieval (IR) using neural retrievers (NR) in the biomedical domain, using a three-pronged approach. (1) a template-based question generation method, (2) two novel pre-training tasks that are closely aligned to the downstream task of information retrieval, (3) the ``Poly-DPR'' model which encodes each context into multiple context vectors.
+
+Weakly Supervised Relative Spatial Reasoning for Visual Question Answering
+ICCV 2021
+Pratyay Banerjee, Tejas Gokhale, Yezhou Yang, Chitta Baral
+pdf
+
+VQA models trained with two additional objectives: object centroid estimation and relative position estimation, lead to improved performance on spatial reasoning questions (in GQA) in fully supervised and few shot settings as well as improved O.O.D. generalization.
+
+WeaQA: Weak Supervision via Captions for Visual Question Answering
+ACL 2021 Findings
+Pratyay Banerjee, Tejas Gokhale, Yezhou Yang, Chitta Baral
+pdf
+
+We show that models can be trained without any human-annotated Q-A pairs, but only with images and associated text captions. Our experiments suggest gains on benchmark with shifted priors (VQA-CP) over baselines which use full supervision from human-authored QA data.
+
+HalluciNet: Scene Completion by Exploiting Object Co-occurrence Relationships
+CVPR 2021 Workshop, "AI for Content Creation"
+Kuldeep Kulkarni, Tejas Gokhale, Rajhans Singh, Pavan Turaga, Aswin Sankaranarayanan
+pdf
+
+Scene completion from sparse and incomplete label maps. `Halluci-Net' is a 2-stage method that captures the object co-occurrence relationships, to produce dense label maps from incomplete labelmaps and object boundaries, for image synthesis.
+
+Self-Supervised Test-Time Learning for Reading Comprehension
+NAACL 2021
+Pratyay Banerjee, Tejas Gokhale, Chitta Baral
+pdf
+
+Unsupervised Reading Comprehension method that operates directly on a single test passage. Synthetic QA pairs are generated from the passage, and models are trained on these. When a new human-authored test question appears, models infer answers better than previous unsupervised methods.
+
+Attribute-Guided Adversarial Training for Robustness to Natural Perturbations
+AAAI 2021
+Tejas Gokhale, Rushil Anirudh, Bhavya Kailkhura, Jayaraman J. Thiagarajan, Chitta Baral, Yezhou Yang
+pdf code
+
+An adversarial training approach which learns to generate new samples so as to maximize exposure of the classifier to attributes-space. Studies robustness to semantic shifts that are beyond L-p norm perturbations, on 3 types of naturally occurring perturbations — object-related shifts, geometric transformations, and common image corruptions.
+
+MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering
+EMNLP 2020
+Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang
+pdf data
+
+MUTANT is a training paradigm that exposes VQA models to perceptually similar, yet semantically distinct mutations of the input image or question. We use a pairwise consistency loss between answers to original and mutant inputs as a regularization, along with an answer embedding NCE loss. MUTANTimproves generalization of VQA models under Changing Priors.
+
+Video2Commonsense: Generating Commonsense Descriptions to Enrich Video Captioning
+EMNLP 2020
+Zhiyuan Fang* Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang,
+pdf code web
+
+Actions in videos are inherently linked to latent social and commonsense aspects. We present the first work on generating commonsense captions directly from videos, to describe latent intentions, attributes, and effects of humans in videos. Additionally we explore the use of open-ended video-based commonsense question answering (V2C-QA) as a way to enrich our captions.
+
+VQA-LOL: Visual Question Answering under the Lens of Logic
+ECCV 2020
+Tejas Gokhale, Pratyay Banerjee, Chitta Baral, Yezhou Yang,
+pdf, web video
+
+VQA models struggle at negation, antonyms, conjunction, disjunction! We show a capability of answering logically composed questions with our novel modules and datasets, while retaining performance on VQA data.
+
+Cooking With Blocks : A Recipe for Visual Reasoning on Image-Pairs
+CVPR 2019 Workshop, Vision Meets Cognition
+Tejas Gokhale, Shailaja Sampat, Zhiyuan Fang, Yezhou Yang, Chitta Baral,
+pdf, [CVPR-VMC Paper] web
+
+Given two images (source, target) with different object configurations, what is the sequence of steps to re-arrange source to match target? For this reasoning task, our modular approach that contains a visual encoder and an event-sequencer/planner, and exhibits inductive generalization.
+
+SUPPORT / SPONSORS
+TEAM
+Ph.D. Students
+ Sourajit Saha
+Ph.D. CS, UMBC
+ Ziwei Zhang
+Ph.D. CS, UMBC
+ Shivanand Kundargi
+Ph.D. CS, UMBC
+ Jordan Turley
+Ph.D. CS, UMBC
+ Dylan Lang
+Ph.D. CS, UMBC
+ This could be you!
+I'm hiring!
+
+M.S. Students
+ Neel Patel
+M.S. CS, UMBC
+Affiliated Ph.D. Students
+ Sheng Cheng
+Ph.D. CS, ASU
+ Agneet Chatterjee
+Ph.D. CS, ASU
+ Maitreya Patel
+Ph.D. CS, ASU
+Mathematics Genealogy
+
+
+List of All Collaborators
+
+Website theme inspirations: Alane Suhr, Stephen MacNeil, Jon Barron
+

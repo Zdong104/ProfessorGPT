@@ -1,0 +1,283 @@
+Professor: Shan Lu 0001
+University: University of Chicago
+URL: http://people.cs.uchicago.edu/~shanlu
+Description: 
+
+
+	    
+
+      Publications     |    Teaching     |    Research
+
+
+	   Shan Lu
+    Professor
+    Email: shanlu @ cs.uchicago.edu
+    Phone: (773)702-3184
+    Crerar Library Room 343
+    5730 S. Ellis Ave., Chicago, IL 60637
+
+    CV: [pdf]     Bio: [html]
+
+
+Research
+
+Research Areas : Computer Systems, Software Reliability, Program Analysis (UChicago Systems Group)
+
+Research Interests: Software systems are difficult to build. My group tries to help developers deliver correct and efficient software systems.
+
+Students: Bogdan Stoica, Utsav Sethi, Yuhan Liu, Yiming Su, Cyrus Zhou
+
+Former Students:
+Chengcheng Wan Ph.D. 2022, East China Normal University
+Lefan Zhang, Ph.D. 2022, BreezeML
+Shu Wang, Ph.D. 2021, Linkedin
+Junwen Yang, Ph.D. 2021, Facebook
+Guangpu Li, Ph.D. 2020, Citadel
+Yuxi Chen, Ph.D. 2020, Facebook
+Haopeng Liu, Ph.D. 2018, Google
+Linhai Song, Ph.D. 2015, Assistant Professor @ Penn State University
+Guoliang Jin, Ph.D. 2014, Assistant Professor @ North Carolina State University
+Adrian Nistor, Ph.D. 2014, Assistant Professor @ Florida State University (co-advised w Prof. Darko Marinov)
+Wei Zhang, Ph.D. 2013, Research Staff Member @ IBM T. J. Watson
+
+Shicheng Liu, B.S. 2022, Ph.D. @ Stanford
+Chi Li, Master 2020, Facebook
+Rui Gu, Master 2014, Ph.D. @ Columbia, VMWare
+Dongdong Deng, Master 2014, VMWare
+Po-Chun Chang, Master 2014, Rockwell Automation
+Joy Arulraj, Master 2013, Ph.D. @ CMU, Assistant Professor @ Georgia Tech University
+Aaron Gravesdale, Master 2011, PDFTron
+Joel Sherpelz, Master 2010, NVidia
+
+Program Committees:
+2023 -- : Vice Chair of ACM Pub Board E&P Committee
+2020 -- : Co-Chair of ACM SIGARCH/SIGMICRO CARES Committee
+2019 -- 2023: Chair of ACM SIGOPS
+2015 -- 2019: Vice Chair of ACM SIGOPS
+
+2024: ASPLOS
+2023: PLDI (Area Chair), OSDI
+2022: ASPLOS (Program Co-Chair), FSE
+2020: OSDI (Program Co-Chair)
+2019: ASPLOS, HotOS
+2018: ASPLOS, APSys (Program Co-Chair)
+2017: ASPLOS, PLDI, SOSP
+2016: OSDI, ASPLOS (ERC)
+2015: HotOS, PLDI, SOSP, USENIX ATC'15 (Program Co-Chair), PLOS'15 (Program Chair)
+2014: ASPLOS'14, OSDI'14 (ERC), PLDI'14 (ERC), OOPSLA'14, USENIX'14, ISMM'14, CCGrid'14
+2013: SOSP'13, PLDI'13, Eurosys'13, DSN'13, APSYS'13
+2012: RV'12, OSDI'12
+2010: OSDI'10, USENIX ATC'10
+		
+
+News
+Won Best Paper Award at OSDI 2022!
+Won Most Influential Paper Award at ASPLOS 2022!
+Chengcheng Wan won the prestigious Microsoft Research Dissertation Grant! Congratulations Chengcheng!
+Chengcheng Wan's paper on machine-learning API misuses is accepted by ICSE'21! Valerie and Lefan's work on TAP program interface won Honorable Mention Award at CHI'21!
+Junwen Yang and Chengcheng Wan are both invited to EECS Rising Stars 2020! Congratulations!
+Congratulate Lefan Zhang for his UbiComp'20 paper on synthesizing Trigger-Action Programs!
+Congratulate Chengcheng for her USENIX ATC'20 and ICML'20 papers on Anytime DNN design, training, and scheduling!
+Stay home and stay positive, everybody! ACM virtual conference guide, Whova virtual conference platform.
+Congratulate Junwen and Utsav on their up-coming ICSE 2020 paper about data-constraint problems in database-backed web applications!
+Our TSVD paper won SOSP'19 Best Paper Award!
+ACM Distinguished Member!
+Congratulate Junwen on winning ACM-SIGPLAN John Vlissides Award!
+2 papers @ SOSP'19. Congratulations to Guangpu and our collaborators!
+Elected as Chair of ACM SIGOPS.
+Pranav received NSF Graduate Research Fellowship!
+Our ICSE'19 paper about refactoring database-backed web application won ACM-SIGSOFT Distinguished Paper Award, and got featured on "a Morning Paper'' blog!
+1 paper accepted by PLDI'19. Congratulations to Guangpu Li.
+2 papers accepted by ICSE'19. Congratulations to Junwen Yang, to Lefan Zhang, and Chengcheng Wan.
+Haopeng Liu won the prestigious U-Chicago Harper Dissertation Fellowship.
+Our ORM study (ICSE'18) is covered by Hacker News and Adrian Colyer's ''the morning paper'' in June; SkyWay (ASPLOS'18) covered in April; PCheck back in 2016.
+
+3 papers accepted by ASPLOS'18, 1 accepted by ICSE'18, 1 accepted by EuroSys'18, 1 accepted by USENIX ATC'18 .
+Congratulations to Junwen Yang, Haopeng Liu, Shu Wang, Guangpu Li, Chi Li, and Yuxi Chen!
+CP-Miner is considered as a Classic papers by Google.
+Linhai joins Penn State University as a tenure-track Assistant Professor!
+Academic Career
+Clare Boothe Luce Assistant Professor, University of Wisconsin, Madison, 2009-2014
+   
+Ph.D., Univ. of Illinois, Urbana-Champaign, 2008
+    Dissertation: "Understanding, Detecting, and Exposing Concurrency Bugs"
+    Advisors: Yuanyuan Zhou
+Teaching
+
+- CMSC 331001, Advanced Operating Systems
+- MPCS 52030, Operating Systems
+- CMSC 15400, Introduction to Computer Systems
+- CMSC 22001, Software Construction, Fall 2019
+
+
+
+Projects
+Holistic Optimization of Data-Driven Applications
+
+Accurate Anytime Learning for Energy and Timeliness in Software Systems
+
+User-Centered Verification and Repair of Trigger-Action Programs
+
+Combating Distributed Concurrency Bugs in Cloud Systems
+
+Understanding and Automatically Adjusting Performance Sensitive Software Configurations
+
+Holistic, Cross-Site, Hybrid System Anomaly Debugging for Large Scale Hosting Infrastructures
+
+...
+
+Recent Publications
+
+
+As recorded by DBLP.
+
+As recorded by Google Scholar
+
+(Complete publication list)
+
+
+A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient Far-Memory Applications [OSDI'24]
+CacheGen: Fast Context Loading for Language Model Applications via KV Cache Streaming [SIGCOMM'24]
+ExChain: Exception Dependency Analysis for Root Cause Diagnosis [NSDI'24]
+Automatic and Efficient Customization of Neural Networks for ML Applications [OSDI'24]
+Run-Time Prevention of Software Integration Failures of Machine Learning APIs [OOPSLA'23]
+HotGPT: How to Make Software Documentation More Useful with a Large Language Model? [HotOS'23]
+Leveraging Application Data Constraints to Optimize Database-Backed Web Applications [VLDB'23]
+Generating Test Databases for Database-Backed Applications [ICSE'23]
+Helping Users Debug Trigger-Action Programs [UbiComp'23]
+WAFL: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection [EuroSys'23]
+
+AgileCtrl: A self-adpative Framework for Configuration Tuning [FSE'22]
+
+Cancel Culture in Systems: An Empirical Study of Task Cancellation Patterns and Failures [OSDI'22]
+
+MemLiner: Lining up Tracing and Application for a Far-Memory-Friendly Runtime [OSDI'22] (Won USENIX OSDI'22 Best Paper Award )
+
+Automated Testing of Software that Uses Machine Learning APIs [ICSE'22]
+
+Understanding and Detecting Software Upgrade Failures in Distributed Systems [SOSP'21]
+
+Are Machine Learning Cloud APIs Used Correctly? [ICSE'21]
+Understanding Trigger-Action Programs Through Novel Visualizations of Program Differences [CHI'21] (Honerable Mention Award )
+
+SherLock: Unsupervised Synchronization-Operation Inference [ASPLOS'21]
+
+Trace2TAP: Synthesizing Trigger-Action Programs From Traces of Behavior [UbiComp'20]
+
+Orthogonalized SGD and Nested Architectures for Anytime Neural Networks [ICML'20]
+
+Understanding and Automatically Detecting Conflicting Interactions between Smart Home Applications [FSE'20]
+
+ALERT: Accurate Learning for Energy and Timeliness [USENIX ATC'20]
+
+Statically Inferring Performance Properties of Software Configurations [EuroSys'20]
+
+Managing data constraints in database-backed web applications [ICSE'20]
+
+View-Driven Optimization of Database-Backed Web Applications [CIDR'20]
+
+Efficient and Scalable Thread-Safety Violation Detection --- Finding thousands of concurrency bugs during testing [SOSP'19] (Won SOSP Best Paper Award! )
+
+Generuk: Thin Computation over Big Native Data Using Speculative Program Transformation [SOSP'19]
+
+What Bugs Cause Production Cloud Incidents? [HotOS'19] (Featured on "Morning Paper'' )
+
+DFix: Automatically Fixing Timing Bugs in Distributed Systems [PLDI'19]
+
+View-Centric Performance Optimization for Database-Backed Web Applications [ICSE'19] (Won SIGSOFT Distinguished Paper Award ; featured on "Morning Paper'' )
+
+Synthesizing and Repairing Trigger-Action Programs Using LTL Properties [ICSE'19]
+
+Highly Scalable Testing of Complex Interleavings in Cloud Systems [EuroSys'19]
+
+SCk: A Single-Machine Approach for Discovering Scalability Bugs in Large Systems [FAST'19]
+
+DScope: Detecting Real-World Data Corruption Hang Bugs in Cloud Server Systems [SOCC'18]
+
+Applying Hardware Transactional Memory for Concurrency-Bug Failure Recovery in Production Runs [USENIX ATC'18]
+
+PCatch: Automatically Detecting Performance Cascading Bugs in Cloud Systems [EuroSys'18]
+
+How not to structure your database-backed web applications: a study of performance bugs in the wild [ICSE'18] (Featured on "Morning Paper'' and "Hacker News" )
+
+FCatch: Automatically detecting time-of-fault bugs in cloud systems [ASPLOS'18]
+
+Understanding and Auto-Adjusting Performance-Sensitive Configurations [ASPLOS'18]
+
+Skyway: Connecting Managed Heaps in Distributed Big Data Systems [ASPLOS'18] (Featured on "Morning Paper'' )
+
+Understanding Database Performance Inefficiencies in Real-world Web Applications [CIKM'17]
+
+Performance Diagnosis for Inefficient Loops [ICSE'17]
+
+Efficient Detection of Thread Safety Violations via Coverage-Guided Generation of Concurrent Tests [ICSE'17]
+
+DCatch: Automatically Detecting Distributed Concurrency Bugs in Cloud Systems [ASPLOS'17]
+
+Low-Overhead and Fully Automated Statistical Debugging with Abstraction Refinement [OOPSLA'16]
+
+Early Detection of Configuration Errors to Reduce Failure Damage [OSDI'16] (Won USENIX OSDI'16 Best Paper Award )
+
+Yak: A High-Performance Big-Data-Friendly Garbage Collector [OSDI'16]
+
+Understanding and Generating High Quality Patches for Concurrency Bugs [FSE'16]
+
+TaxDC: A Comprehensive Taxonomy of Non-Deterministic Concurrency Bugs in Cloud Distributed Systems [ASPLOS '16]
+
+Interruptable Tasks: Treating Memory Pressure As Interrupts for Highly Scalable Data-Parallel Programs [SOSP '15]
+
+What change history tells us about thread synchronization [FSE '15]
+
+CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes [ICSE'15] (Won SIGSOFT Distinguished Paper Award )
+
+AI: a lightweight system for tolerating concurrency bugs [FSE '14] (Won SIGSOFT Distinguished Paper Award )
+Statistical debugging for real-world performance problems [OOPSLA '14]
+Leveraging the short-term memory of hardware to diagnose production-run software failures [ASPLOS '14]
+Efficient concurrency-bug detection across inputs [OOPSLA '13]
+Validating Library Usage Interactively [CAV '13]
+
+A Study of Linux File System Evolution [FAST' 13] (Won USENIX Fast'13 Best Paper Award )
+
+Toddler: Detecting Performance Problems via Similar Memory-Access Patterns [ICSE '13]
+
+Production-run software failure diagnosis via hardware performance counters [ASPLOS '13]
+ConAir: featherweight concurrency bug recovery via single-threaded idempotent execution [ASPLOS '13]
+Automated Concurrency-Bug Fixing [OSDI '12]
+
+Understanding and detecting real-world performance bugs [PLDI '12]
+Applying transactional memory to concurrency bugs [ASPLOS '12]
+Automated atomicity-violation fixing [PLDI '11] (Won ACM SIGPLAN Research Highlights Award )
+ConSeq: detecting concurrency bugs through sequential errors [ASPLOS '11]
+Instrumentation and sampling strategies for cooperative concurrency bug isolation [OOPSLA '10]
+Do I use the wrong definition?: DeFuse: definition-use invariants for detecting concurrency and sequential bugs [OOPSLA '10]
+Leveraging parallelism for multi-dimensional packetclassification on software routers [SIGMETRICS '10]
+ConMem: detecting severe concurrency bugs through an effect-oriented approach [ASPLOS '10]
+...
+
+
+ 
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

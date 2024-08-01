@@ -1,0 +1,129 @@
+Professor: Niloufar Salehi
+University: Univ. of California - Berkeley
+URL: http://niloufar.org/
+Description: Skip to content
+Niloufar Salehi
+
+ABOUT
+ 
+PUBLICATIONS
+ 
+HUMAN-CENTERED AI COURSE
+ 
+INTRO TO UX DESIGN COURSE
+About
+
+Niloufar Salehi is an assistant professor in the School of Information at UC, Berkeley. She studies human-computer interaction, with her research spanning education to healthcare to restorative justice. 
+
+Her research interests are social computing, human-centered AI, and more broadly, human-computer interaction (HCI). Her work has been published and received awards in premier venues including ACM CHI, CSCW, and EMNLP and has been covered in Venture Beat, Wired, and the Guardian. She is a W. T. Grant Foundation scholar for her work on promoting equity in student assignment algorithms and is a member of the advisory board on generative AI at NVIDIA. She received her PhD in computer science from Stanford University in 2018.
+
+Research
+
+If you are a current UC Berkeley student who is interested in getting involved with the research described here please fill out this form [1].
+
+Human-Centered AI: Machine Translation
+
+This work focuses on developing technical methods for more reliable use of AI systems based on ML and LLMs. On example is Machine translation. Machine translation (e.g. Google Translate) has potential to remove language barriers and is widely used in hospitals in the U.S., but almost 20% of common medical phrases are mistranslated to Chinese, with 8% causing significant clinical harm. Examples of this work includes:
+
+Showing physicians a quality estimation model calibrated on medical text makes them more effective at identifying when to rely on a translation.
+Designing affordances that aid users in understanding when to rely on machine translation.
+Studying how machine translation is currently used in high stakes medical settings (STAT news).
+Using a combination of verified dictionaries and ML to increase the reliability of machine translation in high-stakes situations. In this work we build on “example-based translation” to develop evaluation methods.
+
+The long term goal of this research effort is to develop new approaches to design and evaluate reliable and effective AI systems in high-stakes, real-world contexts such as machine translation in medical settings.
+
+Community Centered Algorithm Design: School Assignment
+
+There is growing awareness around the impact that algorithmic systems have on people. An open question is how algorithmic systems can be designed to center the needs and values of the communities they impact. In our work we study a matching algorithm that assigns students to public schools across the U.S. Examples of this work include:
+
+Why student assignment systems have fallen short of their promised goals of transparency and equity in practice? They make modeling assumptions that clash with the real world.
+Can information technologies help lower resourced parents submit more informed preferences?
+How the design of a preference language shapes the opportunities for meaningful participation depending on the costs, expressiveness, and collectivism of the language.
+How can we implement elements of procedural justice (voice, agency, helpfulness) within algorithmic system design?
+
+Ultimately, our goal is to develop methods and best practices to engage parents and policy makers in designing algorithmic systems.
+
+Restorative Justice Approaches to Addressing Online Harm
+
+Harms such as harassment are notorious online but extremely difficult to address effectively. Dominant models of content moderation leave out victims and their needs and instead focus on punishing offenders. We take restorative justice as an alternative approach to ask: Who’s been harmed? What are their needs? And whose obligation is it to meet those needs? Examples of this work include:
+
+What do adolescents need when they are harmed online? Sensemaking, support, safety, retribution, and transformation.
+How targeted diet ads harm people with histories of disordered eating, particularly when it’s hard to get rid of them even during recovery.
+How online counter-publics (such as by Muslim American public figures) struggle to engage externally on social media platforms due to the scale of harm that spreads across time and space.
+How might we better support people who have been harmed online to engage in sensemaking about the harm and identifying actions and stakeholders that can support them?
+Why content moderation is a fundamentally limited model for addressing online harm and what an alternative based on community care might look like.
+
+Our goal in this work is to design better mechanisms and tools to address online harm by centering the needs of those who are harmed and supporting those who have caused harm to take accountability and work to repair the harm.
+
+Funding
+
+My work is currently supported by the National Science Foundation under the following grants:
+
+FAI: A Human-Centered Approach to Developing Accessible and Reliable Machine Translation, with Marine Carpuat (PI) and Ge Gao, [article, award]
+DASS: Legally & Locally Legitimate: Designing & Evaluating Software Systems to Advance Equal Opportunity, with Catherine Albiston and Afshin Nikzad, [article, award]
+FOW: Human-Machine Teaming for Effective Data Work at Scale: Upskilling Defense Lawyers Working with Police and Court Process Data, with Aditya Parameswaran (PI), Sarah Chasins, Joseph Hellerstein, and Erin Kerrison, [article, press, award]
+
+Additionally, I am grateful for support from the W. T. Grant Foundation, Google-BAIR commons and Facebook research.
+
+[1] Unfortunately, we can not currently accept research assistants from outside the university, but there are some great summer undergraduate research opportunities at CMU HCII, UC, San Diego, and University of Washington among others. You can find a list of NSF supported undergraduate research opportunities in computer and information sciences here.
+
+
+
+
+Assistant Professor
+School of Information, UC, Berkeley
+Affiliated appointment, EECS
+Faculty, Berkeley AI Research Lab (BAIR)
+Affiliated faculty, Berkeley Computational Precision Health (CPH)
+Faculty advisor, AI Policy Hub
+Advisory board member, NVIDIA Generative AI
+
+
+nsalehi[@]berkeley.edu
+Curriculum Vitae · Google Scholar · LinkedIn
+@Niloufar@hci.social nilou.bsky.social
+Headshot
+
+Niloufar is pronounced as “Nee” + “Lou” (as in blue) + “far” (as in fab), Salehi is “Sal” (as in tall) + “e” (as in “pet”) + “hi” (as in tea) | audio here: niːluː’fær saːle’hiː
+
+News
+-Jan 9th: I joined the Product Perspectives podcast on how AI will change the future of product management and the role of product managers in responsible tech development.
+- Jan 3rd: My keynote at BayLearn 2023, "Designing Reliable Human-AI Interactions" is on Youtube
+- Dec 8th: Our paper on reliable physician use of Machine Translation won an Outstanding Paper Award at EMNLP 2023.
+- Dec 5th: Sam Robertson defends her dissertation!
+
+Invited Talks and Travel
+- Computer Science, UIUC, April 16th
+- Computer Science, UCSD, April 10th
+- Computer Science, USC, April 9th
+- Computer Science, U of Maryland, Mar 28th
+- Human-Centered Machine Translation, Tokyo, Japan, Mar 11-14th
+- AAAI Workshop: Public Sector LLMs: Algorithmic and Sociotechnical Design, Vancouver, Feb 27
+- Information Science, Cornell, Jan 31
+- Seminar series, Brown Computer Science, Nov 9
+- BAIR Workshop: Language Technologies in Interaction, Berkeley, Oct 20
+- Keynote, BayLearn 2023, Oakland, Oct 19
+
+Teaching
+Fall 2022:
+Info 213: Intro to Human-Centered Design
+Spring 2024:
+Info 217: HCI Research
+Info 290: Human-Centered AI
+
+PhD students
+Sabriya Alam (EECS)
+Liza Gak (I School)
+Angela Jin (EECS)
+Tonya Nguyen (I School)
+Seyi Olojo (I School, co-advised with Jenna Burrell)
+Sijia Xiao (I School, co-advised with Coye Cheshire)
+
+I advise PhD students through both the I School and EECS PhD programs.
+
+PhD alumni
+Samantha Robertson, Abridge
+
+Powered By Aarambha Themes.
+ABOUT PUBLICATIONS HUMAN-CENTERED AI COURSE INTRO TO UX DESIGN COURSE
+

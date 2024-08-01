@@ -1,0 +1,140 @@
+Professor: Yongxin Chen
+University: Georgia Institute of Technology
+URL: https://yongxin.ae.gatech.edu/index.html
+Description: Yongxin Chen
+Home
+CV
+Research
+People
+Interests
+Papers
+Software
+Talks
+	
+Yongxin Chen
+ 	
+
+Associate Professor
+School of Aerospace Engineering
+Institute for Robotics and Intelligent Machines
+Machine Learning Center
+Georgia Institute of Technology
+
+Address:
+Guggenheim 448B
+North Avenue, Atlanta, GA 30332
+
+Email: yongchen@gatech.edu
+Phone: 404-894-2765
+URL: www.yongxin.ae.gatech.edu
+Lab website: Foundations of Learning And Intelligent Robots (FLAIR) lab
+Twitter: twitter.com/yongxinchen1
+
+I am looking for motivated graduate students interested in Systems and control, Machine learning, Robotics, and Optimization. Solid background in math and/or coding is required. Our strategic areas for Fall 2024 include generative AI and robot learning. Applicants major in computer science or automation are of high priority. If you are interested in working with me, please feel free to contact me and send me your CV and transcripts. Visiting scholars are also welcome to contact me, but please be aware that the paperwork normally takes two months. There are currently no funded postdoctoral positions in my group. We would only consider applicants with external fellowship funding. Some opportunities include GT President's Postdoc, GT AE Postdoc Fellowship, ASEE eFellows, and NSF Postdoc Fellowship.
+
+Biosketch
+
+Yongxin Chen was born in Ganzhou, Jiangxi, China. He received his BSc in Mechanical Engineering from Shanghai Jiao Tong university, China, in 2011, and a Ph.D. degree in Mechanical Engineering, under the supervision of Tryphon Georgiou, from University of Minnesota in 2016. He is currently an Associate Professor in the School of Aerospace Engineering at Georgia Institute of Technology. Before joining Georgia Tech, he had a one-year Research Fellowship in the Department of Medical Physics at Memorial Sloan Kettering Cancer Center with Allen Tannenbaum from 2016 to 2017 and was an Assistant Professor in the Department of Electrical and Computer Engineering at Iowa State University from 2017 to 2018. He received the George S. Axelby Best Paper Award (IEEE Transaction on Automatic Control) in 2017 for his joint work ‘‘Optimal steering of a linear stochastic system to a final probability distribution, Part I’’ with Tryphon Georgiou and Michele Pavon and the SIAM Journal on Control and Optimization Best Paper Award in 2023. He received the NSF CAREER Award in 2020, the Simons-Berkeley research fellowship in 2021, the A.V. ‘Bal’ Balakrishnan Award in 2021, and the Donald P. Eckman Award in 2022. He delivered a plenary talk at the 2023 American Control Conference.
+
+News
+
+Dec 2023: My second PhD student graduated! Congratulations! Qinsheng. All the best for your future endeavors! Sky is your limit.
+
+Oct 2023: I delivered seminar talks titled ‘‘A Proximal Algorithm for Sampling’’ at University of Georgia and Georgia State University.
+
+Sep 2023: Our paper ‘‘Diffusion-Based Adversarial Sample Generation for Improved Stealthiness and Controllability’’ is accepted to the 2023 Conference on Neural Information Processing Systems. We proposed a novel diffusion model-based method to generate adversarial samples that are imperceptible to human eyes. Our algorithm is advantageous over existing methods in terms of stealthiness, controllability, and transferability.
+
+Aug 2023: Our paper ‘‘Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models’’ is accepted to the 2023 Conference on Robot Learning. In this work, we proposed a novel diffusion model-based method to learn individual skills from expert data and connect them strategically to realize complex task sequences. Our method is among the first methods that can accomplish long-horizon tasks with only short-horizon training data.
+
+Aug 2023: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at the Algorithms & Randomness Center Colloquium at Georgia Tech.
+
+Aug 2023: New PhD student (ML program) Wei Guo joins our group. Welcome!
+
+June 2023: I am deeply honored to have the opportunity to deliver a plenary talk titled ‘‘A Journey through Diffusions in Control, Inference, and Learning’’ at the 2023 American Control Conference held in San Diego. It is a privilege to share my insights and experiences on the topics of stochastic diffusions, control, statistical inference, and machine learning. Here is the slides.
+
+May 2023: Two papers ‘‘Improved dimension dependence of a proximal algorithm for sampling’’ and ‘‘On a Class of Gibbs Sampling over Networks’’ are accepted to COLT 2023! Both papers are on MCMC sampling.
+
+May 2023: My first PhD student just graduated! Congratulations! Rahul. Good luck with your future journey!
+
+May 2023: I gave a talk titled ‘‘Graphical Optimal Transport and its Applications’’ at The Institute for Computational and Experimental Research in Mathematics (ICERM)
+
+May 2023: Our paper ‘‘Scalable computation of dynamic flow problems via multimarginal graph-structured optimal transport’’ is accepted to the INFORMS Journal on Mathematics of Operations Research.
+
+May 2023: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at Duke University.
+
+April 2023: Our paper ‘‘DiffCollage: Parallel Generation of Large Content with Diffusion Models’’ is accepted to CVPR! We present an efficient method to generate large content using only diffusion models for small content.
+
+April 2023: I gave a talk titled ‘‘Fast Sampling of Diffusion Models’’ at University of Minnesota.
+
+April 2023: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at University of Massachusetts Amherst.
+
+April 2023: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at Rensselaer Polytechnic Institute.
+
+April 2023: Our paper ‘‘Density control of interacting agent systems’’ is accepted to the IEEE Transactions on Automatic Control. We present a distributional control framework for controlling the group behavior of a large number of interacting agents such as UAV swarms.
+
+Mar 2023: Our paper ‘‘A Gaussian Variational Inference Approach to Motion Planning’’ is accepted to the IEEE Robotics and Automation Letters. We present a novel Gaussian variational inference approach to motion planning to account for uncertainties in the dynamics and environment.
+
+Feb 2023: New manuscript ‘‘Improved dimension dependence of a proximal algorithm for sampling’’ is posted on arXiv. It achieves, for the first time, sqrt(d) complexity to sample from strongly-log-concave distributions in the high accuracy regime. Our algorithm has the best sample complexity for all classical settings: strongly-log-concave, log-concave, Logarithmic Sobolev inequality, Poincare inequality, as well as nonstandard settings: semi-smooth, composite potentials.
+
+Feb 2023: Our papers ‘‘DEIS: Fast Sampling of Diffusion Models with Exponential Integrator’’ and ‘‘gDDIM: Generalized Denoising Diffusion Implicit Models’’ are accepted to ICLR 2023. We present an efficient training-free algorithm to sample from an arbitrary diffusion models. Our algorithm enables sampling high quality samples from large-scale diffusion models within 10 steps. Code is available DEIS, gDDIM
+
+Jan 2023: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at the Simons Institute for the Theory of Computing to present our latest results on MCMC sampling.
+
+Dec 2022: Our paper ‘‘A Optimal Control Approach to Particle Filtering on Lie Groups’’ is accepted to L-CSS letters. We present a new particle filtering method over Lie groups that suffers less from particle degeneracy issues.
+
+Nov 2022: I gave a talk titled ‘‘Graphical Optimal Transport and its Applications’’ at University of Connecticut.
+
+Nov 2022: I gave a talk titled ‘‘A Proximal Algorithm for Sampling’’ at Carnegie Mellon University.
+
+Oct 2022: I gave a talk titled ‘‘A Journey through Diffusions’’ at University of Southern California.
+
+Oct 2022: Our paper ‘‘Inertialess Gyrating Engines’’ is accepted to PNAS Nexus! It provides one interesting interpretation to the underlying mechanism of Molecular motor.
+
+Sep 2022: We (with Jiaming Liang) organized a minisymposium in the SIAM Conference on Mathematics of Data Science on the topic of sampling and optimization.
+
+Aug 2022: New PhD students (ML program) Haotian Xue and Zishun Liu join our group. Welcome!
+
+Jun 2022: I am honored to receive the Donald P. Eckman Award for Outstanding Young Engineer in the Field of Automatic Control. Thanks!
+
+May 2022: New manuscript ‘‘A Proximal Algorithm for Sampling from Non-convex Potentials’’ is posted on arXiv. It achieves the best complexity bound for sampling from semi-smooth non-log-concave distributions. It also provides the first ever high accuracy guarantee for sampling in this regime!
+
+May 2022: Rahul starts intern at Intel AI, Qinsheng starts intern at Nvidia, and Jiaojiao starts intern at Microsoft Research. Good luck!
+
+May 2022: New PhD student (ROBO program) Utkarsh Mishra joins our group. Welcome!
+
+May 2022: Our paper ‘‘Variational Wasserstein gradient flow’’ is accepted to ICML 2022. A scalable algorithm to compute Wasserstein gradient flow is developed.
+
+May 2022: Our paper ‘‘Improved analysis for a proximal algorithm for sampling’’ is accepted to COLT 2022. It provides a beautiful convergence analysis for the proximal sampling algorithm.
+
+Apr 2022: New manuscript ‘‘Fast Sampling of Diffusion Models with Exponential Integrator’’ is posted on arXiv. DEIS is the best fast sampling algorithm for diffusion models so far!
+
+Apr 2022: I receive grant from NSF Applied Math to support research on Graphical Optimal Transport. Thanks!
+
+Mar 2022: Our paper ‘‘Inference with Aggregate Data in Probabilistic Graphical Models: An Optimal Transport Approach’’ is accepted by TAC. We develop a novel method based optimal transport for inference using aggregate observations.
+
+Mar 2022: New manuscript ‘‘A Proximal Algorithm for Sampling’’ is posted on arXiv. It achieves the best complexity bound for sampling from semi-smooth log-concave distributions.
+
+Feb 2022: Our paper ‘‘Path Integral Sampler: a stochastic control approach for sampling’’ is accepted to ICLR 2022. We develop a new method for sampling based on optimal control.
+
+Feb 2022: Our paper ‘‘Data-driven Optimal Control of Nonlinear Dynamics under Safety Constraints’’ is accepted by IEEE Control System Letters. A dual approach to data-driven optimal control is proposed.
+
+Jan 2022: Our paper ‘‘On the complexity of the optimal transport problem with graph-structured cost’’ is accepted to AISTATS 2022. New complexity bounds are derived for multi-marginal optimal transport with graphical structure.
+
+Sep 2021: Our paper ‘‘Diffusion normalizing flow’’ is accepted to NeurIPS 2021. It achieves the best performance among normalizing flow models.
+
+Sep 2021: Our paper ‘‘Learning Hidden Markov Models from Aggregate Observations’’ is accepted by Automatica. Our algorithm is able to learn a dynamical system based on aggregate observations.
+
+Aug 2021: I receive the Simons-Berkeley research fellowship for the Geometric Methods in Optimization and Sampling program. Thanks!
+
+May 2021: Our paper ‘‘Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks’’ is accepted to ICML 2021 as a long talk. A scalable algorithm for Wasserstein Barycenter is developed.
+
+May 2021: I receive the A. V. ‘Bal’ Balakrishnan Award for Excellence in Scientific Research in the Mathematics of Systems. Thanks!
+
+Apr 2021: Our paper ‘‘Optimal Transport in Systems and Control’’ is accepted by Annual Review of Control, Robotics, and Autonomous Systems. It is an introduction of optimal transport to the control community.
+
+Mar 2021: Our paper ‘‘Stochastic Control Liaisons: Richard Sinkhorn Meets Gaspard Monge on a Schrodinger Bridge’’ is accepted by SIAM Review. It provides an overview of Optimal transport and the Schrodinger bridge problems from the perspective of stochastic control.
+
+Mar 2020: I receive the NSF CAREER Award. Thanks!
+
+Page generated 2023-12-30 18:12:34 EST, by jemdoc.
+

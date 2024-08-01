@@ -1,0 +1,94 @@
+Professor: Matus Telgarsky
+University: New York University
+URL: http://mjt.cs.illinois.edu/
+Description: Hello, Friend.
+
+My name is Matus Telgarsky;
+I study mathematical aspects of deep learning.
+(Here’s an old picture.)
+I am currently on leave at the Courant Institute of Mathematical Sciences.
+
+Selected work (see also arXiv and google scholar).
+
+Implicit bias of standard optimization methods. Here the goal is to show that standard optimization methods not only minimizing the training error objective handed to them, but also prefer simple solutions, which ultimately achieve good test error.
+
+Directional convergence and alignment in deep learning.
+
+Ziwei Ji, Matus Telgarsky; NeurIPS 2020.
+
+This work proves that the parameters of standard deep networks converge in direction and are asymptotic critical points of the margin objective, generalizing and strengthening many old implicit bias results, and implying a variety of new ones. See also our older work on alignment in deep linear networks.
+
+Polylogarithmic width suffices for gradient descent to achieve arbitrarily small test error with shallow ReLU networks.
+
+Ziwei Ji, Matus Telgarsky; ICLR 2020.
+
+This work shows that networks with empirically-motivated small width can still achieve arbitrarily small test error near initialization (indeed sometimes with matching test error lower bounds), assuming these small networks exist (stated formally as a margin assumption). This was the first work to use a width smaller than the number of training points.
+
+Risk and parameter convergence of logistic regression.
+
+Ziwei Ji, Matus Telgarsky; COLT 2019.
+
+This work shows that gradient descent with linear predictors and exponentially-tailed losses selects minimum-norm predictors; for linearly-separable data, this translates into margin maximization, but this work moreover gives a nonseparable analysis. See also the independent work of Soudry, Hoffer, Nacson, Gunasekar, Srebro for another proof technique in the linearly separable case.
+
+Margins, shrinkage, and boosting.
+
+Matus Telgarsky; ICML 2013.
+
+This work gave the first proof that a first order method (coordinate descent) on exponentially-tailed losses has an implicit bias towards the maximum margin direction.
+
+Generalization. Here the goal is to prove that the training error and test error are close for well-structured predictors.
+
+Spectrally-normalized margin bounds for deep networks.
+
+Peter Bartlett, Dylan Foster, Matus Telgarsky; NIPS 2018.
+
+This work firstly gives a generalization bound which scales with the spectrally-normalized margin of deep networks, and secondly demonstrates empirically that this bound correlates with generalization, and that gradient descent prefers large margin predictors.
+
+Approximation. Here the goal is to characterize certain classes of predictors as their parameters vary.
+
+Benefits of depth in deep networks.
+
+Matus Telgarsky; COLT 2016.
+
+This work gave the first proof that there exist deep networks which are hard to approximate by shallow networks, even if those shallow networks have exponentially as many nodes as the deep network. See also my earlier, simpler, more specific construction, and this cleaner proof in my deep learning theory lecture notes.
+
+I am also actively writing lecture notes on deep learning theory (new version, old version). My other interests include clustering, unsupervised learning, interpretability, and reinforcement learning.
+
+Teaching.
+
+Deep learning theory (CS 540 CS 598 DLT): fall 2022, fall 2021, fall 2020, fall 2019.
+Deep learning theory lecture notes: new version, old version.
+
+Machine learning (CS 446): spring 2022, spring 2021, spring 2019, spring 2018.
+Some course materials.
+
+Machine learning theory (CS 598 TEL): fall 2018, fall 2017, fall 2016.
+
+Miscellaneous.
+
+I was very fortunate to receive my PhD from UCSD in 2013 under glorious Sanjoy Dasgupta.
+
+PhD students:
+
+Ziwei Ji (吉梓玮), graduated 2022, now at Google Research NYC, (here is a glorious 2020 talk he gave on some of our implicit bias work).
+
+Justin D. Li.
+
+Qiaobo Li.
+
+Danny Son.
+
+My research is funded by an NSF CAREER award, and an NVIDIA GPU grant.
+
+During summer 2019 I co-organized a Simons Institute summer program on deep learning with Samy Bengio, Aleksander Mądry, Elchanan Mossel; I was also at the Simons Institute during Spring 2017.
+
+I co-founded the Midwest ML Symposium (MMLS) and moreover co-chaired the 2017 and 2018 editions, all together with glorious Po-Ling Loh.
+
+I have a degree in violin performance from Juilliard, but hardly play any more.
+
+I coded a screensaver, a 3-d plotting tool, and a few other things if you know where to look.
+
+My desk is always messy.
+
+I like scifi books, pencils, ramen, and aphex twin.
+

@@ -1,0 +1,117 @@
+Professor: David G. Andersen
+University: Carnegie Mellon University
+URL: https://www.cs.cmu.edu/~dga
+Description: Dave Andersen
+	Professor
+Computer Science Department
+Carnegie Mellon University
+
+And CTO of Enriched Ag
+
+David Andersen
+School of Computer Science
+Carnegie Mellon University
+5000 Forbes Ave
+Pittsburgh, PA 15213-3891
+
+Short bio.
+Pronouns: He / him.	            	Office: 9109 Gates
+
+Tel: 412-268-3064
+Fax: 412-268-5576
+
+Email: dga@cs.cmu.edu
+I also send email from the account dave.andersen at gmail.com
+
+
+[ Mastodon, Facebook, GitHub]
+
+Before sending email:
+
+Reviews: I am currently refusing all requests to review for publications that follow the IEEE or Elsevier copyright policy.
+Potential students: Please click here for more information.
+Teaching
+Spring 2019: 15-712 - Graduate Advanced Operating Systems & Distributed Systems. Previous semesters: [ Fall 2014, Fall 2013, Spring 2011, Spring 2010, Fall 2007]
+Spring 2014: 15-440 - Distributed Systems. Previous semesters: [ Fall 2012, Fall 2011, Fall 2010, Fall 2009]
+Spring 2012: 15-829: Memory and Resource Efficient Computing (special topics course)
+Spring 2009: 15-849 - Low Power Computing, a grad elective / special topics course.
+Fall 2008: 15-441 - Introduction to Computer Networks. Previous semesters: [Spring 2008] [Fall 2006] [Spring 2005]
+Spring 2007: 15-744 - Graduate Computer Networks
+Fall 2005: 15-849 - Networking in Challenging Environments
+Latest Research
+MemC3: Compact and Concurrent Memcache with Dumber Caching and Smarter Hashing
+This paper introduces a new mechanism for memory-efficient, multi-reader concurrent hashing, called optimistic cuckoo hashing, and uses it to make Memcached scale better, run faster, and use less memory.
+Stronger Semantics for Low-Latency Geo-Replicated Storage
+This NSDI 2013 paper presents Eiger, a follow-on system to our earlier work on causally consistent geo replicated storage in COPS. Eiger improves upon cops by supporting Cassandra's rich data model (instead of just a basic key-value store); supporting write transactions in addition to read transactions; and fixing the problem in COPS of an unsightly buildup of state if one of the datacenters fails.
+Research
+
+My research interests are in computer systems in the networked environment. I have a particular interest in exploring the systems and data structure response to evolving hardware trends near the end of Moore's law, memory and power-efficient computing, and robust distributed systems.
+
+Papers and Publications
+
+My Google Scholar Profile
+
+My reesarch group's code is mostly released on GitHub.com/efficient
+
+Current Projects
+The Intel Center for Science and Technology (ISTC) for Visual Cloud Computing - enabling large-scale machine learning on video streams
+Using RDMA in Internet datacenters, capped by eRPC, an RPC system built for datacenters
+CuckooSwitch, libcuckoo, and the Cuckoo Filter
+FAWN (Fast Array of Wimpy Nodes) - creating a low-power cluster architecture for data-intensive workloads.
+Older projects:
+AIP - the Accountable Internet Protocol
+Data-Oriented Transfer (DOT)
+The Datapository - a collaborative facility for network monitoring, analysis, and data storage
+Perspectives - using multi-path probing to improve the security of SSH and SSL authentication
+Resilient Overlay Networks (RON)
+Multi-homed Overlay Networks (MONET)
+The Congestion Manager (CM)
+Emulab
+Source Code
+SILT(2011)
+XIA (2011-ongoing)
+Feed-forward Bloom Filters (2009-2011)
+FAWN-KV (2009)
+Mark-and-Sweep, a tool for wifi and broadband network connectivity scanning
+DOT (data-oriented transfer) (2005-2008)
+BGP prediction code from AIP sigcomm 2008 paper.
+MONET - Multi-Homed Overlay Networks (2005).
+RON - Resilient Overlay Networks code and data (2001-2006).
+Congestion Manager (2000).
+Advice
+
+I've been writing a few blog posts with bits and pieces of CS Ph.D.-relevant advice I haven't seen elsewhere:
+
+On the Ph.D. (to Ph.D. or not to Ph.D.?)
+Two Examples from the Computer Science Review and Publication Process
+Reflecting on CS Graduate Admissions
+Finances for CS Ph.D. students
+Finances for Recent CS Ph.D.s
+Professional activities
+Program Committee ("Heavy"), OSDI 2014, OSDI 2010
+Program Committee, Symposium on Experimental Algorithms, 2014
+Member, DARPA Information Sciences and Technology (ISAT) advisory group.
+Program Committee ("Heavy"), SOSP 2013, SOSP 2009
+Program Committee, NSDI 2012, 2006
+Program Committee, HotNets 2011
+Program co-chair, NSDI 2011
+Program Committee ("Heavy"), SIGCOMM 2009, 2008
+Older PC service: Program co-chair of HotNets 2008, PC member HotNets 2007, Program co-chair, WORLDS '06 (USENIX Workshop on Real Large Distributed Systems), Internet Measurement Conference 2006 HotDep 2006 WORLDS '05, '04 USENIX 2005
+About me
+
+I completed my Ph.D. at MIT in December 2004. Prior to that, I received an MS in computer science from MIT in 2001, and BS degrees in biology and computer science from the University of Utah. In 1995, I co-founded an Internet Service Provider in Salt Lake City, Utah. My blog is online. (as is my old blog.)
+
+Non-Research Software
+coursegen - a small set of ruby scripts/etc. to semi-auto-generate course web pages. Takes a YAML input of the list of classes, topics, etc., for the semester and outputs HTML and an iCal file. This is what generated the pages for my above-linked courses.
+paper_skel - the LaTeX template my research group uses for starting papers. Emits USENIX and ACM systems conference style-compatible PDF with less ugliness than the default ACM style file.
+Random Things
+Dave's guide to Running in Pittsburgh - I have a bit of a running problem, so I put together a list of nice runs in the area.
+My list and map of running routes in Boston
+The Usable Mac - my collection of things to make my mac use a little more efficient (and bring in some unixy goodness). 2nd half is CMU specific - integrating with kerberos/AFS/etc.
+The Pi Searcher - search for arbitrary substrings in the first 200 million digits of Pi.
+Compound interest calculators of various sorts - I got sick of bloated, ad-laden sites for these that didn't do what I wanted and that didn't work well on my phone.
+
+[Short bio] [CV] [Personal web page] [Running and Triathlon] [Climbing]
+
+Last updated: 2022-12-18 13:12:21 -0500 [validate xhtml]
+

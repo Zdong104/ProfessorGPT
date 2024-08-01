@@ -1,0 +1,281 @@
+Professor: Jing Jane Li
+University: University of Pennsylvania
+URL: https://www.seas.upenn.edu/~janeli/index.html
+Description: Loading [MathJax]/jax/output/HTML-CSS/fonts/TeX/fontdata.js
+i!DOCTYPE html>
+Home
+Education
+Research Interests
+Awards
+Publications
+Courses
+Talks
+Services
+
+
+Jing (Jane) Li
+
+
+
+Eduardo D. Glandt Faculty Fellow,
+Associate Professor (with tenure)
+
+
+Department of Electrical and Systems Engineering
+Department of Computer and Information Science
+University of Pennsylvania
+
+
+Email: janeli at seas.upenn.edu
+Lab website: PennCIL
+
+
+Google Scholar
+LinkedIn
+Twitter
+ORCID
+CV
+
+Dr. Jing (Jane) Li is the Eduardo D. Glandt Faculty Fellow and Associate Professor (with tenure) at the Department of Electrical and System Engineering and the Department of Computer and Information Science at the University of Pennsylvania. Previously she was the Dugald C. Jackson Assistant Professor at the University of Wisconsin–Madison and a faculty affiliate with the UW-Madison Computer Architecture group and Machine Learning group. She is one of the PIs in SRC JUMP center – Center for Research on Intelligent Storage and Processing-In-Memory (CRISP). She spent her early career at IBM T. J. Watson Research Center as a Research Staff Member after obtaining her PhD degree from Purdue University in 2009.
+
+She is attracted to all the big problems she can find in computer system across the stack regardless the specific sub-areas. She is a passionate computer experimentalist and enjoy building real computer systems (both hardware and software). She has made contributions to the following “memory-centric” areas: 1) domain-specific accelerator and its interaction with emerging memories (HMC/HBM/NVM), 2) programmable in-memory computing architecture enabled by emerging nonvolatile memories (PCM/RRAM), 3) system support (e.g., virtualization) for accelerators (e.g., FPGA), and 4) FPGA-based full system simulation infrastructure (MEG) for memory system research. She has strong ties with leading technology companies and has successful technology transfer experience (>40 issued/pending patents).
+
+She is the recipient of prestigious NSF Career Award in 2018, DARPA’s Young Faculty Award (one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide, the first awardee in computer engineering and computer science at UW-Madison) in 2016, WARF Innovation Awards (WIA) Finalist (only 6 patented technologies out of 400+ patents got selected university wide), IBM Research Division Outstanding Technical Achievement Award in 2012 for successfully achieving CEO milestone, multiple invention achievement awards and high value patent application awards from IBM from 2010-2014, IBM Ph.D. Fellowship Award in 2008, Meissner Fellowship in 2004 from Purdue University, etc. Her research was reported by Yahoo News, Newegg Business, Digital Trends, etc. And she was featured in Madison Magazine (Channel 3000) as a rising research star.
+
+She has been serving on the technical committee for the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), International Symposium on Computer Architecture (ISCA), MLSys, International Symposium on High Performance Computer Architecture (HPCA), International Symposium on Field-Programmable Gate Arrays (FPGA), International Symposium on Field-Programmable Custom Computing Machines (FCCM), Design Automation Conference (DAC), International Conference on Computer‑Aided Design (ICCAD), International Symposium on Low Power Electronics and Design (ISLPED), International Symposium on Microarchitecture (MICRO) (external), IEEE International Symposium on Circuits and Systems (ISCAS), International Electron Devices Meeting (IEDM), etc.. She served as the advisory chair/general chair / technical chair / finance chair / publicity chair for a premier industry memory conference, International Memory Workshop (IMW) and co-organized it with Intel/Micron/SK Hynix/CEA LETI to hold annual meetings with worldwide memory vendors. She is in the Steering/Organizing Committee for IMW, and serves as the Publicity Chair for FPGA'20, FPGA'19 and ISLPED'18, the Demo Chair for MLSys'20 . She is an editor for Journal of Low Power Electronics (JOLPE), and associate editor for Transactions on Reconfigurable Technology and System (TRETS) and IEEE Computer Architecture Letters (CAL). She is serving at ACM SIGDA Technical Committee on FPGAs and Reconfigurable Computing (TC-FPGA).
+
+Education
+PhD in Computer Engineering, 2009
+Purdue University
+BSc in Electrical Engineering, 2004
+Shanghai Jiaotong University
+Research Interests
+Computer Architecture
+Compiler
+Machine Learning
+Distributed Systems
+VLSI
+Selected Honors and Awards
+Eduardo D. Glandt Faculty Fellow, University of Pennsylvania, 2020
+Johnson & Johnson WiSTEM2D Scholars Award Nominee (sole nominee university wide in the Engineering category), University of Wisconsin-Madison, 2019
+Madison Teaching and Learning Excellence (MTLE) faculty fellowship, 2019
+Best Paper nominee, FCCM, 2019
+Best of CAL (Best Paper Award), IEEE Computer Architecture Letters, 2018
+Moore Inventor Fellowship Nominee (1 out of 2 university wide), University of Wisconsin-Madison, 2018
+NSF Career Award, National Science Foundation, 2018
+Featured in Madison Magazine (Channel 3000) as a Rising Research Star, 2017
+Dugald C. Jackson Faculty Scholar of Electrical and Computer Engineering  (named after the first department chair of ECE), University of Wisconsin-Madison, 2017
+Hilldale Faculty Research Fellowship, University of Wisconsin-Madison, 2017
+DARPA Young Faculty Award, Defense Advanced Research Projects Agency (one out of 2 in computer area and one out of 26 across all areas in science and technology nationwide, the first awardee in computer engineering and computer science at UW-Madison), 2016
+WARF Innovation Awards (WIA) Finalist, University of Wisconsin-Madison (6 out of 400++ patents), 2016
+VLSI Transactions Best Paper Award, IEEE Circuits and Systems Society, 2013
+Outstanding Research Division Technical Achievement Award ( highest technical award for successfully achieving CEO milestone on Storage Class Memory), IBM T. J. Watson, 2012
+IBM High Value Patent Application Awards, IBM T. J. Watson, 2014
+IBM Invention Achievement Awards, IBM T. J. Watson, 2010-15
+IBM PhD Fellowship Award, 2008-09
+The Dean’s and Semester Honors for Outstanding Scholastics Performance, Purdue University, 2007-08.
+Magoon Award for Excellence in Teaching, Purdue University, 2005-06
+Meissner Fellowship Award, Electrical and Computer Engineering department, Purdue University, 2004-05.
+Publications
+Students under my supervision are denoted by "S"
+generated by 
+Group by 
+ 
+  2020 (3)
+Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications (invited). ZhaS, Y.; Nowak, E.; and Li, J. IEEE Journal of Solid-State Circuits (JSSC), 55(4): 908–919. 2020.
+   doi   link   bibtex    abstract     
+Hyper-AP: Enhancing Associative Processing Through A Full-Stack Optimization. ZhaS, Y.; and Li, J. In 2020 ACM/IEEE 45th Annual International Symposium on Computer Architecture, of ISCA '20, 2020. IEEE
+link   bibtex   
+ViTAL: Virtualizing FPGAs in the Cloud. ZhaS, Y.; and Li, J. In the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, of ASPLOS '20, pages 845–858, New York, NY, USA, Mar 2020. Association for Computing Machinery
+   doi   link   bibtex    abstract     
+  2019 (7)
+TOCO: A Framework for Compressing Neural Network Models Based on Tolerance Analysis. KhoramS, S.; and Li, J. 2019.
+   link   bibtex    abstract     
+Interleaved Composite Quantization for High-Dimensional Similarity Search. KhoramS, S.; Wright, S. J; and Li, J. 2019.
+   link   bibtex    abstract     
+MLSys: The New Frontier of Machine Learning Systems. Ratner, A.; Alistarh, D.; Alonso, G.; Andersen, D. G.; Bailis, P.; Bird, S.; Carlini, N.; Catanzaro, B.; Chayes, J.; Chung, E.; Dally, B.; Dean, J.; Dhillon, I. S.; Dimakis, A.; Dubey, P.; Elkan, C.; Fursin, G.; Ganger, G. R.; Getoor, L.; Gibbons, P. B.; Gibson, G. A.; Gonzalez, J. E.; Gottschlich, J.; Han, S.; Hazelwood, K.; Huang, F.; Jaggi, M.; Jamieson, K.; Jordan, M. I.; Joshi, G.; Khalaf, R.; Knight, J.; Konečný, J.; Kraska, T.; Kumar, A.; Kyrillidis, A.; Lakshmiratan, A.; Li, J.; Madden, S.; McMahan, H. B.; Meijer, E.; Mitliagkas, I.; Monga, R.; Murray, D.; Olukotun, K.; Papailiopoulos, D.; Pekhimenko, G.; Rekatsinas, T.; Rostamizadeh, A.; Ré, C.; Sa, C. D.; Sedghi, H.; Sen, S.; Smith, V.; Smola, A.; Song, D.; Sparks, E.; Stoica, I.; Sze, V.; Udell, M.; Vanschoren, J.; Venkataraman, S.; Vinayak, R.; Weimer, M.; Wilson, A. G.; Xing, E.; Zaharia, M.; Zhang, C.; and Talwalkar, A. 2019.
+   link   bibtex    abstract     
+Nb1-xO2 based Universal Selector with Ultra-high Endurance (>1012), high speed (10ns) and Excellent Vth Stability. Luo, Q.; Yu, J.; Zhang, X.; Xue, K.; Cheng, Y.; Gong, T.; Lv, H.; Xu, X.; Yuan, P.; Yin, J.; Tai, L.; Long, S.; Liu, Q.; Li, J.; and Liu, M. In 2019 IEEE Symposium on VLSI Technology, Jun 2019.
+doi   link   bibtex   
+Liquid Silicon: A Nonvolatile Fully Programmable Processing-In-Memory Processor with Monolithically Integrated ReRAM for Big Data/Machine Learning Applications. ZhaS, Y.; Nowak, E.; and Li, J. In 2019 IEEE Symposium on VLSI Circuits, Jun 2019.
+doi   link   bibtex    abstract   
+MEG: A RISCV-based system simulation infrastructure for exploring memory optimization using FPGAs and Hybrid Memory Cube (Best Paper Nominee). ZhangS, J.; LiuS, Y.; JainS, G.; ZhaS, Y.; TaS, J.; and Li, J. In 2019 IEEE 27th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), April 2019.
+doi   link   bibtex    abstract     
+Unleashing the Power of Soft Logic for Convolutional Neural Network Acceleration via Product Quantization (Poster). ZhangS, J.; and Li, J. In the 2019 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '19, Feb 2019.
+doi   link   bibtex     
+  2018 (11)
+Computing Generalized Matrix Inverse on Spiking Neural Substrate. Shukla, R.; KhoramS, S.; Jorgensen, E.; Li, J.; Lipasti, M.; and Wright, S. Frontiers in neuroscience: Neuromorphic engineering, 12: 115. Feb 2018.
+doi   link   bibtex    abstract     
+Specialization: A New Path towards Low Power (invited). ZhaS, Y.; and Li, J. ASP Journal of Low Power Electronics, 2018, 14(2). 2018.
+doi   link   bibtex     
+An Alternative Analytical Approach to Associative Processing (Best of CAL). KhoramS, S.; ZhaS, Y.; and Li, J. IEEE Computer Architecture Letters, 17(2): 113-116. July 2018.
+doi   link   bibtex    abstract     
+PQ-CNN: Accelerating Product Quantized Convolutional Neural Network (Poster). ZhangS, J.; and Li, J. In 2018 IEEE 26th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), April 2018.
+doi   link   bibtex   
+Efficient Large-scale Approximate Nearest Neighbor Search on the OpenCL-FPGA. ZhangS, J.; KhoramS, S.; and Li, J. In Conference on Computer Vision and Pattern Recognition (CVPR), pages 4924–4932, Jun 2018. (Acceptance Rate: 29%, 979 out of over 3300)
+doi   link   bibtex    abstract     
+Adaptive Quantization of Neural Networks. KhoramS, S.; and Li, J. In International Conference on Learning Representations (ICLR), April 2018.
+   link   bibtex    abstract   
+Nonvolatile Memory Outlook: Technology Driven or Application Driven? (invited). Li, J. In 2018 China Semiconductor Technology International Conference (CSTIC), pages 1–4, March 2018.
+doi   link   bibtex   
+Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support. ZhaS, Y.; and Li, J. In 23nd International Conference on Architectural Support for Programming Languages and Operating Systems, volume 53, of ASPLOS '18, pages 214–228, New York, NY, USA, Mar 2018. ACM (Acceptance Rate: 18.2%, 56 out of 307)
+   doi   link   bibtex    abstract     
+Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform. ZhangS, J.; and Li, J. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '18, pages 229–238, New York, NY, USA, Feb 2018. ACM (Acceptance Rate*: 24%)
+   doi   link   bibtex    abstract     
+Liquid Silicon: A Data-Centric Reconfigurable Architecture enabled by RRAM Technology. ZhaS, Y.; and Li, J. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '18, pages 51–60, New York, NY, USA, Feb 2018. ACM (Acceptance Rate*: 24%, Ranked #1 among 100+ submissions)
+   doi   link   bibtex    abstract   
+Accelerating Graph Analytics By Co-Optimizing Storage and Access on an FPGA-HMC Platform. KhoramS, S.; ZhangS, J.; StrangeS, M.; and Li, J. In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '18, pages 239–248, New York, NY, USA, Feb 2018. ACM (Acceptance Rate*: 24%)
+   doi   link   bibtex    abstract   
+  2017 (10)
+CMA: A Reconfigurable Complex Matching Accelerator for Wire-speed Network Intrusion Detection. ZhaS, Y.; and Li, J. IEEE Computer Architecture Letters, 17(1): 33-36. 2017.
+doi   link   bibtex     
+IMEC: A Fully Morphable In-Memory Computing Fabric Enabled by Resistive Crossbar. ZhaS, Y.; and Li, J. IEEE Computer Architecture Letters, 16(2): 123–126. Feb 2017.
+doi   link   bibtex   
+RRAM-based reconfigurable in-memory computing architecture with hybrid routing. ZhaS, Y.; and Li, J. In 2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), of ICCAD '17, pages 527–532, Nov 2017. (Acceptance Rate: 26%, 105 out of 399)
+doi   link   bibtex    abstract   
+Accelerating Large-Scale Graph Analytics with FPGA and HMC (Poster). KhoramS, S.; ZhangS, J.; StrangeS, M.; and Li, J. In 2017 IEEE 25th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), pages 82–82, April 2017.
+doi   link   bibtex   
+Challenges and Opportunities: From Near-memory Computing to In-memory Computing (invited). KhoramS, S.; ZhaS, Y.; ZhangS, J.; and Li, J. In Proceedings of the 2017 ACM on International Symposium on Physical Design, of ISPD '17, pages 43–46, New York, NY, USA, Mar 2017. ACM
+   doi   link   bibtex    abstract   
+Recent progress in RRAM technology: From compact models to applications (invited). ZhaS, Y.; Wei, Z.; and Li, J. In 2017 China Semiconductor Technology International Conference (CSTIC), pages 1–4, March 2017.
+doi   link   bibtex   
+RRAM-based Reconfigurable In-Memory Computing Architecture with Hybrid Routing (poster). ZhaS, Y.; and Li, J. In the 54th Annual Design Automation Conference Work-in-Progress, of DAC-WIP '17, New York, NY, USA, Jun 2017.
+link   bibtex   
+Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network. ZhangS, J.; and Li, J. In Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '17, pages 25–34, New York, NY, USA, 2017. ACM (Acceptance Rate: 25%, 25 out of 101)
+   doi   link   bibtex    abstract     
+Boosting the Performance of FPGA-based Graph Processor Using Hybrid Memory Cube: A Case for Breadth First Search. ZhangS, J.; KhoramS, S.; and Li, J. In Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '17, pages 207–216, New York, NY, USA, 2017. ACM (Acceptance Rate: 25%, 25 out of 101)
+   doi   link   bibtex    abstract   
+A Mixed-Signal Data-Centric Reconfigurable Architecture Enabled by RRAM Technology (poster). ZhaS, Y.; ZhangS, J.; Wei, Z.; and Li, J. In Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, of FPGA '17, pages 285–285, New York, NY, USA, 2017. ACM
+   doi   link   bibtex   
+  2016 (3)
+Reconfigurable in-memory computing with resistive memory crossbar. ZhaS, Y.; and Li, J. In Proceedings of the 35th International Conference on Computer-Aided Design, of ICCAD '16, pages 120:1–120:8, 2016. ACM (Acceptance Rate: 24%, 97 out of 408)
+   doi   link   bibtex    abstract     
+Fully CMOS compatible 3D vertical RRAM with self-aligned self-selective cell enabling sub-5nm scaling. Xu, X.; Luo, Q.; Gong, T.; Lv, H.; Long, S.; Liu, Q.; Chung, S. S.; Li, J.; and Liu, M. In 2016 IEEE Symposium on VLSI Technology, pages 1–2, June 2016.
+doi   link   bibtex   
+A compact model for RRAM including random telegraph noise. GuanS, B.; and Li, J. In 2016 IEEE International Reliability Physics Symposium (IRPS), pages MY-5-1–MY-5-4, April 2016.
+doi   link   bibtex   
+  2015 (2)
+Demonstration of 3D vertical RRAM with ultra low-leakage, high-selectivity and self-compliance memory cells. Luo, Q.; Xu, X.; Liu, H.; Lv, H.; Gong, T.; Long, S.; Liu, Q.; Sun, H.; Banerjee, W.; Li, L.; Gao, J.; Lu, N.; Chung, S. S.; Li, J.; and Liu, M. In 2015 IEEE International Electron Devices Meeting (IEDM), pages 10.2.1–10.2.4, Dec 2015.
+doi   link   bibtex   
+Enabling phase-change memory for data-centric computing: Technology, circuitand system (invited). Li, J. In 2015 IEEE International Symposium on Circuits and Systems (ISCAS), pages 21–24, May 2015.
+doi   link   bibtex   
+  2014 (1)
+1 Mb 0.41 μm2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (invited). Li, J.; Montoye, R.; Ishii, M.; and Chang, L. IEEE Journal of Solid-State Circuits, 49(4): 896–907. April 2014.
+doi   link   bibtex    abstract   
+  2013 (2)
+Assisted cubic to hexagonal phase transition in GeSbTe thin films on silicon nitride. Cil, K; Zhu, Y; Li, J.; Lam, C.; and Silva, H Thin Solid Films, 536: 216–219. 2013.
+   doi   link   bibtex   
+1Mb 0.41 μm2 2T-2R cell nonvolatile TCAM with two-bit encoding and clocked self-referenced sensing (Highlight Paper of the Year). Li, J.; Montoye, R.; Ishii, M.; Stawiasz, K.; Nishida, T.; Maloney, K.; Ditlow, G.; Lewis, S.; Maffitt, T.; Jordan, R.; and others In 2013 Symposium on VLSI Circuits, pages C104–C105, June 2013. (Acceptance Rate: 27%, 109 out of 396)
+link   bibtex    abstract   
+  2012 (7)
+Theory and Experiments of the Impact of Work-Function Variability on Threshold Voltage Variability in MOS Devices. Zhang, X.; Mitard, J.; Ragnarsson, L.; Hoffmann, T.; Deal, M.; Grubbs, M. E.; Li, J.; Magyari-Kope, B.; Clemens, B. M.; and Nishi, Y. IEEE Transactions on Electron Devices, 59(11): 3124–3126. Nov 2012.
+doi   link   bibtex   
+The impact of heater-recess and load matching in phase change memory mushroom cells. Cywar, A.; Li, J.; Lam, C.; and Silva, H. Nanotechnology, 23(22): 225201. 2012.
+   doi   link   bibtex   
+A case for small row buffers in non-volatile main memories. Meza, J.; Li, J.; and Mutlu, O. In 2012 IEEE 30th International Conference on Computer Design (ICCD), pages 484–485, Sept 2012. (Acceptance rate: 25%, 61 out of 241)
+doi   link   bibtex    abstract   
+Resistance drift in phase change memory (invited). Li, J.; Luan, B.; and Lam, C. In 2012 IEEE International Reliability Physics Symposium (IRPS), pages 6C.1.1–6C.1.6, April 2012.
+doi   link   bibtex     
+The impact of melting during reset operation on the reliability of phase change memory. Du, P. Y.; Wu, J. Y.; Hsu, T. H.; Lee, M. H.; Wang, T. Y.; Cheng, H. Y.; Lai, E. K.; Lai, S. C.; Lung, H. L.; Kim, S.; BrightSky, M. J.; Zhu, Y.; Mittal, S.; Cheek, R.; Raoux, S.; Joseph, E. A.; Schrott, A.; Li, J.; and Lam, C. In 2012 IEEE International Reliability Physics Symposium (IRPS), pages 6C.2.1–6C.2.6, April 2012.
+doi   link   bibtex   
+Optimization of programming current on endurance of phase change memory. Kim, S.; Du, P. Y.; Li, J.; Breitwisch, M.; Zhu, Y.; Mittal, S.; Cheek, R.; Hsu, T. H.; Lee, M. H.; Schrott, A.; Raoux, S.; Cheng, H. Y.; Lai, S. C.; Wu, J. Y.; Wang, T. Y.; Joseph, E. A.; Lai, E. K.; Ray, A.; Lung, H. L.; and Lam, C. In Proceedings of Technical Program of 2012 VLSI Technology, System and Application (VLSI-TSA), pages 1–2, April 2012.
+doi   link   bibtex   
+Evaluating Row Buffer Locality in Future Non-Volatile Main Memories. Meza, J.; Li, J.; and Mutlu, O. Technical Report 2012-002, Carnegie Mellon University (CMU), Dec 2012. SAFARI Technical Report
+link   bibtex   
+  2011 (8)
+Phase change memory (invited). Li, J.; and Lam, C. Science China Information Sciences, 54(5): 1061–1072. May 2011.
+   doi   link   bibtex    abstract     
+Materials engineering for Phase Change Random Access Memory. Raoux, S.; Cheng, H.; Sandrini, J.; Li, J.; and Jordan-Sweet, J. In 2011 11th Annual Non-Volatile Memory Technology Symposium Proceeding (NVMTS), pages 1–5, Nov 2011.
+doi   link   bibtex   
+Explore physical origins of resistance drift in phase change memory and its implication for drift-insensitive materials. Li, J.; Luan, B.; Hsu, T. H.; Zhu, Y.; Martyna, G.; Newns, D.; Cheng, H. Y.; Raoux, S.; Lung, H. L.; and Lam, C. In 2011 International Electron Devices Meeting (IEDM), pages 12.5.1–12.5.4, Dec 2011.
+doi   link   bibtex   
+A low power phase change memory using thermally confined TaN/TiN bottom electrode. Wu, J. Y.; Breitwisch, M.; Kim, S.; Hsu, T. H.; Cheek, R.; Du, P. Y.; Li, J.; Lai, E. K.; Zhu, Y.; Wang, T. Y.; Cheng, H. Y.; Schrott, A.; Joseph, E. A.; Dasaka, R.; Raoux, S.; Lee, M. H.; Lung, H. L.; and Lam, C. In 2011 International Electron Devices Meeting (IEDM), pages 3.2.1–3.2.4, Dec 2011.
+doi   link   bibtex   
+Post-silicon calibration of analog CMOS using phase-change memory cells. WenS, C.; Paramesh, J.; Pileggi, L.; Li, J.; Kim, S.; Proesel, J.; and Lam, C. In 2011 Proceedings of the ESSCIRC (ESSCIRC), pages 423–426, Sept 2011.
+doi   link   bibtex   
+A non-volatile look-up table design using PCM (phase-change memory) cells. WenS, C. Y.; Li, J.; Kim, S.; Breitwisch, M.; Lam, C.; Paramesh, J.; and Pileggi, L. T. In 2011 Symposium on VLSI Circuits - Digest of Technical Papers, pages 302–303, June 2011. (Acceptance Rate: 28%, 115 out of 409)
+link   bibtex   
+A Novel Reconfigurable Sensing Scheme for Variable Level Storage in Phase Change Memory. Li, J.; Wu, C. I.; Lewis, S. C.; Morrish, J.; Wang, T. Y.; Jordan, R.; Maffitt, T.; Breitwisch, M.; Schrott, A.; Cheek, R.; Lung, H. L.; and Lam, C. In 2011 3rd IEEE International Memory Workshop (IMW), pages 1–4, May 2011.
+doi   link   bibtex   
+Demonstration of CAM and TCAM Using Phase Change Devices. Rajendran, B.; Cheek, R. W.; Lastras, L. A.; Franceschini, M. M.; Breitwisch, M. J.; Schrott, A. G.; Li, J.; Montoye, R. K.; Chang, L.; and Lam, C. In 2011 3rd IEEE International Memory Workshop (IMW), pages 1–4, May 2011.
+doi   link   bibtex   
+  2010 (2)
+Design Paradigm for Robust Spin-Torque Transfer Magnetic RAM (STT MRAM) From Circuit/Architecture Perspective (best paper). Li, J.; Ndai, P.; Goel, A.; Salahuddin, S.; and Roy, K. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 18(12): 1710–1723. Dec 2010.
+doi   link   bibtex   
+Variable-Latency Adder (VL-Adder) Designs for Low Power and NBTI Tolerance. Chen, Y.; Li, H.; Koh, C.; Sun, G.; Li, J.; Xie, Y.; and Roy, K. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 18(11): 1621–1624. Nov 2010.
+doi   link   bibtex   
+  2009 (6)
+Variation Estimation and Compensation Technique in Scaled LTPS TFT Circuits for Low-Power Low-Cost Applications. Li, J.; Kang, K.; and Roy, K. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 28(1): 46–59. Jan 2009.
+doi   link   bibtex   
+Physical model of the impact of metal grain work function variability on emerging dual metal gate MOSFETs and its implication for SRAM reliability. Zhang, X.; Li, J.; Grubbs, M.; Deal, M.; Magyari-Köpe, B.; Clemens, B. M.; and Nishi, Y. In 2009 IEEE International Electron Devices Meeting (IEDM), pages 1–4, Dec 2009.
+doi   link   bibtex   
+Robust Heterogeneous System Design in Spintronics: Error Resilient Spin Torque MRAM (STT MRAM) Design. Li, J.; and Roy, K. In the 46th Annual Design Automation Conference PHD Forum, of DAC '09, 2009. (Acceptance Rate: 22%, 148 out of 684)
+link   bibtex   
+An Alternate Design Paradigm for Robust Spin-torque Transfer Magnetic RAM (STT MRAM) from Circuit/Architecture Perspective. Li, J.; Ndai, P.; Goel, A.; Liu, H.; and Roy, K. In Proceedings of the 2009 Asia and South Pacific Design Automation Conference, of ASP-DAC '09, pages 841–846, Piscataway, NJ, USA, Jan 2009. IEEE Press
+   doi   link   bibtex    abstract     
+Variation Resilient Spin Torque Transfer MRAM (poster). Li, J.; Ndai, P.; Ashish, G.; and Roy, K. In GSRC Workshop, Mar 2009.
+link   bibtex   
+Robust and Energy-efficient Heterogeneous System Design in Emerging Technologies (nominated for Best Thesis Award). Li, J. Ph.D. Thesis, Electrical and Computer Engineering, 2009. Advisor: Prof. Kaushik Roy
+link   bibtex   
+  2008 (5)
+An Alternate Design Paradigm for Low-power, Low-cost, Testable Hybrid Systems Using Scaled LTPS TFTs (invited). Li, J.; Bansal, A.; Ghosh, S.; and Roy, K. J. Emerg. Technol. Comput. Syst., 4(3): 13:1–13:19. Aug 2008.
+   doi   link   bibtex   
+Modeling of Failure Probability and Statistical Design of Spin-Torque Transfer Magnetic RAM (STT MRAM) Array for Yield Enhancement. Li, J.; and Roy, K. In SRC Technology and Talent for the 21st Century Technology (TECHCON), 2008.
+link   bibtex   
+Variation-tolerant Spin-Torque Transfer (STT) MRAM array for yield enhancement. Li, J.; Liu, H.; Salahuddin, S.; and Roy, K. In 2008 IEEE Custom Integrated Circuits Conference (CICC), pages 193–196, Sept 2008.
+doi   link   bibtex     
+Modeling of failure probability and statistical design of Spin-Torque Transfer Magnetic Random Access Memory (STT MRAM) array for yield enhancement. Li, J.; Augustine, C.; Salahuddin, S.; and Roy, K. In 2008 45th ACM/IEEE Design Automation Conference (DAC), pages 278–283, June 2008. (Acceptance Rate: 23%, 147 out of 639)
+doi   link   bibtex     
+Body History Study on 12S eDRAM Sensing Operation. Li, J. Technical Report Semiconductor Research and Development Center (SRDC), IBM, Fishkill, 2008.
+link   bibtex   
+  2007 (6)
+Poly-Si Thin-Film Transistors: An Efficient and Low-Cost Option for Digital Operation. Li, J.; Bansal, A.; and Roy, K. IEEE Transactions on Electron Devices, 54(11): 2918-2929. Nov 2007.
+doi   link   bibtex   
+A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs. Li, J.; Ghosh, S.; and Roy, K. In 2007 IEEE International Test Conference (ITC), pages 1–10, Oct 2007.
+doi   link   bibtex   
+Variable-latency adder (VL-adder): new arithmetic circuit design practice to overcome NBTI. Chen, Y.; Li, H.; Li, J.; and Koh, C. In 2007 ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), pages 195–200, Aug 2007.
+doi   link   bibtex   
+Low Power and Variation Tolerant Digital Circuit Design in Sub-micron Regime using Low Cost LTPS TFTs. Li, J.; and Roy, K. In SRC Technology and Talent for the 21st Century Technology (TECHCON), 2007.
+link   bibtex   
+Novel Variation-Aware Circuit Design of Scaled LTPS TFT for Ultra low Power, Low-Cost Applications. Li, J.; Kang, K.; and Roy, K. In 2007 IEEE International Conference on Integrated Circuit Design and Technology (ICICDT), pages 1–4, May 2007.
+doi   link   bibtex   
+High Performance and Low Power Electronics on Flexible Substrate. Li, J.; Kang, K.; Bansal, A.; and Roy, K. In 2007 44th ACM/IEEE Design Automation Conference (DAC), pages 274–275, June 2007. (Acceptance Rate*: 13%)
+doi   link   bibtex   
+  2006 (1)
+Exploring Low Temperature Poly-Si for Low Cost and Low Power Sub-micron Digital Operation. Li, J.; Bansal, A.; and Roy, K. In 2006 64th Device Research Conference (DRC), pages 61–62, June 2006.
+doi   link   bibtex   
+Selected Invited Talks (external)
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical and Computer Engineering, Stanford University, Apr. 3rd, 2019
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical and Systems department, University of Pennsylvania, Feb. 7th, 2019
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical and Computer Engineering, Cornell University, Dec. 12th, 2018
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical and Computer Engineering, Carnegie Mellon University (CMU), Nov. 30th, 2018.
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Computer Science, University of Chicago, Nov. 6th, 2018
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical Engineering, Yale University, Nov. 2nd, 2018.
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Dept. of Electrical and Computer Engineering, University of California, Los Angeles (UCLA), 12:30pm–1:30pm PST, Oct. 15th, 2018.
+“Liquid Silicon: A New Computing Paradigm Enabled by Monolithic 3D Cross-point Memory,” Harvard University, 3:00pm–4:00pm EST, September 28th, 2018
+“Enabling Nonvolatile Memory for Data-Centric Computing: Technology, Circuit and System,” Panasonic Corp., 4:00pm to 5:00pm, Kyoto, Japan, July 16th, 2015
+“Enabling Phase-change Memory for Data-Centric Computing: Technology, Circuit and System,” Special session at IEEE international Symposium on Circuits and Systems (ISCAS), Lisbon, May 25th, 2015
+“Emerging-Materials-Enabled Devices for Data-Centric Computing,” Special guest lecture co-sponsored by CTO, APTD, and WPDN, Applied Materials, 3:00pm – 4:00pm PST, August 27th, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Colloquium of Electrical and Computer department at Purdue University, 3:00pm – 4:00pm EST, April 28th, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Colloquium of Electrical and Systems department at University of Pennsylvania, 11:00am – 12:00pm EST, March 17th, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Electrical Engineering Seminar Series at Harvard University, 3:00pm – 4:00pm EST, March 7th, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Electrical and Computer Engineering Department Seminar at University of Illinois Urbana-Champaign (UIUC), 4:00pm – 5:00pm CST, March 3rd, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Computer Engineering Seminar at University of California Santa Barbara (UCSB), 11:00am – 12:00pm PST, February 12th, 2014
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Joint CSSI and CALCM Seminar Series at Carnegie Mellon University (CMU), 12:00pm – 1:00pm EST, 1st, 2013
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Electrical Engineering Seminar Series at University of California, Los Angeles (UCLA), 1:00pm – 2:30pm PDT, Oct 28th, 2013
+“Data Centric Computing in Emerging Technologies: A PCM-CMOS Hybrid Hardware Accelerator,” Electrical Engineering Seminar Series at Princeton University, 12:30pm – 1:30pm EST, Oct 16th, 2013
+“A Holistic View of Architecting Storage Class Memory into Future System,” Invited tutorial on system-technology interaction, International Memory Workshop (IMW), Milan, Italy, May 20, 2012
+“Resistance Drift in Phase Change Memory,” The IEEE International Reliability Physics Symposium (IRPS), Anaheim, CA, April 19, 2012
+“Phase Change Memory,” The Connecticut Microelectronics and Optoelectronics Consortium (CMOC) Twenty-First Annual Symposium, Storrs, CT, April 11, 2012
+“Phase Change Memory Design: Challenges and Opportunities,” China Semiconductor Technology International Conference (SEMICON China), Shanghai, China, March 15-17, 2011
+“Design Challenges in Multi-Level Phase Change Memory,” New Non-Volatile Memory Workshop (NNVMW’10), Industrial Technology Research Institute (ITRI), Hsin-chu, Taiwan 11, 2010
+“Robust Design in Emerging Technologies,” Intel Corporation, CA, 2:00 pm-3:30 pm PDT, Feb.1,2008
+“A Genetic and Reconfigurable Test Paradigm Using Low-Cost Integrated Poly-Si TFT,” LSI Corporation, CA, 1:30 pm-3:30 pm PDT, Oct.19, 2007
+Professional Activities (external)
+Demo Chair, MLSys, 2020.
+Publicity Chair, International Symposium on Field-Programmable Gate Arrays (FPGA), 2020, 2019.
+Publicity Chair, International Symposium on Low Power Electronics and Design (ISLPED), 2018.
+Advisory Chair/General Chair/Technical Chair/Finance Chair/Publicity Chair  at International Memory Workshop (annual meeting with world-wide memory vendors, co-organized w/ Intel, Micron, SK-Hynix, CEA LETI), 2013-Present
+TPC of ASPLOS’20, MLSys’20, HPCA’20, ISCA’19, MLSys’19, FPGA’19, FCCM’19, FPGA’18, FCCM’18, DAC’18, DAC’14, DAC’13, DAC’12, ICCAD’17, ICCAD’16, ISLPED’18, ISLPED’17, GLVLSI’18, MICRO’16 (external), IEDM’17, IEDM’16, ISCAS’17, ISCAS’16.
+Micro MBA, for perspective business/technical leaders at IBM, 2011
+

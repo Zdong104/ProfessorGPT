@@ -1,0 +1,180 @@
+Professor: Yea-Seul Kim
+University: University of Wisconsin - Madison
+URL: https://pages.cs.wisc.edu/~yeaseulkim
+Description: YEA-SEUL KIM
+CV · Email ·  · 
+Teaching
+2024 Spring Intro to Data Visualization
+2023 Spring Modeling User Interaction
+2022 Spring Modeling User Interaction
+2021 Fall Data Visualization
+2021 Spring Modeling User Interaction
+2020 Fall Data Visualization
+
+I am an Assistant Professor in the Department of Computer Sciences at the University of Wisconsin-Madison. My research interests lie in the intersection between HCI, Visualization, and Data Science. I am interested in developing tools and algorithms to help people with varying abilities interact with data and visualizations.
+
+ 
+DIS 2024
+Enabling Tabular Data Exploration for Blind and Low-Vision Users
+Yanan Wang, Arjun Srinivasan, Yea-Seul Kim
+In a data-driven society, being able to examine data on one’s own terms is crucial for various aspects of well-being. However, current data exploration paradigms, such as Exploratory Data Analysis (EDA), heavily rely on visualizations to unveil patterns and insights. This visual-centric approach poses significant challenges for blind and low-vision (BLV) individuals. To address this gap, we built a prototype that supports non-visual data exploration and conducted an observational user study involving 18 BLV participants. Read More
+pdf
+CHI 2024
+How Do Low-Vision Individuals Experience Information Visualization?
+Yanan Wang, Yuhang Zhao, Yea-Seul Kim
+In recent years, there has been a growing interest in enhancing the accessibility of visualizations for people with visual impairments. While much of the research has focused on improving accessibility for screen reader users, the specific needs of people with remaining vision (i.e., low-vision individuals) have been largely unaddressed. To bridge this gap, we conducted a qualitative study that provides insights into how low-vision individuals experience visualizations. Read More
+pdf
+CHI 2024
+Erie: A Declarative Grammar for Data Sonification
+Hyeok Kim, Yea-Seul Kim, Jessica Hullman
+Data sonification—mapping data variables to auditory variables, such as pitch or volume—is used for data accessibility, scientific exploration, and data-driven art (e.g., museum exhibitions) among others. While a substantial amount of research has been made on effective and intuitive sonification design, software support is not commensurate, limiting researchers from fully exploring its capabilities. We contribute Erie, a declarative grammar for data sonification, that enables abstractly expressing auditory mappings. Erie supports specifying extensible tone designs (e.g., periodic wave, sampling, frequency/amplitude modulation synthesizers), various encoding channels, auditory legends, and composition options like sequencing and overlaying. Read More
+pdf
+DIS 2023
+ Best Paper Honorable Mention
+Making Data-Driven Articles More Accessible: An Active Preference Learning Approach to Data Fact Personalization
+Yanan Wang, Yea-Seul Kim
+Data-driven news articles are widely used to communicate societal phenomena with concrete evidence. These articles are often accompanied by a visualization, helping readers to contextualize content. However, blind and low vision (BLV) individuals have limited access to visualizations, hindering a deep understanding of data. We explore the possibility of dynamically generating data facts (texts describing data patterns in a chart) for BLV individuals based on their preferences to aid the reading of such articles. Read More
+pdf
+CHI 2023
+Explain What a Treemap is: Exploratory Investigation of Strategies for Explaining Unfamiliar Chart to Blind and Low Vision Users
+Gyeongri Kim, Jiho Kim, Yea-Seul Kim
+Visualization designers increasingly use diverse types of visualizations, but assistive technologies and education for blind and low vision people often focus on elementary chart types. We explore textual explanation as a more generalizable solution. We define three dimensions of explanation strategies based on education theories: comparing to a familiar chart type, describing how to draw one, and using a concrete example. We develop a prototype system that automatically generates text explanations from a given chart specification. Read More
+pdf
+CHI 2023
+Exploring Chart Question Answering for Blind and Low Vision Users
+Jiho Kim, Arjun Srinivasan, Nam Wook Kim, Yea-Seul Kim
+Data visualizations can be complex or involve numerous data points, making them impractical to navigate using screen readers alone. Question answering (QA) systems have the potential to support visualization interpretation and exploration without overwhelming blind and low vision (BLV) users. To investigate if and how QA systems can help BLV users in working with visualizations, we conducted a Wizard of Oz study with 24 BLV people where participants freely posed queries about four visualizations. Read More
+pdf
+CHI 2023
+VisLab: Enabling Visualization Designers to Gather Empirically Informed Design Feedback
+Jinhan Choi, Changhoon Oh, Yea-Seul Kim, Nam Wook Kim
+When creating a visualization, designers face various conflicting design choices. They typically rely on their hunches to deal with intricate trade-offs or resort to feedback from their colleagues. On the other hand, researchers have long used empirical methods to derive useful quantitative insights into visualization designs. Taking inspiration from this research tradition, we developed VisLab, an open-source online system to complement the existing qualitative feedback practice and help visualization practitioners run experiments to gather empirically informed design feedback. Read More
+pdf
+INFOVIS 2022
+Thirty-Two Years of IEEE VIS: Authors, Fields of Study and Citations
+Hongtao Hao, Yumian Cui, Zhengxiang Wang, Yea-Seul Kim
+The IEEE VIS Conference (VIS) recently rebranded itself as a unified conference and officially positioned itself within the discipline of Data Science. Driven by this movement, we investigated (1) who contributed to VIS, and (2) where VIS stands in the scientific world. We examined the authors and fields of study of 3,240 VIS publications in the past 32 years based on data collected from OpenAlex and IEEE Xplore, among other sources. We also examined the citation flows from referenced papers (i.e., those referenced in VIS) to VIS, and from VIS to citing papers (i.e., those citing VIS). We found that VIS has been becoming increasingly popular and collaborative. Read More
+pdf
+INFOVIS 2022
+Seeing What You Believe or Believing What You See? Belief Biases Correlation Estimation
+Cindy Xiong, Chase Stokes, Yea-Seul Kim, Steven Franconeri
+When an analyst or scientist has a belief about how the world works, their thinking can be biased in favor of that belief. Therefore, one bedrock principle of science is to minimize that bias by testing the predictions of one’s belief against objective data. But interpreting visualized data is a complex perceptual and cognitive process. Through two crowdsourced experiments, we demonstrate that supposedly objective assessments of the strength of a correlational relationship can be influenced by how strongly a viewer believes in the existence of that relationship. Read More
+pdf
+EUROVIS 2022
+Seeing Through Sounds: Mapping Auditory Dimensions to Data and Charts for People with Visual Impairments
+Ruobin Wang, Crescentia Jung, Yea-Seul Kim
+Sonification can be an effective medium for people with visual impairments to understand data in visualizations. However, there are no universal design principles that apply to various charts that encode different data types. Towards generalizable principles, we conducted an exploratory experiment to assess how different auditory channels (e.g., pitch, volume) impact the data and visualization perception among people with visual impairments. Read More
+pdf
+EUROVIS 2022
+VIBE: A Design Space for VIsual Belief Elicitation in Data Journalism
+Shambhavi Mahajan, Alireza Karduni, Bonnie Chen, Yea-Seul Kim, Emily Wall
+The process of forming, expressing, and updating beliefs from data plays a critical role in data-driven decision making. Effectively eliciting those beliefs has potential for high impact across a broad set of applications, including increased engagement with data and visualizations, personalizing visualizations, and understanding users' visual reasoning processes, which can inform improved data analysis and decision making strategies (e.g., via bias mitigation). Read More
+pdf
+CHI 2022
+What makes web data tables accessible? Insights and a tool for rendering accessible tables for people with visual impairments
+Yanan Wang, Ruobin Wang, Crescentia Jung, Yea-Seul Kim
+The data table is a basic but versatile representation to communicate data. From government reports to bank statements, tables efectively carry essential data-driven information by visually organizing data using rows, columns, and other arrangements (e.g., merged cells). However, many tables online neglect the accessibility requirements for people who rely on screen readers, such as people who are blind or have low vision (BLV). Read More
+pdf
+CHI 2022
+Visualization Accessibility in the Wild: Challenges Faced by Visualization Designers
+Shakila Joyner, Amalia Riegelhuth, Kathleen Garrity, Yea-Seul Kim, Nam Wook Kim
+Data visualizations are now widely used across many disciplines. However, many of them are not easily accessible for visually impaired people. In this work, we use three-staged mixed methods to understand the current practice of accessible visualization design for visually impaired people. Read More
+pdf
+CHI 2022
+Putting scientific results in perspective: Improving the communication of standardized effect sizes
+Yea-Seul Kim, Jake Hofman, Daniel Goldstein
+How do people form impressions of efect size when reading scientifc results? We present a series of studies on how people perceive treatment efectiveness when scientifc results are summarized in various ways. We frst show that a prevalent form of summarizing results presenting mean diferences between conditions can lead to signifcant overestimation of treatment efectiveness, and that including confdence intervals can exacerbate the problem. Read More
+pdf
+INFOVIS 2021
+ Best Paper Honorable Mention
+Communicating Visualizations without Visuals: Investigation of Visualization Alternative Text for People with Visual Impairments
+Crescentia Jung, Shubham Mehta Atharva Kulkarni, Yuhang Zhao, Yea-Seul Kim
+Alternative text is critical in communicating graphics to people who are blind or have low vision. Especially for graphics that contain rich information, such as visualizations, poorly written or an absence of alternative texts can worsen the information access inequality for people with visual impairments. Read More
+pdf
+EUROVIS 2021
+Accessible Visualization: Design Space, Opportunities, and Challenges
+Nam Wook Kim, Shakila Joyner, Amalia Riegelhuth, Yea-Seul Kim
+Visualizations are now widely used across disciplines to understand and communicate data. The benefit of visualizations lies in leveraging our natural visual perception. However, the sole dependency on vision can produce unintended discrimination against people with visual impairments. While the visualization field has seen enormous growth in recent years, supporting people with disabilities is much less explored. In this work, we examine approaches to support this marginalized user group, focusing on visual disabilities. We collected and analyzed papers published for the last 20 years on visualization accessibility. Read More
+pdf
+INFOVIS 2020
+Bayesian-Assisted Inference from Visualized Data
+Yea-Seul Kim, Paula Kayongo, Madeleine Grunde-McLaughlin, Jessica Hullman
+A Bayesian view of data interpretation suggests that a visualization user should update their existing beliefs about a parameter's value in accordance with the amount of information about the parameter value captured by the new observations. Extending recent work applying Bayesian models to understand and evaluate belief updating from visualizations, we show how the predictions of Bayesian inference can be used to guide more rational belief updating. We design a Bayesian inference-assisted uncertainty analogy that numerically relates uncertainty in observed data to the user's subjective uncertainty, and a posterior visualization that prescribes how a user should update their beliefs given their prior beliefs and the observed data. Read More
+pdf
+ISS 2019
+Inking Your Insights: Investigating Digital Externalization Behaviors During Data Analysis
+Yea-Seul Kim, Nathalie Henry Riche, Bongshin Lee, Matthew Brehmer, Michel Pahud, Ken Hinckley, Jessica Hullman
+Externalizing one's thoughts can be helpful during data analysis, such as which one marks interesting data, notes hypotheses, and draws diagrams. In this paper, we present two exploratory studies conducted to investigate types and use of externalizations during the analysis process. We first studied how people take notes during different stages of data analysis using VoyagerNote, a visualization recommendation system augmented to support text annotations, and coupled with participants' favorite external note-taking tools (e.g., word processor, pen & paper). Externalizations manifested mostly as notes written on paper or in a word processor, with annotations atop views used almost exclusively in the initial phase of analysis. Read More
+pdf
+CHI 2019
+A Bayesian Cognition Approach to Improve Data Visualization
+Yea-Seul Kim, Logan A Walls, P. M. Krafft, Jessica Hullman
+Visualization evaluation guidelines rarely account for the influence of users' prior beliefs before encountering a visualization. We demonstrate a Bayesian cognitive model for understanding how people interpret visualizations in light of prior beliefs and show how this model provides a guide for improving visualization designs. Read More
+pdf
+CHI 2019
+Vocal Shortcuts for Creative Experts
+Yea-Seul Kim, Mira Dontcheva, Eytan Adar, Jessica Hullman
+Vocal shortcuts, short spoken phrases to control interfaces, have the potential to reduce cognitive and physical costs of interactions. They may benefit expert users of creative applications (e.g., designers, illustrators) by helping them maintain creative focus. To aid the design of vocal shortcuts and gather use cases and design guidelines for speech interaction, we interviewed ten creative experts. Read More
+pdf
+CHI 2018
+Improving Comprehension of Measurements Using Concrete Re-expression Strategies
+Jessica Hullman, Yea-Seul Kim, Francis Nguyen, Lauren Speers, Maneesh Agrawala
+It can be difficult to understand physical measurements (e.g., 28 lb, 600 gallons) that appear in news stories, data reports, and other documents. We develop tools that automatically re-express unfamiliar measurements using the measurements of familiar objects. Our work makes three contributions: (1) we identify effectiveness criteria for objects used in concrete measurement re-expressions; (2) we operationalize these criteria in a scalable method for mining a large dataset of concrete familiar objects with their physical dimensions from Amazon and Wikipedia; and (3) we develop automated concrete reexpression tools that implement three common re-expression strategies (adding familiar context, reunitization and proportional analogy) as energy minimization algorithms. Read More
+pdf
+INFOVIS 2017
+Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation
+Yea-Seul Kim, Katharina Reinecke, Jessica Hullman
+In addition to visualizing input data, interactive visualizations have the potential to be social artifacts that reveal other people's perspectives on the data. However, how such social information embedded in a visualization impacts a viewer's interpretation of the data remains unknown. Inspired by recent interactive visualizations that display people's expectations of data against the data, we conducted a controlled experiment to evaluate the effect of showing social information in the form of other people's expectations on people's ability to recall the data, the degree to which they adjust their expectations to align with the data, and their trust in the accuracy of the data. Read More
+pdf
+INFOVIS 2017
+Imagining Replications: Graphical Prediction & Discrete Visualizations Improve Recall & Estimation of Effect Uncertainty
+Jessica Hullman, Matthew Kay, Yea-Seul Kim, Samana Shrestha
+People often have erroneous intuitions about the results of uncertain processes, such as scientific experiments. Many uncertainty visualizations assume considerable statistical knowledge, but have been shown to prompt erroneous conclusions even when users possess this knowledge. Active learning approaches as well as discrete (frequency) formats for probability information have been shown to improve statistical reasoning, but are rarely applied in visualizing uncertainty in scientific reports. We present a controlled study to evaluate the impact of an alternative, interactive graphical prediction technique for communicating uncertainty in experiment results. Read More
+pdf
+CHI 2017
+ Best Paper Award
+Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data
+Yea-Seul Kim, Katharina Reinecke, Jessica Hullman
+Information visualizations use interactivity to enable userdriven querying of visualized data. However, users' interactions with their internal representations, including their expectations about data, are also critical for a visualization to support learning. We present multiple graphically-based techniques for eliciting and incorporating a user's prior knowledge about data into visualization interaction. Read More
+pdf
+EMNLP 2016
+SimpleScience: Lexical Simplification of Scientific Terminology
+Yea-Seul Kim, Jessica Hullman, Matthew Burgess, Eytan Adar
+Lexical simplification of scientific terms represents a unique challenge due to the lack of a standard parallel corpora and fast rate at which vocabulary shift along with research. We introduce SimpleScience, a lexical simplification approach for scientific terminology. Read More
+pdf
+CHI 2016
+Generating Personalized Spatial Analogies for Distances and Areas
+Yea-Seul Kim, Jessica Hullman, Maneesh Agrawala
+Distances and areas frequently appear in text articles. However, people struggle to understand these measurements when they cannot relate them to measurements of locations that they are personally familiar with. We contribute tools for generating personalized spatial analogies: re-expressions that contextualize spatial measurements in terms of locations with similar measurements that are more familiar to the user. Read More
+pdf
+JASIST 2016
+Users' Music Information Needs and Behaviors: Design Implications for Music Information Retrieval Systems
+Jin Ha Lee, Hyerim Cho, Yea-Seul Kim
+User studies in the music information retrieval (MIR) domain tend to be exploratory and qualitative in nature, involving a small number of users, which makes it difficult to derive broader implications for system design. In order to fill this gap, we conducted a large-scale user survey questioning various aspects of people's music information needs and behaviors. In particular, we investigate if general music users' needs and behaviors have significantly changed over time by comparing our current survey result with a similar survey conducted in 2004. Read More
+pdf
+ISMIR 2016
+Elucidating User Behavior in Music Services through Persona and Gender
+John Fuller, Lauren Hubener, Yea-Seul Kim, Jin Ha Lee
+Prior user studies in the music information retrieval field have identified different personas representing the needs, goals, and characteristics of specific user groups for a usercentered design of music services. However, these personas were derived from a qualitative study involving a small number of participants and their generalizability has not been tested. Read More
+pdf
+ISMIR 2016
+A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage
+Jin Ha Lee, Yea-Seul Kim, Chris Hubbles
+Despite the increasing popularity of cloud-based music services, few studies have examined how users select and utilize these services, how they manage and access their music collections in the cloud, and the issues or challenges they are facing within these services. Read More
+pdf
+Computation + Journalism 2015
+DeScipher: A Text Simplification Tool for Science Journalism
+Yea-Seul Kim, Jessica Hullman, Eytan Adar
+Complex jargon often makes scientific work less accessible to the general public. By employing a set of specific reporting strategies, journalists bridge these groups by delivering information about scientific advances in a readable, engaging way. One such strategy is using simpler terms in place of complex jargon. To assist in this process, we introduce DeScipher, a text editor application that suggests and ranks possible simplifications of complex terminology to a journalist while she is authoring an article. Read More
+pdf
+CHI 2015
+VIZMO Game Browser: Accessing Video Games by Visual Style and Mood
+Jin-Ha Lee, Sungsoo Hong, Hyerim Cho, Yea-Seul Kim
+Despite the growing interests in video games as consumer products as well as objects of research, current methods for accessing video games are limited. We present Vizmo as a new way of browsing video games based on their visual style and mood. Read More
+pdf
+CHI 2014
+Traffigram: Distortion for Clarification via Isochronal Cartography
+Sungsoo Hong, Yea-Seul Kim, Jong-Chul Yoon, Cecilia R. Aragon
+Most geographic maps visually represent physical distance; however, travel time can in some cases be more important than distance because it directly indicates availability. The technique of creating maps from temporal data is known as isochronal cartography, and is a form of distortion for clarification. Read More
+pdf
+

@@ -1,0 +1,206 @@
+Professor: Tu Vu
+University: Virginia Tech
+URL: https://tuvllms.github.io/
+Description:    
+home
+(current)
+publications
+teaching
+CV
+Tu Vu
+
+I am a Research Scientist at Google DeepMind and an incoming Assistant Professor at Virginia Tech. Previously, I received my PhD in Computer Science at the University of Massachusetts Amherst, advised by Mohit Iyyer. My research aims to develop effective and efficient methods for advancing and democratizing artificial intelligence in the era of large language models (LLMs). Specific areas of focus include:
+
+In-context learning and tool-use LLMs: injecting knowledge into LLM prompts and augmenting LLMs with external tools
+Instruction tuning: enhancing LLMs’ instruction-following capabilities
+Parameter-efficient transfer learning: efficiently transferring knowledge across tasks, languages, and modalities
+Advanced planning and reasoning: improving LLMs’ ability to solve complex reasoning problems
+Long-context modeling: designing efficient model architectures for long sequences.
+For prospective PhD students
+
+
+Recent news
+Jul. 2024	 New preprint on Foundational Autoraters (FLAMe)
+May. 2024	 FreshLLMs got accepted to ACL 2024 Findings! 
+Feb. 2024	 I am now serving as an Area Chair for ACL Rolling Review (ARR)
+Jan. 2024	 Flan-MoE got accepted to ICLR 2024! 
+Nov. 2023	 Talk at Graph Neural Networks Reading Group, Google
+Oct. 2023	 New preprint on LLM factuality (FreshLLMs)
+Aug. 2023	 I joined Google in Mountain View, CA as a Research Scientist
+Jul. 2023	 I successfully defended my PhD thesis!  
+
+
+Advisees
+Group:
+	Pin-Jie (Linus) Lin (incoming PhD student @ Virginia Tech)
+	Quyet Do (incoming PhD student @ Virginia Tech)
+	Rishab Balasubramanian (incoming PhD student @ Virginia Tech)
+	Thinh Pham (incoming PhD student @ Virginia Tech)
+Others:
+	Prateek Yadav (Research Intern @ Google Gemini, Summer 2024)
+	Simeng (Shirley) Han (Student Researcher @ Google DeepMind, Summer 2024)
+	Salaheddin Alzubi (Masters student @ UMass Amherst, Fall 2022 — Spring 2023)
+	Dheeraj Mekala (PhD student @ UCSD, Spring — Summer 2022)
+Selected publications
+For an up-to-date list of my research papers, please see my Google Scholar profile. * denotes equal contribution.
+Preprint
+Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation
+Tu Vu*, Kalpesh Krishna*, Salaheddin Alzubi, Chris Tar, Manaal Faruqui, and Yun-Hsuan Sung
+In arXiv preprint arXiv:2312.11805, 2024
+ABS ARXIV BIB PDF
+
+As large language models (LLMs) advance, it becomes more challenging to reliably evaluate their output due to the high costs of human evaluation. To make progress towards better LLM autoraters, we introduce FLAMe, a family of Foundational Large Autorater Models. FLAMe is trained on our large and diverse collection of 100+ quality assessment tasks comprising 5M+ human judgments, curated and standardized using publicly released human evaluations from previous research. FLAMe significantly improves generalization to a wide variety of held-out tasks, outperforming LLMs trained on proprietary data like GPT-4 and Claude-3 on many tasks. We show that FLAMe can also serve as a powerful starting point for further downstream fine-tuning, using reward modeling evaluation as a case study (FLAMe-RM). Notably, on RewardBench, our FLAMe-RM-24B model (with an accuracy of 87.8%) is the top-performing generative model trained exclusively on permissively licensed data, outperforming both GPT-4-0125 (85.9%) and GPT-4o (84.7%). Additionally, we explore a more computationally efficient approach using a novel tail-patch fine-tuning strategy to optimize our FLAMe multitask mixture for reward modeling evaluation (FLAMe-Opt-RM), offering competitive RewardBench performance while requiring approximately 25x less training datapoints. Overall, our FLAMe variants outperform all popular proprietary LLM-as-a-Judge models we consider across 8 out of 12 autorater evaluation benchmarks, encompassing 53 quality assessment tasks, including RewardBench and LLM-AggreFact. Finally, our analysis reveals that FLAMe is significantly less biased than these LLM-as-a-Judge models on the CoBBLEr autorater bias benchmark, while effectively identifying high-quality responses for code generation.
+
+@inproceedings{vu-etal-2024-foundational,
+  title = {Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation},
+  author = {Vu*, Tu and Krishna*, Kalpesh and Alzubi, Salaheddin and Tar, Chris and Faruqui, Manaal and Sung, Yun-Hsuan},
+  booktitle = {arXiv preprint arXiv:2312.11805},
+  year = {2024},
+  url = {https://arxiv.org/abs/2407.10817},
+  pdf = {https://arxiv.org/pdf/2407.10817.pdf},
+  highlight = {// The top-performing generative model on <a href="https://huggingface.co/spaces/allenai/reward-bench" style="color: #d92f7c;">RewardBench</a> trained solely on publicly available data}
+}
+// The top-performing generative model on RewardBench trained solely on publicly available data
+Preprint
+Gemini: A Family of Highly Capable Multimodal Models
+Google Gemini Team: Rohan Anil, Sebastian Borgeaud, Yonghui Wu, Jean-Baptiste Alayrac, Jiahui Yu, Radu Soricut, Johan Schalkwyk, Andrew Dai, Anja Hauth, and  others including Tu Vu
+In arXiv preprint arXiv:2312.11805, 2023
+ABS ARXIV BIB PDF
+
+This report introduces a new family of multimodal models, Gemini, that exhibit remarkable capabilities across image, audio, video, and text understanding. The Gemini family consists of Ultra, Pro, and Nano sizes, suitable for applications ranging from complex reasoning tasks to on-device memory-constrained use-cases. Evaluation on a broad range of benchmarks shows that our most-capable Gemini Ultra model advances the state of the art in 30 of 32 of these benchmarks - notably being the first model to achieve human-expert performance on the well-studied exam benchmark MMLU, and improving the state of the art in every one of the 20 multimodal benchmarks we examined. We believe that the new capabilities of the Gemini family in cross-modal reasoning and language understanding will enable a wide variety of use cases. We discuss our approach toward post-training and deploying Gemini models responsibly to users through services including Gemini, Gemini Advanced, Google AI Studio, and Cloud Vertex AI.
+
+@inproceedings{geminiteam2024gemini,
+  title = {Gemini: A Family of Highly Capable Multimodal Models},
+  author = {Anil, Rohan and Borgeaud, Sebastian and Wu, Yonghui and Alayrac, Jean-Baptiste and Yu, Jiahui and Soricut, Radu and Schalkwyk, Johan and Dai, Andrew and Hauth, Anja and others},
+  booktitle = {arXiv preprint arXiv:2312.11805},
+  year = {2023},
+  pdf = {https://arxiv.org/pdf/2312.11805},
+}
+// Google AI Blog
+ACL
+FreshLLMs: Refreshing large language models with search engine augmentation
+Tu Vu, Mohit Iyyer, Xuezhi Wang, Noah Constant, Jerry Wei, Jason Wei, Chris Tar, Yun-Hsuan Sung, Denny Zhou, Quoc Le, and Thang Luong
+In Findings of the Association for Computational Linguistics: ACL 2024, 2024
+ABS ARXIV BIB PDF
+
+Most large language models (LLMs) are trained once and never updated; thus, they lack the ability to dynamically adapt to our ever-changing world. In this work, we perform a detailed study of the factuality of LLM-generated text in the context of answering questions that test current world knowledge. Specifically, we introduce FreshQA, a novel dynamic QA benchmark encompassing a diverse range of question and answer types, including questions that require fast-changing world knowledge as well as questions with false premises that need to be debunked. We benchmark a diverse array of both closed and open-source LLMs under a two-mode evaluation procedure that allows us to measure both correctness and hallucination. Through human evaluations involving more than 50K judgments, we shed light on limitations of these models and demonstrate significant room for improvement: for instance, all models (regardless of model size) struggle on questions that involve fast-changing knowledge and false premises. Motivated by these results, we present FreshPrompt, a simple few-shot prompting method that substantially boosts the performance of an LLM on FreshQA by incorporating relevant and up-to-date information retrieved from a search engine into the prompt. Our experiments show that FreshPrompt outperforms both competing search engine-augmented prompting methods such as Self-Ask (Press et al., 2022) as well as commercial systems such as Perplexity.AI. Further analysis of FreshPrompt reveals that both the number of retrieved evidences and their order play a key role in influencing the correctness of LLM-generated answers. Additionally, instructing the LLM to generate concise and direct answers helps reduce hallucination compared to encouraging more verbose answers. To facilitate future work, we release FreshQA at github.com/freshllms/freshqa and commit to updating it at regular intervals.
+
+@inproceedings{vu-etal-2024-freshllms,
+  title = {{F}resh{LLM}s: Refreshing large language models with search engine augmentation},
+  author = {Vu, Tu and Iyyer, Mohit and Wang, Xuezhi and Constant, Noah and Wei, Jerry and Wei, Jason and Tar, Chris and Sung, Yun-Hsuan and Zhou, Denny and Le, Quoc and Luong, Thang},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2024},
+  year = {2024},
+  url = {},
+  pages = {},
+  pdf = {https://arxiv.org/pdf/2310.03214.pdf},
+  highlight = {// Our dataset and method have inspired or been used for the development of <a href="https://gemini.google.com" style="color: #d92f7c;">Google's Gemini</a>, <a href="https://blog.perplexity.ai/blog/introducing-pplx-online-llms" style="color: #d92f7c;">Perplexity.AI's Online LLMs</a>, <a href="https://about.you.com/introducing-the-you-api-web-scale-search-for-llms" style="color: #d92f7c;">You.com</a>, and <a href="https://contextual.ai/introducing-rag2/" style="color: #d92f7c;">Contextual AI's RAG 2.0</a>}
+}
+// Our dataset and method have inspired or been used for the development of Google’s Gemini, Perplexity.AI’s Online LLMs, You.com, and Contextual AI’s RAG 2.0
+ICML
+The Flan Collection: Designing Data and Methods for Effective Instruction Tuning
+Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V Le, Barret Zoph, Jason Wei, and Adam Roberts
+In Proceedings of the 40th International Conference on Machine Learning, 2023
+ABS ARXIV BIB PDF DATA
+
+We study the design decision of publicly available instruction tuning methods, by reproducing and breaking down the development of Flan 2022 (Chung et al., 2022). Through careful ablation studies on the Flan Collection of tasks and methods, we tease apart the effect of design decisions which enable Flan-T5 to outperform prior work by 3-17% across evaluation settings. We find task balancing and enrichment techniques are overlooked but critical to effective instruction tuning, and in particular, training with mixed prompt settings (zero-shot, few-shot, chain-of-thought) actually yields equivalent or stronger (2%) performance in all settings. In further experiments we show Flan-T5 requires less finetuning to converge higher and faster than T5 on single downstream tasks – motivating instruction-tuned models as more computationally-efficient starting checkpoints for new tasks. Finally, to accelerate research on instruction tuning, we make the Flan 2022 collection of datasets, templates, and methods publicly available.
+
+@inproceedings{pmlr-v202-longpre23a,
+  title = {The Flan Collection: Designing Data and Methods for Effective Instruction Tuning},
+  author = {Longpre, Shayne and Hou, Le and Vu, Tu and Webson, Albert and Chung, Hyung Won and Tay, Yi and Zhou, Denny and Le, Quoc V and Zoph, Barret and Wei, Jason and Roberts, Adam},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages = {22631--22648},
+  year = {2023},
+  volume = {202},
+  series = {Proceedings of Machine Learning Research(PMLR)},
+  publisher = {PMLR},
+  url = {https://proceedings.mlr.press/v202/longpre23a.html},
+  pdf = {https://proceedings.mlr.press/v202/longpre23a/longpre23a.pdf},
+}
+// Google Research Blog
+ICLR
+Mixture-of-experts meets instruction tuning: A winning combination for large language models
+Sheng Shen, Le Hou, Yanqi Zhou, Nan Du, Shayne Longpre, Jason Wei, Hyung Won Chung, Barret Zoph, William Fedus, Xinyun Chen, Tu Vu, Yuexin Wu, Wuyang Chen, Albert Webson, Yunxuan Li, Vincent Zhao, Hongkun Yu, Kurt Keutzer, Trevor Darrell, and Denny Zhou
+In Proceedings of the 12th International Conference on Learning Representations, 2024
+ABS ARXIV BIB PDF
+
+Sparse Mixture-of-Experts (MoE) is a neural architecture design that can be utilized to add learnable parameters to Large Language Models (LLMs) without increasing inference cost. Instruction tuning is a technique for training LLMs to follow instructions. We advocate combining these two approaches, as we find that MoE models benefit more from instruction tuning than dense models. In particular, we conduct empirical studies across three experimental setups: (i) Direct finetuning on individual downstream tasks devoid of instruction tuning; (ii) Instructiontuning followed by in-context few-shot or zero-shot generalization on downstream tasks; and (iii) Instruction tuning supplemented by further finetuning on individual downstream tasks. In the first scenario, MoE models overall underperform dense models of identical computational capacity. This narrative, however, dramatically changes with the introduction of instruction tuning (second and third scenario), used independently or in conjunction with task-specific finetuning. Our most powerful model, FLAN-MOE-32B, surpasses the performance of FLAN-PALM-62B on four benchmark tasks, while using only a third of the FLOPs. The advancements embodied byFLAN-MOE inspire a reevaluation of the design principles of large-scale, high-performance language models in the framework of task-agnostic learning.
+
+@inproceedings{shen2023mixture,
+  title = {Mixture-of-experts meets instruction tuning: A winning combination for large language models},
+  author = {Shen, Sheng and Hou, Le and Zhou, Yanqi and Du, Nan and Longpre, Shayne and Wei, Jason and Chung, Hyung Won and Zoph, Barret and Fedus, William and Chen, Xinyun and Vu, Tu and Wu, Yuexin and Chen, Wuyang and Webson, Albert and Li, Yunxuan and Zhao, Vincent and Yu, Hongkun and Keutzer, Kurt and Darrell, Trevor and Zhou, Denny},
+  booktitle = {Proceedings of the 12th International Conference on Learning Representations},
+  year = {2024},
+  pdf = {https://arxiv.org/pdf/2305.14705.pdf},
+}
+ACL
+SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer
+Tu Vu, Brian Lester, Noah Constant, Rami Al-Rfou, and Daniel Cer
+In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2022
+ABS ARXIV BIB PDF
+
+There has been growing interest in parameter-efficient methods to apply pre-trained language models to downstream tasks. Building on the Prompt Tuning approach of Lester et al. (2021), which learns task-specific soft prompts to condition a frozen pre-trained model to perform different tasks, we propose a novel prompt-based transfer learning approach called SPoT: Soft Prompt Transfer. SPoT first learns a prompt on one or more source tasks and then uses it to initialize the prompt for a target task. We show that SPoT significantly boosts the performance of Prompt Tuning across many tasks. More remarkably, across all model sizes, SPoT matches or outperforms standard Model Tuning (which fine-tunes all model parameters) on the SuperGLUE benchmark, while using up to 27,000\mbox\times fewer task-specific parameters. To understand where SPoT is most effective, we conduct a large-scale study on task transferability with 26 NLP tasks in 160 combinations, and demonstrate that many tasks can benefit each other via prompt transfer. Finally, we propose an efficient retrieval approach that interprets task prompts as task embeddings to identify similar tasks and predict the most transferable source tasks for a novel target task.
+
+@inproceedings{vu-etal-2022-spot,
+  title = {{SP}o{T}: Better Frozen Model Adaptation through Soft Prompt Transfer},
+  author = {Vu, Tu and Lester, Brian and Constant, Noah and Al-Rfou, Rami and Cer, Daniel},
+  booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  year = {2022},
+  url = {https://aclanthology.org/2022.acl-long.346},
+  pages = {5039--5059},
+  pdf = {https://arxiv.org/pdf/2110.07904.pdf},
+  highlight = {// Headlines of Google AI's Natural Language Accelerated Newsletter Q1, 2022}
+}
+// Headlines of Google AI’s Natural Language Accelerated Newsletter Q1, 2022
+EMNLP
+Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation
+Tu Vu, Aditya Barua, Brian Lester, Daniel Cer, Mohit Iyyer, and Noah Constant
+In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, 2022
+ABS ARXIV BIB PDF
+
+In this paper, we explore the challenging problem of performing a generative task in a target language when labeled data is only available in English, using summarization as a case study. We assume a strict setting with no access to parallel data or machine translation and find that common transfer learning approaches struggle in this setting, as a generative multilingual model fine-tuned purely on English catastrophically forgets how to generate non-English. Given the recent rise of parameter-efficient adaptation techniques, we conduct the first investigation into how one such method, prompt tuning (Lester et al., 2021), can overcome catastrophic forgetting to enable zero-shot cross-lingual generation. Our experiments show that parameter-efficient prompt tuning provides gains over standard fine-tuning when transferring between less-related languages, e.g., from English to Thai. However, a significant gap still remains between these methods and fully-supervised baselines. To improve cross-lingual transfer further, we explore several approaches, including: (1) mixing in unlabeled multilingual data, and (2) explicitly factoring prompts into recombinable language and task components. Our approaches can provide further quality gains, suggesting that robust zero-shot cross-lingual generation is within reach.
+
+@inproceedings{vu-etal-2022-overcoming,
+  title = {Overcoming Catastrophic Forgetting in Zero-Shot Cross-Lingual Generation},
+  author = {Vu, Tu and Barua, Aditya and Lester, Brian and Cer, Daniel and Iyyer, Mohit and Constant, Noah},
+  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+  year = {2022},
+  url = {https://aclanthology.org/2022.emnlp-main.630},
+  pages = {9279--9300},
+  pdf = {https://arxiv.org/pdf/2205.12647.pdf},
+}
+EMNLP
+STraTA: Self-Training with Task Augmentation for Better Few-shot Learning
+Tu Vu, Thang Luong, Quoc Le, Grady Simon, and Mohit Iyyer
+In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, 2021
+ABS ARXIV BIB PDF
+
+Despite their recent successes in tackling many NLP tasks, large-scale pre-trained language models do not perform as well in few-shot settings where only a handful of training examples are available. To address this shortcoming, we propose STraTA, which stands for Self-Training with Task Augmentation, an approach that builds on two key ideas for effective leverage of unlabeled data. First, STraTA uses task augmentation, a novel technique that synthesizes a large amount of data for auxiliary-task fine-tuning from target-task unlabeled texts. Second, STraTA performs self-training by further fine-tuning the strong base model created by task augmentation on a broad distribution of pseudo-labeled data. Our experiments demonstrate that STraTA can substantially improve sample efficiency across 12 few-shot benchmarks. Remarkably, on the SST-2 sentiment dataset, STraTA, with only 8 training examples per class, achieves comparable results to standard fine-tuning with 67K training examples. Our analyses reveal that task augmentation and self-training are both complementary and independently effective.
+
+@inproceedings{vu-etal-2021-strata,
+  title = {{ST}ra{TA}: Self-Training with Task Augmentation for Better Few-shot Learning},
+  author = {Vu, Tu and Luong, Thang and Le, Quoc and Simon, Grady and Iyyer, Mohit},
+  booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  year = {2021},
+  url = {https://aclanthology.org/2021.emnlp-main.462},
+  pages = {5715--5731},
+  pdf = {https://arxiv.org/pdf/2109.06270.pdf},
+}
+EMNLP
+Exploring and Predicting Transferability across NLP Tasks
+Tu Vu, Tong Wang, Tsendsuren Munkhdalai, Alessandro Sordoni, Adam Trischler, Andrew Mattarella-Micke, Subhransu Maji, and Mohit Iyyer
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020
+ABS ARXIV BIB PDF
+
+Recent advances in NLP demonstrate the effectiveness of training large-scale language models and transferring them to downstream tasks. Can fine-tuning these models on tasks other than language modeling further improve performance? In this paper, we conduct an extensive study of the transferability between 33 NLP tasks across three broad classes of problems (text classification, question answering, and sequence labeling). Our results show that transfer learning is more beneficial than previously thought, especially when target task data is scarce, and can improve performance even with low-data source tasks that differ substantially from the target task (e.g., part-of-speech tagging transfers well to the DROP QA dataset). We also develop task embeddings that can be used to predict the most transferable source tasks for a given target task, and we validate their effectiveness in experiments controlled for source and target data size. Overall, our experiments reveal that factors such as data size, task and domain similarity, and task complexity all play a role in determining transferability.
+
+@inproceedings{vu-etal-2020-exploring,
+  title = {Exploring and Predicting Transferability across {NLP} Tasks},
+  author = {Vu, Tu and Wang, Tong and Munkhdalai, Tsendsuren and Sordoni, Alessandro and Trischler, Adam and Mattarella-Micke, Andrew and Maji, Subhransu and Iyyer, Mohit},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  year = {2020},
+  url = {https://aclanthology.org/2020.emnlp-main.635},
+  pages = {7882--7926},
+  pdf = {https://arxiv.org/pdf/2005.00770.pdf},
+}
+© Copyright 2024 Tu Vu. Powered by Jekyll with al-folio theme. Last updated: July 22, 2024.
+

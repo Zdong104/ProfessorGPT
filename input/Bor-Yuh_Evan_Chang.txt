@@ -1,0 +1,529 @@
+Professor: Bor-Yuh Evan Chang
+University: University of Colorado Boulder
+URL: http://www.cs.colorado.edu/~bec
+Description: News
+
+2024.01.19: Paper "Interactive Abstract Interpretation with Demanded Summarization" published in TOPLAS.
+
+2023.07.14: I'm giving an invited talk at SAS 2023 in October!
+
+2023.07.01: Paper "Historia: Refuting Callback Reachability with Message-History Logics" unconditionally accepted to OOPSLA 2023.
+
+2023.06.29: Paper "Lifting On-Demand Analysis to Higher-Order Languages" accepted to SAS 2023.
+
+2022.02.25: Paper "Differential Cost Analysis with Simultaneous Potentials and Anti-potentials" accepted to PLDI 2022.
+
+2021.10.13: Advisee Tianhan Lu wins the Radhia Cousot Young Researcher Best Paper Award at SAS 2021.
+
+2021.05.18: I became a member of IFIP WG 2.4 (Software Implementation Technology).
+
+2021.02.25: Paper "Selectively-Amortized Resource Bounding" accepted to SAS 2021.
+
+2021.02.25: Paper "Demanded Abstract Interpretation" accepted to PLDI 2021.
+
+2020.11.12: Survey article "Shape Analysis" published in FNTPL.
+
+2020.05.27: I'm giving an invited talk at VSTTE 2020 in July!
+
+2019.08.30: Paper "Static Analysis with Demand-Driven Value Refinement" accepted to OOPSLA 2019.
+
+2019.03.31: Paper "Lifestate: Event-Driven Protocols and Callback Control Flow" accepted to ECOOP 2019.
+
+2019.03.01: Submit to SAS 2019!
+
+2018.11.23: Paper "Type-directed Bounding of Collections in Reactive Programs" accepted to VMCAI 2019.
+
+2018.08.01: Advisee Shawn Meier pitched at Catalyze CU Demo Day 2018.
+
+2018.07.03: Paper "Safe Stream-Based Programming with Refinement Types" accepted to ASE 2018.
+
+2018.06.01: Postdoctoral mentee Sergio Mover accepts a faculty position at École Polytechnique.
+
+2018.03.23: Paper "Mining Framework Usage Graphs from App Corpora" wins the IEEE TCSE Distinguished Paper Award at SANER 2018.
+
+2017.12.17: Paper "Mining Framework Usage Graphs from App Corpora" accepted to SANER 2018.
+
+2017.12.13: Paper "DroidStar: Callback Typestates for Android Classes" accepted to ICSE 2018.
+
+2017.11.28: Paper "Differential Performance Debugging with Discriminant Regression Trees" accepted to AAAI 2018.
+
+2017.08.02: Paper "ChimpCheck: Property-Based Randomized Test Generation for Interactive Apps" accepted to ONWARD! 2017.
+
+2017.06.22: Promoted to Associate Professor and granted tenure.
+
+2016.04.17: Submit to APLAS 2017!
+
+2016.12.22: Paper "Discriminating Traces with Time" accepted to TACAS 2017.
+
+2016.10.13: Paper "Semantic-Directed Clumping of Disjunctive Abstract States" accepted to POPL 2017.
+
+2016.08.16: Paper "A Vision for Online Verification-Validation" accepted to GPCE 2016.
+
+2016.06.17: Advisee Benno Stein awarded second place in the graduate student category at the PLDI Student Research Competition (SRC) for his project, "Goal-Directed Abstract Interpretation for JavaScript."
+
+2016.05.15: Call for postdoc applicants for Fall 2016.
+
+2016.05.13: NSF grant "Online Verification-Validation" awarded with Matthew A. Hammer and David Van Horn.
+
+2016.04.17: Consider submitting to APLAS 2016.
+
+2016.02.14: Consider submitting to SAS 2016.
+
+2015.11.01: Call for postdoc applicants for Spring or Summer 2016.
+
+2015.11.01: Call for PhD student applicants for Fall 2016.
+
+2015.10.28: Paper "Selective Control-Flow Abstraction via Jumping" presented by Sam Blackshear at OOPSLA 2015.
+
+2015.09.01: Consider submitting to VMCAI 2016.
+
+2015.08.04: Paper "Selective Control-Flow Abstraction via Jumping" accepted to OOPSLA 2015.
+
+2015.05.27: Advisee Sam Blackshear defends his PhD "Flexible Goal-Directed Abstraction" on May 28.
+
+2015.05.18: Call for postdoc applicants for Summer or Fall 2015.
+
+2015.04.25: Paper "Droidel: A General Approach to Android Framework Modeling" accepted to SOAP 2015.
+
+2015.04.21: DARPA grant "STAC: Auditr: Securing Space/Time Defenses in Java Bytecode" awarded with Pavol Černý, John Black, Sriram Sankaranarayanan, Işıl Dillig, Marijn J. H. Heule, and Henny Sipma.
+
+2014.12.16: Paper "Desynchronized Multi-State Abstractions for Open Programs in Dynamic Languages" accepted to ESOP 2015.
+
+2014.09.24: DARPA grant "MUSE: Mining and Understanding Bug Fixes to Address Application-Framework Protocol Defects" awarded with , Pavol Černý, Sriram Sankaranarayanan, and .
+
+2014.06.01: Papers "Automatic Analysis of Open Objects in Dynamic Language Programs" and "An Abstract Domain Combinator for Separately Conjoining Memory Abstractions" accepted to SAS 2014.
+
+2014.04.18: Paper "QUICr: A Reusable Library for Parametric Abstraction of Sets and Numbers" accepted to CAV 2014.
+
+2014.02.03: Advisee Sam Blackshear wins a Facebook Graduate Fellowship!
+
+2013.10.01: Paper "Fissile Type Analysis: Modular Checking of Almost Everywhere Invariants" accepted to POPL 2014.
+
+2013.05.21: Advisee Arlen Cox wins a Chateaubriand Fellowship!
+
+2013.03.04: Paper "QUIC Graphs: Relational Invariant Generation for Containers" accepted to ECOOP 2013.
+
+2013.03.04: Submit Analyzer Pearls to TAPAS 2013.
+
+2013.02.04: Paper "Thresher: Precise Refutations for Heap Reachability" accepted to PLDI 2013.
+
+2012.10.12: Paper "Reduced Product Combination of Abstract Domains for Shapes" accepted to VMCAI 2013.
+
+2012.09.07: NSF grant "Modular Reflection" awarded.
+
+2012.05.21: Paper "Invariant Generation for Parametrized Systems using Self-Reflection" accepted to SAS 2012.
+
+2012.04.20: Paper "Measuring Enforcement Windows with Symbolic Trace Interpretation: What Well-Behaved Programs Say" accepted to ISSTA 2012.
+
+2012.03.27: Paper "A Bit Too Precise? Bounded Verification of Quantized Digital Filters" presented by Arlen Cox at TACAS 2012.
+
+2011.12.16: Paper "A Bit Too Precise? Bounded Verification of Quantized Digital Filters" accepted to TACAS 2012.
+
+2011.09.14: Paper "The Flow-Insensitive Precision of Andersen's Analysis in Practice" presented by Sam Blackshear at SAS 2011.
+
+2011.06.10: Talk "The Flow-Insensitive Precision of Andersen's Analysis in Practice" given at UC Berkeley.
+
+2011.05.21: Paper "The Flow-Insensitive Precision of Andersen's Analysis in Practice" accepted to SAS 2011.
+
+2011.03.16: Talk "Xisa: Extensible Inductive Shape Analysis" given at Carnegie Mellon University.
+
+2011.01.26: "Calling Context Abstraction with Shapes" presented by Xavier Rival at POPL 2011.
+
+2010.12.14: NSF CAREER grant "Cooperative Program Analysis: Bridging the Gap Between User and Tool Reasoning" awarded.
+
+2010.10.04: Paper "Access Nets: Modeling Access to Physical Spaces" accepted to VMCAI 2011.
+
+2010.10.03: Paper "Calling Context Abstraction with Shapes" accepted to POPL 2011.
+
+2010.06.09: "Mixing Type Checking and Symbolic Execution" presented by Khoo Yit Phang at PLDI 2010.
+
+2010.03.24: "Separating Shape Graphs" presented by Vincent Laviron at ESOP 2010.
+
+2010.01.30: Paper "Mixing Type Checking and Symbolic Execution" accepted to PLDI 2010.
+
+cuplv
+cv
+
+
+csci5535
+welcome
+papers
+talks
+張
+博
+聿
+Bor-Yuh Evan Chang evan.chang (at) colorado.edu
+Associate Professor
+office	ECCS 121C
+mail	430 UCB, Boulder, CO 80309-0430 USA
+phone	+1 303 492 8894
+fax	+1 303 492 2844
+zoom	303 492 8894
+
+Ph.D. Positions. I am always looking for enthusiastic students interested in working with me on research projects in programming languages and software systems. If you are interested in finding out more, please contact me.
+
+For insight into the Programming Languages and Verification group, take a look at a recent recruiting talk.
+
+I am an Associate Professor in the Department of Computer Science and the Department of Electrical, Computer, and Energy Engineering (by courtesy) at the University of Colorado Boulder. I co-direct the Programming Languages and Verification Group (CUPLV). I am also a Scholar with Amazon.
+
+My research focuses on making software better and programmers more productive by investigating the fundamental principles and techniques needed to algorithmically assist the software developer throughout the software engineering process. Our advances seek to help users better specify what they care about, interact with automated reasoning engines, triage the alarms from tools, and leverage source code repositories to improve their software. This work is often driven the needs of today's real-world applications to ultimately inform tomorrow's designs.
+
+I completed my Ph.D. with George Necula at the University of California, Berkeley and spent a semester as a postdoctoral researcher with Jeffrey S. Foster in the PLUM group at the University of Maryland, College Park before joining the University of Colorado Boulder.
+
+Current PhD Students
+Tianhan Lu
+	
+
+Termination, complexity, and cost analysis: denial-of-service, algorithmic security vulnerabilities, Java. Co-advised with Pavol Černý.
+
+
+
+Shawn Meier
+	
+
+Specification and verification of event-driven systems: lifestate specifications, specification mining, callbacks, Android.
+
+Graduated PhD Students
+Sam Blackshear
+	
+
+Precise refutation analysis: heap reachability, may-witnesses, false alarm triage, memory leaks, Android, Java.
+
+
+
+Devin Coughlin
+	
+
+Modular verification of almost-everywhere invariants: method reflection, Objective-C
+
+
+
+Arlen Cox
+	
+
+Abstract domain combinators for dynamic languages: reflective metaprogramming frameworks, JavaScript. Co-advised with Sriram Sankaranarayanan.
+
+
+
+Benno Stein
+	
+
+Incremental and demand driven abstract interpretation; goal-directed abstract interpretation for dynamic languages.
+
+Past Research Scientists
+Edmund S.L. Lam
+	
+
+Mining and understanding bug fixes for app-framework protocol defects: property-based testing of interactive apps, big data pipelines.
+
+Past Post-Doctoral Fellows
+Sergio Mover
+	
+
+Mining and understanding bug fixes for app-framework protocol defects: event-based object protocol verification.
+
+Graduated MS Students
+Yi-Fan Tsai
+	
+
+Incremental verification-validation: data structure invariants, incrementalization, C.
+
+Teaching
+Principles of Programming Languages
+Fall 2022, Fall 2016, Fall 2015, Spring 2014, Fall 2012, Spring 2012, and Fall 2009
+	CSCI 3155
+
+Compiler Construction
+Fall 2017, Spring 2015, and Fall 2011
+	CSCI 4555/5525, ECEN 4553/5523
+
+Fundamentals of Programming Languages
+Fall 2023, Spring 2020, Spring 2018, Fall 2013, Spring 2010, and Spring 2009
+	CSCI 5535
+
+Program Analysis: Theory and Practice
+Spring 2016, Fall 2014, Spring 2013, and Fall 2010
+	CSCI 7135
+
+Program Analysis Practicum
+Spring 2017 and Spring 2011
+	CSCI 7135
+
+Readings in Programming Languages
+Spring 2012: Analysis of Dynamic Languages
+	CSCI 7900
+Selected Projects
+Fixr
+Mining and Understanding Bug Fixes for App-Framework Protocol Defects
+
+Developing program analysis, probabilistic inference, program synthesis, social data mining, and big-data engineering tools to cooperative repair Android framework protocol misuses.
+
+Bor-Yuh Evan Chang, Kenneth M. Anderson, Pavol Černý, Sriram Sankaranarayanan, Tom Yeh, Edmund S.L. Lam, and Sergio Mover
+References: SANER 2018 | ICSE 2018 | ONWARD! 2017
+Droidel
+A Framework Model for Static Analysis of Android Applications
+
+A community-driven modeling of the Android framework for static analysis of Android applications. Droidel seeks to be a general purpose model for static analysis based on minimal explication of dynamism in the Android framework code.
+
+Sam Blackshear, Alexandra Gendreau, and Bor-Yuh Evan Chang
+References: SOAP 2015
+QUIC Graphs
+Relational Invariant Generation for Containers
+
+An abstract domain constructor for inferring invariants about sets and set properties of containers.
+
+Arlen Cox, Bor-Yuh Evan Chang, and Sriram Sankaranarayanan
+References: ECOOP 2013
+Thresher
+Precise Refutations for Heap Reachability
+
+A static analysis tool for Java programs that specializes in checking heap reachability properties and provides automated alarm triage assistance.
+
+Sam Blackshear, Bor-Yuh Evan Chang, and Manu Sridharan
+References: PLDI 2013
+Fissile Type Analysis
+Modular Checking of Almost-Everywhere Invariants
+
+A static analysis tool for C and Objective-C that verifies invariants that hold almost everywhere, including the safety of reflective method calls.
+
+Devin Coughlin and Bor-Yuh Evan Chang
+References: POPL 2014
+Xisa
+Extensible Inductive Shape Analysis
+
+Efficient algorithms and automatic tools for reasoning about heap-manipulating programs, such as those that use recursive data structures like pointer-based lists and trees.
+
+References: POPL 2011 | ESOP 2010 | POPL 2008 | SAS 2007
+Demanded Abstract Interpretation
+Expressive and Interactive Static Analysis
+
+A framework for incremental and demand-driven compositional abstract interpretation in arbitrary abstract domains and without loss of precision.
+
+Benno Stein, Bor-Yuh Evan Chang, and Manu Sridharan
+References: PLDI 2021
+Recent Papers
+2024
+detail doi pdf
+Interactive Abstract Interpretation with Demanded Summarization
+Benno Stein, Bor-Yuh Evan Chang, and Manu Sridharan
+ACM Transactions on Programming Languages and Systems (TOPLAS) ACM Trans. Program. Lang. Syst.
+2023
+detail doi
+Historia: Refuting Callback Reachability with Message-History Logics
+Shawn Meier, Sergio Mover, Gowtham Kaki, and Bor-Yuh Evan Chang
+OOPSLA 2023: ACM SIGPLAN Conference on Object Oriented Programming Systems Languages and Applications
+2023
+detail doi
+Lifting On-Demand Analysis to Higher-Order Languages
+Daniel Schoepe, David Seekatz, Ilina Stoilkovska, Sandro Stucki, Daniel Tattersall, Pauline Bolignano, Franco Raimondi, and Bor-Yuh Evan Chang
+SAS 2023: International Static Analysis Symposium
+2022
+detail pdf
+Differential Cost Analysis with Simultaneous Potentials and Anti-potentials
+Ðorđe Žikelić, Bor-Yuh Evan Chang, Pauline Bolignano, and Franco Raimondi
+PLDI 2022: ACM SIGPLAN Conference on Programming Language Design and Implementation
+2021
+detail pdf
+Selectively-Amortized Resource Bounding
+Tianhan Lu, Bor-Yuh Evan Chang, and Ashutosh Trivedi
+SAS 2021: International Static Analysis Symposium
+[more]
+Recent Talks
+February 1, 2016
+pdf
+Fixr: Mining and Understanding Bug Fixes for App-Framework Protocol Defects
+DARPA MUSE Demonstration Workshop. Arlington, Virginia, USA.
+October 3, 2015
+pdf
+Goal-Directed Program Analysis with Jumping
+Max Planck Institute for Software Systems. Kaiserslautern, Germany.
+October 1, 2015
+pdf
+Goal-Directed Program Analysis with Jumping
+École Normale Supérieure. Paris, France.
+July 24, 2015
+pdf
+Goal-Directed Program Analysis with Jumping
+Google. Mountain View, California, USA.
+July 22, 2015
+pdf
+Fixr: Mining and Understanding Bug Fixes for App-Framework Protocol Defects
+DARPA MUSE PI Meeting. SRI International. Menlo Park, California, USA.
+[more]
+Professional Activities
+OOPSLA 2024	
+Review Committee Co-Chair
+ACM SIGPLAN Conference on Object Oriented Programming Systems Languages and Applications
+
+CAV 2024	
+Program Committee Member
+International Conference on Computer Aided Verification
+
+SPLASH 2023	
+Sponsorship Co-Chair
+ACM SIGPLAN Conference on Systems, Programming, Languages and Applications: Software for Humanity
+
+CAV 2023	
+Program Committee Member
+International Conference on Computer Aided Verification
+
+VMCAI 2023	
+Program Committee Member
+International Conference on Verification, Model Checking, and Abstract Interpretation
+
+SPLASH 2022	
+Sponsorship Co-Chair
+ACM SIGPLAN Conference on Systems, Programming, Languages and Applications: Software for Humanity
+
+CAV 2022	
+Program Committee Member
+International Conference on Computer Aided Verification
+
+PLDI 2022	
+Program Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+CAV 2021	
+Program Committee Member
+International Conference on Computer Aided Verification
+
+CAV 2021	
+Sponsorship Chair
+International Conference on Computer Aided Verification
+
+PLDI 2021	
+Program Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+SAS 2020	
+Program Committee Member
+International Static Analysis Symposium
+
+PLDI 2020	
+External Review Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+POPL 2020	
+Program Committee Member
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+OOPSLA 2019	
+Review Committee Member
+ACM SIGPLAN Conference on Object Oriented Programming Systems Languages and Applications
+
+SAS 2019	
+Program Committee Chair
+International Static Analysis Symposium
+
+ISSTA 2019	
+Program Committee Member
+International Symposium on Software Testing and Analysis
+
+SAS 2018	
+Program Committee Member
+International Static Analysis Symposium
+
+ASPLOS 2018	
+External Review Committee Member
+ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+
+APLAS 2017	
+Program Committee Chair
+Asian Symposium on Programming Languages and Systems
+
+ECOOP 2017	
+Program Committee Member
+European Conference on Object-Oriented Programming
+
+PLDI 2017	
+Program Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+APLAS 2016	
+Program Committee Member
+Asian Symposium on Programming Languages and Systems
+
+SAS 2016	
+Program Committee Member
+International Static Analysis Symposium
+
+VMCAI 2016	
+Program Committee Member
+International Conference on Verification, Model Checking, and Abstract Interpretation
+
+POPL 2016	
+Program Committee Member
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+VSTTE 2015	
+Program Committee Member
+IFIP Working Conference on Verified Software: Theories, Tools, and Experiments
+
+PLDI 2015	
+External Review Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+POPL 2015	
+External Review Committee Member
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+POPL 2014	
+Co-Treasurer
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+TAPAS 2013	
+Program Committee Chair
+International Workshop on Tools for Automatic Program Analysis
+
+POPL 2013	
+Treasurer
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+TAPAS 2012	
+Program Committee Member
+International Workshop on Tools for Automatic Program Analysis
+
+PLDI 2012	
+External Review Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+POPL 2012	
+Treasurer and External Review Committee Member
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+VMCAI 2012	
+Program Committee Member
+International Conference on Verification, Model Checking, and Abstract Interpretation
+
+NSAD 2011	
+Program Committee Member
+International Workshop on Numerical and Symbolic Abstract Domains
+
+LCPC 2011	
+Program Committee Member
+International Workshop on Languages and Compilers for Parallel Computing
+
+PASTE 2011	
+Program Committee Member
+ACM SIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering
+
+POPL 2011	
+Treasurer
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+POPL 2010	
+Co-Treasurer
+ACM SIGACT-SIGPLAN Symposium on Principles of Programming Languages
+
+FRACTAL F2009	
+Organizer
+Front Range Architecture Compilers Tools and Languages Workshop
+
+PLDI 2009	
+External Review Committee Member
+ACM SIGPLAN Conference on Programming Language Design and Implementation
+
+AIOOL 2005	
+Program Committee Member
+International Workshop on Abstract Interpretation of Object-Oriented Languages
+

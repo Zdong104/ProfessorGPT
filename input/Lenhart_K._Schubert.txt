@@ -1,0 +1,329 @@
+Professor: Lenhart K. Schubert
+University: University of Rochester
+URL: https://www.cs.rochester.edu/~schubert
+Description: Lenhart K. Schubert
+Professor
+Computer Science Department
+Rochester, NY 14627-0226
+
+Email: lastname AT cs DOT rochester DOT edu
+Fax: (585) 273-4556
+
+
+
+Ph.D. (1970) University of Toronto. Assistant Professor (73-77), Associate Professor (77-84), Professor (84-88); University of Alberta. Professor (88-present), University of Rochester. I am also a member of the Center for Language Sciences (CLS).
+
+My research interests center around language, dialogue agents, knowledge representation, and reasoning. These interests are tied together by the general goal of developing AGI agents -- ones with not only conversational fluency, but with common sense and human-level logistical and planning abilities, self-awareness, self-motivation, and the ability acquire knowledge through language and observation. Some specific topics my collaborators and I have worked on include
+
+speech-based animated dialogue agents for both conversation practice (in casual and medical settings) and in a physical table-top blocks world;
+very expressive, language-like logics to capture the content of ordinary language as directly as possible, in a way that supports reliable, explainable reasoning. A well-developed version supported by a general inference engine is Episodic Logic;
+a comprehensive framework for schemas (subsuming scripts, frames, and plans) for guiding understanding and behavior (including dialogue); schema learning from text and human-computer interaction;
+semantics of events/situations, tense/aspect, reference, affixes, mass terms, generic sentences, belief, questions, vagueness;
+efficient, specialized inference techniques for taxonomies, part-structure, temporal relations, and other classes of relations that pervade commonsense knowledge and are handled effortlessly by people;
+high-fidelity semantic parsing, allowing for the full expressivity of natural language; natural-logic-like inference based on unscoped logical forms; see the ULF website by Gene Kim;
+rule-based probabilistic inference using algebraic probabilities;
+Deriving general world knowledge from texts and taxonomies, as an attack on the "knowledge acquisition bottleneck" in AI; the current system is called KNEXT (KNowledge EXtraction from Text).
+reasoning about plans and actions, in support of both language understanding (e.g., conversation planning and inferring the goals and plans of story characters) and domain reasoning (e.g., formulating plans of action in a transportation domain); automatically discovering invariants in planning domains -- see the DISCOPLAN system; solving the Frame Problem using "explanation closure".
+Tentative office hours:
+Tuesday and Thursday, 5:00-6:30 (or by appt.)
+
+Current and recent courses:
+
+CSC 191/291 (Topics in Computer Science): Machines and Consciousness
+DSC 530 (module on NLP)
+CSC 244/444: Machine Reasoning
+CSC 247/447: Natural Language Processing
+CSC 280: Computer Models and Limitations
+CSC 242: Artificial Intelligence
+
+
+Present faculty & graduate research collaborators:
+Hannah An: Lexical knowledge and object schema acquisition
+M. Ehsan Hoque: Virtual humans for conversation training
+Benjamin Kane: Management of casual and physically grounded dialogue for virtual humans
+Mohammad Rafayet Ali: Virtual humans for dialogue practice
+James Allen: Dialogue processing, deep understanding
+Daniel Gildea: Semantic parsing
+(Linguistics): Semantics of action and event nominals
+Gene Kim: High-fidelity semantic parsing, knowledge acquisition, inference
+Zahra Razavi: Dialogue design and management in a virtual human
+Georgiy Platonov: Modeling spatial relations, concept learning, dialogue agents for physical worlds
+Lane Lawley: Schema learning from stories
+Viet Duong: Semantic parsing and ULF-based inference
+Greg Carlson Alfonso Gerevini: (U. Brescia): Efficient domain-independent planning
+
+
+Undergraduate research assistants (2020 and 2021):
+Muskaan Mendiratta, Benjamin Kuehnert, Marcus Hill, Mandar Juvekar, Xi (Lucy) Lu,
+Aaron Gindi, Benson Gathee, Yifei Yang, Jonathan Waxman, Junis Ekmekciu, Catherine Giugno,
+Haoyu Wu, Serena Matera, Erin Gibson, Winnie Wan, Piyush Saina, Alexa Miller
+
+Some past research collaborators (as of 1988):
+Adam Purtee (Ph.D. 2018, U of R), now a U of R faculty member:
+Knowledge representation, pattern transduction, rule-based probabilistic inference
+
+
+Jonathan Gordon (Ph.D. 2014, U of R), now at ISI:
+Inferential commonsense knowledge from text
+
+
+Daphne Liu (Ph.D. 2012, U of R), now at Sales Force:
+Self-motivated cognitive agent design
+
+
+Benjamin Van Durme (Ph.D. 2010, U of R), now at Johns Hopkins U:
+Extracting implicit knowledge from text
+
+
+Fabrizio Morbini (Ph.D. 2009, U of R), now at Tact.ai:
+Computational infrastructure for a self-aware agent
+Shuwen Zhang: Sentiment analysis in dialogue, turn-taking corpus annotation
+Zining Wen: Sentiment analysis system using word occurrence patterns
+Burkay Donderici: Logical form annotation for semantic parsing, spatial relation judging
+
+
+Akihiro Minami (U of R undergrad):
+Logical form annotation for semantic parsing corpus; spatial relation judging
+
+
+Tianyi Ma (U of R MS student):
+Dialogue turn-taking annotation; logical form annotation for semantic parsing
+
+
+Eric Bigelow (U of R undergrad), now M.S. grad at U of R:
+Imagistic modeling for story understanding
+
+
+Daniel Scarafoni (U of R undergrad), now MS grad at U of R:
+Imagistic modeling for story understanding
+
+
+Alex Wilson (U of R undergrad):
+Imagistic modeling for story understanding
+
+
+David Sekora (U of R undergrad), now Ph.D. candidate, UMD:
+Verb argument structure compilation, schema building
+
+
+Adina Rubinoff (U of R undergrad), now at Factset, Norwalk, CT:
+Acquiring lexical meaning postulates via VerbNet
+
+Ting Qian (U of R undergrad, then Ph.D.), now data scientist at The Children's Hospital of Philadelphia:
+Class attribute extraction, lexical semantics
+
+
+Henry Kyburg, Jr.: http://www.cs.rochester.edu/dept/news/kyburg_obituary.shtml
+
+
+Proshanto Mukherji: (Ph.D. 2006, U of R), now an Associate at Fish & Richardson in Boston, after earning a JD at Harvard Law School:
+Discovering Laws as Anomalies in Logical Worlds
+
+
+Tom Weingarten (U of R undergrad), subsequently NYU PhD, now CTO at Delve News, New York:
+Using pulse train to compute probabilities in Bayesian networks
+
+
+David Ahn: (Ph.D. 2004, U of R), now computational semanticist at Google:
+Semantics/pragmatics of adverbially quantified sentences
+
+
+Teresa Zollo: (Ph.D. 2003, U of R), now at Ithaca College:
+Recovery from speech recognition errors
+
+
+Matthew Tong: (B.Sc. 2003, U of R), now at IBM's Austin Research Lab:
+Mining general world knowledge from texts
+
+
+Amon Seagull (Ph.D. 2000, U of R), now IT and Portfolio Manager, Magic Leap, Fort Lauderdale:
+Well-foundedness and reliability in natural language parsing
+
+Aaron Kaplan:, (Ph.D. 2000, U of R), now lead software engineer at NewsCred, New York, after 10 years at XRCE, Grenoble:
+A computational model of belief
+
+Mark Core (Ph.D. 2000, U of R), now at the Institute for Creative Technologies, Playa Vista, CA:
+Dialog parsing: From speech repairs to speech acts
+
+Marc Light (Ph.D. 1995, U of R), now senior scientist at WindLogics, St. Paul:
+Morphological cues for lexical semantics
+
+Massimo Poesio (Ph.D. 1994, U of R), now at Queen Mary University, U.K.:
+Assigning semantic scope to operators in dialogues
+
+Chung Hee Hwang (Ph.D. 1992, U of Alberta), now retired from GE Global Research, Schenectady, NY:
+A logical approach to narrative understanding, Episodic Logic
+
+Alice Kyburg (Ph.D. 1994, U of R), now at U. Wisconsin at Oshkosh:
+Pragmatic and semantic accounts of vagueness
+
+Stephanie Schaeffer (M.S. 1988, U of Alberta), systems prog., 1988-92:
+Temporal reasoning, hybrid reasoning, EPILOG development
+
+Jeffry Pelletier (Professor, U. Alberta):
+Semantic interpretation, semantics of mass terms and generics
+
+Fahiem Bacchus (Ph.D. 1988, U of Alberta), now at U. Toronto:
+Representing and reasoning about probabilistic knowledge
+
+Caoan Wang (Ph.D. 1988, U of Alberta), now at Memorial U. of Newfoundland:
+Computational geometry
+
+Professional activities and awards
+
+KR'98 program co-chair
+ACL'93 program chair
+CSCSI'80 program chair
+ACM Trans. on Computational Logic editorial board (2007-pres)
+JAIR editorial board (1996-1999)
+Computational Intelligence editorial board (1985-2003)
+Computational Linguistics editorial board (1983-5)
+
+Fellow of the AAAI (elected in 1993 for "fundamental contributions in NLP, esp. in the formalization, representation, and practical implementation of non-first order concepts")
+
+Alexander von Humboldt Fellow (1978-9)
+
+Associate of the Canadian Institute for Advanced Research (1985-88)
+
+Outstanding Contribution award for the KR'89 paper (with C.H. Hwang), "An episodic knowledge representation for narrative texts"
+
+Publications
+Miles Frank and Lenhart Schubert, "Boosting a Semantic Parser Using Treebank Trees Automatically Annotated with Unscoped Logical Forms", 11th Ann. Conf. on Advances in Cognitive Systems (ACS 2024), Poster Collection, 2024, 1-15.
+Kurtis G. Haut, Ronald Epstein, Thomas Carroll, Benjamin Kane, Lenhart Schubert, and Ehsan Hoque, "SOPHIE: Testing a Virtual, Interactive, AI-Augmented End-of-Life Communication Training Tool" (poster & abstract), State of the Science in Hospice and Palliative Care Faculty Portal, State of the Science Symposium, March 22-24, 2024, Phoenix, Arizona. Also see Abstract RP122 in J. of Pain and Symptom Management 67(5):e794-e795, May 2024; DOI: 10.1016/j.jpainsymman.2024.02.469
+Lenhart Schubert, "Predictability and Randomness", arXiv:2401.13066 [cs.IT], Jan. 23, 2024; a re-typeset U. of Alberta technical report no longer available as such.
+Benjamin Kane, Lenhart Schubert, "Get the gist? Using large language models for few-shot decontextualization", arXiv:2310.06254v1 [cs.CL] 10 Oct 2023 (https://arxiv.org/pdf/2310.06254.pdf).
+Benjamin Kane, Lenhart Schubert, "We are what we repeatedly do: Inducing and deploying habitual schemas in persona-based responses", EMNLP 2023, Dec 6-10, Singapore.
+Gene Louis Kim, Mandar Juvekar, Junis Ekmekciu, Viet Duong, and Lenhart Schubert, "Monotonic inference with unscoped episodic logical form: From principles to system", J. of Logic, Language and Information (2023), https://doi.org/10.1007/s10849-023-09412-2. Submitted version.
+Mandar Juvekar, Gene Kim, and Lenhart Schubert, "Semantically informed data augmentation for unscoped episodic logical forms", 15th Int. Conf. on Computational Semantics (IWCS 2023), Nancy, France, June 20-23, 2023.
+Kurtis Haut, Caleb Wohn, Benjamin Kane, Thomas Carrol, Catherine Guigno, Varun Kumar, Ron Epstein, Lenhart Schubert, and Ehsan Hoque, "Validating a virtual human and automated feedback system for training doctor-patient communication skills", (to appear), Int. Conf. on Affective Computing (ACII 2023), MIT Media Lab, Cambridge, MA, Sept. 10--13, 2023. Long version: arXiv:2306.15213v1 [cs.HC] June 27, 2023.
+Benjamin Kane, Catherine Giugno, Lenhart Schubert, Kurtis Haut, Caleb Wohn, and Ehsan Hoque, "Managing Emotional Dialogue for a Virtual Cancer Patient: A Schema-Guided Approach", IEEE Trans. on Affective Computing, 2023. Early access at
+https://www.computer.org/csdl/journal/ta/5555/01/10256134/1QARAIWfhvi
+Prior arXiv version, "A flexible schema-guided dialogue management framework: From friendly peer to virtual standardized cancer patient", arXiv:2207.07276, 2022.
+Lane Lawley and Lenhart Schubert, "Mining logical event schemas from pre-trained language models", Proc. of ACL-SRW 2022, May 22-27, 2022, Dublin, pp. 332-345. video of ACL-SRW presentation
+Lane Lawley and Lenhart Schubert, Logical story representations via FrameNet + semantic parsing", Proc. of the First Workshop on Distributional and Curated Semantics @ NAACL 2022, July 14, 2022, Seattle, WA, pp. 19-23.
+Erin Gibson and Lane Lawley, "Language-model-based parsing and English generation for Unscoped Episodic Logical Forms", Poster #201, FLAIRS 2022, Hutchinson Island, Jensen Beach, FL, May 15-18, 2022. DOI: https://doi.org/10.32473/flairs.v35i.130703
+S. Zahra Razavi, Lenhart K. Schubert, Kimberly van Orden, Mohammad Rafayet Ali, "Discourse behavior of older adults interacting with a dialogue agent competent in multiple topics", ACM Transactions on Interactive Intelligent Systems, May 20, 2022. https://doi.org/10.1145/3484510. (Previous version, arXiv:1907.06279v1 [cs.HC] 14 Jul 2019).
+Georgiy Platonov, Benjamin Kane, and Lenhart K. Schubert, "Generating justifications in a spatial question-answering dialogue system for a blocks world", Proc. of the Reasoning and Interaction Conference (ReInAct 2021), Gothenburg, Sweden, Oct. 2021, pp. 53-57.
+Georgiy Platonov, Yifei Yang, Haoyu Wu, Jonathan Waxman, Marcus Hill, and Lenhart K. Schubert, "Modeling semantics and pragmatics of spatial prepositions via hierarchical common-sense primitives", 2nd Int. Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2021, in conjunction with ACL-IJCNLP 2021), August 5-6, 2021.
+Gene Louis Kim, Mandar Juvekar, Junis Ekmekciu, Viet Duong, and Lenhart Schubert, A (mostly) symbolic system for monotonic inference with unscoped Episodic Logical Forms, NAtural LOgic Meets MAchine Learning (NALOMA'21), University of Groningen, Netherlands, June 16, 2021.
+Gene Louis Kim, Viet Duong, Xin Lu, and Lenhart Schubert, A transition-based parser for unscoped episodic logical form", 14th Int. Conf. on Computational Semantics (IWCS 2021), Univ. of Groningen, Netherlands, June 16-18, 2021.
+Mohammad Rafayet Ali, Taylan Sen, Benjamin Kane, Shagun Bose, Thomas Carroll, Ronald Epstein, Lenhart Schubert, and Mohammed Ehsan Hoque, "Novel Computational Linguistic Measures, Dialogue System and the Development of SOPHIE: Standardized Online Patient for Healthcare Interaction Education", IEEE Transactions on Affective Computing (IEEE TAC), 2021 (to appear). Pre-publication version; Online version.
+Rafayet Ali, Ehsan Hoque, Paul Duberstein, Lenhart Schubert, Seyedeh Zahra Razavi, Benjamin Kane, Caroline Silva, Jennifer S. Daks, Meghan Huang, and Kim Van Orden, "Aging and Engaging: A Pilot Randomized Controlled Trial of an Online Conversational Skills Coach for Older Adults", Am. J. of Geriatric Psychiatry 29(8):804-815, Aug. 2021. (preview).
+Benjamin Kane, Georgiy Platonov, and Lenhart K. Schubert, "Registering historical context in a spoken dialogue system for spatial question answering in a physical blocks world", 23rd Int. Conf. on Text, Speech and Dialogue (TSD 2020), Virtual Conference, Sep 8, 2020 - Sep 11, 2020.
+Lane Lawley, Benjamin Kuehnert, and Lenhart Schubert, "Learning general event schemas with episodic logic", NaLoMa 2020: Natural Logic meets Machine Learning,, Workshop at NASSLLI 2020, Brandeis University,Waltham MA, July 11-17, 2020.
+Gene Louis Kim, Mandar Juvekar, and Lenhart Schubert, "Monotonic inference for underspecified episodic logic", NaLoMa 2020: Natural Logic meets Machine Learning,, Workshop at NASSLLI 2020, Brandeis University,Waltham MA, July 11-17, 2020.
+Georgiy Platonov, Benjamin Kane, Aaron Gindi, and Lenhart K. Schubert, "A spoken dialogue system for spatial question answering in a physical blocks world", SigDial 2020, colocated with ACL 2020, virtual, July 1-3, 2020.
+Mohammad Rafayet Ali, S. Zahra Razavi, Raina Langevin, Abdullah Mamun, Reza Rawassizadeh, Lenhart Schubert, and M.Ehsan Hoque, "A virtual conversational agent for teens with autism: Experimental results and design lessons", 20th ACM Int. Conf. on Intelligent Virtual Agents (https://iva2020.psy.gla.ac.uk/), U. of Glasgow, UK, virtual conference, Oct. 19 - 23, 2020.
+S. Zahra Razavi, Benjamin Kane, Lenhart K. Schubert, "Investigating Linguistic and Semantic Features for Turn-Taking Prediction in Open-Domain Human-Computer Conversation", Interspeech, Graz, Austria, Sept. 15-19, 2019, 4140-4144. https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3152.pdf
+G. Platonov, B. Kane, A. Gindi, L.K. Schubert, "A spoken dialogue system for spatial question answering in a physical blocks world", arXiv:1911.02524v1 [cs.AI] 6 Nov 2019.
+G.L. Kim, B. Kane, V. Duong, M. Mendiratta, G. McGuire, S. Sackstein, G. Platonov, and L.K. Schubert, ,"Generating discourse inferences from unscoped episodic logical formulas" (pre-publication version), The First Int. Workshop on Designing Meaning Representations (DMR 2019), held in conjunction with ACL 2019, August 1, 2019, in Florence, Italy.
+Lane Lawley, Gene Louis Kim and Lenhart Schubert, "Towards natural language story understanding with rich logical schemas " (pre-publication version), Workshop on Natural Language and Computer Science (NLCS) at the 13th Int. Conf. on Computational Semantics (IWCS 2019), Univ. of Gothenburg, Sweden, May 23-27, 2019.
+G.L. Kim and L.K. Schubert, "A type-coherent, expressive representation as an initial step to language understanding" (pre-publication version), 13th Int. Conf. on Computational Semantics (IWCS 2019), Univ. of Gothenburg, Sweden, May 23-27, 2019.
+A.E. Gerevini and L.K. Schubert, "Discovering state constraints for planning with conditional effects in DISCOPLAN, Part I (pre-publication version)", Annals of Mathematics and Artificial Intelligence (AMAI), published online April 2019, https://rdcu.be/bxdI1; in the completed journal issue (Festschrift in honor of Oliviero Stock), vol. 88, no. 5, 2020, pp. 641-686. DOI 10.1007/s10472-019-09618-w.
+S. Zahra Razavi, Lenhart K. Schubert, Benjamin Kane, Mohammad Rafayet Ali, Kimberly A. Van Orden, and Tianyi Ma, "Dialogue design and management for multi-session casual conversation with older adults", Workshop on User-Aware Conversational Agents (User2Agent), at the 24th Int. Conf. on Intelligent User Interfaces (ACM IUI 2019), March 17-20, 2019, Los Angeles, USA.
+G. Platonov and L.K. Schubert, "Computational models for spatial prepositions", Proc. of the 1st Int. Workshop on Spatial Language Understanding, New Orleans, LA, June 6, 2018, pp. 21--30.
+S.Z. Razavi, L.K. Schubert, M.R. Ali, and M.E. Hoque, "Managing casual spoken dialogue using flexible schemas, pattern transduction trees, and gist clauses", 5th Ann. Conf. on Advances in Cognitive Systems (ACS 2017), Rensselaer Polytechnic Institute, Troy, NY, May 12-14, 2017. (Version at ACS 2017 site)
+A. Purtee and L.K. Schubert, "Simple rules for probabilistic commonsense reasoning", 5th Ann. Conf. on Advances in Cognitive Systems (ACS 2017), Rensselaer Polytechnic Institute, Troy, NY, May 12-14, 2017. (This version is corrected from the slightly flawed ACS conference version.)
+Gene Kim and Lenhart Schubert,"Intension, attitude, and tense annotation in a high-fidelity semantic representation", in Proc. of the Workshop on Computational Semantics Beyond Events and Roles (SemBEaR), Valencia, Spain, April 4, 2017.
+S.Z. Razavi, M.R. Ali, T.H. Smith, L.K. Schubert, and M.E. Hoque, "The LISSA virtual human and ASD teens: An overview of initial experiments", 16th Int. Conf. on Intelligent Virtual Agents (IVA 2016), Los Angeles, Sept. 20-23.
+Gene Kim and Lenhart Schubert, "High-fidelity lexical axiom construction from verb glosses", Proc. of the 5th Joint Conf. on Lexical and Computational Semantics (*SEM 2016), pp. 34-44, Berlin, Germany, August 11-12, 2016.
+L.K. Schubert, "What kinds of knowledge are required for genuine understanding", IJCAI 2015 Workshop on Cognitive Knowledge Acquisition and Applications (Cognitum 2015), Buenos Aires, July 25, 2015. Slides of the talk (not delivered as planned -- thanks, American Airlines).
+L.K. Schubert, "Semantic representation", 29th AAAI Conference (AAAI15), Jan. 25-30, 2015, Austin, TX. Slides of the talk.
+E. Bigelow, D. Scarafoni, L. Schubert, and A. Wilson, "On the need for imagistic modeling in story understanding", Biologically Inspired Cognitive Architectures 11, Jan. 2015, 22--28. (Presented at Ann. Int. Conf. on Biologically Inspired Computing Architectures (BICA 2014), Nov. 7-9, MIT, Cambridge, MA, 2014.)
+L.K. Schubert, "Computational linguistics", in Edward N. Zalta (Principal Editor), Stanford Encyclopedia of Philosophy, CSLI, Stanford, CA.(100pp), 2014.
+L.K. Schubert, "From Treebank parses to Episodic Logic and commonsense inference", Proc. of the ACL 2014 Workshop on Semantic Parsing, Baltimore, MD, June 26, ACL, 55-60.
+Daphne Liu and L.K. Schubert, "Towards self-motivated, cognitive, continually planning agents", Computational Intelligence 31(3), 385-417, August 2015. (First published online Jan.\ 21, 2014, DOI: 10.1111/coin.12029.) Pre-publication version.
+L.K. Schubert, "NLog-like inference and commonsense reasoning", in A. Zaenen, V. de Paiva, & C. Condoravdi (eds.), Semantics for Textual Inference, special issue of Linguistic Issues in Language Technology (LiLT) 9(9), 2013. (The pdf file is a preliminary version, Dept. of Computer Science, University of Rochester, Oct. 2012.)
+Daphne Liu and L.K. Schubert, An infrastructure for self-motivated, continually planning agents in virtual worlds", Tech. Rep. TR 985, Dept. of Computer Science, Univ. of Rochester, Rochester, NY 14627, Dec 2012. Using Textual Patterns to Learn Expected Event Frequencies.
+J. Gordon and L.K. Schubert, Using Textual Patterns to Learn Expected Event Frequencies, Proc. of the NAACL Workshop on Automatic Knowledge Base Construction and Web-Scale Knowledge Extraction (AKBC-WEKEX), 2012.
+J. Gordon and L.K. Schubert, WordNet hierarchy axiomatization and the mass-count distinction", 7th IEEE Int. Conf. on Semantic Computing (ICSC 2013), September 16-18, Irvine, CA, 2013.
+A. Purtee and L.K. Schubert, "TTT: A tree transduction language for syntactic and semantic processing", EACL 2012 Workshop on Applications of Tree Automata Techniques in Natural Language Processing (ATANLP 2012), Avignon, France, Apr. 24, 2012.
+L.K. Schubert, J. Gordon, K. Stratos, and A. Rubinoff, "Towards adequate knowledge and natural inference", in Proc. of AAAI Fall Symposium on Advances in Cognitive Systems (ACS '11), Arlington, VA, Nov. 4-6, 2011.
+K. Stratos, L.K. Schubert, & J. Gordon, "Episodic Logic: Natural Logic + reasoning", Int. Conf. on Knowledge Engineering and Ontology Development, (KEOD'11), Oct 26-29, Paris, 2011.
+L.K. Schubert, B. Van Durme, and M. Bazrafshan, "Entailment inference in a natural logic-like general reasoner", Common Sense Knowledge Symposium (CSK-10), AAAI 2010 Fall Symposium Series, Arlington, VA, November 11-13, 2010.
+Daphne Liu and L.K. Schubert, "Combining self-motivation with logical planning and inference in a reward-seeking agent", Proc. of the Int. Conf. on Agents and Artificial Intelligence (ICAART 2010), vol. 2 (INSTICC Press), Valencia, Spain, Jan. 22-24, 2010, pp. 257-263.
+Jonathan Gordon and Lenhart Schubert, "Quantificational sharpening of commonsense knowledge", Proc. of the AAAI Fall Symposium on Commonsense Knowledge, Arlington, VA, Nov. 11-13, 2010.
+L.K. Schubert, "From generic sentences to scripts", IJCAI'09 Workshop W22, Logic and the Simulation of Interaction and Reasoning (LSIR 2), Pasadena, CA, July 12, 2009.
+F. Morbini and L.K. Schubert, "Evaluation of Epilog: A reasoner for Episodic Logic", Commonsense'09, June 1-3, 2009, Toronto, Canada. Also available at http://commonsensereasoning.org/2009/papers.html
+L.K. Schubert, "Language Understanding as Recognition and Transduction of Numerous Overlaid Patterns", AAAI Spring Symposium on Learning by Reading and Learning to Read, Mar 23-25, 2009, Stanford, pp. 94-96.
+D. Liu and L.K. Schubert, "Incorporating planning and reasoning into a self-motivated, communicative agent", The 2nd Conf. on Artificial General Intelligence (AGI-09), Arlington, VA, March 6-9, 2009, pp. 108-113.
+B. Van Durme, P. Michalak, and L.K. Schubert, "Deriving generalized knowledge from corpora using WordNet abstraction", 12th Conf. of the European Chapter of the Assoc. for Computational Linguistics (EACL-09), Mar. 30 - Apr. 3, 2009, Athens, Greece.
+L.K. Schubert and B. Van Durme, "Open extraction of general knowledge through compositional semantics", Notebook of the NSF Symposium on Semantic Knowledge Discovery, Organization and Use, New York University, Nov. 14-15, 2008.
+F. Morbini and L.K. Schubert, "Metareasoning as an integral part of commonsense and autocognitive reasoning", AAAI'08 Workshop on Metareasoning, July 13-14, 2008, Chicago, pp 155-162.
+Benjamin Van Durme, Ting Qian and Lenhart K. Schubert, "Class-driven attribute extraction", COLING'08, Aug. 18-22, 2008, Manchester, UK.
+Benjamin Van Durme and Lenhart K. Schubert, "Open knowledge extraction using compositional language processing", Symposium on Semantics in Systems for Text Processing (STEP 2008), September 22-24, 2008 - Venice, Italy.
+L.K. Schubert, "Partial zombies, prostheses, and a pretty hard problem", Conference Abstracts, Towards a Science of Consciousness, Budapest Semester in Cognitive Science, Eötvös University, Budapest, Hungary, July 23-26, 2007. On-line at https://www.hse.ru/data/2010/10/28/1223650091/TSC2007abstracts.pdf
+F. Morbini and L.K. Schubert, "Towards realistic autocognitive inference", Logical Formalizations of Commonsense Reasoning, Papers from the AAAI Spring Symposium, Tech. Rep. SS-07-05, AAAI Press, Menlo Park, CA, March 26-28, Stanford, pp. 114-118, 2007.
+L.K. Schubert, "Implicit Skolemization: Efficient reference to dependent entities", Research on Language and Computation 5, April 2007, (special volume on Binding Theory, ed. by Alastair Butler, Ed Keenan, Jason Mattausch and Ken Shan), pp. 69-86. Pre-publication version (differing only in format); ESSLLI'04 talk.
+L.K. Schubert, "Turing's dream and the knowledge challenge", 21st Nat. Conf. on Artificial Intelligence (AAAI'2006), July 16-20, 2006, Boston, MA, AAAI Press, Menlo Park, CA, pp. 1534-8.
+P. Mukherji and L.K. Schubert, State-based Discovery and Verification of Propositional Planning Invariants" (submitted version -- final ICAI'06 papers currently not available electronically), Proc. of the Int. Conf. on Artificial Intelligence (ICAI'06), June 26-29, Las Vegas, CSREA Press, 2006.
+P. Mukherji and L.K. Schubert, "Discovering Planning Invariants as Anomalies in State Descriptions", Proc. of the 2005 Int. Conf. on Automated Planning and Scheduling (ICAPS'05), June 5-10, Monterey, 2005.
+L.K. Schubert, "Some KR&R requirements for self-awareness", 2005 AAAI Spring Symposium on Metacognition in Computation, Stanford University, March 21-23, 2005.
+L.K. Schubert, "A new characterization of probabilities in Bayesian networks", Uncertainty in AI: Proc. of the 20th Conference (UAI 2004), Banff, Canada, July 7-11. Extended version forthcoming as tech. rep., Dept. of Comp. Sci., Univ. of Rochester, Rochester, NY 14627-0226.
+L.K. Schubert and M.H. Tong, "Extracting and evaluating general world knowledge from the Brown corpus", Proc. of the HLT/NAACL 2003 Workshop on Text Meaning, May 31, Edmonton, Alberta, Canada. (postscript)
+L.K. Schubert, "Semantics and knowledge representation" (pre-publication pdf). In W. Frawley (ed.), Int. Encyclopedia of Linguistics, Second Edition, Oxford Univ. Press, 2003.
+D. Ahn and L.K. Schubert, "A binary modality for reasoning about conjoined situations in a hybrid logic", Proc. of the Workshop on Methods for Modalities 3 (M4M 3), LORIA (INRIA Lorraine), Nancy, France, Sept. 22-23, 2003.
+L.K. Schubert, "Can we derive general world knowledge from texts?", M. Marcus (ed.), Proc. of the 2nd Int. Conf. on Human Language Technology Research (HLT 2002), March 24-27, San Diego, CA, pp. 94-97. (postscript)
+A. Gerevini and L.K. Schubert, "DISCOPLAN: An efficient online system for computing planning domain invariants", Proc. of the 6th Eur. Conf. on Planning (ECP-01), Toledo, Spain, September 12-14, 2001. (Also available in the ECP01 Proceedings.)
+A.N. Kaplan and L.K. Schubert, "Measuring and improving the quality of world knowledge extracted from WordNet", Tech. Rep. 751, Dept. of Computer Science, Univ. of Rochester, May 2001.
+L.K. Schubert, "The situations we talk about", in J. Minker (ed.), Logic-Based Artificial Intelligence, Kluwer, Dortrecht, 2000, 407-439. (postscript)
+A.N. Kaplan and L.K. Schubert, "A computational model of belief", Artificial Intelligence 120(1), June 2000, 119-160.
+A. Gerevini and L.K. Schubert, "Discovering state constraints in DISCOPLAN: Some new results", Proc. of the 17th Nat. Conf. on Artificial Intelligence (AAAI'2000), July 30-August 3, 2000, Austin, Texas.
+L.K. Schubert and C.H. Hwang, "Episodic Logic meets Little Red Riding Hood: A comprehensive, natural representation for language understanding", in L. Iwanska and S.C. Shapiro (eds.), Natural Language Processing and Knowledge Representation: Language for Knowledge and Knowledge for Language, MIT/AAAI Press, Menlo Park, CA, and Cambridge, MA, 2000, 111-174. See MIT Press website for the book.
+L.K. Schubert, "Dynamic Skolemization", in H. Bunt and R. Muskens (eds.), Computing Meaning, vol. 1, Studies in Linguistics & Philosophy Series, Kluwer Academic Press, Dortrecht (also Boston, London), 1999, 219-253.
+A. Gerevini and L.K. Schubert, "Inferring state constraints for domain-independent planning", Proc. of the 15th Nat. Conf. on Artificial Intelligence (AAAI-98), July 26-30, Madison, WI, 1998.
+M.G. Core and L.K. Schubert, "Implementing parser metarules that handle speech repairs and other disruptions", 11th Int. FLAIRS Conference, Special Track on Natural Language Processing and Human-Computer Interaction, Sundial Beach, Florida, May 17-20, 1998.
+M.G. Core and L.K. Schubert, "Handling speech repairs and other disruptions through parser metarules", AAAI Spring Symposium on Computational Models for Mixed Initiative Interaction, Mar. 24-16, Stanford U., 1997.
+M. Light and L.K. Schubert, "Knowledge representation for lexical semantics: Is standard first-order logic enough?", in H. Bunt, L. Kievit, R. Muskens, and M. Verlinden (eds.), IWCS II: 2nd Int. Workshop on Computational Semantics, Tilburg University, Netherlands, Jan. 8-10, 1997.
+A. N. Kaplan and L.K. Schubert, "Simulative inference in a computational model of belief", in H. Bunt and R. Muskens (eds.), Computational Semantics, Studies in Linguistics & Philosophy Series, to appear. Preliminary version in H. Bunt, L. Kievit, R. Muskens, and M. Verlinden (eds.), IWCS II: Second International Workshop on Computational Semantics, Tilburg University, Netherlands, Jan. 8-10, 1997. Expanded version in Tech. Rep. 636, Dept. of Computer Science, U. Rochester, Rochester, NY 14627-0226, October 1997.
+L.K. Schubert, "Framing the donkey: Towards a unification of semantic representations with knowledge representations", AAAI Fall Symp. on Knowledge Representation Systems based on Natural Language, Nov. 9-11, Cambridge, MA, pp. 120-130, 1996.
+A. Gerevini and L.K. Schubert, "Accelerating partial-order planners: Some techniques for effective search control and pruning", J. of Artificial Intelligence Research 5, pp. 95-137, Sept. 1996.
+D. Traum, L.K. Schubert, M. Poesio, N. Martin, M. Light, C.H. Hwang, P. Heeman, G. Ferguson, J.F. Allen, "Knowledge representation in the TRAINS-93 conversation system", Int. J. of Expert Systems 9(1), special issue on Knowledge Representation and Inference for Natural Language Processing, pp. 173-223, 1996.
+A. Gerevini and L.K. Schubert, "Computing parameter domains as an aid to planning", Proc. of the 3rd Int. Conf. on Artif. Intell. Planning Systems (AIPS-96) (B. Drabble, ed.), May 29-31, Edinburgh, The AAAI Press, Menlo Park, CA, pp. 94-101., 1996.
+L.K. Schubert and A. Gerevini, "Accelerating partial order planners by improving plan and goal choices", Proc. of the 7th Int. Conf. on Tools with AI (ICTAI'95), Nov. 5-8, Herndon, VA, 1995, pp. 442-450.
+Gerevini, A. and L. K. Schubert. "Efficient algorithms for qualitative reasoning about time", Artificial Intelligence 74(2), pp. 207-248, 1995.
+J.F. Allen, L. K. Schubert, G. M. Ferguson, P. A. Heeman, C. H. Hwang, T. Kato, M. Light, N. G. Martin, B. W. Miller, M. Poesio, and D.R. Traum. "The TRAINS project: A case study in building a conversational planning agent," J. Experimental and Theoretical Artificial Intelligence 7, 7-48, 1995.
+C.H. Hwang and L. K. Schubert, "Interpreting tense, aspect, and time adverbials: a compositional, unified approach'', in D.M. Gabbay and H.J. Ohlbach (eds.), Proc. of the 1st Int. Conf. on Temporal Logic, July 11-14, Bonn, Germany, Springer-Verlag, pp. 238-264, 1994.
+L.K. Schubert, "Explanation closure, action closure, and the Sandewall test suite for reasoning about change", J. of Logic and Computation 4(5), Special Issue on Actions and Processes, pp. 679-799, 1994. Reprinted with minor changes in H.J. Levesque and F. Pirri (eds.), Logical Foundations for Cognitive Agents: Contributions in Honor of Ray Reiter, Springer, Berlin, 1999, pp. 325-351.
+A. Gerevini, L.K. Schubert, and S. Schaeffer. "The temporal reasoning tools TimeGraph-I-II.'' Proc. of the 6th IEEE Int. Conf. on Tools with Artificial Intelligence, Nov. 6-9, New Orleans, Louisiana, 1994.
+C.H. Hwang and L.K. Schubert ,"EL: A formal, yet natural, comprehensive knowledge representation", Proc. of the 11th Nat. Conf. on Artificial Intelligence (AAAI-93), July 11-15, Washington, D.C., pp. 676-682.
+C.H. Hwang and L.K. Schubert, ,"Meeting the interlocking needs of LF-computation, deindexing, and inference: An organic approach to general NLU", in Proc. of the AAAI Fall Symposium, TR FS-94-04, September, 1994, pp. 1237-1302.
+C.H. Hwang and L.K. Schubert, "Episodic Logic: A situational logic for natural language processing," In P. Aczel, D. Israel, Y. Katagiri, and S. Peters (eds.), Situation Theory and its Applications 3 (STA-3), CSLI, 307-452, 1993. Corrigendum
+A. Kyburg and L.K. Schubert, "Reconciling sharp true/false boundaries with scalar vagueness", 1st Conf. of the Pacific Assoc. for Computational Linguistics (PACLING 1993), Apr. 21-24, Simon Fraser Univ., Vancouver, Canada, 1993.
+C.H. Hwang and L.K. Schubert, "Tense trees as the fine structure of discourse", Proc. of the 30th Ann. Meet. of the Assoc. for Computational Linguistics, U. of Delaware, Newark, DE, June 28 - July 2, 1992, pp. 232--240. Reprinted in I. Mani, J. Pustejovsky and R. J. Gaizauskas (eds.), The Language of Time -- A Reader, Oxford University Press, pp. 461--474, 2005.
+L.K. Schubert, "Semantic nets are in the eye of the beholder", in J. Sowa (ed.), Principles of Semantic Networks: Explorations in the Representation of Knowledge, Morgan Kaufmann, Los Altos, CA, pp. 95-107, 1991.
+L.K. Schubert, "Monotonic solution of the frame problem in the situation calculus: An efficient method for worlds with fully specified actions," in H. Kyburg, R. Loui and G. Carlson (eds.), Knowledge Representation and Defeasible Reasoning, Kluwer, Dortrecht, pp. 23-67, 1990.
+S.A. Miller and L.K. Schubert, "Time revisited", Computational Intelligence 6(2), 108-118, 1990. (A lower-resolution scanned pdf version is also available.)
+L.K. Schubert and C.H. Hwang, "An episodic knowledge representation for narrative texts", Proc. of the 1st Int. Conf. on Principles of Knowledge Representation and Reasoning (KR-89), May 15-18, Toronto, Canada, pp. 444-458, 1989; (Outstanding Contribution Award); [the above link is to the scanned KR-89 Proceedings -- a very large file]; extended and revised version in Tech. Rep. 345, May 1990, Dept. of Comp. Science, Univ. of Rochester, May 1990.
+L.K. Schubert and C.H. Hwang, "Picking reference events from tense trees: A formal, implementable theory of English tense-aspect semantics", Proc. of the Workshop on Speech and Natural Language (HLT '90), Hidden Valley, PA, June 24-27 1990, pp. 34-41.
+F.J. Pelletier and L.K. Schubert, "Mass Expressions", in D. Gabbay & F. Guenthner (eds.), Handbook of Philosophical Logic, Vol. 4, Reidel, Dortrecht, 327-407, 1989.
+[Expanded version reprinted in second edition [2003] of this Handbook, volume 10, pp. 265-350.]
+L.K. Schubert and F.J. Pelletier, "Generically speaking, or, using discourse representation theory to interpret generics", in G. Chierchia, B. Partee, R. Turner (eds.), Property Theory, Type Theory, and Semantics, Vol. II, Kluwer, 193-268, 1989. [scanned: very large file]
+L.K. Schubert and F.J. Pelletier, "An outlook on generic statements", in M. Krifka (ed.), Genericity in Natural Language, Proc. of the 1988 Tübingen Conference, SNS-Bericht 88-42, Universität Tübingen, Biesingerstr. 10, D-7400 Tübingen, November 1988, 357-371.
+L.K. Schubert and F.J. Pelletier, "Problems in Representing the Logical Form of Generics, Bare Plurals, and Mass Terms", in E. Lepore (ed.), New Directions in Semantics, Academic Press, 387-453, 1987.
+L.K. Schubert, M.A. Papalaskaris, and J. Taugher, "Accelerating deductive inference: Special methods for taxonomies, colours, and times", in N. Cercone and G. McCalla (eds.), The Knowledge Frontier: Essays in the Representation of Knowledge, Springer-Verlag, New York, pp. 187-220, 1987.
+J. de Haan and L.K. Schubert, "Inference in a topically organized semantic net", Proc. of the 5th Nat. Conf. on Artificial Intelligence (AAAI-86), August 11-15, Philadelphia, PA, pp. 334-338, 1986.
+L.K. Schubert, "Are there preference trade-offs in attachment decisions?", Proc. of the 5th Nat. Conf. on Artificial Intelligence (AAAI-86), August 11-15, Philadelphia, PA, pp. 601-605, 1986.
+F.J. Pelletier and L.K. Schubert, Two theories for computing the logical form of mass expressions", Proc. of the 10th Int. Conf. On Computational Linguistics (COLING-84), July 2-6, Stanford Univ., Stanford, CA, 108-111, 1984.
+L.K. Schubert, "On parsing preferences", Proc. of the 10th Int. Conf. On Computational Linguistics (COLING-84), July 2-6, Stanford Univ., Stanford, CA, 247-250, 1984.
+L.K. Schubert, M.A. Papalaskaris, and J. Taugher, "Determining type, part, color, and time relationships",, Computer 16(10), Oct. 1983, 53-60.
+L.K. Schubert and F.J. Pelletier, From English to logic: Context-free computation of 'conventional' logical translations", Am. J. of Computational Linguistics 8 [now Computational Linguistics], 26-44, 1982. (Reprinted, with corrections, in B. Grosz, K. Spark-Jones, B. Webber (eds.), Readings in Natural Language Processing, Morgan Kaufmann, Los Gatos, CA, 293-311, 1986.)
+D.T. Johnson and L.K. Schubert, "A planning control strategy that allows for the cost of planning, Proc. of the 6th European Meeting on Cybernetics and Systems, Univ. of Vienna, Vienna, Austria, Apr. 13-16, 1982.
+L.K. Schubert, "Problems with parts", Proc. 6th Int. Joint Conf. on Artificial Intelligence (IJCAI-79), Tokyo, Japan, pp. 778-784, Aug. 20-23, 1979.
+L.K. Schubert, "On the representation of vague and uncertain knowledge", Information Abstracts of the 7th Int. Conf. on Computational Linguistics, (COLING'78), Univ. of Bergen, Bergen, Norway, Aug. 14-18, 1978, paper 37.
+L.K. Schubert, "Extending the expressive power of semantic networks, Artificial Intelligence 7, 163-198, 1976.
+N. Cercone and L.K. Schubert, "Toward a state-based conceptual representation", Proc. 4th Int. Joint Conf. on Artificial Intelligence (IJCAI-75), Sept. 3-8, Tbilisi, USSR, pp. 83-90, 1975.
+L.K. Schubert, On the Expressive Adequacy of Semantic Networks, TR74-18, Dept. of Computing Science, University of Alberta, 1974.
+L.K. Schubert, Representative samples of programmable functions, Information and Control 25, pp. 30-44, 1974.
+L.K. Schubert, Iterated limiting recursion and the program minimization problem, J. Assoc. Comp. Mach. 21, pp. 436-445, 1974. Also in Proc. of the 3rd Int. Joint Conf. on Artificial Intelligence (IJCAI-73), Aug. 20-23, Stanford, CA, pp. 513-523, 1973.
+L.K. Schubert, Numerical study of sound refraction by a jet flow. I. Ray acoustics, J. Acoust. Soc. Am. 51, pp. 439-446, 1972.
+L.K. Schubert, Numerical study of sound refraction by a jet flow. II. Wave acoustics, J. Acoust. Soc. Am. 51, pp. 447-463, 1972.
+L.K. Schubert, Modification of a quasi-Newton method for non-linear equations with a sparse Jacobian, Math. Comp. 24, pp. 27-30, 1970; MR (41) #2923 (1971).
+J. Atvars, L.K. Schubert, E. Grande, and H.S. Ribner, ``Refraction of sound by jet flow and jet temperature", NASA CR-494, May 1966. Also UTIAS Tech. Note 109, May 1965.
+J. Atvars, L.K. Schubert, and H.S. Ribner, Refraction of sound from a point source placed in an air jet, J. Acoust. Soc. Am. 37, pp. 168-170, 1965. Extensions of this work reported in AIAA Paper No. 65-82, AIAA Aerospace Sci. Meeting, 2nd New York, 25-27 January 1965.
+
+
+Back to URCS Faculty directory
+
+Back to URCS Home Page
+

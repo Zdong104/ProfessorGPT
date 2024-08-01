@@ -1,0 +1,182 @@
+Professor: Zoran Tiganj
+University: Indiana University
+URL: https://homes.luddy.indiana.edu/ztiganj
+Description: Zoran Tiganj
+Assistant Professor, Indiana University Bloomington
+Research interests
+My research aims to advance our understanding of the computational basis of cognition through the development of neural-level models of perception, memory, and learning. We test the models on data from behavioral experiments and electrophysiological recordings and use them to build artificial agents that can learn in an unsupervised manner from temporal and spatial regularities in the real world. Specifically, domains of application include reinforcement learning, spatial navigation, natural language processing, and computer vision.
+
+
+Projects
+Constructing deep reinforcement learning (RL) agents powered by a cognitive model.
+We integrate a cognitive model for constructing mental number lines into deep RL agents. The number line representation enables agents to represent latent dimensions with neurons tuned to different magnitudes of the latent variables. This structured neural representation has a form of a low-dimensional manifold supported by bell-shaped turning curves, and it has fundamentally different properties than standard distributed representations in deep neural networks. The structured representation of the latent space holds exciting promise for fast learning and strong generalization capacity. We train agents on experiments similar to experiments commonly conducted on mammals and compare the behavior and neural activity recorded from the animals to the behavior and neural activity of the artificial agents. We also compare RL agents based on cognitive models with RL agents based on common deep architectures.
+Studying how time and space are represented in the human brain through behavioral experiments.
+We conduct behavioral experiments where subjects are asked to mentally navigate different dimensions, including time (past and future) and space (real and conceptual). Subjects' accuracy and especially response time provide valuable insights into how the human brain represents and navigates these dimensions. Specifically, our results suggest that the brain maintains a temporally compressed representation of the past: a scannable mental timeline with a better temporal resolution for the more recent past than the more distant past. Remarkably, the results also suggest that the brain constructs a timeline with analogous properties to represent the future. We are further examining the similarities of these representations across dimensions and their utility for learning.
+Using machine learning methods to identify temporally and spatially modulated neural populations.
+Electrophysiological recordings of individual neurons conducted while animals perform tasks that require memory, learning and decision-making provide an incredibly valuable resource for studying computational mechanisms of cognition. To better understand the underlying neural representation, we compute the maximum likelihood fits of the data with models inspired by hypotheses coming from cognitive science. For example, we evaluate fits of neural spike trains with log-compressed bell-shaped receptive fields that are hypothesized to be a building block of the mental timeline that accounts for the human behavioral data.
+Constructing computational models of mammalian spatial navigation.
+Spatial navigation in animals is critically dependent on path integration, which enables continuous tracking of one's position in space by integrating self-motion cues. Identifying the mechanistic basis of path integration is important not only for understanding the basic mechanisms of spatial navigation but also for understanding the mechanisms of declining path integration ability at the onset of Alzheimer's disease. We are building a computational model that gives rise to distinct neural populations observed in the hippocampus and entorhinal cortex - parts of the brain critically important for spatial navigation. The computational model uses the same mathematical foundations as the model used to account for bell-shaped activity in the neural data and the mental timeline in the behavioral data. This is a colaborative project with Dr. Ehren Newman and Dr. Thomas Wolbers.
+Human-inspired curiculum and continual learning in artificial systems.
+Infants learn about the world through a curriculum characterized by gradually increasing speed and complexity of the inputs. We perform self-supervised pretraining of deep neural networks using data (e.g., egocentric videos) from infants at various stages of development. Our objective is to design learning rules for artificial neural networks that can take advantage of the natural curriculum and learn with little to no supervision without catastrophic forgetting. This is a colaborative project with Dr. Linda Smith and Dr. Justin Wood.
+
+
+Publications
+S. Sheybani, S. S. Maini, A. Dendukuri, Z. Tiganj, L. B. Smith. ModelVsBaby: a Developmentally Motivated Benchmark of Out-of-Distribution Object Recognition OSF, 2024. PDF
+
+
+J. Mochizuki-Freeman, M. R. Kabir, M. Gulecha, Z. Tiganj. Incorporating a cognitive model for evidence accumulation into deep reinforcement learning agents CogSci, 2024. PDF
+
+
+J. Mochizuki-Freeman, M. R. Kabir, M. Gulecha, Z. Tiganj. Geometry of abstract learned knowledge in deep RL agents. NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations (Proceedings track, Oral presentation), 2023. PDF
+
+
+S. Sheybani, H. Hansaria, J N. Wood, L. B. Smith, Z. Tiganj. Curriculum learning with infant egocentric videos. NeurIPS (Spotlight paper), 2023. PDF
+
+
+Z. Tiganj. Accumulating evidence by sampling from temporally organized memory. Learning & Behavior, 1-2, 2023. PDF
+
+
+J. Mochizuki-Freeman, S. S. Maini, Z. Tiganj. Characterizing neural activity in cognitively inspired RL agents during an evidence accumulation task. In 2023 International Joint Conference on Neural Networks (IJCNN). IEEE. Presentation video Code PDF
+This work was also presented at NeurIPS Memory in Artificial and Real Intelligence workshop, 2022. PDF
+
+
+S. S. Maini, J. Mochizuki-Freeman, C. S. Indi, B. G. Jacques, P. B. Sederberg, M. W. Howard and Z. Tiganj. Representing Latent Dimensions Using Compressed Number Lines. In 2023 International Joint Conference on Neural Networks (IJCNN). IEEE. Presentation video Code PDF
+This work was also presented at NeurIPS Memory in Artificial and Real Intelligence workshop, 2022. PDF
+
+
+B. G. Jacques, Z. Tiganj, A. Sarkar, M. W. Howard and P. B. Sederberg. A deep convolutional neural network that is invariant to time rescaling. ICML, 2022. PDF
+
+
+S. S. Maini, L. Labuzienski, S. Gulati and Z. Tiganj. Comparing Impact of Time Lag and Item Lag in Relative Judgment of Recency. CogSci, 2022. PDF
+
+
+Z.Tiganj*, I. Singh*, Z. Esfahani, M. W. Howard. Scanning a compressed ordered representation of the future. Jorunal of Experimental Psychology: General, 2022. PDF
+
+
+B. G. Jacques, Z. Tiganj, M. W. Howard and P. B. Sederberg. DeepSITH: Efficient Learning via Decomposition of What and When Across Time Scales. NeurIPS, 2021. PDF
+
+
+Z. Tiganj, W. Tang and M. W. Howard. A computational model for simulating the future using a memory timeline CogSci, 2021. PDF
+
+
+I. M. Bright*, M. L. R. Meister*, N. A. Cruzado, Z. Tiganj, M. W. Howard and E. A. Buffalo. A temporal record of the past with a spectrum of time constants in the monkey entorhinal cortex. PNAS, 117(33), pp.20274-20283, 2020. PDF
+
+
+N. Cruzado, Z. Tiganj, S. Brincat, E. K. Miller and M. W. Howard. Conjunctive representation of what and when in monkey hippocampus and lateral prefrontal cortex during an associative memory task. Hippocampus, 30 (12), p. 1332-1346, 2020. PDF
+
+
+Z. Tiganj, N. Cruzado and M. W. Howard. Towards a neural-level cognitive architecture: modeling behavior in working memory tasks with neurons. CogSci 2019, Conference proceedings. PDF
+
+
+Z. Tiganj, S. J. Gershman, P. B. Sederberg and M. W. Howard. Estimating scale-invariant future in continuous time. Neural Computation, 31(4), p. 681-709, 2019. PDF
+
+
+Y. Liu, Z. Tiganj, M. E. Hasselmo, and M. W. Howard. Biological simulation of scale-invariant time cells. Hippocampus, 1-15, 2018. PDF
+
+
+M. W. Howard, A. Luzardo and Z. Tiganj. Evidence accumulation in a Laplace domain decision space. Computational brain and behavior, 1, 237-251, 2018. PDF
+
+
+Z. Tiganj, N. Cruzado and M. W. Howard. Constructing neural-level models of behavior in working memory tasks. Conference on Cognitive Computational Neuroscience, 2018. PDF
+
+
+I. Singh*, Z. Tiganj* and M. W. Howard. Is working memory stored along a logarithmic timeline? Converging evidence from neuroscience, behavior and models. Neurobiology of Learning and Memory, 153A, p. 104-110, 2018. PDF
+
+
+Z. Tiganj, J. A Cromer, J. E Roy, E. K Miller and M. W Howard. Compressed timeline of recent experience in monkey lPFC . Journal of Cognitive Neuroscience, 30(7), p. 935-950, 2018. PDF
+
+
+Z. Tiganj, J. Kim, M. W. Jung and M. W. Howard. Sequential firing codes for time in rodent medial prefrontal cortex . Cerebral Cortex, volume 27, number 12, Pages 5663--5671, 2017. PDF
+
+
+B. Podobnik, M. Jusup, Z. Tiganj, W. X. Wang, J. M. Buldu, and H. E. Stanley. Biological conservation law as an emerging functionality in dynamical neuronal networks . PNAS, p. 201705704, 2017. PDF
+
+
+Z. Tiganj, K. H., Shankar and M. W. Howard. Neural and computational arguments for memory as a compressed supported timeline . CogSci 2017, Conference proceedings. PDF
+
+
+Z. Tiganj, K. H., Shankar and M. W. Howard. Scale invariant value computation for reinforcement learning in continuous time . AAAI Spring Symposium Series - Science of Intelligence: Computational Principles of Natural and Artificial Intelligence, Technical report, 2016. PDF
+
+
+D. Salz, Z. Tiganj, S. Khasnabish, A. Kohley, D. Sheehan, M. W. Howard, and H. Eichenbaum. Time cells in hippocampal area CA3 . Journal of Neuroscience, Volume 36, Number 28, Pages 7476--7484, 2016. PDF
+
+
+M. W. Howard, K. H. Shankar and Z. Tiganj. Efficient neural computation in the Laplace domain. Proceedings of the NIPS 2015 workshop on Cognitive Computation. PDF
+
+
+Z. Tiganj, M. E. Hasselmo, and M. W. Howard. A simple biophysically plausible model for long time constants in single neurons. Hippocampus, Volume 25, Number 1, Pages 27-37, 2015. PDF
+
+
+M. W. Howard, C. J. MacDonald, Z. Tiganj, K. H. Shankar, Q. Du, M. E. Hasselmo and H. Eichenbaum. A unified mathematical framework for coding time, space, and sequences in the hippocampal region. Journal of Neuroscience, Volume 34, Number 13, Pages 4692-4707, 2014. PDF
+
+
+Z. Tiganj, S. Chevallier and Eric Monacelli. Influence of extracellular oscillations on neural communication: a computational perspective. Frontiers in Computational Neuroscience, Volume. 8, 2014. PDF
+
+
+Z. Tiganj, M. Mboup, S. Chevallier and E. Kalunga. Online frequency band estimation and change-point detection. International Conference on Systems and Computer Science, Pages: 1-6, 2012. PDF
+
+
+Z. Tiganj and M. Mboup. Neural spike sorting using iterative ICA and deflation based approach. Journal of Neural Engineering, Volume 9, Number 6, Pages 066002, 2012. PDF
+
+
+Z. Tiganj and M. Mboup. Deflation technique for neural spike sorting in multi-channel recordings. IEEE conference Machine Learning for Signal Processing, Pages: 1-6, 2011. PDF
+
+
+Z. Tiganj and M. Mboup. A non-parametric method for automatic neural spikes clustering based on the non-uniform distribution of the data. Journal of Neural Engineering, Volume 8, Number 6, Pages 066014, 2011. PDF
+
+
+Z. Tiganj, M. Mboup, C. Pouzat and L. Belkoura. An Algebraic Method for Eye Blink Artifacts Detection in Single Channel EEG Recordings. International converence on Biomagnetism, IFMBE Proceedings, Volume 28, Part 6, Pages 175-178, 2010. PDF
+
+
+Z. Tiganj and M. Mboup. Spike Detection and Sorting: Combining Algebraic Differentiations with ICA. Independent Component Analysis and signal separation, Lecture Notes in Computer Science, Volume 5441, Pages 475-482, 2009. PDF
+
+
+Students
+Sahaj Maini Singh, PhD student, Computer Science, Indiana University.
+James Mochizuki-Freeman, PhD student, Computer Science, Indiana University.
+Md Rysul Kabir, PhD student, Computer Science, Indiana University.
+Saber Sheybani, PhD student, Intelligent Systems Engineering, Indiana University.
+Sara Zamorodi, PhD student, Computer Science, Indiana University.
+Billy Dickson, PhD student, Computer Science, Indiana University.
+Deven Mistry, PhD student, Computer Science, Indiana University.
+Trishita Dhara, MS student, Data Science, Indiana University.
+Mitesh Gulecha, MS student, Data Science, Indiana University.
+Jeneve Pilcher, Undergraduate student, Computer Science, Indiana University.
+Prospective students: Please contact me if you are interested in working together.
+
+
+Teaching
+Applied Machine Learning, P556, Spring 2022, Fall 2023.
+Elements of Artificial Intelligence, B551, Fall 2022.
+Data Structures, C343, Fall 2021, Spring 2022.
+Machine Learning, B555, Spring 2020, Spring 2021.
+Topics in Artificial Intelligence: Cognitively inspired Artificial Intelligence, B659, Fall 2020.
+Zoran Tiganj
+Assistant Professor
+Department of Computer Science
+Luddy School of Informatics, Computing, and Engineering
+
+Adjunct Assistant Professor
+Department of Psychological and Brain Sciences
+
+Program in Cognitive Science
+Program in Neuroscience
+Program Data Science
+Indiana University Bloomington
+
+E-Mail: ztiganj (at) iu (dot) edu
+Google Scholar: Zoran Tiganj
+
+
+Support
+IU Learning Initiative
+
+Darpa - Time-Aware Machine Intelligence (TAMI) grant
+
+Collaborative Research in Computational Neuroscience (CRCNS) grant (with Ehren Newman and Thomas Wolbers)
+
+IU Luddy Fellowship
+
+
+Page last modified June, 2024.
+

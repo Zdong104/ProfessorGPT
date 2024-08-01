@@ -1,0 +1,623 @@
+Professor: Engin Kirda
+University: Northeastern University
+URL: http://www.ccs.neu.edu/home/ek
+Description: NEU SecLab
+iSecLab
+Home
+Publications
+Teaching
+Mentorship
+Activities
+PGP
+ENGIN KIRDA
+GO TO MY GOOGLE SCHOLAR PAGE
+ABOUT ME
+Currently, I am a professor at the Khoury College of Computer Sciences and the Department of Electrical and Computer Engineering at Northeastern University in Boston.
+
+Previously, I was tenured faculty at Institute Eurecom (Graduate School and Research Center) in the French Riviera and before that, faculty at the Technical University of Vienna where I co-founded the Secure Systems Lab. Our lab has now become international and is distributed over nine institutions and geographical locations.
+
+My current research interests are in systems, software and network security (with focus on Web security, binary analysis, malware detection). Before that, I was mainly interested in distributed systems, software engineering and software architectures.
+
+I am very fortunate to work with and have the privilege to advise some very bright Ph.D. students. I am very proud of their achievements! I've also been fortunate to work with some very smart and technically capable post-docs and collaborators around the world.
+
+I personally enjoy writing code in different languages (e.g., C, Perl, C#, Java, [recently] Python) and am convinced that computer science students need to be language-independent ;-) I am trying to continue to code as much as possible -- although I have much more admin work to do now...
+
+I am also part of the Shellphish hacking group. We regularly participate at the DefCon CTF.
+PROSPECTIVE STUDENTS
+BEFORE YOU SEND ME AN EMAIL ABOUT BECOMING MY PH.D. STUDENT, please read this.
+GENERAL INFORMATION
+Education: Habilitation (Priv.Doz.), Dr. techn., Dipl.-Ing. in Computer Science, Technical University of Vienna
+Office Hours:Schedule via email
+Email: ek@ccs.neu.edu
+(Please note that I get a lot of emails. I try to prioritize when I respond and I try to answer every email. However, please do not get offended if I fail. If you haven't heard from me after a week or so, the mail might have been lost so you might want to try again.)
+Current Address: Northeastern University - 512-177 (map), 360 Huntington Ave Boston, MA, 02115 USA
+Telephone: +1 (857) 244-0999
+Member of: IEEE, ACM, and Shellphish
+
+FORMER COMPANY
+I was one of the co-founders of Lastline, a company that provided advanced threats intelligence and detection capabilities and services to its customers. Lastline was acquired by VMWare in 2020.
+RESEARCH LABS
+At Northeastern, I co-direct the Secure Systems Lab with Long Lu.
+I am one of the co-founders of the International Secure Systems Lab. A family of independent security research labs that collaborate closely.
+I am active as a Senior Systems Engineer / Key Scientific Advisor at the Secure Business Austria competence center.
+I am adjunct professor at the Yokohama National University
+I am network faculty at Sabanci University.
+PUBLICATIONS
+Security Workshops and Conferences
+SHiFT: Semi-hosted Fuzz Testing for Embedded Applications, A. Mera, C. Liu, R. Sun, E. Kirda, L. Lu, 33rd USENIX Security Symposium, August 2024, Philadelphia, PA
+Untangle: Multi-Layer Web Server Fingerprinting, C. Topcuoglu, K. Onarlioglu, B. Jabiyev, E. Kirda, The Network and Distributed System Security Symposium (NDSS), February 2024, San Diego, CA
+MacOS versus Microsoft Windows: A Study on the Cybersecurity and Privacy User Perception of Two Popular Operating Systems, C. Topcuoglu, A. Martinez, A. Acar, S. Uluagac, E. Kirda, Symposium on Usable Security and Privacy (USEC), February 2024, San Diego, CA
+Assessing the Feasibility of the Virtual Smartphone Paradigm in Countering Zero-Click Attacks N. Shafqat; C. Topcuoglu; E. Kirda; A. Ranganathan, HICSS-57 Hawaii International Conference on System Sciences, January 2024
+OAuth 2.0 Redirect URI Validation Falls Short, Literally, T. Innocenti, M. Golinelli, K. Onarlioglu, B. Crispo, E. Kirda, 9th Applied Computer Security Applications Conference (ACSAC2023), 2023, appear.
+On the Complexity of the Web’s PKI: Evaluating Certificate Validation of Mobile Browsers, M. Luo, B. Feng, L. Lu, E. Kirda, K. Ren, IEEE Transactions on Dependable and Secure Computing, 2023, to appear.
+download
+PellucidAttachment: Protecting Users from Attacks via E-mail Attachments, S. Duman, M. Buechler, M. Egele, E. Kirda, IEEE Transactions on Dependable and Secure Computing, 2023, to appear.
+download
+Solder: Retrofitting Legacy Code with Cross-Language Patches, R. Williams, A. Gavazzi, E. Kirda, 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Macao, China, March 2023
+download
+A Study of Multi-Factor and Risk-Based Authentication Availability, A. Gavazzi, R. Williams, E. Kirda, L. Lu, A. King, A. Davis, T. Leek, 32nd USENIX Security Symposium, Anaheim, California, August 2023
+download
+FRAMESHIFTER: Manipulating HTTP/2 Frame Sequences with Fuzzing, B. Jabiyev, S. Sprecher, A. Gavazzi, T. Innocenti, K. Onarlioglu, E. Kirda, 31st USENIX Security Symposium Boston, MA, August 2022
+download
+A Recent Year On the Internet: Measuring and Understanding the Threats to Everyday Internet Devices, A. Anwar, Y. Chen, E. Kirda, A. Oprea, R.Hodgman, T. Sellers, Annual Computer Security Applications Conference (ACSAC), Austin, Texas, December 2022
+download
+Who's Controlling My Device? Multi-User Multi-Device-Aware Access Control System for Shared Smart Home Environment, A. Sikder, L. Babun, B. Celik, H. Aksu, P. McDaniel, E. Kirda, S. Uluagac, ACM Transactions on Internet of Things, 2022, to appear.
+download
+HotFuzz: Discovering Temporal and Spatial Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing, W. Blair, A. Mambretti, S. Arshad, M. Weissbacher, W. Robertson, E. Kirda, M. Egele, ACM Transactions on Privacy and Security,ACM Trans. Priv. Secur. 25(4): 33:1-33:35, 2022
+download
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path Forward, Steven Sprecher, Christoph Kerschbaumer, Engin Kirda, 7th IEEE European Symposium on Security and Privacy (EuroS&P 2022), June 2022, Genoa
+download
+D-Box: DMA-enabled compartmentalization for embedded applications, Alejandro Mera, Yi Hui Chen, Ruimin Sun, Engin Kirda, Long Lu, 29th Network and Distributed System Security Symposium, February 2022
+download
+Web Cache Deception Escalates!, S. A. Mirheidari, M. Golinelli, K. Onarlioglu, E. Kirda, B. Crispo, 31st USENIX Security Symposium, August 2022
+download
+T-Reqs: HTTP Request Smuggling with Differential Fuzzing, B.Jabiyev, S.Sprecher, K. Onarlioglu, E. Kirda, In ACM Conference on Computer and Communications Security (CCS), November, 2021
+download
+Game of FAME: Automatic Detection of FAke MEmes, B. Jabiyev, J. Onaolapo, G. Stringhini, E. Kirda, In Conference for Truth and Trust Online (TTO) 2021, October 2021
+download
+Browserprint: An Analysis of the Impact of Browser Features on Fingerprintability and Web Privacy S. A. Akhavani, J. Jueckstock, J. Su, A. Kapravelos, E. Kirda, L. Lu Information Security Conference (ISC) November, 2021
+download
+In-Browser Cryptomining for Good: An Untold Story E. Tekiner, A. Acar, A. S. Uluagac, E. Kirda, A. A. Selcuk, 3rd IEEE International Conference on Decentralized Applications and Infrastructures August, 2021
+download
+FADE: Detecting Fake News Articles on the Web, B. Jabiyev, S. Pehlivanoglu, K. Onarlioglu, E. Kirda, 16th International Conference on Availability, Reliability, and Security (ARES), August, 2021
+download
+SCRUTINIZER: Detecting Code Reuse in Malware via Decompilation and Machine Learning, O. Mirzaei, R. Vasilenko, E. Kirda, L. Lu, A. Kharraz, In 18th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2021
+download
+You’ve Got (a Reset) Mail: A Security Analysis of Email-Based Password Reset Procedures, T. Innocenti, S. A. Mirheidarii, A. Kharraz, B. Crispo, E. Kirda, In 18th Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA), July 2021
+download
+Ege Tekiner, Abbas Acar, Selcuk Uluagac, Engin Kirda, Ali A. Selcuk, SoK: Cryptojacking Malware, 6th IEEE European Symposium on Security and Privacy, Vienna, Austria, September 2021
+download
+Andrea Mambretti, Alexandra Sandulescu, Alessandro Sorniotti, William Robertson, Engin Kirda, Anil Kurmus, Bypassing memory safety mechanisms through speculative control flow hijacks, 6th IEEE European Symposium on Security and Privacy, Vienna, Austria, September 2021
+download
+Andrea Mambretti, Pasquale Convertini, Alessandro Sorniotti, Alexandra Sandulescu, Engin Kirda, Anil Kurmus, GhostBuster: understanding and overcoming the pitfalls of transient execution vulnerability checkers, In 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021), March 2021
+download
+Bahruz Jabiyev, Omid Mirzaei, Amin Kharraz, Engin Kirda, Preventing Server-Side Request Forgery Attacks, In 36th ACM Symposium on Applied Computing (SAC 2021), Gwangju, Korea, May 2021
+download
+Alejandro Mera, Bo Feng, Long Lu, Engin Kirda, DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis, IEEE Security and Privacy 2021, May 2021
+download
+Ahmet Buyukkayhan, Can Gemicioglu, Tobias Lauinger, Alina Oprea, William Robertson, Engin Kirda, What’s in an Exploit? An Empirical Analysis of Reflected Server XSS Exploitation Techniques, Proceedings of the 23rd International Symposium on Research on Attacks, Intrusions, and Defenses (RAID), San Sebastian, Spain, October 2020
+download
+Amit Kumar Sikder, Leonardo Babun, Z. Berkay Celik, Abbas Acar, Hidayet Aksu, Patrick McDaniel, Engin Kirda, Selcuk Uluagac, KRATOS: Multi-User Multi-Device-Aware Access Control System for the Smart Home, Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '20), July 2020
+download
+Seyed Ali Mirheidari, Sajjad Arshad, Kaan Onarlioglu, Bruno Crispo, Engin Kirda, William Robertson, Cached and Confused: Web Cache Deception in the Wild, Proceedings of the 29th USENIX Security Symposium, August 2020, Boston, MA
+download
+W. Blair, A. Mambretti, S. Arshad, M. Weissbacher, W. Robertson, E. Kirda, M. Egele, HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing, In Network and Distributed Systems Security Symposium (NDSS) San Diego, CA, Feb 2020
+download
+Amin Kharraz, Brandon Daley, Graham Baker, Wil Robertson, Engin Kirda, USBeSafe: An End-Point Solution to Protect Against USB-Based Attacks, The 22nd International Symposium on Research on Attacks, Intrusions, and Defenses (RAID), Beijing, China, September 2019
+download
+Walter Rweyemamu, Tobias Lauinger, Christo Wilson, William Robertson, Engin Kirda, Getting Under Alexa's Umbrella: Infiltration Attacks Against Internet Top Domain Lists, The 22nd Information Security Conference (ISC), 2019
+download
+Abbas Acar, Long Lu, Engin Kirda, and A. Selcuk Uluagac, An Analysis of Malware Trends in Enterprise Networks, The 22nd Information Security Conference (ISC), 2019
+download
+Muhammad Ahmad Bashir, Sajjad Arshad, Engin Kirda, William Robertson, Christo Wilson, A Longitudinal Analysis of the ads.txt Standard, ACM Internet Measurement Conference (IMC) Amsterdam, Netherlands, October 2019
+download
+Florian Quinkert, Tobias Lauinger, William Robertson, Engin Kirda, and Thorsten Holz, It's Not What It Looks Like: Measuring Attacks and Defensive Registrations of Homograph Domains, Conference on Communications and Network Security (CNS 2019) in Washington, D.C., June 2019
+[download]
+Walter Rweyemamu, Tobias Lauinger, Christo Wilson, William Robertson, and Engin Kirda: Clustering and the Weekend Effect: Recommendations for the Use of Top Domain Lists in Security Research, Passive and Active Measurement Conference (PAM 2019) in Puerto Varas, Chile on 29 March 2019
+[download]
+Reza Mirzazade Farkhani, Saman Jafari, Sajjad Arshad, William Robertson, Engin Kirda, Hamed Okhravi Annual Computer Security Applications Conference (ACSAC), San Juan, PR, USA, December 2018.
+[download]
+From Deletion to Re-Registration in Zero Seconds: Domain Registrar Behaviour During the Drop, Tobias Lauinger, Ahmet Buyukkayhan, Abdelberi Chaabane, William Robertson, and Engin Kirda, In ACM Internet Measurement Conference (IMC), Boston, MA, Nov 2018
+[download]
+How Tracking Companies Circumvented Ad Blockers Using WebSockets M. A. Bashir, S. Arshad, E. Kirda, W. Robertson, C. Wilson In ACM Internet Measurement Conference (IMC), Boston, MA, Nov 2018
+[download]
+Surveylance: Automatically Detecting Online Survey Scams, Amin Kharraz, William Robertson, Engin Kirda, 39th IEEE Symposium on Security and Privacy, San Francisco, CA, May 2018
+[download]
+ERASER: Your Data Won’t Be Back, Kaan Onarlioglu, William Robertson, Engin Kirda, 3rd IEEE European Symposium on Security and Privacy, London, UK, April 2018
+[download]
+Large-Scale Analysis of Style Injection by Relative Path Overwrite, Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, William Robertson, Engin Kirda, International World Wide Web Conference (2018), Lyon, France, April, 2018
+[download]
+Ex-Ray: Detection of History-Leaking Browser Extensions, M. Weissbacher, E. Mariconti, G. Suarez-Tangil, G. Stringhini, W. Robertson, E. Kirda, Annual Computer Security Applications Conference (ACSAC), Orlando, Florida, December 2017
+[download]
+Semi-automated Discovery of Server-Based Information Oversharing Vulnerabilities in Android Applications, Wil Koch, Abdelberi Chaabane, Manuel Egele, William Robertson, Engin Kirda, In Proceedings of the International Symposium on Software Testing and Analysis (ISSTA), Santa Barbara, California, July 2017.
+[download]
+Amin Kharraz, Engin Kirda, Redemption: Real-time In Protection Against Ransomware at End-Hosts, The 20th International Symposium on Research on Attacks, Intrusions and Defenses (RAID 2017). Atlanta, Georgia, September 2017.
+[download]
+Thou Shalt Not Depend on Me: Analysing the Use of Outdated JavaScript Libraries on the Web T. Lauinger, A. Chaabane, S. Arshad, W. Robertson, C. Wilson, E. Kirda In Network and Distributed Systems Security Symposium (NDSS) San Diego, CA US, Feb 2017
+[download]
+WHOIS Lost in Translation: (Mis)Understanding Domain Name Expiration and Re-Registration T. Lauinger, K. Onarlioglu, A. Chaabane, W. Robertson, E. Kirda In ACM Internet Measurement Conference (IMC) Santa Monica, CA US, Nov 2016
+[download]
+Trellis: Privilege Separation for Multi-User Applications Made Easy A. Mambretti, K. Onarlioglu, C. Mulliner, W. Robertson, E. Kirda, F. Maggi, S. Zanero In International Symposium on Research in Attacks, Intrusions, and Defenses (RAID) Paris, FR, Sep 2016
+[download]
+Runtime Integrity Checking for Exploit Mitigation on Lightweight Embedded Devices, Matthias Neugschwandtner, Collin Mulliner, William Robertson, Engin Kirda, In Proceedings of the International Conference on Trust & Trustworthy Computing (TRUST), Vienna, Austria, August 2016.
+[download]
+UNVEIL: A Large-Scale, Automated Approach to Detecting Ransomware A. Kharraz, S. Arshad, C. Mulliner, W. Robertson, E. Kirda In USENIX Security Symposium Austin, TX US, Aug 2016
+[download]
+EmailProfiler: Spearphishing Filtering with Header and Stylometric Features of Emails S. Duman, K. Kalkan, M. Egele, W. Robertson, E. Kirda In IEEE Computer Society International Conference on Computers, Software and Applications (COMPSAC) Atlanta, GA US, Jun 2016
+[download]
+Overhaul: Input-Driven Access Control for Better Privacy on Traditional Operating Systems K. Onarlioglu, W. Robertson, E. Kirda In IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Toulouse, FR, Jun 2016
+[download]
+LAVA: Large-scale Automated Vulnerability Addition Brendan Dolan-Gavitt, Patrick Hulin, Engin Kirda, Tim Leek, Andrea Mambretti, Wil Robertson, Frederick Ulrich, Ryan Whelan, In IEEE Security and Privacy, San Jose, CA, May 2016
+[download]
+TriggerScope: Towards Detecting Logic Bombs in Android Apps, Antonio Bianchi, William Robertson, Christopher Kruegel, Engin Kirda, Giovanni Vigna, In IEEE Security and Privacy, San Jose, CA, May 2016
+[download]
+CuriousDroid: Automated User Interface Interaction for Android Application Analysis Sandboxes P. Carter, C. Mulliner, M. Lindorfer, W. Robertson, E. Kirda In Financial Cryptography and Data Security (FC) Barbados, Feb 2016
+[download]
+CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities A. S. Buyukkayhan, K. Onarlioglu, W. Robertson, E. Kirda In Network and Distributed Systems Security Symposium (NDSS) San Diego, CA US, Feb 2016
+[download]
+ZigZag: Automatically Hardening Web Applications Against Client-side Validation Vulnerabilities M. Weissbacher, W. Robertson, E. Kirda, C. Kruegel, G. Vigna, In USENIX Security Symposium, Washington DC, US, Aug 2015
+[download]
+On the Security and Engineering Implications of Finer-Grained Access Controls for Android Developers and Users, Y. Fratantonio, A. Bianchi, W. Robertson, M. Egele, C. Kruegel, E. Kirda, G. Vigna, In Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), Milan, IT, Jul 2015
+[download]
+Cutting the Gordian Knot: A Look Under the Hood of Ransomware Attacks, A. Kharraz, W. Robertson, D. Balzarotti, L. Bilge, E. Kirda, In Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), Milan, IT, Jul 2015
+[download]
+BabelCrypt: The Universal Encryption Layer for Mobile Messaging Applications, A. T. Ozcan, C. Gemicioglu, K. Onarlioglu, M. Weissbacher, C. Mulliner, W. Robertson, E. Kirda, In Financial Cryptography and Data Security (FC), Isla Verde, PR, Jan 2015
+[download]
+TrueClick: Automatically Distinguishing Trick Banners from Genuine Download Links. S. Duman, K. Onarlioglu, A. O. Ulusoy, W. Robertson, E. Kirda. In Annual Computer Security Applications Conference (ACSAC), New Orleans, LA, Dec 2014.
+[download]
+A look at targeted attacks through the lense of an NGO, Stevens Le Blond, Adina Uritesc, Cedric Gilbert, Zheng Leong Chua, Prateek Saxena, Engin Kirda, USENIX Security, San Diego, August 2014.
+[download]
+Optical Delusions: A Study of Malicious QR Codes in the Wild, Dependable Systems and Networks (DSN 2014), Amin Kharraz, Engin Kirda, William Robertson, Davide Balzarotti, Aurelien Francillon, Atlanta, GA, Jun 2014.
+[download]
+VirtualSwindle: An Automated Attack Against In-App Billing on Android. C. Mulliner, W. Robertson, E. Kirda. In ACM Symposium on Information, Computer and Communications Security (ASIACCS), Kyoto, Japan, June 2014.
+[download]
+Hidden GEMs: Automated Discovery of Access Control Vulnerabilities in Graphical User Interfaces. C. Mulliner, W. Robertson, E. Kirda. In IEEE Symposium on Security and Privacy, San Jose, CA USA, May 2014.
+[download]
+PatchDroid: Scalable Third-Party Patches for Android Devices. C. Mulliner, J. Oberheide, W. Robertson, E. Kirda. In Annual Computer Security Applications Conference (ACSAC). New Orleans, LA, December 2013.
+[download]
+Beehive: Large-Scale Log Analysis for Detecting Suspicious Activity in Enterprise Networks, T. Yen, A. Oprea, K. Onarlioglu, T. Leetham, W. Robertson, A. Juels, E. Kirda. In Annual Computer Security Applications Conference (ACSAC), New Orleans, LA, Dec 2013.
+[download]
+Tobias Lauinger, Kaan Onarlioglu, Abdelberi Chaabane, Engin Kirda, William Robertson, Mohamed Ali Kaafar, Holiday Pictures or Blockbuster Movies? Insights into Copyright Infringement in User Uploads to One-Click File Hosters, 16th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), St. Lucia, October 2013
+[download]
+Kaan Onarlioglu, Mustafa Battal, William Robertson, and Engin Kirda, Securing Legacy Firefox Extensions with SENTINEL, 10th Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), Berlin, Germany, July 2013
+[download]
+Kaan Onarlioglu, Collin Mulliner, William Robertson, Engin Kirda, PRIVEXEC: Private Execution as an Operating System Service, IEEE Security and Privacy, San Francisco, May 2013
+[download]
+Aldo Cassola, William Robertson, Engin Kirda, and Guevara Noubir, A Practical, Targeted, and Stealthy Attack Against WPA Enterprise Authentication, 20th Annual Network and Distributed System Security Symposium, (NDSS 2013), San Diego, CA, February 2013
+[download]
+Tobias Lauinger, Martin Szydlowski, Kaan Onarlioglu, Gilbert Wondracek, Engin Kirda, and Christopher Kruegel, Clickonomics: Determining the Effect of Anti-Piracy Measures for One-Click Hosting, 20th Annual Network and Distributed System Security Symposium, (NDSS 2013), San Diego, CA, February 2013
+[download]
+Leyla Bilge, Davide Balzarotti, William Robertson, Engin Kirda, Christopher Kruegel, DISCLOSURE: Detecting Botnet Command and Control Servers Through Large-Scale NetFlow Analysis, Annual Computer Security Applications Conference (ACSAC), Orlando, December 2012
+[download]
+Tobias Lauinger, Nikolaos Laoutaris, Pablo Rodriguez, Thorsten Strufe, Ernst Biersack, and Engin Kirda. Privacy Risks in Named Data Networking: What is the Cost of Performance? Editorial Note. ACM SIGCOMM Computer Communication Review, 42(5), October 2012
+[download]
+Tobias Lauinger, Engin Kirda and Pietro Michiardi, Paying for Piracy? An Analysis of One-Click Hosters' Controversial Reward Schemes, 15th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Amsterdam, September 2012.
+[download]
+Gregoire Jacob, Christopher Kruegel, Engin Kirda, Giovanni Vigna, Protecting Users and Businesses from CRAWLers, 21st USENIX Security Conference, Bellevue, WA, August 2012
+[download]
+Davide Canali, Andrea Lanzi, Davide Balzarotti, Mihai Christoderescu, Christopher Kruegel, Engin Kirda, A Quantitative Study of Accuracy in System Call-Based Malware Detection, International Symposium on Software Testing and Analysis (ISSTA) 2012, Minneapolis, MN, July 2012
+[download]
+Theodoor Scholte, William K. Robertson, Davide Balzarotti, and Engin Kirda, "Preventing Input Validation Vulnerabilities in Web Applications through Automated Type Analysis", 36th IEEE Conference on Computers, Software, and Applications (COMPSAC), Izmir, Turkey - July 2012
+[download]
+Kaan Onarlioglu, Utku Ozan Yilmaz, Engin Kirda, and Davide Balzarotti, Insights into User Behavior in Dealing with Internet Attacks, 19th Annual Network and Distributed System Security Symposium, (NDSS 2012), San Diego, February 2012
+[download]
+Marco Balduzzi, Jonnas Zaddach, Davide Balzarotti, Engin Kirda, and Sergio Loureiro, A Security Analysis of Amazon's Elastic Compute Cloud Service, 27th ACM Symposium On Applied Computing (SAC), Security Track, Trento, Italy, March 2012
+[download]
+Theodoor Scholte, Davide Balzarotti, William Robertson, and Engin Kirda, An Empirical Analysis of Input Validation Mechanisms in Web Applications and Languages, 27th ACM Symposium On Applied Computing (SAC), Security Track, Trento, Italy, March 2012
+[download]
+Clemens Kolbitsch, Engin Kirda, and Christopher Kruegel, The Power of Procrastination: Detection and Mitigation of Execution-Stalling Malicious Code, 18th ACM Conference on Computer and Communications Security (CCS), Chicago, October 2011
+[download]
+Engin Kirda, Cross Site Scripting Attacks, Encyclopedia of Cryptography and Security (2nd Ed.) 275-277, 2011
+Engin Kirda, Malware Behavior Clustering, Encyclopedia of Cryptography and Security (2nd Ed.), 751-752, 2011
+Danesh Irani, Marco Balduzzi, Davide Balzarotti, Engin Kirda, Carlton Pu, Reverse Social Engineering Attacks in Online Social Networks, Eighth Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), Amsterdam, Netherlands, July 2011
+[ download ]
+Manuel Egele, Andreas Moser, Christopher Kruegel, Engin Kirda, PoX: Protecting Users from Malicious Facebook Applications, 3rd IEEE International Workshop on SEcurity and SOCial Networking (SESOC), Seattle, WA, March 2011
+[ download ]
+Theodoor Scholte, Davide Balzarotti, Engin Kirda, Quo Vadis? A Study of the Evolution of Input Validation Vulnerabilities in Web Applications, Fifteenth International Conference on Financial Cryptography and Data Security '11, St. Lucia, February 2011
+[ download ]
+Leyla Bilge, Engin Kirda, Christopher Kruegel, Marco Balduzzi, EXPOSURE: Finding Malicious Domains Using Passive DNS Analysis, 18th Annual Network and Distributed System Security Symposium, (NDSS 2011), San Diego, February 2011
+[ download ]
+Marco Balduzzi, Carmen Torrano Gimenez, Davide Balzarotti, Engin Kirda, Automated Discovery of Parameter Pollution Vulnerabilities in Web Applications, 18th Annual Network and Distributed System Security Symposium, (NDSS 2011), San Diego, February 2011 ( Distinguished Paper Award )
+[ download ]
+Manuel Egele, Christopher Kruegel, Engin Kirda, Giovanni Vigna, PiOS: Detecting Privacy Leaks in iOS Applications, 18th Annual Network and Distributed System Security Symposium, (NDSS 2011), San Diego, February 2011 ( Distinguished Paper Award )
+[ download ]
+Kaan Onarlioglu, Leyla Bilge, Andrea Lanzi, Davide Balzarotti, Engin Kirda, G-Free: Defeating Return-Oriented Programming through Gadget-less Binaries, 26th Annual Computer Security Applications Conference (ACSAC), Austin, Texas, December 2010
+[ download ]
+Andrea Lanzi, Davide Balzarotti, Christopher Kruegel, Mihai Christoderescu, Engin Kirda, AccessMiner: Using System-Centric Models for Malware Protection, 17th ACM Conference on Computer and Communications Security (CCS), Chicago, October 2010
+[ download ]
+Marco Balduzzi, Christian Platzer, Thorsten Holz, Engin Kirda, Davide Balzarotti, Christopher Kruegel, Abusing Social Networks for Automated User Profiling, International Symposium on Recent Advances in Intrusion Detection (RAID 2010), Ottowa, Canada, September 2010
+[ download ]
+Gilbert Wondracek, Thorsten Holz, Christian Platzer, Engin Kirda, Christopher Kruegel, Is the Internet for Porn? An Insight Into the Online Adult Industry, The Ninth Workshop on the Economics of Information Security (WEIS 2010), Boston, MA, June 2010
+[ download ]
+Tobias Lauinger, Veikko Pankakoski, Davide Balzarotti, Engin Kirda, Honeybot: Your Man in the Middle for Automated Social Engineering, 3nd USENIX Workshop on Large-Scale Exploits and Emergent Threats (LEET), San Jose, April 2010
+[ download ]
+Corrado Leita, Ulrich Bayer, Engin Kirda, Exploiting diverse observation perspectives to get insights on the malware landscape, International Conference on Dependable Systems and Networks (DSN 2010), Chicago, June 2010
+[ download ]
+Clemens Kolbitsch, Christopher Kruegel, Engin Kirda, Extending Mondrian Memory Protection, NATO RTO IST-091 Symposium, Antalya, Turkey, April 2010
+[ download ]
+Clemens Kolbitsch, Thorsten Holz, Christopher Kruegel, Engin Kirda, Inspector Gadget: Automated Extraction of Proprietary Gadgets from Malware Binaries, IEEE Security and Privacy, Oakland, May 2010
+[ download ]
+Gilbert Wondracek, Thorsten Holz, Engin Kirda, Christopher Kruegel, A Practical Attack to De-Anonymize Social Network Users, IEEE Security and Privacy, Oakland, May 2010
+[ download ]
+Paolo Milani Comparetti, Guido Salvaneschi, Clemens Kolbitsch, Christopher Kruegel, Engin Kirda, Stefano Zanero, Identifying Dormant Functionality in Malware Programs, IEEE Security and Privacy, Oakland, May 2010
+[ download ]
+Marco Balduzzi, Manuel Egele, Davide Balzarotti, Engin Kirda, and Christopher Kruegel, A Solution for the Automated Detection of Clickjacking Attacks, ASIACCS, Beijing, China, April 2010
+[ download ]
+Davide Balzarotti, Marco Cova, Christoph Karlberger, Christopher Kruegel, Engin Kirda, and Giovanni Vigna, Efficient Detection of Split Personalities in Malware, 17th Annual Network and Distributed System Security Symposium (NDSS 2010), San Diego, February 2010
+[ download ]
+Manuel Egele, Leyla Bilge, Engin Kirda, Christopher Kruegel, CAPTCHA Smuggling: Hijacking Web Browsing Sessions to Create CAPTCHA Farms, 25th Symposium On Applied Computing (SAC), Track on Information Security Research and Applications, Lusanne, Switzerland, March 2010
+[ download ]
+Ulrich Bayer, Engin Kirda, Christopher Kruegel, Improving the Efficiency of Dynamic Malware Analysis, 25th Symposium On Applied Computing (SAC), Track on Information Security Research and Applications, Lusanne, Switzerland, March 2010
+[ download ]
+Brett Stone-Gross, Andreas Moser, Christopher Kruegel, Kevin Almaroth, Engin Kirda, FIRE: FInding Rogue nEtworks, 25th Annual Computer Security Applications Conference (ACSAC), Honolulu, December 2009
+[download]
+Peter Wurzinger, Leyla Bilge, Thorsten Holz, Jan Goebel, Christopher Kruegel, Engin Kirda, Automatically Generating Models for Botnet Detection, 14th European Symposium on Research in Computer Security (ESORICS 2009), Saint Malo, Brittany, France, September 2009
+[ download ]
+Andreas Stamminger, Christopher Kruegel, Giovanni Vigna, Engin Kirda, "Automated Spyware Collection and Analysis", Information Security Conference (ISC) 2009, Pisa, Italy, September 2009
+[ download ]
+Clemens Kolbitsch, Paolo Milani Comparetti, Christopher Kruegel, Engin Kirda, Xiaoyong Zhou, and Xiaofeng Wang, Effective and Efficient Malware Detection at the End Host, in USENIX Security '09, Montreal, Canada, August 2009
+[ download ]
+Manuel Egele, Peter Wurzinger, Christopher Kruegel, and Engin Kirda, Defending Browsers against Drive-by Downloads: Mitigating Heap-spraying Code Injection Attacks, Sixth Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA), Milan, Italy, June 2009
+[ download ]
+Manuel Egele, Engin Kirda, and Christopher Kruegel, Mitigating Drive-by Download Attacks: Challenges and Open Problems, Open Research Problems in Network Security Workshop (iNetSec 2009), Zurich, April 2009
+[ download ]
+Ulrich Bayer, Imam Habibi, Davide Balzarotti, Engin Kirda, and Christopher Kruegel, Insights Into Current Malware Behavior, 2nd USENIX Workshop on Large-Scale Exploits and Emergent Threats (LEET), Boston, MA, April 2009
+[ download ]
+Paolo Milani Comparetti, Gilbert Wondracek, Christopher Kruegel, and Engin Kirda, Prospex: Protocol Specification Extraction, IEEE Security and Privacy, Oakland, May 2009
+[ download ]
+Manuel Egele, Christopher Kruegel, Engin Kirda, Removing Web Spam Links from Search Engine Results, 18th European Institute for Computer Antivirus Research (EICAR 2009) Annual Conference, Berlin, May 2009
+[ download ]
+Peter Wurzinger, Christian Platzer, Christian Ludl, Engin Kirda, and Christopher Kruegel, SWAP: Mitigating XSS Attacks using a Reverse Proxy, The 5th International Workshop on Software Engineering for Secure Systems (SESS'09), 31st International Conference on Software Engineering (ICSE), IEEE Computer Society, Vancouver, Canada, May 2009
+[ download ]
+Leyla Bilge, Thorsten Strufe, Davide Balzarotti, and Engin Kirda, All Your Contacts Are Belong to Us: Automated Identity Theft Attacks on Social Networks, 18th International World Wide Web Conference (WWW 2009), Madrid, April 2009
+[ download ]
+Ulrich Bayer, Paolo Milani, Clemens Hlauschek, Christopher Kruegel, and Engin Kirda, Scalable, Behavior-Based Malware Clustering, 16th Annual Network and Distributed System Security Symposium (NDSS 2009), San Diego, February 2009
+[ download ]
+Julio Canto, Marc Dacier, Engin Kirda, and Corrado Leita, Large Scale Malware Collection: Lessons Learned, IEEE SRDS Workshop on Sharing Field Data and Experiment Measurements on Resilience of Distributed Computing Systems, Naples, Italy, October 2008
+[ download ]
+Guenther Starnberger, Christopher Kruegel, and Engin Kirda, Overbot - A botnet protocol based on Kademlia, 4th International Conference on Security and Privacy in Communication Networks (SecureComm), Istanbul, Turkey, September 2008
+[ download ]
+Eric Medvet, Engin Kirda, Christopher Kruegel, Visual-Similarity-Based Phishing Detection, 4th International Conference on Security and Privacy in Communication Networks (SecureComm), Istanbul, Turkey, September 2008
+[ download ]
+Sean McAllister, Engin Kirda, and Christopher Kruegel, Expanding Human Interactions for In-Depth Testing of Web Applications, 11th Symposium on Recent Advances in Intrusion Detection (RAID), Boston, MA, September 2008
+[ download ]
+Marco Cova, Vika Felmetsger, Davide Balzarotti, Nenad Jovanovic, Christopher Kruegel, Engin Kirda, Giovanni Vigna, Saner: Composing Static and Dynamic Analysis to Validate Sanitization in Web Applications, IEEE Security and Privacy, Oakland, May 2008
+[ download ]
+Corrado Leita, V.H. Pham, Olivier Thonnard, E. Ramirez-Silva, Fabian Pouget, Engin Kirda , Marc Dacier, The Leurre.com Project: Collecting Internet Threats Information using a Worldwide Distributed Honeynet, In Proceedings of the 1st WOMBAT workshop, IEEE Computer Society, Amsterdam, April 2008
+[ download ]
+Gilbert Wondracek, Paulo Milani, Christopher Kruegel and Engin Kirda, Automatic Network Protocol Analysis, 15th Annual Network and Distributed System Security Symposium (NDSS 2008), San Diego, February 2008
+[ download ]
+Andreas Moser, Christopher Kruegel, and Engin Kirda, Limits of Static Analysis for Malware Detection, 23rd Annual Computer Security Applications Conference (ACSAC), Miami Beach, Florida, December 2007
+[ download ]
+Martin Syzdlowski, Christopher Kruegel, and Engin Kirda, Secure Input for Web Applications, 23rd Annual Computer Security Applications Conference (ACSAC), Miami Beach, Florida, December 2007
+[ download ]
+Heng Yin, Dawn Song, Manuel Egele, Christopher Kruegel, and Engin Kirda, Panorama: Capturing System-wide Information Flow for Malware Detection and Analysis, 14th ACM Conference on Computer and Communications Security, Alexandria, VA, November 2007
+[ download ]
+Christoph Karlberger, Guenter Bayler, Christopher Kruegel, and Engin Kirda, Exploiting Redundancy in Natural Language to Penetrate Bayesian Spam Filters, First USENIX Workshop on Offensive Technologies (WOOT '07), Boston, August 2007.
+[ download ]
+Christian Ludl, Sean McAllister, Engin Kirda, and Christopher Kruegel, On the Effectiveness of Techniques to Detect Phishing Sites, Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA) 2007 Conference, Lucerne, Switzerland, July 2007.
+[ download ]
+Manuel Egele, Christopher Kruegel, Engin Kirda, Heng Yin, and Dawn Song, Dynamic Spyware Analysis, USENIX Annual Technical Conference, Santa Clara, CA, June 2007.
+[ download ]
+Thomas Raffetseder, Christopher Kruegel, and Engin Kirda, Detecting System Emulators, Information Security Conference (ISC 2007), Valparaiso, Chile, October 2007 ( Best Student Paper Award )
+[ download ]
+Thomas Raffetseder, Engin Kirda, and Christopher Kruegel, Building Anti-Phishing Browser Plug-Ins: An Experience Report, The 3rd International Workshop on Software Engineering for Secure Systems (SESS07), 29th International Conference on Software Engineering (ICSE), Minneapolis, IEEE Computer Society Press, May 2007.
+[ download ]
+Andreas Moser, Christopher Kruegel, and Engin Kirda, Exploring Multiple Execution Paths for Malware Analysis, IEEE Security and Privacy, Oakland, May 2007.
+[ download ]
+Philipp Vogt, Florian Nentwich, Nenad Jovanovic, Christopher Kruegel, Engin Kirda and Giovanni Vigna, Cross Site Scripting Prevention with Dynamic Data Tainting and Static Analysis, 14th Annual Network and Distributed System Security Symposium (NDSS 2007), San Diego, CA, February 2007
+[ download ]
+Nenad Jovanovic, Engin Kirda and Christopher Kruegel, Preventing Cross Site Request Forgery Attacks, 2nd IEEE Communications Society International Conference on Security and Privacy in Communication Networks (SecureComm), Baltimore, MD, August 2006
+download ]
+Patrick Klinkoff, Christopher Kruegel, Engin Kirda and Giovanni Vigna, Extending .NET Security to Unmanaged Code, 9th Information Security Conference (ISC 2006), Samos, Greece, September 2006
+[ download ]
+Engin Kirda, Christopher Kruegel, Greg Banks, Giovanni Vigna, and Richard A. Kemmerer, Behavior-Based Spyware Detection, in USENIX Security '06, Vancouver, Canada, August 2006
+[ download ]
+Nenad Jovanovic, Christopher Kruegel, and Engin Kirda, Precise Alias Analysis for Syntactic Detection of Web Application Vulnerabilities, ACM SIGPLAN Workshop on Programming Languages and Analysis for Security, Ottowa, Canada, June 2006
+[ download ]
+Manuel Egele, Martin Szydlowski, Engin Kirda, and Christopher Kruegel, Using Static Program Analysis to Aid Intrusion Detection, Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA) 2006 Conference, Berlin, Germany, July 2006
+[ download ]
+Stefan Kals, Engin Kirda, Christopher Kruegel, and Nenad Jovanovic, SecuBat: A Web Vulnerability Scanner, The 15th International World Wide Web Conference (WWW 2006), Edinburgh, Scotland, May 2006
+[ download ]
+Ulrich Bayer, Christopher Kruegel, and Engin Kirda, TTAnalyze: A Tool for Analyzing Malware, 15th European Institute for Computer Antivirus Research (EICAR 2006) Annual Conference, Hamburg, Germany, April 2006 ( Best Paper Award )
+[ download ]
+Nenad Jovanovic, Christopher Kruegel, and Engin Kirda, Pixy: A Static Analysis Tool for Detecting Web Application Vulnerabilities (Short Paper), 2006 IEEE Symposium on Security and Privacy, Oakland, CA, May 2006
+[ download ]
+Engin Kirda, Christopher Kruegel, Giovanni Vigna, and Nenad Jovanovic, Noxes: A Client-Side Solution for Mitigating Cross Site Scripting Attacks, The 21st ACM Symposium on Applied Computing (SAC 2006), Security Track, Dijon, France, April 2006
+[ download ]
+Fredrik Valeur, Giovanni Vigna, Christopher Kruegel, and Engin Kirda, An Anomaly-driven Reverse Proxy for Web Applications, The 21st ACM Symposium on Applied Computing (SAC 2006), Security Track, Dijon, France, April 2006
+[ download ]
+Engin Kirda and Christopher Kruegel, Protecting Users against Phishing Attacks with AntiPhish, 29th Annual International Computer Software and Applications Conference (COMPSAC 2005), Edinburgh, Scotland, July 2005
+[ download ]
+Christopher Kruegel, Engin Kirda, Darren Mutz, William Robertson, and Giovanni Vigna, Polymorphic Worm Detection Using Structural Information of Executables, 8th Symposium on Recent Advances in Intrusion Detection (RAID), Lecture Notes in Computer Science, Springer Verlag. USA, September 2005.
+[ download ]
+Christopher Kruegel, Engin Kirda, Darren Mutz, William Robertson, Giovanni Vigna, Automating Mimicry Attacks Using Static Binary Analysis, in USENIX Security '05, Baltimore, US, August 2005
+[download]
+Software Engineering Workshops and Conferences
+Clemens Kerer and Engin Kirda, XGuide - Concurrent Web Engineering with Contracts, 4th International Conference on Web Engineering (ICWE) 2004, Munich, Germany, Lecture Notes in Computer Science, July 2004.
+Engin Kirda and Clemens Kerer, DIWE: A Framework for constructing Device-Independent Web Applications, UMICS 2004 Workshop, CAISE 2004 Conference, Riga, Latvia, Lecture Notes in Computer Science, June 2004
+Engin Kirda, Clemens Kerer, Christopher Kruegel and Roman Kurmanowytsch, Web Service Engineering with DIWE, 29th EUROMICRO Conference, Antalya, Turkey, IEEE Computer Society Press, September 2003
+Sagar Chaki, Pascal Fenkam, Harald Gall, Somesh Jha, Engin Kirda and Helmuth Veith, Integrating Publish/Subscribe into a Mobile Teamwork Support Platform, 15th International Software Engineering and Knowledge Engineering Conference (SEKE 2003) (San Fransisco Bay, USA). ACM Press, July 2003.
+Roman Kurmanowytsch, Engin Kirda, Clemens Kerer and Schahram Dustdar, OMNIX: A topology-independent P2P middleware, Ubiquitous Mobile Information and Collaboration Systems (UMICS 2003) workshop, CAISE 2003, Klagenfurt, Austria, June 2003
+Zorlu Yalniz and Engin Kirda. Supporting Collaboration in the Designing of Tools and Dies in Manufacturing Networks. IEEE 12th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2003), Linz, Austria. IEEE Computer Society Press, June 2003.
+Schahram Dustdar, Harald Gall and Engin Kirda, Distributed Product Development in Virtual Communities, 2nd Workshop on Cooperative Supports for Distributed Software Engineering Processes, 7th European Conference on Software Maintenance and Reengineering, Benevento, Italy, in Cooperative Methods and Tools for Distributed Software Processes, editors Aniello Cimitile, Andrea De Lucia and Harald Gall, pages 25-43, FrancoAngeli ISBN-88-464-4774-3, March 2003
+Engin Kirda, Pascal Fenkam, Gerald Reif, and Harald Gall. A Service Architecture for Mobile Teamwork. 14th International Software Engineering and Knowledge Engineering Conference (SEKE 2002) (Ischia, Italy). ACM Press, July 2002.
+Engin Kirda, Harald Gall, Pascal Fenkam, and Gerald Reif. MOTION: A Peer-to-Peer Platform for Mobile Teamwork Support. In Cooperative Support for Distributed Software Engineering Processes Workshop, 26th COMPSAC Conference, Oxford, England. IEEE Computer Society Press, August 2002.
+Clemens Kerer, Engin Kirda, and Christopher Kruegel. XGuide - A Practical Guide to XML-based Web Engineering. International Workshop on Web Engineering, Networking 2002 (Pisa, Italy, May 2002), Eds: Lucy Cherkasova and Fabio Panzieri, editors, Lecture Notes of Computer Science, 2376, Springer, May 2002.
+Roman Kurmanowytsch, Mehdi Jazayeri, and Engin Kirda. Towards a hierarchical, semantic peer-to-peer topology. In Second IEEE International Conference on Peer-to-Peer Computing, Use of Computers at the Edge of Networks (P2P, Grid, Clusters), Linkoping, Sweden, 2002. IEEE Computer Society Press.
+Pascal Fenkam, Schahram Dustdar, Engin Kirda, Harald Gall, and Gerald Reif. Towards an Access Control System for Mobile Peer-to-Peer Collaborative Environments. IEEE 11th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2002) (Carnegie Mellon University, Pittsburgh, Pennsylvania, USA). IEEE Computer Society Press, June 10-12 2002.
+Pascal Fenkam, Engin Kirda, Schahram Dustdar, Harald Gall, and Gerald Reif. Evaluation of a Publish/Subscribe System for Collaborative and Mobile Working. IEEE 11th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2002) (Carnegie Mellon University, Pittsburgh, Pennsylvania, USA). IEEE Computer Society Press, June 10-12 2002.
+Engin Kirda, Gerald Reif, Harald Gall, and Pascal Fenkam. TWSAPI: A Generic Teamwork Services Application Programming Interface. International Workshop on Mobile Teamwork 2002, 22nd International Conference on Distributed Computing Systems (ICDCS) (Vienna, Austria). IEEE CS Press, June 2002.
+Christopher Kruegel, Thomas Toth, and Engin Kirda. Service Specific Anomaly Detection for Network Intrusion Detection. Symposium on Applied Computing (SAC) (Madrid, Spain). ACM Press, March 2002.
+Engin Kirda, Clemens Kerer, Mehdi Jazayeri, Harald Gall, and Roman Kurmanowytsch. The Evolution of an Organizational Web Site: Migrating to XML/XSL. 3rd International Workshop on Web Site Evolution, ICSM 2001 (Florence, Italy). IEEE Computer Society Press, 6-10 November, 2001.
+Christopher Kruegel, Thomas Toth, and Engin Kirda. Sparta - A Mobile Agent based Intrusion Detection System. IFIP Conference on Network Security (I-NetSec) (Leuven, Belgium). Kluwer Academic Publishers, November 2001.
+Engin Kirda, Harald Gall, Gerald Reif, Pascal Fenkam, and Clemens Kerer. Supporting Mobile Users and Distributed Teamwork. Proceedings of ConTEL 2001 - 6th International Conference on Telecommunications (Zagreb, Croatia, June 13-15 2001), edited by Maja Matijasevic and Alen Bazant, Zagreb, ISBN 953-184-020-2, 2001
+Clemens Kerer, Engin Kirda, Mehdi Jazayeri, and Roman Kurmanowytsch. Building XML/XSL-Powered Web Sites: An Experience Report. 25th International Computer Software and Applications Conference (COMPSAC) (Chicago, IL, USA). IEEE Computer Society Press, October 2001.
+Engin Kirda. Engineering of Web Services with XML and XSL, Tutorial Abstract. 8th European Software Engineering Conference (ESEC) (Vienna, Austria), pages 318-19, Volker Gruhn, editor. ACM Press, September 10-14 2001.
+Engin Kirda, Clemens Kerer, and Mehdi Jazayeri. Supporting Multi-device Enabled Web Services: Challenges and Open Problems.10th IEEE Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE) (Boston, MA, USA). IEEE Computer Society, June 2001.
+Gerald Reif, Engin Kirda, Harald Gall, Gian Pietro Picco, Gianpaola Cugola, and Pascal Fenkam. A Web-based peer-to-peer architecture for collaborative nomadic working. 10th IEEE Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises (WETICE) (Boston, MA, USA). IEEE Computer Society Press, June 2001.
+Engin Kirda, Clemens Kerer, and Gerald Matzka. Using XML/XSL to build adaptable database interfaces for Web site content management. XML in Software Engineering Workshop (XSE 2001), 23rd International Conference on Software Engineering (May 2001, Toronto, Ontario, Canada), May 2001.
+Engin Kirda. Web Engineering Device Independent Web Services. 23rd International Conference on Software Engineering, Doctoral Symposium (Toronto, Canada). IEEE Computer Society Press, May 2001.
+Engin Kirda and Clemens Kerer. MyXML: An XML based template engine for the generation of flexible web content. Proceedings of WEBNET 2000 (San Antonio, Texas, USA), pages 317-322, November 2000.
+Clemens Kerer and Engin Kirda. Layout, Content and Logic Separation in Web Engineering. 9th International World Wide Web Conference, 3rd Web Engineering Workshop (Amsterdam, 15-16 May 2000). Lecture Notes in Computer Science Series, 2016, Springer Verlag, May 2000.
+Security Journals
+Amin Kharraz, Wil Robertson, Engin Kirda,Protecting Against Ransomware: A New Line of Research or Restating Classic Ideas?, IEEE Security and Privacy Magazine, 2018 [download]
+Sentinel: Securing Legacy Firefox Extensions, K. Onarlioglu, A. S. Buyukkayhan, W. Robertson, E. Kirda, In Computers and Security, 49(0), 2015, Elsevier
+[download]
+EXPOSURE: a Passive DNS Analysis Service to Detect and Report Malicious Domains Leyla Bilge, Sevil Sen, Davide Balzarotti, Engin Kirda, Christopher Kruegel ACM Transactions on Information and System Security (TISSEC) , New York, NY, USA
+[download]
+Manuel Egele, Andreas Moser, Christopher Kruegel, Engin Kirda, PoX: Protecting Users from Malicious Facebook Applications, Computer Communications Journal, Elsevier, 2012
+[download]
+Theodoor Scholte, Davide Balzarotti, and Engin Kirda, Have things changed now? An empirical study on input validation vulnerabilities in web applications, Computers and Security 31(3): 344-356 (2012)
+[download]
+Manuel Egele, Theodoor Scholte, Engin Kirda, Christopher Kruegel, A Survey on Automated Dynamic Malware Analysis Techniques and Tools, ACM Computing Surveys Journal, Volume 44 Issue 2, February 2012
+[download]
+Nenad Jovanovic, Christopher Kruegel, Engin Kirda, Static analysis for detecting taint-style vulnerabilities in web applications, Journal of Computer Security, 18 (2010) 861-907, IOS Press, 2010
+[download]
+Engin Kirda, Nenad Jovanovich, Christopher Kruegel, Giovanni Vigna, Client-Side Cross-Site Scripting Protection, Computers and Security Journal, Elsevier, Vol: 28, No: 7, 2009
+[download]
+Giovanni Vigna, Fredrik Valeur, Davide Balzarotti, William Robertson, Christopher Kruegel, and Engin Kirda, Reducing errors in the anomaly-based detection of web-based attacks through the combined analysis of web requests and SQL queries, Journal of Computer Security, IOS Press, Volume 17, Number 3, 2009
+[download]
+Stefan Mitterhofer, Christian Platzer, Engin Kirda, and Christopher Kruegel, Server-side Bot Detection in Massive Multiplayer Online Games, IEEE Security and Privacy, Special Issue - Online Gaming Security, May/June 2009 (vol. 7 no. 3) pp. 29-36
+[download]
+Patrick Klinkoff, Engin Kirda, Christopher Kruegel, and Giovanni Vigna, Extending .NET Security to Unmanaged Code (Special Issue on the Best of ISC 2007 papers, extended version), International Journal of Information Security, Springer Verlag, Volume 4176/2006
+[download]
+Ulrich Bayer, Andreas Moser, Christopher Kruegel, and Engin Kirda, Dynamic Analysis of Malicious Code, Journal in Computer Virology, Springer Computer Science
+[download]
+Engin Kirda and Christopher Kruegel, Protecting Users against Phishing Attacks (Best of COMPSAC 2005), The Computer Journal, Oxford University Press
+[download]
+Other Journals
+Clemens Kerer, Gerald Reif, Thomas Gschwind, Engin Kirda, Roman Kurmanowytsch and Marek Pralic, ShareMe: Running A Distributed Systems Lab For 600 Students With 3 Faculty Members, IEEE Transactions on Education, vol: 48, no: 3, pp. 430-437, August 2005
+Engin Kirda and Harald Gall, A Service Architecture for Mobile Teamwork, (Best of SEKE 2002), International Journal on Software Engineering and Knowledge Engineering, World Scientific Publishing Company, August 2003.
+Clemens Kerer, Engin Kirda and Roman Kurmanowytsch, A Generic Content Management Tool for Web Databases, IEEE Internet Computing, August 2002
+Engin Kirda, Mehdi Jazayeri, Clemens Kerer, and Markus Schranz. Experiences in Engineering Flexible Web Services. IEEE Multimedia, Jannuary - March 2001.
+Editorships
+Manuel Costa, Engin Kirda (eds): Proceedings of the Third European Workshop on System Security, EUROSEC 2010, ACM, Paris, France, April 2010
+Engin Kirda, Somesh Jha, Davide Balzarotti (eds), Proceedings of the 12th International Symposium on Recent Advances in Intrusion Detection, Volume 5258/2009, ISBN-10 3-642-04341-0, September 2009
+Richard Lippmann, Engin Kirda, Ari Trachtenberg, (eds), Proceedings of the 11th International Symposium on Recent Advances in Intrusion Detection, Volume 5230/2008, ISBN 978-3-540-87402-7, September 2008
+Working Seminar Proceedings
+Lothar Braun, Falko Dressler, Thorsten Holz, Engin Kirda, Jan Kohlrausch, Christopher Kruegel, Tobias Limmer, Konrad Rieck, James P. G. Sterbenz: 08102 Working Group -- Requirements for Network Monitoring from an IDS Perspective, Dagstuhlseminar Proceedings, Network Attack Detection and Defense 2008
+Marc Dacier, Herve Debar, Thorsten Holz, Engin Kirda, Jan Kohlrausch, Christopher Kruegel, Konrad Rieck, James P. G. Sterbenz: 8102 Working Group -- Attack Taxonomy, Dagstuhlseminar Proceedings, Network Attack Detection and Defense 2008
+TEACHING
+FALL 2023
+Software Vulnerabilities and Security (CY-5770)
+Introduction to Software Security (ECE 5641)
+FALL 2022
+Introduction to Software Security (ECE 5641)
+An Introduction to Web Security Research
+FALL 2021
+Software Vulnerabilities and Security (CY-5770)
+Introduction to Software Security (ECE 5641)
+FALL 2020
+Software Vulnerabilities and Security (CY-5770)
+Introduction to Software Security (ECE 5641)
+FALL 2019
+Software Vulnerabilities and Security (CS-5770)
+Introduction to Software Security (ECE 5641)
+FALL 2018
+On Sabbatical
+
+FALL 2017
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2016
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2015
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2014
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2013
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2012
+Software Vulnerabilities and Security (CS-5770)
+Special Topics in Security (ECE 5698)
+FALL 2011
+Software Vulnerabilities and Security (CS-5770)
+
+COURSES TAUGHT I TAUGHT BEFORE I JOINED NORTHEASTERN
+Secure Programming I, Secure Programming II, Internet Security, Advanced Internet Security, Advanced Topics in Security, Distributed Systems
+MENTORSHIP
+CURRENT PH.D. STUDENTS
+- Tommaso Innocenti
+- Cem Topcuoglu
+- Anthony Gavazzi
+- Seyed Ali Akhavani
+- Steven Sprecher
+- Changming Liu
+- Ryan Williams
+
+FORMER PH.D. STUDENTS
+- Bahruz Jabiyev (2023)
+- Alejandro Mera (2022), Amazon
+- Andrea Mambretti (2022), IBM Research
+- Ahmet Buyukkayhan (2019), Microsoft
+- Sajjad Arshad (2019), Google
+- Tobias Lauinger (2018), NYU
+- Michael Weissbacher (2018), Square
+- Amin Kharraz (2017), Faculty at FIU
+- Sevtap Duman (2017), Faculty Ege University
+- Kaan Onarlioglu (2016), Akamai
+- Matthias Neugeschwantner (2014), IBM Research
+- Theodoor Scholte (2012), SAP Research
+- Marco Balduzzi (2011), Trendmicro Research
+- Leyla Bilge (2011), Norton Lifelock Research
+- Clemens Kolbitsch (2011), VMWare (Previously Lastline, Inc.)
+- Manuel Egele (2011), Faculty at Boston University
+- Gilbert Wondracek (2010), Deloitte
+- Ulrich Bayer (2010), Secure Business Austria
+- Andreas Moser (2010), Google
+- Nenad Jovanovic (2007), E-Card Austria
+FORMER MSC STUDENTS
+- Walter Rweyamamu, 2022
+- Can Gemicioglu, 2020
+- Saman Jafari, 2019
+- Talha Ahmet Ozcan, 2018
+- Ryan Rickert, Improved Fuzzing, 2012
+- Chuang-Ming Tan, "A solution for protecting the privacy of photographs on Facebook", 2011
+- Thomas Raffetseder, "Smart Fuzzing", 2010
+- Stefan Mitterhofer, "Server-Side Bot-Detection for Massive Multiplayer Online Games", 2009
+- Christian Ludl, "SWAP: A proxy-based solution for mitigating XSS attacks", 2008
+- Sean McAllister, "Increasing the coverage of Web Application Vulnerability Scanners", 2008
+- Clemens Kolbitsch, "Extending Mondrian Memory Protection", 2008
+- Andreas Stamminger, "Automated Spyware Collection and Analysis", 2007
+- Florian Nentwich, "Sicherheitsanalyse von Signatursoftware", 2007
+- Guenther Bayler, "Penetrating Bayesian Spam Filters Using Redundancy in Natural Language", 2007
+- Martin Szydlowski, "Secure Input for Web Applications", 2007
+- Helmut Petritsch, "Understanding and Replaying Network Traffic in Windows XP for Malware Analysis", 2007
+- Manuel Egele, "Behavior-Based Spyware Detection Using Dynamic Taint Analysis", 2006
+- David Tischler, "WSFW: An Open Source Web Service Firewall", 2006
+- Philipp Vogt, "Cross Site Scripting (XSS) Attack Prevention with Dynamic Data Tainting on the Client Side", 2006
+- Stefan Kals, "Secubat: A Web Vulnerability Scanner", 2006
+- Viktor Moser, "Foxy: A proxy for mobile web access", 2006
+- Ullrich Bayer, "TTAnalyze: A Tool for Analyzing Malware", 2005
+- Patrick Klinkoff, "Extending .NET Security to Native Code", 2005
+- David Saez Palacios, "Survey on Techniques and Software for the Remote Security Analysis of Computer Systems", 2004
+- Lorenz Froihofer, "A Survey of WLAN Security with Focus on HotSpot and Enterprise Environments", 2004 (Awarded the 2004 Best Computer Science Master's Thesis Award of the Vienna City)
+PROFESSIONAL ACTIVITIES
+PROGRAM (CO-) CHAIR
+- ACM CCS 2023-2024
+- AsiaCCS 2019, Auckland, New Zealand
+- USENIX 2017, Vancouver, Canada
+- NDSS 2015, San Diego, CA
+- 5th USENIX Workshop on Large-Scale Exploits and Emerging Threats (LEET) 2012, San Jose, CA, April 2012
+- 2011 BADGERS (Building Analysis Datasets and Gathering Experience Returns for Security) Workshop, Salzburg, Austria, April 2011
+- 2011 European Workshop on System Security (EUROSEC), Salzburg, Austria, April 2011
+- 2010 European Workshop on System Security (EUROSEC), Paris, France, April 2010
+- Recent Advances in Intrusion Detection (RAID) 2009, Saint Malo, Brittany, France
+SHADOW CHAIR
+- NDSS 2014, San Diego, CA
+- Recent Advances in Intrusion Detection (RAID) 2008, Boston, USA
+PROGRAM COMMITTEE MEMBERSHIPS
+- IEEE SP, 2023
+- Usenix Security, 2023
+- ACM CCS, 2022
+- ACM CCS, 2021
+- 29th USENIX Security Symposium, 2020
+- 41st IEEE Symposium on Security and Privacy, May 2020, San Francisco, CA
+- The ACM Conference on Computer and Communications Security (CCS), October 2019, November, London, UK
+- NDSS 2020, February 2020, San Diego, CA
+- NDSS 2019, February 2019, San Diego, CA
+- 40th IEEE Symposium on Security and Privacy, May 2019, San Francisco, CA
+- 4th IEEE European Symposium on Security and Privacy, June 2019, Stockholm, Sweden
+- 40th IEEE Symposium on Security and Privacy, May 2019, San Francisco, CA
+- The ACM Conference on Computer and Communications Security (CCS), October 2018, Toronto, Ontario, Canada
+- 27th USENIX Security Symposium, August 2018, Baltimore, MD
+- 39th IEEE Symposium on Security and Privacy, May 2018, San Francisco, CA
+- 3rd IEEE European Symposium on Security and Privacy, April 2018, London, U.K
+- The 48th IEEE/IFIP International Conference on Dependable Systems and Networks, June 2018, Luxembourg City, Luxembourg
+- The ACM Conference on Computer and Communications Security (CCS), October 2017, Dallas, TX
+- The Eleventh Symposium on Electronic Crime Research (eCrime) 2016, Toronto, Canada
+- 25th International World Wide Web Conference, Montreal, Canada, 2016
+- 1st IEEE European Symposium on Security and Privacy, Saarbruecken, Germany, 2016
+- 23rd ACM Conference on Computer and Communications Security, Vienna, Austria, 2016
+- 25th USENIX Security Symposium, Austin, TX., 2016
+- 23rd Network and IT Security Conference (NDSS) 2016, San Diego, CA, February 2016
+- 46th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Tolouse, France 2016
+- 22nd ACM Conference on Computer and Communications Security (CCS), Denver, Colorado, 2015
+- 24rd USENIX Security Symposium, Washington D.C., 2015
+- 24th WWW Conference, Security and Privacy Track, Florence, Italy, May 2015
+- 23rd USENIX Security Symposium, San Diego, CA, August 2014
+- ASIACCS 2014 (9th ACM Symposium on Information, Computer and Communications Security)
+- 7th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WISEC 2014), Oxford, UK
+- International World Wide Web Conference (WWW 2014), Security, Privacy, Trust, and Abuse Track, Seoul, Korea, April 2014
+- 21st Network and IT Security Conference (NDSS) 2014, San Diego, CA, February 2014
+- 20th ACM Conference on Computer and Communications Security (CCS), 2013, Berlin, Germany, October 2013
+- 18th European Symposium on Research in Computer Security (ESORICS) 2013, UK, September 2013
+- Research on Attacks, Intrusions and Defenses (RAID 2013), St. Lucia, October 2013
+- 6th International Conference on Trust and Trustworthy Computing (TRUST 2013), London, UKa, June 2013
+- International World Wide Web Conference (WWW 2013), Abuse, Security, and Privacy Track, Rio de Janeiro, Brazil, May 2013
+- IEEE Security and Privacy, San Francisco, CA, May 2013
+- 43nd Annual International Conference on Dependable Systems and Networks, DSN 2013, Budapest, Hungary, June 2013
+- 20th Network and IT Security Conference (NDSS) 2013, San Diego, CA, February 2013
+- 21st USENIX Security Symposium, Bellevue, WA, August, 2012
+- 19th ACM Conference on Computer and Communications Security (ACM CCS), Raleigh, NC, 2012
+- IEEE Security and Privacy, San Francisco, CA, May 2012
+- 16th International Conference on Financial Cryptography and Data Security, Bonaire, February 2012
+- International Symposium on Engineering Secure Software and Systems (ESSOS) 2012, Eindhoven, Netherlands
+- 42nd Annual International Conference on Dependable Systems and Networks, DSN 2012, Boston, June 2012
+- 5th USENIX Workshop on Offensive Technologies, San Francisco, CA, August 2011
+- 4th USENIX Workshop on Large-Scale Exploits and Emerging Threats (LEET) 2011, Boston, MA, March 2011
+- IEEE Security and Privacy, Oakland, CA, May 2011
+- International World Wide Web Conference (WWW 2011), Abuse, Security, and Privacy Track, Hyderabad, India, March 2011
+- Detection of Intrusions and Malware and Vulnerability Assessment Working Conference (DIMVA 2011), July 2011
+- 41st Annual International Conference on Dependable Systems and Networks, DSN 2011, Hong Kong, June 2011
+- 5th USENIX Workshop on Hot Topics in Security (HotSec '10), Washington DC, August 2010
+- ACM Conference on Computer and Communications Security (CCS), Chicago, IL, October 2010
+- IEEE Security and Privacy, Oakland, CA, May 2010
+- Web 2.0 Security and Privacy Workshop 2010, Oakland, CA, May 2010
+- Detection of Intrusions and Malware and Vulnerability Assessment Working Conference (DIMVA 2010), Bonn, Germany, July 2010
+- Network and IT Security Conference (NDSS) 2010, San Diego, CA, February 2010
+- OWASP AppSec Research 2010 - Stockholm, Sweden
+- 5th European Conference on Computer Network Defence (EC2ND) , Milan, Italy, November 2009
+- Detection of Intrusions and Malware and Vulnerability Assessment Working Conference (DIMVA 2009), Milan, Italy, July 2009
+- IEEE International Conference on Privacy, Security, Risk and Trust (PASSAT-09), Vancouver, Canada, August 2009
+- Network and IT Security Conference (NDSS) 2009, San Diego, CA, February 2009
+- 4th International CRIS Conference on Critical Infrastructures, Linkoeping, Sweden, April, 2009
+- European Workshop on System Security (EUROSEC) 2009
+- Network and IT Security Conference (NDSS) 2008, San Diego, CA, February 2008
+- 4th International Conference on Information Systems Security (ICISS 2008), Hyderabad, India, December 2008
+- 4th European Conference on Computer Network Defense (EC2ND), Dublin, December 2008
+- 1st Workshop on Open Source Software for Computer and Network Forensics (OSSCoNF), Milan, September 2008
+- 10th International Conference on Information and Communications Security (ICICS 2008), Prague, July 2008
+- The 5th International Conference on Autonomic and Trusted Computing, Oslo, June 2008
+- 27th IEEE Symposium on Reliable Distributed Systems (SRDS-27), Napoli, October 2008
+- EUROSEC Workshop, Annual ACM SIGOPS EuroSys Conference, Glasgow, Marc 2008
+- The 4th International Workshop on Software Engineering for Secure Systems (SESS'08), 29th International Conference on Software Engineering (ICSE), Leipzig, May 2008
+- SecureComm 2008, Istanbul, Turkey, September 2008
+- Network and IT Security Conference (NDSS) 2007, San Diego, CA, February 2007
+- Ninth International Conference on Information and Communications Security (ICICS 2007)
+- 5th Workshop on Recurring Malcode (WORM), 14th ACM Conference on Computer and Communications Security (CCS), Alexandria, VA, October 2007
+- The 3rd International Workshop on Software Engineering for Secure Systems (SESS07), 29th International Conference on Software Engineering (ICSE), May 2007
+- Detection of Intrusions and Malware and Vulnerability Assessment Working Conference (DIMVA 2006), Berlin, Germany, June 2006
+- The 4th International Workshop on Ubiquitous Mobile Information and Communication Systems (UMICS), Luxembourg, June 2006
+- International Conference on Communications and Networking in China, CHINACOM 2006, October 2006
+- Security and Privacy in Computing Systems Conference (SPCS2006), May 2006
+- 4th International Workshop on Distributed and Mobile Collaboration (DMC 2006), WETICE-2006, Manchester, UK, June 2006
+- ICIW 2006 - IEEE International Conference on IP and Web Applications (ICIW'06), Guadeloupe, French Caribbean, February 2006
+- Detection of Intrusions and Malware and Vulnerability Assessment Working Conference (DIMVA 2005), Vienna, Austria, June 2005
+- Workshop on Distributed and Mobile Collaboration, IEEE 14th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2005), Linkoping, Sweden, June 2005
+- Workshop on Evaluation of Collaborative Information Systems and Support for Virtual Enterprises, IEEE 14th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2005), Linkoping, Sweden, June 2005
+- Fault-Tolerant and Dependable Distributed Systems Minitrack of the Software Technology Track 38th IEEE Hawaii International Conference on System Sciences, Hawaii, USA, 2004
+- TECOS 2004 - Testing Component-based Systems Workshop, Net.ObjectDays 2004
+3rd Workshop on Cooperative Support for Distributed Software Engineering Processes (CSSE), 19th Automated Software Engineering Conference (ASE), Linz, Austria, September 2004
+- 2nd International Workshop on Web Based Systems and Applications, The 28th Annual International Computer Software and Applications Conference (COMPSAC), Hong Kong, China, September 2004
+- Workshop on Evaluation of Collaborative Information Systems, IEEE 13th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2003), Modena, Italy, June 2004
+- Workshop on Distributed Mobile Collaboration (DMC), IEEE 13th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2003), Modena, Italy, June 2004
+Workshop on Evaluation of Collaborative Information Systems and Support for Virtual Enterprises, IEEE 12th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2003), Linz, Austria, June 2003
+- International Workshop on Distributed and Mobile Collaboration (DMC 2003), IEEE 12th International Workshops on Enabling Technologies Infrastructure for Collaborative Enterprises (WETICE 2003) , Linz, Austria, June 2003
+- 2nd Workshop on Cooperative Supports for Distributed Software Engineering Processes, 7th European Conference on Software Maintenance and Reengineering, Benevento, Italy, March 2003
+- Mobile Teamwork Support (Mobile Teams 2002) Workshop, 22nd International Conference on Distributed Computing Systems (ICDCS), July 2002, Vienna, Austria
+CONFERENCE ORGANIZATION
+2nd FORWARD Workshop, Saint Jean - Cap Ferrat, France
+Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA 2005) Working Conference, Vienna, Austria
+
+Last Modified: Fri Mar 8 17:30:58 EST 2024
+
+© 2011-2022 NEU SecLab
+360 Huntington Ave, Boston, MA 02115
+
+

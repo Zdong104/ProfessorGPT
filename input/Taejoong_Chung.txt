@@ -1,0 +1,272 @@
+Professor: Taejoong Chung
+University: Virginia Tech
+URL: https://taejoong.github.io/
+Description: Taejoong (Tijay) Chung
+Home
+Fundings
+Students
+Courses
+TAEJOONG (TIJAY) CHUNG
+ASSISTANT PROFESSOR
+VIRGINIA TECH
+
+My research primarily centers on understanding and enhancing Internet security protocols for DNS, the Web, Routing, and Emails.
+
+UPDATES
+Jul 18 2024 NTIA published comments regarding the Reporting on Border Gateway Protocol (BGP) Risk Mitigation Progress Notice of Proposed Rulemaking (NPRM). RoVista is used to measure the Route Origin Validation (ROV) status in the United States.
+May 16 2024 FCC recently proposed Internet Routing Security Reporting Requirements. In the accompanying fact sheet, RoVista is mentioned as an example approach for understanding ROV!
+Apr 13 2024 I am honored to be awarded the NSF CAREER Award; this proposal aims to enhance security protocols for Internet Routing and Naming.
+Apr 02 2024 I am honored to be awarded the Outstanding New Assistant Professor at the College of Engineering, Virginia Tech.
+Apr 02 2024 My Ph.D. student, Weitong, will be working at CableLabs for his summer internship to work on RPKI.
+Mar 25 2024 I have multiple funded openings for Ph.D and Masters students. Please take a look at this and feel free to email me.
+Mar 25 2024 My Ph.D. student, Ishtiaq will be working at Meta for his summer internship to work on TLS and browser.
+Feb 13 2024 I gave a talk at NANOG 90 to present our RPKI study and RoVista
+Nov 21 2023 I am truly honored to be selected for the 2024 DNS-OARC Programme Committee.
+Nov 09 2023 RoVista is currently used by Internet Society Pulse for showing global RoV deployment.
+PUBLICATIONS
+2024
+{ TLS } mmTLS: Scaling the Performance of Encrypted Network Traffic Inspection
+Junghan Yoon, Seunghyun Do, Duckwoo Kim, Taejoong Chung, and KyoungSoo Park
+In Proceedings of the USENIX Annual Technical Conference (ATC'24), Santa Clara, USA, July 2024
+PDF BibTeX
+{ Email } SPF Beyond the Standard: Management and Operational Challenges in Practice and Practical Recommendations
+Mohammad Ishtiaq Ashiq Khan, Weitong Li, Tobias Fiebig, and Taejoong Chung
+In Proceedings of the USENIX Security Symposium (Security'24), Philadelphia, USA, August 2024
+PDF BibTeX Measurement Data
+An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape
+Sifat Muhammad Abdullah, Aravind Cheruvu, Shravya Kanchi, Taejoong Chung, Peng Gao, Murtuza Jadliwala, and Bimal Viswanath
+In Proceedings of the IEEE Symposium on Security and Privacy (Oakland'24), San Francisco, USA, May 2024
+PDF BibTeX
+{ Routing } IRRedicator: Pruning IRR with RPKI-Valid BGP Insights
+Minhyeock Kang, Weitong Li, Roland van Rijswijk-Deij, Ted "Taekyoung" Kwon, and Taejoong Chung
+In Proceedings of the Network and Distributed System Security Symposium (NDSS'24), San Diego, USA, February 2024
+PDF BibTeX Measurement Data
+2023
+{ DNS } Research Agenda for a Post-Quantum DNSSEC
+A.M. Fregly, Roland van Rijswijk-Deij, Mortiz Muller, Peter Thomassen, Casper Schutijser, and Taejoong Chung
+Internet Engineering Task Force (IETF) Network Working Group, Internet Draft
+Link BibTeX
+{ TLS } No Root Store Left Behind
+James Larisch, Waqar Aqeel, Taejoong Chung, Eddie Kohler, Dave Levin, Bruce M. Maggs, Bryan Parno, and Christo Wilson
+In Proceedings of the ACM Workshop on Hot Topics in Networks (HotNets'23), Cambridge, USA, November 2023
+PDF BibTeX
+{ Routing } RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI
+Weitong Li, Zhexiao Lin, Mohammad Ishtiaq Ashiq Khan, Emile Aben, Romain Fontugne, Amreesh Phokeer, and Taejoong Chung
+In Proceedings of the ACM Internet Measurement Conference (IMC'23), Montreal, Canada, October 2023
+PDF BibTeX Measurement Data NANOG90 Presented
+{ TLS } Delegation of TLS Authentication to CDNs using Revocable Delegated Credentials
+Daegeun Yoon, Taejoong Chung, and Yongdae Kim
+In Proceedings of the Annual Computer Security Applications Conference (ACSAC'23), Austin, USA, December 2023
+PDF BibTeX
+{ Email } You’ve Got Report: Measurement and Security Implications of DMARC Reporting
+Mohammad Ishtiaq Ashiq Khan, Weitong Li, Tobias Fiebig, and Taejoong Chung
+In Proceedings of the USENIX Security Symposium (Security'23), Anaheim, USA, August 2023
+PDF BibTeX Measurement Data
+{ TLS } Scaling the Performance of Modern TLS Traffic Monitoring without Compromising the Security (Poster Paper)
+Junghan Yoon, Seunghyun Do, Duckwoo Kim, Taejoong Chung, and KyoungSoo Park
+In Proceedings of the USENIX Symposium on Networked Systems Design and Implementation (NSDI'23), Boston, USA, April 2023
+PDF BibTeX
+{ TLS } Exploring the Evolution of the TLS Certificate Ecosystem
+Syed Muhammad Farhan and Taejoong Chung
+In Proceedings of the Passive and Active Measurement Conference (PAM'23), Virtual, Virtual, March 2023
+PDF BibTeX
+{ DNS } Measuring TTL Violation of DNS Resolvers in the Wild
+Protick Bhowmick, Mohammad Ishtiaq Ashiq Khan, Casey Deccio, and Taejoong Chung
+In Proceedings of the Passive and Active Measurement Conference (PAM'23), Virtual, Virtual, March 2023
+PDF BibTeX Measurement Data
+2022
+{ TLS } A Comparative Analysis of Certificate Pinning in Android & iOS
+Amogh Pradeep, Muhammad Talha Paracha, Protick Bhowmick, Ali Davanian, Abbas Razaghpanah, Taejoong Chung, Martina Lindorfer, Narseo Vallina-Rodriguez, Dave Levin, and David Choffnes
+In Proceedings of the ACM Internet Measurement Conference (IMC'22), Nice, France, October 2022
+PDF BibTeX
+{ TLS } Hammurabi: A Framework for Pluggable, Logic-based X.509 Certificate Validation Policies
+James Larisch, Waqar Aqeel, Michael Lum, Yaelle Goldschlag, Kasra Torshizi, Leah Kannan, Yujie Wang, Taejoong Chung, Dave Levin, Bruce M. Maggs, Alan Mislove, Bryan Parno, and Christo Wilson
+In Proceedings of the The ACM Conference on Computer and Communications Security (CCS'22), Los Angeles, United States, November 2022
+PDF BibTeX Best Paper Honorable Mention
+{ Email } Under the Hood of DANE Mismanagement in SMTP
+Hyeonmin Lee, Md. Ishtiaq Ashiq, Moritz Muller, Roland van Rijswijk-Deij, Taekyoung Kwon, and Taejoong Chung
+In Proceedings of the USENIX Security Symposium (Security'22), Boston, United States, August 2022
+PDF BibTeX
+Privacy Guarantees of BLE Contact Tracing: A Case Study on COVIDWISE (Poster Paper)
+Salman Ahmed, Ya Xiao, Taejoong Chung, Carol Fung, Moti Yung, and Danfeng (Daphne) Yao
+In Proceedings of the ACM ASIACCS (ASIACCS'22), Nagasaki, Japan, June 2022
+BibTeX
+2021
+The Ties that un-Bind: Decoupling IP from web services and sockets for robust addressing agility at CDN-scale
+Marwan Fayed, Vasileios Giotsas, Lorenz Bauer, Sami Kerola, Marek Majkowski, Pavel Odintsov, Jakub Sitnicki, Taejoong Chung, Dave Levin, Alan Mislove, Nick Sullivan, and Chris Wood
+In Proceedings of the ACM SIGCOMM (SIGCOMM'21), Virtual, Virtual, August 2021
+PDF BibTeX
+{ TLS } Measurement and Analysis of Automated Certificate Reissuance
+Olamide Omolola, Richard Roberts, Ishtiaq Ashiq, Taejoong Chung, Dave Levin, and Alan Mislove
+In Proceedings of the Passive and Active Measurement Conference (PAM'21), Virtual, Virtual, March 2021
+PDF BibTeX
+2020
+{ DNS } The Reality of Algorithm Agility: Studying the DNSSEC Algorithm Life-Cycle
+Moritz Muller, Willem Toorop, Taejoong Chung, Jelte Janssen, and Roland van Rijswijk-Deij
+In Proceedings of the ACM Internet Measurement Conference (IMC'20), Pittsburgh, United States, October 2020
+PDF BibTeX
+{ TLS } Assertion-Carrying Certificates
+Waqar Aqeel, Zachary Hanif, James Larisch, Olamide Omolola, Taejoong Chung, Dave Levin, Bruce Maggs, Alan Mislove, Bryan Parno, and Christo Wilson
+In Proceedings of the Workshop on Foundations of Computer Security (FCS'20), Boston, USA, June 2020
+PDF BibTeX
+{ Email } A Longitudinal and Comprehensive Study of the DANE Ecosystem in Email
+Hyeonmin Lee, Aniketh Gireesh, Roland van Rijswijk-Deij, Taekyoung Kwon, and Taejoong Chung
+In Proceedings of the USENIX Security Symposium (Security'20), Boston, United States, August 2020
+PDF BibTeX Measurement Data
+2019
+{ TLS } You Are Who You Appear to Be: A Longitudinal Study of Domain Impersonation in TLS Certificates
+Richard Roberts, Yaelle Goldschlag, Rachel Walter, Taejoong Chung, Alan Mislove, and Dave Levin
+In Proceedings of the The ACM Conference on Computer and Communications Security (CCS'19), London, United Kingdom, November 2019
+PDF BibTeX
+{ Routing } RPKI is Coming of Age: A Longitudinal Study of RPKI Deployment and Invalid Route Origins
+Taejoong Chung, Emile Aben, Tim Bruijnzeels, Balakrishnan Chandrasekaran, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, Roland van Rijswijk-Deij, John P. Rula, and Nick Sullivan
+In Proceedings of the ACM Internet Measurement Conference (IMC'19), Amsterdam, Netherlands, October 2019
+PDF BibTeX Measurement Data
+{ DNS } Roll, Roll, Roll your Root: A Comprehensive Analysis of the First Ever DNSSEC Root KSK Rollover
+Moritz Müller, Matthew Thomas, Duane Wessels, Wes Hardaker, Taejoong Chung, Willem Toorop, and Roland van Rijswijk-Deij
+In Proceedings of the ACM Internet Measurement Conference (IMC'19), Amsterdam, Netherlands, October 2019
+PDF BibTeX Measurement Data Distinguished Paper Award
+{ DNS } Tracking Registrar Support for DNSSEC: It's Slowly Getting Better (Poster Paper)
+Spencer Roth, Roland Van Rijswijk-Deij, and Taejoong Chung
+In Proceedings of the ACM Internet Measurement Conference (IMC'19), Amsterdam, Netherlands, October 2019
+PDF BibTeX
+{ DNS } Rolling with Confidence: Managing the Complexity of DNSSEC Operations
+Moritz Müller, Taejoong Chung, Alan Mislove, and Roland van Rijswijk-Deij
+IEEE Transactions on Network and Service Management (IEEE TNSM), Sepember 2019
+BibTeX
+{ TLS } maTLS: How to Make TLS middlebox-aware?
+Hyunwoo Lee, Zachary Smith, Junghwan Lim, Gyeongjae Choi, Selin Chun, Taejoong Chung, and Ted "Taekyoung" Kwon
+In Proceedings of the Network and Distributed System Security Symposium (NDSS'19), San Diego, USA, February 2019
+PDF BibTeX Software
+2018
+{ TLS } Is the Web Ready for OCSP Must Staple?
+Taejoong Chung, Jay Lok, Balakrishnan Chandrasekaran, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, John Rula, Nick Sullivan, and Christo Wilson
+In Proceedings of the ACM Internet Measurement Conference (IMC'18), Boston, USA, November 2018
+PDF BibTeX Measurement Data
+{ TLS } A First Look at Certification Authority Authorization (CAA)
+Quirin Scheitle, Taejoong Chung, Jens Hiller, Oliver Gasser, Johannes Naab, Roland van Rijswijk-Deij, Oliver Hohlfeld, Ralph Holz, Dave Choffnes, Alan Mislove, and Georg Carle
+ACM SIGCOMM Computer Communications Review (CCR), April 2018
+PDF BibTeX Measurement Data
+Privacy Leakage in Event-based Social Networks: A Meetup Case Study
+Taejoong Chung, Jinyoung Han, Daejin Choi, Taekyoung Kwon, Jong-Youn Rha, and Hyunchul Kim
+In Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW'18), Jersey City, USA, November 2018
+PDF BibTeX
+2017
+{ DNS } An End-to-End View of DNSSEC Ecosystem Management
+Taejoong Chung, Roland van Rijswijk-Deij, Balakrishnan Chandrasekaran, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, and Christo Wilson
+The USENIX Magazine (USENIX ;login:), December 2017
+PDF BibTeX
+{ DNS } Understanding the Role of Registrars in DNSSEC Deployment
+Taejoong Chung, Roland van Rijswijk-Deij, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, and Christo Wilson
+In Proceedings of the ACM Internet Measurement Conference (IMC'17), London, United Kingdom, November 2017
+PDF BibTeX Measurement Data Applied Networking Research Prize 2019
+Investigating End-To-End Integrity Violations in Internet Traffic
+Alan Mislove, David Choffnes, and Taejoong Chung
+In Proceedings of the Research Conference on Communications, Information and Internet Policy (TPRC'17), Arlington, USA, September 2017
+PDF BibTeX Measurement Data
+{ DNS } The Root Canary: Monitoring and Measuring the DNSSEC Root Key Rollover (Poster Paper)
+Roland van Rijswijk-Deij, Taejoong Chung, David Choffnes, Alan Mislove, and Willem Toorop
+In Proceedings of the ACM Special Interest Group on Data Communication (SIGCOMM'17), Los Angeles, USA, August 2017
+BibTeX
+{ DNS } A Longitudinal, End-to-End View of the DNSSEC Ecosystem
+Taejoong Chung, Roland van Rijswijk-Deij, Balakrishnan Chandrasekaran, David Choffnes, Dave Levin, Bruce M. Maggs, Alan Mislove, and Christo Wilson
+In Proceedings of the USENIX Security Symposium (Security'17), Vancouver, BC, Canada, August 2017
+PDF BibTeX Measurement Data Distinguished Paper Award
+2016
+{ DNS, TLS } Tunneling for Transparency: A Large-Scale Analysis of End-to-End Violations in the Internet
+Taejoong Chung, David Choffnes, and Alan Mislove
+In Proceedings of the ACM Internet Measurement Conference (IMC'16), Santa Monica, California, USA, November 2016
+PDF BibTeX Measurement Data
+{ TLS } Measuring and Applying Invalid SSL Certificates: The Silent Majority
+Taejoong Chung, Yabing Liu, David Choffnes, Dave Levin, Bruce Maggs, Alan Mislove, and Christo Wilson
+In Proceedings of the ACM Internet Measurement Conference (IMC'16), Santa Monica, California, USA, November 2016
+PDF BibTeX Measurement Data
+{ TLS } Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem
+Frank Cangialosi, Taejoong Chung, David Choffnes, Dave Levin, Bruce Maggs, Alan Mislove, and Christo Wilson
+In Proceedings of the The ACM Conference on Computer and Communications Security (CCS'16), Hofburg Palace, Vienna, Austria, October 2016
+PDF BibTeX Measurement Data
+2015
+Characterizing Conversation Patterns in Reddit: From the Perspectives of Content Properties and User Participation Behaviors
+Daejin Choi, Jinyoung Han, Taejoong Chung, Yong-Yeol Ahn, Byung-Gon Chun, and Ted "Taekyoung" Kwon
+In Proceedings of the Conference on Online Social Networks (COSN'15), Stanford, USA, November 2015
+BibTeX
+Sharing Topics in Pinterest: Understanding Content Creation and Diffusion Behaviors
+Jinyoung Han, Daejin Choi, Taejoong Chung, Ted "Taekyoung" Kwon, Jong-Youn Rha, and Chen-Nee Chuah
+In Proceedings of the Conference on Online Social Networks (COSN'15), Stanford, USA, November 2015
+BibTeX
+2014
+Toward Terabyte-scale Caching with SSD in a Named Data Networking Router
+Won So, Taejoong Chung, Haowei Yuan, David Oran, and Mark Stapp
+In Proceedings of the IEEE Architectures for Networking and Communications Systems (ANCS'14), Marina del Rey, USA, October 2014
+BibTeX
+CoRC: Coordinated Routing and Caching for Named Data Networking
+Hoon-gyu Choi, Jungmin Yoo, Taejoong Chung, Nakjung Choi, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the IEEE Architectures for Networking and Communications Systems (ANCS'14), Marina del Rey, USA, October 2014
+BibTeX
+Unveiling Group Characteristics in Online Social Games: A Socio-Economic Analysis
+Taejoong Chung, Jinyoung Han, Daejin Choi, Ted "Taekyoung" Kwon, Huy Kang Kim, and Yanghee Choi
+In Proceedings of the International World Wide Web Conference (WWW'14), Seoul, Korea, April 2014
+BibTeX
+A Target-centric Surveillance System based on Localization and Social Networking
+Jinyoung Han, Nakjung Choi, Taejoong Chung, Ted "Taekyoung" Kwon, and Yanghee Choi
+Springer Multimedia Tools and Applications (MTAP), November 2014
+BibTeX
+Strategic Bundling for Content Availability and Fast Distribution in BitTorrent
+Jinyoung Han, Taejoong Chung, Seungbae Kim, Hyun-chul Kim, Jussi Kangasharju, Ted "Taekyoung" Kwon, and Yanghee Choi
+Elsevier Computer Comunication (COMCOM), May 2014
+BibTeX
+2013
+Spatial and Temporal Locality of Content in BitTorrent: A Measurement Study
+Taejoong Chung, Jinyoung Han, Hojin Lee, Jussi Kangasharju, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the IFIP Networking (IFIP Networking'13), Brooklyn, USA, May 2013
+BibTeX
+Spatial and Temporal Locality of Swarm Dynamics in BitTorrent
+Taejoong Chung, Jinyoung Han, Hojin Lee, Nakjung Choi, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the Passive and Active Measurement Conference (PAM'13), The Hong Kong Polytechnic University, Hong Kong, March 2013
+BibTeX
+2012
+Bundling Practice In BitTorrent: What, How, and Why
+Jinyoung Han, Seungbae Kim, Taejoong Chung, Ted "Taekyoung" Kwon, Hyun-chul Kim, and Yanghee Choi
+In Proceedings of the ACM SIGMETRICS (SIGMETRICS'12), London, United Kingdom, June 2012
+BibTeX Measurement Data
+Content Publishing and Downloading Practice in BitTorrent
+Seungbae Kim, Jinyoung Han, Taejoong Chung, Hyun-chul Kim, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the IFIP NETWORKING (NETWORKING'12), Prague, Czech Republic, May 2012
+BibTeX
+Bundling Practice in BitTorrent: What, How, and Why
+Jinyoung Han, Taejoong Chung, Seungbae Kim, Ted "Taekyoung" Kwon, Hyun-chul Kim, and Yanghee Choi
+ACM SIGMETRICS Performance Evaluation Review (Proceeding of ACM SIGMETRICS 2012), June 2012
+BibTeX
+2011
+Bandwidth Allocation for BitTorrent under Multi-Torrent Environments
+Jaeyoung Choi, Jinyoung Han, Taejoong Chung, Eunsang Cho, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the IEEE GLOBECOM (GLOBECOM'11), Houston, USA, December 2011
+BibTeX
+How Prevalent is Content Bundling in BitTorrent?
+Jinyoung Han, Taejoong Chung, Seungbae Kim, Ted "Taekyoung" Kwon, Hyun-chul Kim, and Yanghee Choi
+In Proceedings of the ACM SIGMETRICS (SIGMETRICS'11), San Jose, USA, June 2011
+BibTeX
+How Prevalent is Content Bundling in BitTorrent?
+Jinyoung Han, Taejoong Chung, Seungbae Kim, Ted "Taekyoung" Kwon, Hyun-chul Kim, and Yanghee Choi
+ACM SIGMETRICS Performance Evaluation Review (Proceeding of ACM SIGMETRICS 2011), June 2011
+BibTeX
+2010
+Systematic Support for Content Bundling in BitTorrent Swarming
+Jinyoung Han, Taejoong Chung, Hyunchul Kim, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the IEEE INFOCOM Student Workshop (INFOCOM'10), San Diego, USA, March 2010
+BibTeX
+An Analysis on BitTorrent Performance Based on the Number of Unchoked Peers
+Taejoong Chung, Jinyoung Han, Hyun-chul Kim, Ted "Taekyoung" Kwon, and Yanghee Choi
+Journal of Korean Institute of Communications and Information Sciences (KICS), May 2010
+BibTeX
+Analysis on Availability Metrics in BitTorrent Swarming System
+Taejoong Chung, Jinyoung Han, Hyunchul Kim, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the Korea Information and Communication Society (KICS'10), Pyung-Chang, Korea, December 2010
+BibTeX
+Analysis on BitTorrent Performance Based on the Number of Unchoked Peers
+Taejoong Chung, Jinyoung Han, Hyunchul Kim, Ted "Taekyoung" Kwon, and Yanghee Choi
+In Proceedings of the Joint Conference on Communication & Information (JCCI'10), An-Myun-Do, Korea, December 2010
+BibTeX
+
+Powered by the Academic theme for Hugo.
+

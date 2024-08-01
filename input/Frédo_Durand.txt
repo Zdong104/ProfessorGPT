@@ -1,0 +1,846 @@
+Professor: Frédo Durand
+University: Massachusetts Institute of Technology
+URL: http://people.csail.mit.edu/fredo
+Description:  	 	
+Frédo Durand
+
+E-mail: fredo@mit.edu
+Amar Bose Professor of Computing
+Computer Graphics Group
+CSAIL EECS
+Massachusetts Institute of Technology
+The Stata Center, office 32-D424, 32 Vassar Street
+Cambridge, MA 02139, USA
+Phone : (617) 253 7223
+Fax : (617) 253 4640
+
+Assistant: Roger White <
+
+ 
+Short bio
+
+	
+
+Frédo Durand is a professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology, and a member of the Computer Science and Artificial Intelligence Laboratory (CSAIL). He received his PhD from Grenoble University, France, in 1999, supervised by Claude Puech and George Drettakis. From 1999 till 2002, he was a post-doc in the MIT Computer Graphics Group with Julie Dorsey.
+
+He works both on synthetic image generation and computational photography, where new algorithms afford powerful image enhancement and the design of imaging system that can record richer information about a scene. His research interests span most aspects of picture generation and creation, from rendering to computational photography. He works on differentiable rendering, compilers for high-performance imaging, and video magnification He co-organized the first Symposium on Computational Photography and Video in 2005, the first International Conference on Computational Photography in 2009, and was on the advisory board of the Image and Meaning 2 conference. He received an inaugural Eurographics Young Researcher Award in 2004, an NSF CAREER award in 2005, an inaugural Microsoft Research New Faculty Fellowship in 2005, a Sloan fellowship in 2006, a Spira award for distinguished teaching in 2007, and the ACM SIGGRAPH Computer Graphics Achievement Award in 2016. He is on the scientific advisory board of Mercari, light.co, Shaper Tools.
+
+ 
+
+
+
+
+
+
+Students and collaborators
+
+ 	
+
+If you want to work with me: FAQ for prospective students and post-docs and policy, advices, rules, advising statement.
+
+Camille Biscarat, Caroline Chan, Yang Liu, Sai Praveen Bangaru, Prafull Sharma, Vincent Sitzmann
+
+Former students and external collaborators: Abe Davis, Jonathan Ragan-Kelley, Zoya Bylinskii (Gavrilov), Amy Zhao, Miika Aittala, YiChang Shih, Hijung (Valentina) Shin, Michael Gharbi, Ronnachai (Tiam) Jaroensri, Guha Balakrishnan, Emily Whiting, Hao-Yu Wu, Alec Rivers, Tilke Judd, Jaakko Lehtinen, Andrew Adams, Vladimir Bychkovsky, Jennifer Chan, Jiawen "Kevin" Chen, Forrester Cole, Anat Levin, Wojciech Matusik, Tom Annen, Thouis Ray Jones, Elmar Eisemann,Florent Duguet, Xavier Décoret, Alexis Charignon, Max Chen, Mok Oh, Yann Semet, Eric Chan, Barb Cutler, Stéphane Grabli, Matthias Zwicker, Jan Kautz, Addy Ngan, Tom Mertens, Sylvain Paris, Will Hasenplaugh, Mike Doggett, Adrien Bousseau, Taeg Sang Cho, Nicolas Bonneel, Kevin Egan, Aner Ben-Artzi, Kartic Subr, Paul Green, Sara Su, Soonmin Bae, Marco da Silva, Sam Hasinoff, Yuanming Hu, Lukas Murmann, Luke Anderson
+
+Resources for students (general resources about writing, career, being a sucessful graduate student). In particular see my draft of notes on writing, notes on giving a talk, slides about reviewing & ethics, and slides about jobs.
+
+
+ 
+
+
+
+Photos:
+
+ 	
+My main photo site	
+Some Favorites	
+Tanzania	
+Everglades	
+Galapagos	Beijing
+	
+Italy
+ 	
+Alaska	
+Botswana	
+Mandala & Dalai Lama	
+
+
+China
+
+	
+Painting with light
+	
+Rockport	
+New Orleans
+ 	
+Japan	
+Arizona	
+China 2011	
+older pics	Notes and advice:
+Galapagos
+Tanzania
+Alaska
+Botswana	Collection of links
+to travel guides
+for photographers
+Notes from an
+Art Wolfe seminar	Photograph 101
+(slides from a GSA seminar)
+
+
+Teaching:
+
+ 		
+How to Write a Bad Article
+
+Endnote I gave at the MIT Student Oxygen Workshop, stealing inspiration from a number of useful resources. See also my notes on writing.
+ 
+
+
+ 		
+6.815 Digital and Computational Photography
+6.865 Advanced Computational Photography
+
+For the keynote slides see here and here (the 2012 and 2011 offerings were different enough that you want both. And see here for older and also different powerpoints.)
+see also the 2006 offering, the 2007 version, the 2008 vintage the 2009 iteration, and ENS version, and the 2011 rerun, 2012 (switched to Python), 2013 (added Halide), 2015 (switch to C++).
+I also taught a frehsman seminar, 6.A44, on the same topic.
+Original (keynote and ppt conversion) are available for 2011 and 2012. You might want to check out both because the course changed quite a bit.
+
+ 
+
+
+ 		
+6.837 Intro to Computer Graphics
+
+Also: Fall 2010, Fall 2008, Fall 06, Fall 04, Fall 03, Fall 02
+
+
+ 		
+6.839 Advanced Computer Graphics
+
+ 		
+The Art and Science of Depiction
+
+This class explores perceptual and technical aspect of pictures, and more precisely the depiction of reality on a 2D medium. The focus is on an in-breadth multidisciplinary approach. Here are the slides of a talk I gave at the University College of London to outline the class. And here is a more recent version given at Stanford (1 slide per page or 6 slides per page)
+
+
+
+ 
+		
+
+Perceptual and Artistic Principles for Effective Computer Depiction
+SIGGRAPH 2002 Course, together with Maneesh Agrawala, Bruce Gooch, Victoria Interrante, Victor Ostromoukhov and Denis Zorin.
+ 		
+A Gentle Introduction to Bilateral Filtering and its Applications
+SIGGRAPH 2007 and 2008 Course, together with Sylvain Paris, Pierre Kornprobst, and Jack Tumblin.
+ 
+
+
+
+Code and data
+
+ 		
+
+Fast Bilateral filter code (with Sylvain Paris) Matlab version by Jiawen Chen
+
+HDR images (with Mok Oh's help)
+
+Analytical BRDF parameters for a large class of real materials (with Addy Ngan & Wojciech Matusik)
+
+Measured data for anisotropic BRDFs (with Addy Ngan & Wojciech Matusik)
+
+Software for programmable NPR line drawing (with Stephane Grabli et al.)
+
+Flash/no-flash data (with Elmar Eisemann)
+
+Applet for automultiscopic 3D display resolution analysis (with Matthias Zwicker et al.)
+
+Light field data from our automultiscopic display project (with Matthias Zwicker et al.)
+
+Hybrid shadow algorthm: shadow valume & shadow map (with Eric Chan)
+
+Real-time soft shadow with smoothies code (with Eric Chan)
+
+Feature preserving mesh smoothing code and data (with Ray Jones and Mathieu Desbrun)
+
+Dynamic Canvas code: great animated paper/canvas effectsfor NPR (with Mathieu Cunzi et al.)
+
+Textured 3D Meshes (with Tom Mertens et al.)
+
+Deconvolution code and Code Aperture input images (with Levin et al.)
+
+Fast hierarchical mean shift segmentation (with Sylvain Paris).
+
+Translation of Lippmann's 1908 paper on integral photographs (essentially plenoptic cameras).
+
+Bilateral grid on the GPU (fastest bilateral filter) with Jiawen Chen and Sylvain Paris.
+
+BTFShop (material appearance editing) with Jan Kautz and Solomon Boulos.
+
+Hair data from our Photobooth.
+
+MIT-Adobe FiveK Dataset of pairs of input/retouched photographs
+
+Efficient Marginal Likelihood Optimization in Blind Deconvolution by Anat Levin
+
+Temporal Light Field Reconstruction for Rendering Distribution Effects by Jaakko Lehtinen et al.
+
+ 
+
+
+
+Conference organization and journal
+
+ 		
+
+IEEE International Conference on Computational Photography
+
+co-chaired with Ravi Athale and Shree Nayar.
+
+
+ 	
+
+
+
+
+	
+
+IEEE CG&A special issue on Computational Photography
+
+guest editors: Richard Szeliski and Frédo Durand
+March/April 2007 (Vol. 27, No. 2)
+
+
+ 	
+	Symposium on Computational Photography and Video
+
+with Marc Levoy and Richard Szeliski
+May 2005, MIT
+Slides available on the symposium web page.
+
+
+
+
+Talks
+
+ 		Frequency Analysis in the Space-Time and Light Field Domains
+OSA COSI 2009 keynote
+ 		Computation is the new optics
+Eurographics 2009 Keynote
+ 		
+
+Computational Photography
+MIT 150 Symposium on Computation and the Transformation of Practically Everything, April 2011
+
+
+ 		Cross-fertization between Computer Vision and Computational Photography
+Workshop on the Future of Computer Vision, August 2011
+ 		Cross-fertization between Computer Vision and Computer Graphics
+Workshop on the Future of Computer Vision, August 2011
+ 		Revealing the Invisible
+Pacific Graphics keynote, September 2012
+
+Publications
+
+ 		Check Google scholar for recent publications
+ 		Data-driven hallucination of different times of day from a single outdoor photo
+Yichang Shih, Sylvain Paris, Frédo Durand, William T Freeman
+ACM Transactions on Graphics (TOG) 32(6), Siggraph Asia 2013
+ 		Joint view expansion and filtering for automultiscopic 3d displays
+Piotr Didyk, Pitchaya Sitthi-Amorn, William Freeman, Frédo Durand, Wojciech Matusik
+ACM Transactions on Graphics (TOG) 32(6), Siggraph Asia 2013
+ 		Gradient-domain metropolis light transport
+Jaakko Lehtinen, Tero Karras, Samuli Laine, Miika Aittala, Frédo Durand, Timo Aila
+ACM Transactions on Graphics (TOG), Siggraph 2013
+ 		Phase-based video motion processing
+Neal Wadhwa, Michael Rubinstein, FrÃ©do Durand, William T Freeman
+ACM Transactions on Graphics (TOG), Siggraph 2013
+ 		Axis-aligned filtering for interactive physically-based diffuse indirect lighting
+Soham Uday Mehta, Brandon Wang, Ravi Ramamoorthi, Fredo Durand
+ACM Transactions on Graphics (TOG), Siggraph 2013
+ 		Fabricating BRDFs at high spatial resolution using wave optics
+Anat Levin, Daniel Glasner, Ying Xiong, Frédo Durand, William Freeman, Wojciech Matusik, Todd Zickler
+ACM Transactions on Graphics (TOG), Siggraph 2013
+
+ 		Detecting pulse from head motions in video
+Guha Balakrishnan, Fredo Durand, John Guttag
+Computer Vision and Pattern Recognition (CVPR), 2013
+ 		Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines
+Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Fredo Durand, Saman Amarasinghe
+ACM SIGPLAN Notices, 2013
+ 		5D Covariance Tracing for Efficient Defocus and Motion Blur
+Belcour, Laurent; Soler, Cyril; Subr, Kartic; Holzschuch, Nicolas; Durand, Fredo Durand
+ACM Transactions on Graphics (TOG), 32(3), 2013
+also CSAIL Technical Reports 2012-034
+
+ 		
+
+High spatial resolution BRDFs with metallic powders using wave optics analysis
+Anat Levin, Daniel Glasner, Ying Xiong, Fredo Durand, William Freeman, Wojciech Matusik, Todd Zickler
+MIT-CSAIL-TR-2013-008
+
+
+ 		
+
+Gloss perception in painterly and cartoon rendering
+Adrien Bousseau, James P O'shea, Fredo Durand, Ravi Ramamoorthi, Maneesh Agrawala
+ACM Transactions on Graphics (TOG), vol 32, issue 2, 2013
+
+
+ 		Structural Optimization of 3D Masonry Buildings
+Emily Whiting, Hijung Shin, Robert Wang, John Ochsendorf, Fredo Durand
+SIGGRAPH Asia 2012
+ 		
+
+Coherent Intrinsic Images from Photo Collections
+Pierre-Yves Laffont, Adrien Bousseau, Sylvain Paris, Fredo Durand, George Drettakis
+SIGGRAPH Asia 2012
+
+
+ 		User-guided White Balance for Mixed Lighting Conditions
+Ivaylo Boyadzhiev, Kavita Bala, Sylvain Paris, Fredo Durand
+SIGGRAPH Asia 2012
+
+ 		Sculpting by Numbers
+Alec Rivers, Andrew Adams, Fredo Durand
+SIGGRAPH Asia 2012
+ 		A Gaussian Approximation of Feature Space for Fast Image Similarity
+Gharbi, Michael; Malisiewicz, Tomasz; Paris, Sylvain; Durand, Fredo
+CSAIL Technical Reports 2012-032
+ 		Shapecollage: occlusion-aware, example-based shape interpretation
+Forrester Cole, Phillip Isola, William T. Freeman, Fredo Durand, Edward H. Adelson
+European Conference on Computer Vision (ECCV), Oct 2012.
+ 		Patch Complexity, Finite Pixel Correlations and Optimal Denoising.
+A. Levin, B. Nadler, F. Durand, W. T. Freeman.
+European Conference on Computer Vision (ECCV), Oct 2012.
+ 		Decoupling algorithms from schedules for easy optimization of image processing pipelines
+Jonathan Ragan-Kelley Andrew Adams Sylvain Paris Marc Levoy Saman Amarasinghe Frédo Durand
+ACM Transactions on Graphics 31(4) (In Proceedings of SIGGRAPH 2012)
+ 		Eulerian Video Magnification for Revealing Subtle Changes in the World
+Hao-Yu Wu, Michael Rubinstein, Eugene Shih, John Guttag, Fredo Durand, William Freeman
+ACM Transactions on Graphics 31(4) (In Proceedings of SIGGRAPH 2012)
+
+ 		Position-Correcting Tools for 2D Digital Fabrication
+Alec Rivers, Ilan Moyer, Fredo Durand
+ACM Transactions on Graphics 31(4) (In Proceedings of SIGGRAPH 2012)
+ 		
+
+Reconstructing the Indirect Light Field for Global Illumination
+Jaakko Lehtinen, Timo Aila, Samuli Laine, Fredo Durand
+ACM Transactions on Graphics 31(4) (In Proceedings of SIGGRAPH 2012)
+
+
+
+ 		Unstructured Light Fields
+Abe Davis Marc Levoy Fredo Durand
+Eurographics 2012
+ 		
+
+Laser Speckle Photography for Surface Tampering Detection.
+YiChang Shih, Abe Davis, Samuel W. Hasinoff, Frédo Durand, and William T. Freeman,
+Proc. 25th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2012
+
+
+ 		Fast and Robust Pyramid-based Image Processing.
+Mathieu Aubry, Sylvain Paris, Samuel W. Hasinoff, Jan Kautz, and Fredo Durand.
+MIT technical report, November 2011 (MIT-CSAIL-TR-2011-049).
+ 		A Frequency Analysis of Monte-Carlo and other Numerical Integration Schemes
+Frédo Durand
+MIT CSAIL Technical report TR-2011-052.
+ 		Practical Filtering for Efficient Ray-Traced Directional Occlusion
+Kevin Egan, Frédo Durand, and Ravi Ramamoorthi
+ACM SIGGRAPH Asia 2011
+ 		Temporal Light Field Reconstruction for Rendering Distribution Effects
+Jaakko Lehtinen, Timo Aila, Jiawen Chen, Samuli Laine, and Frédo Durand
+ACM SIGGRAPH 2011
+ 		Frequency Analysis and Sheared Filtering for Shadow Light Fields of Complex Occluders
+Kevin Egan, Florian Hecht, Frédo Durand, and Ravi Ramamoorthi
+ACM Transactions on Graphics, 30(2):1-13, April 2011
+ 		Motion Denoising with Application to Time-lapse Photography
+Michael Rubinstein, Ce Liu, Peter Sand, Fredo Durand, William T. Freeman
+IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2011.
+ 		Efficient Marginal Likelihood Optimization in Blind Deconvolution.
+A. Levin, Y. Weiss, F. Durand, W. T. Freeman.
+IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2011.
+ 		Learning Photographic Global Tonal Adjustment with a Database of Input / Output Image Pairs
+V. Bychkovsky, S. Paris, E. Chan, and F. Durand
+IEEE Computer Vision and Pattern Recognition (CVPR). June 2011
+ 		Fixations on Low-Resolution Images
+Tilke Judd, Frédo Durand, Antonio Torralba
+Journal of Vision 2011
+ 		The Video Mesh: A Data Structure for Image-based Video Editing
+Jiawen Chen, Sylvain Paris, Jue Wang, Wojciech Matusik, Michael Cohen, Fredo Durand
+IEEE ICCP 2011
+see also our MIT CSAIl technical Report TR-2009-062
+ 		Decoupled Sampling for Real-Time Graphics Pipelines.
+Jonathan Ragan-Kelley, Jaakko Lehtinen, Jiawen Chen, Michael Doggett, and Frédo Durand.
+ACM Transactions on Graphics
+ 		Real-Time Volumetric Shadows using 1D Min-Max Mipmaps
+Jiawen Chen, Ilya Baran, Frédo Durand, Wojciech Jarosz
+ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (i3D 2011)
+ 		A Hierarchical Volumetric Shadow Algorithm for Single Scattering
+Ilya Baran, Jiawen Chen, Jonathan Ragan-Kelley, Frédo Durand, Jaakko Lehtinen
+ACM Transactions on Graphics (SIGGRAPH Asia 2010)
+ 		2.5D Cartoon Models
+Alec Rivers, Takeo Igarashi and Frédo Durand,
+SIGGRAPH 2010
+ 		
+
+3D Modeling with Silhouettes
+Alec Rivers, Frédo Durand, and Takeo Igarashi,
+SIGGRAPH 2010
+
+
+ 		Programmable rendering of line drawing from 3D scenes
+Stéphane Grabli, Emmanuel Turquin, Frédo Durand, François Sillion
+ACM Transaction on Graphics, Volume 29, Issue 2, Article 18 - March 2010
+ 		
+
+Computational Rephotography.
+Soonmin Bae, Aseem Agarwala, and Frédo Durand.
+ACM Transactions on Graphics, Vol. 29, No. 3, June 2010.
+
+
+ 		
+
+Motion blur removal with orthogonal parabolic exposures
+Taeg Sang Cho, Anat Levin, Frédo Durand, William T. Freeman
+ICCP 2010
+
+
+
+ 		
+
+Search-and-Replace Editing for Personal Photo Collections
+Samuel Hasinoff, Martyna Jozwiak, Frédo Durand, William Freeman
+ICCP 2010
+
+
+ 		Noise-Optimal Capture for High Dynamic Range Photography
+Samuel W. Hasinoff, Frédo Durand, and William T. Freeman
+IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2010.
+ 		
+
+Linear View Synthesis Using a Dimensionality Gap Light Field Prior.
+Anat Levin and Frédo Durand.
+IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2010.
+
+
+ 		
+Bilateral Filtering: Theory and Applications
+Sylvain Paris, Pierre Kornprobst, Jack Tumblin, and Frédo Durand
+Foundations and Trends in Computer Graphics and Vision
+
+ 		Procedural Modeling of Structurally-Sound Masonry Buildings
+Emily Whiting, John Ochsendorf and Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009), Volume 28, Number 5 - 2009
+ 		User-Assisted Intrinsic Images
+Adrien Bousseau, Sylvain Paris, Frédo Durand
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009), Volume 28, Number 5 - 2009
+ 		Edge-preserving Multiscale Image Decompostion based on Local Extrema Kartic Subr, Cyril Soler, Fredo Durand To appear,
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2009), Volume 28, Number 5 - 2009
+ 		Single Photo Estimation of Hair Appearance
+Nicolas Bonneel, Sylvain Paris, Michiel van de Panne, Frédo Durand, George Drettakis
+Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering '09)
+ 		
+
+Time-Constrained Photography
+Samuel W. Hasinoff, Kiriakos N. Kutulakos, Frédo Durand, and William T.Freeman
+ICCV 2009
+
+
+ 		Learning to predict where people look
+Tilke Judd, Krista Ehinger, Frédo Durand, Antonio Torralba
+ICCV 2009
+ 		4D Frequency Analysis of Computational Cameras for Depth of Field Extension
+Anat Levin, Samuel W. Hasinoff, Paul Green, Frédo Durand, and William T. Freeman
+ACM Transactions on Graphics, 28(3), (Proc.Siggraph), August 2009
+
+ 		
+
+Linear Bellman Combination for Control of Character Animation
+Marco da Silva, Frédo Durand, Jovan Popovic
+ACM Transactions on Graphics, 28(3), (Proc.Siggraph), August 2009
+
+
+
+ 		A Visibility Algorithm for Converting 3D Meshes into Editable 2D Vector Graphics:
+Elmar Eisemann, Sylvain Paris, Frédo Durand
+ACM Transactions on Graphics, 28(3), (Proc.Siggraph), August 2009
+ 		Frequency Analysis and Sheared Reconstruction for Rendering Motion Blur
+Kevin Egan, Yu-Ting Tseng, Nicolas Holzschuch, Frédo Durand, Ravi Ramamoorthi
+ACM Transactions on Graphics, 28(3), (Proc.Siggraph), August 2009
+ 		Understanding and evaluating blind deconvolution algorithms
+A. Levin, Y. Weiss, F. Durand, W. T. Freeman
+IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), June 2009
+
+ 		Fourier Depth of Field
+Cyril Soler, Kartic Subr, Frédo Durand, Nicolas Holzschuch, François Sillion
+ACM Transactions on Graphics - 2009
+ 		QuickSelect: History-Based Selection Expansion
+Sara L. Su Sylvain Paris Frédo Durand
+Graphics Interface 2009
+ 		A Fast Approximation of the Bilateral Filter using a Signal Processing Approach
+Sylvain Paris and Frédo Durand
+International Journal of Computer Vision (IJCV'09)
+ 		Understanding camera trade-offs through a Bayesian analysis of light field projections.
+Anat Levin, William T. Freeman, Fredo Durand.
+Proc. of the European Conference on Computer Vision (ECCV), Oct 2008.
+ 		Motion Invariant Photography
+Anat Levin, Peter Sand, Taeg Sang Cho, Frédo Durand, William T. Freeman
+ACM Transactions on Graphics, 27(3), (Proc. Siggraph), August 2008
+ 		Hair Photobooth: Geometric and Photometric Acquisition of Real Hairstyles
+Sylvain Paris, Will Chang, Wojciech Jarosz, Oleg Kozhushnyan, Wojciech Matusik, Matthias Zwicker, Frédo Durand
+ACM Transactions on Graphics, 27(3), (Proc.Siggraph), August 2008
+
+ 		A Meshless Hierarchical Representation for Light Transport
+Jaakko Lehtinen, Matthias Zwicker, Emmanuel Turquin, Janne Kontkanen, Frédo Durand, François Sillion, Timo Aila
+ACM Transactions on Graphics, 27(3), (Proc.Siggraph), August 2008
+ 		Light Mixture Estimation for Spatially Varying White Balance
+Eugene Hsu, Tom Mertens, Sylvain Paris, Shai Avidan, Frédo Durand.
+ACM Transactions on Graphics, 27(3), (Proc.Siggraph), August 2008
+ 		Anisotropic Noise
+Alexander Goldberg, Matthias Zwicker and Frédo Durand
+ACM Transactions on Graphics, 27(3), (Proc.Siggraph), August 2008
+ 		Precomputed Polynomial Representation for Interactive BRDF Editing with Global Illumination.
+Aner Ben-Artzi, Kevin Egan, Fredo Durand, Ravi Ramamoorthi
+ACM Transactions on Graphics Vol 27(2), April 2008.
+ 	
+	Apparent Ridges for Line Drawing
+Tilke Judd, Frédo Durand, Edward H. Adelson
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	Real-time Edge-Aware Image Processing with the Bilateral Grid
+Jiawen Chen, Sylvain Paris, Frédo Durand
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	Multi-aperture Photography
+Paul Green, Wenyang Sun, Wojciech Matusik, Frédo Durand.
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	The Lightspeed Automatic Interactive Lighting Preview System
+Jonathan Ragan-Kelley, Charlie Kilpatrick, Brian Smith, Doug Epps, Paul Green, Christophe Hery and Frédo Durand
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	Implicit Visibility and Antiradiance for Interactive Global Illumination
+Carsten Dachsbacher, Marc Stamminger, George Drettakis, Frédo Durand
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	Image and Depth from a Conventional Camera with a Coded Aperture
+Anat Levin, Rob Fergus, Frédo Durand, William Freeman
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 	
+	Interactive Editing and Modeling of Bidirectional Texture Functions
+Jan Kautz, Solomon Boulos, Frédo Durand
+ACM Transactions on Graphics, 26(3), (Proc.Siggraph), July 2007
+ 		Signal Processing for Multi-View 3D Displays: Resampling, Antialiasing and Compression
+M. Zwicker, A. Vetro, S. Yea, W. Matusik, H. Pfister, F. Durand
+IEEE Signal Processing Magazine, November 2007
+ 	
+	A Topological Approach to Hierarchical Segmentation using Mean Shift
+Sylvain Paris and Frédo Durand
+Proceedings of the IEEE conference on Computer Vision and Pattern Recognition (CVPR'07)
+ 	
+	
+
+Efficient Reflectance and Visibility Approximations for Environment Map Rendering
+Paul Green, Jan Kautz, and Frédo Durand
+Proceedings of Eurographics 2007
+
+
+ 	
+	Defocus Magnification
+Soonmin Bae and Frédo Durand
+Proceedings of Eurographics 2007
+ 	
+	
+
+Two-scale Tone Management for Photographic Look.
+Soonmin Bae, Sylvain Paris, and Frédo Durand.
+ACM Transactions on Graphics (Proceedings of ACM SIGGRAPH'06)
+
+
+ 	
+	
+
+Texture Transfer Using Geometry Correlation
+Tom Mertens, Jan Kautz, Jiawen Chen, Philippe Bekaert and Frédo Durand
+Proceedings of Eurographics Symposium on Rendering, 2006.
+
+
+ 	
+	
+
+Statistical Acquisition of Texture Appearance
+Addy Ngan and Frédo Durand.
+Proceedings of Eurographics Symposium on Rendering, 2006.
+
+
+ 	
+	
+
+Image-driven Navigation of Analytical BRDF Models
+Addy Ngan, Frédo Durand, Wojciech Matusik.
+Proceedings of Eurographics Symposium on Rendering, 2006.
+
+
+ 	
+	
+
+Antialiasing for Automultiscopic Displays
+M. Zwicker, W. Matusik, F. Durand, H. Pfister
+Proceedings of Eurographics Symposium on Rendering, 2006.
+
+
+ 	
+	
+
+View-Dependent Precomputed Light Transport Using Nonlinear Gaussian Function Approximations.
+Paul Green, Jan Kautz, Wojciech Matusik, Fredo Durand
+Symposium on Interactive 3D graphics and games, 2006
+
+
+ 	
+	A Fast Approximation of the Bilateral Filter using a Signal Processing Approach
+Sylvain Paris and Frédo Durand
+European Conference on Computer Vision (ECCV'06)
+(Code provided!!) NEW: check out the extended Technical report
+ 	
+	
+
+A Frequency analysis of Light Transport
+Frédo Durand, Nicolas Holzschuch, Cyril Soler, Eric Chan & François Sillion
+SIGGRAPH 2005
+
+
+ 	
+	Texture Design Using a Simplicial Complex of Morphable Textures
+Wojciech Matusik, Matthias Zwicker and Frédo Durand
+SIGGRAPH 2005
+ 	
+	Motion Magnification
+Ce Liu, Antonio Torralba, William T. Freeman, Frédo Durand and Edward H. Adelson
+SIGGRAPH 2005
+NEW: Motion magnification enables the discovery of a new hearing mechnism.
+ 	
+	
+
+
+Defocus Video Matting
+Morgan McGuire, Wojciech Matusik, Hanspeter Pfister, John F. Hughes, and Frédo Durand
+SIGGRAPH 2005
+
+
+ 	
+	De-Emphasis of Distracting Image Regions Using Texture Power Maps
+Sara L. Su, Frédo Durand, and Maneesh Agrawala
+Proc. of Texture 2005, Beijing, China, October 2005.
+ 	
+	A Reconfigurable Architecture for Load-Balanced Rendering
+Jiawen Chen, Michael I. Gordon, William Thies, Matthias Zwicker, Kari Pulli and Frédo Durand
+SIGGRAPH/Eurographics Graphics Hardware 2005
+ 	
+	Experimental Analysis of BRDF Models
+Addy Ngan, Frédo Durand and Wojciech Matusik
+Proceedings of the Eurographics Symposium on Rendering 2005
+ 	
+	
+
+Defining Pictorial Style: Lessons from Linguistics and Computer Graphics
+John Willats and Frédo Durand
+Axiomathes, Volume 15, Number 2, 2005
+
+
+ 	
+	Flash Photography Enhancement Via Intrinsic Relighting
+Elmar Eisemann and Frédo Durand
+SIGGRAPH 2004
+ 	
+	Experimental Validation of Analytical BRDF Models.
+Addy Ngan, Frédo Durand, Wojciech Matusik.
+Technical Sketch, SIGGRAPH 2004, Los Angeles, California, August 2004.
+ 	
+	Density Measure for Line-Drawing Simplification
+Stéphane Grabli, Frédo Durand, François Sillion
+Proceedings of Pacific Graphics - 2004
+ 	
+	
+
+Programmable Style for NPR Line Drawing
+Stéphane Grabli, Emmanuel Turquin, Frédo Durand, François Sillion
+Eurographics Symposium on Rendering 2004
+(The software is available online)
+
+
+ 	
+	An Efficient Hybrid Shadow Rendering Algorithm
+Eric Chan and Frédo Durand
+Eurographics Symposium on Rendering 2004
+ 	
+	Normal Improvement for Point Rendering
+Thouis Jones, Frédo Durand, Matthias Zwicker
+IEEE Computer Graphics & Applications, July/August 2004, pages 53-56.
+ 	
+	
+
+An Interactive Artificial Ant Approach to Non-Photorealistic Rendering
+Yann Semet, Una-May O'Reilly, Frédo Durand
+GECCO'04: Genetic and Evolutionary COmputation Conference
+also in Lecture Notes in Computer Science, Volume 3102, Jan 2004, Pages 188 - 200
+
+
+ 	
+	Spherical Harmonic Gradients for Mid-Range Illumination
+T. Annen, J. Kautz, F. Durand, H.-P. Seidel
+Eurographics Symposium on Rendering, 2004
+ 	
+	Rendering Fake Soft Shadows with Smoothies
+Eric Chan and Frédo Durand
+Eurographics Symposium on Rendering 2003
+ 	
+	Non-Iterative, Feature-Preserving Mesh Smoothing
+Thouis R. Jones, Frédo Durand, Mathieu Desbrun
+SIGGRAPH 2003
+ 	
+	Billboard Clouds for Extreme Model Simplification
+Xavier Décoret, Frédo Durand, François Sillion, Julie Dorsey
+SIGGRAPH 2003
+ 	
+	Dynamic Canvas for Non-Photorealistic Walkthroughs
+Matthieu Cunzi, Joëlle Thollot, Sylvain Paris, Gilles Debunne, Jean-Dominique Gascuel, Frédo Durand
+Graphics Interface 2003
+ 	
+	Fast Bilateral Filtering for the Display of High-Dynamic-Range Images
+Frédo Durand and Julie Dorsey
+SIGGRAPH 2002
+ 	
+	An Invitation to Discuss Computer Depiction
+Frédo Durand
+ACM/Eurographics Symp. NPAR'02.
+ 	
+	The 3D Visibility Complex
+Frédo Durand, George Drettakis and Claude Puech.
+ACM Transactions on Graphics, 21(2), April 2002.
+ 	
+	A Survey of Visibility for Walkthrough Applications
+Daniel Cohen-Or, Yiorgos Chrysanthou, Cláudio T. Silva and Frédo Durand
+IEEE TVCG, accepted for publication.
+ 	
+	Decoupling Strokes and High-Level Attributes for Interactive Traditional Drawing
+Frédo Durand, Victor Ostromoukhov, Mathieu Miller, François Duranleau, and Julie Dorsey
+in the Proceedings of the 12th Eurographics Workshop on Rendering, June 2001.
+ 	
+	Image-Based Modeling and Photo Editing
+Byong Mok Oh, Max Chen, Julie Dorsey and Frédo Durand
+in the Proceedings of Siggraph'2001.
+ 	
+	A Physically-Based Nightsky Model
+Henrik Wann Jensen, Frédo Durand, Michael Stark, Simon Premoze, Julie Dorsey and Peter Shirley
+in the Proceedings of Siggraph'2001.
+ 	
+	The Art and Science of Depiction
+Frédo Durand
+Unpublished manuscript, 2000.
+French version
+ 	
+	Some Thoughts on Visibility
+Frédo Durand.
+Introductory talk, Workshop on Visibility, Bonifacio, France, September 2000.
+ 	
+	A multidisciplinary survey of visibility
+Frédo Durand.
+in ACM Siggraph course notes Visibility, Problems, Techniques, and Applications, July 2000.
+ 	
+	Interactive Tone Mapping
+Frédo Durand and Julie Dorsey.
+Eurographics Workshop on Rendering 2000
+ 	
+	Conservative Visibility Preprocessing using Extended Projections.
+Frédo Durand, George Drettakis, Joëlle Thollot and Claude Puech.
+in the Proceedings of Siggraph'2000
+ 	
+	3D Visibility: Analytical study and Applications
+Frédo Durand
+PhD thesis, Université Joseph Fourier, Grenoble, France, July 1999.
+ 	
+	Fast and Accurate Hierarchical Radiosity Using Global Visibility
+Frédo Durand, George Drettakis and Claude Puech.
+ACM Transactions on Graphics, April 99. (preliminary version available as INRIA tech report 3446.)
+ 	
+	Visibility Driven Hierarchical Radiosity
+Frédo Durand, George Drettakis and Claude Puech.
+Siggraph'98 technical sketch
+ 	
+	The Visibility Skeleton:
+A Powerful and Efficient Multi-Purpose Global Visibility Tool.
+Frédo Durand, George Drettakis and Claude Puech.
+in the Proceedings of Siggraph'97
+ 	
+	The 3D Visibility Complex: a unified data-structure for global visibility of scenes of polygons and smooth objects
+Frédo Durand, George Drettakis and Claude Puech.
+9th Canadian Conference on Computational Geometry, August 97.
+ 	
+	3D Visibility made Visibly Simple
+Frédo Durand, George Drettakis and Claude Puech.
+Video of the 13th Annual ACM Symposium on Computational Geometry, Nice (France), June 1997.
+ 	
+	The 3D Visibility Complex, a new approach to the problems of accurate visibility.
+Frédo Durand, George Drettakis and Claude Puech.
+7th Eurographics Workshop on Rendering, Porto, June 1996
+ 	
+	Radiosity in Flatland made Visibly Simple.
+Frédo Durand, Rachel Orti, Stéphane Rivière and Claude Puech.
+Video of the 12th Annual ACM Symposium on Computational Geometry, Philadelphia, May 1996.
+avi version (189 MB)
+ 	
+	Radiosity for dynamic scenes in flatland with the visibility complex.
+Rachel Orti, Stéphane Rivière, Frédo Durand and Claude Puech.
+In Proc. Eurographics, Poitier, August 1996.
+ 	
+	Using the visibility complex for radiosity computation.
+Rachel Orti, Frédo Durand, Stéphane Rivière and Claude Puech.
+In Proc. ACM Workshop on Applied Computational Geometry, Philadelphia, May 1996.
+       	
+	
+
+The visibility complex made visibly simple.
+Frédo Durand and Claude Puech.
+Video of the 11th Annual ACM Symposium on Computational Geometry, Vancouver, June 1995.
+avi version (158 MB)
+
+
+ 	
+	When I was young I played with: ray-tracing taking relativity into account, a multimedia CD database, recursive quadtrees and fractal compression
+ 
+
+
+ 
+
+
+
+Job application material and career proposal
+
+	English version CV    Research statement   Teaching statement
+
+En français CV    Projet de recherche   Projet d'enseignement
+
+NSF CAREER proposal
+
+
+ 
+
+
+
+Links
+
+ 	My Computer Graphics links: Researchers, labs, publications, images, companies, code, models, etc.
+
+
+
+Personal page
+
+
+Accesibility
+
+ 	
+

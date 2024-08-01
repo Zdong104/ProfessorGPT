@@ -1,0 +1,489 @@
+Professor: Aaron Roth 0001
+University: University of Pennsylvania
+URL: http://www.cis.upenn.edu/~aaroth
+Description: Aaron Roth
+
+
+About Me
+
+I am the Henry Salvatori Professor of Computer and Cognitive Science at the University of Pennsylvania computer science department. I also hold a secondary appointment at the Department of Statistics and Data Science at the Wharton School, and I am associated with the theory group, PRiML (Penn Research in Machine Learning) the Warren Center for Network and Data Sciences, and am co-director of our program in Networked and Social Systems Engineering. I am also affiliated with the AMCS program (Applied Mathematics and Computational Science). I spent a year as a postdoc at Microsoft Research New England. Before that, I received my PhD from Carnegie Mellon University, where I was fortunate to have been advised by Avrim Blum. My main interests are in algorithms and machine learning, and specifically in the areas of private data analysis, fairness in machine learning, game theory and mechanism design, and learning theory. I am the recipient of the Hans Sigrist Prize, a Presidential Early Career Award for Scientists and Engineers (PECASE), an Alfred P. Sloan Research Fellowship, an NSF CAREER award, a Google Faculty Research Award, an Amazon Research Award, and a Yahoo Academic Career Enhancement award. I am also an Amazon Scholar at Amazon Web Services (AWS). Previously, I was involved in advisory and consulting work related to differential privacy, algorithmic fairness, and machine learning, including with Apple and Facebook. I was also a scientific advisor for Leapyear and Spectrum Labs.
+For more information, see my CV, Research Statement, and those of my talks that appear on YouTube.
+
+Contact Information
+
+Office: 3401 Walnut Street, room 406b
+Phone: 215-746-6171
+Email: aaroth@cis.upenn.edu
+
+
+
+Michael Kearns and I have written a general-audience book about the science of designing algorithms that embed social values like privacy and fairness. You can read a review in Nature and an excerpt from the introduction in Penn Today. We've given a number of recorded talks about the book, including one on CSPAN's BookTV. We wrote a related policy brief for the Brookings Institution. Here is the publisher's description:
+
+Over the course of a generation, algorithms have gone from mathematical abstractions to powerful mediators of daily life. Algorithms have made our lives more efficient, more entertaining, and, sometimes, better informed. At the same time, complex algorithms are increasingly violating the basic rights of individual citizens. Allegedly anonymized datasets routinely leak our most sensitive personal information; statistical models for everything from mortgages to college admissions reflect racial and gender bias. Meanwhile, users manipulate algorithms to "game" search engines, spam filters, online reviewing services, and navigation apps.
+
+Understanding and improving the science behind the algorithms that run our lives is rapidly becoming one of the most pressing issues of this century. Traditional fixes, such as laws, regulations and watchdog groups, have proven woefully inadequate. Reporting from the cutting edge of scientific research, The Ethical Algorithm offers a new approach: a set of principled solutions based on the emerging and exciting science of socially aware algorithm design. Michael Kearns and Aaron Roth explain how we can better embed human principles into machine code - without halting the advance of data-driven scientific exploration. Weaving together innovative research with stories of citizens, scientists, and activists on the front lines, The Ethical Algorithm offers a compelling vision for a future, one in which we can better protect humans from the unintended impacts of algorithms while continuing to inspire wondrous advances in technology.
+
+Teaching
+In Spring 2024 I'm teaching NETS 4120 -- Algorithmic Game Theory . Previous courses:
+Fall 2023: CIS 6200 --- Learning in Games (and Games in Learning).
+Fall 2022: CIS 7000 --- Uncertain: Modern Topics in Uncertainty Estimation.
+Fall 2021: CIS 320 -- Introduction to Algorithms
+Fall 2017: CIS 700 -- The Algorithmic Foundations of Adaptive Data Analysis.
+Spring 2023, Spring 2022, Spring 2021, Spring 2020, Fall 2018, Spring 2017, Spring 2015, Fall 2013, Spring 2012: NETS 4120 -- Algorithmic Game Theory.
+Spring 2019, Fall 2016, 2014, 2012: CIS 262 -- Automata, Computability, and Complexity.
+Spring 2014: CIS 700 -- a seminar on the applications of Differential Privacy to Game Theory and Mechanism Design
+Spring 2013: CIS 700 -- No Regrets in Game Theory and Learning
+Spring 2013: MKSE 150 -- Market and Social Systems on the Internet
+Fall 2011: CIS 800 -- The Algorithmic Foundations of Data Privacy
+
+I'm fortunate to be able to work with several excellent graduate students and postdocs.
+Current:
+Yahav Bechavod (Postdoc)
+Jessica Sorrel (Postdoc)
+Varun Gupta (co-advised by Michael Kearns)
+Georgy Noarov (co-advised by Michael Kearns)
+Ira Globus-Harris (co-advised by Michael Kearns)
+Natalie Collina (co-advised by Michael Kearns)
+Ramya Ramalingam (co-advised by Osbert Bastani)
+Mirah Shi (co-advised by Michael Kearns)
+Sikata Sengupta (co-advised by Michael Kearns and Duncan Watts)
+Alumni:
+Rabanus Derr. (Visiting PhD Student). PhD student at Tubingen
+Stephan Xie (BSE Student). PhD Student at CMU.
+Han Shao (Visiting PhD Student). PhD Student at TTIC.
+Emily Diana (PhD Student). Carnegie Mellon Operations Research.
+Daniel Z. Lee (BA/MS student). MIT PhD.
+Saeed Sharifi-Malvajerdi (PhD student). Research Assistant Professor, TTIC
+Christopher Jung (PhD student). Postdoc at Stanford (Host: Omer Reingold).
+Travis Dick (Warren Center Postdoctoral Fellow). Research Scientist, Google AI.
+Juba Ziani (Warren Center Postdoctoral Fellow). Georgia Tech ISYE
+Zachary Schutzman (PhD student). Postdoc at MIT IDSS
+Matthew Joseph (PhD student). Research Scientist, Google AI. (Morris and Dorothy Rubinoff Award for Best Thesis)
+Seth Neel (PhD student co-advised by Michael Kearns). Harvard Business School.
+Jinshuo Dong (PhD student). Postdoc at Northwestern University/TTIC.
+Jieming Mao (Warren Center Postdoctoral Fellow). Research Scientist, Google AI.
+William Brown (BS/MS student). Columbia PhD.
+Bo Waggoner (Warren Center Postdoctoral Fellow). University of Colorado Boulder CS
+Jamie Morgenstern (Warren Center Postdoctoral Fellow). University of Washington CS
+Justin Hsu (PhD student co-advised with Benjamin Pierce). Cornell CS (John C. Reynolds Doctoral Dissertation Award)
+Steven Wu (PhD student co-advised with Michael Kearns). Carnegie Mellon University SCS (Morris and Dorothy Rubinoff Award for Best Thesis)
+Ryan Rogers (PhD student co-advised with Michael Kearns). LinkedIn
+Zhiyi Huang (PhD student co-advised with Sampath Kannan). University of Hong Kong. (Morris and Dorothy Rubinoff Award for Best Thesis)
+Kris Iyer (Postdoc, jointly hosted with Michael Kearns and Mallesh Pai). University of Minnesota ISE.
+Yang Jiao (BS/MS student). CMU PhD
+Rachel Cummings (Visiting PhD student) Columbia IEOR
+
+Books and Notes
+
+Learning in Games and Games in Learning. (DRAFT -- WORK IN PROGRESS).
+Uncertain: Modern Topics in Uncertainty Estimation. (DRAFT -- WORK IN PROGRESS).
+The Ethical Algorithm. Joint with Michael Kearns. Oxford University Press. November 2019.
+The Algorithmic Foundations of Differential Privacy. Joint with Cynthia Dwork. Foundations and Trends in Theoretical Computer Science, NOW Publishers. 2014.
+
+Recent and Selected Publications
+ (See here for all publications, or my Google Scholar profile)
+Click for abstract/informal discussion of results
+
+Oracle-Efficient Reinforcement Learning for Max Value Ensembles. Joint work with Marcel Hussing, Michael Kearns, Sikata Sengupta, and Jessica Sorrell. Manuscript.
+Model Ensembling for Constrained Optimization. Joint work with Ira Globus-Harris, Varun Gupta, and Michael Kearns. Manuscript.
+An Elementary Predictor Obtaining 2√T Distance to Calibration. Joint work with Eshwar Ram Arunachaleswaran, Natalie Collina, and Mirah Shi. Manuscript.
+High-Dimensional Prediction for Sequential Decision Making. Joint work with Georgy Noarov, Ramya Ramalingam, and Stephan Xie. Manuscript.
+Repeated Contracting with Multiple Non-Myopic Agents: Policy Regret and Limited Liability. Joint work with Natalie Collina and Varun Gupta. In the Proceedings of EC 2024.
+Forecasting for Swap Regret for All Downstream Agents. Joint work with Mirah Shi. In the Proceedings of EC 2024.
+Efficient Prior-Free Mechanisms for No-Regret Agents. Joint work with Natalie Collina and Han Shao. In the Proceedings of EC 2024.
+Multicalibration for Confidence Scoring in LLMs. Joint work with Gianluca Detommaso, Martin Bertran, and Riccardo Fogliato. In the Proceedings of ICML 2024.
+Membership Inference Attacks on Diffusion Models via Quantile Regression. Joint work with Shuai Tang, Steven Wu, Sergul Aydore, and Michael Kearns. In the Proceedings of ICML 2024.
+Oracle Efficient Online Multicalibration and Omniprediction. Joint work with Sumegha Garg, Christopher Jung, and Omer Reingold. In the Proceedings of SODA 2024.
+Scalable Membership Inference Attacks via Quantile Regression. Joint work with Martin Bertran, Shuai Tang, Michael Kearns, Jamie Morgenstern, and Steven Wu. In the Proceedings of NeurIPS 2023.
+The Scope of Multicalibration: Characterizing Multicalibration via Property Elicitation. Joint work with Georgy Noarov. In the Proceedings of ICML 2023.
+Multicalibration as Boosting for Regression. Joint work with Ira Globus-Harris, Declan Harrison, Michael Kearns, and Jessica Sorrell. In the Proceedings of ICML 2023. (Also presented at FORC 2023). Selected as an oral presentation
+Reconciling Individual Probability Forecasts. Joint work with Alexander Tolbert and Scott Weinstein. In the Proceedings of FAccT 2023.
+Confidence-Ranked Reconstruction of Census Microdata from Published Statistics. Joint work with Travis Dick, Cynthia Dwork, Michael Kearns, Terrance Liu, Giuseppe Vietri, and Steven Wu. Proceedings of the National Academy of Sciences (PNAS), 2023.
+Batch Multivalid Conformal Prediction. Joint work with Christopher Jung, Georgy Noarov, and Ramya Ramalingam. In the Proceedings of ICLR 2023.
+Practical Adversarial Multivalid Conformal Prediction. Joint work with Osbert Bastani, Varun Gupta, Christopher Jung, Georgy Noarov, and Ramya Ramalingam. In the Proceedings of NeurIPS 2022. Selected as an oral presenation
+Online Multiobjective Minimax Optimization: Calibeating and Other Applications. Joint work with Daniel Z. Lee, Georgy Noarov and Mallesh Pai. In the Proceedings of NeurIPS 2022. Selected as an oral presentation
+An Algorithmic Framework for Bias Bounties. Joint work with Ira Globus-Harris and Michael Kearns. In the Proceedings of FAccT 2022.
+Online Multivalid Learning: Means, Moments, and Prediction Intervals. Joint work with Varun Gupta, Christopher Jung, Georgy Noarov, and Mallesh Pai. In the Proceedings of ITCS 2022.
+Adaptive Machine Unlearning. Joint work with Varun Gupta, Christopher Jung, Seth Neel, Saeed Sharifi-Malvajerdi, and Chris Waites. In the Proceedings of NeurIPS 2021.
+Moment Multicalibration for Uncertainty Estimation. Joint work with Christopher Jung, Changhwa Lee, Mallesh Pai, and Rakesh Vohra. In the Proceedings of COLT 2021.
+Gaussian Differential Privacy. Joint work with Jinshuo Dong and Weijie Su. In the Journal of the Royal Statistical Society, Series B. 2020.
+A New Analysis of Differential Privacy's Generalization Guarantees. Joint work with Christopher Jung, Katrina Ligett, Seth Neel, Saeed Sharifi-Malvajerdi, and Moshe Shenfeld. In the Proceedings of ITCS 2020.
+Exponential Separations in Local Differential Privacy Through Communication Complexity. Joint work with Matthew Joseph and Jieming Mao. In the Proceedings of SODA 2020.
+Invited to ACM Transactions on Algorithms Special Issue.
+The Role of Interactivity in Local Differential Privacy. Joint work with Matthew Joseph, Jieming Mao, and Seth Neel. In the Proceedings of FOCS 2019.
+How to Use Heuristics for Differential Privacy. Joint with Seth Neel and Steven Wu. In the Proceedings of FOCS 2019.
+Online Learning with an Unknown Fairness Metric. Joint with Stephen Gillen, Christopher Jung, and Michael Kearns. In the proceedings of NeurIPS 2018.
+A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem. Joint with Sampath Kannan, Jamie Morgenstern, Bo Waggoner, and Steven Wu. In the proceedings of NeurIPS 2018.
+Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness. Joint with Michael Kearns, Seth Neel, and Steven Wu. In the proceedings of ICML 2018.
+Fairness in Learning: Classic and Contextual Bandits. Joint with Matthew Joseph, Jamie Morgenstern, and Michael Kearns. In the proceedings of NIPS 2016.
+Robust Mediators in Large Games. Joint with Michael Kearns, Mallesh Pai, Ryan Rogers, and Jon Ullman. Manuscript. (This paper subsumes both "Mechanism Design in Large Games: Incentives and Privacy" which appeared in ITCS 2014, and "Asymptotically Truthful Equilibrium Selection" which appeared in EC 2014).
+Max-Information, Differential Privacy, and Post-Selection Hypothesis Testing. Joint with Ryan Rogers, Adam Smith, and Om Thakkar. In the proceedings of FOCS 2016.
+Do Prices Coordinate Markets?. Joint work with Justin Hsu, Jamie Morgenstern, Ryan Rogers, and Rakesh Vohra. In the proceedings of STOC 2016.
+Watch and Learn: Optimizing from Revealed Preferences Feedback. Joint with Jon Ullman and Steven Wu. In the proceedings of STOC 2016.
+Jointly Private Convex Programming. Joint work with Justin Hsu, Zhiyi Huang, and Steven Wu. In the proceedings of SODA 2016.
+The Reusable Holdout: Preserving Validity in Adaptive Data Analysis. Joint work with Cynthia Dwork, Vitaly Feldman, Moritz Hardt, Toniann Pitassi, and Omer Reingold. In Science, August 7 2015.
+Preserving Statistical Validity in Adaptive Data Analysis. Joint work with Cynthia Dwork, Vitaly Feldman, Moritz Hardt, Toniann Pitassi, and Omer Reingold. In the proceedings of STOC 2015.
+Approximately Stable, School Optimal, and Student-Truthful Many-to-One Matchings (via Differential Privacy). Joint with Sampath Kannan, Jamie Morgenstern, and Steven Wu. In the proceedings of SODA 2015.
+Private Matchings and Allocations. Joint work with Justin Hsu, Zhiyi Huang, Tim Roughgarden, and Steven Wu. In the proceedings of STOC 2014.
+Differential Privacy for the Analyst via Private Equilibrium Computation. Joint with Justin Hsu and Jon Ullman. In the proceedings of STOC 2013.
+Privately Releasing Conjunctions and the Statistical Query Barrier. Joint with Anupam Gupta, Moritz Hardt, and Jonathan Ullman. In the proceedings of STOC 2011.
+Full version appears in SIAM Journal on Computing (SICOMP) 2013.
+Selling Privacy at Auction. Joint work with Arpita Ghosh. In the proceedings of EC 2011.
+Invited to a special issue of Games and Economic Behavior (GEB) 2013.
+Interactive Privacy via the Median Mechanism. Joint with Tim Roughgarden. In the proceedings of STOC 2010.
+A Learning Theory Approach to Non-Interactive Database Privacy. Joint with Avrim Blum and Katrina Ligett. In the proceedings of STOC 2008: The 40th ACM Symposium on the Theory of Computing.
+Full version appears in Journal of the ACM (JACM) 2013.
+Regret Minimization and the Price of Total Anarchy. Joint with Avrim Blum, MohammadTaghi Hajiaghayi, and Katrina Ligett. In the proceedings of STOC 2008: The 40th ACM Symposium on the Theory of Computing.
+Professional Activities
+
+Workshops, Tutorials, Interviews, and Panels:
+NeurIPS 2023 Machine Unlearning Challenge Panel. December 15, 2023.
+The Second Annual SIGecom Winter Meeting (Algorithmic Fairness and Economics). Virtual. February 23, 2022. (Co-organizer: Mallesh Pai)
+IMA Workshop: Recent Themes in Resource Tradeoffs: Privacy, Fairness, and Robustness, Minneapolis, MN. June 18-21, 2019. (Co-organizers: Rina Foygel Barger, Gilad Lerman, and Nati Srebro)
+Amazon re:MARS Panel: "AI For Everyone: Promoting Fairness in Ethical AI.", Las Vegas, NV. June 7, 2019.
+Simons Institute Workshop: "Beyond Differential Privacy", Berkeley, CA. May 6-10, 2019. (Co-organizers: Katrina Ligett, Kobbi Nissim, and Omer Reingold)
+An Abridged Introduction to Differential Privacy February 17, 2019. The Annual Meeting of the American Association for the Advancement of Science (AAAS) (Tutorial)
+Philadelphia Symposium on Research Credibility, Panel on Data Interpretation and Credibility.
+Simons Institute Adaptive Data Analysis Workshop, Berkeley, CA. July 24-25, 2018. (Co-organizers Cynthia Dwork, Adam Smith, Weijie Su, James Zou). Tutorial Videos: Part 1 (Aaron), Part 2 (Adam)
+6 hour mini-course on (un)fairness in machine learning, as part of the University of Zurich Machine Learning Summer School. June 29, 2018. Slides here.
+Northwestern Quarterly Theory Workshop: Algorithmic Fairness. June 8, 2018. (Co-organizer: Jason Hartline)
+In Conversation with the Rosenbach: Flash Focus on Privacy and the Internet. May 17, 2018.
+Differential Privacy Interview with ``This Week in Machine Learning'' (TWIML). (Click for audio). April 30, 2018.
+Penn Teach In Panel: "The Future of Technology: Artificial Intelligence and Society". Video here. Philadelphia, March 20 2018.
+CCC Workshop on Fair Representations and Fair Interactive Learning. Philadelphia, March 18-19 2018. (Co-organizer Alexandra Chouldechova)
+Fairness for Digital infrastructure. University of Pennsylvania, January 19-20, 2017.
+Tutorial on Machine Learning and Unfairness (Part of the Optimizing Government series). September 22, 2016. (video.)
+NIPS 2016 Workshop on Adaptive Data Analysis, held in conjunction with NIPS 2016. (Co-organizers: Adam Smith, Vitaly Feldman, Aaditya Ramdas)
+Invited ICML 2016 Tutorial: Rigorous Data Dredging: Theory and Tools for Adaptive Data Analysis. June 19, 2016. (Slides (Powerpoint) and video.)
+Nexus of Information and Computation: Security and Privacy March 21-April 1 2016. (Co-organizers: Prakash Narayan, Anand Sarwate,Vinod Vaikuntanathan, Salil Vadhan).
+NIPS 2015 Workshop on Adaptive Data Analysis, held in conjunction with NIPS 2015. (Co-organizers: Adam Smith, Vitaly Feldman, Moritz Hardt)
+The First Workshop on Algorithmic Game Theory and Data Science, held in conjunction with EC, June 15, 2015. (Co-organizers: Shuchi Chawla, Hu Fu, Jason Hartline, Denis Nekipelov, Kane Sweeney)
+An Introduction to Differential Privacy February 14, 2015. The Annual Meeting of the American Association for the Advancement of Science (AAAS) (Tutorial)
+Tutorial on Privacy, Information Economics, and Mechanism Design, held in conjunction with EC, June 9, 2014. (Co-tutors: Cynthia Dwork and Mallesh Pai)
+Workshop on Privacy and Economics, held in Conjunction with EC June 16, 2013. (Organized together with Katrina Ligett)
+Differential Privacy and Economics and the Social Sciences March 7, 2013. Open to the public! (Tutorial)
+DIMACS Workshop on Recent Work on Differential Privacy across Computer Science Oct. 24-26, 2012. (Organized together with Adam Smith)
+New York Computer Science and Economics Day V: The Economics of Big Data, Information, and Privacy. (Organized together with Dirk Bergemann, Sham Kakade, and Nitish Korula)
+Program Committee Member For:
+COLT 2024: The 37th Annual Conference on Learning Theory, 2024. (PC Co-Chair)
+Symposium on the Foundations of Responsible Computing (FORC), 2020. (PC Chair)
+ACM Symposium on Computer Science and Law, 2019.
+STOC 2019
+AAAI 2019 (Senior Program Committee)
+NeuriPS 2018 (Area Chair), 2021 (Area Chair)
+ICML 2018 (Area Chair)
+FATML 2017, FAT* 2018 (Theory and Security Track Chair), FAT* 2019 (Theory and Security Track Chair).
+WWW 2018 ``Economics and Markets'' (Track Chair)
+NIPS Symposium on Machine Learning and the Law 2016
+COLT 2016, COLT 2017
+ITCS 2016
+Random 2015
+NetEcon 2015 (PC chair)
+TPDP 2015 (Organizing Committee), TPDP 2016, TPDP 2023
+WINE 2013, WINE 2014
+PODS 2013
+SODA 2013, SODA 2021
+GameSec 2012
+FOCS 2012, FOCS 2014
+EC 2011, 2012, 2013, 2014, 2015, 2016 (SPC), 2017, 2018, 2019 (SPC), 2021 (SPC), 2022 (Theory Track Chair)
+
+Presentations
+(Slides Available Upon Request)
+High Dimensional Calibration for Rational Decision Making
+Simons Laufer Mathematical Sciences Institute Workshop on the Mathematics and Computer Science of Market and Mechanism Design. September, 2023. Video here.
+Penn CIS Theory Seminar. September, 2023.
+Simons Institute Workshop on Online and Matching Based Market Design. October, 2023. Video here.
+The 2023 Hans Sigrist Symposium ("Data Science: The Power of the Human Mind for the Sake of Humankind"). December, 2023.
+NSF/Amazon Fairness in AI PI Meeting (Invited Keynote). January, 2024.
+Simons Foundation Collaboration on the Theory of Algorithmic Fairness Annual Meeting. February, 2024. Video here.
+Penn ASSET Seminar. April, 2024.
+Penn State Economics Theory Seminar. April, 2024.
+EC 2024 Workshop on Information Elicitation. July, 2024.
+Iteratively Updating Models for Accuracy (An Algorithmic Framework for Bias Bounties)
+Updatable Machine Learning (ICML Workshop Invited Talk). July 2022. Video here.
+Individual Probabilities, The Reference Class Problem, Model Multiplicity, and Reconciling Beliefs
+Penn CIS Theory Seminar. September 2022.
+Amazon AWS Responsible AI Seminar. September 2022.
+Who Counts? Sex and Gender Bias in Data (IPAM workshop). July 2022. Video here.
+Robust Multivalid Conformal Prediction
+Keynote at the DeepMath Conference. November 2023.
+Distinguished Lecture at the Max-Planck Institute for Software Systems (MPI-SWS). September 2023.
+Third Penn Conference on Big Data in Biomedical and Population Health Sciences. September 2023.
+Cowles 2023 Econometrics Workshop. June 2023.
+Yale CS/Econ Colloquium. April 2023.
+Princeton CS Theory Seminar. March 2023.
+Berkeley CLIMB Evergreen Seminar. February 2023. Video here.
+Goldman Sachs SQAA Research Colloquium. January 2023.
+Northeastern University Special Seminar. December 2022.
+University of Virginia Computer Science Department Colloquium. November 2022.
+Emory University AI.Humanity Seminar. November 2022.
+Open Data Science Conference (ODSC) West. November 2022.
+UCSD/TILOS (The Institute for Learning-Enabled Optimization at Scale) Seminar. October 2022.
+National Academies ``AI and Justified Confidence'' Workshop. September 2022.
+NSF TRIPODS PI meeting. September 2022.
+Penn ASSET seminar. Video here. September 2022.
+Responsible Decision Making in Dynamic Environments (ICML Workshop Invited Talk). Video here. July 2022.
+Simons Foundation Presidential Lecture. May 2022. Video here.
+META AI Lunch and Learn. April 2022.
+STATML Oxford Imperial ML Workshop Keynote. April 2022.
+Differential Privacy and Machine Unlearning
+SystemX Trustworthy AI Day. July 2022.
+Boston Area Privacy Seminar. December 2021. Video here.
+Privacy in Machine Learning (PriML) Workshop at Neurips 2021, Invited Talk. December 2021.
+A User Friendly Power Tool for Deriving Online Learning Algorithms
+Harvard Economics Opportunity Insights Seminar. March 2022.
+Simons Workshop on Adversarial Approaches to Machine Learning. February 2022. Video here.
+ESA 2021 Keynote Talk. September 2021.
+A New Analysis of Differential Privacy's Generalization Guarantees
+STOC 2021 Mini Plenary Talk. June 2021.
+The Promise of Differentially Private Synthetic Data
+IBM Joint Security and Privacy Seminar. September 2021.
+Google’s 3rd annual Ads Future of Technology Conference (FACT) Expert Talk. June 2021.
+Differentially Private Synthetic Data via Relaxed Adaptive Projection
+Google Differential Privacy Workshop. February 2021.
+Online Multivalid Learning
+Fairness and Transparency in Human Robot Interaction (Workshop as part of HRI 2022). March 2022.
+Cornell CS Department Colloquium. November 2021.
+Texas A&M University Institute of Data Science Seminar. October 2021.
+Rutgers CS Theory Seminar. October 2021.
+CCC Artificial Intelligence/Operations Research Workshop. September 2021.
+ICML Workshop on Socially Responsible Machine Learning. July 2021.
+Israel Algorithmic Game Theory Seminar. June 2021. Video here.
+Ben Taskar Memorial Distinguished Lecture, University of Washington. May 2021.
+"Fairness in Statistics and Machine Learning for Equitable Decision-making" Session at ENAR 2021 Spring Meeting. March 2021.
+Foundations of Algorithmic Fairness Workshop. March 2021.
+Games, Decisions, and Networks Seminar. February 2021. Video here.
+Simons Collaboration TOC4Fairness Seminar. January 2021.
+Moment Multicalibration and Uncertainty Estimation
+Amazon Scholars Tech Talk. November 2020.
+Berkeley Statistics Department Neyman Seminar. October 2020.
+Duke Computer Science Theory Seminar. October 2020.
+Columbia Economics Theory Seminar. October 2020.
+Google Brain Research Seminar. October 2020. Video here.
+Wharton Statistics Department Seminar. September 2020. Video here.
+The Frontiers of Fairness in Machine Learning
+Amazon AWS Machine Learning Tech Talk. May 2020.
+Eliciting and Enforcing Subjective Individual Fairness.
+NeurIPS Workshop on "Human Centered Machine Learning" Keynote. December 2019.
+Simons Institute Workshop: "Recent Developments in Research on Fairness". July 2019. Video here.
+Towards Actionable Notions of Individual Fairness.
+IMA Workshop: "Recent Themes in Resource Tradeoffs: Privacy, Fairness and Robustness". June 2019.
+10th Annual Workshop in Decisions, Games, and Logic. Keynote Talk. June 2019.
+Individual Statistical Fairness.
+NeurIPS Workshop on "Machine Learning with Guarantees". December 2019. Video here.
+NeurIPS Oral Presentation. December 2019. Video here.
+Johns Hopkins Behavioral Science Forum on Artificial Intelligence. September 2019.
+Keynote Talk at TTIC Workshop ``Recent Trends in Clustering and Classification''. September 2019.
+Simons Institute Workshop: "Beyond Differential Privacy". May 2019. Video here.
+Columbia CS Theory Seminar. May 2019.
+The Role of Interactivity in Local Differential Privacy.
+Simons Institute Workshop on Privacy and the Science of Data Analysis. April 2019. Video here.
+The Ethical Algorithm.
+Emory University AI.Humanity Public Lecture. November 2022.
+Netflix Machine Learning Seminar. October 2021.
+Oak Ridge National Laboratory Mathematics in Computation Seminar. March 2021.
+Indian Institute of Management, Ahmedabad ``Privacy Paradox'' Seminar. February 2021.
+Johns Hopkins Institute for Assured Autonomy Speaker Series. December 2020.
+AARP Staff Seminar. November 2020.
+DE Shaw Tech Talk Series. November 2020.
+Fairness and Bias in AI Keynote, Amazon Machine Learning Conference. October 2020.
+Mellon Digital Humanities Seminar, at the Price Lab for Digital Humanities. October 2020.
+SBE Federal Interagency Conference on Big Data and Social Science. September, 2020.
+Yale Computation and Society Colloquium. September, 2020.
+Penn Society for Healthcare Innovation Edge of Innovation Series. August, 2020.
+Facebook NYC Special Seminar. February, 2020.
+In-Q-Tel Special Seminar. February, 2020.
+The Center for Technology, Innovation and Competition and the Penn Program on Regulation, Penn Law School. January, 2020.
+The University of Edinburgh, AI And Algorithms Lecture Series. January 2020.
+The Brookings Institution. January 2020. Video here. (See also related policy brief here.)
+International Symposium on Artificial Intelligence and Mathematics (ISAIM) Keynote Address. January 2020.
+Keystone Strategy, NYC and CSPAN BookTV. November 2019. Video here.
+Google, NY Author Series. November, 2019. Video here.
+Philadelphia Association for Critical Thinking (PhACT). November, 2019.
+LinkedIn Author Series. November, 2019.
+Facebook Author Series. November, 2019.
+AI and Faith Special Seminar. November, 2019.
+Town Hall, Seattle (with Moderator Eric Horvitz). November, 2019. Audio here.
+Zillow Authors Series. November 2019.
+Machine Learning and Public Policy Workshop Keynote. November 2019.
+National Association of Business Economics TEC2019 Conference Keynote. November 2019.
+Harvard Book Store Author Series. November, 2019.
+Columbia Data Science Institute "Trustworthy AI Symposium" Keynote. October 2019.
+Philadelphia Federal Reserve. October 2019.
+Rotman School of Business, "Machine Learning and the Market for Intelligence". October 2019. Video here.
+IBM TJ Watson. October 2019.
+Carnegie Mellon University (Special Seminar). October 2019.
+Harvard Center for Mathematical Sciences (CMSA) Big Data Conference. August 2019. Video here.
+AI Nextcon NYC 2019. Plenary Talk. July 2019.
+MIT Statistics and Data Science Conference. April 2019. Video here.
+The New York Academy of Sciences 13th Annual Machine Learning Day. Keynote Address. March 2019. Video here.
+Ethical Algorithms.
+Wharton Research Advisory Group. November 2018.
+Warren Center Symposium: The "FATE" Of Technology. October 2018.
+Distinguished Guest Lecture at the 8th Annual FDIC Consumer Research Symposium. October 2018.
+Wharton Conference on Digitization of Human Resources. September 2018.
+``AI With the Best'' Developer Conference. September 2018. Video here.
+How to Use Heuristics for Differential Privacy.
+PrivateNLP 2020 (EMNLP 2020 Workshop) Keynote. November 2020.
+Princeton Computer Science Theory Seminar. March 2019. Video here.
+Wharton Statistics Student Seminar. December 2018.
+Keller Colloquium in Computing and Mathematical Sciences, Caltech. November 2018.
+Harvard Theory of Computation Seminar. November, 2018.
+Google AI NYC Theory Seminar. October 2018.
+Simons Workshop on Adaptive Data Analysis. July 2018.
+Algorithmic Approaches to Preventing Overfitting in Adaptive Data Analysis.
+Simons Workshop on Adaptive Data Analysis. July 2018. Video here, and slides here.
+(Un)fairness in Machine Learning. 6 hour version.
+University of Zurich Machine Learning Summer School. June, 2018. Slides here.
+Preventing Fairness Gerrymandering in Machine Learning.
+Purdue CS Department Colloquium ("CS Excellence Series"). November, 2018.
+Google ML Fairness Workshop. September, 2018.
+Facebook. September, 2018.
+Northwestern Quarterly Theory Workshop: Algorithmic Fairness. June, 2018.
+6th Annual Computer Science and Law Roundtable, Penn Law School. May, 2018.
+Computational Perspectives on Biology and the Scientific Method.
+"Towards a New Theoretical Biology" Workshop, University of Pennsylvania. April, 2018.
+Privacy and Fairness: Explaining Problems and Technical Solutions.
+National Academy of Science, Roundtable on Integrating Ethics and Privacy Concerns into Data Science Education. December, 2017.
+A Smoothed Analysis of the Greedy Algorithm for Linear Contextual Bandits.
+Microsoft Research, New York City. July, 2017.
+Weakly Meritocratic Fairness in Machine Learning
+GREAT: Greece Workshop on Economic and Algorithmic Theory. July, 2017.
+Simons Differential Privacy Planning Workshop. May, 2017.
+Approximately Stable, School Optimal, Student-Truthful Many-to-One Matchings (via Differential Privacy)
+University of Wisconsin Economics Department Theory Seminar. November, 2017.
+Simons Differential Privacy Planning Workshop. May, 2017.
+MATCH-UP 2017. April, 2017.
+Fairness in Learning: Classic and Contextual Bandits.
+Stanford RAIN Seminar. April, 2017.
+MIT EECS Theory of Computation Colloquium. February, 2017.
+Institute for Advanced Study Computer Science and Discrete Math Seminar. January, 2017. (video.)
+Tradeoffs Between Fairness and Accuracy in Machine Learning
+NIPS Symposium on Machine Learning and the Law 2016. December, 2016.
+Harvard Law School, "Defining Fairness" Workshop. November, 2016.
+Yale Econ/CS Seminar ("Designing the Digital Economy") (Slides)
+What is Machine Learning (And Why Might it be Unfair?)
+Penn Law School. September, 2016. (video)
+Department of Defense/Department of Veterans Affairs Predictive Analytics and Suicide Risk Research Roundtable. February, 2018.
+Rigorous Data Dredging: Theory and Tools for Adaptive Data Analysis
+Joint Statistical Meetings: Session on the Stability Principle. August, 2017.
+Goldman Sachs Engineering Insights Series. February, 2017.
+NIPS 2016 Workshop on Adaptive Data Analysis. December, 2016.
+Institute for Advanced Study: Four Facets of Differential Privacy. November, 2016. (video here)
+Universite Laval Big Data Colloqium. October, 2016.
+Penn Statistics Department Seminar. September, 2016.
+PCMI Graduate Summer School: The Mathematics of Data. Park City, Utah. July 2016.
+Data Linkage and Anonymization Kickoff Event, Isaac Newton Center, Cambridge UK. July 2016.
+ICML 2016 Tutorial (Slides (Powerpoint) and video)
+A Whirlwind Tour of Differential Privacy (With Applications to Generalization and Game Theory)
+Google Research, New York, 2016.
+When do Prices Coordinate Markets?
+Penn State Theory Seminar, 2015.
+Workshop on Complexity and Simplicity in Economics, Simons Institute for the Theory of Computing, 2015. (video here)
+Harvard CRCS (Center for Research on Computation and Society) Seminar, 2015. (video here)
+Privacy as a Tool for Robust Mechanism Design in Large Markets
+PCMI Graduate Summer School: The Mathematics of Data. Park City, Utah. July 2016.
+Caltech Workshop on the Theory of Bringing Privacy into Practice, 2015. (video here)
+Private Convex Optimization (Yields Asymptotically Truthful Combinatorial Auctions)
+Cornell Joint Microeconomics and Computer Science Theory Seminar, 2014.
+Penn State Department Colloquium, 2014.
+NIPS Workshop on Transactional Machine Learning, 2014.
+ISMP 2015 Invited Speaker, 2015.
+Preserving Statistical Validity in Adaptive Data Analysis
+MIT/MSR Theory Day, 2014.
+Yahoo Research NYC Theory Seminar, 2014.
+Johns Hopkins Theory Seminar, 2014.
+TCS+ seminar, 2015. (video here)
+Bloomberg Research, Princeton Campus, 2015.
+BICOD 2015 Invited Lecture, 2015.
+Clinical Epidemiology/Health Services Research Seminar, Penn Medical School, 2015.
+Penn Applied Mathematics and Computational Science (AMCS) Colloquium. 2015.
+Private Matchings and Allocations
+Allerton 2013
+Charles River Privacy Day 2013
+Princeton Theory Lunch 2013
+Rutgers Theory Seminar 2014
+Tutorial on Differential Privacy
+Simons Workshop on the Science of Differential Privacy 2013
+American Association for the Advancement of Science (AAAS) Annual Meeting 2015 (see coverage)
+MLConf NYC 2017. (video here.)
+Hot Topics on the Science of Security (HoTSoS 2017) Keynote Talk.
+High Confidence Software and Systems Conference (HCSS 2017) Keynote Talk.
+MIT LIDS Smart Urban Infrastructures Workshop. 2017.
+Comcast Security Guild. December 2018.
+Security by the Schuylkill 2019 (Plenary Talk). April 2019.
+Tutorial on Game Theory and Differential Privacy
+WPin+NetEcon 2014
+EC 2014 Tutorial on Differential Privacy, Mechanism Design, and Information Economics
+EC 2013 Workshop on Differential Privacy and Mechanism Design
+DIMACS Differential Privacy Workshop 2012. (video here)
+Mechanism Design in Large Games: Privacy and Incentives
+FOCS 2012 PC Workshop
+USC Theory Seminar
+IBM TJ Watson Theory Seminar
+University of Maryland Capital Area Theory Seminar
+DIMACS Differential Privacy Workshop
+Stanford Market Design Seminar
+DIMACS Workshop on the Economics of Information Sharing
+Dagstuhl Workshop on the Frontiers of Mechanism Design.
+Caltech Workshop on Differential Privacy and Economics
+Exploiting Metric Structure for Efficient Private Query Release
+UCSD IDASH Differential Privacy Workshop
+Privately Releasing Conjunctions and the Statistical Query Barrier
+Microsoft Research Silicon Valley
+Penn State Theory Seminar
+MIT Theory Seminar
+Selling Privacy at Auction
+Northwestern EECS Theory Seminar
+Boston University Theory Seminar
+Interactive Privacy via the Median Mechanism
+STOC 2010
+Dartmouth Theory Seminar
+Efficient Computation Under the Constraints of Privacy And Incentives
+CMU Theory Seminar 2010
+UPenn Market and Social Systems Engineering Lecture Series 2010
+Yahoo Research, Santa Clara 2010
+On the Equilibria of Asynchronous Games
+Microsoft Research SVC
+CMU Theory Lunch
+China Theory Week 2009
+SODA 2010
+Differentially Private Approximation Algorithms
+Microsoft Research New England
+CMU Theory Lunch
+Princeton Theory Lunch
+SODA 2010
+Auctions with Online Supply
+EC 2010
+Ad Auctions Workshop 2009
+CMU Theory Lunch
+Microsoft Research SVC
+A Learning Theory Approach to Non-Interactive Database Privacy
+Microsoft Live Labs Tech Talk
+STOC 2008
+Capital Area Theory Seminar (University of Maryland)
+CMU/Microsoft Privacy Mindswap (Poster)
+Regret Minimization and the Price of Total Anarchy
+CMU Theory lunch
+GAMES 2008: 3rd World Congress of the Game Theory Society
+Harvard EconCS seminar
+ISMP 2009
+
+
+
+Podcast, Radio, TV, and Other Media Appearances
+
+Artful Science 5/4/21
+Technology and Prose 3/5/21
+Ipse Dixit 3/3/20
+Tech Nation Radio 1/25/20
+Data Skeptic 1/13/20
+Techtonic 1/13/20
+CSPAN BookTV 12/28/19
+The Cyberlaw Podcast 12/5/19
+Knowledge@Wharton 12/2/19
+The Candy Mike and Todd Show 11/18/19
+The Programming Ethos 09/19/19
+TWiML AI 4/30/18
+Web and Print Media: Penn Engineering Blog, Amazon Science, Penn News Today, Communications of the ACM, The Guardian, Communications of the ACM, Simons Foundation, Wired, Bloomberg, Amazon Science, Amazon Science, ZDnet, Adexchanger, SINC, Nature, The New York Times, Scientific American, Knowledge@Wharton, Strategy+Business, The Regulatory Review, Marketplace, MIT Technology Review, Wired, Pacific Standard
+

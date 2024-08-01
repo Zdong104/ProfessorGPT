@@ -1,0 +1,793 @@
+Professor: Cihang Xie
+University: Univ. of California - Santa Cruz
+URL: https://cihangxie.github.io/
+Description: Cihang Xie
+
+I am an Assistant Professor of Computer Science and Engineering at University of California, Santa Cruz. My research interest lies at the intersection of computer vision and machine learning, with the goal of building human-level computer vision systems. I am particularly interested in securing model performance under distribution shifts, and developing deep representation learning with minimal supervision.
+
+I received my Ph.D. degree from Johns Hopkins University, advised by Bloomberg Distinguished Professor Alan Yuille. I have worked as a research intern with Kaiming He and Laurens van der Maaten at the Facebook AI Research (FAIR); Quoc Le at the Google Brain. I receive the 2020 Facebook Fellowship.
+
+
+            
+
+	
+
+Hiring: I am co-leading the Vision · Learning · Assured Autonomy (VLAA) Lab with Professor Yuyin Zhou. Our lab has multiple openings for summer interns and visiting students with flexible starting times. If you are interested in these opportunities, please complete this form.
+
+Recent News
+[NEW] We release Recap-DataComp-1B, where we use a LLaMA-3-powered LLaVA model to recaption the entire 1.3 billion images from DataComp-1B. Our Recap-DataComp-1B shows higher textual quality, and can help to train stronger CLIP models and T2I models.
+[July 2024] Three papers are accepted by ECCV 2024.
+[May 2024] Congratulations to Xianhang Li on winning the Jack Baskin & Peggy Downes-Baskin Fellowship. Additionally, D-iGPT is accepted by ICML 2024 --- our strongest model secures an ImageNet top-1 accuracy of 90.0% with ViT-H.
+[April 2024] We release HQ-Edit, a dataset with high-resolution images & detailed and aligned editing instructions. Our fine-tuned InstructPix2Pix delivers superior editing performance. Additionally, two papers are accepted by TMLR.
+[March 2024] One paper is accepted by NAACL 2024, and one paper is accepted by TMLR.
+[February 2024] Three papers (AdvXL, MixCon3D, L2B) are accepted by CVPR 2024.
+[January 2024] Our Tuning LayerNorm in Attention is accepted by ICLR 2024 as a spotlight paper; our visual probing is accpted by EACL 2024.
+[NEW] Congratulations to Zijun and the team on winning the 2nd place in both the base model subtrack and the large model subtrack, Red Teaming Track, in NeurIPS 2023 Trojan Detection Challenge. We will release the code and the report soon.
+[December 2023] One paper is accepted by TMLR. Additionally, we release D-iGPT, which attains 89.5% ImageNet top-1 accuracy with ViT-L. Larger models are coming!
+[November 2023] CLIPA-v2 is accepted by NeurIPS 2023 R0-FoMo Workshop, and Sight Beyond Text is accepted by NeurIPS 2023 Instruction Workshop.
+[October 2023] Congratulations to Siwei and the team on winning the 2nd place in Task 4: Brain Metastases Segmentation of MICCAI 2023 BraTS Challenge.
+[September 2023] CLIPA is accepted by NeurIPS 2023. In addition, we release our best model, CLIPA-G/14, which attains 83.0% zero-shot ImageNet top-1 accuracy.
+[NEW] We release CLIPA, which enables CLIP training with limited computational resources. Furthermore, at a low cost of just $15,000, our CLIPA-v2 effectively elevates the zero-shot ImageNet top-1 accuracy to an impressive 81.8%.
+[July 2023] Three papers are accepted by ICCV 2023.
+[June 2023] Two papers are accepted by MICCAI 2023.
+[February 2023] DMAE is accepted by CVPR 2023.
+[January 2023] Two papers are accepted by ICLR 2023.
+I am serving as an Area Chair for CVPR 2024/2023, ICLR 2024/2023/2022, ICML 2024/2023, ICCV 2023/2021, NeurIPS 2024/2023/2022, ECCV 2022, and a Senior Program Committee for AAAI 2022, IJCAI 2021.
+Current Students
+Xianhang Li (Ph.D. of 2021, UC Santa Cruz Chancellor's Fellowship, Jack Baskin & Peggy Downes-Baskin Fellowship)
+Zeyu Wang (Ph.D. of 2021)
+Siwei Yang (Ph.D. of 2023)
+Mude Hui (Ph.D. of 2023, co-supervised with Yuyin Zhou)
+Jinrui Yang (Ph.D. of 2023, co-supervised with Yuyin Zhou)
+Zijun Wang (Ph.D. of 2024)
+Yanqing Liu (Ph.D. of 2024)
+Haoqin Tu (Ph.D. of 2024, UC Santa Cruz Chancellor's Fellowship Recipient, co-supervised with Yuyin Zhou)
+Xiaoke Huang (Ph.D. of 2024, co-supervised with Yuyin Zhou)
+Juncheng Wu (Ph.D. of 2024, co-supervised with Yuyin Zhou)
+Chen Wei (affiliated Ph.D. student from Johns Hopkins University)
+Junfei Xiao (affiliated Ph.D. student from Johns Hopkins University)
+Sucheng Ren (affiliated Ph.D. student from Johns Hopkins University)
+Lei Zhang (affiliated Ph.D. student from UC San Diego)
+Bingchen Zhao (visiting graduate student from University of Edinburgh)
+Fangxun Shu (visiting graduate student in Summer'24)
+Yunfei Xie (visiting undergraduate student in Summer'24)
+Alumni
+2023
+Zijun Wang (visiting undergraduate student in Summer'23; next: Ph.D. at UC Santa Cruz)
+Haoqin Tu (visiting graduate student in Summer'23; next: Ph.D. at UC Santa Cruz)
+Lei Zhang (visiting graduate student in Summer'23; next: Ph.D. at UC San Diego)
+Yipeng Gao (visiting graduate student in Summer'23; next: Ph.D. at University of Southern California)
+Jieru Mei (affiliated Ph.D. student from Johns Hopkins University; next: Google)
+Zhuowan Li (affiliated Ph.D. student from Johns Hopkins University; next: Google)
+Yixiao Zhang (affiliated Ph.D. student from Johns Hopkins University; next: Amazon)
+2022
+Sizhe Chen (visiting graduate student in 2022; next: Ph.D. at UC Berkeley)
+Yuanze Lin (visiting graduate student in Summer'22; next: Ph.D. at University of Oxford)
+Chen Wang (visiting graduate student in Summer'22; next: Ph.D. at University of Pennsylvania)
+Zihan Li (visiting graduate student in Summer'22; next: Ph.D. at University of Washington)
+Junyang Wu (visiting undergraduate student in Summer'22; next: Ph.D. at Shanghai Jiao Tong University)
+Shaoyuan Xie (visiting undergraduate student in Summer'22; next: Ph.D. at UC Irvine)
+Yiqing Wang (visiting undergraduate student in Summer'22; next: Ph.D. at Duke University)
+Peiran Xu (visiting undergraduate student in Summer'22; next: Ph.D. at UCLA)
+Yunchao Zhang (visiting undergraduate student in Summer'22; next: Ph.D. at The University of Hong Kong)
+Zihao Wei (visiting undergraduate student in Summer'22; next: Master at UMich)
+2021
+Sucheng Ren (visiting graduate student in Summer'21; next: Ph.D. at Johns Hopkins University)
+Jinghao Zhou (visiting undergraduate student in Summer'21; next: Ph.D. at University of Oxford)
+2020
+Yingwei Li (affiliated Ph.D. student from Johns Hopkins University; next: Waymo)
+Yucheng Han (visiting undergraduate student in Summer'20; next: Ph.D. at Nanyang Technological University)
+Publications
+2024
+	
+
+What If We Recaption Billions of Web Images with LLaMA-3?
+Xianhang Li, Haoqin Tu, Mude Hui, Zeyu Wang, Bingchen Zhao, Junfei Xiao, Sucheng Ren, Jieru Mei, Qing Liu, Huangjie Zheng, Yuyin Zhou, Cihang Xie
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Rejuvenating image-GPT as Strong Visual Representation Learners
+Sucheng Ren, Zeyu Wang, Hongru Zhu, Junfei Xiao, Alan Yuille, Cihang Xie
+ICML, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs
+Haoqin Tu, Chenhang Cui, Zijun Wang, Yiyang Zhou, Bingchen Zhao, Junlin Han, Wangchunshu Zhou, Huaxiu Yao, Cihang Xie
+ECCV, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties
+Junfei Xiao, Ziqi Zhou, Wenxuan Li, Shiyi Lan, Jieru Mei, Zhiding Yu, Bingchen Zhao, Alan Yuille, Yuyin Zhou, Cihang Xie
+ECCV, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+From Pixels to Objects: A Hierarchical Approach for Part and Object Segmentation Using Local and Global Aggregation
+Yunfei Xie, Cihang Xie, Alan Yuille, Jieru Mei
+ECCV, 2024
+
+
+pdf / bibtex
+
+
+	
+
+Autoregressive Pretraining with Mamba in Vision
+Sucheng Ren, Xianhang Li, Haoqin Tu, Feng Wang, Fangxun Shu, Lei Zhang, Jieru Mei, Linjie Yang, Peng Wang, Heng Wang, Alan Yuille, Cihang Xie
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Mamba®: Vision Mamba ALSO Needs Registers
+Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Scaling White-Box Transformers for Vision
+Jinrui Yang, Xianhang Li, Druv Pai, Yuyin Zhou, Yi Ma, Yadong Yu, Cihang Xie
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing
+Mude Hui, Siwei Yang, Bingchen Zhao, Yichun Shi, Heng Wang, Peng Wang, Cihang Xie, Yuyin Zhou
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability
+Siwei Yang, Bingchen Zhao, Cihang Xie
+arxiv, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+ARVideo: Autoregressive Pretraining for Self-Supervised Video Representation Learning
+Sucheng Ren, Hongru Zhu, Chen Wei, Yijiang Li, Alan Yuille, Cihang Xie
+arxiv, 2024
+
+
+pdf / bibtex
+
+
+	
+
+Revisiting Adversarial Training at Scale
+Zeyu Wang, Xianhang Li, Hongru Zhu, Cihang Xie
+CVPR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training
+Yipeng Gao, Zeyu Wang, Wei-Shi Zheng, Cihang Xie, Yuyin Zhou
+CVPR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Learning to Bootstrap for Combating Label Noise
+Yuyin Zhou, Xianhang Li, Fengze Liu, Xuxi Chen, Lequan Yu, Cihang Xie, Matthew P. Lungren, Lei Xing
+CVPR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Benchmarking Robustness in Neural Radiance Fields
+Chen Wang, Angtian Wang, Junbo Li, Alan Yuille, Cihang Xie
+CVPR Adversarial Machine Learning Workshop, 2024
+
+
+pdf / bibtex
+
+
+	
+
+Tuning LayerNorm in Attention: Towards Efficient MultiModal LLM Finetuning
+Bingchen Zhao, Haoqin Tu, Chen Wei, Jieru Mei, Cihang Xie
+ICLR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Navigation as the Attacker Wishes? Towards Building Byzantine-Robust Embodied Agents under Federated Learning
+Yunchao Zhang, Zonglin Di, Kaiwen Zhou, Cihang Xie, Xin Eric Wang
+NAACL, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Localization vs. Semantics: Visual Representations in Unimodal and Multimodal Models
+Zhuowan Li, Cihang Xie, Benjamin Van Durme, Alan Yuille
+EACL, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+On the Adversarial Robustness of Camera-based 3D Object Detection
+Shaoyuan Xie, Zichao Li, Zeyu Wang, Cihang Xie
+TMLR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Unleashing the Power of Visual Prompting At the Pixel Level
+Junyang Wu, Xianhang Li, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
+TMLR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning
+Peiran Xu, Zeyu Wang, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou
+TMLR, 2024
+
+
+pdf / project page / bibtex
+
+
+	
+
+Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies
+Zichao Li, Cihang Xie, Ekin Dogus Cubuk
+TMLR, 2024
+
+
+pdf / bibtex
+
+
+	
+
+SPFormer: Enhancing Vision Transformer with Superpixel Representation
+Jieru Mei, Liang-Chieh Chen, Alan Yuille, Cihang Xie
+arxiv, 2024
+
+
+pdf / bibtex
+
+
+2023
+	
+
+Audio-Visual LLM for Video Understanding
+Fangxun Shu, Lei Zhang, Hao Jiang, Cihang Xie
+arxiv, 2023
+
+
+pdf / bibtex
+
+
+	
+
+Compress & Align: Curating Image-Text Data with Human Knowledge
+Lei Zhang, Fangxun Shu, Sucheng Ren, Hao Jiang, Bingchen Zhao, Cihang Xie
+arxiv, 2023
+
+
+pdf / bibtex
+
+
+	
+
+Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics
+Haoqin Tu, Bingchen Zhao, Chen Wei, Cihang Xie
+NeurIPS Instruction Workshop, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+CLIPA-v2: Scaling CLIP Training with 81.1% Zero-shot ImageNet Accuracy within a $10,000 Budget; An Extra $4,000 Unlocks 81.8% Accuracy
+Xianhang Li, Zeyu Wang, Cihang Xie
+NeurIPS R0-FoMo Workshop, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+An Inverse Scaling Law for CLIP Training
+Xianhang Li, Zeyu Wang, Cihang Xie
+NeurIPS, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+Diffusion Models as Masked Autoencoders
+Chen Wei, Karttikeya Mangalam, Po-Yao Huang, Yanghao Li, Haoqi Fan, Hu Xu, Huiyu Wang, Cihang Xie, Alan Yuille, Christoph Feichtenhofer
+ICCV, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+SMAUG: Sparse Masked Autoencoder for Efficient Video-Language Pre-training
+Yuanze Lin, Chen Wei, Huiyu Wang, Alan Yuille, Cihang Xie
+ICCV, 2023
+
+
+pdf / bibtex
+
+
+	
+
+DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation
+Zeyu Wang, Dingwen Li, Chenxu Luo, Cihang Xie, Xiaodong Yang
+ICCV, 2023
+
+
+pdf / bibtex
+
+
+	
+
+SwinMM: Masked Multi-view with Swin Transformers for 3D Medical Image Segmentation
+Yiqing Wang, Zihan Li, Jieru Mei, Zihao Wei, Li Liu, Chen Wang, Shengtian Sang, Alan Yuille, Cihang Xie, Yuyin Zhou
+MICCAI, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+Consistency-guided Meta-Learning for Bootstrapping Semi-Supervised Medical Image Segmentation
+Qingyue Wei, Lequan Yu, Xianhang Li, Wei Shao, Cihang Xie, Lei Xing, Yuyin Zhou
+MICCAI, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+Masked Autoencoders Enable Efficient Knowledge Distillers
+Yutong Bai, Zeyu Wang, Junfei Xiao, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
+CVPR, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+Can CNNs Be More Robust Than Transformers?
+Zeyu Wang, Yutong Bai, Yuyin Zhou, Cihang Xie
+ICLR, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks
+Shutong Wu, Sizhe Chen, Cihang Xie, Xiaolin Huang
+ICLR, 2023
+
+
+pdf / bibtex
+
+
+	
+
+BNET: Batch Normalization with Enhanced Linear Transformation
+Yuhui Xu, Lingxi Xie, Cihang Xie, Wenrui Dai, Jieru Mei, Siyuan Qiao, Wei Shen, Hongkai Xiong, Alan Yuille
+IEEE TPAMI, 2023
+
+
+pdf / project page / bibtex
+
+
+	
+
+Practical Disruption of Image Translation Deepfake Networks
+Nataniel Ruiz, Sarah Adel Bargal, Cihang Xie, Stan Sclaroff
+AAAI, 2023
+
+
+pdf / bibtex
+
+
+2022
+	
+
+Bag of Tricks for FGSM Adversarial Training
+Zichao Li, Li Liu, Zeyu Wang, Yuyin Zhou, Cihang Xie
+arxiv, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+Finding Differences Between Transformers and ConvNets Using Counterfactual Simulation Testing
+Nataniel Ruiz, Sarah Adel Bargal, Cihang Xie, Kate Saenko, Stan Sclaroff
+NeurIPS, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+Adversarial Attack on Attackers: Post-Process to Mitigate Black-Box Score-Based Query Attacks
+Sizhe Chen, Zhehao Huang, Qinghua Tao, Yingwen Wu, Cihang Xie, Xiaolin Huang
+NeurIPS, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+In Defense of Image Pre-Training for Spatiotemporal Recognition
+Xianhang Li, Huiyu Wang, Chen Wei, Jieru Mei, Alan Yuille, Yuyin Zhou, Cihang Xie
+ECCV, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+ViP: Unified Certified Detection and Recovery for Patch Attack with Vision Transformers
+Junbo Li, Huan Zhang, Cihang Xie
+ECCV, 2022
+
+
+pdf / bibtex
+
+
+	
+
+A Simple Data Mixing Prior for Improving Self-Supervised Learning
+Sucheng Ren, Huiyu Wang, Zhengqi Gao, Shengfeng He, Alan Yuille, Yuyin Zhou, Cihang Xie
+CVPR, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+Simulated Adversarial Testing of Face Recognition Models
+Nataniel Ruiz, Adam Kortylewski, Weichao Qiu, Cihang Xie, Sarah Adel Bargal, Alan Yuille, Stan Sclaroff
+CVPR, 2022
+
+
+pdf / bibtex
+
+
+	
+
+Fast AdvProp
+Jieru Mei, Yucheng Han, Yutong Bai, Yixiao Zhang, Yingwei Li, Xianhang Li, Alan Yuille, Cihang Xie
+ICLR, 2022
+
+
+pdf / project page / bibtex
+
+
+	
+
+iBOT: Image BERT Pre-Training with Online Tokenizer
+Jinghao Zhou, Chen Wei, Huiyu Wang, Wei Shen, Cihang Xie, Alan Yuille, Tao Kong
+ICLR, 2022
+
+
+pdf / project page / press / bibtex
+
+
+2021
+	
+
+Are Transformers More Robust Than CNNs?
+Yutong Bai, Jieru Mei, Alan Yuille, Cihang Xie
+NeurIPS, 2021
+The first benchmark that fairly compares Transformers with CNNs on robustness evaluations
+
+
+pdf / project page / bibtex
+
+
+	
+
+Calibrating Concepts and Operations: Towards Symbolic Reasoning on Real Images
+Zhuowan Li, Elias Stengel-Eskin, Yixiao Zhang, Cihang Xie, Quan Tran, Benjamin Van Durme, Alan Yuille
+ICCV, 2021
+
+
+pdf / project page / bibtex
+
+
+	
+
+Robust and Accurate Object Detection via Adversarial Learning
+Xiangning Chen, Cihang Xie, Mingxing Tan, Li Zhang, Cho-Jui Hsieh, Boqing Gong
+CVPR, 2021
+
+
+pdf / project page / bibtex
+
+
+	
+
+Shape-Texture Debiased Neural Network Training
+Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, Peng Tang, Wei Shen, Alan Yuille, Cihang Xie
+ICLR, 2021
+
+
+pdf / project page / bibtex
+
+
+2020
+	
+
+Towards Robust Representation Learning and Beyond
+Cihang Xie
+PhD Dissertation
+
+
+pdf / bibtex
+
+
+	
+
+Smooth Adversarial Training
+Cihang Xie, Mingxing Tan, Boqing Gong, Alan Yuille, Quoc Le
+Tech report, arXiv
+State-of-the-art method for defending against adversarial attacks on ImageNet
+
+
+pdf / project page / bibtex
+
+
+	
+
+PatchAttack: A Black-box Texture-based Attack with Reinforcement Learning
+Chenglin Yang, Adam Kortylewski, Cihang Xie, Yinzhi Cao, Alan Yuille
+ECCV, 2020
+
+
+pdf / project page / bibtex
+
+
+	
+
+Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+Yingwei Li, Song Bai, Cihang Xie, Zhenyu Liao, Xiaohui Shen, Alan Yuille
+ECCV, 2020
+
+
+pdf / project page / bibtex
+
+
+	
+
+Adversarial Examples Improve Image Recognition
+Cihang Xie, Mingxing Tan, Boqing Gong, Jiang Wang, Alan Yuille, Quoc Le
+CVPR, 2020
+State-of-the-art ImageNet classifier without extra training data
+
+
+pdf / project page / pytorch reimplementation / slides / press / video / bibtex
+
+
+	
+
+Neural Architecture Search for Lightweight Non-Local Networks
+Yingwei Li, Xiaojie Jin, Jieru Mei, Xiaochen Lian, Linjie Yang, Cihang Xie, Qihang Yu, Yuyin Zhou, Song Bai, Alan Yuille
+CVPR, 2020
+
+
+pdf / project page / bibtex
+
+
+	
+
+Universal Physical Camouflage Attacks on Object Detectors
+Lifeng Huang, Chengying Gao, Yuyin Zhou, Cihang Xie, Alan Yuille, Changqing Zou, Ning Liu
+CVPR, 2020
+
+
+pdf / project page / bibtex
+
+
+	
+
+Intriguing Properties of Adversarial Training at Scale
+Cihang Xie, Alan Yuille
+ICLR, 2020
+
+
+pdf / bibtex
+
+
+	
+
+Learning Transferable Adversarial Examples via Ghost Networks
+Yingwei Li, Song Bai, Yuyin Zhou, Cihang Xie, Zhishuai Zhang, Alan Yuille
+AAAI, 2020
+
+
+pdf / project page / bibtex
+
+
+2019
+	
+
+Feature Denoising for Improving Adversarial Robustness
+Cihang Xie, Yuxin Wu, Laurens van der Maaten, Alan Yuille, Kaiming He
+CVPR, 2019
+The first ImageNet classifier that can successfully defend against strong white-box adversarial attacks
+
+
+pdf / project page / slides / blog / bibtex
+
+
+	
+
+Improving Transferability of Adversarial Examples with Input Diversity
+Cihang Xie, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille
+CVPR, 2019
+
+
+pdf / project page / bibtex
+
+
+2018
+	
+
+Mitigating Adversarial Effects Through Randomization
+Cihang Xie, Jianyu Wang, Zhishuai Zhang, Zhou Ren, Alan Yuille
+ICLR, 2018
+The runner-up solution in the adversarial defense track of NIPS 2017 Adversarial Attacks and Defenses Competition
+
+
+pdf / project page / competition book / slides / bibtex
+
+
+	
+
+Single-Shot Object Detection with Enriched Semantics
+Zhishuai Zhang, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan Yuille
+CVPR, 2018
+
+
+pdf / project page / bibtex
+
+
+	
+
+DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection under Partial Occlusion
+Zhishuai Zhang, Cihang Xie, Jianyu Wang, Lingxi Xie, Alan Yuille
+CVPR, 2018
+
+
+pdf / bibtex
+
+
+
+	
+
+Visual Concepts and Compositional Voting
+Jianyu Wang, Zhishuai Zhang, Cihang Xie, Yuyin Zhou, Vittal Premachandran, Jun Zhu, Lingxi Xie, Alan Yuille
+Annals of Mathematical Sciences and Applications, 2018
+
+
+pdf / bibtex
+
+
+2017
+	
+
+Adversarial Examples for Semantic Segmentation and Object Detection
+Cihang Xie, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille
+ICCV, 2017
+
+
+pdf / project page / slides / bibtex
+
+
+	
+
+Detecting Semantic Parts on Partially Occluded Objects
+Jianyu Wang, Cihang Xie, Zhishuai Zhang, Jun Zhu, Lingxi Xie, Alan Yuille
+BMVC, 2017
+
+
+pdf / bibtex
+
+
+Open Sources
+	
+
+CleverHans Adversarial Examples Library
+
+
+project page / tech report
+
+	
+
+Adversarial Attacks on Face Recognition
+
+
+project page / press (chinese)
+	
+
+
+Stolen from Jon Barron
+

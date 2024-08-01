@@ -1,0 +1,465 @@
+Professor: Daniel G. Aliaga
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/aliaga
+Description: [Teaching] [Projects] [Publications] [Grants] [Students]
+
+
+
+
+Curriculum Vitae
+
+	
+Daniel G. Aliaga
+Associate Professor of Computer Science, Purdue University
+
+Education: Daniel Aliaga holds BS in Computer Science, honors thesis (with Andy van Dam) and magna cum laude, from Brown University. Subsequently, obtained a MS (with Henry Fuchs) and a PhD degree (with Anselmo Lastra, Fred Brooks, and Dinesh Manocha) in Computer Science from UNC Chapel Hill. Worked at Nokia/Lucent/AT\&&T Bell Labs (with Ingrid Carlbom) and at Princeton University as a researcher (with Tom Funkhouser). He joined Purdue in 2003, co-founding the Computer Graphics and Visualization Laboratory (CGVLAB). Dr. Aliaga has held visiting professor positions at ETH Zurich Information Architecture and also ETH Computer Science, INRIA Sophia-Antipolis, and KAUST in Saudi Arabia. After finishing high school (Colegio Santa Maria), Daniel immigrated from Lima, Peru and is the first in his family and relatives to hold a PhD.
+
+Products: Dr. Aliaga's first computer graphics publication was in 1991 and he now has over 160 refereed publications covering multiple disciplines, holds membership in 80+ program committees, has on-going international multi-disciplinary collaborations (i.e., with computer science, urban planning, architecture, meteorology, atmospheric/earth sciences, engineering, archaeology, and more), and has given over 50 invited talks (in the US, Brasil, Colombia, Ecuador, France, Japan, Korea, Peru, Qatar, Sweden, and Switzerland). Further, Dr. Aliaga has been technical advisor on multiple startups (Synthicity, UrbanSim, Authentise).
+
+Funding: Prof. Aliaga has obtained 28 external peer-reviewed grants totaling $40M (and is PI on 19 of them). Funding sources include NSF, IARPA, USDA, Internet2, MTC, Google, Microsoft, and Adobe.
+
+Service and Awards: Daniel is Associate Editor for IEEE TVCG and for Visual Computing Journal (previously for Computer Graphics Forum and Graphical Models) and PC member for SIGGRAPH, CVPR, ICCV, Eurographics, AAAI, I3D, IEEE Vis. He has received a Fulbright Scholar Award, a Discovery Park Faculty Research Fellowship, and his PhD advisees have received a total of 11 Purdue fellowships/grants. He is a member of ACM SIGGRAPH and ACM SIGGRAPH Pioneers, and has multiple times been Chair of Faculty Diversity for College of Science at Purdue.
+
+Contact:
+Lawson Computer Science Building, Rm 3177
+305 N. University St,
+West Lafayette, IN 47907-2107	Phone: 765-494-6010 (main office)
+FAX: 765-494-0739
+Email: aliaga at cs dot purdue dot edu
+
+
+
+
+Teaching
+CS334/ECE30834 (Fall 2023)
+
+
+
+
+Projects
+Urban Deep Generative Modeling
+
+Dr. Aliaga is a pioneer in the area of inverse procedural modeling for urban spaces, with his first paper introducing the topic in 2005/2007. His vision is to facilitate semi-automatic and controllable content creation and edition of large and complex geometric models for use in digital simulation, visualization, entertainment, education, and cultural heritage by converting unstructured data into organized and easily editable procedural representations. While a significant benefit of procedural modeling is its detail amplification, it is very difficult to develop a compact expressive set of procedural rules. To this end, his group has innovated many automatic methods to infer procedural model rules and parameter values from 3D models, sketches, images, point clouds, roads, facades, buildings, cities, and vegetation. More recently, this approach now includes the use of various forms of deep generative modeling and is still an active area of research. Dr. Aliaga has published surveys, given talks and tutorials (e.g., at SIGGRAPH, CVPR and Eurographics) on this topic.
+
+	
+Selected Publications
+
+GlobalMapper: Arbitrary-Shaped Urban Layout Generation.
+L. He, D. Aliaga, IEEE Int'l Conference on Computer Vision (ICCV), 2023
+
+Tree Instance Segmentation with Temporal Contour Graph.
+A. Firoze, C. Wingren, R. Yeh, B. Benes, D. Aliaga, IEEE Computer Vision and Pattern Recognition (CVPR), 2023
+
+Generative Building Feature Estimation from Satellite Images.
+L. He, J. Shan, D. Aliaga, IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023
+
+CubeGAN: Omnidirectional Image Synthesis Using Generative Adversarial Networks.
+C. May, D. Aliaga, Computer Graphics Forum (CGF), Eurographics, 2023
+
+Procedural Roof Generation From a Single Satellite Image.
+X. Zhang, D. Aliaga. Computer Graphics Forum (CGF), Eurographics, 2022
+
+Synthesis and Completion of Facades from Satellite Imagery.
+X. Zhang, C. May, D. Aliaga. European Conference on Computer Vision (ECCV), 2020
+
+Procedural Modeling of a Building from a Single Image.
+G. Nishida, A. Bousseau, D. Aliaga, Computer Graphics Forum (CGF), 2018
+
+Interactive Sketching of Urban Procedural Models,
+G. Nishida, I. Garcia-Dorado, D. Aliaga, B. Benes, A. Bousseau. ACM Transactions on Graphics (TOG), 2016
+
+Coupled Segmentation and Similarity Detection for Architectural Models.
+I. Demir, D. Aliaga, B. Benes. ACM Transactions on Graphics (TOG), 2015
+
+Procedural Editing of Building Point Clouds.
+I. Demir, D. Aliaga, B. Benes, IEEE Int'l Conference on Computer Vision (ICCV), 2015
+
+Inverse Design of Urban Procedural Models.
+C. Vanegas, I. Garcia-Dorado, D. Aliaga, B. Benes, P. Waddell. ACM Transactions on Graphics (TOG), 2012
+
+Building Reconstruction using Manhattan-World Grammars.
+C. Vanegas, D. Aliaga, B. Benes. IEEE Computer Vision and Pattern Recognition (CVPR), 2010
+
+
+
+
+Urban Modeling and Simulation
+
+In this multi-disciplinary project, Dr. Aliaga's group has since 2009 collaborated with numerous experts in urban planning, atmospheric/geological sciences, civil engineering, architecture, hydrology, and transportation engineering to capture, simulate, and modify models of urban environments. Today, more than half of the world's population of 7 billion people lives in cities - and that number is only expected to grow. Cities, and urban spaces of all sizes, are however extremely complex and their modeling is still not solved. Dr. Aliaga pursues urban visual computing and artificial intelligence (AI) tools for improving the complex urban ecosystem and for "what-if" exploration of sustainable urban designs, including integrating urban 3D modeling, simulation, meteorology, vegetation, and traffic modeling. To date, he has developed several algorithms, deployed cyberinfrastructure prototypes using ground-level imagery, aerial imagery, satellite imagery, GIS data, and forward and inverse procedural modeling to create/modify 3D and 2D urban models, given numerous international talks, TEDx talk, and driven-forward global efforts (e.g., WUDAPT).
+
+	
+Selected Publications
+
+Digitizing Cities for urban weather: representing realistic cities for weather and climate simulations using computer graphics and artificial intelligence .
+D. Aliaga, D. Niyogi, Computational Urban Science, 2024
+
+Deep Learning based Urban Morphology for City-scale Environmental Modeling.
+P. Patel, R. Kalyanam, L. He, D. Aliaga, D. Niyogi. Proceedings of the National Academy of Sciences (PNAS) Nexus, 2023
+
+Modeling Large-Scale Heatwave by Incorporating Enhanced Urban Representation.
+P. Patel, S. Jamshidi, R. Nadimpalli, D. Aliaga, G. Mills, F. Chen, M. Demuzere, D. Niyogi. Journal of Geophysical Research: Atmospheres, 2022
+
+Urban Tree Generator: Spatio-Temporal and Generative Deep Learning for Urban Tree Localization and Modeling.
+A. Firoze, B. Benes, D. Aliaga. The Visual Computing Journal (TVCJ), 2022
+
+Automatic Deep Inference of Procedural Cities from Global-Scale Spatial Data.
+X. Zhang, A. Shehata, B. Benes, D. Aliaga. ACM Transactions on Spatial Algorithms and Systems, 2021
+
+Impact of green roofs on heavy rainfall in tropical, coastal urban area.
+P. Patel, S. Karmakar, S. Ghosh, D. Aliaga, D. Niyogi. Environmental Research Letters (ERL), 2021.
+
+Design and Deployment of Photo2Building: A Cloud-based Procedural Modeling Tool as a Service.
+M. Bhatt, R. Kalyanam, G. Nishida, L. He, C. May, D. Niyogi, D. Aliaga, Practice and Experience in Advanced Research Computing (PEARC), 2020
+
+Pathway using WUDAPT's Digital Synthetic City tool towards generating urban canopy parameters for multi-scale urban atmospheric modeling.
+J. Ching, D. Aliaga, G. Mills, V. Masson, L. See, M. Neophytou, A. Middel, A. Baklanov, C. Ren, E. Ng, J. Fung, M. Wong, Y. Huang, A. Martilli, O. Brousse, I. Stewart, X. Zhang, A. Shehata, D. Niyogi, Urban Climate, 2019
+
+Urban Walkability Design using Virtual Population Simulation.
+T. Mathew, P. Knob, S. Musse, D. Aliaga, Computer Graphics Forum (CGF), 2019
+
+Procedural Generation of Flood-Sensitive Urban Layouts.
+A. Mustafa, X. Zhang, G. Nishida, M. Bruwier, B. Dewals, J. Teller, D. Aliaga, Environment and Planning B: Urban Analytics and City Science, 2018
+
+Fast Weather Simulation for Inverse Procedural Design of 3D Urban Models.
+I. Garcia-Dorado, D. Aliaga, P. Bhalachandran, P. Schmid, D. Niyogi, ACM Transactions on Graphics (TOG), 2017
+
+Designing Large-Scale Interactive Traffic Animations for Urban Modeling.
+I. Garcia-Dorado, D. Aliaga, S. Ukkusuri, Computer Graphics Forum (CGF), 2014
+
+Visualization-based Decision Tool for Urban Meteorological Modeling.
+D. Aliaga, C. Vanegas, M. Lei, D. Niyogi. Environment and Planning B: Planning and Design, 2013
+
+Interactive Design of Urban Spaces using Geometrical and Behavioral Modeling.
+C. Vanegas, D. Aliaga, B. Benes, P. Waddell. ACM Transactions on Graphics (TOG), 2009
+
+
+
+
+Imaging and Reconstruction
+
+Dr. Aliaga has developed multiple novel image processing and image-based 3D reconstruction methods. In particular, Dr. Aliaga created the photogeometric structured light method to perform high-accuracy self-calibrating 3D reconstruction. This work led to 3D spatial augmented reality techniques used to perform visual virtual restoration, showcased in several museum applications. In addition, Dr. Aliaga created a novel method to embed a genuinity signature into the surface of 3D objects to detect counterfeiting and tampering. Further, Dr. Aliaga developed custom displays and image rendering methods to compensate for human visual aberrations.
+
+	
+Selected Publications
+
+IMPRINT: Generative Object Compositing by Learning Identity-Preserving Representation.
+Y. Song, Z. Zhang, Z. Lin, S. Cohen, B. Price, J. Zhang, S. Kim, H. Zhang, D. Aliaga, IEEE Computer Vision and Pattern Recognition (CVPR), 2024
+
+ObjectStitch: Generative Object Compositing.
+Y. Song, Z. Zhang, Z. Lin, S. Cohen, B. Price, J. Zhang, D. Aliaga, IEEE Computer Vision and Pattern Recognition (CVPR), 2023
+
+Preemptive Text Warping to Prevent Appearance of Motion Blur.
+Z. Yu, M. Oliveira, D. Aliaga. The Visual Computing Journal (TVCJ), 2022
+
+A Total Variation Approach for Customizing Imagery to Improve Visual Acuity.
+C. Montalto, I. Garcia-Dorado, D. Aliaga, M. Oliveira, F. Meng. ACM Transactions on Graphics (TOG), 2015
+
+Fast High-Resolution Appearance Editing Using Superimposed Projections.
+D. Aliaga, Y. H. Yeung, A. Law, B. Sajadi, A. Majumder. ACM Transactions on Graphics (TOG), 2012
+
+Tailored Displays to Compensate for Visual Aberrations.
+V. Pamplona, M. Oliveira, D. Aliaga, R. Raskar. ACM Transactions on Graphics (TOG), 2012
+
+Pose-Free Structure from Motion Using Depth From Motion Constraints.
+J. Zhang, M. Boutin, D. Aliaga, IEEE Transactions on Image Processing (TIP), 2011
+
+A Self-Calibrating Method for Photogeometric Acquisition of 3D Objects.
+D. Aliaga, Y. Xu. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2010
+
+A Framework for Pose-Free Modeling of 3D Scenes.
+D. Aliaga, J. Zhang, M. Boutin. ACM Transactions on Graphics (TOG), 2009.
+
+Genuinity Signatures: Designing Signatures for Verifying 3D Object Genuinity.
+D. Aliaga, M. Atallah. Computer Graphics Forum (CGF), 2009
+
+Virtual Restoration Stage for Real-World Objects.
+D. Aliaga, A. Law, Y. Yeung. ACM Transactions on Graphics (TOG), 2008
+
+High-Resolution Modeling of Moving and Deforming Objects Using Sparse Geometric and Dense Photometric Measurements.
+Y. Xu, D. Aliaga, IEEE Computer Vision and Pattern Recognition (CVPR), 2010
+
+Photogeometric Structured Light: A Self-Calibrating and Multi-Viewpoint Framework for Accurate 3D Modeling.
+D. Aliaga, Y. Xu. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2008
+
+
+
+
+Publications
+
+All Journals & Conferences: CGVLAB Website
+
+Google Scholar
+
+Semantic Scholar
+
+
+
+
+Grants
+	
+
+(co-PI) Promoting Economic Resilience and Sustainability of the Eastern US Forests (PERSEUS)
+
+
+	
+
+(PI) Deep Generative Modeling for Urban and Archaeological Recovery
+
+
+	
+
+(PI) Minimal 3D Modeling Methodology
+
+
+	
+
+(PI) Review of Academic Programs at Universidad Nacional San Agustin
+
+
+	
+
+(PI) U-Cube: A Cyberinfrastructure for Unified and Ubiquitous Urban Canopy Parameterization
+
+
+	
+
+(PI) Functional Proceduralization of 3D Geometric Models
+
+
+	
+
+(PI) Building Clouds: Worldwide Building Typology Modeling from Image
+
+
+	
+
+(Purdue PI) LEGO: Large-scale Environment-modeling with Geometric Optimization
+
+
+	
+
+(Co-PI) Phase I: Robots and Sensors for the Human Well-being
+
+
+	
+
+(Purdue PI) A Heterogeneous Inference Framework for 3D Modeling and Rendering of Sites
+
+
+	
+
+(PI) STRONG Cities – Simulation Technologies for the Realization of Next Generation Cities
+
+
+	
+
+(PI) Integrating Behavioral, Geometrical and Graphical Modeling to Simulate and Visualize Urban Areas
+
+
+	
+
+(PI) Modeling of Buildings from Photographs
+
+
+	
+
+(Purdue PI) Urban Simulation and Visualization
+
+
+	
+
+(PI) Tablet-based Tools for Urban Visualization and Simulation
+
+
+	
+
+(PI) A Computational Framework for Marking Physical Objects against Counterfeiting and Tampering
+
+
+	
+
+(Co-PI) INTEROP: A Community-based Drought Information Network for Multidisciplinary Application
+
+
+	
+
+(PI) Digital Inspection and Virtual Restoration of 3D Objects
+
+
+	
+
+(Co-PI) Vector Pattern Modeling and Editing
+
+
+	
+
+(PI) Genuinity Signatures
+
+
+	
+
+(PI) 3D Scene Digitization (REU)
+
+
+	
+
+(PI) 3D Scene Digitization: A Novel Invariant Approach for Large-Scale Environment Capture
+
+
+	
+
+(PI) Tablet PC-Based Teaching Platform for Portable Mixed-Reality Concept
+
+
+	
+
+(PI) Immersive Mentoring Using Mixed-Reality Tabletop
+
+
+
+
+Students
+
+Ph.D. Students (advisees)
+
+Chris May
+
+Liu He
+
+Adnan Firoze
+
+David Song
+
+Aocheng Li
+
+Tanner Waltz
+
+Zixun Yu (PhD 2023, Google), "Reducing Image Artifacts in Motion Blur Prevention"
+
+Xiaowei Zhang (PhD 2022, Uber), "Using Structural Regularities for a Procedural Reconstruction of Urban Environments from Satellite Imagery"
+
+Tharindu Mathew (PhD 2020, Microsoft), "Controlling and Enabling Improved Crowd Simulation"
+
+Gen Nishida (PhD 2018, GM Cruise), "Interactive Sketching Framework for Static and Dynamic 3D Content Creation"
+
+Ilke Demir (PhD 2016, Facebook), "A Generalized Proceduralization Framework for Urban Models with Applications in Procedural Modeling, Synthesis, and Reconstruction"
+
+Ignacio Garcia-Dorado (PhD 2015, Google), "Smart Cities: Inverse Design of 3D Urban Models with Traffic and Weather Simulation"
+
+Carlos Vanegas (PhD 2012, UC Berkeley), "Modeling the Appearance and Behavior of Urban Spaces"
+
+Alvin Law (PhD 2011, Google), "Compensation Complaint Appearance Editing of Physical Objects with Arbitrary Shape and Color"
+
+Yi Xu (PhD 2010, GE Research), "Capturing Real-World Dynamic Objects Using Temporally-Coded Photography"
+
+Abhinav Jain (MS 2006, Rockwell Collins), "Robotic Image Acquisition"
+
+Daniel Bekins (MS 2005, Electronic Arts), "Build-by-Numbers"
+
+Scott Yost (MS 2004, Microsoft), "Mixed Reality Tabletop"
+
+Undergraduate Students (research projects performed)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jairo Marulanda (Visiting CS 2024), "Satellite-based Roof Pitch Estimation", Fall 2023
+
+Safi Qadir (CS 2022), "Prefiltered Font for Motion Blur Prevention", Fall 2022
+
+Jerry Hsu (CS 2020), "Street View Building Image Segmentation", Spring 2019
+
+Jacob Dunbar (CS 2018), "Crowd-Controlled User Interface", Fall 2017
+
+Hareesh Gali (CS 2020), "WUDAPT Portal Development", Fall 2016, Spring 2017
+
+Aahash Ganga (CS 2018), "WUDAPT Portal Development", Fall 2016
+
+Zheng Qing Li (CS 2016), "Interactive Water Simulation using GPUs", Spring 2015
+
+Stephen Pinceti (CS 2015), "Interactive Volumetric Deformation", Spring 2015
+
+Ben Staiger (High School), "Appearance Editing", Summer 2013, Fall 2013
+
+David Fifer (CS 2014), "Interactive Appearance Editing", Fall 2012, Spring 2013
+
+Chris May (CS 2013), "3D Acquisition and Appearance Editing Engine", Spring 2013
+
+Yeong-Ouk Kim (CS 2013), "Levels of Detail for Urban Procedural Modeling", Summer 2012, Fall 2012
+
+John McCoy Crofts (CS 2012), "Educational Games for Learning Percussion Instruments", Spring 2012
+
+Andy Feldcamp (CGT 2011), "Procedural Building Modeling", 2011
+
+Tyler Smith (CS 2011), "Photometric Stereo; Image-based Vision Correction", Fall 2010, Spring 2011, Summer 2011
+
+Philip Jarvis (CS 2011), "Modeling Trees in Large Urban Spaces", Fall 2010
+
+Aaron Link (CS 2010), "Procedural Modeling for Coherent Urban Spaces", 2009-2010
+
+Robert Insley (CS 2008), "Angle-Independent Bundle Adjustment", Spring 2009
+
+Dat Nyugen, Nitin Nalreja, Nimesh Amin (CS 2006), "Portable Mixed Reality", Spring 2009
+
+Jamie Gennis (Math/CS 2005), "3D Acquisition Methods", 2004-2005
+
+Paul Ardis (Math/CS 2005), "Mobile Mixed Reality", 2004-2005
+
+Jonathan Deutsch (CS 2004), "Mixed Reality Tabletop", 2004
+
+Darin Rajan (CS 2005), "Mobile Image Acquisition", 2004
+
+
+
+
+Personal Interests
+
+Hobbies: Sailing, vintage cars, vintage computing, woodworking, karate
+
+Languages: English, Spanish, some German
+
+Family: Wedding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,629 @@
+Professor: Donglai Wei 0001
+University: Boston College
+URL: https://donglaiw.github.io/
+Description: 
+Donglai Wei
+
+
+Assistant Professor of Computer Science
+Boston College
+ 
+Office: 245 Beacon St., Rm 528F
+Email: donglai.wei [AT] bc.edu
+
+
+Github / Google Scholar
+
+I spent memorable postdoc years with Hanspeter Pfister and Jeff Lichtman at Harvard University. I was fortunate to be supervised by William Freeman during my Ph.D. study at MIT CSAIL. I finished my undergraduate in Maths from Brown University (transferred from Tsinghua University), where I was privileged to work under Charles Lawrence, Erik Sudderth, Stuart Geman, and See-Chen Ying.
+
+
+Research
+Our group studies the interplay between natural and artificial intelligence: building foundational models for brain image analysis and examining brain mechanisms to guide computer video understanding.
+  - Brain image analysis: Connectome [Google AI blog], Transcriptome [ExM]
+  - Video understanding: Arrow of Time, Vimeo-90K
+
+The group is grateful for the support from: NSF-CAREER.
+Teaching
+CSCI 3383: Algorithms: F23
+CSCI 3343: Computer Vision: F22, F21
+CSCI 3397: Biomedical Image Analysis. S24, S23, S22
+Office Hours
+Course: Tue/Wed 3-4 pm
+All BC (preferrably underrepresented groups): Mon/Tue 4-5 pm (15-min by appointment)
+Now Looking For: postdocs, visiting scholars and research interns.
+Lab members
+Postdoc:	Peng Liu
+Software Engineer:	Mansour Alawi
+Undergrad:	Jason Adhinarta	Michael Lin	Adam Gohain	Xingyan Wang
+
+
+Visitors/Interns
+PhD:	Junxiang Huang
+Master:	Zengyu Yang
+
+
+Publications [Artificial Intelligence, Natrual Intelligence, Dataset]
+2024
+
+
+	
+R2-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding
+Ye Liu, Jixuan He, Wanhua Li, Junsik Kim, Donglai Wei, Hanspeter Pfister, Chang Wen Chen
+ECCV 2024
+
+
+	
+Learning Causal Domain-Invariant Temporal Dynamics for Few-Shot Action Recognition
+Yuke Li*, Guangyi* Chen, Ben Abramowitz, Stefano Anzellotti, Donglai Wei
+ICML 2024
+
+
+	
+LLCP: Learning Latent Causal Processes for Reasoning-based Video Question Answer
+Guangyi Chen*, Yuke Li*, Xiao Liu, Zijian Li, Eman Al Suradi, Donglai Wei, Kun Zhang
+ICLR 2024
+[Website (code)]
+
+
+
+	
+Learning Gaze-aware Compositional GAN from Limited Annotations
+Nerea Aranjuelo Ansa, Siyu Huang, Ignacio Arganda-Carreras, Luis Unzueta Irurtia, Oihana Otaegui Madurga, Hanspeter Pfister, Donglai Wei
+ETRA 2024
+
+
+
+	
+S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation
+Kangxian Xie, Siyu Huang, Sebastian Andres Cajas Ordonez, Hanspeter Pfister, Donglai Wei
+ISBI 2024
+[Website (code)]
+
+
+
+	
+WASPSYN: A Challenge for Domain Adaptive Synapse Detection in Microwasp Brain Connectomes
+Yicong Li, Wanhua Li, Qi Chen, Wei Huang, Yuda Zou, Xin Xiao, Kazunori Shinomiya, Pat Gunn, Nishika Gupta, Alexey Polilov, Yongchao Xu, Yueyi Zhang, Zhiwei Xiong, Hanspeter Pfister, Donglai Wei, Jingpeng Wu
+TMI 2024
+[Website (code/data)]
+
+
+
+	
+RibSeg v2: A Large-scale Benchmark for Rib Labeling and Anatomical Centerline Extraction
+Liang Jin, Shixuan Gu, Donglai Wei, Jason Adhinarta, Kaiming Kuang, Yongjie Zhang, Hanspeter Pfister, Bingbing Ni, Jiancheng Yang, Ming Li
+TMI 2024
+[Website (code/data)]
+
+
+
+	
+Two-stage Error Detection to Improve Electron Microscopy Image Mosaicking
+Hongyu Ge, Jiahao Shi, Shuohong Wang, Donglai Wei, Jiancheng Yang, Ao Cheng, Richard Schalek, Jun Guo, Jeff Lichtman, Lirong Wang, Ruobing Zhang
+Computers in Biology and Medicine 2024
+
+
+
+
+	
+A Connectomic Study of A Petascale Fragment of Human Cerebral Cortex
+Alexander Shapson-Coe, Michał Januszewski, Daniel Berger, Art Pope, Yuelong Wu, Tim Blakely, Richard Schalek, Peter Li, Shuohong Wang, Jeremy Martin-Shepard, Neha Karlupia, Sven Dorkenwald, Evelina Sjostedt, Laramie Leavitt, Dongil Lee, Luke Bailey, Angerica Fitzmaurice, Rohin Kar, Benjamin Field, Hank Wu, Julian Wagner-Carena, David Aley, Joanna Lau, Zudi Lin, Donglai Wei, Hanspeter Pfister, Adi Peleg, Viren Jain, Jeff W. Lichtman
+Science 2024
+[Google AI blog][Gallery]
+
+
+
+	
+Multiplexed Volumetric CLEM enabled by antibody derivatives provides new insights into the cytology of the mouse cerebellar cortex
+Xiaomeng Han, Xiaotang Lu, Peter Li, Shuohong Wang, Richard Schalek, Yaron Meirovitch, Zudi Lin, Jason Adhinarta, Daniel Berger, Yuelong Wu, Tao Fang, Elif Sevde Meral, Shadnan Asraf, Hidde Ploegh, Hanspeter Pfister, Donglai Wei, Viren Jain, James Trimmer, Jeff Lichtman
+Nature Communication 2024
+
+
+
+
+	
+BlastAssist: A Deep Learning Pipeline to Measure Interpretable Features of Human Embryos
+Helen Yang, Brian Leahy, Won-Dong Jang, Donglai Wei, Yael Kalma, Roni Rahav, Ariella Carmon, Rotem Kopel, Foad Azem, Marta Venturas, Colm Kelleher, Liz Cam, Hanspeter Pfister, Daniel Needleman, Dalit Ben-Yosef
+Human Reproduction 2024
+
+
+
+2023
+
+
+	
+CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation
+Devaansh Gupta, Siddhant Kharbanda, Jiawei Zhou, Wanhua Li, Hanspeter Pfister, Donglai Wei
+ICCV 2023
+[Website] [Code]
+
+
+
+	
+VizAbility: Multimodal Accessible Data Visualization with Keyboard Navigation and Conversational Interaction
+Joshua Gorniak, Jake Ottiger, Donglai Wei, Nam Wook Kim
+UIST 2023
+[Poster]
+
+
+
+	
+Domain-Scalable Unpaired Image Translation via Latent Space Anchoring
+Siyu Huang, Jie An, Donglai Wei, Zudi Lin, Jiebo Luo, Hanspeter Pfister
+TPAMI 2023
+[Code]
+
+
+
+	
+QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity
+Siyu Huang, Jie An, Donglai Wei, Jiebo Luo, Hanspeter Pfister
+CVPR 2023
+[Code]
+
+
+
+	
+Why is the winner the best?
+Matthias Eisenmann, ..., Donglai Wei, ..., Lena Maier-hein
+CVPR 2023
+
+
+
+
+	
+Current Progress and Challenges in Large-scale 3D Mitochondria Instance Segmentation
+Daniel Franco-Barranco, Zudi Lin, Won-Dong Jang, Xueying Wang, Qijia Shen, Wenjie Yin, Yutian Fan, Mingxing Li, Chang Chen, Zhiwei Xiong, Rui Xin, Hao Liu, Huai Chen, Zhili Li, Jie Zhao, Xuejin Chen, Constantin Pape, Ryan Conrad, Luke Nightingale, Joost de Folter, Martin Jones, Yanling Liu, Dorsa Ziaei, Stephan Huschauer, Ignacio Arganda-Carreras, Hanspeter Pfister, Donglai Wei
+TMI 2023
+[Website (code/data)]
+
+
+
+	
+Structure-Preserving Instance Segmentation via Skeleton-Aware Distance Transform
+Zudi Lin, Donglai Wei, Aarush Gupta, Xingyu Liu, Deqing Sun, Hanspeter Pfister
+MICCAI 2023 [Oral]
+[Code][Website (coming soon)]
+
+
+
+	
+High-Throughput Microscopy Image Deblurring with Graph Reasoning Attention Network
+Yulun Zhang, Donglai Wei, Richard Schalek, Yuelong Wu, Stephen Turney, Jeff Lichtman, Hanspeter Pfister, Yun Fu
+ISBI 2023 (later: Microscopy and Microanalysis 2023)
+
+
+
+
+	
+Learning Vector Quantized Shape Code for Amodal Blastomere Instance Segmentation
+Won-Dong Jang, Donglai Wei, Xingxuan Zhang, Brian Leahy, Helen Yang, James Tompkin, Dalit Ben-Yosef, Daniel Needleman, Hanspeter Pfister
+ISBI 2023
+
+
+
+
+	
+Multi-task Curriculum Learning for Partially Labeled Data
+Won-Dong Jang, Stanislav Lukyanenko, Donglai Wei, Jiancheng Yang, Brian Leahy, Helen Yang, Dalit Ben-Yosef, Daniel Needleman, Hanspeter Pfister
+ISBI 2023 [Oral]
+
+
+
+
+	
+3D Domain Adaptive Instance Segmentation Via Cyclic Segmentation GANs
+Leander Lauenburg, Zudi Lin, Ruihan Zhang, Márcia dos Santos, Siyu Huang, Ignacio Arganda-Carreras, Edward Boyden, Hanspeter Pfister, Donglai Wei
+JBHI 2023
+[Website (code)][Dataset]
+
+
+
+	
+Vimo: Visual Analysis of Neuronal Connectivity Motifs
+Jakob Troidl, Simon Warchol, Jinhan Choi, Jordan Matelsky, Nagaraju Dhanyasi, Xueying Wang, Brock Wester, Donglai Wei, Jeff Lichtman, Hanspeter Pfister, Johanna Beyer
+VIS 2023 (TVCG 2024)
+[Website (code)]
+
+
+
+	
+Dense 4D nanoscale reconstruction of living brain tissue
+Philipp Velicky, Eder Miguel, Julia M. Michalska, Donglai Wei, Zudi Lin, Jake F. Watson, Jakob Troidl, Johanna Beyer, Yoav Ben-Simon, Christoph Sommer, Wiebke Jahr, Alban Cenameri, Johannes Broichhagen, Seth G. N. Grant, Peter Jonas, Gaia Novarino, Hanspeter Pfister, Bernd Bickel, Johann G. Danzl
+Nature Methods 2023
+
+
+
+	
+Immersion fixation and staining of multi-cubic millimeter volumes for electron microscopy-based connectomics of human brain biopsies
+Neha Karlupia, Richard Schalek, Yuelong Wu, Yaron Meirovitch, Donglai Wei, Alexander Charney, Brian Kopell, Jeff Lichtman
+Biological Psychiatry 2023
+[Visualization]
+
+
+
+	
+A large-scale volumetric correlated light and electron microscopy study localizes Alzheimer's disease-related molecules in the hippocampus
+Xiaomeng Han, Shuohong Wang, Morgan Sanchez, Sneha Aggarwal, Richard Schalek, Yaron Meirovitch, Zudi Lin, Yuelong Wu, Fatima Aly, Sylvie Bay, Benoît Delatour, Pierre Lafaye, Hanspeter Pfister, Donglai Wei, Hidde Ploegh, Jeff Lichtman
+bioarxiv 2023
+
+
+
+
+2022
+
+
+	
+YouMVOS: An Actor-centric Multi-shot Video Object Segmentation Dataset
+Donglai Wei, Siddhant Kharbanda, Sarthak Arora, Roshan Roy, Nishant Jain, Akash Palrecha, Tanav Shah, Shray Mathur, Ritik Mathur, Abhijay Kemka, Anirudh Chakravarthy, Zudi Lin, Won-Dong Jang, Yansong Tang, Song Bai, James Tompkin, Philip H.S. Torr, Hanspeter Pfister
+CVPR 2022
+[Website (code)]
+
+
+
+	
+Texture-based Error Analysis for Image Super-Resolution
+Salma Abdel Magid, Zudi Lin, Donglai Wei, Yulun Zhang, Jinjin Gu, Hanspeter Pfister
+CVPR 2022
+[Website (code)]
+
+
+
+	
+Scalable Biologically-Aware Skeleton Generation for Connectomic Volumes
+Brian Matejek, Tim Franzmeyer, Donglai Wei, Xueying Wang, Jinglin Zhao, Kálmán Palágyi, Jeff W. Lichtman, Hanspeter Pfister
+TMI 2022
+[Website (code/data)]
+
+
+
+	
+UnMICST: Deep Learning with Real Augmentation for Robust Segmentation of Highly Multiplexed Images of Human Tissues
+Clarence Yapp, Edward Novikov, Won-Dong Jang, Yu-An Chen, Marcelo Cicconet, Zoltan Maliga, Connor A. Jacobson, Donglai Wei, Sandro Santagata, Hanspeter Pfister, Peter K. Sorger
+Communications Biology 2022
+
+
+
+
+	
+Edge-Colored Directed Subgraph Enumeration on the Connectome
+Brian Matejek, Donglai Wei, Tianyi Chen, Charalampos Tsourakakis, Michael Mitzenmacher, Hanspeter Pfister
+Scientific Reports 2022
+[Website (code/data)]
+
+
+
+	
+MedMNIST v2: A Large-Scale Lightweight Benchmark for 2D and 3D Biomedical Image Classification
+Jiancheng Yang, Rui Shi, Donglai Wei, Zequan Liu, Lin Zhao, Bilian Ke, Hanspeter Pfister, and Bingbing Ni
+Scientific Data 2022
+[Website (code/data)]
+
+
+2021
+
+
+	
+Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training
+Yuanhao Cai, Xiaowan Hu, Haoqian Wang, Yulun Zhang, Hanspeter Pfister, Donglai Wei
+NeurIPS 2021
+[Website (code)]
+
+
+
+	
+Dynamic High-Pass Filtering and Multi-Spectral Attention for Image Super-Resolution
+Salma Abdel Magid, Yulun Zhang, Donglai Wei, Won-Dong Jang, Zudi Lin, Yun Fu, Hanspeter Pfister
+ICCV 2021
+[Website (code)]
+
+
+
+	
+Context Reasoning Attention Network for Image Super-Resolution
+Yulun Zhang, Donglai Wei, Can Qin, Huan Wang, Hanspeter Pfister, Yun Fu
+ICCV 2021
+
+
+
+	
+AxonEM Dataset: 3D Axon Instance Segmentation of Brain Cortical Regions
+Donglai Wei*, Kisuk Lee*, Hanyu Li, Ran Lu, J. Alexander Bae, Zequan Liu, Lifu Zhang, Márcia dos Santos, Zudi Lin, Thomas Uram, Xueying Wang, Ignacio Arganda-Carreras, Brian Matejek, Narayanan Kasthuri, Jeff Lichtman, Hanspeter Pfister
+MICCAI 2021
+[Website (code/data)][Challenge]
+
+
+
+	
+NucMM Dataset: 3D Neuronal Nuclei Instance Segmentation at Sub-Cubic Millimeter Scale
+Zudi Lin*, Donglai Wei*, Mariela Petkova, Yuelong Wu, Zergham Ahmed, Krishna Swaroop K, Silin Zou, Nils Wendt, Jonathan Boulanger-Weill, Xueying Wang, Nagaraju Dhanyasi, Ignacio Arganda-Carreras, Florian Engert, Jeff Lichtman, Hanspeter Pfister
+MICCAI 2021 (Student Travel Award)
+[Website (code/data)][Challenge]
+
+
+
+	
+Developmental Stage Classification of Embryos Using Two-Stream Neural Network with Linear-Chain Conditional Random Field
+Stanislav Lukyanenko, Won-Dong Jang, Donglai Wei, Robbert Struyven, Yoon Kim, Brian Leahy, Helen Yang, Alexander Rush, Dalit Ben-Yosef, Daniel Needleman, Hanspeter Pfister
+MICCAI 2021 (nominated but ineligible for Student Travel Award)
+[Website (code)]
+
+
+
+	
+RibSeg Dataset and Strong Point Cloud Baselines for Rib Segmentation from CT Scans
+Jiancheng Yang, Shixuan Gu, Bingbing Ni, Donglai Wei, Hanspeter Pfister
+MICCAI 2021
+[Website (code/data)]
+
+
+
+	
+Consistent Recurrent Neural Networks for 3D Neuron Segmentation
+Felix Gonda, Donglai Wei, Hanspeter Pfister
+ISBI 2021
+[Code]
+
+
+
+	
+The Wood Image Analysis and Dataset (WIAD): open-access visual analysis tools to advance the ecological data revolution
+Tim Rademacher, Bijan Seyednasrollah, David Basler, Jian Cheng, Tessa Mandra, Elise Miller, Zudi Lin, David A Orwig, Neil Pederson, Hanspeter Pfister, Andrew D Richardson, Donglai Wei, Li Yao
+Methods in Ecology and Evolution 2021
+
+
+
+2020
+
+
+	
+Super-BPD: Super Boundary-to-Pixel Direction for Fast Image Segmentation
+Jianqiang Wan, Yang Liu, Donglai Wei, Xiang Bai, Yongchao Xu
+CVPR 2020
+[Code]
+
+
+
+	
+A Topological Nomenclature for 3D Shape Analysis in Connectomics
+Abhimanyu Talwar, Zudi Lin, Donglai Wei, Yuesong Wu, Bowen Zheng, Jinglin Zhao, Won-Don Jang, Xueying Wang, Jeff Lichtman, Hanspeter Pfister
+CVPR 2020 Workshop: Computer Vision for Microscopy Image Analysis
+[Code]
+
+
+
+	
+Two-Stream Active Query Suggestion for Large-Scale Object Detection in Connectomics
+Zudi Lin, Donglai Wei, Won-Dong Jang, Siyan Zhou, Xupeng Chen, Xueying Wang, Richard L. Schalek, Daniel R. Berger, Brian Matejek, Lee D. Kamentsky, Adi Peleg, Daniel Haehn, Thouis R. Jones, Toufiq Parag, Jeff Lichtman, Hanspeter Pfister
+ECCV 2020
+[Website (code/data)][Supp]
+
+
+
+	
+MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images
+Donglai Wei, Zudi Lin, Daniel Franco-Barranco, Nils Wendt, Xingyu Liu, Wenjie Yin, Xin Huang, Aarush Gupta, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff Lichtman, Hanspeter Pfister
+MICCAI 2020
+[Website (code/data)][Challenge]
+
+
+
+	
+Automated Measurement of Key Morphological Features of Human Embryos for IVF
+Brian Leahy*, Won-Dong Jang*, Helen Yang*, Robbert Struyven, Donglai Wei, Zhe Sun, Kylie R. Lee, Charlotte Royston, Liz Cam, Yael Kalma, Foad Azem, Dalit Ben-Yosef, Hanspeter Pfister, Daniel Needleman
+MICCAI 2020
+[Website (code)]
+
+
+
+	
+Channel Embedding for Informative Protein Identification from Highly Multiplexed Images
+Salma A. Magid, Won-Dong Jang, Denis Schapiro, Donglai Wei, James Tompkin, Peter Sorger, Hanspeter Pfister
+MICCAI 2020
+[Website (code)]
+
+
+
+	
+Pulse-driven robot: Motion via Solitary Waves
+Bolei Deng, Liyuan Chen, Donglai Wei, Vincent Tournat, Katia Bertoldi
+Science Advances 2020
+
+
+
+2019
+
+
+	
+Video Enhancement with Task-Oriented Flow
+Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, William T. Freeman
+IJCV 2019
+[Website]
+
+
+
+	
+Synapse-Aware Skeleton Generation for Neural Circuits
+Brian Matejek, Donglai Wei, Xueying Wang, Jinglin Zhao, Kálmán Palágyi, Hanspeter Pfister
+MICCAI 2019
+[Website (code)][Video]
+
+
+
+	
+Biologically-Constrained Graphs for Global Connectomics Reconstruction
+Brian Matejek, Daniel Haehn, Haidong Zhu, Donglai Wei, Toufiq Parag, Hanspeter Pfister
+CVPR 2019
+[Code)]
+
+
+
+2018
+
+
+	
+Learning and Using the Arrow of Time
+Donglai Wei, Joseph Lim, Andrew Zisserman, Wlliam T. Freeman
+CVPR 2018
+[Website (code/data)][Extension]
+
+
+
+	
+Parallel Separable 3D Convolution for Video and Volumetric Data Understanding
+Felix Gonda, Donglai Wei, Toufiq Parag, Hanspeter Pfister
+BMVC 2018
+[Code]
+
+
+
+	
+Detecting Synapse Location and Connectivity by Signed Proximity Estimation and Pruning with Deep Nets
+Toufiq Parag, Daniel Berger, Lee Kamentsky, Benedikt Staffler, Donglai Wei, Moritz Helmstaedter, Jeff W. Lichtman, Hanspeter Pfister
+ECCV 2018 Workshop: Bioimage Computing
+[Code]
+
+
+
+Before 2018
+
+
+	
+Motion Microscopy for Visualizing and Quantifying Small Motions
+Neal Wadhwa, Justin G. Chen, Jonathan B. Sellon, Donglai Wei, Michael Rubinstein, Roozbeh Ghaffari, Dennis M. Freeman, Oral Büyüköztürk, Pai Wang, Sijie Sun, Sung Hoon Kang, Katia Bertoldi, Fredo Durand, William T. Freeman
+PNAS 2017
+[Website (code)]
+
+
+
+	
+Mining Visual Evolution in 21 Years of Web Design
+Ali Jahanian, Philip Isola, Donglai Wei
+CHI Extended Abstracts 2017
+
+
+
+
+	
+Deviation Magnification: Revealing Departures from Ideal Geometries
+Neal Wadhwa, Tali Dekel, Donglai Wei, Fredo Durand, William T. Freeman
+SIGGRAPH Asia 2015
+[Website]
+
+
+
+	
+Understanding Intra-Class Knowledge inside CNN
+Donglai Wei, Bolei Zhou, Antonio Torralba, William T. Freeman
+arxiv 2015
+[Website (code)][distill.pub]
+
+
+
+	
+Seeing the Arrow of Time
+Lindsey Pickup, Zheng Pan, Donglai Wei, Yichang Shih, Changshui Zhang, Andrew Zisserman, Bernhard Schölkopf, William T. Freeman
+CVPR 2014
+[Website]
+
+
+
+	
+A Data-driven Regularization Model for Stereo and Flow
+Donglai Wei, Ce Liu, William T. Freeman
+3DV 2014 [Oral]
+[Video]
+
+
+
+	
+Video Representation Using Temporal Superpixels
+Jason Chang, Donglai Wei, John Fisher III
+CVPR 2013
+[Code][Video]
+
+
+
+	
+Learning Deformations with Parallel Transport
+Donglai Wei, Dahua Lin, John Fisher III
+ECCV 2012
+[Video]
+
+
+
+	
+RNAG: A New Gibbs Sampler for Predicting RNA Secondary Structure for Unaligned Sequences
+Donglai Wei, Lauren Alpert and Charles Lawrence
+Bioinformatics 2011
+[Website (code)]
+
+
+
+Challenges/Workshops
+
+
+	
+MedAGI: Foundation Models for General Medical AI
+Won-Ki Jeong, Hyunwoo Kim, Yiqing Shen, Zhongying Deng, Edward Choi, Junjun He, Hoon Cho, Donglai Wei, Jin Ye, Jing Ke
+MICCAI Workshop 2023
+
+
+
+	
+RnR-ExM: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes
+Emma Besier, Ruihan Zhang, Yosuke Bando, Yves Quéméner, Chaitanya Kapoor, Mansour Alawi, Malte Hoffmann, Adrian Dalca, Adrià Casamitjana, Ignacio Arganda-Carreras, Ed Boyden, Hanspeter Pfister, Donglai Wei
+ISBI Challenge 2023
+
+[Computer Vision News]
+
+
+
+	
+An Out-of-Domain Synapse Detection Challenge for Microwasp Brain Connectomes
+Jingpeng Wu, Yicong Li, Kazunori Shinomiya, Pat Gunn, Alexey Polilov, Hanspeter Pfister, Dmitri Chklovskii, Donglai Wei
+ISBI Challenge 2023
+
+[Computer Vision News]
+
+
+
+	
+XPRESS: Xray Projectomic Reconstruction (Extracting Segmentation with Skeletons)
+Mukul Narwani, Mark Larson, Tri Nguyen, Yicong Li, Hanspeter Pfister, Donglai Wei, Nir Shavit, Lu Mi, Alexandra Pacureanu, Wei-Chung Lee, Aaron Kuan
+ISBI Challenge 2023
+
+
+
+
+	
+Neuroimage Informatics at the Microscale and Mesoscale
+Jingpeng Wu, Donglai Wei, Anan Li, Linqing Feng, Shang Mu
+Research Topics @ Frontiers in Neuroinformatics
+
+
+
+
+	
+MitoEM Challenge: Large-scale 3D Mitochondria Instance Segmentation
+Donglai Wei, Zudi Lin, Daniel Franco-Barranco, Wenjie Yin, Won-Dong Jang, Xueying Wang, Ignacio Arganda-Carreras, Jeff Lichtman, Hanspeter Pfister
+ISBI Challenge 2021
+
+
+
+
+	
+RibFrac Challenge: Rib Fracture Detection and Classification
+Jiancheng Yang, Xiaoyang Huang, Kaiming Kuang, Jiajun Chen, Liang Jin, Donglai Wei, Ming Li, Bingbing Ni
+MICCAI Challenge 2020
+
+
+
+
+Patents
+US Patent App. 15/223,438 Neal Wadhwa, Tali Dekel, Donglai Wei, Fredo Durand, William T. Freeman: Deviation Magnification: Revealing Departures from Ideal Geometries.
+Short Bio
+ 	Born and grown up in China
+   	Gradually became lost, ignorant, but arrogant
+	Born again
+

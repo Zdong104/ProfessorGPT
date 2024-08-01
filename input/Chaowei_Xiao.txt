@@ -1,0 +1,180 @@
+Professor: Chaowei Xiao
+University: University of Wisconsin - Madison
+URL: https://xiaocw11.github.io/
+Description: Home
+Home
+(current)
+About
+Publications
+Chaowei Xiao
+
+Email: cxiao34@wisc.edu
+
+I am Chaowei Xiao, an assistant professor at the University of Wisconsin, Madison, and also a research scientist at NVIDIA.
+
+I am currently very interested in exploring the trustworthy problem in (MultiModal) Large Language Model System and studying the role of LLMs in different application domains.
+
+
+
+
+I obtained my Ph.D. from the University of Michigan, Ann Arbor, and my bachelor's degree from Tsinghua University.
+
+[Google Scholar]
+
+I’m looking for self-motivated students (B.S., Master, and Ph.D.) who are interested in my research. If you are interested in working with me, drop me an email with your CV. Check out our PhD programs at Computer Science or Information School @ University of Wisconsin Madison and mention my name in your application and research statement.
+
+UW-Madison is an excellent place for research, and Madison is a wonderful city to live in. Please check out these videos (Why UW-Madison, Madison).
+
+
+
+Recent News
+[07/2024] MultiModal jailbreak benchmark is accepted to COLM. It is from the interns at my group.
+[07/2024] 4/4 papers are accepted to ECCV on the topic of trustworthy VLM and driving. Two of them are from interns in my group.
+[06/2024] I am currently serving as AC for the NeurIPS regular track and Senior AC for NeurIPs benchmark tracks.
+[06/2024] I will give a talk: Security in the era of Vision Large Language Models at CVPR workshop
+[06/2024] I will give a talk: Security in the era of Large Language Models at NAACL tutorial
+[05/2024] I will give a talk : Security in the era of Large Language Models at ICLR workshop
+[05/2024] Our jailbreak paper is accepted to USENIX Security. Congratulations, Zhiyuan!
+[03/2024] Five papers at NAACL on LLM security (4 main and 1 finding): two on the backdoor attack, one on backdoor defense, one on jailbreak attacks, and one on model fingerprint. Stay tuned on these exciting fields
+[03/2024] PreDa for personalized federated learning is accepted at CVPR 2024.
+[01/2024] Three papers at ICLR.
+[01/2024] Two papers at TMLR
+[12/2023] Invited Talk at NeurIPS TDW workshop
+[10/2023]Our paper MoleculeSTM has been accepted to Nature Machine Intelligence. MoleculeSTM aims to align the nature language and molecule representation into the same representation space.
+More
+Preprints
+[New][LLM System Security] A New Era in LLM Security: Exploring Security Concerns in Real-World LLM-based Systems.
+
+Fangzhou Wu, Ning Zhang, Somesh Jha, Patrick McDaniel, Chaowei Xiao.
+
+https://arxiv.org/abs/2402.18649
+[New][LLM Security] Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment.
+
+Jiongxiao Wang, Jiazhao Li, Yiquan Li, Xiangyu Qi, Muhao Chen, Junjie Hu, Yixuan Li, Bo Li, Chaowei Xiao
+
+https://arxiv.org/abs/2402.14968
+[LLM For Driving] Dolphins: Multimodal Language Model for Driving.
+
+Yingzi Ma, Yulong Cao, Jiachen Sun, Marco Pavone, Chaowei Xiao
+
+https://arxiv.org/abs/2312.00438
+Publications (Selected)
+
+(* represents equal contribution)
+
+[Full List], [Google Scholar]
+
+[LLM Safety]Instructional fingerprinting of large language models.
+
+Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen.
+
+NAACL 2024.
+[LLM Safety]AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models.
+
+Xiaogeng Liu, Nan Xu, Muhao Chen, Chaowei Xiao.
+
+ICLR 2024.
+[LLM Safety]On the exploitability of instruction tuning.
+
+Manli Shu, Jiongxiao Wang, Chen Zhu, Jonas Geiping, Chaowei Xiao*, Tom Goldstein*.
+
+NeurIPS 2023 [pdf] [code]
+
+[LLM Copyright]CodeIPPrompt: Intellectual Property Infringement Assessment of Code Language Models
+
+Zhiyuan Yu, Yuhao Wu, Ning Zhang, Chenguang Wang, Yevgeniy Vorobeychik, Chaowei Xiao
+
+ICML 2023. [pdf] [code]
+
+[LLM]Shall we pretrain autoregressive language models with retrieval? a comprehensive study.
+
+Boxin Wang, Wei Ping, Peng Xu, Lawrence McAfee, Zihan Liu, Mohammad Shoeybi, Yi Dong, Oleksii Kuchaiev, Bo Li, Chaowei Xiao, Anima Anandkumar, Bryan Catanzaro
+
+EMNLP 2023
+
+[Multi-Modal LLM]Re-ViLM: Retrieval-Augmented Visual Language Model for Zero and Few-Shot Image Captioning
+
+Zhuolin Yang, Wei Ping, Zihan Liu, Vijay Korthikanti, Weili Nie, De-An Huang, Linxi Fan, Zhiding Yu, Shiyi Lan, Bo Li, Ming-Yu Liu, Yuke Zhu, Mohammad Shoeybi, Bryan Catanzaro, Chaowei Xiao*, Anima Anandkumar*
+
+EMNLP 2023
+
+[Diffusion & Security] Diffusion Models for Adversarial Purification
+
+Weili Nie, Brandon Guo, Yujia Huang,Chaowei Xiao, Arash Vahdat, Anima Anandkumar.
+
+ICML 2022[pdf] [code]
+
+[Diffusion Model & Security] A Critical Revisit of Adversarial Robustness in 3D Point Cloud Recognition with Diffusion-Driven Purification.
+
+Jiachen Sun, Jiongxiao Wang, Weili Nie, Zhiding Yu, Zhuoqing Mao, Chaowei Xiao
+
+ICML 2023. [pdf] [code]
+
+[Diffusion & Security] DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing.
+
+Jiawei Zhang, , Zhongzhu Chen, Huan Zhang, Chaowei Xiao, Bo Li.
+
+USENIX Security 2023. [pdf] [code]
+
+[Diffusion & Security] DensePure: Understanding Diffusion Models towards Adversarial Robustness.
+
+Chaowei Xiao*, Zhongzhu Chen*, Kun Jin*, Jiongxiao Wang*, Weili Nie, Mingyan Liu, Anima Anandkumar, Bo Li, Dawn Song
+
+ICLR 2023. [pdf] [code]
+
+[AI for Social Good] Retrieval-based Controllable Molecule Generation
+
+Zichao Wang, Weili Nie, Zhuoran Qiao, Chaowei Xiao , Richard Baraniuk, Anima Anandkumar
+
+ICLR 2023 (spotlight). [pdf] [code]
+
+[AI for Social Good] GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics.
+
+Maxim Zvyagin*, Alexander Brace*, Kyle Hippe*, Yuntian Deng*, Bin Zhang, Cindy Orozco Bohorquez, Austin Clyde, Bharat Kale, Danilo Perez-Rivera, Heng Ma, Carla M. Mann, Michael Irvin, J. Gregory Pauloski, Logan Ward, Valerie Hayot, Murali Emani, Sam Foreman, Zhen Xie, Diangen Lin, Maulik Shukla, Weili Nie, Josh Romero, Christian Dallago, Arash Vahdat, Chaowei Xiao, Thomas Gibbs, Ian Foster, James J. Davis, Michael E. Papka, Thomas Brettin, Rick Stevens, Anima Anandkumar, Venkatram Vishwanath, Arvind Ramanathan.
+
+ACM Gordon Bell Special Covid Prize[pdf] [code]
+
+[ViT & Robustness] Understanding the robustness in vision transformers.
+
+Daquan Zhou, Zhiding Yu, Enze Xie,Chaowei Xiao, Anima Anandkumar, Jiashi Feng, Jose M Alvarez.
+
+ICML 2022[pdf] [code]
+
+[Adv Training & Robustness] AugMax: Adversarial Composition of RandomAugmentations for Robust Training.
+
+Haotao Wang,Chaowei Xiao, Jean Kossaifi, Zhiding Yu, Animashree Anandkumar, Zhangyang Wang.
+
+NeurIPS 2021
+
+[Security] Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks.
+
+Yulong Cao*, Ningfei Wang*,Chaowei Xiao*, Dawei Yang*, Jin Fang, RuigangYang, Qi Alfred Chen, Mingyan Liu, Bo Li.
+
+IEEE Symposium on Security and Privacy (Oakland) 2021
+
+[Security] MeshAdv: Adversarial Meshes for Visual Recognition
+
+Chaowei Xiao*, Dawei Yang*, Bo Li, Jia Deng, Mingyan Liu
+
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019. (oral) [pdf]
+
+[Security] Spatially Transformed Adversarial Examples
+
+Chaowei Xiao*, Jun-Yan Zhu*, Bo Li, Warren He, Mingyan Liu and Dawn Song
+
+In International Conference on Learning Representations (ICLR), 2018 [pdf]
+
+[Security] Generating Adversarial Examples with Adversarial Networks
+
+Chaowei Xiao, Bo Li, Jun-Yan Zhu, Warren He, Mingyan Liu and Dawn Song
+
+In International Joint Conference on Artificial Intelligence (IJCAI), 2018. [pdf]
+
+[Security] Robust Physical-World Attacks on Machine Learning Models
+
+Kevin Eykholt*, Ivan Evtimov*, Earlence Fernandes, Bo Li, Amir Rahmati, Chaowei Xiao, Atul Prakash, Tadayoshi Kohno and Dawn Song
+
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 [pdf]
+
+Designed via Bootstrap
+

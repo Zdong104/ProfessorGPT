@@ -1,0 +1,362 @@
+Professor: Monica S. Lam
+University: Stanford University
+URL: https://suif.stanford.edu/~lam
+Description: Monica S. Lam  
+Kleiner Perkins, Mayfield, Sequoia Capital Professor of the School of Engineering
+Computer Science Department
+Electrical Engineering Department (by courtesy)
+Stanford University
+Faculty Director
+Open Virtual Assistant Lab (OVAL)
+
+
+Gates Building, Room 344
+353 Jane Stanford Way
+Stanford University
+CA 94305
+(Directions)	   Phone: (650) 725-3714
+   Fax: (650) 725-6949
+   E-mail: lam at cs.stanford.edu
+   Twitter: MonicaSLam
+	   Administration Assistant:
+   Angelica Teaupa
+   Gates Building, Room 372
+   (650) 724-5040
+   avteaupa at stanford.edu
+
+
+
+
+Biography
+Monica Lam is a Professor in the Computer Science Department at Stanford University since 1988. She is the faculty director of the Open Virtual Assistant Lab (OVAL). She received a B.Sc. from University of British Columbia in 1980 and a Ph.D. in Computer Science from Carnegie Mellon University in 1987. Monica is a Member of the National Academy of Engineering and an ACM Fellow. She is a co-author of the popular text Compilers, Principles, Techniques, and Tools (2nd Edition), also known as the Dragon book.
+
+Professor Lam's current research is on creating trustworthy and effective virtual assistants based on Large Language Models (LLMs). She is also an expert in compilers for high-performance machines. Her pioneering work of affine partitioning provides a unifying theory to the field of loop transformations for parallelism and locality. Her software pipelining algorithm is used in commercial systems for instruction level parallelism. Her research team created the first, widely adopted research compiler, SUIF. Her contributions in computer architecture include the CMU Warp Systolic Array and the Stanford DASH Distributed Memory Multiprocessor. She was on the founding team of Tensilica, now a part of Cadence.
+
+She received an NSF Young Investigator award in 1992. She was the author of two of the papers in "20 Years of PLDI--a Selection (1979-1999)", and one paper in the "25 Years of the International Symposia on Computer Architecture". She received the ACM Most Influential Programming Language Design and Implementation Paper Award in 2001, an ACM SIGSOFT Distinguished Paper Award in 2002, the ACM Programming Language Design and Implementation Best Paper Award in 2004, the ACM SIGARCH/SIGPLAN/SIGOPS ASPLOS Influential Paper Awards in two consecutive years, 2021 and 2022.
+
+Professor Lam received the University of British Columbia Computer Science 50th Anniversary Research Award in 2018. Her decentralized, privacy-preserving Almond virtual assistant received Popular Science's Best of What's New Award in Security in 2019. Her research on eliminating Large Language Model halluination, by grounding in Wikipedia, received a Wikimedia Foundation's Research of the Year Award in 2024.
+
+Recent Presentations and Interviews
+Importance of voice technology to the humanitarian community
+Interviewed by Mark Dalton in Humanitarian AI Today, July 2021
+
+
+Genie: An Open Privacy Preserving Virtual Assistant
+Keynote at the 48th International Symposium on Computer Architecture, June 2021.
+
+
+Stanford Almond Open Source Voice Assistant – Voicebot Podcast Ep 175
+Interviewed by Bret Kinsella for Voicebot.AI, October 2020.
+
+
+"Stanford Team Aims at Alexa and Siri With a Privacy-Minded Alternative"
+Written by John Markoff for the New York Times, June 2019
+
+
+"Privacy in the Age of Virtual Assistants" Video,
+The Future of Everything Podcast, Stanford School of Engineering,
+Stanford, June 4, 2019.
+(Top 5 of 100 Videos Award).
+
+
+"Giving Control Back to Consumers with Open Federated Virtual Assistants" Video,
+Keynote at the High Performance and Embedded Architecture and Compilation (HiPEAC) Conference,
+
+Valencia, Spain, January 2019.
+
+
+
+Almond: Keeping the Internet Open with An Open-Source Virtual Assistant (Video, Slides)
+Keynote at the 24th Annual International Conference on Mobile Computing and Networking (Mobicom),
+New Dehli, India, November, 2018.
+
+Research Interests
+Virtual Assistant. Machine learning. Natural language programming. Distributed mobile computing.
+Current Research
+The Open Virtual Assistant Lab
+Previous Research Projects
+Mobile and social computing, a part of the Programmable Open Mobile Internet (POMI) 2020 project.
+
+Improving Program Robustness via Static Analysis and Dynamic Instrumentation.
+The Collective: an Appliance-Based Computing Architecture.
+The SUIF Compiler System
+Current PhD Students
+Harshit Joshi
+George Liu
+Sina Semnani
+Sally Wang
+Jackie Yang
+Ph.D. Graduates
+Michael Wolf
+Michael Smith, Harvard
+Todd Mowry, CMU
+Martin Rinard, MIT
+Daniel Scales, Google
+Saman Amarasinghe,MIT
+Jennifer Anderson, Uber
+Robert Wilson, Apple
+Jason Nieh, Columbia University
+	
+Shih-wei Liao, National Taiwan University
+Brian Schmidt, Google
+Patrick Sathyanathan
+Amy Lim, Cadence
+Brian Murphy, Amazon
+Jeffrey Oplinger, Oracle
+David Heine, Google
+Constantine Sapuntzakis, Pure Storage
+V. Benjamin Livshits, Imperial College London
+	
+John Whaley, UnifyID
+Michael Martin, Roblox
+Christopher Unkel, DriveScale
+Sudheendra Hangal, Ashoka University
+Jiwon Seo, Hanyang University
+Michael Fischer
+Giovanni Campagna
+Silei Xu
+Mehrad Moradshahi
+Recent Papers
+SPAGHETTI: Open-Domain Question Answering from Heterogeneous Data Sources with Retrieval and Semantic Parsing
+Heidi C. Zhang, Sina J. Semnani, Farhad Ghassemi, Jialiang Xu, Shicheng Liu, Monica S. Lam
+In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, August 11-16, 2024.
+Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models
+Yijia Shao, Yucheng Jiang, Theodore A. Kanell, Peter Xu, Omar Khattab, Monica S. Lam
+In Proceedings of the North American Chapter of Association for Computational Linguistics (NAACL), Mexico City, Mexico, June 16–21, 2024.
+SUQL: Conversational Search over Structured and Unstructured Data with Large Language Models
+Shicheng Liu, Jialiang Xu, Wesley Tjangnaka, Sina J. Semnani, Chen Jie Yu, Monica S. Lam
+In Findings of the North American Chapter of Association for Computational Linguistics (NAACL), Mexico City, Mexico, June 16–21, 2024.
+ReactGenie: A Development Framework for Rich Multimodal Interactions Using Large Language Models
+Jackie (Junrui) Yang, Yingtian Shi, Yuhan Zhang, Karina Li, Daniel Wan Rosli, Anisha Jain, Shuning Zhang, Tianshi Li, James A. Landay, Monica S. Lam
+In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24), Honolulu, HI, USA, May 11–16, 2024.
+AMMA: Adaptive Multimodal Assistants Through Automated State Tracking and User Model-Directed Guidance Planning
+Jackie (Junrui) Yang, Leping Qiu, Emmanuel Corona-Moreno, Louisa Shi, Hung Bui, Monica S. Lam, James A. Landay
+In 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), Orlando, FL, March 16-21, 2024.
+Fine-tuned LLMs Know More, Hallucinate Less with Few-Shot Sequence-to-Sequence Semantic Parsing over Wikidata
+Silei Xu*, Shicheng Liu*, Theo Culhane, Elizaveta Pertseva, Meng-Hsi Wu, Sina J. Semnani, Monica S. Lam
+In Proceedings of Association for Computational Linguistics: EMNLP 2023, Singapore, December 6-10, 2023.
+WikiChat: Stopping the Hallucination of Large Language Model Chatbots by Few-Shot Grounding on Wikipedia
+Sina J. Semnani, Violet Z. Yao*, Heidi C. Zhang*, Monica S. Lam
+In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore, December 6-10, 2023.
+X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents
+Mehrad Moradshahi*, Tianhao Shen*, Kalika Bali, Monojit Choudhury, Gael de Chalendar, Anmol Goel, Sungkyun Kim, Prashant Kodali, Ponnurangam Kumaraguru, Nasredine Semmar, Sina Semnani, Jiwon Seo, Vivek Seshadri, Manish Shrivastava, Michael Sun, Aditya Yadavalli, Chaobin You, Deyi Xiong, Monica S. Lam
+In Findings of the Association for Computational Linguistics (ACL), Toronto, Canada, July 9-14, 2023.
+Zero and Few-Shot Localization of Task-Oriented Dialogue Agents with a Distilled Representation
+Mehrad Moradshahi, Sina Semnani, Monica S. Lam
+In Proceedings of the European Chapter of the Association for Computational Linguistics (EACL), Dubrovnik, Croatia, May 2-6 2023.
+Contextual Semantic Parsing for Multilingual Task-Oriented Dialogues
+Mehrad Moradshahi, Victoria C. Tsai, Giovanni Campagna, Monica S. Lam
+In Proceedings of the European Chapter of the Association for Computational Linguistics (EACL), Dubrovnik, Croatia, May 2023.
+HomeView: Automatically Building Smart Home Digital Twins With Augmented Reality Headsets
+Zhuoyue Lyu, Jackie (Junrui) Yang, Monica S. Lam, James A. Landay
+In Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology, Bend, Oregon, October 2022.
+A Few-Shot Semantic Parser for Wizard-of-Oz Dialogues with the Precise ThingTalk Representation
+Giovanni Campagna, Sina J. Semnani, Ryan Kearns, Lucas Jun Koba Sato, Monica S. Lam
+In Findings of the Association for Computational Linguistic1s (ACL), Dublin, Ireland, July 2022.
+HybridTrak: Adding Full-Body Tracking to VR Using and Off-the-Shelf Webcam
+Jackie (Junrui) Yang, Tuochao Chen, Fang Qin, Monica S. Lam, James A. Landay
+In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, New Orleans, LA, April 2022.
+DIY Assistant: A Multi-Modal End-User Programmable Virtual Assistant
+Michael H. Fischer, Giovanni Campagna, Euirim Choi, Monica S. Lam
+In Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2021),June 2021.
+Grounding Open-Domain Instructions to Automate Web Support Tasks
+Nancy Xu, Sam Masling, Michael Du, Giovanni Campagna, Larry Heck, James Landay, Monica S Lam
+In Proceedings of the 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021), June 2021.
+AutoQA: From Databases To Q&A Semantic Parsers With Only Synthetic Training Data
+Silei Xu, Sina J. Semnani, Giovanni Campagna, Monica S. Lam
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, November 2020.
+Localizing Open-Ontology QA Semantic Parsers in a Day Using Machine Translation
+Mehrad Moradshahi, Giovanni Campagna, Sina J. Semnani, Silei Xu, Monica S. Lam
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, November 2020.
+DoThisHere: Multimodal Interaction to Improve Cross-Application Tasks on Mobile Devices
+Jackie Yang, Monica S. Lam, James A. Landay
+In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology (UIST), October 2020.
+Schema2QA: High-Quality and Low-Cost Q&A Agents for the Structured Web
+Silei Xu, Giovanni Campagna, Jian Li, and Monica S. Lam
+In Proceedings of the 29th ACM International Conference on Information and Knowledge Management, October 2020.
+Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking
+Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi, and Monica S. Lam
+In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), July 2020.
+Soundr: Head Position and Orientation Using a Microphone Array
+Jackie (Junrui) Yang, Gaurab Banerjee, Vishesh Gupta, Monica S. Lam, James A. Landay
+In Proceedings of the CHI Conference on Human Factors in Computing Systems,
+Honolulu, HI, April 2020.
+
+ImagineNet: Restyling Apps Using Neural Style Transfer
+Michael H. Fischer, Richard R. Yang, Monica S. Lam
+arXiv preprint arXiv:2001.04932, January 2020.
+Protecting privacy and open competition with almond: an open-source virtual assistant
+Monica S. Lam, Giovanni Campagna, Silei Xu, Michael Fischer, Mehrad Moradshahi
+XRDS: Crossroads, The ACM Magazine for Students, Vol. 26, Issue 1, September 2019
+Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands
+Giovanni Campagna, Silei Xu, Mehrad Moradshahi, Richard Socher, and Monica S. Lam
+In Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation,
+Pheonix, AZ, June 2019.
+
+Controlling Fine-Grain Sharing in Natural Language with a Virtual Assistant
+Giovanni Campagna, Silei Xu, Rakesh Ramesh, Michael Fischer, and Monica S. Lam
+In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT),
+Singapore, October 2018.
+
+Brassau: Automatically Generating Graphical User Interfaces for Virtual Assistants
+Michael Fischer, Giovanni Campagna, Silei Xu, and Monica S. Lam
+In 20th International Conference on Human-Computer Interaction with Mobile Devices and Services. (MobileHCI),
+Barcelona, Spain, September 2018.
+Almond: The Architecture of an Open, Crowdsourced, Privacy-Preserving, Programmable Virtual Assistant
+Giovanni Campagna, Rakesh Ramesh, Silei Xu, Michael Fischer, and Monica S. Lam.
+In Proceedings of the 26th World Wide Web Conference,
+Perth, Australia, April 2017.
+
+Selected Publications
+Distributed social networks
+Musubi: Disintermediated Interactive Social Feeds for Mobile Devices
+Ben Dodson, Ian Vo, T. J. Purtell, Aemon Cannon, and Monica S. Lam
+In Proceedings of the 21st International WWW Conference (WWW2012)
+Lyon, France, April 2012. (Finalist of Best Student Paper).
+
+Email Clients as Decentralized Social Apps in Mr. Privacy
+Michael Fischer, T. J. Purtell, and Monica S. Lam
+In Proceedings of the 4th Hot Topics in Privacy Enhancing Technologies (HotPETs 2011)
+Waterloo ON, Canada, July 2011.
+
+Distributed graph-based databases
+SociaLite: An Efficient Graph Query Language Based on Datalog
+Jiwon Seo, Stephen Guo, and Monica S. Lam
+In IEEE Transactions on Knowledge and Data Engineering, 99, February 2015.
+Distributed SociaLite: A Datalog-Based Language for Large-Scale Graph Analysis
+Jiwon Seo, Jongsoo Park, Jaeho Shin, and Monica S. Lam
+In Proceedings of 40th International Conference on Very Large Data Bases (VLDB), Hangzhou, China, August 2013.
+Personalized Digital Experience
+Historical Research Using Email Archives
+Sudheendra Hangal, Vihari Piratla, Chaiyasit Manovit, Peter Chan, Glynn Edwards, Monica S. Lam
+In CHI-2015 Case Studies: ACM Computer Human Interaction
+Seoul, Korea, April 2015.
+Effect Of Phonemic Cuing On Recall Of Personally Relevant Names Derived From Email
+Allyson C. Rosen, Ankit Mathur, Monica S. Lam, Sudheendra Hangal
+Poster at the 2015 International Neuropsychological Society Annual Meeting
+Denver, CO, February 2015.
+Personalized Memory Testing for Names Using Email Archives
+Sudheendra Hangal, Allyson C. Rosen, Ankit Mathur, Monica S. Lam
+In BrainKDD: International Workhop on Data Mining for Brain Science, in conjunction with ACM SIGKDD'14, New York City, August 2014.
+Effective Browsing and Serendipitous Discovery with an Experience-Infused Browser
+Sudheendra Hangal, Abhinay Nagpal, and Monica S. Lam
+In Proceedings of the 2012 International Conference on Intelligent User Interfaces (IUI)
+Lisbon, Portugal, February 2012.
+
+Friends, Romans, Countrymen: Lend me your URLs. Using Social Chatter to Personalize Web Search.
+Abhinay Nagpal, Sudheendra Hangal, Rifat Reza Joyee, and Monica S. Lam
+In Proceedings of the ACM Conference on Computer Supported Cooperative Work (CSCW)
+Seattle WA, February 2012.
+
+MUSE: Reviving Memories Using Email Archives
+Sudheendra Hangal, Monica S. Lam, and Jeffrey Heer
+In Proceedings of the 24th ACM Symposium on User Interface Software and Technology (UIST)
+Santa Barbara CA, October 2011.
+
+An Algorithm and Analysis of Social Topologies from Email and Photo Tags
+T. J. Purtell, Diana MacLean, Seng Keat Teh, Sudheendra Hangal, Monica S. Lam, and Jeffrey Heer
+In Proceedings of the Fifth ACM Workshop on Social Network Mining and Analysis
+Held in conjunction with the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)
+San Diego, CA, August 2011.
+
+Groups Without Tears: Mining Social Topologies from Email
+Diana MacLean, Sudheendra Hangal, Seng Keat Teh, Monica S. Lam, and Jeffrey Heer
+In Proceedings of the 2011 International Conference on Intelligent User Interfaces (IUI), Palo Alto, CA, February 2011.
+
+Computer System Manageability
+The Collective: A Cache-Based System Management Architecture
+R. Chandra, N. Zeldovich, C. P. Sapuntzakis and M. S. Lam
+In Proceedings of the Second Symposium on Networked Systems Design and Implementation, May 2005.
+The Interactive Performance of SLIM: A Stateless, Thin-Client Architecture
+B. K. Schmidt, M. S. Lam, and J. D. Northcutt
+In Proceedings of the Seventeenth ACM Symposium on Operating Systems Principles, December 1999.
+Published as Operating Systems Review, 34(5):32-47.
+Program Analysis for Reliability and Security
+Automatic Generation of XSS and SQL Injection Attacks with Goal-Directed Model Checking.
+Martin, Michael C., Lam, M. S.
+In Proceedings of the 17th USENIX Security Symposium, (San Jose, CA, 30 July-1 August, 2008), pages 31-43.
+Securing Web Applications Using Static and Dynamic Information Flow Tracking,
+M. S. Lam, M.C. Martin, V. B. Livshits, and J. Whaley,
+In ACM Sigplan 2008 Workshop on Partial Evaluation and Program Manipulation, (Keynote address), January 2008.
+Finding Application Errors and Security Flaws Using PQL: a Program Query Language.
+Michael Martin, V. Benjamin Livshits, and Monica S. Lam
+In Proceedings of the Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA '05), October 2005.
+Finding Security Vulnerabilities in Java Applications Using Static Analysis
+V. Benjamin Livshits and Monica S. Lam
+In Proceedings of the 14th USENIX Security Symposium, August 2005.
+Static Detection of Leaks in Polymorphic Containers.
+David Heine and Monica S. Lam
+In Proceeding of the 28th International Conference on Software Engineering, (Shanghai, China, 20-28 May, 2006), pages 252-261.
+Context-Sensitive Program Analysis as Database Queries
+Monica S. Lam, John Whaley, V. Benjamin Livshits, Michael C. Martin, Dzintars Avots, Michael Carbin and Christopher Unkel.
+In Proceedings of the 24th SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, June, 2005. (Invited Tutorial).
+Cloning-Based Context-Sensitive Pointer Alias Analysis Using Binary Decision Diagrams
+John Whaley and Monica S. Lam
+In Proceedings of the ACM SIGPLAN 2004 Conference on Programming Language Design and Implementation, June 2004.
+ACM Programming Language Design and Implementation Best Paper Award, 2004.
+A Practical Flow-Sensitive and Context-Sensitive C and C++ Memory Leak Detector
+D. L. Heine and M. S. Lam
+In Proceedings of the ACM SIGPLAN 2003 Conference on Programming Language Design and Implementation, June 2003.
+Tracking Down Software Bugs Using Automatic Anomaly Detection
+S. Hangal and M. S. Lam
+In Proceedings of the 24th International Conference on Software Engineering, May 2002.(gzip'ed postscript).
+Parallelization and Locality Optimization
+Interprocedural Parallelization Analysis in SUIF,
+M. W. Hall, S. P. Amarasinghe, B. R. Murphy, S.-W. Liao, and M. S. Lam,
+ACM Transactions on Programming Languages and Systems, July 2005, 27(4), pp. 662-731.
+Blocking and Array Contraction Across Arbitrarily Nested Loops Using Affine Partitioning
+A. W. Lim, S.-W. Liao and M. S. Lam
+In Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, June 2001.
+An Affine Partitioning Algorithm to Maximize Parallelism and Minimize Communication
+A. W. Lim, G. I. Cheong and M. S. Lam
+In Proceedings of the 13th ACM SIGARCH International Conference on Supercomputing, June, 1999, pp. 228-237.
+Maximizing Parallelism and Minimizing Synchronization with Affine Partitions
+A. W. Lim and M. S. Lam
+Parallel Computing, Vol. 24, Issue 3-4, May 1998, Pages 445-475. (PDF)
+(A preliminary version appeared as Maximizing Parallelism and Minimizing Synchronization with Affine Transform, in the Conference Record of the 24th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, January, 1997.)
+Maximizing Multiprocessor Performance with the SUIF Compiler
+M. W. Hall, J. M. Anderson, S. P. Amarasinghe, B. R. Murphy, S.-W. Liao, E. Bugnion and M. S. Lam
+IEEE Computer, December 1996.
+(A special issue on multiprocessors).
+Detecting Coarse-Grain Parallelism Using an Interprocedural Parallelizing Compiler (PostScript)
+M. W. Hall, S. P. Amarasinghe, B. R. Murphy, S. Liao, and M. S. Lam,
+In Proceedings of Supercomputing '95, December 1995.
+Global Optimizations for Parallelism and Locality on Scalable Parallel Machines (PostScript)
+J. M. Anderson and M. S. Lam
+In Proceedings of the ACM SIGPLAN'93 Conference on Programming Language Design and Implementation, June, 1993.
+Design and Evaluation of a Compiler Algorithm for Prefetching ( PDF)
+T. C. Mowry, M. S. Lam and A. Gupta
+In Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, October, 1992.
+ACM SIGARCH/SIGPLAN/SIGOPS ASPLOS Influential Paper Award, 2022.
+A Data Locality Optimizing Algorithm
+M. E. Wolf and M. S. Lam
+In Proceedings of the ACM SIGPLAN'91 Conference on Programming Language Design and Implementation, June 1991.
+ACM Most Influential PLDI Paper Award, 2001.
+Included in 20 Years of PLDI (1979-1999): A Selection, 2004. (A retrospective).
+Software Pipelining: An Effective Scheduling Technique for VLIW Machines.
+M. Lam.
+In Proceedings of the SIGPLAN 88 Conference on Programming Language Design and Implementation, June 1988, pp. 318-328.
+Included in 20 Years of PLDI (1979-1999): A Selection, 2004. (A retrospective).
+
+Architecture
+Limits of Control Flow on Parallelism (PostScript)
+M. S. Lam and R. P. Wilson
+In Proceedings of the 19th Annual International Symposium on Computer Architecture, May, 1992.
+The Stanford DASH Multiprocessor
+D. Lenoski, J. Laudon, K. Gharachorloo, W.-D. Weber, A. Gupta, J. L. Hennessy, M. Horowitz, and M. S. Lam.
+IEEE Computer. 25, (3): 63-79, March, 1992.
+The Cache Performance and Optimizations of Blocked Algorithms
+M. S. Lam, E. E. Rothberg and M. E. Wolf
+In Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems, April 1991.
+ACM SIGARCH/SIGPLAN/SIGOPS ASPLOS Influential Paper Award, 2021.
+The Warp Computer: Architecture, Implementation and Performance.
+M. Annaratone, E. Arnould, T. Gross, H. T. Kung, M. Lam, and O. Menzilcioglu
+IEEE Transactions on Computers, December 1987, C-36, 12, pp. 1523-1538.
+(A preliminary version appeared as Warp Architecture and Implementation, which appeared in the Proceedings of the 13th Annual Symposium on Computer Architecture, (Tokyo, Japan, 2-5 June 1986). pp. 346-356.
+Included in 25 Years of the International Symposia on Computer Architecture, 2008.)
+The Almond open-source and user-programmable virtual assistant project
+MobiSocial Computing Group Home Page
+The SUIF Research Group Home Page
+The Collective Research Group Home Page
+Curriculum Vitae
+

@@ -1,0 +1,105 @@
+Professor: Bharath Hariharan
+University: Cornell University
+URL: http://home.bharathh.info/
+Description: Bharath Hariharan
+
+I am an associate professor in Computer Science at Cornell University. I work on computer vision and machine learning, in particular on important problems that defy the "Big Data" label. I enjoy problems that require marrying advances in machine learning with insights from computer vision, geometry and domain-specific knowledge. A sampling of the research problems my group works on is presented below; an exhaustive list of publications is available on scholar.
+
+
+My work has been recognized with an NSF CAREER award and a PAMI Young Researcher Award.
+
+My CV is here and my research statement is here.
+
+
+
+
+
+Note to prospective PhD students: Admissions at Cornell are done through a committee. If you are interested in working with me, please directly apply through the application website and mention my name
+
+
+
+	
+Associate Professor
+311 Gates Hall
+Cornell University
+bharathh-AT-cs-DOT-cornell-DOT-edu
+
+
+Teaching
+CS6670 (Graduate computer vision): Fall 2021, Fall 2019, Fall 2018, Fall 2017
+CS4670 / 5670 (Undergraduate computer vision): Spring 2021, Spring 2020, Spring 2019,Spring 2018
+
+
+PhD students
+Chia-Hsiang Kao
+Kuan Wei Huang
+Gene Chou (co-advised with Noah Snavely)
+Gemmechu Hassena (co-advised with Steve Marschner)
+I-Ting Tsai
+Bradon Thymes
+Yihong Sun
+Aditya Chetan
+Ruojin Cai (co-advised with Noah Snavely)
+Former PhD students
+Luming Tang → Google
+Cheng Perng Phoo → Apple
+Utkarsh Mall (co-advised with Kavita Bala) → Postdoc at Columbia
+Qianqian Wang (co-advised with Noah Snavely) → Postdoc at UC Berkeley
+Guandao Yang (co-advised with Serge Belongie) → Postdoc at Stanford
+Chinasa Okolo (co-advised with Nicola Dell) → Fellow at Brookings Institute
+Yurong You (co-advised with Kilian Weinberger) → Postdoc at Apple
+Yan Wang (co-advised with Kilian Weinberger) → NVIDIA
+Bram Wallace → Salesforce Research
+Davis Wertheimer → IBM Research
+
+
+Research
+
+
+Recognition for satellite images and earth science
+A variety of scientific disciplines, including environmental science and the earth sciences, need to know what is there in any place on the planet at any time. This requires recognition on satellite images as well as combining information from multiple modalities (satellite, aerial and ground) captured at the same location. Recognition on satellite images is in itself also a fundamental challenge given the absence of large labeled datasets. As part of this project, we have built one of the most accurate foundation vision-language model for satellite images as well as new self-supervised representations for satellite images.	
+
+4D Reconstruction and recognition
+Humans live in a 4D world: we do not perceive independent static images, but rather a continuous video stream. On the one hand, ego-motion in video provides enough information to reconstruct the static scene and segment the moving objects, which can power recognition. On the other hand, videos depict dynamic scenes and moving objects introduce fundamental ambiguities and challenges with occlusion. Our work has shown how one can resolve ambiguities to reconstruct and segment out moving objects, as well as track surfaces through occlusion.	
+
+Representative recent publications
+
+
+Remote sensing vision-language foundation models without annotations via ground remote alignment
+Utkarsh Mall, Cheng Perng Phoo, Meilin Kelsey Liu, Carl Vondrick, Bharath Hariharan, Kavita Bala
+In ICLR 2024.
+paper    bibtex
+Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes
+Yihong Sun, Bharath Hariharan
+In NeurIPS 2023.
+paper    bibtex
+Tracking Everything Everywhere All at Once
+Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleks, er Holynski, Noah Snavely
+In ICCV 2023 (Best Student Paper)
+paper    bibtex
+Emergent Correspondence from Image Diffusion
+Luming Tang, Menglin Jia, Qianqian Wang, Cheng Phoo, Bharath Hariharan
+In NeurIPS 2023.
+paper    bibtex
+Doppelgangers: Learning to Disambiguate Images of Similar Structures
+Ruojin Cai, Joseph Tung, Qianqian Wang, Hadar Averbuch-Elor, Bharath Hariharan, Noah Snavely
+In ICCV 2023 (Oral)
+paper    bibtex
+Change-Aware Sampling and Contrastive Learning for Satellite Images
+Utkarsh Mall, Bharath Hariharan, Kavita Bala
+In CVPR 2023.
+paper    bibtex
+Visual Prompt Tuning
+Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim
+In ECCV 2022.
+paper    bibtex
+Learning to Detect Mobile Objects from LiDAR Scans Without Labels
+Yurong You, Katie Luo, Cheng Perng Phoo, Wei-Lun Chao, Wen Sun, Bharath Hariharan, Mark Campbell, Kilian Weinberger
+In CVPR 2022.
+paper    bibtex
+Geometry Processing using Neural Fields
+Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
+In NeurIPS 2021.
+paper    bibtex
+
+

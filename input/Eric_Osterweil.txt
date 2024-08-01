@@ -1,0 +1,67 @@
+Professor: Eric Osterweil
+University: George Mason University
+URL: https://cs.gmu.edu/~eoster
+Description: Eric Osterweil
+
+Assistant Professor, Department of Computer Science at George Mason University
+
+HOME
+RESEARCH
+ABOUT ME
+RESEARCH TOOLS
+PUBLICATIONS
+Conferences / Workshops
+Journals / Magazines
+Talks
+RFCs
+CV
+
+NOTE: I am actively looking for post-docs, graduate students, and undergraduate students to work in the below research areas with me.
+
+Research Foci
+
+My research focuses on measurable security in core Internet protocols, Internet-scale cybersecurity systems, and application-level/endpoint protections that can be derived from these. I am the director of the Measurable Security Lab (MSL), and this is the link to the lab's webpage.
+
+Research in the MSL focuses on evaluating and evolving protections by using measurements and data analysis: measurement-based (or measurable) security. This work involves systems implementation (both of measurement apparatuses and endpoint security software), large-scale data analyses, innovations to network protocols, and ultimately developing Internet-scale cybersecurity that works! The MSL maintains the world’s only complete longitudinal measurements of the Internet’s first deployment of a secure core protocol: the Domain Name System’s (DNS’) Security Extensions (DNSSEC). This is a 36.6 billion row database that spans 16+ years, and is actively growing and evolving. We conduct research to learn lessons from what has worked in order to propose cybersecurity for tomorrow.
+
+I have been conducting basic research while also being involved in industry/policy settings for almost 20 years. I believe basic research that comes from large-scale measurements and data analyses synergizes well with operationalizing new solutions and conducting structured research investigations into real-world cybersecurity and Internet security problems. Areas and protocols that I work most directly with include the Domain Name System (DNS) with DNSSEC, inter-domain routing in the Border Gateway Protocol (BGP), Distributed Denial of Service (DDoS) attacks, and Cybersecurity Threat Information (CTI) sharing (STIX/TAXII, Communities of Trust, etc.). My research is exploring settings like the 5G/NextG Internet of Things (IoT) deployments, mobile Healthcare (mHealth), and CyberPhysical Systems (CPS).
+
+If you are interested in exploring cybersecurity and/or analyzing expansive operational data sets, interested in inventing some of the world’s next Internet-scale security and privacy protections, and are excited to do research that has a tangible impact on the world, inquire about research opportunities.
+
+About me
+
+I am an assistant professor in the Computer Science Department at George Mason University, with almost 20 years of work in the industry. I studied physics and computer science at the Johns Hopkins University and earned my Ph.D. from the University of California, Los Angeles. Between these degrees I worked as a professional software engineer for many years, building large-scale production systems at a variety of companies. After earning my doctorate, I conducted research and led investigations as a principal scientist Verisign. While there I studied and published works on inter-domain routing security in the Internet, researched/designed/implemented/operationalized a large-scale DDoS detection and defense system for DNS attacks, and researched the previously unrecognized threats posed by name collisions with the DNS. I am the former co-Chair and vice-Chair of ICANN's 2nd Security, Stability, and Resiliancy Review Team (SSR2 RT), which has now concluded our work.
+
+Research Tools
+
+As part of my past, present, and future research, I maintain a number of measurement sites and tools. For example, I have monitored, analyzed and produced research findings about DNSSEC for over 16 years (since shortly after it was standardized), and maintain an archive of these measurements and results at SecSpider. This is the longest running (and still active) monitoring and longitudinal tracking system of the global rollout of DNSSEC (it is currently 16 years old). Its longitudinal database has over 36.6 billion records in it, which date back to the very beginning of the DNSSEC global rollout. I am also the maintainer of libCanute, which is a programmatic API for a reference implementation for the DANE protocol suite (S/MIME, OPENPGP, and a few other components from DANE), my lab maintains a growing suite of open-source software at GMU-MSL. We also operate DANEportal.net and have implemented a proof of concept for securing end-to-end email, called Kurer.
+
+CONTACT
+Office: ENGR 5346
+Office Hours: Mondays from 2:00pm to 3:00pm
+Email: eoster@gmu.edu
+Fax: 703-993-1710
+NEWS
+2023-10-25: I presented three public talks during ICANN 78, including an invited lecture at the Department of Informatik at HAW Hamburg: "Monitoring and Evaluating ENS through the INSO" (Video HERE), "Which way to decentralization: A Comparative Study of DNS and ENS" (Video HERE), and "Insights for the Road Ahead from ~20 Years of DNSSEC Research"
+2023-03-02: I presented a summary of our recent DDoS work, and its implications and directions for NDN at NDNComm '23. Check out the presentation HERE
+2022-11-18: I presented an overview of research in my lab, the Measurable Security Lab (MSL). Check out the presentation HERE
+2022-06-14: I presented a generalized object-security model for today and tomorrow at the Cybersecurity Innovation Forum. Check out the presentation HERE
+2022-06-13: I presented DANEportal.net and Kurer at ICANN 74's DNSSEC and Security Workshop, Check out the presentation HERE
+2022-04-27: I presented our S/MIME with DANE work (DANEportal.net and Kurer) at Mason's Competitive Cyber Club. Check out the presentation HERE. Thank you to the club for hosting us!
+2022-04-04: Our lab participated in the Commonwealth Cyber Initiative's (CCI's) first CCI Syposium, and presented two posters: on our new DANEportal.net and email plugin Kurer and our COVID-19 vaccine passport, using SPaTE: VaxGO!
+2021-09-24: It was my pleasure to participate on a security panel at this year's ACM Information Centric Networking Conference (ICN '21). Please enjoy the video: HERE
+2021-09-21: Our 15 year longitudinal study of DNSSEC From the Beginning: Key Transitions in the First 15 Years of DNSSEC is now available on arXiv. The most complete longitudinal study of DNSSEC ever. Please check it out!
+2021-09-07: In a recent article on DigitalTrends, I was asked to comment on the role and future of the DNS, and alternative approaches that are being proposed to do service mapping in the Internet. As I mentioned in my interview, "My view is that the collision-free namespace of DNS is something we would likely never be able to create again"
+2021-05-24: In a recent installment of Gizmodo's Giz Asks series, I was consulted (along with luminaries like Leonard Kleinrock, "Father of the Internet") about whether we are ever going to run out of digital storage. Read my security and privacy centric take on whether "... we may have already opened Pandora’s Box."
+2021-03-24: Presented two talks about DNSSEC key transitions at the ICANN 70 DNSSEC Workshop (listed on my publications page).
+2020-10-22: Presented "DNSSEC Census: Are DNSKEY Transitions Working?" During the ICANN 69 DNSSEC Workshop Panel on Automation of DS Updates and Cross Signing
+2020-01-24: The ICANN SSR2 RT published its draft report for public comments: here
+2019-04-22: DDoS pre-print "20 Years of DDoS: a Call to Action" was featured in Wall Street Journal Blog and MIT Technology Review
+2019-02-11: Featured in VSE News, "Computer science professor’s research builds a secure Internet"
+2018-11-16: Presented CS department Seminar, "In search of tomorrow's cybersecurity protections, building on today's foundations"
+   
+
+© Copyright 2014 Keep It Simple.   Design by Styleshout.
+
+#daneiseverywhere
+

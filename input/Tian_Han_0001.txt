@@ -1,0 +1,160 @@
+Professor: Tian Han 0001
+University: Stevens Institute of Technology
+URL: https://hthth0801.github.io/
+Description: About
+(current)
+Service
+Publications
+Teaching
+Tian Han
+
+Assistant Professor
+
+School of Engineering and Science
+Stevens Institute of Technology
+
+
+
+
+   
+
+
+I’m currently a tenure-track Assistant Professor in the Department of Computer Science from Stevens Institute of Technology. Prior to joining the Stevens faculty, I obtained my Ph.D from the Department of Statistics at UCLA, where I worked closely with Dr. Ying Nian Wu and Dr. Song-Chun Zhu. From 2010-2013, I obtained a Master of Philosophy (M.Phil.) in computer science at HKUST, working with Dr. Chiew-lan Tai and Dr. Long Quan.
+
+
+Research interest: generative modeling, un-/semi-supervised learning, representation learning, and relevant applications in computer vision and natural language. Interested in collaboration? Contact me.
+
+news
+Oct 21, 2023	One paper has been accepted by WACV 2024.
+Sep 22, 2023	One paper has been accepted by NeurIPS 2023.
+Jul 15, 2023	One paper has been accepted by ICCV 2023.
+Jun 9, 2023	One paper has been accepted by UAI 2023.
+Mar 30, 2023	One paper has been accepted by CVPR 2023.
+selected publications
+2023
+CVPR
+Learning Joint Latent Space EBM Prior Model for Multi-layer Generator
+Jiali Cui, Ying Nian Wu, and Tian Han
+In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023
+ABS BIB PDF WEBSITE
+
+This paper studies the fundamental problem of learning multi-layer generator models. The multi-layer generator model builds multiple layers of latent variables as a prior model on top of the generator, which benefits learning complex data distribution and hierarchical representations. However, such a prior model usually focuses on modeling inter-layer relations between latent variables by assuming non-informative (conditional) Gaussian distributions, which can be limited in model expressivity. To tackle this issue and learn more expressive prior models, we propose an energy-based model (EBM) on the joint latent space over all layers of latent variables with the multi-layer generator as its backbone. Such joint latent space EBM prior model captures the intra-layer contextual relations at each layer through layer-wise energy terms, and latent variables across different layers are jointly corrected. We develop a joint training scheme via maximum likelihood estimation (MLE), which involves Markov Chain Monte Carlo (MCMC) sampling for both prior and posterior distributions of the latent variables from different layers. To ensure efficient inference and learning, we further propose a variational training scheme where an inference model is used to amortize the costly posterior MCMC sampling. Our experiments demonstrate that the learned model can be expressive in generating high-quality images and capturing hierarchical features for better outlier detection.
+
+@inproceedings{CuiW023,
+  author = {Cui, Jiali and Wu, Ying Nian and Han, Tian},
+  title = {Learning Joint Latent Space {EBM} Prior Model for Multi-layer Generator},
+  booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages = {3603--3612},
+  publisher = {{IEEE}},
+  year = {2023},
+  url = {https://doi.org/10.1109/CVPR52729.2023.00351},
+  doi = {10.1109/CVPR52729.2023.00351},
+  timestamp = {Mon, 28 Aug 2023 16:14:40 +0200},
+  biburl = {https://dblp.org/rec/conf/cvpr/CuiW023.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+2022
+NeurIPS
+Adaptive Multi-stage Density Ratio Estimation for Learning Latent Space Energy-based Model
+Zhisheng Xiao, and Tian Han
+In Advances in Neural Information Processing Systems (NeurIPS) , 2022
+ABS BIB PDF POSTER
+
+This paper studies the fundamental problem of learning energy-based model (EBM) in the latent space of the generator model. Learning such prior model typically requires running costly Markov Chain Monte Carlo (MCMC). Instead, we propose to use noise contrastive estimation (NCE) to discriminatively learn the EBM through density ratio estimation between the latent prior density and latent posterior density. However, the NCE typically fails to accurately estimate such density ratio given large gap between two densities. To effectively tackle this issue and learn more expressive prior models, we develop the adaptive multi-stage density ratio estimation which breaks the estimation into multiple stages and learn different stages of density ratio sequentially and adaptively. The latent prior model can be gradually learned using ratio estimated in previous stage so that the final latent space EBM prior can be naturally formed by product of ratios in different stages. The proposed method enables informative and much sharper prior than existing baselines, and can be trained efficiently. Our experiments demonstrate strong performances in image generation and reconstruction as well as anomaly detection.
+
+@inproceedings{XiaoH22,
+  author = {Xiao, Zhisheng and Han, Tian},
+  title = {Adaptive Multi-stage Density Ratio Estimation for Learning Latent
+                    Space Energy-based Model},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) },
+  year = {2022},
+  timestamp = {Thu, 11 May 2023 17:08:21 +0200},
+  biburl = {https://dblp.org/rec/conf/nips/XiaoH22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+2020
+NeurIPS
+Learning Latent Space Energy-Based Prior Model
+Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu
+In Advances in Neural Information Processing Systems (NeurIPS) , 2020
+ABS BIB PDF WEBSITE
+
+We propose to learn energy-based model (EBM) in the latent space of a generator model, so that the EBM serves as a prior model that stands on the top-down network of the generator model. Both the latent space EBM and the top-down network can be learned jointly by maximum likelihood, which involves short-run MCMC sampling from both the prior and posterior distributions of the latent vector. Due to the low dimensionality of the latent space and the expressiveness of the top-down network, a simple EBM in latent space can capture regularities in the data effectively, and MCMC sampling in latent space is efficient and mixes well. We show that the learned model exhibits strong performances in terms of image and text generation and anomaly detection.
+
+@inproceedings{Pang0NZW20,
+  author = {Pang, Bo and Han, Tian and Nijkamp, Erik and Zhu, Song{-}Chun and Wu, Ying Nian},
+  editor = {Larochelle, Hugo and Ranzato, Marc'Aurelio and Hadsell, Raia and Balcan, Maria{-}Florina and Lin, Hsuan{-}Tien},
+  title = {Learning Latent Space Energy-Based Prior Model},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS) },
+  year = {2020},
+  timestamp = {Tue, 19 Jan 2021 15:57:02 +0100},
+  biburl = {https://dblp.org/rec/conf/nips/Pang0NZW20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+CVPR
+Joint Training of Variational Auto-Encoder and Latent Energy-Based Model
+Tian Han, Erik Nijkamp, Linqi Zhou, Bo Pang, Song-Chun Zhu, and Ying Nian Wu
+In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) , 2020
+ABS BIB PDF CODE
+
+This paper proposes a joint training method to learn both the variational auto-encoder (VAE) and the latent energy-based model (EBM). The joint training of VAE and latent EBM are based on an objective function that consists of three Kullback-Leibler divergences between three joint distributions on the latent vector and the image, and the objective function is of an elegant symmetric and anti-symmetric form of divergence triangle that seamlessly integrates variational and adversarial learning. In this joint training scheme, the latent EBM serves as a critic of the generator model, while the generator model and the inference model in VAE serve as the approximate synthesis sampler and inference sampler of the latent EBM. Our experiments show that the joint training greatly improves the synthesis quality of the VAE. It also enables learning of an energy function that is capable of detecting out of sample examples for anomaly detection.
+
+@inproceedings{0001NZPZW20,
+  author = {Han, Tian and Nijkamp, Erik and Zhou, Linqi and Pang, Bo and Zhu, Song{-}Chun and Wu, Ying Nian},
+                    Model},
+  booktitle = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition (CVPR) },
+  pages = {7975--7984},
+  publisher = {Computer Vision Foundation / {IEEE}},
+  year = {2020},
+  doi = {10.1109/CVPR42600.2020.00800},
+  timestamp = {Tue, 31 Aug 2021 14:00:04 +0200},
+  biburl = {https://dblp.org/rec/conf/cvpr/0001NZPZW20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+2019
+CVPR
+Divergence Triangle for Joint Training of Generator Model, Energy-Based Model, and Inferential Model
+Tian Han, Erik Nijkamp, Xiaolin Fang, Mitch Hill, Song-Chun Zhu, and Ying Nian Wu
+In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
+ABS BIB PDF CODE
+
+This paper proposes the divergence triangle as a framework for joint training of generator model, energy-based model and inference model. The divergence triangle is a compact and symmetric (anti-symmetric) objective function that seamlessly integrates variational learning, adversarial learning, wake-sleep algorithm, and contrastive divergence in a unified probabilistic formulation. This unification makes the processes of sampling, inference, energy evaluation readily available without the need for costly Markov chain Monte Carlo methods. Our experiments demonstrate that the divergence triangle is capable of learning (1) an energy-based model with well-formed energy landscape, (2) direct sampling in the form of a generator network, and (3) feed-forward inference that faithfully reconstructs observed as well as synthesized data. The divergence triangle is a robust training method that can learn from incomplete data.
+
+@inproceedings{HanNFHZW19,
+  author = {Han, Tian and Nijkamp, Erik and Fang, Xiaolin and Hill, Mitch and Zhu, Song{-}Chun and Wu, Ying Nian},
+  title = {Divergence Triangle for Joint Training of Generator Model, Energy-Based
+                    Model, and Inferential Model},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages = {8670--8679},
+  publisher = {Computer Vision Foundation / {IEEE}},
+  year = {2019},
+  doi = {10.1109/CVPR.2019.00887},
+  timestamp = {Tue, 15 Aug 2023 14:52:14 +0200},
+  biburl = {https://dblp.org/rec/conf/cvpr/HanNFHZW19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+2017
+AAAI
+Alternating Back-Propagation for Generator Network
+Tian Han, Yang Lu, Song-Chun Zhu, and Ying Nian Wu
+In the Thirty-First AAAI Conference on Artificial Intelligence (AAAI), 2017
+ABS BIB PDF WEBSITE
+
+This paper proposes an alternating back-propagation algorithm for learning the generator network model. The model is a non-linear generalization of factor analysis. In this model, the mapping from the continuous latent factors to the observed signal is parametrized by a convolutional neural network. The alternating back-propagation algorithm iterates the following two steps: (1) Inferential back-propagation, which infers the latent factors by Langevin dynamics or gradient descent. (2) Learning back-propagation, which updates the parameters given the inferred latent factors by gradient descent. The gradient computations in both steps are powered by back-propagation, and they share most of their code in common. We show that the alternating back-propagation algorithm can learn realistic generator models of natural images, video sequences, and sounds. Moreover, it can also be used to learn from incomplete or indirect training data.
+
+@inproceedings{HanLZW17,
+  author = {Han, Tian and Lu, Yang and Zhu, Song{-}Chun and Wu, Ying Nian},
+  editor = {Singh, Satinder and Markovitch, Shaul},
+  title = {Alternating Back-Propagation for Generator Network},
+  booktitle = {the Thirty-First {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages = {1976--1984},
+  publisher = {{AAAI} Press},
+  year = {2017},
+  url = {https://doi.org/10.1609/aaai.v31i1.10902},
+  doi = {10.1609/aaai.v31i1.10902},
+  timestamp = {Mon, 04 Sep 2023 16:50:24 +0200},
+  biburl = {https://dblp.org/rec/conf/aaai/HanLZW17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+© Copyright 2023 Tian Han. Powered by Jekyll with al-folio theme.
+

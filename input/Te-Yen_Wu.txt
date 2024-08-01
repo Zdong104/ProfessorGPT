@@ -1,0 +1,231 @@
+Professor: Te-Yen Wu
+University: Florida State University
+URL: http://teyenwu.com/
+Description: Home
+(current)
+CV/Resume
+Courses
+Google Scholar
+Publications
+Te-Yen Wu
+Assistant Professor at Florida State University
+
+My research lies in the intersection areas of Human-Computer Interaction, Cyber-Physical Systems, and AI Technologies. My career goal is to build sustainable, scalable and intelligent ambient computing to enable the creation of smart environments on an unprecedented scale. To achieve the goal, I have developed smart everyday materials that can 1) seamlessly sense user activities and contexts, 2) be used with established methods to create a smart environment, and 3) operate without embedded batteries and silicon-based integrated circuits. In addition, I have also worked on other HCI topics, such as wearable sensing technology, text entry system and Human-AI interactions in VR/AR. My research is generally published in top HCI venues like CHI and UIST, while I also contribute to top AI conferences such as ICLR. My research has attracted considerable public interests via Internet News (e.g. Engadget, Times). Currently, I direct the MakeX Lab at FSU. I am looking for PhD students who are highly motivated and interested in Human-Computer Interaction research. A background in hardware is advantageous but not mandatory. If you're interested in working with me, please send an email to [tw23l (at) fsu (dot) edu] with your CV and a one-page research statement outlining the topic you wish to explore.
+
+Research Overview
+
+Ubiquitous computing envisions a future where intelligent devices seamlessly pervade our environments, enhancing convenience and efficiency of our lives. However, realizing this vision faces three fundamental challenges: intelligence (enabling advanced sensing and context-awareness in devices), scalability (allowing mass production and seamless deployment without compromising performance) , and sustainability (ensuring energy efficiency and minimal environmental impact). To address these challenges, my research develops a new generation of ambient computing known as smart materials. These materials possess computational functionalities such as sensing, computing and wireless communication, while retaining the look and feel of conventional materials, thus can be seamlessly integrated into environments. They are designed to withstand various fabrication processes such as cutting and screwing. This allows the existing workforce to effortlessly incorporate them into established construction processes just like regular materials, facilitating the deployment on an unprecedented scale. Moreover, the unobtrusive integration of smart materials into environments allows for broader coverage, empowering them to gather enough energy from their expansive surroundings for self-sustained operation. This enables these materials to be used over long-time without compromising significant energy in the environment.
+
+Selected Publications
+
+
+Smart Materials and Objects
+Tagnoo: Enabling Smart Room-Scale Environments with RFID-Augmented Plywood
+
+Yuning Su, Tingyu Zhang, Jiuen Feng, Yonghao Shi, Xing-Dong Yang, Te-Yen Wu (CHI 2024)
+[Video] [PDF]
+
+Tagnoo is a computational plywood augmented with RFID tags, aimed at empowering woodworkers to effortlessly create room-scale smart environments. Unlike existing solutions, Tagnoo does not necessitate technical expertise or disrupt established woodworking routines. This battery-free and cost-effective solution seamlessly integrates computation capabilities into plywood, while preserving its original appearance and functionality.
+
+WooDowel: Enhancing Triboelectric Plywood Sensors with Electromagnetic Shielding
+
+Yonghao Shi, Chenzheng Li, Yuning Su, Xing-Dong Yang, Te-Yen Wu (CHI 2024)
+[Video] [PDF]
+
+WooDowel presents a new approach that enables the woodworker to manually isolate short-circuited electrodes. This method facilitates the creation of sensors using overlapping electrodes, while also incorporating EM shielding, thereby resulting in a substantial improvement in the sensor's robustness when detecting user activities.
+
+iWood: Makeable Vibration Sensor for Interactive Plywood
+
+Te-Yen Wu , Xing-Dong Yang. (UIST 2022)
+[Video] [DOI] [PDF] [Github]
+
+iWood is interactive plywood that can sense vibration based on triboelectric effect. As a material, iWood survives common woodworking operations, such as sawing, screwing, and nailing and can be used to create furniture and artifacts.
+
+Body-Centric NFC: Body-Centric Interaction with NFC Devices Through Near-Field Enabled Clothing
+
+Te-Yen Wu , Huizhong Ye, Chi-Jung Lee, Xing-Dong Yang, Bing-Yu Chen, Rong-Hao Liang(DIS 2022)
+[Video] [DOI] [PDF]
+
+This paper presents an investigation of body-centric interactions between the NFC device users and their surroundings, and an accessible method for fabricating fexible, extensible, and scalable NFC extenders on clothing pieces, and an easy-to-use toolkit for facilitating designers to realize the interactive experiences.
+
+Project Tasca: Enabling Touch and Contextual Interactions with a Pocket-based Textile Sensor
+
+Te-Yen Wu , Zheer Xu, Xing-Dong Yang, Steve Hodges, Teddy Seyed(CHI 2021)
+[Video] [DOI] [PDF]
+
+Project Tasca presents a pocket-based textile sensor that detects user input and recognizes everyday objects usually carried in the pockets of a pair of pants (e.g., keys, coins, electronic devices, or plastic items). By creating a new fabric-based sensor capable of detecting in-pocket touch and pressure, and recognizing metallic, non-metallic, and tagged objects inside the pocket, we enable a rich variety of subtle, eyes-free, and always-available input, as well as context-driven interactions in wearable scenarios
+
+Capacitivo: Contact-Based Object Recognition on Interactive Fabrics using Capacitive Sensing
+
+Te-Yen Wu , Lu Tan, Yuji Zhang, Teddy Seyed, Xing-Dong Yang (UIST 2020)
+[Video] [DOI] [PDF]
+
+Capacitivo is a contact-based object recognition technique developed for interactive fabrics, using capacitive sensing. Unlike prior work that has focused on metallic objects, our technique recognizes non-metallic objects such as food, different types of fruits, liquids, and other types of objects that are often found around a home or in a workplace.
+
+Fabriccio: Touchless Gestural Input on Interactive Fabrics
+
+Te-Yen Wu , Shutong Qi, Junchi Chen, MuJie Shang, Jun Gong, Teddy Seyed, Xing-Dong Yang (CHI 2020)
+[Video] [DOI] [PDF]
+
+Fabriccio is a a touchless gesture sensing technique developed for interactive fabrics using Doppler motion sensing.
+
+ThreadSense: Locating Touch on an Extremely Thin Interactive Thread
+
+Pin-Sung Ku, Qijia Shao, Te-Yen Wu , Jun Gong, Ziyan Zhu, Xia Zhou, Xing-Dong Yang (CHI 2020)
+[Video] [DOI] [PDF]
+
+We propose a new sensing technique for one-dimensional touch input workable on an interactive thread of less than 0.4 mm thick. Our technique locates up to two touches using impedance sensing with a spacing resolution unachievable by the existing methods.
+
+Zippro: The Design and Implementation of An Interactive Zipper
+
+Pin-Sung Ku, Jun Gong, Te-Yen Wu , YiXin Wei, Yiwen Tang, Barrett Ens, Xing-Dong Yang (CHI 2020)
+[Video] [DOI] [PDF]
+
+This paper explored the possibilities of interaction with ubiquitous zipper-bearing objects, with a focus on opportunities for foreground and background interactions. Based on the findings, we built a self-contained prototype, Zippro that can replace a common zipper slider.
+
+Text Entry System
+BiTipText: Bimanual Eyes-Free Text Entry on a Fingertip Keyboard.
+
+Zheer Xu, Weihao Chen, Dongyang Zhao, Jiehui Luo, Te-Yen Wu , Jun Gong, Sicheng Yin, Jialun Zhai, Xing-Dong Yang (CHI 2020)
+[Video] [DOI] [PDF]
+
+We present a bimanual text input method on a miniature fingertip keyboard, that invisibly resides on the first segment of a user’s index finger on both hands.
+
+TipText: Eyes-Free Text Entry on a Fingertip Keyboard
+
+Zheer Xu, Pui Chung Wong, Jun Gong, Te-Yen Wu , Aditya Shekhar Nittala, Xiaojun Bi, Jurgen Steimle, Hongbo Fu, Kening Zhu, Xing-Dong Yang (UIST 2019)
+[Video] [DOI] [PDF]
+
+ Best Paper Award
+
+In this paper, we propose and investigate a new text entry technique using micro thumb-tip gestures. Our technique features a miniature QWERTY keyboard residing invisibly on the first segment of the user’s index finger. Text entry can be carried out using the thumb-tip to tap the tip of the index finger.
+
+Prototyping Tools
+AccessibleCircuit: Adaptive Add-On Circuit Components for People with Blindness or Low Vision
+
+Ruei-Che Chang, Wen-Ping Wang, Chi-Huan Chiang, Te-Yen Wu , Zheer Xu, Justin Luo, Bing-Yu Chen, Xing-Dong Yang (CHI 2021)
+[Video] [DOI] [PDF]
+
+In this paper, we propose the designs for low cost and 3D-printable add-on components to adapt existing breadboards, circuit components and electronics tools for blind or low vision (BLV) users.
+
+TangibleCircuits: An Interactive 3D Printed Circuit Education Tool for People with Visual Impairments.
+
+Josh Urban Davis, Te-Yen Wu , Bo Shi, Hanyi Lui, Anthina Panotopoulou, Emily Whiting, Xing-Dong Yang (CHI 2020)
+[Video] [DOI] [PDF]
+
+ Honorable Mention Award
+
+We present a novel haptic and audio feedback device that allows blind and visually impaired (BVI) users to understand circuit diagrams. TangibleCircuits allows users to interact with a 3D printed tangible model of a circuit which provides audio tutorial directions while being touched.
+
+Proxino: Enabling Prototyping of Virtual Circuits With Physical Proxies
+
+Te-Yen Wu , Jun Gong, Teddy Seyed, Xing-Dong Yang (UIST 2019)
+[Video] [DOI] [PDF]
+
+In this paper, we propose blending the virtual and physical worlds for prototyping circuits using physical proxies. With physical proxies, real-world components (e.g. a motor, or light sensor) can be used with a virtual counterpart for a circuit designed in software.
+
+CurrentViz: Sensing and Visualizing Electric Current Flows of Breadboarded Circuits.
+
+Te-Yen Wu , Hao-Ping Shen, Yu-Chian Wu, Yu-An Chen, Pin-Sung Ku, Ming-Wei Hsu, Jun-You Liu, Yu-Chih Lin, Mike Y. Chen (UIST 2017)
+[Video] [DOI] [PDF]
+
+We present CurrentViz, a system that can sense and visualize the electric current flowing through a circuit, which helps users quickly understand otherwise invisible circuit behavior.
+
+CircuitSense: Automatic Sensing of Physical Circuits and Generation of Virtual Circuits to Support Software Tools.
+
+Te-Yen Wu , Bryan Wang, Jiun-Yu Lee, Hao-Ping Shen, Yu-Chian Wu, Yu-An Chen, Pin-Sung Ku, Ming-Wei Hsu, Yu-Chih Lin, Mike Y. Chen (UIST 2017)
+[Video] [DOI] [PDF]
+
+CircuitSense is a system that automatically recognizes the wires and electronic components placed on breadboards.
+
+CircuitStack: Supporting Rapid Prototyping and Evolution of Electronic Circuits
+
+Chiuan Wang, Hsuan-Ming Yeh, Bryan Wang, Te-Yen Wu , Hsin-Ruey Tsai, Rong-Hao Liang, Yi-Ping Hung, Mike Y. Chen (UIST 2016)
+[Video] [DOI] [PDF]
+
+CircuitStack is a system that com- bines the flexibility of breadboarding with the correctness of printed circuits, for enabling rapid and extensible circuit con- struction.
+
+AI, AR/VR Interactions and Others
+Mind’s Eye: Grounded Language Model Reasoning through Simulation
+
+Ruibo Liu, Jason Wei, Shixiang Shane Gu, Te-Yen Wu , Soroush Vosoughi, Claire Cui, Denny Zhou, Andrew M. Dai (ICLR 2023)
+[Video] [DOI] [PDF]
+
+We present Mind’s Eye, a paradigm to ground language model reasoning in the physical world. Given a physical reasoning question, we use a computational physics engine (DeepMind’s MuJoCo) to simulate the possible outcomes, and then use the simulation results as part of the input, which enables language models to perform reasoning.
+
+XAIR: A Framework of Explainable AI in Augmented Reality
+
+Xuhai Xu, Mengjie Yu, Tanya Jonker, Kashyap Todi, Feiyu Lu, Xun Qian, João Belo, Tianyi Wang, Michelle Li, Aran Mun, Te-Yen Wu , Junxiao Shen, Ting Zhang, Narine Kokhlikyan, Fulton Wang, Paul Sorenson, Sophie Kahyun Kim, Hrvoje Benko (CHI 2023)
+[Video] [DOI] [PDF]
+
+We propose XAIR, a design framework that addresses when, what, and how to provide explanations of AI output in AR. The framework was based on a multi-disciplinary literature review of XAI and HCI research, a large-scale survey probing 500+ end-users’ preferences for AR-based explanations, and three workshops with 12 experts collecting their insights about XAI design in AR.
+
+SpeechBubbles: Enhancing Captioning Experiences for Deaf and Hard-of-Hearing People in Group Conversations
+
+Yi-Hao Peng, Ming-Wei Hsu, Paul Taele, Ting-Yu Lin, Po-En Lai, Leon Hsu, Tzu-chuan Chen, Te-Yen Wu , Yu-An Chen, Hsien-Hui Tang, Mike Y. Chen (CHI 2018)
+[Video] [DOI] [PDF]
+
+In this paper, we interviewed and co-designed with eight DHH participants to address the following challenges: 1) associating utterances with speakers, 2) ordering utterances from different speakers, 3) displaying optimal content length, and 4) visualizing utterances from out-of-view speakers.
+
+ARPilot: Designing and Investigating AR Shooting Interfaces on Mobile Devices
+
+Yu-An Chen, Te-Yen Wu , Tim Chang, Jun You Liu, Yuan-Chang Hsieh, Leon Yulun Hsu, Ming-Wei Hsu, Paul Taele, Neng-Hao Yu, Mike Y. Chen (MobileHCI 2018)
+[Video] [DOI] [PDF]
+
+We present an AR direct-manipulation interface that lets users plan an aerial video by physically moving their mobile devices around a miniature 3D model of the scene, shown via Augmented Reality (AR).
+
+NFCStack: Identifiable Physical Building Blocks that Support Concurrent Construction and Frictionless Interaction
+
+Chi-Jung Lee, Rong-Hao Liang, Ling-Chien Yang, Chi-Huan Chiang, Te-Yen Wu , Bing-Yu Chen (UIST 2022)
+[Video] [DOI] [PDF]
+
+NFCStack is a physical building block system that can support stacking and frictionless interaction based on near-field communication (NFC).
+
+ActiveErgo: Automatic and Personalized Ergonomics using Self-actuating Furniture.
+
+Yu-Chian Wu, Te-Yen Wu , Paul Taele, Bryan Wang, Jun-You Liu, Ping-sung Ku, Po-en Lai, Mike Y. Chen (CHI 2018)
+[Video] [DOI] [PDF]
+
+We present ActiveErgo, the first active approach to improving ergonomics by combining sensing and actuation of motorized furniture. It provides automatic and personalized ergonomics of computer workspaces in accordance to the recommended ergonomics guidelines.
+
+Work Experience
+Assistant Professor, Florida State University, 2023
+Research Scientist Intern, Meta Reality Labs, 2022
+Research Scientist Intern, Microsoft Research, 2021
+Research Scientist Intern, Microsoft Research, 2020
+Android App Intern, Yahoo, 2017
+Fullstack Software Engineer, Bearsoft Inc, 2015
+Founder, Hydrabrain Game Studio, 2014
+
+
+Latest News
+2024 May. Co-advised students, Yuning and Yonghao, will present their works in CHI'24. See you in Hawaii
+2024 Aprl. 3. Two paper submissions to UIST'24.
+2024 Jan. 19. Two paper submissions accepted to CHI'24.
+2023 Sept. 14. Four paper submissions to CHI'24
+2023 Aug. 7. Started AP position at FSU
+2023 Aprl 23. Accepted an AP offer from FSU
+2022 Dec 9. Invited talk at National Taiwan University.
+2022 Nov 9. Invited talk at Salisbury University.
+2022 Oct 31. Talk and Demo at UIST 2022.
+2022 Oct 4.Invited talk at Autodesk.
+2022 Sept 15. One submission to CHI.
+2022 Sept 5. Preparing job documents.
+2022 Sept 1. Ending internship at Meta.
+
+
+
+Service
+
+Conference Organinzing Committee: UIST'23, UIST'24
+Program/Associate Chairs: CHI'24, UIST'24
+Conference Review: CHI'19 - '23, UIST'19 - '23, ISS'20, CSCW'21, TEI'20 - '21, MobileHCI'22
+Journal Review: IMWUT'22, Natural Communications'23
+
+Awards
+
+First Year Assistant Professor (FYAP) grant, FSU
+
+
+© 2015 - 2024 All rights reserved.
+

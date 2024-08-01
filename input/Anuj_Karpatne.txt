@@ -1,0 +1,75 @@
+Professor: Anuj Karpatne
+University: Virginia Tech
+URL: https://people.cs.vt.edu/karpatne
+Description: Anuj Karpatne
+Associate Professor
+
+Dept. of Computer Science, Virginia Tech
+
+Email: karpatne-AT-vt.edu
+Office: D&DS 438
+Google Scholar, CV
+
+
+Home
+Teaching
+Projects
+Prospective Students
+About Me
+
+Hello everyone! I am an Associate Professor in the Department at Computer Science at Virginia Tech (VT). My research strives to push the capabilities of current standards of machine learning (ML) in solving scientific and societally relevant problems by developing novel methodologies in the emerging field of scientific Knowledge-guided Machine Learning (KGML). KGML seeks a distinct departure from “data-only” and “science-only” methods by using both scientific knowledge and data in the design and learning of ML models. The key motivation behind KGML is to improve the interpretability and generalization power of ML models, especially on out-of-sample distributions and even in the paucity of gold-standard data. KGML is also referred to by various names in different research communities, including ‘theory-guided data science’ (TGDS), ‘physics-guided machine learning’ (PGML), ‘science-guided machine learning’ (SGML), and ‘physics-informed machine learning’ (PIML). I enjoy working on inter-disciplinary problems and have been fortunate to work with amazing collaborators from a diverse range of scientific disciplines including lake modeling, remote sensing, geophysics, fluid dynamics, quantum mechanics, optics, radar physics, mechanobiology, and trait-based biology. If you are interested in collaborating, please feel free to contact me!
+
+
+
+
+New: The first comprehensive book on KGML is out! This book contains invited chapters by leading researchers in the field covering diverse facets of KGML research. The introductory chapter of the book also provides a coherent organizational structure to the variety of problem formulations and research methods being explored in the emerging field of KGML. Check the book website for more details.
+
+Short Bio
+
+Anuj Karpatne is an Associate Professor in the Department of Computer Science at Virginia Tech, where he develops data mining and machine learning methods to solve scientific and socially relevant problems. A key focus of Dr. Karpatne’s research is to advance the field of science-guided machine learning for applications in several domains including climate science, hydrology, ecology, geophysics, trait-based biology, mechanobiology, quantum mechanics, and fluid dynamics. He has received the Outstanding New Assistant Award by the College of Engineering at VT in 2022, the Rising Star Faculty Award by the Department of Computer Science at VT in 2021 and was named the Inaugural Research Fellow by the IS-GEO (Intelligent Systems for Geosciences) Research Coordination Network for 2019. Dr. Karpatne currently serves as the editor-in-chief of the quarterly newsletter SIGAI AI Matters. Dr. Karpatne is also a co-author of the second edition of the textbook, Introduction to Data Mining. He received his Ph.D. in Computer Science at the University of Minnesota in 2017 under the guidance of Prof. Vipin Kumar.
+
+Selected Projects
+
+
+Imageomics: Discovering Biological Traits from Images
+
+This work is supported by a $15M NSF grant to create a Harnessing Data Revolution (HDR) Institute on Imageomics, a brand-new field in biology where images are used as the source of information about life, powered by novel advances in knowledge-guided ML (KGML). We are developing methods that make use of varying forms of structured biological knowledge (e.g., anatomy ontologies and phylogenies) to guide the training of ML models on images of organisms (e.g., fishes or butterflies) for a variety of downstream tasks such as species classification, image reconstruction, and trait discovery. This is in collaboration with computer scientists and biologists across 11 institutions, led by OSU.
+Students working on the project: Mohannad Elhamod (PhD), M. Maruf (PhD).
+Job Openings: We have openings for 2 MS/PhD students to work on this project with background in deep learning, computer version, and knowledge graphs.
+
+Predicting the Mechanics of Living Cells
+
+This is a collaborative project with researchers from Mechanical Engineering at VT to develop physics-guided ML methods for tracking, characterizing, and predicting the movement of cells and bacteria in fibrous environments using traction-force microscopy images collected in the field of mechanobiology. The physics knowledge that we are integrating in our ML methods includes phenomenological models of cell and bacteria migration and knowledge of the mechanical forces governing interactions between cells and fiber backgrounds. This work is supported by a $1M NSF Medium grant where I am the lead investigator.
+Students working on the project: Arka Daw (PhD), Medha Sawhney (MS).
+Job Openings: We have openings for 1 MS/PhD student to work on this project with background in deep learning and computer version.
+
+Modeling Quality of Water in Lakes
+
+The goal of this project is to develop hybrid-ecology-ML models of lake water quality where some lake components are represented using ecology models while others are represented using KGML models. We aim to use KGML to improve the accuracy of current standards in lake modeling as well as to discover new knowledge of lake physics and system interactions. This is in collaboration with researchers from BIO at VT, and limnologists from Univ. of Wisconsin.
+Students working on the project: Arka Daw (PhD).
+Job Openings: We have openings for 1 MS/PhD student to work on this project with background in deep learning and time series modeling.
+
+(Upcoming Project) Seafloor Characterization From Free Fall Penetrometers
+
+This work is supported by a recently funded grant from the Naval Engineering Education Consortium (NEEC) to characterize seafloor properties using data collected by free fall penetrometers. This project will involve development of physics-guided ML methods that integrate physics knowledge available as numerical model simulations in the design and training of neural network models.
+Job Openings: We have openings for 1 MS/PhD student to work on this project with background in deep learning and time series modeling (US Citizenship required).
+
+(Upcoming Project) Predicting the Evolution of Zoonotic Viral Diseases for Pandemic Prevention
+
+This is an upcoming project where we are aiming to forecast and control the next global pandemic by developing a new generation of predictive models of the evolution and human adaptation of animal viral sequences, powered by KGML. Our focus is to computationally predict zoonosis (transfer of virus from one animal species to another) and the events that occur when a virus enters and hijacks a host human cell. Specifically, we aim to predict which mutation(s) in a virus will permit it to jump species from an animal host, and infect and adapt to a human cell.
+Job Openings: We have openings for 1 MS/PhD student to work on this project with background in generative adversarial networks and sequence modeling.
+
+Solving Eigenvalue Equations and Partial Differential Equations (PDEs) in Physics
+
+This is a collaborative project with computer scientists and physicists from Ohio State University, SUNY Bingamton, and University of Massachusetts Lowell. The goal of this project is to train neural network models for solving eigenvalue equations in physics problems (Schrodinger’s equation in quantum mechanics and Maxwell’s equations in optics) using physics-guided learning algorithms. We are also developing neural network architectures and learning algorithms for solving PDEs using limited number of ground-truth simulations. We are exploring ideas from several fields to improve the parameter efficiency, convergence speed, and generalization capabilities of neural networks, especially on out-of-distribution samples. This work has been supported by an NSF EAGER grant we received in 2020.
+Students working on the project: Mohannad Elhamod (PhD), Jie Bu (PhD), Arka Daw (PhD), M. Maruf (PhD).
+
+Modeling Multi-phase Flow Dynamics
+
+The goal of this project is to develop ML models to predict forces experienced by particles suspended in moving fluids, using high fidelity simulations of particle-fluid systems and knowledge of essential physics underlying the interaction between particles and the flow fields (pressure and velocity). This is in collaboration with Naren Ramakrishnan from CS at VT and Danesh Tafti from ME at VT.
+Students working on the project: Nikhil Muralidhar (PhD), Jie Bu (PhD).
+
+For Prospective Students
+
+If you are interested in working with me, (1) please go through the project descriptions listed above and identify job openings that fit your background and interests, (2) fill out this survey: https://forms.gle/3CUEa57bAo5fjceX8. If you do not fill this survey and email me direclty, I may not respond to your mail.
+

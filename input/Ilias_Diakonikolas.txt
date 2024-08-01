@@ -1,0 +1,943 @@
+Professor: Ilias Diakonikolas
+University: University of Wisconsin - Madison
+URL: http://www.iliasdiakonikolas.org/
+Description: Ilias Diakonikolas
+		I am the Sheldon B. Lubar professor in the CS department at UW Madison, where I am a member of the theory of computing group, machine learning@uw-madison, and the Institute for Foundations of Data Science. I am also affiliated with the department of Statistics, the Wisconsin Institute for Discovery, and the Data Science Institute.
+
+Prior to joining UW, I was Andrew and Erna Viterbi Early Career Chair in Computer Science at USC, and a faculty member at the University of Edinburgh. Prior to that, I spent two years at UC Berkeley as the Simons Postdoctoral Fellow in Theoretical Computer Science. I obtained my Ph.D. in Computer Science at Columbia University, advised by Mihalis Yannakakis. I did my undergraduate studies in Greece, at the National Technical University of Athens.
+
+Research: My research interests are in algorithms and machine learning. A major goal of my work is to understand the tradeoff between statistical efficiency, computational efficiency, and robustness for fundamental problems in statistics and machine learning. Areas of current focus include high-dimensional robust statistics, information-computation tradeoffs, foundations of deep learning, nonparametric estimation, distribution testing, and data-driven algorithm design. I also have strong interests in applied probability, algorithmic game theory, and their connections to machine learning.
+
+Funding: My research has been supported by an NSF CAREER Award, an NSF Medium Award, an NSF AITF Award, a DARPA grant, an H. I. Romnes Faculty Fellowship, a Sloan Research Fellowship, a Google Faculty Research Award, a Marie Curie Career Integration Grant, and an EPSRC grant.
+
+A short professional biography can be found here.
+
+Interested in working with me? Apply to our Ph.D. program.
+
+University of Wisconsin-Madison
+Department of Computer Sciences
+1210 W. Dayton St.
+Madison, WI 53706
+fullname_at_gmail.com
+
+Robust Statistics Book
+New Book with Daniel Kane on Algorithmic High-Dimensional Robust Statistics published by Cambridge University Press.
+
+
+Expository Articles
+Robustness Meets Algorithms [abstract] [fulltext]
+I. Diakonikolas, G. Kamath, D. Kane, J. Li, A. Moitra, A. Stewart
+Communications of the ACM, Research Highlights, May 2021
+
+
+Recent Advances in Algorithmic High-Dimensional Robust Statistics [abstract] [arxiv]
+I. Diakonikolas and D. Kane
+A shorter version appears as an Invited Book Chapter in Beyond the Worst-Case Analysis of Algorithms, Cambridge University Press, September 2020
+
+
+Research Vignette: Algorithmic High-Dimensional Robust Statistics
+I. Diakonikolas, S. Vempala, D. Woodruff
+UC Berkeley Simons Institute newsletter, September 2019 issue
+
+
+Learning Structured Distributions [abstract] [pdf]
+I. Diakonikolas
+Invited Book Chapter, in Handbook of Big Data, Chapman and Hall/CRC, February 2016
+
+
+Recent Activities
+TTIC Summer 2024 workshop on New Frontiers in Robust Statistics.
+
+
+Tutorial on Robust Statistics at CIRM Meeting in Mathematical Statistics (December 2023). See here for the slides!
+
+
+Tutorial on Robust Statistics at IFDS summer school. See here for the slides!
+Tutorial talk on Robust Supervised Learning at HALG 2020. See here for the slides and here for the video! And here is a more recent talk on the topic at the Simons Institute.
+ICML 2020 Tutorial on High-Dimensional Robust Statistics. See here for the slides and videos!
+
+
+Survey (with Daniel Kane) on algorithmic aspects of high-dimensional robust statistics. See here for the arXiv version and here for the shorter book chapter version. Comments welcome!
+Research Vignette: Algorithmic High-Dimensional Robust Statistics (with S. Vempala and D. Woodruff), UC Berkeley Simons Institute newsletter, September 2019 issue.
+
+
+ISIT 2019 Tutorial on High-Dimensional Robust Statistics. See here for the slides!
+STOC 2019 Tutorial on Algorithmic High-Dimensional Robust Statistics (with Daniel M. Kane). See here for the slides!
+Simons Tutorial on Algorithmic High-Dimensional Robust Statistics. See here and here for talk videos.
+
+
+ITA 2019 session on Robust High-Dimensional Learning.
+Videos of the talks from our Simons Workshop on Robust and High-Dimensional Statistics are available here.
+Video of a recent talk on Computational-Statistical Tradeoffs in Robust High-Dimensional Estimation.
+TTIC Summer 2018 workshop on Robust High-Dimensional Statistics: See here for slides of all talks!
+
+
+Research Publications [chronologically][by topic]
+Sum-of-Squares Lower Bounds for Non-Gaussian Component Analysis
+I. Diakonikolas, S. Karmalkar, S. Pang, A. Potechin
+Proceedings of the 65th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2024)
+
+
+Agnostically Learning Multi-index Models with Queries [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 65th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2024)
+
+
+Clustering Mixtures of Bounded Covariance Distributions Under Optimal Separation [abstract] [arxiv]
+I. Diakonikolas, D. Kane, J. Lee, T. Pittas
+Manuscript, 2023
+
+
+Fast Co-Training under Weak Dependence via Stream-Based Active Learning
+I. Diakonikolas, M. Ma, L. Ren, C. Tzamos
+Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+Selected for Oral Presentation
+
+
+Robust Sparse Estimation for Gaussians with Optimal Error under Huber Contamination [abstract] [arxiv]
+I. Diakonikolas, D. Kane, S. Karmalkar, A. Pensia, T. Pittas
+Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+
+
+Robustly Learning Single-Index Models via Alignment Sharpness [abstract] [arxiv]
+N. Zarifis, P. Wang, I. Diakonikolas, J. Diakonikolas
+Proceedings of the 41st International Conference on Machine Learning (ICML 2024)
+
+
+Testable Learning of General Halfspaces with Adversarial Label Noise
+I. Diakonikolas, D. Kane, S. Liu, N. Zarifis
+Proceedings of the 37th Annual Conference on Learning Theory (COLT 2024)
+
+
+Statistical Query Lower Bounds for Learning Truncated Gaussians [abstract] [arxiv]
+I. Diakonikolas, D. Kane, T. Pittas, N. Zarifis
+Proceedings of the 37th Annual Conference on Learning Theory (COLT 2024)
+
+
+Efficiently Learning One-Hidden-Layer ReLU Networks via Schur Polynomials [abstract] [arxiv]
+I. Diakonikolas, D. Kane *Author order randomized
+Proceedings of the 37th Annual Conference on Learning Theory (COLT 2024)
+
+
+Super Non-singular Decompositions of Polynomials and their Application to Robustly Learning Low-degree PTFs [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, S. Liu, N. Zarifis
+Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+
+
+Testing Closeness of Multivariate Distributions via Ramsey Theory [abstract] [arxiv]
+I. Diakonikolas, D. Kane, S. Liu
+Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+
+
+How Does Wild Data Provably Help OOD Detection? [abstract] [arxiv]
+X. Du, Z. Fang, I. Diakonikolas, Y. Li
+Proceedings of the 12th International Conference on Learning Representations (ICLR 2024)
+
+
+Online Robust Mean Estimation [abstract] [arxiv]
+D. Kane, I. Diakonikolas, H. Xiao, S. Liu *Author order randomized
+Proceedings of the 35th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2024)
+
+
+First Order Stochastic Optimization with Oblivious Noise [abstract]
+I. Diakonikolas, S. Karmalkar, J. Park, C. Tzamos
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+SQ Lower Bounds for Non-Gaussian Component Analysis with Weaker Assumptions [abstract] [arxiv]
+I. Diakonikolas, D. Kane, L. Ren, Y. Sun
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+SQ Lower Bounds for Learning Mixtures of Linear Classifiers [abstract] [arxiv]
+I. Diakonikolas, D. Kane, Y. Sun
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+Near-Optimal Algorithms for Gaussians with Huber Contamination: Mean Estimation and Linear Regression [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia, T. Pittas
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+Robust Second-Order Nonconvex Optimization and Its Application to Low-Rank Matrix Sensing [abstract]
+S. Li, Y. Cheng, I. Diakonikolas, J. Diakonikolas, R. Ge, S. Wright
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+Near-Optimal Bounds for Learning Gaussian Halfspaces with Random Classification Noise [abstract] [arxiv]
+I. Diakonikolas, J. Diakonikolas, D. Kane, P. Wang, N. Zarifis
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+Efficient Testable Learning of Halfspaces with Adversarial Label Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, S. Liu, N. Zarifis
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+
+
+A Spectral Algorithm for List-Decodable Covariance Estimation in Relative Frobenius Norm [abstract] [arxiv]
+I. Diakonikolas, D. Kane, J. Lee, A. Pensia, T. Pittas
+Advances in Neural Information Processing Systems (NeurIPS 2023)
+Selected for Spotlight Presentation
+
+
+Distribution-Independent Regression for Generalized Linear Models with Oblivious Corruptions [abstract] [arxiv]
+I. Diakonikolas, S. Karmalkar, J. Park, C. Tzamos
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+Self-Directed Linear Classification [abstract] [arxiv]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+Information-Computation Tradeoffs for Learning Margin Halfspaces with Random Classification Noise [abstract] [arxiv]
+I. Diakonikolas, J. Diakonikolas, D. Kane, P. Wang, N. Zarifis
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+SQ Lower Bounds for Learning Mixtures of Separated and Bounded Covariance Gaussians [abstract] [arxiv]
+I. Diakonikolas, D. Kane, T. Pittas, N. Zarifis
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+Statistical and Computational Limits for Tensor-on-Tensor Association Detection [abstract] [conference]
+I. Diakonikolas, D. Kane, Y. Luo, A. Zhang
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+A Nearly Tight Bound for Fitting an Ellipsoid to Gaussian Random Points [abstract] [arxiv]
+D. Kane, I. Diakonikolas *Author order randomized
+Proceedings of the 36th Annual Conference on Learning Theory (COLT 2023)
+
+
+Robustly Learning a Single Neuron via Sharpness [abstract] [arxiv]
+P. Wang, N. Zarifis, I. Diakonikolas, J. Diakonikolas
+Proceedings of the 40th International Conference on Machine Learning (ICML 2023)
+Selected for Oral Presentation
+
+
+Near-Optimal Cryptographic Hardness of Agnostically Learning Halfspaces and ReLU Regression under Gaussian Marginals [abstract] [arxiv]
+I. Diakonikolas, D. Kane, L. Ren
+Proceedings of the 40th International Conference on Machine Learning (ICML 2023)
+
+
+Nearly-Linear Time and Streaming Algorithms for Outlier-Robust PCA [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia, T. Pittas
+Proceedings of the 40th International Conference on Machine Learning (ICML 2023)
+
+
+A Strongly Polynomial Algorithm for Approximate Forster Transforms and its Application to Halfspace Learning [abstract] [arxiv]
+I. Diakonikolas, C. Tzamos, D. Kane *Author order randomized
+Proceedings of the 55th Annual ACM Symposium on Theory of Computing (STOC 2023)
+
+
+Gaussian Mean Testing Made Simple [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia
+SIAM Symposium on Simplicity in Algorithms (SOSA 2023)
+
+
+Cryptographic Hardness of Learning Halfspaces with Massart Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, P. Manurangsi, L. Ren
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+
+
+SQ Lower Bounds for Learning Single Neurons with Massart Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, L. Ren, Y. Sun
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+
+
+Nearly-Tight Bounds for Testing Histogram Distributions [abstract] [arxiv]
+C. Canonne, I. Diakonikolas, D. Kane, S. Liu
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+
+
+Outlier-Robust Sparse Mean Estimation for Heavy-Tailed Distributions [abstract] [arxiv]
+I. Diakonikolas, D. Kane, J. Lee, A. Pensia
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+
+
+List-Decodable Sparse Mean Estimation via Difference-of-Pairs Filtering [abstract] [arxiv]
+I. Diakonikolas, D. Kane, S. Karmalkar, A. Pensia, T. Pittas
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+Selected for Oral Presentation
+
+
+Outlier-Robust Sparse Estimation via Non-Convex Optimization [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, R. Ge, S. Gupta, D. Kane, M. Soltanolkotabi
+Advances in Neural Information Processing Systems (NeurIPS 2022)
+
+
+Learning General Halfspaces with Adversarial Label Noise via Online Gradient Descent [abstract] [proceedings]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+
+
+Streaming Algorithms for High-Dimensional Robust Statistics [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia, T. Pittas
+Proceedings of the 39th International Conference on Machine Learning (ICML 2022)
+
+
+Learning a Single Neuron with Adversarial Label Noise via Gradient Descent [abstract] [arxiv]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 35th Annual Conference on Learning Theory (COLT 2022)
+
+
+Robust Sparse Mean Estimation via Sum of Squares [abstract] [arxiv]
+I. Diakonikolas, D. Kane, S. Karmalkar, A. Pensia, T. Pittas
+Proceedings of the 35th Annual Conference on Learning Theory (COLT 2022)
+
+
+Optimal SQ Lower Bounds for Robustly Learning Discrete Product Distributions and Ising Models [abstract] [arxiv]
+I. Diakonikolas, D. Kane, Y. Sun
+Proceedings of the 35th Annual Conference on Learning Theory (COLT 2022)
+
+
+Non-Gaussian Component Analysis via Lattice Basis Reduction [abstract] [arxiv]
+I. Diakonikolas, D. Kane
+Proceedings of the 35th Annual Conference on Learning Theory (COLT 2022)
+
+
+Near-Optimal Statistical Query Hardness of Learning Halfspaces with Massart Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane
+Proceedings of the 35th Annual Conference on Learning Theory (COLT 2022)
+
+
+Learning General Halfspaces with General Massart Noise under the Gaussian Distribution [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 54th Annual ACM Symposium on Theory of Computing (STOC 2022)
+
+
+Clustering Mixture Models in Almost-Linear Time via List-Decodable Mean Estimation [abstract] [arxiv]
+I. Diakonikolas, D. M. Kane, D. Kongsgaard, J. Li, K. Tian
+Proceedings of the 54th Annual ACM Symposium on Theory of Computing (STOC 2022)
+
+
+Robustly Learning Mixtures of k Arbitrary Gaussians [abstract] [arxiv]
+A. Bakshi, I. Diakonikolas, H. Jia, D. Kane, P. Kothari, S. Vempala
+Proceedings of the 54th Annual ACM Symposium on Theory of Computing (STOC 2022)
+
+
+Hardness of Learning a Single Neuron with Adversarial Label Noise [abstract] [proceedings]
+I. Diakonikolas, D. Kane, P. Manurangsi, L. Ren
+Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)
+Selected for Oral Presentation
+
+
+Efficient Approximation Algorithms for the Inverse Semivalue Problem [abstract] [proceedings]
+I. Diakonikolas, C. Pavlou, J. Peebles, A. Stewart
+Proceedings of the 21st International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2022)
+
+
+Forster Decomposition and Learning Halfspaces with Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, C. Tzamos
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+Selected for Spotlight Presentation
+
+
+ReLU Regression with Massart Noise [abstract] [arxiv]
+I. Diakonikolas, J. Park, C. Tzamos
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+
+
+Statistical Query Lower Bounds for List-Decodable Linear Regression [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia, T. Pittas, A. Stewart
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+Selected for Spotlight Presentation
+
+
+List-Decodable Mean Estimation in Nearly-PCA Time [abstract] [arxiv]
+I. Diakonikolas, D. Kane, D. Kongsgaard, J. Li, K. Tian
+Advances in Neural Information Processing Systems (NeurIPS 2021)
+Selected for Spotlight Presentation
+
+
+Agnostic Proper Learning of Halfspaces under Gaussian Marginals [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 34th Annual Conference on Learning Theory (COLT 2021)
+
+
+The Optimality of Polynomial Regression for Agnostic Learning under Gaussian Marginals [abstract] [arxiv]
+I. Diakonikolas, D. Kane, T. Pittas, N. Zarifis
+Proceedings of the 34th Annual Conference on Learning Theory (COLT 2021)
+
+
+Boosting in the Presence of Massart Noise [abstract] [arxiv]
+I. Diakonikolas, R. Impagliazzo, D. M. Kane, R. Lei, J. Sorrell, C. Tzamos
+Proceedings of the 34th Annual Conference on Learning Theory (COLT 2021)
+
+
+Outlier-Robust Learning of Ising Models Under Dobrushin's Condition [abstract] [arxiv]
+I. Diakonikolas, D. M. Kane, A. Stewart, Y. Sun
+Proceedings of the 34th Annual Conference on Learning Theory (COLT 2021)
+
+
+The Sample Complexity of Robust Covariance Testing [abstract] [arxiv]
+I. Diakonikolas, D. Kane
+Proceedings of the 34th Annual Conference on Learning Theory (COLT 2021)
+
+
+Learning Online Algorithms with Distributional Advice
+I. Diakonikolas, V. Kontonis, C. Tzamos, A. Vakilian, N. Zarifis
+Proceedings of the 38th International Conference on Machine Learning (ICML 2021)
+
+
+A Polynomial Time Algorithm for Learning Halfspaces with Tsybakov Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
+
+
+Learning Halfspaces with Tsybakov Noise [abstract] [arxiv]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
+(Conference version to be merged with paper above.)
+
+
+Optimal Testing of Discrete Distributions with High Probability [abstract] [arxiv]
+I. Diakonikolas, T. Gouleakis, D. Kane, J. Peebles, E. Price
+Proceedings of the 53rd Annual ACM Symposium on Theory of Computing (STOC 2021)
+
+
+Rapid Approximate Aggregation with Distribution-Sensitive Interval Guarantees [abstract] [arxiv]
+S. Macke, M. Aliakbarpour, I. Diakonikolas, A. Parameswaran, R. Rubinfeld
+Proceedings of the 37th IEEE International Conference on Data Engineering (ICDE 2021)
+
+
+Outlier Robust Mean Estimation with Subgaussian Rates via Stability [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Pensia
+Advances in Neural Information Processing Systems (NeurIPS 2020)
+
+
+The Complexity of Adversarially Robust Proper Learning of Halfspaces with Agnostic Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, P. Manurangsi
+Advances in Neural Information Processing Systems (NeurIPS 2020)
+
+
+Near-Optimal SQ Lower Bounds for Agnostically Learning Halfspaces and ReLUs under Gaussian Marginals [abstract] [arxiv]
+I. Diakonikolas, D. Kane, N. Zarifis
+Advances in Neural Information Processing Systems (NeurIPS 2020)
+
+
+List-Decodable Mean Estimation via Iterative Multi-Filtering [abstract] [arxiv]
+I. Diakonikolas, D. Kane, D. Kongsgaard
+Advances in Neural Information Processing Systems (NeurIPS 2020)
+
+
+Non-Convex SGD Learns Halfspaces with Adversarial Label Noise [abstract] [arxiv]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Advances in Neural Information Processing Systems (NeurIPS 2020)
+
+
+Small Covers for Near-Zero Sets of Polynomials and Learning Latent Variable Models [abstract] [arxiv]
+I. Diakonikolas, D. Kane
+Proceedings of the 61st Annual IEEE Symposium on Foundations of Computer Science (FOCS 2020)
+
+
+Robustly Learning any Clusterable Mixture of Gaussians [abstract] [arxiv]
+I. Diakonikolas, S. Hopkins, D. Kane, S. Karmalkar
+Proceedings of the 61st Annual IEEE Symposium on Foundations of Computer Science (FOCS 2020)
+(Conference version to be merged with this paper)
+
+
+High-Dimensional Robust Mean Estimation via Gradient Descent [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, R. Ge, M. Soltanolkotabi
+Proceedings of the 37th International Conference on Machine Learning (ICML 2020)
+
+
+Efficiently Learning Adversarially Robust Halfspaces with Noise [abstract] [arxiv]
+O. Montasser, S. Goel, I. Diakonikolas, N. Srebro
+Proceedings of the 37th International Conference on Machine Learning (ICML 2020)
+
+
+Efficient Algorithms for Multidimensional Segmented Regression [abstract] [arxiv]
+I. Diakonikolas, J. Li, A. Voloshinov
+Manuscript, 2020
+
+
+Algorithms and SQ Lower Bounds for PAC Learning One-Hidden-Layer ReLU Networks [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Kontonis, N. Zarifis
+Proceedings of the 33rd Annual Conference on Learning Theory (COLT 2020)
+
+
+Approximation Schemes for ReLU Regression [abstract] [arxiv]
+I. Diakonikolas, S. Goel, S. Karmalkar, A. Klivans, M. Soltanolkotabi
+Proceedings of the 33rd Annual Conference on Learning Theory (COLT 2020)
+
+
+Learning Halfspaces with Massart Noise Under Structured Distributions [abstract] [arxiv]
+I. Diakonikolas, V. Kontonis, C. Tzamos, N. Zarifis
+Proceedings of the 33rd Annual Conference on Learning Theory (COLT 2020)
+
+
+Private Testing of Distributions via Sample Permutations [abstract] [proceedings]
+M. Aliakbarpour, I. Diakonikolas, D. Kane, R. Rubinfeld
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+
+
+Nearly Tight Bounds for Robust Proper Learning of Halfspaces with a Margin [abstract] [arxiv]
+I. Diakonikolas, D. Kane, P. Manurangsi
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+Selected for Spotlight Presentation at NeurIPS 2019
+
+
+Outlier-Robust High-Dimensional Sparse Estimation via Iterative Filtering [abstract] [arxiv]
+I. Diakonikolas, S. Karmalkar, D. Kane, E. Price, A. Stewart
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+
+
+Distribution-Independent PAC Learning of Halfspaces with Massart Noise [abstract] [arxiv]
+I. Diakonikolas, T. Gouleakis, C. Tzamos
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+Outstanding Paper Award at NeurIPS 2019
+See here for a description of our work by the program chairs and here for the slides of my NeurIPS talk.
+
+
+Equipping Experts/Bandits with Long-term Memory [abstract] [arxiv]
+K. Zheng, H. Luo, I. Diakonikolas, L. Wang
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+
+
+A Polynomial Time Algorithm for Log-Concave Maximum Likelihood via Locally Exponential Families [abstract] [arxiv]
+B. Axelrod, I. Diakonikolas, A. Sidiropoulos, A. Stewart, G. Valiant
+Advances in Neural Information Processing Systems (NeurIPS 2019)
+
+
+Faster Algorithms for High-Dimensional Robust Covariance Estimation [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, R. Ge, D. Woodruff
+Proceedings of the 32nd Annual Conference on Learning Theory (COLT 2019)
+
+
+Communication and Memory Efficient Testing of Discrete Distributions [abstract] [arxiv]
+I. Diakonikolas, T. Gouleakis, D. Kane, S. Rao
+Proceedings of the 32nd Annual Conference on Learning Theory (COLT 2019)
+
+
+Testing Identity of Multidimensional Histograms [abstract] [arxiv]
+I. Diakonikolas, D. Kane, J. Peebles
+Proceedings of the 32nd Annual Conference on Learning Theory (COLT 2019)
+
+
+Sever: A Robust Meta-Algorithm for Stochastic Optimization [abstract] [arxiv] [code]
+I. Diakonikolas, G. Kamath, D. Kane, J. Li, J. Steinhardt, A. Stewart
+Proceedings of the 36th International Conference on Machine Learning (ICML 2019)
+Oral Presentation at the NeurIPS 2018 Workshop on Security in Machine Learning (SECML 2018)
+
+
+Degree-d Chow Parameters Robustly Determine Degree-d PTFs (and Algorithmic Applications) [abstract] [eccc]
+I. Diakonikolas, D. Kane
+Proceedings of the 51st Annual ACM Symposium on Theory of Computing (STOC 2019)
+
+
+Efficient Robust Proper Learning of Log-concave Distributions [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Manuscript
+
+
+On the Complexity of the Inverse Semivalue Problem for Weighted Voting Games [abstract] [arxiv]
+I. Diakonikolas, C. Pavlou
+Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)
+
+
+Collision-based Testers are Optimal for Uniformity and Closeness [abstract] [eccc]
+I. Diakonikolas, T. Gouleakis, J. Peebles, E. Price
+Chicago Journal of Theoretical Computer Science, 2019
+Also see Oded Goldreich's exposition of our proof here
+
+
+High-Dimensional Robust Mean Estimation in Nearly-Linear Time [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, R. Ge
+Proceedings of the 30th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2019)
+
+
+Efficient Algorithms and Lower Bounds for Robust Linear Regression [abstract] [arxiv]
+I. Diakonikolas, W. Kong, A. Stewart
+Proceedings of the 30th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2019)
+
+
+Fourier-based Testing for Families of Distributions [abstract] [eccc]
+C. Canonne, I. Diakonikolas, A. Stewart
+Advances in Neural Information Processing Systems (NeurIPS 2018)
+
+
+Sharp Bounds for Generalized Uniformity Testing [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Advances in Neural Information Processing Systems (NeurIPS 2018)
+Selected for Spotlight Presentation at NeurIPS 2018
+See the comments in Oded Goldreich's Choices #229
+
+
+Robust Learning of Fixed-Structure Bayesian Networks [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, D. Kane, A. Stewart
+Advances in Neural Information Processing Systems (NeurIPS 2018)
+
+
+Differentially Private Identity and Closeness Testing of Discrete Distributions [abstract] [arxiv]
+M. Aliakbarpour, I. Diakonikolas, R. Rubinfeld
+Proceedings of the 35th International Conference on Machine Learning (ICML 2018)
+
+
+Near-Optimal Sample Complexity Bounds for Maximum Likelihood Estimation of Multivariate Log-concave Densities [abstract] [arxiv]
+T. Carpenter, I. Diakonikolas, A. Sidiropoulos, A. Stewart
+Proceedings of the 31st Annual Conference on Learning Theory (COLT 2018)
+
+
+Fast and Sample Near-Optimal Algorithms for Learning Multidimensional Histograms [abstract] [arxiv]
+I. Diakonikolas, J. Li, L. Schmidt
+Proceedings of the 31st Annual Conference on Learning Theory (COLT 2018)
+
+
+Sample-Optimal Identity Testing with High Probability [abstract] [arxiv]
+I. Diakonikolas, T. Gouleakis, J. Peebles, E. Price
+Proceedings of the 45th Intl. Colloquium on Automata, Languages and Programming (ICALP 2018)
+See the comments in Oded Goldreich's Choices #229
+
+
+Testing Conditional Independence of Discrete Distributions [abstract] [arxiv]
+C. Canonne, I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 50th Annual ACM Symposium on Theory of Computing (STOC 2018)
+
+
+List-Decodable Robust Mean Estimation and Learning Mixtures of Spherical Gaussians [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 50th Annual ACM Symposium on Theory of Computing (STOC 2018)
+
+
+Learning Geometric Concepts with Nasty Noise [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 50th Annual ACM Symposium on Theory of Computing (STOC 2018)
+
+
+Robustly Learning a Gaussian: Getting Optimal Error, Efficiently [abstract] [arxiv]
+I. Diakonikolas, G. Kamath, D. Kane, J. Li, A. Moitra, A. Stewart
+Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2018)
+
+
+Communication-Efficient Distributed Learning of Discrete Distributions [abstract] [proceedings]
+I. Diakonikolas, E. Grigorescu, J. Li, A. Natarajan, K. Onak, L. Schmidt
+Advances in Neural Information Processing Systems (NIPS 2017)
+Selected for Oral Presentation at NIPS 2017
+
+
+Statistical Query Lower Bounds for Robust Estimation of High-dimensional Gaussians and Gaussian Mixtures [abstract] [eccc] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 58th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2017)
+See here and here for videos of related talks.
+
+
+Being Robust (in High Dimensions) Can be Practical [abstract] [arxiv] [code]
+I. Diakonikolas, G. Kamath, D. Kane, J. Li, A. Moitra, A. Stewart
+Proceedings of the 34th International Conference on Machine Learning (ICML 2017)
+
+
+Testing Bayesian Networks [abstract] [arxiv]
+C. Canonne, I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 30th Annual Conference on Learning Theory (COLT 2017)
+Journal version in IEEE Transactions on Information Theory, to appear.
+
+
+Learning Multivariate Log-concave Distributions [abstract] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 30th Annual Conference on Learning Theory (COLT 2017)
+
+
+Near-optimal Closeness Testing of Discrete Histogram Distributions [abstract] [arxiv]
+I. Diakonikolas, D. Kane, V. Nikishkin
+Proceedings of the 44th Intl. Colloquium on Automata, Languages and Programming (ICALP 2017)
+
+
+Playing Anonymous Games using Simple Strategies [abstract] [arxiv]
+Y. Cheng, I. Diakonikolas, A. Stewart
+Proceedings of the 28th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2017)
+
+
+Sample Optimal Density Estimation in Nearly-Linear Time [abstract] [pdf] [code]
+J. Acharya, I. Diakonikolas, J. Li, L. Schmidt
+Proceedings of the 28th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2017)
+
+
+Robust Estimators in High Dimensions without the Computational Intractability [abstract] [arxiv]
+I. Diakonikolas, G. Kamath, D. Kane, J. Li, A. Moitra, A. Stewart
+Proceedings of the 57th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2016)
+SIAM Journal on Computing Special Issue for FOCS 2016
+Invited to Communications of the ACM, Research Highlights
+See here for my Simons Institute tutorial on the topic and here for a previous related talk.
+
+
+A New Approach for Testing Properties of Discrete Distributions [abstract] [pdf] [arxiv]
+I. Diakonikolas, D. Kane
+Proceedings of the 57th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2016)
+Also see the comments in Oded Goldreich's Choices #188 and #195, and Oded's very nice exposition of our framework here
+
+
+Fast Algorithms for Segmented Regression [abstract] [pdf] [code]
+J. Acharya, I. Diakonikolas, J. Li, L. Schmidt
+Proceedings of the 33rd International Conference on Machine Learning (ICML 2016)
+
+
+Properly Learning Poisson Binomial Distributions in Almost Polynomial Time [abstract] [pdf] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 29th Annual Conference on Learning Theory (COLT 2016)
+
+
+Optimal Learning via the Fourier Transform for Sums of Independent Integer Random Variables [abstract] [pdf] [arxiv] [notes]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 29th Annual Conference on Learning Theory (COLT 2016)
+
+
+The Fourier Transform of Poisson Multinomial Distributions and its Algorithmic Applications [abstract] [pdf] [arxiv]
+I. Diakonikolas, D. Kane, A. Stewart
+Proceedings of the 48th Annual ACM Symposium on Theory of Computing (STOC 2016)
+
+
+Testing Shape Restrictions of Discrete Distributions [abstract] [pdf]
+C. Canonne, I. Diakonikolas, T. Gouleakis, R. Rubinfeld
+Proceedings of the 33rd International Symposium on Theoretical Aspects of Computer Science (STACS 2016)
+Invited to Special Issue for STACS 2016
+
+
+Differentially Private Learning of Structured Discrete Distributions [abstract] [pdf] [code]
+I. Diakonikolas, M. Hardt, L. Schmidt
+Advances in Neural Information Processing Systems (NIPS 2015)
+
+
+Optimal Algorithms and Lower Bounds for Testing Closeness of Structured Distributions [abstract] [pdf]
+I. Diakonikolas, D. Kane, V. Nikishkin
+Proceedings of the 56th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2015)
+
+
+On the Complexity of Optimal Lottery Pricing and Randomized Mechanisms [abstract] [pdf]
+X. Chen, I. Diakonikolas, A. Orfanou, D. Paparas, X. Sun, M. Yannakakis
+Proceedings of the 56th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2015)
+
+
+Fast and Near-Optimal Algorithms for Approximating Distributions by Histograms [abstract] [pdf]
+J. Acharya, I. Diakonikolas, C. Hegde, J. Li, L. Schmidt
+Proceedings of the 34th Annual ACM Symposium on Principles of Database Systems (PODS 2015)
+
+
+Testing Identity of Structured Distributions [abstract] [pdf]
+I. Diakonikolas, D. Kane, V. Nikishkin
+Proceedings of the 26th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2015)
+
+
+Learning from Satisfying Assignments [abstract] [pdf]
+A. De, I. Diakonikolas, R. Servedio
+Proceedings of the 26th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2015)
+
+
+Near-Optimal Density Estimation in Near-Linear Time Using Variable-Width Histograms [abstract] [pdf]
+S. Chan, I. Diakonikolas, R. Servedio, X. Sun
+Advances in Neural Information Processing Systems (NIPS 2014)
+
+
+Efficient Density Estimation via Piecewise Polynomial Approximation [abstract] [pdf]
+S. Chan, I. Diakonikolas, R. Servedio, X. Sun
+Proceedings of the 46th Annual ACM Symposium on Theory of Computing (STOC 2014)
+
+
+Deterministic Approximate Counting for Juntas of Degree-$2$ Polynomial Threshold Functions [abstract] [pdf]
+A. De, I. Diakonikolas, R. Servedio
+Proceedings of the 29th Annual IEEE Conference on Computational Complexity (CCC 2014)
+
+
+The Complexity of Optimal Multidimensional Pricing [abstract] [pdf]
+X. Chen, I. Diakonikolas, D. Paparas, X. Sun, M. Yannakakis
+Games and Economic Behavior, accepted with minor revisions
+Proceedings of the 25th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2014)
+
+
+Optimal Algorithms for Testing Closeness of Discrete Distributions [abstract] [pdf]
+S. Chan, I. Diakonikolas, G. Valiant, P. Valiant
+Proceedings of the 25th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2014)
+Blog post about this work: Property Testing Review
+
+
+A Polynomial-time Approximation Scheme for Fault-tolerant Distributed Storage [abstract] [pdf]
+C. Daskalakis, A. De, I. Diakonikolas, A. Moitra, R. Servedio
+Proceedings of the 25th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2014)
+Featured in Abstract Talk. Podcast is here
+
+
+Learning Sums of Independent Integer Random Variables [abstract] [pdf]
+C. Daskalakis, I. Diakonikolas, R. O'Donnell, R. Servedio, L-Y. Tan
+Proceedings of the 54th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2013)
+Blog post about this work: MIT theory student blog
+
+
+Deterministic Approximate Counting for Degree-$2$ Polynomial Threshold Functions [abstract] [pdf]
+A. De, I. Diakonikolas, R. Servedio
+Manuscript, 2013. Available as ECCC technical report [link]
+
+
+A robust Khintchine Inequality and computing optimal constants in Fourier analysis and high-dimensional geometry [abstract] [pdf]
+A. De, I. Diakonikolas, R. Servedio
+SIAM Journal on Discrete Mathematics, 30-2 (2016), pp. 1058-1094
+Proceedings of the 40th Intl. Colloquium on Automata, Languages and Programming (ICALP 2013)
+
+
+Learning Mixtures of Structured Distributions over Discrete Domains [abstract] [pdf]
+S. Chan, I. Diakonikolas, R. Servedio, X. Sun
+Proceedings of the 24th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2013)
+
+
+Testing $k$-modal Distributions: Optimal Algorithms via Reductions [abstract] [pdf]
+C. Daskalakis, I. Diakonikolas, R. Servedio, G. Valiant, P. Valiant
+Proceedings of the 24th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2013)
+
+
+An Optimal Algorithm for the Efficient Approximation of Convex Pareto Curves
+I. Diakonikolas, M. Yannakakis
+Manuscript, 2012
+
+
+Efficiency-Revenue Tradeoffs in Auctions [abstract] [pdf]
+I. Diakonikolas, C.H. Papadimitriou, G. Pierrakos, Y. Singer
+Proceedings of the 39th Intl. Colloquium on Automata, Languages and Programming (ICALP 2012)
+
+
+The Inverse Shapley Value Problem [abstract] [pdf]
+A. De, I. Diakonikolas, R. Servedio
+Games and Economic Behavior, accepted with minor revisions
+Proceedings of the 39th Intl. Colloquium on Automata, Languages and Programming (ICALP 2012)
+
+
+Nearly optimal solutions for the Chow Parameters Problem and low-weight approximation of halfspaces [abstract] [pdf]
+A. De, I. Diakonikolas, V. Feldman, R. Servedio
+Journal of the ACM, 61(2), 2014. Invited to Theory of Computing special issue on Analysis of Boolean functions (declined)
+Proceedings of the 44th Annual ACM Symposium on Theory of Computing (STOC 2012)
+IBM Research 2014 Pat Goldberg Math/CS/EE Best Paper Award
+
+
+Learning Poisson Binomial distributions [abstract] [pdf]
+C. Daskalakis, I. Diakonikolas, R. Servedio
+Invited to Algorithmica special issue on New Theoretical Challenges in Machine Learning
+Proceedings of the 44th Annual ACM Symposium on Theory of Computing (STOC 2012)
+
+
+Learning $k$-modal distributions via testing [abstract] [pdf]
+C. Daskalakis, I. Diakonikolas, R. Servedio
+Theory of Computing, 10 (20), 535-570 (2014)
+Proceedings of the 23rd Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2012)
+Oded Goldreich's Choices #72
+
+
+Noise Stable Halfspaces are Close to Very Small Juntas [abstract] [pdf]
+I. Diakonikolas, R. Jaiswal, R. Servedio, L.-Y.Tan, A. Wan
+Chicago Journal of Theoretical Computer Science, 2015
+
+
+Supervised Design Space Exploration by Compositional Approximation of Pareto sets [abstract] [pdf]
+H.-Y. Liu, I. Diakonikolas, M. Petracca, L.P. Carloni
+Proceedings of the 48th Design Automation Conference (DAC 2011)
+
+
+Disjoint-Path Facility Location: Theory and Practice [abstract] [pdf]
+L. Breslau, I. Diakonikolas, N. Duffield, Y.Gu, M.T. Hajiaghayi, D.S. Johnson, H. Karloff, M. Resende, S.Sen
+Proceedings of the 13th Workshop on Algorithm Engineering and Experiments (ALENEX 2011)
+Journal version in Operations Research, 2019 [arxiv]
+
+
+Hardness Results for Agnostically Learning Low-Degree Polynomial Threshold Functions [abstract] [pdf]
+I. Diakonikolas, R. O'Donnell, R. Servedio, Y.Wu
+Proceedings of the 22nd Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2011)
+
+
+Bounded Independence Fools Degree-$2$ Threshold Functions [abstract] [pdf]
+I. Diakonikolas, D. Kane, J. Nelson
+Proceedings of the 51st Annual IEEE Symposium on Foundations of Computer Science (FOCS 2010)
+
+
+Average Sensitivity and Noise Sensitivity of Polynomial Threshold Functions [abstract] [pdf]
+I. Diakonikolas, P. Raghavendra, R. Servedio, L.-Y. Tan
+SIAM Journal on Computing, 43(1), 231-253 (2014)
+Proceedings of the 42nd Annual ACM Symposium on Theory of Computing (STOC 2010)
+(Conference version merged with this paper by Harsha, Klivans and Meka)
+
+
+A Regularity Lemma, and Low-weight Approximators, for low-degree Polynomial Threshold Functions [abstract] [pdf]
+I. Diakonikolas, R. Servedio, L.-Y. Tan, A. Wan
+Theory of Computing, 10(2), 27-53 (2014)
+Proceedings of the 25th Annual IEEE Conference on Computational Complexity (CCC 2010)
+
+
+How Good is the Chord Algorithm? [abstract] [pdf]
+C. Daskalakis, I. Diakonikolas, M. Yannakakis
+SIAM Journal on Computing, 45(3), pp. 811-858, 2016
+Proceedings of the 21st Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2010)
+
+
+Bounded Independence Fools Halfspaces [abstract] [pdf]
+I. Diakonikolas, P. Gopalan, R. Jaiswal, R. Servedio, E. Viola
+SIAM Journal on Computing, 39(8), 3441-3462 (2010)
+Proceedings of the 50th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2009)
+
+
+Improved Approximation of Linear Threshold Functions [abstract] [pdf]
+I. Diakonikolas, R. Servedio
+Computational Complexity, 22(3), 623-677 (2013)
+Proceedings of the 24th Annual IEEE Conference on Computational Complexity (CCC 2009)
+
+
+Efficiently Testing Sparse $GF(2)$ Polynomials [abstract] [pdf]
+I. Diakonikolas, H. Lee, K. Matulef, R. Servedio, A. Wan
+Algorithmica, 61(3), 580-605 (2011)
+Proceedings of the 35th Intl. Colloquium on Automata, Languages and Programming (ICALP 2008)
+
+
+Succinct Approximate Convex Pareto Curves [abstract] [pdf]
+I. Diakonikolas, M. Yannakakis
+Proceedings of the 19th Annual ACM-SIAM Symposium on Discrete Algorithms (SODA 2008)
+
+
+Testing for Concise Representations [abstract] [pdf]
+I. Diakonikolas, H. Lee, K. Matulef, K. Onak, R. Rubinfeld, R. Servedio, A. Wan
+Proceedings of the 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2007)
+Oded Goldreich's Choices #39
+
+
+Small Approximate Pareto Sets for Biobjective Shortest Paths and Other Problems [abstract] [pdf]
+I. Diakonikolas, M. Yannakakis
+SIAM Journal on Computing, 39(4), 1340-1371 (2009)
+Proceedings of the 10th Intl. Workshop on Approximation, Randomization, and Combinatorial Optimization (APPROX 2007)
+Honorable Mention, George Nicholson student paper competition INFORMS society, 2009
+
+
+Thesis
+Approximation of Multiobjective Optimization Problems [abstract] [pdf]
+Ph.D. Thesis, Dept. of Computer Science, Columbia University, May 2011
+Awarded with Distinction (for Best Ph.D. thesis in Computer Science)
+
+
+Professional Activities
+Program Committees: NeurIPS 2024 (Area Chair), COLT 2024 (Senior PC), HALG 2024, ICALP 2024 (Track A), ICLR 2024 (Area Chair), NeurIPS 2023 (Area Chair), HALG 2023, COLT 2023 (Senior PC), ICLR 2023 (Area Chair), ALT 2023 (Senior PC), NeurIPS 2022 (Area Chair), FOCS 2022, COLT 2022 (Senior PC), ICALP 2022 (Track A), ICLR 2022 (Area Chair), ALT 2022 (Senior PC), NeurIPS 2021 (Area Chair), ESA 2021 (Track A), COLT 2021 (Area Chair), ICLR 2021 (Area Chair), ALT 2021, ICML 2020 (Area Chair), COLT 2020 (Senior PC), STOC 2020, ALT 2020, COLT 2019, COLT 2017, ICALP 2016, STOC 2015, ICALP 2014, ESA 2014
+Fall 2018: co-organizer of Robust and High-Dimensional Statistics Workshop at the Simons Institute.
+In August 2018, I gave a tutorial on Algorithmic High-Dimensional Robust Statistics, as part of the Foundations of Data Science Bootcamp, at the Simons Institute. The slides of my presentation can be found here.
+Fall 2018: visiting scientist at Simons Institute for the Theory of Computing, Foundations of Data Science Program.
+In August 2018, I co-organized a week-long workshop on computational and statistical aspects of Robust High-Dimensional Statistics sponsored by the TTI-Chicago Summer Workshop Program. Slides of all talks are available!
+Local arrangements co-chair for STOC 2018 TheoryFest.
+In June 2017, I co-organized a workshop at STOC 2017 on New Challenges in Machine Learning - Robustness and Nonconvexity.
+In February 2017, I organized a session at ITA on High-Dimensional Robust Estimation.
+I wrote a book chapter on distribution learning algorithms for the CRC Handbook of Big Data.
+In Fall 2015, I co-organized the Distributed Machine Learning and Optimization scoping workshop at the Alan Turing Institute.
+I co-organized the Efficient Distribution Estimation workshop at STOC 2014.
+During Summers 2015 and 2014, I was a visiting scientist at CSAIL, MIT, with the Theory of Computation group. During Fall 2013, I was a visiting scientist in the Simons Institute for the Theory of Computing at UC Berkeley.
+Recent Teaching
+Fall 2024: Introduction to Learning Theory
+Fall 2023: Advanced Learning Theory
+Spring 2023: Introduction to Computational Learning Theory
+Fall 2022: Machine Learning
+Spring 2022: Introduction to Artificial Intelligence
+Spring 2021: Advanced Topics in Learning Theory
+Fall 2020: Introduction to Computational Learning Theory
+Spring 2020: Introduction to Computational Learning Theory
+Fall 2019: Advanced Learning Theory
+Spring 2018: Machine Learning Theory
+Fall 2017: Topics in Learning and Game Theory
+Spring 2017: Machine Learning Theory
+Spring 2016: Effective Algorithms in Machine Learning and Statistics
+Advising
+PhD students: Ioannis Iakovidis (Fall 2023-present), Mingchen Ma (Fall 2023-present), Lisheng Ren (January 2021-present), Thanasis Pittas (August 2020-present), Yuxin Sun (Fall 2019-present), Nikos Zarifis (Fall 2019-present), Ankit Pensia (2019-2023), Anastasia Voloshinov (2017-2020), Chrystalla Pavlou (2015-2021), Vladimir Nikishkin (2013-2016)
+Postdocs: Alistair Stewart (2014-2017), Themis Gouleakis (2018-2019), Ali Vakilian (2019-2020), Sushrut Karmalkar (2021-2024), Jasper Lee (2021-2024)
+Undergraduate (recent): Yuqi Tu (2024), Yamin Zhou (2023), Minyi Lin (2022), Sihan Liu (2020-2021), Alexander Moon (2021)
+
+
+

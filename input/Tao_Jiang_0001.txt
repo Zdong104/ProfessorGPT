@@ -1,0 +1,98 @@
+Professor: Tao Jiang 0001
+University: Univ. of California - Riverside
+URL: http://www.cs.ucr.edu/~jiang
+Description: 	
+Tao Jiang
+Distinguished Professor
+Department of Computer Science and Engineering
+University of California - Riverside
+Riverside, CA 92521
+lastname AT cs DOT ucr DOT edu
+Phone: (951) 827-2991
+Fax: (951) 827-4643
+Office: Winston Chung Hall (WCH), Room 336
+
+
+
+I received B.S. in Computer Science and Technology from the University of Science and Technology of China (USTC) , Hefei, P.R.China in July 1984 and Ph.D. in Computer Science from the University of Minnesota in Nov. 1988. During Jan. 1989 - June 2001, I was a faculty member at Department of Computing and Software, McMaster University, Hamilton, Ontario, Canada. I joined University of California - Riverside as Professor of Computer Science in Sept. 1999, and am a member of the Algorithms and Computational Biology Lab, Genetics Graduate Program, Institute for Integrative Genome Biology, and Center for Plant Cell Biology. I also hold visiting positions at Tsinghua University and Shanghai Center for Bioinformation Technology (SCBIT).
+
+For a complete list of my publications and other detailed info, please see my Google Scholar page or CV or short biography. I am presently serving on the editorial boards of Journal of Combinatorial Optimization (JCO) , BMC Bioinformatics and Algorithmica, and program committees of RECOMB'2023 and ISMB/ECCB'2023.
+
+Research
+Design and analysis of algorithms.
+
+We study discrete objects such as strings, trees, graphs, etc., and have a special interest in the design of efficient approximation algorithms with good performance bounds. Our past work includes approximation algorithms for shortest common superstrings and directed Steiner trees. We have also worked on an average-case analysis technique based on the incompressibility method, which involves the theory of Kolmogorov complexity. Our result on the average size of Heilbronn's triangles was featured/reported in popular science magazines and newspapers:
+
+New Scientist, Nov. 6, 1999, pp. 44-47, "On a Roll" by Dana Mackenzie.
+Math Digest, Dec. 1999.
+Courrier International, Dec. 23, 1999 -- Jan. 5, 2000 (#41), pp. 477-478: "Le hasard ne joue pas aux de's", par Dana Mackenzie (translation of the NS article).
+Die Zeit, April 13, 2000 (#16), p. 40: "Geometrisch Eingekreist" by Wolfgang Blum.
+
+Our lower bound on the average-case complexity of the well-known Shellsort algorithm is mentioned on this wiki page, and still remains as the best!
+
+Computational molecular biology.
+
+We are interested in developing efficient algorithms and software for computational problems in molecular biology and genomics. Our past work includes efficient algorithms for haplotype inference on pedigrees, genome-scale ortholog assignment, isoform inference, metagenomics, and isoform-based differential analysis. PedPhase is a suite of programs for inferring haplotypes from genotypes on a pedigree. TISHunter is a web server for predicting translation initiation sites in eukaryotic mRNAs using a support vector machine. MSOAR is a method for predicting orthologous genes between closely related genomes that takes gene order into consideration (see the Github page for source code). IsoLasso is a combinatorial approach for inferring mRNA isoforms and their expression levels from RNA-Seq data. See the feature article in Genetic Engineering and Biotechnology News mentioning our work on isoform inference and differential expression analysis.
+
+I am presently collaborating with Frances Sladek, Thomas Girke, and James Borneman. Our research is/was funded by NSF EAGER, NSF ABI (joint with Grace Xiao at UCLA; see the collaborative project) and NIH NIDDK (joint with Frances Sladek), Here is a (somewhat outdated) overview of some of the projects in my lab.
+
+If you are interested in learning the abc of computational biology and bioinformatics, you may find some useful educational material on the subject (in particular, A Primer on Molecular Genetics). Our book Current Topics in Computational Molecular Biology was published by the MIT Press as a part of its Computational Molecular Biology Series (and co-published by Tsinghua Univ. Press in China) although the topics covered in the book are probably no longer current in the field :-)
+
+Complexity of finite automata based models.
+
+The following are two examples of long-standing open problems that we are interested in: (i) succinctness of two-way (nondeterministic and deterministic) finite automata and (ii) detection of connectivity in digital images by 2-dimensional finite automata. Kolmogorov complexity has been the main tool in our past work on similar problems.
+
+Teaching
+I am teaching one undergraduate and two graduate courses in the winter and spring quarters this year.
+
+CS 141 : Intermediate Data Structrues and Algorithms, winter quarter, 2009.
+
+CS 238 : Algorithmic Techniques in Computational Biology, spring quarter, 2020. We examine some fundamental algorithmic topics in computational molecular biology through instructor lecturing, student presentation, and assigned reading and discussion.
+
+CS 150 : The Theory of Automata and Formal Languages, fall quarter, 2022.
+
+CS 260 : Seminar: Selected Topics in Bioinformatics, winter quarter, 2019. This class mainly consists of student presentations of their own research and interesting work from the current bioinformatics and genomics literature.
+
+Seminar in Algorithms and Bioinformatics (SAB): a weekly seminar series where students present their research work and interesting papers from recent literature. Its schedule can be found at this page.
+
+Office Hours
+MW 10-11am in W20, but please always feel free to drop in.
+Former Postdocs and Ph.D Students
+Lusheng Wang
+Bhaskar DasGupta
+Todd Wareham
+Gianluca Della Vedova
+Guohui Lin
+Claus Vogl
+Li Jia
+Jing Li
+Andres Figueroa
+Petr Kolman
+Xin Chen
+Haifeng Li (now at Motorola)
+Jie Zheng (joint with Stefano Lonardi)
+Chuhu Yang (joint with Frances Sladek)
+Kyle Ellrott (undergrad work)
+Zheng Liu (now at City of Hope)
+Lan Liu (now at Google)
+Zheng Fu (now at Google)
+Jing Xiao (now at Fullgoal Fund Management Co., Ltd)
+Eddie Cao (joint with Thomas Girke; now at Novartis Institutes for Biomedical Research or NIBR)
+Minzhu Xie (now at Hunan Normal University)
+Bob Wang (now at Google)
+Wilson Shi (now at Google)
+Bin Fang (joint with Frances Sladek; now at GNF)
+Jianxing Feng (now in IT industry, Shanghai)
+Wei Li
+Olga Tanaseichuk (now at Google)
+Ergude Bao (joint with Thomas Girke)
+Shining Ma (now Scientist at Amgen; joint with Rui Jiang)
+Ei-Wen Yang (now Principal Scientist at Kymera Therapeutics)
+Ashraful Arefeen (now Data Scientist at Walmart Global Tech)
+Dipan Shaw (now Deep Learning Engineer at Illumina)
+Jianyu Zhou
+Hao Chen (now postdoc at CMU)
+Yuanpeng Xiong (now with a biotech startup)
+Chencheng Xu (now postdoc at KAUST)
+Zhiwei Hong (now at Intel Labs China)
+

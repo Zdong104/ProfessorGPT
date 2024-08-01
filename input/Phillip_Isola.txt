@@ -1,0 +1,169 @@
+Professor: Phillip Isola
+University: Massachusetts Institute of Technology
+URL: http://web.mit.edu/phillipi
+Description: 	
+Phillip Isola
+p h i l l i p i @ m i t . e d u
+Google Scholar / GitHub / Twitter
+
+
+About me
+
+I am an associate professor in EECS at MIT studying computer vision, machine learning, and AI.
+
+Previously, I spent a year as a visiting research scientist at OpenAI, and before that I was a postdoctoral scholar with Alyosha Efros in the EECS department at UC Berkeley. I completed my Ph.D. in Brain & Cognitive Sciences at MIT, under the supervision of Ted Adelson, where I also frequently worked with Aude Oliva. I received my undergraduate degree in Computer Science from Yale, where I got my start on research working with Brian Scholl. A longer bio is here.
+
+
+Quick links: Papers / Courses / Talks / Writing / Research Group
+
+
+⭐ News ⭐
+
+→ Our papers, talks, and workshops at CVPR 2024
+
+
+	
+Our computer vision textbook is finished!
+
+Lots of things have happened since we started thinking about this book in November 2010; yes, it has taken us more than 10 years to write this book. Our initial goal was to write a large book that provided a good coverage of the field. Unfortunately, the field of computer vision is just too large for that. So, we decided to write a small book instead, limiting each chapter to no more than five pages. Writing a short book was perfect because we did not have time to write a long book and you did not have time to read it. Unfortunately, we have failed at that goal, too. This book covers foundational topics within computer vision, with an image processing and machine learning perspective. The audience is undergraduate and graduate students who are entering the field, but we hope experienced practitioners will find the book valuable as well.
+
+Foundations of Computer Vision
+Antonio Torralba, Phillip Isola, William F. Freeman
+MIT Press
+Research Group
+The goal of our group is to scientifically understand intelligence. We are especially interested in human-like intelligence, i.e. intelligence that is built out of deep nets, is highly adaptive and general-purpose, and is emergent from embodied interactions in rich ecosystems.
+
+Questions we are studying include the following, which you can click on to expand:
+
+
+
+▸ Science of deep learning: Why do large models find solutions that generalize? What structures improve generalization? And when might these methods still fail?
+
+Representative projects: Low-rank bias, Quasimetric learning, What makes for good views for contrastive learning
+
+▸ Emergent intelligence: How can intelligence emerge from data and tasks, and how can it emerge without imitating another intelligence's cultural artifacts?
+
+Representative projects: Neural MMO, PowderWorld
+
+▸ Embodied intelligence: To what extent is physical embodiment, in interactive environments, useful or necessary for intelligence?
+
+Representative projects: Embodied representation learning, Mental imagery for robots
+
+▸ Synthetic data and environments: What kinds of training data / environments are most instructive toward achieving robust, aligned, and general intelligence?
+
+Representative projects: Generative data, Procedural data, NeRF data
+
+▸ Controllable AI: How can we make AI systems that can be steered, edited, and controlled by human users?
+
+Representative projects: Visual prompting, GAN steering, Totems
+
+
+Our goal in studying these questions is to help equip the world with the tools necessary to bring about a positive integration of AI into society; to understand intelligence so we can prevent its harms and to reap its benefits.
+
+The lab is part of the broader Embodied Intelligence and Visual Computing research communities at MIT.
+
+
+PhD Students
+Caroline Chan
+Tongzhou Wang
+Minyoung (Jacob) Huh
+Hyojin Bahng
+Akarsh Kumar
+Shobhita Sundaram
+Ishaan Preetam-Chandratreya	Postdocs
+Jeremy Bernstein
+Ge Yang
+Prafull Sharma
+
+Undergraduates
+Alan Yu
+Uzay Girit
+
+
+
+Former Members and Visitors
+Laker Newhouse (UROP), Hannah Gao (UROP), Sage Simhon (MEng), Jeff Li (UROP, MEng), Joseph Suarez (PhD), Yen-Chen Lin (PhD), Lucy Chai (PhD), Swami Sankaranarayanan (Postdoc), Stephanie Fu (UROP, MEng), Kevin Frans (UROP, MEng), Yonglong Tian (PhD), Jerry Ngo (Visiting student), Taqiya Ehsan (Visiting student), Ali Jahanian (Research Scientist), Dillon Dupont (UROP), Kate Xu (UROP), Maxwell Jiang (UROP), Toru Lin (MEng), Kenny Derek (MEng), Yilun Du (UROP), Zhongxia Yan (Rotation)
+Interested in joining the group? Please see info about applying here.
+Recent Courses
+6.s953: Embodied Intelligence (Spring 2024)
+6.s898: Deep Learning (Fall 2023)
+6.s898: Deep Learning (Fall 2022)
+6.819/6.869: Advances in Computer Vision (Spring 2022)
+6.s898: Deep Learning (Fall 2021)
+6.036: Introduction to Machine Learning (Fall 2020)
+
+
+
+New papers (All papers)
+	The Platonic Representation Hypothesis
+Minyoung Huh*, Brian Cheung*, Tongzhou Wang*, Phillip Isola*
+ICML 2024 (Position Paper, Oral).
+[Paper][Website][Code]
+
+	LangNav: Language as a Perceptual Representation for Navigation
+Bowen Pan, Rameswar Panda, SouYoung Jin, Rogerio Feris, Aude Oliva, Phillip Isola, Yoon Kim
+NAACL 2024 (Findings).
+[Paper][Code][Model]
+
+	Learning Vision from Models Rivals Learning Vision from Data
+Yonglong Tian, Lijie Fan, Kaifeng Chen, Dina Katabi, Dilip Krishnan, Phillip Isola
+CVPR 2024.
+[Paper][Code]
+
+	Scaling Laws of Synthetic Images for Model Training ... for Now
+Lijie Fan, Kaifeng Chen, Dilip Krishnan, Dina Katabi, Phillip Isola, Yonglong Tian
+CVPR 2024.
+[Paper][Code]
+
+	A Vision Check-up for Language Models
+Pratyusha Sharma*, Tamar Rott Shaham*, Manel Baradad, Stephanie Fu, Adrian Rodriguez-Munoz, Shivam Duggal, Phillip Isola, Antonio Torralba
+CVPR 2024 (highlight).
+[Paper][Website]
+
+	Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent Learning
+Joseph Suárez, Phillip Isola, Kyoung Whan Choe, David Bloomin, Hao Xiang Li, Nikhil Pinnaparaju, Nishaanth Kanna, Daniel Scott, Ryan Sullivan, Rose S. Shuman, Lucas de AlcÃ¢ntara, Herbie Bradley, Louis Castricato, Kirsty You, Yuhao Jiang, Qimai Li, Jiaxin Chen, Xiaolong Zhu
+NeurIPS 2023 Track on Datasets and Benchmarks.
+[Paper][Website][Code][Competitions]
+
+	Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation
+William Shen*, Ge Yang*, Alan Yu, Jansen Wong, Leslie Kaelbling, Phillip Isola
+CoRL 2023 (best paper award).
+[Paper][Website][Code][Video]
+
+	Learning New Dimensions of Human Visual Similarity using Synthetic Data
+Stephanie Fu*, Netanel Tamir*, Shobhita Sundaram*, Lucy Chai, Richard Zhang, Tali Dekel, Phillip Isola
+NeurIPS 2023 (spotlight).
+[Paper][Website][Code/Data][Colab]
+
+	StableRep: Synthetic Images from Text-to-Image Models Make Strong Visual Representation Learners
+Yonglong Tian, Lijie Fan, Phillip Isola, Huiwen Chang, Dilip Krishnan
+NeurIPS 2023.
+[Paper][Code]
+
+	Improving CLIP Training with Language Rewrites
+Lijie Fan, Dilip Krishnan, Phillip Isola, Dina Katabi, Yonglong Tian
+NeurIPS 2023.
+[Paper][Code]
+
+	Straightening Out the Straight-Through Estimator:
+Overcoming Optimization Challenges in Vector Quantized Networks
+Minyoung Huh, Brian Cheung, Pulkit Agrawal, Phillip Isola
+ICML 2023.
+[Paper][Website][Code]
+
+	Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning
+Tongzhou Wang, Antonio Torralba, Phillip Isola, Amy Zhang
+ICML 2023.
+[Paper][Website][Code]
+
+	Persistent Nature: A Generative Model of Unbounded 3D Worlds
+Lucy Chai, Richard Tucker, Zhengqi Li, Phillip Isola, Noah Snavely
+CVPR 2023.
+[Paper][Website][Code]
+
+	Powderworld: A Platform for Understanding Generalization via Rich Task Distributions
+Kevin Frans, Phillip Isola
+ICLR 2023 (notable top 25%).
+[Paper][Blog + Demo][Code]
+Accessibility
+

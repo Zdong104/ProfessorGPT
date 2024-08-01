@@ -1,0 +1,156 @@
+Professor: Sarah Dean
+University: Cornell University
+URL: https://sdean.website/
+Description: About Me  •   Teaching  •   Advising  •   Publications
+
+Sarah Dean
+
+sdean AT cornell DOT edu
+
+I am an Assistant Professor in the CS Department at Cornell.
+I can't guarantee a reply to every email. I do not have the capacity to supervise remote internships.
+
+I study the interplay between optimization, machine learning, and dynamics in real-world systems. My research focuses on understanding the fundamentals of data-driven methods for control and decision-making, inspired by applications ranging from robotics to recommendation systems. You can learn more by reading my dissertation or watching my dissertation talk.
+
+In fall 2021, I was a postdoc with Jamie Morgenstern at UW. Before that, I was a PhD student in EECS at UC Berkeley, advised by Ben Recht. At Berkeley, I was a founding member of Graduates for Engaged and Extended Scholarship in computing and Engineering (GEESE). I interned with Canopy in Boston, MA during Summer 2019.
+For reference, my job talk, CV, faculty app, and NSF GRFP app.
+
+Teaching
+
+At Cornell, I am teaching CS 4/5789: Introduction to Reinforcement Learning in Spring 2024 (previously in 2022, 2023). I taught Machine Learning in Feedback Systems (CS 6784) in Fall 2023 (previously in 2022).
+
+At Berkeley, I worked on course development for a new EECS Anti-Racism and Social Justice course (and gave a guest lecture on Bias in Algorithms) and as a Graduate Student Instructor for Statistical Learning Theory (EECS 281) and Introduction to Machine Learning (EECS 189/289).
+
+Advising and Mentoring
+
+I've had the pleasure of working with several students at Cornell, including PhD advisees Kimia Kazemian, Raunak Kumar (co-advised with Bobby Kleinberg), and Rohan Banerjee (co-advised with Tapo Bhattacharjee); undergraduates Vadim Popov (2023), Rachael Close (2023), Amelia Kovacs (2022-present), Alexis Hao (2022), Emily Mei (2022), Fengyu Li (2022), Jiwoo Cheon (2022).
+
+Publications
+
+My Google Scholar profile has the most up to date list of publications and preprints. If you are interested in code for a paper without a github link, feel free to send me an email.
+
+Strategic Usage in a Multi-Learner Setting [arXiv] [github]
+Eliot Seo Shekhtman, Sarah Dean.
+to appear at AISTATS 2024.
+short version presented (oral) at AAAI 2024 Recommendation Ecosystems Workshop: Modeling, Optimization, and Incentive Design.
+
+Random Features Approximation for Control-Affine Systems
+Kimia Kazemian, Yahya Sattar, Sarah Dean.
+to appear at L4DC 2024.
+short version presented at NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2023.
+
+To Ask or Not To Ask: Robot-assisted Bite Acquisition with Human-in-the-loop Contextual Bandits [openreview]
+Rohan Banerjee, Sarah Dean, Tapomayukh Bhattacharjee.
+presented at First Workshop on Out-of-Distribution Generalization in Robotics at CoRL 2023.
+
+Initializing Services in Interactive ML Systems for Diverse Users [arXiv]
+Avinandan Bose, Mihaela Curmei, Daniel L. Jiang, Jamie Morgenstern, Sarah Dean, Lillian J.Ratliff, Maryam Fazel.
+in submission.
+
+Emergent segmentation from participation dynamics and multi-learner retraining [arXiv] [slides] [talk]
+Sarah Dean, Mihaela Curmei, Lillian J. Ratliff, Jamie Morgenstern, and Maryam Fazel
+to appear at AISTATS 2024.
+
+Ranking with Long-Term Constraints [arXiv] [github]
+Kianté Brantley, Zhichong Fang, Sarah Dean, Thorsten Joachims
+presented at WSDM 2024.
+
+Online Convex Optimization with Unbounded Memory [arXiv] [slides]
+Raunak Kumar, Sarah Dean, Robert D. Kleinberg
+presented at NeuRIPS 2023.
+
+Reward Reports for Reinforcement Learning [arXiv]
+Thomas Krendl Gilbert, Sarah Dean, Nathan Lambert, Tom Zick, and Aaron Snoswell
+presented at AIES 2023.
+short version at Responsible Decision Making in Dynamic Environments workshop at ICML 2022.
+
+Perception-Based Sampled-Data Optimization of Dynamical Systems [arXiv]
+Liliaokeawawa Cothren, Gianluca Bianchin, Sarah Dean, Emiliano Dall'Anese
+presented at IFAC 2023.
+
+Modeling Content Creator Incentives on Algorithm-Curated Platforms [arXiv] [overview]
+Jiri Hron, Karl Krauth, Michael I. Jordan, Niki Kilbertus, and Sarah Dean
+oral presentation at ICLR 2023.
+
+Engineering a Safer Recommender System [PDF]
+Liu Leqi and Sarah Dean
+at Responsible Decision Making in Dynamic Environments workshop at ICML 2022.
+
+Preference Dynamics Under Personalized Recommendations [arXiv] [slides] [talk]
+Sarah Dean and Jamie Morgenstern
+presented at EC 2022.
+
+
+Choices, Risks, and Reward Reports: Charting Public Policy for Reinforcement Learning Systems [CLTC] [arXiv]
+Thomas Krendl Gilbert, Sarah Dean, Tom Zick, and Nathan Lambert
+Center for Long-Term Cybersecurity Whitepaper Series (2022).
+
+Towards Robust Data-Driven Control Synthesis for Nonlinear Systems with Actuation Uncertainty [arXiv]
+Andrew J. Taylor*, Victor D. Dorobantu*, Sarah Dean*, Benjamin Recht, Yisong Yue, and Aaron D. Ames
+presented at CDC 2021.
+
+Quantifying Availability and Discovery in Recommender Systems via Stochastic Reachability [arXiv]
+Mihaela Curmei*, Sarah Dean*, and Benjamin Recht
+presented at ICML 2021,
+short version presented at Participatory Approaches to Machine Learning workshop at ICML 2020.
+
+Certainty Equivalent Perception-Based Control [arXiv] [github] [talk] [slides]
+Sarah Dean and Benjamin Recht
+oral presentation at L4DC 2021.
+
+Axes for Sociotechnical Inquiry in AI Research [arXiv] [IEEE]
+Sarah Dean, Thomas Krendl Gilbert, Nathan Lambert, and Tom Zick
+published in IEEE Transactions on Technology and Society (2021).
+
+AI Development for the Public Interest: From Abstraction Traps to Sociotechnical Risks [arXiv]
+McKane Andrus, Sarah Dean, Thomas Krendl Gilbert, Nathan Lambert, and Tom Zick
+presented at IEEE ISTAS 2020.
+
+Do Offline Metrics Predict Online Performance in Recommender Systems? [arXiv] [github]
+Karl Krauth, Sarah Dean*, Alex Zhao*, Wenshuo Guo*, Mihaela Curmei*, Benjamin Recht, and Michael I. Jordan
+presented at the Workshop on Consequential Decisions in Dynamic Environments at NeurIPS 2020.
+
+Guaranteeing Safety of Learned Perception Modules via Measurement-Robust Control Barrier Functions [arXiv] [video] [talk] [slides] [github]
+Sarah Dean, Andrew Taylor, Ryan Cosner, Benjamin Recht, and Aaron Ames
+Best Paper Finalist at CoRL 2020.
+
+Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning [arXiv] [github]
+Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T Liu, Daniel Björkegren, Moritz Hardt, and Joshua Blumenstock
+presented at ICML 2020,
+short version awarded Best Paper at NeurIPS Joint Workshop on AI for Social Good 2019.
+
+Robust Guarantees for Perception-Based Control [arXiv] [slides] [talk] [poster] [github]
+Sarah Dean, Nikolai Matni, Benjamin Recht, and Vickie Ye
+presented at L4DC 2020.
+
+Recommendations and User Agency: The Reachability of Collaboratively-Filtered Information [arXiv] [talk]
+Sarah Dean, Sarah Rich, and Benjamin Recht
+presented at FAccT 2020.
+
+On the Sample Complexity of the Linear Quadratic Regulator [arXiv] [FoCM] [talk]
+Sarah Dean, Horia Mania, Nikolai Matni, Benjamin Recht, and Stephen Tu
+published in Foundations of Computational Mathematics (2019).
+
+High-throughput fluorescence microscopy using multi-frame motion deblurring [BOE] [github]
+Zachary Phillips, Sarah Dean, Laura Waller, and Benjamin Recht
+published in Biomedical Optics Express 11 (2020),
+extended abstract awarded Best Student Paper in Imaging Systems at OSA Congress 2018.
+
+Safely Learning to Control the Constrained Linear Quadratic Regulator [arXiv] [slides]
+Sarah Dean, Stephen Tu, Nikolai Matni, and Benjamin Recht
+presented at ACC 2019.
+
+Regret Bounds for Robust Adaptive Control of the Linear Quadratic Regulator [arXiv] [github]
+Sarah Dean, Horia Mania, Nikolai Matni, Benjamin Recht, and Stephen Tu
+presented at NeurIPS 2018.
+
+Delayed Impact of Fair Machine Learning [arXiv] [Bloomberg] [BAIR Blog]
+Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, and Moritz Hardt
+Best Paper Award at ICML 2018.
+
+A Broader View on Bias in Automated Decision-Making: Reflecting on Epistemology and Dynamics [arXiv]
+Roel Dobbe, Sarah Dean, Thomas Gilbert, and Nitin Kohli
+presented at FAT/ML 2018.
+
+Last updated December 2023.
+

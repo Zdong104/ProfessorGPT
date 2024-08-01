@@ -1,0 +1,366 @@
+Professor: Tianyin Xu
+University: Univ. of Illinois at Urbana-Champaign
+URL: https://tianyin.github.io/
+Description: 		
+
+
+Tianyin Xu
+
+Assistant Professor
+
+Department of Computer Science
+(Courtesy appointment by ECE)
+University of Illinois at Urbana-Champaign
+4108 Siebel Center (direction)
+tyxu at illinois dot edu || @tianyin_xu (huh?)
+
+Assistant: Ruth Anders (rutha at illinois dot edu)
+
+	
+	
+
+
+	
+
+		
+ 
+$ echo "Join us on UIUC SysNet Slack channels: uiuc-sysnet.slack.com."
+$ echo "Check out CS CARES and reach out to us, especially when you need help!"
+$ echo "Please consider contributing to SIGOPS Blog."
+$ echo "I co-organize UIUC Systems Research Seminar."
+ 
+$ whoami
+ 	
+
+This is Tianyin, a watchman in the cornfields who tries to do relevant systems research. More professionally, I am an ass prof in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC). I'm also affiliated with the Department of Electrical and Computer Engineering at UIUC.
+
+Before joining UIUC, I spent a year at Facebook's Core Systems, working on dealing with datacenter failures and eating free food (see my interview by Facebook). I spent six wonderful years at sysnet at the University of California San Diego until my rock star advisor kicked me out (I wished to be a tenured grad student1). I worked with NetApp to study production data ontap. I had a short experience at Whova where I learned dedication. I worked in Germany and backpacked Europe for 1.5 years at Goettingen before starting my grad school.
+
+As a "professor", my meta-advice is to be serious and sincere to life and work. Winter is coming! Don't fight a fake war or someone else's war. Fight for what matters to the living or the dead.
+
+I am a part of CS CARES. If you need help, please don't hesitate to reach out -- you'll never walk alone.
+
+1 I am constantly looking for such a job. Please contact me if you have or know one.
+
+
+ 
+$ head research_interests
+ 	
+
+The goal of my research is to make computer systems reliable and secure, especially those operating at the cloud and datacenter scale. My mission is to help today's systems defend against all kinds of errors and defects, such as software bugs, configuration errors, and design flaws. I am very happy that some of our work helps improve reliability of real-world systems (check out bugs we detected/fixed).
+
+I am interested in all kinds of black magic. My view of systems research is to build the right swords to fight the dragon (not windmills).
+
+
+ 
+$ ls -l publication
+ 	
+
+lrwxrwxrwx 1 tianyin tianyin 4 Feb 30 12:61 publication -> pub.html
+
+
+ 
+$ cat teaching
+ 	
+
+CS 598(XU): Reliability of Cloud-Scale Systems (Fall 18) (Spring 19) (Spring 22)
+
+CS 523: Advanced Operating Systems (Fall 19) (Fall 20) (Fall 21) (Spring 23) (Spring 24)
+
+CS 423: Operating System Design (Spring 20) (Fall 22) (Fall 23)
+
+CS 591(SN): Systems Research Seminar (Spring 19) (Fall 19) (Spring 20) (Fall 20) (Spring 21) (Fall 21) (Spring 22) (Fall 22) (Spring 23) (Fall 23) (Spring 24)
+
+CS 591(SE): Software Engineering Seminar (Fall 19) (Spring 20) (Fall 20) (Spring 21) (Fall 21) (Spring 22) (Fall 22)
+
+
+ 
+$ head awards
+ 	
+
+2024 Jay Lepreau Best Paper Award at OSDI'24 (Anvil)
+
+2024 C.W. Gear Outstanding Junior Faculty Award (tribute to Professor C.W. Gear)
+
+2024 Dean's Award for Excellence in Research
+
+2023 Gilles Muller Best Artifact Award at EuroSys'23 (CSI Failures)
+
+2023 (Fall) UIUC List of Teachers Ranked as Excellent (CS 591SN)
+
+2023 (Spring) UIUC List of Teachers Ranked as Excellent (CS 523)
+
+2022 Intel Rising Star Faculty Award
+
+2022 NSF CAREER Award
+
+2021 Facebook Academic of the Month
+
+2021 Best Student Paper Award at SIGCOMM'21 (Cellular Reliability)
+
+2021 SIGSOFT Distinguished Paper Award at FSE'21 (Vet)
+
+2021 SIGSOFT Distinguished Paper Award at ISSTA'21 (Ctest-prio)
+
+2021 (Fall) UIUC List of Teachers Ranked as Outstanding (CS 591DS)
+
+2020 Facebook Distributed Systems Research Award
+
+2020 Best Paper Award at ASPLOS'20 (ECPT)
+
+2020 (Fall) UIUC List of Teachers Ranked as Excellent (CS 523)
+
+2020 Best Paper and Best Student Paper Finalist at SC'20 (KScope)
+
+2019 Best Demo Award at MobiCom'19 (DAOW)
+
+2019 (Fall) UIUC List of Teachers Ranked as Excellent (CS 523)
+
+2019 (Spring) UIUC List of Teachers Ranked as Excellent (CS 598)
+
+2018 (Fall) UIUC List of Teachers Ranked as Excellent (CS 598)
+
+2017 UCSD CSE Doctoral Award for Research
+
+2016 Jay Lepreau Best Paper Award at OSDI'16 (PCheck)
+
+2010 Erasmus Mundus LiSUM Scholarship
+
+2009 Best Paper Award at ICC'09 (dtree-stream)
+
+
+ 
+$ cat impact
+ 	
+
+Kubernetes Reliability and an Avenue to Reliable Cloud Infrastructures at IEEE Emerging Technology Reliability Roundtable
+
+Making Linux Fly: Towards Certified Linux Kernel at the ELISA Seminar and Linux Plumbers Conference (LPC) 2024
+
+Cross-System Interaction Failures: Don't Fail through the Cracks at SREcon24 Americas
+
+Acto is spotlighted by CS news
+
+Acto is selected as a solution showcase at KubeCon+CloudNativeCon Europe 2024
+
+Virtual device farm is selected as a 2024 GetMobile Research Highlight article: pdf
+
+Advancing Kernel Control Flow Integrity with eBPF at Linux Plumbers Conference (LPC) 2023
+
+The Sieve team is spotlighted by CS news
+
+Sieve is covered by VMware Office of CTO Blog and is endorsed by Kit Colbert (VMware CTO)
+
+Cozart is selected as a 2022 CACM Research Highlight article: pdf
+
+Sieve is selected for presentation at KubeCon and CloudNativeCon North America 2021
+
+Revisiting eBPF Seccomp Filters at Linux Plumbers Conference (LPC) 2022
+
+Sam and Wenyu are spotlighted in CS news
+
+YiFei is spotlighted by both ECE news and CS news
+
+Draco has been upstreamed to the Linux kernel (RFC, code) (LWN, CSL, IllinoisCS, C3SR, Phoronix)
+
+Elastic cuckoo page table is selected as IEEE Micro Top Picks Honorable Mention
+
+Illinois CS News on Elastic Cuckoo Page Tables
+
+Defusing the Configuration Time Bomb (video) (slides)
+
+Validated Configurations with Ciris (slides) (manual)
+
+The Morning Paper's coverage of Taiji (article)
+
+The Morning Paper's coverage of Maelstrom (article)
+
+The Morning Paper's coverage of WebRSync (article)
+
+W3C Authentication References count our access-control-misconfiguration paper at CHI'17.
+
+The Morning Paper's coverage of PCheck (article)
+
+It Will Never Work in Theory on our too-many-knobs paper at FSE'15 (article)
+
+
+ 
+$ cat services # (default=PC)
+ 	
+
+Co-lead of Infrastructure for Trusted and Confidential Computing at IIDAI
+
+Co-editor of SIGOPS Blog
+
+Area Chair on Configuration Management, Journal of Systems Research (Why JSys?)
+
+2025 OSDI, ASPLOS, NSDI, HPCA,
+
+2024 EuroSys, USENIX ATC, MICRO (ERC), SEC, eBPF, SESAME,
+
+2023 OSDI, NSDI, SOSP DW, SOSP SRC, SOSP Poster, DSN, Sigmetrics, ESEC/FSE Industry Track,
+
+2022 SYSTOR, Sigmetrics, EdgeSys, ChinaSys, Middleware, ESEC/FSE Industry Track,
+
+2021 HotOS, SOSP (virtual platform chair), EuroSys (sponsorship co-chair), ICSE, Sigmetrics SRC,
+
+2020 OSDI, MobiSys, EdgeSys, FSE Tool/Demo,
+
+2019 SOSP, APSys, SEConfig, EdgeSys
+
+2018 EuroSys DW, EdgeSys, ICDCS
+
+2017 SOSP SRC
+
+2015 USENIX LISA (academic review committee)
+
+
+ 
+$ sudo cat gang
+ 	
+
+Jongyul Kim, Postdoc Research Fellow (Fall 2023 - now)
+
+Xudong Sun, PhD Candidate (Fall 2019 - now), awarded Yunni and Maxine Pao Memorial Fellowship, Mavis Future Faculty Fellow
+
+Jinghao Jia, PhD Candidate (Fall 2020 - now), co-advised by Dan Williams, awarded Richard T. Cheng Fellowship, Outstanding TA Award
+
+Siyuan Chai, PhD Candidate (Fall 2021 - now)
+
+Yinfang Chen, PhD Candidate (Fall 2021 - now)
+
+Tyler Gu, PhD Candidate (Fall 2021 - now), awarded Gene Golub Fellowship
+
+Shuai Wang, PhD Candidate (Fall 2021 - now), co-advised by Darko Marinov
+
+Alan Andrade, MCS Student (Fall 2023 - now)
+
+Zhen Tang, MCS Student (Summer 2024 - now)
+
+William Zheng, Undergraduate Student (UIUC) (Summer 2023 - now)
+
+Quan Hao Ng, Undergraduate Student (UIUC) (Spring 2024 - now)
+
+Minh Phan, Undergraduate Student (UIUC) (Spring 2024 - now)
+
+Mark Zhang, Undergraduate Student (UIUC) (Spring 2024 - now)
+
+Tingxu Ren, Undergraduate Student (Zhejiang University) (Summer 2024 - now)
+
+Linkai Song, Undergraduate Student (USTC) (Summer 2024 - now)
+
+Shurang Wu, Undergraduate Student (USTC) (Summer 2024 - now)
+
+
+ 
+$ sudo cat alumni # (thesis committees)
+ 	
+
+# Doctors
+
+Wenyu Wang, PhD 2022, co-advised by Tao Xie, awarded 3M Foundation Fellowship → Meta → Stellar Cyber
+
+# Maesters
+
+Anna Mazhar, MS 2024 (thesis) → Cornell University (PhD)
+
+Xinyu (Alex) Lian, MS 2024 (thesis), co-advised by Darko Marinov → UIUC (PhD)
+
+Pratik Rajesh Sampat, MS 2024 (thesis), co-advised by Saugata Ghose → AMD Research
+
+Jiyuan Zhang, MS 2024 (thesis) → UIUC (PhD)
+
+Ruowen Qin, MCS 2023 → Red Hat
+
+Wenqing Luo, MS 2023 (thesis), co-advised by Aishwarya Ganesan and Ramnatthan Alagappan → Apple (Cloud Infra)
+
+Parth Thakkar, MS 2023 (thesis) → Meta (Dev Infra)
+
+Kai-Hsun (Kevin) Chen, M.Eng 2022 → Databricks → Anyscale
+
+Jack Chen, MS 2021 (thesis) → Trend Micro
+
+Andrew B. Yoo, MS 2021 (thesis), co-advised by Shuai Mu, awarded Siebel Scholar → Whova (Infra)
+
+Qingrong Chen, MS 2020 (thesis), awarded Siebel Scholar → Facebook (AI Infra) → ByteDance (ML Infra) → OpenAI
+
+Zhanghao Chen, MCS 2020 (project) → ByteDance (Stream Computing Infra)
+
+Elaine Ang, MS 2019 (thesis) → Google (Spanner)
+
+# Bachelors
+
+Saad Sher Alam (LUMS), UIUC+ SUR in SE, 2023-2024 → UIUC (MS)
+
+Fan Chung, (UIUC/NYCU), 2023-2024 → EPFL (PhD)
+
+Cheng Ding (USTC), UIUC+ SUR in SE, 2023-2024, co-advised by Owolabi Legunsen → University of Texas at Austin (PhD)
+
+Zicheng Ma, BE, 2023-2024 → Harvard University (MS)
+
+Peizhe Liu, BE, 2023 → UIUC (MS)
+
+Yuxuan (Matt) Jiang, BE 2023 → University of Michigan (PhD)
+
+Feiran (Alex) Qin, (ShanghaiTech/UIUC), Fall 2022 → North Carolina State University (PhD)
+
+Kunle Li, BE 2023 → CMU (MS)
+
+Muhammad Taha (LUMS), UIUC+ SUR in SE, 2022 → Purdue University (MS)
+
+Wentao Zhang (SJTU), UIUC+ SUR in SE, 2022 → UIUC (PhD)
+
+Xinyu (Alex) Lian, BE 2022 → UIUC (MS) → UIUC (PhD)
+
+Yicheng Lu, BE 2022 → UIUC (MS)
+
+Kele Huang (CAS), UIUC+ SUR in SE, 2021 → Columbia University (PhD)
+
+Wen Fan (USTC), UIUC+ SUR in SE, 2021 → Purdue University (PhD)
+
+YiFei Zhu, BE 2021, awarded Highest Honor and University Honor → Google (kernel)
+
+Kaiyuan Zhang (UT Dallas), Summer 2020 co-advised by Tao Xie → Purdue University (PhD)
+
+Yiming Mao (Nanjing University), Summer 2020 → UC San Diego (MS)
+
+# Scholars
+
+Wenjie Ma, Research Scholar, 2023--2024 → University of California Berkeley (PhD)
+
+Hao Lin, Visiting PhD Student (Tsinghua), 2023--2024 ↔ Tsinghua University
+
+Chaitanya B. Bhandari, Research Scholar, 2021--2022 → UIUC (MS) → TigerBeetle
+
+Yuanliang Zhang (NUDT), Visiting PhD Student (NUDT), 2019--2020 → Assistant Professor at NUDT
+
+
+ 
+$ sudo cat ack
+ 	
+
+Illinois CS, OUR, NSF, VMware, Facebook, IBM/C3SR/IIDAI, Intel, Azure, GCP, and GitHub
+
+
+ 
+$ cat misc
+ 	
+
+soccer (career); travel; rock; biking; drinking; reading; bad jokes; turtles
+
+	 
+ 
+$ cat debts
+ 	
+
+I owe everyone in Fall 2020 CS-523 (modulo Aditi Partap) a donut due to COVID-19; ping me and I will pay my debts.
+
+	 
+
+
+
+
+
+First modified: 2009-5-1 by Tianyin Xu
+
+

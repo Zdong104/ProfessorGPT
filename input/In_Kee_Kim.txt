@@ -1,0 +1,177 @@
+Professor: In Kee Kim
+University: University of Georgia
+URL: https://cobweb.cs.uga.edu/~kim
+Description: Home
+CV
+Google Scholar Profile
+DBLP
+In Kee Kim, Ph.D.
+Assistant Professor, School of Computing @ The University of Georgia
+Office: 802@Boyd Graduate Studies Research Center
+inkee.kim@uga.edu
+About
+
+I am an Assistant Professor in Computer Science at the University of Georgia. I completed my Ph.D. in Computer Science in 2018 at the University of Virginia. My research interests lie in performance and resource management problems in various computing systems (e.g., cloud, HPC, edge, and IoT). Specifically, my current research projects include (but not limited to):
+
+Edge AI: System-level and AI model-level optimization for boosting inference, training, and compression performance at the edge.
+Serverless Workflow Management: Cost-performance optimization in collaborative edge and cloud environments.
+Reproducible Benchmarking and Measurement: Characterizing various workloads, focusing on performance, reliability, energy consumption, and environmental impact across cloud, HPC, edge, and IoT.
+
+My research is supported by various funding agencies (e.g., NSF, DoD, Army Research Labs, NIFA/USDA) and industry partners.
+
+For more information, please refer to my CV.
+
+Courses for Fall 2024
+CSCI 4730 -- Operating Systems (Undergrads)
+
+Past Teaching Courses
+CSCI 4795/6795 -- Cloud Computing (SP19 -- 24)
+CSCI 8795 -- Advanced Topics in Cloud Computing (FA19 -- 22)
+CSCI 4730/6730 -- Operating Systems (FA21, FA23)
+CSCI 4730 -- Operating Systems for Undergrads (FA24)
+CSCI 8000 -- Advanced Topics in Computer Science (FA18)
+
+Students (All CS, if not specified)
+
+I am fortunate to be working with such wonderful students whose dedication and talent continually impress me. They are listed below:
+
+Current PhD Students
+Ting Jiang -- Edge AI Scheduler
+Sushruth Harsha -- Resource Management for Serverless Computing
+Kriti Ghosh, Devjyoti Chakraborty, Zaki Sukma (Co-advised by Drs. Ramaswamy and Bhandarkar) -- Edge Vision/AI
+Rakandhiya Rachmanto -- Edge Compression
+Current MS Thesis/Project Students
+Energy Management for IoT Sensors: Jaya Simha Reddy, Kevin Nyquist
+Scalable FL Project: Vinaya Birajdar, Sharvani Chelumalla
+Serverless WMS: Supriya Edamalapati, Avani Pathak
+Serverless Distributed HPT: Dinesh Sai Bodala, Revanth Koganti
+HPC Performance Benchmarking: Aaditya (Eddy) Mankar
+Graduated
+Jianwei Hao (PhD, CS), Graduation: July 2024, First Position: Assistant Professor, Governors State University, IL
+Gabriela Adams (MS, AI), Graduation: Dec 2023
+M. Emmanuel Oni (MS), Graduation: May 2023
+Kaustubh Rajput (MS), Graduation: Dec 2021
+Piyush Subedi (MS), Shivani Arbat (MS), Chinmay Kulkarni (MS), Graduation: Aug 2021
+Samuel Dakota Vickers (BS with UGA CS Undergraduate Research Scholarship), Graduation: Dec 2020
+Radhika Bhavsar (MS), Srujana Malisetti (MS), Akanksha Raina (MS), Graduation: May 2020
+Lei Xian (MS), Graduation: Dec 2019
+
+Services -- Conference TPC Members
+
+2024 -- IEEE Cloud Summit (Algorithm and software track co-chair), CCGRID
+2023 -- IEEE CLOUD, IEEE EDGE, IEEE/ACM UCC, SNTA@HPDC
+2022 -- ACM/IEEE IoTDI, IEEE CLOUD, IEEE/ACM UCC, IEEE CloudCom, SNTA@HPDC, VARSE@ASE
+2021 -- IoTDI, IEEE CLOUD, UCC, SNTA@HPDC
+2020 -- CCGrid, IC2E, IEEE CLOUD, ICFEC , CloudCom, UCC, BDCAT, SNTA@HPDC
+2019 -- CCGrid, IC2E, IEEE CLOUD, CloudCom, UCC, BDCAT, SNTA@HPDC
+Publications (Name: a student author under my supervision, Name*: co-first authors)
+
+2024
+
+Rakandhiya D. Rachmanto, Zaki Sukma, Ahmad N. L. Nabhaan, Arief Setyanto, Ting Jiang, In Kee Kim, Characterizing Deep Learning Model Compression with Post-Training Quantization on Accelerated Edge Devices, 2024 IEEE International Conference on Edge Computing and Communications (EDGE), Shenzhen, China, Jul, 2024. [Best Paper Award!]
+
+Arief Setyanto, Theopilus Bayu Sasongko, Muhammad Ainul Fikri, In Kee Kim, Near-Edge Computing Aware Object Detection: A Review, IEEE Access, 2024
+
+2023
+
+Martin L. Putra, In Kee Kim, Haryadi S. Gunawi, Robert L. Grossman, CNT: Semi-Automatic Translation from CWL to Nextflow for Genomic Workflows, The 23rd IEEE International Conference on Bioinformatics and Bioengineering (BIBE), Dec, 2023.
+
+Jianwei Hao, M. Emmanuel Oni, In Kee Kim, Lakshmish Ramaswamy, DynaES: Dynamic Energy Scheduling for Energy Harvesting Environmental Sensors, 42nd IEEE International Performance Computing and Communications Conference (IPCCC), Anaheim, CA, Nov, 2023.
+
+Jianwei Hao*, Rajneesh Sharma*, Mary B. Fleming, In Kee Kim, Deepak Mishra, Sonny Kim, Lori Sutter, Lakshmish Ramaswamy, Toward Low-Cost and Sustainable IoT Systems for Soil Monitoring in Coastal Wetlands, 9th IEEE International Conference on Collaboration and Internet Computing (CIC), Atlanta, GA, Nov, 2023.
+
+Sen He, In Kee Kim, Wei Wang, A Study of Java Microbenchmark Tail Latencies, 14th ACM/SPEC International Conference on Performance Engineering (ICPE), Data Challenge Track, Coimbra, Portugal, April, 2023.
+
+Jianwei Hao*, Piyush Subedi*, Lakshmish Ramaswamy, In Kee Kim, Reaching for the Sky: Maximizing Deep Learning Inference Throughput on Edge Devices with AI Multi-tenancy, ACM Transactions on Internet Technology (ACM TOIT), 2023
+
+2022
+
+Vinodh K. Jayakumar, Shivani Arbat, In Kee Kim, Wei Wang, CloudBruno: A Low-Overhead Online Workload Prediction Framework for Cloud Computing, 10th IEEE International Conference on Cloud Engineering (IEEE IC2E), Pacific Grove, CA, USA, September, 2022.
+
+Omid Setayeshfar*, Karthika Subramani*, Xingzi Yuan, Raunak Dey, Dezhi Hong, In Kee Kim, Kyu Hyung Lee, Privacy Invasion via Smart-Home Hub in Personal Area Networks,  Pervasive and Mobile Computing (Elsevier PMC), 2022.
+
+Kaustubh Rajendra Rajput*, Chinmay Dilip Kulkarni*, Byungjin Cho, Wei Wang, In Kee Kim, EdgeFaaSBench: Benchmarking Edge Devices Using Serverless Computing, IEEE International Conference on Edge Computing (IEEE EDGE 2022), Barcelona, Spain, July, 2022.
+
+Shivani Arbat, Vinodh K. Jayakumar, Jaewoo Lee, Wei Wang, In Kee Kim, Wasserstein Adversarial Transformer for Cloud Workload Prediction, The 34th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-22), Vancouver, BC, Canada, February, 2022.
+
+2021
+
+Sen He, Tianyi Liu, Palden Lama, Jaewoo Lee, In Kee Kim, Wei Wang, Performance Testing for Cloud Computing with Dependent Data Bootstrapping,  The 36th IEEE/ACM International Conference on Automated Software Engineering (IEEE/ACM ASE), Virtual Event, November, 2021.
+
+Piyush Subedi, Jianwei Hao, In Kee Kim, Lakshmish Ramaswamy, AI Multi-Tenancy on Edge: Concurrent Deep Learning Model Executions and Dynamic Model Placements on Edge Devices,  IEEE International Conference on Cloud Computing (IEEE CLOUD), Virtual Event, September, 2021.
+
+Jianwei Hao*, Ting Jiang*, Wei Wang, In Kee Kim, An Empirical Analysis of VM Startup Times in Public IaaS Clouds: An Extended Report,  arXiv, 2021.
+
+Jianwei Hao*, Ting Jiang*, Wei Wang, In Kee Kim, An Empirical Analysis of VM Startup Times in Public IaaS Clouds,  IEEE International Conference on Cloud Computing (IEEE CLOUD), Virtual Event, September, 2021.
+
+Omid Setayeshfar*, Karthika Subramani*, Xingzi Yuan, Raunak Dey, Dezhi Hong, Kyu Hyung Lee, In Kee Kim, ChatterHub: Privacy Invasion via Smart Home Hub,  IEEE International Conference on Smart Computing (IEEE SMARTCOMP), Virtual Event, August, 2021.
+
+Jianwei Hao, Piyush Subedi, In Kee Kim, Lakshmish Ramaswamy, Characterizing Resource Heterogeneity in Edge Devices for Deep Learning Inferences,  ACM International Workshop on System and Network Telemetry and Analytics (ACM SNTA@HPDC), Virtual Event, June, 2021.
+
+Amanda L. Giordano, Lindsay Lundeen, Kelly Wester, Jaewoo Lee, Samuel D. Vickers, Michael Schmit, In Kee Kim, Nonsuicidal Self-Injury on Instagram: Examining Hashtag Trends,  International Journal for the Advancement of Counselling, 2021.
+[UGA News] (Nov/21) Adolescents use social media to post about self-injury
+[WebMD] (Nov/21) Teen Social Media Posts About Cutting, Self-Harm Are Soaring
+
+2020
+
+Vinodh K. Jayakumar, Jaewoo Lee, In Kee Kim, Wei Wang, A Self-Optimized Generic Workload Prediction Framework for Cloud Computing,  34th IEEE International Parallel & Distributed Processing Symposium (IEEE IPDPS), Virtual Event, May, 2020.
+
+In Kee Kim, Wei Wang, Yanjun Qi, Marty Humphrey, Forecasting Cloud Application Workloads with CloudInsight for Predictive Resource Management,  IEEE Transactions on Cloud Computing (TCC), 2020.
+
+In Kee Kim, Jinho Hwang, Wei Wang, Marty Humphrey, Guaranteeing Performance SLAs of Cloud Applications under Resource Storms,  IEEE Transactions on Cloud Computing (TCC), 2020.
+
+2019
+
+Lei Xian, Samuel Dakota Vickers, Amanda L. Giordano, Jaewoo Lee, In Kee Kim, Lakshmish Ramaswamy, #selfharm on Instagram: Quantitative Analysis and Classification of Non-Suicidal Self-Injury,  IEEE International Conference on Cognitive Machine Intelligence (IEEE CogMI), Los Angeles, CA, USA, December, 2019.
+
+In Kee Kim, Dongmei Yan, Brian Park, Jianhua Guo, Traffic Flow Insight: A Novel Online Ensemble Model for Short-Term Traffic Volume Prediction,  Transportation Research Board Annual Meeting (TRB), Washgington DC, USA, January, 2019.
+
+2018
+
+In Kee Kim, Jinho Hwang, Wei Wang, Marty Humphrey, Orchestra: Guaranteeing Performance SLAs for Cloud Applications by Avoiding Resource Storms,  The 17th IEEE International Symposium on Parallel and Distributed Computing (IEEE ISPDC), Geneva, Switzerland, June, 2018.
+
+In Kee Kim, Wei Wang, Yanjun Qi, Marty Humphrey, CloudInsight: Utilizing a Council of Experts to Predict Future Cloud Application Workloads,  IEEE International Conference on Cloud Computing (IEEE CLOUD), San Francisco, CA, USA, July, 2018. [Best Student Paper Nominee]
+
+2017
+
+In Kee Kim, Sai Zeng, Christopher Young, Jinho Hwang, Marty Humphrey, iCSI: A Cloud Garbage VM Collector for Addressing Inactive VMs with Machine Learning,  IEEE International Conference on Cloud Engineering (IEEE IC2E), Vancouver, BC, Canada, April, 2017. [slide]
+
+2016
+
+In Kee Kim, Sai Zeng, Christopher Young, Jinho Hwang, Marty Humphrey, A Supervised Learning Model for Identifying Inactive VMs in Private Cloud Data Centers,  ACM/IFIP/USENIX International Middleware Conference (Middleware), Trento, Italy, December, 2016.
+
+In Kee Kim, Wei Wang, Yanjun Qi, Marty Humphrey, Empirical Evaluation of Workload Forecasting Techniques for Predictive Cloud Resource Scaling,  IEEE International Conference on Cloud Computing (IEEE CLOUD), San Francisco, CA, USA, June, 2016. [slide]
+
+2015
+
+In Kee Kim, Jacob Steele, Anthony Castronova, Jonathan Goodall, Marty Humphrey, WDCloud: An End to End System for Large-Scale Watershed Delineation on Cloud,  IEEE International Conference on Big Data (IEEE Big Data), Santa Clara, CA, USA, November, 2015. [slide]
+
+In Kee Kim, Wei Wang, Marty Humphrey, PICS: A Public IaaS Cloud Simulator,  IEEE International Conference on Cloud Computing (IEEE CLOUD), New York, NY, USA, June, 2015. [slide], [project page]
+
+Arkaitz Ruiz-Alvarez, In Kee Kim, Marty Humphrey, Toward Optimal Resource Provisioning for Cloud MapReduce and Hybrid Cloud Applications,  IEEE International Conference on Cloud Computing (IEEE CLOUD), New York, NY, USA, June, 2015.
+
+2014
+
+In Kee Kim, Jacob Steele, Yanjun Qi, Marty Humphrey, Comprehensive Elastic Resource Management to Ensure Predictable Performance for Scientific Applications on Public IaaS Clouds  IEEE/ACM International Conference on Utility and Cloud Computing (IEEE/ACM UCC), London, UK, December, 2014. [slide]
+
+2013
+
+Marty Humphrey, Jacob Steele, In Kee Kim, Michael Kahn, Jessica Bondy, Micheal Ames, CloudDRN: A Lightweight, End-to-End System for Sharing Distributed Research Data in the Cloud,  IEEE International Conference on eScience (IEEE eScience), Beijing, China, October, 2013.
+
+Before 2013
+
+Sung Ho Jang, In Kee Kim, Node Availability-Based Congestion Control Model Using Fuzzy Logic for Computational Grid,  International Conference on Future Generation Communication and Networking (FGCN), Jeju-Island, Korea, December, 2007.
+
+In Kee Kim, Sung Ho Jang and Jong Sik Lee, QLP-LBS: Quantization and Location Predictionbased LBS for Reduction of Location Update Costs,  International Workshop on Ubiquitous Processing for Wireless Networks (UPWN@ISPA), Niagara Falls, ON, CA, August, 2007.
+
+In Kee Kim, Sung Ho Jang and Jong Sik Lee, Adaptive and Mobility-Predictive Quantizationbased Communication Data Management in High-Performance Distributed Computing, SIMULATION: Transactions of The Society for Modeling and Simulation International, Vol. 83, No. 7, July, 2007.
+
+In Kee Kim, Sung Ho Jang and Jong Sik Lee, Adaptive Distance Filter-based Traffic Reduction for Mobile Grid,  International Workshop on Mobile Distributed Computing (MDC@ICDCS), Toronto, ON, CA, June, 2007.
+
+In Kee Kim, Sung Ho Jang and Jong Sik Lee, Adaptive Quantization-based Communication Data Management for High-Performance Geo-computation in Grid Computing,  International Workshop on High Performance Geo-computation (HPG@GCC), Changsha, China, October, 2006.
+
+Sung-Ho Jang, In Kee Kim, Jong Sik Lee:In Kee Kim and Jong Sik Lee, Resource Demand Prediction-based Grid Resource Transaction Network Model in Grid Computing Environment,  International Conference on Computational Science and Its Applications (ICCSA), Glasgow, UK, May, 2006.
+
+Contact: inkee.kim@uga.edu
+Address: 802 Boyd Graduate Studies Research Center, The University of Georgia, Athens, GA, 30602
+

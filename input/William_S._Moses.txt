@@ -1,0 +1,345 @@
+Professor: William S. Moses
+University: Univ. of Illinois at Urbana-Champaign
+URL: https://wsmoses.com/
+Description: Life, the Universe, and Everything
+Academic
+Blog
+CV
+Contact
+Papers
+Presentations
+Posters
+William S. Moses
+Assistant Professor, University of Illinois Urbana-Champaign (UIUC)
+
+I'm an incoming professor at UIUC (starting 2024) in the Computer Science department, and Electrical and Computer Engineering department (by courtesy). Previously, I was a PhD candidate and undergrad at MIT studying computer science and physics. Before that, I attended Thomas Jefferson High School for Science and Technology (TJHSST) in Northern Virginia. My group has multiple PhD positions available for Fall 2024. If you are interested in compilers or high performance computing, including with applications to machine learning, climate science, databases, security, or biology, please reach out and apply to the Computer Science department at UIUC (I can also advise students from other departments).
+
+	wsmoses@illinois.edu
+	703-638-2387
+	MIT Stata Center
+32 Vassar Street, Cambridge MA 02139
+	
+      
+Papers
+Retargeting and Respecializing GPU Workloads for Performance Portability
+Ivanov, Ivan R. and Zinenko, Oleksandr and Domke, Jens and Endo, Toshio and Moses, William S.. CGO’24.
+ComPile: A Large IR Dataset from Production Sources
+Grossman, Aiden and Paehler, Ludger and Parasyris, Konstantinos and Ben-Nun, Tal and Hegna, Jacob and Moses, William and Diaz, Jose M Monsalve and Trofin, Mircea and Doerfert, Johannes. arXiv.
+The Quantum Tortoise and the Classical Hare: A simple framework for understanding which problems quantum computing will accelerate (and which it will not)
+Choi, Sukwoong and Moses, William S and Thompson, Neil. arXiv.
+Understanding Automatic Differentiation Pitfalls
+Hückelheim, Jan and Menon, Harshitha and Moses, William and Christianson, Bruce and Hovland, Paul and Hascoët, Laurent. arXiv.
+High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs
+Moses, William S. and Ivanov, Ivan R. and Domke, Jens and Endo, Toshio and Doerfert, Johannes and Zinenko, Oleksandr. PPoPP ’23.
+Transparent Checkpointing for Automatic Differentiation of Program Loops Through Expression Transformations
+Schanen, Michel and Narayanan, Sri Hari Krishna and Williamson, Sarah and Churavy, Valentin and Moses, William S. and Paehler, Ludger. ICCP ’23.
+Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation, Best Student Paper Award and Best Paper Finalist
+Moses, William S and Hari Krishna Narayanan, Sri and Paehler, Ludger and Churavy, Valentinand Hückelheim, Jan and Schanen, Michel and Doerfert, Johannes and Hovland, Paul. SC ’22.
+Performance Portable Solid Mechanics via Matrix-Free p -Multigrid
+Brown, Jed and Barra, Valeria and Beams, Natalie and Ghaffari, Leila and Knepley, Matthew and Moses, William and Shakeri, Rezgar and Stengel, Karen and Thompson, Jeremy L and Zhang, Junchao. arXiv.
+Enabling Transformers to Understand Low-Level Programs
+Guo, Zifan and Moses, William S.. HPEC ’22.
+Reverse-Mode Automatic Differentiation and Optimization of GPU Kernels via Enzyme, Best Student Paper Finalist and Best Reproducibility Advancement Finalist
+Moses, William S and Churavy, Valentin and Paehler, Ludger and Hückelheim, Jan and Hari Krishna Narayanan, Sri and Schanen, Michel and Doerfert, Johannes. SC ’21.
+Polygeist: Raising C to Polyhedral MLIR
+Moses, William S. and Chelini, Lorenzo and Zhao, Ruizhe and Zinenko, Oleksandr. PACT ’21.
+Polygeist: Affine C in MLIR
+Moses, William S. and Chelini, Lorenzo and Zhao, Ruizhe and Zinenko, Oleksandr. IMPACT ’21.
+  
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients, Spotlight Presentation
+Moses, William and Churavy, Valentin. NeurIPS ’20.
+AutoPhase: Juggling HLS Phase Orderings in Random Forests with Deep Reinforcement Learning
+Haj-Ali, Ameer and Huang, Qijing Jenny and Xiang, John and Moses, William and Asanovic, Krste and Wawrzynek, John and Stoica, Ion. .
+ProTuner: tuning programs with Monte Carlo tree search
+Haj-Ali, Ameer and Genc, Hasan and Huang, Qijing and Moses, William and Wawrzynek, John and Asanović, Krste and Stoica, Ion. arXiv.
+SyFER-MLIR: Integrating Fully Homomorphic Encryption Into the MLIR Compiler Framework
+Govindarajan, Sanath and Moses, William S. .
+Autophase: Compiler phase-ordering for HLS with deep reinforcement learning
+Huang, Qijing and Haj-Ali, Ameer and Moses, William and Xiang, John and Stoica, Ion and Asanovic, Krste and Wawrzynek, John. FCCM ’19.
+Extracting Incentives from Black-Box Decisions
+Shavit, Yonadav and Moses, William S.. NeurIPS AI in FS.
+The Next 700 Accelerated Layers: From Mathematical Expressions of Network Computation Graphs to Accelerated GPU Kernels, Automatically
+Vasilache, Nicolas and Zinenko, Oleksandr and Theodoridis, Theodoros and Goyal, Priya and Devito, Zachary and Moses, William S. and Verdoolaege, Sven and Adams, Andrew and Cohen, Albert. TACO.
+LiTM: A Lightweight Deterministic Software Transactional Memory System
+Xia, Yu and Yu, Xiangyao and Moses, William and Shun, Julian and Devadas, Srinivas. PPoPP PMAMM ’19.
+Tapir: Embedding Recursive Fork-Join Parallelism into LLVM’s Intermediate Representation
+Schardl, Tao B. and Moses, William S. and Leiserson, Charles E.. TOPC.
+  
+Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions
+Vasilache, Nicolas and Zinenko, Oleksandr and Theodoridis, Theodoros and Goyal, Priya and DeVito, Zachary and Moses, William S and Verdoolaege, Sven and Adams, Andrew and Cohen, Albert. arXiv.
+OpenMPIR: Implementing OpenMP Tasks with Tapir
+Stelle, George and Moses, William S. and Olivier, Stephen L. and McCormick, Patrick. LLVM-HPC’17.
+   
+Tapir: Embedding Fork-Join Parallelism into LLVM’s Intermediate Representation, Best Paper Award
+Schardl, Tao B. and Moses, William S. and Leiserson, Charles E.. PPoPP ’17.
+ 
+How Should Compilers Represent Fork-Join Parallelism?
+Moses, William S.. Thesis ’17.
+Embedding Fork-Join Parallelism into LLVM IR
+Moses, William S. and Schardl, Tao B. and Leiserson, Charles E.. CQC ’16.
+Computational Complexity of Arranging Music
+Demaine, Erik D. and Moses, William S.. MOVES ’15.
+Extreme Multi-Resolution Visualization: A Challenge on Many Levels
+Balme, Joanna and Brown-Dymkoski, Eric and Guerrero, Victor and Jones, Stephen and Kessler, Andre and Lichtl, Adam and Lung, Kevin and Moses, William and Museth, Ken and Roberson, Nathan and others. SCVis ’15.
+Online Adaptive Frequency Hopping
+Moses, William and Robertson, Andrew and Dell, John. TJHSST ’14.
+Presentations
+ 
+LLVM in the age of LLMs: Machine Learning for IR and optimization and more, Keynote
+AI4Dev @ SC'23, Nov 13, 2023
+ 
+Automated Derivative Sparsity via Dead Code Elimination
+Winter EuroAD 2023, Dec 4, 2023
+ 
+LLVM in the age of LLMs: Machine Learning for IR, Optimization, & More, Keynote
+AI4Dev @ SC 2023, Nov 13, 2023
+ 
+Enzyme-MLIR: Early Experiments on multi-level automatic differentiation
+MLIR Summit @ LLVM Dev Meeting, Oct 10, 2023
+ 
+CloudCompiler
+Amazon Research Awards Tech Talk Series, Aug 30, 2023
+ 
+Enzyme: Fast and Effective Automatic Differentiation for Academia and Industry
+2023 International Congress on Industrial and Applied Mathematics, Aug 23, 2023
+ 
+An Introduction to Enzyme and Some Fun Recent Results
+Differentiable and Probabalistic Programming for Fundamental Physics, Jun 13, 2023
+ 
+Recent Compiler-Based AD Results and Open Questions
+EuroAD 2023, Jun 13, 2023
+ 
+Supercharging Programming Through Compiler Technology
+MIT Thesis Defense, May 1, 2023
+ 
+Back Propagation and Automatic Differentiation
+MIT 18.335 Lecture, Apr 3, 2023
+HTO: “Header”-Time Optimization, ACM Gold Award (1st place)
+CGO SRC 2023, Feb 28, 2023
+ 
+High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs
+PPoPP 2023, Feb 27, 2023
+Enzyme Tutorial
+Enzyme Conference 2023, Feb 22, 2023
+High-Performance GPU-to-CPU Transpilation and Optimization
+Mathworks Code Generation Seminar, Jan 12, 2023
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+UT Austin Oden Institute Seminar, Dec 13, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+BU Systems Seminar, Dec 9, 2022
+  
+Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation, Best Student Paper
+SC 2022, Nov 16, 2022
+  
+Polygeist C++ frontend for MLIR, Keynote Talk
+LLVM HPC @ SC 2022, Nov 13, 2022
+ 
+Polygeist C++ frontend for MLIR
+MLIR Summit @ 2022 US LLVM Dev Meeting, Nov 10, 2022
+Synthesization of Fast Gradients with Enzyme
+Second MODE Workshop on Differentiable Programming for Experiment Design, Sep 13, 2022
+Enzyme: Automatic Differentiation for Parallel Programs
+LLPP '22, Aug 29, 2022
+ 
+Enzyme.jl
+JuliaCon ESM MiniSymposium, Jul 25, 2022
+Automatic Differentiation of Black Box Code with Enzyme
+RSS '22 Workshop on Differential Simulation, Jul 1, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+Columbia DSI Seminar, Jun 30, 2022
+Updates on Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+ExaSGD Seminar, Jun 14, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+TUM Seminar, Jun 3, 2022
+ 
+MLIR-In-The-Middle: compiling C++ and extensions via the new extensible infrastructure
+ISC LLVM Performance Workshop, Jun 2, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+CESMIX TST '22, May 25, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+Google/INRIA/ONERA AD Meeting, May 19, 2022
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+Imperial College London Seminar, May 13, 2022
+A brief introduction to Enzyme.jl
+Cambridge Area Julia Users Network (CAJUN), May 4, 2022
+ 
+Back Propagation and Automatic Differentiation
+MIT 18.065 Lecture, May 2, 2022
+  
+[Tutorial] An Guide to Performance Debugging LLVM-based Programs
+LLVM Performance Workshop at CGO '22, Apr 3, 2022
+Enzyme and Enzyme.jl Updates
+DJ4Earth, Mar 21, 2022
+  
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+NVIDIA Seminar, Feb 23, 2022
+Reverse-Mode Automatic Differentiation and Optimization of GPU and Heterogeneous Parallel Programs via Enzyme
+SIAM PP22 GPU MiniSymposium, Jan 13, 2022
+ 
+Enzyme: High-Performance Automatic Differentiation of LLVM
+LLNL Invited Seminar, Dec 14, 2021
+ 
+How to Use Enzyme to Automatically Differentiate Any LLVM-based Language for CPU, GPU, and More
+Virtual LLVM Developer Meeting, Fall 2021, Nov 19, 2021
+  
+Reverse-Mode Automatic Differentiation and Optimization of GPU Kernels via Enzyme, Best Student Paper Finalist and Best Reproducibility Advancement Finalist
+SC '21 (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Nov 17, 2021
+ 
+Enzyme: Fast, Language Agnostic, Differentiation of Parallel Programs in LLVM
+7th Annual Workshop on the LLVM Compiler Infrastructure in HPC, Nov 14, 2021
+ 
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+Washington University of St. Louis Colloquium, Nov 12, 2021
+ 
+Language-Independent Automatic Differentiation and Optimization of GPU Programs with Enzyme
+European Workshop on Automatic Differentiation 2021, Nov 4, 2021
+  
+Enzyme: High-Performance, Cross-Language, and Parallel Automatic Differentiation
+CU Boulder CS Colloquium, Oct 28, 2021
+  
+Differentiable Programming in C++
+CPPCon 2021, Oct 26, 2021
+  
+Polygeist: Raising C to Polyhedral MLIR
+PACT Conference 2021, Sep 27, 2021
+ 
+Polygeist: Raising C to Polyhedral MLIR
+Tobias Grosser Group Meeting (Edinburgh), Aug 9, 2021
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients!
+2021 DOE CSGF Program Review, Jul 21, 2021
+ 
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients!
+Legion Group Meeting (Stanford), Jun 23, 2021
+ 
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients!
+Jiantao Jiao Group Meeting (Berkeley), Jun 16, 2021
+ 
+Cymbl: To -jInfinity & Beyond
+CaaS Monthly Meeting (Princeton), Jun 3, 2021
+ 
+Enzyme: High-Performance Automatic Differentiation
+CESMIX Group Meeting (MIT), May 18, 2021
+  
+Post-Optimization Automatic Differentiation by Synthesizing LLVM
+NVIDIA GTC 2021, Apr 12, 2021
+  
+Post-Optimization Automatic Differentiation by Synthesizing LLVM
+Differentiable Programming Workshop, Apr 7, 2021
+  
+Polygeist: Affine C in MLIR
+MLIR Open Design Meeting, Feb 11, 2021
+ 
+Polygeist: Affine C in MLIR
+IMPACT 2021, Jan 20, 2021
+ 
+Enzyme: High-Performance Automatic Differentiation of LLVM
+Languages For Inference (LAFI) 2021, Jan 17, 2021
+  
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients, Spotlight
+NeurIPS 2020, Spotlight Talk, Dec 9, 2020
+  
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients
+NeurIPS 2020, Poster "Talk", Dec 9, 2020
+ 
+Cymbl: To -jInfinity & Beyond
+Apple Ted-K Talk, Nov 19, 2020
+ 
+Frontend and Compiler Representations of Reducers for Clarity and Optimization
+OpenCilk Group Meeting, Oct 9, 2020
+  
+Enzyme: High-Performance Automatic Differentiation of LLVM, Best Student Presentation
+US LLVM Developer Meeting, Fall 2020, Oct 8, 2020
+ 
+Post-Optimization Automatic Differentiation by Synthesizing LLVM
+European Workshop on Automatic Differentiation 2020, Aug 11, 2020
+ 
+Making ML Fast for Arbitrary Code (Enzyme)
+Secure AI Labs Seminar Series, Jul 28, 2020
+ 
+Post-Optimization Automatic Differentiation by Synthesizing LLVM
+Argonne National Laboratories Seminar, Jul 1, 2020
+Header Time Optimization: Cross-Translation Unit Optimization via Annotated Headers, Keynote Talk
+Fourth LLVM Performance Workshop at CGO, Feb 23, 2020
+ 
+Automated Bayesian Estimation of Quantum Error Models
+3rd International Workshop on Quantum Compilation, Nov 7, 2019
+  
+“Header Time Optimization”: Cross-Translation Unit Optimization via Annotated Headers, Best Student Presentation (Tie)
+US LLVM Developer Meeting, Fall 2019, Oct 22, 2019
+ 
+Enzyme: Efficient Cross-Platform AD by Synthesizing LLVM
+European Workshop on Automatic Differentiation 2019, Jul 2, 2019
+ 
+Bayesian Estimation of Error Models for Improving Circuit Compilation
+LBL Internal Group Meeting, Aug 1, 2019
+ 
+Efficient Cross-Platform Automatic Differentiation
+Supertech Group, May 20, 2019
+  
+How to Use LLVM To Optimize Parallel Programs
+US LLVM Developer Meeting, Fall 2018, Oct 18, 2018
+ 
+Adaptive Value Iteration
+6.832 Presentations, May 17, 2018
+ 
+Quantum Computing for the Common Man
+8.371 Presentations, May 7, 2018
+ 
+Tensor Comprehensions
+Rework Deep Learning Summit Boston 2018, May 24, 2018
+ 
+Tensor Comprehensions
+LLVM Workshop at CGO 2018, Feb 24, 2018
+ 
+Leveraging LLVM to Optimize Parallel Programs
+US LLVM Developer Meeting, Fall 2017, Oct 18, 2017
+ 
+Leveraging LLVM to Optimize Parallel Programs
+NSF Parlay Meeting, Fall 2016, Sep 29, 2017
+ 
+Tapir: Embedding Fork-Join Parallelism into LLVM IR
+MIT Masterworks Poster Symposium, Apr 18, 2017
+ 
+Tapir: Embedding Fork-Join Parallelism into LLVM IR
+MIT 6.S898 Lecture, Apr 2, 2017
+ 
+Tapir: Embedding Fork-Join Parallelism into LLVM IR, 2nd place speaker
+MIT EECSCon 2017, Apr 18, 2017
+ 
+Tapir: Embedding Fork-Join Parallelism into LLVM IR
+IBM PL Day 2016, Dec 5, 2017
+   
+Embedding Fork-Join Parallelism into LLVM IR
+Compilers for Parallel Computing 2016, Jul 6, 2016
+Computational Complexity of Arranging Music
+Mathematics of Various of Entertaining Subjects (MOVES) 2015, Aug 3, 2015
+Syntactic Simplifications for Reducer Hyperobjects
+Intel Corporation, Jan 22, 2015
+Posters
+NSF CSSI 2103942: Convergence of Bayesian inverse methods and scientific machine learning in Earth system models through universal differentiable programming
+NSF PI Meeting, Feb 26, 2022
+HTO: “Header”-Time Optimization, ACM Gold Award (1st place)
+CGO SRC 2023, Feb 26, 2022
+High-Performance GPU-to-CPU Transpilation and Optimization via Polygeist/MLIR
+2022 US LLVM Dev Meeting, Nov 13, 2022
+Reverse-Mode Automatic Differentiation and Optimization of GPU Kernels via Enzyme
+ICML 2022 Beyond Bayes Workshop, Jul 22, 2022
+Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients
+NeurIPS 2020, Poster, Dec 9, 2020
+Enzyme: High-Performance Automatic Differentiation of LLVM
+US LLVM Developer Meeting, Fall 2020, Oct 6, 2020
+Cymbl: To -jInfinity & Beyond
+US LLVM Developer Meeting, Fall 2020, Oct 6, 2020
+Learning Quantum Error Models
+American Physical Society March Meeting 2020, Mar 2, 2020
+Extracting Incentives From Black-Box Decisions
+NeurIPS 2019 Workshop on Robust AI in Financial Services: Data, Fairness, Explainability, Trustworthiness, and Privacy, Dec 13, 2019
+Automated Bayesian Estimation of Quantum Error Models
+3rd International Workshop on Quantum Compilation, Nov 7, 2019
+“Header Time Optimization”: Cross-Translation Unit Optimization via Annotated Headers
+US LLVM Developer Meeting, Fall 2019, Oct 23, 2019
+Optimizing Nondeterminacy
+European LLVM Developer Meeting, Spring 2019, Apr 9, 2019
+
+© 2017-2023 William Moses
+

@@ -1,0 +1,57 @@
+Professor: Kangwook Lee 0001
+University: University of Wisconsin - Madison
+URL: https://kangwooklee.com/
+Description: Lee Lab @ UW Madison
+Home
+People
+Research
+Teaching
+Lee Lab @ UW Madison
+
+Research focus: Theory and algorithms for foundation models.
+
+We sincerely appreciate the support provided by our sponsors: NSF, Amazon, and FuriosaAI.
+
+Openings
+[postdocs] We are looking for a postdoc interested in the theoretical and algorithmic aspects of foundation models, particularly LLMs. If you want to work with us, please email me your CV and a short research statement. I strongly recommend reading our lab’s recent papers.
+[PhD students] We are looking for PhD students (ECE or CS) interested in the theoretical and algorithmic aspects of foundation models, particularly LLMs. If you want to work with us, please email me your CV and a short research statement. I strongly recommend reading our lab’s recent papers.
+[MS students] I am not currently looking for MS students.
+[undergraduate students] You might want to consider taking my class first. I teach various machine learning courses (ECE 532, 539, 561, 570, 761, …).
+News
+(July 2024) [COLM’24] Can MLLMs Perform Text-to-Image In-Context Learning? is accepted to COLM’24!
+(June 2024) [TMLR’24] Mini-Batch Optimization of Contrastive Loss is accepted to TMLR!
+(Apr. 2024) Amazon Research Awards
+Our group will develop principled approaches to prompt engineering through the information/coding-theoretic lens. Huge thanks to Amazon and my amazing collaborators and students!
+(Mar. 2024) NSF CAREER Award
+Our group will develop a unified theory and new algorithms with provable guarantees for learning with frozen pretrained models, also known as foundation models. Huge thanks to NSF and my amazing collaborators and students!
+Recent Work on Foundation Models
+Link	Topic/Type	Title or TLDR	Summary	Github
+Arxiv’24	LLM/Algorithm	Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data	Summary	Github
+COLM’24	LLM/Algorithm	Can MLLMs Perform Text-to-Image In-Context Learning?	Summary	Github
+TMLR’24	CLIP/Theory	Mini-Batch Optimization of Contrastive Loss	Summary	Github
+ICML’24	LLM/Theory	Dual Operating Modes of In-Context Learning	Summary	Github
+ICML’24	LLM/Algorithm	Can Mamba Learn How To Learn? A Comparative Study on In-Context Learning Tasks	Summary	Github
+UAI’24	PEFT/Theory	Memorization Capacity for Additive Fine-Tuning with Small ReLU Networks	Summary	Github
+ICLR’24	PEFT/Theory	The Expressive Power of Low-Rank Adaptation (LoRA)	Summary	Github
+ICLR’24	LLM/Algorithm	Image Clustering Conditioned on Text Criteria	Summary	Github
+ICLR’24	LLM/Algorithm	Teaching Arithmetic to a Small Transformer	Summary	Github
+ICLR’24	LLM/Algorithm	A Looped-Transformer Architecture for Efficient Meta-learning	Summary	Github
+NeurIPS’23	Diffusion/Algorithm	Reinforcement learning for improved text-to-image alignment	Summary	Github
+ICML’23	LLM/Theory	Looped Transformers as Programmable Computers	Summary	Github
+ICML’23	Diffusion/Algorithm	Reinforcement learning for faster DDPM sampling	Summary	Github
+NeurIPS’22	LLM/Algorithm	LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks	Summary	Github
+NeurIPS’22	Diffusion/Theory	Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance	Summary	Github
+Selected Talks on Foundation Models
+(Apr. 2024) The Johns Hopkins University CIS/MINDS seminar
+Title: Theoretical Exploration of Foundation Model Adaptation Methods
+(Mar. 2024) The 58th Annual Conference on Information Sciences and Systems @ Princeton University
+Title: A Probabilistic Framework for Understanding In-Context Task Learning and Retrieval
+(Feb. 2024) 2024 Information Theory and Applications Workshop
+Title: The Expressive Power of Low-Rank Adaptation (LoRA)
+(Feb. 2024) Foundations of Data Science - Virtual Talk Series @ UCSD/NSF TRIPODS Institute on Emerging CORE Methods in Data Science (EnCORE)
+Title: Theoretical Exploration of Foundation Model Adaptation Methods
+(Dec. 2023) CSP Seminar @ University of Michigan
+Title: Towards a Theoretical Understanding of Parameter-Efficient Fine-Tuning (and Beyond)
+(Nov. 2023) Efficient ML workshop @ Google Research New York
+Title: The Expressive Power of Low-Rank Adaptation (LoRA)
+

@@ -1,0 +1,128 @@
+Professor: Tahsin M. Kurç
+University: Stony Brook University
+URL: https://bmi.stonybrookmedicine.edu/people/tahsin_kurc
+Description: Skip to main content
+Select Language
+English
+Spanish
+The State University of New York
+Home  Contact Us  Research
+
+	
+	
+Department of Biomedical Informatics
+School of Medicine and College of Engineering and Applied Sciences
+Home
+About Us 
+People 
+Research 
+Education 
+Software 
+Tahsin Kurc
+
+ 
+
+	    	
+
+Tahsin Kurc, Ph.D., Research Associate Professor and Vice Chair
+
+Department of Biomedical Informatics
+HSC L3-044
+Stony Brook, NY 11794
+Phone:  (631) 638-0038
+Website (URL):  https://bmi.stonybrookmedicine.edu/people/tahsin_kurc
+Email:  tahsin.kurc@stonybrook.edu
+
+
+
+ 
+
+INTERESTS
+Biomedical Informatics, Imaging Informatics, Clinical & Translational Research Informatics and High-End Computing
+
+
+BIOGRAPHY
+Tahsin Kurc received his Ph.D. in computer science from Bilkent University, Turkey and B.Sci. degree in electronics engineering from Middle East Technical University, Turkey. He joined the Biomedical Informatics Department in 2013. Before coming to Stony Brook, he was a faculty member in the Biomedical Informatics Department at Emory University.
+
+
+RESEARCH
+Dr. Kurc's research seeks to develop informatics platforms that enable scalable processing and analysis of large volumes of high-resolution, high-throughput imaging data on high end computing systems, and that support management, query, and exploration of scientific datasets. He has a strong research and software development background in computer science and biomedical informatics, specializing in databases and high performance middleware systems for scientific applications. His work targets the requirements of basic and translational biomedical research projects that reference, analyze, and integrate large datasets. He has extensive experience collaborating with scientists and software developers in multi-disciplinary projects and have supervised postdoctoral researchers and software engineers for the design and implementation of integrated informatics platforms and high performance computing software. Recent publications resulting from his research include:
+J Saltz, J Almeida, Y Gao, A Sharma, E Bremer, T DiPrima, M Saltz, J Kalpathy-Cramer, T Kurc. Towards Generation, Management, and Exploration of Combined Radiomics and Pathomics Datasets for Cancer Research. Translational Bioinformatics, the AMIA Joint Summits Meeting, San Francisco, Mar 2017.
+G Teodoro, T Kurc, G Andrade, J Kong, R Ferreira, J Saltz. Application performance analysis and efficient execution on systems with multi-core CPUs, GPUs and MICs: a case study with microscopy image analysis. The International Journal of High Performance Computing Applications. 2017 Jan;31(1):32-51.
+Geodoro, T Kurc, L Taveira, A Melo, Y Gao, J Kong, J Saltz. Algorithm sensitivity analysis and parameter tuning for tissue image segmentation pipelines. Bioinformatics. 2017 Jan 5:btw749.
+L Hou, D Samaras, T Kurc, Y Gao, J Davis, J Saltz. Patch-based convolutional neural network for whole slide tissue image classification. InProceedings of the IEEE Conference on Computer Vision and Pattern Recognition 2016 (pp. 2424-2433).
+Y Gao, V Ratner, L Zhu, T Diprima, T Kurc, A Tannenbaum, J Saltz. Hierarchical nucleus segmentation in digital pathology images. InSPIE Medical Imaging 2016 Mar 23 (pp. 979117-979117). International Society for Optics and Photonics.
+
+His earlier publications addressed the computational and data management challenges of accessing and processing large scientific datasets on high performance computing machines. My work showed how datasets can be organized on disk and across multiple storage nodes and how data retrieval and processing can be coordinated to reduce data retrieval and processing overheads. My research resulted in techniques that were implemented in a Virtual Microscope system, which was one of the pioneering systems to support viewing of large whole slide tissue images, and the Active Data Repository, which was a software system with a MapReduce-style processing structure. These systems were successfully employed in scientific applications.
+
+1. U. Catalyurek, M. D. Beynon, C. Chang, T. Kurc, A. Sussman, and J. Saltz. “The Virtual Microscope”. IEEE Transactions on Information Technology in         Biomedicine, Vol. 7(4), pp. 230-248,2003.
+
+2. T. Kurc, U. Catalyurek, C. Chang, A. Sussman, and J. Saltz. “Exploration and Visualization of Very Large Datasets with the Active Data Repository”. IEEE Computer Graphics & Applications, Vol. 21(4),pp. 24– 33, July/August, 2001. 
+
+3. R. Ferreira, T. Kurc, M. Beynon, C. Chang, A. Sussman, and J. Saltz. “Object-Relational Queries into Multi-dimensional Databases with the Active Data Repository”. Parallel Processing Letters, Vol. 9(2),pp. 173–195, 1999.
+
+In several collaborative projects he extended his earlier work to the design of software middleware systems and tools for analysis, management, and exploration of imaging datasets and multi-dimensional scientific data. The extensions focused on data structures and runtime optimizations to rapidly execute image analysis workflows in distributed computing environments. In more recent work, his collaborators and he extended the data structures and runtime optimizations to make efficient use of hardware accelerators, such as Graphic Processing Units, for image analysis.
+
+1. G. Teodoro, T. Tavares, R. Ferreira, T. Kurc, W. Meira Jr., D. O. Guedes, T. Pan, J. H. Saltz, ”A Runtime for Efficient Execution of Scientific Workflows on Distributed Environments”, International Journal of Parallel Programming, Vol. 36(2), pp. 250-266, 2008.
+
+2. M. Gurcan, T. Pan, A. Sharma, T. Kurc, S. Oster, S. Langella, S. Hastings, K. Siddiqui, E. Siegel, J. Saltz, GridImage: A Novel Use of Grid Computing to Support Interactive Human and Computer-Assisted Detection Decision Support, Journal of Digital Imaging, Vol. 20(2), pp. 160-171, 2007.
+
+3. J. Saltz, G. Teodoro, T. Pan, L. Cooper, J. Kong, S. Klasky, T. Kurc: Feature-based analysis of largescale spatio-temporal sensor data on hybrid architectures, International Journal of High Performance Computing Applications, 27(3), pp. 263-272, 2013.
+
+4. Kurc T, Qi X, Wang D, Wang F, Teodoro G, Cooper L, Nalisnik M, Yang L, Saltz J, Foran DJ. Scalable analysis of Big pathology image data cohorts using efficient methods and high-performance computing strategies. BMC bioinformatics. 2015 Dec 1;16(1):1.
+
+5. Teodoro G, Kurc T, Andrade G, Kong J, Ferreira R, Saltz J. Application performance analysis and efficient execution on systems with multi-core CPUs, GPUs and MICs: a case study with microscopy image analysis. International Journal of High Performance Computing Applications. 2015 Jul 27:1094342015594519.
+
+In addition to research on techniques and software for data processing, he contributed to the development of tools and methods for storage, management, and sharing of imaging and scientific datasets. Databases for biomedical imaging data not only need to support rich data models to express image metadata and analysis results but also scale to large volumes of image data, segmentation results, and image features. His work in this area showed how to utilize advanced database technologies, service oriented architectures, and Cloud computing technologies to enable management of datasets consisting of thousands of images and billions of features and to support comparison of results from multiple analyses.
+
+1. F. Wang, J. Kong, L. Cooper, T. Pan, T. Kurc, W. Chen, A. Sharma, C. Niedermayr, T.W. Oh, D. Brat, A.B. Farris, D.J. Foran, J. Saltz: A data model and database for high-resolution pathology analytical image informatics. J Pathol Inform 2 (2011) 32.
+
+2. F. Wang, J. Kong, J. Gao, L. Cooper, T. Kurc, Z. Zhou, D. Adler, C. Vergara-Niedermayr, B. Katigbak, D. Brat, J. Saltz: A high-performance spatial database based approach for pathology imaging algorithm evaluation, Journal of pathology informatics, 4, 2013.
+
+3. Sharma, T. Pan, B. Cambazoglu, M. Gurcan, T. Kurc, J. Saltz, ”VirtualPACS -A Federating Gateway to Access Remote Image Data Resources over the Grid.”, J. Digital Imaging, Vol. 22(1), pp. 1-10, 2009.
+
+4. Baig F, Mehrotra M, Vo H, Wang F, Saltz J, Kurc T. SparkGIS: Efficient comparison and evaluation of algorithm results in tissue image analysis studies. In VLDB Workshop on Big Graphs Online Querying 2015 Aug 31 (pp. 134-146). Springer International Publishing
+
+In addition to research on databases and software middleware systems for large scale image analysis, he participated in collaborative research that developed new image analysis techniques and employed databases in biomedical research. This research focused on analysis of whole slide tissue images for in silico cancer research. The publications showed the potential of tissue morphology in classification of patients in molecular subgroups and studied the prognostic value of imaging features.
+
+1. Y. Gao, Liu W, Arjun S, Zhu L, Ratner V, Kurc T, Saltz J, Tannenbaum A. Multi-scale learning based segmentation of glands in digital colonrectal pathology images. In SPIE Medical Imaging.International Society for Optics and Photonics, pp. 97910M-97910M, Mar 2016.
+
+2. Y. Gao, Ratner V, Zhu L, Diprima T, Kurc T, Tannenbaum A, Saltz J. Hierarchical nucleus segmentation in digital pathology images. In SPIE Medical Imaging. International Society for Optics and Photonics, pp. 979117-979117, Mar 2016.
+
+3. L. Hou, D. Samaras, T. M. Kurc, Y. Gao, J. E. Davis, and J. H. Saltz. Patch-based Convolutional Neural Network for Whole Slide Tissue Image Classification. CVPR spotlight. 2016.
+
+4. L.A. Cooper, J. Kong, D.A. Gutman, F. Wang, J. Gao, C. Appin, S. Cholleti, T. Pan, A. Sharma, L. Scarpace, T. Mikkelsen, T. Kurc, C.S. Moreno, D.J. Brat, J.H. Saltz: Integrated morphologic analysis for the identification and characterization of disease subtypes. J Am Med Inform Assoc 19 (2012) 317-323.
+
+5. J. Kong, L.A. Cooper, F. Wang, D.A. Gutman, J. Gao, C. Chisolm, A. Sharma, T. Pan, E.G. Van Meir, T. Kurc, C.S. Moreno, J.H. Saltz, D.J. Brat: Integrative, multimodal analysis of glioblastoma using TCGA molecular data, pathology images, and clinical outcomes. IEEE Trans Biomed Eng 58 (2011) 3469-3474.
+
+PUBLICATIONS
+
+NCBI   |   DBLP  |   PubMed
+
+Give us a call
+(631) 638-2590
+Department of Biomedical Informatics
+Health Science Center
+Level 3, Room 043
+Stony Brook, NY 11794-8322
+	
+Stony Brook Medicine
+Stony Brook University Hospital
+Stony Brook Children's Hospital
+Stony Brook Southampton Hospital
+Long Island State Veterans Home
+Stony Brook University
+Directory
+Careers
+Newsroom
+Volunteer
+Employee Portal (Onsite)
+Employee Portal (Offsite)
+Patient Portal
+Physician Portal
+Healthcare Professionals
+			
+Legal/Disclaimer       Privacy Policy       Notice of Privacy Practices
+Discrimination          Sexual Misconduct          Accessibility Barrier        Site Feedback
+© Copyright 2024 Stony Brook Medicine
+

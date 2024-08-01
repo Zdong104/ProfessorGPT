@@ -1,0 +1,295 @@
+Professor: Sean Welleck
+University: Carnegie Mellon University
+URL: https://wellecks.com/
+Description: 
+
+Sean Welleck
+Assistant Professor
+CMU
+swelleck {@ | at} andrew.cmu.edu
+
+
+  
+
+
+  Thesis Review Podcast
+
+
+About Me
+
+Assistant Professor
+Carnegie Mellon University
+School of Computer Science
+Language Technologies Institute
+PI: L3 Lab
+
+I received a PhD at New York University, advised by Kyunghyun Cho, and did a postdoc at the University of Washington, advised by Yejin Choi.
+I host the Thesis Review Podcast.
+
+Research
+
+My research focuses on deep learning and generative models, including:
+
+Machine learning for code and mathematics
+Learning, inference, and evaluation algorithms
+Science of neural language models
+
+Please see the CMU L3 Lab to learn more about our research.
+
+Recent and upcoming
+06.2024: Talk at Neurosymbolic Programming Summer School
+05.2024: Talk at PNNL Mathematics for Artificial Reasoning in Science
+04.2024: Version II of Neural Theorem Proving Tutorial [github][slides]
+04.2024: LLMLean: LLMs+Lean on your laptop or in the cloud [github]
+04.2024: Talk at MICDE Scientific Foundation Models Conference
+04.2024: Tutorial at MICDE Scientific Foundation Models Conference [slides][github]
+01.2024: New Neural code generation course with Daniel Fried at CMU
+12.2023: Co-organized Math+AI workshop at Neurips
+12.2023: Panel on Machine Learning for Theorem Proving at Neurips
+11.2023: Talk on Language models and formal mathematics at UW Mathematics [slides]
+10.2023: Talk on Llemma at Harvard New Technologies in Mathematics [slides]
+10.2023: Llemma: an open language model for mathematics [paper][code/data/models]
+10.2023: llmstep: language model proofstep suggestions in Lean [paper][github]
+08.2023: ntptutorial: interactive notebook tutorial on neural theorem proving [github]
+08.2023: IJCAI tutorial on neural theorem proving [slides]
+06.2023: Panel on Generative AI in Finance and Economics; CMU
+06.2023: Talk at AI to Assist Mathematical Reasoning Workshop; NASEM [slides]
+05.2023: Talk on Draft, Sketch, Prove at Hoskinson Center for Formal Mathematics. [slides]
+Preprints
+Lean-STaR: Learning to Interleave Thinking and Proving
+H. Lin, Z. Sun, Y. Yang, S. Welleck
+arXiv 2024
+[project page][code]
+From Decoding to Meta-Generation:
+Inference-time Algorithms for Large Language Models
+S. Welleck, A. Bertsch*, M. Finlayson*, H. Schoelkopf*, A. Xie, G. Neubig, I. Kulikov, Z. Harchaoui
+arXiv 2024
+miniCodeProps: a Minimal Benchmark for Proving Code Properties
+E. Lohn, S. Welleck
+arXiv 2024
+The BiGGen Bench: A Principled Benchmark for Fine-grained Evaluation of Language Models with Language Models
+S. Kim, J. Suk, J. Cho, S. Longpre et al., …, S. Welleck, G. Neubig, M. Lee, K. Lee, M. Seo
+arXiv 2024
+Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models
+S. Kim, J. Suk, S. Longpre, B. Lin, J. Shin, S. Welleck, G. Neubig, M. Lee, K. Lee, M. Seo
+arXiv 2024
+Easy-to-Hard Generalization: Scalable Alignment Beyond Human Supervision
+Z. Sun*, L. Yu*, Y. Shen, W. Liu, Y. Yang+, S. Welleck+, C. Gan+
+arXiv 2024
+[code]
+Publications
+
+Llemma: An Open Language Model for Mathematics
+Z. Azerbayev, H. Schoelkopf, K. Paster, M. Dos Santos, S. McAleer, A. Jiang, J. Deng, S. Biderman, S. Welleck
+ICLR 2024
+[code][data][models][blog][sample explorer][poster]
+
+LLMstep: LLM proofstep suggestions in Lean
+S. Welleck, R. Saha
+NeurIPS Math-AI Workshop 2023
+[code][poster]
+Inference-Time Policy Adaptors
+X. Lu, F. Brahman, P. West, J. Jung, K. Chandu, A. Ravichander, L. Qin. P. Ammanabrolu, L. Jiang, S. Ramnath, N. Dziri, J. Fisher, B. Lin, S. Hallinan, X. Ren, S. Welleck, Y. Choi
+EMNLP 2023
+Self-refine: Iterative refinement with self-feedback
+A. Madaan, N. Tandon, P. Gupta, S. Hallinan, L. Gao, S. Wiegreffe, U. Alon, No. Dziri, S. Prabhumoye, Y. Yang, B. Prasad Majumder, S. Gupta, S. Welleck, A. Yazdanbakhsh, P. Clark
+NeurIPS 2023
+Limits of Transformers on Compositionality
+N. Dziri*, X. Lu*, M. Sclar*, X. Lorraine Li, L. Jiang, B. Lin, P. West, C. Bhagavatula, R. Le Bras, J. D Hwang, So. Sanyal, S. Welleck, X. Ren, A. Ettinger, Z. Harchaoui, Y. Choi
+NeurIPS 2023 (Spotlight)
+STEER: Unified Style Transfer with Expert Reinforcement
+S. Hallinan, F. Brahman, X. Lu, J. Jung, S. Welleck, Y. Choi
+EMNLP 2023
+A Survey of Deep Learning for Mathematical Reasoning
+P. Lu, L. Qiu, W. Yu, S. Welleck*, K. Chang*
+ACL 2023
+Generating Sequences by Learning to [Self-]Correct
+S. Welleck*, X. Lu*, P. West+, F. Brahman+, T. Shen, D. Khashabi, Y. Choi
+ICLR 2023.
+[poster]
+Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs
+A. Jiang*, S. Welleck*, J. Zhou*, T. Lacroix, J. Liu, W. Li, M. Jamnik, G. Lample+, Y. Wu+
+ICLR 2023(Oral).
+[data]
+NaturalProver: Grounded Mathematical Proof Generation with Language Models
+S. Welleck, J. Liu, X. Lu, H. Hajishirzi, Y. Choi.
+NeurIPS 2022.
+[data][code][slides][poster]
+Quark: Controllable Text Generation with Reinforced [Un]learning
+X. Lu, S. Welleck, L. Jiang, J. Hessel, L. Qin, P. West, P. Ammanabrolu, Y. Choi.
+NeurIPS 2022 (Oral).
+[poster]
+COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics
+L. Qin, S. Welleck, D. Khasabi, Y. Choi.
+NeurIPS 2022 (Oral).
+[code][poster]
+Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations
+J. Jung, L. Qin, S. Welleck, F. Brahman, C. Bhagavatula, R. Le Bras, Y. Choi.
+EMNLP 2022.
+[code][slides]
+Lila: A Unified Benchmark for Mathematical Reasoning
+S. Mishra, M. Finlayson, P. Lu, L. Tang, S. Welleck, C. Baral, T. Rajpurohit, O. Tafjord, A. Sabharwal, P. Clark, A. Kalyan
+EMNLP 2022.
+[data][project page]
+Rainier: Reinforced Knowledge Introspector for Commonsense Question Answering
+J. Liu, S. Hallinan, X. Lu, P. He, S. Welleck, H. Hajishirzi, Y. Choi.
+EMNLP 2022.
+NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics
+X. Lu, S. Welleck, P. West, L. Jiang, J. Kasai, D. Khasabi, R. Le Bras, L. Qin, Y. Yu, R. Zellers, N. Smith, Y. Choi.
+NAACL 2022.
+[code][slides]
+Symbolic Knowledge Distillation: from General Language Models to Commonsense Models
+P. West, C. Bhagavatula, J. Hessel, J. Hwang, L. Jiang, R. Le Bras, X. Lu, S. Welleck, Y. Choi.
+NAACL 2022.
+[code]
+Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts
+D. Khasabi, S. Lyu, S. Min, L. Qin, K. Richardson, S. Singh, S. Welleck, H. Hajishirzi, T. Khot, A. Sabharway, Y. Choi.
+NAACL 2022.
+Generated Knowledge Prompting for Commonsense Reasoning
+J. Liu, A. Liu, X. Lu, S. Welleck, P. West, R. Le Bras, Y. Choi, H. Hajishirzi.
+ACL 2022.
+[code]
+Symbolic Brittleness in Sequence Models: on Systematic Generalization in Symbolic Mathematics
+S. Welleck, P. West, J. Cao, Y. Choi.
+AAAI 2022.
+[code][slides][talk]
+Towards Grounded Natural Language Proof Generation
+S. Welleck, J. Liu, J. Han, Y. Choi.
+MathAI4Ed Workshop at NeurIPS 2021 (Contributed Talk).
+[poster][slides]
+NaturalProofs: Mathematical Theorem Proving in Natural Language
+S. Welleck, J. Liu, R. Le Bras, H. Hajishirzi, Y. Choi, K. Cho.
+NeurIPS 2021 Datasets and Benchmarks (Oral (Top 1%)).
+[data/code][talk][related data]
+MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers
+K. Pillutla, S. Swayamdipta, R. Zellers, J. Thickstun, S. Welleck, Y. Choi, Z. Harchaoui.
+NeurIPS 2021 (Oral, Outstanding Paper Award (Top 0.1%)).
+[code][press]
+Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral
+L. Liu, K. Pillutla, S. Welleck, S. Oh, Y. Choi, Z. Harchaoui.
+NeurIPS 2021.
+Mode recovery in neural autoregressive sequence modeling
+I. Kulikov, S. Welleck, K. Cho.
+SPNLP 2021.
+[code]
+Order and Learning in Sequential Neural Structured Prediction
+S. Welleck.
+PhD Thesis, New York University.
+[slides]
+MLE-guided parameter search for task loss minimization in neural sequence modeling
+S. Welleck, K. Cho.
+AAAI 2021.
+[code][poster][talk]
+Consistency of a Recurrent Language Model With Respect to Incomplete Decoding
+S. Welleck, I. Kulikov, J. Kim, R. Pang, K. Cho.
+EMNLP 2020.
+[code][talk]
+A Generalized Framework of Sequence Generation with Application to Undirected Sequence Models
+E. Mansimov, A. Wang, S. Welleck, K. Cho.
+arXiv pre-print 2020.
+[code]
+Making Inconsistent Dialogue Unlikely with Unlikelihood Training
+M. Li, S. Roller, I. Kulikov, S. Welleck, Y.L. Boureau, K. Cho, J. Weston.
+ACL 2020.
+Neural Text Generation with Unlikelihood Training
+S. Welleck, I. Kulikov, S. Roller, E. Dinan, K. Cho, J. Weston.
+ICLR 2020.
+[code]
+Non-Monotonic Sequential Text Generation
+S. Welleck, K. Brantley, H. Daume III, K. Cho.
+ICML 2019.
+[code] [slides] [poster]
+Sequential Graph Dependency Parser
+S. Welleck, K. Cho.
+RANLP 2019.
+[slides]
+Dialogue Natural Language Inference
+S. Welleck, J. Weston, A. Szlam, K. Cho.
+ACL 2019.
+[dataset][poster][press]
+Loss Functions for Multiset Prediction
+S. Welleck, Z. Yao, Y. Gai, J. Mao, Z. Zhang, K. Cho.
+NeurIPS 2018.
+NVIDIA AI Labs Pioneering Research Award 2018.
+[poster]
+Saliency-based Sequential Image Attention with Multiset Prediction
+S. Welleck, J. Mao, K. Cho, Z. Zhang.
+NeurIPS 2017.
+NVIDIA AI Labs Pioneering Research Award 2017.
+[poster][press]
+Efficient AUC Optimization for Information Ranking Applications
+S. Welleck.
+ECIR 2016.
+Selected Talks
+[11.2023]: Talk on Language models and formal mathematics at UW Mathematics [slides]
+[10.2023]: Talk on Llemma at Harvard New Technologies in Mathematics [slides]
+[08.2023]: A tutorial on neural theorem proving; IJCAI, OIST (9.2023) [slides]
+[06.2023]: Talk at AI to Assist Mathematical Reasoning Workshop; National Academies of Sciences, Engineering, and Medicine. [slides]
+[05.2023]: Talk on Draft, Sketch, Prove at Hoskinson Center for Formal Mathematics. [slides]
+[11.2022] Talk at Microsoft Research on NaturalProver and Draft, Sketch, and Prove.
+[10.2022] Talk at NSF Expeditions: Understanding the World Through Code seminar.
+[09.2022] Talk at Google on Maeutic Prompting [slides].
+[09.2022] Talk at AITP 2022 on NaturalProver [slides].
+[05.2022] Talks at IFDS and Cohere.ai on constrained text generation [slides].
+Teaching
+Neural Code Generation
+Carnegie Mellon University
+Spring 2024.
+Guest Lecture: Neural sequence generation (DATA 598) [slides]
+University of Washington
+March 2023.
+Guest Lecture: Reliable text generation through graph search (CSE 373) [slides]
+University of Washington
+November 2022.
+Guest Lecture: Neural sequence generation (DATA 598) [slides]
+University of Washington
+March 2022.
+Deep Learning (DS-GA 1008)
+New York University
+Fall 2020
+Deep Learning for NLP
+African Master’s Program in Machine Intelligence
+March 2020
+Introduction to Machine Learning (CSCI-UA 0473)
+New York University
+Spring 2020
+NLP with Representation Learning (DS-GA 1011)
+New York University
+Fall 2019
+Tutorials
+Neural theorem proving II [slides][github]
+SciFM 2024.
+Neural theorem proving [slides][github]
+In Deep Learning in Mathematical Reasoning [tutorial site]
+IJCAI 2023.
+Neurosymbolic NLP: Modularity & Constraints for Neural Language Models [slides][tutorial site]
+COLING 2022.
+Denoising Diffusion Models [slides]
+July 2022.
+Generative Modeling with (W)GAN [slides]
+NYU Shanghai
+April 2018.
+Workshops
+Math-AI: 3rd Workshop on Mathematical Reasoning and AI
+NeurIPS 2023
+Math-AI: Toward Human-Level Mathematical Reasoning
+NeurIPS 2022
+MathNLP: 1st Workshop on Mathematical Natural Language Processing
+EMNLP 2022
+Math AI for Education: Bridging the Gap Between Research and Smart Education
+NeurIPS 2021
+Past
+NYU (PhD), Sep. 2016 - Jan. 2021
+Facebook, AI Research Team (FAIR), May. 2019 - Sep. 2019
+Facebook, AI Research Team (FAIR), May. 2018 - Jan. 2019
+Primer AI, Feb. 2016 - Aug. 2016
+IBM, Sep. 2014 - Feb. 2016
+University of Pennsylvania (Computer Science, MSE), May. 2013 - May. 2014
+University of Pennsylvania (Computer Science, BSE), Sep. 2009 - Feb. 2013
+
+
+
+
+
+
+

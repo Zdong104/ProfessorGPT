@@ -1,0 +1,438 @@
+Professor: Yulia Tsvetkov
+University: University of Washington
+URL: https://homes.cs.washington.edu/~yuliats
+Description: PeopleTeachingPublications
+Yulia Tsvetkov
+
+I am an associate professor in the Paul G. Allen School of Computer Science & Engineering, at the University of Washington. I'm also an adjunct professor at the Language Technologies Institute at CMU. I work on natural language processing, and I'm particularly interested in hybrid solutions at the intersection of machine learning and theoretical or social linguistics, i.e., solutions that combine interesting learning/modeling methods and insights about human languages or about people speaking these languages.
+
+Much of my research group's work focuses on understanding and advancing large language models, AI ethics, multilingual learning, and machine learning for NLP. This research is motivated by a unified goal: to extend the capabilities of human language technology beyond individual populations and across language and culture boundaries, thereby enabling NLP for all users. Here are my CV and Google Scholar page.
+
+Previously, I was an assistant professor in the Language Technologies Institute, School of Computer Science at Carnegie Mellon University, and before that a postdoc in the Stanford NLP Group. I got my PhD from CMU. Honors include the NSF CAREER award, Sloan fellowship, Okawa research award, best/outstanding paper awards and runner-ups, and several industry research faculty awards.
+
+
+Teaching
+Spring 2024 - Ethics in AI (graduate course);
+Spring 2023 - Ethics in AI (graduate course);
+Fall 2022 - Natural Language Processing (ungraduate course);
+Spring 2022 - Natural Language Processing (ungraduate course);
+Winter 2022 - Computational Ethics in Natural Language Processing (graduate course);
+Spring 2021 - Computational Ethics Lab;
+Fall 2020 - Multilingual NLP (graduate course; co-teaching with Graham Neubig and Alan W Black; Algorithms for NLP (graduate course; co-teaching with Emma Strubell and Robert Frederking
+Spring 2020 - Computational Ethics for NLP (graduate course; co-teaching with Alan W Black);
+Algorithms for NLP (undergraduate IITP course; co-teaching with David Mortensen)
+Fall 2020 - Algorithms for NLP (graduate course; co-teaching with Emma Strubell and Robert Frederking
+Fall 2019 - Algorithms for NLP (graduate course; co-teaching with Robert Frederking);
+Algorithms for NLP (undergraduate IITP course; co-teaching with David Mortensen)
+Spring 2019 - Computational Ethics for NLP (graduate course; co-teaching with Alan W Black)
+Fall 2018 - Algorithms for NLP (graduate course; co-teaching with Robert Frederking)
+Spring 2018 - Computational Ethics for NLP (graduate course; co-teaching with Alan W Black)
+
+Publications
+2024
+
+David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs.
+ Xiaochuang Han, Sachin Kumar, Yulia Tsvetkov, and Marjan Ghazvininejad.   Proc. NAACL. PDF
+
+P3Sum: Preserving Author's Perspective in News Summarization with Diffusion Language Models.
+ Yuhan Liu, Shangbin Feng, Xiaochuang Han, Vidhisha Balachandran, Chan Young Park, Sachin Kumar, and Yulia Tsvetkov.   Proc. NAACL. PDF
+
+Extracting Lexical Features from Dialects via Interpretable Dialect Classifiers.
+ Roy Xie, Orevaoghene Ahia, Yulia Tsvetkov, and Antonios Anastasopoulos.   Proc. NAACL. PDF
+
+BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer.
+ Akari Asai, Sneha Kudugunta, Xinyan Velocity Yu, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, and Hannaneh Hajishirzi.   Proc. NAACL. PDF
+
+Trusting Your Evidence: Hallucinate Less with Context-aware Decoding.
+ Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, and Scott Wen-tau Yih.   Proc. NAACL. PDF
+
+SemStamp: A Semantic Watermark with Paraphrastic Robustness for Text Generation.
+ Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, and Yulia Tsvetkov.   Proc. NAACL. PDF
+
+LatticeGen: Hiding Generated Text in a Lattice for Privacy-Aware Large Language Model Generation on Cloud.
+ Mengke Zhang, Tianxing He, Tianle Wang, Lu Mi, Niloofar Mireshghallah, Binyi Chen, Hao Wang, and Yulia Tsvetkov.   Proc. NAACL Findings. PDF
+
+KGQuiz: Evaluating the Generalization of Encoded Knowledge in Large Language Models. (Oral)
+ Yuyang Bai, Shangbin Feng, Vidhisha Balachandran, Zhaoxuan Tan, Shiqi Lou, Tianxing He, and Yulia Tsvetkov.   Proc. WebConf. PDF
+
+Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions.
+ Sachin Kumar, Chan Young Park, and Yulia Tsvetkov.   Proc. ICLR. PDF
+
+Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models. (Oral)
+ Shangbin Feng, Weijia Shi, Yuyang Bai, Vidhisha Balachandran, Tianxing He, and Yulia Tsvetkov.   Proc. ICLR. PDF
+
+Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. (Spotlight)
+ Niloofar Mireshghallah, Hyunwoo Kim, Xuhui Zhou, Yulia Tsvetkov, Maarten Sap, Reza Shokri, and Yejin Choi.   Proc. ICLR. PDF
+
+Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I Learned to Start Worrying about Prompt Formatting.
+ Melanie Sclar, Yejin Choi, Yulia Tsvetkov, and Alane Suhr.   Proc. ICLR. PDF
+
+2023
+
+Can Language Models Solve Graph Problems in Natural Language? (Spotlight paper)
+ Heng Wang, Shangbin Feng, Tianxing He, Zhaoxuan Tan, Xiaochuang Han and Yulia Tsvetkov.   Proc. NeurIPS. PDF
+
+MatFormer: Nested Transformer for Elastic Inference. (Best paper award)
+ Fnu Devvrit, Sneha Kudugunta, Aditya Kusupati, Tim Dettmers, Kaifeng Chen, Inderjit S Dhillon, Yulia Tsvetkov, Hannaneh Hajishirzi, Sham M. Kakade, Ali Farhadi, and Prateek Jain.   Proc. ENLSP @ NeurIPS 2023. PDF
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models.
+ Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, and Yulia Tsvetkov.   Proc. EMNLP. PDF
+
+ FactKB: Generalizable Factuality Evaluation using Language Models Enhanced with Factual Knowledge.
+ Shangbin Feng, Vidhisha Balachandran, Yuyang Bai, and Yulia Tsvetkov.  Proc. EMNLP. PDF
+
+GlobalBench: A Benchmark for Global Progress in Natural Language Processing.
+ Yueqi Song, Simran Khanuja, Pengfei Liu, Fahim Faisal, Alissa Ostapenko, Genta Indra Winata, Alham Fikri Aji, Samuel Cahyawijaya, Yulia Tsvetkov, Antonios Anastasopoulos, and Graham Neubig.   Proc. EMNLP. PDF
+
+BotPercent: Estimating Twitter Bot Populations from Groups to Crowds.
+ Zhaoxuan Tan, Shangbin Feng, Melanie Sclar, Herun Wan, Minnan Luo, Yejin Choi, and Yulia Tsvetkov.  Proc. EMNLP Findings. PDF
+
+Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?
+ Weijia Shi, Xiaochuang Han, Hila Gonen, Ari Holtzman, Yulia Tsvetkov, and Luke Zettlemoyer.  Proc. EMNLP Findings. PDF
+
+On the Zero-Shot Generalization of Machine-Generated Text Detectors.
+ Xiao Pu, Jingyu Zhang, Xiaochuang Han, Yulia Tsvetkov, and Tianxing He.  Proc. EMNLP Findings. PDF
+
+TalkUp: A Novel Dataset Paving the Way for Understanding Empowering Language.
+ Lucille Njoo, Chan Young Park, Octavia Stappart, Marvin Thielk, Yi Chu, and Yulia Tsvetkov.   Proc. EMNLP Findings. PDF
+
+ LEXPLAIN: Improving Model Explanations via Lexicon Supervision.
+ Orevaoghene Ahia, Hila Gonen, Vidhisha Balachandran, Yulia Tsvetkov and Noah A. Smith.  Proc. StarSEM. PDF
+
+Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker. (Outstanding paper award)
+ Melanie Sclar, Sachin Kumar, Peter West, Alane Suhr, Yejin Choi and Yulia Tsvetkov.  Proc. ACL. PDF
+
+From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models. (Best paper award)
+ Shangbin Feng, Chan Young Park, Yuhan Liu and Yulia Tsvetkov.   Proc. ACL. PDF
+
+SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control.
+ Xiaochuang Han, Sachin Kumar and Yulia Tsvetkov.  Proc. ACL. PDF
+
+KALM: Knowledge-Aware Integration of Local, Document, and Global Contexts for Long Document Understanding.
+ Shangbin Feng, Zhaoxuan Tan, Wenqian Zhang, Zhenyu Lei and Yulia Tsvetkov.  Proc. ACL. PDF
+
+Understanding In-Context Learning via Supportive Pretraining Data.
+ Xiaochuang Han, Daniel Simig, Todor Mihaylov, Yulia Tsvetkov, Asli Celikyilmaz and Tianlu Wang.   Proc. ACL. PDF
+
+On the Blind Spots of Model-Based Evaluation Metrics for Text Generation.
+ Tianxing He, Jingyu Zhang, Tianle Wang, Sachin Kumar, Kyunghyun Cho, James Glass and Yulia Tsvetkov.   Proc. ACL PDF
+
+ Examining Risks of Racial Biases in NLP Tools for Child Protective Services.
+ Anjalie Field, Amanda Coston, Nupoor Gandhi, Alexandra Chouldechova, Emily Putnam-Hornstein, David Steier and Yulia Tsvetkov.   Proc. FAccT. PDF
+
+Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey.
+ Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos and Yulia Tsvetkov.  Proc. EACL. PDF
+
+Unsupervised Keyphrase Extraction via Interpretable Neural Networks.
+ Rishabh Joshi, Vidhisha Balachandran, Emily Saldanha, Maria Glenski, Svitlana Volkova and Yulia Tsvetkov. Proc. EACL. PDF
+
+2022
+
+An Analysis of Emotions and the Prominence of Positivity in #BlackLivesMatter Tweets.
+Anjalie Field, Chan Young Park, Antonio Theophilo, Jamelle Watson-Daniels, and Yulia Tsvetkov. Proc. PNAS. PDF
+
+Correcting Diverse Factual Errors in Abstractive Summarization via Post-Editing and Language Model Infilling.
+Vidhisha Balachandran, Hannaneh Hajishirzi, William Cohen and Yulia Tsvetkov. Proc. EMNLP. PDF
+
+Referee: Reference-Free Sentence Summarization with Sharper Controllability through Symbolic Knowledge Distillation.
+Melanie Sclar, Peter West, Sachin Kumar, Yulia Tsvetkov and Yejin Choi. Proc. EMNLP. PDF
+
+Gradient-based Constrained Sampling from Language Models.
+Sachin Kumar, Biswajit Paria and Yulia Tsvetkov. Proc. EMNLP. PDF
+
+Gendered Mental Health Stigma in Masked Language Models.
+Wanyin Lin, Lucille Njoo, Anjalie Field, Ashish Sharma, Katharina Reinecke, Tim Althoff and Yulia Tsvetkov. Proc. EMNLP. PDF
+
+Challenges and Opportunities in Information Manipulation Detection: An Examination of Wartime Russian Media.
+Chan Young Park, Julia Mendelsohn, Anjalie Field and Yulia Tsvetkov. Proc. Findings of EMNLP. PDF
+
+Threat Scenarios and Best Practices to Detect Neural Fake News.
+Artidoro Pagnoni, Martin Graciarena, and Yulia Tsvetkov. Proc. COLING. PDF
+
+Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching.
+Alissa Ostapenko, Shuly Wintner, Melinda Fricke, and Yulia Tsvetkov. Proc. ACL'22. PDF
+
+Controlled Analyses of Social Biases in Wikipedia Bios. (Wikimedia Foundation research award of the year)
+Anjalie Field, Chan Young Park, Kevin Z. Lin, and Yulia Tsvetkov. Proc. TheWebConf'22. PDF
+
+SimVLM: Simple Visual Language Model Pretraining with Weak Supervision.
+Zirui Wang, Jiahui Yu, Adams Wei Yu, Zihang Dai, Yulia Tsvetkov, and Yuan Cao. Proc. ICLR'22. PDF
+
+2021
+
+Controlled Text Generation as Continuous Optimization with Multiple Constraints.
+Sachin Kumar, Eric Malmi, Aliaksei Severyn, and Yulia Tsvetkov. Proc. NeurIPS'21. PDF
+
+SelfExplain: A Self-Explaining Architecture for Neural Text Classifiers.
+Dheeraj Rajagopal, Vidhisha Balachandran, Eduard Hovy, and Yulia Tsvetkov. Proc. EMNLP'21. PDF
+
+Evaluating the Morphosyntactic Well-formedness of Generated Texts.
+Adithya Pratapa, Antonios Anastasopoulos, Shruti Rijhwani, Aditi Chaudhary, David R. Mortensen, Graham Neubig, and Yulia Tsvetkov. Proc. EMNLP'21. PDF
+
+Influence Tuning: Demoting Spurious Correlations via Instance Attribution and Instance-Driven Updates.
+Xiaochuang Han and Yulia Tsvetkov. Proc. Findings of EMNLP'21. PDF
+
+Detecting Community Sensitive Norm Violations in Online Conversations.
+Chan Young Park, Julia Mendelsohn, Karthik Radhakrishnan, Kinjal Jain, Tushar Kanakagiri, David Jurgens, and Yulia Tsvetkov. Proc. Findings of EMNLP'21. PDF
+
+Efficient Test Time Adapter Ensembling for Low-resource Language Varieties.
+Xinyi Wang, Yulia Tsvetkov, Sebastian Ruder, and Graham Neubig. Proc. Findings of EMNLP'21. PDF
+
+Simple and Efficient ways to Improve REALM.
+Vidhisha Balachandran, Ashish Vaswani, Yulia Tsvetkov, and Niki Parmar. Proc. MRQA'21. PDF
+
+Improving the Diversity of Unsupervised Paraphrasing with Embedding Outputs.
+Monisha Jegadeesan, Sachin Kumar, John Wieting, and Yulia Tsvetkov. Proc. MRL'21. PDF
+
+Improving Span Representation for Domain-adapted Coreference Resolution.
+Nupoor Gandhi, Anjalie Field, and Yulia Tsvetkov. Proc. CRAC'21. PDF
+
+A Survey of Race, Racism, and Anti-Racism in NLP.
+Anjalie Field, Su Lin Blodgett, Zeerak Waseem and Yulia Tsvetkov. Proc. ACL'21. PDF
+
+Machine Translation into Low-resource Language Varieties.
+Sachin Kumar, Antonios Anastasopoulos, Shuly Wintner and Yulia Tsvetkov. Proc. ACL'21. PDF
+
+Synthesizing Adversarial Negative Responses for Robust Response Ranking and Evaluation.
+Prakhar Gupta, Yulia Tsvetkov, Jeffrey P. Bigham. Proc. Findings of ACL'21. PDF
+
+Understanding Factuality in Abstractive Summarization with FRANK: A Benchmark for Factuality Metrics.
+Artidoro Pagnoni, Vidhisha Balachandran, and Yulia Tsvetkov. Proc. NAACL'21. PDF
+
+Controlling Dialogue Generation with Semantic Exemplars.
+Prakhar Gupta, Jeffrey P. Bigham, Yulia Tsvetkov, and Amy Pavel. Proc. NAACL'21. PDF
+
+DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues.
+Rishabh Joshi, Vidhisha Balachandran, Shikhar Vashishth, Alan Black, and Yulia Tsvetkov. Proc. ICLR'21. PDF
+
+Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models. (Spotlight paper)
+Zirui Wang, Yulia Tsvetkov, Orhan Firat, and Yuan Cao. Proc. ICLR'21. PDF
+
+StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization.
+Vidhisha Balachandran, Artidoro Pagnoni, Jay Yoon Lee, Dheeraj Rajagopal, Jaime Carbonell, and Yulia Tsvetkov. Proc. EACL'21. PDF
+
+Ranking Transfer Languages with Pragmatically-Motivated Features for Multilingual Sentiment Analysis.
+Jimin Sun, Hwijeen Ahn, Chan Young Park, Yulia Tsvetkov, and David R. Mortensen. Proc. EACL'21. PDF
+
+Multilingual Contextual Affective Analysis of LGBT People Portrayals in Wikipedia.
+Chan Young Park, Xinru Yan, Anjalie Field and Yulia Tsvetkov. Proc. ICWSM'21. PDF
+
+An Exploration of Data Augmentation Techniques for Improving English to Tigrinya Translation.
+Lidia Kidane, Sachin Kumar and Yulia Tsvetkov. Proc. AfricaNLP'21. PDF
+
+2020
+
+Unsupervised Discovery of Implicit Gender Bias.
+Anjalie Field and Yulia Tsvetkov. Proc. EMNLP'20. PDF
+
+On Negative Interference in Multilingual Models: Findings and A Meta-Learning Treatment.
+Zirui Wang, Zachary C. Lipton and Yulia Tsvetkov. Proc. EMNLP'20. PDF
+
+Fortifying Toxic Speech Detectors Against Veiled Toxicity.
+Xiaochuang Han and Yulia Tsvetkov. Proc. EMNLP'20. PDF
+
+Automatic Extraction of Rules Governing Morphological Agreement.
+Aditi Chaudhary, Antonios Anastasopoulos, Adithya Pratapa, David R. Mortensen, Zaid Sheikh, Yulia Tsvetkov and Graham Neubig. Proc. EMNLP'20. PDF
+
+Understanding Linguistic Accommodation in Code-Switched Human-Machine Dialogues.
+Tanmay Parekh, Emily Ahn, Yulia Tsvetkov and Alan W Black. Proc. CoNLL'20. PDF
+
+LTIatCMU at SemEval-2020 Task 11: Incorporating Multi-Level Features for Multi-Granular Propaganda Span Identification.
+Sopan Khosla, Rishabh Joshi, Ritam Dutt, Alan W. Black, and Yulia Tsvetkov. Proc. SemEval'20. PDF
+
+A Computational Analysis of Polarization on Indian and Pakistani Social Media. (Best paper runner-up)
+Aman Tyagi, Anjalie Field, Priyank Lathwal, Yulia Tsvetkov, and Kathleen M. Carley. Proc. SocInfo'20. PDF
+
+A framework for the computational linguistic analysis of dehumanization.
+Julia Mendelsohn, Yulia Tsvetkov, and Dan Jurafsky. Frontiers in Artificial Intelligence. PDF
+
+Demoting Racial Bias in Hate Speech Detection.
+Mengzhou Xia, Anjalie Field, and Yulia Tsvetkov. Proc. SocialNLP'20. PDF
+
+A Deep Reinforced Model for Cross-Lingual Summarization with Bilingual Semantic Similarity Reward.
+Zi-Yi Dou, Sachin Kumar, and Yulia Tsvetkov. Proc. WNGT'20. PDF
+
+Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions
+Xiaochuang Han, Byron C. Wallace and Yulia Tsvetkov. Proc. ACL'20. PDF
+
+Balancing Training for Multilingual Neural Machine Translation
+Xinyi Wang, Yulia Tsvetkov and Graham Neubig. Proc. ACL'20. PDF
+
+Stress and Burnout in Open Source: Toward Finding, Understanding, and Mitigating Unhealthy Interactions
+Naveen Raman, Minxuan Cao, Yulia Tsvetkov, Christian Kästner, and Bogdan Vasilescu. Proc. of International Conference on Software Engineering -- New Ideas Track (ICSE-NIER). PDF
+
+Augmenting Non-Collaborative Dialog Systems with Explicit Semantic and Strategic Dialog History
+Yiheng Zhou, Yulia Tsvetkov, Alan W Black and Zhou Yu. Proc. ICLR'20. PDF
+
+What Code-Switching Strategies are Effective in Dialog Systems?
+Emily Ahn, Cecilia Jimenez, Yulia Tsvetkov and Alan W Black. Proc. SCiL'20. PDF
+
+Where New Words Are Born: Distributional Semantic Analysis of Neologisms and Their Semantic Neighborhoods
+Maria Ryskina, Ella Rabinovich, Taylor Berg-Kirkpatrick, David Mortensen and Yulia Tsvetkov. Proc. SCiL'20. PDF
+
+2019
+
+Topics to Avoid: Demoting Latent Confounds in Text Classification
+Sachin Kumar, Shuly Wintner, Noah A. Smith, and Yulia Tsvetkov. Proc. EMNLP'19. PDF
+
+Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts
+Luke M. Breitfeller, Emily Ahn, David Jurgens, and Yulia Tsvetkov. Proc. EMNLP'19. PDF
+
+Learning to Generate Word- and Phrase-Embeddings for Efficient Phrase-Based Neural Machine Translation
+Chan Young Park and Yulia Tsvetkov. Proc. WNGT'19. PDF
+
+A Margin-based Loss with Synthetic Negative Samples for Continuous-output Machine Translation
+Gayatri Bhat, Sachin Kumar, and Yulia Tsvetkov. Proc. WNGT'19. PDF
+
+A Dynamic Strategy Coach for Effective Negotiation
+Yiheng Zhou, He He, Alan W Black and Yulia Tsvetkov. Proc. SIGdial'19. PDF
+
+Entity-Centric Contextual Affective Analysis
+Anjalie Field and Yulia Tsvetkov. Proc. ACL'19. PDF
+
+CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology. (Interpretability Prize)
+Aditi Chaudhary, Elizabeth Salesky, Gayatri Bhat, David R. Mortensen, Jaime G. Carbonell and Yulia Tsvetkov. Proc. SIGMORPHON'19. PDF
+
+Quantifying Social Biases in Contextual Word Representations
+Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black and Yulia Tsvetkov. Proc. of Workshop on Gender Bias for NLP. PDF
+
+Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories
+Anjalie Field, Gayatri Bhat and Yulia Tsvetkov. Proc. ICWSM'19. PDF
+
+Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings
+Thomas Manzini, Yao Chong, Yulia Tsvetkov and Alan W Black. Proc. NAACL'19. PDF
+
+Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs
+Sachin Kumar and Yulia Tsvetkov. Proc. ICLR'19. PDF
+
+2018
+
+Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies
+Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov. Proc. EMNLP'18. PDF
+
+Style Transfer Through Back-Translation
+Shrimai Prabhumoye, Yulia Tsvetkov, Ruslan Salakhutdinov, and Alan W Black. Proc. ACL'18. PDF
+
+Native Language Cognate Effects on Second Language Lexical Choice
+Ella Rabinovich, Yulia Tsvetkov, and Shuly Wintner. Proceedings of the Transactions of Association for Computational Linguistics (TACL). 2018. PDF DATA
+
+RtGender: A Corpus for Studying Differential Responses to Gender
+Rob Voigt, David Jurgens, Vinodkumar Prabhakaran, Dan Jurafsky, and Yulia Tsvetkov. Proc. LREC'18. PDF DATA
+
+2017
+
+Incorporating Dialectal Variability for Socially Equitable Language Identification
+David Jurgens, Yulia Tsvetkov and Dan Jurafsky. Proc. ACL'17. PDF CODE
+
+Writer Profiling Without the Writer's Text
+David Jurgens, Yulia Tsvetkov and Dan Jurafsky. Proc. SocInfo'17. PDF
+
+2016
+
+Linguistic Knowledge in Data-Driven Natural Language Processing
+Yulia Tsvetkov, PhD thesis, September 2016. PDF
+
+Learning the Curriculum with Bayesian Optimization for Task-Specific Word Representation Learning
+Yulia Tsvetkov, Manaal Faruqui, Wang Ling, Brian MacWhinney and Chris Dyer. Proc. ACL'16. PDF
+
+Correlation-based Intrinsic Evaluation of Word Vector Representations
+Yulia Tsvetkov, Manaal Faruqui and Chris Dyer. In RepEval'16. PDF CODE
+
+Problems With Evaluation of Word Embeddings Using Word Similarity Tasks
+Manaal Faruqui, Yulia Tsvetkov, Pushpendre Rastogi and Chris Dyer. In RepEval'16. PDF
+
+Polyglot Neural Language Models: Case Study in Cross-Lingual Phonetic Representation Learning
+Yulia Tsvetkov, Sunayana Sitaram, Manaal Faruqui, Guillaume Lample, Patrick Littell, David Mortensen, Alan W Black, Lori Levin and Chris Dyer. Proc. NAACL'16. PDF
+
+Morphological Inflection Generation Using Character Sequence to Sequence Learning
+Manaal Faruqui, Yulia Tsvetkov, Graham Neubig and Chris Dyer. Proc. NAACL'16. PDF
+
+Massively Multilingual Word Embeddings
+Waleed Ammar, George Mulcaire, Yulia Tsvetkov, Guillaume Lample, Chris Dyer and Noah A. Smith. arXiv preprint PDF
+
+Cross-Lingual Bridges with Models of Lexical Borrowing.
+Yulia Tsvetkov and Chris Dyer. Journal of Artificial Intelligence Research (JAIR). 2016. PDF
+
+2015
+
+Evaluation of Word Vector Representations by Subspace Alignment.
+Yulia Tsvetkov, Manaal Faruqui, Wang Ling, Guillaume Lample and Chris Dyer. In Proc. EMNLP'15. PDF CODE
+
+Not All Contexts Are Created Equal: Better Word Representations with Variable Attention.
+Wang Ling, Chu-Cheng Lin, Yulia Tsvetkov, Silvio Amir, Ramón Fernandez Astudillo, Chris Dyer, Alan W Black and Isabel Trancoso. In Proc. EMNLP'15. PDF
+
+Lexicon Stratification for Translating Out-of-Vocabulary Words.
+Yulia Tsvetkov and Chris Dyer. In Proc. ACL'15. PDF
+
+Sparse Overcomplete Word Vector Representations.
+Manaal Faruqui, Yulia Tsvetkov, Dani Yogatama, Chris Dyer and Noah Smith. In Proc. ACL'15. PDF
+
+A Bottom Up Approach to Category Mapping and Meaning Change.
+Haim Dubossarsky, Yulia Tsvetkov, Chris Dyer and Eitan Grossman. In Proc. NetWordS'15. PDF
+
+Constraint-Based Models of Lexical Borrowing.
+Yulia Tsvetkov, Waleed Ammar, and Chris Dyer. In Proc. NAACL'15. PDF
+
+2014
+
+Identification of Multi-word Expressions by Combining Multiple Linguistic Information Sources.
+Yulia Tsvetkov and Shuly Wintner. Computational Linguistics, 40(2):449-468, 2014. PDF
+
+Metaphor Detection with Cross-Lingual Model Transfer.
+Yulia Tsvetkov, Leonid Boytsov, Anatole Gershman, Eric Nyberg and Chris Dyer. In Proc. ACL'14. PDF CODE DATA
+
+Augmenting Translation Models with Simulated Acoustic Confusions for Improved Spoken Language Translation.
+Yulia Tsvetkov, Florian Metze and Chris Dyer. In Proc. EACL'14. PDF
+
+Augmenting English Adjective Senses with Supersenses.
+Yulia Tsvetkov, Nathan Schneider, Dirk Hovy, Archna Bhatia, Manaal Faruqui and Chris Dyer. In Proc. LREC'14. PDF CODE DATA
+
+Unified Annotation Scheme for the Semantic/Pragmatic Components of Definiteness.
+Archna Bhatia, Mandy Simons, Lori Levin, Yulia Tsvetkov, Chris Dyer and Jordan Bender. In Proc. LREC'14. PDF DATA
+
+Automatic Classification of Communicative Functions of Definiteness.
+Archna Bhatia, Chu-Cheng Lin, Nathan Schneider, Yulia Tsvetkov, Fatima Talib Al-Raisi, Laleh Roostapour, Jordan Bender, Abhimanu Kumar, Lori Levin, Mandy Simons and Chris Dyer. In Proc. COLING'14. PDF
+
+The CMU Machine Translation Systems at WMT 2014.
+Austin Matthews, Waleed Ammar, Archna Bhatia, Weston Feely, Greg Hanneman, Eva Schlinger, Swabha Swayamdipta, Yulia Tsvetkov, Alon Lavie and Chris Dyer. In Proc. WMT'14. PDF
+
+2013
+
+Generating English Determiners in Phrase-Based Translation with Synthetic Translation Options.
+Yulia Tsvetkov, Chris Dyer, Lori Levin and Archna Bhatia. In Proc. WMT'13. PDF
+
+The CMU Machine Translation Systems at WMT 2013: Syntax, Synthetic Translation Options, and Pseudo-References.
+Waleed Ammar, Victor Chahuneau, Michael Denkowski, Greg Hanneman, Wang Ling, Austin Matthews, Kenton Murray, Nicola Segall, Yulia Tsvetkov, Alon Lavie and Chris Dyer. In Proc. WMT'13. PDF
+
+Identifying the L1 of non-native writers: the CMU-Haifa system.
+Yulia Tsvetkov, Naama Twitto, Nathan Schneider, Noam Ordan, Manaal Faruqui, Victor Chahuneau, Shuly Wintner and Chris Dyer. In Proc. the 8th Workshop on Innovative Use of NLP for Building Educational Applications, 2013. PDF
+
+Cross-Lingual Metaphor Detection Using Common Semantic Features.
+Yulia Tsvetkov, Elena Mukomel, Anatole Gershman. In Proc. Meta4NLP Workshop, 2013. PDF
+
+Identification and Modeling of Word Fragments in Spontaneous Speech.
+Yulia Tsvetkov, Zaid Sheikh, and Florian Metze. In Proc. ICASSP'13. PDF
+
+2012
+
+Extraction of Multi-word Expressions from Small Parallel Corpora.
+Yulia Tsvetkov and Shuly Wintner. In Natural Language Engineering 18(4):549-573, 2012. PDF
+
+2011
+
+Identification of Multi-word Expressions by Combining Multiple Linguistic Information Sources.
+Yulia Tsvetkov and Shuly Wintner. In Proc. EMNLP'11. PDF
+
+2010
+
+Extraction of Multi-word Expressions from Small Parallel Corpora.
+Yulia Tsvetkov. University of Haifa M.Sc. thesis, September 2010. PDF
+
+Extraction of Multi-word Expressions from Small Parallel Corpora.
+Yulia Tsvetkov and Shuly Wintner. In Proc. COLING'10. PDF
+
+Automatic Acquisition of Parallel Corpora from Websites with Dynamic Content.
+Yulia Tsvetkov and Shuly Wintner. In Proc. LREC'10. PDF
+
+(Design & CSS courtesy: Victor Chahuneau and Chris Dyer)
+

@@ -1,0 +1,72 @@
+Professor: Razieh Rahimi
+University: University of Massachusetts Amherst
+URL: https://people.cs.umass.edu/~rahimi
+Description: Razieh Negin Rahimi
+  Publications - Teaching
+
+
+
+Assistant Professor
+at the College of Information and Computer Sciences
+University of Massachusetts Amherst
+
+My research is in the field of information retrieval, text mining, and content analysis. My research focuses on designing, developing, and evaluating models for a diverse range of tasks and applications related to information retrieval. I aim to reduce the user burdens of getting information and knowledge of interest.
+
+
+
+Contact Info
+
+rahimi[at]cs.umass.edu
+
+  
+
+
+
+
+News
+
+I received a 2022 Google Research Scholar award.
+
+James Allan and I received Manning/IALS Innovation Award [details here].
+
+James Allan and I received a 2019 Amazon Research Award [here & here].
+
+
+
+
+
+
+Projects
+Explanation of Search Results
+
+It's all about user trust and engagement! Growing interest in the deployment of mostly deep learning to rank models emphasizes the need for explanation of these models in a human interpretable manner. Among different possible goals for explanations, we primarily work on explanations of rankers that help to build user trust and enhance user engagement.
+
+
+
+
+
+
+Entity Representation from Text
+
+It's all about entities! Entities play an essential role in understanding users' information needs and documents, which is the keystone of information retrieval systems. We work on how to represent entity contexts in raw text so that entity relationships and entity properties can be inferred. We have developed models for extraction of sibling relationship between entities, referred to as entity set expansion.
+
+
+
+
+
+
+Cross-Language Information Retrieval
+
+It's all about user experience! We study how to improve the performance of cross-language (and in general multilingual) information retrieval with a focus on languages with limited translation or even monolingual resources such as knowledge base. Previously, we worked on several components of a CLIR system: automatic building of translation resources, extraction of translation knowledge suitable for the IR task, and Integration of translation knowledge into retrieval models. Lately, we work on unified representation space for queries and documents in different languages and transferring of relevance signals from monolingual data to the multilingual setting using deep neural networks.
+
+
+
+
+
+
+
+
+
+
+© 2020 Negin Rahimi, GitHub code here.
+

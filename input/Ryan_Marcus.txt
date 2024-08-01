@@ -1,0 +1,43 @@
+Professor: Ryan Marcus
+University: University of Pennsylvania
+URL: https://rmarcus.info/
+Description:       
+    ____                       __  ___                          
+   / __ \__  ______ _____     /  |/  /___ _____________  _______
+  / /_/ / / / / __ `/ __ \   / /|_/ / __ `/ ___/ ___/ / / / ___/
+ / _, _/ /_/ / /_/ / / / /  / /  / / /_/ / /  / /__/ /_/ (__  ) 
+/_/ |_|\__, /\__,_/_/ /_/  /_/  /_/\__,_/_/   \___/\__,_/____/  
+      /____/                                                    
+        
+HOME
+PUBLICATIONS
+TEACHING
+MASTODON
+
+I'm Ryan Marcus, an assistant professor of computer science at the University of Pennsylvania. I'm using machine learning to build the next generation of data management tools that automatically adapt to new hardware and user workloads, invent novel processing strategies, and understand user intention.
+
+I am especially interested in query optimization, index structures, intelligent clouds, programming language runtimes, program synthesis for data processing, and applications of reinforcement learning to systems problems.
+
+Email: rcmarcus@seas.upenn.edu
+Office: Towne 219C
+
+News
+01 Jun 2024
+Two fresh takes on query planning presented at SIGMOD '24: first, 📄 Stage, the cache-based multistage query latency predictor used in Redshift, and second, 📄 LimeQO, a workload-level query steering technique using linear methods.
+20 May 2024
+I appeared on the 🎙️ Disseminate podcast.
+06 Dec 2023
+I gave a 🗣️ talk at PrestoCon about learned query optimization and 📄 AutoSteer (abstract).
+16 Aug 2023
+Our 📄 AutoSteer paper, an extensible learned query optimizer for any SQL database, was published in VLDB '23. We're also presenting a demo of 🛠️ QO-Insight, our tool for exploring and understanding learned query optimizers.
+Previous news items ... 
+Blog Posts
+Ten years of improvements in PostgreSQL's optimizer Since at least version 8, PostgreSQL’s query optimizer has been improving by around 15% between major versions (12 Apr 2024).
+Most influential database papers We can use PageRank on top of the citation graph to find the influential papers in data management (25 Jul 2023).
+Generating bios with large language models We can use a large language model to write a short bio for any researcher, but the results vary drastically in quality (20 Dec 2022).
+Applying Bao to distributed systems We can apply Bao, a technique for learned query optimization, to a number of distributed cloud databases (17 Jun 2021).
+Machine learning for systems A recent groundswell of research has been pushing machine learning into computer systems (06 Jun 2019).
+Older Newer
+
+Copyright 2024 Ryan Marcus
+

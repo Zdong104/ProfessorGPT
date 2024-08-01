@@ -1,0 +1,246 @@
+Professor: Bhuwan Dhingra
+University: Duke University
+URL: http://www.cs.cmu.edu/~bdhingra
+Description: Bhuwan Dhingra
+
+Assistant Professor of Computer Science
+Duke University
+
+Research Scientist
+Google AI
+
+CV  Github  Google-Scholar  Twitter  Contact
+
+Home
+Prospective Students
+Updates
+Group
+Teaching
+Publications
+
+My group works on machine learning for natural language processing and knowledge representation. I completed my PhD in 2020 from the Language Technologies Institute at Carnegie Mellon University. My thesis advisers were William Cohen and Russ Salakhutdinov. Before that I did Electrical Engineering at IIT Kanpur, where I worked with Amitabha Mukerjee. In between I worked at Qualcomm Research in San Diego, USA.
+
+
+Current topics of interest include:
+
+Question answering and information retrieval
+Logical and temporal reasoning over structured and unstructured knowledge
+Robustness to corrupted text inputs
+Misinformation / propaganda detection
+Model calibration for inherently subjective NLP tasks
+
+Prospective students
+PhD applicants: Please apply to the Duke CS PhD program here (next deadline is Dec 15). I am currently looking for students to join my group. Please only email if you have questions which are not answered here, I may not be able to respond to all emails.
+Undergraduate or masters students at Duke: If you are interested in working with me, please send an email describing your background and what specifically you want to work on. Include your transcript and also mention how much time will you be able to commit to the project.
+Others: Please note that at this point I have limited bandwidth to advise students not currently at Duke. However, if you think you are a very good fit please send an email describing your background and what you want to work on. Please only email if you have significant prior experience in NLP or ML.
+Updates
+1/23	Three new papers appearing at EACL 2023 and one at CHI 2023 (my first!). publications
+12/22	Serving as Senior Area Chair for the Large Language Models track at ACL 2023.
+10/22	Received an Amazon Research Award for my proposal titled "Long-form QA via collaborative writing". announcement
+8/22	Awarded an NSF Medium grant with Jun Yang and Lavanya Vasudevan. link
+6/22	Recieved a gift from P&G for exploring search interfaces based on concept graphs.
+10/21	Received a gift from Google for exploring NLP tools to combat misinformation.
+10/21	Invited talk at UNC Chapel Hill on "Language models as Structured KBs". slides
+10/21	Organizing the 2nd workshop on Structured & Unstructured KBs at AKBC2021.
+9/21	Teaching CS590.03: Introduction to NLP with Sam Wiseman.
+9/21	Started at Duke University.
+7/21	New preprint on time-aware language models.
+12/20	New preprint on evaluating explanations.
+7/20	Joined Google AI in Seattle.
+12/19	Invited talks at IIT Delhi, UMass Amherst and USC.
+10/19	Invited talks at Stanford and UC Irvine. details
+Students
+Current
+Rich Stureborg (PhD, co-advised with Jun Yang)
+Raghuveer Thirukovalluru (PhD, co-advised with Sam Wiseman)
+Sanxing Chen (PhD, co-advised with Sam Wiseman)
+Junlin Wang (PhD)
+Luke Moffett (PhD)
+Rongze Gui (MS)
+Zihao Lin (MS)
+Darius Catrina (undergraduate)
+Angikar Ghosal (undergraduate)
+Yanpeng Yuan (undergraduate)
+Past
+Phyllis Ang (MS, now at Nvidia)
+Dev Seth (undergraduate, now at McKinsey)
+Anni Chen (undergraduate, now at Amazon)
+Teaching
+Fall 2022: CS572: Introduction to NLP (graduate)
+Spring 2022: CS590: Advanced NLP (graduate, co-taught with Sam Wiseman)
+Fall 2021: CS590: Introduction to NLP (graduate, co-taught with Sam Wiseman)
+Publications
+2023
+Learning the Legibility of Visual Text Perturbations 
+Dev Seth, Rickard Stureborg, Danish Pruthi and Bhuwan Dhingra
+EACL, 2023
+
+DiffQG: Generating Questions to Summarize Factual Changes 
+Jeremy R. Cole, Palak Jain, Julian Martin Eisenschlos, Michael J.Q. Zhang, Eunsol Choi and Bhuwan Dhingra
+EACL, 2023
+
+Salient Span Masking for Temporal Understanding 
+Jeremy R. Cole, Aditi Chaudhary, Bhuwan Dhingra and Partha Talukdar
+EACL, 2023
+
+Interface Design for Crowdsourcing Hierarchical Multi-Label Text Annotations 
+Rickard Stureborg, Bhuwan Dhingra, Jun Yang
+CHI, 2023
+
+2022
+ASQA: Factoid Questions Meet Long-Form Answers  arxiv  code  bib
+Ivan Stelmakh, Yi Luan, Bhuwan Dhingra, Ming-Wei Chang
+EMNLP, 2022
+
+Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models  arxiv  code  bib
+Phyllis Ang, Bhuwan Dhingra, Lisa Wu Wills
+NLP Power! Workshop, ACL, 2022
+
+Time-Aware Language Models as Temporal Knowledge Bases  arxiv  data  bib
+Bhuwan Dhingra, Jeremy R. Cole, Julian Martin Eisenschlos, Daniel Gillick, Jacob Eisenstein, William W. Cohen
+TACL, 2022
+
+Evaluating Explanations: How much do explanations from the teacher aid students?  arxiv  code  bib
+Danish Pruthi, Bhuwan Dhingra, Livio Baldini Soares, Michael Collins,
+Zachary C. Lipton, Graham Neubig, William W. Cohen
+TACL, 2022
+
+2021
+Reasoning Over Virtual Knowledge Bases With Open Predicate Relations  arxiv  bib
+Haitian Sun, Pat Verga, Bhuwan Dhingra, Ruslan Salakhutdinov, William W. Cohen
+ICML, 2021
+
+Siamese BERT for Authorship Verification  pdf  bib
+Jacob Tyo, Bhuwan Dhingra, Zachary Lipton
+CLEF, 2021
+
+Investigating the Effect of Background Knowledge on Natural Questions  aclweb  bib
+Vidhisha Balachandran, Bhuwan Dhingra, Haitian Sun, Michael Collins, William Cohen
+DeeLIO Workshop, 2021
+
+Differentiable Open-Ended Commonsense Reasoning  arxiv  code+data  bib
+Bill Yuchen Lin, Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Xiang Ren, William W. Cohen
+NAACL, 2021
+
+Fool Me Twice: Entailment from Wikipedia Gamification  arxiv  code+data  bib
+Julian Martin Eisenschlos, Bhuwan Dhingra, Jannis Bulian, Benjamin BÃ¶rschinger, Jordan Boyd-Graber
+NAACL, 2021
+
+2020
+ToTTo: A Controlled Table-To-Text Generation Dataset  arxiv  data  bib
+Ankur P. Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang, Dipanjan Das
+EMNLP, 2020
+
+Weakly- and Semi-supervised Evidence Extraction  arxiv  code  bib
+Danish Pruthi, Bhuwan Dhingra, Graham Neubig, Zachary C. Lipton
+Findings of EMNLP, 2020
+
+Learning to Deceive with Attention-Based Explanations  arxiv  pdf code  bib
+Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig, Zachary C. Lipton
+ACL, 2020
+
+Differentiable Reasoning over a Virtual Knowledge Base  openreview  pdf  code  bib
+Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen
+ICLR, 2020 (oral, top 2%)
+2019
+PubMedQA: A Dataset for Biomedical Research Question Answering  arxiv  pdf  code  bib
+Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William W. Cohen, Xinghua Lu
+EMNLP, 2019
+Handling Divergent Reference Texts when Evaluating Table-to-Text Generation  arxiv  pdf  code  bib
+Bhuwan Dhingra, Manaal Faruqui, Ankur Parikh, Ming-Wei Chang, Dipanjan Das, William W. Cohen
+ACL, 2019
+Combating Adversarial Misspellings with Robust Word Recognition  arxiv  pdf  code  bib
+Danish Pruthi, Bhuwan Dhingra, Zachary C. Lipton
+ACL, 2019
+Probing Biomedical Embeddings from Language Models  arxiv  pdf  code  bib
+Qiao Jin, Bhuwan Dhingra, William W. Cohen, Xinghua Lu
+RepEval Workshop, NAACL, 2019
+Text Generation with Exemplar-based Adaptive Decoding  arxiv  pdf  code  bib
+Hao Peng, Ankur P. Parikh, Manaal Faruqui, Bhuwan Dhingra, Dipanjan Das
+NAACL, 2019
+2018
+GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations  arxiv  pdf  code  bib
+Zhilin Yang*, Jake Zhao*, Bhuwan Dhingra, Kaiming He, William W. Cohen, Ruslan Salakhutdinov, Yann LeCun
+NIPS, 2018
+Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text  arxiv  pdf  code  bib
+Haitian Sun*, Bhuwan Dhingra*, Manzil Zaheer, Kathryn Mazaitis, Ruslan Salakhutdinov, William W. Cohen
+EMNLP, 2018
+AttentionMeSH: Simple, Effective and Interpretable Automatic MeSH Indexer  aclweb  pdf  code  bib
+Qiao Jin*, Bhuwan Dhingra*, William W. Cohen, Xinghua Lu
+BioASQ Workshop, 2018
+Answering Cloze-style Software Questions Using Stack Overflow  pdf  bib
+Ezra Winston, Bhuwan Dhingra, Kathryn Mazaitis, Graham Neubig, William Cohen
+Machine Learning for Programming, 2018
+Embedding Text in Hyperbolic Spaces  arxiv  pdf  bib
+Bhuwan Dhingra, Christopher J. Shallue, Mohammad Norouzi, Andrew M. Dai, George E. Dahl
+TextGraphs Workshop, 2018
+Neural Models for Reasoning over Multiple Mentions using Coreference  arxiv  pdf  code  bib
+Bhuwan Dhingra, Qiao Jin, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov
+NAACL, 2018 (Short Paper)
+Simple and Effective Semi-Supervised Question Answering  arxiv  pdf  data  bib
+Bhuwan Dhingra*, Danish Pruthi*, Dheeraj Rajagopal*
+NAACL, 2018 (Short Paper)
+2017
+Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access  arxiv  pdf  code  bib
+Bhuwan Dhingra, Lihong Li, Xiujun Li, Jianfeng Gao, Yun-Nung Chen, Faisal Ahmed, Li Deng
+ACL, 2017
+Gated-Attention Readers for Text Comprehension  arxiv  pdf  code  bib
+Bhuwan Dhingra*, Hanxiao Liu*, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov
+ACL, 2017
+Words or Characters? Fine-grained Gating for Reading Comprehension  arxiv  pdf  code  bib
+Zhilin Yang, Bhuwan Dhingra, Ye Yuan, Junjie Hu, William W. Cohen, Ruslan Salakhutdinov
+ICLR, 2017
+Bootstrapping Distantly Supervised IE using Joint Learning and Small Well-structured Corpora  arxiv  pdf  bib
+Lidong Bing, Bhuwan Dhingra, Kathryn Mazaitis, Jong Hyuk Park, William W. Cohen
+AAAI, 2017
+2016
+Tweet2Vec: Character-Based Distributed Representations for Social Media  arxiv  pdf  code  bib
+Bhuwan Dhingra, Zhong Zhou, Dylan Fitzpatrick, Michael Muehl, William W. Cohen
+ACL, 2016 (Short Paper)
+Using Graphs of Classifiers to Impose Constraints on Semi-supervised Relation Extraction  arxiv  pdf  bib
+Lidong Bing, William W. Cohen, Bhuwan Dhingra, Richard C. Wang
+WAKBC, 2016
+Earlier
+Local Quadrature Reconstruction on Smooth Manifolds  pdf  webpage  bib
+Bhuwan Dhingra
+Master's Thesis, 2013
+Stock market prediction using hidden markov models  ieee-xplore  pdf bib
+Aditya Gupta, Bhuwan Dhingra
+IEEE-SCES, 2012
+(* Equal Contribution)
+Preprints
+Quasar: Datasets for Question Answering by Search and Reading  arxiv  data
+Bhuwan Dhingra, Kathryn Mazaitis, William W. Cohen
+2017
+
+Linguistic Knowledge as Memory for Recurrent Neural Networks  arxiv  pdf
+Bhuwan Dhingra, Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov
+2017
+
+A Comparative Study of Word Embeddings for Reading Comprehension  arxiv  pdf  code
+Bhuwan Dhingra, Hanxiao Liu, Ruslan Salakhutdinov, William W. Cohen
+2017
+
+Question Answering from Unstructured Text by Retrieval and Comprehension  arxiv  pdf
+Yusuke Watanabe, Bhuwan Dhingra, Ruslan Salakhutdinov
+2017
+
+A User Simulator for Task-Completion Dialogues  arxiv  pdf  code
+Xiujun Li, Zachary C. Lipton, Bhuwan Dhingra, Lihong Li, Jianfeng Gao, Yun-Nung Chen
+2016
+
+Patents
+End-to-end learning of dialogue agents for information access  application
+Lihong Li, Bhuwan Dhingra, Jianfeng Gao, Xiujun Li, Yun-Nung Chen, Li Deng, Faisal Ahmed
+Filed 2017
+Context aware system with multiple power consumption modes  application
+Tadeusz Jarosinski, Shankar Sadasivam, Ryan Carey, Jinwon Lee, Bhuwan Dhingra,
+Abhijeet Bisain, Vitor Carvalho, Rajeev Jain, Muralidhar Akula, Ashwin Swaminathan
+Filed 2015
+Smartphone motion classifier  application
+Vitor Carvalho, Bhuwan Dhingra, Edward Harrison Teague, Siddika Parlak Polatkan, Shankar Sadasivam, Carlos Manuel Puig
+Filed 2015
+Detecting that a mobile device is riding with a vehicle  application
+Leonard Henry Grokop, and Bhuwan Dhingra
+Filed 2012
+

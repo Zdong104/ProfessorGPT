@@ -1,0 +1,93 @@
+Professor: Ashok Cutkosky
+University: Boston University
+URL: https://ashok.cutkosky.com/
+Description: Ashok Cutkosky
+	I am an assistant professor at Boston University in the ECE department since the fall of 2020.
+Previously, I was a research scientist at Google. I earned a PhD in computer science at Stanford University in 2018 under the supervision of Kwabena Boahen, and a AB in mathematics from Harvard in 2013. I am also a master of medicine.
+I'm currently excited about optimization algorithms for machine learning. I have recently worked on non-convex optimization as well as adaptive online learning.
+My email address is ashok (at) cutkosky (dot) com.
+
+
+
+
+
+Selected Publications
+Optimal Stochastic Non-smooth Non-convex Optimization through Online-to-Non-convex Conversion, Ashok Cutkosky, Harsh Mehta and Francesco Orabona. International Conference on Machine Learning (ICML), 2023.
+Mechanic: A Learning Rate Tuner, Ashok Cutkosky, Aaron Defazio and Harsh Mehta. Neural Information Processsing Systems (NeurIPS), 2023.
+Momentum-Based Variance Reduction in Non-Convex SGD, Ashok Cutkosky and Francesco Orabona. Neural Information Processsing Systems (NeurIPS), 2019.
+Anytime Online-to-Batch, Optimism, and Acceleration, Ashok Cutkosky. International Conference on Machine Learning (ICML), 2019.
+Black-Box Reductions for Parameter-free Online Learning in Banach Spaces, Ashok Cutkosky and Francesco Orabona, Conference on Learning Theory (COLT), 2018
+Online Learning Without Prior Information, Ashok Cutkosky and Kwabena Boahen, Conference on Learning Theory (COLT), 2017
+Current Students
+Hoang Tran
+Andrew Jacobsen
+Jiujia Zhang
+Qinzi Zhang
+Elly Wang
+Peter Gu
+Past Students (PhD)
+Zhiyu Zhang
+Past Students (undergraduate)
+Fangrui Huang
+Rana Boustany
+Michelle Zyman
+Vance Raiti
+Teaching
+Spring 2023: EC414 Introduction to Machine Learning
+2021-2023: EC525 Optimization for Machine Learning (website)
+Fall 2020: EC524 Deep Learning (co-taught with Brian Kulis)
+
+
+All Publications
+In 2023 I achieved my stretch-goal for academic productivity: I became too lazy to keep this list updated regularly. If it looks out of date, please check out my google scholar profile. Try sorting by year rather than citation to see what I've been working on recently.
+Mechanic: a Learning Rate Tuner, Ashok Cutkosky, Aaron Defazio, Harsh Mehta. Neural Information Processing Systems (NeurIPS) 2023.
+Alternation makes the adversary weaker in two-player games, Volkan Cevher, Ashok Cutkosky, Ali Kavis, Georgios Piliouras, Stratis Skoulakis, Luca Viano. Neural Information Processing Systems (NeurIPS) 2023.
+Unconstrained dynamic regret via sparse coding, Zhiyu Zhang, Ashok Cutkosky, Ioannis Ch Paschalidis. Neural Information Processing Systems (NeurIPS) 2023.
+Bandit Online Linear Optimization with Hints and Queries, Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit. International Conference on Machine Learning (ICML) 2023.
+Unconstrained Online Learning with Unbounded Losses, Andrew Jacobsen, Ashok Cutkosky. International Conference on Machine Learning (ICML) 2023.
+Optimal Stochastic Non-smooth Non-convex Optimization through Online-to-Non-convex Conversion, Ashok Cutkosky, Harsh Mehta, Francesco Orabona. International Conference on Machine Learning (ICML) 2023.
+Blackbox optimization of unimodal functions, Ashok Cutkosky, Abhimanyu Das, Weihao Kong, Chansoo Lee, Rajat Sen. Uncertainty in Artificial Intelligence (UAI) 2023.
+Optimal Comparator Adaptive Online Learning with Switching Cost, Zhiyu Zhang, Ashok Cutkosky, Yannis Paschalidis. Neural Information Processing Systems (NeurIPS) 2022.
+Parameter-free regret in high probability with heavy tails, Jiujia Zhang, Ashok Cutkosky. Neural Information Processing Systems (NeurIPS) 2022.
+Momentum aggregation for private non-convex erm, Hoang Tran, Ashok Cutkosky. International Conference on Machine Learning (ICML) 2023.
+Better sgd using second-order momentum, Hoang Tran, Ashok Cutkosky. Neural Information Processing Systems (NeurIPS) 2022.
+Differentially Private Online-to-Batch for Smooth Losses, Qinzi Zhang, Hoang Tran, Ashok Cutkosky. Neural Information Processing Systems (NeurIPS) 2022.
+PDE-Based Optimal Strategy for Unconstrained Online Learning, Zhiyu Zhang, Ashok Cutkosky, and Yannis Paschalidis. International Conference on Machine Learning (ICML) 2022.
+Parameter-Free Mirror Descent, Andrew Jacobsen and Ashok Cutkosky. Conference on Learning Theory (COLT) 2022.
+Leveraging Initial Hints for Free in Stochastic Linear Bandits, Ashok Cutkosky, Chris Dann, Abhimanyu Das, Qiuyi (Richard) Zhang. International Conference on Algorithmic Learning Theory (ALT) 2022.
+Implicit Parameter-free Online Learning with Truncated Linear Models, Keyi Chen, Ashok Cutkosky, Francesco Orabona. International Conference on Algorithmic Learning Theory (ALT) 2022.
+Adversarial Tracking Control via Strongly Adaptive Online Learning with Memory, Zhiyu Zhang, Ashok Cutkosky, Yannis Paschalidis. International Conference on Artificial Intillgence and Statistics (AISTATS) 2022.
+High-probability Bounds for Non-Convex Stochastic Optimization with Heavy Tails, Ashok Cutkosky, Harsh Mehta. Neural Information Processing Systems (NeurIPS) 2021. [oral]
+Logarithmic Regret from Sublinear Hints, Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit. Neural Information Processing Systems (NeurIPS) 2021.
+Online Selective Classification with Limited Feedback, Aditya Gangrade, Anil Kag, Ashok Cutkosky, Venkatesh Saligrama. Neural Information Processing Systems (NeurIPS) 2021. [spotlight]
+Dynamic Balancing for Model Selection in Bandits and RL, Ashok Cutkosky, Christoph Dann, Abhimanyu Das, Claudio Gentile, Aldo Pacchiano, Manish Purohit. International Conference on Machine Learning (ICML) 2021.
+Robust Pure Exploration in Linear Bandits with Limited Budget, Ayya Alieva, Ashok Cutkosky, Abhimanyu Das. International Conference on Machine Learning (ICML) 2021.
+Power of Hints for Online Learning with Movement Costs, Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit. International Conference on Artificial Intillgence and Statistics (AISTATS) 2021.
+Extreme Memorization via Scale of Initialization. Harsh Mehta, Ashok Cutkosky, Benham Neyshabur. International Conference on Learning Representations (ICLR) 2021.
+Online Linear Optimization with Many Hints, Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit. Advances Neural Information Processing Systems (NeurIPS), 2020.
+Comparator-Adaptive Convex Bandits, Dirk van der Hoeven, Ashok Cutkosky, Haipeng Luo. Advances in Neural Information Processing Systems (NeurIPS), 2020.
+Better Full-Matrix Regret via Parameter-free Online Learning, Ashok Cutkosky. Advances in Neural Information Processing Systems (NeurIPS), 2020.
+Momentum Improves Normalized SGD, Ashok Cutkosky and Harsh Mehta. International Conference on Machine Learning (ICML), 2020.
+Online Learning with Imperfect Hints, Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, and Manish Purohit. International Conference on Machine Learning (ICML), 2020
+Parameter-Free, Dynamic, and Strongly-Adaptive Online Learning, Ashok Cutkosky. International Conference on Machine Learning (ICML), 2020
+Momentum-Based Variance Reduction in Non-Convex SGD, Ashok Cutkosky and Francesco Orabona. Neural Information Processsing Systems (NeurIPS), 2019.
+Kernel Truncated Randomized Ridge Regression: Optimal Rates and Low Noise Acceleration, Kwang-Sung Jun, Ashok Cutkosky, Francesco Orabona. Neural Information Processing Systems (NeurIPS), 2019.
+Matrix-Free Preconditioning in Online Learning, Ashok Cutkosky and Tamas Sarlos. International Conference on Machine Learning (ICML), 2019. [code] [long talk]
+Anytime Online-to-Batch, Optimism, and Acceleration, Ashok Cutkosky. International Conference on Machine Learning (ICML), 2019. [long talk]
+Surrogate Losses for Online Learning of Stepsizes in Stochastic Non-Convex Optimization, Zhenxun Zhuang, Ashok Cutkosky, and Francesco Orabona. International Conference on Machine Learning (ICML), 2019.
+Artificial Constraints and Hints for Unbounded Online Learning, Ashok Cutkosky. Conference on Learning Theory (COLT), 2019.
+Combining Online Learning Guarantees, Ashok Cutkosky. Conference on Learning Theory (COLT), 2019.
+Distributed Stochastic Optimization via Adaptive Stochastic Gradient Descent, Ashok Cutkosky and Robert Busa-Fekete. Advances in Neural Information Processing Systems (NeurIPS) 2018.
+Black-Box Reductions for Parameter-free Online Learning in Banach Spaces, Ashok Cutkosky and Francesco Orabona, Conference on Learning Theory (COLT), 2018
+Stochastic and Adversarial Online Learning Without Hyperparameters, Ashok Cutkosky and Kwabena Boahen, Advances in Neural Information Processing Systems (NIPS), 2017.
+Online Learning Without Prior Information, Ashok Cutkosky and Kwabena Boahen, Conference on Learning Theory (COLT), 2017 [Best Student Paper Award]. [code]
+Online Convex Optimization with Unconstrained Domains and Losses, Ashok Cutkosky and Kwabena Boahen, Advances in Neural Information Processing Systems (NIPS), 2016. [magical video]
+Bloom Features, Ashok Cutkosky and Kwabena Boahen, IEEE International Conference on Computation Science and Computational Intelligence, 2015.
+Chromatin extrusion explains key features of loop and domain formation in wild-type and engineered genomes, Adrian Sanborn et al, Proceedings of the National Academy of Sciences, 2015.
+
+
+Other
+PhD dissertation: Algorithms and Lower Bounds for Parameter-Free Online Learning, May 2018
+Undergrad Thesis: Polymer Simulations and DNA Topology, Advised by Erez Lieberman Aiden. [Hoopes Prize and Captain Jonathan Fay Prize winner]
+Associated Primes of the Square of the Alexander Dual of Hypergraphs, high school math project. Advised by Chris Francisco.
+

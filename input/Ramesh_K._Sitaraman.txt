@@ -1,0 +1,54 @@
+Professor: Ramesh K. Sitaraman
+University: University of Massachusetts Amherst
+URL: https://www.cics.umass.edu/~ramesh
+Description: Ramesh K. Sitaraman
+Distinguished University Professor and Associate Dean
+ 
+ ramesh@cs.umass.edu
+ Phone: 413-545-3279
+ LinkedIn
+ Room 310, 140 Governor’s Dr, UMass Amherst, MA 01003
+Admin:   Vickie Rupp, 300 CS Building, 413-545-2572
+Home
+Publications
+Real-World Systems
+Teaching
+Press
+LIDS Lab
+Code/Data
+Watch the 25-year retrospective on our creation of the world’s first edge, CDNs, and edge computing services and how they have transformed the internet since!
+
+
+Biography (A Profile) (Another Profile)
+
+Prof. Sitaraman is currently a Distinguished University Professor and the Associate Dean for Educational Programs and Teaching in the College of Information and Computer Sciences at the University of Massachusetts at Amherst.  He is best known for pioneering content delivery networks (CDNs) and edge computing services that currently deliver much of the world’s web, videos, edge applications, and online services. As a principal architect, he helped create the Akamai network, the world’s first major content delivery network (CDN) and edge computing service. He retains a part-time role as Akamai’s Chief Consulting Scientist. 
+
+Prof. Sitaraman’s research spans all aspects of Internet-scale distributed systems, including algorithms, architectures, performance, and energy efficiency. He directs the Laboratory for Internet-Scale Distributed Systems (LIDS), is a member of the  Theoretical Computer Science group, and is the founding director of the Informatics Program. He received a B.Tech. in electrical engineering from the Indian Institute of Technology, Madras, and a Ph.D. in computer science from Princeton University.
+
+Select Honors
+Research
+Fellow of the American Association for the Advancement of Science (AAAS), 2023. For distinguished contributions to distributed systems and algorithms, for pioneering work in internet content delivery and scalable edge computing services, and for broadening computing education.
+IEEE William R. Bennett Prize, 2023. For work on BOLA, a widely-deployed adaptive bitrate (ABR) algorithm that enhances the quality of experience of billions of video users daily. 
+Fellow of the Association for Computing Machinery (ACM), 2019. For contributions to content delivery networks, distributed systems, and scalable internet services.
+Fellow of the Institute of Electrical and Electronics Engineers (IEEE), 2019. For contributions to content delivery, internet performance, and distributed systems.
+Inaugural ACM SIGCOMM Networking Systems Award, 2018. For the Akamai Content Delivery Network (CDN). 
+Excellence in DASH Award (First Place), 2018. For our work on adaptive bitrate (ABR) algorithms that are now part of the MPEG-DASH video player reference standard and widely used in commercial video streaming.
+Teaching
+Distinguished Teaching Award (DTA), UMass, Amherst, 2020. University’s highest recognition for teaching. Four selected each year from across the university with 1450+ faculty. Third Computer Scientist to win the award since it was established in 1962.
+College Outstanding Teacher Award (COTA), College of Natural Sciences, UMass, Amherst, 2014.  One of two chosen that year from the college with 550 faculty in 13 departments and 2 schools.
+Real-world Impact
+
+Over the past two decades, our research has transformed the online experience of billions of internet users daily, whether they read the news, watch videos, shop online, use social networks, or interact with mobile applications. Our research has helped create two major industry sectors, content delivery and edge computing, and their allied technologies.
+
+1) Content Delivery. In the late 1990’s, we helped pioneer content delivery networks. The  Akamai network enabled web pages to download faster, and videos to start quickly and play at higher qualities without interruptions.  The Akamai network also incorporated a  cloud storage service and an edge computing service, early examples of both types of services. More than two decades later, CDNs now deliver a majority of the web, video, and application traffic on the Internet. The creation of the Akamai network also helped spawn the multi-billion-dollar CDN industry. Our describes the edge computing architecture and some of the first applications. 
+
+2) Edge computing. While CDNs pushed content to the edge close to the users, a natural next step was to push computation and its associated data to the edge. The result was the first edge computing service that hosted hosted enterprise applications at edge. The service was built and operational at Akamai (circa) 2001. The term “edge computing ” itself was coined as the name and trademark for this service, though it has now come to denote any similar service that executes applications at the edge. The first edge computing service hosted a rich variety of edge applications that performed distributed data aggregation, offloaded computation from client devices and the origin, enabled faster application responses times, etc. The architecture and some of the early applications hosted on the service are described in our paper (Section 6).
+
+3) Video performance analytics. In 2000, we created one of the earliest distributed analytics services for measuring video delivery quality. Rather than use network-level metrics like packet loss and jitter, the service pioneered user-perceived metrics extracted from actual video players deployed around the world. Such metrics included time for the video to start up, effective bitrate of the video seen by the viewer, and rebuffer events where the video stalled. More than two decades later, similar methodology and metrics are widely used in academic research and in the video analytics industry.
+
+4) Adaptive Bitrate Video Streaming.  Adaptive bitrate (ABR) algorithms run inside video players and control the quality-of-experience of a video playback by adapting the bitrate of the video segment to the available network bandwidth. Our Lyapunov-based ABR algorithm BOLA and its variants are part of the MPEG-DASH reference video player standard  and are widely used by major video providers such as Orange, BBC, CBS, and Amazon Prime Video.
+
+5) Distributed Algorithms and Architectures. CDNs are among the largest distributed systems in the world with potentially quarter-a-million servers deployed in a 1000+ locations around the world. CDNs use sophisticated algorithms and architectures to provide scalable internet services. Examples of our research deployed in production systems include (i) a highly-scalable transport layer for streaming live video content that carried the largest online events of the day, such as the Super Bowl and World cup soccer, (ii) mechanisms for routing user requests to a proximal server, and (iii) tools for provisioning caches in edge servers, 
+
+Home Publications Real-World Systems Teaching Press LIDS Lab Code/Data
+

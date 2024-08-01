@@ -1,0 +1,71 @@
+Professor: Peng Chen 0024
+University: Georgia Institute of Technology
+URL: https://faculty.cc.gatech.edu/~pchen402/index.html
+Description: Hengduan Mountains
+copyright@planets_for
+SciML & UQ @ CSE Georgia Tech
+Home
+Group
+Research
+Publications
+Teaching
+Software
+Welcome to the Group of SciML & UQ!
+
+
+Perspective students: I am looking for highly motivated and strong students at computational math and machine learning! If you are interested, please send me an email with your CV, transcripts, and briefly discuss our work you are interested in and why you are a good fit.
+
+
+
+We are a research group on Scientific Machine Learning (SciML) and Uncertainty Quantification (UQ) at the School of Computational Science and Engineering (CSE), Georgia Tech. Our research is driven by grand challenge problems in scientific and engineering fields that involve data-driven modeling, learning, and optimization of complex systems under uncertainty.
+
+Examples of such problems include (1) how to quantify the system predictive accuracy of simulation-based or machine learning-based models under uncertain system and/or model parameters; (2) how to best learn and mitigate infectious diseases like COVID-19 from heterogeneous models, incomplete data, and uncertain track of disease spread; (3) how to robustly design new materials, such as nanoscale self-assembly materials in semiconductor and artificially engineered metamaterials in acoustic and electromagnetic devices under the uncertainty arising from material properties and manufacturing errors; (4) how to optimally design magnetic confinement devices and control coil currents for plasma fusion to harness fusion energy under the imprecision of the device shape and current control; (5) how to better characterize the sensitivity of cardiovascular diseases such as heart attack, stroke, aneurysms, etc., with respect to different physiological abnormalities and to better quantify the risk or reliability of corresponding treatments under large and uncertain variation of personalized physiological conditions; (6) how to optimally place sea-floor sensors to detect undersea earthquakes for tsunami early warning under the uncertainty of where, when, and how large the earthquake may happen.
+
+These problems brings significant challenges in high-fidelity modeling, large-scale simulation, high-dimensional Bayesian inference and data assimilation, optimal data acquisition and experimental design, as well as stochastic optimization for system design and control, all under various uncertainties. We tackle these challenges by developing fast, scalable, and parallel computational methods, which exploit the structure of the problems, including geometry, sparsity, intrinsic low-dimensionality, smoothness, derivative information, etc. Specific methods we have been developing include projected neural networks/operators, weighted/adaptive/goal-oriented reduced basis, high-order functional Taylor approximation, randomized low-rank tensor/operator decompositions, adaptive sparse grid interpolation/integration, derivative-based scalable optimization methods using high-order adjoints, symbolic differentiation, or automatic differentiation, etc.
+
+Our vision is to build real-time digital twins of real-world complex systems in, e.g., materials, energy, health, natural hazard, and use them to learn, simulate, and optimize the systems, while quantifying uncertainties that may bring significant impact such as the butterfly effect on the system performance.
+
+PI: Peng Chen
+
+Email: pchen402@gatech.edu
+Office: CODA E1350B
+School of Computational Science and Engineering
+College of Computing
+Georgia Institute of Technology
+Address: 756 West Peachtree Street Northwest, Atlanta, GA 30308
+
+
+News
+April 6, 2024
+Peng presents a plenary talk at Southeast Applied and Computational Math Student Workshop, 2024 on Derivative-informed Neural Operators for PDE-Constrained Optimization under Uncertainty. Yuan presents a poster on Derivative-enhanced Deep Operator Networks.
+February 29, 2024
+Our paper Derivative-enhanced deep operator network is submitted. Congratulations Yuan and Nolan!
+February 28, 2024
+Our paper Probabilistic Bayesian optimal experimental design using conditional normalizing flows is submitted. Congratulations Rafael Orozco! This is a joint work with Prof. Felix Herrmann at GT-CSE.
+February 27-March 1, 2024
+Peng has 8 co-authored talks at SIAM Conference on Uncertainty Quantification (UQ24). All PhD students present invited talks on their work, including Dingcheng on PDE-constrained optimization under uncertainty, Jinwoo on Bayesian optimal experimental design, Phillip on Semi-autoregressive energy flows, Sebastian on Control-DeepONet, and Yuan on derivative-enhanced DeepONet. Prof. Elizabeth Qian and Peng co-organize a minisymposium on Scalable Algorithms for Bayesian Inverse Problems.
+February 24, 2024
+Peng presents a plenary talk at Georgia Scientific Computing Symposium 2024 on Derivative-informed Neural Operators for PDE-Constrained Optimization under Uncertainty. Jinwoo, Phillip, Sebastian, and Yuan present four posters on Bayesian optimal experimental design, consistency model for data assimilation, Wasserstein gradient flows, and derivative-enhanced deep operator networks, respectively.
+February 1, 2024
+Peng speaks at Georgia Tech BBISS Seminar on Scientific Machine Learning for Predictive Digital Twins of Complex Systems.
+January 19, 2024
+Irene joins the group as a visiting Master student. Welcome Irene!
+January 16, 2024
+Peng co-organizes and presents at Georgia Tech Workshop on Foundation of Scientific AI for Optimization of Complex Systems.
+December 22, 2023
+Our paper Accelerating Bayesian Optimal Experimental Design with Derivative-Informed Neural Operators is submitted. Congratulations Jinwoo!
+December 21, 2023
+Phillip and Sebastian receive the Student Travel Awards to present at SIAM UQ24. Congratulations Phillip and Sebastian!
+December 19, 2023
+Peng speaks at 2023 Workshop on Scientific Computing and Large Data at University of South Carolina on Derivative-Informed Neural Operator for PDE-Constrained Optimization under Uncertainty. Thanks Prof. Wuchen Li for the invitation!
+December 4, 2023
+Nathan receives the President’s Undergraduate Research Award (PURA) to conduct research on variational inference. Congratulations Nathan!
+November 8, 2023
+Peng speaks at 2023 BSRA/SRNL AI Workshop on Scientific Machine Learning for Prediction, Inference, Experimental Design, and Control of Complex Systems.
+October 27, 2023
+Our paper Derivative-Informed Neural Operator: An Efficient Framework for High-Dimensional Parametric Derivative Learning is published in Journal of Computational Physics. Congratulations Tom and all!
+October 25, 2023
+Peng speaks at Optimization in Oslo (OiO) Seminar on Derivative-Informed Neural Operator for PDE-Constrained Optimization under Uncertainty. Thanks Prof. Thomas M. Surowiec for the invitation!
+
+...see all News
+

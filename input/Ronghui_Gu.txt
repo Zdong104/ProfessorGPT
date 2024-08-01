@@ -1,0 +1,172 @@
+Professor: Ronghui Gu
+University: Columbia University
+URL: https://www.cs.columbia.edu/~rgu
+Description: Ronghui Gu 
+
+I am an Associate Professor of Computer Science at Columbia University.
+
+My research spans a range of areas in Programming Languages, Operating Systems, and Blockchain, with a focus on systems verification and proof automation.
+
+I also co-founded CertiK, a Web3 cybersecurity startup valued at $2 billion. Press on CertiK: The Wall Street Jounrnal, CNBC, Bloomberg, Forbes, TechCrunch.
+
+[CV] [Bio] [Google Scholar] [Research Statement]
+
+Hiring!
+
+My Columbia lab is looking for Ph.D. students. Check out our recent OSDI'23, OSDI'22, and CACM Research Highlights for an overview of our latest breakthrough on building verified systems software.
+
+News
+2023.11
+HyperEnclave is accepted by ASPLOS 2024.
+
+2023.10
+LVR is accepted by POPL 2024.
+
+2023.03
+Spoq is accepted by OSDI 2023.
+
+2023.01
+Received a VMware Systems Research Award.
+
+2023.01
+Received an NSF CAREER Award.
+
+2022.04
+Received an Amazon Research Award (3rd times).
+
+2022.03
+Three papers (VIA, DuoAI, and Upgradvisor) are accepted by OSDI 2022.
+
+2021.07
+DistAI won the Jay Lepreau Best Paper Award at OSDI 2021.
+
+2021.04
+Grant on Verified Enclave Layers ($4,563,980) is funded by DARPA.
+
+2021.01
+Named the inaugural Tang Family Assistant Professor.
+Education
+Ph.D. in Computer Science, Yale University, December 2016
+Distinguished Dissertation of Yale Graduate School of Art and Science.
+B.S. in Computer Science, Tsinghua University, June 2011.
+Graduation with Highest Distinction (3 out of 140).
+Selected Publications
+
+[New][POPL 2024] Mostly Automated Verification of Liveness Properties for Distributed Protocols with Ranking Functions.
+J. Yao, R. Tao, R. Gu, and J. Nieh
+
+
+[New][ASPLOS 2024] Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor.
+Z. Dai, S. Liu, V. Sjoberg, X. Li, Y. Chen, W. Wang, Y. Jia, S. Anderson, L. Elbeheiry, S. Sondhi, Y.Zhang, Z. Ni, S. Yan, R. Gu, and Z. He
+
+
+[OSDI 2023] Spoq: Scaling Machine-Checkable Systems Verification in Coq.
+X. Li, X. Li, W. Qiang, R. Gu, and J. Nieh
+Media coverage: Columbia Engineering News
+
+[OSDI 2022] Design and Verification of the Arm Confidential Compute Architecture.
+X. Li, X. Li, C. Dall, R. Gu, J. Nieh, Y. Sait, and G. Stockwell
+Media coverage: Columbia Engineering News, USENIX ;login:
+
+[OSDI 2022] DuoAI: Fast, Automated Inference of Inductive Invariants for Verifying Distributed Protocols.
+J. Yao, R. Tao, R. Gu, and J. Nieh
+
+[PLDI 2022] Giallar: Push-button Verification for the Qiskit Quantum Compiler
+R. Tao, Y. Shi, J. Yao, X. Li, A. Javadi-Abhari, A. Cross, F. Chong, and R. Gu
+
+[SOSP 2021] Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware.
+R. Tao, J. Yao, X. Li, Shih-Wei Li, J. Nieh, and R. Gu
+
+[USENIX Security 2021] Formally Verified Memory Protection for a Commodity Multiprocessor Hypervisor.
+S. Li, X. Li, R. Gu, J. Nieh, and J. Hui
+
+[OSDI 2021] DistAI: Data-Driven Automated Invariant Learning for Distributed Protocols.
+J. Yao, R. Tao, R. Gu, J. Nieh, S. Jana, and G. Ryan.
+OSDI Jay Lepreau Best Paper Award
+
+[PLDI 2021] Gleipnir: Toward Practical Error Analysis for Quantum Programs.
+R. Tao, Y. Shi, J. Yao, J. Hui, F. Chong, and R. Gu
+
+[S&P (Oakland) 2021] A Secure and Formally Verified Linux KVM Hypervisor.
+S. Li, X. Li, R. Gu, J. Nieh, and J. Hui
+Media coverage: Columbia Engineering News
+
+[PLDI 2020] Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks.
+J. Yao, G. Ryan, J. Wong, S. Jana, and R. Gu
+
+[ICLR 2020] CLN2INV: Learning Loop Invariants with Continuous Logic Networks.
+G. Ryan, J. Wong, J. Yao, R. Gu, and S. Jana
+
+[CACM] Building Certified Concurrent OS Kernels.
+R. Gu, Z. Shao, H. Chen, J. Kim, J. Koenig, X. Wu, V. Sjoberg, and D. Constanzo.
+Research Highlights
+See "Technical Perspective: The Scalability of CertiKOS" by Andrew W. Appel.
+
+[SOSP 2019] Scaling Symbolic Evaluation for Automated Verification of Systems Code with Serval.
+L. Nelson, J. Bornholt, R. Gu, A. Baumann, E. Torlak, and X. Wang
+SOSP Best Paper Award
+
+[PLDI 2018] Certified Concurrent Abstraction Layers.
+R. Gu, Z. Shao, J. Kim, X. Wu, J. Koenig, V. Sjoberg, H. Chen, D. Constanzo, and T.Ramananandro
+
+[OSDI 2016] CertiKOS: An Extensible Architecture for Building Certified Concurrent OS Kernels.
+R. Gu, Z. Shao, H. Chen, X. Wu, J. Kim, V. Sjoberg, and D. Constanzo
+Media coverage: Yale News, International Business Times, Yale Daily News
+
+[POPL 2015] Deep Specifications and Certified Abstraction Layers.
+R. Gu, J. Koenig, T. Ramananandro, Z. Shao, X. Wu, S. Weng, H. Zhang, and Y. Guo
+
+Program Committees
+SOSP 2024	PLDI 2024	EuroSys 2024	ASPLOS 2024	APLAS 2023
+PLDI 2022	POPL 2022	OSDI 2021	PLDI 2020	SecDev 2020
+NSDI 2019	SoCC 2019	SecDev 2019	CoqPL 2019	SecDev 2018
+Selected Awards
+VMware Systems Research Award, 2023.01.
+NSF CAREER Award, 2023.01.
+Builders and Innovators, Goldman Sachs, 2022.05.
+Amazon Research Awards, 2022.04.
+Amazon Research Awards (co-PI), 2021.07.
+OSDI Jay Lepreau Best Paper Award, 2021.07.
+The Top 100 Yale Alumni In Technology Of 2021, 2021.06.
+Amazon Research Awards, 2021.04.
+Named the inaugural Tang Family Assistant Professor, 2021.01.
+Columbia University’s Final Nominee for the Packard Fellowship, 2020.03.
+SOSP Best Paper Award, 2019.10.
+Communications of the ACM (CACM) Research Highlights, 2019.10.
+Distinguished Dissertation Award, Yale University, 2016.12.
+Software
+Arm CCA	SeKVM	CertiKOS	mCertiKOS	DuoAI	DistAI	G-CLN
+Students
+PhD: Runzhou Tao, Jianan Yao, Xupeng Li, Xuheng Li, Raphael Sofaer, Kele Huang, and Fanqi Yu.
+Student collaborators: Shih-Wei Li, John Hui, Yunong Shi (UChicago), Gabriel Ryan, Mengqi Liu (Yale), and Xinhao Yuan.
+BS: Justin Wong, River Dillon Keefer, Jerry Lin, and Amanda Liu.
+Email
+
+
+
+Office
+
+515 CSB, Columbia University
+
+
+
+Phone
+
++1 (212) 939-7111
+
+
+
+MIT Technology Review
+
+
+
+
+
+CertiKOS Video (for CACM)
+
+
+
+CertiKOS Layers (for fun)
+
+Layout based on BASIC by Download Website Templates
+

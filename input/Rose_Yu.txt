@@ -1,0 +1,118 @@
+Professor: Rose Yu
+University: Univ. of California - San Diego
+URL: http://roseyu.com/
+Description: Home
+Research
+Group
+Teaching
+Join Us
+
+Rose Yu is an associate professor at UC San Diego department of Computer Science and Engineering. She is a primary faculty with the AI Group and is affiliated with Halıcıoğlu Data Science Institute.
+
+Her research interests lie primarily in machine learning, especially for large-scale spatiotemporal data. She is particularly excited about AI for scientific discovery. She has won ECASE Award, NSF CAREER Award, Hellman Fellowship, Faculty Awards from JP Morgan, Meta, Google, Amazon, and Adobe, several Best Paper Awards, and Best Dissertation Award at USC.
+
+For more details, see Curriculum Vitae.
+
+Contact Info
+E-mail: roseyu [at] ucsd [dot] edu
+Phone: (858) 246-4724
+Office: CSE 4216
+Address: 9500 Gilman Drive, Mail Code 0404, La Jolla, CA 92093
+
+   
+News
+May 2024: ICML 2024: Causal Discovery, Symmetry Discovery and Neural Processes !
+April 2024: Invited Talk on Automatic Symmetry Discovery from Data!
+Feb 2024: Awarded DARPA Scientific Foundation Models project, see our Postdoc Opening!
+Feb 2024: AISTATS 2024: Learning Granger Causality and High Order Graph Transformers!
+Old News
+Research
+Scalable Deep Spatiotemporal Point Processes
+Learning dynamics and detecting anomalies in spatiotemporal events
+
+Accurate modeling of spatiotemporal events is critical for disaster response, logistic optimization and human mobility. We research efficient techniques to model spatiotemporal events by integrating deep learning with point processes, with the goal to improve forecasting and anomaly detection.
+
+Read More
+Sample Efficient Learning for Spatiotemporal Decision Making
+Probabilistic deep sequence models for Bayesian optimization
+
+Decision-making under uncertainty requires models that can generate not only point estimates but also confidence intervals. We investigate deep sequence models for Bayesian optimization in spatiotemporal domain, with the goal to reduce sample complexity, provide risk assessment, and guide policy making.
+
+Read More
+Physics-Guided Deep Learning for Spatiotemporal Dynamics
+Incorporate first-principles into deep sequence models
+
+Our physical world is intrinsically spatiotemporal. We design deep learning models that bridge the expressiveness of neural networks and the rich spatiotemporal structures from the data, addressing fundamental challenges of high-dimensionality, high-order correlation, non-linear dynamics and multi-resolution dependencies.
+
+Read More
+Deep Generative Models for Spatiotemporal Graphs
+Structured learning models for spatiotemporal graphs
+
+A graphical model can conveniently encode high-level structures. The nodes of the graph typically represent the problem components, and the edges capture their spatiotemporal interactions. We aim to study a novel deep learning framework with a primary focus on combining graphical models with black-box deep neural networks.
+
+Read More
+For most up-to-date list of publications, see my Google Scholar page.
+Conferences
+Journals
+Technical Talks
+Group
+Current
+PhD Students & Postdocs
+Salva Rühling Cachay
+Yadi Cao
+Sophia Sun
+Sumanth Varambally
+Dongxia (Allen) Wu
+Jianke Yang
+Bo Zhao
+Zihao Zhou
+Undergraduates & Master's Students
+Peter Eckmann
+Alumni
+PhD Students & Postdocs
+Rui (Ray) Wang -->Postdoc, MIT
+Jedrzej (Jacob) Kozerawski --> Research Scientist, Apple
+Robin Walters --> Assistant Professor, Northeastern University
+Undergraduates & Master's Students
+Eliza Huang --> AWS for Health
+Kenneth (Theo) Carr --> MIT-WHOI Joint Program
+Chintan Shah --> PathAI
+Mayank Sharan --> Microsoft Research
+Manish Singh --> Qualcomm AI Research
+Raechel Walker --> MIT-MAS Program
+Fan Xie --> Even Financial
+Teaching
+CSE 291 (B00) Generative AI
+Fall 2023   Fall 2022   Fall 2020
+Description: Deep generative models combine the generality of probabilistic reasoning with the scalability of deep learning. This research area is at the forefront of deep learning and has given state-of-the-art results in text generation, video synthesis, and molecular design, among many others. This course will cover recent advances in deep generative models, including variational autoencoders, generative adversarial networks, autoregressive models, normalizing flow, and diffusion models. This is a graduate-level course with an emphasis on mathematical principles as well as practical know-how. The course will be a combination of lectures, student presentations, and team projects.
+
+CSE 251B Deep Learning
+Spring 2023
+Description: This course covers the fundamentals of deep neural networks at the graduate level. We introduce multi-layer perceptrons, back-propagation, and automatic differentiation. We will also discuss Convolutional Neural Networks, Recurrent Neural Networks, Transformers, and advanced topics in deep learning. The course will be a combination of lectures, presentations, and machine learning competitions.
+
+CSE 151B Deep Learning
+Spring 2023   Spring 2022   Spring 2021
+Description: This course covers the fundamentals of deep neural networks at the undergraduate level. We introduce linear regression, multi-layer perceptrons, back-propagation, and automatic differentiation. We will also discuss Convolutional Neural Networks, Recurrent Neural Networks, and Transformers. The course will be a combination of lectures, presentations, and machine learning competitions.
+
+CSE 259 AI Seminar
+Spring 2022
+Description: This seminar course focuses on discussing the state-of-the-art research and cutting edge technology in AI. We will invite researchers from academia and industry to share their most recent work in AI and machine learning.
+
+CSE 291 (5) Deep Reinforcement Learning
+Fall 2021
+Description: Deep reinforcement learning is the combination of reinforcement learning (RL) and deep learning. This field of research is at the forefront of machine learning. Deep RL is able to solve a wide range of complex decision-making tasks, opening up new opportunities in domains such as healthcare, robotics, smart grids, finance, and many more. This class will cover recent advances in deep RL, including imitation learning, Policy Gradients, Deep Q-learning, Actor-Critic algorithms, model-based RL, and inverse RL. The course will be a combination of lectures, student presentations, and projects.
+
+Courses Taught at Northeastern University
+CS 7140 Advanced Machine Learning, Spring 2020
+Course Website
+CS 3950/4950 Introduction to Computer Science Research, Fall 2019
+3950 Course Website    4950 Course Website
+CS 7180 Special Topics in AI: Deep Learning, Spring 2019
+Course Website
+CS 6140 Machine Learning, Fall 2018
+Course Website    Course Syllabus
+
+Code released under the MIT License.
+
+Based on Bootstrap. Icons from Font Awesome. Web fonts from Google.
+

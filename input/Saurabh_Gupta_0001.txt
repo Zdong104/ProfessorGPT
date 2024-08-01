@@ -1,0 +1,422 @@
+Professor: Saurabh Gupta 0001
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://saurabhg.web.illinois.edu/
+Description: Saurabh Gupta
+
+I am an Assistant Professor at UIUC. Before this, I was a Research Scientist at Facebook AI Research in Pittsburgh working with Prof. Abhinav Gupta. Earlier, I was a Computer Science graduate student at UC Berkeley, where I was advised by Prof. Jitendra Malik. Even earlier, I was an under graduate at IIT Delhi, in India, where I majored in Computer Science and Engineering.
+
+Prospective Students: I am looking for strong and motivated students to work with. If you are interested in working with me, please directly apply through the CS or ECE departments and mention my name. No GRE Needed! You do not need to directly contact me (and if you do, I am sorry that I may not be able to promptly respond back to you). If you are already at UIUC, please fill up this form and I will be in touch if and when I have an opening that will be a good fit for you.
+
+EMail / CSL 319 / CV / Scholar / Github / PhD Thesis
+
+Research
+
+I work on computer vision, robotics and machine learning. I am interested in building agents that can intelligently interact with the physical world around them. I am currently focusing on two aspects: a) choice and design of representations that enable such interaction, and b) what and how to learn from active interaction. Some example problems that we are tackling include: building spatio-semantic and topological representations for visual navigation, skill discovery, learning for and from videos, and active visual learning.
+
+Research Group
+Current PhD Students
+
+Arjun Gupta (PhD, 2021 - )
+
+Shaowei Liu (PhD, Joint with Prof. Shenlong Wang, 2021 - )
+
+Aditya Prakash (PhD, 2021 -)
+
+Xiaoyu Zhang (PhD, 2022 -)
+
+Former PhD Students
+
+Dr. Matthew Chang, Robot Learning from Videos, 2024. Next: Research Scientist at Meta AI Research
+
+Full Group
+Recent Talks
+
+Robot Learning by Understanding Egocentric Videos at RI Seminar at CMU.
+
+Robot Learning by Understanding Egocentric Videos at GRASP Seminar at U Penn.
+
+Understanding and Articulating Articulated Objects at Workshop on 3D Vision and Robotics at CVPR 2023.
+
+Representation for Visual Navigation and How to Train Them at 3DGV Seminar on 3D Geometry & Vision.
+
+Learning to Move and Moving to Learn at 3D Scene Understanding for Vision, Graphics, and Robotics at CVPR 2021 and Visual Learning and Reasoning for Robotics at RSS 2021.
+
+Learning to Speculate about People and Places for Visual Navigation at Perception and Control for Autonomous Navigation in Crowded, Dynamic Environments Workshop at RSS 2021.
+
+Teaching
+
+ECE 598 SG: Special Topics in Learning-based Robotics: Fall 2019, Fall 2020, Fall 2021, Fall 2022.
+
+ECE 549 / CS 543: Computer Vision: Spring 2020, Spring 2021, Spring 2023, Spring 2024.
+
+CS 444: Deep Learning for Computer Vision: Fall 2023. Fall 2024.
+
+Publications
+2024
+
+Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning
+Xiaoyu Zhang*, Matthew Chang*, Pranav Kumar, Saurabh Gupta
+Robotics: Science and Systems (RSS), 2024
+abstract / bibtex / website
+
+GOAT: GO to Any Thing
+Matthew Chang*, Theophile Gervet*, Mukul Khanna*, Sriram Yenamandra*, Dhruv Shah, So Min, Kavit Shah, Chris Paxton, Saurabh Gupta, Dhruv Batra, Roozbeh Mottaghi, Jitendra Malik, Devendra Chaplot
+Robotics: Science and Systems (RSS), 2024
+abstract / bibtex / website
+
+Opening Cabinets and Drawers in the Real World using a Commodity Mobile Manipulator
+Arjun Gupta*, Michelle Zhang*, Rishik Sathua, Saurabh Gupta
+arXiv, 2024
+abstract / bibtex / website
+
+Mitigating Perspective Distortion-induced Shape Ambiguity in Image Crops
+Aditya Prakash, Arjun Gupta, Saurabh Gupta
+European Conference on Computer Vision (ECCV), 2024
+abstract / bibtex / website
+
+3D Hand Pose Estimation in Everyday Egocentric Images
+Aditya Prakash, Ruisen Tu, Matthew Chang, Saurabh Gupta
+European Conference on Computer Vision (ECCV), 2024
+abstract / bibtex / website
+
+3D Reconstruction of Objects in Hands without Real World 3D Supervision
+Aditya Prakash, Matthew Chang, Matthew Jin, Ruisen Tu, Saurabh Gupta
+European Conference on Computer Vision (ECCV), 2024
+abstract / bibtex / website
+
+Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects
+Zicong Fan, Takehiko Ohkawa, Linlin Yang, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Chang, Angela Yao
+European Conference on Computer Vision (ECCV), 2024
+abstract / bibtex
+
+TBD
+Shaowei Liu, Zhongzheng Ren, Saurabh Gupta, Shenlong Wang
+European Conference on Computer Vision (ECCV), 2024
+abstract / bibtex
+
+Bootstrapping Autonomous Radars with Self-Supervised Learning
+Yiduo Hao*, Sohrab Madani*, Junfeng Guan, Mohammed Alloulah, Saurabh Gupta, Haitham Hassanieh
+Computer Vision and Pattern Recognition (CVPR), 2024
+abstract / bibtex
+
+2023
+
+Push Past Green: Learning to Look Behind Plant Foliage by Moving It
+Xiaoyu Zhang, Saurabh Gupta
+Conference on Robot Learning (CoRL), 2023
+abstract / bibtex / webpage / code+data
+
+Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos
+Matthew Chang, Aditya Prakash, Saurabh Gupta
+Neural Information Processing Systems (NeurIPS), 2023
+abstract / bibtex / website
+
+Object-centric Contact Field for Grasp Generation
+Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta*, Shenlong Wang*
+International Conference on Computer Vision (ICCV), 2023
+abstract / bibtex / webpage / code
+
+Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds
+Shaowei Liu, Saurabh Gupta*, Shenlong Wang*
+Computer Vision and Pattern Recognition (CVPR), 2023
+abstract / bibtex / website / code
+
+Predicting Motion Plans for Articulating Everyday Objects
+Arjun Gupta, Max Shepherd, Saurabh Gupta
+International Conference on Robotics and Automation (ICRA), 2023
+abstract / bibtex / webpage / dataset
+
+One-shot Visual Imitation via Attributed Waypoints and Demonstration Augmentation
+Matthew Chang, Saurabh Gupta
+International Conference on Robotics and Automation (ICRA), 2023
+abstract / bibtex / webpage / code
+
+Contactless Material Identification with Millimeter Wave Vibrometry
+Hailan Shanbhag, Sohrab Madani, Akhil Isanaka, Deepak Nair, Saurabh Gupta, Haitham Hassanieh
+International Conference on Mobile Systems, Applications and Services (MobiSys), 2023
+abstract / bibtex
+
+Exploiting Virtual Array Diversity For Accurate Radar Detection
+Junfeng Guan, Sohrab Madani, Waleed Ahmed, Samah Hussein, Saurabh Gupta, Haitham Alhassanieh
+International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023
+abstract / bibtex
+
+2022
+
+TIDEE: Room Reorganization using Visuo-Symbolic Common Sense Priors
+Gabriel Sarch, Zhaoyuan Fang, Adam Harley, Paul Schydlo, Michael Tarr, Saurabh Gupta, Katerina Fragkiadaki
+European Conference on Computer Vision (ECCV), 2022
+abstract / bibtex / website
+
+Radatron: Accurate Detection Using Multi-Resolution Cascaded MIMO Radar
+Sohrab Madani*, Junfeng Guan*, Waleed Ahmed*, Saurabh Gupta, Haitham Hassanieh
+European Conference on Computer Vision (ECCV), 2022
+abstract / bibtex / website
+
+On-Device CPU Scheduling for Robot Systems
+Aditi Partap, Samuel Grayson, Muhammad Huzaifa, Sarita Adve, Brighten Godfrey, Saurabh Gupta, Kris Hauser, Radhika Mittal
+International Conference on Intelligent Robots and Systems (IROS), 2022
+abstract / bibtex
+
+Human Hands as Probes for Interactive Object Understanding
+Mohit Goyal, Sahil Modi, Rishabh Goyal, Saurabh Gupta
+Computer Vision and Pattern Recognition (CVPR), 2022
+abstract / bibtex / webpage / code+data
+
+Learning Value Functions from Undirected State-only Experience
+Matthew Chang*, Arjun Gupta*, Saurabh Gupta
+International Conference on Learning Representations (ICLR), 2022
+Deep Reinforcement Learning Workshop at NeurIPS, 2021
+Offline Reinforcement Learning Workshop at NeurIPS, 2021
+abstract / bibtex / webpage / arxiv link / code
+
+2021
+
+RB2: Robotic Manipulation Benchmarking with a Twist
+Sudeep Dasari, Jianren Wang, Joyce Hong, Shikhar Bahl, Yixin Lin, Austin Wang, Abitha Thankaraj, Karanbir Chahal, Berk Calli, Saurabh Gupta, David Held, Lerrel Pinto, Deepak Pathak, Vikash Kumar, Abhinav Gupta
+Neural Information Processing Systems (NeurIPS), 2021
+abstract / bibtex / webpage
+
+SEAL: Self-supervised Embodied Active Learning using Exploration and 3D Consistency
+Devendra Chaplot, Murtaza Dalal, Saurabh Gupta, Jitendra Malik, Ruslan Salakhutdinov
+Neural Information Processing Systems (NeurIPS), 2021
+abstract / bibtex / website
+
+Learned Visual Navigation for Under-Canopy Agricultural Robots
+Arun Sivakumar, Sahil Modi, Mateus Gasparino, Che Ellis, Andres Velasquez, Girish Chowdhary*, Saurabh Gupta*
+Robotics: Science and Systems (RSS), 2021
+abstract / bibtex / website
+
+On the Use of ML for Blackbox System Performance Prediction
+Silvery Fu, Saurabh Gupta, Radhika Mittal, Sylvia Ratnasamy
+USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2021
+abstract / bibtex / slides / video / code / dataset
+
+2020
+
+Semantic Visual Navigation by Watching YouTube Videos
+Matthew Chang, Arjun Gupta, Saurabh Gupta
+Neural Information Processing Systems (NeurIPS), 2020
+abstract / bibtex / arxiv link / webpage / video / code
+
+Semantic Curiosity for Active Visual Learning
+Devendra Chaplot*, Helen Jiang*, Saurabh Gupta, Abhinav Gupta
+European Conference on Computer Vision (ECCV), 2020
+abstract / bibtex / arxiv link / webpage
+
+Aligning Videos in Space and Time
+Senthil Purushwalkam*, Tian Ye*, Saurabh Gupta, Abhinav Gupta
+European Conference on Computer Vision (ECCV), 2020
+abstract / bibtex / arxiv link
+
+Neural Topological SLAM for Visual Navigation
+Devendra Chaplot, Ruslan Salakhutdinov*, Abhinav Gupta*, Saurabh Gupta*
+Computer Vision and Pattern Recognition (CVPR), 2020
+abstract / bibtex / webpage / video
+
+Use the Force, Luke! Learning to Predict Physical Forces by Simulating Effects
+Kiana Ehsani, Shubham Tulsiani, Saurabh Gupta, Ali Farhadi, Abhinav Gupta
+Computer Vision and Pattern Recognition (CVPR), 2020
+abstract / bibtex / arxiv link / webpage / code+data
+
+Through Fog High Resolution Imaging Using Millimeter Wave Radar
+Junfeng Guan, Sohrab Madani, Suraj Jog, Saurabh Gupta, Haitham Hassanieh
+Computer Vision and Pattern Recognition (CVPR), 2020
+abstract / bibtex / website
+
+Efficient Bimanual Manipulation Using Learned Task Schemas
+Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, Abhinav Gupta
+International Conference on Robotics and Automation (ICRA), 2020
+abstract / bibtex / video
+
+Intrinsic Motivation for Encouraging Synergistic Behavior
+Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, Abhinav Gupta
+International Conference on Learning Representations (ICLR), 2020
+abstract / bibtex / webpage
+
+Learning To Explore Using Active Neural Mapping
+Devendra Chaplot, Dhiraj Gandhi, Saurabh Gupta*, Abhinav Gupta*, Ruslan Salakhutdinov*
+International Conference on Learning Representations (ICLR), 2020
+abstract / bibtex / openreview link / webpage / code / video / slides
+
+Learning to Move with Affordance Maps
+William Qi, Ravi Mullapudi, Saurabh Gupta, Deva Ramanan
+International Conference on Learning Representations (ICLR), 2020
+abstract / bibtex / openreview link / code
+
+2019
+
+Learning Navigation Subroutines from Egocentric Videos
+Ashish Kumar, Saurabh Gupta, Jitendra Malik
+Conference on Robot Learning (CoRL), 2019
+abstract / bibtex / website / arXiv link / code
+
+Combining Optimal Control and Learning for Visual Navigation in Novel Environments
+Somil Bansal, Varun Tolani, Saurabh Gupta, Jitendra Malik, Claire Tomlin
+Conference on Robot Learning (CoRL), 2019
+abstract / bibtex / website / code
+
+Learning Exploration Policies for Navigation
+Tao Chen, Saurabh Gupta, Abhinav Gupta
+International Conference on Learning Representations (ICLR), 2019
+abstract / bibtex / arXiv link / website
+
+Cognitive mapping and planning for visual navigation
+Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik
+International Journal of Computer Vision (IJCV), 2019
+abstract / bibtex / website / arXiv link / code+simulation environment
+
+PyRobot: An Open-source Robotics Framework for Research and Benchmarking
+Adithyavairavan Murali*, Tao Chen*, Kalyan Vasudev Alwala*, Dhiraj Gandhi*, Lerrel Pinto, Saurabh Gupta, Abhinav Gupta
+arXiv, 2019
+abstract / bibtex / locobot robot / pyrobot tutorial / pyrobot code / arXiv link
+
+Segmenting unknown 3D objects from real depth images using mask R-CNN trained on synthetic point clouds
+Michael Danielczuk, Matthew Matl, Saurabh Gupta, Andrew Li, Andrew Lee, Jeffrey Mahler, Ken Goldberg
+International Conference on Robotics and Automation (ICRA), 2019
+abstract / bibtex / website / code / arXiv link
+
+2018
+
+Visual Memory for Robust Path Following
+Ashish Kumar*, Saurabh Gupta*, David Fouhey, Sergey Levine, Jitendra Malik
+Neural Information Processing Systems (NeurIPS), 2018
+abstract / bibtex / webpage
+
+Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene
+Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei Efros, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2018
+abstract / bibtex / webpage / arXiv link / code
+
+On Evaluation of Embodied Navigation Agents
+Peter Anderson, Angel Chang, Devendra Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir Zamir
+arXiv, 2018
+abstract / bibtex / arXiv link
+
+2017
+
+Cognitive mapping and planning for visual navigation
+Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2017
+abstract / bibtex / code+simulation environment / arXiv link / website
+
+Unifying Map and Landmark based Representations for Visual Navigation
+Saurabh Gupta, David Fouhey, Sergey Levine, Jitendra Malik
+arXiv, 2017
+abstract / bibtex / arXiv link / webpage
+
+2016
+
+Cross modal distillation for supervision transfer
+Saurabh Gupta, Judy Hoffman, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2016
+abstract / bibtex / arXiv link / NYUD2 Detectors + Supervision Transfer Models / data
+
+Learning with side information through modality hallucination
+Judy Hoffman, Saurabh Gupta, Trevor Darrell
+Computer Vision and Pattern Recognition (CVPR), 2016
+abstract / bibtex
+
+Cross-modal adaptation for RGB-D detection
+Judy Hoffman, Saurabh Gupta, Jian Leong, Sergio Guadarrama, Trevor Darrell
+International Conference on Robotics and Automation (ICRA), 2016
+abstract / bibtex
+
+The three R's of computer vision: Recognition, reconstruction and reorganization
+Jitendra Malik, Pablo Arbelaez, Joao Carreira, Katerina Fragkiadaki, Ross Girshick, Georgia Gkioxari, Saurabh Gupta, Bharath Hariharan, Abhishek Kar, Shubham Tulsiani
+Pattern Recognition Letters, 2016
+abstract / bibtex
+
+2015
+
+Aligning 3D models to RGB-D images of cluttered scenes
+Saurabh Gupta, Pablo Arbelaez, Ross Girshick, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2015
+abstract / bibtex / poster / arXiv link
+
+Indoor scene understanding with RGB-D images: Bottom-up segmentation, object detection and semantic segmentation
+Saurabh Gupta, Pablo Arbelaez, Ross Girshick, Jitendra Malik
+International Journal of Computer Vision (IJCV), 2015
+abstract / bibtex / code / dev code
+
+Visual semantic role labeling
+Saurabh Gupta, Jitendra Malik
+arXiv, 2015
+abstract / bibtex / v-coco dataset / arXiv link
+
+Exploring person context and local scene context for object detection
+Saurabh Gupta*, Bharath Hariharan*, Jitendra Malik
+arXiv, 2015
+abstract / bibtex
+
+From captions to visual concepts and back
+Hao Fang*, Saurabh Gupta*, Forrest Iandola*, Rupesh Srivastava*, Li Deng, Piotr Dollar, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John Platt, Lawrence C Zitnick, Geoffrey Zweig
+Computer Vision and Pattern Recognition (CVPR), 2015
+abstract / bibtex / extended abstract / slides / webpage / visual concept detection code / arXiv link / COCO leader board / blog / poster
+
+Language models for image captioning: The quirks and what works
+Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell
+Association for Computational Linguistics (ACL), 2015
+abstract / bibtex / arXiv link
+
+Exploring nearest neighbor approaches for image captioning
+Jacob Devlin, Saurabh Gupta, Ross Girshick, Margaret Mitchell, Lawrence C Zitnick
+arXiv, 2015
+abstract / bibtex / arXiv link
+
+Microsoft COCO captions: Data collection and evaluation server
+Xinlei Chen, Hao Fang, Tsung-Yi Lin, Ramakrishna Vedantam, Saurabh Gupta, Piotr Dollar, Lawrence C Zitnick
+arXiv, 2015
+abstract / bibtex / arXiv link / code
+
+2014
+
+Learning rich features from RGB-D images for object detection and segmentation
+Saurabh Gupta, Ross Girshick, Pablo Arbelaez, Jitendra Malik
+European Conference on Computer Vision (ECCV), 2014
+abstract / bibtex / supplementary material / slides / poster / code / pretrained NYUD2 models / pretrained SUN RGB-D models
+
+2013
+
+Perceptual organization and recognition of indoor scenes from RGB-D images
+Saurabh Gupta, Pablo Arbelaez, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2013
+abstract / bibtex / supp / code / dev code / data / poster / slides
+
+A Data Driven Approach for Algebraic Loop Invariants.
+Rahul Sharma, Saurabh Gupta, Bharath Hariharan, Alex Aiken, Percy Liang, Aditya Nori
+European Symposium on Programming (ESOP), 2013
+abstract / bibtex
+
+Verification as learning geometric concepts
+Rahul Sharma, Saurabh Gupta, Bharath Hariharan, Alex Aiken, Aditya Nori
+Static Analysis Symposium (SAS), 2013
+abstract / bibtex
+
+2012
+
+Semantic segmentation using regions and parts
+Pablo Arbelaez, Bharath Hariharan, Chunhui Gu, Saurabh Gupta, Lubomir Bourdev, Jitendra Malik
+Computer Vision and Pattern Recognition (CVPR), 2012
+abstract / bibtex
+
+Funding Acknowledgements
+
+NSF RI Small on Scaling up Robot Learning by Understanding Internet Videos
+
+NSF CAREER Award for Learning Predictive Models for Visual Navigation and Object Interaction.
+
+Amazon Research Award
+
+DARPA Machine Common Sense Program
+
+USDA/NIFA AIFARMS National AI Institute
+
+NASA
+
+NVidia Academic Hardware Grant
+
+Andrew T. Yang Research and Entrepreneurship Award
+
+Last edited on July 16th 2024 10:01AM (Time Zone: IST). Webpage designed using jemdoc + new design.
+

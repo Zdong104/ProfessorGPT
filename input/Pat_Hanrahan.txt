@@ -1,0 +1,73 @@
+Professor: Pat Hanrahan
+University: Stanford University
+URL: https://graphics.stanford.edu/~hanrahan
+Description:  	Pat Hanrahan
+CANON USA Professor
+
+Computer Graphics Laboratory
+Computer Science and Electrical Engineering Departments
+School of Engineering
+Stanford University
+
+Gates Computer Science Building, Room 370 3B
+Stanford, CA 94305-9035
+(650) 723-8530
+(650) 723-0033 (fax)
+hanrahan@cs.stanford.edu (The best way to reach me)
+
+For additional assistance contact Monica Niemiec
+
+
+I am teaching a special topics course on Real-Time Graphics Architectures with Kurt Akeley. I will also be teaching Image Synthesis (spring 2006 version).
+
+Research
+
+Right now I have an amazing set of colleagues and students with whom I am pursuing many diverse projects. Here is a high-level sampling:
+
+Visualization. I have always been fascinated by the use of images in science and the methods used for scientific illustration. I am preparing a survey of scientific illustration targetted at the "scientific visualization" community. In terms of specific projects, one useful general techniques that has emerged is the use of table-based displays to browse multidimensional relational databases. Working with Chris Stolte and Diane Tang, we have built a system called Polaris based on this idea (which is now available commercially from Tableau Software. Chris Stolte and Maneesh Agrawala developed a system called LineDrive for automatically producing hand-drawn maps for route directions. I have worked with Maneesh Agrawala, Julie Heiser and Barbara Tversky to create assembly instructions.
+
+Most recently, I am working with Alon Halevy on a desktop browser interface to your personal information space organized in a semantic network, and with David Akers, Tony Sherbondy, Brian Wandell on methods for visualizing pathways in the brain using diffusion tensor imaging. Stanford was also recently awarded the first Regional Visualization and Analysis Center.
+
+Graphics Systems and Architectures. There are several active projects going on in my group all focussed around GPUs. Recently, Ian Buck and others developed a stream programming environment for GPUs called Brook. Tim Foley and Jeremy Sugarman are looking further into ray tracing architecture on new architectures, Daniel Horn and Mike Houston in using GPUs for knowledge discovery (e.g. see there work on running hidden markov models on GPUs), and working with Eric Darve and Vijay Pande on implementing GROMACS (used by Folding@Home). The largest ongoing project is part of the Stanford ASCI Center for Integrated Turbulence Simulation. This project is investigating using stream processing ideas for scientific computing. Alex Aitken, Tim Knight, Kayvon Fatahalian and Mike Houston on working on a new programming abstraction, Sequoia, for programming machines with exposed communication mechanisms and software-controlled memory hierarchies.
+Rendering algorithms. These days we are concentrating on simulating the appearance of different types of materials. I am also interested in rendering natural environments, cinematographic lighting, and a new formulation of rendering using scattering as the fundamental concept. Examples are our work on simulating skin and hair. Along with Ren Ng, Marc Levoy and Mark Horowitz, we have developed a light field camera which allows focusing to be controlled after a photograph has been taken.
+Talks
+
+Here is a sampling of invited talks.
+
+Analytic Database Technology for a New Kind of User - The Data Enthusiast (SIGMOD Keynote, May 2012)
+Domain-Specific Languages for Heterogeneous Computer Platforms (LANL, LLNL, Utah, SFU, Harvard, UIUC, 2010)
+Cartography and Information Presentation, (SIGSPATIAL GIS Keynote, Nov 2009, coming soon)
+Domain-Specific Languages for Heterogeneous GPU Computing (NVIDIA Technology Conference, Oct 2009)
+Why are Graphics Systems So Fast? (PACT 2009 Keynote, Sep 2009)
+Systems of Thought (Eurovis 2009 Keynote)
+How Media Technology has Changed the World (Computing Community Consortium presentation to Congress, March 2009)
+DIY Input Technology (I3D 2009 Keynote, Feb 2009)
+The Semiology of Graphics: Take II (Computational Aesthetics Keynote, June 2008)
+Realistic or Abstract Imagery: The Future of Computer Graphics? (Eurographics 2005 Capstone, HVEI2004, EI2005, Adobe)
+Self-Illustrating Phenomena (Visualiation 2004 Capstone)
+Stream Programming Environments (GP^2 Workshop)
+Why is Graphics Hardware so Fast? (IBM, Intel, Microsoft, MERL, and many other places)
+Simulating Natural Materials (Computer Forum 2002)
+Factoring Light Fields (Computer Vision Workshop 2002)
+To Draw A Tree (Information Visualization 2001 Keynote)
+The Visual Computer II (ATT Visualization Day 2001)
+Real Time Shading Languages (Graphics Hardware 1999 Keynote)
+Modern Trompe l'oeil (Visualization 1998 Keynote)
+The Visual Computer (State-of-the-Field Talk at Supercomputing)
+The Responsive Workbench (Distinguished Lecture, Univ of Utah)
+Light Field Rendering (My last SIGGRAPH Talk?)
+Teaching
+Past courses:
+Visualization 2002, 2004, 2006
+Modeling, Rendering and Perceiving Appearance (with Hendrik Lensch) 2005
+Advanced Rendering 2002
+Real-Time Graphics Architectures (with Kurt Akeley). 2001
+Appearance Models for Computer Graphics and Vision (with Jitendra Malik) 2000
+Experiments in Digital Television 2000 2000
+Interactive Workspaces (with Armando Fox and Terry Winograd) 1999
+Mathematical Methods for Computer Graphics (with Eric Veach and Denis Zorin) 1997
+Introduction to Computer Graphics 1998
+Information
+Schedule
+Papers
+

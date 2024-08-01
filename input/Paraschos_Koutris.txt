@@ -1,0 +1,174 @@
+Professor: Paraschos Koutris
+University: University of Wisconsin - Madison
+URL: http://pages.cs.wisc.edu/~paris
+Description: Paris Koutris
+Associate Professor
+Department of Computer Sciences
+University of Wisconsin-Madison
+
+
+email      paris [at] cs.wisc.edu
+office      4363 @ Computer Sciences
+phone     +1 608-263-5489
+
+I am an associate professor at the University of Wisconsin-Madison and part of the UW-Madison Database Group.
+I completed my Ph.D. in 2015 at the the University of Washington (the other UW), advised by Dan Suciu.
+
+My research lies in the intersection of theory and practice of data management. My work spans various areas: data processing for massively parallel systems, data markets, efficient data structures, and managing uncertain data.
+
+
+PUBLICATIONS
+2024
+NEW! Conjunctive Queries with Negation and Aggregation: A Linear Time Characterization arXiv
+   Hangdong Zhao, Austen Z. Fan, Xiating Ouyang, Paris Koutris, (to appear) PODS '24
+NEW! Predicate Transfer: Efficient Pre-Filtering on Multi-Join Queries arXiv
+   Yifei Yang, Hangdong Zhao, Xiangyao Yu, Paris Koutris, (to appear) CIDR '24
+NEW! Consistent Query Answering for Primary Keys on Rooted Tree Queries arXiv
+   Paris Koutris, Xiating Ouyang, Jef Wijsen, (to appear) PODS '24
+2023
+LinCQA: Faster Consistent Query Answering with Linear Time Guarantees arXiv
+   Zhiwei Fan, Paris Koutris, Xiating Ouyang, Jef Wijsen, SIGMOD '23
+Space-Time Tradeoffs for Conjunctive Queries with Access Patterns arXiv
+   Hangdong Zhao, Shaleen Deep, Paris Koutris, PODS '23
+General Space-Time Tradeoffs via Relational Queries
+   Shaleen Deep, Xiao Hu, Paris Koutris, WADS '23
+The Fine-Grained Complexity of Boolean Conjunctive Queries and Sum-Product Problems arXiv
+   Austen Z. Fan, Paraschos Koutris, Hangdong Zhao, ICALP '23
+The Fine-Grained Complexity of CFL Reachability arXiv
+   Shaleen Deep, Paris Koutris, POPL '23
+2022
+Modern Datalog Engines
+   Bas Ketsman, Paraschos Koutris, Foundations and Trends in Databases '22
+Plor: General Transactions with Predictable, Low Tail Latency
+   Youmin Chen, Xiangyao Yu, Paraschos Koutris, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau, Jiwu Shu, SIGMOD '22
+Certifiable Robustness for Nearest Neighbor Classifiers
+   Austen Z. Fan, Paraschos Koutris, ICDT '22
+Ranked Enumeration of Join Queries with Projections
+   Shaleen Deep, Paraschos Koutris, VLDB '22
+Salvaging failing and straggling queries
+   Bruhathi Sundarmurthy, Harshad Deshmukh, Paraschos Koutris, Jeffrey Naughton, ICDE '22
+2021
+Consistent Query Answering for Primary Keys on Path Queries
+   Paraschos Koutris, Xiating Ouyang, Jef Wijsen, PODS '21
+Algorithms for a Topology-aware Massively Parallel Computation Model arXiv
+   Xiao Hu, Paraschos Koutris, Spyros Blanas, PODS '21
+Comprehensive and Efficient Workload Compression arXiv
+   Shaleen Deep, Anja Gruenheid, Paraschos Koutris, Jeffrey Naughton, Stratis Viglas, VLDB '21
+Locality-aware Distribution Schemes
+   Bruhathi Sundarmurthy, Paraschos Koutris, Jeffrey Naughton, ICDT '21
+Enumeration Algorithms for Conjunctive Queries with Projection arXiv
+   Shaleen Deep, Xiao Hu, Paraschos Koutris, ICDT '21
+Ranked Enumeration of Conjunctive Query Results arXiv
+   Shaleen Deep, Paraschos Koutris, ICDT '21
+2020
+Topology-aware Parallel Data Processing: Models, Algorithms and Systems at Scale
+   Spyros Blanas, Paraschos Koutris, Anastasios Sidiropoulos, CIDR '20
+Fast Join Project Query Evaluation using Matrix Multiplication arXiv
+   Shaleen Deep, Xiao Hu, Paraschos Koutris, SIGMOD '20
+Automated tuning of query degree of parallelism via machine learning
+   Zhiwei Fan, Rathijit Sen, Paraschos Koutris, Aws Albarghouthi, aiDM@SIGMOD '20
+First-Order Rewritability in Consistent Query Answering with Respect to Multiple Keys
+   Paraschos Koutris, Jef Wijsen, PODS '20
+Manually Detecting Errors for Data Cleaning Using Adaptive Crowdsourcing Strategies
+   Haojun Zhang, Chengliang Chai, AnHai Doan, Paris Koutris, Esteban Arcaute, EDBT '20
+2019
+Revenue Maximization for Query Pricing arXiv
+   Shuchi Chawla, Shaleen Deep, Paraschos Koutris, Yifeng Teng, VLDB '20
+Scaling-Up In-Memory Datalog Processing: Observations and Techniques arXiv
+   Zhiwei Fan, Jianqiao Zhu, Zuyu Zhang, Aws Albarghouthi, Paraschos Koutris, Jignesh Patel, VLDB '19
+Towards Model-based Pricing for Machine Learning in a Data Marketplace arXiv
+   Lingjiao Chen, Paraschos Koutris, Arun Kumar, SIGMOD '19
+Consistent Query Answering for Primary Keys in Logspace arXiv
+   Paraschos Koutris, Jef Wijsen, ICDT '19
+2018
+The Effect of Network Width on the Performance of Large-batch Training arXiv
+   Lingjiao Chen, Hongyi Wang, Jinman Zhao, Dimitris S. Papailiopoulos, Paraschos Koutris, NIPS '18
+Syntax-Guided Synthesis of Datalog Programs
+   Xujie Si, Woosuk Lee, Richard Zhang, Aws Albarghouthi, Paraschos Koutris, Mayur Naik, FSE '18
+Compressed Representations of Conjunctive Query Results arXiv slides
+   Shaleen Deep, Paraschos Koutris, PODS '18
+Consistent Query Answering for Primary Keys and Conjunctive Queries with Negated Atoms
+   Paraschos Koutris, Jef Wijsen, PODS '18
+Distribution Policies for Datalog
+   Bas Ketsman, Aws Albarghouthi, Paraschos Koutris, ICDT '18
+Algorithmic Aspects of Parallel Data Processing tutorial slides
+   Paraschos Koutris, Semih Salihoglu, Dan Suciu, Foundations and Trends in Databases
+2017
+QIRANA: A Framework for Scalable Query Pricing
+   Shaleen Deep, Paraschos Koutris, SIGMOD '17
+QIRANA Demonstration: Real time Scalable Query Pricing
+   Shaleen Deep, Paraschos Koutris, Yash Bidasaria, VLDB '17
+The Design of Arbitrage-Free Data Pricing Schemes arXiv
+   Shaleen Deep, Paraschos Koutris, ICDT '17
+Constraint-Based Synthesis of Datalog Programs
+   Aws Albarghouthi, Paraschos Koutris, Mayur Naik, Calvin Smith, CP '17
+m-tables: Representing Missing Data
+   Bruhathi Sundarmurthy, Paraschos Koutris, Willis Lang, Jeffrey Naughton, and Val Tannen, ICDT '17
+2010-2016 (Selected Publications)
+Distributed Data Deduplication
+   Xu Chu, Ihab F. Ilyas, Paraschos Koutris, VLDB '16
+Worst-Case Optimal Algorithms for Parallel Query Processing
+   Paraschos Koutris, Paul Beame, Dan Suciu, ICDT '16
+The Data Complexity of Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints arXiv
+   Paraschos Koutris, Jef Wijsen, PODS '15
+Answering Conjunctive Queries with Inequalities arXiv slides
+   Paraschos Koutris, Dan Suciu, Sudeepa Roy, Tova Milo, ICDT '15
+Skew in Parallel Query Processing arXiv slides
+   Paul Beame, Paraschos Koutris, Dan Suciu, PODS '14
+A Dichotomy on the Complexity of Consistent Query Answering for Atoms with Simple Keys arXiv slides
+   Paraschos Koutris, Dan Suciu, ICDT '14
+Communication Steps for Parallel Query Processing arXiv slides
+   Paul Beame, Paraschos Koutris, Dan Suciu, PODS '13
+Toward Practical Query Pricing with QueryMarket slides
+   Paraschos Koutris, Prasang Upadhyaya, Magdalena Balazinska, Bill Howe, Dan Suciu, SIGMOD '13
+Query-based Data Pricing slides
+   Paraschos Koutris, Prasang Upadhyaya, Magdalena Balazinska, Bill Howe, Dan Suciu, PODS '12
+Parallel Skyline Queries slides
+   Foto N. Afrati, Paraschos Koutris, Dan Suciu, Jeffrey D. Ullman, ICDT '12
+Online Sum-Radii Clustering arXiv
+   Dimitris Fotakis, Paraschos Koutris, MFCS '12
+Parallel Evaluation of Conjunctive Queries  tech report slides
+   Paraschos Koutris, Dan Suciu, PODS '11
+Journals
+Consistent Query Answering for Primary Keys in Datalog
+   Paraschos Koutris, Jef Wijsen, TOCS 65(1) - 2021
+Distribution Policies for Datalog
+   Bas Ketsman, Aws Albarghouthi, Paraschos Koutris, TOCS 64(5) - 2020
+Communication Steps for Parallel Query Processing
+   Paul Beame, Paraschos Koutris, Dan Suciu, J. ACM 64(6) - 2017
+Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints
+   Paraschos Koutris, Jef Wijsen, TODS 42(2) - 2017
+Answering Conjunctive Queries with Inequalities
+   Paraschos Koutris, Tova Milo, Sudeepa Roy, Dan Suciu, TOCS 61(1) - 2017
+Query-Based Data Pricing
+   Paraschos Koutris, Prasang Upadhyaya, Magdalena Balazinska, Bill Howe, Dan Suciu, J. ACM 62(5) - 2015
+Parallel Skyline Queries
+   Foto N. Afrati, Paraschos Koutris, Dan Suciu, Jeffrey D. Ullman, TOCS 57(4) - 2015
+Online Sum-Radii Clustering
+   Dimitris Fotakis, Paraschos Koutris, TCS 540 - 2014
+STUDENTS
+Austen Fan
+Hangdong Zhao
+Xiating Ouyang (first position: Facebook)
+Zhiwei Fan (first position: Facebook)
+Shaleen Deep (first position: Microsoft GSL)
+Bruhathi Sundarmurthy (first position: Google)
+TEACHING
+SPRING '22  CS 784 - Foundations of Data Management
+  FALL '21     CS 564 - Database Management Systems: Design and Implementation
+SPRING '21  CS 784 - Foundations of Data Management
+  FALL '20     CS 564 - Database Management Systems: Design and Implementation
+SPRING '20  CS 564 - Database Management Systems: Design and Implementation
+  FALL '19     CS 784 - Foundations of Data Management
+SPRING '19  CS 784 - Foundations of Data Management
+  FALL '18     CS 564 - Database Management Systems: Design and Implementation
+SPRING '18  CS 564 - Database Management Systems: Design and Implementation
+SPRING '17  CS 784 - Foundations of Data Management
+  FALL '16     CS 564 - Database Management Systems: Design and Implementation
+SPRING '16  CS 838 - Foundations of Data Management
+  FALL '15     CS 564 - Database Management Systems: Design and Implementation
+SERVICE
+PC Chair :   BeyondMR '17
+PC Member :   PODS ('17, '18, '20, '23), VLDB ('17,'21), SIGMOD ('17, '18, '19, '20, '22, '24), ICDE ('17, '19, '22), ICDT ('19, '21, '25)
+Proceedings & Publicity Chair :   PODS '16
+

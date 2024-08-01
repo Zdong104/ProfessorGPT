@@ -1,0 +1,201 @@
+Professor: Jiajun Wu 0001
+University: Stanford University
+URL: https://jiajunwu.com/
+Description: Jiajun Wu
+Publications
+Talks
+Teaching
+Group
+Home
+ 
+Jiajun Wu
+
+Office: Gates Building, Room 252
+Email: jiajunwu [at] cs (dot) stanford (dot) edu
+
+Google Scholar / DBLP / Stanford Profiles
+
+ 
+Research Communities
+Stanford AI Lab (SAIL)
+Stanford Vision and Learning Lab (SVL)
+Stanford Computer Graphics Lab
+Stanford Robotics Center (SRC)
+Human-Centered Artificial Intelligence (HAI)
+ 
+
+I am an Assistant Professor of Computer Science and, by courtesy, of Psychology at Stanford University. Before joining Stanford, I was a Visiting Faculty Researcher at Google Research, working with Noah Snavely. I finished my PhD at MIT, advised by Bill Freeman and Josh Tenenbaum, and my undergraduate degrees at Tsinghua University, working with Zhuowen Tu.
+
+ 
+Research
+
+My group studies physical scene understanding---building machines that see, reason about, and interact with the physical world. Besides learning algorithms, what are the levels of abstraction needed by AI systems in their representations, and where do they come from? Our research aims to answer these fundamental questions, drawing inspiration from nature, i.e., the physical world itself, and from human cognition. Representative projects include Galileo, MarrNet, the Neuro-Symbolic Concept Learner, Neural Flow Maps, and 3D-Fauna.
+
+In addition to developing the representations themselves, we simultaneously explore their applications in various domains:
+multi-modal perception from visual, acoustic, and tactile signals, as in ObjectFolder and RealImpact;
+visual generation of the 4D, physical world, as in 3D-GAN, pi-GAN, Point-Voxel Diffusion, SDEdit, and WonderJourney;
+visual reasoning via physical concept grounding, often in a neuro-symbolic way, as in NS-VQA, Shape Programs, CLEVRER, and LEFT;
+robotics and embodied AI using the learned physical scene representations, as in RoboCook and BEHAVIOR.
+
+Here is some information for prospective students and visitors.
+ 
+Group
+Postdocs
+Manling Li
+Weiyu Liu
+Stefan Stojanov (with Dan Yamins)
+Elliott Wu
+Mengdi Xu (with Fei-Fei Li)
+Ruohan Zhang (with Fei-Fei Li and Silvio Savarese)
+PhD Students
+Samuel Clarke
+Cristobal Eyzaguirre (with Juan Carlos Niebles)
+Chen Geng
+Michelle Guo (with Karen Liu)
+Joy Hsu
+Kyle Hsu (with Chelsea Finn)
+Jiaman Li (with Karen Liu)
+Michael Lingelbach (with Fei-Fei Li)
+Kyle Sargent (with Fei-Fei Li)
+Stephen Tian
+Koven Yu
+Yunzhi Zhang
+Affiliates
+Eric Chan (with Gordon Wetzstein)
+Klemen Kotar (with Dan Yamins)
+Fan-Yun Sun (with Nick Haber)
+Alumni
+Yunzhu Li (post-doc 2023, with Fei-Fei Li), Assistant Professor, University of Illinois Urbana-Champaign
+Ruohan Gao (post-doc 2023, with Fei-Fei Li and Silvio Savarese), Assistant Professor, University of Maryland, College Park
+Sumith Kulal (PhD 2023, with Alex Aiken), Research Scientist, Stability AI
+Huazhe Xu (post-doc 2022), Assistant Professor, Tsinghua University
+ 
+Teaching
+SYMSYS1/SYMSYS200/CS24/LINGUIST35/PHIL99/PSYCH35: Minds and Machines, Winter 2025, 2024, Fall 2022 (with Thomas Icard)
+CS348I: Computer Graphics in the Era of AI, Winter 2024, Fall 2021, 2020 (all with Karen Liu)
+CS231N: Deep Learning for Computer Vision, Spring 2022 (with Fei-Fei Li and Ruohan Gao)
+PSYCH225/CS322: Triangulating Intelligence: Melding Neuroscience, Psychology, and AI, Winter 2022 (with Hyo Gweon and Dan Yamins)
+CS221: Artificial Intelligence: Principles and Techniques, Winter 2021 (with Tatsu Hashimoto)
+CS131: Computer Vision: Foundations and Applications, Fall 2020 (with Juan Carlos Niebles)
+ 
+Talks
+Research Overview (Jan 2023) 
+Naturally Supervised Vision (July 2022) 
+Multi-Sensory Neural Objects (Oct 2022) 
+ 
+Publications (show selected / show all by date / show all by topic)
+Year: 2024 / 2023 / 2022 / 2021 / 2020 / 2019 / 2018 / 2017 / 2016 / 2015 / 2014 and before
+Current Research Topics: Physical Scene Understanding / Multi-Modal Perception / Visual Generation / Visual Reasoning / Robotics and Embodied AI; Past Research Topic: Weakly-Supervised Learning
+(* and † indicate equal contribution or alphabetical order)
+ 
+ 
+Physical Scene Understanding
+Jiajun Wu
+AI Magazine 2024 / Paper
+ 
+Learning the 3D Fauna of the Web
+Zizhang Li*, Dor Litvak*, Ruining Li, Yunzhi Zhang, Tomas Jakab, Christian Rupprecht, Shangzhe Wu†, Andrea Vedaldi†, Jiajun Wu†
+CVPR 2024 / Paper / Project Page
+ 
+WonderJourney: Going from Anywhere to Everywhere
+Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, William T. Freeman, Forrester Cole, Deqing Sun, Noah Snavely, Jiajun Wu, Charles Herrmann
+CVPR 2024 / Paper / Project Page
+ 
+What's Left? Concept Grounding with Logic-Enhanced Foundation Models
+Joy Hsu*, Jiayuan Mao*, Joshua B. Tenenbaum, Jiajun Wu
+NeurIPS 2023 / Paper / Project Page
+ 
+RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools
+Haochen Shi*, Huazhe Xu*, Samuel Clarke, Yunzhu Li, Jiajun Wu
+CoRL 2023 / Paper / Project Page
+Best Systems Paper Award
+ 
+Fluid Simulation on Neural Flow Maps
+Yitong Deng, Hong-Xing Yu, Diyang Zhang, Jiajun Wu, Bo Zhu
+TOG (SIGGRAPH Asia) 2023 / Paper / Project Page
+Best Paper Award
+ 
+Seeing a Rose in Five Thousand Ways
+Yunzhi Zhang, Shangzhe Wu, Noah Snavely, Jiajun Wu
+CVPR 2023 / Paper / Project Page
+ 
+Ego-Body Pose Estimation via Ego-Head Pose Estimation
+Jiaman Li, C. Karen Liu†, Jiajun Wu†
+CVPR 2023 / Paper / Project Page
+Best Paper Award Candidate
+ 
+RealImpact: A Dataset of Impact Sound Fields for Real Objects
+Samuel Clarke, Ruohan Gao, Mason Wang, Mark Rau, Julia Xu, Jui-Hsien Wang, Doug L. James, Jiajun Wu
+CVPR 2023 / Paper / Project Page
+Highlight
+ 
+ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer
+Ruohan Gao*, Zilin Si*, Yen-Yu Chang*, Samuel Clarke, Jeannette Bohg, Li Fei-Fei, Wenzhen Yuan, Jiajun Wu
+CVPR 2022 / Paper / Project Page
+ 
+BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation
+Chengshu Li*, Ruohan Zhang*, Josiah Wong*, Cem Gokmen*, Sanjana Srivastava*, Roberto Martin-Martin*, Chen Wang*, Gabrael Levine*, Michael Lingelbach, Jiankai Sun, Mona Anvari, Minjune Hwang, Manasi Sharma, Arman Aydin, Dhruva Bansal, Samuel Hunter, Kyu-Young Kim, Alan Lou, Caleb R. Matthews, Ivan Villa-Renteria, Jerry Huayang Tang, Claire Tang, Fei Xia, Silvio Savarese, Hyowon Gweon, C. Karen Liu, Jiajun Wu, Li Fei-Fei
+CoRL 2022 / Paper / Project Page
+Best Paper Award Nominee
+ 
+3D Shape Generation and Completion Through Point-Voxel Diffusion
+Linqi Zhou, Yilun Du, Jiajun Wu
+ICCV 2021 / Paper / Project Page
+Oral Presentation
+ 
+Learning to See the Physical World
+PhD Dissertation 2019
+ACM Doctoral Dissertation Award Honorable Mention
+Joint AAAI/ACM SIGAI Doctoral Dissertation Award
+MIT George M. Sprowls PhD Thesis Award in Artificial Intelligence and Decision-Making
+ 
+The Neuro-Symbolic Concept Learner:
+Interpreting Scenes, Words, and Sentences from Natural Supervision
+Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu
+ICLR 2019 / Paper / Project Page / MIT News / MIT Technology Review
+Oral Presentation
+ 
+Learning to Infer and Execute 3D Shape Programs
+Yonglong Tian, Andrew Luo, Xingyuan Sun, Kevin Ellis, William T. Freeman, Joshua B. Tenenbaum, Jiajun Wu
+ICLR 2019 / Paper / Project Page
+ 
+Visual Dynamics: Stochastic Future Generation via Layered Cross Convolutional Networks
+Tianfan Xue*, Jiajun Wu*, Katherine L. Bouman, William T. Freeman
+TPAMI 2019 / Paper / Project Page
+NeurIPS 2016 / Paper
+Oral Presentation
+ 
+Learning to Reconstruct Shapes from Unseen Classes
+Xiuming Zhang*, Zhoutong Zhang*, Chengkai Zhang, Joshua B. Tenenbaum, William T. Freeman, Jiajun Wu
+NeurIPS 2018 / Paper / Project Page
+Oral Presentation
+ 
+3D Interpreter Networks for Viewer-Centered Wireframe Modeling
+Jiajun Wu*, Tianfan Xue*, Joseph J. Lim, Yuandong Tian, Joshua B. Tenenbaum, Antonio Torralba, William T. Freeman
+IJCV 2018 / Paper / Project Page
+ECCV 2016 / Paper
+Oral Presentation
+ 
+Augmenting Physical Simulators with Stochastic Neural Networks:
+Case Study of Planar Pushing and Bouncing
+Anurag Ajay, Jiajun Wu, Nima Fazeli, Maria Bauza, Leslie P. Kaelbling, Joshua B. Tenenbaum, Alberto Rodriguez
+IROS 2018 / Paper / Project Page
+Best Paper Award on Cognitive Robotics
+ 
+Learning to See Physics via Visual De-animation
+Jiajun Wu, Erika Lu, Pushmeet Kohli, William T. Freeman, Joshua B. Tenenbaum
+NeurIPS 2017 / Paper / Project Page / MIT News
+Spotlight Presentation
+ 
+MarrNet: 3D Shape Reconstruction via 2.5D Sketches
+Jiajun Wu*, Yifan Wang*, Tianfan Xue, Xingyuan Sun, William T. Freeman, Joshua B. Tenenbaum
+NeurIPS 2017 / Paper / Project Page
+ 
+Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling
+Jiajun Wu*, Chengkai Zhang*, Tianfan Xue, William T. Freeman, Joshua B. Tenenbaum
+NeurIPS 2016 / Paper / Project Page / MIT Technology Review
+ 
+Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+Jiajun Wu*, Ilker Yildirim*, Joseph J. Lim, William T. Freeman, Joshua B. Tenenbaum
+NeurIPS 2015 / Paper / Project Page / MIT News / VICE / WIRED / Engadget
+

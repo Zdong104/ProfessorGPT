@@ -1,0 +1,650 @@
+Professor: Abhishek Gupta 0008
+University: University of Washington
+URL: https://abhishekunique.github.io/
+Description: Abhishek Gupta
+
+I am an assistant professor in computer science and engineering at the Paul G. Allen School at the University of Washington. I lead the Washington Embodied Intelligence and Robotics Development (WEIRD) lab.
+
+Previously, I was a post-doctoral scholar at MIT, collaborating with Russ Tedrake and Pulkit Agarwal.
+
+I spent 6 wonderful years completing my PhD in machine learning and robotics at BAIR at UC Berkeley, where I was advised by Professor Sergey Levine and Professor Pieter Abbeel. Previously, I completed my bachelors degree also at UC Berkeley.
+
+My main research goal is to develop algorithms which enable robotic systems to learn how to perform complex tasks in a variety of unstructured environments like offices and homes. To that end, I work towards building deep reinforcement learning algorithms that can learn in the real world, with and around humans. Recently our work has focused on deployment time reinforcement learning, learning on deployment directly in human-centric environments under the following themes
+
+Human-in-the-loop RL for targeted exploration
+Constructing and leveraging simulation as a tool to bootstrap safe RL
+Robustness, generalization and fast adaptation for robotic control policies
+More generally, I have been interested in the problems of human in the loop reinforcement learning, reward specification, continual real world data collection and learning, fast adaptation with meta learning for robotics, offline reinforcement learning for robotics, multi-task and meta-learning and dexterous manipulation with robotic hands and studying generalization and extrapolation for policies and models. I am also excited about a broader space of problems including algorithms for assistive robotics, safe exploration, robustness and compositionality in deep learning, and all things embodied intelligence.
+
+For prospective students: I am looking for highly motivated Ph.D students and postdoctoral researchers to join our group. For Ph.D. students, I highly encourage you to apply to the UW CSE Ph.D program through the Allen school, and list me as an advisor of interest. I am very open to coadvising requests as well, please mention this in your application. I ask that you do not email me directly with regard to PhD admissions until after you are admitted, as I will not be able to reply to emails from individual applicants. Rest assured I will give your application a read! For postdoctoral scholar applications, please send me an email with your CV and a statement of your interests.
+
+Email  /  CV  /  GitHub  /  Google Scholar  /  Ph.D. Thesis
+
+	
+Workshop Papers, Submissions and Pre-prints
+	
+
+Ecological Reinforcement Learning
+John D Co-Reyes, Suvansh Sanjeev, Glen Berseth, Abhishek Gupta, Sergey Levine
+arXiv Preprint
+paper
+
+
+
+	
+
+Unsupervised meta-learning for reinforcement learning
+Abhishek Gupta*, Benjamin Eysenbach*, Chelsea Finn, Sergey Levine
+arXiv preprint, best paper at LLARLA workshop at ICML 2018
+paper / blog
+
+
+
+	
+
+Accelerating online reinforcement learning with offline datasets
+Ashvin Nair*, Abhishek Gupta*, Murtaza Dalal, Sergey Levine
+arXiv preprint
+paper
+
+
+
+	
+
+Learning latent state representation for speeding up exploration
+Giulia Vezzani, Abhishek Gupta, Lorenzo Natale, Pieter Abbeel
+arXiv preprint
+paper
+
+
+
+
+Publications
+
+
+	
+
+2024
+
+
+
+	
+
+CCIL: Continuity-Based Data Augmentation for Corrective Imitation Learning
+Liyiming Ke, Yunchu Zhang, Abhay Deshpande, Siddhartha Srinivasa, Abhishek Gupta
+ICLR 2024
+paper
+
+
+
+	
+
+Modeling Boundedly Rational Agents with Latent Inference Budgets
+Athul Paul Jacob, Abhishek Gupta, Jacob Andreas
+ICLR 2024
+paper
+
+
+
+	
+
+Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning
+Zhaoyi Zhou, Chuning Zhu, Runlong Zhou, Qiwen Cui, Abhishek Gupta, Simon Shaolei Du
+ICLR 2024
+paper
+
+
+
+	
+
+ASID: Active Exploration for System Identification and Reconstruction in Robotic Manipulation
+Marius Memmel, Andrew Wagenmaker, Chuning Zhu, Dieter Fox, Abhishek Gupta
+ICLR 2024
+
+
+
+
+	
+
+Learning to Grasp in Clutter with Interactive Visual Failure Prediction
+Michael Murray, Abhishek Gupta, Maya Cakmak
+ICRA 2024
+
+
+
+
+	
+
+Lifelong Robot Learning with Human Assisted Language Planners
+Zichen Zhang, Yunshuang Li, Osbert Bastani, Abhishek Gupta, Dinesh Jayaraman, Yecheng Jason Ma, Luca Weihs
+ICRA 2024
+paper
+
+
+
+	
+
+Rank2Reward: Learning Shaped Reward Functions from Passive Video
+Daniel Yang, Davin Tjia, Jacob Berg, Dima Damen, Pulkit Agrawal, Abhishek Gupta
+ICRA 2024
+
+
+
+
+	
+
+Universal Visual Decomposer: Long-Horizon Manipulation Made Easy
+Zichen Zhang, Yunshuang Li, Osbert Bastani, Abhishek Gupta, Dinesh Jayaraman, Yecheng Jason Ma, Luca Weihs
+ICRA 2024
+paper
+
+
+
+	
+
+SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning
+Jianlan Luo, Zheyuan Hu, Charles Xu, You Liang Tan, Jacob Berg, Archit Sharma, Stefan Schaal, Chelsea Finn, Abhishek Gupta, Sergey Levine
+ICRA 2024
+paper
+
+
+	
+
+2023
+
+
+
+	
+
+Autonomous Robotic Reinforcement Learning with Asynchronous Human Feedback
+Max Balsells I Pamies, Marcel Torne Villasevil, Zihan Wang, Samedh Desai, Pulkit Agrawal, Abhishek Gupta
+CoRL 2023
+paper
+
+
+
+	
+
+Fighting Uncertainty with Gradients: Offline Reinforcement Learning via Diffusion Score Matching
+HJ Suh, Glen Chou, Hongkai Dai, Lujie Yang, Abhishek Gupta, Russ Tedrake
+CoRL 2023
+paper
+
+
+
+	
+
+REBOOT: Reuse Data for Bootstrapping Efficient Real-World Dexterous Manipulation
+Zheyuan Hu, Aaron Rovinsky, Jianlan Luo, Vikash Kumar, Abhishek Gupta, Sergey Levine
+CoRL 2023
+paper
+
+
+
+	
+
+Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets
+Zhang-Wei Hong, Aviral Kumar, Sathwik Karnik, Abhishek Bhandwaldar, Akash Srivastava, Joni Pajarinen, Romain Laroche, Abhishek Gupta, Pulkit Agrawal
+NeurIPS 2023
+paper
+
+
+
+	
+
+Breadcrumbs to the Goal: Goal-Conditioned Exploration from Human-in-the-Loop Feedback
+Marcel Torne, Max Balsells, Zihan Wang, Samedh Desai, Tao Chen, Pulkit Agrawal, Abhishek Gupta
+NeurIPS 2023
+paper
+
+
+
+	
+
+RePo: Resilient Model-Based Reinforcement Learning by Regularizing Posterior Predictability
+Chuning Zhu, Max Simchowitz, Siri Gadipudi, Abhishek Gupta
+NeurIPS 2023 (Spotlight)
+paper
+
+
+
+	
+
+Self-Supervised Reinforcement Learning that Transfers using Random Features
+Boyuan Chen, Chuning Zhu, Pulkit Agrawal, Kaiqing Zhang, Abhishek Gupta
+NeurIPS 2023
+paper
+
+
+
+	
+
+Tackling Combinatorial Distribution Shift: A Matrix Completion Perspective
+Max Simchowitz, Abhishek Gupta, Kaiqing Zhang
+COLT 2023
+paper
+
+
+
+	
+
+Guiding Pretraining in Reinforcement Learning with Large Language Models
+Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, Jacob Andreas
+ICML 2023
+paper
+
+
+
+	
+
+GenAug: Retargeting behaviors to unseen situations via Generative Augmentation
+Zoey Chen, Sho Kiami, Abhishek Gupta*, Vikash Kumar*
+RSS 2023 (Best Systems Paper Finalist)
+paper
+
+
+
+	
+
+Cherry-picking with reinforcement learning
+Yunchu Zhang, Liyiming Ke, Abhay Deshpande, Abhishek Gupta, Siddhartha Srinivasa
+RSS 2023
+paper
+
+
+
+	
+
+Learning to Extrapolate: A Transductive Approach
+Aviv Netanyahu*, Abhishek Gupta*, Max Simchowitz, Kaiqing Zhang, Pulkit Agrawal
+ICLR 2023
+paper
+
+
+
+	
+
+TactoFind: A Tactile Only System for Object Retrieval
+Sameer Pai, Tao Chen, Megha Tippur, Edward Adelson, Abhishek Gupta*, Pulkit Agrawal*
+ICRA 2023
+paper
+
+
+
+	
+
+Demonstration-Bootstrapped Autonomous Practicing via Multi-Task Reinforcement Learning
+Abhishek Gupta, Corey Lynch, Brandon Kinman, Garrett Peake, Sergey Levine, Karol Hausman
+ICRA 2023
+paper
+
+
+
+	
+
+Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance
+Kelvin Xu*, Zheyuan Hu*, Ria Doshi, Aaron Rovinsky, Vikash Kumar, Abhishek Gupta, Sergey Levine
+ICRA 2023
+paper
+
+
+	
+
+2022
+
+
+
+	
+
+Learning Robust Real-World Dexterous Grasping Policies via Implicit Shape Augmentation
+iuyu Chen, Karl Van Wyk, Yu-Wei Chao, Wei Yang, Arsalan Mousavian, Abhishek Gupta, Dieter Fox
+CoRL 2022
+paper
+
+
+
+	
+
+Unpacking Reward Shaping: Understanding the Benefits of Reward Engineering on Sample Complexity
+Abhishek Gupta*, Aldo Pacchiano*, Simon Zhai, Sham Kakade, Sergey Levine
+NeurIPS 2022
+paper
+
+
+
+	
+
+Distributionally Adaptive Meta Reinforcement Learning
+Anurag Ajay*, Abhishek Gupta*, Dibya Ghosh, Sergey Levine, Pulkit Agrawal
+NeurIPS 2022
+paper
+
+
+
+	
+
+Autonomous Reinforcement Learning: Formalism and Benchmarking
+Archit Sharma, Kelvin Xu, Nikhil Sardana, Abhishek Gupta, Karol Hausman, Sergey Levine, Chelsea Finn
+ICLR 2022
+paper
+
+
+	
+
+2021
+
+
+
+	
+
+Teachable Reinforcement Learning via Advice Distillation
+Olivia Watkins, Trevor Darrell, Pieter Abbeel, Jacob Andreas, Abhishek Gupta
+NeurIPS 2021
+paper
+
+
+
+	
+
+Persistent Reinforcement Learning via Subgoal Curricula
+Archit Sharma, Abhishek Gupta, Sergey Levine, Karol Hausman, Chelsea Finn
+NeurIPS 2021
+paper
+
+
+
+	
+
+Adaptive risk minimization: A meta-learning approach for tackling group shift
+Marvin Zhang, Henrik Marklund, Nikita Dhawan, Abhishek Gupta, Sergey Levine, Chelsea Finn
+NeurIPS 2021
+paper / blog
+
+
+
+	
+
+Which Mutual-Information Representation Learning Objectives are Sufficient for Control?
+Kate Rakelly, Abhishek Gupta, Carlos Florensa, Sergey Levine
+NeurIPS 2021
+paper
+
+
+
+	
+
+Fully Autonomous Real-World Reinforcement Learning for Mobile Manipulation
+Charles Sun, Jedrzej Orbik, Coline Devin, Brian Yang, Abhishek Gupta, Glen Berseth, Sergey Levine
+CoRL 2021
+paper
+
+
+
+	
+
+Learning to reach goals via iterated supervised learning
+Dibya Ghosh*, Abhishek Gupta*, Ashwin Reddy, Justin Fu, Coline Devin, Benjamin Eysenbach, Sergey Levine
+ICLR 2021 (Oral)
+paper / blog
+
+
+
+	
+
+MURAL: Meta-Learning Uncertainty-Aware Rewards for Outcome-Driven Reinforcement Learning
+Kevin Li*, Abhishek Gupta*, Ashwin D Reddy, Vitchyr Pong, Aurick Zhou, Justin Yu, Sergey Levine
+ICML 2021
+paper / website
+
+
+
+	
+
+Reset-Free Reinforcement Learning via Multi-Task Learning: Learning Dexterous Manipulation Behaviors without Human Intervention
+Abhishek Gupta*, Justin Yu*, Tony Z. Zhao*, Vikash Kumar*, Aaron Rovinsky, Kelvin Xu, Thomas Devlin, Sergey Levine
+ICRA 2021
+paper / website
+
+
+	
+
+2020
+
+
+
+	
+
+The ingredients of real-world robotic reinforcement learning
+Henry Zhu*, Justin Yu*, Abhishek Gupta*, Dhruv Shah, Kristian Hartikainen, Avi Singh, Vikash Kumar, Sergey Levine
+ICLR 2020 (spotlight)
+paper / blog
+
+
+
+	
+
+Discor: Corrective feedback in reinforcement learning via distribution correction
+Aviral Kumar, Abhishek Gupta, Sergey Levine
+NeurIPS 2020 (spotlight)
+paper / blo
+
+
+
+	
+
+Gradient surgery for multi-task learning
+Tianhe Yu, Saurabh Kumar, Abhishek Gupta, Sergey Levine, Karol Hausman, Chelsea Finn
+NeurIPS 2020
+paper
+
+
+	
+
+2019
+
+
+
+	
+
+Unsupervised curricula for visual meta-reinforcement learning
+Allan Jabri, Kyle Hsu, Benjamin Eysenbach, Abhishek Gupta, Alexei Efros, Sergey Levine, Chelsea Finn
+NeurIPS 2019 (spotlight)
+paper
+
+
+
+	
+
+ROBEL: RObotics BEnchmarks for Learning with low-cost robots
+Michael Ahn, Henry Zhu, Kristian Hartikainen, Hugo Ponte, Abhishek Gupta, Sergey Levine, Vikash Kumar
+CoRL 2019
+paper / blog
+
+
+
+	
+
+Relay policy learning: Solving long-horizon tasks via imitation and reinforcement learning
+Abhishek Gupta, Vikash Kumar, Corey Lynch, Sergey Levine, Karol Hausman
+CORL 2019
+paper / website
+
+
+
+	
+
+Guided meta-policy search
+Russell Mendonca, Abhishek Gupta, Rosen Kralev, Pieter Abbeel, Sergey Levine, Chelsea Finn
+NeurIPS 2019 (spotlight)
+paper
+
+
+
+	
+
+Dexterous Manipulation with Deep Reinforcement Learning: Efficient, General, and Low-Cost
+Henry Zhu*, Abhishek Gupta*, Aravind Rajeswaran, Sergey Levine, Vikash Kumar
+ICRA 2019
+paper / blog
+
+
+
+	
+
+Diversity is all you need: Learning skills without a reward function
+Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, Sergey Levine
+ICLR 2019
+paper / video
+
+
+
+	
+
+Guiding policies with language via meta-learning
+John D Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine
+ICLR 2019
+paper
+
+
+
+	
+
+Learning actionable representations with goal-conditioned policies
+Dibya Ghosh, Abhishek Gupta, Sergey Levine
+ICLR 2019
+paper
+
+
+
+	
+
+Automatically composing representation transformations as a means for generalization
+Michael B. Chang, Abhishek Gupta, Sergey Levine, Thomas Griffith
+ICLR 2019
+paper
+
+
+	
+
+2018
+
+
+
+	
+
+Self-consistent trajectory autoencoder: Hierarchical reinforcement learning with trajectory embeddings
+John D Co-Reyes*, YuXuan Liu*, Abhishek Gupta*, Benjamin Eysenbach, Pieter Abbeel, Sergey Levine
+ICML 2018
+paper
+
+
+
+	
+
+Imitation from observation: Learning to imitate behaviors from raw video via context translation
+YuXuan Liu*, Abhishek Gupta*, Pieter Abbeel, Sergey Levine
+ICRA 2018
+paper / video
+
+
+
+	
+
+Meta-reinforcement learning of structured exploration strategies
+Abhishek Gupta, Russell Mendonca, YuXuan Liu, Pieter Abbeel, Sergey Levine
+NeurIPS 2018 (spotlight)
+paper / code
+
+
+
+	
+
+Learning complex dexterous manipulation with deep reinforcement learning and demonstrations
+Aravind Rajeswaran*, Vikash Kumar*, Abhishek Gupta, Giulia Vezzanni, John Schulman, Emanuel Todorov, Sergey Levine
+RSS 2018
+paper / video
+
+
+	
+
+2017
+
+
+
+	
+
+Learning modular neural network policies for multi-task and multi-robot transfer
+Abhishek Gupta*, Coline Devin*, Trevor Darrell, Pieter Abbeel, Sergey Levine
+ICRA 2017
+paper / video
+
+
+
+	
+
+Learning invariant feature spaces to transfer skills with reinforcement learning
+Abhishek Gupta*, Coline Devin*, Yuxuan Liu, Pieter Abbeel, Sergey Levine
+ICLR 2017
+paper / video
+
+
+	
+
+2016
+
+
+
+	
+
+Learning dexterous manipulation for a soft robotic hand from human demonstrations
+Abhishek Gupta, Clemens Eppner, Sergey Levine, Pieter Abbeel
+IROS 2016
+paper / video
+
+
+
+	
+
+Guided search for task and motion plans using learned heuristics
+Rohan Chitnis, Dylan Hadfield-Menell, Abhishek Gupta, Siddhart Srivastava, Edward Groshev, Christopher Lin, Pieter Abbeel
+ICRA 2016
+paper / video
+
+
+	
+
+2015
+
+
+
+	
+
+Learning from multiple demonstrations using trajectory-aware non-rigid registration with applications to deformable object manipulation
+Alex Lee, Abhishek Gupta, Henry Lu, Sergey Levine, Pieter Abbeel
+IROS 2015
+paper
+
+
+
+	
+
+Learning force-based manipulation of deformable objects from multiple demonstrations
+Alex X. Lee, Henry Lu, Abhishek Gupta, Sergey Levine, Pieter Abbeel
+ICRA 2015
+paper
+
+
+
+	
+
+Tractability of planning with loops
+Siddharth Srivastava, Shlomo Zilberstein, Abhishek Gupta, Pieter Abbeel, Stuart Russell
+AAAI 2015
+paper / video
+
+
+
+
+Website template from Jon Barron.
+Last updated January 2021.
+

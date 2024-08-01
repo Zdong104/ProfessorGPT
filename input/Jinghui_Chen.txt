@@ -1,0 +1,409 @@
+Professor: Jinghui Chen
+University: Pennsylvania State University
+URL: https://jinghuichen.github.io/
+Description: Jinghui Chen
+
+Assistant Professor, Ph.D.
+
+Penn State University
+
+Email: jzc5917 [at] psu [dot] edu
+
+ABOUT
+NEWS
+PUBLICATIONS
+RESEARCH
+STUDENTS
+TEACHING
+SERVICE
+About
+
+I am an Assistant Professor in the College of Information Sciences and Technology at Penn State University. I received my Ph.D. in the Department of Computer Science, University of California, Los Angeles (UCLA) working with Prof. Quanquan Gu in 2021. I received my B.E. in the Department of Electrical Engineering and Information Science at the University of Science and Technology of China in 2015.
+
+Prospective Students: I’m looking for highly motivated PhD/intern students to join my group. The official PhD application deadline for the Fall 2024 application cycle is Dec 15, 2023 (details). If you’re interested in joining my lab, please fill and see instructions in the following form (feel free to skip optional questions).
+
+Research Interests: My research interests broadly include the theory and applications in different aspects of machine learning, with particular interests on building efficient and trustworthy machine learning models. Recently, we are particularly interested in the following research topics:
+
+Trustworthiness and safety issues in Large Language Models (LLM alignments, LLM robustness, etc.)
+Security and privacy issues for other emerging machine learning models (multimodal foundation models, federated learning, diffusion models, etc.)
+Efficient optimization strategies for training large scale foundataion models/federated learning (adaptive gradient optimizers, parameter-efficient training, etc.)
+
+News
+[05/2024] Two papers are accepted to ACL 2024!
+[05/2024] Two papers are accepted to ICML 2024!
+[03/2024] Two papers are accepted to NAACL 2024!
+[01/2024] Two papers are accepted to ICLR 2024!
+[12/2023] One paper is accepted to AAAI 2024!
+[12/2023] Two papers are accepted to USENIX 2024!
+[09/2023] Five papers are accepted to NeurIPS 2023!
+[08/2023] We are organizing the Workshop on Federated Learning in the Age of Foundation Models at NeurIPS 2023 (FL@FM-NeurIPS’23). Submissions are welcome!
+[08/2023] Our paper is accepted to CIKM 2023: "RoCourseNet: Robust Training of a Prediction Aware Recourse Model"
+[05/2023] Our paper is accepted to KDD 2023: "PAT: Geometry-Aware Hard-Label Black-Box Adversarial Attacks on Text"
+[05/2023] Our paper is accepted to UAI 2023: "Benign Overfitting in Adversarially Robust Linear Classification"
+[04/2023] Our paper is accepted to ICML 2023: "Graph Contrastive Backdoor Attacks"
+[01/2023] Our paper is accepted to WWW 2023: "Do Language Models Plagiarize?"
+[01/2023] Our paper is accepted to ICLR 2023: "Spectral Augmentation for Self-Supervised Learning on Graphs"
+[12/2022] Our paper is accepted to AAAI 2023: "On the Vulnerability of Backdoor Defenses for Federated Learning"
+[09/2022] Our paper is accepted to NeurIPS 2022: "One-shot Neural Backdoor Erasing via Adversarial Weight Masking"
+[05/2022] Our paper is accepted to KDD 2022: "LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization"
+[05/2022] Our paper is accepted to ICML 2022: "Communication-Efficient Adaptive Federated Learning"
+[05/2022] Dr. Chen recieved received Cisco Faculty Research Award!
+[01/2022] Our paper is accepted to ICLR 2022: "Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations"
+[01/2022] Our paper is accepted to AISTATS 2022: "Communication-Compressed Adaptive Gradient Method for Distributed Nonconvex Optimization"
+[12/2021] Our paper is accepted to AAAI 2022: "Efficient Robust Training via Backward Smoothing"
+[09/2021] Our paper is accepted to NeurIPS 2021: "Do Wider Neural Networks Really Help Adversarial Robustness?"
+[06/2021] I recieved UCLA Outstanding Graduate Student Research Award.
+[04/2021] I will join the College of Information Sciences and Technology (IST) at Penn State University (PSU) in Fall 2021 as a tenure-track assistant professor.
+[07/2020] Released Model Robustness (ADBD) Leaderboard under RayS attack: Benchmarking state-of-the-art robust trained models with ADBD metric
+[05/2020] Our paper is accepted to KDD 2020: "RayS: A Ray Searching Method for Hard-label Adversarial Attack"
+[04/2020] Our paper is accepted to IJCAI 2020: "Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks"
+[04/2020] We just launched a project using machine learning and AI to combat Covid-19! Live data visualization and new cases / peak predictions
+[01/2020] Our paper is accepted to AISTATS 2020: "Understanding the Intrinsic Robustness of Image Distributions using Conditional Generative Models"
+[11/2019] Our paper is accepted to AAAI 2020: "A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks"
+Publications
+
+Full publications on Google Scholar.
+E indicates authors with equal contribution. underline indicates students supervised.
+
+ALL AT PSU
+Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM
+
+
+Bochuan CaoE, Yuanpu CaoE, Lu Lin, and Jinghui Chen, in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, 2024. [Paper]
+
+On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?
+
+
+Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, Jinyuan Jia, Jinghui Chen and Dinghao Wu, in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL), Bangkok, Thailand, 2024. [Paper]
+
+FADAS: Towards Federated Adaptive Asynchronous Optimization
+
+
+Yujia Wang, Shiqiang Wang, Songtao Lu and Jinghui Chen, in Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria, 2024.
+
+Graph Adversarial Diffusion Convolution via Laplacian Distance
+
+
+Songtao Liu, Jinghui Chen, Tianfan Fu, Lu Lin, Marinka Zitnik and Dinghao Wu, in Proceedings of the 41st International Conference on Machine Learning (ICML), Vienna, Austria, 2024.
+
+Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections
+
+
+Yuanpu Cao, Bochuan Cao and Jinghui Chen, in Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, 2024. [Paper]
+
+PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning
+
+
+Tianrong Zhang, Zhaohan Xi, Ting Wang, Prasenjit Mitra and Jinghui Chen, in Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Mexico City, Mexico, 2024.
+
+On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization
+
+
+Dongruo ZhouE, Jinghui ChenE, Yuan CaoE, Ziyan Yang, and Quanquan Gu, in Transactions on Machine Learning Research (TMLR), 2024. [Paper]
+
+Tackling the Data Heterogeneity in Asynchronous Federated Learning with Cached Update Calibration
+
+
+Yujia Wang, Yuanpu Cao, Jingcheng Wu, Ruoyu Chen and Jinghui Chen, in Proceedings of the 25th International Conference on Learning Representations (ICLR), Vienna, Austria, 2024. [Paper]
+
+Backdoor Contrastive Learning via Bi-level Trigger Optimization
+
+
+Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen and Lu Lin, in Proceedings of the 25th International Conference on Learning Representations (ICLR), Vienna, Austria, 2024. [Paper]
+
+VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models
+
+
+Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang and Fenglong Ma, in Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, 2024. [Paper]
+
+On the Difficulty of Defending Contrastive Learning against Backdoor Attacks
+
+
+Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji and Ting Wang, in Proceedings of the 33rd USENIX Security Symposium (USENIX), Philadelphia, PA, USA, 2024. [Paper]
+
+Unveiling the Secrets without Data: Can Graph Neural Networks Be Exploited through Data-Free Model Extraction Attacks?
+
+
+Yuanxin Zhuang, Chuan Shi, Mengmei Zhang, Jinghui Chen, Lingjuan Lyu, Pan Zhou and Lichao Sun, in Proceedings of the 33rd USENIX Security Symposium (USENIX), Philadelphia, PA, USA, 2024. [Paper]
+
+Federated Learning with Projected Trajectory Regularization
+
+
+Tiejin ChenE, Yuanpu CaoE, Yujia WangE, Cho-Jui Hsieh, and Jinghui Chen, arXiv:2312.14380, 2023. [Paper]
+
+IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI
+
+
+Bochuan Cao, Changjiang Li, Ting Wang, Jinyuan Jia, Bo Li and Jinghui Chen, in Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, USA, 2023. [Paper]
+
+VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models
+
+
+Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang and Fenglong Ma, in Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, USA, 2023. [Paper]
+
+A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning
+
+
+Hangfan Zhang, Jinyuan Jia, Jinghui Chen, Lu Lin and Dinghao Wu, in Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, USA, 2023. [Paper]
+
+Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks
+
+
+Tianyu Du, Zhaohan Xi, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma and Ting Wang, in Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, USA, 2023. [Paper]
+
+UniT: A Unified Look at Certified Robust Training against Text Adversarial Perturbation
+
+
+Muchao Ye, Ziyi Yin, Tianrong Zhang, Tianyu Du, Jinghui Chen, Ting Wang and Fenglong Ma, in Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS), New Orleans, Louisiana, USA, 2023. [Paper]
+
+RoCourseNet: Robust Training of a Prediction Aware Recourse Model
+
+
+Hangzhi Guo, Feiran Jia, Jinghui Chen, Anna Squicciarini and Amulya Yadav, in Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), Birmingham, UK, 2023. [Paper]
+
+PAT: Geometry-Aware Hard-Label Black-Box Adversarial Attacks on Text
+
+
+Muchao Ye, Jinghui Chen, Chenglin Miao, Han Liu, Ting Wang and Fenglong Ma, in Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), San Diego, CA, USA, 2023. [Paper]
+
+Benign Overfitting in Adversarially Robust Linear Classification
+
+
+Jinghui ChenE, Yuan CaoE, and Quanquan Gu, in Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI), Pittsburgh, PA, USA, 2023. [Paper]
+
+Graph Contrastive Backdoor Attacks
+
+
+Hangfan Zhang, Jinghui Chen, Lu Lin, Jinyuan Jia and Dinghao Wu, in Proceedings of the 40th International Conference on Machine Learning (ICML), Hawaii, USA, 2023. [Paper]
+
+Multiple Models for Outbreak Decision Support in the Face of Uncertainty
+
+
+Katriona Shea, ..., Jinghui Chen, ..., Michael C. Runge., in Proceedings of the National Academy of Sciences (PNAS), 2023. [Paper]
+
+Do Language Models Plagiarize?
+
+
+Lee, Jooyoung, Thai Le, Jinghui Chen, and Dongwon Lee, in Proceedings of the ACM Web Conference (WWW), Austin, Texas, USA, 2023. [Paper]
+
+Spectral Augmentation for Self-Supervised Learning on Graphs
+
+
+Lu Lin, Jinghui Chen, Hongning Wang, in Proceedings of the 11th International Conference on Learning Representations (ICLR), Kigali Rwanda, 2023. [Paper] [Code]
+
+On the Vulnerability of Backdoor Defenses for Federated Learning
+
+
+Pei Fang and Jinghui Chen, in Proceedings of the 37th Conference on Artificial Intelligence (AAAI), Washington DC, USA, 2023. [Paper] [Code]
+
+One-shot Neural Backdoor Erasing via Adversarial Weight Masking
+
+
+Shuwen Chai and Jinghui Chen, in Proceedings of the 36th Advances in Neural Information Processing Systems (NeurIPS), New Orleans, LA, USA, 2022. [Paper] [Code]
+
+Accelerating Adaptive Federated Optimization with Local Gossip Communications
+
+
+Yujia Wang, Pei Fang and Jinghui Chen, in International Workshop on Federated Learning: Recent Advances and New Challenges in Conjunction with NeurIPS 2022 (FL-NeurIPS), 2022. [Paper]
+
+How Powerful is Implicit Denoising in Graph Neural Networks
+
+
+Songtao Liu, Zhitao Ying, Hanze Dong, Lu Lin, Jinghui Chen and Dinghao Wu, NeurIPS 2022 Workshop on New Frontiers in Graph Learning (GLFrontiers-NeurIPS). [Paper]
+
+The United States COVID-19 Forecast Hub dataset
+
+
+Estee Y Cramer, ..., Jinghui Chen, ..., Nicholas G. Reich, Scientific Data, 9(1), pp.1-15., 2022. [Paper]
+
+LeapAttack: Hard-Label Adversarial Attack on Text via Gradient-Based Optimization
+
+
+Muchao Ye, Jinghui Chen, Chenglin Miao, Ting Wang and Fenglong Ma, in Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Washington DC, USA, 2022. [Paper]
+
+Communication-Efficient Adaptive Federated Learning
+
+
+Yujia Wang, Lu Lin and Jinghui Chen, in Proceedings of the 39th International Conference on Machine Learning (ICML), Baltimore, Maryland, USA, 2022. [Paper] [Code]
+
+Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US
+
+
+Estee Y Cramer, ..., Jinghui Chen, ..., Nicholas G. Reich, in Proceedings of the National Academy of Sciences (PNAS), 2022. [Paper]
+
+Learnability Lock: Authorized Learnability Control Through Adversarial Invertible Transformations
+
+
+Weiqi Peng and Jinghui Chen, in Proceedings of the 10th International Conference on Learning Representations (ICLR), Virtual, 2022. [Paper] [Code]
+
+Communication-Compressed Adaptive Gradient Method for Distributed Nonconvex Optimization
+
+
+Yujia Wang, Lu Lin and Jinghui Chen, in Proceedings of the 25th International Conference on Artificial Intelligence and Statistics (AISTATS), Virtual, 2022. [Paper] [Code]
+
+Efficient Robust Training via Backward Smoothing
+
+
+Jinghui Chen, Yu Cheng, Zhe Gan, Quanquan Gu and Jingjing Liu, In Proceedings of the 36th AAAI Conference on Artificial Intelligence (AAAI), Vancouver, BC, Canada, 2022. [Paper] [Code]
+
+Do Wider Neural Networks Really Help Adversarial Robustness?
+
+
+Boxi WuE, Jinghui ChenE, Deng Cai, Xiaofei He and Quanquan Gu, in Proceedings of the 35th Advances in Neural Information Processing Systems (NeurIPS), Virtual, 2021. [Paper]
+
+Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States
+
+
+Difan Zou, Lingxiao Wang, Pan Xu, Jinghui Chen, Weitong Zhang and Quanquan Gu, ICLR 2021 Workshop on Machine Learning for Preventingand Combating Pandemics (MLPCP-ICLR). [Paper]
+
+Ensemble Forecasts of Coronavirus Disease 2019 (COVID-19) in the U.S
+
+
+COVID-19 Forecast Hub Consortium, Jinghui Chen., medRxiv:2020.08.19.20177493, 2020. [Paper]
+
+RayS: A Ray Searching Method for Hard-label Adversarial Attack
+
+
+Jinghui Chen and Quanquan Gu, in Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), San Diego, CA, USA 2020. [Paper] [Code]
+
+Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks
+
+
+Jinghui Chen, Dongruo Zhou, Yiqi Tang, Ziyan Yang, Yuan Cao and Quanquan Gu, in Proceedings of 29th International Joint Conference on Artificial Intelligence (IJCAI), Yokohama, Japan, 2020. [Paper] [Code]
+
+Understanding the Intrinsic Robustness of Image Distributions using Conditional Generative Models
+
+
+Xiao ZhangE, Jinghui ChenE, Quanquan Gu and David Evans, in Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics (AISTATS), Palermo, Sicily, Italy, 2020. [Paper] [Code]
+
+A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks
+
+
+Jinghui Chen, Dongruo Zhou, Jinfeng Yi and Quanquan Gu, in Proceedings of the 34th Conference on Artificial Intelligence (AAAI), New York, New York, USA, 2020. [Paper] [Code]
+
+Global Convergence of Langevin Dynamics Based Algorithms for Nonconvex Optimization
+
+
+Pan XuE, Jinghui ChenE, Difan Zou and Quanquan Gu, in Proceedings of the 32nd Advances in Neural Information Processing Systems (NeurIPS), Montréal, Canada, 2018. [Paper]
+
+Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization
+
+
+Jinghui Chen, Pan Xu, Lingxiao Wang, Jian Ma and Quanquan Gu, in Proceedings of the 35th International Conference on Machine Learning (ICML), Stockholm, Sweden, 2018. [Paper] [Code]
+
+Fast Newton Hard Thresholding Pursuit for Sparsity Constrained Nonconvex Optimization
+
+
+Jinghui Chen and Quanquan Gu, in Proceedings of the 23rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Halifax, Nova Scotia, Canada, 2017. [Paper]
+
+Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption
+
+
+Jinghui Chen, Lingxiao Wang, Xiao Zhang, and Quanquan Gu, arXiv:1704.06256, 2017. [Paper]
+
+Outlier Detection with Autoencoder Ensembles
+
+
+Jinghui Chen, Saket Sathe, Charu Aggarwal, and Deepak Turaga, in Proceedings of the 17th SIAM International Conference on Data Mining (SDM), Houston, Texas, USA, 2017. [Paper]
+
+Stochastic Block Coordinate Gradient Descent for Sparsity Constrained Optimization
+
+
+Jinghui Chen and Quanquan Gu, in Proceedings of the 32th International Conference on Uncertainty in Artificial Intelligence (UAI), New York, USA, 2016. [Paper]
+
+Improved threshold Selection by using Calibrated Probabilities for Random Forest Classifiers
+
+
+Florian Baumann, Jinghui Chen, Karsten Vogt and Bodo Rosenhahn, in Proceedings of the 12th Conference on Computer and Robot Vision (CRV), Halifax, Nova Scotia, Canada, 2015. [Paper]
+
+Research
+
+The research of our lab is focused on different aspects of machine learning (efficiency, robustness, interpretability, responsibility, trustworthiness) and their applications in computer vision, graph learning, anomaly detection, cybersecurity, recommendation systems, computational genomics, etc. Some of our current research projects are:
+
+Trustworthiness and Saftey Issues in Large Language Models
+Studying the vulnerabilities inside the current LLMs and how we can improve them for better trustworthiness.
+Optimization in Machine Learning
+Studying the convergence of machine learning optimizers including adaptive gradient optimizers and designing new generation of optimizers for deep learning.
+Poisoning/Backdoor Attacks and Defenses
+Studying the effects of poisoning and backdoor attacks on deep learning models, as well as how to mitigate those threats.
+Federated Machine Learning
+Addressing the emerging challenges for Federated Learning in practical scenarios such as data and model heterogeneity, communication efficiency, as well as security and privacy issues.
+Adversarial Robustness in Machine Learning
+Evaluating, understanding, and improving adversarial robustness in deep learning as well as studying the theoretical foundations behind adversarial training and robust learning.
+Robustness in Graph Nerual Networks
+Improving the robustness of the current graph neural networks again graph structural/feature perturbations.
+Students
+Current Ph.D. Students
+Yujia Wang (Ph.D., Spring 2022 - Present)
+Bochuan Cao (Ph.D., Fall 2022 - Present)
+Tianrong Zhang (Ph.D. co-advising with Dr. Prasenjit Mitra, Fall 2022 - Present)
+Yuanpu Cao (Ph.D., Fall 2023 - Present)
+Current Undergrad/Master/Intern Students
+Ben Hsiao (Undergrad at PSU, Fall 2023 - Present)
+Malcolm Zerbe (Undergrad at PSU, Fall 2023 - Present)
+Bharavi Misra (Undergrad at PSU, Fall 2023 - Present)
+Alumni
+Avi Bewtra (Undergrad at PSU, Fall 2021 - Spring 2022)
+Weiqi Peng (Research Intern, Fall 2021 - Spring 2022, Now at Amazon)
+Shuwen Chai (Research Intern, Fall 2021 - Spring 2022, Now a Ph.D. student at Northwestern University)
+Pei Fang (Research Intern, Fall 2021 - Fall 2023, Now at Ant Financial)
+Weiyu Sun (Research Intern, Summer 2022 - Fall 2023)
+Tiejin Chen (Research Intern, Summer 2022 - Fall 2022, Now a Ph.D. student at ASU)
+Aryan Harshanan Patil (Undergrad at PSU, Fall 2022 - Spring 2023)
+Sirui Qi (Undergrad at PSU, Fall 2022 - Spring 2023)
+Sooraj Narayanan Sekar (Undergrad at PSU, Fall 2022 - Spring 2023)
+Jingcheng Wu (Research Intern, Spring 2023 - Fall 2023, Now at Google)
+Ruoyu Chen (Research Intern, Spring 2023 - Fall 2023)
+Teaching
+
+Fall 2023: DS310: Machine Learning for Data Analytics
+Spring 2023: SRA221: Overview of Information Security
+Fall 2022: IST597: Special Topics on Adversarial Machine Learning
+Spring 2022: SRA221: Overview of Information Security
+Fall 2021: IST597: Special Topics on Adversarial Machine Learning
+
+Acadamic Service
+Senior Program Committee
+International Joint Conference on Artificial Intelligence (IJCAI)
+AAAI Conference on Artificial Intelligence (AAAI)
+Program Committee/Reviewer
+International Conference on Machine Learning (ICML)
+Neural Information Processing Systems (NeurIPS)
+International Conference on Learning Representations (ICLR)
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)
+International Conference on Computer Vision (ICCV)
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
+International Conference on Artificial Intelligence and Statistics (AISTATS)
+The Conference on Uncertainty in Artificial Intelligence (UAI)
+IEEE International Conference on Big Data (BigData)
+SIAM International Conference on Data Mining (SDM)
+Journal Reviewer
+Journal of Machine Learning Research (JMLR)
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+IEEE Transactions on Knowledge and Data Engineering (TKDE)
+IEEE Signal Processing Letters (SPL)
+ACM Transactions on Knowledge Discovery from Data (TKDD)
+Journal of Artificial Intelligence Research (JAIR)
+Journal of Industrial and Management Optimization (JIMO)
+Journal of Computational and Applied Mathematics (ELSCAM)
+Neural Networks (NEUNET)
+BioData Mining (BIDM)
+Machine Learning (MACH)
+Mathematical Biosciences and Engineering (MBE)
+Reviews in Biomedical Engineering (RBME)
+Pattern Recognition Letters (PRLETTERS)
+Transactions on Big Data (TBD)
+Machine Learning and Knowledge Extraction (MAKE)
+Advanced Theory and Simulations
+Frontiers in Artificial Intelligence
+PLOS ONE
+PLOS Global Public Health
+Applied Science
+Algorithms
+Electronics
+Neurocomputing
+Entropy
+© Copyright 2022 Jinghui Chen. Powered by jekyll with theme from Martin Saveski. Hosted by GitHub Pages.
+

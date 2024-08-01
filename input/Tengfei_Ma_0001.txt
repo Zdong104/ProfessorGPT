@@ -1,0 +1,97 @@
+Professor: Tengfei Ma 0001
+University: Stony Brook University
+URL: https://sites.google.com/site/matf0123
+Description: Skip to main content
+Skip to navigation
+Tengfei Ma's Homepage	
+HomePublicationsData and CodesPersonal
+	
+Tengfei Ma (马腾飞) 
+
+Assistant Professor,
+
+Department of Biomedical Informatics,
+
+with affiliation to Department of Computer Science and Applied Mathematics & Statistics,
+
+Stony Brook University
+
+Email: Tengfei.Ma (at) stonybrook (dot) edu 
+
+OR Tengfei.Ma (at) stonybrookmedicine (dot) edu
+
+
+
+
+
+Introduction
+
+I am an assistant professor in Department of Biomedical Informatics of Stony Brook University. Prior to that, I was a staff research scientist at IBM T. J. Watson Research Center in New York from 2016 to 2023, and a researcher at IBM Research-Tokyo from 2015 to 2016. I obtained my Ph.D. from The University of Tokyo, M.S. from Peking University, and B.E. from Tsinghua University.
+
+
+My research interests include machine learning, natural language processing (NLP) and biomedical informatics. In particular, my current research is mainly focused on deep graph learning, and I also worked on a variety of applications in healthcare and NLP areas. My profile in Stony Brook University is here for BMI or here for AI Institute. 
+
+
+
+Research Highlights
+
+(1) Deep Graph Learning: Deep Graph Learning (DGL) is a field of deep learning which analyzes data with graph structures, such as social networks, drug-target interaction networks, molecules. In the past few years, I was dedicated to improving graph neural networks to make them more powerful, efficient, and adaptable to various scenarios. My research on DGL covers (but not limited to) the following aspects: scalability (FastGCN [ICLR18], IGB [KDD23]), dynamic graph learning (EvolveGCN [AAAI20]), graph generation (Constrained GraphVAE [NeurIPS18], Federated Feature Fusion [UAI23]), graph learning with geometry and topology ([ICLR20, ICML21, ICML22, NeurIPS22]), graph coarsening ([AAAI20, EMNLP21]).
+
+(2) Healthcare and Biomedical Research: Many of the applications of graph neural networks have a biomedical context (e.g. drug discovery), so it is natural to do biomedicine-related research as a graph learning researcher. Beyond that, I also work on computational healthcare problems, i.e. EHR (electronic health record) analysis. My collaborators and I have developed many new deep learning models, especially graph neural networks ([AAAI19, IJCAI19]) and neuro-symbolic models [ICDM22, ICLR23], to solve various healthcare prediction problems, e.g. patient phenotyping and disease risk analysis, readmission prediction, medication recommendation. In addition, I also applied some of those models to medical time series analysis for monitoring wound healing.
+
+(3) Natural Language Processing: I have been working on the topics of natural language processing since my early career. Enabling machines to understand natural languages is critical to achieve real intelligence. One major topic of my work in NLP is how to generate good document representations and summaries (e.g. [EMNLP 20, EMNLP 21, EMNLP 21 findings, EMNLP 23]). I am also interested in the connection of graphs with LLMs and medical NLP. 
+
+For more information, please check my publications or Google Scholar profile. 
+
+
+
+Information for Collaboration
+
+I am open to collaborations with highly motivated students and researchers with strong machine learning and mathematical backgrounds. 
+
+In SBU, I take students from CS, BMI and AMS. Students from any of these departments are welcome to contact me regarding collaboration opportunities or RA positions. 
+
+
+
+
+ 
+
+Recent News:
+
+ New!!!  6/2024 Our paper "TrojVLM: Backdoor attack against vision language model" is accepted by ECCV 2024.
+
+New!!!  5/2024 Our paper about graph transformers is accepted by ICML 2024. In the paper we introduced the first theoretic investigation of a shallow graph transformer by characterizing its sample complexity and disclosed how self-attention and position encoding enhance the generalization of graph transformers.
+
+New!!!  3/2024 One paper is accepted by NAACL2024 Findings. In the paper we proposed a new mechanism for retrieval augmented code summarization.
+
+New!!! 12/2023: One paper about cross-lingual adaptation for code clone detection is accepted by AAAI 2024. 
+
+New!!! 11/2023: "Cycle Invariant Positional Encoding for Graph Representation Learning" is accepted by LOG2023 as an oral paper. 
+
+New!!! 10/2023: Two papers are accepted by EMNLP 2023 main conference. In one paper we demonstrated that compressing the external knowledge graph can lead to more diverse commonsense generation; in another paper we proposed to use control flow graph and pseudo code to guide the binary code summarization.
+
+New!!! 09/2023: "SyncTREE: Fast Timing Analysis for Integrated Circuit Design through a Physics-informed Tree-based Graph Neural Network" is accepted to NeurIPS 2023.
+
+New!!! 08/2023: I joined Stony Brook University as an assistant professor!
+
+07/2023: Our paper from DARPA BETR project, "A miniaturized, battery-free, wireless wound monitor that predicts wound closure rate early", got accepted to Advanced Healthcare Materials.
+
+05/2023: "IGB: Addressing The Gaps In Labeling, Features, Heterogeneity, and Size of Public Graph Datasets for Deep Learning Research" has been accepted to KDD2023 ADS track. Collaborating with UIUC, we created a new large-scale graph benchmark, named the Illinois Graph Benchmark (IGB), with over 162X more labeled data than previous public large graph datasets. It will facilitate practitioners to conduct systemic evaluation of GNN performance. The datasets are available at https://github.com/IllinoisGraphBenchmark/IGB-Datasets 
+
+05/2023: "Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs" is accepted to UAI2023. 
+
+01/2023: A new neural symbolic paper for event stream modeling "Weighted Clock Logic Point Process" is accepted to ICLR2023.
+
+01/2023: Our paper Slide4N which uses AI tools to assist automatic generation of presentation slides from computational notebooks is conditionally accepted to CHI2023. 
+
+More News (click to expand)
+
+1/2021: My new book about graph neural networks (in Chinese) is online now. 
+
+JD: https://item.jd.com/13104020.html 
+
+Dangdang: http://product.dangdang.com/29199023.html
+
+Google Sites
+Report abuse
+

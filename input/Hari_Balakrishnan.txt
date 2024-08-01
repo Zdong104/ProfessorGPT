@@ -1,0 +1,116 @@
+Professor: Hari Balakrishnan
+University: Massachusetts Institute of Technology
+URL: http://nms.lcs.mit.edu/~hari
+Description: 	
+Hari Balakrishnan
+	
+Address:	32-G942, MIT CSAIL
+The Stata Center
+32 Vassar Street
+Cambridge, MA 02139, USA
+
+	firstname followed by at csail mit edu
+
+I'm the Fujitsu Professor in the EECS Department at MIT and lead the Networks and Mobile Systems group at CSAIL. My research is in the area of networked computer systems, with current interests in networking, sensing, and perception for a world of mobile, sensor-equipped devices connected to services running in the cloud or the network edge. My past work has contributed to mobile and sensor computing, wireless networks, Internet architecture (congestion control, routing, network security), overlay and P2P networks, and data management (stream processing and secure databases). Short bio.
+
+In August 2021, I received the ACM SIGCOMM award for "lifetime contributions" and was invited to give a keynote at the conference (as is tradition), which is on YouTube. The talk, titled "Mind the App!" was about how applications have inspired several of my research projects on mobile and wireless systems, resilient networks, and congestion control.
+
+My papers and group's software.
+My older (pre-1999) older papers and software.
+
+Current Research
+Mapster: Automated techniques for building better and smarter maps from aerial imagery and terrestrial position sensor data
+Drone Sensing and Intelligence: Mobile sensing, tasking, and perception with UAVs. E.g., Beecluster, a tasking framework for cross-platform drone apps
+Congestion Control Plane: A new platform and API for writing congestion control algorithms.
+Congestion control algorithms: Copa, ABC, Nimbus, and more
+RFocus: Precise Beamforming with Smart Surfaces
+Recently Completed Projects
+Centralized data planes for datacenters and enterprise networks: Fastpass and other such approaches
+Programmable data planes for routers: Domino, PIFO
+App-Centric Transport (ACT) for the Internet, especially with
+Polaris, which makes the web faster with fine-grained dependency tracking of web objects
+Mahimahi, a tool for browser developers, website authors, and network protocol designers that provides accurate measurements when recording and replaying HTTP content over emulated network conditions.
+Sprout, a transport protocol for interactive applications such as videoconferencing over variable networks (e.g., cellular)
+Computer-synthesized protocols with Remy
+Continuous mobile object recognition: Glimpse
+
+Some past projects include: CarTel, Spinal Codes, CryptDB, Snoop (wireless TCP), Congestion Manager, Cricket, RON, Chord, Migrate, INS, Medusa / Borealis, internet routing / rcc, Infranet, SFR, Divert/MRD, DOA, DQE, speak-up, AIP, anomaly detection, HRDB, Wavescope/Wishbone, SoftPHY protocols (SoftRate, MIXIT, conflict-map MAC) AirBlue cross-layer experimentation platform, Relational Cloud (a database-as-a-service for the cloud, incl. Kairos)
+
+Teaching
+In Spring 2016, Sam Madden and I are teaching a new hands-on course on Mobile and Sensor Computing (6.S062).
+6.02 (Intro to EECS-II: Digital Communication Systems). Taken by all Course VI undergrads. Fall 15, Fall 12, Spring 12, Fall 11, Fall 10, Spring 10, Fall 09, Spring 09, Spring 08, Fall 07, Spring 07.
+6.033 (Computer Systems Engineering). Taken by most (all?) CS undergrads. Spring 15, Spring 05, Spring 04, Spring 02, Spring 00, Spring 99 (recitations).
+6.829 (Computer Networks). Graduate course. Spring 13, Spring 08, Fall 05, 03, 02, 01, 00, 99, 98.
+Cloud computing seminar (6.897) (Spring 11).
+Selected Honors
+Marconi Prize for "fundamental contributions to mobile sensing, networking, and distributed systems", 2023. MIT News article.
+SIGCOMM paper award (starvation in end-to-end congestion control), 2022.
+ACM SIGCOMM Award for "lifetime" contributions to mobile and wireless systems, resilient networks, and congestion control, 2021. Mind the App! (keynote talk at SIGCOMM 2021)
+IEEE Koji Kobayashi Computers and Communications Award, 2021
+UC Berkeley EECS Distinguished Alumnus Award, 2021
+Infosys Prize from the Infosys Science Foundation, 2020
+American Academy of Arts and Sciences, 2017
+National Academy of Engineering, 2015
+IEEE Fellow, 2020
+ACM Fellow, 2008
+Sloan Fellow, 2002
+SenSys Test of Time Award, 2019
+SIGMOBILE Test of Time Award, 2018, 2017
+SIGMOD Test of Time Award, 2017
+SIGOPS Hall of Fame Award, 2015
+SIGCOMM Test of Time Award, 2011
+Harold E. Edgerton Faculty Achievement Award for Research and Teaching, MIT, 2003
+MIT Teaching Awards: HKN Best Instructor Award (2018), Jamieson Award (2012), Junior Bose (2002), Ruth and Joel Spira (2001)
+Distinguished Alumnus, IIT Madras, 2013
+SenSys Best Paper Award, 2009
+NSDI Best Paper Award, 2005
+IEEE Bennett Paper Prize, 2004
+MobiCom Best Paper Award, 2006, 2000, 1995
+ACM Doctoral Dissertation Award, 1998
+Students & post-docs
+Current PhD students: William Sussman | Harsha Sharma (with Alizadeh) | Chenning Li (with Alizadeh) | James Lynch | Charie Liu
+Graduated PhD students (theses) in inverse chronological order, with current affiliations:
+Arjun Balasingam (January 2024, Tifo)
+Venkat Arun (September 2023, UT Austin)
+Frank Cangialosi (June 2023, BreezeML)
+Akshay Narayan (June 2022, UC Berkeley postdoc)
+Songtao He (June 2022, Citadel)
+Prateesh Goyal (November 2021, Microsoft Research)
+Peter Iannucci (June 2019, Postdoc, UT Austin)
+Amy Ousterhout (June 2019, Postdoc, UC Berkeley)
+Ravi Netravali (September 2018, Assistant Professor, UCLA Associate Professor, Princeton, SIGCOMM Rising Star)
+Anirudh Sivaraman (June 2017, Assistant Professor, New York University)
+Jonathan Perry (June 2016, Founder & CEO Flowmill, acquired by Splunk)
+Yu-Han (Tiffany) Chen (June 2016, Waymo)
+Shuo Deng (June 2015, CTO care.coach)
+Keith Winstein (June 2014, Assistant Professor, Stanford University)
+Lenin Ravindranath (June 2014, Microsoft Research)
+Katrina LaCurts (June 2014, Lecturer, MIT EECS)
+Arvind Thiagarajan (September 2011, Twitter; previously co-founded Infix, acquired by Amazon.com)
+Mythili Vutukuru (June 2010, Movik Networks Associate Professor of CSE at IIT Bombay)
+Bret Hull (January 2010, VP & CTO, Cisco Meraki)
+Kyle Jamieson (June 2008, Lecturer (= Assistant Professor) at University College, London AssistantProfessor, Princeton University; SIGMOBILE Rockstar)
+Michael Walfish (November 2007, Professor, New York UniversityAssistant Professor of CS at UT Austin)
+Jaeyeon Jung (May 2006, Intel Microsoft ResearchCorporate VP at Samsung
+Allen Miu (May 2006, Co-founder & CTO Frontiir)
+Magdalena Balazinska (December '05, AssociateProfessor and Director of Allen Schoo of CSE at the Univ. of Washington, Microsoft Faculty Fellow, ACM Fellow)
+Nick Feamster (September '05, Sprowls award Honorable Mention, now Associate Professor of CS at Georgia Tech Princeton University University of Chicago, PECASE winner, Sloan Fellow, SIGCOMM Rising Star)
+Nissanka Bodhi Priyantha (May '05, winner of a Sprowls Award, now at Microsoft Research)
+David Andersen (December '04, winner of a Sprowls Award for best MIT CS thesis, now Associate Professor of CS at CMU)
+Alex Snoeren (December '02, Sprowls Honorable Mention, now Assistant Associate Professor of CSE at UCSD, ACM Fellow)
+Wendi Heinzelman (June '00, co-supervised w/ Prof. Chandrakasan, now Assistant Associate Professor of ECE and Dean of Graduate Studies at Rochester, ACM Fellow)
+I also worked closely with Favyen Bastani, Raluca Ada Popa (SM advisor and collaborator on her PhD projects, now at UC Berkeley), Godfrey Tan (Intel Frontiir), Sachin Katti (Stanford), Ryan Newton (Indiana), Ben Vandiver (Vertica), Asfandyar Qureshi (Google), Jayashree Subramanian (Bell Labs), Sejoon Lim (Oracle), Evan Jones.
+Past post-docs: Jakob Eriksson (Aug 2006-July 2008), Lewis Girod (Feb 2006-Jan 2008), Ramki Gummadi (2007-2009), Can Emre Koksal (2002-2004), Calvin Newport (2009-11) | Evdokia Nikolova (2009-11) | Geoffrey Werner-Challen (2010-11) | Rohan Murty (2011-12), Srinivas Narayana (2016-18), Radhika Mittal (2018-19). I also worked closely with Carlo Curino.
+Commercial activities
+Founder and CTO of Cambridge Mobile Telematics (CMT). A spin-off from the CarTel project, CMT develops innovative mobile sensing technology and data analytics to improve driving behavior and make roads safer around the world. Its products are used daily by drivers worldwide in popular smartphone applications. In 2013, CMT launched the DriveWell mobile app, providing an accurate, scalable, and customizable telematics solution for automobile insurance providers and their customers. DriveWell not only measures driving behavior, but also helps users become better drivers. It provides a scalable technology for traditional usage-based insurance, but also allows insurers to think in terms of behavior-based models.
+Advisor to Opaque Systems, Ikigai Labs, streamAlive, Prescient Devices, Walrus Security, Flowmill (acquired by Splunk), Valtix, Yugabyte, Perch, Lumo, Cloudseal (acquired by Facebook)
+Advisor, Meraki Networks (acquired by Cisco), 2006-2012. Meraki started by commercializing wireless mesh networking based on MIT's Roofnet project. It then pioneered cloud-based remote network management of deployed wireless access points in its products.
+Co-founder, StreamBase Systems (acquired by TIBCO), 2003-2008. StreamBase commercialized the Aurora and Medusa stream processing systems based on research conducted at MIT, Brown, and Brandeis. It developed a leading product for processing massive amounts of streaming data, with success particularly in the financial services.
+Consultant and algorithm architect for Sandburst (acquired by Broadcom), 2000-2003. Developed algorithms (and patents) for rate guarantees and overload protection, switch scheduling, and packet classification.
+Personal information
+Education: PhD (UC Berkeley CS), 1998; BTech (IIT Madras CS), 1993; High school (KVIIT, Madras), 1989.
+My sister, Hamsa Balakrishnan, is the Leonhard Professor at MIT and also Associate Head of the AeroAstro Department. She works in the areas of control and optimization of cyber-physical infrastructure with an emphasis on air transportation. She received her PhD at Stanford in 2006 and was at NASA before coming to MIT in 2007. She received the Donald Eckman Award from the American Control Council in 2014 and the AIAA Lawrence Sperry Award in 2012.
+My mother, Radha Balakrishnan is a theoretical physicist. She has been profiled in Lilavati's Daughters, a thought-provoking book with essays on fifty well-known Indian women scientists.
+My father, V. Balakrishnan, is a theoretical physicist. He has a series of great lectures on classical physics, quantum mechanics, mathematical physics, and more on YouTube, which are among the best and most popular lectures on Physics in the world with many million views and thousands of positive ratings and comments. Check them out!
+My academic ancestry
+

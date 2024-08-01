@@ -1,0 +1,39 @@
+Professor: Tomasz Arodz
+University: Virginia Commonwealth University
+URL: http://www.people.vcu.edu/~tarodz
+Description: 
+introduction
+research
+publications
+people
+teaching
+contact
+	
+ARODZ BIOINFORMATICS & MACHINE LEARNING LAB
+			
+	labfocus  
+
+Development of new machine learning and bioinformatics methods.
+
+Collaborative studies of human health using bioinformatics and machine learning.
+			
+	recentresults
+We proposed a new group testing approach tailored for scenarios where quantitative measurements are available (e.g. Ct values in PCR tests). It allows using much fewer tests than there are samples to be tested.
+Real-valued group testing for quantitative molecular assays. RECOMB 2022
+We designed a technique for reducing the size of embedding matrices and self-attention weight matrices in deep Transformer-based language models using a much more compact, yet expressive representation based on Kronecker/tensor products.
+Shapeshifter: a parameter-efficient Transformer using factorized reshaped matrices. NeurIPS 2021
+word2ket: space-efficient word embeddings inspired by quantum entanglement. ICLR 2020
+We formulated and analyzed two quantum machine learning algorithms: a semi-supervised SVM based on quantum HHL/LMR protocol, and a sparse SVM based on quantum LP solver.
+Quantum semi-supervised kernel learning. Quantum Machine Intelligence 3:1-11, 2021
+Quantum sparse support vector machines. QML+ Workshop, 2018
+We used techniques from topology (embedding of homeomorphisms into flows) to analyze whether two popular recent architectures for creating invertible deep nets, neural ordinary differential equations and invertible ResNets, have the capability to model arbitrary invertible function.
+Approximation capabilities of Neural ODEs and Invertible Residual Networks. ICML 2020
+We combined MCMC, binary quadratic programming, and knowledge from biological networks to identify which of the somatic mutations present in cancer patients are contributing to the onset and progress of the disease, and which are just 'passenger mutations' with no impact.
+PathMEx: pathway-based mutual exclusivity for discovering rare cancer driver mutations. ICCS 2021
+QuaDMutNetEx: a method for detecting cancer driver genes with low mutation frequency. BMC Bioinformatics 21:122, 2020
+QuaDMutEx: quadratic driver mutation explorer. BMC Bioinformatics 18:458, 2017
+Within a large cMEDA team, we analyzed the effects of human microbiome composition on pregnancy outcomes.
+The vaginal microbiome and preterm birth. Nature Medicine 25:1012-1021, 2019
+Racioethnic diversity in the dynamics of the vaginal microbiome during pregnancy. Nature Medicine 25:1001-1011, 2019
+			
+

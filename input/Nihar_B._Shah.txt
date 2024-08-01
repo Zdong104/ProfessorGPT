@@ -1,0 +1,702 @@
+Professor: Nihar B. Shah
+University: Carnegie Mellon University
+URL: http://www.cs.cmu.edu/~nihars
+Description: NIHAR B. SHAH
+ HOME RESEARCH PUBLICATIONS GROUP TEACHING C.V. 
+
+
+
+I am an associate professor at CMU in the Machine Learning and the Computer Science departments. I work in the areas of machine learning, statistics, information theory and game theory. My current work addresses various biases and other challenges in human evaluations via principled and practical approaches. A focus application is scientific peer review, where our work has already made significant impact.
+
+Survey on Systemic Challenges and Solutions on Bias and Unfairness in Peer Review, and associated tutorial slides
+
+Blog on various aspects of academia, research, and peer review
+
+Email: nihars [at] cs.cmu.edu
+Office: GHC 8211
+
+
+
+
+
+
+RESEARCH
+
+My research focusses on two inter-related themes:
+
+Distributed human evaluations: Distributed human evaluations are integral to various applications where a set of items is assessed by a group of individuals, each person evaluating only a subset of the items and each item being evaluated by only a handful of individuals. This setup is commonly seen in domains such as scientific peer review, hiring and promotion processes, academic admissions, crowdsourcing initiatives, healthcare assessments, judicial verdicts, and online rating and recommendation systems, among others. The decentralization of evaluations, however, often leads to a host of challenges including instances of fraud, subjectivity, miscalibration, biases, breaches of privacy, and operational inefficiencies.
+Research on research Our research also focuses on problems in scientific research itself and its evaluations. The challenges within this domain hold substantial consequences. They impact the allocation of billions of dollars in annual grant awards, influence the trajectories of researchers' careers due to the "rich-gets-richer" phenomenon in academia, and can detrimentally affect the public's perception of science.
+Our research addresses these important challenges at scale, in a principled and pragmatic manner. Our work is comprehensive, establishing fundamental limits, designing algorithms, deriving theoretical guaranees for them, conducting evaluations, and working with users for actual deployment and impact. The algorithms we have developed are now extensively used for peer review of tens of thousands of papers across computer science and various other fields. Additionally, our experiments have helped to shape the policies of numerous peer-review venues in an evidence-based manner. Finally, the impact of our work extends to domains beyond review of scientific papers.
+
+
+
+
+PUBLICATIONS
+What Can Natural Language Processing Do for Peer Review?
+
+
+A Randomized Controlled Trial on Anonymizing Reviewers to Each Other in Peer Review Discussions
+Charvi Rastogi, Xiangchen Song, Zhijing Jin, Ivan Stelmakh, Hal Daumé III, Kun Zhang, and Nihar Shah
+
+
+On the Detection of Reviewer-Author Collusion Rings From Paper Bidding
+Steven Jecmen, Nihar Shah, Fei Fang, and Leman Akoglu
+
+
+Peer Reviews of Peer Reviews: A Randomized Controlled Trial and Other Experiments
+
+Alexander Goldberg, Ivan Stelmakh, Kyunghyun Cho, Alice Oh, Alekh Agarwal, Danielle Belgrave, and Nihar Shah
+Blog
+
+
+Testing for Reviewer Anchoring in Peer Review: A Randomized Controlled Trial
+
+Ryan Liu, Steven Jecmen, Vincent Conitzer, Fei Fang, Nihar B. Shah
+
+
+ReviewerGPT? An Exploratory Study on Using Large Language Models for Paper Reviewing
+
+Ryan Liu, Nihar B. Shah
+
+
+A Gold Standard Dataset for the Reviewer Assignment Problem
+
+Ivan Stelmakh, John Wieting, Graham Neubig, Nihar B. Shah
+
+
+Assisting Human Decisions in Document Matching
+
+Joon Sik Kim, Valerie Chen, Danish Pruthi, Nihar B. Shah, Ameet Talwalkar
+Transactions on Machine Learning Research 2023
+
+
+The Role of Author Identities in Peer Review
+
+Nihar B. Shah
+PLOS ONE, 2023
+
+
+Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection
+
+Alexander Goldberg, Giulia Fanti, Nihar B. Shah
+ACM SIGMETRICS 2023
+
+
+How do Authors’ Perceptions of their Papers Compare with Co-authors’ Perceptions and Peer-review Decisions?
+
+Charvi Rastogi, Ivan Stelmakh, Alina Beygelzimer, Yann N. Dauphin, Percy Liang, Jennifer Wortman Vaughan, Zhenyu Xue, Hal Daumé III, Emma Pierson, and Nihar B. Shah
+
+
+Near-Optimal Reviewer Splitting in Two-Phase Paper Reviewing and Conference Experiment Design
+
+Steven Jecmen, Hanrui Zhang, Ryan Liu, Fei Fang, Vincent Conitzer, and Nihar B. Shah
+HCOMP 2022
+Best Paper Honorable Mention
+
+
+Strategyproofing Peer Assessment via Partitioning: The Price in Terms of Evaluators' Expertise
+
+Komal Dhull, Steven Jecmen, Pravesh Kothari, Nihar B. Shah
+HCOMP 2022
+Code
+
+
+A Dataset on Malicious Paper Bidding in Peer Review
+
+Steven Jecmen, Minji Yoon, Vincent Conitzer, Nihar B. Shah, Fei Fang
+TheWebConf 2023
+
+
+Counterfactual Evaluation of Peer-Review Assignment Policies
+
+Martin Saveski, Steven Jecmen, Nihar Shah, Johan Ugander
+NeurIPS 2023
+
+
+To ArXiv or not to ArXiv: A Study Quantifying Pros and Cons of Posting Preprints Online
+
+Charvi Rastogi, Ivan Stelmakh, Xinwei Shen, Marina Meila, Federico Echenique, Shuchi Chawla, Nihar B. Shah
+Peer review congress (abstract), 2022
+
+
+Cite-seeing and Reviewing: A Study on Citation Bias in Peer Review
+
+Ivan Stelmakh, Charvi Rastogi, Ryan Liu, Shuchi Chawla, Federico Echenique, Nihar B. Shah
+PLOS ONE, 2023
+
+
+No Rose for MLE: Inadmissibility of MLE for Evaluation Aggregation Under Levels of Expertise
+
+Charvi Rastogi, Ivan Stelmakh, Nihar B. Shah, Sivaraman Balakrishnan
+ISIT 2022
+
+
+Integrating Rankings into Quantized Scores in Peer Review
+
+Yusha Liu, Yichong Xu, Nihar B. Shah, Aarti Singh
+TMLR 2022
+Workshop on ML Evaluation Standards at ICLR 2022
+Outstanding Paper Award and People's Choice Award
+
+
+Tradeoffs in Preventing Manipulation in Paper Bidding for Reviewer Assignment
+
+Steven Jecmen, Nihar B. Shah, Fei Fang, Vincent Conitzer
+Workshop on ML Evaluation Standards at ICLR 2022
+Outstanding Paper Award
+
+
+Calibration with Privacy in Peer Review
+
+Wenxin Ding, Gautam Kamath, Weina Wang, and Nihar B. Shah
+ISIT 2022
+
+
+Uncovering Latent Biases in Text: Method and Application to Peer Review
+
+Emaad Manzoor and Nihar B. Shah
+AAAI 2021.
+Code
+
+
+Mitigating Manipulation in Peer Review via Randomized Reviewer Assignments
+
+Steven Jecmen, Hanrui Zhang, Ryan Liu, Nihar B. Shah, Vincent Conitzer, and Fei Fang
+NeurIPS 2020.
+Code
+
+
+Prior and Prejudice: The Novice Reviewers' Bias against Resubmissions in Conference Peer Review.
+
+Ivan Stelmakh, Nihar B. Shah, Aarti Singh and Hal Daumé III
+CSCW 2021.
+
+
+A Large Scale Randomized Controlled Trial on Herding in Peer-Review Discussions.
+
+Ivan Stelmakh, Charvi Rastogi, Nihar B. Shah, Aarti Singh and Hal Daumé III
+PLOS ONE 2023.
+
+
+A Novice-Reviewer Experiment to Address Scarcity of Qualified Reviewers in Large Conferences
+
+Ivan Stelmakh, Nihar B. Shah, Aarti Singh and Hal Daumé III
+AAAI 2021.
+Reviewer guidelines
+
+
+Catch Me if I Can: Detecting Strategic Behaviour in Peer Assessment
+
+Ivan Stelmakh, Nihar B. Shah and Aarti Singh
+AAAI 2021.
+Data
+
+
+Debiasing Evaluations that are Biased by Evaluations
+
+Jingyan Wang, Ivan Stelmakh, Yuting Wei and Nihar B. Shah
+AAAI 2021.
+
+
+On the Privacy-Utility Tradeoff in Peer-Review Data Analysis
+
+Wenxin Ding, Nihar B. Shah, and Weina Wang
+AAAI Privacy-Preserving Artificial Intelligence (PPAI-21) workshop 2021.
+
+
+On Testing for Biases in Peer Review
+
+Ivan Stelmakh, Nihar B. Shah and Aarti Singh
+NeurIPS 2019.
+
+
+A SUPER* Algorithm to Optimize Paper Bidding in Peer Review
+
+Tanner Fiez, Nihar B. Shah and Lillian Ratliff
+UAI 2020
+Code
+
+
+PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review
+
+Ivan Stelmakh, Nihar B. Shah and Aarti Singh
+JMLR 2021 (shorter version at ALT 2019)
+Code for the PeerReview4All paper-reviewer assignment algorithm
+Dataset
+
+
+Your 2 is My 1, Your 3 is My 9: Handling Arbitrary Miscalibrations in Ratings
+
+Jingyan Wang and Nihar B. Shah
+AAMAS 2019
+My PhD student Jingyan Wang won the Best Student Paper Award at AAMAS 2019
+Nominated for the Best Paper Award
+
+
+Loss Functions, Axioms, and Peer Review
+
+Ritesh Noothigattu, Nihar B. Shah and Ariel Procaccia
+Journal of Artificial Intelligence Research (JAIR), 2021.
+Code
+COMSOC 2021 Best Poster runner up
+
+
+On Strategyproof Conference Review
+
+Yichong Xu, Han Zhao, Xiaofei Shi and Nihar B. Shah
+IJCAI 2019
+Code and data
+
+
+Design and Analysis of the NIPS 2016 Review Process
+
+Nihar B. Shah, Behzad Tabibian, Krikamol Muandet, Isabelle Guyon and Ulrike von Luxburg
+Journal of Machine Learning Research 2018
+
+
+PAST RESEARCH ON CROWDSOURCING
+
+
+Allocation Schemes in Analytic Evaluation: Applicant-Centric Holistic or Attribute-Centric Segmented?
+
+Jingyan Wang, Carmel Baharav, Nihar B. Shah, Anita Williams Woolley, and R Ravi
+HCOMP 2022
+
+
+Approval Voting and Incentives for Crowdsourcing
+
+Nihar B. Shah and Dengyong Zhou
+ACM Transactions on Economics and Computation, June 2020.
+Video of ICML talk  Slides Dataset
+
+
+The Square Root Agreement Rule for Incentivizing Objective Feedback in Online Platforms
+
+Vijay Kamble, Nihar Shah, David Marn, Abhay Parekh, Kannan Ramachandran
+Management Science, July 2022
+
+
+
+A Heuristic for Statistical Seriation
+
+Komal Dhull, Jingyan Wang, Nihar B. Shah, Yuanzhi Li, and R. Ravi
+UAI 2021.
+
+
+Stretching the Effectiveness of MLE from Accuracy to Bias for Pairwise Comparisons
+
+Jingyan Wang, Nihar B. Shah and R. Ravi
+AISTATS 2020.
+
+
+Two-Sample Testing with Ranked Preference Data and the Role of Modeling Assumptions
+
+Charvi Rastogi, Sivaraman Balakrishnan, Nihar B. Shah and Aarti Singh
+ISIT 2020.
+Video        Slides
+
+
+A Permutation-based Model for Crowd Labeling: Optimal Estimation and Robustness
+
+Nihar B. Shah, Sivaraman Balakrishnan and Martin J. Wainwright
+IEEE Transactions on Information Theory 2020
+Code for the WAN and the OBI-WAN estimators
+Dataset
+
+
+Active Ranking from Pairwise Comparisons and when Parametric Assumptions Do Not Help
+
+Reinhard Heckel, Nihar B. Shah, Kannan Ramchandran and Martin J. Wainwright
+Annals of Statistics 2019
+Code
+
+
+Low Permutation-rank Matrices: Structural Properties and Noisy Completion
+
+Nihar B. Shah, Sivaraman Balakrishnan and Martin J. Wainwright
+JMLR 2019
+
+
+Feeling the Bern: Adaptive Estimators for Bernoulli Probabilities of Pairwise Comparisons
+
+Nihar B. Shah, Sivaraman Balakrishnan and Martin J. Wainwright
+IEEE Transactions on Information Theory (Shorter version at ISIT 2016).
+Code for the CRL estimator
+
+
+Simple, Robust and Optimal Ranking from Pairwise Comparisons
+Nihar B. Shah and Martin J. Wainwright
+Journal of Machine Learning Research, 2018.
+Dataset
+
+
+Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues
+Nihar B. Shah, Sivaraman Balakrishnan, Adityanand Guntuboyina and Martin J. Wainwright
+IEEE Transactions on Information Theory 2017 (Shorter version at ICML 2016).
+
+
+No Oops, You Won't Do It Again: Mechanisms for Self-correction in Crowdsourcing
+
+Nihar B. Shah and Dengyong Zhou
+ICML 2016.
+
+
+Estimation from Pairwise Comparisons: Sharp Minimax Bounds with Topology Dependence
+
+Nihar B. Shah, Sivaraman Balakrishnan, Joseph Bradley, Abhay Parekh, Kannan Ramchandran, and Martin J. Wainwright
+The Journal of Machine Learning Research, 2016.
+Dataset for cardinal vs. ordinal  Dataset for pairwise comparison topologies
+
+
+Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing
+
+Nihar B. Shah and Dengyong Zhou
+Journal of Machine Learning Research 2016 (shorter version at NeurIPS 2015).
+Dataset
+
+
+Parametric Prection from Parametric Agents
+
+Yuan Luo, Nihar B. Shah, Jianwei Huang, Jean Walrand
+Operations Research, 2017.
+
+
+
+Truth Serums for Massively Crowdsourced Evaluation Tasks
+
+Vijay Kamble, Nihar Shah, David Marn, Abhay Parekh, Kannan Ramachandran
+SCUGC 2015: The 5th Workshop on Social Computing and User-Generated Content.
+
+
+
+On the Impossibility of Convex Inference in Human Computation
+
+Nihar B. Shah and Dengyong Zhou
+AAAI, Austin, Jan. 2015.
+
+
+A Case for Ordinal Peer-evaluation in MOOCs
+
+Nihar B. Shah, Joseph Bradley, Abhay Parekh, Martin J. Wainwright, Kannan Ramchandran
+Neural Information Processing Systems (NeurIPS): Workshop on Data Driven Education, Lake Tahoe, Dec. 2013.
+
+
+Regularized Minimax Conditional Entropy for Crowdsourcing
+
+Dengyong Zhou, Qiang Liu, John Platt, Christopher Meek, and Nihar B. Shah
+Dec. 2014.
+
+
+
+PAST RESEARCH ON DISTRIBUTED STORAGE
+
+(* indicates equal contribution)
+
+
+A Piggybacking Design Framework for Read-and Download-efficient Distributed Storage Codes
+
+K. V. Rashmi, Nihar B. Shah and Kannan Ramchandran
+IEEE Transactions on Information Theory, 2017.
+Slides from conference (ISIT) presentation
+
+
+When Do Redundant Requests Reduce Latency ?
+
+Nihar B. Shah, Kangwook Lee and Kannan Ramchandran
+IEEE Transactions on Communication, Feb. 2016.
+Slides
+
+
+The MDS Queue: Analysing Latency Performance of Codes
+
+Kangwook Lee, Nihar B. Shah, Longbo Huang and Kannan Ramchandran
+IEEE Transactions on Information Theory, 2017.
+Addendum and Erratum
+
+
+Distributed Storage Codes with Repair-by-Transfer and Non-achievability of Interior Points on the Storage-Bandwidth Tradeoff
+
+Nihar B. Shah*, K. V. Rashmi*, P. Vijay Kumar and Kannan Ramchandran
+IEEE Transactions on Information Theory, March 2012.
+
+
+Optimal Exact-Regenerating Codes for Distributed Storage at the MSR and MBR Points via a Product-Matrix Construction
+
+K. V. Rashmi*, Nihar B. Shah* and P. Vijay Kumar
+IEEE Transactions on Information Theory, August 2011.
+IEEE Data Storage Best Paper and Best Student Paper Awards for the years 2011 & 2012.
+
+
+Interference Alignment in Regenerating Codes for Distributed Storage: Necessity and Code Constructions
+
+Nihar B. Shah*, K. V. Rashmi*, P. Vijay Kumar and Kannan Ramchandran
+IEEE Transactions on Information Theory, April 2012.
+
+
+On Minimizing Data-read and Download for Storage-Node Recovery
+
+Nihar B. Shah
+IEEE Communications Letters, 2013.
+Second place in the first ACM University Student Research Competition, 2013.
+
+
+Having Your Cake and Eating It Too: Jointly Optimal Codes for I/O, Storage and Network-bandwidth In Distributed Storage Systems
+
+KV Rashmi, Preetum Nakkiran, Jingyan Wang, Nihar B. Shah, and Kannan Ramchandran
+USENIX FAST, Santa Clara, Feb. 2015.
+Picked as the best paper of USENIX FAST 2015 by StorageMojo.
+
+
+
+Fundamental Limits on Communication for Oblivious Updates in Storage Networks
+
+Preetum Nakkiran, Nihar B. Shah, K. V. Rashmi
+IEEE GLOBECOM 2014, Dec. 2014.
+
+
+A "Hitchhiker's" Guide to Fast and Efficient Data Reconstruction in Erasure-coded Data Centers
+
+K. V. Rashmi, Nihar B. Shah, Dikang Gu, Hairong Kuang, Dhruba Borthakur, and Kannan Ramchandran
+ACM SIGCOMM, Aug 2014.
+
+
+One Extra Bit of Download Ensures Perfectly Private Information Retrieval
+
+Nihar B. Shah, K. V. Rashmi and Kannan Ramchandran
+ISIT 2014.
+
+
+
+A Solution to the Network Challenges of Data Recovery in Erasure-coded Distributed Storage Systems: A Study on the Facebook Warehouse Cluster
+
+K. V. Rashmi, Nihar B. Shah, Dikang Gu, Hairong Kuang, Dhruba Borthakur, and Kannan Ramchandran
+USENIX HotStorage, San Jose, Jun. 2013.
+
+
+Secret Sharing Across a Network with Low Communication Cost: Distributed Algorithm and Bounds
+
+Nihar B. Shah, K. V. Rashmi and Kannan Ramchandran
+IEEE International Symposium on Information Theory (ISIT), Istanbul, Jul. 2013.
+Slides  Poster
+
+
+Information-theoretically Secure Regenerating Codes for Distributed Storage
+
+Nihar B. Shah*, K. V. Rashmi*, K. Ramchandran, and P. Vijay Kumar
+IEEE Transactions on Information Theory 2017.
+
+
+Regenerating Codes for Errors and Erasures in Distributed Storage
+
+K. V. Rashmi*, Nihar B. Shah*, Kannan Ramchandran, and P. Vijay Kumar
+IEEE International Symposium on Information Theory (ISIT), Cambridge, Jul. 2012.
+Slides
+
+
+Enabling Node Repair in Any Erasure Code for Distributed Storage
+
+K. V. Rashmi*, Nihar B. Shah* and P. Vijay Kumar
+IEEE International Symposium on Information Theory (ISIT), St. Petersburg, Jul. 2011.
+
+
+A Flexible Class of Regenerating Codes for Distributed Storage
+
+Nihar B. Shah*, K. V. Rashmi*, and P. Vijay Kumar
+IEEE International Symposium on Information Theory (ISIT), Austin, Jun. 2010.
+
+
+Explicit and Optimal Exact-Regenerating Codes for the Minimum-Bandwidth Point in Distributed Storage
+
+K. V. Rashmi*, Nihar B. Shah*, P. Vijay Kumar, and Kannan Ramchandran
+IEEE International Symposium on Information Theory (ISIT), Austin, Jun. 2010.
+
+
+Explicit Codes Minimizing Repair Bandwidth for Distributed Storage    (the complete version on Arxiv)
+
+Nihar B. Shah*, K. V. Rashmi*, P. Vijay Kumar and Kannan Ramchandran
+IEEE Information Theory Workshop (ITW), Cairo, Jan. 2010.
+
+
+Explicit Construction of Optimal Exact Regenerating Codes for Distributed Storage
+
+K. V. Rashmi*, Nihar B. Shah*, P. Vijay Kumar and Kannan Ramchandran
+Allerton Conference on Control, Computing and Communication, Urbana-Champaign, Sep. 2009.
+
+
+Regenerating Codes for Distributed Storage Networks (invited)
+
+Nihar B. Shah*, K. V. Rashmi*, P. Vijay Kumar, and Kannan Ramchandran
+International Workshop on the Arithmetic of Finite Fields (WAIFI), Istanbul, Jun. 2010.
+
+
+Network Coding
+
+K. V. Rashmi*, Nihar B. Shah* and P. Vijay Kumar
+Resonance, vol. 15, no. 7, pp. 604-621., Jul. 2010.
+(Resonance is a journal of science education published by the Indian Academy of Sciences)
+.
+Distributed Storage System for Optimal Storage Space and Network Bandwidth Utilization and A Method Thereof
+
+K. V. Rashmi*, Nihar B. Shah* and P. Vijay Kumar
+US Patent, Nov 2011.
+
+
+
+
+
+
+GROUP
+PHD STUDENTS
+
+
+
+Charvi Rastogi
+Machine Learning Department
+(advised jointly with Ken Holstein)
+
+Steven Jecmen
+Computer Science Department
+(advised jointly with Fei Fang)
+
+Alexander Goldberg
+Computer Science Department
+(advised jointly with Giulia Fanti)
+
+Keerthana Gurushankar
+Computer Science Department
+
+MASTERS STUDENTS
+
+
+
+Janet (Jhih-Yi) Hsieh
+Computer Science
+(advised jointly with Aditi Raghunathan)
+
+Lucas (Yi) Li
+Machine Learning
+
+UNDERGRADUATE STUDENTS
+
+
+
+Priyanshi Garg
+Computer Science
+
+ALUMNI
+
+
+
+Ivan Stelmakh
+PhD, Machine Learning Department
+(advised jointly with Aarti Singh)
+
+Jingyan Wang
+PhD, Robotics Institute
+
+Ryan Liu
+BS and MS in Computer Science
+
+Carmel Baharav
+BS in Computer Science
+
+Komal Dhull
+BS in Computer Science
+
+Wenxin Ding
+MS in Computer Science
+BS in Mathematics and Computer Science
+(advised jointly with Weina Wang)
+
+Qiqi Xu
+MS in Machine Learning
+(advised jointly with Hoda Heidari)
+
+
+
+
+FUNDING
+We gratefully acknowledge support from the National Science Foundation, CMU Block center, CMU CyLab, ONR, a Google Research Scholar award, a JP Morgan Faculty Research Award, and an NSF-Amazon Fair AI research grant.
+
+
+
+TEACHING
+
+
+Fall 2024	10-715	Advanced Introduction to Machine Learning
+Spring 2024	15-281	Artificial Intelligence: Representation and Problem Solving
+Fall 2023	10-715	Advanced Introduction to Machine Learning
+Fall 2022	10-715	Advanced Introduction to Machine Learning
+Spring 2022	15-780	Graduate Artificial Intelligence
+Fall 2021	10-715	Advanced Introduction to Machine Learning
+Spring 2021	15-780	Graduate Artificial Intelligence
+Fall 2020	10-715	Advanced Introduction to Machine Learning
+Spring 2020	15-780	Graduate Artificial Intelligence
+Fall 2019	10-715	Advanced Introduction to Machine Learning
+Spring 2019	15-780	Graduate Artificial Intelligence
+Fall 2017	10-709	Fundamentals of Learning from the Crowd
+
+In my spare time, I am also creating introductory machine learning short lectures in Hindi, accessible to anyone without requiring any math or programming knowledge: Link to Youtube videos
+
+
+
+CURRICULUM VITAE
+EDUCATION
+UC Berkeley
+PhD in Electrical Engineering and Computer Sciences
+Advisors: Prof. Martin J. Wainwright and Prof. Kannan Ramchandran
+Other members of thesis committee: Prof. Christos Papadimitriou and Prof. Tom Griffiths
+
+
+Indian Institute of Science (IISc), Bangalore
+M.E. in Telecommunication
+Thesis: Minimizing Repair Bandwidth in Distributed Storage Systems
+Advisor: Prof. P. Vijay Kumar
+
+
+National Institute of Technology Karnataka, Surathkal
+B. Tech. in Electronics and Communication
+
+
+HONORS
+
+HCOMP Best Paper Award Honorable Mention 2022
+JP Morgan Faculty Research Award 2022
+Google Research Scholar award 2021
+NSF CAREER award 2020-2025
+Best paper nomination at AAMAS 2019
+Mentored and co-authored Best Student Paper at AAMAS 2019 to my PhD student Jingyan Wang
+PhD thesis received David J. Sakrison Memorial Prize for a "truly outstanding piece of research" at EECS, UC Berkeley, May 2017
+Outstanding Graduate Student Instructor award at UC Berkeley, 2015-16
+Microsoft Research PhD Fellowship, 2014-2016.
+IEEE Data Storage Best Paper and Best Student Paper awards for years 2011 & 2012
+Second place in the first ACM University Student Research Competition, 2013.
+Berkeley Fellowship, 2011-13 (the most prestigious fellowship for incoming graduate students at UC Berkeley).
+Excellence Award for the academic year 2011-2012 at UC Berkeley.
+Prof. SVC Aiya Medal for the best master-of-engineering student in the ECE department at IISc, 2010.
+
+SERVICE (outside CMU)
+
+Action Editor, Transactions on Machine Learning Research, 2022 onwards
+Associate Program Chair, AAAI 2022
+Diversity and inclusion committee, IEEE Information Theory Society, 2020 onwards
+Click here for the Report on 2021 Information Theory Society survey
+Program committee member/Senior PC member/Area Chair, AAAI 2022, NeurIPS 2022, ICML 2021, NeurIPS 2021, AAAI 2021, NeurIPS 2020, IJCAI 2020, AAAI 2020, NeurIPS 2019, ICML 2019, AIStats 2019, HCOMP 2018.
+Co-chair, the NeurIPS 2014 workshop on Crowdsourcing and Machine-learning and the ICML 2014 workshop on Crowdsourcing and Human-computation.
+Reviewer, Journal of Machine Learning Research, Journal of Artificial Intelligence Research, Annals of Statistics, Operations Research, Management Science, PLOS One, Proceedings of the IEEE, IEEE Transactions on Information Theory, IEEE Transactions on Signal Processing, IEEE Transactions on Communications, IEEE Transactions on Parallel and Distributed Systems, IEEE Communications Letters, IEEE Journal on Selected Areas in Communications, ACM Transactions on Intelligent Systems, NeurIPS, ICLR, ISIT, DISC, Netcod, Infocom, Globecom, ITW, MIT Press.
+
+INDUSTRY EXPERIENCE
+
+Intern, Microsoft Research Redmond, May 2013 to August 2013 and May 2014 to August 2014
+Crowdsourcing algorithms.
+
+
+Project Associate, IISc-Infosys collaborative project, Bangalore, July 2010 to June 2011
+Algorithms for robust and efficient media content distribution networks.
+
+
+Member of Technical Staff, Adobe Systems, Bangalore, July 2007 to July 2008.
+Worked on Adobe Captivate, an automated e-learning authoring tool.
+
+
+

@@ -1,0 +1,194 @@
+Professor: Piotr Indyk
+University: Massachusetts Institute of Technology
+URL: https://people.csail.mit.edu/indyk
+Description: Piotr Indyk
+
+
+I am a Thomas D. and Virginia W. Cabot Professor in the Department of Electrical Engineering and Computer Science.
+I am a co-director of Foundations of Data Science Institute (FODSI).
+I am also a member of Theory of Computation Group in Computer Science and Artificial Intelligence Lab, Wireless@MIT, Big Data@CSAIL and Mifods.
+Short bio (on wiki).
+Code:
+FALCONN - fast algorithm for similarity search, based on Locality Sensitive Hashing.
+
+The project web page on our Sparse FFT algorithms, with the code for sFFT 1.0 and 2.0 algorithms published in SODA'12.
+Research Interests:
+High-dimensional computational geometry (including approximate nearest neighbor search), data stream algorithms, sparse recovery, compressive sensing, machine learning algorithms, learning-based algorithms.
+
+Current students:
+Justin Chen
+
+Shyam Narayanan
+
+Sandeep Silwal
+
+Haike Xu
+
+Postdocs:
+Anders Aamand
+
+Past postdocs:
+Julia Chuzhoy
+
+Jayadev Acharya
+
+Mahdi Cheraghchi
+
+Michael Kapralov
+
+Chinmay Hegde
+
+Yang Yuan (supported by MIFODS)
+
+Talya Eden (supported by MIFODS)
+Vaggos (Evangelos) Chatziafratis (supported by FODSI)
+Past students:
+Nitin Thaper
+
+Javed Samuel (MEng)
+
+Mihai Badoiu
+
+David Woodruff
+
+Anastasios Sidiropoulos
+
+Alex Andoni
+
+Radu Berinde (MEng)
+
+Rishi Gupta (MEng)
+
+Jelani Nelson (coadvised with Erik Demaine)
+
+Khanh Do Ba
+
+Eric Price
+
+Elyot Grant
+
+Sepideh Mahabadi
+
+Ilya Razenshteyn
+
+Ludwig Schmidt
+
+Arturs Backurs
+
+Ali Vakilian
+
+Tal Wagner
+
+Nicholas Schiefer (MS)
+
+Conference PCs and journal editorial boards:
+NeurIPS'21 (Area Chair)
+STOC'20 (Program Committee Member)
+Journal of the ACM (Area Editor)
+ICALP'17 (Program Committee Chair)
+SODA'15 (Program Committee Chair)
+SIAM Journal on Computing (2012-2014)
+IEEE Transactions on Signal Processing (2011-2013)
+SODA'11 (22nd ACM-SIAM Symposium on Discrete Algorithms, San Francisco, CA)
+STOC'10 (42th ACM Symposium on Theory of Computing, Cambridge, MA)
+MADALGO 2007 Summer School on Data Stream Algorithms, Aarhus, Denmark.
+FOCS'07 (48th Annual Symposium on Foundations of Computer Science, Providence, RI)
+RANDOM'07, Princeton, NJ.
+ICALP'07 (34th International Colloquium on Automata, Languages and Programming, Wroclaw, Poland)
+VLDB'07 (33rd International Conference on Very Large Data Bases, Vienna, Austria)
+STOC'06 (38th ACM Symposium on Theory of Computing, Seattle, WA)
+SIGMOD'06 (25th ACM SIGMOD International Conference on Management of Data, Chicago, IL)
+PODS'05 (24th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, Baltimore, MA)
+SODA'05 (16th ACM-SIAM Symposium on Discrete Algorithms, Vancouver, Canada)
+KDD'04 (10th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle, WA)
+Workshop on Discrete Metric Spaces and Their Algorithmic Applications , Princeton, August 20-23, 2003.
+Workshop on Approximate Nearest Neighbors Methods for Learning and Vision , at NIPS, Whistler, BC, Canada, December 2003.
+KDD'03 (9th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC)
+FOCS'02 (42nd Symposium on Foundations of Computer Science, Vancouver)
+
+SoCG'01 (17th ACM Symposium on Computational Geometry, Tufts U, Medford, MA)
+
+Publications:
+Here is a list of some of my papers.
+Surveys, tutorials and talks:
+Approximate nearest neighbor search in high dimensions, invited talk at the International Congress of Mathematicians, 2018. PDF version.
+Recent Developments in the Sparse Fourier Transform , at ICASSP, 2015.
+Recent Developments in the Sparse Fourier Transform , at GlobalSIP, 2013.
+Sketching via Hashing: from Heavy Hitters to Compressive Sensing to Sparse Fourier Transform: slides and writeup, at PODS, 2013.
+Lectures on high-dimensional near(est) neighbor search: 1 2 3 at MADALGO & CTIC Summer School on HIGH-DIMENSIONAL GEOMETRIC COMPUTING, 2011.
+Tutorial on Sparse Recovery Using Sparse Matrices, given at MMDS'10 and China Theory Week, 2010.
+A survey on Sparse Recovery Using Sparse Matrices (with A. Gilbert), Proceedings of IEEE, 2010.
+A talk on Sparse Recovery Using Sparse Matrices, given in various forms in various places.
+A tutorial on Streaming, Sketching and Sub-linear Space Algorithms, given at the 2009 Information Theory and Applications Workshop, San Diego, 2009.
+A tutorial on Compressed Sensing (or Compressive Sampling or Linear Sketching), given at the Workshop on Geometry and Algorithms, Princeton, 2008.
+A talk on Explicit constructions in high-dimensional geometry, given at 2007 von Neumann Symposium on Sparse Representation and High-Dimensional Geometry, Snowbird, 2007.
+An invited talk on Hashing, sketching and other randomized algorithms for high-dimensional data", given at EMNLP'07
+Two lectures on algorithms for finding nearest neighbors in low and high dimensions, Summer School on Algorithmic Data Analysis, Helsinki, 2007.
+A tutorial on Low-distortion embeddings and data structures, given at the Concentration Week on Metric Geometry and Geometric Embeddings of Discrete Metric Spaces, Texas A&M University, 2006.
+A talk on "Near-Optimal Hashing Algorithms for Approximate Near(est) Neighbor Problem", given at MMDS'06: Workshop on Algorithms for Modern Massive Data Sets, Stanford, 2006.
+Approximation Algorithms for Embedding Problems, given at Fast Manifold Learning Workshop, College of William and Mary, 2006.
+An invited talk on "Streaming Algorithms for Geometric Problems" at CCCG'04, FSTTCS'04 , FOCM'05 and Sublinear Algorithms Workshop.
+A talk on Efficient Similarity Search in High Dimensions" that I gave at LEMS, Brown University, July 2004.
+
+An invited talk on "Embedded Stringology" at the Symposium on Combinatorial Pattern Matching (CPM 2004)".
+
+An invited talk on "Algorithmic Applications of Low-Distortion Embeddings" at the Snowbird Learning Workshop 2004 .
+
+Two surveys for the upcoming 2nd edition of "CRC Handbook of Discrete and Computational Geometry": "Nearest Neighbors in High-dimensional Spaces" and "Low Distortion Embeddings of Finite Metric Spaces" (with Jiri Matousek).
+
+An invited talk on Approximate Nearest Neighbor (Beyond the l_p norms) at the International Workshop on Designing Tomorrow's Category-Level 3D Object Recognition Systems.
+
+An invited talk on "Approximate Algorithms for High-Dimensional Geometric Problems" at the DIMACS Workshop on Computational Geometry'02.
+
+A tutorial at FOCS 2001 on "Algorithmic Aspects of Geometric Embeddings".
+
+A short course on "Nearest Neighbors and Other Problems in High Dimensional Computational Geometry" at AT&T during the summer of 1999.
+Grad course materials:
+Spring 2019: Learning-Augmented Algorithms.
+
+Fall 2017: Sketching Algorithms for Big Data (jointly with Jelani Nelson at Harvard).
+
+Fall 2014: Algorithms and Signal Processing (6.893).
+
+Spring 2013: Sub-linear Algorithms (6.893).
+
+Spring 2012: Geometric Computing (6.850).
+
+Fall 2010: Sub-linear Algorithms (6.896).
+
+Spring 2009: Streaming Etc. (at Rice University).
+
+Fall 2007: Sketching, Streaming, and Sub-linear Space algorithms (6.895).
+
+Spring 2007: Geometric Computation (6.850).
+
+Fall 2006: Computational Biology, Too (6.895/6.085).
+
+Fall 2005: Computational Biology (6.895/6.095).
+
+Spring 2005: Geometric Computing (6.838) .
+
+Fall 2003: Geometric Computing (6.838) .
+
+Fall 2002: Algorithms for Massive Data Sets (6.897).
+
+Fall 2001: Geometric Computation (6.838)
+
+Fall 2000: Algorithmic Aspects of Embeddings (6.978).
+
+Projects:
+Sparse Fourier Transform From Theory to Practice
+
+Accessibility
+
+Contact:
+
+Piotr Indyk
+MIT Computer Science and Artificial Intelligence Lab
+Room G642
+32 Vassar Street
+Cambridge, Massachusetts 02139
+
+Fax: (617) 258-8682
+email: indyk ατ theory.lcs.mit.edu
+

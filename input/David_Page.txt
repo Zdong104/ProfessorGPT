@@ -1,0 +1,420 @@
+Professor: David Page
+University: University of Wisconsin - Madison
+URL: http://pages.cs.wisc.edu/~dpage
+Description:  
+
+
+active_molecule(A) if:
+
+hydrogen_acceptor(A,C) &
+hydrogen_acceptor(A,D) &
+distance(C,D,4.17) &
+hydrophobe(A,E) &
+distance(C,E,3.38) &
+distance(D,E,7.20) &
+hydrophobe(A,F) &
+distance(C,F,3.68) &
+distance(D,F,5.41) &
+distance(E,F,5.0).
+
+	
+C. David Page Jr.
+Professor
+Department of Biostatistics and Medical Informatics
+and Department of Computer Sciences
+School of Medicine and Public Health
+University of Wisconsin-Madison
+Wisconsin Institute of Discovery (WID), Room 3174
+330 N. Orchard St.
+Madison, WI 53715
+U.S.A.
+Phone: 1-608-316-4687 (direct line)
+Email: page@biostat.wisc.edu
+
+
+Teaching
+BMI/CS 576: Bioinformatics
+CS 731: Advanced Methods in Artificial Intelligence
+CS 760: Machine Learning
+CS 838: Statistical Relational Learning
+Med/BMI 918: Health Informatics
+
+
+Research
+David Page works on algorithms for data mining and machine learning, and their applications to biomedical data, especially de-identified electronic health records and high-throughput genetic and other molecular data. Of particular interest are machine learning methods for complex multi-relational data (such as electronic health records or molecules as shown) and irregular temporal data, and methods that find causal relationships or produce human-interpretable output (such as the rules for molecular bioactivity shown in green to the side).
+
+
+Recent Work
+
+Inductive Logic Programming (ILP) and Statistical Relational Learning (SRL), including applications to clinical data
+
+Skewing: Learning Correlation Immune Targets
+
+Pharmacophore Discovery for Drug Design
+
+Analysis of High-Throughput Genetic Data
+
+Other Areas of Bioinformatics and Machine Learning
+
+	 
+
+
+
+active_molecule(A) if:
+
+zinc_binding_site(A,B) &
+hydrogen_acceptor(A,C) &
+distance(B,C,6.1) &
+hydrogen_acceptor(A,D) &
+distance(B,D,7.3) &
+distance(C,D,2.2) &
+hydrogen_acceptor(A,E) &
+distance(B,E,3.9) &
+distance(C,E,3.2) &
+distance(D,E,4.0).
+
+
+
+
+
+Some Recent Research Talks
+High-Throughput Machine Learning from Electronic Health Records, National Library of Medicine (one hour), earlier versions given at Johns Hopkins, University of Pittsburgh, Amazon, Seattle Healthcare, UCSD, Georgia Tech, Georgetown
+Improved Methods for Discovering Adverse Drug Events from EHR Data, Center for Predictive Computational Phenotyping (CPCP) Retreat (15 minutes)
+Predicting Health Events from EHRs Using Machine Learning, CPCP Small Talks on Big Data (18 minutes)
+
+
+
+
+Research Group
+Current
+Aubrey Barnard
+Collin Engstrom
+Daniel Griffin
+Xiayuan Huang
+Ross Kleiman
+Finn Kuusisto (post-doc, jointly advised with Nasia Safdar, Ron Stewart, and James Thomson)
+David Merrell
+Wei Zhang
+
+Alumni
+Soumya Ray (CS Ph.D. 2005, co-advised with Mark Craven). Thesis: Learning from Data with Complex Interactions and Ambiguous Labels.
+Irene Ong (CS Ph.D., 2007). Thesis: Computational Techniques for Inferring Regulatory Networks.
+Jesse Davis (CS Ph.D., 2007). Thesis: View Learning: A Statistical Relational Learning Approach to Mining Biomedical Databases.
+Sean McIlwain (CS Ph.D., 2008). Thesis: Annotating Proteomic Mass Spectrometry Data for Qualitative and Quantitative Experiments.
+Sriraam Natarajan (Postdoc, 2008-2010, co-advised with Jude Shavlik)
+Houssam Nassif (CS Ph.D., 2012). Thesis: Differential Relational Learning.
+Timothy Chang (ICTR Ph.D. in Clinical Investigation, 2012, co-advised with Ron Gagnon). Thesis: Towards Translational Biomedical Informatics: Interpretable Models for Etiology, Early Diagnosis, and Prognosis.
+Peggy Peissig (ICTR Ph.D. in Clinical Investigation, 2013). Thesis: Computational Methods for Electronic Health Record-Driven Phenotyping.
+Jie Liu (CS Ph.D., 2014). Thesis: Statistical Methods for Genome-Wide Association Studies and Personalized Medicine.
+Jeremy Weiss (CS Ph.D., 2014). Thesis: Statistical Timeline Analysis for Electronic Health Records.
+Kendrick Boyd (CS Ph.D., 2014). Thesis: Mitigating the Risks of Thresholdless Metrics in Machine Learning Evaluation.
+Finn Kuusisto (CS Ph.D. 2015, co-advised with Jude Shavlik). Thesis: Machine Learning for Medical Decision Support and Individualized Treatment Assignment.
+Eric Lantz (CS Ph.D., 2016). Thesis: Machine Learning for Risk Prediction and Privacy in Electronic Health Records.
+Irene Giacomelli (Postdoc, 2016-2018, co-advised with Somesh Jha)
+Charles Kuang (CS Ph.D., 2018). Thesis: Towards Learning with High Causal Fidelity from Longitudinal Event Data.
+
+
+
+
+David Page's Most Recent Work
+
+Sinong Geng, Zhoubin Kuang, Peggy Peissig, and David Page. Temporal Poisson Square Root Graphical Models. Proceedings of the International Conference on Machine Learning (ICML), 2018.
+
+Sinong Geng, Zhaobin Kuang, Jie Liu, Stephen Wright, and David Page. Stochastic Learning for Sparse Discrete Markov Random Fields with Controlled Gradient Approximation Error. Proceedings of the International Conference on Uncertainty in Artificial Intelligence (UAI), 2018.
+
+Zhaobin Kuang, Yujia Bao, James Thomson, Michael Caldwell, Peggy Peissig, Ron Stewart, Rebecca Willett, and David Page. A Machine Learning-Based Drug Repurposing Approach Using Baseline Regularization.. Invited book chapter. In Silico Methods for Drug Repurposing: Methods and Protocols. Methods in Molecular Biology Series. Springer 2018.
+
+Irene Giacomelli and Somesh Jha and Marc Joye and C. David Page and Kyonghwan Yoon. Privacy-Preserving Ridge Regression with only Linearly-Homomorphic Encryption. 16th International Conference on Applied Cryptography and Network Security (ACNS), 2018.
+
+Kalscheur MM, Kipp RT, Tattersall MC, Mei C, Buhr KA, DeMets DL, Field ME, Eckhardt LL, Page CD. Machine Learning Algorithm Predicts Cardiac Resynchronization Therapy Outcomes: Lessons From the COMPANION Trial. Circulation: Arrhythmia and Electrophysiology, 11(1):e005499, 2018.
+
+Cheng N, Rahman MM, Alatawi Y, Qian J, Peissig PL, Berg RL, Page CD, Hansen RA. Mixed Approach Retrospective Analyses of Suicide and Suicidal Ideation for Brand Compared with Generic Central Nervous System Drugs. Drug Safety, 41(4):363-376, 2018.
+
+Marsha R. Mailick, Arezoo Movaghar, Jinkuk Hong, Jan S. Greenberg, Leann S. DaWalt, Lili Zhou, Jonathan Jackson, Paul J. Rathouz, Mei W. Baker, Murray Brilliant, David Page, Elizabeth Berry-Kravis. Health Profiles of Mosaic Versus Non-mosaic FMR1 Premutation Carrier Mothers of Children With Fragile X Syndrome. Frontiers of Genetics, 9:173, 2018.
+
+Lauren Bishop-Fitzpatrick, Arezoo Movaghar, Jan S Greenberg, David Page, Leann S DaWalt, Murray H Brilliant, Marsha R Mailick. Using machine learning to identify patterns of lifetime health problems in decedents with autism spectrum disorder. Autism Research, May 7, 2018.
+
+Ling Hao, Jingxin Wang, David Page, Sanjay Asthana, Henrik Zetterberg, Cynthia Carlsson, Ozioma C Okonkwo, Lingjun Li. Comparative Evaluation of MS-based Metabolomics Software and Its Application to Preclinical Alzheimer's Disease. Scientific Reports, 18;8(1):9291, 2018.
+
+Yirong Wu, Jun Fan, Peggy Peissig, Richard Berg, Ahmad Pahlavan Tafti, Jie Yin, Ming Yuan, David Page, Jennifer Cox, Elizabeth S. Burnside. Quantifying predictive capability of electronic health records for the most harmful breast cancer. Proc SPIE Int Soc Opt Eng, Feb 2018.
+
+Xiayuan Huang, Robert C. Elston, Guilherme J. Rosa, John Mayer, Zhan Ye, Terrie Kitchner, Murray H. Brilliant, David Page, Scott J. Hebbring. Applying family analyses to electronic health records to facilitate genetic research. Bioinformatics 34(4): 635-642, 2018 (available electronically 2017). Powerpoint from Xiayuan Huang's presentation at the 2016 International Conference on Quanatitative Genetics (ICQG5).
+
+Zhaobin Kuang, Sinong Geng, David Page. A Screening Rule for L1-Regularized Ising Model Estimation. NIPS 2017: 720-731.
+
+Zhaobin Kuang, Peggy L. Peissig, Vitor Santos Costa, Richard Maclin, David Page. Pharmacovigilance via Baseline Regularization with Large-Scale Longitudinal Observational Data. KDD 2017: 1537-1546.
+
+Yujia Bao, Zhaobin Kuang, Peggy L. Peissig, David Page, Rebecca Willett. Hawkes Process Modeling of Adverse Drug Reactions with Longitudinal Observational Data. Machine Learning in Healthcare 2017: 177-190.
+
+Finn Kuusisto, John W. Steill, Zhaobin Kuang, James A. Thomson, David Page, Ron M. Stewart. A Simple Text Mining Approach for Ranking Pairwise Associations in Biomedical Applications. AMIA Clinical Research Informatics, 2017.
+
+Devendra Singh Dhami, Ameet Soni, David Page, Sriraam Natarajan. Identifying Parkinson's Patients: A Functional Gradient Boosting Approach. Artif Intell Med, 10259: 332-337, 2017.
+
+Richard A. Hansen, Jingjing Qian, Richard Berg, James Linneman, Enrique Seoane-Vazquez, Sarah K. Dutcher, Saeid Raofi, C. David Page, Peggy Peissig. Comparison of generic-to-brand switchback patterns for generic and authorized generic drugs. Pharmacotherapy, 37(4): 429-437, 2017.
+
+Sriraam Natarajan, Vishal Bangera, Tushar Khot, Jose Picado, Anurag Wazalwar, Vitor Santos Costa, David Page, Michael Caldwell. Markov logic networks for adverse drug event extraction from text. Knowl. Inf. Syst. 51(2): 435-457, 2017.
+
+Yirong Wu, Elizabeth S. Burnside, Jennifer Cox, Jun Fan, Ming Yuan, Jie Yin, Peggy L. Peissig, Alexander G. Cobian, David Page, Mark Craven. Breast Cancer Risk Prediction Using Electronic Health Records. ICHI 2017: 224-228.
+
+J Fan, Y Wu, M Yuan, D Page, Liu, IM Ong, P Peissig, E Burnside. Structure-Leveraged Methods in Breast Cancer Risk Prediction. Journal of Machine Learning Research (JMLR), 17(85):1-15, 2016.
+
+J Liu, C Zhang, and D Page. Multiple Testing under Dependence via Graphical Models. The Annals of Applied Statistics, 10(3): 699-1724, 2016.
+
+Z Kuang, JA Thomson, M Caldwell, PL Peissig, RM Stewart, D Page. Baseline Regularization for Computational Drug Repositioning with Longitudinal Observational Data. Proc International Joint Conference on Artificial Intelligence (IJCAI), 2521-2528, 2016.
+
+Z Kuang, JA Thomson, M Caldwell, PL Peissig, RM Stewart, D Page. Computational Drug Repositioning Using Continuous Self-Controlled Case Series. Proc International Conference on Knowledge Discovery and Data Mining (KDD), 491-500, 2016.
+
+ES Burnside, J Liu, Y Wu, AA Onitilo, C McCarty, CD Page, P Peissig, A Trentham-Dietz, T Kitchner, J Fan, M Yuan. Comparing Mammography Abnormality Features and Genetic Variants in the Prediction of Breast Cancer in Women Recommended for Breast Biopsy. Academic Radiology, 23(1), 62-69, 2016.
+
+L Hao, T Greer, D Page, Y Shi, CM Vezina, JA Macoska, PC Marker, DE Bjorling, W Bushman, WA Ricke, L Li. In-Depth Characterization and Validation of Human Urine Metabolomes Reveal Novel Metabolic Signatures of Lower Urinary Tract Symptoms. Scientific Reports, 6, 2016.
+
+RA Hansen, J Qian, RL Berg, JG Linneman, E Seoane-Vazquez, S Dutcher, CD Page, PL Peissig. Comparison of outcomes following a switch from a brand to an authorized vs. independent generic drug. Clin Pharmacol Ther. Dec 16, 2016.
+
+M.P. Schwartz, Z. Hou, N.E. Propson, J. Zhang, V.S. Costa, P. Jiang, B.K. Nguyen, J. Bolin, C. Engstrom, W. Daly, Y. Wang, R. Stewart, C.D. Page, W.L. Murphy, J.A. Thomson. Human pluripotent stem cell-derived neural constructs for predicting neural toxicity. Proceedings of the National Academy of Sciences (PNAS), 112(40): 12516-12521, 2015.
+
+J.C. Weiss, S. Natarajan, C.D. Page. Learning to reject sequential importance steps for continuous-time Bayesian networks. AAAI, 3628-3634, 2015.
+
+J. Weiss, F. Kuusisto, K. Boyd, J. Liu, D. Page. Machine learning for treatment assignment: Improving individualized risk attribution. American Medical Informatics Association (AMIA) Annu Symp Proc., 1306-1315, 2015.
+
+P. Odom, V. Bangera, T. Khot, D. Page, S. Natarajan. Extracting adverse drug events from text using human advice. Artificial Intelligence in Medicine (AIME), 195-204, 2015.
+
+K. Boyd, E. Lantz, D. Page. Differential privacy for classifier evaluation. Eighth ACM Workshop on Artificial Intelligence and Security (AISec), 15-23, 2015.
+
+E. Lantz, K. Boyd, D. Page. Subsampled exponential mechanism: Differential privacy in large output spaces. Eighth ACM Workshop on Artificial Intelligence and Security (AISec), 25-33, 2015.
+
+J. Davis, V. Santos Costa, P. Peissig, M. Caldwell, D. Page. Predicting adverse drug events from electronic medical records. Foundations of Biomedical Knowledge Representation, 243-257, 2015.
+
+M. Fredrikson, E. Lantz, S. Jha, S. Lin, D. Page and T. Ristenpart. Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing. 23rd USENIX Security Symposium (Best Paper Award), 2014.
+
+Jie Liu, David Page, Peggy Peissig, Catherine McCarty, Adedayo A. Onitilo, Amy Trentham-Dietz and Elizabeth Burnside. New Genetic Variants Improve Personalized Breast Cancer Diagnosis. AMIA Summit on Translational Bioinformatics (AMIA-TBI) (Marco Ramoni Distinguished Paper Award), 2014.
+
+J. Liu, C. Zhang, E. Burnside and D. Page. Multiple Testing under Dependence via Semiparametric Graphical Models. The 31st International Conference on Machine Learning (ICML), 2014.
+
+Qiang Zeng, Jignesh M. Patel, and David Page. 2014. QuickFOIL: scalable inductive logic programming. Proc. VLDB Endow. 8, 3 (November 2014), 197-208.
+
+F. Kuusisto, V. Santos Costa, H. Nassif, E.S. Burnside, D. Page, J.W. Shavlik. Support Vector Machines for Differential Prediction. To appear in Proceedings of the European Conference on Machine Learning, ECML-PKDD, 2014.
+
+P.L. Peissig, V. Santos Costa, M.D. Caldwell, C. Rottscheit, R.L. Berg, E.A. Mendonca, and D. Page. Relational Machine Learning for Electronic Health Record-Driven Phenotyping. Journal of Biomedical Informatics, 2014.
+
+Jie Liu, Chunming Zhang, Elizabeth Burnside and David Page. Learning Heterogeneous Hidden Markov Random Fields. The 17th International Conference on Artificial Intelligence and Statistics (AISTATS), 2014.
+
+Chang TS, Lemanske RF, Mauger D, Fitzpatrick A, Sorkness CA, Szefler SJ, Gangnon RE, Page CD, Jackson DJ. Childhood Asthma Clusters and Response to Therapy in Clinical Trials. Journal of Allergy and Clinical Immunology, 133(2), pp. 363-369, 2014.
+
+Z. Ye, J. Mayer, L. Ivacic, Z. Zhou, M. He, S.J. Schrodi, D. Page, M.H. Brilliant, and S.J. Hebbring. Phenome-wide association studies (PheWASs) for functional variants. Eur J Hum Genet., 2014.
+
+Shahinfar, S., Page, C., Guenther, J., Cabrera, V., Fricke, P., and Weigel, K. Prediction of Insemination Outcomes in Holstein Dairy Cattle using Alternative Machine Learning Algorithms. Journal of Dairy Science, 97(2), pp. 731-742, 2014.
+
+J. Liu and D. Page. Bayesian Estimation of Latently-grouped Parameters in Undirected Graphical Models. Advances in Neural Information Processing Systems (NIPS), 2013.
+
+Jie Liu, David Page, Houssam Nassif, Jude Shavlik, Peggy Peissig, Catherine McCarty, Adedayo A. Onitilo and Elizabeth Burnside. Genetic Variants Improve Breast Cancer Risk Prediction on Mammograms. American Medical Informatics Association Symposium (AMIA) (full paper, podium presentation), 2013.
+
+Kendrick Boyd, Kevin H. Eng, C. David Page. Area under the Precision-Recall Curve: Point Estimates and Confidence Intervals. Proceedings of the European Conference on Machine Learning, ECML-PKDD, 2013.
+
+J.C. Weiss and D. Page. Forest-Based Point Processes for Event Prediction from Electronic Health Records. Proceedings of the European Conference on Machine Learning, ECML-PKDD, 2013.
+
+Nassif, H., Kuusisto, F., Burnside, E.S., Page, D., Shavlik, J.W., and Santos Costa, V. Score As You Lift (SAYL): A Statistical Relational Learning Approach to Uplift Modeling.. Proceedings of the European Conference on Machine Learning, ECML-PKDD (3), pp. 595-611, 2013.
+
+T.S. Chang, R.F. Lemanske, Jr., T.W. Guilbert, J.E. Gern, M.H. Coen, M.D. Evans, R.E. Gangnon, C.D. Page, and D.J. Jackson. Evaluation of the Modified Asthma Predictive Index in High-Risk Preschool Children. J Allergy Clin Immunol Pract., 1(2), 2013.
+
+N. Roetker, C.D. Page, J.A. Yonker, V. Chang, C.L. Roan, P. Herd, T.S. Hauser, R.M. Hauser, and C.S. Atwood. Assessment of Genetic and Nongenetic Interactions for the Prediction of Depressive Symptomatology: An Analysis of the Wisconsin Longitudinal Study Using Machine Learning Algorithms. American Journal of Public Health, 103, pp. S136-44, 2013.
+
+J.C. Weiss, S. Natarajan, and D. Page. Learning When to Reject an Importance Sample (2 pages). AAAI Late-Breaking Papers, 2013.
+
+C. Zeng, E. Lantz, J.F. Naughton, and D. Page. On Differentially Private Inductive Logic Programming. In Proceedings of the International Conference on Inductive Logic Programming (ILP), 2013.
+
+C. Yao, D. Spurlock, L. Armentano, C.D. Page, M. VandeHaar, D. Bickhart, D., and K. Weigel. Random Forests Approach for Identifying Additive and Epistatic SNPs Associated with Residual feed Intake in Dairy Cattle. Journal of Dairy Science, 96(10), pp. 6716-6729, 2013.
+
+Jeremy C. Weiss, Sriraam Natarajan, and David Page. Multiplicative Forests for Continuous-Time Processes. Advances in Neural Information Processing Systems (NIPS), 2012.
+
+Jie Liu, Chunming Zhang, Catherine McCarty, Peggy Peissig, Elizabeth Burnside, and David Page. Graphical-model Based Multiple Testing under Dependence, with Applications to Genome-wide Association Studies. Proceedings of the 28th Conference on Uncertainty in Artificial Intelligence (UAI), 2012.
+
+David Page, Vitor Santos Costa, Sriraam Natarajan, Aubrey Barnard, Peggy L. Peissig, Michael Caldwell. Identifying Adverse Drug Events by Relational Learning. Proceedings of AAAI, 2012.
+
+Jesse Davis, Vitor Santos Costa, Elizabeth Berg, David Page, Peggy Peissig, Michael Caldwell. Demand-Driven Clustering in Relational Domains for Predicting Adverse Drug Events. Proceedings of the International Conference on Machine Leaning (ICML), 2012.
+
+Kendrick Boyd, Vitor Santos Costa, Jesse Davis, David Page. Unachievable Region in Precision-Recall Space and Its Effect on Empirical Evaluation. Proceedings of the International Conference on Machine Learning (ICML), 2012.
+
+Jeremy C. Weiss, Sriraam Natarajan, Peggy L. Peissig, Catherine A. McCarty, David Page. Statistical Relational Learning to Predict Primary Myocardial Infarction from Electronic Health Records. Proceedings of Innovative Applications of Artificial Intelligence (IAAI), 2012. A longer version is to appear in AI Magazine.
+
+Jie Liu, Chunming Zhang, Catherine McCarty, Peggy Peissig, Elizabeth Burnside, and David Page. High-Dimensional Structured Feature Screening Using Binary Markov Random Fields. Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics (AISTATS), 2012.
+
+Houssam Nassif, Vitor Santos Costa, Elizabeth S. Burnside, David Page. Relational Differential Prediction. Proceedings of the European Conference on Machine Leaning (ECML), Bristol, U.K., pp. 617-632, 2012.
+
+Nassif H, Wu Y, Page D, and Burnside ES. Logical Differential Prediction Bayes Net, Improving Breast Cancer Diagnosis for Older Women. Proceedings of the American Medical Informatics Association Symposium (AMIA), Chicago, 2012.
+
+Santos JCA, Nassif H, Page D, Muggleton SH, and Sternberg MJE. Automated Identification of Protein-Ligand Interaction Features Using Inductive Logic Programming: A Hexose Binding Case Study. BMC Bioinformatics, 13:162, 2012.
+
+Nassif H, Cunha F, Moreira IC, Cruz-Correia R, Sousa E, Page D, Burnside E, and Dutra I. Extracting BI-RADS Features from Portuguese Clinical Texts. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Philadelphia, 2012.
+
+Jie Liu, Humberto Vidaillet, Elizabeth Burnside and David Page. A Collective Ranking Method for Genome-wide Association Studies. Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine (ACM-BCB), Orlando, 2012.
+
+I. Dutra, H. Nassif, D. Page, J. Shavlik, R. M. Strigel, Y. Wu, M. E. Elezaby, and E. Burnside. Integrating Machine Learning and Physician Knowledge to Improve the Accuracy of Breast Biopsy. Proceedings of the American Medical Informatics Association (AMIA) Annual Symposium, 2011: 349-35.
+
+Trevor Walker, Gautam Kunapuli, Noah Larsen, David Page, Jude W. Shavlik: Integrating knowledge capture and supervised learning through a human-computer interface. Proceedings of the International Conference on Knowledge Capture (K-CAP), 2011: 89-96, 2011.
+
+C. David Page Jr. and Sriraam Natarajan: Biomedical Informatics. Encyclopedia of Machine Learning, 2010: 132.
+
+Ryan W. Woods, Louis Oliphant, Kazuhiko Shinki, David Page, Jude W. Shavlik, Elizabeth S. Burnside: Validation of Results from Knowledge Discovery: Mass Density as a Predictor of Breast Cancer. Journal of Digital Imaging, 23(5): 554-561, 2010.
+
+Nassif, H., Page, D., Ayvaci, M., Shavlik, J., and Burnside, E. S. Uncovering Age-Specific Invasive and DCIS Breast Cancer Rules Using Inductive Logic Programming. Proceedings of the First ACM International Health Informatics Symposium (IHI), Arlington, VA, pp. 76-82, 2010.
+
+Trevor Walker, Ciaran O'Reilly, Gautam Kunapuli, Sriraam Natarajan, Richard Maclin, David Page, Jude W. Shavlik: Automating the ILP Setup Task: Converting User Advice about Specific Examples into General Background Knowledge. Proceedings of the International Conference on Inductive Logic Programming (ILP), 2010: 253-268.
+
+The International Warfarin Pharmacogenetics Consortium. Estimation of the Warfarin Dose with Clinical and Pharmacogenetic Data. The New England Journal of Medicine, 360:753-764, 2009. Available Here. An editorial discussing the significance of this work is available here. Several public news stories on this are available including this one. The de-identified data set used in the study is available from PharmGKB.
+
+Burnside ES, Davis J, Chhatwal J, Alagoz O, Lindstrom MJ, Geller BM, Littenberg B, Kahn CE, Shaffer KA, Page CD. A Probabilistic Computer Model Developed from Clinical Data in the National Mammography Database Format to Classify Mammographic Findings. Radiology, 2009. Available Here.
+
+Hellerstein, L., Rosell, B., Bach, E., Ray, S., and Page, D. Exploiting Product Distributions to Identify Relevant Variables of Correlation Immune Functions. Journal of Machine Learning Research, 10(Oct):2375--2411, 2009. Available Here.
+
+Herbst, A., McIlwain, S., Schmidt, J.J., Aiken, J.M., Page, C.D. and Li, L. Prion Disease Diagnosis by Proteomic Profiling. Journal of Proteome Research, 8(2):1030-1036, 2009. Available Here.
+
+Nassif H, Al-Ali H, Khuri S, Keyrouz W, and Page D. An Inductive Logic Programming Approach to Validate Hexose Binding Biochemical Knowledge. 19th International Conference on Inductive Logic Programming (ILP'09), Leuven, Belgium, pp. 149-165, 2009.
+
+Struyf J, Dobrin S, Page D. Combining gene expression, demographic and clinical data in modeling disease: a case study of bipolar disorder and schizophrenia. BMC Genomics, 9:531, 2008. Available Here.
+
+McIlwain, S., Page, D., Huttlin, E. and Sussman, M. Matching Isotopic Distributions from Metabolically Labeled Samples. Bioinformatics, special issue on the International Conference on Intelligent Systems for Molecular Biology (ISMB), pp. 339-347, 2008. Available Here.
+
+McIlwain, S., Page, D., Huttlin, E. and Sussman, M. Using Dynamic Programming to Create Isotopic Distribution Maps from Mass Spectra. Bioinformatics 23(13), special issue on the International Conference on Intelligent Systems for Molecular Biology (ISMB), 2007. Available Here.
+
+Darnell, S., Page, D. and Mitchell, J. Automated Decision-Tree Approach to Predicting Protein-Protein Interaction Hot Spots. Proteins: Structure, Function and Bioinformatics 68(4):813-823, 2007. Available Here.
+
+Lantz, E., Ray, S. and Page, D. Learning Bayesian Network Structure from Correlation Immune Data. Proceedings of the 23rd International Conference on Uncertainty in Artificial Intelligence (UAI), 2007. PDF.
+
+Davis, J., Santos Costa, V., Ray, S. and Page, D. An Integrated Approach to Feature Construction and Model Building for Drug Activity Prediction. Proceedings of the 24th International Conference on Machine Learning (ICML), 2007. PDF.
+
+Jesse Davis, Irene Ong, Jan Struyf, Elizabeth Burnside, David Page and Vitor Santos Costa. Change of Representation for Statistical Relational Learning. Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI), 2007. PDF.
+
+Jesse Davis, Elizabeth Burnside, Ines Dutra, David Page, Raghu Ramakrishnan, Vitor Santos Costa and Jude Shavlik. Learning a New View of a Database: With an Application to Mammography. In L. Getoor and B. Taskar, editors, An Introduction to Statistical Relational Learning, MIT Press, 2007. PDF.
+
+I.M. Ong, S.E. Topper, D. Page and V. Santos Costa. Inferring Regulatory Networks from Time Series Expression Data and Relational Data via Inductive Logic Programming. Proceedings of the Sixteenth International Conference on Inductive Logic Programming (ILP), Springer Lecture Notes in Artificial Intelligence 4455, 2007. PDF.
+
+SIGKDD Webinar on Mining High-Throughput Biological Data, 2007. Based on KDD 2006 Tutorial on Mining High-Throughput Biological Data (Powerpoint).
+
+Inductive Logic Programming (ILP) and Statistical Relational Learning (SRL), including applications to clinical data
+Inductive Logic Programming (ILP) is the study of automated inductive learning where the knowledge representation used is first-order definite clause logic (as embodied in the language Prolog). The richness of the representation makes ILP particularly well-suited to domains such as organic chemistry and molecular biology, natural language processing, and telecommunications, where examples are easily described as sets of objects (e.g., atoms in a molecule) together with relations that hold among those objects (e.g., bonds or distance relations). Because of the close correspondence between logic and databases (relational algebra is equivalent to Datalog, a simplification of Prolog), ILP is a leading approach to directly mining databases with multiple relational tables. Statistical Relational Learning (SRL) combines explicit representation of uncertainty, as in Bayesian networks and related graphical model approaches, with the ability to analyze relational data as just described. The following are some of David Page's ILP and SRL activities.
+Jesse Davis, Irene Ong, Jan Struyf, Elizabeth Burnside, David Page and Vitor Santos Costa (2007). Change of Representation for Statistical Relational Learning. Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI). PDF.
+
+Filip Zelezny, Ashwin Srinivasan and David Page. Randomised restarted search in ILP. Machine Learning 64(1-3): 183-208 (2006). PDF.
+
+Jan Struyf, Jesse Davis and David Page (2006). An Efficient Approximation to Lookahead in Relational Learners. Proceedings of the 17th European Conference on Machine Learning (ECML). PDF.
+
+Elizabeth S. Burnside, Jesse Davis, Vitor Santos Costa, Ines Dutra, Charles E. Kahn Jr., Jason P. Fine and David Page (2005). Knowledge Discovery from Structured Mammography Reports Using Inductive Logic Programming. Appears in the Proceeding of the American Medical Informatics Association Annual Symposium (AMIA-05). PDF.
+
+Jesse Davis, Elizabeth Burnside, Ines Dutra, David Page, Raghu Ramakrishnan, Vitor Santos Costa and Jude Shavlik (2005). View Learning for Statistical Relational Learning: With an Application to Mammography. Appears in the Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI-05). PDF.
+
+Jesse Davis, Elizabeth Burnside, Ines Dutra, David Page and Vitor Santos Costa (2005). An Integrated Approach to Learning Bayesian Networks of Rules. Appears in the Proceedings of the European Conference on Machine Learning (ECML-05). Also abstracted in the SIGKDD 2005 Workshop on Multi-Relational Data Mining. PDF.
+
+Irene Ong, Ines Dutra, David Page and Vitor Santos Costa (2005). Mode Directed Path Finding. Appears in the Proceedings of the European Conference on Machine Learning (ECML-05). Also abstracted in the SIGKDD 2005 Workshop on Multi-Relational Data Mining. PDF.
+
+Hector Corrada-Bravo, David Page, Raghu Ramakrishnan, Vitor Santos Costa and Jude Shavlik (2005). Set-Oriented Computation in ILP. Appears in the Proceedings of the 15th International Conference on Inductive Logic Programming (ILP-05), Bonn, Germany. PDF.
+
+Jesse Davis, Ines Dutra, David Page and Vitor Santos Costa (2005). Establishing Identity Equivalence in Multi-Relational Domains. In the Proceedings of the International Conference on Intelligence Analysis (IA-05). PDF. Winner of the Best Technical Paper award.
+
+Davis, J., Santos Costa, V., Ong, I.M., Page, D., Dutra, I. (2004). Using Bayesian Classifiers to Combine Rules. 3rd SIGKDD Workshop on Multi-Relational Data Mining ( MRDM 2004). In conjunction with KDD 2004. PDF.
+
+Santos Costa, V., Page, D., Qazi, M. and Cussens, J. (2003). CLP(BN): Constraint Logic Programming for Probabilistic Knowledge. Appears in Proceedings of the International Conference on Uncertainty in Artificial Intelligence (UAI'03). PDF.
+
+Page, D. and Srinivasan, A. (2003). ILP: A Short Look Back and a Longer Look Forward. Appears in the Journal of Machine Learning Research, special issue on Inductive Logic Programming. PDF.
+
+I. Dutra, D. Page, V. Santos Costa, J. Shavlik and M. Waddell (2003). Toward Automatic Management of Embarrassingly Parallel Applications. Appears in Proceedings of EuroPar 2003. PDF.
+
+Page, D. and Craven, M. (2003). Biological Applications of Multi-Relational Data Mining. Appears in SIGKDD Explorations, special issue on Multi-Relational Data Mining. PDF.
+
+Mooney, R., Melville, P., Tang, L., Shavlik, J., Dutra, I. and Page, D. (2003). Relational Data Mining with Inductive Logic Programming for Link Discovery. In H. Kargupta and A. Joshi (Ed.s), Data Mining: Next Generation Challenges and Future Directions. Available as PDF.
+
+Dutra, I., Page, D., Santos Costa, V. and Shavlik, J. (2003). An Empirical Evaluation of Bagging in Inductive Logic Programming. Proceedings of the Twelfth International Conference on Inductive Logic Programming (ILP'02), published as Lecture Notes in Computer Science 2583, Springer 2003, S. Matwin and C. Sammut (Ed.s), pp. 48-65. PDF.
+
+Zelezny, F., Srinivasan, A. and Page, D. (2003). Lattice-Search Runtime Distributions May be Heavy-Tailed. Proceedings of the Twelfth International Conference on Inductive Logic Programming (ILP'02), published as Lecture Notes in Computer Science 2583, Springer 2003, S. Matwin and C. Sammut (Ed.s), pp. 333-345. PDF.
+
+Plenary invited speaker at Computational Logic 2000 and ILP'2000, postscript here. D. Page (2000). ILP: Just Do It. In Proceedings of Computational Logic 2000, J. Lloyd, Dahl, Kerber, Lau, Palamidissi, Pereira, Sagiv, Stuckey (Eds), Berlin: Springer, LNAI 1861, pp. 25-40. Also appears in Proceedings of ILP'2000, J. Cussens and A. Frisch (Eds), Berlin: Springer, LNAI 1866, pp. 3-18. (Also available in pdf)
+
+Co-editor of special issues of Machine Learning on ILP, in 1997 (with Stephen Muggleton) and 2001 (with Luc De Raedt and Stefan Wrobel).
+
+Co-editor of special issue of the Journal of Logic Programming on ILP in 1999 with (Stephen Muggleton).
+
+Chair of the Eighth International Conference on Inductive Logic Programming (ILP'98)
+
+
+Produced (with A. Frisch and with M. Frazier) first and other early polynomial learnability results for ILP, included in the following survey with W. Cohen. W.W. Cohen and C.D. Page (1995). Learnability in Inductive Logic Programming: Methods and Results. New Generation Computing 13(1-2). Earliest results appeared in KR-91, ML-91, and ILP-91 (first workshop on ILP); ILP-91 paper later appeared in C.D. Page and A.M. Frisch (1992). Generalization and Learnability: A Study of Constrained Atoms. In S.H. Muggleton (Ed.), Inductive Logic Programming, London: Academic Press, pp. 29-61.
+
+Some other ILP publications appear under other categories below.
+
+Skewing: Learning Correlation Immune Targets
+It has long been recognized that most machine learning systems have difficulty learning parity functions and related functions where the relevant features individually are not correlated with the class value. It turns out there are many such functions beyond parity; these functions are known in cryptography as the correlation immune functions, and they arise within nature in areas such as genetics and protein-protein interactions. The traditional ML approach to learning such functions is lookahead, but lookahead has high costs both in runtime and susceptibility to overfitting. Skewing is an alternative approach to learning correlation immune functions.
+
+Lantz, E., Ray, S. and Page, D. Learning Bayesian Network Structure from Correlation Immune Data. Proceedings of the International Conference on Uncertainty in Artificial Intelligence (UAI), 2007. PDF.
+
+Soumya Ray and David Page (2005). Generalized Skewing for Functions with Continuous and Nominal Attributes. Appears in the Proceedings of the 22nd International Conference on Machine Learning (ICML-05), Bonn, Germany. PDF
+
+Bernhard Rosell, Lisa Hellerstein, Soumya Ray and David Page (2005). Why Skewing works: Learning Difficult Boolean Functions with Greedy Tree Learners. Appears in the Proceedings of the 22nd International Conference on Machine Learning (ICML-05), Bonn, Germany. PDF
+
+S. Ray & D. Page (2004). Sequential Skewing: An Improved Skewing Algorithm. Appears in the Proceedings of the 21st International Conference on Machine Learning (ICML-04), Banff, Canada. PDF.
+
+Page, D. and Ray, S. (2003). Skewing: An Efficient Alternative to Lookahead for Decision Tree Induction. Appears in Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI'03). PDF.
+
+Pharmacophore Discovery for Drug Design
+One important application of ILP and SRL is the discovery of pharmacophores---the 3-dimensional substructures of molecules responsible for their biological activities. Here are some papers on this topic.
+Davis, J., Santos Costa, V., Ray, S. and Page, D. An Integrated Approach to Feature Construction and Model Building for Drug Activity Prediction. Proceedings of the 24th International Conference on Machine Learning (ICML), 2007. PDF.
+
+Ashwin Srinivasan, David Page, Rui Camacho, Ross King: Quantitative pharmacophore models with inductive logic programming. Machine Learning 64(1-3): 65-90 (2006) PDF.
+
+P. Finn, S. Muggleton, D. Page (corresponding author), and A. Srinivasan (1998). Discovery of Pharmacophores using the Inductive Logic Programming System Progol. Special issue of Machine Learning on Applications and the Knowledge Discovery Process, Kohavi and Provost (Guest Editors), Volume 30, Numbers 1 and 2, pp. 241--270. (Also available in pdf)
+
+D. Page, S. Curtis, J. Graham and A. Spatola (1998). A Case Study in Machine Learning for Combinatorial Chemistry. Proceedings of the Seventh International Conference on Intelligent Systems, Paris, 1998.
+
+An alternative to pharmacophore discovery is to invest a lot of effort into constructing millions of binary features to describe molecular structure. Such approaches require feature-based learners that are space-efficient. Here is one developed by Bob Marinier in collaboration with David Page. This work also relates to the following project.
+
+We have been investigating the use of ILP-discovered pharmacophores to predict real-valued drug activity levels (rather than just "active" vs. "inactive"). This has led to the formulation of the "Multiple Instance Regression" task, detailed in the following paper. S. Ray and D. Page (2001). Multiple Instance Regression. Proceedings of the Eighteenth International Conference on Machine Learning, Williamstown, MA.
+
+Analysis of High-Throughput Genetic Data
+The University of Wisconsin is using single-nucleotide polymorphism (SNP) genotype data and gene expression data from microarrays to study disease susceptibility, regulatory mechanisms in organisms such as E. coli as well as to identify new targets for anti-cancer drugs and other types of drugs. Here are some results.
+Page, D. and Ong, I. Experimental Design of Time Series Data for Learning from Dynamic Bayesian Networks. Proceedings of the Pacific Symposium on Biocomputing (PSB), 11:267-278, 2006. PDF.
+
+Michael Waddell, David Page, Fenghuang Zhan, Bart Barlogie and John Shaughnessy, Jr. (2005). Predicting Cancer Susceptibility from Single-Nucleotide Polymorphism Data: A Case Study in Multiple Myeloma. Proceedings of BIOKDD. PDF.
+
+Hardin, J., Waddell, M., Page, D., Zhan, F., Barlogie, B., Shaughnessy, J. and Crowley, J. (2004). Evaluation of Multiple Models to Distinguish Closely Related Forms of Disease Using DNA Microarray Data: an Application to Multiple Myeloma. Statistical Applications in Genetics and Molecular Biology, 3(1), 10. pdf
+
+Molla, M., Waddell, M., Page, D. and Shavlik, J. (2004). Using Machine Learning to Design and Interpret Gene Expression Microarrays. Appears in AI Magazine, special issue on Bioinformatics, January/February. Available as PDF.
+
+Bockhorst, J., Craven, M., Page, D., Shavlik, J. and Glasner, J. (2003). A Bayesian Network Approach to Operon Prediction. Bioinformatics, 19, pp. 1227-1235. Available as PDF.
+
+Ong, I. M., Glasner, J. and D. Page (2002). Modeling Regulatory Pathways in E.Coli from Time Series Expression Profiles. Appears in Bioinformatics, special issue based on the Tenth International Conference on Intelligent Systems for Molecular Biology (ISMB-02) postscript, pdf)
+
+Page, D., Zhan, F., Cussens, J., Waddell, M., Hardin, J., Barlogie, B. and Shaughnessy, J. (2002). Comparative Data Mining for Microarrays: A Case Study Based on Multiple Myeloma. Technical Report 1453, Computer Sciences Department, University of Wisconsin. Available as postscript or PDF.
+
+M. Craven, D. Page, J. Shavlik, J. Bockhorst, & J. Glasner (2000). Using Multiple Levels of Learning and Diverse Evidence Sources to Uncover Coordinately Controlled Genes. Proceedings of the Seventeenth International Conference on Machine Learning, Palo Alto, CA. (Also available in pdf)
+
+M. Craven, D. Page, J. Shavlik, J. Bockhorst, & J. Glasner (2000). Probabilistic Learning Approach to Whole-Genome Operon Prediction. Proceedings of the Eighth International Conference on Intelligent Systems for Molecular Biology, La Jolla, CA. (Also available in pdf)
+
+Other Activities in Bioinformatics and Artificial Intelligence
+Member of NIH Study Section on Bio-Data Management and Analysis (2005-2006)
+
+Served on NIH Study Sections for Modeling and Analysis of Biological Systems (2004) and Integrated Cancer Biology Programs (2004)
+
+Member of 5 NSF Review Panels
+
+Co-chair (with Christos Hatzis) of KDD Cup 2001
+
+Co-organizer (with Mark Craven) of the University of Wisconsin Distinguished Lecture Series on Biomedical Informatics
+
+Hendrik Blockeel, David Page and Ashwin Srinivasan (2005). Multiple Instance Decision Tree Learning. Appears in the Proceedings of the 22nd International Conference on Machine Learning (ICML-05), Bonn, Germany.
+
+R. King, M. Ouali, A. Strong, A. Aly, A. Elmaghraby, M. Kantardzic, and D. Page (2000). Is it better to combine predictions? Protein Engineering 13(1), pp. 15-19.
+
+C. Bryant, S. Muggleton, D. Page, and M. Sternberg (1999). Combining active learning with inductive logic programming to close the loop in machine learning. In Proceedings of the AISB Symposium on AI and Scientific Creativity, pp. 59-64.
+
+A. Spatola, D. Page, D. Vogel, S. Blondell, and Y. Crozet (1999). Can Machine Learning and Combinatorial Chemistry Co-exist? Proceedings of the American Peptide Symposium, Kluwer Academic Publishers, 1999.
+
+Program Chair, Ninth ISCA International Conference on Intelligent Systems, 2000. Co-editor (with J. Graham) of special issue of the International Journal of Computers and Their Applications on Intelligent Systems, 2001.
+
+Author of UW Computational Biology Web Page in the CS Dept.
+
+Background
+Ph.D., Computer Science, University of Illinois at Urbana-Champaign. Thesis: Anti-Unification in Constraint Logics: Foundations and Applications to Learnability in First-Order Logic, to Speed-Up Learning, and to Deduction.
+
+Postdoctoral Research Officer at the Oxford University Computing Laboratory, member of Mathematics Faculty, Sub-Faculty on Computation (4 years).
+
+Assistant Professor, Speed School of Engineering, University of Louisville (2 years), founding member of university's Institute for Molecular Diversity and Drug Design (IMD3), and head of Machine Learning Group.
+
+Associate Professor, University of Wisconsin, Department of Biostatistics and Medical Informatics (tenure home, UW Medical School) and Department of Computer Sciences. Member of the UW Comprehensive Cancer Center and the Genome Center of Wisconsin.
+

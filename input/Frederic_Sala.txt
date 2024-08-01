@@ -1,0 +1,342 @@
+Professor: Frederic Sala
+University: University of Wisconsin - Madison
+URL: https://pages.cs.wisc.edu/~fredsala
+Description: FREDERIC SALA
+
+
+Assistant Professor, University of Wisconsin CS
+fredsala@cs.wisc.edu
+
+I study the fundamentals of data-driven systems and machine learning. I am especially interested in data- and compute-efficient systems.
+
+Much of my current work focuses on foundation models, automated machine learning, and learning with limited data and annotations.
+
+I have a research leadership role at Snorkel AI, where we are building a data-first approach to AI.
+
+Previously, I was a postdoc in Stanford CS, associated with the Hazy group. I completed my Ph.D. in electrical engineering at UCLA, where I worked with the LORIS and StarAI groups.
+
+Bio | CV | Google Scholar | Twitter | Publications | Awards
+
+	
+News
+Lots of our fresh work will be highlighted at ICML workshops, especially at DMLR, ES-FoMo-II, and NextGenAISafety. Come chat with us!
+Excited to share some of our work on learning hybrid arhitectures for models. Check out Manticore! Paper link and tweet thread.
+New work on instant, free alignment! Check out Dyah's explanation.
+Changho and Dyah are Qualcomm Innovation Fellowship Finalists! Congratulations!
+Long version of our paper on robustifying foundation models was accepted to ICLR 2024! Good work Dyah, Changho, and Chris!
+New preprint on non-Euclidean representations for biological pathways! Joint work with Danny McNeela and Tony Gitter.
+Students
+
+Graduate Students
+Nick Roberts
+Harit Vishwakarma (co-advised with Ramya Vinayak)
+Dyah Adila
+Sonia Cromp
+Brian Huang
+Changho Shin
+Jitian Zhao (co-advised with Karl Rohe)
+Kendall Park
+Publications
+
+Conference | Journal | Preprint | Workshop
+
+
+2024
+
+
+Pretrained Hybrids with MAD Skills
+Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala
+Preprint, 2024
+arXiv
+
+
+Is Free Self-Alignment Possible?
+Dyah Adila, Changho Shin, Yijing Zhang, Frederic Sala
+Preprint, 2024
+arXiv
+
+
+Pearls from Pebbles: Improved Confidence Functions for Auto-labeling
+Harit Vishwakarma, Sui Jiet Tay, Satya Sai Srinath Namburi, Frederic Sala, Ramya Korlakai Vinayak
+Preprint, 2024
+arXiv
+
+
+OTTER: Improving Zero-Shot Classification via Optimal Transport
+Changho Shin, Jitian Zhao, Sonia Cromp, Harit Vishwakarma, Frederic Sala
+Preprint, 2024
+arXiv
+
+
+Zero-Shot Robustification of Zero-Shot Models
+Dyah Adila, Changho Shin, Linrong Cai, Frederic Sala
+International Conference on Learning Representations (ICLR), 2024
+OpenReview | arXiv | code | blog
+
+
+Product Manifold Representations for Learning on Biological Pathways
+Daniel McNeela, Frederic Sala, Anthony Gitter
+Preprint, 2024
+arXiv
+
+2023
+
+
+Domain Generalization via Nuclear Norm Regularization
+Zhenmei Shi, Yifei Ming, Ying Fan, Frederic Sala, Yingyu Liang
+Conference on Parsimony and Learning (CPAL) , 2023 (Oral)
+arXiv
+
+
+The Cost of Compression: Investigating the Impact of Compression on Parametric Knowledge in Language Models
+Srinath Namburi, Makesh Narsimhan Sreedhar, Srinath Srinivasan, Frederic Sala
+Empirical Methods in Natural Language Processing (EMNLP) Findings, 2023
+paper
+
+
+Geometry-Aware Adaptation for Pretrained Models
+Nicholas Roberts, Xintong Li, Dyah Adila, Sonia Cromp, Tzu-Heng Huang, Jitian Zhao, Frederic Sala
+Neural Information Processing Systems (NeurIPS), 2023
+arXiv
+
+
+Promises and Pitfalls of Threshold-based Auto-labeling
+Harit Vishwakarma, Heguang Lin, Frederic Sala, Ramya Korlakai Vinayak
+Neural Information Processing Systems (NeurIPS), 2023 (Spotlight)
+arXiv
+
+
+Mitigating Source Bias for Fairer Weak Supervision
+Changho Shin, Sonia Cromp, Dyah Adila, Frederic Sala
+Neural Information Processing Systems (NeurIPS), 2023
+arXiv
+
+
+Train `n Trade: Foundations of Parameter Markets
+Tzu-Heng Huang, Harit Vishwakarma, Frederic Sala
+Neural Information Processing Systems (NeurIPS), 2023
+paper
+
+
+Skill-it! A Data-Driven Skills Framework for Understanding and Training Language Models
+Mayee F. Chen, Nicholas Roberts, Kush Bhatia, Jue Wang, Ce Zhang, Frederic Sala, Christopher Ré
+Neural Information Processing Systems (NeurIPS), 2023 (Spotlight)
+arXiv
+
+
+Embroid: Unsupervised Prediction Smoothing Can Improve Few-Shot Classification
+Neel Guha, Mayee F Chen, Kush Bhatia, Azalia Mirhoseini, Frederic Sala, Christopher Ré
+Neural Information Processing Systems (NeurIPS), 2023
+arXiv
+
+
+The Credential is Not Enough: Combining Honeypots and Fake Credentials for Cyber-Defense
+Sonia Cromp, Mark Bilinski, Ryan Gabrys, Frederic Sala
+Conference on Decision and Game Theory for Security (GameSec-23), 2023
+paper
+
+
+Generative Modeling Helps Weak Supervision (and Vice Versa)
+Benedikt Boecking, Willie Neiswanger, Nicholas Roberts, Stefano Ermon, Frederic Sala, Artur Dubrawski
+International Conference on Learning Representations (ICLR), 2023
+arXiv | OpenReview
+
+
+Ask Me Anything: A simple strategy for prompting language models
+Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala, Christopher Ré
+International Conference on Learning Representations (ICLR), 2023
+arXiv | OpenReview
+
+
+Resonant anomaly detection with multiple reference datasets
+Mayee F. Chen, Benjamin Nachman, Frederic Sala
+Journal of High Energy Physics, 2023
+paper
+
+
+Foundation Models Can Robustify Themselves, For Free
+Dyah Adila, Changho Shin, Linrong Cai, Frederic Sala
+NeurIPS Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models (R0-FoMo), 2023 (oral)
+paper
+
+
+Understanding Threshold-based Auto-labeling: The Good, the Bad, and the Terra Incognita
+Harit Vishwakarma, Frederic Sala, Ramya Vinayak
+NeurIPS Workshop on Adaptive Experimental Design and Active Learning in the Real World (RealML-2023), 2023
+
+
+
+Multimodal Data Curation Via Object Detection And Filter Ensembles
+Tzu-Heng Huang, Changho Shin, Sui Jiet Tay, Dyah Adila, Frederic Sala
+ICCV Workshop: Towards the Next Generation of Computer Vision Datasets (TNGCV), 2023
+paper
+
+
+Mixed Curvature Representation Learning for Biological Pathway Graphs
+Daniel McNeela, Frederic Sala, Anthony Gitter
+ICML Workshop for Computational Biology, 2023
+
+
+
+ScriptoriumWS: A Code Generation Assistant for Weak Supervision
+Tzu-Heng Huang, Catherine Cao, Spencer Schoenberg, Harit Vishwakarma, Nicholas Roberts, Frederic Sala
+Deep Learning for Code (DL4C) Workshop at ICLR, 2023
+preprint
+
+2022
+
+
+Efficient Representation Learning for Higher-Order Data withSimplicial Complexes
+Ruochen Yang, Frederic Sala, Paul Bogdan
+Learning on Graphs (LOG), 2022
+paper
+
+
+Lifting Weak Supervision To Structured Prediction
+Harit Vishwakarma, Nicholas Roberts, Frederic Sala
+Neural Information Processing Systems (NeurIPS), 2022
+arXiv | OpenReview | code
+
+
+AutoWS-Bench-101: Benchmarking Automated Weak Supervision with 100 Labels
+Nicholas Roberts, Xintong Li, Tzu-Heng Huang, Dyah Adila, Spencer Schoenberg, Cheng-Yu Liu, Lauren Pick, Haotian Ma, Aws Albarghouthi, Frederic Sala
+Neural Information Processing Systems (NeurIPS) (Datasets and Benchmarks Track), 2022
+arXiv | OpenReview | code
+
+
+NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks
+Renbo Tu, Nicholas Roberts, Mikhail Khodak, Junhong Shen, Frederic Sala, Ameet Talwalkar
+Neural Information Processing Systems (NeurIPS) (Datasets and Benchmarks Track), 2022
+arXiv | OpenReview | code
+
+
+Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision
+Mayee F. Chen, Daniel Y. Fu, Dyah Adila, Michael Zhang, Frederic Sala, Kayvon Fatahalian, and Christopher Ré
+Uncertainty in Artificial Intelligence (UAI), 2022 (oral)
+arXiv
+
+
+Universalizing Weak Supervision
+Changho Shin, Winfred Li, Harit Vishwakarma, Nicholas Roberts, Frederic Sala
+International Conference on Learning Representations (ICLR), 2022
+arXiv | OpenReview | code
+
+
+Anomaly Detection with Multiple Reference Datasets in High Energy Physics
+Mayee Chen, Benjamin Nachman, Frederic Sala
+NeurIPS Workshop on Machine Learning and the Physical Sciences (ML4PS), 2022
+paper
+
+
+Domain Generalization with Nuclear Norm Regularization
+Zhenmei Shi, Yifei Ming, Ying Fan, Frederic Sala, Yingyu Liang
+NeurIPS Workshop on Workshop on Distribution Shifts (DistShift) , 2022
+OpenReview
+
+
+AutoML for Climate Change: A Call to Action
+Renbo Tu, Nicholas Roberts, Vishak Prasad, Sibasis Nayak, Paarth Jain, Frederic Sala, Ganesh Ramakrishnan, Ameet Talwalkar, Willie Neiswanger, Colin White
+NeurIPS 2022 Workshop on Tackling Climate Change with Machine Learning, 2022
+arXiv
+
+
+Causal Omnivore: Fusing Noisy Estimates of Spurious Correlations
+Dyah Adila, Sonia Cromp, Sicheng Mo, Frederic Sala
+ICML Workshop on Spurious Correlations, Invariance, and Stability, 2022
+paper | code
+
+2021
+
+
+Comparing the Value of Labeled and Unlabeled Data in Method-of-Moments Latent Variable Estimation
+Mayee F. Chen, Ben Cohen-Wang, Steve Mussmann, Frederic Sala, Christopher Ré
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2021
+arXiv
+
+
+Cut Out The Annotator, Keep The Cutout: Better Segmentation With Weak Supervision
+Sarah Hooper, Michael Wornow, Ying Hang Seah, Peter Kellman, Hui Xue, Frederic Sala, Curtis Langlotz, Christopher Ré
+International Conference on Learning Representations (ICLR), 2021
+paper
+
+
+Hidden Network Generating Rules from Partially Observed Complex Networks
+Ruochen Yang, Frederic Sala, Paul Bogdan
+Communications Physics, 2021
+paper
+
+2020
+
+
+Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods
+Daniel Y. Fu*, Mayee F. Chen*, Frederic Sala, Sarah M. Hooper, Kayvon Fatahalian, Christopher Ré
+International Conference on Machine Learning (ICML), 2020
+arXiv | code | video | blog
+
+
+Ivy: Instrumental Variable Synthesis for Causal Inference
+Zhaobin Kuang, Frederic Sala, Nimit Sohoni, Sen Wu, Aldo Cordova-Palomera, Jared Dunnmon, James Priest, Christopher Ré
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2020
+arXiv | tutorial | video
+
+
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings
+Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré.
+Annual Conference of the Association for Computational Linguistics (ACL), 2020
+arXiv | code | video
+
+
+Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings
+Mayee F. Chen, Daniel Y. Fu, Frederic Sala, Sen Wu, Ravi Teja Mullapudi, Fait Poms, Kayvon Fatahalian, Christopher Ré
+Preprint, 2020
+arXiv | code | video
+
+2019
+
+
+Multi-Resolution Weak Supervision for Sequential Data
+Frederic Sala*, Paroma Varma*, Shiori Sagawa, Jason Fries, Daniel Y. Fu, Saelig Khattar, Ashwini Ramamoorthy, Ke Xiao, Kayvon Fatahalian, James Priest, Christopher Ré.
+Neural Information Processing Systems (NeurIPS), 2019
+paper
+
+
+Learning Mixed-Curvature Representations in Products of Model Spaces
+Albert Gu, Frederic Sala, Beliz Gunel, Christopher Ré
+International Conference on Learning Representations (ICLR), 2019
+paper | code | blog
+
+
+Learning Dependency Structures for Weak Supervision Models
+Paroma Varma*, Frederic Sala*, Ann He, Alexander Ratner, Christopher Ré
+International Conference on Machine Learning (ICML), 2019
+arXiv | code
+
+
+Training Complex Models with Multi-Task Weak Supervision
+Alexander J. Ratner, Braden Hancock, Jared Dunnmon, Frederic Sala, Shreyash Pandey, Christopher Ré
+AAAI Conference on Artificial Intelligence, 2019
+arXiv | code
+
+
+Context-Aware Resiliency: Unequal Message Protection for Random-Access Memories
+Clayton Schoeny, Frederic Sala, Mark Gottscho, Irina Alam, Puneet Gupta, Lara Dolecek
+IEEE Transactions on Information Theory, 2019
+paper
+
+
+Codes Correcting Two Deletions
+Ryan Gabrys and Frederic Sala
+IEEE Transactions on Information Theory, 2019
+arXiv
+
+older
+Awards
+Best Paper Award Honorable Mention, NeurIPS R0-FoMo Workshop, 2023
+Best Student Paper Runner-Up, UAI, 2022
+Outstanding Ph.D. Dissertation Award, UCLA Department of Electrical Engineering
+UCLA Dissertation Year Fellowship
+Qualcomm Innovation Fellowship Finalist
+Edward K. Rice Outstanding Masters Student Award UCLA Henry Samueli School of Engineering & Applied Science
+Outstanding M.S. Thesis Award, UCLA Department of Electrical Engineering
+National Science Foundation Graduate Research Fellowship (NSF GRFP)
+

@@ -1,0 +1,371 @@
+Professor: Robin Jia
+University: University of Southern California
+URL: https://robinjia.github.io/
+Description: Robin Jia
+
+Email: robinjia at usc dot edu
+Office: SAL 236
+Curriculum vitae
+
+I am an assistant professor in the Thomas Lord Department of Computer Science at the University of Southern California. My research seeks to understand modern deep learning systems for NLP and ensure that they are reliable. Some research questions I think about include:
+
+How can we scientifically understand large lanuage models? Our scientific understanding of LLMs lags far behind our ability to engineer them. To bridge this gap, our recent work has studied in-context learning from both a data-centric and mechanistic perspective; we have also investigated the predictability of different LLM capabilities.
+How should we benchmark modern NLP systems? I have long advocated for benchmarking robustness and uncertainty of NLP systems. Our recent work has benchmarked generalization to long-tail examples and calibration of LLMs. We have also shown that benchmarking under distribution shift can reveal advantages of neurosymbolic approaches.
+How can smaller open-source models compete with closed-source LLMs? Continued scientific progress relies on access to strong open-source models. Our recent work has improved smaller models by training them to generate reasoning chains.
+How can advances in NLP inform other disciplines? Developments in NLP promise to have broad impacts across disparate areas of study. We have collaborated with legal experts to operationalize underspecified requirements in the EU’s Digital Services Act in a manner that is both legally justified and technically feasible. I am also interested in collaborating with experts in other disciplines who want to use NLP for their own research; for example, I have built assisted curation tools for biomedical researchers.
+
+I received my Ph.D. in Computer Science from Stanford University, where I was advised by Percy Liang. After that, I spent one year as a visiting researcher at Facebook AI Research, working with Luke Zettlemoyer and Douwe Kiela.
+
+For prospective Ph.D. students
+For USC undergraduate or master's students interested in research
+For other undergraduate or master's students interested in research
+Students
+Ph.D. Students
+Johnny Wei
+Ameya Godbole
+Wang (Bill) Zhu (joint with Jesse Thomason)
+Ting-Yun (Charlotte) Chang (joint with Jesse Thomason)
+Deqing Fu (joint with Vatsal Sharan)
+Undergraduate and Masters Students
+Harvey Yiyun Fu
+Tianqi Chen
+Ryan Wang (with Swabha Swayamdipta)
+Qilin Ye (with Vatsal Sharan)
+Gustavo Lucas Carvalho
+Daniel Firebanks-Quevedo
+Lorena Yan
+Publications
+
+IsoBench: Benchmarking Multimodal Foundation Models on Isomorphic Representations.
+Deqing Fu*, Ghazal Khalighinejad*, Ollie Liu*, Bhuwan Dhingra, Dani Yogatama, Robin Jia, and Willie Neiswanger.
+Conference on Language Modeling (COLM), 2024.
+
+
+Proving membership in LLM pretraining data via data watermarks.
+Johnny Tian-Zheng Wei*, Ryan Yixiang Wang*, and Robin Jia.
+Findings of ACL, 2024.
+
+
+Do Localization Methods Actually Localize Memorized Data in LLMs?
+Ting-Yun Chang, Jesse Thomason, and Robin Jia.
+North American Association for Computational Linguistics (NAACL), 2024.
+(github)
+
+Efficient End-to-End Visual Document Understanding with Rationale Distillation.
+Wang Zhu, Alekh Agarwal, Mandar Joshi, Robin Jia, Jesse Thomason, and Kristina Toutanova.
+North American Association for Computational Linguistics (NAACL), 2024.
+
+
+Chain-of-Questions Training with Latent Answers for Robust Multistep Question Answering.
+Wang Zhu, Jesse Thomason, and Robin Jia.
+Empirical Methods in Natural Language Processing (EMNLP), 2023.
+(github) (acl anthology) (bib)
+
+SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples.
+Deqing Fu, Ameya Godbole, and Robin Jia.
+Empirical Methods in Natural Language Processing (EMNLP), 2023.
+(github) (acl anthology) (bib)
+
+Estimating Large Language Model Capabilities without Labeled Test Data.
+Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia.
+Findings of EMNLP, 2023.
+(github) (acl anthology) (bib)
+
+How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench.
+Qinyuan Ye, Harvey Yiyun Fu, Xiang Ren, and Robin Jia.
+Findings of EMNLP, 2023.
+(github) (acl anthology) (bib)
+
+Data Curation Alone Can Stabilize In-context Learning.
+Ting-Yun Chang and Robin Jia.
+Association for Computational Linguistics (ACL), 2023.
+(github) (acl anthology) (bib)
+
+Contrastive Novelty-Augmented Learning: Anticipating Outliers with Large Language Models.
+Albert Xu, Xiang Ren, and Robin Jia.
+Association for Computational Linguistics (ACL), 2023.
+SoCalNLP Symposium 2022 Best Paper Award.
+(github) (acl anthology) (bib)
+
+Are Sample-Efficient NLP Models More Robust?
+Nelson F. Liu, Ananya Kumar, Percy Liang, and Robin Jia.
+Association for Computational Linguistics (ACL), 2023.
+(acl anthology) (bib)
+
+Do Question Answering Modeling Improvements Hold Across Benchmarks?
+Nelson F. Liu, Tony Lee, Robin Jia, and Percy Liang.
+Association for Computational Linguistics (ACL), 2023.
+(acl anthology) (bib)
+
+Does VLN Pretraining Work with Nonsensical or Irrelevant Instructions?
+Wang Zhu, Ishika Singh, Yuan Huang, Robin Jia, and Jesse Thomason.
+Open-Domain Reasoning Under Multi-Modal Settings Workshop at CVPR (O-DRUM), 2023.
+
+
+Benchmarking Long-tail Generalization with Likelihood Splits.
+Ameya Godbole and Robin Jia.
+Findings of EACL, 2023.
+(github) (acl anthology) (bib)
+
+Generalization Differences between End-to-End and Neuro-Symbolic Vision-Language Reasoning Systems.
+Wang Zhu, Jesse Thomason, and Robin Jia.
+Findings of EMNLP, 2022.
+(github) (acl anthology) (bib)
+
+Knowledge base question answering by case-based reasoning over subgraphs.
+Rajarshi Das, Ameya Godbole, Ankita Naik, Elliot Tower, Manzil Zaheer, Hannaneh Hajishirzi, Robin Jia, and Andrew McCallum.
+International Conference on Machine Learning (ICML), 2022.
+(github) (pmlr)
+
+On the Robustness of Reading Comprehension Models to Entity Renaming.
+Jun Yan, Yang Xiao, Sagnik Mukherjee, Bill Yuchen Lin, Robin Jia, and Xiang Ren.
+North American Association for Computational Linguistics (NAACL), 2022.
+(github) (acl anthology) (bib)
+
+Models in the Loop: Aiding Crowdworkers with Generative Annotation Assistants.
+Max Bartolo, Tristan Thrush, Sebastian Riedel, Pontus Stenetorp, Robin Jia, and Douwe Kiela.
+North American Association for Computational Linguistics (NAACL), 2022.
+(github) (acl anthology) (bib)
+
+Question Answering Infused Pre-training of General-Purpose Contextualized Representations.
+Robin Jia, Mike Lewis, and Luke Zettlemoyer.
+Findings of ACL, 2022.
+(github) (acl anthology) (bib)
+
+Analyzing Dynamic Adversarial Training Data in the Limit.
+Eric Wallace, Adina Williams, Robin Jia, and Douwe Kiela.
+Findings of ACL, 2022.
+(github) (acl anthology) (bib)
+
+On Continual Model Refinement in Out-of-Distribution Data Streams.
+Bill Yuchen Lin, Sida Wang, Xi Victoria Lin, Robin Jia, Lin Xiao, Xiang Ren, and Scott Yih.
+Association for Computational Linguistics (ACL), 2022.
+(website) (github) (acl anthology) (bib)
+
+Dynaboard: An Evaluation-As-A-Service Platform for Holistic Next-Generation Benchmarking.
+Zhiyi Ma*, Kawin Ethayarajh*, Tristan Thrush*, Somya Jain, Ledell Wu, Robin Jia, Christopher Potts, Adina Williams, and Douwe Kiela.
+Conference on Neural Information Processing Systems (NeurIPS), 2021.
+(website) (github) (blog post)
+
+Masked Language Modeling and the Distributional Hypothesis: Order Word Matters Pre-training for Little.
+Koustuv Sinha, Robin Jia, Dieuwke Hupkes, Joelle Pineau, Adina Williams, and Douwe Kiela.
+Empirical Methods in Natural Language Processing (EMNLP), 2021.
+(github) (acl anthology) (bib)
+
+Improving Question Answering Model Robustness with Synthetic Adversarial Data Generation.
+Max Bartolo, Tristan Thrush, Robin Jia, Sebastian Riedel, Pontus Stenetorp, and Douwe Kiela.
+Empirical Methods in Natural Language Processing (EMNLP), 2021.
+(model) (github) (task) (acl anthology) (bib)
+
+To What Extent do Human Explanations of Model Behavior Align with Actual Model Behavior?
+Grusha Prasad, Yixin Nie, Mohit Bansal, Robin Jia, Douwe Kiela, and Adina Williams.
+BlackBoxNLP Workshop, 2021.
+(acl anthology) (bib)
+
+The statistical advantage of automatic NLG metrics at the system level.
+Johnny Tian-Zheng Wei and Robin Jia.
+Association for Computational Linguistics (ACL), 2021.
+(github) (acl anthology) (bib)
+
+Evaluation Examples Are Not Equally Informative: How Should That Change NLP Leaderboards?
+Pedro Rodriguez, Joe Barrow, Alexander Hoyle, John P. Lalor, Robin Jia, and Jordan Boyd-Graber.
+Association for Computational Linguistics (ACL), 2021.
+(website) (github) (acl anthology) (bib)
+
+Do Explanations Help Users Detect Errors in Open-Domain QA? An Evaluation of Spoken vs. Visual Explanations.
+Ana Valeria Gonzalez, Gagan Bansal, Angela Fan, Yashar Mehdad, Robin Jia, and Srinivasan Iyer.
+Findings of ACL, 2021.
+(acl anthology) (bib)
+
+Swords: A Benchmark for Lexical Substitution with Improved Data Coverage and Quality.
+Mina Lee*, Chris Donahue*, Robin Jia, Alexander Iyabor, and Percy Liang.
+North American Association for Computational Linguistics (NAACL), 2021.
+(github) (codalab) (acl anthology) (bib)
+
+Dynabench: Rethinking Benchmarking in NLP.
+Douwe Kiela, Max Bartolo, Yixin Nie, Divyansh Kaushik, Atticus Geiger, Zhengxuan Wu, Bertie Vidgen, Grusha Prasad, Amanpreet Singh, Pratik Ringshia, Zhiyi Ma, Tristan Thrush, Sebastian Riedel, Zeerak Waseem, Pontus Stenetorp, Robin Jia, Mohit Bansal, Christopher Potts, and Adina Williams.
+North American Association for Computational Linguistics (NAACL), 2021.
+(website) (github) (acl anthology) (bib)
+
+N-ary relation prediction over text spans.
+Hoifung Poon, Cliff Wong, and Robin Jia.
+US Patent, 2021.
+
+
+On the Importance of Adaptive Data Collection for Extremely Imbalanced Pairwise Tasks.
+Stephen Mussmann*, Robin Jia*, and Percy Liang.
+Findings of EMNLP, 2020.
+(codalab) (github) (acl anthology) (bib)
+
+With Little Power Comes Great Responsibility.
+Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald, and Dan Jurafsky.
+Empirical Methods in Natural Language Processing (EMNLP), 2020.
+(github) (acl anthology) (bib)
+
+Building Robust Natural Language Processing Systems.
+Robin Jia.
+Ph.D. Dissertation, 2020.
+
+
+Selective Question Answering under Domain Shift.
+Amita Kamath, Robin Jia, and Percy Liang.
+Association for Computational Linguistics (ACL), 2020.
+(codalab) (acl anthology) (bib)
+
+Robust Encodings: A Framework for Combating Adversarial Typos.
+Erik Jones, Robin Jia*, Aditi Raghunathan*, and Percy Liang.
+Association for Computational Linguistics (ACL), 2020.
+(codalab) (github) (acl anthology) (bib)
+
+Certified Robustness to Adversarial Word Substitutions.
+Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang.
+Empirical Methods in Natural Language Processing (EMNLP), 2019.
+(codalab) (github) (acl anthology) (bib)
+
+MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension.
+Adam Fisch, Alon Talmor, Robin Jia, Minjoon Seo, Eunsol Choi, and Danqi Chen.
+Workshop on Machine Reading for Question Answering (MRQA), 2019.
+(github) (acl anthology) (bib)
+
+Document-Level N-ary Relation Extraction with Multiscale Representation Learning.
+Robin Jia, Cliff Wong, and Hoifung Poon.
+North American Association for Computational Linguistics (NAACL), 2019.
+(code and data) (acl anthology) (bib)
+
+Know What You Don't Know: Unanswerable Questions for SQuAD.
+Pranav Rajpurkar*, Robin Jia*, and Percy Liang.
+Association for Computational Linguistics (ACL), 2018.
+Best Short Paper Award.
+(website) (codalab) (pptx slides) (pdf slides) (acl anthology) (bib)
+
+Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer.
+Juncen Li, Robin Jia, He He, and Percy Liang.
+North American Association for Computational Linguistics (NAACL), 2018.
+(codalab) (pptx slides) (pdf slides) (acl anthology) (bib)
+
+Adversarial Examples for Evaluating Reading Comprehension Systems.
+Robin Jia and Percy Liang.
+Empirical Methods in Natural Language Processing (EMNLP), 2017.
+Outstanding Paper Award.
+(codalab) (pptx slides) (pdf slides) (acl anthology) (bib)
+
+Learning Concepts through Conversations in Spoken Dialogue Systems.
+Robin Jia, Larry Heck, Dilek Hakkani-Tür, and Georgi Nikolov.
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2017.
+(data) (bib)
+
+Data Recombination for Neural Semantic Parsing.
+Robin Jia and Percy Liang.
+Association for Computational Linguistics (ACL), 2016.
+(codalab) (pptx slides) (pdf slides) (acl anthology) (bib)
+
+"Reverse Genomics" Predicts Function of Human Conserved Noncoding Elements.
+Amir Marcovitz, Robin Jia, and Gill Bejerano.
+Molecular Biology and Evolution (MBE), 2016.
+
+
+Mx1 and Mx2 Key Antiviral Proteins are Surprisingly Lost in Toothed Whales.
+Benjamin A. Braun, Amir Marcovitz, J. Gray Camp, Robin Jia, and Gill Bejerano.
+Proceedings of the National Academy of Sciences (PNAS), 2015.
+
+
+* denotes equal contribution
+
+Preprints
+
+When Parts are Greater Than Sums: Individual LLM Components Can Outperform Full Models.
+Ting-Yun Chang, Jesse Thomason, and Robin Jia.
+arXiv, 2024.
+
+
+Pre-trained Large Language Models Use Fourier Features to Compute Addition.
+Tianyi Zhou, Deqing Fu, Vatsal Sharan, and Robin Jia.
+arXiv, 2024.
+
+
+Language Models can Infer Action Semantics for Classical Planners from Environment Feedback.
+Wang Zhu, Ishika Singh, Robin Jia, and Jesse Thomason.
+arXiv, 2024.
+
+
+Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models.
+Deqing Fu, Tian-Qi Chen, Robin Jia, and Vatsal Sharan.
+arXiv, 2023.
+SoCalNLP Symposium 2023 Best Paper Award.
+
+
+Operationalizing content moderation "accuracy" in the Digital Services Act.
+Johnny Wei, Frederike Zufall, and Robin Jia.
+arXiv, 2023.
+
+
+Teaching
+USC
+CSCI 467: Introduction to Machine Learning (Spring 2024)
+CSCI 467: Introduction to Machine Learning (Fall 2023)
+CSCI 467: Introduction to Machine Learning (Spring 2023)
+CSCI 699: Robustness and Generalization in Natural Language Processing (Spring 2022)
+Stanford
+In the Summer of 2019, I was the head instructor for CS221, Stanford’s introductory artificial intelligence class, which had over 100 enrolled students.
+In the Winter of 2018, I was a TA for CS124, Stanford’s undergraduate natural language processing class, taught by Dan Jurafsky.
+In the Autumn of 2015, I was the head TA for CS221, Stanford’s introductory artificial intelligence class, taught by Percy Liang. I led a team of 18 TAs for a class with 550 enrolled students.
+I was a section leader for Stanford’s CS106A (Introduction to Programming) class in the Winter of 2012. I led weekly 50-minute sections, assisted students, graded assignments, and helped maintain some of our internal grading scirpts.
+In 2011 and 2012, I was a Math 50’s Series Tutor, as part of the Stanford University Math Organization (SUMO) tutoring program. I also ran the tutoring program during the 2011-2012 school year.
+Professional Service
+General Chair for 2023 SoCal NLP Symposium.
+Steering Committee member for Workshop on Instruction Tuning and Instruction Following at NeurIPS 2023.
+Co-instructor of Tutorial on Uncertainty Estimation for Natural Language Processing at COLING 2022.
+Co-organizer of the First Workshop on Dynamic Adversarial Data Collection (DADC) at NAACL 2022.
+Co-organizer of the Third Workshop on Machine Reading and Question Answering (MRQA) at EMNLP 2021.
+Co-instructor of Tutorial on Robustness and Adversarial Examples in Natural Language Processing at EMNLP 2021.
+Co-organizer of the Second Workshop on Machine Reading and Question Answering (MRQA) at EMNLP 2019.
+Co-organizer of the First Workshop on Machine Reading and Question Answering (MRQA) at ACL 2018.
+Area chair for ACL (2021, 2023, 2024), EMNLP (2021, 2022, 2023, 2024), NAACL (2021), and AKBC (2021).
+Reviewer for ACL Rolling Review (2021, 2022, 2023, 2024), ACL (2018, 2019, 2020), EMNLP (2018, 2019, 2020), NAACL (2019), TACL (2022, 2023, 2024), EACL (2022), COLM (2024), AACL (2020), NeurIPS (2024), ICML (2019), CoNLL (2018), AKBC (2019, 2022), RobustSeq Workshop (2022), ML Safety Workshop (2022), DistShift Workshop (2021, 2022, 2023), BlackboxNLP Workshop (2021, 2022, 2023), Repl4NLP Workshop (2021, 2023), GenBench Workshop (2023), ACL Student Research Workshop (2021), RobustML Workshop (2021), EMNLP DeepLo Workshop (2019), and NAACL GenDeep Workshop (2018). Outstanding Reviewer for EMNLP 2020.
+NSF panel reviewer.
+Other Work
+Industry Internships
+In 2018, I was an intern with Hoifung Poon at Microsoft Research Redmond, working on biomedical machine reading for precision medicine.
+In 2016, I worked with Larry Heck, Georgi Nikolov, and Dilek Hakkani-Tür on the Deep Dialogue team at Google Research, exploring how to build task-based dialogue systems that can learn from personalized user feedback.
+In 2014, I worked on the Crisis Response Team within the Social Impact arm of Google, where I built infrasturcutre to automatically launch informational pages about hurricanes and tropical storms for people in affected areas.
+In 2012, I worked on the YouTube Ads team on a machine learning project to understand user behavior on the YouTube search page.
+Undergraduate Research
+
+Forward Genomics for Conserved Noncoding Elements with Gray Camp, Amir Marcovitz, and Gill Bejerano.
+Starting in October of 2012, I worked on computational genomics research with Professor Gill Bejerano. I developed a computational pipeline to predict function of conserved noncoding elements by using their evolutionary histories to match them with known traits. I completed my undergraduate honors thesis with Professor Bejerano as my advisor. (poster)
+
+Automated Gating of Flow Cytometry Data with Robert Bruggner, Rachel Finck, Noah Zimmerman, and David Dill.
+Starting in June of 2011, I worked with Professor David Dill’s group on automated clustering (“gating”) of high-dimensional flow cytometry data. Our work was presented at the Flowcap-II summit. (presentation, poster)
+
+Music
+
+I have had the great pleasure of studying piano performance with Angela Wright and Laura Dahl. At various points, I have also studied solo piano with George Barth, duo piano with Kumaran Arul, and chamber music with Stephen Harrison.
+
+Here are some of my recordings:
+
+Piano duo concert, June 2017
+
+Lisa Wang and I gave a piano duo concert on June 4, 2017.
+
+Mozart: Sonata for Two Pianos in D Major, K. 448 (video)
+Shostakovich: Concertino for Two Pianos in A Minor, Op. 94 (video)
+Schubert: Allegro in A minor “Lebensstürme,” D.947 (video)
+Brahms: Variations on a Theme by Haydn,* Op. 56a (video)
+
+* Probably not actually by Haydn
+
+Piano Quintet Recital, May 2016
+
+Ricky Wedeen, Brad Girardeau, Lee Fan, Andrew Guo, and I gave a concert on May 18, 2016, at which we performed the Schumann Piano Quintet, Op. 44 (mp3).
+
+Senior Recital, April 2014
+
+I gave my undergraduate senior recital on April 12, 2014. Here are the live audio recordings.
+
+Mozart: Sonata in B-Flat, K 281 (m4a for Mov. 1, Mov. 2, Mov. 3)
+Chopin: Ballade No. 1 in G Minor (m4a)
+Debussy: L’Isle Joyeuse (m4a)
+Liszt: Sonata in B Minor (m4a)
+Other
+Stanford Math Tournament. As an undergraduate at Stanford, I helped organize the Stanford Math Tournament, a high school math tournament created and run by Stanford students.
+

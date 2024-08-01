@@ -1,0 +1,530 @@
+Professor: Bryan A. Plummer
+University: Boston University
+URL: https://bryanplummer.com/
+Description: 
+
+
+
+	
+Bryan A. Plummer
+Assistant Professor
+Image and Video Computing Group
+Department of Computer Science
+Boston University
+Office: CDS844
+Email: bplum@bu.edu
+
+CV, Google Scholar, Github
+
+My research interests fall within the umbrella of artificial intelligence with a focus on visual recognition, scene recognition, interpretable and fair machine learning, and understanding the relationship between vision and language.
+
+
+As of July 2020 I am an Assistant Professor in the Department of Computer Science at Boston University and a core faculty member of the Artificial Intelligence Research (AIR) initiative at the Rafik B. Hariri Institute for Computing and Computational Science & Engineering. I obtained my PhD in the computer vision group at the University of Illinois at Urbana-Champaign advised by Svetlana Lazebnik. After that I worked as a Postdoctoral Associate with Kate Saenko and Stan Sclaroff and later as a Research Assistant Professor before my current position. During my PhD I was fortunate to be named a 3M Foundation Fellow, NSF GRFP honorable mention, and was able to spend my summers working with Hadi Kiapour (eBay), Shuai Zheng (eBay), Robinson Piramuthu (eBay), Matthew Brown (Google), Himanshu Arora (A9), and Stephen Kelley (MIT Lincoln Labs).
+
+
+Recent News
+My students have 3 papers accepted to ECCV 2024: a paper on how to use noise source knowledge when learning with noisy labels, a paper on how to avoid adding new biases when using image generators when training on imbalanced data, and a paper proposing an approach for tuning-free panorama generation
+My student Reuben Tan has defended his PhD thesis! Congratulations Dr. Tan!
+My student's paper localizing generated text in a document and another student's paper that aims to integrate knowledge of the potential effect of actions taken in digitial domains was accepted at ACL 2024
+My student and our collobrators had a paper on using AI to identify etiologies contributing to dementia in individuals was accepted at Nature Medicine
+My student's paper leveraging interpretable domain generalization techniques to improve classification of Alzheimer’s disease from MRI scans was accepted at Human Brain Mapping
+I will be serving as an Area Chair for NeurIPS'24
+I have joined the editorial board of the International Journal of Computer Vision
+My student's paper proposing a unifed human image maniuplation model and dataset and another student's paper (accepted as a highlight!) that learns to convert a model trained on short clips to understand much longer videos was accepted at CVPR 2024
+I will be serving as an Area Chair for ECCV'24
+My student's paper on improving question answering with debating LLMs was accepted at ICLR 2024
+My student Andrea Burns has defended her PhD thesis! Congratulations Dr. Burns!
+My students have 4 papers accepted to WACV 2024: a paper on efficient ensembling, a paper on reducing training time by growing a network over time, a paper on improving text-to-image image maniuplation, and a paper that identifies important video clips and keywords in language for movie genre classification
+My student's paper exploring multimodal webpage understanding and another student's paper that proposes an entity-aware model for article understanding was accepted at EMNLP 2023
+I will be serving as an Area Chair for CVPR'24
+My student's paper introducing a new research topic on channel-adaptive imaging models and another student's paper that explores compositional image-text understanding was accepted at NeurIPS 2023
+
+
+PhD Students
+Reuben Tan (with Kate Saenko)
+Zhongping Zhang
+Diala Lteif (with Sarah Bargal and Vijaya Kolachalama)
+Piotr Teterwak (with Kate Saenko)
+Siqi Wang
+Maan Qraitem (with Kate Saenko)
+Nannan Li
+Arijit Ray (with Kate Saenko)
+Chau Pham
+Aoming Liu (with Kate Saenko)
+Keanu Nichols
+Nazia Tasnim
+Mahir Patel (with Margrit Betke)
+Other Current Students
+Harsh Khatri (masters)
+Elly (Yitong) Wang (undergrad)
+Former Students
+Andrea Burns (with Kate Saneko), PhD 2023, now at Google Research
+Winner of the 2021 Google PhD Fellowship in Machine Perception
+Nishant Nadkarni (masters, 2023)
+Duruvan Saravanan (masters, 2023)
+Divya Appapogu (masters, 2022)
+Ashlesha Chaudhari (masters, 2022)
+Soren Nelson (masters, 2022)
+Zora Che (undergrad, 2022), continuing as a PhD student at University of Maryland, College Park
+John (Yuanming) Chai (undergrad, 2022)
+Murt Al Bahrani (masters, 2021)
+Julius Frost (BA/MS, 2021, with Kate Saenko), now at MORSE Corp
+Sanjna Agrawal (undergrad, 2021)
+Yize Xie (masters, 2020)
+Farheen Rahman (undergrad, 2020)
+Tammy Qiu (undergrad, 2019, with Kate Saenko), now a PhD student at Columbia University
+Paige Kordas (undergrad, 2018, with David Forsyth), now at Facebook
+
+
+Teaching
+CS541 Applied Machine Learning Fall 2023
+CS585 Image and Video Computing Spring 2023
+CS599 Applied Machine Learning Fall 2022
+CS585 Image and Video Computing Spring 2022
+CS542 Machine Learning Fall 2021 (co-taught with Prof. Kate Saenko)
+CS591 Multimodal Machine Learning Spring 2021
+CS542 Machine Learning Fall 2020
+
+
+Publications Grouped by Topic
+Go here for publications by year
+
+
+Vision and Language
+
+
+
+		
+
+
+	   	
+
+Reuben Tan, Ximeng Sun, Ping Hu, Jui-hsien Wang, Hanieh Deilamsalehy, Bryan A. Plummer, Bryan Russell, Kate Saenko. Koala: Key frame-conditioned long video-LLM. CVPR, 2024. [paper][project][code][bibtex]
+
+
+
+
+	   	
+
+Zhongping Zhang, Yiwen Gu, Bryan A. Plummer, Xin Miao, Jiayi Liu, Huayan Wang. Movie Genre Classification by Language Augmentation and Shot Sampling. WACV, 2024. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Arijit Ray, Filip Radenovic, Abhimanyu Dubey, Bryan A. Plummer, Ranjay Krishna, Kate Saenko. Cola: A Benchmark for Compositional Text-to-image Retrieval. NeurIPS Track on Datasets and Benchmarks, 2023. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Arijit Ray, Andrea Burns, Bryan A. Plummer, Justin Salamon, Oriol Nieto, Bryan Russell, Kate Saenko. Language-Guided Audio-Visual Source Separation via Trimodal Consistency. CVPR, 2023. [paper][project][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Huijuan Xu, Kate Saenko, Bryan A. Plummer. LoGAN: Latent Graph Co-Attention Network for Weakly-Supervised Video Moment Retrieval. WACV, 2021. [paper][bibtex]
+
+
+
+
+	   	
+
+Huijuan Xu, Kun He, Bryan A. Plummer, Leonid Sigal, Stan Sclaroff, Kate Saenko. Multilevel Language and Vision Integration for Text-to-Clip Retrieval. AAAI, 2019. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Tatiana Tommasi, Arun Mallya, Bryan A. Plummer, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg. Combining Multiple Cues for Visual Madlibs Question Answering. IJCV, 127(1):38-60, 2019. [paper][bibtex]
+
+Tatiana Tommasi, Arun Mallya, Bryan A. Plummer, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg. Solving Visual Madlibs with Multiple Cues. BMVC, 2016. [paper][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, Matthew Brown, Svetlana Lazebnik. Enhancing Video Summarization via Vision-Language Embedding. CVPR, 2017. [paper][bibtex]
+
+
+
+
+
+Understanding Digital Domains
+
+
+
+		
+
+
+	   	
+
+Andrea Burns, Kate Saenko, Bryan A. Plummer. Tell Me What's Next: Textual Foresight for Generic UI Representations. Findings of the ACL, 2024. [paper][data&code][bibtex]
+
+
+
+
+	   	
+
+Andrea Burns, Krishna Srinivasan, Joshua Ainslie, Geoff Brown, Bryan A. Plummer, Kate Saenko, Jianmo Ni, Mandy Guo. A Suite of Generative Tasks for Multi-Level Multimodal Webpage Understanding. EMNLP, 2023. [paper][data][bibtex]
+
+
+
+
+	   	
+
+Andrea Burns, Deniz Arsan, Sanjna Agrawal, Ranjitha Kumar, Kate Saenko, Bryan A. Plummer. A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility. ECCV, 2022. [paper][code&data][bibtex]
+
+
+
+
+
+Detecting Machine Generated Data
+
+
+
+		
+
+
+	   	
+
+Zhongping Zhang, Wenda Qin, Bryan A. Plummer. Machine-generated Text Localization. Findings of the ACL, 2024. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Bryan A. Plummer, Kate Saenko. Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News. EMNLP, 2020. [paper][project][bibtex]
+
+
+
+
+
+Visual Grounding
+
+
+
+		
+
+
+	   	
+
+Maan Qraitem, Bryan A. Plummer. From Coarse to Fine-grained Concept based Discrimination for Phrase Detection. CVPR Workshop on Computer Vision in the Wild, 2023. [paper][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Bryan A. Plummer, Kate Saenko, Hailin Jin, Bryan Russell. Look at What I’m Doing: Self-Supervised Spatial Grounding of Narrations in Instructional Videos. NeurIPS, 2021. [paper][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, Kevin J. Shih, Yichen Li, Ke Xu, Svetlana Lazebnik, Stan Sclaroff, Kate Saenko. Revisiting Image-Language Networks for Open-ended Phrase Detection. TPAMI, 44(4):2155-2167, 2022. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, Paige Kordas, M. Hadi Kiapour, Shuai Zheng, Robinson Piramuthu, Svetlana Lazebnik. Conditional Image-Text Embedding Networks. ECCV, 2018. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, Arun Mallya, Christopher M. Cervantes, Julia Hockenmaier, Svetlana Lazebnik. Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues. ICCV, 2017. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, Liwei Wang, Christopher M. Cervantes, Juan C. Caicedo, Julia Hockenmaier, Svetlana Lazebnik. Flickr30K Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models. IJCV, 123(1):74-93, 2017. [paper][project][bibtex]
+
+Bryan A. Plummer, Liwei Wang, Christopher M. Cervantes, Juan C. Caicedo, Julia Hockenmaier, Svetlana Lazebnik. Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models. ICCV, 2015. [paper][project][bibtex]
+
+
+
+
+
+Controllable Image Manipulation
+
+
+
+		
+
+
+	   	
+
+Nannan Li, Qing Liu, Krishna Kumar Singh, Yilin Wang, Jianming Zhang, Bryan A. Plummer, Zhe Lin. UniHuman: A Unified Model for Editing Human Images in the Wild. CVPR, 2024. [paper][data&code][bibtex]
+
+
+
+
+	   	
+
+Zhongping Zhang, Jian Zheng, Jacob Zhiyuan Fang, Bryan A. Plummer. Text-to-image Editing by Image Information Removal. WACV, 2024. [paper][bibtex]
+
+
+
+
+	   	
+
+Zhongping Zhang, Huiwen He, Bryan A. Plummer, Zhenyu Liao, Huayan Wang. Complex Scene Image Editing by Scene Graph Comprehension. BMVC, 2023. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Nannan Li, Kevin J. Shih, Bryan A. Plummer. Collecting The Puzzle Pieces: Disentangled Self-Driven Human Pose Transfer by Permuting Textures. ICCV, 2023. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Nannan Li, Bryan A. Plummer. Supervised Attribute Information Removal and Reconstruction for Image Manipulation. ECCV, 2022. [paper][code][bibtex]
+
+
+
+
+
+Efficient Neural Networks
+
+
+
+		
+
+
+	   	
+
+Piotr Teterwak*, Soren Nelson*, Nikoli Dryden, Dina Bashkirova, Kate Saenko, Bryan A. Plummer. Learning to Compose SuperWeights for Neural Parameter Allocation Search. WACV, 2024. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Chau Pham*, Piotr Teterwak*, Soren Nelson*, Bryan A. Plummer. MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters. WACV, 2024. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer*, Nikoli Dryden*, Julius Frost, Torsten Hoefler, Kate Saenko. Neural Parameter Allocation Search. ICLR, 2022. [paper][code][video][bibtex]
+
+
+
+
+	   	
+
+Donghyun Kim, Tian Lan, Chuhang Zou, Ning Xu, Bryan A. Plummer, Stan Sclaroff, Jayan Eledath, Gerard Medioni. Multi-Task Learning from Videos via Efficient Inter-Frame Attention. ICCV Workshops, 2021. [paper][bibtex]
+
+
+
+
+
+Fair and Explainable AI
+
+
+
+		
+
+
+	   	
+
+Maan Qraitem, Kate Saenko, Bryan A. Plummer. Bias Mimicking: A Simple Sampling Approach for Bias Mitigation. CVPR, 2023. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Olivia Watkins, Sandy Huang, Julius Frost, Kush Bhatia, Eric Weiner, Pieter Abbeel, Trevor Darrell, Bryan A. Plummer, Kate Saenko, Anca Dragan. Explaining robot policies. Applied AI Letters, 2021. [paper][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer*, Mariya I. Vasileva*, Vitali Petsiuk, Kate Saenko, David Forsyth. Why do These Match? Explaining the Behavior of Image Similarity Models. ECCV, 2020. [paper][code][supplementary][bibtex]
+
+
+
+
+
+AI for Medicine/Biology
+
+
+
+		
+
+
+	   	
+
+Chonghua Xue, Sahana S. Kowshik, Diala Lteif, Shreyas Puducheri, Varuna H. Jasodanand, Olivia T. Zhou, Anika S. Walia, Osman B. Guney, J. Diana Zhang, Serena T. Pham, Artem Kaliaev, V. Carlota Andreu-Arasa, Brigid C. Dwyer, Chad W. Farris, Honglin Hao, Sachin Kedar, Asim Z. Mian, Daniel L. Murman, Sarah A. O'Shea, Aaron B. Paul, Saurabh Rohatgi, Marie-Helene Saint-Hilaire, Emmett A. Sartor, Bindu N. Setty, Juan E. Small, Arun Swaminathan, Olga Taraschenko, Jing Yuan, Yan Zhou, Shuhan Zhu, Cody Karjadi, Ting Fang Alvin Ang, Sarah A. Bargal, Bryan A. Plummer, Kathleen L. Poston, Meysam Ahangaran, Rhoda Au, Vijaya B. Kolachalama. AI-based differential diagnosis of dementia etiologies on multimodal data. Nature Medicine, 2024. [paper][bibtex]
+
+
+
+
+	   	
+
+Diala Lteif, Sandeep Sreerama, Sarah A. Bargal, Bryan A. Plummer, Rhoda Au, Vijaya B. Kolachalama. Disease-driven domain generalization for neuroimaging-based assessment of Alzheimers disease. Human Brain Mapping, 45(8):e26707, 2024. [preprint][bibtex]
+
+
+
+
+	   	
+
+Zitong Chen*, Chau Pham*, Siqi Wang, Michael Doron, Nikita Moshkov, Bryan A. Plummer, Juan C Caicedo. CHAMMI: A benchmark for channel-adaptive models in microscopy imaging. NeurIPS Track on Datasets and Benchmarks, 2023. [paper][code][data][bibtex]
+
+
+
+
+
+Long Article Understanding
+
+
+
+		
+
+
+	   	
+
+Zhongping Zhang, Yiwen Gu, Bryan A. Plummer. Show, Write, and Retrieve: Entity-aware Article Generation and Retrieval. Findings of EMNLP, 2023. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Bryan A. Plummer, Kate Saenko, J. P. Lewis, Avneesh Sud, Thomas Leung. NewsStories: Illustrating articles with visual summaries. ECCV, 2022. [paper][project][bibtex]
+
+
+
+
+
+Image Similarity and Search
+
+
+
+		
+
+
+	   	
+
+Samarth Mishra*, Zhongping Zhang*, Yuan Shen, Ranjitha Kumar, Venkatesh Saligrama, Bryan A. Plummer. Effectively Leveraging Attributes for Visual Similarity. ICCV, 2021. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Donghyun Kim, Kuniaki Saito, Samarth Mishra, Stan Sclaroff, Kate Saenko, Bryan A. Plummer. Self-Supervised Visual Attribute Learning for Fashion Compatibility. ICCV Workshops, 2021. [paper][bibtex]
+
+
+
+
+	   	
+
+Reuben Tan, Mariya I. Vasileva, Kate Saenko, Bryan A. Plummer. Learning Similarity Conditions Without Explicit Supervision. ICCV, 2019. [paper][code][bibtex]
+
+
+
+
+	   	
+
+Bryan A. Plummer, M. Hadi Kiapour, Shuai Zheng, Robinson Piramuthu. Give me a hint! Navigating Image Databases using Human-in-the-loop Feedback. WACV, 2019. [paper][bibtex]
+
+
+
+
+	   	
+
+Mariya I. Vasileva, Bryan A. Plummer, Krishna Dusad, Shreya Rajpal, Ranjitha Kumar, David Forsyth. Learning Type-Aware Embeddings for Fashion Compatibility. ECCV, 2018. [paper][code][bibtex]
+
+
+
+
+
+Collaborative Agents
+
+
+
+		
+
+
+	   	
+
+Chau Pham*, Boyi Liu*, Yingxiang Yang, Zhengyu Chen, Tianyi Liu, Jianbo Yuan, Bryan A. Plummer, Zhaoran Wang, Hongxia Yang. Let Models Speak Ciphers: Multiagent Debate through Embeddings. ICLR, 2024. [paper][code][bibtex]
+
+
+
+
+
+Domain Adaptation/Transfer Learning
+
+
+
+		
+
+
+	   	
+
+Donghyun Kim, Kuniaki Saito, Tae-Hyun Oh, Bryan A. Plummer, Stan Sclaroff, Kate Saenko. CDS: Cross-Domain Self-supervised Pre-training. ICCV, 2021. [paper][bibtex]
+
+
+
+
+	   	
+
+P. Daphne Tsatsoulis, Bryan A. Plummer, David Forsyth. Visual Analogies: A Framework for Defining Aspect Categorization. ECCV TASK-CV Workshop, 2016. [paper][bibtex]
+
+
+
+
+
+Language Representation Learning
+
+
+
+		
+
+
+	   	
+
+Andrea Burns, Donghyun Kim, Derry Wijaya, Kate Saenko, Bryan A. Plummer. Learning to Scale Multilingual Representations for Vision-Language Tasks. ECCV, 2020. [paper][project][supplementary][bibtex]
+
+
+
+
+	   	
+
+Donghyun Kim, Kuniaki Saito, Kate Saenko, Stan Sclaroff, Bryan A. Plummer. MULE: Multimodal Universal Language Embedding. AAAI, 2020. [paper][project][code][bibtex]
+
+
+
+
+	   	
+
+Andrea Burns, Reuben Tan, Kate Saenko, Stan Sclaroff, Bryan A. Plummer. Language Features Matter: Effective Language Representations for Vision-Language Tasks. ICCV, 2019. [paper][project][bibtex]
+
+
+
+
+
+

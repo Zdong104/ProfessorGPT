@@ -1,0 +1,168 @@
+Professor: Risi Kondor
+University: University of Chicago
+URL: http://people.cs.uchicago.edu/~risi
+Description: 
+
+	
+Risi Kondor homepage
+
+
+			Risi Kondor
+Associate Professor
+Department of Computer Science (Crerar 221)
+Department of Statistics,
+Computational and Applied Mathematics Initiative (CAMI)
+The University of Chicago
+
+
+[Mastodon] [Github] [Scholar]
+
+
+
+
+
+
+	My group is focused on fundamental methodological developments in machine learning, specifically machine learning for physics and chemistry. Much of our work is related to computational harmonic analysis and group representation theory. We are responsible for some foundational work on equivariant neural networks. We are also engaged in developing high performance, open source software in both C++ and Python.
+
+
+Group members   	Andrew Hands (CS PhD, 2nd year)
+Ryan Keane (CS PhD, 1st year)
+Soumyabrata Kundu (Stats PhD, 4th year)
+Su Hyeong Lee (CAM PhD, 2nd year)
+Ryan Wong (Physics PhD, 3rd year)
+Richard Xu (CS PhD, 1st year)
+Qinqi Zhang (CAM MS, 2nd year)
+Han Zheng (CS PhD, 2nd year)
+
+
+Former group   
+members   
+	Maia Fraser (Associate Prof at the University of Ottawa)
+Nedelina Teneva (Research Scientist at Megagon)
+Vikas Garg (Assistant Prof at Aalto University)
+Yi Ding (Assistant Prof at Purdue)
+Brandon Anderson (Staff Scientist at Atomic.ai)
+Jonathan Eskreis-Winkler (Senior Applied Scientist at Etsy)
+Pramod K Mudrakarta (Software Engineer at Google)
+Shubhendu Trivedi (now at MIT)
+Erik Thiede (Assistant Prof at Cornell)
+Alexander Bogatskiy (postdoc at the Flatiron Institute)
+Wenda Zhou (now at OpenAI)
+Hy Truong Son (Assistant Prof at Indiana State)
+Horace Pan (Machine Learning Engineer at Gauntlet)
+
+
+Recent events   	IMSI program on data-driven materials informatics Mar-May 2024
+NeurIPS 2020 tutorial on equivariant networks (with Taco Cohen)
+Mind the gap: between fairness and ethics (NeurIPS 2019 workshop)
+
+
+Software   	cnine: lightweight tensor library with GPU support (Python/C++)
+GElib: equivariant neural network library (Python/C++)
+ptens: permutation equivariant message passing library (Python/C++)
+Snob2: symmetric group FFT library (Python/C++)
+cengine: asynchronous compute engine (C++)
+SnOB: the original symmetric group FFT library (C++)
+pMMF: a high performance parallel Multiresolution Matrix Factorization (C++)
+Mondrian:  parallel blocked matrix library (C++)
+
+
+Selected   
+recent papers   
+	Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, and Risi Kondor:  Speeding up Learning Quantum States through Group Equivariant Convolutional Quantum Ansätze [PRX Quantum 4, May 15, 2023] [preprint, Dec 2021]
+
+Horace Pan and Risi Kondor:  Permutation equivariant layers for higher order interactions [AISTATS, 2022]
+
+Erik H. Thiede, Wenda Zhou and Risi Kondor:  Autobahn: Autmorphism-based graph neural nets [NeurIPS 2021] [bib] [code]
+
+Brandon Anderson, Truong Son Hy and Risi Kondor:  Cormorant: Covariant molecular neural networks [NeurIPS 2019] [bib]
+
+Risi Kondor and Shubhendu Trivedi:  On the generalization of equivariance and convolution in neural networks to the action of compact groups [ICML 2018] [poster] [slides] [preprint, Feb 2018]
+
+
+
+Recent papers   	Zihan Pengmei, Zimu Li, Chih-chan Tien, Risi Kondor, Aaron R. Dinner:  Transformers are efficient hierarchical chemical graph learners (accepted at NeurIPS AIxScience workshop 2023) [preprint, Oct 2023]
+
+Duc Thien Nguyen, Manh Duc Tuan Nguyen, Truong Son Hy, Risi Kondor:  Fast temporal wavelet graph neural networks (accepted at NeurIPS Temporal Graph Learning workshop 2023) [preprint, Feb 2023]
+
+Tianyi Sun, Andrew Hands, Risi Kondor:  P-tensors: a general formalism for constructing higher order message passing networks [preprint, Jun 2023] [ptens software]
+
+Nhat Khang Ngo, Truong Son Hy, Risi Kondor:  Multiresolution graph transformers and wavelet positional encoding for learning long-range and hierarchical structures [Journal of Chemical Physics, 159:3, July 2023] [preprint, Feb 2023]
+
+T. Son Hy and Risi Kondor:  Multiresolution equivariant graph variational autoencoder [Machine Learning: Science and Technology 4:1, Mar 2023] [preprint, June 2021]
+
+Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, and Risi Kondor:  Speeding up Learning Quantum States through Group Equivariant Convolutional Quantum Ansätze [PRX Quantum 4, May 15, 2023] [preprint, Dec 2021]
+
+Nhat Khang Ngo, Truong Son Hy, Risi Kondor:  Modeling polypharmacy and predicting drug-drug interactions using deep generative models on multimodal graphs [preprint, Feb 2023]
+
+Zimu Li, Han Zheng, Erik Thiede, Junyu Liu, Risi Kondor:  Group-equivariant neural networks with fusion diagrams [preprint, Nov 2022]
+
+T. Son Hy and R. Kondor:  Multiresolution Matrix Factorization and its Wavelet Networks on Graphs [Topological, Algebraic, and Geometric Learning Workshops, Nov 2022] [preprint, Nov 2021]
+
+Nhat Khang Ngo, Truong Son Hy, Risi Kondor:  Predicting drug-drug interactions using deep generative models on graphs [preprint, Sep 2022]
+
+Han Zheng, Zimu Li, Junyu Liu, Sergii Strelchuk, Risi Kondor:  On the super-exponential quantum speedup of equivariant quantum machine learning algorithms with SU(d) symmetry [preprint, Jul 2022]
+
+Yanan Long, Horace Pan, Chao Zhang, Hy Truong Song, Risi Kondor, Andrey Rzhetsky:  Molecular fingerprints are a simple yet effective solution to the drug-drug interaction problem [ICML workshop on Computational Biology, 2022]
+
+Truong Son Hy, Viet Bach Nguyen, Long Tran-Thanh, Risi Kondor:  Temporal multiresolution graph neural networks for epidemic prediction [Workshop on healthcare and AI, 2022]
+
+A. Bogatskiy et al:  Symmetry Group Equivariant Architectures for Physics (preprint, Mar 2022)
+
+Horace Pan and Risi Kondor:  Permutation equivariant layers for higher order interactions [AISTATS, 2022]
+
+R. Townshend et al.:  ATOM3D: Tasks On Molecules in Three Dimensions (Winner of the best paper award in the "Datasets and benchmarks" category at NeurIPS 2021)
+
+Erik H. Thiede, Wenda Zhou and Risi Kondor:  Autobahn: Autmorphism-based graph neural nets [NeurIPS 2021] [bib] [code]
+
+Lars A. Bratholm et al.:  A community-powered search of machine learning strategy space to find NMR property prediction models (PLOS ONE, July 2021)
+
+H. Pan and R. Kondor:  Fourier bases for solving permutation puzzles (AISTATS 2021)
+
+A. Bogatskiy, B. Anderson, J. Offermann, M. Roussi, D. Miller and R. Kondor:  Lorentz group equivariant neural network for particle physics (ICML 2020) [bib]
+
+E. H. Thiede, T. Son Hy and R. Kondor:  The general theory of permutation equivarant neural networks and higher order graph variational encoders (preprint, April 2020) [bib]
+
+K. Swanson, S. Trivedi, J. Lequieu, K. Swanson and R. Kondor:  Deep learning for automated classification and characterization of amorphous materials (Soft Matter, Royal Society of Chemistry, 2020) [bib]
+
+B. Anderson, T. Son Hy and R. Kondor:  Cormorant: Covariant molecular neural networks [NeurIPS 2019] [bib]
+
+R. Kondor, Z. Lin and S. Trivedi:  Clebsch-Gordan nets: a fully Fourier space spherical convolutional neural network (NeurIPS 2018)
+
+T. Son Hy, S. Trivedi, H. Pan, B. M. Anderson and R. Kondor:  Predicting molecular properties with covariant compositional networks (JCP special issue, June 2018) [pdf]
+
+R. Kondor:  N-body networks: a covariant hierarchical neural network architecture for learning atomic potentials (March 2018)
+
+Risi Kondor and Shubhendu Trivedi:  On the generalization of equivariance and convolution in neural networks to the action of compact groups [ICML 2018] [poster] [slides] [preprint, Feb 2018]
+
+R. Kondor, Hy Truong Son, Horace Pan, Brandon Anderson, Shubhendu Trivedi:  Covariant compositional networks for learning graphs (preprint, January 2018) [PyTorch code] [GraphFlow] [video]
+
+Y. Ding, R. Kondor and J. Eskreis-Winkler:  Multiresolution kernel approximation for Gaussian process regression (NIPS 2017)
+
+P. K. Mudrakarta and R. Kondor:  A generic multiresolution preconditioner for sparse symmetric systems (preprint 7/7/17)
+
+K. Rajendran, A. A. Kattis, A. Holiday, R. Kondor and I. G. Kevrekidis:  Data mining when each data point is a network (Patterns of Dynamics, Springer Proceedings) [preprint]
+
+V. Ithapu, R. Kondor and V. Singh:  The incremental multiresolution matrix factorization algorithm (CVPR 2017)
+
+R. Kondor and H. Pan:  The Multiscale Laplacian Graph Kernel (NIPS 2016 oral presentation)  [slides] [code] [preprint]
+
+N. Teneva, P. K. Mudrakarta and R. Kondor:  Multiresolution Matrix Compression (AISTATS 2016, winner of notable student paper award)
+
+R. Kondor, N. Teneva and P. K. Mudrakarta:  Parallel MMF:  a Multiresolution Approach to Matrix Computation (arXiv preprint, July 2015) [pMMF library]
+
+G. Plumb, D. Pachauri, R. Kondor and V. Singh:  SnFFT:  a Julia Toolkit for Harmonic Analysis on the Symmetric Group (JMLR 2015)
+
+D. Pachauri, R. Kondor, G. Sargur and V. Singh:  Permutation diffusion maps with application to the image association problem in computer vision (NIPS 2014)
+
+R. Kondor, N. Teneva and V. Garg:  Multiresolution Matrix Factorization (ICML 2014) [supplement] [video]
+
+
+Conflicts of interest  	In the period 6/1/17-12/31/17 I worked for Amazon Web Services, but have no ongoing relationship with the company. From 6/1/19 to 9/30/21 I worked at the Flatiron Insitute (Simons Foundation), a private nonprofit organization. I am named as a (co-)inventor on patents related to the SOAP descriptors, N-body networks and spherical CNNs.
+
+
+Links   	Older papers by topic
+Curriculum Vitae
+
+
+

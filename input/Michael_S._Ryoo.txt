@@ -1,0 +1,104 @@
+Professor: Michael S. Ryoo
+University: Stony Brook University
+URL: http://michaelryoo.com/
+Description: 	Michael S. Ryoo
+Ph.D.
+
+SUNY Empire Innovation Associate Professor
+Department of Computer Science; AI Institute
+Stony Brook University
+
+Principal Research Scientist
+Salesforce AI Research
+
+
+Contact
+mryoo-at-cs.stonybrook.edu
+
+I recently joined the AI research team at Salesforce. Prior to that, I was with the robotics team at Google DeepMind (and formerly Google Brain) for 5.5 years. I also hold a tenured position in the Department of Computer Science (CS) at Stony Brook University as an associate professor. Previously, I was an assistant professor at Indiana University Bloomington, and was a staff researcher within the Robotics Section of the NASA's Jet Propulsion Laboratory (JPL). I received my Ph.D. from the University of Texas at Austin in 2008 and B.S. from Korea Advanced Institute of Science and Technology (KAIST) in 2004.
+
+
+Recent News
+
+2024/06:	Introducing LLaRA: Supercharging Robot Learning Data for Vision-Language Policy. It is a framework designed for robot learning of VLMs as action policies.
+
+2024/05:	SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention received the Best Paper Award in Robot Manipulation at ICRA 2024.
+
+2024/03:	Mirasol3B is out! It's new a *video-based* multimodal language model across audio, video, and text modalities. It will be presented at CVPR 2024.
+
+2023/09:	RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control at CoRL 2023!
+
+2023/07:	Diffusion Illusions: Hiding Images in Plain Sight received CVPR 2023 Outstanding Demo Award.
+
+It is based on the same lossed used in Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors
+
+2023/07:	RT-1: Robotics Transformer for Real-World Control at Scale at RSS 2023!
+
+2023/06:	Token Turing Machines, a new sequential model modernizing Neural Turing Machines was presented at CVPR 2023. [video]
+
+2022/10:	Neural Neural Textures Make Sim2Real Consistent at CoRL 2022
+
+2022/10:	Two papers at NeurIPS 2022:
+Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space
+Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?
+2022/08:	StARformer: Transformer with State-Action-Reward Representations and Video Question Answering with Iterative Video-Text Co-Tokenization were presented at ECCV 2022.
+2022/03:	Two papers at CVPR 2022. One paper as an oral and the other as a poster:
+Self-supervised Video Transformer
+MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection
+2021/06:	Check TokenLearner for images and videos! It learns to adaptively generate a small number of tokens for Transformers, providing better accuracies while also being faster. The paper also appeared at NeurIPS 2021. 
+2021/04:	Recognizing Actions in Videos from Unseen Viewpoints and Coarse-Fine Networks for Temporal Activity Detection in Videos at CVPR 2021.
+2021/04:	Neural architecture search for robot reinforcement learning at ICRA 2021: Visionary: Vision Architecture Discovery for Robot Learning
+Curriculum Vitae pdf
+Publications [by type] [by year]
+List of selected publications
+Piergiovanni, Noble, Kim, Ryoo, Gomes, Angelova, Mirasol3B: A Multimodal Autoregressive Model for Time-aligned and Contextual Modalities, CVPR 2024
+Kahatapitiya, Arnab, Nagrani, Ryoo, VicTR: Video-conditioned Text Representations for Activity Recognition, CVPR 2024
+Researchers in Google DeepMind Robotics, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, CoRL 2023
+Shang and Ryoo, Active Vision Reinforcement Learning under Limited Visual Observability, NeurIPS 2023
+Ryoo, Gopalakrishnan, Kahatapitiya, Xiao, Rao, Stone, Lu, Ibarz, Arnab, Token Turing Machines, CVPR 2023
+Burgert, Li, Leite, Ranasinghe, Ryoo, Diffusion Illusions: Hiding Images in Plain Sight, CVPR 2023 Demo
+Researchers in Robotics at Google, RT-1: Robotics Transformer for Real-World Control at Scale, RSS 2023
+Burgert, Shang, Li, Ryoo, Neural Neural Textures Make Sim2Real Consistent, CoRL 2022
+Li, Shang, Das, Ryoo, Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?, NeurIPS 2022
+Ryoo, Piergiovanni, Arnab, Dehghani, Angelova, TokenLearner: Adaptive Space-Time Tokenization for Videos, NeurIPS 2021
+Akinola, Angelova, Lu, Chebotar, Kalashnikov, Varley, Ibarz, Ryoo, Visionary: Vision Architecture Discovery for Robot Learning, ICRA 2021
+Piergiovanni, Angelova, Ryoo, Evolving Losses for Unsupervised Video Representation Learning, CVPR 2020
+Ryoo, Piergiovanni, Tan, Angelova, AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures, ICLR 2020
+Piergiovanni, Angelova, Ryoo, Differentiable Grammars for videos, AAAI 2020
+Piergiovanni, Wu, Ryoo, Learning Real-World Robot Policies by Dreaming, IROS 2019
+Piergiovanni and Ryoo, Temporal Gaussian Mixture Layer for Videos, ICML 2019
+Piergiovanni and Ryoo, Representation Flow for Action Recognition, CVPR 2019
+Ren, Lee, Ryoo, Learning to Anonymize Faces for Privacy Preserving Action Detection, ECCV 2018
+Google Scholar: Michael S. Ryoo
+Datasets
+AViD dataset: Anonymized Videos from Diverse Countries.
+MLB-YouTube dataset: an activity recognition dataset with over 42 hours of 2017 MLB post-season baseball videos.
+JPL-Interaction dataset: a robot-centric first-person video dataset.
+DogCentric Activity dataset: a first-person video dataset taken with dogs.
+UT-Interaction dataset: a dataset containing continuous/segmented videos of human-human interactions.
+
+Lab members
+Cristina Mata (Stony Brook University CS)
+Kumara Kahatapitiya (Stony Brook University CS)
+Jinghuan Shang (Stony Brook University CS)
+Xiang Li (Stony Brook University CS)
+Jongwoo Park (Stony Brook University CS)
+Ryan Burgert (Stony Brook University CS)
+Kanchana Ranasinghe (Stony Brook University CS)
+Abe Leite (Stony Brook University CS)
+
+Alumni
+Alan Wu (PhD 2023; joined MIT Lincoln Lab)
+Srijan Das (PostDoc 2022; joined UNC Charlotte)
+AJ Piergiovanni (PhD 2020; joined Google Brain)
+
+Teaching
+CSE378: Intro to Robotics (Fall 2023)
+CSE525: Robotics (Spring 2023)
+CSE527: Intro to Computer Vision (Fall 2021)
+B457/I400: Intro to Computer Vision (Spring 2018)
+B659/I590: Vision for Intelligent Robotics (Fall 2017)
+
+
+Updated 02/2024
+

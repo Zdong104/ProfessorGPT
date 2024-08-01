@@ -1,0 +1,143 @@
+Professor: Thien Huu Nguyen
+University: University of Oregon
+URL: http://ix.cs.uoregon.edu/~thien
+Description: Thien Huu Nguyen
+
+Department of Computer Science
+
+University of Oregon
+
+About me
+News
+Research
+Publications
+Students
+Teaching
+Professional Services
+Funding
+NLP Group
+NLP Reading Group
+Thien Huu Nguyen
+
+Assistant Professor - Department of Computer Science - University of Oregon
+
+Email:
+thienn AT uoregon dot edu
+Google scholar:
+Address:
+330, Deschutes Hall
+University of Oregon
+1477 E. 13th Avenue
+Eugene, OR 97403, USA
+
+I am an Assistant Professor in the Department of Computer Science at the University of Oregon. I obtained my Ph.D. and M.S. degrees in Computer Science from New York University (working with Prof. Ralph Grishman and Prof. Kyunghyun Cho), and my B.S. degree in Computer Science from Hanoi University of Science and Technology. I was also a postdoc in the University of Montréal, working with Prof. Yoshua Bengio and people in the Montreal Institute for Learning Algorithms.
+
+News
+01/2024
+Check out Vistral, our recent large language model for Vietnamese. Vistral is developed by extending the Mistral 7B model through continual pre-training and supervised fine-tuning using diverse and meticulously curated Vietnamese data. Vistral has been evaluated independenty and significantly outperforms ChatGPT over the most reliable LLM benchmark datasets for Vietnamese.
+01/2024
+Our multilingual dataset for training Large Language Models (LLMs) CulturaX has been adopted by Stability AI to successfully train their state-of-the-art 1.6-billion multilingual language models Stable LM 2 1.6B. Our Okapi framework for evaluating multilingual LLMs in 26 diverse languages has also been incorporated into the famous EleutherAI's Language Model Evaluation Harness. Details for the evaluation of Stable LM 2 1.6B on Okapi and other datasets can be found here.
+09/2023
+Check out CulturaX, our substantial multilingual dataset with 6.3 trillion tokens in 167 languages, readily usable for large language model (LLM) development. CulturaX is the largest multilingual dataset that is rigorously cleaned, deduplicated, and publicly available for natural language processing. The dataset is fully released in HuggingFace.
+06/2023
+Our survey paper on Recent Advances in Natural Language Processing via Large Pre-Trained Language Models has been accepted to ACM Computing Surveys (IF = 14.324).
+04/2023
+Check out our paper to comprehensively evaluate ChatGPT for 7 tasks over 37 languages.
+02/2023
+I have received the NSF CAREER Award to support our research on multilingual learning and information extraction. Thanks NSF!
+Read more!
+Hiring!!!
+
+I am currently recruiting one or two graduate students each year to work on interesting projects of natural language processing and deep learning. Interested candidates can email me for more information. The application procedure for graduate students in the Department of Computer Science can be found here.
+
+I am also willing to supervise students at UO who would like to do research on natural language processing, deep learning and the related topics. Please email me if you are interested in this possibility.
+
+I create a slide for "Why a graduate degree in Computer Science from the UO?" to provide information for our PhD program.
+Research
+
+My research explores mechanisms to understand human languages for computers so that computers can perform cognitive language-related tasks for us. Among others, I am especially interested in distilling structured information and mining useful knowledge from massive and multilingual human-written text of various domains.
+
+Toward this end, our lab employs and designs effective learning algorithms for information extraction and text mining in natural language processing and data mining. We are currently focusing on deep learning algorithms to solve such problems. We are among the first groups that develop deep learning models and demonstrate their effectiveness for information extraction.
+
+We are also targeting other language-related problems with deep learning, including reading comprehension, machine translation, natural language generation, chatbots and language grounding.
+
+
+
+Software
+FourIE: For a better idea about our research on information extraction, check out a demo for our recent neural information extraction system (performing joint entity mention detection, relation extraction, event detection, and argument role prediction) here.
+
+
+Trankit: a light-weight transformer-based toolkit for multilingual NLP that can process raw text and support fundamental NLP tasks for 56 languages. Trankit is based on recent advances on multilingual pre-trained language models, providing state-of-the-art performance for Sentence Segmentation, Tokenization, Multi-word Token Expansion, POS Tagging, Morphological Feature Tagging, Dependency Parsing, and Named Entity Recognition over 90 Universal Dependencies treebanks. Trankit can be installed and used easily with Python. Check out Trankit's documentation page for installation and usage. We also provide a demo and release the code for Trankit at our github repo.
+
+
+Student
+
+I am fortunate to work with the following students:
+
+Current Students	Alumni
+
+
+Minh Nguyen (PhD, 2019-)
+Nghia Ngo (PhD, 2022-)
+Hieu Man (PhD, 2023-)
+Chien Nguyen (PhD, 2023-)
+
+	
+Viet Lai (PhD, 2018-2023, now: Research Scientist at Kensho Technologies)
+Amir Veyseh (PhD, 2018-2023, now: Applied Scientist, Zoom)
+Qiuhao Lu (PhD, 2018-2023, now: Research Scientist at University of Texas Health Science Center at Houston)
+Luis Fernando Guzman-Nateras (PhD, 2020-2023, now: Lecturer at Rice University)
+Haoran Wang (MS, 2018-2020, now: PhD student at Illinois Institute of Technology)
+Tuan Ngo (MS, 2019-2021, now: PhD student at University of Arizona)
+Rasti Hasan (MS, 2020-2022)
+
+and many other student collaborators.
+
+Teaching
+CIS 313 - Intermediate Data Structures (W19, W20, W21, W22, W23, W24)
+CIS 607 - Seminar on Deep Learning for Natural Language Processing (W19, W20, S21, S22, S23, W24)
+CIS 472/572 - Machine Learning (S19, S20, S21, S22, S23, S24)
+CIS 410/510 - Natural Language Processing (F19, W21, S24)
+Professional Service
+Reviewer: Neural Computation Journal, Transactions on Asian and Low-Resource Language Information Processing, Computational Linguistics
+Program Committee: NAACL (2016, 2018, 2019), COLING (2016, 2018, 2020), ACL (2017, 2018, 2019, 2020), EMNLP (2017, 2018, 2019, 2020), AACL (2021, 2022), IJCAI (2017, 2022, 2023), AAAI (2020, 2021, 2022), CVPR (2021), NeurIPS (2020, 2021, 2022), ICLR (2021, 2022), AACL (2020), LREC (2018, 2020), Repl4NLP (2017, 2018, 2019, 2020, 2021), W-NUT (2019, 2020, 2021, 2022), SemEval (2022)
+Area Chair: NAACL (2021, 2022), ACL (2021, 2022, 2023), EMNLP (2021, 2023), COLING (2022), NeurIPS (2023)
+Senior Program Committee: AAAI (2020, 2023, 2024), IJCAI (2021)
+Associate Editor: Neurocomputing (2021-2023)
+Honors and Awards
+2023
+
+NSF CAREER Award
+
+2022
+
+AI 2000 Most Influential Scholar Honorable Mention in Natural Language Processing by AMiner
+
+EACL 2021
+
+Best Demo Paper Award
+
+EACL 2021
+
+Outstanding Demo Paper Award
+
+2016
+
+IBM Ph.D. Fellowship
+
+2016 - 2017
+
+Dean's Dissertation Fellowship, Graduate School of Arts and Science, NYU
+
+2016
+
+Harold Grad Prize, Courant Institute of Mathematical Science, NYU
+
+2012 - 2017
+
+Henry MacCracken Fellowship, New York University
+
+2012
+
+Second Prize in Student Scientific Research Conference, by Ministry of Education and Training, Vietnam
+

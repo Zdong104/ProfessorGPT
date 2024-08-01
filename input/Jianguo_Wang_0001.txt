@@ -1,0 +1,177 @@
+Professor: Jianguo Wang 0001
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/csjgwang
+Description: Jianguo Wang
+Assistant Professor
+
+Department of Computer Science
+Purdue University
+West Lafayette, Indiana
+
+
+Email: csjgwang@purdue.edu
+Office: LWSN 2142B
+Phone: (765) 496-0726
+
+
+	
+
+
+
+
+
+Biography
+
+Jianguo Wang is currently a Tenure-Track Assistant Professor in the Department of Computer Science at Purdue University.
+
+Prior to joining Purdue, he worked at Zilliz on Milvus, a purpose-built vector database system. Before that, he worked at Amazon Web Services (AWS) on Amazon Aurora, a cloud-native database system. He also interned at Microsoft Research, Oracle, and Samsung on various database systems.
+
+He obtained his PhD degree in Computer Science from the University of California, San Diego, his MPhil degree from The Hong Kong Polytechnic University, and his Bachelor's degree from Zhengzhou University, China.
+
+
+
+
+
+Research Interests
+
+Currently, I'm leading a team of students working on Database Systems for the Cloud and Large Language Models, including Disaggregated Databases and Vector Databases.
+
+Disaggregated Database Systems (for the Cloud)
+
+Memory-Disaggregated Databases
+Storage-Disaggregated Databases
+Disaggregated Databases with Multi-Masters
+Distributed Shared-Memory & Shared-Storage Databases
+Serverless Databases with Disaggregation
+[Papers: Patent'24, SIGMOD'24a, SIGMOD'24b, VLDBJ'24a, VLDB'23, SIGMOD'23, ICDE'23]
+[Major Open-source: We built OpenAurora, an open-source version of Amazon Aurora, based on PostgreSQL v13.0. OpenAurora is a cloud-native database prototype optimized for the storage-disaggregated infrastructure. We are currently working on memory disaggregation and multi-masters within OpenAurora. We hope it will be used by the broader database system research community.]
+[External Grants: NSF CAREER Award]
+Vector Database Systems (for Large Language Models)
+
+Supporting Vector Data Management inside Relational Databases
+Multi-Model Vector Databases (Vector + "X") for Advanced RAGs
+Cost-Efficient Vector Databases
+Auto Tuning in Vector Databases
+Beyond Vector Databases: RAGs, DB-LLM Co-Design, Unified DB
+[Papers: VLDB'24a, VLDB'24b, SIGMOD'24c, SIGMOD'24d, ICDE'24, VLDBJ'24b, SIGMOD'21, ICDT'19]
+
+
+
+
+Working Experience
+Assistant Professor, Department of Computer Science, Purdue University   01/2021 - Present
+
+
+
+Milvus Vector Database Team, Zilliz, Remote   07/2020 - 12/2020
+
+Project: Milvus: A Purpose-Built Vector Database System
+
+
+Aurora Cloud Database Team, Amazon AWS, Palo Alto, CA   03/2019 - 07/2020
+
+Project: Write Forwarding in Amazon Aurora Globally-Distributed Database
+Patent: Selective Forwarding for Multi-statement Database Transactions
+
+
+
+
+Recent Publications
+Jianguo Wang, Eric Hanson, Guoliang Li, Yannis Papakonstantinou, Harsha Simhadri, Charles Xie.
+Vector Databases: What's Really New and What's Next?.
+Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+
+
+Yunan Zhang, Shige Liu, Jianguo Wang.
+Are There Fundamental Limitations in Supporting Vector Data Management in Relational Databases? A Case Study of PostgreSQL.
+Proceedings of International Conference on Data Engineering (ICDE), 2024.
+
+
+Cheng Chen, Chenzhe Jin, Yunan Zhang, Sasha Podolsky, Chun Wu, Szu-Po Wang, Eric Hanson, Zhou Sun, Robert Walzer, Jianguo Wang.
+SingleStore-V: An Integrated Vector Database System in SingleStore.
+Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+
+
+Xi Pang, Jianguo Wang.
+Understanding the Performance Implications of the Design Principles in Storage-Disaggregated Databases.
+Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
+
+
+Yongye Su, Yinqi Sun, Minjia Zhang, Jianguo Wang.
+Vexless: A Serverless Vector Data Management System Using Cloud Functions.
+Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
+
+
+Qiaolin Yu, Chang Guo, Jay Zhuang, Viraj Thakkar, Jianguo Wang, Zhichao Cao.
+CaaS-LSM: Compaction-as-a-Service for LSM-based Key-Value Stores in Storage-Disaggregated Infrastructure.
+Proceedings of ACM Conference on Management of Data (SIGMOD), 2024.
+
+
+Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, Yunjia Zhang, Zhiyuan Cheng, Wanghu Chen, Mingjie Tang, Jianguo Wang.
+GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization.
+Proceedings of Very Large Data Bases Conference (VLDB), 2024.
+More publications...
+
+
+
+
+Team
+Ruihong Wang (since Fall 2020), co-advised with Walid G. Aref
+Xi Pang (since Fall 2021)
+Shige Liu (since Fall 2022)
+Chenzhe Jin (since Fall 2022)
+Yunxin Sun (since Fall 2022)
+Yongye Su (since Fall 2022)
+Chuqing Gao (since Fall 2022)
+Yunan Zhang (since Fall 2023)
+Te Guo (since Fall 2023)
+Yinqi Sun (since Fall 2023)
+Jiayi Liu (since Fall 2024)
+
+
+
+
+Hiring
+
+I'm always looking for highly motivated students in database systems (hiring info). Please feel free to contact me if you're interested.
+
+
+
+
+
+Teaching
+CS592: Disaggregated Database Systems
+Spring 2023
+CS590-CDS: Cloud-native Database Systems
+Spring 2021
+CS440: Large-scale Data Analytics
+Fall 2023, Fall 2022, Fall 2021
+CS448: Introduction to Database Systems
+Spring 2022
+
+
+
+
+Honors and Awards
+NSF CAREER Award, 2024
+Purdue Ross-Lynn Research Scholar, 2022
+Facebook Research Award Finalists, 2021
+Bests of the International Conference on Database Theory (ICDT), 2019
+
+
+
+
+Services
+Academic Services
+SIGMOD Program Committee: 2025, 2024, 2022, 2021
+VLDB Program Committee: 2024, 2023, 2022, 2021, 2020
+ICDE Program Committee: 2025, 2024, 2023, 2022, 2021
+University Services
+Purdue CS PhD Admission Committee: 2024, 2023, 2022, 2021
+National Services
+NSF Panelist: 2024
+
+
+
+
+

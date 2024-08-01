@@ -1,0 +1,42 @@
+Professor: Kai Shen
+University: University of Rochester
+URL: https://www.cs.rochester.edu/u/kshen
+Description: 
+Photo credit: Marty Guenther	
+Kai Shen
+
+Associate Professor
+Department of Computer Science
+University of Rochester, Rochester, NY 14627-0226
+Office: CSB 714
+Email: kshen@cs.rochester.edu
+
+
+My research interests fall into the broad area of computer systems. A principal share of my research has targeted the software system support for concurrent online servers (commonplace in today's cloud host systems and data centers). This line of work started at around 2000 with my development of the Neptune server clustering middleware, which was deployed as the software backbone for thousands of servers at the web search and service site Ask.com. It has continued to the present day, with the recent work of fine-grained power management on multicore servers. Much of my work is driven by the complexity of modern computer systems and the need for principled approaches to understand, characterize, and manage such complexities. I am particularly interested in the cross-layer work of developing software system solution to support emerging hardware or address hardware issues, including the characterization and management of memory hardware errors, system support for Flash-based SSDs and GPUs, as well as cyber-physical systems.
+
+My CV
+
+Recent Publications
+Energy Discounted Computing on Multicore Smartphones (USENIX ATC'16)
+Coherence Stalls or Latency Tolerance: Informed CPU Scheduling for Socket and Core Sharing (USENIX ATC'16)
+OrderMergeDedup: Efficient, Failure-Consistent Deduplication on Flash (FAST'16)
+Data Sharing or Resource Contention: Toward Performance Transparency on Multicore Systems (USENIX ATC'15)
+Software Engagement with Sleeping CPUs (HotOS'15)
+Disengaged Scheduling for Fair, Protected Access to Fast Computational Accelerators (ASPLOS'14)
+Journaling of Journal Is (Almost) Free (FAST'14)
+FlashFQ: A Fair Queueing I/O Scheduler for Flash-Based SSDs (USENIX ATC'13)
+Enabling OS Research by Inferring Interactions in the Black-Box GPU Stack (USENIX ATC'13)
+Failure-Atomic msync(): A Simple and Efficient Mechanism for Preserving the Integrity of Durable Data (EuroSys'13)
+Power Containers: An OS Facility for Fine-Grained Power and Energy Management on Multicore Servers (ASPLOS'13)
+FIOS: A Fair, Efficient Flash I/O Scheduler (FAST'12)
+
+All Publications
+
+Teaching
+CSC 252 - Computer Organization (Spring 2015)
+CSC 257/457 - Computer Networks (Fall 2014)
+CSC 258/458 - Parallel and Distributed Systems (Spring 2014)
+CSC 296/576 - Big Data Computer Systems (Fall 2013)
+CSC 573 - Advanced Operating Systems (Spring 2008)
+CSC 256/456 - Operating Systems (Spring 2007)
+

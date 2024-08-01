@@ -1,0 +1,289 @@
+Professor: Virginia Smith
+University: Carnegie Mellon University
+URL: http://users.ece.cmu.edu/~smithv
+Description: Virginia Smith
+Research · Bio · CV · Email
+
+I am the Leonardo Associate Professor of Machine Learning at Carnegie Mellon University, and a courtesy faculty member in the Electrical and Computer Engineering Department. My research interests are in machine learning, optimization, and distributed systems. Recent topics include: large-scale machine learning, distributed optimization, federated and collaborative learning, multi-task learning, and privacy-preserving ML.
+
+Recent News
+I'm honored to receive a Sloan Research Fellowship and be named a 2023 Samsung AI Researcher of the Year
+Co-organized a Workshop on Federated and Collaborative Learning at the Simons Institute
+See our blog posts on privacy-preserving cross-silo FL and LLM evaluation
+Our solution won first place in the UK-US Privacy-Enhancing Technologies pandemic forecasting challenge
+I gave talks at the Apple PPML Workshop and Argonne AI Distinguished Lecture Series on privacy-preserving ML
+I'm honored to receive an NSF CAREER Award, and be named one of Intel's 2022 Rising Stars
+I enjoyed discussing some of our recent work on the TWIML podcast
+I'm honored to be selected as one of MIT Technology Review's 35 Innovators Under 35
+See our blog post, white paper, and NeurIPS tutorial on federated learning
+PhD Students & Postdocs
+Don Dennis
+Shengyuan Hu
+Steven Kolawole
+Kevin Kuo
+Oscar Li
+Qi Pang (with Wenting Zheng)
+Amrith Setlur
+Pratiksha Thaker (with Steven Wu)
+Alumni
+Neel Guha (MS 2020; JD/PhD at Stanford)
+Michael Kuchnik (with George Amvrosiadis) (PhD 2023; Meta)
+Tian Li (PhD 2023; Asst Professor at University of Chicago)
+Ken Liu (MS 2023; PhD at Stanford)
+Qiqi Xu (MS 2021; Google)
+Teaching
+10-718 (Machine Learning in Practice), Spring 2024
+10-719 (Federated and Collaborative Learning), Fall 2023
+10-405/10-605 (Undergraduate/MS ML with Large Datasets), Spring 2022
+10-605/10-805 (PhD/MS ML with Large Datasets), Fall 2021
+10-405/10-605 (Undergraduate/MS ML with Large Datasets), Spring 2021
+10-605/10-805 (PhD/MS ML with Large Datasets), Fall 2020
+10-405/10-605 (Undergraduate/MS ML with Large Datasets), Spring 2020
+18-461/18-661 (Intro to ML for Engineers), Fall 2018
+Publications
+
+Preprints
+
+
+Guardrail Baselines for Unlearning in LLMs
+P. Thaker, Y. Maurya, S. Hu, Z. S. Wu, V. Smith
+[abstract] [arxiv]
+No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices
+Q. Pang, S. Hu, W. Zheng, V. Smith
+[abstract] [arxiv]
+Federated LoRA with Sparse Communication
+K. Kuo, A. Raje, K. Rajesh, V. Smith
+[abstract] [arxiv]
+Everybody Prune Now: Structured Pruning of LLMs with only Forward Passes
+L. Dery, S. Kolawole, J-F. Kagy, V. Smith, G. Neubig, A. Talwalkar
+[abstract] [arxiv]
+On the Benefits of Public Representations for Private Transfer Learning under Distribution Shift
+P. Thaker, A. Setlur, Z. S. Wu, V. Smith
+[abstract] [arxiv]
+RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold
+A. Setlur, S. Garg, X. Geng, N. Garg, V. Smith, Aviral Kumar
+[abstract] [arxiv]
+2024
+
+
+Prompting is a Double-Edged Sword: Improving Worst-Group Robustness of Foundation Models
+A. Setlur, S. Garg, V. Smith, S. Levine
+International Conference on Machine Learning (ICML), 2024
+[abstract]
+Maximizing Global Model Appeal in Federated Learning
+Y. J. Cho, D. Jhunjhunwala, T. Li, V. Smith, G. Joshi
+Transactions on Machine Learning Research (TMLR), 2024
+[abstract] [pdf]
+Fair Federated Learning via Bounded Group Loss
+S. Hu, Z. S. Wu, V. Smith
+IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024
+Best Paper Award at ICLR 2022 Socially Responsible ML Workshop
+[abstract] [arxiv]
+2023
+
+
+Progressive Knowledge Distillation: Building Ensembles for Efficient Inference
+D. Dennis, A. Shetty, A. Sevekari, K. Koishida, V. Smith
+Neural Information Processing Systems (NeurIPS), 2023
+[abstract] [arxiv]
+Variance-Reduced Gradient Estimation via Noise-Reuse in Online Evolution Strategies
+O. Li, J. Harrison, J. Sohl-Dickstein, V. Smith, L. Metz
+Neural Information Processing Systems (NeurIPS), 2023
+[abstract] [arxiv]
+Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift
+S. Garg*, A. Setlur*, Z. Lipton, S. Balakrishnan, V. Smith, A. Raghunathan
+Neural Information Processing Systems (NeurIPS), 2023
+[abstract] [arxiv]
+On Tilted Losses in Machine Learning: Theory and Applications
+T. Li*, A. Beirami*, M. Sanjabi, V. Smith
+Journal of Machine Learning Research (JMLR), 2023
+[abstract] [pdf] [code] [blog post]
+Private Multi-Task Learning: Formulation and Applications to Federated Learning
+S. Hu, Z. S. Wu, V. Smith
+Transactions on Machine Learning Research (TMLR), 2023
+[abstract] [arxiv]
+On Noisy Evaluation in Federated Hyperparameter Tuning
+K. Kuo, P. Thaker, M. Khodak, J. Ngyuen, D. Jiang, A. Talwalkar, V. Smith
+Conference on Machine Learning and Systems (MLSys), 2023
+[abstract] [arxiv] [blog post]
+Validating Large Language Models with ReLM
+M. Kuchnik, V. Smith, G. Amvrosiadis
+Conference on Machine Learning and Systems (MLSys), 2023
+Outstanding Paper Award
+[abstract] [arxiv] [code] [blog post]
+Differentially Private Adaptive Optimization with Delayed Preconditioners
+T. Li, M. Zaheer, K. Liu, S. Reddi, B. McMahan, V. Smith
+International Conference on Learning Representations (ICLR), 2023
+[abstract] [arxiv]
+Bitrate-Constrained DRO: Beyond Worst Case Robustness To Unknown Group Shifts
+A. Setlur, D. Dennis, B. Eysenbach, A. Raghunathan, C. Finn, V. Smith, S. Levine
+International Conference on Learning Representations (ICLR), 2023
+[abstract] [arxiv]
+2022
+
+
+On Privacy and Personalization in Cross-Silo Federated Learning
+Z. Liu, S. Hu, Z. S. Wu, V. Smith
+Neural Information Processing Systems (NeurIPS), 2022
+[abstract] [arxiv] [blog post]
+Adversarial Unlearning: Reducing Confidence Along Adversarial Directions
+A. Setlur, B. Eysenbach, V. Smith, S. Levine
+Neural Information Processing Systems (NeurIPS), 2022
+[abstract] [arxiv]
+Motley: Benchmarking Heterogeneity and Personalization in Federated Learning
+S. Wu, T. Li, Z. Charles, Y. Xiao, Z. Liu, Z. Xu, V. Smith
+Workshop on Federated Learning at NeurIPS, 2022
+[abstract] [arxiv] [code]
+Private Adaptive Optimization with Side Information
+T. Li, M. Zaheer, S. Reddi, V. Smith
+International Conference on Machine Learning (ICML), 2022
+[abstract] [arxiv]
+Label Leakage and Protection in Two-party Split Learning
+O. Li, J. Sun, X. Yang, W. Gao, H. Zhang, J. Xie, V. Smith, C. Wang
+International Conference on Learning Representations (ICLR), 2022
+[abstract] [arxiv]
+Diverse Client Selection for Federated Learning via Submodular Maximization
+R. Balakrishnan, T. Li, T. Zhou, N. Himayat, V. Smith, J. Bilmes
+International Conference on Learning Representations (ICLR), 2022
+[abstract] [pdf]
+Plumber: Diagnosing and Removing Performance Bottlenecks in Machine Learning Data Pipelines
+M. Kuchnik, A. Klimovic, J. Simsa, V. Smith, G. Amvrosiadis
+Conference on Machine Learning and Systems (MLSys), 2022
+[abstract] [arxiv]
+2021
+
+
+A Field Guide to Federated Optimization
+J. Wang, Z. Charles, Z. Xu, G. Joshi, H. B. McMahan, et al.
+
+[abstract] [arxiv]
+On Large-Cohort Training for Federated Learning
+Z. Charles, Z. Garrett, Z. Huo, S. Shmulyian, V. Smith
+Neural Information Processing Systems (NeurIPS), 2021
+[abstract] [arxiv]
+Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing
+M. Khodak, R. Tu, T. Li, L. Li, M.-F. Balcan, V. Smith, A. Talwalkar
+Neural Information Processing Systems (NeurIPS), 2021
+[abstract] [arxiv] [code]
+Two Sides of Meta-Learning Evaluation: In vs. Out of Distribution
+A. Setlur*, O. Li*, V. Smith
+Neural Information Processing Systems (NeurIPS), 2021
+[abstract] [arxiv]
+Progressive Compressed Records: Taking a Byte out of Deep Learning Data
+M. Kuchnik, G. Amvrosiadis, V. Smith
+Conference on Very Large Data Bases (VLDB), 2021
+[abstract] [arxiv] [code]
+Ditto: Fair and Robust Federated Learning Through Personalization
+T. Li, S. Hu, A. Beirami, V. Smith
+International Conference on Machine Learning (ICML), 2021
+Best Paper Award at ICLR 2021 Secure ML Workshop
+[abstract] [arxiv] [code]
+Heterogeneity for the Win: One-Shot Federated Clustering
+D. Dennis, T. Li, V. Smith
+International Conference on Machine Learning (ICML), 2021
+[abstract] [arxiv]
+Tilted Empirical Risk Minimization
+T. Li*, A. Beirami*, M. Sanjabi, V. Smith
+International Conference on Learning Representations (ICLR), 2021
+[abstract] [arxiv] [code] [blog post]
+2020
+
+
+Federated Learning: Challenges, Methods, and Future Directions
+T. Li, A. K. Sahu, A. Talwalkar, V. Smith
+IEEE Signal Processing Magazine, Special Issue on Distributed Machine Learning, 2020
+[abstract] [arxiv] [blog post]
+Fair Resource Allocation in Federated Learning
+T. Li, M. Sanjabi, A. Beirami, V. Smith
+International Conference on Learning Representations (ICLR), 2020
+[abstract] [arxiv] [code]
+Learning Context-aware Policies from Multiple Smart Homes via Federated Multi-Task Learning
+T. Yu, T. Li, Y. Sun, S. Nanda, V. Smith, V. Sekar, S. Seshan
+ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI), 2020
+[abstract]
+Federated Optimization in Heterogeneous Networks
+T. Li, A. K. Sahu, M. Sanjabi, M. Zaheer, A. Talwalkar, V. Smith
+Conference on Machine Learning and Systems (MLSys), 2020
+[abstract] [arxiv] [code]
+2019
+
+
+LEAF: A Benchmark for Federated Settings
+S. Caldas, P. Wu, T. Li, J. Konecny, B. McMahan, V. Smith, A. Talwalkar
+Workshop on Federated Learning for Data Privacy and Confidentiality at NeurIPS, 2019
+[abstract] [arxiv] [code]
+FedDANE: A Federated Newton-Type Method
+T. Li, A. K. Sahu, M. Sanjabi, M. Zaheer, A. Talwalkar, V. Smith
+Asilomar Conference on Signals, Systems and Computers, 2019, Invited Paper
+[abstract] [arxiv]
+A Kernel Theory of Modern Data Augmentation
+T. Dao, A. Gu, A. Ratner, V. Smith, C. De Sa, C. Re
+International Conference on Machine Learning (ICML), 2019
+[abstract] [arxiv] [code]
+Efficient Augmentation via Data Subsampling
+M. Kuchnik, V. Smith
+International Conference on Learning Representations (ICLR), 2019
+[abstract] [pdf] [code]
+MLSys: The New Frontier of Machine Learning Systems
+Technical Report, 2019
+[abstract] [arxiv]
+2018 & prior
+
+
+CoCoA: A General Framework for Communication-Efficient Distributed Optimization
+V. Smith, S. Forte, C. Ma, M. Takac, M. I. Jordan, M. Jaggi
+Journal of Machine Learning Research (JMLR), 2018
+[abstract] [pdf] [code]
+One-Shot Federated Learning
+N. Guha, A. Talwalkar, V. Smith
+Machine Learning on Devices Workshop at NeurIPS, 2018
+[abstract] [arxiv]
+Federated Multi-Task Learning
+V. Smith, C. Chiang, M. Sanjabi, A. Talwalkar
+Neural Information Processing Systems (NeurIPS), 2017
+[abstract] [pdf] [code]
+Distributed Optimization with Arbitrary Local Solvers
+C. Ma, J. Konecny, M. Jaggi, V. Smith, M. I. Jordan, P. Richtarik, M. Takac
+Optimization Methods and Software, 2017
+[abstract] [pdf]
+L1-Regularized Distributed Optimization: A Communication-Efficient Primal-Dual Framework
+V. Smith, S. Forte, M. I. Jordan, M. Jaggi
+ML Systems Workshop at ICML, 2016
+[abstract] [arxiv] [code]
+Going In-Depth: Finding Longform on the Web
+V. Smith, M. Connor, I. Stanton
+Conference on Knowledge Discovery and Data Mining (KDD), 2015
+[abstract] [pdf]
+Adding vs. Averaging in Distributed Primal-Dual Optimization
+C. Ma*, V. Smith*, M. Jaggi, M. I. Jordan, P. Richtarik, M. Takac
+International Conference on Machine Learning (ICML), 2015
+[abstract] [pdf] [code]
+Communication-Efficient Distributed Dual Coordinate Ascent
+M. Jaggi*, V. Smith*, M. Takac, J. Terhorst, S. Krishnan, T. Hofmann, M. I. Jordan
+Neural Information Processing Systems (NeurIPS), 2014
+[abstract] [pdf] [code]
+MLI: An API for User-friendly Distribued Machine Learning
+E. Sparks, A. Talwalkar, V. Smith, X. Pan, J. Gonzalez, T. Kraska, M. I. Jordan, and M. J. Franklin
+IEEE International Conference on Data Mining (ICDM), 2013
+[abstract] [pdf]
+A Comparative Study of High Renewables Penetration Electricity Grids
+J. Taneja, V. Smith, D. Culler, and C. Rosenberg
+IEEE International Conference on Smart Grid Communications (SmartGridComm), 2013
+[abstract] [pdf]
+Classification of Sidewalks in Street View Images
+V. Smith, J. Malik, and D. Culler
+WiP Workshop at International Green Computing Conference (IGCC), 2013
+[abstract]
+MLbase: A Distributed Machine Learning Wrapper
+A. Talwalkar, T. Kraska, R. Griffith, J. Duchi, J. Gonzalez, D. Britz, X. Pan, V. Smith, E. Sparks, A. Wibisono, M. J. Franklin, and M. I. Jordan
+Big Learning Workshop at NeurIPS, 2012
+[abstract] [pdf]
+Identifying Models of HVAC Systems Using Semiparametric Regression
+A. Aswani, N. Master, J. Taneja, V. Smith, A. Krioukov, D. Culler, and C. Tomlin
+Proceedings of the American Control Conference (ACC), 2012
+[abstract] [pdf]
+Modeling Building Thermal Response to HVAC Zoning
+V. Smith, T. Sookoor, and K. Whitehouse
+ACM SIGBED Review, 2012
+[abstract] [pdf]
+

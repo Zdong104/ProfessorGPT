@@ -1,0 +1,100 @@
+Professor: Murat Demirbas
+University: University at Buffalo
+URL: http://www.cse.buffalo.edu/~demirbas
+Description: HOME
+PUBLICATIONS
+TEACHING
+Murat Demirbas
+Office: 313 Davis Hall, Buffalo, NY, 14260, USA
+Email: "my last name"@buffalo.edu
+
+
+I am a Full Professor at the Computer Science and Engineering department of University at Buffalo, SUNY.
+
+[ CV ], [ RESEARCH STATEMENT ], [ BLOG ], [ My Google-Scholar page ]
+
+My research interests
+
+My research interests are in distributed systems, and span the areas of cloud computing, distributed algorithms, distributed consensus, ubiquitous computing, wireless sensor networks, fault-tolerant computing, formal methods, and self-stabilization. Please read my research statement for more information.
+
+[ Publications ], [ My Google-Scholar page ]
+
+I maintain a blog where I write about interesting research on cloud computing, and thoughts/advice on life, the universe, and everything. My blog has received more than 2.2 million pageviews.
+
+Recent news
+
+IEEE Region 1 Technological Innovation in Academia Award "for significant contributions in distributed systems", 2018.
+
+Promoted as Full Professor, 2017
+
+University at Buffalo, School of Engineering and Applied Sciences, Senior Researcher of the Year Award, 2016.
+
+Best paper award from IEEE Big Data 2015, for our paper titled "Panopticon: A lock broker architecture for scalable transactions in the datacenter".
+
+Two NSF research grants received in 2015.(See below for descriptions.)
+
+Funded research projects
+
+My project titled " Paxos Unpacked " is funded by NSF CSR for $496,347 from 2020-2023. PI: Murat Demirbas.
+
+Due to their excellent fault-tolerance properties, Paxos protocols have been employed by many cloud computing systems for consistent coordination of clusters of computers. This project aims to show that when properly customized, Paxos family of protocols can also deliver top-notch performance and scalability, which they currently lack. To this end, the project will design high-performance, scalable, practical, and usable Paxos variants customized for different deployments and use cases. Instead of developing disjoint point-solutions, the project will provide a systematic and principled exploration of the solution space.
+
+My project titled "Synchrony-aware Primitives for Building Highly Auditable, Highly Scalable, Highly Available Distributed Systems" is funded by NSF XPS for $750,000 from 2015-2019. PI: Murat Demirbas and coPI: Sandeep Kulkarni.
+
+Auditability is a key property for developing highly scalable and highly available distributed systems; auditability enables identifying performance bottlenecks, dependencies among events, and latent concurrency bugs. In turn, for the auditability of a system, time is a key concept. However, there is a gap between the theory and the practice of distributed systems in terms of the use of time. The theory of distributed systems shunned the notion of time and considered asynchronous systems, whose event ordering is captured by logical clocks. The practical distributed systems employed NTP synchronized clocks to capture time but did so in ad hoc undisciplined ways. This project will bridge this gap and provide synchrony-aware system primitives that will support building highly auditable, highly scalable, and highly available distributed systems. The project has applications to cloud computing, distributed NewSQL databases, and globally distributed web services.
+
+My project titled " Scalable Coordination for Wide-Area Distributed Systems" is funded by NSF CSR for $500,000 from 2015-2018. PI: Murat Demirbas and coPI: Tevfik Kosar.
+
+Traditional distributed coordination techniques fail to scale for wide-area networks to support these new generation applications. Centralized coordination fails to scale with respect to the increased distances in the wide-area, whereas distributed coordination fails to scale with respect to the number of nodes involved. This research project claims that it is possible to achieve scalable coordination of distributed tasks over wide-area using a novel hybrid design, called Maestro. The Maestro framework will address the following research questions: (1) What are the limits of fully-centralized and fully-decentralized solutions to coordination, and what are the scalability benefits of a hybrid hierarchical approach? (2) How can locality-awareness be utilized to achieve high-performance across wide-area? (3) How can partition-awareness be utilized to achieve consistency across wide-area?
+
+Our project titled "PhoneLab: A Large-Scale Participatory Smartphone Testbed" is funded by a research infrastructure grant from NSF for $1.3 million in 2012. Geoffrey Challen (PI), Steve Ko, Chunming Qiao, Murat Demirbas, Tevfik Kosar.
+
+Project page is at http://www.phone-lab.org/
+
+My project titled "An In-network Collaboration and Coordination Framework for Wireless Sensor Actor Networks" is funded by an NSF CAREER award (2008-2013). More information is available here.
+
+While there have been many efficient point solutions to the in-network processing problems in wireless sensor networks (WSNs), there has been little effort to address the underlying root research problem of devising an in-network collaboration and coordination framework that can achieve standardization and integration of in-network processing protocols. The objective of this project is to design and implement such a framework.
+
+This framework introduces a decentralized transactional model that enables a node to update the state of its singlehop neighborhood consistently and atomically. One of the key insights in this framework is to observe that singlehop wireless broadcast has many useful features for facilitating collaboration and coordination. By exploiting the atomicity and broadcast properties of singlehop wireless communication, the framework provides a simple/clean abstraction and yet manages to retain the efficiency of execution. Moreover, this project also investigates the practical uses of receiver-side collision detection in singlehop collaborative feedback collection in WSNs.
+
+By addressing the communication and concurrent execution challenges under the hood of its simple abstractions, the framework will provide a platform for developing and deploying distributed control applications as well as WSN in-network processing protocols. As such, this framework will be useful for multi-robot cooperative control applications and WSN-robotics integration for distributed sensing. More specifically, the framework will be demonstrated by developing a distributed multiple-pursuer/multiple-evader tracking application in WSNs.
+
+
+
+
+My project titled "Efficient and resilient querying and tracking services for wireless sensor networks" is funded by ONR (2009-2012) for 510K.
+
+A significant application of wireless sensor networks is in the area of intrusion detection and the related problem of querying and tracking of the location of the targets. Two major challenges facing querying and tracking services in wireless sensor networks are the scalability and reliability problems.
+
+To address these challenges, our project focuses on developing local and resilient services for querying and tracking under several WSN environments, namely, static, passively mobile, and actively mobile WSNs.
+
+My project titled "Tool-Support for Producing High-Assurance and Reliable Software for Wireless Sensor Actor Networks" is funded by NSF CSR (2009-2012). More information is available here.
+
+Wireless sensor networks (WSNs) have been mainly used for data collection purposes, and have not been employed in the context of any consistency- or safety-critical applications. As such software development for WSNs has been done mostly on a best-effort basis. However, as WSNs get more integrated with actuation capabilities, the resulting wireless sensor actor networks (WSANs) require more assurance and survivability guarantees. The goal of this project is to design and implement the tool-support necessary for achieving assurance and reliability of WSANs software.
+
+The project will produce a transformation tool that allows programs for WSANs to be written in high-level models traditionally used to describe abstract distributed programs and automatically transforms these abstract programs, while preserving their correctness and reliability properties, into programs deployed in WSANs. The project will also develop a synthesis tool that manipulates the given abstract distributed programs for the automated addition of desired level of fault-tolerance. Finally, the project will design a framework that guards against the corruption of the auxiliary state introduced at the concrete system to ensure that the deployed program is verifiably reliable.
+
+I am a Co-Investigator on the project titled "1R21ES017826: Use of cellphone-based time-activity data for air pollutant exposure estimation", which is approved for funding 10/1/10-9/30/12 by NIH/NIEHS.
+
+Our goal is to design and demonstrate the feasibility of an efficient method to incorporate time-activity data measured with GPS-equipped "smart" cellphones into two models designed to estimate individual exposures to fine particulate matter (PM2.5). PM2.5 is a traffic-related pollutant implicated in a wide variety of adverse health outcomes. We use the term cellphone-based exposure estimates to describe air pollutant exposure estimates based on cellphone-collected time-activity data. By using cellphone-based rather than residence-based estimates, we can greatly improve the accuracy with which we are able to estimate exposures in studying health effects of air pollution.
+
+In this proposed research project, we aim to do the following tasks: (1) To collect time-activity data for three months from 40 volunteers in the Buffalo/Niagara, New York region using GPS-equipped cellphones. We will compare these data to time-activity information collected using two 24-hour diaries. (2) To incorporate the cellphone-based time-activity data into land use regression and Kriging models to produce cellphone-based PM2.5 exposure estimates, and to compare these to residence-based estimates. (3) To design algorithms to optimize the efficiency of incorporating time-activity data into land use regression and Kriging models so that the method will be feasible to use in large study populations.
+
+My project titled "Crowdsourced sensing and collaboration using Twitter" is funded by a Google Research Award in 2010.
+
+Despite the ubiquitous availability of the sensor and smartphone devices, the-state-of-the-art falls short of the ubiquitous computing vision. We argue that the reason for this gap is the lack of an infrastructure to task/utilize these devices for collaboration. We propose that Twitter can provide an "open" publish-subscribe infrastructure for sensors and smartphones, and pave the way for crowdsourced sensing and collaboration applications. In our preliminary work, we designed and implemented a crowdsourced sensing system over Twitter, and deployed a crowdsourced weather radar using our system. Our results from this real-world Twitter experiment show promise for the feasibility of this approach.
+
+In this project, we propose to (1) solve the challenges in sensor/smartphone integration to Twitter (establishing sensor tweet standards, providing incentives, building filters, exploiting social networking features), (2) implement our crowdsourced sensing and collaboration system over Hadoop and deploy it on the cloud for elastic scalability, (3) deploy a participatory noise-mapping application on Android-based smartphones, and (4) design social collaboration applications and integrate with Google Latitude.
+
+Our project titled "PhoneLab: A Participatory Smartphone Cloud Testbed" is funded by a Google Research Award in 2011. Geoffrey Challen (PI), Murat Demirbas, Steve Ko, Tevfik Kosar.
+
+The expanding capabilities and growing number of smartphones are producing a new computing infrastructure integrating phones, users, and the Internet. We call this emerging device the phone cloud, and its power is transforming user expectations. The users now expect their phones to locate friends; identify the song playing at a restaurant; provide instant access to music, video, and other information; and help document their lives --- all in addition to placing phone calls and sending text messages. Meeting these expectations requires addressing multiple challenges: efficiently utilizing multiple radio technologies and integrated sensors, harnessing powerful processors to support demanding applications, and leveraging distributed storage to move data closer to users. Yet, despite the challenges and transformative nature of the phone cloud, no public testbed exists enabling large-scale realistic smartphone experimentation.
+
+We propose to develop PhoneLab, a new scientific instrument enabling smartphone operating system and mobile application research in a realistic environment at a scale not previously possible. PhoneLab will eventually consist of 1,000 reprogrammable Android devices deployed into the hands of UB students and staff, providing the power, scale, and realism necessary to enable mobile computing research.
+
+Our project titled "Two-Rank Mobile Robot Fleet for Swarm Surveillance, Warfighter Assistance and other Army-related Research and Research-Related Education" is funded by Army Research Office DURIP program for $290,000 in 2011. Jason Corso (PI), Murat Demirbas, Raymond Fu, Venkat Krovi, Rakesh Nagi
+
+Go to the top of the page
+
+Template by Free Forum and Free Template Download.
+

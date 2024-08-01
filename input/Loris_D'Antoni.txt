@@ -1,0 +1,337 @@
+Professor: Loris D'Antoni
+University: Univ. of California - San Diego
+URL: https://cseweb.ucsd.edu/~ldantoni
+Description: Loris D'Antoni
+Research
+Students
+Teaching
+Hobbies
+Service
+CV
+
+
+
+Loris D'Antoni
+
+Jacobs Faculty Scholar &
+Associate Professor
+
+Computer Science and Engineering - UCSD
+ 3235 Voigt Dr, La Jolla, CA 92093 USA
+ ldantoni@ucsd.edu
+
+  
+
+My research is about helping people write trustworthy software.
+
+
+I'm a professor in the Programming Systems Group and a visiting academic at AWS. Before joining UCSD, I co-founded the group at UW-Madison.
+
+Specification-aligned LLMs
+
+Formal techniques for constraining the output of large language models of code. Just started, but take a look at my prior work on trustworthy ML like Antidote and A3T.
+
+Semantics-guided synthesis
+
+A framework for specifying and solving arbitrary synthesis problems. Paper and website.
+
+Latest news
+Sep 27
+Unrealizability logic accepted at POPL23.
+Sep 22
+BagFlip accepted at POPL22.
+2021-22
+Forgot to update my webpage due to sabbatical :)
+Oct 2
+Revisar selected as Distinguished Paper at SBES21!
+Sep 30
+Antidote selected as SIGPLAN Research Highlight and its follow-up Antidote-P accepted at NeurIPS!
+Apr 29
+Prognosis accepted at SIGCOMM 21!
+Apr 16
+Synthesis with Asymptotic Resource Bounds accepted at CAV21!
+Oct 1
+Semantics-guided synthesis conditionally accepted at POPL21!
+Jun 1
+Robustness to Programmable String Transformations via Augmented Abstract Training accepted at ICML20!
+Apr 16
+Honored to have been selected as one of the Microsoft Research Fellows 2020!
+Apr 6
+Automata Tutor v3 accepted at CAV20!
+Feb 28
+Our ESOP20 paper has been nominated for EAPLS Award for the best ETAPS paper on PL and systems!
+Feb 21
+Antidote, Nay, and QARC accepted at PLDI20!
+Feb 20
+Our ESOP20 paper on synthesizing programs that operate over large integer values selected for a special issue of TOPLAS!
+Jan 23
+Our work on synthesis for large integer values accepted at ESOP20!
+July 1
+RFixer conditionally accepted at OOPSLA19!
+June 16
+I'll be giving an invited talk at SYNT19 on "computational synthesis theory"!
+June 14
+JDial accepted at SAS19!
+Apr 16
+Three papers accepted at CAV19. See you in NYC!
+Oct 10
+I'm co-organizing the first Meeting on String Constraints and Applications (MOSCA) in Bertinoro next May!
+Oct 2
+Facebook partially funded my proposal to the Testing and Verification Research Award!
+Jun 21
+Rong Pan wins PLDI18 SRC (undergraduate) for our work on synthesizing programs with large constants!
+Apr 19
+I will be serving in the program committee for PLATEAU 18.
+Apr 2
+I will be serving in the program committee for LPAR-22 and I am excited to organize the Midwest Programming Languages Summit 2018.
+Mar 31
+Two papers accepted at CAV 2018! The Learnability of Symbolic Automata and Syntax Guided Synthesis with Quantitative Syntactic Objectives.
+Dec 20
+Got the NSF CAREER! ... and Synthesis of Fault-Tolerant Distributed Router Configurations accepted at SIGMETRICS 2018!
+July 10
+Some press about our fairness project (led by Aws) on UW News and the Wisconsin State Journal.
+June 20
+FairSquare: Probabilistic Verification of Program Fairness accepted at OOPSLA 2017!
+June 2
+NoFAQ: Synthesizing Command Repairs from Examples accepted at FSE 2017!
+May 5
+The long version of Streaming tree transducers will appear in JACM!
+May 3
+A Symbolic Decision Procedure for Symbolic Alternating Automata accepted at MFPS XXXIII!
+Apr 24
+Weighted Model Integration with Orthogonal Transformations accepted at IJCAI 2017!
+Apr 12
+Repairing Decision-Making Programs under Uncertainty accepted at CAV 2017, where I was also invited to give a tutorial on The power of Symbolic Automata and Transducers!
+Feb 13
+Received the Google Faculty Research Award! Moreover, Automatic Program Inversion using Symbolic Transducers and Control-Flow Recovery from Partial Failure Reports accepted at PLDI 2017!
+Dec 22
+Learning Symbolic Automata accepted at TACAS 2017 and nominated for best paper award! Forward Bisimulations for Nondeterministic Symbolic Finite Automata also accepted at TACAS 2017!
+Dec 21
+The work on Refazer produced one paper at L@S and one at ICSE17.
+Oct 3
+Monadic second-order logic on finite sequences and Genesis: Synthesizing Forwarding Tables in Multi-tenant Networks accepted at POPL 2017!
+Sep 20
+The next time you need to evaluated your tool on Automata and Temporal Logic you can use the benchmark AutomatArk and contribute with new benchmark for the community to use.
+Sep 10
+We open-sourced the frontend and backend of Automata Tutor. Feel free to contribute, address issues, and add features. We also made publicly available most of the data we collected.
+Apr 15
+Qlose: Program Repair with Quantitative Objectives with Roopsha Samanta and Rishabh Singh accepted at CAV 2016!
+Apr 4
+Minimization of symbolic tree automata accepted at LICS 2016!
+Selected publications [ DBLP, Google Scholar ]
+FMCAD 23
+Modular System Synthesis [ pdf ]
+K. Park, K. Johnson, L. D'Antoni, T. Reps
+OOPSLA 23
+Synthesizing Specifications [ pdf ]
+K. Park, L. D'Antoni, T. Reps
+FAccT 23
+The Dataset Multiplicity Problem: How Unreliable Data Impacts Predictions [ pdf ]
+A. Meyer, A. Albarghouthi, L. D'Antoni
+POPL 23
+Unrealizability Logic [ pdf ]
+J. Kim, L. D'Antoni, T. Reps
+ICDCN 23
+Learned Load Balancing [ pdf ]
+B. Chen, K. Subramanian, L. D'Antoni, A. Akella Best Paper Award
+NeurIPS 22
+BagFlip: A Certified Defense against Data Poisoning [ pdf ]
+Y. Zhang, A. Albarghouthi, L. D'Antoni
+FMCAD 22
+Synthesizing Transducers from Complex Specifications [ pdf ]
+A. Grover, R. Ehlers, L. D'Antoni
+OOPSLA 22
+Synthesizing Abstract Transformers [ pdf ]
+P. Kalita, S. Muduli, L. D'Antoni, T. Reps, S. Roy
+TOPLAS
+Solving Program Sketches with Large Integer Values [ pdf ]
+Q. Hu, R. Singh, L. D'Antoni
+PLDI 22
+P4BID: Information Flow Control in P4 [ pdf ]
+K. Grewal, L. D'Antoni, J. Hsu
+NeurIPS 21
+Certifying Robustness to Programmable Data Bias in Decision Trees [ pdf ]
+A. P. Meyer, A. Albarghouthi, L. D'Antoni
+EMNLP 21
+Certified Robustness to Programmable Transformations in LSTMs [ pdf ]
+Y. Zhang, A. Albarghouthi, L. D'Antoni Selected for Oral Presentation
+SBES 21
+Learning Quick Fixes from Code Repositories [ pdf ]
+R. Rolim, G. Soares, R. Gheyi, T. Barik, L. D'Antoni Distinguished Paper Award
+SOSR 21
+D2R: Dataplane-Only Policy-Compliant Routing Under Failures [ pdf ]
+K. Subramanian, A. Abhashkumar, L. D'Antoni, A. Akella
+SIGCOMM 21
+Prognosis: Black-Box Analysis of Network Protocol Implementations [ pdf ]
+T. Ferreira, H. Brewton, L. D'Antoni, A. Silva
+CACM
+Automata Modulo Theories [ pdf ]
+L. D'Antoni, M. Veanes
+CAV 21
+Programmable Program Synthesis [ pdf ]
+J. Kim, Q. Hu, L. D'Antoni, T. Reps, Invited Keynote
+CAV 21
+Synthesis with Asymptotic Resource Bounds [ pdf ]
+Q. Hu, J. Cyphert, L. D'Antoni, T. Reps
+POPL 21
+Semantics-guided Synthesis [ pdf ]
+J. Kim, Q. Hu, L. D'Antoni, T. Reps
+ICML 20
+Robustness to Programmable String Transformations via Augmented Abstract Training [ pdf ]
+Y. Zhang, A. Albarghouthi, L. D'Antoni
+CAV 20
+Automata Tutor v3 [ pdf ]
+L. D'Antoni, M. Helfrich, J. Kretinsky, E. Ramneantu, M. Weininger
+PLDI 20
+Exact and Approximate Methods for Proving Unrealizability of Syntax-Guided Synthesis Problems [ pdf ]
+Q. Hu, J. Cyphert, L. D'Antoni, T. Reps
+PLDI 20
+Proving Data-Poisoning Robustness in Decision Trees [ pdf ]
+S. Drews, A. Albarghouthi, L. D'Antoni SIGPLAN Research Highlight
+PLDI 20
+Detecting Network Load Violations for Distributed Control Planes [ pdf ]
+K. Subramanian, A. Abhashkumar, L. D'Antoni, A. Akella
+ESOP 20
+Solving Program Sketches with Large Integer Values [ pdf ]
+R. Pan, Q. Hu, R. Singh, L. D'Antoni Selected for special issue of TOPLAS
+Nominated for EAPLS Award for the best ETAPS paper on PL and systems
+OOPSLA 19
+Automatic Repair of Regular Expressions [ pdf ]
+R. Pan, Q. Hu, G. Xu, L. D'Antoni
+SAS 19
+Direct Manipulation for Imperative Programs [ pdf ]
+Q. Hu, R.Samanta, R. Singh, L. D'Antoni
+CAV 19
+Efficient Synthesis with Probabilistic Constraints [ pdf ]
+S. Drews, A. Albarghouthi, L. D'Antoni
+CAV 19
+Symbolic Register Automata [ pdf ]
+L. D'Antoni, T. Ferreira, M. Sammartino, A. Silva
+CAV 19
+Proving Unrealizability for Syntax-Guided Synthesis [ pdf ]
+Q. Hu, J. Breck, J. Cyphert, L. D'Antoni, T. Reps
+CAV 18
+Syntax Guided Synthesis with Quantitative Syntactic Objectives [ pdf ]
+Q. Hu, L. D'Antoni
+CAV 18
+The Learnability of Symbolic Automata [ pdf ]
+G. Argyros, L. D'Antoni
+SIGMETRICS 18
+Synthesis of Fault-Tolerant Distributed Router Configurations [ pdf ]
+K. Subramanian, L. D'Antoni, A. Akella
+OOPSLA 17
+FairSquare: Probabilistic Verification of Program Fairness [ pdf ]
+A. Albarghouthi, L. D'Antoni, S. Drews, A. Nori
+FSE 17
+NoFAQ: Synthesizing Command Repairs from Examples [ pdf ]
+L. D'Antoni, R. Singh, M. Vaughn
+VL/HCC 17
+TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergence [ pdf ]
+R. Suzuki, G Soares, A. Head, E. Glassman, R. Reis, M. Mongiovi, L. D'Antoni, B. Hartmann
+JACM
+Streaming Tree Transducers [ ICALP pdf, pdf ]
+R. Alur, L. D'Antoni
+MFPS XXXIII
+A Symbolic Decision Procedure for Symbolic Alternating Finite Automata [ pdf ]
+L. D'Antoni, Z. Kincaid, F. Wang
+IJCAI 17
+Weighted Model Integration with Orthogonal Transformations [ pdf ]
+D. Merrell, A. Albarghouthi, L. D'Antoni
+CAV 17
+Repairing Decision-Making Programs under Uncertainty [ pdf ]
+S. Drews, A. Albarghouthi, L. D'Antoni
+CAV 17
+The Power of Symbolic Automata and Transducers [ pdf ]
+L. D'Antoni, M. Veanes, Invited Tutorial
+PLDI 17
+Automatic Program Inversion using Symbolic Transducers [ pdf ]
+Q. Hu, L. D'Antoni
+PLDI 17
+Control-Flow Recovery from Partial Failure Reports [ pdf ]
+P. Ohmann, A. Brooks, L. D'Antoni, B. Liblit
+TACAS 17
+Learning Symbolic Automata [ pdf ]
+S. Drews, L. D'Antoni Nominated for best paper award.
+TACAS 17
+Forward Bisimulations for Nondeterministic Symbolic Finite Automata [ pdf ]
+L. D'Antoni, M. Veanes
+L@S 17
+Writing Reusable Code Feedback at Scale with Mixed-Initiative Program Synthesis [ pdf ]
+A. Head, E. Glassman, G. Soares, R. Suzuki, L. Figueredo, L. D'Antoni, B. Hartmann
+ICSE 17
+Learning Syntactic Program Transformations from Examples [ pdf ]
+R. Rolim, G. Soares, L. D'Antoni, O. Polozov, S. Gulwani, R. Gheyi, R. Suzuki, B. Hartmann
+POPL 17
+Monadic second-order logic on finite sequences [ pdf ]
+L. D'Antoni, M. Veanes
+POPL 17
+Genesis: Synthesizing Forwarding Tables in Multi-tenant Networks [ pdf ]
+A. Akella, L. D'Antoni, K. Subramanian
+FATML 16
+Fairness as a Program Property [ pdf ]
+A. Albarghouthi, L. D'Antoni, S. Drews, A. Nori
+MICRO-49
+HARE: Hardware acceleration for regular expressions [ pdf ]
+V. Gogte, A. Kolli, M. Cafarella, L. D'Antoni, T. Wenisch
+CAV 16
+Qlose: Program Repair with Quantitative Objectives [ pdf ]
+L. D'Antoni, R. Samanta, R. Singh
+LICS 16
+Minimization of Symbolic Tree Automata [ pdf ]
+L. D'Antoni, M. Veanes
+FMSD 15
+Extended Symbolic Finite Automata and Transducers [ pdf ]
+L. D'Antoni, M. Veanes
+TOPLAS 15
+Fast: A Transducer-Based Language for Tree Manipulation (extended version) [ link ]
+L. D'Antoni, M. Veanes, B. Livshits, D. Molnar
+TOCHI 15
+How Can Automatic Feedback Help Students Construct Automata? [ pdf ]
+L. D'Antoni, D. Kini, R. Alur, S. Gulwani, M. Viswanathan, B. Hartmann
+POPL 15
+DReX: A Declarative Language for Efficiently Evaluating Regular String Transformations [ pdf, DReX ]
+R. Alur, L. D'Antoni, M. Raghothaman
+POPL 15
+Program Boosting: Program Synthesis via Crowd-Sourcing [ pdf, slides ]
+R. Cochran, L. D'Antoni, B. Livshits, D. Molnar, M. Veanes
+CAV 14
+Symbolic Visibly Pushdown Automata [ pdf ]
+L. D'Antoni, R. Alur
+PLDI 14
+Fast: A Transducer-Based Language for Tree Manipulation [ pdf, slides, Fast ]
+L. D'Antoni, M. Veanes, B. Livshits, D. Molnar
+POPL 14
+Minimization of Symbolic Automata [ pdf, slides ]
+L. D'Antoni, M. Veanes
+CAV 13
+Equivalence of Extended Symbolic Finite Transducers [ pdf, slides ]
+L. D'Antoni, M. Veanes
+IJCAI 13
+Automated Grading of DFA Constructions [ pdf, slides, Automata Tutor ]
+R. Alur, L. D'Antoni, S. Gulwani, D. Kini, M. Viswanathan
+LICS 13
+Regular Functions, Register Cost Automata, and Generalized Min-Cost Problems [ pdf ]
+R. Alur, L. D'Antoni, J. V. Deshmukh, M. Raghothaman, Y. Yuan
+VMCAI 13
+Static Analysis of String Encoders and Decoders [ pdf, slides ]
+L. D'Antoni, M. Veanes
+Professional activities
+2023
+POPL, PLDI
+2022
+Sabbatical
+2021
+POPL, PLDI
+2020
+APR, NETYS
+2019
+VMW@CAV, ATVA
+2018
+POPL, PLDI ERC, CAV, LPAR-22, PLATEAU, Midwest PL Summit
+2017
+POPL ERC, PLMW@POPL
+2016
+CAV, PLDI, POPL ERC, ICALP
+2015
+CAV-AEC, PLOOC
+

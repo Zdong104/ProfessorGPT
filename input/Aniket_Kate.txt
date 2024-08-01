@@ -1,0 +1,223 @@
+Professor: Aniket Kate
+University: Purdue University
+URL: https://www.cs.purdue.edu/homes/akate
+Description: 	
+Aniket Kate
+Associate Professor (on research leave)
+University Faculty Scholar
+
+
+Department of Computer Science
+Purdue University
+West Lafayette, IN, USA
+Email: 
+[How To Pronounce My Name]
+	
+
+⟬ Research ‖ Publications ‖ Freedom Lab ‖ CV ‖ Teaching ‖ Contact ⟭
+
+
+Brief Bio
+
+Prof. Aniket Kate is an Associate Professor of Computer Science and a University Faculty Scholar at Purdue University. He is also the Chief Research Officer at Supra. He is an applied cryptographer and a privacy researcher. His research builds on and expands applied cryptography, distributed computing, and game theory to solve security/privacy problems in decentralized environments. His current projects focus on distributed ledgers (or blockchains) and secure computations. He is a recipient of the 2019 NSF CAREER Award.
+
+Before joining Purdue in 2015, he was a junior faculty member at Saarland University, Germany. He completed his postdoctoral fellowship at Max Planck Institute for Software Systems (MPI-SWS) in Germany. He received his PhD from the University of Waterloo, Canada, and his masters from IIT-Bombay, India.
+
+While he is currently on a research leave to work at Supra, he maintains a research group at Purdue and is actively looking for PhD students and a post-doc.
+
+
+For more about his research (inclination)...
+
+
+Research Thrusts
+Cryptocurrencies & Blockchains [NDSS '24 '23 '19-'17 '15] [CCS '23 '17 '15] [FC '22-'20] [Usenix Sec '21] [PETS '20 '17 '16] [WWW '18] [ESORICS '14]
+
+analyzing and improving privacy and security of cryptocurrencies, layer-2 solutions, IOU credit networks (e.g., Ripple), and consortium blockchain solutions (e.g., Hyperledger)
+developing cryptography-aided (smart) contracts for breaking theoretical barriers
+designing novel distributed ledger (or blockchain) architectures for supply-chains and distributed CPS
+
+
+MPC & Threshold Crypto [CCS '24 '23 '20 '19] [NDSS '23 '22 '20] [EuroS&P'23] [AFT '22] [PETS '22] [GPCE'21] [PODC '14 '12] [ACSAC '14] [CT-RSA '13] [ASIACRYPT '11 '10] [SCN '10] [ICDCS '09]
+
+improving the robustness and efficiency of multi-party computation (MPC)
+developing MPC-based solutions for blockchains, verifiable randomness, differential privacy, #metoo, & machine learning
+designing synchronous/asynchronous protocols for VSS and DKG
+
+
+Consensus & DHTs [CCS '24 '21] [DSN '24] [FC '23] [Middleware '23] [ICDCS '23 '10][EuroSys '14] [ToN '13] [PODC '12] [ASIACCS '12]
+
+designing synchronous/asynchronous protocols for state machine replication and reliable broadcast/ data dissemination
+building tailored consensus protocols for data-centers, distributed CPS, oracles, and random beacons
+designing scalable, robust, and private protocols for secure DHT lookups
+
+
+Meta-data Privacy [S&P '24 '18] [CCS '24 '14] [ISIT '24] [CSF '24 '13 '12] [PETS '23 '22 '20 '07] [NDSS '17] [ACNS '17 '15 '14] [ESORICS '16] [WPES '12] [TISSec '10] [FC '10]
+
+understanding the fundamental communication lower bounds for anonymous communications and its applications
+developing cryptographic and distributing computing primitives to enhance privacy, scalability, and accountability of anonymous communication and privacy-preserving storage systems
+building frameworks for defining, analyzing, and quantifying anonymity properties for the networks
+
+
+Dormant Projects
+Right to be Forgotten/Update/Repair [Usenix Sec '22][NDSS' 21][ FC'21][PETS' 19] [IC '17] [SOUPS' 16]
+
+Privacy-Preserving Web Analytics [ACSAC '14] [S&P '12]
+
+Accountability and Transparency [TDSC '16] [COSN '15]
+
+
+
+Selected Recent Publications
+
+For the complete publication list, local copies, and preprints: [Publication Page] [Google Scholar]
+
+
+[CCS'24]	HashRand: Efficient Asynchronous Random Beacon without Threshold Cryptographic Setup
+
+
+[CCS'24]	Non-interactive VSS using Class Groups and Application to DKG
+
+
+[IEEE S&P '24]	More is Merrier: Relax the Non-Collusion Assumption in Multi-Server PIR
+
+
+[IEEE S&P '24]	Attacking and Improving the Tor Directory Protocol
+
+
+[CCS'23]	Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets
+
+
+[NDSS'23]	OptRand: Optimistically Responsive Reconfigurable Distributed Randomness
+
+
+[Usenix SEC'22]	Empirical Understanding of Deletion Privacy: Experiences, Expectations, and Measures
+
+
+[CCS'21]	RandPiper - Reconfiguration-Friendly Random Beacons with Quadratic Communication
+
+
+[Usenix SEC'21]	Blitz: Secure Multi-Hop Payments Without Two-Phase Commits
+
+
+[CCS'20]	Verifiable Timed Signatures Made Practical
+
+
+[NDSS'20]	Finding Safety in Numbers with Secure Allegation Escrows
+
+
+[CCS'19]	HoneyBadgerMPC and AsynchroMix: Practical Asynchronous MPC and its Application to Anonymous Communication
+
+
+[NDSS'19]	Anonymous Multi-Hop Locks for Blockchain Scalability and Interoperability
+
+
+[IEEE S&P '18]	Anonymity Trilemma: Strong Anonymity, Low Bandwidth, Low Latency---Choose Two
+
+
+[WWW'18]	Mind Your Credit: Assessing the Health of the Ripple Credit Network
+
+
+[NDSS'18]	Settling Payments Fast and Private: Efficient Decentralized Routing for Path-Based Transactions
+
+
+[CCS'17]	Concurrency and Privacy with Payment-Channel Networks
+
+
+[IEEE S&P '17]	SymCerts: Practical Symbolic Execution For Exposing Noncompliance in X.509 Certificate Validation Implementations
+
+
+[NDSS'17]	P2P Mixing and Unlinkable Bitcoin Transactions
+
+
+[NDSS'17]	SilentWhispers: Enforcing Security and Privacy in Decentralized Credit Networks
+
+
+[JPC'16]	AnoA: A Framework for Analyzing Anonymous Communication Protocols
+
+
+[COSN'15]	Strength in Numbers: Robust Tamper Detection in Crowd Computations ***Best Paper Award***
+
+
+[CCS'15]	Liar, Liar, Coins on Fire! -- Penalizing Equivocation By Loss of Bitcoins
+
+
+
+
+Service
+Organization
+[DCN 2023] Organizer for the Workshop on Decentralized Credit Networks (DCN)
+[CSF 2022] Track Chair on Blockchain
+[RWdC 2021] Organizer for the Real-World Decentralized Cryptography Workshop
+[CSF 2019] Track Chair on Blockchain
+[CNS 2019] Technical Program Area Chair
+[CCS 2018] Proceedings Chair
+[CCS 2016] Poster/Demo Chair
+
+
+Selected Program Committee
+
+2025		[IEEE S&P], [CSF]
+2024		[IEEE S&P], [CCS], [FC]
+2023		[IEEE S&P], [FC]
+2022		[CCS], [ICDCS], [AFT], [FC]
+2021		[CCS], [Usenix Security], [IEEE S&P], [WWW], [FC], [AFT], [ASIACCS]
+2020		[IEEE S&P], [Usenix Security], [FC], [WPES]
+2019		[IEEE S&P], [CCS], [NDSS], [WWW], [FC]
+2018		[CCS], [Usenix Security], [NDSS], [ICDCS], [ACNS], [Bitcoin]
+2017		[CCS], [CSF], [ACNS], [WPES], [Bitcoin], [ICDCS]
+2016		[Eurocrypt], [ACNS], [FC], [Bitcoin], [ICDCS]
+2015		[CCSW], [WPES], [ICDCS], [ProvSec]
+...		
+
+
+Editorial Board
+
+2024-present		ACM Transactions on Privacy and Security (TOPS)
+2018-19		Privacy Enhancing Technologies
+
+
+Overall Coordinator at SecNet 2006, Annual Network Security Workshop, IIT-Bombay, India, 2006.
+
+
+Teaching
+	(CS 528: Network Security)	[Spring'22] [Spring'21] [Spring'19] [Spring'18] [Spring'17] [Spring'16]
+	(CS 426: Computer Security)	[Fal'20] [Fall'19] [Fall'17] [Fall'16]
+	(CS 590: Blockchains and Cryptocurrencies)	[Spring'20] [Spring'19]
+	(CS 690: Privacy Enhancing Technologies)	[Fall'15]
+@Saarland University
+	(Advanced Course) Privacy Enhancing Technologies	[Summer'13] [Spring'14] [Spring'15]
+	(Advanced Course) Applied Cryptography	[Winter'14/'15]
+	(Seminar Course) Practical Cryptographic Systems	[Spring'14] [Winter'12/'13]
+
+
+Miscellaneous
+I infrequently post cryptography, security and privacy news on my Twitter page:
+
+
+My Academic Genealogy
+Myself (Waterloo)← Ian Goldberg (Berkeley) ← Eric Brewer (MIT) ← William Weihl (MIT) ← Barbara Liskov (Stanford)← John McCarthy (Princeton)← ⋅⋅⋅
+
+
+My Erdös Number : 3
+(Kate → Goldberg → Stinson → Erdös)
+or (Kate → Zaverucha → Stinson → Erdös)
+
+
+
+
+Contact Information
+305 N. University Street
+(Department of Computer Science)
+West Lafayette, IN 47907-2107
+USA
+
+
+Phone: +1-765-496-2763 (Email is preferred in general.)
+	
+ 
+
+
+
+
+Copyright © 2015-24 Aniket Kate, Purdue University.
+

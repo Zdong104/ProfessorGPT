@@ -1,0 +1,90 @@
+Professor: Chengyu Song
+University: Univ. of California - Riverside
+URL: https://www.cs.ucr.edu/~csong
+Description: Chengyu Song
+Home Research Publications CV
+Chengyu Song
+Associate Professor
+
+Department of Computer Science and Engineering
+University of California, Riverside
+
+
+Office: 314 Winston Chung Hall
+Email: csong@cs.ucr.edu
+Phone: (951) 827-5478
+
+Google Scholar — GitHub — dblp
+
+	
+About Me
+
+I am an Associate Professor in the department of Computer Science and Engineering at UC Riverside. I earned by Ph.D. in Computer Science from Georgia Tech. I was fortunate to be supervised by professor Wenke Lee and Taesoo Kim.
+
+My research interests include system security, deep learning, program analysis and verification, and operating systems. My current research focuses on vulnerability related topics, including
+
+Advancing techniques for finding vulnerabilities in binaries, OS kernels, machine learning, and cyber-physical systems.
+Eliminating vulnerabilities through automatic patch generation and verification.
+New exploit techniques and automated exploit generation.
+Runtime exploit prevention with software hardware co-design.
+Honors and Awards
+NSF CAREER Award, 2021
+RAID'19 Best Paper, 2019
+WOOT'18 Best Paper, 2018
+DARPA Cyber Grand Challenge finalist (team Disekt), 2016
+Internet Defense Prize by Facebook and USENIX ($100,000 award), 2015
+CSAW Best Applied Research Paper, 2015
+Selected Publications (full list)
+Automated Test Generation
+SymSan: Time and Space Efficient Concolic Execution via Dynamic Data-Flow Analysis, USENIX Security 2022.
+Jigsaw: Efficient and Scalable Path Constraints Fuzzing, Oakland 2022.
+Reinforcement Learning-based Hierarchical Seed Scheduling for Greybox Fuzzing, NDSS 2021.
+CrFuzz: Fuzzing Multi-purpose Programs through Input Validation, FSE 2020.
+Static Bug Detection
+LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution, USENIX Security 2022.
+Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel, NDSS 2022.
+UBITect: A Precise and Scalable Method to Detect Use-Before-Initialization bugs in Linux Kernel, FSE 2020.
+IoTSan: Fortifying the Safety of IoT Systems, CoNext'18.
+Automated Vulnerability Elimination
+Don't Waste My Efforts: Pruning Redundant Sanitizer Checks of Developer-Implemented Type Checks, USENIX Security 2024.
+UniSan: Proactive Kernel Memory Initialization to Eliminate Data Leakages, CCS 2016.
+Type Casting Verification: Stopping an Emerging Attack Vector, USENIX Security 2015.
+Preventing Use-after-free with Dangling Pointers Nullification, NDSS 2015.
+New Attacks
+K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits against the Linux Kernel, NDSS 2024.
+Zero-Query Transfer Attacks on Context-Aware Object Detectors, CVPR 2022.
+Context-Aware Transfer Attacks for Object Detection, AAAI 2022.
+Adversarial Attacks on Black Box Video Classifiers: Leveraging the Power of Geometric Transformations, NeurIPS 2021.
+Attack Mitigation
+Exploiting Multi-Object Relationships for Detecting Adversarial Attacks in Complex Scenes, ICCV 2021.
+Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency, ECCV 2020.
+KLOTSKI: Efficient Obfuscated Execution against Controlled-Channel Attacks, ASPLOS 2020.
+SPECCFI: Mitigating Spectre Attacks using CFI Informed Speculation, Oakland 2020.
+Teaching
+CS153 Design of Operating Systems: 23F 23S 21F
+CS255 Computer Security: 23F 22F 22W
+CS250 Software Security: 21S
+Current Lab Members
+Chun-Yu Chuang, PhD student
+Haochen Zeng, PhD student
+Mingjun Yin, PhD student
+Zhengchuan Liang, PhD student (co-advised with Zhiyun)
+Trishna Chakraborty, PhD student (co-advised with Amit)
+Alumni
+Jinghan Wang, PhD, 2022
+Ju Chen, PhD, 2022, DeepBits
+Ali Nowraiz Khan, MS, 2022
+Shasha Li, PhD, 2021, Amazon
+Mingyi Huang, MS, 2021, Cisco
+Md Lutfor Rahman, PhD, 2020, CSU San Marcos
+Muhammad Faizan Ul Ghani, MS, 2020, Synopsys
+Dang Tu Nguyen, MS, 2018, Qualcomm
+Professional Services
+
+Technical Program Committees
+
+ACM Conference on Computer and Communications Security (CCS): 2017, 2018, 2019
+IEEE Symposium on Security and Privacy, 2022, 2024
+USENIX Security (SEC): 2021, 2022
+ACM Asia Conference on Computer and Communications Security (ASIACCS): 2018, 2019, 2020, 2021, 2022
+

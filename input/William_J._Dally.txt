@@ -1,0 +1,90 @@
+Professor: William J. Dally
+University: Stanford University
+URL: http://csl.stanford.edu/~billd
+Description: William J. Dally
+
+Last updated July 27, 2010
+
+Bill Dally is the Willard R. and Inez Kerr Bell Professor of Computer Science and Electrical Engineering and former Chairman of the Computer Science Department at Stanford University. He is a member of the Computer Systems Laboratory, leads the Concurrent VLSI Architecture Group, and teaches courses on Computer Architecture, Computer Design, and VLSI Design. He is a Member of the National Academy of Engineering , a Fellow of the American Academy of Arts & Sciences , a Fellow of the IEEE, a Fellow of the ACM, received the ACM Maurice Wilkes Award in 2000, the IEEE Seymour Cray Award in 2004, and the ACM Eckert Mauchly Award in 2010. He has an h-index of 60.
+
+Before coming to Stanford, Bill was a Professor in the department of Electrical Engineering and Computer Science at MIT .
+
+Current Projects
+ELM: The Efficient Low-Power Microprocessor
+We are developing a programmable architecture that is easily programmable in a high-level language ("C") and at the same time has performance per unit power competitive with hard-wired logic, and 20-30x better than conventional embedded RISC processors. This power savings is achieved by using more efficient mechanisms for instruction supply, based on compiler managed instruction registers, and data supply, using a deeper register hierarchy and indexable registers.
+Enabling Technology for On-Chip Networks
+As CMPs and SoCs scale to include large numbers of cores and other modules, the on-chip network or NoC that connects them becomes a critical systems component. We are developing enabling technology for on-chip networks including network topologies, flow control mechanisms, and router organizations. For example, our flattened butterfly topology offers both lower latency and substantially reduced power compared to conventional on-chip mesh or ring networks.
+Sequoia: Programming the Memory Hierarchy
+Sequoia is a programming language that is designed to facilitate the development of memory hierarchy aware parallel programs that remain portable across modern machines with different memory hierarchy configurations. Sequoia abstractly exposes hierarchical memory in the programming model and provides language mechanisms to describe communication vertically through the machine and to localize computation to particular memory locations within the machine. A complete Sequoia programming system has been implemented, including a compiler and runtime systems for both Cell processors and distributed memory clusters, that delivers efficient performance running Sequoia programs on both of these platforms. An alpha version of this programming system will soon be made public.
+Scalable Network Fabrics
+We are developing architectures and technologies to enable large, scalable high-performance interconnection networks to be used in parallel computers, network switches and routers, and high-performance I/O systems. Recent results include the development of a hierarchical network topology that makes efficient use of a combination of electrical and optical links, a locality-preserving randomized oblivious routing algorithm, a method for scheduling constrained crossbar switches, new speculative and reservation-based flow control methods, and a method for computing the worst-case traffic pattern for any oblivious routing function.
+Recent Projects
+Streaming Supercomputer
+We are developing a streaming supercomputer (SS) that is scalable from a single-chip to thousands of chips that we estimate will achieve an order of magnitude or more improvement in the performance per unit cost on a wide range of demanding numerical computations compared to conventional cluster-based supercomputers. The SS uses a combination of stream processing with a high-performance network to access a globally shared memory to achieve this goal.
+Imagine: A High-Performance Image and Signal Processor
+Imagine is a programmable signal and image processor that provides the performance and performance density of a special-purpose processor. Imagine achieves a peak performance of 20GFLOPS (single-precision floating point) and 40GOPS (16-bit fixed point) and sustains over 12GFLOPS and 20GOPS on key signal processing benchmarks. Imagine sustains a power efficiency of 3.7GFLOPS/W on these same benchmarks, a factor of 20 better than the most efficient conventional signal processors.
+Smart Memories
+We are investigating combined processor/memory architectures that are best able to exploit 2009 semiconductor technologies. We envision these architectures being composed of 10s to 100s of processors and memory banks on a single semiconductor chip. Our research addresses the design of the processors and memories, the architecture of the interconnection network that ties them together, and mechanisms to simplify programming of such machines.
+High-Speed Signalling
+We are developing methods and circuits that stretch the performance bounds of electrical signalling between chips, boards, and cabinets in a digital system. A prototype 0.25um 4Gb/s CMOS transceiver has been developed, dissipating only 130mW, amenable for large scale integration. Future chips include a a 20Gb/s 0.13um CMOS transceiver.
+The M-Machine
+Is an experimental parallel computer that demonstrated highly-efficient mechanisms for parallelism including two-level multithreading, efficient network interfaces, fast communication and synchronization, and support for efficient shared memory protocols.
+The Reliable Router
+is a high-performance multicomputer router that demonstrates new technologies ranging from architecture to circuit design. At the architecture level the router uses a novel adaptive routing algorithm, a link-level retry protocol, and a unique token protocol. Together the two protocols greatly reduce the cost of providing reliable, exactly-once end-to-end communication. At the circuit level the router demonstrates the latest version of our simultaneous bidirectional pads and a new method for plesiochronous synchronization.
+The J-Machine
+is an experimental parallel computer, in operation since July 1991, that demonstrates mechanisms that greatly reduce the overhead involved in inter-processor interaction.
+Publications
+A complete list of publications and citations is available here from Google Scholar . Publications can be found at the CVA group publications page
+
+Some selected publications are included below:
+William Dally et al. "Stream Processors: Programmability with Efficiency" ACM Queue, March 2004, pp. 52-62.
+
+William Dally et al., "Merrimac: Supercomputing with Streams" Supercomputing 2003
+
+William J. Dally and Brian Towles, Principles and Practices of Interconnection Networks Morgan Kaufmann, 2004
+
+William J. Dally and John W. Poulton, Digital Systems Engineering, Cambridge University Press, 1998
+
+Fillo, Marco, Keckler, Stephen W., Dally, William J., Carter, Nicholas P., Chang, Andrew, Gurevich, Yevgeny, and Lee, Whay S., "The M-Machine Multicomputer" , International Journal of Parallel Programming - Special Issue on Instruction-Level Parallel Processing Part II . Vol 25, No 3, 1997 pp 183-212.
+
+Dally, William J., Chang, Andrew., Chien, Andrew., Fiske, Stuart., Horwat, Waldemar., Keen, John., Lethin, Richard., Noakes, Michael., Nuth, Peter., Spertus, Ellen., Wallach, Deborah., and Wills, D. Scott.
+"The J-Machine" . Retrospective in 25 Years of the International Symposia on Computer Architecture - Selected Papers. pp 54-58.
+
+William J. Dally, Virtual Channel Flow Control, IEEE Transactions on Parallel and Distributed Systems March, 1992, pp. 194-205.
+
+Companies
+
+Bill is Chief Scientist at NVIDIA where he was on leave during 2009 and 2010 as Chief Scientist and Senior Vice President of Research.
+
+Bill has played a key role in founding several companies including:
+
+Stream Processors Inc.(2004-2009)
+to commercialize stream processors for embedded applications.
+Velio Communications. (CTO 1999-2003)
+Velio pioneered high-speed I/O circuits and applied this technology to integrated TDM and packet switching chips. Velio's I/O technology was acquired by Rambus and Velio itself was acquired by LSI Logic.
+Avici Systems, Inc.(1997-present)
+Manufactures core Internet routers with industry-leading scalability and reliability.
+
+Bill has also worked with Cray since 1989 on the development of many of their supercomputers including the T3D and T3E.
+
+Courses
+CS 99S -- The Coming Revolution in Computer Architecture (freshman seminar)
+EE108A Digital Systems I
+EE271 Introduction to VLSI Systems
+EE273 -- Digital Systems Engineering
+EE282 Computer Architecture and Organization
+EE482a--Advanced Computer Organization: Processor Microarchitecture
+EE482b--Advanced Computer Organization: Interconnection Networks
+6.823 Computer System Architecture
+6.845 Concurrent VLSI Architecture
+6.915 Digital Systems Engineering
+CVA People
+William J. Dally
+<dally "at" stanford "dot" edu>
+Stanford University
+Computer Systems Laboratory
+Gates Room 301
+Stanford, CA 94305
+(650) 725-8945
+FAX: (650) 725-6949
+

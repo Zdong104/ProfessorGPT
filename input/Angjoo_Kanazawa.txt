@@ -1,0 +1,658 @@
+Professor: Angjoo Kanazawa
+University: Univ. of California - Berkeley
+URL: http://people.eecs.berkeley.edu/~kanazawa
+Description: Angjoo Kanazawa
+ 	
+
+I am an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. I lead the Kanazawa AI Research (KAIR) lab under BAIR. I serve on the advisory board of Wonder Dynamics.
+
+Previously, I was a Research Scientist at Google Research, and BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alexei A. Efros and Trevor Darrell. I completed my PhD in Computer Science at the University of Maryland, College Park with my advisor David Jacobs. During my PhD, I had the pleasure to visit the Max Planck Institute in Tübingen, Germany under the guidance of Michael Black.
+
+CV | Google Scholar | twitter
+
+Email: kanazawa (at) eecs.berkeley.edu
+
+
+
+
+
+Dear prospective students: Click here for information.
+
+News
+Oct 2023: Talk on Creative Horizons with 3D Capture at Stanford HAI Fall Conference:
+
+March 2023: GTC talk on nerf.studio: https://youtu.be/gP3q-N80g64
+February 2023: Named the 2023 Sloan Research Fellow
+October 2022: We ran a tutorial on NeRFs at ECCV 2022, all videos here.
+Research
+My research lies at the intersection of computer vision, computer graphics, and machine learning. We live in a 3D world that is dynamic, full of life with people and animals interacting with the environment. How can we build a system that can capture, perceive, and understand this 4D world from everyday photograph and video? How can we learn priors on the 4D world from image and video observations? The goal of my lab is to answer this question.
+
+Kanazawa AI Research (KAIR) members
+Postdoc
+Dr. Aleksander Holynski (with Alexei Efros)
+Dr. Qianqian Wang (with Alexei Efros)
+Dr. Lea Müller (with Jitendra Malik)
+Dr. Tyler Bonnen (with Jitendra Malik and Alexei Efros)
+Graduate Students
+Vickie Ye
+Hang Gao
+Evonne Ng (with Trevor Darrell)
+Ruilong Li
+Vongani Maluleke (with Jitendra Malik)
+Ethan Weber
+Justin Kerr (with Ken Goldberg)
+Brent Yi (with Yi Ma)
+Chung Min Kim (with Ken Goldberg)
+Visiting PhD student: Songwei Ge
+5th year MS students
+David McAllister
+Jake Austin
+Alumni
+Former PhD Students
+Dr. Matt Tancik (with Ren Ng), now at Luma AI
+Dr. Shubham Goel (with Jitendra Malik), now at Avataar
+Former Postdocs
+Prof. Georgios Pavlakos, now at UT Austin
+Former MS/BS Students and Visitors
+Frederik Warburg (visiting student from Technical University of Denmark Fall 2022 - Spring 2023)
+Alex Yu, (undergraduate 2020-2022) now co-founder @ Luma AI
+Micael Tchapmi, (visitor 2020-2021) now MS student @ Stanford
+Ze (Edward) Ma, (visitor 2020-2021) now MS Student @ Columbia
+Jason Y. Zhang (undergraduate 2019-2020) now PhD student @ CMU
+Xin Qin (undergraduate 2018-2019) now PhD student @ USC
+Libraries
+   
+Preprints
+
+	
+
+Generative Proxemics: A Prior for 3D Social Interaction from Images
+Lea Müller, Vickie Ye, Georgios Pavlakos, Michael Black, Angjoo Kanazawa
+arXiv 2023 
+[project page] [arXiv preprint] [code] [bibtex]
+
+Papers
+
+	
+
+LERF-TOGO: Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping
+Adam Rashid*, Satvik Sharma*, Chung Min Kim, Justin Kerr, Lawrence Chen, Angjoo Kanazawa, Ken Goldberg
+CORL 2023 Best Paper Finalist 
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Differentiable Blocks World: Qualitative 3D Decomposition by Rendering Primitives
+Tom Monnier, Jake Austin, Angjoo Kanazawa, Alexei A. Efros, Mathieu Aubry
+NeurIPS 2023 
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Humans in 4D: Reconstructing and Tracking Humans with Transformers
+Shubham Goel, Georgios Pavlakos, Jathushan Rajasegaran, Angjoo Kanazawa*, Jitendra Malik*
+ICCV 2023
+[Project Page] [Code] [🤗Demo] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions
+Ayaan Haque, Matthew Tancik, Alexei A. Efros, Aleksander Holynski, Angjoo Kanazawa
+ICCV 2023
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+LERF: Language Embedded Radiance Fields
+Justin Kerr*, Chung Min Kim*, Ken Goldberg, Angjoo Kanazawa, Matthew Tancik
+ICCV 2023
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+👻Nerfbusters🧹: Removing Ghostly Artifacts from Casually Captured NeRFs
+Frederik Warburg*, Ethan Weber*, Matt Tancik, Aleksander Holynski, Angjoo Kanazawa
+ICCV 2023
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+NerfAcc: Efficient Sampling Accelerates NeRFs
+Ruilong Li, Hang Gao, Matthew Tancik, Angjoo Kanazawa
+ICCV 2023
+[Documentation] [Github] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Nerfstudio: A Modular Framework for Neural Radiance Field Development
+Matthew Tancik*, Ethan Weber*, Evonne Ng*, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa
+SIGGRAPH 2023 conference track
+[Documentation] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Decoupling Human and Camera Motion from Videos in the Wild
+Vickie Ye, Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa
+CVPR 2023
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+K-Planes: Explicit Radiance Fields in Space, Time, and Appearance
+Sara Fridovich-Keil*, Giacomo Meanti*, Frederik Rahbæk Warburg, Benjamin Recht, Angjoo Kanazawa
+CVPR 2023
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+On the Benefits of 3D Pose and Tracking for Human Action Recognition
+Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Christoph Feichtenhofer, Jitendra Malik
+CVPR 2023
+[Project Page]
+
+
+
+
+	
+
+Monocular Dynamic View Synthesis: A Reality Check
+Hang Gao, Ruilong Li, Shubham Tulsiani, Bryan Russell, Angjoo Kanazawa
+NeurIPS 2022
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images
+Zhengqi Li, Qianqian Wang, Noah Snavely, Angjoo Kanazawa
+ECCV 2022 (Oral)
+[Project Page] [Paper] [bibtex]
+
+
+Featured in two minute papers
+
+
+
+	
+
+The One Where They Reconstructed 3D Humans and Environments in TV Shows
+Georgios Pavlakos*, Ethan Weber*, Matthew Tancik, Angjoo Kanazawa
+ECCV 2022
+[Project Page] [Code and Data] [Paper] [bibtex]
+
+
+
+
+
+	
+
+TAVA: Template-free Animatable Volumetric Actors
+Ruilong Li, Julian Tanke, Minh Vo, Michael Zollhoefer, Jurgen Gall, Angjoo Kanazawa, Christoph Lassner
+ECCV 2022
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Studying Bias in GANs through the Lens of Race
+Vongani H. Maluleke*, Neerja Thakkar*, Tim Brooks, Ethan Weber, Trevor Darrell, Alexei A. Efros, Angjoo Kanazawa, Devin Guillory
+ECCV 2022
+[Project Page] [Code] [Paper] [bibtex]
+
+
+
+
+
+	
+
+Plenoxels: Radiance Fields without Neural Networks
+Alex Yu*, Sara Fridovich-Keil*, Matthew Tancik, Qinhong Chen, Ben Recht, Angjoo Kanazawa
+CVPR 2022 (Oral)
+[Project Page] [Paper] [Code] [bibtex]
+
+
+Featured in two minute papers
+Article by Berkeley Engineering
+
+
+
+	
+
+Deformable Sprites for Unsupervised Video Decomposition
+Vickie Ye, Zhengqi Li, Richard Tucker, Angjoo Kanazawa, Noah Snavely
+CVPR 2022 (Oral)
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Tracking People by Predicting 3D Appearance, Location & Pose
+Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik
+CVPR 2022 (Oral)
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion
+Evonne Ng, Hanbyu Joo, Liwen Hu, Hao Li, Trevor Darrell, Angjoo Kanazawa, Shiry Ginosar
+CVPR 2022
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Human Mesh Recovery from Multiple Shots
+Georgios Pavlakos, Jitendra Malik, Angjoo Kanazawa
+CVPR 2022
+[Project Page] [Paper] [bibtex]
+
+
+
+
+	
+
+Differentiable Gradient Sampling for Learning Implicit 3D Scene Reconstructions from a Single Image
+Shizhan Zhu, Sayna Ebrahimi, Angjoo Kanazawa, Trevor Darrell
+ICLR 2022
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Tracking People with 3D Representations
+Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik
+NeurIPS 2021
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image
+Andrew Liu*, Richard Tucker*, Varun Jampani, Ameesh Makadia, Noah Snavely, Angjoo Kanazawa
+ICCV 2021 (Oral)
+[Project Page with Demo] [Paper] [Code] [bibtex]
+
+Featured in two minute papers
+
+
+
+	
+
+PlenOctrees for Real-time Rendering of Neural Radiance Fields
+Alex Yu, Ruilong Li, Matthew Tancik, Hao Li, Ren Ng, Angjoo Kanazawa
+ICCV 2021 (Oral)
+[Project Page with Demo] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+Reconstructing Hand-Object Interactions in the Wild
+Zhe Cao*, Ilija Radosavovic*, Angjoo Kanazawa, Jitendra Malik
+ICCV 2021
+[Project Page] [Paper] [MOW Dataset] [bibtex]
+
+
+
+
+	
+
+AI Choreographer: Music Conditioned 3D Dance Generation with AIST++
+Ruilong Li*, Shan Yang*, David A. Ross, Angjoo Kanazawa
+ICCV 2021
+[Project Page] [Paper] [Dataset] [Code] [bibtex]
+
+
+
+
+	
+
+AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control
+Xue Bin Peng*, Ze Ma*, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa
+SIGGRAPH 2021
+[Project Page] [Paper] [Code] [bibtex]
+
+
+
+
+	
+
+KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control
+Tomas Jakab, Richard Tucker, Ameesh Makadia, Jiajun Wu, Noah Snavely, Angjoo Kanazawa
+CVPR 2021 (Oral)
+[Project website][Paper] [Code] [bibtex]
+
+
+
+
+	
+
+pixelNeRF: Neural Radiance Fields from One or Few Images
+Alex Yu, Vickie Ye, Matthew Tancik, Angjoo Kanazawa
+CVPR 2021
+[Project Page/Code] [paper] [bibtex]
+
+
+
+
+	
+
+De-rendering the World's Revolutionary Artefacts
+Shangzhe Wu, Ameesh Makadia, Jiajun Wu, Noah Snavely, Richard Tucker, Angjoo Kanazawa
+CVPR 2021
+[Project website] [Paper] [bibtex]
+
+
+
+
+	
+
+An Analysis of SVD for Deep Rotation Estimation
+Jake Levinson, Carlos Esteves, Kefan Chen, Noah Snavely, Angjoo Kanazawa, Afshin Rostamizadeh, Ameesh Makadia
+NeurIPS 2020
+[Github] [paper] [bibtex]
+
+
+
+
+	
+
+Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild
+Jason Y. Zhang*, Sam Pepose*, Hanbyul Joo, Deva Ramanan, Jitendra Malik, Angjoo Kanazawa
+ECCV 2020
+[project page] [Github] [arXiv preprint] [bibtex]
+
+
+
+
+	
+
+Shape and Viewpoint without Keypoints
+Shubham Goel, Angjoo Kanazawa, Jitendra Malik
+ECCV 2020
+[project page] [Github] [arXiv preprint] [bibtex]
+
+
+
+
+	
+
+Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images "In the Wild"
+Silvia Zuffi, Angjoo Kanazawa, Tanya Berger-Wolf, Michael J. Black
+ICCV 2019
+[Github] [arXiv preprint] [bibtex]
+
+
+
+
+	
+
+PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
+Shunsuke Saito*, Zeng Huang*, Ryota Natsume*, Shigeo Morishima, Angjoo Kanazawa, Hao Li
+(* equal contribution)
+ICCV 2019
+[project page] [arXiv preprint] [video] [bibtex]
+
+
+
+
+	
+
+Predicting 3D Human Dynamics from Video
+Jason Y. Zhang, Panna Felsen, Angjoo Kanazawa, Jitendra Malik
+ICCV 2019
+[project page] [arXiv preprint] [video] [bibtex]
+
+
+
+
+	
+
+Learning 3D Human Dynamics from Video
+Angjoo Kanazawa*, Jason Y. Zhang*, Panna Felsen*, Jitendra Malik
+CVPR 2019
+[project page] [arXiv preprint] [video] [bibtex]
+
+
+
+
+	
+
+Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow
+Xue Bin Peng, Angjoo Kanazawa, Sam Toyer, Pieter Abbeel, Sergey Levine
+ICLR 2019
+[project page] [code] [arXiv preprint] [video] [bibtex]
+
+
+
+
+	
+
+SFV: Reinforcement Learning of Physical Skills from Videos
+Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia 2018)
+[project page] [pdf] [BAIR Blog] [arXiv preprint] [video] [bibtex]
+
+Featured in two minute papers
+
+
+
+	
+
+Learning Category-Specific Mesh Reconstruction from Image Collections
+Angjoo Kanazawa*, Shubham Tulsiani*, Alexei A. Efros, Jitendra Malik
+(* equal contribution)
+ECCV 2018
+[project page] [pdf] [arXiv preprint] [video] [bibtex]
+
+
+
+
+	
+
+End-to-end Recovery of Human Shape and Pose
+Angjoo Kanazawa, Michael J. Black, David W. Jacobs, Jitendra Malik
+CVPR 2018
+[project page with code] [pdf] [arXiv preprint] [bibtex]
+
+
+
+
+	
+
+SfSNet : Learning Shape, Reflectance and Illuminance of Faces ‘in the wild’
+Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David W. Jacobs
+CVPR 2018 (Spotlight)
+[project page with code] [pdf] [arXiv preprint] [bibtex]
+
+
+
+
+	
+
+Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images
+Silvia Zuffi, Angjoo Kanazawa, Michael J. Black
+CVPR 2018 (Spotlight)
+[project page with 3D models] [pdf] [bibtex]
+
+
+
+
+	
+
+Towards Accurate Marker-less Human Shape and Pose Estimation over Time
+Yinghao Huang, Federica Bogo, Christoph Lassner, Angjoo Kanazawa, Peter V. Gehler, Javier Romero, Ijaz Akhter, Michael J. Black
+International Conference on 3D Vision (3DV), 2017.
+[pdf] [bibtex]
+
+
+
+
+	
+
+3D Menagerie: Modeling the 3D shape and pose of animals
+Silvia Zuffi, Angjoo Kanazawa, David W. Jacobs, Michael J. Black
+Computer Vision and Pattern Recognition (CVPR) 2017. (Spotlight)
+[project page with model and demo] [pdf] [arXiv] [bibtex]
+
+
+
+
+	
+
+Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image
+Federica Bogo*, Angjoo Kanazawa*, Christoph Lassner, Peter Gehler, Javier Romero and Michael J. Black
+(* equal contribution)
+European Conference on Computer Vision (ECCV) 2016. (Spotlight)
+[pdf] [project page with code] [Spotlight video] [bibtex]
+
+
+Our work was featured in two minute papers!
+
+
+
+	
+
+WarpNet: Weakly Supervised Matching for Single-View Reconstruction
+Angjoo Kanazawa, David W. Jacobs, Manmohan Chandraker
+Computer Vision and Pattern Recognition (CVPR) 2016.
+[pdf] [supp] [test set ids & our curves] [bibtex]
+
+
+
+
+	
+
+Learning 3D Deformation of Animals from 2D Images
+Angjoo Kanazawa, Shahar Kovalsky, Ronen Basri, David W. Jacobs
+Eurographics 2016. Best Paper Award
+[pdf] [code on github] [fastforward] [See the results here] [bibtex]
+
+
+
+
+	
+
+Locally Scale-invariant Convolutional Neural Network
+Angjoo Kanazawa, Abhishek Sharma, David W. Jacobs
+Deep Learning and Representation Learning Workshop: NIPS 2014.
+[pdf] [code on github] [bibtex]
+
+
+
+
+	
+
+Affordance of Object Parts from Geometric Features
+Austin Myers, Angjoo Kanazawa, Cornelia Fermuller, Yiannis Aloimonos
+RGB-D: Advanced Reasoning with Depth Cameras: RSS 2014
+[pdf] [bibtex] [Part Affordance Dataset] [bibtex]
+
+
+
+
+
+	
+
+Dog Breed Classification Using Part Localization
+Jiongxin Liu, Angjoo Kanazawa, Peter Belhumeur, David W. Jacobs
+European Conference on Computer Vision (ECCV), Oct. 2012.
+[pdf] [slides] [bibtex]
+try our iPhone app: Dogsnap !
+Columbia dogs with parts dataset used in the paper: zip file (2.43GB)
+
+
+133 breeds recognized by the American Kennel Club
+
+8,351 images of dogs from Google image search, Image-net, and Flickr.
+
+8 part locations annotated for each image
+
+Thesis
+
+Single-View 3D Reconstruction of Animals
+Angjoo Kanazawa
+Doctoral Thesis, University of Maryland, August 2017
+[pdf] [slides]
+
+
+Teaching
+Instructor: UC Berkeley CS294-173 Spring 2023 Learning for 3D Vision
+
+
+Co-Instructor: UC Berkeley CS194-26/294-26 Fall 2021 Introduction to Computer Vision and Computational Photography
+Co-Instructor: UC Berkeley CS184/284a Spring 2021 Foundations of Computer Graphics
+Instructor: UC Berkeley CS294-173 Fall 2020 Learning for 3D Vision
+
+
+
+Teaching Assistant: UMD CMSC 421 Spring 2012 Introduction to Artificial Intelligence
+
+Teaching Assistant: UMD CMSC 131 Fall 2011 Object-Oriented Programming I
+
+Teaching Assistant: NYU CSCI-UA.0101,0103, Fall 2008, Spring 2009 Introduction to Computer Science I, II
+
+Misc
+
+Meet my kitties Mochi and Toro
+
+I grew up in Kobe, Japan. In Japanese, my name is: 金沢央珠
+

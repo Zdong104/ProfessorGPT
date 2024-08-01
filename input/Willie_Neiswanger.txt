@@ -1,0 +1,135 @@
+Professor: Willie Neiswanger
+University: University of Southern California
+URL: https://willieneis.github.io/
+Description: Willie Neiswanger 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Machine learning at USC ⊃ Viterbi ⊃ Computer Science
+
+I am an Assistant Professor of Computer Science at the University of Southern California (USC), in the Viterbi School and School of Advanced Computing.
+
+Prospective students: I am recruiting PhD students (current application cycle) and postdocs who wish to do work at the intersection of machine learning, decision making, generative AI, and AI-for-science! If you are interested, please feel free to reach out to me via email at neiswang@usc.edu.
+
+Research: I develop machine learning methods to perform efficient optimization and experimental design in costly real-world settings, where resources are limited. My work spans topics in active learning, uncertainty quantification, Bayesian decision making, and reinforcement learning. I apply these methods downstream to solve problems in science and engineering, for example in the physical sciences and machine learning systems.
+
+I have also worked on distributed algorithms for scalable machine learning, and I develop/maintain software libraries for multilevel optimization, uncertainty quantification, AutoML, and Bayesian optimization.
+
+Education: I completed my PhD in Machine Learning at Carnegie Mellon University, where I was advised by Eric Xing and collaborated with Jeff Schneider and Barnabas Poczos. I then did a postdoc in computer science at Stanford University, working with Stefano Ermon.
+
+Previously, I studied at Columbia University, where I worked with Chris Wiggins and Frank Wood.
+
+News
+Oct 20, 2023
+New paper (+ code) on algorithms and systems for scalable meta learning in NeurIPS 2023.
+Oct 20, 2023
+New paper on offline model-based optimization through co-teaching in NeurIPS 2023.
+July 28, 2023
+Co-organized the Differentiable Almost Everything Workshop at ICML 2023.
+Mar 23, 2023
+Co-organized the Modern Adaptive Experimental Design and Active Learning Online Reading Group.
+Jan 20, 2023
+New paper on automatic differentiation for multilevel optimization in ICLR 2023 (notable-top-5%).
+Jan 20, 2023
+New paper on policy identification for active reinforcement learning in ICLR 2023 (notable-top-5%).
+Jan 20, 2023
+New paper on a framework to combine weak supervision and generative modeling in ICLR 2023.
+Jan 1, 2023
+New paper on offline imitation learning with suboptimal demonstrations in AAAI 2023.
+Dec 7, 2022
+New paper on uncertainty quantification with pre-trained language models in EMNLP 2022.
+Dec 2, 2022
+Invited talk at the Workshop on Gaussian Processes and Decision-making Systems at NeurIPS 2022.
+Oct 10, 2022
+New paper (+ code) on trajectory information planning for exploration in RL in NeurIPS 2022.
+Oct 10, 2022
+New paper on decision-theoretic entropies for generalizing Bayesian optimization in NeurIPS 2022.
+July 22, 2022
+Co-organized the Real World Experiment Design and Active Learning Workshop at ICML 2022.
+May 15, 2022
+New paper (+ website) on likelihood-free Bayesian optimization in ICML 2022 (long talk).
+May 15, 2022
+New paper on a modular conformal calibration framework for UQ in ICML 2022.
+Jan 28, 2022
+New paper (+ blog post) on experimental design and reinforcement learning in ICLR 2022.
+Jan 1, 2022
+New paper (+ website) on large-scale object counting in satellite images, in AAAI 2022 (oral).
+Oct 15, 2021
+New paper (+ code) on quantile methods for calibrated uncertainty quantification in NeurIPS 2021.
+Oct 15, 2021
+Two papers on explainable machine learning and personalized benchmarking in NeurIPS 2021.
+July 14, 2021
+Our paper on Pollux was awarded the Jay Lepreau Best Paper Award at OSDI'21.
+June 10, 2021
+New paper (+ website) on Bayesian Algorithm Execution (BAX) and InfoBAX, in ICML 2021.
+June 1, 2021
+I co-organized the Machine Learning for Data (Creation, Privacy, Bias) Workshop at ICML 2021.
+Apr 1, 2021
+New paper (+ AdaptDL) on Pollux, a deep learning cluster scheduler/tuner, in OSDI 2021.
+Mar 16, 2021
+New paper (+ code) on uncertainty quantification with martingales for GPs in ALT 2021.
+Mar 9, 2021
+New paper on active classification for catalyst discovery in the Journal of Chemical Physics.
+Jan 12, 2021
+New paper (+ code) on a framework for interactive weak supervision in ICLR 2021.
+Dec 22, 2020
+Released Uncertainty Toolbox, for predictive UQ, calibration, metrics, and visualization.
+Dec 2, 2020
+New paper (+ code) on BANANAS, a method for neural architecture search, in AAAI 2021.
+Projects
+LLM360
+Fully open-source LLMs for transparency, trust, and collaborative research.
+Betty
+An automatic differentiation library for multilevel optimization and meta-learning.
+Bayesian Algorithm Execution (BAX)
+Extending Bayesian optimization to computable function properties defined by algorithms.
+Uncertainty Toolbox
+A toolbox for predictive uncertainty quantification, calibration, metrics, and visualization.
+Naszilla
+A python library for neural architecture search.
+AdaptDL
+A resource-adaptive cluster scheduler for deep learning training.
+CASL Project
+An open toolkit for composable, automatic, and scalable learning.
+ProBO
+A framework for using probabilistic programming in Bayesian optimization.
+Bayesian Optimization and DOE
+NASBOT for neural architecture search, MPS for design of experiments, and Dragonfly.
+Prior Swapping
+Efficient algorithms for incorporating prior information, post-inference.
+
+Embarrassingly Parallel VI
+Communication-free distributed variational inference in nonconjugate models.
+
+Embarrassingly Parallel MCMC
+Asymptotically exact, communication-free distributed posterior sampling.
+
+Fast Function-based Regression
+Fast distribution-to-real and function-to-function nonparametric regression.
+
+GPU for Time-varying PYPs
+Generalized Polya urn for time-varying Pitman-Yor processes.
+
+Parallel Frank-Wolfe Optimization
+Asynchronous parallel block-coordinate Frank-Wolfe optimization algorithm.
+
+LRO Models for Link Prediction
+Latent random offset model for interpretable citation prediction and exploration.
+
+DDP Object Tracking and Modeling
+Dependent Dirichlet process mixtures for unsupervised object detection and tracking.
+
+Cell Motility Analysis
+TIAM: the tool for integrative analysis of cell motility.
+
+Publications
+A full list of my publications can be found here.
+
+I'm on GitHub & Twitter. Here's my CV. Site layout inspired by Dan F-M.
+

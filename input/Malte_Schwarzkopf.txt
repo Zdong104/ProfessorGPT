@@ -1,0 +1,184 @@
+Professor: Malte Schwarzkopf
+University: Brown University
+URL: http://www.malteschwarzkopf.de/
+Description: Malte Schwarzkopf
+
+Eliot Horowitz Assistant Professor of Computer Science
+ETOS and Systems Groups
+Computer Science Department, Brown University
+
+ malte@cs.brown.edu
+ CIT 525
+
+I'm interested in computer systems, especially distributed systems, operating systems, and privacy-preserving systems.
+
+In Spring 2024, I'm teaching CSCI 0300/1310: Fundamentals of Computer Systems.
+
+Outside of CS, I enjoy history, woodworking, biking, and art.
+
+News
+2024/07: Appointed Eliot Horowitz Assistant Professor of Computer Science.
+2024/04: Received an Amazon Research Award for our work on tools for privacy compliance.
+2023/05: The Omega paper wins the Test-of-Time Award at EuroSys 2023!
+2023/05: Received a Barrett Hazeltine Citation for Excellence in Teaching, Guidance, and Support from Brown's Class of 2023.
+2022/04: Received Brown's Henry Merritt Wriston Fellowship for 2022.
+2021/04: Received a Google Research Scholar award.
+2021/02: Received an NSF CAREER award for my work on privacy-compliance by construction in web applications.
+Publications [all]
+Quicksand: Harnessing Stranded Datacenter Resources with Granular Computing
+Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf
+To appear at NSDI 2025
+
+Edna: Disguising and Revealing User Data in Web Applications [ACM]
+Lillian Tsai, Hannah Gross, Eddie Kohler, Frans Kaashoek, Malte Schwarzkopf
+SOSP 2023
+
+K9db: Privacy-Compliant Storage For Web Applications By Construction [usenix] [code]
+Kinan Dak Albab, Ishan Sharma, Justus Adam, Benjamin Kilimnik, Aaron Jeyaraj, Raj Paul, Artem Agvanian, Leonhard Spiegelberg, Malte Schwarzkopf
+OSDI 2023
+
+Towards Increased Datacenter Efficiency with Soft Memory [SIGOPS] [ACM]
+Megan Frisella, Shirley Loayza Sanchez, Malte Schwarzkopf
+HotOS 2023
+
+Unleashing True Utility Computing with Quicksand [SIGOPS] [ACM]
+Zhenyuan Ruan, Shihang Li, Kaiyan Fan, Marcos K. Aguilera, Adam Belay, Seo Jin Park, Malte Schwarzkopf
+HotOS 2023
+
+Nu: Achieving Microsecond-Scale Resource Fungibility with Logical Processes [usenix]
+Zhenyuan Ruan, Seo Jin Park, Marcos K. Aguilera, Adam Belay, Malte Schwarzkopf
+NSDI 2023
+
+Retrofitting GDPR Compliance onto Legacy Databases [VLDB]
+Archita Agarwal, Marilyn George, Aaron Jeyaraj, Malte Schwarzkopf
+VLDB 2022
+
+Privacy Heroes Need Data Disguises [SIGOPS] [ACM]
+Lillian Tsai, Malte Schwarzkopf, Eddie Kohler
+HotOS 2021 Best presentation runner-up
+
+Tuplex: Data Science in Python at Native Code Speed [ACM] [web] [code]
+Leonhard F. Spiegelberg, Rahul Yesantharao, Malte Schwarzkopf, Tim Kraska
+SIGMOD 2021
+
+AIFM: High-Performance, Application-Integrated Far Memory [usenix] [code]
+Zhenyuan Ruan, Malte Schwarzkopf, Marcos Aguilera, Adam Belay
+OSDI 2020
+
+Shared Arrangements: practical inter-query sharing for streaming dataflows [VLDB]
+Frank McSherry, Andrea Lattuada, Malte Schwarzkopf, Timothy Roscoe
+VLDB 2020
+
+GDPR Compliance by Construction
+Malte Schwarzkopf, Eddie Kohler, M. Frans Kaashoek, Robert Morris
+Poly 2019 workshop at VLDB 2019
+
+Learning Scheduling Algorithms for Data Processing Clusters [ACM] [arXiv:1810.01963] [website]
+Hongzi Mao, Malte Schwarzkopf, Shaileshh Bojja Venkatakrishnan, Zili Meng, Mohammad Alizadeh
+SIGCOMM 2019 – (See also our related ICLR'19 paper on reducing variance in training!)
+
+Towards Multiverse Databases [ACM]
+Alana Marzoev, Lara Timbó Araújo, Malte Schwarzkopf, Samyukta Yagati, Eddie Kohler, Robert Morris, M. Frans Kaashoek, Sam Madden
+HotOS 2019
+
+Conclave: secure multi-party computation on big data [ACM] [extended TR (with proofs)] [code]
+Nikolaj Volgushev, Malte Schwarzkopf, Ben Getchell, Andrei Lapets, Mayank Varia, Azer Bestavros
+EuroSys 2019
+
+Noria: dynamic, partially-stateful data-flow for high-performance web applications [usenix] [website] [code]
+Jon Gjengset, Malte Schwarzkopf, Jonathan Behrens, Lara Timbó Araújo, Martin Ek, Eddie Kohler, M. Frans Kaashoek, Robert Morris
+OSDI 2018
+
+Firmament: fast, centralized cluster scheduling at scale [usenix] [web] [code] – Now available for Kubernetes!
+Ionel Gog, Malte Schwarzkopf, Adam Gleave, Robert N. M. Watson, Steven Hand
+OSDI 2016
+
+Queues don't matter when you can JUMP them! [usenix] [website]
+Matthew P. Grosvenor, Malte Schwarzkopf, Ionel Gog, Robert N. M. Watson, Andrew W. Moore, Steven Hand, Jon Crowcroft
+NSDI 2015 Best paper award
+
+Musketeer: all for one, one for all in data processing systems [ACM] [website] [code]
+Ionel Gog, Malte Schwarzkopf, Natacha Crooks, Matthew P. Grosvenor, Allen Clement, Steven Hand
+EuroSys 2015
+
+Omega: flexible, scalable schedulers for large compute clusters
+Malte Schwarzkopf, Andy Konwinski, Michael Abd-El-Malek, John Wilkes
+EuroSys 2013 Best student paper award Test-of-Time Award
+
+Ciel: a universal execution engine for distributed data-flow computing
+Derek G. Murray, Malte Schwarzkopf, Christopher Smowton, Steven Smith, Anil Madhavapeddy, Steven Hand
+NSDI 2011
+
+Students
+Justus Adam
+Howie Chen
+Kinan Dak Albab
+Franco Solleza (with Stan Zdonik, Nesime Tatbul)
+Timothée Zerbib (from September 2024)
+Artem Agvanian
+Aijah Garcia
+Katie Li
+Alexander Portland
+Sarah Ridley
+Corinn Tiffany
+Alumni:
+Allen Aby (MSc, → Microsoft)
+Megan Frisella (ScB, → University of Washington)
+Shirley Loayza Sanchez (ScB, → Google/Stanford University)
+Carolyn Zech (ScB, → AWS, Automated Reasoning Group)
+Lillian Tsai (PhD, at MIT with Frans Kaashoek, → Google Systems Research)
+Livia Zhu (ScB, → Databricks)
+Leonhard Spiegelberg (PhD, with Tim Kraska; → Snowflake)
+Sreshtaa Rajesh (ScB, → MIT Lincoln Labs)
+Raj Paul (ScB, → Oracle)
+Vic Li (MSc, → University of Washington)
+Benjamin Kilimnik (ScB → New Relic)
+Aaron Jeyaraj (ScB → Crusoe Energy)
+Hannah Gross (ScB, → MIT)
+Benjamin Givertz (ScB, → Twitch)
+Ishan Sharma (MSc, → AWS)
+Yunzhi Shao (MSc, → Amazon)
+Sinan Pehlivanoglu (MSc, → VMware)
+Eleonora Kiziv (ScB, → Google)
+Jon Gjengset (MIT PhD, → AWS)
+Jackie Bredenberg (MIT MEng, → Ab Initio)
+Samyukta Yagati (MIT UROP, → UC Berkeley)
+Gina Yuan (MIT MEng, → Stanford)
+Lara Timbó Araújo (MIT MEng, → Airbnb)
+Courses
+Spring 2024: CSCI 0300: Fundamentals of Computer Systems
+Fall 2023: CSCI 2390: Privacy-Conscious Computer Systems
+Spring 2023: CSCI 0300: Fundamentals of Computer Systems
+Fall 2022: Junior Faculty Teaching Relief
+Spring 2022: CSCI 0300: Fundamentals of Computer Systems
+Fall 2021: CSCI 2390: Privacy-Conscious Computer Systems
+Spring 2021: CSCI 0300: Fundamentals of Computer Systems
+Fall 2020: CSCI 2390: Privacy-Conscious Computer Systems
+Spring 2020: CSCI 1310: Fundamentals of Computer Systems
+Fall 2019: CSCI 2390: Privacy-Conscious Computer Systems
+Spring 2018: 6.824: Distributed Systems Engineering (at MIT)
+Service
+
+Program Committee:
+
+SOSP 2021, 2024.
+OSDI 2020, 2021, 2022, 2023, 2024.
+NSDI 2025.
+EuroSys 2016, 2021, 2023, 2024, 2025.
+VLDB 2025.
+ASPLOS 2025.
+HotNets 2025.
+USENIX ATC 2020.
+SoCC 2020, 2022.
+SYSTOR 2019.
+HotOS 2021.
+Support
+
+My research is supported by the NSF, Amazon, Google, Microsoft, and VMware.
+
+Personal
+
+Before joining Brown, I was a postdoc in the PDOS group at MIT CSAIL. Prior to MIT, I spent several enjoyable years doing my PhD in the NetOS group in the other Cambridge.
+
+You can find me on Twitter and GitHub. My wife, Julia Netter, is a political philosopher.
+

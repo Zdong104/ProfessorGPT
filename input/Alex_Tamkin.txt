@@ -1,0 +1,208 @@
+Professor: Alex Tamkin
+University: Univ. of California - San Diego
+URL: https://www.alextamkin.com/
+Description: Skip to main content
+Skip to navigation
+Alex Tamkin	
+HomeEssaysPhotographyCeramics
+	
+Alex Tamkin
+
+Email: atamkin_cs_stanford_edu | Research Updates: @alextamkin
+
+I am a research scientist at Anthropic. My research focuses on sociotechnical alignment of AI systems: how to build AI systems that interact positively with people and the societies we live in. Concretely, this looks like:
+
+Developing scalable evaluations for both present-day and emerging harms (DiscrimEval)
+
+Creating interpretability methods to understand and steer models (Codebook Features) 
+
+Designing new ways for humans and AI systems to interact (GATE)
+
+Understanding the limitations of current paradigms; e.g. by training Transformers across a dozen different modalities (DABS and DABS 2.0)
+
+Designing ways of eliciting values from groups of people and training models using those values (Collective Constitutional AI)
+
+If this sounds interesting, we're hiring!
+
+Previously, I completed my PhD in Computer Science at Stanford, where I was advised by Noah Goodman and part of the Stanford AI Lab and Stanford NLP Group.
+
+Publications
+
+Bayesian Preference Elicitation with Language Models
+
+Kunal Handa, Yarin Gal, Ellie Pavlick, Noah Goodman, Jacob Andreas, Alex Tamkin*, Belinda Z. Li*
+ArXiv Preprint
+
+Evaluating and Mitigating Discrimination in Language Model Decisions [🐦thread]
+
+Alex Tamkin, Amanda Askell, Liane Lovitt, Esin Durmus, Nicholas Joseph, Shauna Kravec, Karina Nguyen, Jared Kaplan, Deep Ganguli
+ArXiv Preprint
+Press: [VentureBeat] [TechCrunch] 
+
+Eliciting Human Preferences with Language Models [🐦thread]
+
+Belinda Z. Li*, Alex Tamkin*, Noah D. Goodman, Jacob Andreas
+ArXiv Preprint
+Press: [VentureBeat]
+
+Codebook Features: Sparse and Discrete Interpretability for Neural Networks [🐦thread][📝blogpost]
+
+Alex Tamkin, Mohammad Taufeeque, Noah D. Goodman
+ArXiv Preprint
+
+Social Contract AI: Aligning AI Assistants with Implicit Group Norms 
+
+Jan-Philipp Fränken, Sam Kwok, Peixuan Ye, Kanishk Gandhi, Dilip Arumugam, Jared Moore, Alex Tamkin, Tobias Gerstenberg, Noah D. Goodman
+SoLaR NeurIPS 2023 Workshop
+
+Operationalising the Definition of General Purpose AI Systems: Assessing Four Approaches
+
+Risto Uuk, Carlos Ignacio Gutierrez, Alex Tamkin
+ArXiv Preprint 
+
+Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data
+
+Wai Tong Chung, Bassem Akoush, Pushan Sharma, Alex Tamkin, Ki Sung Jung, Jacqueline Chen, Jack Guo, Davy Brouzet, Mohsen Talei, Bruno Savard, Alexei Y Poludnenko, Matthias Ihme
+NeurIPS 2023
+
+BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors
+
+Kathryn Wantlin, Chenwei Wu, Shih-Cheng Huang, Oishi Banerjee, Farah Dadabhoy, Veeral Vipin Mehta, Ryan Wonhee Han, Fang Cao, Raja R. Narayan, Errol Colak, Adewole S. Adamson, Laura Heacock, Geoffrey H. Tison, Alex Tamkin*, Pranav Rajpurkar*
+ArXiv Preprint
+
+Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning 
+
+Alex Tamkin, Margalit Glasgow, Xiluo He, Noah Goodman
+NeurIPS 2023
+
+Multispectral Contrastive Learning with Viewmaker Networks
+
+Jasmine Bayrooti, Noah Goodman, Alex Tamkin
+CVPR 2023 Workshop on Perception Beyond the Visible Spectrum
+
+Task Ambiguity in Humans and Language Models
+
+Alex Tamkin*, Kunal Handa*, Avash Shrestha, Noah Goodman
+ICLR 2023
+
+Oolong: Investigating What Makes Crosslingual Transfer Hard with Controlled Studies [🐦thread]
+
+Zhengxuan Wu*, Isabel Papadimitriou*, Alex Tamkin*
+EMNLP 2023
+
+DABS 2.0: Improved Datasets and Algorithms for Universal Self-Supervision [🐦thread]
+
+Alex Tamkin, Gaurab Banerjee, Mohamed Owda, Vincent Liu, Shashank Rammoorthy, Noah Goodman
+NeurIPS 2022
+
+Active Learning Helps Pretrained Models Learn the Intended Task [🐦thread]
+
+Alex Tamkin*, Dat Nguyen*, Salil Deshpande*, Jesse Mu, Noah Goodman
+NeurIPS 2022
+
+DABS: A Domain-Agnostic Benchmark for Self-Supervised Learning  [🌐site] [🐦thread]
+
+Alex Tamkin, Vincent Liu, Rongfei Lu, Daniel Fein, Colin Schultz, Noah Goodman
+NeurIPS 2021
+Press: [Redshift Magazine] [AIM Magazine] [Stanford HAI]
+
+Tradeoffs Between Contrastive and Supervised Learning: An Empirical Study
+
+Ananya Karthik, Mike Wu, Noah Goodman, Alex Tamkin
+NeurIPS 2021 Workshop on Self-Supervised Learning - Theory and Practice
+
+C5T5: Controllable Generation of Organic Molecules with Transformers
+
+Daniel Rothchild, Alex Tamkin, Julie Yu, Ujval Misra, Joseph Gonzalez
+ArXiv Preprint
+
+On the Opportunities and Risks of Foundation Models
+
+Center for Research on Foundation Models (full list of authors)
+– Section 4.2: Training and Self-Supervision, Alex Tamkin
+– Section 4.9: AI Safety and Alignment, Alex Tamkin, Geoff Keeling, Jack Ryan, Sydney von Arx
+– Coauthor: Sections §2.2: Vision, §3.3: Education, §4.1 Modeling, §5.6: Ethics of Scale
+Press: [Forbes] [The Economist] [VentureBeat]
+
+Viewmaker Networks: Learning Views for Unsupervised Representation Learning   [📝blogpost] [🐦thread]
+
+Alex Tamkin, Mike Wu, Noah Goodman
+ICLR 2021 
+
+Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models [📝blogpost]
+
+Alex Tamkin*, Miles Brundage*, Jack Clark, Deep Ganguli
+ArXiv Preprint 
+Press: [WIRED] [VentureBeat] [Datanami] [Slator]
+
+Language Through a Prism: A Spectral Approach for Multiscale Language Representations   [🐦thread] [📝blogpost]
+
+Alex Tamkin, Dan Jurafsky, Noah Goodman
+NeurIPS 2020 
+
+Investigating Transferability in Pretrained Language Models  [🐦thread]
+
+Alex Tamkin, Trisha Singh, Davide Giovanardi, Noah Goodman
+Findings of EMNLP 2020; Presented at CoNLL 2020 
+
+Distributionally-Aware Exploration for CVaR Bandits. 
+
+Alex Tamkin, Ramtin Keramati, Christoph Dann, Emma Brunskill. 
+NeurIPS 2019 Workshop on Safety and Robustness in Decision Making; RLDM 2019 
+
+Being Optimistic to Be Conservative: Quickly Learning a CVaR Policy
+
+Ramtin Keramati, Christoph Dann, Alex Tamkin, Emma Brunskill. 
+AAAI 2020 
+
+Recursive Routing Networks: Learning to Compose Modules for Language Understanding.
+
+Ignacio Cases, Clemens Rosenbaum, Matthew Riemer, Atticus Geiger, Tim Klinger, Alex Tamkin, Olivia Li, Sandhini Agarwal, Joshua D Greene, Dan Jurafsky, Christopher Potts, Lauri Karttunen
+NAACL 2019 
+
+Drone.io: A Gestural and Visual Interface for Human-Drone Interaction.
+
+Jessica R Cauchard, Alex Tamkin, Cheng Yao Wang, Luke Vink, Michelle Park, Tommy Fang, James A Landay.  
+HRI 2019 
+
+Identifying Exoplanets with Deep Learning: Towards Improved Planet Occurrence Rates with Kepler, K2, and TESS. 
+
+Andrew Vanderburg, Christopher Shallue, Liang Yu, Anne Dattilo, Alex Tamkin. 
+American Astronomical Society Meeting Abstracts, 2019 
+Media
+
+Quanta Magazine - How Quickly Do Large Language Models Learn Unexpected Skills?
+
+VentureBeat - Anthropic leads charge against AI bias and discrimination with new research
+
+TechCrunch - Anthropic’s latest tactic to stop racist AI: Asking it ‘really really really really’ nicely
+
+VentureBeat - How can AI better understand humans? Simple: by asking us questions
+
+WIRED Magazine - Chatbots Got Big—and Their Ethical Red Flags Got Bigger
+
+Abrupt Future Podcast - Alex Tamkin on ChatGPT and Beyond: Navigating the New Era of Generative AI
+
+AI Artwork in PC Magazine (twitter thread: DALL-E Meets WALL-E: an Art History)
+
+The Gradient Podcast - Alex Tamkin on Self-Supervised Learning and Large Language Models
+
+Press: [Communications of the ACM]
+
+The Engineered Mind Podcast - Alex Tamkin on NLP, AI Ethics & PhD Life
+
+Personal
+
+Other topics I think a lot about:
+
+Societal impacts of technology, especially machine learning and large language models
+
+Mentoring, teaching and fostering a healthy and inclusive research culture
+
+Scientific communication and breaking down walls between fields
+
+I also like making art, especially ceramics and photography!
+
+Google Sites
+Report abuse
+

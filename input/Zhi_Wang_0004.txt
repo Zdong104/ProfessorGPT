@@ -1,0 +1,235 @@
+Professor: Zhi Wang 0004
+University: Florida State University
+URL: http://www.cs.fsu.edu/~zwang
+Description: Top
+Publications
+Teaching
+Students
+GitHub
+
+Zhi Wang
+
+Associate Professor
+
+Office: 166 LOVE Bldg
+Department of Computer Science
+Florida State University
+Tallahassee, FL 32306
+
+Phone: (850)645-0476
+Email:
+
+I am an associate professor in the Department of Computer Science at the Florida State University. I have broad research interests in security with a focus on the systems security, particularly, operating systems / virtualization security, software security, and mobile security (Google Scholar). I am a recipient of the NSF CAREER award (2015) and FSU Developing Scholar Award (2019).
+
+Attention: if you are teaching a course that uses UNIX-like CLI environment, please take a look at WiTTY
+
+WiTTY is a web-based terminal emulator that allows students to record, share, and replay interactive console sessions with just a few clicks. With this tool, students can send the instructors recorded sessions, instead of ambigious descriptions of their problems. Drop me a line if you find it useful. We would love to hear about it.
+
+Here is the document for WiTTY https://syssecfsu.github.io/witty/
+
+Publications
+[C41] RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices
+Yi He, Zhenhua Zou, Kun Sun, Qian Wang, Chao Shen, Zhi Wang, Qi Li
+Proceedings of the 31st USENIX Security Symposium (USENIX 2022)
+August 2022
+[C40] SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX
+Yuan Chen, Jiaqi Li, Guorui Xu, Yajin Zhou, Zhi Wang, Cong Wang, Kui Ren
+Proceedings of the 31st USENIX Security Symposium (USENIX 2022)
+August 2022
+[C39] ECMO: Peripheral Transplantation to Rehost Embedded Linux Kernels (Conditionally Accepted)
+Muhui Jiang, Lin Ma, Yajin Zhou, Qiang Liu, Cen Zhang, Zhi Wang, Xiapu Luo, Lei Wu, Kui Ren
+Proceedings of the 28th ACM Conference on Computer and Communications Security (ACM CCS 2021)
+November 2021
+[C38] EarDynamic: An Ear Canal Deformation Based Continuous User Authentication Using In-Ear Wearables
+Zi Wang, Sheng Tan, Linghan Zhang, Yili Ren, Zhi Wang, Jie Yang
+Proceedings of the ACM on Interactive, Mobile, Wearable, and Ubiquitous Computing (ACM IMWUT 2021)
+September 2021
+[C37] Efficient Algorithms for Encrypted All-gather Operation'
+Mehran Sadeghi Lahijani, Abu Naser, Cong Wu, Mohsen Gavahi, Viet Tung Hoang, Zhi Wang, and Xin Yuan
+Proceedings of 35th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2021)
+May 2021
+[C36] Towards Understanding and Demystifying Bitcoin Mixing Services
+Lei Wu, Yufeng Hu, Yajin Zhou, Haoyu Wang, Xiapu Luo, Zhi Wang, Fan Zhang, Kui Ren
+Proceedings of the Web Conference 2021 (WWW 2021)
+April 2021
+[C35] PThammer: Cross-User-Kernel-Boundary Rowhammer through Implicit Accesses
+Zhi Zhang, Yueqiang Cheng, Dongxi Liu, Surya Nepal, Zhi Wang, Yuval Yarom
+Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (Micro 2020)
+Online, November 2020
+[C34] Liquid Level Sensing Using Commodity WiFi in a Smart Home Environment
+Yili Ren, Sheng Tan, Linghan Zhang, Zi Wang, Zhi Wang, Jie Yang
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ({\bf ACM IMWUT 2020}) (ACM IMWUT 2020)
+Online, September 2020
+[C33] VibLive: A Continuous Liveness Detection for Secure Voice User Interface in IoT Environment
+Linghan Zhang, Sheng Tan, Zi Wang, Yili Ren, Zhi Wang, Jie Yang
+Proceedings of Annual Computer Security Applications Conference (ACSAC 2020)
+Online, December 2020
+[J03] CATTmew: Defeating Software-only Physical Kernel Isolation
+Yueqiang Cheng, Zhi Zhang, Surya Nepal, Zhi Wang
+IEEE Transactions on Dependable and Secure Computing, DOI: 10.1109/TDSC.2019.2946816
+[C32] COIN Attacks: on Insecurity of Enclave Untrusted Interfaces in SGX
+Mustakimur Khandaker, Yueqiang Cheng, Zhi Wang, Tao Wei
+Proceedings of the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (to appear) (ASPLOS 2020)
+Switzerland, April 2020 (18%) [paper, source code]
+[C31] High-density Multi-tenant Bare-metal Cloud
+Xiantao Zhang, Xiao Zheng, Zhi Wang, Hang Yang, Yibin Shen, Xin Long
+Proceedings of the 25th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (to appear) (ASPLOS 2020)
+Switzerland, April 2020 (18%) [paper]
+[C30] Automatic Hot Patch Generation for Android Kernels
+Zhengzi Xu, Yulong Zhang, Longri Zheng, Liangzhao Xia, Chenfu Bao, Zhi Wang, Yang Liu
+Proceedings of the 29th USENIX Security Symposium (to appear) (USENIX Security 2020)
+Boston, MA, USA, August 2020 (%) [paper]
+[C29] An Empirical Study of Cryptographic Libraries for MPI Communications
+Abu Naser, Mohsen Gavahi, Cong Wu, Viet Tung Hoang, Zhi Wang, Xin Yuan
+Proceedings of the 21th IEEE International Conference on Cluster Computing (Cluster 2019)
+Albuquerque, NM, USA, September 2019 (%) [paper]
+[C28] Origin-sensitive Control Flow Integrity
+Mustakimur Khandaker, Wenqing Liu, Abu Naser, Zhi Wang, Jie Yang
+Proceedings of the 28th USENIX Security Symposium (USENIX Security 2019)
+Santa Clara, CA, USA, August 2019 (%) [paper, source code]
+[C27] Adaptive Call-site Sensitive Control Flow Integrity
+Mustakimur Khandaker, Abu Naser, Wenqing Liu, Zhi Wang, Yajin Zhou, Yueqiang Cheng
+Proceedings of the 4th IEEE European Symposium on Security and Privacy (EuroS&P 2019)
+Stockholm, Sweden Jun 2019 (20%) [paper, source code, Best Paper Award]
+[C26] Fast and Scalable VMM Live Upgrade in Large Cloud Infrastructure
+Xiantao Zhang, Xiao Zheng, Zhi Wang, Qi Li, Junkang Fu, Yang Zhang, Yibin Shen
+Proceedings of the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2019)
+Providence, RI, USA April 2019 (21%) [paper]
+[C25] InstaGuard: Instantly Deployable Hot-patches for Vulnerable System Programs on Android
+Yaohui Chen, Yuping Li, Long Lu, Yueh-Hsun Lin, Hayawardh Vijayakumar, Zhi Wang, Xinming Ou
+Proceedings of the 2018 Network and Distributed System Security Symposium (NDSS 2018)
+San Diego, California, February 2018 (20%) [paper]
+[C24] Secure In-cache Execution
+Yue Chen,Mustakimur Khandaker, Zhi Wang
+Proceedings of the 20th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2017)
+Atlanta, Georgia, September 2017 (20%) [paper]
+[C23] Adaptive Android Kernel Live Patching
+Yue Chen,Yulong Zhang, Zhi Wang, Liangzhao Xia, Chenfu Bao, Tao Wei
+Proceedings of the 26th USENIX Security Symposium (USENIX Sec 2017)
+Vancouver, BC, Canada, August 2017 (16%) [paper]
+[J02] Design and Implementation of SecPod, A Framework for Virtualization-based Security Systems
+Xiaoguang Wang, Yong Qi, Zhi Wang, Yue Chen, Yajin Zhou
+IEEE Transactions on Dependable and Secure Computing (TDSC) doi: 10.1109/TDSC.2017.2675991
+[C22] Pinpointing Vulnerabilities
+Yue Chen,Mustakimur Khandaker, Zhi Wang
+Proceedings of the 12th ACM Asia Conference on Computer and Communications Security (AsiaCCS 2017)
+Abu Dhabi, United Arab Emirates, April 2017 (19%) [paper]
+[C21] Remix: On-demand Live Randomization
+Yue Chen, Zhi Wang, David Whalley, Long Lu
+Proceedings of the 6th ACM Conference on Data and Application Security and Privacy (CODASPY 2016)
+New Orleans, LA, March 2016 (19%) [paper]
+[C20] Xede: Practical Exploit Early Detection
+Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng
+Proceedings of the 18th International Symposium on Research in Attacks, Intrusions, and Defenses (RAID 2015)
+Kyoto, Japan, November 2015 (23%) [paper]
+[C19] SecPod: A Framework for Virtualization-based Security Systems
+Xiaoguang Wang, Yue Chen, Zhi Wang, Yong Qi, Yajin Zhou
+Proceedings of the 2015 USENIX Annual Technical Conference (USENIX ATC 2015)
+Santa Clara, CA, July 2015 (16%) [paper]
+[C18] Harvesting Developer Credentials in Android Apps
+Yajin Zhou, Lei Wu, Zhi Wang, Xuxian Jiang
+Proceedings of the 8th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2015)
+New York City, June 2015 (19%) [paper]
+[C17] Hybrid User-level Sandboxing of Third-party Android Apps
+Yajin Zhou, Kunal Patel, Lei Wu, Zhi Wang, Xuxian Jiang
+Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2015 )
+Singapore, April 2015 (18%) [paper]
+[C16] ARMlock: Hardware-based Fault Isolation for ARM
+Yajin Zhou, Xiaoguang Wang, Yue Chen, Zhi Wang
+Proceedings of the 21st ACM Conference on Computer and Communications Security (CCS 2014)
+Scottsdale, Arizona, November 2014 (19%) [paper]
+[C15] Systematic Audit of Third-Party Android Phones
+Michael Mitchell, Guanyu Tian, Zhi Wang
+Proceedings of the 4th ACM Conference on Data and Application Security and Privacy (CODASPY 2014)
+San Antonio, TX, March 2014 (16%) [paper, Slides]
+[C14] DIVILAR: Diversifying Intermediate Language for Anti-Repackaging on Android Platform
+Wu Zhou, Zhi Wang, Yajin Zhou, Xuxian Jiang
+Proceedings of the 4th ACM Conference on Data and Application Security and Privacy (CODASPY 2014)
+San Antonio, TX, March 2014 (16%) [paper]
+[C13] Taming Hosted Hypervisors with (Mostly) Deprivileged Execution
+Chiachih Wu, Zhi Wang, Xuxian Jiang
+Proceedings of the 20th Network and Distributed System Security Symposium (NDSS 2013)
+San Diego, CA, February 2013 (19%) [paper]
+[C12] Isolating Commodity Hosted Hypervisors with HyperLock
+Zhi Wang, Chiachih Wu, Michael Grace, Xuxian Jiang
+Proceedings of the 7th ACM SIGOPS/EuroSys European Conference on Computer Systems (EuroSys 2012)
+Bern Switzerland, April 2012 (15%) [paper]
+[C11] Hey, You, Get off of My Market: Detecting Malicious Apps in Official and Alternative Android Markets
+Yajin Zhou, Zhi Wang, Wu Zhou, Xuxian Jiang
+Proceedings of the 19th Network and Distributed System Security Symposium (NDSS 2012)
+San Diego, CA, February 2012 (18%) [paper]
+[C10] Systematic Detection of Capability Leaks in Stock Android Smartphones
+Michael Grace, Yajin Zhou, Zhi Wang, Xuxian Jiang
+Proceedings of the 19th Network and Distributed System Security Symposium (NDSS 2012)
+San Diego, CA, February 2012 (18%) [paper]
+[C09] Process Out-Grafting: An Efficient `Out-of-VM' Approach for Fine-Grained Process Execution Monitoring
+Deepa Srinivasan, Zhi Wang, Xuxian Jiang, Dongyan Xu
+Proceedings of the 18th ACM Conference on Computer and Communications Security (CCS 2011)
+Chicago, Il, October 2011 (14%) [paper]
+[J01] Comprehensive and Efficient Protection of Kernel Control Data
+Jinku Li, Zhi Wang, Tyler Bletsch, Deepa Srinivasan, Michael Grace, Xuxian Jiang
+IEEE Transactions on Information Forensics and Security, 6(2), June 2011
+[C08] HyperSentry: Enabling Stealthy In-context Measurement of Hypervisor Integrity
+Ahmed M. Azab, Peng Ning, Zhi Wang, Xuxian Jiang, Xiaolan Zhang, Nathan C. Skalsky
+Proceedings of the 17th ACM Conference on Computer and Communications Security (CCS 2010)
+Chicago, Il, October 2010 (17%) [paper]
+[C07] DKSM: Subverting Virtual Machine Introspection for Fun and Profit
+Sina Bahram, Xuxian Jiang, Zhi Wang, Mike Grace, Jinku Li, Deepa Srinivasan, Junghwan Rhee, Dongyan Xu
+Proceedings of the 29th IEEE International Symposium on Reliable Distributed Systems (SRDS 2010)
+New Delhi, India, October 2010 (23%) [paper]
+[C06] Transparent Protection of Commodity OS Kernels using Hardware Virtualization
+Michael Grace, Zhi Wang, Deepa Srinivasan, Jinku Li, Xuxian Jiang, Zhengkai Liang, Siarhei Liakh
+Proceedings of the 6th International Conference on Security and Privacy in Communication Networks (SecureComm 2010)
+Singapore, September 2010 (25%) [paper]
+[C05] HyperSafe: A Lightweight Approach to Provide Lifetime Hypervisor Control-Flow Integrity
+Zhi Wang, Xuxian Jiang
+Proceedings of the 31st IEEE Symposium on Security & Privacy (Oakland 2010)
+Oakland, CA, May 2010 (11%) [paper]
+
+Media coverage: Slashdot, iTnews, ZDNet UK, Computer World, UK, Network World, Dark Reading, Threatpost, Science Daily...
+[C04] Defeating Return-Oriented Rootkits with `Return-less' Kernels
+Jinku Li*, Zhi Wang*, Xuxian Jiang, Mike Grace, Sina Bahram
+Proceedings of the 5th ACM SIGOPS/EuroSys European Conference on Computer Systems (EuroSys 2010)
+Paris, France, April 2010 (19%) [paper]
+[*The names of the first two authors are in alphabetical order]
+[C03] Countering Kernel Rootkits with Lightweight Hook Protection
+Zhi Wang, Xuxian Jiang, Weidong Cui, and Peng Ning
+Proceedings of the 16th ACM Conference on Computer and Communications Security (CCS 2009)
+Chicago, IL, November 2009 (18%) [paper]
+
+Media coverage: Slashdot The Register Bruce Schneier Ars Technica The Inquirer Dark Reading Science Daily...
+[C02] ReFormat: Automatic Reverse Engineering of Encrypted Messages
+Zhi Wang, Xuxian Jiang, Weidong Cui, Xinyuan Wang, Mike Grace
+Proceedings of the 14th European Symposium on Research in Computer Security (ESORICS 2009)
+Saint Malo, France, September 2009 (19%) [paper]
+[C01] Countering Persistent Kernel Rootkits Through Systematic Hook Discovery
+Zhi Wang, Xuxian Jiang, Weidong Cui, Xinyuan Wang
+Proceedings of the 11th International Symposium on Recent Advances in Intrusion Detection (RAID 2008)
+Boston, MA, September 2008 (25%) [paper]
+Teaching
+
+CIS4626/CIS5627 Offensive Computer Security (Based on the SEED labs , Lectures recorded during COVID-19 )
+
+CIS4930 Special Topics in Computer Security: Secure Programming
+
+CIS5370 Computer Security
+
+CDA3101 Computer Organization II
+
+COP4610: Introduction to Operating Systems ( Port of MIT Xv6 to the ARM architecture)
+
+CNT4406/CNT5412 Network Security
+
+Students
+Current Students:
+Abu Naser (Ph.D student, 2016)
+Former Students:
+Mustakimur Rahman Khandaker (Ph.D, 2020, First employer: University of Georgia, Assistant Professor)
+Yue Chen (Ph.D, 2018, First employer: Palo Alto Network)
+Clark Wood, M.S 2015, First employer: MIT Lincoln Lab
+Andre King, M.S 2015, First employer: MIT Lincoln Lab
+Xiaoguang Wang (Visiting Ph.D student, Aug 13-Aug 15)
+
+
+Powered by Bootstrap, jQuery, and Google Fonts
+

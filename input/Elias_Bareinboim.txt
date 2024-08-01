@@ -1,0 +1,762 @@
+Professor: Elias Bareinboim
+University: Columbia University
+URL: http://causalai.net/
+Description: Elias Bareinboim
+Associate Professor, Department of Computer Science
+Director, Causal Artificial Intelligence Lab
+Columbia University
+[ summary – news – teaching – group – tutorials – publications ]
+Contact information:
+Twitter: @eliasbareinboim
+Email: eb at cs dot columbia dot edu
+
+500 W 120th St (Mudd bldg)
+New York, NY, 10027
+Summary
+
+I am an associate professor in the Department of Computer Science and the director of the Causal Artificial Intelligence Lab at Columbia University. I obtained my Ph.D. under Judea Pearl from the University of California, Los Angeles. I am broadly interested in Artificial Intelligence, Machine Learning, Statistics, Robotics, Cognitive Science, and Philosophy of Science.
+
+My research focuses on causal inference and its applications to artificial intelligence, machine learning, and data science, including in the health and social sciences. I am particularly interested in understanding how to make robust and generalizable interventional and counterfactual claims in the context of heterogeneous and biased data collections, including due to issues of confounding bias, selection bias, dataset shift, and external validity (transportability). A survey of recent developments on this topic, when combining massive sets of research data, appeared at the Proceedings of the National Academy of Sciences (PNAS), see the story and the paper. A brief summary of the automated scientist project was also highlighted at the IEEE Intelligent Systems (link, story). For an overview of my thoughts on causal data science (as of April 2019), watch the talk I gave at Columbia University, link. For some of the latest results on this topic, please refer to (UAI-19, ICML-19a, b, NeurIPS-19, AAAI-20a, b, ICML-20, NeurIPS-20, NeurIPS-21a, b, ICML-22, NeurIPS-23, AAAI-24).
+
+More recently, I have been exploring the intersection of causal inference with decision-making/reinforcement learning (NeurIPS-15, ICML-17, IJCAI-17, NeurIPS-18, AAAI-19, NeurIPS-19, ICML-20, NeurIPS-20a, b, c, NeurIPS-21, CleaR-22, ICLR-23, AAAI-24, ICLR-24), explainability/fairness analysis (AAAI-18, NeurIPS-18, UAI-19, NeurIPS-23a, b, AAAI-24, FnTML-24), and generative models/vision (ACM-22, NeurIPS-21, CVPR-22, ICLR-23, NeurIPS-23, AAAI-24, ICML-24).
+
+Additional information (May/20, 2024) -- CV (pdf), short bio (txt), hi-res picture (jpg).
+
+News
+ I am one of the new Editors-in-Chief of the Journal of Causal Inference -- the premier journal dedicated exclusively to causal inference research. Please, consider submitting your work (link)!
+ I am thankful for the support from NSF for our initiative on AI Decision-making (press).
+ I am honored to have been selected for the DARPA Young Faculty Award.
+ The slides and video of my tutorial at ICML-22 (with D. Plecko) on the intersection of causal inference and fairness analysis are now available online (link; paper).
+ I am honored to have been selected for the ONR Young Investigator Award (link).
+I am thankful to the Sloan Foundation for supporting our work on the causal foundations of fairness analysis (link).
+I am co-organizing with J. Pearl, Y. Bengio, B. Scholkopf, T. Sejnowski the NeurIPS-21 Workshop "Causal Inference & Machine Learning: Why now?" (WHY-21), consider submitting your work (link).
+Our chapter "On Pearl’s Hierarchy and the Foundations of Causal Inference" (with Juan Correa, Duligur Ibeling, Thomas Icard) will appear at an ACM special volume in honor of Judea Pearl and is now available online (link).
+The slides and videos of my tutorial at ICML-20 on the intersection of causal inference and reinforcement learning, which I have been calling "causal reinforcement learning" (CRL), are now available online (link).
+       [see more]
+Teaching
+Fall/2023: CS 4775 (grad), Causal Inference I [syllabus / link]
+Fall/2023: CS 6995 (grad), Causal Trustworthy AI [syllabus / link]
+Spring/2023: CS 4775W (grad), Causal Inference II [syllabus / link]
+Fall/2022: CS 4775 (grad), Causal Inference I [syllabus / link]
+Spring/2022: CS 4775W (grad), Causal Inference II [syllabus / link]
+       [see more]
+Research Group
+
+PhD Students and Postdocs:
+
+Tara Anand
+Yusuf Efe
+Adiba Ejaz
+Kasra Jalaldoust
+Hyun Chai Jeong
+Yonghan Jung
+Kai-Zhan Lee
+Adam Li
+Mingxuan Li
+Aurghya Maiti
+Yushu Pan
+Drago Plecko
+Arvind Raghavan
+Kevin Xia
+Hongshuo Yang
+Junzhe Zhang
+
+Former students and postdocs:
+
+Juan D. Correa (Assistant Professor, Universidad Autónoma de Manizales)
+Amin Jaber (Researcher, Synlico)
+Daniel Kumor (Researcher, Amazon)
+Alexis Bellot (Researcher, Deep Mind)
+Sanghack Lee (Assistant Professor, Seoul National University)
+Adele Ribeiro (Postdoc, Philipps-Universität Marburg)
+
+Tutorials
+"Causal Fairness Analysis" (with D. Plecko), Association for Advancement of Artificial Intelligence (AAAI), 2024.
+"Causal Fairness Analysis" (with D. Plecko), International Conference on Machine Learning (ICML), Jul/2022. [slides; video; website]
+"Causal Inference and the Data-Fusion Problem" (with A. Ribeiro), Lisbon Machine Learning School (LxML), Jun/2022.
+"An Introduction to Causal Inference", Bellairs Invitational Workshop on Causal Inference & Representation Learning, Barbados, Mar/2022.
+"Causal Inference and the Data-Fusion Problem" (with A. Ribeiro), Lisbon Machine Learning School (LxML), Jun/2021.
+"Causal Fairness Analysis" (with D. Plecko, J. Zhang), ACM Conference on Fairness, Accountability, and Transparency (FaccT), Mar/2021. [video]
+"Causal Inference in the Health Sciences" (with A. Ribeiro), Annual Deming Conference on Applied Statistics, Dec/2020.
+"Causal Inference in the Health Sciences" (with A. Ribeiro, M. Adibuzzaman), American Medical Informatics Association Annual Symposium (AMIA), Nov/2020.
+"Causal Reinforcement Learning", International Conference on Machine Learning (ICML), Jul/2020. [slides; video; website]
+"Causal Reinforcement Learning" (with S. Lee, J. Zhang), International Joint Conference on Artificial Intelligence (IJCAI), Macau, China, Aug/2019.
+"Introduction to Causal Inference", Machine Learning Research School (MLRS), Bangkok, Thailand, Aug/2019.
+"Causal Reinforcement Learning", Uncertainty in Artificial Intelligence (UAI), Tel Aviv, Israel, Jul/2019. [video]
+"Causal Inference and the Data-Fusion Problem", International Conference on Autonomous Agents and Multi-agent Systems (AAMAS), Sao Paulo, May/2017.
+"Introduction to Causal Inference", West Coast Experiments Conference, Los Angeles, CA, Apr/2017.
+"Causal Inference and the Data-Fusion Problem", Association for Advancement of Artificial Intelligence (AAAI), San Francisco, CA, Feb/2017.
+"Causal Inference and the Data-Fusion Problem", Department of Computing Science, University of Alberta, Edmonton, Canada, Aug/2016.
+"Causes and Counterfactuals: Concepts, principles, and tools" (with J. Pearl), NeurIPS, Lake Tahoe, NV, Dec/2013.
+"Causality and Big Data", EMC2 Summer School on Big Data, Rio de Janeiro, Brazil, Feb/2013.
+"An Introduction to Causal Inference", 2nd IEEE Conf. on Healthcare Informatics, Imaging, and Systems Biology, La Jolla, CA, Sep/2012.
+
+
+Publications
+2024 & Pre-prints:
+
+Counterfactual Realizability and Decision-Making
+A. Raghavan, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-113), May, 2024. [pdf, bib]
+
+
+Unified Covariate Adjustment for Causal Inference
+Y. Jung, J. Tian, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-112), May, 2024. [pdf, bib]
+
+
+Towards Causal Game Theory
+P. Jain, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-111), forthcoming.
+
+
+Disentangled Representation Learning in Non-Markovian Causal Systems
+A. Li, Y. Pan, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-110), May, 2024. [pdf, bib]
+
+
+Mind the Gap: A Causal Perspective on Bias Amplification in Prediction & Decision-Making
+D. Plecko, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-108), May, 2024. [pdf, bib]
+
+
+Fairness-Accuracy Trade-Offs: A Causal Perspective
+D. Plecko, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-107), May, 2024. [pdf, bib]
+
+
+Eligibility Traces for Confounding Robust Off-Policy Evaluation
+J. Zhang, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-105), May, 2024. [pdf, bib]
+
+
+Causal Imitation for Markov Decision Processes: a Partial Identification Approach
+K. Ruan, J. Zhang, S. Di, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-104), May, 2024. [pdf, bib]
+
+
+Counterfactual Image Editing
+Y. Pan, E. Bareinboim.
+ICML-24. In Proceedings of the 41st International Conference on Machine Learning, forthcoming.
+Columbia CausalAI Laboratory, Technical Report (R-103), Dec, 2023. [pdf, bib]
+
+
+Causally Aligned Curriculum Learning
+M. Li. J. Zhang, E. Bareinboim.
+ICLR-24. In Proceedings of the 12th International Conference on Learning Representations, forthcoming.
+Columbia CausalAI Laboratory, Technical Report (R-102), Oct, 2023. [pdf, bib]
+
+
+Neural Causal Abstractions
+K. Xia, E. Bareinboim.
+AAAI-24. In Proceedings of the 38th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-101), Dec, 2023. [pdf, bib, code]
+
+
+Transportable Representations for Out-of-distribution Generalization
+K. Jalaldoust, E. Bareinboim.
+AAAI-24. In Proceedings of the 38th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-99), May, 2023. [pdf, bib]
+
+
+Towards Safe Policy Learning under Partial Identifiability: A Causal Approach
+J. Joshi, J. Zhang, E. Bareinboim.
+AAAI-24. In Proceedings of the 38th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-96), May, 2023. [pdf, bib]
+
+
+Reconciling Predictive and Statistical Parity: A Causal Approach
+D. Plecko, E. Bareinboim.
+AAAI-24. In Proceedings of the 38th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-92), February, 2023. [pdf, bib]
+
+
+Partial Transportability for Domain Generalization
+K. Jalaldoust, A. Bellot, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-88), May, 2023. [pdf, bib]
+
+
+Scores for Learning Discrete Causal Graphs with Unobserved Confounders
+A. Bellot, J. Zhang, E. Bareinboim.
+AAAI-24. In Proceedings of the 38th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-83), May, 2022. [pdf, bib]
+
+
+2023:
+
+Causal discovery from observational and interventional data across multiple environments
+A. Li, A. Jaber, E. Bareinboim.
+NeurIPS-23. In Proceedings of the 37th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-98), May, 2023. [pdf, bib]
+
+
+Estimating Causal Effects Identifiable from Combination of Observations and Experiments
+Y. Jung, I. Díaz, J. Tian, E. Bareinboim.
+NeurIPS-23. In Proceedings of the 37th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-97), May, 2023. [pdf, bib]
+
+
+Causal Fairness for Outcome Control
+D. Plecko, E. Bareinboim.
+NeurIPS-23. In Proceedings of the 37th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-95), May, 2023. [pdf, bib]
+
+
+Nonparametric Identifiability of Causal Representations from Unknown Interventions
+J. von Kügelgen, M. Besserve, W. Liang, L. Gresele, A. Kekić, E. Bareinboim, D. Blei, B. Schölkopf
+NeurIPS-23. In Proceedings of the 37th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-94), June, 2023. [pdf, bib]
+
+
+A Causal Framework for Decomposing Spurious Variations
+D. Plecko, E. Bareinboim.
+NeurIPS-23. In Proceedings of the 37th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-93), May, 2023. [pdf, bib]
+
+
+Estimating Joint Treatment Effects by Combining Multiple Experiments
+Y. Jung, J. Tian, E. Bareinboim.
+ICML-23. In Proceedings of the 40th International Conference on Machine Learning.
+Columbia CausalAI Laboratory, Technical Report (R-91), May, 2023. [pdf, bib]
+
+
+Causal Fairness Analysis
+D. Plecko, E. Bareinboim.
+FnTML-24. In Foundations and Trends in Machine Learning: Vol. 17: No. 3, pp 304-589, 2024.
+Columbia CausalAI Laboratory, Technical Report (R-90), July, 2022. [pdf, bib]
+
+
+Causal Imitation Learning via Inverse Reinforcement Learning
+K. Ruan, J. Zhang, S. Di, E. Bareinboim.
+ICLR-23. In Proceedings of the 11th International Conference on Learning Representations.
+Columbia CausalAI Laboratory, Technical Report (R-89), Sep, 2022. [pdf, bib]
+
+
+Neural Causal Models for Counterfactual Identification and Estimation
+K. Xia, Y. Pan, E. Bareinboim.
+ICLR-23. In Proceedings of the 11th International Conference on Learning Representations.
+Columbia CausalAI Laboratory, Technical Report (R-87), May, 2022. [pdf, bib, code]
+
+
+Effect Identification in Causal Diagrams with Clustered Variables
+T. Anand, A. Ribeiro, J. Tian, E. Bareinboim.
+AAAI-23. In Proceedings of the 37th AAAI Conference on Artificial Intelligence.
+Columbia CausalAI Laboratory, Technical Report (R-77), Jun, 2021. [pdf, bib]
+
+
+2022:
+
+Causal Identification under Markov equivalence: Calculus, Algorithm, and Completeness
+A. Jaber, A. Ribeiro, JJ. Zhang, E. Bareinboim.
+NeurIPS-22. In Proceedings of the 36th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-86), May, 2022. [pdf, bib]
+Highlighted Paper (<2%, out of 10,411 papers).
+
+
+Finding and Listing Front-door Adjustment Sets
+H. Jeong, J. Tian, E. Bareinboim.
+NeurIPS-22. In Proceedings of the 36th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-85), Oct, 2022. [pdf, bib, code]
+
+
+Online Reinforcement Learning for Mixed Policy Scopes
+J. Zhang, E. Bareinboim.
+NeurIPS-22. In Proceedings of the 36th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-84), May, 2022. [pdf, bib]
+
+
+Counterfactual Transportability: A Formal Approach
+J. Correa, S. Lee, E. Bareinboim.
+ICML-22. In Proceedings of the 39th International Conference on Machine Learning.
+Columbia CausalAI Laboratory, Technical Report (R-82), May, 2022. [pdf, bib]
+
+
+On Measuring Causal Contributions via do-Interventions
+Y. Jung, S. Kasiviswanathan, J. Tian, D. Janzing, E. Bareinboim.
+ICML-22. In Proceedings of the 39th International Conference on Machine Learning.
+Columbia CausalAI Laboratory, Technical Report (R-81), May, 2022. [pdf, bib]
+
+
+Partial Counterfactual Identification from Observational and Experimental Data
+J. Zhang, J. Tian, E. Bareinboim.
+ICML-22. In Proceedings of the 39th International Conference on Machine Learning.
+Columbia CausalAI Laboratory, Technical Report (R-78), Jun, 2021. [pdf, bib]
+
+
+Causal Transportability for Visual Recognition
+C. Mao, K. Xia, J. Wang, H. Wang, J. Yang, E. Bareinboim, C. Vondrick
+CVPR-22. In Proceedings of the IEEE/CVF Conference on Computer Vision & Pattern Recognition, 2022.
+Columbia CausalAI Laboratory, Technical Report (R-74), Apr, 2022. [pdf, bib]
+
+
+Causal Inference and Data Fusion: Towards an Accelerated Process of Scientific Discovery
+A. Ribeiro, E. Bareinboim.
+OECD-22. Organisation for Economic Co-operation and Development, Volume “AI and the productivity of science”.
+Columbia CausalAI Laboratory, Technical Report (R-73), Apr, 2022. [pdf, bib]
+
+
+Can Humans Be Out of the Loop?
+J. Zhang, E. Bareinboim.
+CleaR-22. In Proceedings of the 1st Conference on Causal Learning and Reasoning, 2022.
+Columbia CausalAI Laboratory, Technical Report (R-64), Jun, 2020. [pdf, bib]
+
+
+2021:
+
+The Causal-Neural Connection: Expressiveness, Learnability, and Inference
+K. Xia, K. Lee, Y. Bengio, E. Bareinboim.
+NeurIPS-21. In Proceedings of the 35th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-80), Jun, 2021. [pdf, bib, code]
+
+
+Nested Counterfactual Identification from Arbitrary Surrogate Experiments
+J. Correa, S. Lee, E. Bareinboim.
+NeurIPS-21. In Proceedings of the 35th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-79), Jun, 2021. [pdf, bib]
+
+
+Sequential Causal Imitation Learning with Unobserved Confounders
+D. Kumor, J. Zhang, E. Bareinboim.
+NeurIPS-21. In Proceedings of the 35th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-76), Jun, 2021. [pdf, bib]
+Oral Presentation (<1%, out of 9,122 papers).
+
+
+Double Machine Learning Density Estimation for Local Treatment Effects with Instruments
+Y. Jung, J. Tian, E. Bareinboim.
+NeurIPS-21. In Proceedings of the 35th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-75), Jun, 2021. [pdf, bib]
+Spotlight Presentation (<3%, out of 9,122 papers).
+
+
+Causal Identification with Matrix Equations
+S. Lee, E. Bareinboim.
+NeurIPS-21. In Proceedings of the 35th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-70), Jun, 2021. [pdf, bib]
+Oral Presentation (<1%, out of 9,122 papers).
+
+
+Non-Parametric Methods for Partial Identification of Causal Effects
+J. Zhang, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-72), Feb, 2021. [pdf, bib]
+
+
+Estimating Identifiable Causal Effects on Markov Equiv. Class through Double Machine Learning
+Y. Jung, J. Tian, E. Bareinboim.
+ICML-21. In Proceedings of the 38th International Conference on Machine Learning, 2021.
+Columbia CausalAI Laboratory, Technical Report (R-71), Feb, 2021. [pdf, bib]
+
+
+Estimating Identifiable Causal Effects through Double Machine Learning
+Y. Jung, J. Tian, E. Bareinboim.
+AAAI-21. In Proceedings of the 35th AAAI Conference on Artificial Intelligence, 2021.
+Columbia CausalAI Laboratory, Technical Report (R-69), Dec, 2020. [pdf, bib]
+
+
+Bounding Causal Effects on Continuous Outcomes
+J. Zhang, E. Bareinboim.
+AAAI-21. In Proceedings of the 35th AAAI Conference on Artificial Intelligence, 2021.
+Columbia CausalAI Laboratory, Technical Report (R-61), Jun, 2020. [pdf, bib]
+
+
+2020:
+
+General Transportability of Soft Interventions: Completeness Results
+J. Correa, E. Bareinboim.
+NeurIPS-20. In Proceedings of the 34th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-68), Jun, 2020. [pdf, bib]
+
+
+Causal Discovery from Soft Interventions with Unknown Targets: Characterization & Learning
+A. Jaber, M. Kocaoglu, K. Shanmugam, E. Bareinboim.
+NeurIPS-20. In Proceedings of the 34th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-67), Jun, 2020. [pdf, bib]
+
+
+Causal Imitation Learning with Unobserved Confounders
+J. Zhang, D. Kumor, E. Bareinboim.
+NeurIPS-20. In Proceedings of the 34th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-66), Jun, 2020. [pdf, bib]
+Oral Presentation (105 out of 9,454 papers).
+
+
+Characterizing Optimal Mixed Policies: Where to Intervene, What to Observe
+S. Lee, E. Bareinboim.
+NeurIPS-20. In Proceedings of the 34th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-63), Jun, 2020. [pdf, bib]
+
+
+Learning Causal Effects via Weighted Empirical Risk Minimization
+Y. Jung, J. Tian, E. Bareinboim.
+NeurIPS-20. In Proceedings of the 34th Annual Conference on Neural Information Processing Systems.
+Columbia CausalAI Laboratory, Technical Report (R-62), Jun, 2020. [pdf, bib]
+
+
+On Pearl’s Hierarchy and the Foundations of Causal Inference
+E. Bareinboim, J. Correa, D. Ibeling, T. Icard.
+ACM-22. In Probabilistic and Causal Inference: The Works of Judea Pearl (ACM, Special Turing Series), pp. 507-556, 2022.
+Columbia CausalAI Laboratory, Technical Report (R-60), Jul, 2020. [pdf, bib]
+
+
+Causal Effect Identifiability under Partial-Observability
+S. Lee, E. Bareinboim.
+ICML-20. In Proceedings of the 37th International Conference on Machine Learning, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-58), Jun, 2020. [pdf, bib]
+
+
+Designing Optimal Dynamic Treatment Regimes: A Causal Reinforcement Learning Approach
+J. Zhang, E. Bareinboim.
+ICML-20. In Proceedings of the 37th International Conference on Machine Learning, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-57), Jun, 2020. [pdf, bib]
+
+
+Efficient Identification in Linear Structural Causal Models with Auxiliary Cutsets
+D. Kumor, C. Cinelli, E. Bareinboim.
+ICML-20. In Proceedings of the 37th International Conference on Machine Learning, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-56), Jun, 2020. [pdf, bib]
+
+
+A Calculus For Stochastic Interventions: Causal Effect Identification and Surrogate Experiments
+J. Correa, E. Bareinboim.
+AAAI-20. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-55), Nov, 2019. [pdf, bib]
+
+
+Estimating Causal Effects Using Weighting-Based Estimators
+Y. Jung, J. Tian, E. Bareinboim.
+AAAI-20. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-54), Nov, 2019. [pdf, bib]
+
+
+General Transportability: Synthesis of Experiments from Heterogeneous Domains
+S. Lee, J. Correa, E. Bareinboim.
+AAAI-20. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-53), Nov, 2019. [pdf, bib]
+
+
+Identifiability from a Combination of Observations and Experiments
+S. Lee, J. Correa, E. Bareinboim.
+AAAI-20. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, 2020.
+Columbia CausalAI Laboratory, Technical Report (R-52), Nov, 2019. [pdf, bib]
+
+
+2019:
+
+Causal Inference and Data-Fusion in Econometrics
+P. Hünermund, E. Bareinboim.
+EJ-23. The Econometrics Journal, 2023.
+Columbia CausalAI Laboratory, Technical Report (R-51), Dec, 2019. [pdf, bib]
+
+
+Identification of Conditional Causal Effects under Markov Equivalence
+A. Jaber, JJ. Zhang, E. Bareinboim.
+NeurIPS-19. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.
+Spotlight Presentation (164 out of 6743 papers).
+Columbia CausalAI Laboratory, Technical Report (R-50), Sep, 2019. [pdf, bib]
+
+
+Efficient Identification in Linear Structural Causal Models with Instrumental Cutsets
+D. Kumor, B. Chen, E. Bareinboim.
+NeurIPS-19. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-49), Oct, 2019. [pdf, bib]
+
+
+Near-Optimal Reinforcement Learning in Dynamic Treatment Regimes
+J. Zhang, E. Bareinboim.
+NeurIPS-19. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-48), Oct, 2019. [pdf, bib]
+
+
+Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions
+M. Kocaoglu, A. Jaber, K. Shanmugam, E. Bareinboim.
+NeurIPS-19. In Proceedings of the 33rd Annual Conference on Neural Information Processing Systems, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-47), Oct, 2019. [pdf, bib]
+
+
+General Identifiability with Arbitrary Surrogate Experiments
+S. Lee, J. Correa, E. Bareinboim.
+UAI-19. In Proceedings of the 35th Conference on Uncertainty in Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-46), May, 2019. [pdf, errata, bib]
+Best Paper Award (1 out of 450 papers).
+
+
+From Statistical Transportability to Estimating the Effect of Stochastic Interventions
+J. Correa, E. Bareinboim.
+IJCAI-19. In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-45), May, 2019. [pdf, bib]
+
+
+On Causal Identification under Markov Equivalence
+A. Jaber, JJ. Zhang, E. Bareinboim.
+IJCAI-19. In Proceedings of the 28th International Joint Conference on Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-44), May, 2019. [pdf, bib]
+
+
+Adjustment Criteria for Generalizing Experimental Findings
+J. Correa, J. Tian, E. Bareinboim.
+ICML-19. In Proceedings of the 36th International Conference on Machine Learning, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-43), Apr, 2019. [pdf, bib]
+
+
+Causal Identification under Markov Equivalence: Completeness Results
+A. Jaber, JJ. Zhang, E. Bareinboim.
+ICML-19. In Proceedings of the 36th International Conference on Machine Learning, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-42), Apr, 2019. [pdf, bib]
+
+
+Sensitivity Analysis of Linear Structural Causal Models
+C. Cinelli, D. Kumor, B. Chen, J. Pearl, E. Bareinboim.
+ICML-19. In Proceedings of the 36th International Conference on Machine Learning, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-41), Apr, 2019. [pdf, bib]
+
+
+Structural Causal Bandits with Non-manipulable Variables
+S. Lee, E. Bareinboim.
+AAAI-19. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-40), Nov, 2018. [pdf, bib]
+
+
+Counterfactual Randomization: Rescuing Experimental Studies from Obscured Confounding
+A. Forney, E. Bareinboim.
+AAAI-19. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-39), Nov, 2018. [pdf, bib]
+
+
+Identification of Causal Effects in the Presence of Selection Bias
+J. Correa, J. Tian, E. Bareinboim.
+AAAI-19. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-38), Nov, 2018. [pdf, bib]
+
+2018:
+
+Equality of Opportunity in Classification: A Causal Approach
+J. Zhang, E. Bareinboim.
+NeurIPS-18. In Proceedings of the 32nd Annual Conference on Neural Information Processing Systems, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-37), Oct, 2018. [pdf, bib]
+
+
+Structural Causal Bandits: Where to Intervene?
+S. Lee, E. Bareinboim.
+NeurIPS-18. In Proceedings of the 32nd Annual Conference on Neural Information Processing Systems, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-36), Sep, 2018. [pdf, bib, code]
+
+
+Causal Identification under Markov Equivalence
+A. Jaber, JJ. Zhang, E. Bareinboim.
+UAI-18. In Proceedings of the 34th Conference on Uncertainty in Artificial Intelligence, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-35), Aug, 2018. [pdf, bib]
+Best Student Paper Award (1 out of 337 papers).
+
+Non-Parametric Path Analysis in Structural Causal Models
+J. Zhang, E. Bareinboim.
+UAI-18. In Proceedings of the 34th Conference on Uncertainty in Artificial Intelligence, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-34), May, 2018. [pdf, bib]
+
+
+Budgeted Experiment Design for Causal Structure Learning
+A. Ghassami, S. Salehkaleybar, N. Kiyavash, E. Bareinboim.
+ICML-18. In Proceedings of the 35th International Conference on Machine Learning, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-33), May, 2018. [pdf, bib]
+
+
+A Graphical Criterion for Effect Identification in Equivalence Classes of Causal Diagrams
+A. Jaber, JJ. Zhang, E. Bareinboim.
+IJCAI-18. In Proceedings of the 27th International Joint Conference on Artificial Intelligence, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-32), May, 2018. [pdf, bib]
+
+
+A note on "Generalizability of Study Results (Lesko et al., 2017)"
+J. Pearl, E. Bareinboim.
+EPI-18. Epidemiology, v. 30(2), pp. 186-188, 2019.
+Columbia CausalAI Laboratory, Technical Report (R-31), Apr, 2018. [pdf, bib]
+
+
+Fairness in Decision-Making -- The Causal Explanation Formula
+J. Zhang, E. Bareinboim.
+AAAI-18. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-30), Nov, 2017. [pdf, bib]
+
+
+Generalized Adjustment Under Confounding and Selection Biases
+J. Correa, J. Tian, E. Bareinboim.
+AAAI-18. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence, 2018.
+Columbia CausalAI Laboratory, Technical Report (R-29), Nov, 2017. [pdf, bib]
+Outstanding Paper Award Honorable Mention (2 out of 3,800 papers).
+
+2017:
+
+Experimental Design for Learning Causal Graphs with Latent Variables
+M. Kocaoglu, K. Shanmugam, E. Bareinboim.
+NeurIPS-17. In Proceedings of the 31st Annual Conference on Neural Information Processing Systems, 2017.
+Columbia CausalAI Laboratory, Technical Report (R-28), Nov, 2017. [pdf, bib]
+
+
+Identification and Model Testing in Linear Structural Equation Models using Auxiliary Variables
+B. Chen, D. Kumor, E. Bareinboim.
+ICML-17. In Proceedings of the 34th International Conference on Machine Learning, 2017.
+Columbia CausalAI Laboratory, Technical Report (R-27), Jun, 2017. [pdf, bib]
+
+
+Counterfactual Data-Fusion for Online Reinforcement Learners
+A. Forney, J. Pearl, E. Bareinboim.
+ICML-17. In Proceedings of the 34th International Conference on Machine Learning, 2017.
+Columbia CausalAI Laboratory, Technical Report (R-26), Jun, 2017. [pdf, bib]
+
+
+Transfer Learning in Multi-Armed Bandits: A Causal Approach
+J. Zhang, E. Bareinboim.
+IJCAI-17. In Proceedings of the 26th International Joint Conference on Artificial Intelligence, 2017.
+Columbia CausalAI Laboratory, Technical Report (R-25), Jun, 2017. [pdf, bib]
+
+
+Causal Effect Identification by Adjustment under Confounding and Selection Biases
+J. Correa, E. Bareinboim.
+AAAI-17. In Proceedings of the 31st AAAI Conference on Artificial Intelligence, 2017.
+Columbia CausalAI Laboratory, Technical Report (R-24), Nov, 2016. [pdf, bib]
+
+
+2016:
+
+Markov Decision Processes with Unobserved Confounders: A Causal Approach
+J. Zhang, E. Bareinboim.
+Columbia CausalAI Laboratory, Technical Report (R-23), 2016. [pdf, bib]
+
+
+Incorporating Knowledge into Structural Equation Models using Auxiliary Variables
+B. Chen, J. Pearl, E. Bareinboim.
+IJCAI-16. In Proceedings of the 25th International Joint Conference on Artificial Intelligence, 2016.
+Columbia CausalAI Laboratory, Technical Report (R-22), 2016. [pdf, bib]
+
+
+Causal Inference and The Data-Fusion Problem
+E. Bareinboim, J. Pearl.
+PNAS-16. Proceedings of the National Academy of Sciences, v. 113 (27), pp. 7345-7352, 2016.
+Columbia CausalAI Laboratory, Technical Report (R-21), 2016. [pdf, bib]
+
+
+Comment on "Causal Inference Using Invariance Prediction: Identification and Confidence Intervals (by Peters, Buhlmann and Meinshausen)"
+E. Bareinboim.
+RSS-16. Journal of the Royal Statistical Society, Series B.
+Columbia CausalAI Laboratory, Technical Report (R-20), 2016. [bib]
+
+
+2015:
+
+Bandits with Unobserved Confounders: A Causal Approach
+E. Bareinboim, A. Forney, J. Pearl.
+NeurIPS-15. In Proceedings of the 28th Annual Conference on Neural Information Processing Systems, 2015.
+Columbia CausalAI Laboratory, Technical Report (R-19), 2015. [pdf, bib]
+
+
+Recovering Causal Effects From Selection Bias
+E. Bareinboim, J. Tian.
+AAAI-15. In Proceedings of the 29th AAAI Conference on Artificial Intelligence, 2015.
+Columbia CausalAI Laboratory, Technical Report (R-18), 2015. [pdf, bib]
+
+
+2014:
+
+Transportability from Multiple Environments with Limited Experiments: Completeness Results
+E. Bareinboim, J. Pearl.
+NeurIPS-14. In Proceedings of the 27th Annual Conference on Neural Information Processing Systems, 2014. [pdf, bib]
+Spotlight Presentation (62 out of 1678 papers).
+
+
+Recovering from Selection Bias in Causal and Statistical Inference
+E. Bareinboim, J. Tian, J. Pearl.
+AAAI-14. In Proceedings of the 28th AAAI Conference on Artificial Intelligence, 2014. [pdf, bib]
+Supplemental material, UCLA Cognitive Systems Laboratory, Technical Report (R-425-sup). [pdf]
+Best Paper Award (1 out of 1,406 papers).
+
+External Validity: From do-calculus to Transportability across Populations
+J. Pearl, E. Bareinboim.
+StSci-14. Statistical Science, v. 29(4), pp. 579-595, 2014. [pdf, bib]
+
+
+Generalizability in Causal Inference: Theory and Algorithms
+E. Bareinboim.
+Ph.D. Thesis, Computer Science Department, UCLA, 2014. [pdf, errata, bib]
+
+
+2013:
+
+Transportability from Multiple Environments with Limited Experiments
+E. Bareinboim, S. Lee, V. Honavar, J. Pearl.
+NeurIPS-13. In Proceedings of the 26th Annual Conference on Neural Information Processing Systems, 2013. [pdf, bib]
+
+
+Causal Transportability with Limited Experiments
+E. Bareinboim, J. Pearl.
+AAAI-13. In Proceedings of the 27th AAAI Conference on Artificial Intelligence, 2013. [pdf, bib]
+
+
+Meta-Transportability of Causal Effects: A Formal Approach
+E. Bareinboim, J. Pearl.
+AISTATS-13. In Proceedings of the 16th International Conference on Artificial Intelligence and Statistics, 2013. [pdf, bib]
+
+
+A General Algorithm for Deciding Transportability of Experimental Results
+E. Bareinboim, J. Pearl.
+JCI-13. Journal of Causal Inference, v. 1(1), pp. 107--134, 2013. [pdf, bib]
+
+
+2012:
+
+Causal Inference by Surrogate Experiments: z-Identifiability
+E. Bareinboim, J. Pearl.
+UAI-12. In Proceedings of the 28th Conference on Uncertainty in Artificial Intelligence, 2012. [pdf, bib]
+
+
+Transportability of Causal Effects: Completeness Results
+E. Bareinboim, J. Pearl.
+AAAI-12. In Proceedings of the 26th AAAI Conference on Artificial Intelligence, 2012. [pdf, bib]
+
+
+Controlling Selection Bias in Causal Inference
+E. Bareinboim, J. Pearl.
+AISTATS-12. In Proceedings of the 15th International Conference on Artificial Intelligence and Statistics, 2012. [pdf, bib]
+
+
+Local Characterizations of Causal Bayesian Networks
+E. Bareinboim, C. Brito, J. Pearl.
+LNAI-12. In Lecture Notes in Artificial Intelligence, Springer, 2012. [pdf, bib]
+
+
+2011:
+
+Transportability of Causal and Statistical Relations: A Formal Approach
+J. Pearl, E. Bareinboim.
+AAAI-11. In Proceedings of the 25th AAAI Conference on Artificial Intelligence, 2011. [pdf, bib]
+Extended Technical Report (R-372), UCLA Cognitive Systems Laboratory. [pdf, bib]
+
+
+Controlling Selection Bias in Causal Inference (Short paper)
+E. Bareinboim, J. Pearl.
+AAAI-11. In Proceedings of the 25th AAAI Conference on Artificial Intelligence, 2011. [pdf, bib]
+
+
+External Validity and Transportability: A Formal Approach
+J. Pearl, E. Bareinboim.
+JSM-ASA-11. In Proceedings of the Joint Statistical Meetings, American Statistical Association, 2011. [pdf, bib]
+
+
+Local Characterizations of Causal Bayesian Networks
+E. Bareinboim, C. Brito, J. Pearl.
+GKR-IJCAI-11. In Proceedings of the GKR-22nd International Joint Conference on Artificial Intelligence, 2011. [pdf, bib]
+
+
+Analyzing Marginal Cases in Differential Shotgun Proteomics
+P. Carvalho, J. Fischer, J. Perales, J. Yates III, V. Barbosa, E. Bareinboim.
+Bioinformatics, Vol. 27, pp. 275-276, 2011. [pdf, bib]
+
+
+Pre-PhD:
+
+Descents and Nodal Load in Scale-Free Networks
+E. Bareinboim, V.C. Barbosa.
+Physical Review E, Vol. 77, 046111, 2008. [pdf, bib]
+
+
+June 2, 2024.
+
+

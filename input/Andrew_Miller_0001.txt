@@ -1,0 +1,202 @@
+Professor: Andrew Miller 0001
+University: Univ. of Illinois at Urbana-Champaign
+URL: http://soc1024.ece.illinois.edu/
+Description: Andrew Miller @ UIUC
+Andrew Miller
+
+I'm an Associate Professor at the University of Illinois, Urbana-Champaign, in Electrical and Computer Engineering and affiliate in Computer Science. I'm also an Associate Director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation. I received my Ph.D. from the University of Maryland Cybersecurity Center.
+
+Director of the Decentralized Systems Lab at UIUC!
+
+My research interests are broadly in computer security, and focused on the design of secure decentralized systems and cryptocurrencies. I combine techniques from programming languages, cryptography, and distributed computing.
+
+Click here for my calendar: 
+
+Teaching
+Fall 2022: ECE 374
+Spring 2022: ECE/CS 598 AM: Ideal Functionalities in Cryptography
+Fall 2021: ECE/CS 407 Cryptography
+Spring 2021: ECE 524 / CS 563 Advanced Computer Security
+Spring 2020 / Fall 2020: ECE/CS 374 Algorithms and Models of Computation (sp20) (fa20)
+Fall 2019: ECE498AC: Applied Cryptography at UIUC
+Spring 2019: ECE391: Computer Systems Engineering at UIUC
+Fall 2018: ECE498AC: Applied Cryptography at UIUC
+Spring 2018 (2nd half): ECE398SC: Smart Contracts and Blockchain Security at UIUC
+Fall 2017: ECE498AM/CS498AM: Applied Cryptography at UIUC
+Spring 2017: ECE422/CS461: Introduction to Computer Security at UIUC
+Fall 2016: ECE/CS 598AM: Cryptocurrency Security (catalog) at UIUC
+2014-2015: Bitcoin and Cryptocurrency Technologies - Coursera MOOC., with Arvind Narayanan, Joseph Bonneau, and Ed Felten.
+Spring 2015: CMSC 818I: Science of Crypto-Currency. with Elaine Shi.
+[Course materials] on Smart Contract Programming
+Computer Security and Cryptocurrency Research
+
+Selected publications (peer-reviewed):
+
+SGXonerated: Finding (and Partially Fixing) Privacy Flaws in TEE-based Smart Contract Platforms Without Breaking the TEE Nerla Jean-Louis, Yunqi Li, Yan Ji, Harjasleen Malvai, Thomas Yurek, Sylvain Bellemare, Andrew Miller. PoPETS 2024 (to appear).
+SoK: SGX.Fail: How Stuff Gets eXposed van Schaik, Stephan and Seto, Alex and Yurek, Thomas and Batori, Adam and AlBassam, Bader and Garman, Christina and Genkin, Daniel and Miller, Andrew and Ronen, Eyal and Yarom, Yuval. IEEE Security and Privacy 2024 (to appear).
+SoK: Data Sovereignty Jens Ernstberger, Jan Lauinger, Fatima Elsheimy, Liyi Zhou, Sebastian Steinhorst, Ran Canetti, Andrew Miller, Arthur Gervais, Dawn Song. 8th IEEE European Symposium on Security and Privacy, 2023.
+A Mixed-Methods Study of Security Practices of Smart Contract Developers. Tanusree Sharma, Zhixuan Zhou, Andrew Miller, Yang Wang. To appear, Usenix 2023.
+Long Live The Honey Badger: Robust Asynchronous DPSS and its Applications Thomas Yurek, Zhuolun Xiang, Yu Xia, and Andrew Miller. Usenix 2023 (to appear.)
+Practical Asynchronous Distributed Key Generation. Sourav Das, Tom Yurek, Zhuolun Xiang, Andrew Miller, Lefteris Kokoris-Kogias, Ling Ren. IEEE Symposium on Security and Privacy 2022.
+hbACSS: How to Robustly Share Many Secrets Thomas Yurek, Licheng Luo, Jaiden Fairoze, Aniket Kate, and Andrew Miller. NDSS 2022.
+Publicly Auditable MPC-as-a-Service with succinct verification and universal setup Sanket Kanjalkar, Ye Zhang, Shreyas Gandlur, Andrew Miller. IEEE Workshop on Security and Privacy on the Blockchain, 2021.
+An Empirical Analysis of Privacy in the Lightning Network George Kappos, Haaroon Yousaf, Ania Piotrowska, Sanket Kanjalkar, Sergi Delgado-Segura, Andrew Miller, Sarah Meiklejohn. Financial Crypto 2021.
+Safer Illinois and RokWall: Privacy Preserving University Health Apps for COVID-19. Vikram Sharma Mailthody, James Wei, Nicholas Chen, Mohammad Behnia, Ruihao Yao, Qihao Wang, Vedant Agrawal, Churan He, Lijian Wang, Leihao Chen, Amit Agarwal, Edward Richter, Wen-Mei Hwu, Christopher W. Fletcher, Jinjun Xiong, Andrew Miller, Sanjay Patel. Workshop on Secure IT Technologies against COVID-19 (CoronaDef) 2021.
+CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability Deepak Maram and Harjasleen Malvai and Fan Zhang and Nerla Jean-Louis and Alexander Frolov and Tyler Kell and Tyrone Lobban and Christine Moy and Ari Juels and Andrew Miller. (IEEE S&P 2021)
+You sank my battleship! A case study to evaluate state channels as a scaling solution for cryptocurrencies Patrick McCorry, Chris Buckland, Surya Bakshi, Karl Wuest, and Andrew Miller. 4th Workshop on Trusted Smart Contracts. 2020
+Non-interactive Proofs of Proof-of-Work. Aggelos Kiayias, Andrew Miller, Dionysis Zindros. Financial Cryptography 2020 (website)
+Custos: Practical Tamper-Evident Auditing of Operating Systems Using Trusted Execution. Riccardo Paccagnella, Pubali Datta, Wajih Ul Hassan, Adam Bates, Christopher W. Fletcher, Andrew Miller, Dave Tian. NDSS 2020
+Pisa: Arbitration Outsourcing for State Channels.. Patrick McCorry, Surya Bakshi, Iddo Bentov, Sarah Meiklejohn, Andrew Miller. ACM Advances in Financial Technology, 2019.
+HoneyBadgerMPC and AsynchroMix: Practical AsynchronousMPC and its Application to Anonymous Communication. Donghang Lu, Thomas Yurek, Samarth Kulshreshtha, Rahul Govind, Rahul Mahadev, Aniket Kate, Andrew Miller. CCS 2019. (github)
+ILC: a calculus for composable, computational cryptography. Kevin Liao, Matthew Hammer, and Andrew Miller. (PLDI 2019)
+Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild. Amin Kharraz, Zane Ma, Paul Murley, Charles Lever, Joshua Mason, Andrew Miller, Nikita Borisov, Manos Antonakakis, Michael Bailey. (WWW 2019)
+Ekiden: A Platform for Confidentiality-Preserving, Trustworthy, and Performant Smart Contract Execution Raymond Cheng, Fan Zhang, Jernej Kos, Warren He, Nicholas Hynes, Noah Johnson, Ari Juels, Andrew Miller, Dawn Song. (Euro S&P 2019)
+TxProbe: Discovering Bitcoin's Network Topology Using Orphan Transactions. Sergi Delgado-Segura, Surya Bakshi, Cristina Pérez-Solà, James Litton, Andrew Pachulski, Andrew Miller, and Bobby Bhattacharjee (FC 2019)
+Sprites and State Channels: Payment Networks that Go Faster than Lightning. Andrew Miller, Iddo Bentov, Surya Bakshi, Ranjit Kumaresan, and Patrick McCorry (FC 2019)
+Short Paper: I Can’t Believe It’s Not Stake! Resource Exhaustion Attacks on PoS. Sanket Kanjalkar, Joseph Kuo, Yunqi Li, and Andrew Miller. (FC 2019)
+DelegaTEE: Brokered Delegation Using Trusted Execution Environments Sinisa Matetic and Moritz Schneider and Andrew Miller and Ari Juels and Srdjan Capkun. USENIX Security 2018.
+Erays: Reverse Engineering Ethereum's Opaque Smart Contracts. Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey, University of Illinois, Urbana-Champaign. USENIX Security 2018.
+Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees. Giulia Fanti, Surya Bakshi, Shaileshh Bojja Venkatakrishnan, Andrew Miller, Bradley Denby, Shruti Bhargava, Pramod Viswanath. ACM SIGMETRICS 2018.
+Authenticated Data Structures for Privacy-Preserving Monero Light Clients. Kevin Lee and Andrew Miller. IEEE Security & Privacy on the Blockchain (IEEE S&B 2018).
+Measuring Ethereum Network Peers. Seoung Kyun Kim and Zane Ma and Siddharth Murali and Joshua Mason and Andrew Miller and Michael Bailey. IMC '18
+An Empirical Analysis of Traceability in the Monero Blockchain. Malte Möser, Kyle Soska, Ethan Heilman, Kevin Lee, Henry Heffan, Shashvat Srivastava, Kyle Hogan, Jason Hennessey, Andrew Miller, Arvind Narayanan, and Nicolas Christin. PETS 2018 (website)
+Instantaneous Decentralized Poker. Iddo Bentov, Ranjit Kumaresan, and Andrew Miller. AsiaCrypt 2017.
+Atomically Trading with Roger: Gambling on the success of a hardfork. Patrick McCorry, Ethan Heilman, Andrew Miller. Data Privacy Management, International Workshop on Cryptocurrencies and Blockchain Technology - CBT'17.
+Towards an Accountable Software-Defined Networking Architecture. Benjamin Ujcich, Adam Bates, Andrew Miller, William H. Sanders. NETSOFT 2017.
+SmartCast: An Incentive Compatible Consensus Protocol Using Smart Contracts. Abhiram Kothapalli, Andrew Miller, and Nikita Borisov. 1st Workshop on Trusted Smart Contracts, April 2017.
+Zero-Collateral Lotteries in Bitcoin and Ethereum. Iddo Bentov and Andrew Miller. Security and Privacy on the Blockchain, April 2017.
+The Honey Badger of BFT Protocols. Andrew Miller, Yu Xia, Kyle Croman, Elaine Shi, and Dawn Song. CCS 2016
+Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts. Ahmed Kosba, Andrew Miller, Elaine Shi, Zikai Wen, Charalampos Papamanthou. IEEE Security & Privacy (Oakland), May 2016. (Video!) [Top 2 cited Security paper in 2016!]
+Stubborn Mining: Generalizing Selfish Mining and Combining with an Eclipse Attack. Kartik Nayak, Srijan Kumar, Andrew Miller, Elaine Shi. IEEE Euro S&P. 2016.
+On Scaling Decentralized Blockchains (A Position Paper). Kyle Croman, Christian Decker, Ittay Eyal, Adem Efe Gencer, Ari Juels, Ahmed Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin Gun Sirer, Dawn Song, Roger Wattenhofer. 3rd Workshop on Bitcoin and Blockchain Research. 3rd Workshop on Bitcoin and Blockchain Research. March 2016.
+Step by Step Towards Creating a Safe Smart Contract: Lessons and Insights from a Cryptocurrency Lab. Kevin Delmolino, Mitchell Arnett, Ahmed Kosba, Andrew Miller, and Elaine Shi. 3rd Workshop on Bitcoin and Blockchain Research. March 2016 (website)
+Non-outsourceable Scratch-Off Puzzles to Discourage Bitcoin Mining Coalitions. Andrew Miller, Elaine Shi, Ahmed Kosba, and Jonathan Katz. ACM Computer and Communications Security (CCS), October 2015.
+Shadow-Bitcoin: Scalable Simulation via Direct Execution of Multi-threaded Applications.. Andrew Miller, Rob Jansen. USENIX CSET Workshop, 2015. (code)
+SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies. Joseph Bonneau, Andrew Miller, Jeremy Clark, Arvind Narayanan, Joshua A. Kroll, Edward W. Felten. IEEE Security & Privacy (Oakland), May 2015. [Top cited Security paper in 2015!]
+From Onions to Shallots: Rewarding Tor Relays with TEARS. Rob Jansen, Andrew Miller, Paul Syverson, and Bryan Ford. HotPETs. July 2014.
+On Decentralizing Prediction Markets and Order Books. Joseph Bonneau, Jeremy Clark, Edward Felten, Joshua Kroll, Andrew Miller and Arvind Narayanan. WEIS 2014. June 2014.
+Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. Andrew Miller, Ari Juels, Elaine Shi, Bryan Parno, Jonathan Katz. IEEE Security & Privacy (Oakland), May 2014.
+FawkesCoin: Bitcoin without public-key crypto. Joseph Bonneau and Andrew Miller. 19th International Workshop on Security Protocols. Cambridge, UK, Mar 21 2014.
+Mixcoin: Anonymity for Bitcoin with accountable mixes. Arvind Narayanan, Joseph Bonneau, Andrew Miller, Jeremy Clark, Joshua Kroll. Financial Cryptography and Data Security. March 2014.
+Authenticated Data Structures, Generically. Andrew Miller, Michael Hicks, Jonathan Katz, Elaine Shi. ACM Symposium on Principles of Programming Languages (POPL). January, 2014. (project webpage)
+Preprints and Tech Reports
+Unpacking How Decentralized Autonomous Organizations (DAOs) Work in Practice. Tanusree Sharma, Yujin Kwon, Kornrapat Pongmala, Henry Wang, Andrew Miller, Dawn Song, Yang Wang. ARXIV 2023.
+Formalizing Soundness Proofs of SNARKs Bolton Bailey, Andrew Miller. EPRINT 2023
+General Partially Fair Multi-Party Computation with VDFs Bolton Bailey, Andrew Miller, Or Sattath. EPRINT 2022
+Design Choices for Central Bank Digital Currency: Policy and Technical Considerations Sarah Allen, Srđjan Čapkun, Ittay Eyal, Giulia Fanti, Bryan A. Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst & Fan Zhang. NBER Working Paper Series.
+BabySNARK (do do dodo dodo). Andrew Miller, Ye Zhang, Sanket Kanjalkar. 2020. (github)
+Brief Note: Asynchronous Verifiable Secret Sharing with Optimal Resilience and Linear Amortized Overhead. Aniket Kate, Andrew Miller, and Tom Yurek. ONLINE PREPRINT. 2019.
+How to use SNARKs in Universally Composable Protocols. Ahmed Kosba, Zhichao Zhao, Andrew Miller, Hubert Chan, Charalampos Papamanthou, Rafael Pass, abhi shelat, Elaine Shi. ONLINE PREPRINT. 2015
+Discovering Bitcoin's Network Topology and Influential Nodes. Andrew Miller, James Litton, Andrew Pachulski, Neal Gupta, Dave Levin, Neil Spring, Bobby Bhattacharjee. ONLINE PREPRINT. 2015
+Pseudonymous Secure Computation from Time-Lock Puzzles. Jonathan Katz, Andrew Miller, and Elaine Shi. ONLINE PREPRINT. October 2014.
+Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin. Andrew Miller and Joseph J. LaViola Jr. University of Central Florida. Tech Report, CS-TR-14-01. April, 2014.
+Invited talks
+Smart Contracts and Opportunities for Formal Methods. ISoLA 2018: Leveraging Applications of Formal Methods, Verification and Validation. Andrew Miller, Zhicheng Cai, Somesh Jha.
+Advised theses
+[masters thesis] Simulating high-throughput cryptocurrency payment channel networks. Christopher Neal Cordi. 2017.
+[masters thesis] Privacy preserving outsourcing of state channel arbitration in microraiden. Surya Bakshi. 2017.
+[masters thesis] Improved authenticated data structures for blockchain synchronization. Xiaoyao Qian. 2018.
+Awards
+2022 William L. Everitt Fellow in Electrical and Computer Engineering.
+2018 IEEE Security & Privacy Distinguished Reviewer Award
+2016 Larry S. Davis Doctoral Dissertation Award (University of Maryland)
+Activities
+(Program Committee member) IEEE Security and Privacy, 2019
+(Program Committee member) IEEE Security and Privacy, 2018
+(Program Committee member) ACM CCS, 2017
+(Program Committee member) NDSS, 2017
+(Program Committee member) Usenix Security, 2017
+(Steering Committee member) Financial Cryptography, 2018
+(Program Committee chair) 4th Bitcoin Research Workshop, 2017
+(Program Committee member) Financial Cryptography, 2017
+(Program Committee member) IEEE Symposium on Security and Privacy, 2017
+(Program Committee member) Networked and Distributed Systems Security, 2017
+(Program Committee member) Scaling Bitcoin Workshop 2015
+(Program Committee member) ESP-DGC 2015
+(Program Committee member) 13th International Conference on Applied Cryptography and Network Security
+(Program Committee member) Bitcoin Research Workshop 2014-2016
+(Program Committee member) International Conference on Information and Computer Security (ICICS) 2014.
+Other research
+
+Blog posts:
+
+Scanning Live Ethereum Contracts for the "Unchecked-Send" Bug (coauthored with Zikai Alex Wen)
+Bitcoin faces a crossroads, needs an effective decision-making process (coauthored with Arvind Narayanan)
+Why the Cornell Paper on Bitcoin Mining is Important (coauthored with Arvind Narayanan)
+
+Commissioned security reports:
+
+Report: Security Audit of BTC Relay implementation
+Ethereum Analysis: Gas Economics and Proof of Work (with Least Authority)
+
+Forum posts:
+
+Feather-forks: enforcing a blacklist with sub-50% hash power
+Storing UTXOs in a Balanced Merkle Tree (zero-trust nodes with O(1)-storage)
+an explanation of TierNolan's atomic cross transaction technique
+Bitcoin as Lottery, Prospect Theory, and Unprofitable Mining
+Bitcoin Theory (Byzantine Generals and Beyond)
+A Non-Outsourceable puzzle to prevent hosted mining
+Reentrant [Ethereum] Contracts
+
+Masters degree in computer science @ University of Central Florida:
+
+(Short Paper) The Effectiveness of an AR-based Context-Aware Assembly Support System in Object Assembly. Bui Minh Kuong, Kiyoshi Kiyokawa, Andrew Miller, Joseph J. LaViola Jr., Tomohiro Mashita, and Haruo Takemura. IEEE Virtual Reailty 2014.
+Interactive 3D Model Acquisition and Tracking of Building Block Structures. Andrew Miller, Brandyn White, Emiko Charbonneau, Zach Kanzler, Joseph J. LaViola Jr., IEEE Transactions on Visualization and Computer Graphics, and IEEE Virtual Reality. March 2012 (project website) (on github).
+Teach Me to Dance: Exploring Player Experience and Performance in Full Body Dance Games. Emiko Charbonneau, Andrew Miller, Joseph J. LaViola Jr. ACM Advances in Computer Entertainment Technology 2011. (ACE ‘11) (best paper award)
+VizWiz: Nearly Real-time Answers to Visual Questions. Bigham, Jayant, Li, Little, Miller, Miller, Miller, Tatarowicz, White, White, and Yeh. ACM International Cross Disciplinary Conference on Web Accessibility, 2010. (best paper award)
+A Vision-Based System for a UGV to Handle a Road Intersection. Javed Ahmed, Andrew Miller, Mubarak Shah, and Don Harper. AAAI 2009.
+Landing a UAV on a Runway using Image Registration. Andrew Miller, Mubarak Shah, and Don Harper. ICRA 2008.
+Foreground Segmentation in Surveillance Scenes Containing a Door. Andrew Miller and Mubarak Shah. IEEE Conference on Multimedia and Expo (ICME). Beijing, July 2007
+Contact, references, links
+email soc1024@illinois.edu
+personal twitter (usually about research) Follow @socrates1024
+personal webpage http://soc1024.com/
+cv (google doc)
+I also do computer vision consulting work With Dapper Vision Inc., including OpenShades (tools for google glass)
+
+Stickwheel - a completely practical, yet unusual, 1-wheeled electric vehicle. Compared to a Segway, it uses 50% fewer wheels. (youtube video)
+
+News
+(Motherboard) Radioactive Material From Chernobyl Will Help Secure the Next Version of Zcash
+(Scientific American) The Imperfect Crime: How the WannaCry Hackers Could Get Nabbed
+(CoinTelegraph) Monero Transactions History Can Be Revealed and Exposed: Research April 16, 2017
+(ACM Queue) Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts January 2017. With Arvind Narayanan.
+(Coindesk) Faster Than Lightning? 'Sprite' Paper Envisions New Bitcoin Payments February 23, 2017
+(Wired Magazine, quoted in) Forget Bitcoin. The Blockchain Could Reveal What’s True Today and Tomorrow March 22, 2017
+Textbook released, July 2016 http://bitcoinbook.cs.princeton.edu/
+Outside consulting
+
+I am a technical advisor (or previously advised) the following cryptocurrency or blockchain related projects and companies:
+
+Flashbots Visiting Researcher
+SmartContract
+Oasis Foundation
+Tezos
+(2015-2017) Zerocoin Electric Coin Company (aka, the Zcash Company)
+
+I'm currently a board member of:
+
+Zcash Foundation
+Talks (not updated frequently):
+Ethereum isn't Turing complete and it doesn't matter anyway. IC3 New York City Meetup. Aug 2016 (meetup) (video)
+Provable Security for Cryptocurrencies -- Thesis Defense for University of Maryland. July 19, 2016. (youtube)
+Epicenter Bitcoin interview. Dec 2015 (podcast)
+MIT Bitcoin Expo, Mar 8, 2015. (video)
+Nonoutsourceable puzzles. DCAPS, Mar 5, 2015. (slides)
+Game Theory at Hasher's United Conference. Las Vegas, October 2014. (video)
+From Onions to Shallots: Rewarding Tor Relays with TEARS. HotPETS. Amsterdam, July 2014. (slides)
+Using the Shadow Simulator for Bitcoin analysis and attacks. PETS (rump session). Amsterdam, July 2014.
+Pool Busting with "Nonoutsourceable" Bitcoin Puzzles. Workshop on Economics and Information Security (rump session). State College, PA, July 2014 (slides)
+Panel at Princeton Bitcoin and Cryptocurrency Research Conference on "Building collaborations between Bitcoin developers and researchers"
+Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. DCAPS. Georgetown, DC, May 2014. (slides)
+Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. IEEE Security and Privacy. San Jose, May 2014. (slides)
+Permacoin: Repurposing Bitcoin Work for Long-Term Data Preservation. San Francisco Ethereum Meetup. San Francisco, May 2014. (slides) (video)
+Towards a Better Concurrency Framework. UMD Crypto Reading Group. April 2014. (slides)
+Scratch-Off Puzzles with Side Effects and More. Princeton Bitcoin Research Workshop. March 2014 (slides)
+Why Wasn't Bitcoin Invented 15 Years Ago? Financial Cryptography (rump session). Barbados, March 2014. (slides)
+Authenticated Data Structures, Generically + Bitcoin. Guest Lecture, UMD Cloud Security class. February 2014. (slides)
+Authenticated Data Structures, Generically. POPL. San Diego, January 2014. (slides)
+Intro to Bitcoin Research. UMD Crypto Reading Group. December 2013. (slides)
+Computational Puzzles. UMD Systems Chat. February 2013. (slides)
+

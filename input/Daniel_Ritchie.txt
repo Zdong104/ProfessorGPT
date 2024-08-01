@@ -1,0 +1,312 @@
+Professor: Daniel Ritchie
+University: Brown University
+URL: https://dritchie.github.io/
+Description: Daniel Ritchie
+Affiliations
+Brown University
+Computer Science Department
+Brown Visual Computing
+Contact Information
+CIT, Room 445
+115 Waterman Street
+Providence, RI 02912
+Info for prospective students
+            
+Teaching
+Spring 2024
+CSCI 2240: Advanced Computer Graphics
+Fall 2023
+CSCI 1230: Introduction to Computer Graphics
+Spring 2023
+CSCI 2240: Advanced Computer Graphics
+Fall 2022
+CSCI 1230: Introduction to Computer Graphics
+Talks & Videos
+Learning to Represent Shapes with Programs
+
+SGP 2022 Summer School
+
+Neurosymbolic Generative Models for Structured 3D Content
+
+3D Geometry and Vision (3DGV) Seminar
+
+We Need a Deeper Network
+
+Brown CSCI 1470/2470 Fall 2020 end-of-semester song
+
+Probabilistic Programming for Computer Graphics
+
+PROBPROG 2018
+
+Resources
+Deep Learning for 3D Geometry
+
+My slides for the course that Zoë Marschner and I taught at SGP '24
+
+The SIGGRAPH Logo Gallery
+
+An interactive gallery of paper figures featuring the SIGGRAPH name and/or logo
+
+Optimeet
+
+A tool for coordinated scheduling of multiple meetings
+
+REU Site: AI for Computational Creativity
+
+Website for our NSF REU Site
+
+exploreCSR: Socially-Reponsible AI for Computational Creativity
+
+Website for our undergrad research experience program (in partnership with Google Research)
+
+Learning to Generate 3D Shapes and Scenes
+
+Website for our CVPR 2021 Workshop
+
+Learning 3D Generative Models
+
+Website for our CVPR 2020 Workshop
+
+Learning Generative Models of 3D Structures
+
+Slides from our Eurographics 2019 Tutorial
+
+Three-phase Paper Writing
+
+An algorithm for writing technical papers
+
+I am an Associate Professor of Computer Science at Brown University, where I co-lead the Brown Visual Computing group. My research sits at the intersection of computer graphics, artificial intelligence, and machine learning—especially how AI and ML tools can make the process of creating graphics content easier, more accessible, and more enjoyable. I'm particularly interested in technologies for creating, manipulating, and analyzing 3D shapes and scenes, and these days I'm excited about neurosymbolic methods for doing so (combining the best aspects of procedural models and deep neural networks). My research is funded by gifts from Adobe, Autodesk, Pixar, and NVIDIA, as well as grants from DARPA and the National Science Foundation, including an NSF CAREER Award.
+
+I received my PhD from Stanford University, where I worked with Pat Hanrahan in the Graphics Lab and with Noah Goodman in the Computation and Cognition Lab. I received my undergraduate degree from the University of California, Berkeley.
+
+My Erdős number is 4 (Daniel Ritchie → Niloy Mitra → Leonidas Guibas → Boris Aronov → Paul Erdős). My Bacon number is 3, though only if you count all film credits, not just cast appearances (Daniel Ritchie → John Lasseter → Tom Hanks → Kevin Bacon). This (debatably) makes my Erdős-Bacon number 7.
+
+News
+July 2024
+I'll be at SIGGRAPH 2024. I'll be running a BoF on PhD student mentoring (submit topics for discussion here) and helping out with the thesis fast forward. Oh, and if you have a paper that features a creative use of the SIGGRAPH logo, don't forget to submit to the SIGGRAPH Logo Gallery. See you in Denver!
+July 2024
+Paper (with fantastic SFU collaborators) about a new 3D scene dataset accepted to ECCV 2024! Code and data coming soon.
+June 2024
+I'll be at SGP on Saturday (6/22) teaching a course and again on Monday (6/24). Hit me up if you'd like to meet!
+May 2024
+New paper on visual concept learning accepted to ICML 2024!
+April 2024
+New paper on learning a single model for generating (and blending between) multiple procedural noise patterns accepted to SIGGRAPH 2024!
+Archive
+Publications
+R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding
+Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, and Angel X. Chang
+EECV 2024
+arXiv
+One Noise to Rule Them All: Learning a Unified Model of Spatially-Varying Noise Patterns
+Arman Maesumi, Dylan Hu, Krishi Saripalli, Vladimir Kim, Matthew Fisher, Sören Pirk, and Daniel Ritchie
+SIGGRAPH 2024
+project page | arXiv | paper
+Learning to Infer Generative Template Programs for Visual Concepts
+R. Kenny Jones, Siddhartha Chaudhuri, and Daniel Ritchie
+ICML 2024
+arXiv
+PossibleImpossibles: Exploratory Procedural Design of Impossible Structures
+Yuanbo Li, Tianyi Ma, Zaineb Aljumayaat, and Daniel Ritchie
+Eurographics 2024
+paper | code
+CharacterMixer: Rig-Aware Interpolation of 3D Characters
+Xiao Zhan, Rao Fu, and Daniel Ritchie
+Eurographics 2024
+project page | arXiv | paper
+Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects
+Qirui Wu, Daniel Ritchie, Manolis Savva, and Angel X. Chang
+3DV 2024
+project page | arXiv
+Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases
+Rio Aguina-Kang, Maxim Gumin, Do Heon Han, Stewart Morris, Seung Jean Yoo, Aditya Ganeshan, R. Kenny Jones, Qiuhong Anna Wei, Kailiang Fu, and Daniel Ritchie
+arXiv preprint
+arXiv
+Editing Motion Graphics Videos via Motion Vectorization & Transformation
+Sharon Zhang, Jiaju Ma, Daniel Ritchie, Jiajun Wu, and Maneesh Agrawala
+SIGGRAPH Asia 2023
+project page | arXiv
+Explorable Mesh Deformation Subspaces from Unstructured 3D Generative Models
+Arman Maesumi, Paul Guerrero, Vladimir Kim, Matthew Fisher, Siddhartha Chaudhuri, Noam Aigerman, and Daniel Ritchie
+SIGGRAPH Asia 2023
+project page | paper | arXiv
+Improving Unsupervised Visual Program Inference with Code Rewriting Families
+Aditya Ganeshan, R. Kenny Jones, and Daniel Ritchie
+ICCV 2023
+project page | paper | arXiv
+Oral Presentation
+ShapeCoder: Discovering Abstractions for Visual Programs from Unstructured Primitives
+R. Kenny Jones, Paul Guerrero, Niloy Mitra, and Daniel Ritchie
+SIGGRAPH 2023
+project page | arXiv
+Unsupervised 3D Shape Reconstruction by Part Retrieval and Assembly
+Xianghao Xu, Paul Guerrero, Matthew Fisher, Siddhartha Chaudhuri, and Daniel Ritchie
+CVPR 2023
+arXiv
+CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language
+Aditya Sanghi, Rao Fu, Vivian Liu, Karl D. D. Willis, Hooman Shayani, Amir Hosein Khasahmadi, Srinath Sridhar, and Daniel Ritchie
+CVPR 2023
+project page | arXiv
+Neurosymbolic Models for Computer Graphics
+Daniel Ritchie, Paul Guerrero, R. Kenny Jones, Niloy Mitra, Adriana Schulz, Karl D. D. Willis, and Jiajun Wu
+Eurographics 2023 STAR
+arXiv | paper
+ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model
+Rao Fu, Xiao Zhan, Yiwen Chen, Daniel Ritchie, and Srinath Sridhar
+NeurIPS 2022
+arXiv | project page
+SHRED: 3D Shape Region Decomposition with Learned Local Operations
+R. Kenny Jones, Aalia Habib, and Daniel Ritchie
+SIGGRAPH Asia 2022
+arXiv | project page
+The Shape Part Slot Machine: Contact-based Reasoning for Generating 3D Shapes from Parts
+Kai Wang, Paul Guerrero, Vladimir Kim, Siddhartha Chaudhuri, Minhyuk Sung, and Daniel Ritchie
+ECCV 2022
+arXiv
+Unsupervised Kinematic Motion Detection for Part-segmented 3D Shape Collections
+Xianghao Xu, Yifan Ruan, Srinath Sridhar, and Daniel Ritchie
+SIGGRAPH 2022
+paper | arXiv | code
+PLAD: Learning to Infer Shape Programs with Pseudo-Labels and Approximate Distributions
+R. Kenny Jones, Homer Walke, and Daniel Ritchie
+CVPR 2022
+project page | arXiv
+The Neurally-Guided Shape Parser: Grammar-based Labeling of 3D Shape Regions with Approximate Inference
+R. Kenny Jones, Aalia Habib, Rana Hanocka, and Daniel Ritchie
+CVPR 2022
+project page | arXiv
+Learning to Infer Kinematic Hierarchies for Novel Object Instances
+Hameed Abdul-Rashid, Miles Freeman, Ben Abbatematteo, George Konidaris, and Daniel Ritchie
+ICRA 2022
+arXiv
+Learning Body-Aware 3D Shape Generative Models
+Bryce Blinn, Alexander Ding, R. Kenny Jones, Manolis Savva, Srinath Sridhar, and Daniel Ritchie
+arXiv preprint
+arXiv
+ShapeMOD: Macro Operation Discovery for 3D Shape Programs
+R. Kenny Jones, David Charatan, Paul Guerrero, Niloy Mitra, and Daniel Ritchie
+SIGGRAPH 2021
+project page | arXiv
+Roominoes: Generating Novel 3D Floor Plans From Existing 3D Rooms
+Kai Wang, Xianghao Xu, Leon Lei, Natalie Lindsay, Selena Ling, Angel X. Chang, Manolis Savva, and Daniel Ritchie
+SGP 2021
+paper | talk
+Inferring CAD Modeling Sequences using Zone Graphs
+Xianghao Xu, Wenzhe Peng, Chin-Yi Cheng, Karl D. D. Willis, and Daniel Ritchie
+CVPR 2021
+project page | arXiv
+Shape from Tracing: Towards Reconstructing 3D Object Geometry and SVBRDF Material from Images via Differentiable Path Tracing
+Purvi Goel, Loudon Cohen, James Guesman, Vikas Thamizharasan, James Tompkin, and Daniel Ritchie
+3DV 2020
+paper | project page
+Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections
+Xianghao Xu, David Charatan, Sonia Raychaudhuri, Hanxiao Jiang, Mae Heitmann, Vladimir Kim, Siddhartha Chaudhuri, Manolis Savva, Angel X. Chang, and Daniel Ritchie
+3DV 2020
+paper | project page
+ShapeAssembly: Learning to Generate Programs for 3D Shape Structure Synthesis
+R. Kenny Jones, Theresa Barton, Xianghao Xu, Kai Wang, Ellen Jiang, Paul Guerrero, Niloy Mitra, and Daniel Ritchie
+SIGGRAPH Asia 2020
+paper | project page
+GANHopper: Multi-Hop GAN for Unsupervised Image-to-Image Translation
+Wallace Lira, Johannes Merz, Daniel Ritchie, Daniel Cohen-Or, and Hao Zhang
+ECCV 2020
+arXiv
+Learning Generative Models of 3D Structures
+Siddhartha Chaudhuri, Daniel Ritchie, Jiajun Wu, Kai Xu, and Hao Zhang
+Eurographics 2020 STAR
+paper | presentation video
+Learning Style Compatibility Between Objects in a Real-World 3D Asset Database
+Yifan Liu, Ruolan Tang, and Daniel Ritchie
+Pacific Graphics 2019
+paper | supplemental
+PlanIT: Planning and Instantiating Indoor Scenes with Relation Graph and Spatial Prior Networks
+Kai Wang, Yu-an Lin, Ben Weissmann, Manolis Savva, Angel X. Chang, and Daniel Ritchie
+SIGGRAPH 2019
+paper | fast forward video
+Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative Models
+Daniel Ritchie, Kai Wang, and Yu-an Lin
+CVPR 2019
+arXiv
+Learning to Describe Scenes with Programs
+Yunchao Liu, Zheng Wu, Daniel Ritchie, William T. Freeman, Joshua B. Tenenbaum, and Jiajun Wu
+ICLR 2019
+OpenReview
+Learning to Infer Graphics Programs from Hand-Drawn Images
+Kevin Ellis, Daniel Ritchie, Armando Solar-Lezama, and Joshua B. Tenenbaum
+NeurIPS 2018
+arXiv
+Spotlight Presentation
+Improving Shape Deformation in Unsupervised Image-to-Image Translation
+Aaron Gokaslan, Vivek Ramanujan, Daniel Ritchie, Kwang In Kim, and James Tompkin
+ECCV 2018
+arXiv | code
+Deep Convolutional Priors for Indoor Scene Synthesis
+Kai Wang, Manolis Savva, Angel X. Chang, and Daniel Ritchie
+SIGGRAPH 2018
+pdf | code
+ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans
+Angela Dai, Daniel Ritchie, Martin Bokeloh, Scott Reed, Jürgen Sturm, and Matthias Nießner
+CVPR 2018
+arXiv | video
+Example-based Authoring of Procedural Modeling Programs with Structural and Continuous Variability
+Daniel Ritchie, Sarah Jobalia, and Anna Thomas
+Eurographics 2018
+pdf | supplemental
+An Improved Training Procedure for Neural Autoregressive Data Completion
+Maxime Voisin and Daniel Ritchie
+NIPS 2017 Bayesian Deep Learning Workshop
+arXiv | code
+Neurally-Guided Procedural Models: Amortized Inference for Procedural Graphics Programs using Neural Networks
+Daniel Ritchie, Anna Thomas, Pat Hanrahan, and Noah D. Goodman
+NIPS 2016
+pdf | supplemental | video | demo | arXiv
+Deep Amortized Inference for Probabilistic Programs
+Daniel Ritchie, Paul Horsfall, and Noah D. Goodman
+arXiv preprint
+pdf | arXiv
+Probabilistic Programming for Procedural Modeling and Design
+Daniel Ritchie
+Stanford University Doctoral Dissertation 2016
+pdf | stanford library
+C3: Lightweight Incrementalized MCMC for Probabilistic Programs using Continuations and Callsite Caching
+Daniel Ritchie, Andreas Stuhlmüller, and Noah D. Goodman
+AISTATS 2016
+pdf | slides | code
+Controlling Procedural Modeling Programs with Stochastically-Ordered Sequential Monte Carlo
+Daniel Ritchie, Ben Mildenhall, Noah D. Goodman, and Pat Hanrahan
+SIGGRAPH 2015
+pdf | slides | code | demo
+Generating Design Suggestions under Tight Constraints with Gradient-based Probabilistic Programming
+Daniel Ritchie, Sharon Lin, Noah D. Goodman, and Pat Hanrahan
+Eurographics 2015
+pdf | slides | video | code
+Best Paper Honorable Mention
+Quicksand: A Lightweight Embedding of Probabilistic Programming for Procedural Modeling and Design
+Daniel Ritchie
+3rd NIPS Workshop on Probabilistic Programming
+pdf | slides | project page | talk
+First-class Runtime Generation of High-performance Types using Exotypes
+Zachary Devito, Daniel Ritchie, Matthew Fisher, and Pat Hanrahan
+PLDI 2014
+pdf | project page
+Probabilistic Color-by-Numbers: Suggesting Pattern Colorizations Using Factor Graphs
+Sharon Lin, Daniel Ritchie, Matthew Fisher, and Pat Hanrahan
+SIGGRAPH 2013
+pdf | project page
+Example-based Synthesis of 3D Object Arrangements
+Matthew Fisher, Daniel Ritchie, Manolis Savva, Thomas Funkhouser, and Pat Hanrahan
+SIGGRAPH Asia 2012
+pdf | project page
+d.tour: Style-based Exploration of Design Example Galleries
+Daniel Ritchie, Ankita Kejriwal, and Scott R. Klemmer
+UIST 2011
+pdf | video
+Dynamic Local Remeshing for Elastoplastic Simulation
+Martin Wicke, Daniel Ritchie, Bryan M. Klingner, Sebastian Burke, Jonathan R. Shewchuk, and James F. O'Brien
+SIGGRAPH 2010
+pdf | video 1 | video 2 | project page
+Interactive Simulation of Surgical Needle Insertion and Steering
+Nuttapong Chentanez, Ron Alterovitz, Daniel Ritchie, Lita Cho, Kris Hauser, Ken Goldberg, Jonathan R. Shewchuk, and James F. O'Brien
+SIGGRAPH 2009
+pdf | video 1 | project page
+

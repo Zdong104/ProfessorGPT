@@ -1,0 +1,104 @@
+Professor: Scott Rixner
+University: Rice University
+URL: https://www.cs.rice.edu/~rixner
+Description: Scott Rixner
+Home
+Publications
+Teaching
+Patents
+Contact
+Scott Rixner
+Professor
+Computer Science
+Rice University
+Faculty Senator
+Convenor of Appeals and Grievances
+Director of Professional Studies, Computer Science
+Biography
+
+Scott Rixner is a Professor of Computer Science at Rice University. His research spans virtualization, operating systems, and computer architecture, with a specific focus on memory systems and networking. He concentrates on the intersection of hardware and software, working to develop system software that better exploits modern hardware and to develop hardware that simplifies system software. He is also well versed in the internals of the Python programming language, as he has developed Python interpreters for both embedded systems and web browsers. His work has led to 11 patents and has been implemented within several open source systems.
+
+He has also been actively involved in curriculum development and oversight at Rice, having served on or led the curriculum committees for the University, School of Engineering, and Department of Computer Science. He is currently helping to lead the MCS@Rice and MDS@Rice online degree programs. Prior to joining Rice, he received his Ph.D. from MIT.
+
+Interests
+Computer Architecture
+Operating Systems
+Virtualization
+Memory Systems
+Networking
+Education
+
+PhD in Electrical Engineering, 2001
+
+Massachusetts Institute of Technology
+
+MEng in Computer Science and Electrical Engineering, 1995
+
+Massachusetts Institute of Technology
+
+BSc in Computer Science, 1995
+
+Massachusetts Institute of Technology
+
+Online Degree Programs
+MDS@Rice
+Online Master of Data Science Degree Program Aug 2021
+I am the faculty director of the MDS@Rice program, helping to launch the second fully online degree program in the School of Engineering at Rice University.
+MCS@Rice
+Online Master of Computer Science Degree Program Aug 2019
+I am the faculty director of the MCS@Rice program, helping to lead the first fully online degree program in the School of Engineering at Rice University.
+Selected Research Projects
+EDUCATIONAL RESEARCH
+
+Across the country, computer science has seen explosive growth in both the number of majors and the number of non-majors taking …
+
+MEMORY SYSTEMS
+
+Hardware and software design for memory systems is critical to modern system performance. I have explored multiple facets of the memory …
+
+SYSTEM-LEVEL VIRTUALIZATION
+
+NUMA machines require applications to layout memory in a more careful way than in traditional UMA machines because of different memory …
+
+Media
+Online Master of Computer Science, Rice University Computer Science Unconventional Computing Podcast (iTunes, Google Play)
+Rice Eliminates the Red Tape to Encourage Research on Teaching, The Chronicle of Higher Education
+Houston Public Radio Interview
+Campus Conversations with the President
+The Anatomy of a MOOC
+Open Source
+Skulpt
+
+I am a member of the Skulpt project and have made significant contributions to the project. Skulpt is the underlying Python interpreter for CodeSkulptor and CodeSkulptor3.
+
+FreeBSD
+
+The connection-level parallelism strategies described in our research paper “An Evaluation of Network Stack Parallelization Strategies in Modern Operating Systems” were adapted and implemented within FreeBSD 9.0.
+
+Linux
+
+The code that we proposed to fix a scheduler bug in our research paper “Scheduling I/O in Virtual Machine Monitors” was adapted and implemented within Linux 2.6.39.
+
+Quicksilver
+
+We developed a novel transparent superpage management design based on FreeBSD, which supports both anonymous and file-backed superpages. The overall system is described in our research paper “A Comprehensive Analysis of Superpage Management Mechanisms and Policies”.
+
+Virtflex
+
+We developed a multi-layered system that allows the Xen hypervisor to dynamically change the NUMA topologies of its guest virtual machines. The system allows unmodified OpenMP applications running within the guests to automatically adapt to topology changes. The overall system is described in our research paper “Virtflex: Automatic Adaptation to NUMA Topology Change for OpenMP Applications”.
+
+Owl Embedded Python
+
+We developed an embedded Python run-time system for 32-bit microcontrollers. The overall system is described in our research paper “Design and Implementation of an Embedded Python Run-Time System”.
+
+Contact
+rixner@rice.edu
+1 713 348 6353
+Duncan Hall 3032
+Department of Computer Science
+Rice University
+Houston, TX 77005
+Email to book an appointment
+
+© 2022 Scott Rixner · Powered by the Academic theme for Hugo.
+

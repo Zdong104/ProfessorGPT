@@ -1,0 +1,235 @@
+Professor: Keren Zhou 0001
+University: George Mason University
+URL: https://www.jokeren.tech/
+Description: Keren Zhou
+Home
+Experience
+Projects
+Featured
+Publications
+Talks
+Students
+Tags
+News
+Keren Zhou
+Assistant Professor
+George Mason University
+Biography
+
+I am an Assistant Professor in the Department of Computer Science at George Mason University and a part-time Member of Technical Staff at OpenAI. Before joining GMU, I was a full-time Member of Technical Staff at OpenAI. I obtained my Ph.D. degree from Rice University, advised by Professor John Mellor-Crummey. Previously, I studied at Institute of Computing Technology, Chinese Academy of Sciences in Professor Guangming Tan’s PAA group. Prior to that, I was an undergraduate student at Yunnan University, advised by Professor Wei Zhou.
+
+Interests
+High Performance Computing
+Parallel Algorithms
+Program Analysis
+Machine Learning
+Education
+
+PhD in Computer Science, 2022
+
+Rice University
+
+MS in Computer Science, 2017
+
+Institute of Computing Technology, Chinese Academy of Sciences
+
+BE in Network Engineering, 2014
+
+School of Software, Yunnan University
+
+Recent News
+Apr 2024 Attended ASPLOS'24
+Nov 2023 Attended SC'23
+Aug 2023 Joined George Mason University as an Assistant Professor
+Aug 2023 Awarded 2023 SIGHPC Doctoral Dissertation Award
+Jun 2023 Attended Scalable Tools Workshop'23 and gave a talk about Triton
+Apr 2023 Attended ISPASS'23
+Nov 2022 Attended SC'22
+Jun 2022 Joined OpenAI More news…
+Experience
+ 
+ 
+ 
+ 
+ 
+Member of Technical Staff
+OpenAI
+November 2023 – Present  Fairfax
+Triton Compiler
+ 
+ 
+ 
+ 
+ 
+Assistant Professor
+George Mason University
+August 2023 – Present  Fairfax
+Computer Architecture/Compiler/Machine Learning Systems
+ 
+ 
+ 
+ 
+ 
+Member of Technical Staff
+OpenAI
+June 2022 – August 2023  San Francisco
+Performance Optimization of Deep Learning Workloads
+ 
+ 
+ 
+ 
+ 
+Software Engineering Intern
+NVIDIA
+May 2021 – August 2021  Remote
+Performance Profiling for Deep Learning Frameworks
+ 
+ 
+ 
+ 
+ 
+Software Engineering Intern
+Google
+May 2020 – August 2020  Remote
+Performance Regression Analysis of Feedback-direct Optimization (FDO) Based Programs
+ 
+ 
+ 
+ 
+ 
+Research Intern
+Meta
+June 2018 – August 2018  Menlo Park
+Neural Network Optimization on Mobiles
+ 
+ 
+ 
+ 
+ 
+Research Intern
+NVIDIA
+April 2017 – July 2017  Beijing
+Neural Network Quantization
+ 
+ 
+ 
+ 
+ 
+Software Engineering Intern
+Baidu
+October 2014 – February 2015  Beijing
+Hadoop Workflow Optimization
+Projects
+GPA
+GPA is a performance advisor for NVIDIA GPUs that suggests potential code optimization opportunities at a hierarchy of levels, including individual lines, loops, and functions. GPA uses data flow analysis to approximately attribute measured instruction stalls to their root causes and uses information about a program’s structure and the GPU to match inefficiency patterns with suggestions for optimization. GPA estimates each optimization’s speedup based on a PC sampling-based performance model.
+Code
+HPCToolkit
+Our tool provides a profile view and a trace view for GPU-accelerated applications. The profile view identifies where GPU APIs are invoked in CPU calling context, approximates calling context for GPU execution, and analyzes instruction mix for GPU kernels. The tool traces CPU and GPU activities for a large number of processes and threads with minimal overhead.
+Code DOC
+Triton
+Triton is a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment for expressing tensor math workloads that offers high flexibility, developer productivity and end to end performance.
+Code DOC
+GVProf
+We implemented GVProf, the first value profiler that locates value redundancy problems in applications running on GPU-based clusters. Our experiments show that GVProf incurs acceptable overhead and scales to large executions. GVProf provides useful insights to guide performance optimization. Under the guidance of GVProf, we optimized several HPC and machine learning workloads, obtaining speedups up to 1.93x.
+Code DOC
+Featured Publications
+An Automated Tool for Analysis and Tuning of GPU-Accelerated Code in HPC Applications
+The US Department of Energy’s fastest supercomputers and forthcoming exascale systems employ Graphics Processing Units (GPUs) to …
+Keren Zhou, Xiaozhu Meng, Ryuichi Sai, Dejan Grubisic, John Mellor-Crummey
+Cite Project DOI URL
+ValueExpert: Exploring Value Patterns in GPU-Accelerated Applications
+General-purpose GPUs have become common in modern computing systems to accelerate applications in many domains, including machine …
+Keren Zhou, Yueming Hao, John Mellor-Crummey, Xiaozhu Meng, Xu Liu
+Cite Project DOI URL
+Measurement and Analysis of GPU-accelerated Applications with HPCToolkit
+To address the challenge of performance analysis on the US DOE’s forthcoming exascale supercomputers, Rice University has been …
+Keren Zhou, Laksono Adhianto, Jonathon Anderson, Aaron Cherian, Dejan Grubisic, Mark Krentel, Yumeng Liu, Xiaozhu Meng, John Mellor-Crummey
+Cite Project DOI URL
+Tools for Top-down Performance Analysis of GPU-Accelerated Applications
+This paper describes extensions to Rice University’s HPCToolkit performance tools to support measurement and analysis of …
+Keren Zhou, Mark W. Krentel, John Mellor-Crummey
+Cite Project DOI URL
+Recent Publications
+Quickly discover relevant content by filtering publications.
+ FASTEN: Fast GPU-accelerated Segmented Matrix Multiplication for Heterogenous Graph Neural Networks
+Keren Zhou, Karthik Ganapathi Subramanian, Po-Hsun Lin, Matthias Fey, Binqian Yin, Jiajia Li
+2024 Proceedings of the 38th ACM International Conference on Supercomputing.
+
+Cite Project DOI URL
+
+ PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode Transformation and Graph Compilation
+Jason Ansel, Edward Yang, Horace He, Natalia Gimelshein, Animesh Jain, Michael Voznesensky, Bin Bao, Peter Bell, David Berard, Evgeni Burovski, Geeta Chauhan, Anjali Chourdia, Will Constable, Alban Desmaison, Zachary DeVito, Elias Ellison, Will Feng, Jiong Gong, Michael Gschwind, Brian Hirsh, Sherlock Huang, Kshiteej Kalambarkar, Laurent Kirsch, Michael Lazos, Mario Lezcano, Yanbo Liang, Jason Liang, Yinghai Lu, C. K. Luk, Bert Maher, Yunjie Pan, Christian Puhrsch, Matthias Reso, Mark Saroufim, Marcos Yukio Siraichi, Helen Suk, Shunting Zhang, Michael Suo, Phil Tillet, Xu Zhao, Eikan Wang, Keren Zhou, Richard Zou, Xiaodong Wang, Ajit Mathews, William Wen, Gregory Chanan, Peng Wu, Soumith Chintala
+2024 Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS).
+
+Cite Project DOI URL
+
+ Hardware-Aware Compression with Random Operation Access Specific Tile (ROAST) Hashing
+Aditya Desai, Keren Zhou, Anshumali Shrivastava
+2023 Proceedings of the 40th International Conference on Machine Learning (ICML).
+
+Cite Project URL
+
+ DrGPUM: Guiding Memory Optimization for GPU-Accelerated Applications
+Mao Lin, Keren Zhou, Pengfei Su
+2023 Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS).
+
+Cite Project DOI URL
+
+ Semi-supervised learning for shale image segmentation with fast normalized cut loss
+Binqian Yin, Qinhong Hu, Yingying Zhu, Keren Zhou
+2023 Geoenergy Science and Engineering.
+
+Cite DOI URL
+
+SEE ALL PUBLICATIONS 
+Recent & Upcoming Talks
+FASTEN: Fast GPU-accelerated Segmented Matrix Multiplication for Heterogenous Graph Neural Networks
+Presented the FASTEN work for accelerating segmented matrix multiplication
+Jun 1, 2024 9:41 PM — 9:41 PM  Virtual
+Keren Zhou
+Project Slides
+Update on Triton's Interpreter
+Review Triton’s Interpreter’s progress and future plans
+Apr 3, 2024 10:03 PM — 10:03 PM  Virtual
+Keren Zhou
+Project Slides
+Proton: A Profiler for Triton
+Went through Proton’s design overview
+Feb 20, 2024 10:03 PM — 10:03 PM  Virtual
+Keren Zhou
+Project Slides
+Technical Review on PyTorch 2.0 and Triton
+High-level overview of PyTorch 2.0 and Triton integration
+Aug 7, 2023 10:03 PM — 10:03 PM  Virtual
+Keren Zhou
+Project Slides
+Towards Agile Development of Efficient Deep Learning Operators (Hardware Insights)
+Presented a talk about Triton and requested feedback from Intel engineers
+Jun 29, 2023 10:56 PM — 10:56 PM  Virtual
+Keren Zhou
+Project Slides
+SEE ALL EVENTS 
+Students
+PhD Students
+Bowen Cui, GMU, 2024-
+Jihyeong Lee, GMU, 2024-
+Hao Wu, GMU, 2024-
+Junyu Yin, GMU, 2024-
+Atul Khatri, GMU, 2023-
+co-advised with Prof. Songqing Chen
+Mao Lin, UC Merced, 2022-2023
+co-advised with Prof. Pengfei Su
+Master Students
+Tejas Ramesh, GMU, 2023-
+Mandar Chaudhari, GMU, 2023-2024
+Karthik Ganapathi Subramanian, NC State, 2023-2024
+co-advised with Prof. Jiajia Li
+Popular Topics
+AMD Batch Processing Calling Context Compiler Convolution CPU Deep Learning Feedback-directed Optimization GEMM GPU HPC Instruction Sampling Instrumentation Performance Tool Profiler Profiling Programming Language Triton Value Analysis Wait-free
+
+© 2024 Keren Zhou. This work is licensed under CC BY NC ND 4.0
+
+   
+
+Published with Wowchemy — the free, open source website builder that empowers creators.
+

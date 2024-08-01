@@ -1,0 +1,103 @@
+Professor: Ehsan Elhamifar
+University: Northeastern University
+URL: http://www.ccs.neu.edu/home/eelhami
+Description:  
+ 
+
+
+  Home     MCADS Lab     People     Publications     Activities     Codes     Data     Teaching
+	
+
+
+Ehsan Elhamifar, PhD
+
+Associate Professor
+Khoury College of Computer Sciences
+Electrical and Computer Engineering, College of Engineering (Affiliated)
+Northeastern University
+
+Email: eelhami [at] ccs [dot] neu [dot] edu
+Office: 310E West Village Hall (WVH)
+
+ 
+
+About Me
+
+I am an Associate Professor in the Khoury College of Computer Sciences and am affiliated with ECE. I am the director of the Mathematical Data Science (MCADS) Lab and the Director of MS in AI at Northeastern.
+
+I have broad research interests in computer vision, machine learning and deep learning. The overarching goal of my research is to develop AI that learns from and makes inferences about data analogous to humans. I develop AI that understands and learns from complex human activities and scenes using videos and multi-modal data, learns its tasks from fewer examples and less annotated data, and makes real-time inferences as new data arrive. I also use these AI systems to assist and train people for performing complex procedural and physical tasks by combining AI with AR/VR technologies.
+
+I am a recipient of the DARPA Young Faculty Award. Prior to joining Northeastern, I was a postdoctoral scholar in the EECS department at UC Berkeley. I obtained my PhD from the ECE department at the Johns Hopkins University (JHU) and received two Masters degrees, one in EE from Sharif University of Technology in Iran and another in Applied Mathematics and Statistics from JHU.
+
+
+News & Notes
+
+
+6 papers are accepted to CVPR 2024.
+
+Co-organizing the CVPR'24 Workshop on Learning from Procedural Videos and Language.
+
+I will be teaching Seminar in AI (CS7170) in the Fall 2024, which will focus on Deep Generative Modeling.
+
+Serving as the Associate Editor of the IEEE Transactions PAMI.
+
+Dr. Elhamifar's team has received a $3M Award from DARPA to develop intelligent AI-AR task assistants. Read more here.
+
+Prospective Students: I look for strong PhD students who are excited about computer vision and machine learning. If you are interested in joining my Lab, please send an email with the subject “PhD Application to Northeastern” and attach your CV.
+
+
+
+
+Research
+
+Learning Procedural Activities from Videos and Multimodal Data
+
+       
+
+
+Many human activities (e.g., cooking recipes, assembling and repairing devices, surgeries) are procedural. Such activities consists of multiple steps that need to be performed in certain ways to achieves the desired outcomes. We develop recognition, segmentation and anticipation methods to understand and learn procedural tasks using videos and multimodal data. We use these methods to develop virtual (e.g., AR/VR) assistants that guide users with different skill levels through tasks.
+
+	
+In-the-Wild Video Understanding
+
+       
+
+
+
+Real-world videos are often long and untrimmed and consists of many actions with long-range temporal dependencies. We develop activity understanding methods in such in-the-wild videos. We design architectures that capture long-range temporal dependencies of actions, run efficiently on very long videos, and handle large appearance and motion variations of actions across videos. We develop video understanding techniques that learn from different supervision levels and small amount of training or annotated videos.
+
+
+
+Low-Shot, Weakly-Supervised and Self-Supervised Learning
+
+   
+
+While deep neural networks (DNNs) have become the state of the art for many tasks, in principle, they require a large number of annotated training samples to work well. This is particularly a bottleneck in tasks where there are not many annotated training samples available or labeling is laborious or costly. We develop methods to efficiently learn DNNs and data representations for a variety of tasks using minimum supervision and/or training data. We investigate zero- and few-shot, weakly- and self-supervised methods using new sequence alignment, deep attention models and multi-modal learning methods.
+
+	
+Human-Object Interaction (HOI) and Fine-Grained Recognition
+
+   
+
+Some recognition problems require distinguishing classes that are visually very similar (fine-grained recognition) or classes that are described as composition of different entities such as a verb/action performed on an object (HOI recognition). High visual similarities in the case of fine-grained recognition as well as the large number of possible HOIs and lack of sufficient data for many HOIs make recognition very challenging. We investigate and develop methods for fine-grained and HOI recognition that address these challenges effectively by designing new architectures and efficient training methods.
+
+
+
+Adversarial Attacks and Defenses
+
+   
+
+Despite achieving high performance across many tasks, deep neural networks (DNNs) are vulnerable to adversarial attacks, which are imperceptible perturbations of input data that lead to drastically different predictions. We study vulnerabilities of DNNs for important yet less studied tasks such as fine-grained recognition and multi-label learning. We develop efficient and generalizable attacks and subsequently investigate making DNNs robust to these attacks by designing effective defense mechanisms.
+
+	
+Structured Summarization of Large Data
+
+   
+
+We are constantly capturing data using various sensors. Not all such data provide useful actionable information for learning and decision making. We design robust and scalable data summarization methods that handle structured dependencies in massive and complex data, adapt to tasks and require minimum/no supervision. We combine efficient and scalable optimization and deep learning to develop algorithms, analyze their performance and apply them to real-world tasks such as summarization of long videos.
+
+ 
+ 
+
+
+
