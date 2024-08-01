@@ -46,16 +46,6 @@ Feel free to contribute by adding more professors, updating the data collection 
 Free use, no license. 
 
 
-@misc{dong2024professor,
-  author       = {Z. Dong},
-  title        = {Professor Matching Tool},
-  year         = {2024},
-  howpublished = {\url{https://github.com/your-username/your-repository-name}},
-  note         = {Accessed: [date accessed]}
-}
-
-
-
 Here's a BibTeX citation if you need:
 
 ```bibtex
