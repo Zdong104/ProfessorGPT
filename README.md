@@ -61,9 +61,9 @@ Here's a BibTeX citation if you need:
 ```bibtex
 @misc{dong2024professor,
   author       = {Z. Dong},
-  title        = {Professor Matching Tool},
+  title        = {ProfessoraGPT},
   year         = {2024},
-  howpublished = {\url{https://github.com/your-username/your-repository-name}},
+  howpublished = {\url{https://github.com/Zdong104/ProfessorGPT}},
   note         = {Accessed: [date accessed]}
 }
 ```
