@@ -4,7 +4,7 @@ This repository provides a tool to help you select a suitable professor for your
 
 ## Overview
 
-The tool leverages a RAG (Retrieval-Augmented Generation) approach to compare and match your preferences with professors. The repository includes scripts to help you gather and analyze professor data, focusing on artificial intelligence (AI) professors listed on [CSRankings](https://csrankings.org/#/index?all&us).
+The tool leverages a RAG (Retrieval-Augmented Generation) approach to compare and match your preferences with professors. The repository includes scripts to help you gather and analyze professor data, focusing on artificial intelligence (AI) professors listed on [CSRankings](https://csrankings.org/#/index?all&us](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&us).
 
 ## Features
 
